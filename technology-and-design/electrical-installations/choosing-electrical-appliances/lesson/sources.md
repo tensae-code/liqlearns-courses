@@ -1,15 +1,20 @@
 # Sources — Choosing electrical appliances
 
-countries: Kazakhstan
+countries: Kazakhstan, Vietnam
 
 **Book 1:** Artistic Labour Grade 8, boys' variant (Chukalin; Kazakh + Russian parallel) — Title as printed: Художественный труд, учебник для 8 класса (вариант для мальчиков) (Chukalin V.G., Yakovlev, Tanbaev, Ermilova, Velker, Losenko) Publisher: Келешек-2030, 2018; ISBN 978-601-317-347-4 (KZ) / 978-601-317-341-2 (RU). Grade 8. Languages: Russian (356.pdf, read) + Kazakh (322.pdf, parallel — placed once here). Pages: 80 PDF pp. (356.pdf fetched by me via the record's okulyk.kz source_url, 8,019,361 bytes; page count matches the record) — contents (printed p. 4) viewed by me. Art content (mosaic as art, §§1–6): the Art wave placed it (its Book 27) — the mosaic TECHNIQUE is placed below as technology. OUT per brief, named in header: safety/hygiene (printed p. 68) apparatus; glossary (printed p. 72) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+**Book 2:** *Công nghệ 6* (student book) — Vietnam, Full title: Công nghệ 6 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2021, 5th reprint (Tái bản lần thứ năm); ISBN 978-604-0-25146-6. Grade 6. Language: Vietnamese. 78 PDF pages (printed pp. 2–75 + covers). Source: repo release asset `mid-size-books/grade-06-gov-vietnam-technology-student-full-year.pdf`, 13,593,966 bytes (matches books.json). Kind: student book. COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Choosing electrical goods — choice and evaluation of electrical goods and household техника (§20) (original string `Choosing electrical goods`) | Kazakhstan, *KZ G8 Chukalin (boys)*, printed p. 62 |
+| choosing electrical appliances: match the specifications and features to the family's needs, prefer energy-saving models carrying the energy label (the Vietnamese energy label certifies and compares appliances' electricity saving), choose reputable brands and shops, a price fitting the family's finances, and environmentally friendly appliances (solar, wind) (original string `choosing electrical appliances`) | Vietnam, *Công nghệ 6*, printed p. 57 |
 
-**Acceptance count: taught in 1 country (Kazakhstan).**
+**Acceptance count: taught in 2 countries (Kazakhstan, Vietnam).**
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training), where making is learned by making — Choice and evaluation of electrical goods and household техника (§20). The Kazakh classroom's own examples, materials and national crafts named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: choosing electrical appliances, electrical installations and the home, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Choosing electrical appliances. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: choosing electrical appliances, electrical installations and the home, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу, Vietnam

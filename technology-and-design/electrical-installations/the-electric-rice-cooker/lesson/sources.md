@@ -1,0 +1,17 @@
+# Sources — The electric rice cooker
+
+countries: Vietnam
+
+**Book 1:** *Công nghệ 6* (student book) — Vietnam, Full title: Công nghệ 6 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2021, 5th reprint (Tái bản lần thứ năm); ISBN 978-604-0-25146-6. Grade 6. Language: Vietnamese. 78 PDF pages (printed pp. 2–75 + covers). Source: repo release asset `mid-size-books/grade-06-gov-vietnam-technology-student-full-year.pdf`, 13,593,966 bytes (matches books.json). Kind: student book. COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the electric rice cooker: structure and the function of each part — lid (seals in and keeps heat; its steam vent adjusts the pressure inside), body (seals in, keeps heat, holds the other parts; the cooking pot sits inside), inner pot (cylindrical, non-stick coating inside), heating part (a disc-shaped heating plate, usually at the bottom of the body, supplying heat to the pot), and control part (on the body's outer surface: switch on/off, choose cooking mode, show the cooker's state) (original string `the electric rice cooker`) | Vietnam, *Công nghệ 6*, printed p. 64 |
+| how the rice cooker works, as a block diagram (power source → control part → heating part → cooking pot) with its two modes: at the start of cooking the control part supplies power and the cooker works in cook mode; when the rice is done, the control part reduces the heating part's temperature and the cooker switches to keep-warm mode (original string `how the rice cooker works, as a block diagram (power source → control part → heating part → cooking pot) with its two modes`) | Vietnam, *Công nghệ 6*, printed p. 65 |
+| choosing and using a rice cooker: the capacity guide (0.6 L for 1–2 people up to 2–2.5 L for 6–8 people, by standard rice cups); cooking — prepare (wash rice, adjust water, wipe the pot's outside dry, check and clean the heating plate, set the pot in snugly and close the lid) then plug in and switch to cook mode, and when the light changes to keep-warm, unplug before serving; safety notes (dry cool place, hands and objects off the steam vent, do not open the lid while cooking, no hard or sharp tools on the non-stick coating, never cook more than the rated amount) (original string `choosing and using a rice cooker`) | Vietnam, *Công nghệ 6*, printed p. 66 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — The electric rice cooker. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: the electric rice cooker, electrical installations and the home, Vietnam, Công nghệ 6, visual read

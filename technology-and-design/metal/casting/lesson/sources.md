@@ -1,12 +1,15 @@
 # Sources — Casting
 
-countries: Sri Lanka, Greece
+countries: Sri Lanka, Greece, Vietnam
 
 **Book 1:** Full title: Grade 11 Design and Technology — Tamil medium, 2007 edition. Publisher: Educational Publications Department (EPD), Sri Lanka. Grade: 11 (O/L). Language: Tamil (scanned-image PDF, Noolaham digitization, no text layer). Pages: 260 PDF pages (printed pp. 1–248 + front matter). Kind: student textbook. Source: release asset `mid-size-books-5/grade-11-gov-sri-lanka-design-and-technology-textbook-full-year.pdf` — the grab.py release route failed 6× (proxy RemoteDisconnected), so the file was read from the staging record's own source_url (Noolaham no. 80789, https://noolaham.net/project/808/80789/80789.pdf); byte size 38,898,053 and page count 260 match the record exactly. Cover verified visually (title, Grade 11, photo collage of structures/tools/workshop). The book is already secured in GitHub, so delete-after-read applies. Read method: full contents, every unit opening verified visually (Units 1–8), plus Unit 1's second page. COMPLETE (placement-complete). Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
+
+**Book 4:** *Công nghệ 11 — Công nghệ cơ khí* (student book) — Vietnam, Full title: Công nghệ 11 — Công nghệ cơ khí (Kết nối tri thức với cuộc sống series). Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. ©2023, 3rd reprint (Tái bản lần thứ ba); ISBN 978-604-0-35048-0; price 18,700đ. Editor-in-chief Lê Huy Hoàng. Grade 11, Vietnamese, student book, 143 PDF pages (printed pp. 2–139; printed = PDF − 1). Source: private repo tensae-code/liqlearns-textbooks, release asset mid-size-books-2 (grade-11-gov-vietnam-technology-student-mechanical.pdf), 26,286,654 bytes — matches record. PDF assembled from the publisher's own page images; image-only, read visually page by page. Status: COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Cast objects in daily life (brass oil lamp, statue, pot, door hinge) and cast iron as a casting metal (original string `simple casting processes: cast objects in daily life (brass oil lamp, statue, pot, door hinge) and cast iron as a casting metal`) | Sri Lanka, *Grade 11 Design and Technology*, printed p. 55 |
+| casting: pouring liquid material into a mould and letting it solidify — the sand-casting process diagram for cast iron (prepare the pattern and moulding material, make the mould, assemble the casting mould; prepare and melt the charge, pour), the size range from grams to hundreds of tonnes, and investment (lost-wax) casting noted (original string `casting`) | Vietnam, *Công nghệ 11 — Công nghệ cơ khí*, printed p. 40 |
 
 **Book 2:** *Μηχανουργική Τεχνολογία ΙΙ (Κατεργασίες Διαμόρφωσης) (Michanourgiki Technologia II — Mechanical Technology II: Forming Processes & Materials, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0047-03-V1. Grade: G' EPAL (Grade 12), Mechanical sector, specialty Technician of Mechanical Installations & Constructions. Kind: student book. Pages: 462 PDF pp. = 462 pp. per record. Size verified: 10,184,847 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 19 workshop health & safety, printed p. 425–438; bibliography p. 439). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
 
@@ -20,10 +23,12 @@ countries: Sri Lanka, Greece
 |---|---|
 | casting methods classified, safety, visiting a foundry (original string `Casting`) | Greece, *Mechanical Constructions*, printed p. 351 |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Greece).**
+**Acceptance count: taught in 3 countries (Sri Lanka, Greece, Vietnam).**
 
 Sri Lanka's own way: Sri Lanka teaches this topic inside its Tamil-medium Technology stream textbooks (Educational Publications Department), read here by a visual-read method from the scanned-image PDFs, as filed in the book entries above. The topic's own Sri Lankan framing — cast objects in daily life (brass oil lamp, statue, pot, door hinge) and cast iron as a casting metal — is carried in this lesson exactly as the book teaches it.
 
 Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — patterns and foundry terms, casting methods and problems, expendable-mould and permanent-mould casting; casting methods classified, safety, visiting a foundry. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: casting, Sri Lanka, Tamil medium, Educational Publications Department, metal, Greece
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Casting. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: casting, Sri Lanka, Tamil medium, Educational Publications Department, metal, Greece, Vietnam

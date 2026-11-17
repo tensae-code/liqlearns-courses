@@ -1,0 +1,15 @@
+# Sources — Threaded parts and the role of the thread
+
+countries: Vietnam
+
+**Book 1:** *Công nghệ 10 — Thiết kế và công nghệ* (student book) — Vietnam, Full title: Công nghệ 10 — Thiết kế và công nghệ — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2022, 4th reprint (Tái bản lần thứ tư); ISBN 978-604-0-31079-8. Grade 10. Language: Vietnamese. 138 PDF pages (printed pp. 2–137 + covers). Source: repo release asset `mid-size-books-2/grade-10-gov-vietnam-technology-student-design-and-technology.pdf`, 24,357,764 bytes (matches books.json). Kind: student book. COMPLETE. Named in header, not placed: the three chapter summaries (Tổng kết Chương I–III), pp. 43, 99, 134; glossary of terms, pp. 135–136 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| threaded parts and the role of the thread: threaded parts are used very widely in machines, equipment and life (light bulb, lamp holder, wood screw, nut, bolt, ink-bottle cap…); a thread joins machine parts together and can also transmit motion (the vice (ê tô) and the jack (kích) — turning the handle moves the jaw or lifts the load); the external thread (ren ngoài / ren trục) is formed on the outside surface of a part, the internal thread (ren trong / ren lỗ) on the inside surface (original string `threaded parts and the role of the thread`) | Vietnam, *Công nghệ 10 — Thiết kế và công nghệ*, printed p. 75 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Threaded parts and the role of the thread. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: threaded parts and the role of the thread, technical drawing, Vietnam, Công nghệ 10 — Thiết kế và công nghệ, visual read

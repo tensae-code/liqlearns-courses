@@ -1,0 +1,18 @@
+# Sources — How smart-home systems work
+
+countries: Vietnam
+
+**Book 1:** *Công nghệ 6* (student book) — Vietnam, Full title: Công nghệ 6 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2021, 5th reprint (Tái bản lần thứ năm); ISBN 978-604-0-25146-6. Grade 6. Language: Vietnamese. 78 PDF pages (printed pp. 2–75 + covers). Source: repo release asset `mid-size-books/grade-06-gov-vietnam-technology-student-full-year.pdf`, 13,593,966 bytes (matches books.json). Kind: student book. COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+**Book 2:** *Công nghệ 10 — Chuyên đề học tập: Thiết kế và công nghệ* (student book) — Vietnam, Full title: Chuyên đề học tập Công nghệ 10 — Thiết kế và công nghệ (Kết nối tri thức với cuộc sống series). Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. ©2022, 4th reprint (Tái bản lần thứ tư); ISBN 978-604-0-31080-4; price 10,000đ. Editors-in-chief Lê Huy Hoàng, Nguyễn Quốc Cường, Phạm Văn Sơn. Grade 10, Vietnamese, student book (study-topics volume), 62 PDF pages (printed pp. 2–59; printed = PDF − 1). Source: private repo tensae-code/liqlearns-textbooks, release asset mid-size-books-2 (grade-10-gov-vietnam-technology-student-study-topics-design-and-technology.pdf), 11,000,719 bytes — matches record. PDF assembled from the publisher's own page images; image-only, read visually page by page. Status: COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how smart-home systems work: the operating principle "receive the command → process → execute" — the command (message, voice, remote control) is received by the device, passed to the processing unit, and the processed signal goes to the actuators that control the home's devices (doors, curtains, electrical appliances) (original string `how smart-home systems work`) | Vietnam, *Công nghệ 6*, printed p. 17 |
+| the IoT-based smart home: the IoT model (Things, Gateway, cloud platform, end-user devices), the control-system block diagram built on it, how it works, AI voice control, and the Wi-Fi/Bluetooth wireless links (original string `the IoT-based smart home`) | Vietnam, *Công nghệ 10 — Chuyên đề học tập: Thiết kế và công nghệ*, printed p. 30 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — How smart-home systems work. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: how smart-home systems work, electrical installations and the home, Vietnam, Công nghệ 6, visual read

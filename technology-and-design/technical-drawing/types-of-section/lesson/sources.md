@@ -1,6 +1,6 @@
 # Sources — Types of section — choosing and drawing the right cut
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia
+countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia, Vietnam
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -9,6 +9,8 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia
 **Book 3:** *Year 12 Technical Drawing Textbook* (student) — Fiji, Ministry of Education, Heritage and Arts, Fiji (syllabus trialled 2016) — issued free to schools. Year: 2016 trial. Grade: Year 12. Language: English. Pages: 111. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-12/gov/fiji/technical-drawing/student/full-year.pdf`), 9,131,326 bytes, cover verified. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
 
 **Book 4:** *Year 13 Technical Drawing Textbook* (student) — Fiji, Ministry of Education, Heritage and Arts, Fiji. Title: Year 13 Technical Drawing Textbook (First Edition; syllabus trialled 2018). Year: 2018. Grade: Year 13. Language: English. Pages: 104. Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-13/gov/fiji/technical-drawing/student/full-year.pdf`), 7,798,125 bytes, cover verified. Kind: student. Read: COMPLETE. Bibliography (printed p. 103) is inventory-only. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 7:** *Công nghệ 10 — Thiết kế và công nghệ* (student book) — Vietnam, Full title: Công nghệ 10 — Thiết kế và công nghệ — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2022, 4th reprint (Tái bản lần thứ tư); ISBN 978-604-0-31079-8. Grade 10. Language: Vietnamese. 138 PDF pages (printed pp. 2–137 + covers). Source: repo release asset `mid-size-books-2/grade-10-gov-vietnam-technology-student-design-and-technology.pdf`, 24,357,764 bytes (matches books.json). Kind: student book. COMPLETE. Named in header, not placed: the three chapter summaries (Tổng kết Chương I–III), pp. 43, 99, 134; glossary of terms, pp. 135–136 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,6 +21,7 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia
 | Combining a view and a section in one image: joining part of a view to part of a section, and the half-view/half-section of a symmetric part | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 147 |
 | Strand 3 Applied Drawing: engineering drawing — sections (full section, cutting-plane lines) (original string `technical-drawing/types-of-section`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 64-67 |
 | Ch. 3: engineering drawing — the offset section view (original string `technical-drawing/types-of-section`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 60-61 |
+| classifying sectional views and sections: by the object's structure, the sectional views are — the full sectional view (hình cắt toàn bộ), using one cutting plane to cut the whole object; the half sectional view (hình cắt bán phần / một nửa), one half a view and the other symmetrical half a sectional view, used when the object is symmetrical; and the local sectional view (hình cắt cục bộ), representing only part of the object as a sectional view, joined to the view of the remaining part by a thin freehand wavy line; sections are of two kinds — the removed section (mặt cắt rời), drawn outside the view, and the superimposed section (mặt cắt chập), drawn right on the view, the removed section being the more complex of the two (original string `technical-drawing/types-of-section`) | Vietnam, *Công nghệ 10 — Thiết kế và công nghệ*, printed p. 60 |
 
 **Book 5:** *Educación Laboral — 9no grado* (student book) — Title: Educación Laboral — noveno grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2025, Perfeccionamiento; ISBN 978-959-13-4933-0 print, 978-959-13-5006-0 digital) | Authors: Ordóñez Suárez et al. | Grade: 9 | Language: Spanish | Pages: 386 PDF pp (printed 1–375) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-09/gov/cuba/educacion-laboral/student/full-year.pdf`), 43,931,247 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 371–375) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -32,7 +35,7 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia
 |---|---|
 | Choosing the section: full sections and half sections by the cutting plane's position, with correct and incorrect section drawings compared (original string `technical-drawing/types-of-section`) | Mongolia, *Design Technology 9 (Mongolia)*, printed p. 9 |
 
-**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Mongolia) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 5 countries (Belarus, Cuba, Fiji, Mongolia, Vietnam) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) — cuts and sections as the first topic of the technical-drawing chapter.
 
@@ -46,4 +49,6 @@ Belarus's own way: Belarus teaches разрэзы (sectional views) as the step 
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Choosing the section: full sections and half sections by the cutting plane's position, with correct and incorrect section drawings compared. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji, Cuba, Educación Laboral, Mongolia, visual read
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Types of section — choosing and drawing the right cut. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji, Cuba, Educación Laboral, Mongolia, visual read, Vietnam

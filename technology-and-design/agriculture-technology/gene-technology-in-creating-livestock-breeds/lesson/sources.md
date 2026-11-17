@@ -1,0 +1,15 @@
+# Sources — Gene technology in creating livestock breeds
+
+countries: Vietnam
+
+**Book 1:** *Công nghệ 11 — Chuyên đề học tập: Công nghệ chăn nuôi* (student book) — Vietnam, Full title: Chuyên đề học tập Công nghệ 11 — Công nghệ chăn nuôi (Kết nối tri thức với cuộc sống series). Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. ©2023, 3rd reprint (Tái bản lần thứ ba); ISBN 978-604-0-35051-0; price 10,000đ. Editor-in-chief Lê Huy Hoàng. Grade 11, Vietnamese, student book (study-topics volume), 67 PDF pages (printed pp. 2–63; printed = PDF − 1). Source: private repo tensae-code/liqlearns-textbooks, release asset mid-size-books-2 (grade-11-gov-vietnam-technology-student-study-topics-livestock.pdf), 13,607,741 bytes — matches record. PDF assembled from the publisher's own page images; image-only, read visually page by page. Status: COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| gene technology in creating livestock breeds: what a transgenic animal is (its DNA structure changed by transferring genes from another organism — to give wanted product traits, make disease models for medicine, study gene function, or produce transplant organs), and the gene-transfer technique in four steps (select and obtain the gene to transfer and prepare the recipient cell; introduce the gene into the recipient cell — egg, embryo — by a suitable technique; put the transferred egg or embryo into a female to carry the pregnancy; select the offspring carrying the transferred gene), worked through in the scheme for transferring the alpha-1-antitrypsin gene into sheep (fertilised egg, pronucleus, microinjection of foreign DNA with a holding pipette, transfer into a surrogate ewe, DNA analysis of the lambs) (original string `gene technology in creating livestock breeds`) | Vietnam, *Công nghệ 11 — Chuyên đề học tập: Công nghệ chăn nuôi*, printed p. 12 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Gene technology in creating livestock breeds. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: gene technology in creating livestock breeds, agriculture technology, Vietnam, Công nghệ 11 — Chuyên đề học tập: Công nghệ chăn nuôi, visual read

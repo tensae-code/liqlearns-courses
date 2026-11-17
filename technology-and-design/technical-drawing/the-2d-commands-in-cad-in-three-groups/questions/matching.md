@@ -1,0 +1,11 @@
+# The 2D commands in CAD, in three groups — matching
+
+Match each item on the left with the one on the right.
+
+**1. (Sub lesson 1)** Sub lesson 1 — The 2D commands in CAD, in three groups
+
+**2. (Sub lesson 2)** Sub lesson 2 — The 2D commands in CAD, in three groups — doing it yourself
+
+**3. (Sub lesson 1)** Vietnam — Công nghệ 10 — Thiết kế và công nghệ
+
+**Answer key:** Sub lesson 1 → The 2D commands in CAD, in three groups; Sub lesson 2 → The 2D commands in CAD, in three groups — doing it yourself; Vietnam → Công nghệ 10 — Thiết kế và công nghệ

@@ -1,12 +1,15 @@
 # Sources — Turning and the lathe
 
-countries: Moldova, Greece
+countries: Moldova, Greece, Vietnam
 
 **Book 1:** *Educație tehnologică — Manual pentru clasa a IX-a (Technological Education — Textbook for Grade 9)* (student textbook) — Moldova, Authors: Ana Tverdohleb, Ion Șaragov, Lilia Platon, Veronica Loghinova, Inga Mațcan-Lîsenco, Angela Tocarciuc, Angela Ghelbet, Sergiu Tronciu, Daniela Holban, Vasile Plămădeală, Elena Bivol. Publisher: Editura Epigraf, 2024 (printed by Editura Universul); Ministry of Education and Research of the Republic of Moldova; written to the discipline curriculum approved by Order no. 1124 of 20 July 2018 and approved by Order no. 683 of 15 May 2024; ISBN 978-9975-60-553-3. Grade: Grade 9. Language: Romanian. Pages: 256 (PDF; printed p. = PDF p.), verified byte size 25,890,552 = record size. Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route — grade-09/gov/moldova/technological-education/student/moldova-g09-technological-education.pdf. Kind: student textbook. Read: COMPLETE (whole book's parts read at their teaching pages; every part's project cycle checked). The book is built as eleven parts, each run as a project: design (elaborare/proiectare) → make (realizare) → evaluate and valorise (evaluare și valorificare). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
+
+**Book 3:** *Công nghệ 11 — Công nghệ cơ khí* (student book) — Vietnam, Full title: Công nghệ 11 — Công nghệ cơ khí (Kết nối tri thức với cuộc sống series). Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. ©2023, 3rd reprint (Tái bản lần thứ ba); ISBN 978-604-0-35048-0; price 18,700đ. Editor-in-chief Lê Huy Hoàng. Grade 11, Vietnamese, student book, 143 PDF pages (printed pp. 2–139; printed = PDF − 1). Source: private repo tensae-code/liqlearns-textbooks, release asset mid-size-books-2 (grade-11-gov-vietnam-technology-student-mechanical.pdf), 26,286,654 bytes — matches record. PDF assembled from the publisher's own page images; image-only, read visually page by page. Status: COMPLETE. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lathe safety rules (start only with the teacher's permission, check guards and fixings, cover the head, fasten the overall, protect the eyes, fix workpiece and tool securely); cutting threads — externally with dies (filiere), internally with taps (tarozi), and on the threading lathe with special threading tools (original string `working on the lathe: safety and threading`) | Moldova, *Educație tehnologică — Manual pentru clasa a IX-a (Grade 9)*, printed p. 38 |
+| turning: cutting by combining the workpiece's rotation with the tool's feed — the universal lathe's main parts labelled (headstock, chuck, tool post, tailstock, bed), the three feeds (cross Sng, longitudinal Sd, and the combined diagonal feed Sch = √(Sng² + Sd²)), and what a lathe can make (outside and inside cylindrical surfaces, end faces, cones, shaped surfaces, threads, and non-metals too) (original string `turning`) | Vietnam, *Công nghệ 11 — Công nghệ cơ khí*, printed p. 43 |
 
 **Book 2:** *Μηχανουργική Τεχνολογία Ι (Κατεργασίες Κοπής) (Michanourgiki Technologia I — Mechanical Technology I: Cutting Processes, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0046-02-V1. Grade: G' EPAL (Grade 12), Mechanical sector, specialty Technician of Mechanical Installations & Constructions. Kind: student book. Pages: 442 PDF pp. = 442 pp. per record. Size verified: 13,398,891 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 11 NC/CNC, printed p. 377–418; bibliography p. 419). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
 
@@ -14,10 +17,12 @@ countries: Moldova, Greece
 |---|---|
 | lathe safety, structure, tool and workpiece holding, lathe tools, cutting data, taper turning, thread cutting on the lathe, special lathe work, turret lathes (original string `Turning and the lathe`) | Greece, *Mech Tech I (Cutting)*, printed p. 85 |
 
-**Acceptance count: taught in 2 countries (Moldova, Greece).**
+**Acceptance count: taught in 3 countries (Moldova, Greece, Vietnam).**
 
 Moldova's own way: Moldova teaches the lathe in Grade 9 safety-first — six stated rules before any start — with threading as the taught work: dies (filiere), taps (tarozi) and the threading lathe's special tools.
 
 Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — lathe safety, structure, tool and workpiece holding, lathe tools, cutting data, taper turning, thread cutting on the lathe, special lathe work, turret lathes. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: lathe, turning, threading, dies, filiere, taps, tarozi, safety rules, Moldova, Grade 9, Romanian, Greece
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Turning and the lathe. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: lathe, turning, threading, dies, filiere, taps, tarozi, safety rules, Moldova, Grade 9, Romanian, Greece, Vietnam

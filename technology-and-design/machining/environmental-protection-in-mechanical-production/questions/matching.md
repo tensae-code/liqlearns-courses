@@ -1,0 +1,11 @@
+# Environmental protection in mechanical production — matching
+
+Match each item on the left with the one on the right.
+
+**1. (Sub lesson 1)** Sub lesson 1 — Environmental protection in mechanical production
+
+**2. (Sub lesson 2)** Sub lesson 2 — Environmental protection in mechanical production — doing it yourself
+
+**3. (Sub lesson 1)** Vietnam — Công nghệ 11 — Công nghệ cơ khí
+
+**Answer key:** Sub lesson 1 → Environmental protection in mechanical production; Sub lesson 2 → Environmental protection in mechanical production — doing it yourself; Vietnam → Công nghệ 11 — Công nghệ cơ khí

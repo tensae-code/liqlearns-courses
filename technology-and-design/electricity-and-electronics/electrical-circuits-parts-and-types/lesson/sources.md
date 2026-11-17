@@ -1,6 +1,6 @@
 # Sources — Electrical circuits — parts and types
 
-countries: Cuba, Papua New Guinea
+countries: Cuba, Papua New Guinea, Vietnam
 
 **Book 1:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -10,12 +10,15 @@ countries: Cuba, Papua New Guinea
 
 **Book 4:** *Educación Laboral — 8vo grado* (student book) — Title: Educación Laboral — octavo grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2024, Tercer Perfeccionamiento; ISBN 978-959-13-4768-8 print, 978-959-13-4769-5 digital) | Authors: López Cordoví, Ordóñez Suárez, et al. | Grade: 8 | Language: Spanish | Pages: 235 PDF pp (printed 1–227 + front matter) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-08/gov/cuba/educacion-laboral/student/full-year.pdf`), 22,790,125 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 219–224) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
+**Book 6:** *Công nghệ 8* (student book) — Vietnam, Full title: Công nghệ 8 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2023, 3rd reprint (Tái bản lần thứ ba); ISBN 978-604-0-35036-7. Grade 8. Language: Vietnamese. 108 PDF pages (printed pp. 2–107 + covers). Source: repo release asset `mid-size-books/grade-08-gov-vietnam-technology-student-full-year.pdf`, 17,728,283 bytes (matches books.json). Kind: student book. COMPLETE. Named in header, not placed: the five chapter revision lessons (Ôn tập Chương I–V), pp. 32, 58, 70, 91, 106; glossary, p. 107 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 (original string `electrical circuits`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 21-24 |
 | Unit 3 Electricidad guidance (original string `electrical circuits`) (teacher guide (methodological orientations) — evidence) | Cuba, *Orientaciones metodológicas: Educación Laboral — 8vo grado*, printed p. 112-122 |
 | Cap. 4 (original string `electrical circuits`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 95-103 |
 | Cap. 3 §§3.6–3.8 (original string `electrical circuits`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 173-199 |
+| electrical circuits, overview: a circuit is a set of elements — power source; load; switching, control and protection devices — joined by conductors to perform a definite function; the block structure (power source → transmission, switching, control and protection → load) and each part's role: the source supplies electrical energy (cells, accumulators, the grid); transmission/switching/control/protection conveys the energy, switches the source, controls and protects the circuit against overload and short circuit (conductors, switches, fuses, circuit breakers); the load consumes electrical energy (lamps, electric fans) (original string `electrical circuits, overview`) | Vietnam, *Công nghệ 8*, printed p. 72 |
 
 **Book 5:** Full title: Technology and Industrial Arts — Construction Technology, Junior High Grade 9 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea (Curriculum Development Division), 2023, ISBN 978-9980-921-12-3 | Grade: 9 | Language: English | Pages: 428 PDF pp. (printed to p. 421; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-09-gov-papua-new-guinea-construction-technology-teacher-grade-9-construction-technology-teachers-guide.pdf` via grab.py url, 22,255,891 bytes (exact match to books.json record), cover verified (blue TIA cover, bird-of-paradise emblem) | Kind: teacher guide | COMPLETE — teaching runs Unit 1 printed p. 48 to Unit 5, then planning/assessment apparatus, five trade glossaries (inventory only, not placed), references and project appendices to printed p. 421. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
 
@@ -23,10 +26,12 @@ countries: Cuba, Papua New Guinea
 |---|---|
 | Unit 2 Topic 6 lessons: Types of Circuits; Parts of each circuit; Operations of a practical circuit (teacher guide — evidence) (original string `electric circuits`) | Papua New Guinea, *PNG G9 Construction*, printed p. 101 |
 
-**Acceptance count: taught in 1 country (Cuba)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere. Papua New Guinea's rows are teacher-guide evidence only, named here, counted nowhere.
+**Acceptance count: taught in 2 countries (Cuba, Vietnam)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere. Papua New Guinea's rows are teacher-guide evidence only, named here, counted nowhere.
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Types of Circuits; Parts of each circuit; Operations of a practical circuit. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches series and parallel with norm symbols and lands them in the devices of the Cuban home — induction cooker, microwave, energy-saving and LED lamps — plus the electric bell installation.
 
-Searchable tags: electrical circuits — parts and types, Cuba, Educación Laboral, MINED, Spanish, electricity and electronics, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Electrical circuits — parts and types. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: electrical circuits — parts and types, Cuba, Educación Laboral, MINED, Spanish, electricity and electronics, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Vietnam

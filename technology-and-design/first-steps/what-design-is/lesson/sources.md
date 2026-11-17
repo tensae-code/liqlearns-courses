@@ -1,12 +1,15 @@
 # Sources — What design is
 
-countries: Malaysia, Kazakhstan, Mongolia
+countries: Malaysia, Kazakhstan, Mongolia, Vietnam
 
 **Book 1:** *Reka Bentuk dan Teknologi Tahun 4 (KSSR Semakan 2017), Sekolah Kebangsaan* (student book) — Malaysia, Publisher: Kementerian Pendidikan Malaysia / Dewan Bahasa dan Pustaka (first printing 2019, ISBN 978-983-49-2477-3 per imprint page). Grade: grade-04 (Tahun 4). Language: Malay. Pages: 54 PDF pp. (mostly two-page spreads; printed book runs to printed p. 98). Size verified: 49,124,292 bytes, exact match to the release asset in `mid-size-books-2`. Kind: student book. Route: grab.py url (release asset). Cover verified: "REKA BENTUK DAN TEKNOLOGI TAHUN 4 — SEKOLAH KEBANGSAAN", KSSR Semakan 2017 badge. COMPLETE — read to the last teaching page (Unit 6 closing Uji Minda, printed p. 98). Placements at liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
+
+**Book 4:** *Công nghệ 5* (student book) — Vietnam, Full title: Công nghệ 5 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2024, 2nd reprint (Tái bản lần thứ hai); ISBN 978-604-0-39218-3. Grade 5. Language: Vietnamese. 55 PDF pages (printed pp. 2–51 + covers). Source: repo release asset `mid-size-books/grade-05-gov-vietnam-technology-student-full-year.pdf`, 8,577,976 bytes (matches books.json). Kind: student book. COMPLETE. Glossary, p. 51 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | What design (reka bentuk) is: the pattern/form of a product that is designed — design in clothing, glasses, cakes and everyday products; why design matters (original string `What design (reka bentuk) is`) | Malaysia, *RBT Tahun 4*, printed p. 14–17 |
+| what design is: a technology product must be designed before it is made; design is a creative process that creates a product meeting people's needs better; design is the first activity, before production, use/operation and maintenance/repair (original string `what design is`) | Vietnam, *Công nghệ 5*, printed p. 14 |
 
 **Book 2:** Artistic Labour Grade 5, boys' variant (Chukalin; Russian + Kazakh parallel) — Title as printed: Художественный труд, учебник для 5 класса (вариант для мальчиков) (Chukalin V.G. et al.) Publisher: Келешек-2030, Kokshetau, 2017. Grade 5. Languages: Russian (161.pdf, read) + Kazakh (761.pdf, parallel — placed once here). Pages: 96 PDF pp. (161.pdf fetched by me via the release route, 15,189,946 bytes, grab-verified) — page count verified by me. Art content (§§1–7 visual art): placed by the Art wave (its Book 10) — not re-placed here. §§1–7 are page-identical to Book 20's visual-art part. OUT per brief, named in header: food §21, home/electrical §§22–24 as filed by the Art wave are home-culture content EXCEPT the electrical-safety/appliance teaching, which is placed below as technology; plants §§25–26 not placed; safety appendix and glossary named only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
 
@@ -20,7 +23,7 @@ countries: Malaysia, Kazakhstan, Mongolia
 |---|---|
 | the kinds of design (decoration, architecture, web, graphic, clothing, print, industrial, transport) and the five stages of project work (original string `What design is`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Malaysia, Kazakhstan, Mongolia).**
+**Acceptance count: taught in 4 countries (Malaysia, Kazakhstan, Mongolia, Vietnam).**
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Design as artistic planning of the object world; the designer's four stages (research similar objects, sketch project with many variants, full-size mock-up, working project) under five principles (reliability, manufacturability…) (§13). The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
@@ -28,4 +31,6 @@ Malaysia's own way: Malaysia introduces reka bentuk in Tahun 4 through everyday 
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the kinds of design (decoration, architecture, web, graphic, clothing, print, industrial, transport) and the five stages of project work. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay, Kazakhstan, Artistic Labour, Labour Training, Mongolia, visual read
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — What design is. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay, Kazakhstan, Artistic Labour, Labour Training, Mongolia, visual read, Vietnam

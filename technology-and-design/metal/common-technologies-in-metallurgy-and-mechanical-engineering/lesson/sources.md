@@ -1,0 +1,15 @@
+# Sources — Common technologies in metallurgy and mechanical engineering, part 1
+
+countries: Vietnam
+
+**Book 1:** *Công nghệ 10 — Thiết kế và công nghệ* (student book) — Vietnam, Full title: Công nghệ 10 — Thiết kế và công nghệ — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2022, 4th reprint (Tái bản lần thứ tư); ISBN 978-604-0-31079-8. Grade 10. Language: Vietnamese. 138 PDF pages (printed pp. 2–137 + covers). Source: repo release asset `mid-size-books-2/grade-10-gov-vietnam-technology-student-design-and-technology.pdf`, 24,357,764 bytes (matches books.json). Kind: student book. COMPLETE. Named in header, not placed: the three chapter summaries (Tổng kết Chương I–III), pp. 43, 99, 134; glossary of terms, pp. 135–136 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| common technologies in metallurgy and mechanical engineering, part 1: metallurgy (luyện kim) — making metals and alloys for life and production from ores or other materials (the blast-furnace diagram for producing pig iron and steel); by product, ferrous metallurgy (iron, steel) and non-ferrous metallurgy (aluminium, copper, gold, zinc…); casting (đúc) — melting metal and pouring it into a mould of the product's shape and size, so the solidified casting has that shape and size; castings needing accuracy and surface finish become casting blanks (phôi đúc); casting makes complex parts (machine bodies, tool housings, engine blocks, cooking pots) and decorative and fine-art products; casting kinds — sand-mould casting, metal-mould casting, centrifugal casting, pressure casting, lost-foam (molten-pattern) casting — with the working of centrifugal and pressure casting shown (original string `common technologies in metallurgy and mechanical engineering, part 1`) | Vietnam, *Công nghệ 10 — Thiết kế và công nghệ*, printed p. 14 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Common technologies in metallurgy and mechanical engineering, part 1. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: common technologies in metallurgy and mechanical engineering, part 1, metal, Vietnam, Công nghệ 10 — Thiết kế và công nghệ, visual read

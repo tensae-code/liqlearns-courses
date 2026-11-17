@@ -1,15 +1,20 @@
 # Sources — Transmissions
 
-countries: Mongolia
+countries: Mongolia, Vietnam
 
 **Book 1:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+**Book 2:** *Công nghệ 8* (student book) — Vietnam, Full title: Công nghệ 8 — Kết nối tri thức với cuộc sống (KNTT). Publisher: NXB Giáo dục Việt Nam, for Bộ Giáo dục và Đào tạo. Year/edition: ©2023, 3rd reprint (Tái bản lần thứ ba); ISBN 978-604-0-35036-7. Grade 8. Language: Vietnamese. 108 PDF pages (printed pp. 2–107 + covers). Source: repo release asset `mid-size-books/grade-08-gov-vietnam-technology-student-full-year.pdf`, 17,728,283 bytes (matches books.json). Kind: student book. COMPLETE. Named in header, not placed: the five chapter revision lessons (Ôn tập Chương I–V), pp. 32, 58, 70, 91, 106; glossary, p. 107 — inventory only. Method note (as filed in the placements header): PDFs are image-only (assembled 2026-10 from the publisher's own page images on taphuan.nxbgd.vn), so books were read visually page by page from rendered pages. Printed page numbers are the books' own folio numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | gear, belt, chain, worm and friction drives compared, with their kinematic diagrams and where each is used (original string `Transmissions`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 131 |
+| practical: assembling transmission and transformation models and checking the ratio — measure pulley diameters with a caliper (mm) and count gear teeth; assemble the belt drive (fit driver pulley, tighten its locking screw, fit driven pulley, fit the belt), the gear drive (including the intermediate gear, meshed with the driver) and the crank-slider in given step orders; then check the ratio empirically — mark a point on the driven wheel, turn the driver one revolution and count the driven wheel's revolutions, comparing theoretical and actual ratios (original string `practical`) | Vietnam, *Công nghệ 8*, printed p. 41 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Acceptance count: taught in 2 countries (Mongolia, Vietnam).**
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — gear, belt, chain, worm and friction drives compared, with their kinematic diagrams and where each is used. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: transmissions, mechanisms and machines, Mongolia, Design Technology (Дизайн технологи), visual read
+Vietnam's own way: Vietnam teaches this inside its Vietnamese-language Công nghệ (Technology) student books — the Kết nối tri thức với cuộc sống (KNTT) series, NXB Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training (Bộ Giáo dục và Đào tạo) — Transmissions. The Vietnamese classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Vietnam's books are image-only PDFs read by a VISUAL-READ method (rendered pages read as images), as filed in the book entries above — no visual read is presented as a text read.
+
+Searchable tags: transmissions, mechanisms and machines, Mongolia, Design Technology (Дизайн технологи), visual read, Vietnam

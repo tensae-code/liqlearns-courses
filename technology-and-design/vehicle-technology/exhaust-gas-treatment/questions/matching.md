@@ -1,0 +1,11 @@
+# Exhaust-gas treatment — matching
+
+Match each item on the left with the one on the right.
+
+**1. (Sub lesson 1)** Sub lesson 1 — Exhaust-gas treatment
+
+**2. (Sub lesson 2)** Sub lesson 2 — Exhaust-gas treatment — doing it yourself
+
+**3. (Sub lesson 1)** Vietnam — Công nghệ 11 — Công nghệ cơ khí
+
+**Answer key:** Sub lesson 1 → Exhaust-gas treatment; Sub lesson 2 → Exhaust-gas treatment — doing it yourself; Vietnam → Công nghệ 11 — Công nghệ cơ khí
