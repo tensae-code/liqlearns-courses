@@ -1,6 +1,6 @@
 # Sources — Respecting Teachers
 
-countries: Kuwait, Vietnam, Laos
+countries: Kuwait, Vietnam, Laos, Pakistan
 
 **Book 3:** *Social Studies G7 Term 1* (student book, Arabic) — Title as printed: دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الأول (State of Kuwait and the Arab Homeland, Grade 7, Term 1). Grade: Grade 7 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-023-6. PDF pages: 106 (cover verified — Kuwait Towers cover, "Grade 7, First Term", Arab-world map inset; 55,926,452 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly). Earlier waves: Geography wave read this same book from the same Drive source and placed its Geography unit (printed pp. 21–32) plus the Dhafra sadu station (p. 95, into culture-and-work/secondary-activities-cottage-industries — ALREADY PLACED, not re-placed); History wave and Economics wave both filed it UNREAD (their GitHub routes failed) and placed nothing. LIBRARY DEBT confirmed and now evidenced first-hand in this wave: the books.json record claims in_pushed: true for grade-07/gov/kuwait/social-studies/student/term-1.pdf, but the file is absent from the GitHub tree and from every release — a phantom push; the book is held only via its recorded external Drive source. Verdict: COMPLETE. Contents map: Geography pp. 21–39; History pp. 40–85; Morals/Values pp. 92–100 ("Stations with Good Kuwait": generosity, Dhafra, respecting the teacher, Eid greetings). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -55,3 +55,20 @@ Laos's own way (Book 9): the subject opens in the first weeks of a child's schoo
 Registry note: the original coined string `culture-and-work/manners-toward-our-teachers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-teachers`.
 
 Searchable tags: respecting teachers, Laos, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4 (Pakistan):** *Ethics Class 4 SNC* (student book, Urdu) — Title as printed: اخلاقیات 4 — Ethics, Class 4 (جماعت چہارم). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition; no ISBN printed. PDF pages: 74 (printed pp. 1–70 + covers; 7,555,862 bytes — exactly the books.json size. Route note: grab.py tree failed three times with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, via the Drive usercontent route) and verified byte-exact against books.json; cover verified — classroom scene, Class 4). Earlier waves: not read before. Verdict: COMPLETE — Ch. 4 (Ethics and Values, printed pp. 45–54) read fully page by page and placed; Chs. 1–3 and 5 are comparative-religion teaching, contents-mapped, named below and NOT placed (religion is out of scope). Contents map: Morals/Values Ch. 4 Ethics and Values pp. 45–54; Religion Ch. 1 Introduction to Religions pp. 1–22 (Hinduism, Buddhism, Zoroastrianism, Judaism, Christianity, Islam, Sikhism — named, not placed); Religion Ch. 2 Hinduism pp. 23–32 (named, not placed); Religion Ch. 3 Buddhism pp. 33–44 (named, not placed); Religion Ch. 5 Personalities pp. 55–66 (Bhagwan Shri Krishna, Mahatma Buddha — named, not placed); Glossary (Farhang) p. 67 and Bibliography p. 70 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/respecting-teachers-and-classmates — Ch. 4 Respect for Teachers and Classmates — teaches: the teacher stands in the parents' place at school — listen, obey, never mock; and classmates are honoured as equals, the strong never teasing the weak — Pakistan Grade 4 Ethics4, printed pp. 48–49 | Pakistan, *Ethics Class 4 SNC* (student book), Ch. 4 Respect for Teachers and Classmates — printed pp. 48–49 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Kuwait, Vietnam, Pakistan).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Pakistan's own way: the youngest Ethics book spends three chapters letting a minority-faith child meet every religion fairly, then lands on the shared values — respect at home and school, honesty and truth — told through classroom stories.
+
+Registry note: the original coined string `culture-and-work/respecting-teachers-and-classmates` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-teachers`.
+
+Searchable tags: respecting teachers, Pakistan, social studies, culture-and-work

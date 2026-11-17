@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia, Iran, Japan, Zimbabwe, Mongolia
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia, Iran, Japan, Zimbabwe, Mongolia, Pakistan
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -169,3 +169,20 @@ Mongolia's own way (Book 7): Grade 9 is where the spiral turns civic — communi
 Registry note: the original coined string `culture-and-work/how-laws-and-cabinet-decisions-are-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
 Searchable tags: how laws are made, Mongolia, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1 (Pakistan):** *Social Studies Class 4 SNC* (student book, Urdu) — Title as printed: معاشرتی علوم — Social Studies, Class 4 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (Feb 2022 print table); no ISBN printed. PDF pages: 108 (11,470,265 bytes, matches books.json; read IN PLACE at phase3-staging grade-04/gov/pakistan/social-studies/student/full-year.pdf; cover/title verified — printed p. 1 = PDF p. 4). Earlier waves: Geography wave placed Ch. 5 Geography (printed pp. 61–93); History wave placed Ch. 4 History (pp. 45–60), Ch. 2's Diverse Culture of Pakistan + museum activity (p. 18) and the whole Means of Communication unit (pp. 22–26); Economics wave placed Ch. 6 Economics (pp. 94–104). This wave places only Ch. 1, Ch. 3 and the unplaced parts of Ch. 2. Verdict: COMPLETE. Contents map: Civics/Citizenship Ch. 1 Citizenship and Human Rights pp. 1–14; Ch. 3 State and Government pp. 27–44; Culture (remaining parts) Ch. 2 pp. 15–21; Geography pp. 61–93 (placed by Geography wave); History pp. 45–60 (placed by History wave); Economics pp. 94–104 (placed by Economics wave); Glossary p. 105 (inventory-only). Named, not placed: the WASH box (printed p. 10) is personal-hygiene teaching — Health course's. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/how-a-law-is-made — Ch. 3 President of Pakistan and Procedure of Legislation — teaches: the President is head of state, elected by the assemblies for five years (minimum age 45); a bill passed by the National Assembly and Senate becomes law only when the President signs it — the federal executive and judiciary under him complete the picture — Pakistan Grade 4 SS4, printed p. 36 | Pakistan, *Social Studies Class 4 SNC* (student book), Ch. 3 President of Pakistan and Procedure of Legislation — printed p. 36 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 11 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Saudi Arabia, Iran, Japan, Mongolia, Pakistan).**
+
+Pakistan's own way: citizenship is taught before everything else — a child first learns what a citizen, a global citizen and a digital citizen is, then Pakistan's own 1973 Constitution, its federal and provincial organs with real seat counts, and only then history, geography and economics.
+
+Registry note: the original coined string `culture-and-work/how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+Searchable tags: how laws are made, Pakistan, social studies, culture-and-work

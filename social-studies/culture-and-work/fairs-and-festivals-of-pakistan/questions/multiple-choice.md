@@ -1,0 +1,19 @@
+# Fairs and Festivals of Pakistan — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Fairs and Festivals of Pakistan  b) learning the alphabet  c) counting to ten
+**Answer: a) Fairs and Festivals of Pakistan**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Pakistanis celebrate religious and national occasions together — Eid gatherings, urs and melas at shrines, Shandur polo, Kalam mela and Jashn-e-Baharan pictured  b) ancient kings only  c) the Moon's phases
+**Answer: a) Pakistanis celebrate religious and national occasions together — Eid gatherings, urs and melas at shrines, Shandur polo, Kalam mela and Jashn-e-Baharan pictured**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Pakistan's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Pakistan's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Pakistanis celebrate religious and national occasions together — Eid gatherings, urs and melas at shrines, Shandur polo, Kalam mela and Jashn-e-Baharan pictured.  b) Pakistan's books never study this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Pakistanis celebrate religious and national occasions together — Eid gatherings, urs and melas at shrines, Shandur polo, Kalam mela and Jashn-e-Baharan pictured.**

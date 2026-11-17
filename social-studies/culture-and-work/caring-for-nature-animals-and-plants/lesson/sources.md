@@ -1,6 +1,6 @@
 # Sources — Caring for Nature Animals and Plants
 
-countries: North Macedonia, Japan
+countries: North Macedonia, Japan, Pakistan
 
 **Book 2:** *Society Grade 3 (Општество 3)* (student book, Macedonian) — Title as printed: ОПШТЕСТВО — учебник за трето одделение (Society — textbook for Grade 3), by Билјана Маневска (Biljana Manevska) and Орданка Мицкова (Ordanka Mickova). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2023; ISBN no ISBN printed in the front matter read (approved by the National Textbook Commission, decision 26-1988/1 of 11.08.2023). PDF pages: 100 (cover verified against the record title; byte size 29,035,881 matches the staging books.json record; record pages 100). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals — Theme 1 Учам, учествувам, успевам (I learn, I participate, I succeed) printed pp. 10–33; Theme 2 Се грижам за себе и моето опкружување (I care for myself and my surroundings) pp. 38–58; Theme 3 Ја сакам мојата држава (I love my country) pp. 62–84, of which Geography pp. 62–72 (lakes, mountains, the Vardar river, national parks, tourist destinations, natural beauties — named, not placed) and the rest placed below. Safety named, not placed: dangers in the surroundings and dangerous objects at home pp. 38–42, dangerous plants and animals p. 44, strangers p. 46 — personal-safety teaching. The book's own "Check your knowledge" sections (pp. 34, 59, 84) are assessment, excluded; appendices p. 85 named. Tally: 21 placements — 0 to existing lessons, 21 NEW LESSON NEEDED. Staging note: this book was absent from GitHub (grab.py tree: Grade 3 path 404) and from its staging folder, so it was fetched from the Wayback Machine's copy of the record's own ministry source URL — byte size 29,035,881 B and page count 100 match the staging books.json record exactly — and, under the 2026-11-13 rule, it was STAGED at its recorded staging path (grade-03/gov/north-macedonia/society/student/full-year.pdf), not deleted. This book is a link record (books.json-unheld). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/north-macedonia-placements.md.
 
@@ -40,3 +40,20 @@ Japan's own way (Book 1): MEXT's own moral reader for the youngest pupils is bui
 Japan's own way (Book 2): the middle pupils' reader widens in the same four steps as the other two Doutoku books — raise yourself, relate to people, feel life, relate to everyone — and plants the first civics inside moral teaching: society's rules are introduced through a banned swing the class wins back by making rules, and fairness is taught as never shutting anyone out.
 
 Searchable tags: caring for nature animals and plants, Japan, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5 (Pakistan):** *Ethics Class 3 SNC* (student book, Urdu) — Title as printed: اخلاقیات 3 — Ethics, Class 3. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition (approval note dated 2 February 2013); no ISBN printed. PDF pages: 40 (printed pp. 1–37 + covers; 13,961,504 bytes. Route note: grab.py tree failed with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, Drive usercontent route) and verified — pdfinfo 40 pp and cover verified, Class 3; grade-03 books.json carries no byte size for this record to compare against). Earlier waves: not read before. Verdict: COMPLETE — Ch. 2 (Religious Manners and Ethics, printed pp. 20–29) read fully page by page and placed; Chs. 1 and 3 are religion teaching, contents-mapped, named below and NOT placed; the chapter's Health sections (Health, Care of Oneself, Personal Cleanliness, printed pp. 26–27) are named for the Health course and NOT placed. Contents map: Morals/Values Ch. 2 Religious Manners and Ethics pp. 20–29; Religion Ch. 1 Introduction to Early Religions pp. 1–19 (nature worship, heavenly and earthly gods, Indus Valley and Vedic religion, Jainism — named, not placed); Religion Ch. 3 Hazrat Ibrahim (AS) pp. 30–36 (named, not placed); Health within Ch. 2 pp. 26–27 (named, not placed); Glossary (Farhang) p. 37 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/caring-for-animals-and-plants — Ch. 2 Life on Earth — teaches: animals and plants are alive and owed care — feed the pet, water the plant, never torment a creature; a classroom story follows a boy learning to keep a plant alive day by day — Pakistan Grade 3 Ethics3, printed pp. 21–23 | Pakistan, *Ethics Class 3 SNC* (student book), Ch. 2 Life on Earth — printed pp. 21–23 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (North Macedonia, Japan, Pakistan).**
+
+Pakistan's own way: the Class 3 Ethics book grounds every value in religion itself — good manners are what every faith commands — and spends its longest stretch on the equal honour of every human life, rich or poor.
+
+Registry note: the original coined string `culture-and-work/caring-for-animals-and-plants` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/caring-for-nature-animals-and-plants`.
+
+Searchable tags: caring for nature animals and plants, Pakistan, social studies, culture-and-work

@@ -1,16 +1,24 @@
 # Sources — Honesty and Trustworthiness
 
-countries: Saudi Arabia
+countries: Saudi Arabia, Pakistan
 
 **Book 1:** *Social Studies, Grade 6, Term 1 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف السادس الابتدائي (Social Studies — Sixth Grade, Primary) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1447H / 2025 CE PDF pages: 190; printed page = PDF page. File verified: 394,871,233 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; Unit 6 Vision 2030, Unit 7 Citizenship and Unit 8 Lesson 29 Community Participation read in full and placed Contents map: Units 1–5 History, Unit 6 Vision 2030 (this wave), Unit 7 Citizenship (this wave), Unit 8 Geography & Society (Lesson 29 this wave; Lessons 25–28 Geography named, not placed) Staged: ~/workspace/phase3-staging/grade-06/gov/saudi-arabia/social-studies/student/term-1.pdf with a new grade-06/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+**Book 4 (Pakistan):** *Ethics Class 4 SNC* (student book, Urdu) — Title as printed: اخلاقیات 4 — Ethics, Class 4 (جماعت چہارم). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition; no ISBN printed. PDF pages: 74 (printed pp. 1–70 + covers; 7,555,862 bytes — exactly the books.json size. Route note: grab.py tree failed three times with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, via the Drive usercontent route) and verified byte-exact against books.json; cover verified — classroom scene, Class 4). Earlier waves: not read before. Verdict: COMPLETE — Ch. 4 (Ethics and Values, printed pp. 45–54) read fully page by page and placed; Chs. 1–3 and 5 are comparative-religion teaching, contents-mapped, named below and NOT placed (religion is out of scope). Contents map: Morals/Values Ch. 4 Ethics and Values pp. 45–54; Religion Ch. 1 Introduction to Religions pp. 1–22 (Hinduism, Buddhism, Zoroastrianism, Judaism, Christianity, Islam, Sikhism — named, not placed); Religion Ch. 2 Hinduism pp. 23–32 (named, not placed); Religion Ch. 3 Buddhism pp. 33–44 (named, not placed); Religion Ch. 5 Personalities pp. 55–66 (Bhagwan Shri Krishna, Mahatma Buddha — named, not placed); Glossary (Farhang) p. 67 and Bibliography p. 70 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/honesty-and-trustworthiness — Unit 7 Lesson 22: Trustworthiness and Honesty (الأمانة والصدق) — teaches: trustworthiness as doing duties fully and rendering others their rights, the opposite of betrayal — shown in guarding religion, keeping secrets, respecting others' rights, perfecting work, keeping order and avoiding cheating, and bringing security to the citizen, the homeland and society; honesty as telling the truth unchanged — in speech and in work — whose fruits are people's trust, a responsible character and stronger relations, while their absence spreads corruption and loses security — Saudi Arabia Grade 6 Social Studies Term 1, printed pp. 152–154 | Saudi Arabia, *Social Studies, Grade 6, Term 1* (student book), Unit 7 Lesson 22: Trustworthiness and Honesty (الأمانة والصدق) — printed pp. 152–154 |
 | Sub lesson 2 — Saudi Arabia's way — the book's own teaching way | Saudi Arabia — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Saudi Arabia).**
+| Pakistan part — culture-and-work/honesty-being-trustworthy — Ch. 4 Honesty (ایمانداری) — teaches: honesty is doing every entrusted task truly even when no one watches — the English proverb is printed in the text, "Honesty is the best Policy" — worked through a teacher-and-class dialogue about an honestly kept trust — Pakistan Grade 4 Ethics4, printed pp. 51–53 | Pakistan, *Ethics Class 4 SNC* (student book), Ch. 4 Honesty (ایمانداری) — printed pp. 51–53 |
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Pakistan).**
 
 Saudi Arabia's own way (Book 3): the Grade 6 book ties citizenship to Saudi Vision 2030 — what a vision is, its realisation programmes and projects, the Quality of Life Programme and the Human Capability Development Programme — and then to citizenship itself, honesty and trustworthiness, guarding national antiquities, and taxes and VAT.
 
-Searchable tags: honesty and trustworthiness, Saudi Arabia, social studies, culture-and-work
+Pakistan's own way: the youngest Ethics book spends three chapters letting a minority-faith child meet every religion fairly, then lands on the shared values — respect at home and school, honesty and truth — told through classroom stories.
+
+Registry note: the original coined string `culture-and-work/honesty-being-trustworthy` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/honesty-and-trustworthiness`.
+
+Searchable tags: honesty and trustworthiness, Saudi Arabia, social studies, culture-and-work, Pakistan

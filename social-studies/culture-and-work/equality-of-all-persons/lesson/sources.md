@@ -1,6 +1,6 @@
 # Sources — Equality of All Persons
 
-countries: Oman, Venezuela, Morocco, Mauritania
+countries: Oman, Venezuela, Morocco, Mauritania, Pakistan
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -64,3 +64,20 @@ Mauritania's own way (Book 8): civics is built as three competencies — the chi
 Registry note: the original coined string `culture-and-work/equality-of-all-people` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/equality-of-all-persons`.
 
 Searchable tags: equality of all persons, Mauritania, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5 (Pakistan):** *Ethics Class 3 SNC* (student book, Urdu) — Title as printed: اخلاقیات 3 — Ethics, Class 3. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition (approval note dated 2 February 2013); no ISBN printed. PDF pages: 40 (printed pp. 1–37 + covers; 13,961,504 bytes. Route note: grab.py tree failed with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, Drive usercontent route) and verified — pdfinfo 40 pp and cover verified, Class 3; grade-03 books.json carries no byte size for this record to compare against). Earlier waves: not read before. Verdict: COMPLETE — Ch. 2 (Religious Manners and Ethics, printed pp. 20–29) read fully page by page and placed; Chs. 1 and 3 are religion teaching, contents-mapped, named below and NOT placed; the chapter's Health sections (Health, Care of Oneself, Personal Cleanliness, printed pp. 26–27) are named for the Health course and NOT placed. Contents map: Morals/Values Ch. 2 Religious Manners and Ethics pp. 20–29; Religion Ch. 1 Introduction to Early Religions pp. 1–19 (nature worship, heavenly and earthly gods, Indus Valley and Vedic religion, Jainism — named, not placed); Religion Ch. 3 Hazrat Ibrahim (AS) pp. 30–36 (named, not placed); Health within Ch. 2 pp. 26–27 (named, not placed); Glossary (Farhang) p. 37 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/all-people-are-born-equal — Ch. 2 The Honour of Humanity — teaches: all humans are born equal in rights and duties — before God no one is high or low by birth, wealth, language or family; rights come first, before any life of one's own choosing — Pakistan Grade 3 Ethics3, printed pp. 23–24 | Pakistan, *Ethics Class 3 SNC* (student book), Ch. 2 The Honour of Humanity — printed pp. 23–24 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Venezuela, Morocco, Mauritania, Pakistan).**
+
+Pakistan's own way: the Class 3 Ethics book grounds every value in religion itself — good manners are what every faith commands — and spends its longest stretch on the equal honour of every human life, rich or poor.
+
+Registry note: the original coined string `culture-and-work/all-people-are-born-equal` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/equality-of-all-persons`.
+
+Searchable tags: equality of all persons, Pakistan, social studies, culture-and-work

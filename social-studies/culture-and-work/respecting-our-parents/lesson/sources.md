@@ -1,6 +1,6 @@
 # Sources — Respecting Our Parents
 
-countries: Eritrea, Myanmar, Mongolia
+countries: Eritrea, Myanmar, Mongolia, Pakistan
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -46,3 +46,20 @@ Mongolia's own way (Book 1): civic education for six-year-olds is pure Mongolian
 Registry note: the original coined string `culture-and-work/respecting-and-helping-parents` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-our-parents`.
 
 Searchable tags: respecting our parents, Mongolia, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4 (Pakistan):** *Ethics Class 4 SNC* (student book, Urdu) — Title as printed: اخلاقیات 4 — Ethics, Class 4 (جماعت چہارم). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition; no ISBN printed. PDF pages: 74 (printed pp. 1–70 + covers; 7,555,862 bytes — exactly the books.json size. Route note: grab.py tree failed three times with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, via the Drive usercontent route) and verified byte-exact against books.json; cover verified — classroom scene, Class 4). Earlier waves: not read before. Verdict: COMPLETE — Ch. 4 (Ethics and Values, printed pp. 45–54) read fully page by page and placed; Chs. 1–3 and 5 are comparative-religion teaching, contents-mapped, named below and NOT placed (religion is out of scope). Contents map: Morals/Values Ch. 4 Ethics and Values pp. 45–54; Religion Ch. 1 Introduction to Religions pp. 1–22 (Hinduism, Buddhism, Zoroastrianism, Judaism, Christianity, Islam, Sikhism — named, not placed); Religion Ch. 2 Hinduism pp. 23–32 (named, not placed); Religion Ch. 3 Buddhism pp. 33–44 (named, not placed); Religion Ch. 5 Personalities pp. 55–66 (Bhagwan Shri Krishna, Mahatma Buddha — named, not placed); Glossary (Farhang) p. 67 and Bibliography p. 70 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/respecting-parents-and-family — Ch. 4 Respect for Parents, Family and Siblings — teaches: parents are honoured first (the Quran's Al-Isra 23 command quoted — never even say "uff" to them), then the wider family and brothers and sisters; a classroom story shows children who serve their parents growing into respected adults — Pakistan Grade 4 Ethics4, printed pp. 45–47 | Pakistan, *Ethics Class 4 SNC* (student book), Ch. 4 Respect for Parents, Family and Siblings — printed pp. 45–47 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Eritrea, Myanmar, Mongolia, Pakistan).**
+
+Pakistan's own way: the youngest Ethics book spends three chapters letting a minority-faith child meet every religion fairly, then lands on the shared values — respect at home and school, honesty and truth — told through classroom stories.
+
+Registry note: the original coined string `culture-and-work/respecting-parents-and-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-our-parents`.
+
+Searchable tags: respecting our parents, Pakistan, social studies, culture-and-work

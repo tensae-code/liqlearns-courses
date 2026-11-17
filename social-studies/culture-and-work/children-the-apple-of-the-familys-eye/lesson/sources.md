@@ -1,0 +1,16 @@
+# Sources — Children the Apple of the Familys Eye
+
+countries: Pakistan
+
+**Book 6:** *Ethics Class 6* (student book, Urdu) — Title as printed: اخلاقیات (ETHICS) 6 — Ethics, Class 6. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: approved by the National Curriculum Council, Ministry of Education (notification F.6-8/2009-IE, 23 February 2011) — the pre-SNC Ethics book; no ISBN printed. PDF pages: 72 (printed pp. 1–69 + covers; 33,838,877 bytes — exactly the books.json size. Route note: grab.py tree failed with proxy RemoteDisconnected, so the file was fetched from the record's own source_url (the publisher's Google Drive copy, Drive usercontent route) and verified byte-exact against books.json; cover verified — ETHICS 6, PCTB Lahore). Earlier waves: not read before. Verdict: COMPLETE — the whole book read page by page; Ch. 4 (Moral Values, printed pp. 34–53) and Ch. 5 (Manners of Life, pp. 54–56) placed, plus the moral-stories block of Ch. 1 and the shared-festivals chapter; the Sikhism chapter, the sacred-text quotations and the personalities chapter are contents-mapped, named below and NOT placed (religion is out of scope). Contents map: Morals/Values Ch. 1 lessons 2–4 Moral Stories and value poems pp. 5–14; Morals/Values Ch. 4 Moral Values pp. 34–53 (children and family, sharing the home, equality, respect for humanity, laws and discipline, value of time, neighbours, traffic laws); Morals/Values Ch. 5 Manners of Life — eating manners pp. 54–56; Culture Ch. 3 Religious Festivals in Pakistan pp. 30–33 (Christmas, Eid-ul-Fitr, Guru Nanak's birthday, written as shared national celebrations); Religion Ch. 1 lessons 1 and 5–8 (building of humanity, pearls of wisdom quoted from the Quran, Bible, Gita, Avesta and Guru Granth Sahib) pp. 1–4, 15–16 (named, not placed); Religion Ch. 2 Sikhism pp. 17–29 (named, not placed); Religion/History Ch. 6 Personalities pp. 57–62 (Hazrat Maryam, Edison, St. Thomas Aquinas — named, not placed); Glossary (Farhang) pp. 63–69 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/children-the-apple-of-the-familys-eye — Ch. 4 Children — the Apple of the Family's Eye — teaches: children are the family's treasure — the long story of two brothers shows parents spending their strength, savings and prayers on their children, and children owing love and care in return — Pakistan Grade 6 Ethics6, printed pp. 34–36 | Pakistan, *Ethics Class 6* (student book), Ch. 4 Children — the Apple of the Family's Eye — printed pp. 34–36 |
+| Sub lesson 2 — Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Pakistan).**
+
+Pakistan's own way: the senior primary Ethics book turns values into civic machinery — laws learned from a flock of birds, time priced like money, traffic signs taught as a citizen's duty — and opens with story after story where greed ruins kings and gratitude saves the lame.
+
+Searchable tags: children the apple of the familys eye, Pakistan, social studies, culture-and-work

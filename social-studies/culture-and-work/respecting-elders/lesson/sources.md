@@ -1,6 +1,6 @@
 # Sources — Respecting Elders
 
-countries: Algeria, Laos
+countries: Algeria, Laos, Pakistan
 
 **Book 1:** *Kitabi: Arabic Language, Islamic Education and Civic Education, Grade 1 unified volume* (student book, Arabic) — Title as printed: كتابي في اللغة العربية، التربية الإسلامية، التربية المدنية (My Book in Arabic Language, Islamic Education, Civic Education) — السنة الأولى من التعليم الابتدائي. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of National Education, People's Democratic Republic of Algeria; 2016 curriculum (second generation); no ISBN printed on the held cover pages. PDF pages: 144 (cover verified against the record title; the book is an image scan with no text layer). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Arabic language (letters, reading texts) throughout; Islamic Education (one lesson per unit, named, not placed) printed pp. 12–136; Civic Education (one lesson per unit) printed pp. 25, 41, 57, 73, 89, 105, 121, 137; the unit themes themselves are family (Unit 1), school (Unit 2), neighbourhood and village (Unit 3), sport and leisure (Unit 4), environment and nature (Unit 5), cleanliness and health (Unit 6), communication (Unit 7), national occasions (Unit 8). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/algeria-placements-b.md. Staged under the new rule: grade-01/gov/algeria/arabic-language/student/kitabi-arabic-islamic-civic-grade-1.pdf (26,780,780 B) + books.json record.
 
@@ -40,3 +40,18 @@ Registry note: the original coined string `culture-and-work/respecting-our-elder
 Registry note: the original coined string `culture-and-work/respecting-elders-and-loving-children` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-elders`.
 
 Searchable tags: respecting elders, Laos, social studies, culture-and-work
+
+Pakistan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3 (Pakistan):** *Ethics Class 5 SNC* (student book, Urdu) — Title as printed: اخلاقیات (ETHICS) 5 — Class 5. Grade: Grade 5 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC edition (experimental edition note on credits page); no ISBN printed. PDF pages: 58 (printed pp. 1–52 + covers/anthem; 6,047,117 bytes, grabbed via grab.py tree route — byte size and blob SHA verified against the repo; cover verified: red cover, Class 5, scenes of helping an elderly woman, a wheelchair user and a road-crosser). Earlier waves: not read before (standalone Ethics subject, not part of the combined Social Studies volumes). Verdict: COMPLETE — Unit 3 (Ethical Values, printed pp. 36–45) read fully page by page and placed; Units 1, 2 and 4 are comparative-religion teaching, contents-mapped and spot-read, named below and NOT placed (religion is out of this wave's scope). Contents map: Morals/Values Unit 3 Ethical Values pp. 36–45; Religion Unit 1 Introduction to Religions pp. 1–25 (meaning and beginnings of religion, the world religions, the great founders — named, not placed); Religion Unit 2 World Religions: Judaism, Christianity, Islam pp. 26–35 (named, not placed); Religion Unit 4 Personalities pp. 46–49 (Hazrat Daud and Saint Paul — named, not placed); Glossary (Farhang) pp. 50–51 (inventory-only); Bibliography p. 52 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — culture-and-work/respecting-elders — Unit 3 Respect for Elders — teaches: a fifteen-point practice of respect — greet elders first, listen without interrupting, never raise your voice to them, serve them, sit humbly before them, and care for them in illness and old age — Pakistan Grade 5 Ethics5, printed pp. 37–38 | Pakistan, *Ethics Class 5 SNC* (student book), Unit 3 Respect for Elders — printed pp. 37–38 |
+| Pakistan's way — the books' own teaching way | Pakistan — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Algeria, Pakistan).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Pakistan's own way: Ethics is the subject Punjab gives children who do not take Islamiat — the world's religions are taught respectfully first, and the shared moral core (respect, helping, cleanliness, punctuality) is then taught as every faith's common teaching.
+
+Searchable tags: respecting elders, Pakistan, social studies, culture-and-work
