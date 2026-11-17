@@ -138,3 +138,20 @@ sources, as provenance.
   recovered from their archive.org sources, as filed). See
   `india/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Greece** — [`greece/`](greece/) · 21 lessons: Levels 1–3 —
+  the individual and the state (what the state is, regimes and
+  the Constitution, elections, parties and media, the state's
+  functions, administration, rights and obligations), then
+  Greece outward (the European Union, the international
+  community), then the Lykeio course whole (society, state and
+  economy as one system from Aristotle's polis, Greek society's
+  institutions and values, the political community from
+  Municipality to EU, migration and social problems, and the
+  free, responsible and active citizen), from Greece's
+  *Κοινωνική και Πολιτική Αγωγή* Gymnasium student book (Greek,
+  2019 edition (V3), COMPLETE for the civics parts — combined
+  track, its sociology strand named, not placed) and its
+  *Πολιτική Παιδεία* Lykeio student book (Greek, 2014 edition
+  (V5), COMPLETE); both records were phantom pushes, read from
+  ebooks.edu.gr and now staged. See `greece/ABOUT.md` for the
+  full book list and the acceptance reckoning.
