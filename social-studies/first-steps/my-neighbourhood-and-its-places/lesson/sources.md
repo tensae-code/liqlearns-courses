@@ -1,6 +1,6 @@
 # Sources — My Neighbourhood And Its Places
 
-countries: Jordan, South Sudan
+countries: Jordan, South Sudan, Libya
 
 **Book 1:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024 (2nd edition, revised; first experimental edition 2023, MoE decision 2023/216); ISBN 978-9923-41-573-3. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1). Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,293,333 matches the books.json twin record exactly — TSV + books.json records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
@@ -8,19 +8,24 @@ countries: Jordan, South Sudan
 
 **Book 3:** *Primary Social Studies 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 1 Teacher's Guide. Grade: Primary 1 / Grade 1 (student/teacher: TEACHER). PDF pages: 53 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies guide — Geography parts placed; Units 1, 4 and 5 are History/family, Civics/work and Civics/life skills, named in Book 9's header, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 4:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Unit 1 Lesson 5: The Neighbourhood (الحي) — homes, school, grocery, health centre and civil defence in my neighbourhood | Jordan, *Jordan G1 SS T1*, Unit 1 Lesson 5: The Neighbourhood (الحي) — homes, school, grocery, health centre and civil defence in my neighbourhood — printed p. 29 |
 | Sub lesson 2 — Jordan's way — the book's own teaching way | Jordan — the book's own way of teaching (see below) |
 | South Sudan part — Unit 2 Where We Live: neighbourhood and village [placement slug: first-steps/my-neighbourhood-what-is-around-me] | South Sudan, *South Sudan Grade 1 P1 Social Studies SB*, Unit 2 Where We Live: neighbourhood and village — printed p. 25 |
 | South Sudan part — Guide: class walk around the school to identify natural features (teacher guide — evidence) [placement slug: first-steps/my-neighbourhood-what-is-around-me] | South Sudan, *South Sudan Grade 1 P1 Social Studies TG* (teacher guide), Guide: class walk around the school to identify natural features — printed p. 25 |
+| Libya part — first-steps/my-neighbourhood-and-its-places — Lesson 7 أنا والحي (I and the neighbourhood) — teaches: the neighbourhood is a residential community of homes and facilities — market, school, post office, health centre — whose institutions serve its people — Libya Grade 4 National Education G4, printed p. 57 | Libya, *أنا المواطن (I Am the Citizen) — National Education G4* (student book), Lesson 7 أنا والحي (I and the neighbourhood) — printed p. 57 |
 
-**Acceptance count: taught in 2 countries (Jordan, South Sudan).**
+**Acceptance count: taught in 3 countries (Jordan, South Sudan, Libya).**
 
 Jordan's own way (Jordan G1 SS T1): Social Studies opens at Grade 1 with the child's own circles — self, family, neighbourhood — then the homeland (Jordan's map, capital, flag, king), all taught through colouring, matching and picture talk rather than text.
 
-Searchable tags: my neighbourhood and its places, Jordan, social studies, first-steps
+Searchable tags: my neighbourhood and its places, Jordan, social studies, first-steps, Libya
 
 South Sudan's own way (South Sudan Grade 1 P1 Social Studies SB): Geography begins at age six with the child's own neighbourhood and a hand-drawn map of their own classroom — symbols, key, title, frame and compass — before any wider world appears.
 
 South Sudan's own way (South Sudan Grade 1 P1 Social Studies TG) (teacher guide — evidence): The guide teaches features by walking — a class walk around the school to name natural features — and adds "economic features": features people use to earn money, such as fishing in a lake. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.
