@@ -1,18 +1,28 @@
 # Sources — Child Protection and Reporting Abuse
 
-countries: Haiti
+countries: Haiti, Uganda
 
 **Book 4:** *Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation)* (teacher sequence, French) — Title as printed: Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation) (Projet Nectar, MENFP, 8e année; authors Mélanie Albaret, Arnaud Dechelle). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 28 (cover verified against the record title; 849,191 bytes, grab.py size/SHA verified — byte size also matches the links-file record for the same PDF). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 9–28 (whole book); Morals/Values pp. 11–16 (the notion of value and its making into law, inside Séance 2 and Séance 3). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 5:** *Social Studies Home-Study Learning, Primary Four* (student book, English) — Title as printed: Social Studies Home-Study Learning — Primary Four (NCDC home-study booklet, COVID-19 continued learning). Grade: Primary 4 (student/teacher: STUDENT). Publisher: National Curriculum Development Centre (NCDC), Uganda; 2020; no ISBN printed. PDF pages: 42 (cover/title verified against the record; fetched from the record's source_url after grab.py failed — see log route note). Earlier waves: Geography wave placed Term One physical features/vegetation, settlement, work types and the transport part of the Transport and Security lesson; History wave placed the People in Our District legends; Economics wave placed work/way-of-life parts and How to Meet People's Needs in Our District (printed p. 30). Verdict: COMPLETE — contents-first read; the remaining-strand (Term Three civics/services) parts below read fully page by page. Contents map: Civics/Citizenship/Government printed pp. 21–29, 31–35; Integrated SS printed pp. 30–35; Geography printed pp. 3–19; History (legends) Term Two; Economics printed pp. 15–19, 30. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/the-right-to-education-and-child-protection — Séance 1 L'école, un droit fondamental inégalement respecté — teaches: schooling as a fundamental right, studied through a reportage/case on street children and restavèk children and the positions taken on it, and child protection as a rights question — Haiti Grade 8 EC2 8e Droits devoirs valeurs, printed p. 9 | Haiti, *Droits, devoirs et valeurs (EC2 8e Droits devoirs valeurs)* (teacher sequence), Séance 1 L'école, un droit fondamental inégalement respecté — printed p. 9 (teacher guide — evidence) |
 | Sub lesson 2 — Haiti's way — the book's own teaching way | Haiti — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Haiti), named here, counted nowhere.**
+| Uganda part — culture-and-work/child-abuse-protecting-children — Child Abuse — teaches: forms and examples of child abuse as the violation of children's rights — Uganda Grade 4 P4 SST Home-Study, printed p. 26 | Uganda, *Social Studies Home-Study Learning, Primary Four* (student book), Child Abuse — printed p. 26 |
+| Uganda part — culture-and-work/child-abuse-protecting-children — Causes, Effects and Ways of Controlling Child Abuse — teaches: causes (poverty, alcohol, broken families, early marriage), effects on the child, and how leaders and community prevent abuse — Uganda Grade 4 P4 SST Home-Study, printed p. 27 | Uganda, *Social Studies Home-Study Learning, Primary Four* (student book), Causes, Effects and Ways of Controlling Child Abuse — printed p. 27 |
+| Uganda part — Uganda's way — the book's own teaching way (Uganda Grade 4 P4 SST Home-Study) | Uganda — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Uganda). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Uganda's own way (Uganda Grade 4 P4 SST Home-Study): the district is the child's civic unit — its leaders (LCV chairperson, CAO, RDC, DPC, DEO, DAO) are named by title and role, and children's rights are taught straight from Uganda's laws (a child is anyone below 18).
 
 Haiti's own way: Rights are taught from a Haitian street-level case — out-of-school street children and restavèk children — upward: case first, then the positions of officials and press, then the constitutional and international texts, then a school project that practises the right.
 
 Registry note: the original coined string `culture-and-work/the-right-to-education-and-child-protection` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
 
-Searchable tags: child protection and reporting abuse, Haiti, social studies, culture-and-work
+Registry note: the original coined string `culture-and-work/child-abuse-protecting-children` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
+
+Searchable tags: child protection and reporting abuse, Haiti, social studies, culture-and-work, Uganda
