@@ -122,3 +122,19 @@ sources, as provenance.
   companion are phantom-push records, absent from the tree).
   See `switzerland/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **India** — [`india/`](india/) · 20 lessons: Levels 1–2 —
+  a two-year "tour of democracy": democracy and the
+  constitution founded (what democracy is and why, South
+  Africa's story and India's constitution-making, elections
+  and the Election Commission, Parliament, the Prime Minister
+  and the President, democratic rights and the reservations
+  debate), then democracy at work (power-sharing and
+  federalism, diversity and gender, religion and caste,
+  struggles, movements and parties, outcomes and challenges),
+  from India's *Democratic Politics I–II* student books
+  (NCERT, English, 2020-21 reprints of the 2006/2007 first
+  editions, COMPLETE — combined-track, the whole of each book
+  placed; both records 404'd on the tree grab and were
+  recovered from their archive.org sources, as filed). See
+  `india/ABOUT.md` for the full book list and the acceptance
+  reckoning.
