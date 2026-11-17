@@ -1,6 +1,6 @@
 # Sources — Size and Location Dimensions — the Theory
 
-countries: Belarus, Ethiopia, Iran, Malta, Moldova, Sri Lanka
+countries: Belarus, Ethiopia, Iran, Malta, Moldova, Sri Lanka, Greece
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -25,7 +25,13 @@ countries: Belarus, Ethiopia, Iran, Malta, Moldova, Sri Lanka
 | Module 8's dimensioning (اندازه‌گذاری) of a drawn part and drawing to scale, incl. enlarging scales 2:1, 5:1, 10:1 and the woodwork project drawn at 1:2 and dimensioned (original string `technical-drawing/size-and-location-dimensions`) | Iran, *Work & Technology, Grade 7*, printed p. 100-102 |
 | dimensioning the orthographic views of objects so size and position are fully stated (original string `technical-drawing/size-and-location-dimensions`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 53 |
 
-**Acceptance count: taught in 5 countries (Belarus, Iran, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 7:** *Τεχνολογία Β΄ Γυμνασίου (Technologia B' Gymnasiou — Technology, Grade 8)* (student book) — Greece. Authors: Ρηγώ Φασουράκη, Αλίκη Τσακατούρα, Βασίλειος Δημητρόπουλος, Σεραφείμ Τριβέλλας. Publisher: ITYE Diophantos. Book code 21-0099-02, ISBN 978-960-06-2730-5. Grade: B' Gymnasiou (Grade 8). Kind: student book. Pages: 98 PDF pp. = 98 pp. per record. Size verified: 13,413,188 bytes, exact match to record. Route: grab.py url, release `mid-size-books`. Cover verified: ΤΕΧΝΟΛΟΓΙΑ Β΄ ΓΥΜΝΑΣΙΟΥ with the four authors named. COMPLETE — read to the last teaching page (Step 6 presentation/exhibition, printed p. 92; glossary p. 94 is inventory-only per the brief and is not placed; bibliography p. 95). Greece's own way note: Grade 8 Technology uses the "group work" method themed on Industry — the class simulates a production company, takes its roles, and builds a scale model (ομοίωμα/μακέτα) of the production unit. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| drawing scales for the model: what 1:25, 1:50, 1:100 mean, the scale must be written on the drawing, and the figure written is always the TRUE dimension (e.g. 30 m) whatever the scale (original string `technical-drawing/size-and-location-dimensions`) | Greece, *Technologia B Gym*, printed p. 78 |
+
+**Acceptance count: taught in 6 countries (Belarus, Iran, Malta, Moldova, Sri Lanka, Greece) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
@@ -41,4 +47,6 @@ Iran's own way: Iran teaches dimensioning (اندازه‌گذاری) of a drawn
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — dimensioning the orthographic views of objects so size and position are fully stated.
 
-Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction, Iran, Grade 7, Persian, Sri Lanka
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — drawing scales for the model: what 1:25, 1:50, 1:100 mean, the scale must be written on the drawing, and the figure written is always the TRUE dimension (e.g. 30 m) whatever the scale. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Β΄ Γυμνασίου (Technologia B' Gymnasiou — Technology, Grade 8)*: Greece's own way note: Grade 8 Technology uses the "group work" method themed on Industry — the class simulates a production company, takes its roles, and builds a scale model (ομοίωμα/μακέτα) of the production unit.
+
+Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction, Iran, Grade 7, Persian, Sri Lanka, Greece

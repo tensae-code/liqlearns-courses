@@ -1,6 +1,6 @@
 # Sources — Sectioning — words and common practice
 
-countries: Belarus, Cuba, Ethiopia, Sri Lanka, Mongolia
+countries: Belarus, Cuba, Ethiopia, Sri Lanka, Mongolia, Greece
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -28,7 +28,13 @@ countries: Belarus, Cuba, Ethiopia, Sri Lanka, Mongolia
 |---|---|
 | Section views: the imagined cut, hatching by material (metal at 45°, non-metal cross-hatched, wood with grain), cutting-plane labels with arrows and letters A–A, B–B (MNS ISO 128-44), and removed, revolved and broken-out sections (original string `technical-drawing/sectioning-words-and-practice`) | Mongolia, *Design Technology 9 (Mongolia)*, printed p. 6 |
 
-**Acceptance count: taught in 4 countries (Belarus, Cuba, Sri Lanka, Mongolia) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 6:** *Τεχνολογία Α΄ ΕΠΑ.Λ. — Ερευνητική Εργασία στην Τεχνολογία (Technologia A EPAL — Research Work in Technology, Grade 10)* (student book) — Greece. Authors: Νικόλαος Ηλιάδης – Γεώργιος Βουτσινός. Publisher: ITYE Diophantos. Book code 22-0032-02-V1. Grade: A' Lykeiou / A' EPAL (Grade 10), subject ΕΡΕΥΝΗΤΙΚΗ ΕΡΓΑΣΙΑ ΣΤΗΝ ΤΕΧΝΟΛΟΓΙΑ. Kind: student book. Pages: 334 PDF pp. = 334 pp. per record. Size verified: 10,631,984 bytes, exact match to record. Route: grab.py url, release `mid-size-books-6`. Cover verified: ΤΕΧΝΟΛΟΓΙΑ Α΄ ΕΠΑ.Λ. COMPLETE — read to the last teaching page (Ch. VI constructions, printed p. 274–326; bibliography p. 327). The Part I appendix (printed pp. 87–124: inventor/invention catalogues and useful research websites) is inventory-only and not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece's own way into sectioning: a floor plan (κάτοψη) is taught as an imagined horizontal cut through the building at about 90 cm above floor level so doors and windows appear, and a τομή as a vertical cut with a part removed (original string `technical-drawing/sectioning-words-and-practice`) | Greece, *EPAL Research Work*, printed p. 316 |
+
+**Acceptance count: taught in 5 countries (Belarus, Cuba, Sri Lanka, Mongolia, Greece) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) as the opening of its technical-drawing chapter — how sections are drawn and used.
 
@@ -42,4 +48,6 @@ Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching 
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Section views: the imagined cut, hatching by material (metal at 45°, non-metal cross-hatched, wood with grain), cutting-plane labels with arrows and letters A–A, B–B (MNS ISO 128-44), and removed, revolved and broken-out sections. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka, Cuba, Educación Laboral, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — Greece's own way into sectioning: a floor plan (κάτοψη) is taught as an imagined horizontal cut through the building at about 90 cm above floor level so doors and windows appear, and a τομή as a vertical cut with a part removed. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka, Cuba, Educación Laboral, Mongolia, visual read, Greece

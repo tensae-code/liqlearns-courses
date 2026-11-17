@@ -1,6 +1,6 @@
 # Sources — Engineering materials
 
-countries: Fiji, Papua New Guinea
+countries: Fiji, Papua New Guinea, Greece
 
 **Book 1:** *Applied Technology Textbook — Year 12* (student) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji. Year: 2015. Grade: Year 12. Language: English. Pages: 143. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-12/gov/fiji/applied-technology/student/full-year.pdf`), 47,543,646 bytes, cover/title page verified ("APPLIED TECHNOLOGY TEXTBOOK, YEAR 12 … Ministry of Education, 2015"). Kind: student. Read: PARTIAL — the PDF is image-only (zero text layer). Read: title page, preface, the full table of contents (printed p. 4), all six strand openers, and sampled pages across every strand (printed pp. 20, 32, 40, 54, 72, 82, 92, 100, 102, 112, 118, 122, 128, 132, 138, 142). Routes tried for a full read: text extraction (empty — no text layer); OCR with tesseract (system CPU saturated by other jobs — repeated 90 s/page timeouts, abandoned); page-image rendering + visual reading (used for the pages above). The strand-level placements below are certain; sub-topic detail between sampled pages may be incomplete. Every placement from this book is filed PARTIAL and stays labelled PARTIAL. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
 
@@ -14,7 +14,13 @@ countries: Fiji, Papua New Guinea
 |---|---|
 | Unit 5 Topic 2 lessons: Properties of Materials; Engineering materials (teacher guide — evidence) (original string `engineering materials`) | Papua New Guinea, *PNG G10 Construction*, printed p. 193 |
 
-**Acceptance count: taught in 1 country (Fiji) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Book 3:** *Τεχνολογία Μηχανολογικών Κατασκευών (Technologia Michanologikon Kataskeuon — Technology of Mechanical Constructions, Grades 11–12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0032-02-V1. Grades: B'–G' EPAL (Grades 11–12), Mechanical & Maritime sectors, specialty Merchant Navy Engineer. Kind: student book (workshop theory + practical work per chapter). Pages: 490 PDF pp. = 490 pp. per record. Size verified: 8,531,807 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 16 pumps & air compressors; appendix printed p. 465, bibliography p. 471). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Engineering materials (μηχανουργικά υλικά) for constructions (original string `Engineering materials (μηχανουργικά υλικά) for constructions`) | Greece, *Mechanical Constructions*, Ch. 2 |
+
+**Acceptance count: taught in 2 countries (Fiji, Greece) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Properties of Materials; Engineering materials. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -22,4 +28,6 @@ PARTIAL: the placement(s) from *Applied Technology Textbook — Year 12* come fr
 
 Fiji's own way: Fiji teaches engineering materials in Year 12 Applied Technology as materials science — properties follow atomic structure; structure, processing and performance; choosing materials for strength, electrical properties, heat and corrosion resistance — from atomic structure, atomic weight and number, electron shells and valence. The book is image-only and was read at strand level, so this placement is PARTIAL.
 
-Searchable tags: engineering materials, Fiji, materials, Ministry of Education, TEST, PARTIAL, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — Engineering materials (μηχανουργικά υλικά) for constructions. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: engineering materials, Fiji, materials, Ministry of Education, TEST, PARTIAL, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Greece

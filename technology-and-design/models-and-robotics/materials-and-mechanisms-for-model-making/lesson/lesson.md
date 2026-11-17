@@ -1,0 +1,18 @@
+# Materials and mechanisms for model-making
+
+## Do it first
+Before reading on: take the materials this lesson names and try the task in your own way first. Then read how Greece's book teaches it, and compare.
+
+## Sub lesson 1 — Materials and mechanisms for model-making
+Greece's book teaches it this way: choosing materials per part (soft wood/plywood base you can nail and screw into, compressed insulation board, reusing "useless" materials), planning and economy of materials (*Technologia B Gym*, printed p. 82). The learner works through the named materials and steps in order, saying what each step does before doing the next one.
+
+## Sub lesson 2 — Materials and mechanisms for model-making — doing it yourself
+Now the learner does the whole task unaided: choosing materials per part (soft wood/plywood base you can nail and screw into, compressed insulation board, reusing "useless" materials), planning and economy of materials. Working from the first sub lesson's sequence, the learner plans the make, works through it step by step, and checks the finished piece against what Greece's book shows.
+
+## Say it to your companion
+Explain in your own words: Choosing materials per part (soft wood/plywood base you can nail and screw into, compressed insulation board, reusing "useless" materials), planning and economy of materials. Say it once plainly, then answer one question your companion asks about it.
+
+## Do It Yourself
+1. Do the Do it first task again, carefully this time, using everything the lesson taught.
+2. Check your work against the lesson's own checks — fix one thing you find.
+3. Keep your work: it is practice evidence, and the next lesson builds on it.

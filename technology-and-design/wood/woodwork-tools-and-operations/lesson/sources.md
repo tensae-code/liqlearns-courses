@@ -1,6 +1,6 @@
 # Sources — Woodwork — tools and operations
 
-countries: Cuba, Iran, Moldova, Papua New Guinea
+countries: Cuba, Iran, Moldova, Papua New Guinea, Greece
 
 **Book 1:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -34,7 +34,13 @@ countries: Cuba, Iran, Moldova, Papua New Guinea
 |---|---|
 | Practical Skills unit: Working with Wood (teacher guide — evidence) (original string `working with wood`) | Papua New Guinea, *PNG DesignTech Upper*, printed p. 44-47 |
 
-**Acceptance count: taught in 3 countries (Cuba, Iran, Moldova) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Book 8:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| choosing wood, measuring and marking out, cutting, shaping (chisels), drilling and joining solid parts (original string `Working wood`) | Greece, *Technologia A Gym*, printed p. 34 |
+
+**Acceptance count: taught in 4 countries (Cuba, Iran, Moldova, Greece) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Practical Skills unit: Working with Wood. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -44,4 +50,6 @@ Moldova's own way: Moldova builds the wood operations in grade order — sawing 
 
 Iran's own way: Iran teaches woodwork through two complete projects in Grade 7 — a Quran stand (rehal), marked out with a metal square, cut with a fine backsaw, filed and sanded with the work clamped and checked against the drawing; and a lidded storage box, its lid drilled by marking diagonals and fitted with a handle — with safety and economy of material throughout.
 
-Searchable tags: sawing, drilling, planing, foxtail, bow saw, coarbă, rindeluirea, cross-cutting, rip-cutting, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — choosing wood, measuring and marking out, cutting, shaping (chisels), drilling and joining solid parts. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: sawing, drilling, planing, foxtail, bow saw, coarbă, rindeluirea, cross-cutting, rip-cutting, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Greece

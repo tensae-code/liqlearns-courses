@@ -1,6 +1,6 @@
 # Sources — Metalwork — tools and operations
 
-countries: Cuba, Mongolia
+countries: Cuba, Mongolia, Greece
 
 **Book 1:** *Programa: Educación Laboral — 6to grado* (programme) — Publisher: not stated in file (Ministerio de Educación, Cuba programme; older programme series — the file references the G5/G6 pupil textbooks and the 1981 huertos manual) | Year: not stated in file | Grade: 6 | Language: Spanish | Pages: 20 PDF pp | Source: GitHub tree `grade-06/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 191,067 bytes — cover check: the file has NO cover; it opens with the subject characterisation (PDF p. 1) | Kind: teacher (programme) | COMPLETE as filed (20 pp: characterisation, grade objectives, plan temático and the full unit contents for Units 1–4 plus Unit 5 heading; pages unnumbered, cited by PDF page) Note: Unit 3 (Trabajos sencillos de cocina — food conservation, preserves, formal table, cold dishes) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio) is workplace visits — not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -26,10 +26,18 @@ countries: Cuba, Mongolia
 |---|---|
 | forging and rolling, cutting with chisel and shears, and heat treatment (hardening and tempering) (original string `Working metal`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 105 |
 
-**Acceptance count: taught in 2 countries (Cuba, Mongolia)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
+**Book 7:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measuring and marking out on metal (scribers, punches, dividers, calipers, rules, squares), centre-punching the lines, cutting (cutters, pliers), filing, grinding wheel, bending sheet metal in the folding machine (στράντζα), drilling openings safely (original string `Working metal`) | Greece, *Technologia A Gym*, printed p. 43 |
+
+**Acceptance count: taught in 3 countries (Cuba, Mongolia, Greece)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
 
 Cuba's own way: Cuba's metalwork is taught as a complete bench discipline in Grade 8 — tools, the full operation chain, riveted joints, and finishing and protecting the metal.
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — forging and rolling, cutting with chisel and shears, and heat treatment (hardening and tempering). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: metalwork — tools and operations, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — measuring and marking out on metal (scribers, punches, dividers, calipers, rules, squares), centre-punching the lines, cutting (cutters, pliers), filing, grinding wheel, bending sheet metal in the folding machine (στράντζα), drilling openings safely. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: metalwork — tools and operations, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read, Greece

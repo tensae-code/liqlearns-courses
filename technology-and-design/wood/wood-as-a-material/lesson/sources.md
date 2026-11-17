@@ -1,6 +1,6 @@
 # Sources — Wood as a material
 
-countries: Cuba, Iran, Moldova, Mongolia
+countries: Cuba, Iran, Moldova, Mongolia, Greece
 
 **Book 1:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -40,7 +40,19 @@ countries: Cuba, Iran, Moldova, Mongolia
 |---|---|
 | sawn timber and semi-finished materials (plywood, chipboard, fibreboard) and how veneer and plywood are made (original string `Wood materials`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 82 |
 
-**Acceptance count: taught in 4 countries (Cuba, Iran, Moldova, Mongolia).**
+**Book 9:** *Τεχνολογία Υλικών (Technologia Ylikon — Materials Technology, for Conservation of Works of Art, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0174-02-V3. Grade: G' EPAL (Grade 12), Applied Arts sector, Conservation of Works of Art specialty (per record subject ΤΕΧΝΟΛΟΓΙΑ ΥΛΙΚΩΝ - ΣΥΝΤ. ΕΡΓΩΝ ΤΕΧΝ.). Kind: student book. Pages: 218 PDF pp. = 218 pp. per record. Size verified: 7,564,406 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 14 varnishes; Ch. 15 is the bibliography; contents printed at the back, pp. 211–216). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| structure (macro/micro, chemical composition) and properties (density, moisture, elasticity/strength, hardness), processing wood (cutting, drying, impregnation, shaping, joining, decoration), and wood decay — pests, micro-organisms, protection (original string `Wood as a material`) | Greece, *Materials Tech (Art Conservation)*, Ch. 8 |
+
+**Book 10:** *Τεχνολογία Ξύλου – Μετρήσεις (Technologia Ksylou – Metriseis, Wood Technology – Measurements, Grade 12 EPAL)* (student book) — Greece. Authors: Γεώργιος Μαντάνης, Γεώργιος Νταλός, Ιωάννης Παπαδόπουλος. Publisher: ITYE Diophantos. Book code 24-0194-02-V1. Grade: G' EPAL (Grade 12), Applied Arts sector, specialty Furniture-making & Woodcarving (Επιπλοποιίας – Ξυλογλυπτικής). Kind: student book. Pages: 178 PDF pp. = 178 pp. per record. Size verified: 6,992,548 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 19 computerisation of wood/furniture businesses, printed p. 157 ff.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| origin and structure of wood, its advantages and disadvantages (original string `Wood as a material`) | Greece, *Wood Tech & Measurements*, printed p. 13 |
+
+**Acceptance count: taught in 5 countries (Cuba, Iran, Moldova, Mongolia, Greece).**
 
 Cuba's own way: Cuba builds wood knowledge in layers: Grade 5 (where timber comes from, Cuba's forests and reforestation, hardness and hygroscopicity, natural wood against plywood), Grade 6 (the tree's cross-section — annual rings, duramen, albura, bark — and the timber profiles), Grade 7 (generalities, classification, principal Cuban woods, the grain's direction).
 
@@ -50,4 +62,6 @@ Iran's own way: Iran teaches wood by a property table — fibre, colour, hardnes
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the physical properties of wood — colour, grain figure, lustre, density, sound conduction and moisture — and why they matter for design. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: wood, timber, frame saw, gater, plywood, chipboard, veneer, semi-finished products, technology definition, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — structure (macro/micro, chemical composition) and properties (density, moisture, elasticity/strength, hardness), processing wood (cutting, drying, impregnation, shaping, joining, decoration), and wood decay — pests, micro-organisms, protection; origin and structure of wood, its advantages and disadvantages. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: wood, timber, frame saw, gater, plywood, chipboard, veneer, semi-finished products, technology definition, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral, Mongolia, visual read, Greece

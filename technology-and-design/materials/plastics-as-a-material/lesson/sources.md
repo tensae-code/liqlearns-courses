@@ -1,6 +1,6 @@
 # Sources — Plastics as a material
 
-countries: Cuba, Mongolia
+countries: Cuba, Mongolia, Greece
 
 **Book 1:** *Orientaciones metodológicas: Educación Laboral — 5to grado* (teacher guide (methodological orientations)) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4684-1 print, 978-959-13-4685-8 digital) | Authors: Soler Nariño, Cerezal Mezquita, Ordóñez Suárez | Grade: 5 | Language: Spanish | Pages: 103 PDF pp (printed 1–97 + annexes) | Source: GitHub tree `grade-05/gov/cuba/educacion-laboral/teacher/orientaciones.pdf`, 799,314 bytes, cover verified (title page PDF p. 2; PDF p. 1 is blank) | Kind: teacher (methodological orientations) | COMPLETE Note: no G5 programme or pupil book is in this group's targets — this volume is the only G5 evidence and it carries the grade's unit structure. Unit 3 (Trabajos sencillos de cocina, printed p. 49–56) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio, printed p. 70–74) is workplace visits/interviews — vocational context, not a teaching item, not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -17,10 +17,18 @@ countries: Cuba, Mongolia
 |---|---|
 | their history (Parkesine 1862, celluloid 1869) and the two families — thermosets (polyurethane, nylon, polycarbonate, textolite, phenolic) and thermoplastics (polystyrene, PMMA, polyethylene, PVC) with their uses (original string `Plastics`) | Mongolia, *Design Technology 8 (Mongolia)*, printed p. 73 |
 
-**Acceptance count: taught in 1 country (Mongolia) — Cuba programme/teacher-guide evidence only, named here, counted nowhere.**
+**Book 4:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| synthetic polymers from oil derivatives, transparent/opaque, soft/hard, thermoplastics vs thermosets by behaviour on heating (original string `Plastics as a material`) | Greece, *Technologia A Gym*, printed p. 45 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Greece) — Cuba programme/teacher-guide evidence only, named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches plastics twice over: as knowledge (origin, heat behaviour, advantages) in the programmes, and as bench work — recovered plastic traced, cut and perforated on the sufridera.
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — their history (Parkesine 1862, celluloid 1869) and the two families — thermosets (polyurethane, nylon, polycarbonate, textolite, phenolic) and thermoplastics (polystyrene, PMMA, polyethylene, PVC) with their uses. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: plastics as a material, Cuba, Educación Laboral, MINED, Spanish, materials, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — synthetic polymers from oil derivatives, transparent/opaque, soft/hard, thermoplastics vs thermosets by behaviour on heating. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: plastics as a material, Cuba, Educación Laboral, MINED, Spanish, materials, Mongolia, visual read, Greece

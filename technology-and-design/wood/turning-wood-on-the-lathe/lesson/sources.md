@@ -1,6 +1,6 @@
 # Sources — Turning wood on the lathe
 
-countries: Kazakhstan, Mongolia
+countries: Kazakhstan, Mongolia, Greece
 
 **Book 1:** Artistic Labour Grade 7, boys' variant, 2017 edition (Chukalin; Russian + Kazakh parallel) — Title as printed: Художественный труд, учебник для 7 класса (вариант для мальчиков) (Chukalin V.G. et al.) Publisher: Келешек-2030, 2017. Grade 7. Languages: Russian (281.pdf, read) + Kazakh (254.pdf, parallel — placed once here). Pages: 80 PDF pp. (281.pdf fetched by me via the record's okulyk.kz source_url, 7,958,930 bytes; page count matches the record) — contents (printed p. 79) viewed by me. Art content (§§1–4 visual art): placed by the Art wave (its Book 15) — §§1–4 are shared with Book 26. Safety rules (printed p. 74) apparatus; glossary (printed p. 76) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
 
@@ -14,10 +14,18 @@ countries: Kazakhstan, Mongolia
 |---|---|
 | the sequence from square blank to finished cylinder, and Nartov's lathe in the history of machine tools (original string `Turning wood on the lathe`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 94 |
 
-**Acceptance count: taught in 2 countries (Kazakhstan, Mongolia).**
+**Book 3:** *Τεχνολογία Ξύλου – Μηχανήματα (Technologia Xylou – Michanimata, Wood Technology – Machines, Grades 11–12 EPAL)* (student book) — Greece. Authors: Σωτήριος Καραστεργίου, Ιωάννης Φιλίππου, Κωνσταντίνος Σκουλαράκος, Γεώργιος Καλέμας. Publisher: ITYE Diophantos. Book code 24-0192-02-V1. Grades: B' & G' EPAL (Grades 11–12), Applied Arts sector. Kind: student book (theory part + laboratory part per chapter). Pages: 202 PDF pp. = 202 pp. per record. Size verified: 5,981,335 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 19 visits to workplaces and exhibitions). Scope note: every machine chapter follows the same pattern — machine elements (στοιχεία μηχανήματος), working methods, general safety rules, then a laboratory part. That pattern is stated once here; lines below are per machine/operation. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the wood lathe (original string `Turning wood`) | Greece, *Wood Tech Machines*, Ch. 10 |
+
+**Acceptance count: taught in 3 countries (Kazakhstan, Mongolia, Greece).**
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training), where making is learned by making — The blank planed to an octagon, centres marked and drilled, mounted; roughing with the half-round chisel (1–2 mm shavings), finishing with the skew chisel, diameter checked with calipers as you go; parting, sanding on the lathe, sawing off; three complete technological cards with drawings — a rolling pin in ten operations, a potato masher in thirteen, a file handle in nine turned to a template (§15). The Kazakh classroom's own examples, materials and national crafts named in the provenance rows above are part of the teaching, not decoration.
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the sequence from square blank to finished cylinder, and Nartov's lathe in the history of machine tools. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: turning wood on the lathe, wood, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — the wood lathe. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: turning wood on the lathe, wood, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу, Mongolia, visual read, Greece

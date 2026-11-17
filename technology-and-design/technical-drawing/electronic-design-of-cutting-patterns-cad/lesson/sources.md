@@ -1,0 +1,15 @@
+# Sources — Electronic design of cutting patterns (CAD)
+
+countries: Greece
+
+**Book 1:** *Τεχνολογία Προτύπων Κοπής (Πατρόν) Ι (Technologia Protypon Kopis (Patron) I — Pattern-Cutting Technology I, EPAL)* (student book) — Greece. Authors: Ειρήνη Βασιλοπούλη, Φωτεινή Δάβου. Publisher: ITYE Diophantos. Book code 24-0430-02-V1. Grade: G' EPAL per cover (the prologue addresses the older TEE B'-class Fabric–Clothing specialty; the current EPAL issue is the Garment Design & Production specialty, Applied Arts sector). Kind: student book (drafting instruction + laboratory parts). Pages: 362 PDF pp. = 362 pp. per record. Size verified against record via batch extraction (362 pp.). Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 10 electronic/CAD pattern design, through printing, printed p. ~345). Scope note: the foundation volume of the pair (Vol. II is 24-0438): the basic blocks are built by hand from body measurements and industrial size tables, converted and graded, and finally produced by CAD. Lines below are per chapter. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| CAD garment-design programs — their use and operation, pattern grading on computer (skirt, bodice, sleeve, trousers), preparing the pattern for cutting, creating and constructing the marker (τοποθέτηση), and printing/plotting (original string `Electronic design of cutting patterns (CAD)`) | Greece, *Pattern Cutting I*, printed p. 300 |
+
+**Acceptance count: taught in 1 country (Greece).**
+
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — CAD garment-design programs — their use and operation, pattern grading on computer (skirt, bodice, sleeve, trousers), preparing the pattern for cutting, creating and constructing the marker (τοποθέτηση), and printing/plotting. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: electronic design of cutting patterns (cad), technical drawing, Greece, Pattern Cutting I

@@ -1,6 +1,6 @@
 # Sources — Orthographic projection — points, lines, planes and surfaces
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Malta, Moldova, Morocco, Samoa, Sri Lanka, Papua New Guinea, Mongolia
+countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Malta, Moldova, Morocco, Samoa, Sri Lanka, Papua New Guinea, Mongolia, Greece
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -113,7 +113,19 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Malta, Moldova, Morocco, Samoa, 
 | Points, lines and planes in the three-plane system: a point from its coordinates (A = x10, y20, z25), level lines and level planes parallel to a projection plane, and projecting lines and planes perpendicular to one (original string `technical-drawing/orthographic-projection-basics`) | Mongolia, *Design Drawing & Technology 12 (Mongolia)*, printed p. 6 |
 | The E system and the A system: first-angle (European) and third-angle (American) projection — how the same solid's three views are placed differently, and telling the systems apart (original string `technical-drawing/orthographic-projection-basics`) | Mongolia, *Design Drawing & Technology 12 (Mongolia)*, printed p. 39 |
 
-**Acceptance count: taught in 9 countries (Belarus, Cuba, Fiji, Iran, Malta, Moldova, Samoa, Sri Lanka, Mongolia) — plus teacher-guide evidence only (Ethiopia, Morocco, Papua New Guinea), named here, counted nowhere.**
+**Book 27:** *Τεχνολογία Β΄ Γυμνασίου (Technologia B' Gymnasiou — Technology, Grade 8)* (student book) — Greece. Authors: Ρηγώ Φασουράκη, Αλίκη Τσακατούρα, Βασίλειος Δημητρόπουλος, Σεραφείμ Τριβέλλας. Publisher: ITYE Diophantos. Book code 21-0099-02, ISBN 978-960-06-2730-5. Grade: B' Gymnasiou (Grade 8). Kind: student book. Pages: 98 PDF pp. = 98 pp. per record. Size verified: 13,413,188 bytes, exact match to record. Route: grab.py url, release `mid-size-books`. Cover verified: ΤΕΧΝΟΛΟΓΙΑ Β΄ ΓΥΜΝΑΣΙΟΥ with the four authors named. COMPLETE — read to the last teaching page (Step 6 presentation/exhibition, printed p. 92; glossary p. 94 is inventory-only per the brief and is not placed; bibliography p. 95). Greece's own way note: Grade 8 Technology uses the "group work" method themed on Industry — the class simulates a production company, takes its roles, and builds a scale model (ομοίωμα/μακέτα) of the production unit. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the final detailed drawings of the model: plan view (κάτοψη) and elevations (όψεις) with details, scale and dimensions marked (original string `technical-drawing/orthographic-projection-basics`) | Greece, *Technologia B Gym*, printed p. 86 |
+
+**Book 28:** *Τεχνολογία Α΄ ΕΠΑ.Λ. — Ερευνητική Εργασία στην Τεχνολογία (Technologia A EPAL — Research Work in Technology, Grade 10)* (student book) — Greece. Authors: Νικόλαος Ηλιάδης – Γεώργιος Βουτσινός. Publisher: ITYE Diophantos. Book code 22-0032-02-V1. Grade: A' Lykeiou / A' EPAL (Grade 10), subject ΕΡΕΥΝΗΤΙΚΗ ΕΡΓΑΣΙΑ ΣΤΗΝ ΤΕΧΝΟΛΟΓΙΑ. Kind: student book. Pages: 334 PDF pp. = 334 pp. per record. Size verified: 10,631,984 bytes, exact match to record. Route: grab.py url, release `mid-size-books-6`. Cover verified: ΤΕΧΝΟΛΟΓΙΑ Α΄ ΕΠΑ.Λ. COMPLETE — read to the last teaching page (Ch. VI constructions, printed p. 274–326; bibliography p. 327). The Part I appendix (printed pp. 87–124: inventor/invention catalogues and useful research websites) is inventory-only and not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the drawing set of a building: floor plans, elevations (όψεις) and detail drawings, and designing a dwelling around its users' needs (original string `technical-drawing/orthographic-projection-basics`) | Greece, *EPAL Research Work*, printed p. 314 |
+
+**Acceptance count: taught in 10 countries (Belarus, Cuba, Fiji, Iran, Malta, Moldova, Samoa, Sri Lanka, Mongolia, Greece) — plus teacher-guide evidence only (Ethiopia, Morocco, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Orthographic drawing — taught as building trade drawing. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -141,4 +153,6 @@ Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching 
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) and Visual Art & Technology (Дүрслэх урлаг, технологи) — Orthogonal projection on the three planes π₁ (top), π₂ (front) and π₃ (side): building the three views of a solid and matching given views to their solids. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia, Samoa, Year 11, shelter, three-view drawing, Moldova, Grades 5–6, wooden pieces, STAS, ISO, Iran, Grade 7, Persian, Iran, Grade 8, Persian, Sri Lanka, Fiji, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — the final detailed drawings of the model: plan view (κάτοψη) and elevations (όψεις) with details, scale and dimensions marked; the drawing set of a building: floor plans, elevations (όψεις) and detail drawings, and designing a dwelling around its users' needs. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Β΄ Γυμνασίου (Technologia B' Gymnasiou — Technology, Grade 8)*: Greece's own way note: Grade 8 Technology uses the "group work" method themed on Industry — the class simulates a production company, takes its roles, and builds a scale model (ομοίωμα/μακέτα) of the production unit.
+
+Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia, Samoa, Year 11, shelter, three-view drawing, Moldova, Grades 5–6, wooden pieces, STAS, ISO, Iran, Grade 7, Persian, Iran, Grade 8, Persian, Sri Lanka, Fiji, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read, Greece

@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan, Papua New Guinea, Mongolia
+countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan, Papua New Guinea, Mongolia, Greece
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -95,7 +95,13 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova,
 | the part sketch (тойм зураг) and the working drawing: what each is and what each is for (original string `technical-drawing/free-hand-sketching-principles`) | Mongolia, *Дизайн зураг зүй, технологи X*, printed p. 21 |
 | the sequence for sketching a part: the ordered steps from observing the part to the finished sketch (original string `technical-drawing/free-hand-sketching-principles`) | Mongolia, *Дизайн зураг зүй, технологи X*, printed p. 32 |
 
-**Acceptance count: taught in 9 countries (Belarus, Cuba, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan, Mongolia) — plus teacher-guide evidence only (Ethiopia, Indonesia, Papua New Guinea), named here, counted nowhere.**
+**Book 23:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| creating technical drawings of the object to be built — the drawing as a communication system and the bridge from study to making; accuracy of the drawing decides the quality of the construction (original string `technical-drawing/free-hand-sketching-principles`) | Greece, *Technologia A Gym*, printed p. 34 |
+
+**Acceptance count: taught in 10 countries (Belarus, Cuba, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan, Mongolia, Greece) — plus teacher-guide evidence only (Ethiopia, Indonesia, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Architectural 3D Sketching; 3D Free-Hand Sketching — sketching as an engineering problem-solving tool. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -123,4 +129,6 @@ Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching 
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) and Visual Art & Technology (Дүрслэх урлаг, технологи) — The product sketch (тойм зураг): sketching a solid on squared paper showing length, width and height, with hidden edges dashed. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — creating technical drawings of the object to be built — the drawing as a communication system and the bridge from study to making; accuracy of the drawing decides the quality of the construction. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read, Greece

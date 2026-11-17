@@ -1,6 +1,6 @@
 # Sources — Workshop safety
 
-countries: Fiji, Malaysia, Sri Lanka
+countries: Fiji, Malaysia, Sri Lanka, Greece
 
 **Book 1:** *Reka Bentuk dan Teknologi Tahun 4 (KSSR Semakan 2017), Sekolah Kebangsaan* (student book) — Malaysia, Publisher: Kementerian Pendidikan Malaysia / Dewan Bahasa dan Pustaka (first printing 2019, ISBN 978-983-49-2477-3 per imprint page). Grade: grade-04 (Tahun 4). Language: Malay. Pages: 54 PDF pp. (mostly two-page spreads; printed book runs to printed p. 98). Size verified: 49,124,292 bytes, exact match to the release asset in `mid-size-books-2`. Kind: student book. Route: grab.py url (release asset). Cover verified: "REKA BENTUK DAN TEKNOLOGI TAHUN 4 — SEKOLAH KEBANGSAAN", KSSR Semakan 2017 badge. COMPLETE — read to the last teaching page (Unit 6 closing Uji Minda, printed p. 98). Placements at liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
 
@@ -17,7 +17,13 @@ countries: Fiji, Malaysia, Sri Lanka
 | Workshop safety — general, personal, hand-tool, electrical and machine safety rules; first aid; occupational health and safety (original string `workshop safety — general, personal, hand-tool, electrical and machine safety rules; first aid; occupational health and safety`) | Fiji, *Basic Technology — Year 9*, printed p. 6-10 |
 | Workshop safety — general, personal, hand-tool, electrical and machine safety rules; first aid; occupational health and safety (original string `workshop safety — general, personal, hand-tool, electrical and machine safety rules; first aid; occupational health and safety`) | Fiji, *Basic Technology — Year 10*, printed p. 6-8 |
 
-**Acceptance count: taught in 3 countries (Fiji, Malaysia, Sri Lanka).**
+**Book 5:** *Μηχανουργική Τεχνολογία ΙΙ (Κατεργασίες Διαμόρφωσης) (Michanourgiki Technologia II — Mechanical Technology II: Forming Processes & Materials, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0047-03-V1. Grade: G' EPAL (Grade 12), Mechanical sector, specialty Technician of Mechanical Installations & Constructions. Kind: student book. Pages: 462 PDF pp. = 462 pp. per record. Size verified: 10,184,847 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 19 workshop health & safety, printed p. 425–438; bibliography p. 439). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safety rules, occupational diseases, safety signage, the safety technician, the institutional framework (original string `Workshop health and safety basics`) | Greece, *Mech Tech II (Forming)*, printed p. 425 |
+
+**Acceptance count: taught in 4 countries (Fiji, Malaysia, Sri Lanka, Greece).**
 
 Fiji's own way: Fiji opens both Basic Technology years with the same safety block — general, personal, hand-tool, electrical and machine safety rules, first aid, and occupational health and safety — so safety is the first thing taught, before any drawing or making.
 
@@ -25,4 +31,6 @@ Malaysia's own way: Malaysia teaches RBT safety first, in Tahun 4, as three rule
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — safety precautions before starting practical work, and planned (organised) vs unplanned (disorganised) workplaces pictured side by side.
 
-Searchable tags: workshop safety, apron, tied hair, RBT, Malaysia, Tahun 4, Malay, Sri Lanka, Fiji
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — safety rules, occupational diseases, safety signage, the safety technician, the institutional framework. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: workshop safety, apron, tied hair, RBT, Malaysia, Tahun 4, Malay, Sri Lanka, Fiji, Greece

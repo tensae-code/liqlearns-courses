@@ -1,6 +1,6 @@
 # Sources — Metals and alloys
 
-countries: Cuba, Mongolia
+countries: Cuba, Mongolia, Greece
 
 **Book 1:** *Orientaciones metodológicas: Educación Laboral — 5to grado* (teacher guide (methodological orientations)) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4684-1 print, 978-959-13-4685-8 digital) | Authors: Soler Nariño, Cerezal Mezquita, Ordóñez Suárez | Grade: 5 | Language: Spanish | Pages: 103 PDF pp (printed 1–97 + annexes) | Source: GitHub tree `grade-05/gov/cuba/educacion-laboral/teacher/orientaciones.pdf`, 799,314 bytes, cover verified (title page PDF p. 2; PDF p. 1 is blank) | Kind: teacher (methodological orientations) | COMPLETE Note: no G5 programme or pupil book is in this group's targets — this volume is the only G5 evidence and it carries the grade's unit structure. Unit 3 (Trabajos sencillos de cocina, printed p. 49–56) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio, printed p. 70–74) is workplace visits/interviews — vocational context, not a teaching item, not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -23,10 +23,24 @@ countries: Cuba, Mongolia
 |---|---|
 | the families of metals (ferrous, non-ferrous, rare, precious), cast iron and steel, aluminium and copper — melting points and modern uses from bridges to aircraft (original string `Metals`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 86 |
 
-**Acceptance count: taught in 2 countries (Cuba, Mongolia)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
+**Book 6:** *Μηχανουργική Τεχνολογία ΙΙ (Κατεργασίες Διαμόρφωσης) (Michanourgiki Technologia II — Mechanical Technology II: Forming Processes & Materials, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0047-03-V1. Grade: G' EPAL (Grade 12), Mechanical sector, specialty Technician of Mechanical Installations & Constructions. Kind: student book. Pages: 462 PDF pp. = 462 pp. per record. Size verified: 10,184,847 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 19 workshop health & safety, printed p. 425–438; bibliography p. 439). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| chemical bonds, definition and properties of metals, crystal structure, allotropy, alloys and solid solutions, polycrystalline structure (original string `Metals and alloys`) | Greece, *Mech Tech II (Forming)*, printed p. 9 |
+
+**Book 7:** *Τεχνολογία Υλικών (Technologia Ylikon — Materials Technology, for Conservation of Works of Art, Grade 12 EPAL)* (student book) — Greece. Publisher: ITYE Diophantos. Book code 24-0174-02-V3. Grade: G' EPAL (Grade 12), Applied Arts sector, Conservation of Works of Art specialty (per record subject ΤΕΧΝΟΛΟΓΙΑ ΥΛΙΚΩΝ - ΣΥΝΤ. ΕΡΓΩΝ ΤΕΧΝ.). Kind: student book. Pages: 218 PDF pp. = 218 pp. per record. Size verified: 7,564,406 bytes, exact match to record. Route: grab.py url, release `mid-size-books-7`. Cover verified. COMPLETE — read to the last teaching page (Ch. 14 varnishes; Ch. 15 is the bibliography; contents printed at the back, pp. 211–216). Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| native metals and alloys, properties of metals, history of metallurgy, metals in antiquity (gold, silver, copper and its alloys, iron, lead) (original string `Metals`) | Greece, *Materials Tech (Art Conservation)*, Ch. 3 |
+
+**Acceptance count: taught in 3 countries (Cuba, Mongolia, Greece)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
 
 Cuba's own way: Cuba builds metals in layers: sheet and wire properties in Grade 5, mines and corrosion in Grade 6, the four property families, alloys and metal recycling in Grade 8.
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the families of metals (ferrous, non-ferrous, rare, precious), cast iron and steel, aluminium and copper — melting points and modern uses from bridges to aircraft. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: metals and alloys, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — chemical bonds, definition and properties of metals, crystal structure, allotropy, alloys and solid solutions, polycrystalline structure; native metals and alloys, properties of metals, history of metallurgy, metals in antiquity (gold, silver, copper and its alloys, iron, lead). The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
+
+Searchable tags: metals and alloys, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read, Greece

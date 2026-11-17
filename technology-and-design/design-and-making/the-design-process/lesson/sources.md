@@ -1,6 +1,6 @@
 # Sources — The design process
 
-countries: Jamaica, Haiti, Samoa, Moldova, Iran, Fiji, Kazakhstan, Papua New Guinea
+countries: Jamaica, Haiti, Samoa, Moldova, Iran, Fiji, Kazakhstan, Papua New Guinea, Greece
 
 **Book 1:** *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology* (curriculum guide with full unit teaching content) — Jamaica, Ministry of Education, Youth and Information, Kingston, Jamaica; © 2018. Year/edition: 2018 (PDF created in Adobe InDesign CC 13.1, Sep 2018). Grade: Grades 4–6. Language: English. Pages: 188 (PDF); printed pagination runs to p. 167 (printed p. = PDF p. − 20). Source + route: file held on disk in phase3-staging (grade-04/gov/jamaica/curriculum/grades-4-6-resource-technology.pdf), 15,155,269 bytes; copied into scratch and read there — the book is also recorded pushed to GitHub. Kind: curriculum (guide with full unit teaching content). File quirk, verified: the visible cover (rendered and read) is the Resource & Technology Grades 4–6 cover, and the whole body is that guide; the cover page's embedded text layer, however, reads "Grades 7-9 English Language/Literature" — a production artifact in the file's text layer, not a different book. Read: COMPLETE (whole guide checked; Engineering & Mechanisms units and Design Process material read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
 
@@ -66,7 +66,13 @@ countries: Jamaica, Haiti, Samoa, Moldova, Iran, Fiji, Kazakhstan, Papua New Gui
 |---|---|
 | Appendices project sequence steps 1-13 incl. material lists, production procedure tables, cost-plus pricing and marketing (teacher guide — evidence) (original string `design-and-make project process`) | Papua New Guinea, *PNG G9 Construction*, printed p. 403-420 |
 
-**Acceptance count: taught in 6 countries (Fiji, Iran, Jamaica, Moldova, Samoa, Kazakhstan) — plus teacher-guide evidence only (Haiti, Kazakhstan guide rows, Papua New Guinea), named here, counted nowhere.**
+**Book 18:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| solving technological problems through the individual project (stages of the method, its cross-curricular character) (original string `The design-and-make method`) | Greece, *Technologia A Gym*, printed p. 13 |
+
+**Acceptance count: taught in 7 countries (Fiji, Iran, Jamaica, Moldova, Samoa, Kazakhstan, Greece) — plus teacher-guide evidence only (Haiti, Kazakhstan guide rows, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Appendices project sequence steps 1-13 incl. material lists, production procedure tables, cost-plus pricing and marketing. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -86,4 +92,6 @@ Moldova's own way: Moldova's Grade 9 *Educație tehnologică* is built as eleven
 
 Iran's own way: Iran runs the design process at three grades: Grade 11 traces the full development path — idea, concept, pilot, patent, company, production, market — with the wheel as the worked example of a need becoming a product; Grade 7 works the making process on a handmade bag, tested for load strength and improved; Grade 9 prescribes the whole project — define the need, plan the work stages, research existing products, design, build, test — on a motion-mechanism crane.
 
-Searchable tags: design process, E Design Process, define problem, generate ideas, evaluate, Jamaica, Grades 4–6, Resource & Technology, cahier des charges, specification, Haiti, ITAP, Projet Nectar, 8e AF, 9e AF, French, Samoa, Year 11, deck project, working drawings, Iran, Grade 11, Persian, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Fiji, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — solving technological problems through the individual project (stages of the method, its cross-curricular character). The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: design process, E Design Process, define problem, generate ideas, evaluate, Jamaica, Grades 4–6, Resource & Technology, cahier des charges, specification, Haiti, ITAP, Projet Nectar, 8e AF, 9e AF, French, Samoa, Year 11, deck project, working drawings, Iran, Grade 11, Persian, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Fiji, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Greece

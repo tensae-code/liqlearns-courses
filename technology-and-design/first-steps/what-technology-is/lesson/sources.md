@@ -1,6 +1,6 @@
 # Sources — What technology is
 
-countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea, Mongolia
+countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea, Mongolia, Greece
 
 **Book 1:** *Technology in the Community* (Tulliniliara Reading Series, Level 14) (student reader) — Canada, Government of Nunavut (Department of Education / Department of Family Services), developed and published in Canada by Inhabit Education. Written by Jordan Hoffman, illustrated by Ali Hinch. Publisher: Inhabit Education / Government of Nunavut, © 2019, ISBN 978-0-2287-0447-8 (English edition). Grade: nursery / early level (Tulliniliara Level 14). English edition `Technology-in-the-Community-English.pdf` (1,659,080 bytes, 36 PDF pp.) and Inuktitut edition `Technology-in-the-Community-Inuktitut.pdf` (1,688,700 bytes, 36 PDF pp.) — same book, same structure and pagination, verified from covers and text (parallel editions, read once, placed once). Kind: student reader. Route: grab.py tree. Source: private repo `tensae-code/liqlearns-textbooks` (recorded pushed in phase3-push-state.json), fetched 2026-11-17 via grab.py tree route. Cover verified: "Technology in the Community", Tulliniliara 14. COMPLETE — read to the last teaching page (printed p. 32; back pages are imprint). Placements at liqlearns-courses-work/expansion-td-2026-11-17/canada-placements.md.
 
@@ -40,7 +40,14 @@ countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea, Mong
 |---|---|
 | Leonardo da Vinci's machine studies, and the machines of ancient Mongolia (siege and lifting machines) (original string `What technics is`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 95 |
 
-**Acceptance count: taught in 5 countries (Azerbaijan, Canada, Iran, Malaysia, Mongolia) — plus teacher-guide evidence only (Indonesia, Papua New Guinea), named here, counted nowhere.**
+**Book 8:** *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)* (student book) — Greece. Author: Νικόλαος Γλώσσας. Publisher: ITYE Diophantos. Book code 21-0040-02, ISBN 978-960-06-2677-3. Grade: A' Gymnasiou (Grade 7). Kind: student book. Pages: 82 PDF pp. = 82 pp. per record. Size verified: 13,364,282 bytes, exact match to record. Route: grab.py url, release `mid-size-books` (tree route 404s — mid-size band lives on releases). Cover verified: title/author match record. COMPLETE — read to the last teaching page (Ch. 6 seminars, printed p. 57 ff.; appendices on internet information-searching and web resources follow, inventory-only). Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc. Placements at liqlearns-courses-work/expansion-td-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| technology vs science, their interaction, technology's effects on human activity, and why technological education is needed (original string `What technology is`) | Greece, *Technologia A Gym*, printed p. 8 |
+| dividing technology into study units, choosing a unit and a project topic, and gathering information for the project (original string `The sectors of technology`) | Greece, *Technologia A Gym*, printed p. 18 |
+
+**Acceptance count: taught in 6 countries (Azerbaijan, Canada, Iran, Malaysia, Mongolia, Greece) — plus teacher-guide evidence only (Indonesia, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Unit 11.1 frame + the six subject learning outcomes (design process, safe codes/practices, selecting materials/systems, skills and techniques, evaluating against the design brief, communicating ideas). The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -56,4 +63,6 @@ Iran's own way: Iran opens Grade 11 *Use of New Technologies* with technological
 
 Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Leonardo da Vinci's machine studies, and the machines of ancient Mongolia (siege and lifting machines). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
 
-Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read
+Greece's own way: Greece teaches this inside its Greek-language Gymnasio and EPAL technology books (Ministry of Education / ITYE Diophantos) — technology vs science, their interaction, technology's effects on human activity, and why technological education is needed; dividing technology into study units, choosing a unit and a project topic, and gathering information for the project. The Greek classroom's own examples named in the provenance rows above are part of the teaching, not decoration. As filed for *Τεχνολογία Α΄ Γυμνασίου (Technologia A' Gymnasiou — Technology, Grade 7)*: Greece's own way note: the whole Gymnasio Technology course is built on the "individual work" method — each pupil studies one technology sector, builds one artefact, writes it up and presents it in a seminar. The placements below follow that arc.
+
+Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read, Greece

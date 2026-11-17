@@ -1,0 +1,18 @@
+# Voice over the Internet (VoIP)
+
+## Do it first
+Before reading on: take the materials this lesson names and try the task in your own way first. Then read how Greece's book teaches it, and compare.
+
+## Sub lesson 1 — Voice over the Internet (VoIP)
+Greece's book teaches it this way: carrying voice over the data network (*Internet Technologies*, Ch. 5). The learner works through the named materials and steps in order, saying what each step does before doing the next one.
+
+## Sub lesson 2 — Voice over the Internet (VoIP) — doing it yourself
+Now the learner does the whole task unaided: carrying voice over the data network. Working from the first sub lesson's sequence, the learner plans the make, works through it step by step, and checks the finished piece against what Greece's book shows.
+
+## Say it to your companion
+Explain in your own words: Carrying voice over the data network. Say it once plainly, then answer one question your companion asks about it.
+
+## Do It Yourself
+1. Do the Do it first task again, carefully this time, using everything the lesson taught.
+2. Check your work against the lesson's own checks — fix one thing you find.
+3. Keep your work: it is practice evidence, and the next lesson builds on it.
