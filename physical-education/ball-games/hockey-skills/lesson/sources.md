@@ -1,8 +1,8 @@
 # Sources — Hockey Skills
 
-countries: Malaysia, Myanmar
+countries: Malaysia, Myanmar, Bhutan
 
-**Acceptance count: taught in 2 countries (Malaysia, Myanmar).** Malaysia is student-book stock (see its rows below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries (Malaysia, Myanmar, Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count. Malaysia is student-book stock (see its rows below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 ## Malaysia — PE expansion 2026-11-16
 
@@ -75,3 +75,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Lesson plans, Ball unit — teaching hockey: dribbling and shooting with the stick (Ch. 11) (original target `ball-games/hockey-dribbling-and-shooting`) | Myanmar G4 PE Teacher Guide, Ball unit lesson plans |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7); its teacher guides stocked here (Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Bhutan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-placements.md. The Bhutan Book 2 (II–III Suggested Activities) stocked in this lesson is a STUDENT books (Health and Physical Education — Suggested Lesson Activities, Royal Education Council / Ministry of Education, Bhutan, 2020), all COMPLETE, read in full from Wayback Machine captures of the Royal Education Council (rec.gov.bt) originals, byte-identical to the staged records (size + MD5 + page count all match books.json), as filed. Bhutan is therefore filed as student-book stock, inside the acceptance count, in this lesson. The books' Health parts are placed in the Health course from bhutan-health-placements.md.
+
+**Book — Bhutan II–III Suggested Activities (student book):**
+## Book 2 — II–III Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Classes II and III
+- Grade: Classes II and III (Grades 2–3) (student/teacher: STUDENT — suggested-activities book; one physical book serves both the Class II and Class III records, identical file in both staging folders)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-506-5
+- PDF pages: 97 (cover/title page verified against the record title; 6,084,426 bytes, MD5 matches the staged records for both grades)
+- Verdict: COMPLETE
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Bhutan's own way: Same competency-based activity format as PP–I; Class III dribbling is taught in three separate lessons (implement, feet, hands) and one Class III circuit carries a Dzongkha name, Lungi Khorlo; aerobic dance appears in both grades as the rhythmic-fitness vehicle.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — Class III 10.1.1 Dribble with Implement — controlling a box/ball with a rolled-newspaper bat (hockey-style dribbling) through markers and scoring into a carton (original target `ball-games/dribbling-with-an-implement`) | Bhutan, *Bhutan Class III II–III Suggested Activities*, printed p. 44 |
+
+Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.

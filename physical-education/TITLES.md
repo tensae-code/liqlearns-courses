@@ -421,3 +421,8 @@ Rules of Hockey** (`ball-games/the-rules-of-hockey`)
 and **The Rules of Baseball and Softball**
 (`ball-games/the-rules-of-baseball-and-softball`)
 — 3 new lessons, bringing this course to 234 lessons.
+
+The PE expansion then added: **Traditional Games of
+Bhutan**
+(`traditional-games-and-dances/traditional-games-of-bhutan`)
+— 1 new lesson, bringing this course to 235 lessons.

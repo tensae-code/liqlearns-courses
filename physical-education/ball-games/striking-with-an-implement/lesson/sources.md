@@ -1,8 +1,8 @@
 # Sources — Striking with an Implement
 
-countries: Belize, Zimbabwe
+countries: Belize, Zimbabwe, Bhutan
 
-**Acceptance count: taught in 0 countries.** Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on teacher-curriculum evidence only, no pupil's book in hand. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 1 country (Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — this lesson's first pupil's book in hand. Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
 
 ## Belize — PE expansion 2026-11-16
 
@@ -47,3 +47,34 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-
 | Zimbabwe — Unit 12: Striking — striking a ball with implements in striking games (original target `ball-games/striking-games-skills`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 25 |
 
 Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Bhutan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-placements.md. The Bhutan Book 3 (Class IV Suggested Activities) and Book 4 (Class V Suggested Activities) stocked in this lesson are STUDENT books (Health and Physical Education — Suggested Lesson Activities, Royal Education Council / Ministry of Education, Bhutan, 2020), all COMPLETE, read in full from Wayback Machine captures of the Royal Education Council (rec.gov.bt) originals, byte-identical to the staged records (size + MD5 + page count all match books.json), as filed. Bhutan is therefore filed as student-book stock, inside the acceptance count, in this lesson. The books' Health parts are placed in the Health course from bhutan-health-placements.md.
+
+**Book — Bhutan Class IV Suggested Activities (student book):**
+## Book 3 — Class IV Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class IV
+- Grade: Class IV (Grade 4) (student/teacher: STUDENT — suggested-activities book; Key-stage II begins)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-507-2
+- PDF pages: 73 (cover/title page verified against the record title; 7,706,739 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 13 placements — 11 to existing lessons, 2 NEW LESSON NEEDED
+- Bhutan's own way: Key-stage II lessons gain warm-up and cool-down sections; new themes appear — fitness for health, and healthy and ethical use of substances; warm-up games use Bhutanese family words (Appa, Amma, Aacho, Azhim) and one scoring game, The Zeko, is built around a Bhutanese ring and honest score-keeping.
+
+**Book — Bhutan Class V Suggested Activities (student book):**
+## Book 4 — Class V Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class V
+- Grade: Class V (Grade 5) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-508-9
+- PDF pages: 55 (cover/title page verified against the record title; 4,340,893 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Bhutan's own way: Class V movement teaching turns to named ball skills — volleying, batting round the bases, and punting — each with full technique points; the nutrition theme moves from Go/Grow/Glow to the six food groups, a food pyramid and a personal food journal.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.1.2 Strike with Implement — two-hand side-arm striking off a modified tee (foundations of T-ball, cricket, hockey, golf and racquet strokes) plus palm striking while jogging (original target `ball-games/striking-with-an-implement`) | Bhutan, *Bhutan Class IV Suggested Activities*, printed p. 10 |
+| Bhutan — 8.1.2 Round the Bases — batting a ball off a modified tee with a rolled-paper bat and running the bases of a baseball diamond against the fielding team (original target `ball-games/striking-with-an-implement`) | Bhutan, *Bhutan Class V Suggested Activities*, printed p. 12 |
+
+Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.

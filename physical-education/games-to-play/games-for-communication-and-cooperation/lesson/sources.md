@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda, DR Congo, Turkey, Myanmar, Laos, Vietnam
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda, DR Congo, Turkey, Myanmar, Laos, Vietnam, Bhutan
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indone
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 8 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka, DR Congo, Turkey, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka, DR Congo, Turkey, Myanmar, Vietnam, Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count. DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -786,3 +786,59 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-p
 | Vietnam — Phần Ba Chủ đề 3 Bài 3, Trò chơi Làm theo đội trưởng — follow the team captain: copy the captain's movement at once (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 86 |
 
 Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Bhutan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-placements.md. The Bhutan Book 1 (PP–I Suggested Activities), Book 2 (II–III Suggested Activities), Book 3 (Class IV Suggested Activities) and Book 5 (Class VI Suggested Activities) stocked in this lesson are STUDENT books (Health and Physical Education — Suggested Lesson Activities, Royal Education Council / Ministry of Education, Bhutan, 2020), all COMPLETE, read in full from Wayback Machine captures of the Royal Education Council (rec.gov.bt) originals, byte-identical to the staged records (size + MD5 + page count all match books.json), as filed. Bhutan is therefore filed as student-book stock, inside the acceptance count, in this lesson. The books' Health parts are placed in the Health course from bhutan-health-placements.md.
+
+**Book — Bhutan PP–I Suggested Activities (student book):**
+## Book 1 — PP–I Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class PP and I
+- Grade: Classes PP and I (Grades PP–1) (student/teacher: STUDENT — suggested-activities book for teachers to run with pupils)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-505-8
+- PDF pages: 77 (cover/title page verified against the record title; 5,725,675 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED
+- Bhutan's own way: Competency-based HPE framed by Gross National Happiness; every activity is a movement game carrying a health or social lesson, with learning objectives, set-up, variations, debriefing questions and a Teacher-Information box giving the technical elements of the skill; themes spiral across PP and Class I (movement, posture/safety, nutrition, WASH, behaviours for social harmony).
+
+**Book — Bhutan II–III Suggested Activities (student book):**
+## Book 2 — II–III Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Classes II and III
+- Grade: Classes II and III (Grades 2–3) (student/teacher: STUDENT — suggested-activities book; one physical book serves both the Class II and Class III records, identical file in both staging folders)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-506-5
+- PDF pages: 97 (cover/title page verified against the record title; 6,084,426 bytes, MD5 matches the staged records for both grades)
+- Verdict: COMPLETE
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Bhutan's own way: Same competency-based activity format as PP–I; Class III dribbling is taught in three separate lessons (implement, feet, hands) and one Class III circuit carries a Dzongkha name, Lungi Khorlo; aerobic dance appears in both grades as the rhythmic-fitness vehicle.
+
+**Book — Bhutan Class IV Suggested Activities (student book):**
+## Book 3 — Class IV Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class IV
+- Grade: Class IV (Grade 4) (student/teacher: STUDENT — suggested-activities book; Key-stage II begins)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-507-2
+- PDF pages: 73 (cover/title page verified against the record title; 7,706,739 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 13 placements — 11 to existing lessons, 2 NEW LESSON NEEDED
+- Bhutan's own way: Key-stage II lessons gain warm-up and cool-down sections; new themes appear — fitness for health, and healthy and ethical use of substances; warm-up games use Bhutanese family words (Appa, Amma, Aacho, Azhim) and one scoring game, The Zeko, is built around a Bhutanese ring and honest score-keeping.
+
+**Book — Bhutan Class VI Suggested Activities (student book):**
+## Book 5 — Class VI Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class VI
+- Grade: Class VI (Grade 6) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-509-6
+- PDF pages: 65 (cover/title page verified against the record title; 4,941,021 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 10 placements — 10 to existing lessons, 0 NEW LESSON NEEDED
+- Bhutan's own way: Class VI movement teaching reaches named athletics technique (the scissor jump for high jump) and full rally volleyball; the behaviour theme closes the primary course with collaboration, communication and responsibility games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — Class PP 8.4.1 Let's Work Together — side-passing a ball along a team line while using polite phrases (please, thank you, excuse me) and listening (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class PP PP–I Suggested Activities*, printed p. 30 |
+| Bhutan — Class I 10.5.3 Guide Each Other — blindfolded leader led by a guide's spoken directions (stop, turn, forward) to build trust and clear communication (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class I PP–I Suggested Activities*, printed p. 60 |
+| Bhutan — Class II 8.4.2 Know Your Friend — blindfolded identification game built on sharing likes/dislikes and active listening (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class II II–III Suggested Activities*, printed p. 37 |
+| Bhutan — Class III 10.4.4 Listen and Act — call-and-response listening game ("I see!") where children perform the movement the teacher names (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class III II–III Suggested Activities*, printed p. 72 |
+| Bhutan — Class III 10.4.5 Right Talk — rolling-ball tag game played with courtesy words, ending in handshakes and appreciation phrases (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class III II–III Suggested Activities*, printed p. 74 |
+| Bhutan — 8.7.2 Find the Way — blindfolded pupil crosses an obstacle course (hop, jump, dodge) guided by the team's sung directions (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class IV Suggested Activities*, printed p. 50 |
+| Bhutan — 8.7.2 Magic Pass — passing objects down a team line without using hands and dropping them in a basket, driven by team communication (original target `games-to-play/games-for-communication-and-cooperation`) | Bhutan, *Bhutan Class VI Suggested Activities*, printed p. 48 |
+
+Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.

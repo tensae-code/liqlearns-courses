@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar, Laos, Vietnam
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar, Laos, Vietnam, Bhutan
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -53,7 +53,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, T
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
-**Acceptance count: taught in 6 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar, Vietnam).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar, Vietnam, Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -970,3 +970,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-p
 | Vietnam — Phần Ba Chủ đề 3 Bài 3, Trò chơi Đội nào nhanh hơn, chính xác hơn — which team is faster and more accurate: pass and catch down the circle (original target `games-to-play/games-for-quick-decisions`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 93 |
 
 Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Bhutan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-placements.md. The Bhutan Book 5 (Class VI Suggested Activities) stocked in this lesson is a STUDENT books (Health and Physical Education — Suggested Lesson Activities, Royal Education Council / Ministry of Education, Bhutan, 2020), all COMPLETE, read in full from Wayback Machine captures of the Royal Education Council (rec.gov.bt) originals, byte-identical to the staged records (size + MD5 + page count all match books.json), as filed. Bhutan is therefore filed as student-book stock, inside the acceptance count, in this lesson. The books' Health parts are placed in the Health course from bhutan-health-placements.md.
+
+**Book — Bhutan Class VI Suggested Activities (student book):**
+## Book 5 — Class VI Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class VI
+- Grade: Class VI (Grade 6) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-509-6
+- PDF pages: 65 (cover/title page verified against the record title; 4,941,021 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 10 placements — 10 to existing lessons, 0 NEW LESSON NEEDED
+- Bhutan's own way: Class VI movement teaching reaches named athletics technique (the scissor jump for high jump) and full rally volleyball; the behaviour theme closes the primary course with collaboration, communication and responsibility games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.1.5 Tic-Tac-Toe Relay — running relay placing team objects in a hoop grid to complete tic-tac-toe, balancing speed with team decision-making (original target `games-to-play/games-for-quick-decisions`) | Bhutan, *Bhutan Class VI Suggested Activities*, printed p. 19 |
+
+Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.

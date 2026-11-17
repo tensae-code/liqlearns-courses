@@ -1,8 +1,8 @@
 # Sources — Punting a Ball
 
-countries: Belize
+countries: Belize, Bhutan
 
-**Acceptance count: taught in 0 countries.** Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on teacher-curriculum evidence only, no pupil's book in hand.
+**Acceptance count: taught in 1 country (Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — this lesson's first pupil's book in hand. Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count.
 
 ## Belize — PE expansion 2026-11-16
 
@@ -25,3 +25,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/punting-a-ball` — Punting a ball: dropping the ball and striking it with the instep, as a goalkeeper or in open play.); Belize's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Belize enters this lesson as teacher-curriculum evidence only, outside the acceptance count. Belize's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: punting a ball, punting, dropped ball, Belize PE Lower Division
+
+## Bhutan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-placements.md. The Bhutan Book 4 (Class V Suggested Activities) stocked in this lesson is a STUDENT books (Health and Physical Education — Suggested Lesson Activities, Royal Education Council / Ministry of Education, Bhutan, 2020), all COMPLETE, read in full from Wayback Machine captures of the Royal Education Council (rec.gov.bt) originals, byte-identical to the staged records (size + MD5 + page count all match books.json), as filed. Bhutan is therefore filed as student-book stock, inside the acceptance count, in this lesson. The books' Health parts are placed in the Health course from bhutan-health-placements.md.
+
+**Book — Bhutan Class V Suggested Activities (student book):**
+## Book 4 — Class V Suggested Activities (student book, English)
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class V
+- Grade: Class V (Grade 5) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-508-9
+- PDF pages: 55 (cover/title page verified against the record title; 4,340,893 bytes, MD5 matches the staged record)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Bhutan's own way: Class V movement teaching turns to named ball skills — volleying, batting round the bases, and punting — each with full technique points; the nutrition theme moves from Go/Grow/Glow to the six food groups, a food pyramid and a personal food journal.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.1.3 Punt Through — punting technique (drop the ball, strike with the instep, follow through) punted through ropes to a partner; the goalkeeper's punt in soccer and rugby (original target `ball-games/punting-a-ball`) | Bhutan, *Bhutan Class V Suggested Activities*, printed p. 15 |
+
+Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.

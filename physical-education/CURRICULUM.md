@@ -1066,6 +1066,32 @@ and the level rises Development (Grade 7) → Intermediate
 (Grade 8) → Advanced (Grade 9); cricket, netball and lawn
 tennis stand beside the world games.
 
+**PE expansion — Bhutan — BUILT 2026-11-16:** 64 placements
+from Bhutan's five Health and Physical Education —
+Suggested Lesson Activities books (Classes PP–I, II–III,
+IV, V and VI; Royal Education Council / Ministry of
+Education, 2020, all COMPLETE) stocked — 61 into existing
+lessons and 3 as 1 new lesson (Traditional Games of
+Bhutan) — bringing this course to **235 lessons**. All
+five Bhutan books are STUDENT books (suggested-activities
+books for teachers to run with pupils), read in full from
+Wayback Machine captures of the Royal Education Council
+(rec.gov.bt) originals, byte-identical to the staged
+records (size + MD5 + page count all match books.json), so
+Bhutan is student-book stock, inside the acceptance
+counts, in every lesson it touches; Striking with an
+Implement and Punting a Ball gain their first pupil's
+book (acceptance count 0 → 1). No Bhutan PE placement
+resolves to a Health-course lesson, so none was excluded
+as Health-bound; the books' Health parts are placed in
+the Health course from bhutan-health-placements.md.
+Bhutan's own way is content: competency-based HPE framed
+by Gross National Happiness — every activity is a
+movement game carrying a health or social lesson — with
+Bhutanese games of its own: hopscotch play, 'What Time Is
+It, Charo?' (charo = friend), the Zeko ring game, and the
+Lungi Khorlo movement circuit.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1335,6 +1361,7 @@ tennis stand beside the world games.
 61. **Traditional Games of Laos** (`traditional-games-and-dances/traditional-games-of-laos`) — traditional games of Laos: the named Lao playground and chase games — animal games, circle games, dance-games and ball games — taught across Laos's primary teacher guides (Grades 1–5, 2007–2021) as named games: the bear carries rice, snatch the monkey's tail, the tiger chases the pig, Nang Mon hides the cloth, catch the rabbit, catch the bird, flowing water and whirlpool, the tortoise lays eggs, kick the ball at the target, zigzag running and dozens more (Laos's teacher guides, evidence only).
 62. **Traditional Dances of Laos** (`traditional-games-and-dances/traditional-dances-of-laos`) — traditional dances of Laos: the Lao folk dances (fon), taught step by step — taught in Laos's 2007–2009 primary teacher guides and its Grade 4 guide of 2009 as one named dance at a time: Kan Bin, Songkran, Thang Viset, Yat Duang, sending and receiving, dancing around the post and dozens more (Laos's teacher guides, evidence only).
 63. **Traditional Games of Vietnam** (`traditional-games-and-dances/traditional-games-of-vietnam`) — traditional games of Vietnam: the chase and playground games Vietnamese children play — taught in Vietnam's Grade 1–3 GDTC student books as named games: Mèo và chim sẻ (cat and sparrows), Bịt mắt bắt dê (blindfold catching the goat), Dung dăng dung dẻ (the singing circle game), Kéo lưới bắt cá (dragnet fishing), Mèo đuổi chuột (cat chases mouse), Bỏ khăn (drop the handkerchief), Kéo cưa lừa xẻ (the sawing-song game), Chọi gà (cockfighting), Lộn cầu vồng (rainbow somersault) and Đếm sao (counting stars) (Vietnam's student books).
+64. **Traditional Games of Bhutan** (`traditional-games-and-dances/traditional-games-of-bhutan`) — traditional games of Bhutan: Bhutanese games — hopscotch play, 'What Time Is It, Charo?' and the Zeko ring game — taught in Bhutan's Class I PP–I Suggested Activities book as Fun with Hopscotch, hopscotch with hopping and sliding technique points and bean-bag balance variations, and What Time is it, Charo?, the listening-and-chase game (charo = friend), and in its Class IV Suggested Activities book as The Zeko, the ring game played for points from 1, 2 or 3 metres with thrower, retriever, scorer and pole-guard roles (Bhutan's student books).
 
 ## Unit 8 — Sport and Its Story
 
