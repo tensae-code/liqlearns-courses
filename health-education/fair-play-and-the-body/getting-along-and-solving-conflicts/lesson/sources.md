@@ -1,8 +1,8 @@
 # Sources — Getting Along and Solving Conflicts
 
-countries: Pakistan, Papua New Guinea
+countries: Pakistan, Papua New Guinea, Eritrea
 
-**Acceptance count: taught in 1 country.** Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
+**Acceptance count: taught in 2 country.** Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
 
 ## Pakistan — Health expansion 2026-11-16
 
@@ -152,4 +152,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 
 Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`fair-play-and-the-body/getting-along-and-solving-conflicts`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: getting along and solving conflicts, conflicts, conflict resolution management, precautions for dealing with disputes, bullying, prevention of bullying in school, Pakistan Grades 6 7 8 9 10 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 7 HPE TG Grade 7, Papua New Guinea Grade 8 HPE TG Grade 8
+## Eritrea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md. 1 Eritrea placement(s) stocked in this lesson. The Eritrea book(s) stocked in this lesson: Book 1 of that file. All three Eritrea books are STUDENT books, so Eritrea is student-book stock, inside the acceptance count, in this lesson. The placements file records 3 records / 3 distinct books, all 3 read in full and COMPLETE; the grab.py (urllib) route failed repeatedly with RemoteDisconnected at the proxy tunnel, so the same authenticated GitHub Contents-API route was run with curl — every file verified at the exact recorded byte size and blob SHA (G6 385,043; G7 457,633; G8 746,102 bytes), and covers/title pages rendered and verified against each record. No Eritrea placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Life Skills G6 (student book, English):**
+- Title as printed: Life Skills Based Health Education for Grade 6 — Student's Text Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, The State of Eritrea; year 2015 (Second Edition, printed by Sabur Printing Services, Asmara); ISBN 99948-1-750-7
+- PDF pages: 25 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- Eritrea's own way: health is taught as life skills through discussion activities, case studies and role play rather than facts to memorise — every section is an activity with questions, and the book ends in a community project supporting people in need.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea — Coping with Bullies — what bullies are and do, why they behave so, how schoolmates can deal with a bully and what corrective measures fit (original string `staying-safe/coping-with-bullies`) | Eritrea, *Life Skills Based Health Education for Grade 6 — Student's Text Book* (Eritrea Grade 6 Life Skills G6, student book), printed pp. 10–11 |
+
+Eritrea is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Eritrea books stocked here are STUDENT books, so Eritrea is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Eritrea placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/getting-along-and-solving-conflicts`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Eritrea's own way is content, as the book lines above record it: Eritrea teaches Health as "Life Skills Based Health Education" — learner-centred activity books built from case studies, dramas, role plays and community projects, spiralling goals, friendship, gender, abuse protection, HIV, puberty, nutrition, values, risk and community health through Grades 6–8. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: getting along and solving conflicts, conflicts, conflict resolution management, precautions for dealing with disputes, bullying, prevention of bullying in school, Pakistan Grades 6 7 8 9 10 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 7 HPE TG Grade 7, Papua New Guinea Grade 8 HPE TG Grade 8, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Coping with Bullies

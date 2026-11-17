@@ -1,8 +1,8 @@
 # Sources — Making Good Decisions
 
-countries: Sierra Leone, Indonesia
+countries: Sierra Leone, Indonesia, Eritrea
 
-**Acceptance count: taught in 1 countries.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
+**Acceptance count: taught in 2 countries.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
 
 **Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
 - Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
@@ -43,4 +43,53 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-he
 
 Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 0 to 1 countries. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: making good decisions, what life skills are, interpersonal communication skills, decision-making skills, good and bad peer pressure, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
+## Eritrea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md. 10 Eritrea placement(s) stocked in this lesson. The Eritrea book(s) stocked in this lesson: Book 1, Book 2, Book 3 of that file. All three Eritrea books are STUDENT books, so Eritrea is student-book stock, inside the acceptance count, in this lesson. The placements file records 3 records / 3 distinct books, all 3 read in full and COMPLETE; the grab.py (urllib) route failed repeatedly with RemoteDisconnected at the proxy tunnel, so the same authenticated GitHub Contents-API route was run with curl — every file verified at the exact recorded byte size and blob SHA (G6 385,043; G7 457,633; G8 746,102 bytes), and covers/title pages rendered and verified against each record. No Eritrea placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Life Skills G6 (student book, English):**
+- Title as printed: Life Skills Based Health Education for Grade 6 — Student's Text Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, The State of Eritrea; year 2015 (Second Edition, printed by Sabur Printing Services, Asmara); ISBN 99948-1-750-7
+- PDF pages: 25 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- Eritrea's own way: health is taught as life skills through discussion activities, case studies and role play rather than facts to memorise — every section is an activity with questions, and the book ends in a community project supporting people in need.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md (Book 1 of that file).
+
+**Book 2 — Life Skills G7 (student book, English):**
+- Title as printed: Life Skills Based Health Education for Grade 7 — Student's Text Book
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, The State of Eritrea; year 2015 (Second Edition, printed by Sabur Printing Services, Asmara); ISBN 99948-1-751-5
+- PDF pages: 26 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- Eritrea's own way: Grade 7 widens health to its physical, mental and social sides, then works through puberty changes and hygiene, nutrition shaped by climate, age and occupation, and the values — family, tradition, media, peers — that steer health choices.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md (Book 2 of that file).
+
+**Book 3 — Life Skills G8 (student book, English):**
+- Title as printed: Life Skills Based Health Education for Grade 8 — Student's Text Book
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, The State of Eritrea; year 2015 (Second Edition, printed by Sabur Printing Services, Asmara); ISBN 99948-1-752-3
+- PDF pages: 35 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 0 to existing lessons, 28 NEW LESSON NEEDED
+- Eritrea's own way: Grade 8 is organised around risk — why adolescents feel invulnerable, the consequences (accidents, tobacco and alcohol, STIs, HIV, pregnancy), and protection through law, assertiveness, decision-making and disease prevention, closing with sanitation and community action.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea — How to Say "No" Loudly and Clearly — a mini-drama of a girl refusing sexual pressure assertively: saying no, meaning it, pushing away and threatening to scream (original string `staying-safe/refusal-skills-saying-no`) | Eritrea, *Life Skills Based Health Education for Grade 6 — Student's Text Book* (Eritrea Grade 6 Life Skills G6, student book), printed pp. 9–10 |
+| Eritrea — Media and Peer Pressure — gossip, films and friends pressuring a boy to prove manhood through sex; resisting influences while keeping good relationships (original string `staying-safe/resisting-negative-peer-pressure`) | Eritrea, *Life Skills Based Health Education for Grade 7 — Student's Text Book* (Eritrea Grade 7 Life Skills G7, student book), printed p. 17 |
+| Eritrea — What Makes Adolescents Vulnerable or Invulnerable? — comparing a young artist rumoured dead of AIDS with two students killed cycling, and why adolescents face such risks (original string `staying-safe/risk-taking-and-its-consequences`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 1 |
+| Eritrea — Risk Taking Behaviours — sorting fifteen behaviours (drunk driving, unprotected sex, crossing a road, riding at night without lights, sleeping without a mosquito net, early marriage) into red/yellow/green risk (original string `staying-safe/risk-taking-and-its-consequences`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed pp. 2–3 |
+| Eritrea — Sexual Risk Taking — a classmates-in-love case study: abstinence, what may happen next, and the problems both could face (original string `staying-safe/risk-taking-and-its-consequences`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 3 |
+| Eritrea — What Makes a Risk Justifiable? — two cases (crossing a river for firewood; sex offered in exchange for a mother's hospital care) judged justifiable or not (original string `staying-safe/risk-taking-and-its-consequences`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed pp. 4–5 |
+| Eritrea — Project: Risk Taking Behaviours and Their Consequences — turning five risk statements into pictures and sorting them into justifiable and unjustifiable risks (original string `staying-safe/risk-taking-and-its-consequences`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 11 |
+| Eritrea — Assertiveness and Negotiation — a mini-drama of a girl deflecting a boy's hotel-room invitation at a party, judged for assertiveness and negotiation skill (original string `staying-safe/refusal-skills-saying-no`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed pp. 13–14 |
+| Eritrea — Decision Making and Sticking to Decisions — a poor girl refusing a man's money and marriage offer against her friend's advice: what makes a decision good and how to hold it (original string `staying-safe/making-good-decisions`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 14 |
+| Eritrea — Resisting Peer Pressure — role plays refusing to skip class or steal a book without losing the friend; getting into and out of trouble through peer pressure (original string `staying-safe/resisting-negative-peer-pressure`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 21 |
+
+Eritrea is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Eritrea books stocked here are STUDENT books, so Eritrea is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Eritrea placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/making-good-decisions`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Eritrea's own way is content, as the book lines above record it: Eritrea teaches Health as "Life Skills Based Health Education" — learner-centred activity books built from case studies, dramas, role plays and community projects, spiralling goals, friendship, gender, abuse protection, HIV, puberty, nutrition, values, risk and community health through Grades 6–8. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: making good decisions, what life skills are, interpersonal communication skills, decision-making skills, good and bad peer pressure, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, How to Say "No" Loudly and Clearly, Media and Peer Pressure, What Makes Adolescents Vulnerable or Invulnerable?, Risk Taking Behaviours, Sexual Risk Taking, What Makes a Risk Justifiable?, Project: Risk Taking Behaviours and Their Consequences, Assertiveness and Negotiation, Decision Making and Sticking to Decisions, Resisting Peer Pressure

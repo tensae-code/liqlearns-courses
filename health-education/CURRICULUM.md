@@ -1515,3 +1515,42 @@ pupils designing and testing their own 12-week fitness and
 diet programme; and nutrition inside Food & Textiles
 Studies, with fruits and vegetables taught by colour and
 the food habits of Mauritian adolescents.
+
+**Health expansion — Eritrea — BUILT 2026-11-17:** 76
+placements from Eritrea's three *Life Skills Based Health
+Education* student's textbooks — Grade 6 (Ministry of
+Education, The State of Eritrea, 2015, Second Edition, ISBN
+99948-1-750-7), Grade 7 (ISBN 99948-1-751-5) and Grade 8 (ISBN
+99948-1-752-3), all COMPLETE and read in full — stocked into
+existing lessons: Family and Friends ×26, Making Good
+Decisions ×10, Knowing Myself and My Feelings ×5, STIs and HIV
+Prevention ×5, Eating a Balanced Diet ×4, Keeping My Body
+Clean ×4, Protecting Myself from Abuse ×4, Puberty and Growing
+Up ×3, Keeping Our Environment Healthy ×3, Common Illnesses
+and Caring for the Sick ×3, What Health Is ×2, Saying No to
+Drugs, Alcohol and Tobacco ×2, Safe Water and Toilets ×2,
+Avoiding Accidents and Staying Safe ×1, Getting Along and
+Solving Conflicts ×1 and Preventing Common Diseases ×1 —
+bringing no new lessons; this course stays at **55 lessons**.
+All three Eritrea books are STUDENT books, so Eritrea is
+student-book stock, inside the acceptance counts, in every
+lesson it touches (each touched lesson's count rose by 1). All
+76 placements were filed as NEW LESSON NEEDED under
+descriptive slug strings, resolved by the health slug registry
+Part 2A to the canonical lessons above (the 4 placements filed
+under `staying-safe/protecting-myself-from-abuse` itself are
+recorded as filed), with the original string recorded in every
+provenance row. No Eritrea placement resolves to a PE-course
+lesson, so none was excluded as PE-bound. Honesty notes,
+exactly as filed: the books were read by the authenticated
+GitHub Contents-API route run with curl after grab.py (urllib)
+failed repeatedly with RemoteDisconnected at the proxy tunnel,
+every file verified at the exact recorded byte size and blob
+SHA (G6 385,043; G7 457,633; G8 746,102 bytes); no
+teacher-guide/programme evidence, partial/sample read, edition
+overlap or wrong-file record is involved in this merge.
+Eritrea's own way is content: health taught as life skills —
+learner-centred activity books built from case studies,
+dramas, role plays and community projects, spiralling goals,
+friendship, gender, abuse protection, HIV, puberty, nutrition,
+values, risk and community health through Grades 6–8.

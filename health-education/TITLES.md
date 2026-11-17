@@ -563,3 +563,22 @@ teacher-guide evidence only, outside the counts — Staying
 Safe While Exercising, touched only by a teacher guide,
 stays at 16 countries. No Mauritius placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Eritrea): no new lessons — 76
+placements stocked into existing lessons (Family and Friends
+×26, Making Good Decisions ×10, Knowing Myself and My Feelings
+×5, STIs and HIV Prevention ×5, Eating a Balanced Diet ×4,
+Keeping My Body Clean ×4, Protecting Myself from Abuse ×4,
+Puberty and Growing Up ×3, Keeping Our Environment Healthy ×3,
+Common Illnesses and Caring for the Sick ×3, What Health Is
+×2, Saying No to Drugs, Alcohol and Tobacco ×2, Safe Water and
+Toilets ×2, Avoiding Accidents and Staying Safe, Getting Along
+and Solving Conflicts, Preventing Common Diseases) — this
+course stays at 55 lessons. All three Eritrea books (*Life
+Skills Based Health Education*, Grades 6, 7 and 8 student's
+textbooks, Ministry of Education, The State of Eritrea, 2015)
+are STUDENT books, so Eritrea is student-book stock, inside
+the acceptance counts, in every lesson it touches (each
+touched lesson's count rose by 1). No Eritrea placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound.
