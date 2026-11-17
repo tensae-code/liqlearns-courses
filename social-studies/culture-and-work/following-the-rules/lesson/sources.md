@@ -1,6 +1,6 @@
 # Sources — Following the Rules
 
-countries: Afghanistan, Tanzania, Iraq
+countries: Afghanistan, Tanzania, Iraq, Jordan
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -44,3 +44,19 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 4): the components are named one by one with where each lives and what each built, equality is stated in the concept itself — all equal in rights and duties — and the values are taught as a civilisational inheritance, from keeping covenants "for thousands of years" to altruism as the road to social justice.
 Registry note: the original coined string `culture-and-work/respecting-the-law` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الأول (Social Studies, Grade 3, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الأول (Social Studies, Grade 3, First Semester). Grade: 3 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, revised approval 2026 (for school year 2026/2027); ISBN 978-9923-66-105-5. PDF pages: 64 (cover rendered and verified against the record title; byte size 34,679,758, grabbed via the release route). Earlier waves: Geography wave named the civics units without placing them, placed p. 42 (resources) / History wave placed Unit 3 Lesson 1 (King Abdullah II) / Economics wave placed p. 42 (preserving natural resources). Verdict: COMPLETE. Contents map: Civics/Values (My Duty and My Responsibility unit) pp. 6–25; Civics (Citizenship unit) pp. 26–41; Economics p. 42 (inside the Citizenship unit); Civics (I Am Proud of My Homeland unit) pp. 46–63. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/following-rules-and-instructions — Unit 2 Lesson 2: Abiding by rules and instructions (الالتزام بالأنظمة والتعليمات) — teaches: keeping the rules and instructions — order in the street and in shared places, and why abiding by the system matters | Jordan, *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الأول (Social Studies, Grade 3, First Semester)* (student book), Unit 2 Lesson 2: Abiding by rules and instructions (الالتزام بالأنظمة والتعليمات) — printed p. 36 |
+
+**Acceptance count: taught in 4 countries (Afghanistan, Tanzania, Iraq, Jordan).**
+
+Jordan's own way (Book 6): duty is taught as four widening circles — family, school, society, homeland — and citizenship is two skills: saying your opinion and keeping the rules.
+
+Registry note: the original coined string `culture-and-work/following-rules-and-instructions` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
+
+Searchable tags: following the rules, Jordan, social studies, culture-and-work

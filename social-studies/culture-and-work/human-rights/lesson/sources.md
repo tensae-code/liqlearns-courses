@@ -1,6 +1,6 @@
 # Sources — Human Rights
 
-countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine, Papua New Guinea
+countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine, Papua New Guinea, Jordan
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -105,3 +105,18 @@ Registry note: the original coined string `culture-and-work/human-rights-what-th
 
 Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 10): Grade 10 deepens Grade 9's civics into the machinery of the state — the Constitution as the legal basis of government (Section 99's three arms), separation and balance of powers, what parliamentarians actually do, PNG's three levels of government and decentralisation — and ends with a full human-rights unit: PNG's rights laws, the Constitution's rights, enforcing the rights of women, people with disability and marginalised groups, and children's rights under the Lukautim Pikinini Act.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 15:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester). Grade: 8 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-847-5. PDF pages: 144 (cover rendered and verified against the record title; byte size 26,627,986, grabbed via the release route). Earlier waves: Geography wave placed Units 2 and 4 and named Units 1 and 5 without placing them / History wave placed Unit 3 and Unit 6 Lessons 2–3 (Greek and Arab-Islamic philosophy) / Economics wave placed Unit 4 Lessons 2–3. Verdict: COMPLETE. Contents map: Civics (Human Rights unit) pp. 6–31; Geography/Environment pp. 32–63; History pp. 64–89; Geography/Economics pp. 90–109; Media (Media and Public Opinion unit) pp. 110–127; Philosophy pp. 128–143 (Lessons 2–3 placed by the History wave; Lesson 1 placed here as a thinking-skills part). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/human-rights-in-jordanian-legislation — Unit 1 Lesson 4: Human rights in Jordanian legislation (حقوق الإنسان في التشريعات الأردنية) — teaches: how Jordan's own laws carry human rights — human rights in Jordan as the book presents them | Jordan, *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book), Unit 1 Lesson 4: Human rights in Jordanian legislation (حقوق الإنسان في التشريعات الأردنية) — printed p. 24 |
+
+**Acceptance count: taught in 6 countries (Bangladesh, Colombia, Guatemala, Iraq, Palestine, Jordan).**
+
+Jordan's own way (Book 15): human rights are taught as a ladder of charters — the UN, the international bill, the Arab charter — landing at last in Jordan's own legislation; and the media unit ends on public opinion, the citizen's collective voice.
+
+Registry note: the original coined string `culture-and-work/human-rights-in-jordanian-legislation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
+
+Searchable tags: human rights, Jordan, social studies, culture-and-work

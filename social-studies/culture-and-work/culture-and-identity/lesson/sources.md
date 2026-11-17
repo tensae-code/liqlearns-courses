@@ -497,3 +497,17 @@ Papua New Guinea's own way (teacher guide — evidence) (Social Science Upper Pr
 Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
 
 Searchable tags: culture — culture and identity, Sri Lanka, social studies, culture-and-work
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 16:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Second Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Second Semester). Grade: 8 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-706-5. PDF pages: 148 (cover rendered and verified against the record title; byte size 70,646,723, grabbed via the release route — a first download was cut at 66,400,692 bytes by a runtime restart and was discarded and re-grabbed whole). Earlier waves: Geography wave placed Unit 9 and Unit 12 and named Units 7 and 10 without placing them / History wave placed Units 8, 11 and 12 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics/Values (Living Together unit) pp. 6–25; History pp. 26–49; Geography pp. 50–77; Civics (Me and Society unit) pp. 78–103; History pp. 104–123; Geography pp. 124–147. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/culture-and-identity — Unit 7 Lesson 1: Cultural diversity (التنوع الثقافي) — teaches: cultural diversity — living in a society of many cultures as one shared life | Jordan, *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Second Semester)* (student book), Unit 7 Lesson 1: Cultural diversity (التنوع الثقافي) — printed p. 8 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Niue, Mongolia, Ecuador, Bangladesh, Dominican Republic, Bahamas, Samoa, Colombia, Slovenia, Venezuela, Mauritania, Kuwait, Honduras, Nepal, Jordan, Nicaragua, Bhutan, Greece, Maldives, Tonga, Tanzania, Mexico, Fiji, India, Angola, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Jordan's own way (Book 16): the set closes on the young citizen — living together across difference without extremism, then youth themselves: their place in society, in public life and the national economy, the challenges they face, and the behaviour expected of them.
+
+Searchable tags: culture — culture and identity, Jordan, social studies, culture-and-work

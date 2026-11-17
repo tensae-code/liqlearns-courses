@@ -1,6 +1,6 @@
 # Sources — The Rule of Law
 
-countries: China, India, Cambodia
+countries: China, India, Cambodia, Jordan
 
 **Book 1:** *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book, Chinese) — Title as printed: 普通高中教科书 思想政治 必修3 政治与法治. Grade: Senior high (filed grade-12) (student/teacher: STUDENT). Publisher: 人民教育出版社 (People's Education Press), Beijing, compiled by the Ministry of Education (教育部组织编写); chief editor Zhang Yibin (张异宾), volume editors Liu Jianjun (刘建军) and Zhu Liyu (朱力宇); year 2019 first edition (2019 统编 seal on cover), this scan a later printing carrying material to 2021 (the 2021–2025 rule-of-law government outline in Lesson 8); ISBN 978-7-107-24394-3 (read from the back-cover barcode). PDF pages: 122 (cover verified — 思想政治 必修3 政治与法治 over the Great Hall of the People ceiling lights and red star matches the record; byte size 7,190,119 matches the books.json record exactly; the tensae-code textbooks repo was checked by authenticated GitHub API curl and returns 404 for this file, and no copy sat on disk in staging, so the book was read from its recorded source_url, the kyohwang/ChinaTextbook PEP collection — the same route as Books 1–5 — and staged beside its record, below). Earlier waves: not read before (Geography/History/Economics waves held no record of this book; the cn-ki reader of Books 1–5 flagged it in its log as the map gap this add-on closes). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government (China's own system taught as its own way) printed pp. 1–113 entire — Unit 1 中国共产党的领导 (the Party's leadership) pp. 1–34; Unit 2 人民当家作主 (the people as masters of the country) pp. 35–72; Unit 3 全面依法治国 (comprehensive rule of law) pp. 73–113; History pp. 2–14 (the pre-1949 political forces and the stand-up / grow-rich / become-strong narrative inside Lessons 1–2 — named here; it is taught as the ground of the Party's leadership and is placed with the civics lessons it serves, not as history). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/china-placements.md.
 
@@ -44,3 +44,16 @@ Cambodia placements — Social Studies remaining strands (2026-11-17):
 
 Cambodia's own way (Cambodia Grade 10 Social Studies G10): the civics course ends at the state itself — rule of law, the Kingdom's own Constitution (taught through its 1947, 1972, 1975 and 1993 texts), its top institutions, and the citizen's rights, duties, voice and self-protection; its culture-of-peace chapter carries two distinctively Khmer lessons, ancient temple architecture as national heritage and the matriarchal root of Khmer society. That way is stocked here as the way Cambodia teaches this thing.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 14:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester). Grade: 7 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-531-3. PDF pages: 140 (cover rendered and verified against the record title; byte size 22,692,432, grabbed via the release route). Earlier waves: Geography wave placed Units 10 and 12 and named Units 7–9 without placing them / History wave placed Units 10–11 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Media (Me and the Media unit) pp. 6–31; Civics (Authority and Government unit) pp. 32–47; Civics/Values (Living Together unit) pp. 48–65; Geography pp. 66–87, 122–139; History pp. 88–121. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/the-rule-of-law — Unit 8 Lesson 2: Rule of law (سيادة القانون) — teaches: the rule of law — respecting the law as the ground of progress in every field | Jordan, *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester)* (student book), Unit 8 Lesson 2: Rule of law (سيادة القانون) — printed p. 39 |
+
+**Acceptance count: taught in 4 countries (China, India, Cambodia, Jordan).**
+
+Jordan's own way (Book 14): media is taught as a citizen's defence — content, misinformation, rumours and social media in one unit — and government as Jordan's own constitutional story, ending in the rule of law and integrity.
+
+Searchable tags: the rule of law, Jordan, social studies, culture-and-work

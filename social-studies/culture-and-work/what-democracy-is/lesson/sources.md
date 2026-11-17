@@ -1,6 +1,6 @@
 # Sources — What Democracy Is
 
-countries: Guatemala, Cambodia
+countries: Guatemala, Cambodia, Jordan
 
 **Book 8:** *Ciencias Sociales y Formación Ciudadana, Sexto Grado, MINEDUC 2025 (student book, Spanish) — links file* — Title as printed: Ciencias Sociales y Formación Ciudadana para sexto grado del Nivel de Educación Primaria Grade: Grade 6 (student/teacher: STUDENT) Publisher: MINEDUC, Ministerio de Educación de Guatemala; 2025 edition; no ISBN printed PDF pages: 226 (byte size 130,541,356 matches the download-list record exactly; title page verified; downloaded from the recorded MINEDUC source and staged in phase3-staging under the new rule — see group log) Earlier waves: not read before (no Grade 6 student book was held) Verdict: COMPLETE (remaining strands read fully: printed pp. 30–31, 46, 50, 93–94, 98, 124–126, 174–175, 187–192, 198–200) Contents map: Civics/Citizenship/Government pp. 30–31 (history of democracy, state institutions), 98 (social participation), 124–126 (authoritarianism vs democracy, parties), 174–175 (democracy in Latin America), 187–192 (duties, citizen rights under Art. 147, participation, human-rights and justice institutions), 198–200 (the Belize case and the International Court of Justice); Morals/Values pp. 46 (conflict resolution), 50 (solidarity coexistence), 93–94 (culture of peace, UN Declaration), 192 (peace as a condition of citizen life); Geography/History/Economics: world-history units (ancient civilisations, Eastern civilisations, the Modern Age, imperialism, world wars, the Cold War, the armed conflict and truth reports as history, poverty) — named here, not placed (other strands' waves) Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED (five of them to slugs first needed by Books 5 and 7 of this same wave) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guatemala-placements.md.
 
@@ -30,3 +30,18 @@ Cambodia's own way (Cambodia Grade 9 Social Studies G9): Grade 9 civics turns ou
 
 Registry note: the original coined string `culture-and-work/understanding-democracy` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-democracy-is`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester). Grade: 7 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-580-1. PDF pages: 140 (cover rendered and verified against the record title; byte size 22,835,434, grabbed via the release route). Earlier waves: Geography wave placed Unit 3, Unit 5 Lesson 1 (cultural diversity → culture-and-identity) and Lesson 2 (heritage) / History wave placed Unit 4 and Unit 5 Lesson 2 / Economics wave placed Unit 3 Lessons 4–5 (trade, entrepreneurship). Verdict: COMPLETE. Contents map: Civics (Citizenship unit) pp. 6–23; Civics (Democracy and Human Rights unit) pp. 24–43; Geography/Economics pp. 44–77; History pp. 78–105; Culture pp. 106–121; Morals/Values (Life Skills unit) pp. 122–139. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/democracy — Unit 2 Lesson 1: Democracy (الديمقراطية) — teaches: democracy — what it is and how it is practised, with Jordan's Independent Election Commission and elections as the home example | Jordan, *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book), Unit 2 Lesson 1: Democracy (الديمقراطية) — printed p. 26 |
+
+**Acceptance count: taught in 3 countries (Guatemala, Cambodia, Jordan).**
+
+Jordan's own way (Book 13): citizenship is taught in three widening rings — Jordanian citizenship, Jordanian national identity, then global citizenship — and rights are taught through Jordan's own legislation for women and children.
+
+Registry note: the original coined string `culture-and-work/democracy` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-democracy-is`.
+
+Searchable tags: what democracy is, Jordan, social studies, culture-and-work

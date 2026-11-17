@@ -1,6 +1,6 @@
 # Sources — Social Solidarity Helping Each Other
 
-countries: Kuwait, Venezuela, Morocco
+countries: Kuwait, Venezuela, Morocco, Jordan
 
 **Book 1:** *Social Studies G6 Term 1* (student book, Arabic) — Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1). Grade: Grade 6 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-030-4. PDF pages: 114 (cover verified — Kuwait Towers cover, title and grade as printed; read in place at phase3-staging/grade-06/gov/kuwait/social-studies/student/term-1.pdf, 50,971,017 bytes on disk; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed the Geography units (printed pp. 18–37, 44–46, 64–68, 82–96); History wave placed pp. 47–76 history parts; Economics wave placed pp. 82–97 old economic activities. The values unit was named in all three headers, never placed. Verdict: COMPLETE. Contents map: Geography pp. 18–37; History/Civilisation pp. 44–76; Economics pp. 82–97; Morals/Values pp. 102–110 (the "Stations with Good Kuwait" وقفات مع كويت الطيب unit). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -44,3 +44,18 @@ Registry note: the original coined string `culture-and-work/solidarity-with-peop
 
 Registry note: the original coined string `culture-and-work/solidarity-and-mutual-support` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-solidarity-helping-each-other`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester). Grade: 5 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-851-2. PDF pages: 92 (cover rendered and verified against the record title; byte size 18,811,233, grabbed via the release route). Earlier waves: Geography wave placed Units 3–4 and named the civics units without placing them / History wave placed the history inside Unit 3 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics (Social Communication unit) pp. 6–27; Civics (The Political System in Jordan unit) pp. 28–47; Geography pp. 48–91. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/social-solidarity — Unit 1 Lesson 3: Social solidarity (التكافل المجتمعي) — teaches: social solidarity — its fields from the family outward, Jordan's own forms of it such as sponsoring orphans, and what it does for people and society | Jordan, *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester)* (student book), Unit 1 Lesson 3: Social solidarity (التكافل المجتمعي) — printed p. 21 |
+
+**Acceptance count: taught in 4 countries (Kuwait, Venezuela, Morocco, Jordan).**
+
+Jordan's own way (Book 11): Grade 5 civics is Jordan's own state, part by part — the King and his constitutional powers, then each of the three authorities in its own lesson — after a first unit on how a person belongs to his society: communicating, serving it, and standing with it in solidarity.
+
+Registry note: the original coined string `culture-and-work/social-solidarity` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-solidarity-helping-each-other`.
+
+Searchable tags: social solidarity helping each other, Jordan, social studies, culture-and-work

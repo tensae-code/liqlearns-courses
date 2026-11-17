@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia
+countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -112,3 +112,18 @@ Cambodia's own way (Cambodia Grade 8 Social Studies G8): Grade 8 civics is organ
 
 Registry note: the original coined string `culture-and-work/working-in-a-group` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Second Semester; draft copy watermarked "نسخة قيد الإعداد")* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Second Semester; draft copy watermarked "نسخة قيد الإعداد"). Grade: 6 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025 (approved for school year 2025/2026); ISBN 978-9923-41-870-3. PDF pages: 128 (cover/title page verified against the record title; read in place from phase3-staging, byte size 28,780,103). Earlier waves: History wave placed pp. 6–23 / Geography wave placed pp. 24–57, 102–127 / Economics wave placed pp. 58–81. Verdict: PARTIAL — the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation) on every page, not the final print (as already noted by the History wave). Contents map: Morals/Values (Life Skills unit) pp. 82–101; History pp. 6–23; Geography pp. 24–57, 102–127; Economics pp. 58–81. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/working-together-cooperation — Unit 9 Lesson 3: Cooperation (التعاون) — teaches: cooperation as sharing work and help — in the family, the class and the community | Jordan, *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Second Semester; draft copy watermarked "نسخة قيد الإعداد")* (student book), Unit 9 Lesson 3: Cooperation (التعاون) — printed p. 96 |
+
+**Acceptance count: taught in 8 countries (Libya, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan).** Mauritius and Oman are named here as teacher-guide evidence only, counted nowhere.
+
+Jordan's own way (Book 2): the year's values teaching is gathered into one Life Skills unit at the end — time, respect and cooperation taught as habits of a good citizen, each with daily-life practice.
+
+Registry note: the original coined string `culture-and-work/working-together-cooperation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
+
+Searchable tags: cooperation working together, Jordan, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Who Am I
 
-countries: Eritrea, Serbia, Oman, Colombia, Sri Lanka
+countries: Eritrea, Serbia, Oman, Colombia, Sri Lanka, Jordan
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -68,3 +68,17 @@ Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside th
 Registry note: the original coined string `first-steps/who-am-i-knowing-myself` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
 
 Searchable tags: who am i, Sri Lanka, social studies, first-steps
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester). Grade: 1 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); no ISBN printed in the front matter checked. PDF pages: 76 (cover rendered and verified — Grade 1 Term 1 as recorded; byte size 40,293,333 via the release route). Earlier waves: Geography wave placed the neighbourhood/place parts / History wave read in full, NO History parts / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Integrated SS pp. 7–40; Civics/Citizenship/Government (homeland, flag, king) pp. 41–58; Civics (rights and duties) pp. 59–75, of which body-health (I care for my health) named, not placed — Health course. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — first-steps/who-am-i — Unit 1 Lesson 1: Who am I? (من أكون) — teaches: the child names and describes himself — his name, his features, what he likes — as the first fact of social life | Jordan, *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book), Unit 1 Lesson 1: Who am I? (من أكون) — printed p. 8 |
+
+**Acceptance count: taught in 5 countries (Eritrea, Serbia, Colombia, Sri Lanka, Jordan).**
+
+Jordan's own way (Book 3): citizenship starts at age six with the self, the family and the neighbours, then the homeland is introduced through its flag and its king, and rights are taught as the child's own rights to play and to learn.
+
+Searchable tags: who am i, Jordan, social studies, first-steps

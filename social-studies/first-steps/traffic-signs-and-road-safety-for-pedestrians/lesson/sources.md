@@ -1,6 +1,6 @@
 # Sources — Traffic Signs and Road Safety for Pedestrians
 
-countries: Libya, Afghanistan, Iraq, Angola, Palestine
+countries: Libya, Afghanistan, Iraq, Angola, Palestine, Jordan
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -76,3 +76,19 @@ Angola's own way (Book 7): a moral-and-civic book built on the child's own refle
 Palestine's own way (Grade 6 Social Studies Part 2): citizenship is defined by a contrast the pupils must judge — one group of sixth-graders, faced with repeated traffic accidents at their school, forms a committee, organises the crossing and teaches the others (the active citizens), while the second group only blames and criticises; the book's verdict is that citizenship is measured by what you do.
 
 Registry note: the original coined string `first-steps/traffic-safety-and-its-elements` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/traffic-signs-and-road-safety-for-pedestrians`.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester). Grade: 1 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); no ISBN printed in the front matter checked. PDF pages: 76 (cover rendered and verified — Grade 1 Term 1 as recorded; byte size 40,293,333 via the release route). Earlier waves: Geography wave placed the neighbourhood/place parts / History wave read in full, NO History parts / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Integrated SS pp. 7–40; Civics/Citizenship/Government (homeland, flag, king) pp. 41–58; Civics (rights and duties) pp. 59–75, of which body-health (I care for my health) named, not placed — Health course. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — first-steps/the-traffic-light-and-crossing-safely — Unit 1 Lesson 6: The traffic light (إشارة المرور) — teaches: the traffic light's colours and crossing the street safely — road rules as the child's first law | Jordan, *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book), Unit 1 Lesson 6: The traffic light (إشارة المرور) — printed p. 34 |
+
+**Acceptance count: taught in 6 countries (Libya, Afghanistan, Iraq, Angola, Palestine, Jordan).**
+
+Jordan's own way (Book 3): citizenship starts at age six with the self, the family and the neighbours, then the homeland is introduced through its flag and its king, and rights are taught as the child's own rights to play and to learn.
+
+Registry note: the original coined string `first-steps/the-traffic-light-and-crossing-safely` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/traffic-signs-and-road-safety-for-pedestrians`.
+
+Searchable tags: traffic signs and road safety for pedestrians, Jordan, social studies, first-steps

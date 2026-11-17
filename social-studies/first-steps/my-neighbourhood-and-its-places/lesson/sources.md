@@ -50,3 +50,17 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Jordan, South Sudan, Libya, Vietnam). Oman is named here as teacher-guide evidence only, counted nowhere.**
 
 Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester). Grade: 1 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); no ISBN printed in the front matter checked. PDF pages: 76 (cover rendered and verified — Grade 1 Term 1 as recorded; byte size 40,293,333 via the release route). Earlier waves: Geography wave placed the neighbourhood/place parts / History wave read in full, NO History parts / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Integrated SS pp. 7–40; Civics/Citizenship/Government (homeland, flag, king) pp. 41–58; Civics (rights and duties) pp. 59–75, of which body-health (I care for my health) named, not placed — Health course. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — first-steps/my-neighbourhood-and-its-places — Unit 1 Lesson 5: The neighbourhood (الحي) — teaches: the neighbourhood and its places — homes, school, grocery, health centre and civil defence in my neighbourhood | Jordan, *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, First Semester)* (student book), Unit 1 Lesson 5: The neighbourhood (الحي) — printed p. 29 |
+
+**Acceptance count: taught in 4 countries (Jordan, South Sudan, Libya, Vietnam). Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Jordan's own way (Book 3): citizenship starts at age six with the self, the family and the neighbours, then the homeland is introduced through its flag and its king, and rights are taught as the child's own rights to play and to learn.
+
+Searchable tags: my neighbourhood and its places, Jordan, social studies, first-steps

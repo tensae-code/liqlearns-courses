@@ -1,6 +1,6 @@
 # Sources — The Legislative Power
 
-countries: Yemen, India, Cambodia
+countries: Yemen, India, Cambodia, Jordan
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -45,3 +45,18 @@ Cambodia's own way (Cambodia Grade 5 Social Studies G5): rights arrive paired wi
 
 Registry note: the original coined string `culture-and-work/legislative-power-in-cambodia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-legislative-power`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester). Grade: 5 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-851-2. PDF pages: 92 (cover rendered and verified against the record title; byte size 18,811,233, grabbed via the release route). Earlier waves: Geography wave placed Units 3–4 and named the civics units without placing them / History wave placed the history inside Unit 3 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics (Social Communication unit) pp. 6–27; Civics (The Political System in Jordan unit) pp. 28–47; Geography pp. 48–91. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/the-legislative-authority — Unit 2 Lesson 2: The legislative authority (السلطة التشريعية) — teaches: Jordan's National Assembly — the Senate and the House of Representatives and what the legislative authority does | Jordan, *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الأول (Social Studies, Grade 5, First Semester)* (student book), Unit 2 Lesson 2: The legislative authority (السلطة التشريعية) — printed p. 35 |
+
+**Acceptance count: taught in 4 countries (Yemen, India, Cambodia, Jordan).**
+
+Jordan's own way (Book 11): Grade 5 civics is Jordan's own state, part by part — the King and his constitutional powers, then each of the three authorities in its own lesson — after a first unit on how a person belongs to his society: communicating, serving it, and standing with it in solidarity.
+
+Registry note: the original coined string `culture-and-work/the-legislative-authority` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-legislative-power`.
+
+Searchable tags: the legislative power, Jordan, social studies, culture-and-work

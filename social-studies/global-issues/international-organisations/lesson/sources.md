@@ -1,6 +1,6 @@
 # Sources — International Organisations
 
-countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia
+countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan
 
 **Book 1:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
@@ -135,3 +135,16 @@ Cambodia placements — Social Studies remaining strands (2026-11-17):
 
 Cambodia's own way (Cambodia Grade 9 Social Studies G9): Grade 9 civics turns outward — after respect, Khmer etiquette and relations with friends and family, the community chapter teaches solving problems together in ASEAN, understanding democracy, corruption and leadership. That way is stocked here as the way Cambodia teaches this thing.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 15:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester). Grade: 8 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-847-5. PDF pages: 144 (cover rendered and verified against the record title; byte size 26,627,986, grabbed via the release route). Earlier waves: Geography wave placed Units 2 and 4 and named Units 1 and 5 without placing them / History wave placed Unit 3 and Unit 6 Lessons 2–3 (Greek and Arab-Islamic philosophy) / Economics wave placed Unit 4 Lessons 2–3. Verdict: COMPLETE. Contents map: Civics (Human Rights unit) pp. 6–31; Geography/Environment pp. 32–63; History pp. 64–89; Geography/Economics pp. 90–109; Media (Media and Public Opinion unit) pp. 110–127; Philosophy pp. 128–143 (Lessons 2–3 placed by the History wave; Lesson 1 placed here as a thinking-skills part). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — global-issues/international-organisations — Unit 1 Lesson 1: The United Nations (الأمم المتحدة) — teaches: the United Nations — its importance and its organs, its Charter, and Jordan's membership of it | Jordan, *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book), Unit 1 Lesson 1: The United Nations (الأمم المتحدة) — printed p. 8 |
+
+**Acceptance count: taught in 11 countries (North Macedonia, Costa Rica, Bahamas, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan).** Sierra Leone and Bhutan are named here as teacher-guide evidence only, counted nowhere.
+
+Jordan's own way (Book 15): human rights are taught as a ladder of charters — the UN, the international bill, the Arab charter — landing at last in Jordan's own legislation; and the media unit ends on public opinion, the citizen's collective voice.
+
+Searchable tags: international organisations, Jordan, social studies, global-issues

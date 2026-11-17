@@ -1,6 +1,6 @@
 # Sources — Dialogue What It is
 
-countries: Libya, Iraq, Saudi Arabia
+countries: Libya, Iraq, Saudi Arabia, Jordan
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G5* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 5 of basic education). Grade: 5 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre; year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 82 (cover rendered and verified against the record title; 15,170,496 bytes, Wayback capture 20211209161420 of the recorded source_url — image-only, read from page renders). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government Lesson 2 Libya is for all pp. 17–24, Lesson 3 equality pp. 26–32 (with the Universal Declaration of Human Rights); Culture-in-society Lesson 1 my country Libya pp. 8–16 (the regions' dress, dishes and customs); Morals/Values (Unit 2 "Human values") Lesson 4 justice pp. 33–42, Lesson 5 cooperation and solidarity pp. 43–52, Lesson 6 tolerance pp. 53–62; Conflict/Peace (Unit 3 "Living together") Lesson 7 accepting the other pp. 64–72, Lesson 8 the culture of dialogue pp. 73–82. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -42,3 +42,18 @@ Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
 
 Saudi Arabia's own way (Book 4): the Grade 7 book moves from planning and organising time, through shura and the values of the Righteous Caliphs, personal identity, self-development and social interaction, to national security in its concept, pillars, fields and institutions and the citizen's part in it, and closes with dialogue — its concept, pillars and manners, and national dialogue.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester). Grade: 4 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-542-9. PDF pages: 92 (cover rendered and verified against the record title; byte size 18,311,632, grabbed via the release route). Earlier waves: Geography wave placed Unit 5 Lesson 4 (fact and opinion) and Units 7–8 / History wave placed Unit 5 Lesson 4 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics/Values (Living Together unit) pp. 6–31; Civics (My Participation in My Society unit) pp. 32–49; Geography/Science pp. 50–91. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/dialogue-how-we-talk-together — Unit 5 Lesson 2: Dialogue (الحوار) — teaches: dialogue and its benefits — talking and listening together as the way people understand each other | Jordan, *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester)* (student book), Unit 5 Lesson 2: Dialogue (الحوار) — printed p. 14 |
+
+**Acceptance count: taught in 4 countries (Libya, Iraq, Saudi Arabia, Jordan).**
+
+Jordan's own way (Book 10): living together is taught as skills of the self first — personality, dialogue, respect — and only then as taking part in society, where voluntary work is the child's first public act.
+
+Registry note: the original coined string `culture-and-work/dialogue-how-we-talk-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/dialogue-what-it-is`.
+
+Searchable tags: dialogue what it is, Jordan, social studies, resources-and-conflict

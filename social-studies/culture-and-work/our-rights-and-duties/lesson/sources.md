@@ -1,6 +1,6 @@
 # Sources — Our Rights and Duties
 
-countries: Maldives, Samoa, Albania, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia
+countries: Maldives, Samoa, Albania, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia, Jordan
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -104,3 +104,18 @@ Cambodia's own way (Cambodia Grade 10 Social Studies G10): the civics course end
 
 Registry note: the original coined string `culture-and-work/rights-and-responsibility` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester). Grade: 4 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-542-9. PDF pages: 92 (cover rendered and verified against the record title; byte size 18,311,632, grabbed via the release route). Earlier waves: Geography wave placed Unit 5 Lesson 4 (fact and opinion) and Units 7–8 / History wave placed Unit 5 Lesson 4 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics/Values (Living Together unit) pp. 6–31; Civics (My Participation in My Society unit) pp. 32–49; Geography/Science pp. 50–91. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/rights-duties-and-responsibilities — Unit 6 Lesson 1: Rights, duties and responsibilities (الحقوق والواجبات والمسؤوليات) — teaches: rights must not be infringed, duties must be done, and my responsibilities — beginning with my responsibility to myself | Jordan, *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Second Semester)* (student book), Unit 6 Lesson 1: Rights, duties and responsibilities (الحقوق والواجبات والمسؤوليات) — printed p. 34 |
+
+**Acceptance count: taught in 8 countries (Maldives, Samoa, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia, Jordan).** Albania is named here as teacher-guide evidence only, counted nowhere.
+
+Jordan's own way (Book 10): living together is taught as skills of the self first — personality, dialogue, respect — and only then as taking part in society, where voluntary work is the child's first public act.
+
+Registry note: the original coined string `culture-and-work/rights-duties-and-responsibilities` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.
+
+Searchable tags: our rights and duties, Jordan, social studies, culture-and-work

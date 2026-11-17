@@ -1,6 +1,6 @@
 # Sources — Society What It is
 
-countries: Afghanistan, Iraq, Palestine
+countries: Afghanistan, Iraq, Palestine, Jordan
 
 **Book 1:** *Social Studies, Grade 5 (دروس اجتماعی صنف پنجم)* (student book, Dari) — Title as printed: دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5). Grade: 5 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. PDF pages: 109 (cover verified against the record title; 9,575,107 bytes — the books.json tree path is a phantom push (Contents API 404, as the Economics wave found); the bytes survive as release asset grade-05-gov-afghanistan-01e3fef873.pdf in release mid-size-books-7, fetched with size verification, matching the Geography/History waves' byte count exactly). Earlier waves: Geography wave placed Lessons 9–12 as an economics/services row and Lessons 15, 19–51 (transport, farming, livestock, industry, trade, ports, environment, climate, energy, mines); History wave read the book in full and placed nothing (no History parts); the founding build already placed Lessons 9–12 (water supply, electricity, telecommunications, postal services) into people-and-resources/public-services-water-electricity-telecommunications-and-post — NOT re-placed here. Verdict: COMPLETE — the remaining civics/society parts (Lessons 1–8 and 13–14, 16–18, printed pp. 1–35) read page by page and placed below. Contents map: Integrated SS pp. 1–13 (Lessons 1–3 what society is, the human being and society, social relations; Lessons 6–7 social services and education as society's services); Civics/Citizenship/Government pp. 7–11 (Lesson 4 society's need for peace; Lesson 5 human rights) and pp. 31–35 (Lessons 16–18 the municipality, the police, the traffic police); Morals/Values inside Lessons 2–5 (cooperation, respecting one's own and others' rights); Health-as-a-service p. 15 (Lesson 8 public health — the ministry's prevention and treatment work, placed as a social service; personal body-hygiene is not in this lesson's teaching and belongs to Health); Economics pp. 17–29 and 37–91 (public-service utilities already placed; farming, livestock, industry, trade — placed by the Geography/Economics waves); Geography pp. 93–101 (environment, climate — placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -43,3 +43,19 @@ Registry note: the original coined string `culture-and-work/our-iraqi-society` i
 Palestine's own way (Grade 6 Social Studies Part 2): citizenship is defined by a contrast the pupils must judge — one group of sixth-graders, faced with repeated traffic accidents at their school, forms a committee, organises the crossing and teaches the others (the active citizens), while the second group only blames and criticises; the book's verdict is that citizenship is measured by what you do.
 
 Registry note: the original coined string `first-steps/society-what-it-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/society-what-it-is`.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester). Grade: 4 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-574-0. PDF pages: 80 (cover rendered and verified against the record title; byte size 22,639,631, grabbed via the release route). Earlier waves: Geography wave placed Unit 1 Lessons 3–4 (customs → culture-cultural-values; folk dress → culture-symbols) and Unit 4 / History wave placed Unit 2 (ancient civilisations, kings, army heroics) / Economics wave placed Unit 4 Lessons 1–3 (agriculture, industry, energy). Verdict: COMPLETE. Contents map: Civics/Culture (The Individual and Society unit) pp. 6–25; History pp. 26–43; Civics (Authority and Government in Jordan unit) pp. 44–57; Economics pp. 58–70; Geography/Environment pp. 71–79. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/the-jordanian-society — Unit 1 Lesson 1: The Jordanian society (المجتمع الأردني) — teaches: who makes up Jordanian society — its groups in the towns, villages and camps, living as one society | Jordan, *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester)* (student book), Unit 1 Lesson 1: The Jordanian society (المجتمع الأردني) — printed p. 8 |
+
+**Acceptance count: taught in 4 countries (Afghanistan, Iraq, Palestine, Jordan).**
+
+Jordan's own way (Book 9): society is met through its real groups — town, village and camp — and government through Jordan's own constitution, whose timeline the child traces.
+
+Registry note: the original coined string `culture-and-work/the-jordanian-society` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/society-what-it-is`.
+
+Searchable tags: society what it is, Jordan, social studies, culture-and-work

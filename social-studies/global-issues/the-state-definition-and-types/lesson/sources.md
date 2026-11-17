@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka, Jordan
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -152,3 +152,17 @@ Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens
 Sri Lanka's own way (Sri Lanka Grade 10 Social Education 1998): systems of government are taught as a ladder the pupil climbs from Sri Lanka's own unitary state outward — democracy defined through Lincoln and the French declaration, its three freedoms separated and worked one by one, dictatorship and monarchy set against it with Mussolini, Hitler and Ashoka as the named cases, and human rights told as a single long struggle from Magna Carta to the UN Charter and the regional charters of Europe, America and Africa.
 
 Searchable tags: the state — definition and types, Sri Lanka, social studies, global-issues
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الأول (Social Studies, Grade 6, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الأول (Social Studies, Grade 6, First Semester). Grade: 6 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025 (approved for school year 2025/2026); ISBN 978-9923-66-129-1. PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, byte size 23,744,090). Earlier waves: Geography wave placed pp. 50–79 (geography unit) / History wave placed pp. 28–49, 80–101 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 6–27; Media (civic expression) pp. 102–119; History pp. 28–49, 80–101; Geography pp. 50–79. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — global-issues/the-state-definition-and-types — Unit 1 Lesson 1: The state and its components (الدولة ومكوناتها) — teaches: what a state is, its components (people, territory, authority) and its functions | Jordan, *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الأول (Social Studies, Grade 6, First Semester)* (student book), Unit 1 Lesson 1: The state and its components (الدولة ومكوناتها) — printed p. 8 |
+
+**Acceptance count: taught in 14 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka, Jordan).**
+
+Jordan's own way (Book 1): civics opens the year — the state, Jordan's constitution and the law come before any geography or history, and media is taught as a citizen's practice (expression, ethics, criticism), not as technology.
+
+Searchable tags: the state — definition and types, Jordan, social studies, global-issues

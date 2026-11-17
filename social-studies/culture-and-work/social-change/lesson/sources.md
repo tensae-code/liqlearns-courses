@@ -1,6 +1,6 @@
 # Sources — Social Change
 
-countries: Samoa, Bangladesh, Armenia
+countries: Samoa, Bangladesh, Armenia, Jordan
 
 **Book 1:** *Social Studies — Year 11 Book One* (student book, English) — Title as printed: Social Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5. PDF pages: 122 (cover/title page verified against the record title; MESC copy, size 38,977,700 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3 The Marine Environment (pp. 58–96) and Unit 5 inquiry skills, and named Units 1–2 "Sociology/History, not placed"; History wave placed Unit 1 Topics 2–3's Black America narrative and Unit 2 Topic 2's Mau story (pp. 11–57) and named Unit 1 Topic 1 (What Are Social Institutions, pp. 6–10) not placed; Economics wave filed the book record-only. The sociology/civics concept teaching (institutions, social change, rights-roles-responsibilities) was read and placed here. Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 5–57 (Units 1–2 For Better Or For Worse — social institutions, social change, rights/roles/responsibilities, taught through Black America and the Mau); Geography pp. 58–96 (Unit 3, placed by Geography wave); Skills pp. 97–118 (Units 4–5). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -39,3 +39,16 @@ Armenia's own way (G10 Social Science student): the ideology theme is taught thr
 
 Registry note: the original coined string `culture-and-work/factors-of-social-change` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-change`.
 
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 14:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester). Grade: 7 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-531-3. PDF pages: 140 (cover rendered and verified against the record title; byte size 22,692,432, grabbed via the release route). Earlier waves: Geography wave placed Units 10 and 12 and named Units 7–9 without placing them / History wave placed Units 10–11 / Economics wave RECORD-ONLY, contents map only. Verdict: COMPLETE. Contents map: Media (Me and the Media unit) pp. 6–31; Civics (Authority and Government unit) pp. 32–47; Civics/Values (Living Together unit) pp. 48–65; Geography pp. 66–87, 122–139; History pp. 88–121. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/social-change — Unit 9 Lesson 3: Social change (التغير الاجتماعي) — teaches: social change — its factors, technology among them, and the changes in people's roles and standing | Jordan, *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Second Semester)* (student book), Unit 9 Lesson 3: Social change (التغير الاجتماعي) — printed p. 58 |
+
+**Acceptance count: taught in 4 countries (Samoa, Bangladesh, Armenia, Jordan).**
+
+Jordan's own way (Book 14): media is taught as a citizen's defence — content, misinformation, rumours and social media in one unit — and government as Jordan's own constitutional story, ending in the rule of law and integrity.
+
+Searchable tags: social change, Jordan, social studies, culture-and-work

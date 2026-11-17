@@ -1,6 +1,6 @@
 # Sources — Global Citizenship
 
-countries: Kuwait, Oman, Palestine
+countries: Kuwait, Oman, Palestine, Jordan
 
 **Book 6:** *Social Studies G9 Term 2* (student book, Arabic) — Title as printed: دولة الكويت والعالم — الصف التاسع — الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: Grade 9 Term 2 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. PDF pages: 106 (cover verified — Kuwait Towers cover, "Grade 9, Second Term", world-map inset; 27,418,994 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed this book's Term-1-carryover geography/economics parts (printed pp. 84–100); Economics wave placed the economics slices inside the civics units (the tolerance lesson's economic pages 25–27, economic relations 36–38, the agencies' economic pages 59–61, poverty and education 74–76, oil prices 80–83) — ALREADY PLACED, not re-placed; the civics teachings around those slices are placed here. History wave found no History parts. Verdict: COMPLETE. Contents map: Civics/Global citizenship pp. 14–30; Civics/International relations pp. 32–45; Civics/Organisations pp. 48–62 (world organisations, the UN and its agencies); Morals/Values pp. 68–79 (future challenges: national identity, bullying); Economics pp. 25–27, 36–38, 59–61, 74–83, 84–100. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -47,3 +47,17 @@ Country honesty note: Oman's student books were not held — its placements are 
 **Acceptance count: taught in 2 countries (Kuwait, Palestine).. Oman is named here as teacher-guide evidence only, counted nowhere.**
 
 Palestine's own way (Grade 8 Social Studies Part 1): citizenship is taught as a contract with named forms — including two the Palestinian classroom adds to the usual list, responsible citizenship (with the citizen's right to hold officials accountable) and digital citizenship — and its second lesson turns the same lens on corruption, fought in the book by Palestine's own Anti-Corruption Law and Commission and the AMAN coalition.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester). Grade: 7 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-580-1. PDF pages: 140 (cover rendered and verified against the record title; byte size 22,835,434, grabbed via the release route). Earlier waves: Geography wave placed Unit 3, Unit 5 Lesson 1 (cultural diversity → culture-and-identity) and Lesson 2 (heritage) / History wave placed Unit 4 and Unit 5 Lesson 2 / Economics wave placed Unit 3 Lessons 4–5 (trade, entrepreneurship). Verdict: COMPLETE. Contents map: Civics (Citizenship unit) pp. 6–23; Civics (Democracy and Human Rights unit) pp. 24–43; Geography/Economics pp. 44–77; History pp. 78–105; Culture pp. 106–121; Morals/Values (Life Skills unit) pp. 122–139. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — global-issues/global-citizenship — Unit 1 Lesson 3: Global citizenship (المواطنة العالمية) — teaches: global citizenship — why it matters and the values it rests on | Jordan, *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book), Unit 1 Lesson 3: Global citizenship (المواطنة العالمية) — printed p. 18 |
+
+**Acceptance count: taught in 3 countries (Kuwait, Palestine, Jordan).**
+
+Jordan's own way (Book 13): citizenship is taught in three widening rings — Jordanian citizenship, Jordanian national identity, then global citizenship — and rights are taught through Jordan's own legislation for women and children.
+
+Searchable tags: global citizenship, Jordan, social studies, global-issues

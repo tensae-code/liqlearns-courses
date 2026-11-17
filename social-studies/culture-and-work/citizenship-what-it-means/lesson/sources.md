@@ -1,6 +1,6 @@
 # Sources — Citizenship What It Means
 
-countries: Haiti, Syria, Palestine, Saudi Arabia, United Arab Emirates
+countries: Haiti, Syria, Palestine, Saudi Arabia, United Arab Emirates, Jordan
 
 **Book 5:** *Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne* (teacher sequence, French) — Title as printed: Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne (Projet Nectar, MENFP, 8e année). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 30 (cover verified against the record title; 841,675 bytes, grab.py size/SHA verified). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 7–30 (whole book); Morals/Values pp. 11–13 (citizenship as values and responsibility, inside Séance 2); Economics p. 14 named only (taxation is taught here as a civic duty, placed below as civics; its economic mechanics were the Economics wave's to place and it filed none). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -69,3 +69,19 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 United Arab Emirates' own way (Social Studies & National Education, G4 teacher guide, volume 1) (teacher guide — evidence): the fourth-grade guide teaches its civics as a set of named concepts first — citizenship, belonging, participation, responsibility, identity — and then walks them into the child's world in order: the family he lives in, the government that runs his state, and the martyrs the state honours. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
 
 Registry note: the original coined string `culture-and-work/citizenship-concepts-of-the-emirates-course` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizenship-what-it-means`.
+
+Jordan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester). Grade: 7 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-580-1. PDF pages: 140 (cover rendered and verified against the record title; byte size 22,835,434, grabbed via the release route). Earlier waves: Geography wave placed Unit 3, Unit 5 Lesson 1 (cultural diversity → culture-and-identity) and Lesson 2 (heritage) / History wave placed Unit 4 and Unit 5 Lesson 2 / Economics wave placed Unit 3 Lessons 4–5 (trade, entrepreneurship). Verdict: COMPLETE. Contents map: Civics (Citizenship unit) pp. 6–23; Civics (Democracy and Human Rights unit) pp. 24–43; Geography/Economics pp. 44–77; History pp. 78–105; Culture pp. 106–121; Morals/Values (Life Skills unit) pp. 122–139. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — culture-and-work/citizenship-and-its-components — Unit 1 Lesson 1: Citizenship and its components (المواطنة ومكوناتها) — teaches: citizenship — active citizenship and its signs, its legal and moral principles, and the digital citizen | Jordan, *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book), Unit 1 Lesson 1: Citizenship and its components (المواطنة ومكوناتها) — printed p. 8 |
+
+**Acceptance count: taught in 4 countries (Syria, Palestine, Saudi Arabia, Jordan).** Haiti is named here as teacher-guide evidence only, counted nowhere. United Arab Emirates is named here as teacher-guide evidence only, counted nowhere.
+
+Jordan's own way (Book 13): citizenship is taught in three widening rings — Jordanian citizenship, Jordanian national identity, then global citizenship — and rights are taught through Jordan's own legislation for women and children.
+
+Registry note: the original coined string `culture-and-work/citizenship-and-its-components` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizenship-what-it-means`.
+
+Searchable tags: citizenship what it means, Jordan, social studies, culture-and-work
