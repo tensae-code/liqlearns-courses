@@ -170,3 +170,18 @@ sources, as provenance.
   situations; its three assessment pages named, not placed).
   See `algeria/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **France** — [`france/`](france/) · 24 lessons: Levels 1–3 —
+  rights, freedoms and responsibility (the rule of law, public
+  order, freedom of expression, laïcité, information, the
+  environment), then cohesion and diversity (nationality and
+  citizenship, pluralism, decentralisation, defence, fighting
+  discrimination, equality of women and men, solidarity and
+  fraternity), then democratic life as debate and deliberation
+  (organised discussion, public opinion, the digital society,
+  European and international law, legitimacy, active and
+  participatory citizenship), from France's *Manuel Libre
+  d'Enseignement moral et civique* for the Lycée (Les Manuels
+  Libres, French, live edition — a ZIP of HTML 'perles' with no
+  printed pagination, so lessons cite chapter folder + opening
+  file, COMPLETE). See `france/ABOUT.md` for the full book list
+  and the acceptance reckoning.
