@@ -383,3 +383,21 @@ sources, as provenance.
   the official manuale.edu.ro PDFs via their Wayback
   captures, as filed). See `romania/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Kiribati** — [`kiribati/`](kiribati/) · 38 lessons: Levels
+  1–5 — moral stories and first citizenship first (character
+  through Kiribati stories — the change that brings happiness,
+  honour in the family, responsibility — then the guides'
+  strands: individuality, traditional, social and spiritual
+  values, civic participation, social citizenship), then the
+  state, law and custom (government, sources of law,
+  law-making in the Maneaba ni Maungatabu, customary law), the
+  Constitution, rights and the courts, criminal and civil law
+  in depth, and the people who run justice (judges, court
+  officers, police, prosecutors, lawyers and legal aid), from
+  Kiribati's *Moral Education* Year 7 student readers
+  (Ministry of Education, English, 2017, COMPLETE — 9 lessons
+  pupil-taught) with the Year 7 and Year 8 teacher guides and
+  the *KCSE Social Studies (Civic) Syllabus* for Years 10–11
+  (2022, COMPLETE) as labelled evidence only, acceptance 0 —
+  38 placements, 38 lessons. See `kiribati/ABOUT.md` for the
+  full book list and the acceptance reckoning.
