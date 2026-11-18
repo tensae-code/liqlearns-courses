@@ -1,0 +1,11 @@
+# Environmental Health — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) Environmental health as the soundness and safety of the surroundings one lives in — home, quarter, school, workplace — free of pollutants; man himself as the first spoiler of his environment; and the means of keeping it healthy, from clean water tanks, covered rubbish and aired rooms at home to designated dumps, safe food and protected water sources in town and country, and beautifying both with trees, gardens and clean streets.  b) it has nothing to do with how Yemen governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) Environmental health as the soundness and safety of the surroundings one lives in — home, quarter, school, workplace — free of pollutants; man himself as the first spoiler of his environment; and the means of keeping it healthy, from clean water tanks, covered rubbish and aired rooms at home to designated dumps, safe food and protected water sources in town and country, and beautifying both with trees, gardens and clean streets.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) Environmental health as the soundness and safety of the surroundings one lives in — home, quarter, school, workplace — free of pollutants; man himself as the first spoiler of his environment; and the means of keeping it healthy, from clean water tanks, covered rubbish and aired rooms at home to designated dumps, safe food and protected water sources in town and country, and beautifying both with trees, gardens and clean streets.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Yemen
+**Answer: a) Environmental health as the soundness and safety of the surroundings one lives in — home, quarter, school, workplace — free of pollutants; man himself as the first spoiler of his environment; and the means of keeping it healthy, from clean water tanks, covered rubbish and aired rooms at home to designated dumps, safe food and protected water sources in town and country, and beautifying both with trees, gardens and clean streets.** — That is what this lesson teaches.

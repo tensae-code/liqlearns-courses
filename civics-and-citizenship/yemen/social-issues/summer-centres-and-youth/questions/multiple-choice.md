@@ -1,0 +1,11 @@
+# Summer Centres and Youth — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The summer centres — state or community centres that fill pupils' and youths' summer holiday, the best investment of free time — their aims (a balanced personality, stronger belonging, talents discovered, responsibility learned) and their activities, sport, swimming, computing, languages, arts, first aid and Qur'an study among them; and the state's care for youth, from memorisation centres and sports clubs to women's education centres.  b) it has nothing to do with how Yemen governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The summer centres — state or community centres that fill pupils' and youths' summer holiday, the best investment of free time — their aims (a balanced personality, stronger belonging, talents discovered, responsibility learned) and their activities, sport, swimming, computing, languages, arts, first aid and Qur'an study among them; and the state's care for youth, from memorisation centres and sports clubs to women's education centres.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The summer centres — state or community centres that fill pupils' and youths' summer holiday, the best investment of free time — their aims (a balanced personality, stronger belonging, talents discovered, responsibility learned) and their activities, sport, swimming, computing, languages, arts, first aid and Qur'an study among them; and the state's care for youth, from memorisation centres and sports clubs to women's education centres.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Yemen
+**Answer: a) The summer centres — state or community centres that fill pupils' and youths' summer holiday, the best investment of free time — their aims (a balanced personality, stronger belonging, talents discovered, responsibility learned) and their activities, sport, swimming, computing, languages, arts, first aid and Qur'an study among them; and the state's care for youth, from memorisation centres and sports clubs to women's education centres.** — That is what this lesson teaches.

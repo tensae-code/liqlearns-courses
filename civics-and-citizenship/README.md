@@ -587,3 +587,26 @@ sources, as provenance.
   blob BlobNotFound), named in its ABOUT. See
   `egypt/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Yemen** — [`yemen/`](yemen/) · 58 lessons: Levels 1–13 —
+  the homeland's story first (Yemen, graveyard of invaders,
+  its revolutions, unity and symbols), then its
+  administration and three powers and four Yemeni figures,
+  then the person (upbringing, values, productive families,
+  people with special needs), then the citizen named
+  (identity, rights and responsibilities, environment and
+  public safety, social issues), closing with the combined
+  Grades 7–9 teacher guide's background essays as a labelled
+  evidence-only level, from Yemen's *National Education*
+  student books for Grades 5, 7 and 8 (Ministry of
+  Education, Republic of Yemen, Arabic, Sana'a-published
+  editions, all COMPLETE — 50 placements, 50 lessons, all on
+  student books; all five student-book records were phantom
+  pushes, the read books fetched via Wayback snapshots
+  before the disk hold, staging deferred under the hold) and
+  its Grades 7–9 teacher guide (1433 AH / 2012, COMPLETE
+  (guide scope) — 8 placements, 8 lessons, evidence only,
+  acceptance 0); National Education Grades 6 and 9 are
+  UNREAD-pending under the disk hold (Wayback downloads
+  stalled at 1,048,576 bytes), named in its ABOUT. See
+  `yemen/ABOUT.md` for the full book list and the acceptance
+  reckoning.

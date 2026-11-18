@@ -1,0 +1,11 @@
+# Political and Cultural Rights — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The political rights — choosing rulers in free and honest elections, standing and voting for councils and the presidency, forming and joining associations and unions, and speaking one's opinion through the media within the homeland's constants, as the book frames them — and the cultural rights: authorship and publishing, invention and creativity, freedom of research, and the author's ownership of his book.  b) it has nothing to do with how Yemen governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The political rights — choosing rulers in free and honest elections, standing and voting for councils and the presidency, forming and joining associations and unions, and speaking one's opinion through the media within the homeland's constants, as the book frames them — and the cultural rights: authorship and publishing, invention and creativity, freedom of research, and the author's ownership of his book.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The political rights — choosing rulers in free and honest elections, standing and voting for councils and the presidency, forming and joining associations and unions, and speaking one's opinion through the media within the homeland's constants, as the book frames them — and the cultural rights: authorship and publishing, invention and creativity, freedom of research, and the author's ownership of his book.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Yemen
+**Answer: a) The political rights — choosing rulers in free and honest elections, standing and voting for councils and the presidency, forming and joining associations and unions, and speaking one's opinion through the media within the homeland's constants, as the book frames them — and the cultural rights: authorship and publishing, invention and creativity, freedom of research, and the author's ownership of his book.** — That is what this lesson teaches.

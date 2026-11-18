@@ -1,0 +1,11 @@
+# Personal Rights — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The personal rights and why they give the citizen a secure life: the right to security over oneself and one's property, the inviolability of the home — no entry or search except by a court's order — the right to freedom, no arrest without lawful cause, and the right to litigation, with its courtroom guarantees: equality of the parties, the accused innocent until proven guilty, and punishment personal to the offender, in summary.  b) it has nothing to do with how Yemen governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The personal rights and why they give the citizen a secure life: the right to security over oneself and one's property, the inviolability of the home — no entry or search except by a court's order — the right to freedom, no arrest without lawful cause, and the right to litigation, with its courtroom guarantees: equality of the parties, the accused innocent until proven guilty, and punishment personal to the offender, in summary.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The personal rights and why they give the citizen a secure life: the right to security over oneself and one's property, the inviolability of the home — no entry or search except by a court's order — the right to freedom, no arrest without lawful cause, and the right to litigation, with its courtroom guarantees: equality of the parties, the accused innocent until proven guilty, and punishment personal to the offender, in summary.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Yemen
+**Answer: a) The personal rights and why they give the citizen a secure life: the right to security over oneself and one's property, the inviolability of the home — no entry or search except by a court's order — the right to freedom, no arrest without lawful cause, and the right to litigation, with its courtroom guarantees: equality of the parties, the accused innocent until proven guilty, and punishment personal to the offender, in summary.** — That is what this lesson teaches.

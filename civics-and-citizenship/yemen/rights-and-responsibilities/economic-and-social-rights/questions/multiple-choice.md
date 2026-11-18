@@ -1,0 +1,11 @@
+# Economic and Social Rights — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The economic rights — work, ownership, and investing and trading one's money short of usury, for men and women alike, and what their denial costs (idleness and halted building); and the social rights — social care for the needy, education guaranteed by the state, health care in its hospitals and centres, and the rights of women and children, among them the woman's ownership, inheritance, learning and work as the book presents them.  b) it has nothing to do with how Yemen governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The economic rights — work, ownership, and investing and trading one's money short of usury, for men and women alike, and what their denial costs (idleness and halted building); and the social rights — social care for the needy, education guaranteed by the state, health care in its hospitals and centres, and the rights of women and children, among them the woman's ownership, inheritance, learning and work as the book presents them.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The economic rights — work, ownership, and investing and trading one's money short of usury, for men and women alike, and what their denial costs (idleness and halted building); and the social rights — social care for the needy, education guaranteed by the state, health care in its hospitals and centres, and the rights of women and children, among them the woman's ownership, inheritance, learning and work as the book presents them.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Yemen
+**Answer: a) The economic rights — work, ownership, and investing and trading one's money short of usury, for men and women alike, and what their denial costs (idleness and halted building); and the social rights — social care for the needy, education guaranteed by the state, health care in its hospitals and centres, and the rights of women and children, among them the woman's ownership, inheritance, learning and work as the book presents them.** — That is what this lesson teaches.
