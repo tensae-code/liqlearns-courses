@@ -693,3 +693,25 @@ sources, as provenance.
   no teacher guide, no programme, no UNREAD book. See
   `north-macedonia/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **United Arab Emirates** — [`united-arab-emirates/`](united-arab-emirates/) · 66 lessons: Levels
+  1–6 — care and honesty and the work around you first,
+  then belonging as story and object (the tales grandparents
+  tell, Zayed and the union, real artefacts), character in
+  action (keeping going, patience, forgiveness), the
+  widening world (trade and travel, peace and
+  responsibility, family settlement from pearls to oil), the
+  nation itself (health as responsibility, how the Emirates
+  grew diverse, respect and tolerance), and conflict and
+  ethics in action, from the United Arab Emirates' *Moral
+  Education* books (Ministry of Education, United Arab
+  Emirates, Arabic: the Grade 1 student book term 2 and the
+  Grade 6 student book vol. 2 and Grade 8 student book
+  vol. 3, with the Grade 1 Social Studies and National
+  Education teacher guide vol. 2 — PARTIAL as filed — and
+  the Grade 2, 4, 5 and 6 Moral Education teacher guides
+  term 2 as labelled evidence) — 71 placements, 66 lessons:
+  26 lessons on student books, 40 on teacher-guide evidence
+  only (acceptance 0). The Moral Education volumes for
+  Grades 9–12 named in the filings' leads are UNREAD. See
+  `united-arab-emirates/ABOUT.md` for the full book list and
+  the acceptance reckoning.
