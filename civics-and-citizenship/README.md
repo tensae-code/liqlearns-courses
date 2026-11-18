@@ -223,6 +223,21 @@ sources, as provenance.
   as labelled evidence, 0 placements; the book's summary
   lessons are named, not placed). See `georgia/ABOUT.md` for
   the full book list and the acceptance reckoning.
+- **Nepal** — [`nepal/`](nepal/) · 29 lessons: Levels 1–2 —
+  character, values and first civic duties (building good
+  character through Devi Ram's story, the common essence of
+  religions, unity, helping others, honesty, our rights,
+  moral responsibility, community life, discipline), then the
+  citizen's duty in the community in the same five titles one
+  step up (Aaitaman, the duty of citizens, Misrilal's social
+  work, peace and friendship, Ganga's effort, moderation),
+  from Nepal's *Moral Education* student books for Classes 7
+  and 8 (CDC, English, 2017 and 2018 revised editions, both
+  COMPLETE — each placed once with its 2076 BS Nepali
+  parallel edition named; the two books' shared lesson name
+  stocks as one lesson with two sub lessons, so 30 placements
+  make 29 lessons). See `nepal/ABOUT.md` for the full book
+  list and the acceptance reckoning.
 - **Bulgaria** — [`bulgaria/`](bulgaria/) · 30 lessons: Levels 1–3 —
   citizens, politics and democracy (freedom and power, the
   citizen, democracy, civic culture, civil society, media),
