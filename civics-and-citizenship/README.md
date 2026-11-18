@@ -715,3 +715,32 @@ sources, as provenance.
   Grades 9–12 named in the filings' leads are UNREAD. See
   `united-arab-emirates/ABOUT.md` for the full book list and
   the acceptance reckoning.
+- **El Salvador** — [`el-salvador/`](el-salvador/) · 73 lessons: Levels
+  1–6 — the series' own grade order as the ladder, every
+  book repeating the same arc at rising depth: governing
+  the territory and taking part for the first time
+  (interests, emotions, conflict, diversity, intercultural
+  coexistence, local and national participation), then
+  children's rights, human rights and their mechanisms
+  and guaranteeing institutions, rights in history
+  (including women's fight for civil and political
+  rights), participation in public spaces, road,
+  environmental and digital citizenship, El Salvador's
+  own tax system, and at the top the democratic system
+  whole (democracy, the rule of law, El Salvador's own
+  political system, rights as dignity and the common
+  good, demanding rights) and personal fulfilment, from
+  El Salvador's *Ciudadanía y Valores* student books for
+  Grades 5, 6, 7, 8, 9 and 1.° año de bachillerato
+  (Ministerio de Educación, Gobierno de El Salvador,
+  "Mi Nueva Escuela" reform, Spanish, 2026 materials
+  series, all COMPLETE as filed for the civics strand;
+  the books carry the stamp "Material en validación") —
+  74 placements, 73 lessons, all on student books (one
+  coined lesson name, environmental citizenship, is used
+  by both the Grade 8 and Grade 9 books and was deduped
+  into one lesson with two sub lessons). The filings
+  contain no other El Salvador book — no teacher guide,
+  no programme, no UNREAD book. See
+  `el-salvador/ABOUT.md` for the full book list and the
+  acceptance reckoning.
