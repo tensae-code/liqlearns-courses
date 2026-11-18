@@ -200,6 +200,32 @@ sources, as provenance.
   so lessons are placed at chapter level and the book itself
   remains a library debt). See `cameroon/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Vanuatu** — [`vanuatu/`](vanuatu/) · 27 lessons: Levels
+  1–4 — the citizen and belonging first (citizenship, the
+  good citizen, Pacific belonging through community, the sea
+  and the land, rights and responsibilities, human rights,
+  all citizens equal), then democracy and how Vanuatu is
+  governed (the Constitution and the three arms, Parliament,
+  MPs, local government and the Malvatumauri, the whole
+  system, and the French stream's method lessons), then
+  elections, voting and watching government (civil society
+  and the media, transparency, community action, your vote
+  is your voice, and citizens' own "I vote because"
+  testimonies), and last fair elections, inclusion and
+  leading (candidates and campaigns, electoral offences,
+  including everyone, good leaders, and a class election run
+  by the learners), from Vanuatu's "Vanuatu Blong Yu" civic
+  education books (Vanuatu Electoral Office and Curriculum
+  Development, with UNDP VEEP, English, 2020 — the Grade 6
+  student booklet and the secondary student workbook, both
+  COMPLETE, with their teacher manual as labelled evidence),
+  the Pacific-regional ESD Readers teacher guide (UNESCO /
+  USP, 2020, PARTIAL — civics parts only, evidence only) and
+  the French stream's *Citoyenneté Sociale* teacher guide
+  for Years 7–10 (SPC and MoE, 2019, evidence only) — 50
+  placements, 27 lessons; the French Years 1–6 guide is
+  UNREAD, named in its ABOUT. See `vanuatu/ABOUT.md` for the
+  full book list and the acceptance reckoning.
 - **Angola** — [`angola/`](angola/) · 28 lessons: Levels
   1–7 — knowing ourselves, cultural and linguistic identity,
   the human person (rights, duties, registration, freedom),
