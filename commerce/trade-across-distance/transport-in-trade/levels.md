@@ -1,0 +1,3 @@
+# Transport in Trade — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — distribution is an aid to trade that lives or dies on transport: goods move direct, or through retailers and wholesalers — and where shipping is slow or missed, a shortage can force a trader onto expensive air-freight — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, market or street situation the learner has not seen in the lesson.

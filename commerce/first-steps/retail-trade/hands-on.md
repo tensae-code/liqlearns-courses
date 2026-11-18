@@ -1,0 +1,12 @@
+# Hands-on — Retail Trade
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Visit a small shop in your mind. Write down: where the shopkeeper got the goods, who they sell to, and one thing the shopkeeper lets a trusted customer take now and pay for later. That last seller — and that trust — is this lesson.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson happening in real life — at home, at the market, in the street. Each time you see it (or see its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.
