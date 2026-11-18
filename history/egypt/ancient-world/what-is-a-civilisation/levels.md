@@ -1,0 +1,3 @@
+# What Is a Civilisation? — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Rivers that force cooperation, meeting-places of continents, minerals in the hills, safety from invasion, and man's struggle with his environment — with Egypt, owner of the oldest of the ancient… — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

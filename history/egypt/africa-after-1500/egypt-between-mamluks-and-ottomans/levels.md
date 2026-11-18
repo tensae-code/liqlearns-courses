@@ -1,0 +1,3 @@
+# Egypt Between the Mamluks and the Ottomans — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Three powers collide over the Islamic world — a Mamluk state ruined by the Cape of Good Hope route of 1498, the fleet's destruction at Diu in 1509 and its own infighting. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

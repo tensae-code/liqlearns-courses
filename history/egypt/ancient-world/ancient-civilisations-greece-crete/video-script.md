@@ -1,0 +1,14 @@
+# Video script — Ancient Civilisations: Greece and Crete
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story here — animated-map style: who, where, what turned, and what came of it, in plain words.
+
+---
+
+This lesson tells one story.
+Crete grows rich on sea trade, exchanging goods with Middle and New Kingdom Egypt.
+
+Crete grows rich on sea trade, exchanging goods with Middle and New Kingdom Egypt. Sparta raises its children under a harsh military system. Athens balances farming, crafts and trade and invents democracy — leaders chosen by vote, citizens sharing in laws, judges independent. Philip of Macedon unites the quarrelling cities, and Alexander carries Greek civilisation across the world, founding Alexandria in Egypt.
+
+Greece takes the ancient world's story westward — the civilisation Egypt's pupils meet just before Alexander carries it back east.
+
+Now you. Say the story back, in your own words. Then go and do the lesson's Do It Yourself — today, at home, at school, in Egypt.
