@@ -1,0 +1,24 @@
+# Sources — Respect for Others
+
+countries: Bhutan
+
+**Book 1 (bhutan-placements-b.md):** *Values and Citizenship Education, Class PP, Student Workbook* (student book, English) — Royal Education Council (REC), Paro; year 2017; ISBN no ISBN printed. Title as printed: "Values and Citizenship Education, Class PP, Student Workbook". Grade: PP (pre-primary) (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title). Subject as filed: Values and Citizenship Education — track: standalone. **Verdict: COMPLETE** — Contents map: five core values with weekly practice activities — Respect p.1; Responsibility pp.7–18; Compassion pp.19–34; Integrity p.35; Loyalty p.41. Fetched via Wayback snapshots of rec.gov.bt, as filed in that filing's header (direct route returns an empty reply through this host's proxy; byte sizes match the lead lines). Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/bhutan-placements-b.md` (Book 1 in that filing).
+
+**Book 9 (bhutan-placements-b.md):** *Values and Citizenship Education, Class PP, Teacher's Handbook* (teacher guide, English) — Royal Education Council (REC), Paro; year 2017; ISBN no ISBN printed. Title as printed: "Values and Citizenship Education, Class PP, Teacher's Handbook". Grade: PP (pre-primary) (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Subject as filed: Values and Citizenship Education — track: standalone. **Verdict: COMPLETE** — Contents map: teaching guidance for the PP workbook's ten activities in the same five-value order (printed pp. 2–51). Fetched via Wayback snapshots of rec.gov.bt, as filed in that filing's header. This is a teacher guide: evidence only in the acceptance reckoning (acceptance 0 for lessons that stand on it alone), labelled as such. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/bhutan-placements-b.md` (Book 9 in that filing).
+
+**Book 10 (bhutan-placements-b.md):** *Values and Citizenship Education, Class II, Student Workbook* (student book, English) — Royal Education Council (REC), Paro; year 2017; ISBN no ISBN printed. Title as printed: "Values and Citizenship Education, Class II, Student Workbook". Grade: 2 (student/teacher: STUDENT). PDF pages: 67 (cover/title page verified against the record title). Subject as filed: Values and Citizenship Education — track: standalone. **Verdict: COMPLETE** — Contents map: thirteen activities in the five-value order — Respect pp.1–12; Responsibility pp.13–25; Compassion pp.28–51; Integrity p.53; Loyalty p.58. Fetched via Wayback snapshots of rec.gov.bt, as filed in that filing's header (direct route returns an empty reply through this host's proxy; byte sizes match the lead lines). Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/bhutan-placements-b.md` (Book 10 in that filing).
+
+**Book 4 (bhutan-placements-b.md):** *Values and Citizenship Education, Class II, Teacher's Handbook* (teacher guide, English) — Royal Education Council (REC), Paro; year 2017; ISBN no ISBN printed. Title as printed: "Values and Citizenship Education, Class II, Teacher's Handbook". Grade: 2 (student/teacher: TEACHER). PDF pages: 63 (cover/title page verified against the record title). Subject as filed: Values and Citizenship Education — track: standalone. **Verdict: COMPLETE** — Contents map: thirteen activities in the five-value order — Respect pp.2–12; Responsibility pp.14–25; Compassion pp.27–46; Integrity p.48; Loyalty p.53. Fetched via Wayback snapshots of rec.gov.bt, as filed in that filing's header. This is a teacher guide: evidence only in the acceptance reckoning (acceptance 0 for lessons that stand on it alone), labelled as such. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/bhutan-placements-b.md` (Book 4 in that filing).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Respect: Sonam the artist — the Class PP workbook | Bhutan PP VCE PP Student Workbook, printed p. 1 |
+| Respect: Sonam the artist (teacher guidance) — the Class PP teacher's handbook | Bhutan PP VCE PP Teacher's Handbook, printed p. 2 |
+| Respect: Why is a crow black — the Class II workbook | Bhutan Class II VCE II Student Workbook, printed p. 3 |
+| Respect: Why is a crow black (story) — the Class II teacher's handbook | Bhutan Class II VCE II Teacher's Handbook, printed p. 5 |
+
+**Acceptance count: taught in 1 country (Bhutan) — this lesson stands on a student book.**
+
+This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: respect, respect-for-others, civics and citizenship bhutan, Respect: Sonam the artist, Respect: Sonam the artist (teacher guidance), Respect: Why is a crow black, Respect: Why is a crow black (story)

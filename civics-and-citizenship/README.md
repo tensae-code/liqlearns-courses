@@ -856,3 +856,24 @@ sources, as provenance.
   review/conclusion chapters are named, not placed). See
   `mongolia/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Bhutan** — [`bhutan/`](bhutan/) · 50 lessons: Levels
+  1–5 — five core values (Respect, Responsibility,
+  Compassion, Integrity, Loyalty) practised week by week
+  at home and school and grounded in Gross National
+  Happiness, then the Constitution, rights and duties,
+  elections and parties, the working government, and the
+  theoretical top of state, monarchy and public service,
+  from Bhutan's *Values and Citizenship Education* student
+  workbooks and teachers' handbooks for Classes PP, I, II
+  and III (Royal Education Council, Paro, 2017) and its
+  *Bhutan Civics* coursebooks and teachers' guides for
+  Classes IX & X and XI & XII (DCPD, Ministry of
+  Education, 2022 reprints) (English, all COMPLETE as
+  filed — 124 placements, 50 lessons; 43 lessons on
+  student books and 7 lessons on the Class III Teachers'
+  Handbook alone, teacher-guide evidence only, acceptance
+  0, labelled; the combined History and Civics books for
+  Classes VII, VIII, IX and X are UNREAD as filed —
+  phantom pushes with their source host unreachable — and
+  are not in the course). See `bhutan/ABOUT.md` for the
+  full book list and the acceptance reckoning.
