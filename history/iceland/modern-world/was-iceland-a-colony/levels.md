@@ -1,0 +1,3 @@
+# Was Iceland a Colony? — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — after studying empire abroad, Iceland's pupils turn the definition homeward: was Iceland itself a colony of Denmark? — the question is the lesson, and the class must argue it from the evidence of their own history — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

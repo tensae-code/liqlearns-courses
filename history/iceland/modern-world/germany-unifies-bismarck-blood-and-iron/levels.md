@@ -1,0 +1,3 @@
+# Germany Unifies: Bismarck, Blood and Iron — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Germany's many states were unified under Prussia by Bismarck, who said the great questions of the day would be decided by blood and iron — and in 1871 an emperor was proclaimed in the palace of Versailles — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

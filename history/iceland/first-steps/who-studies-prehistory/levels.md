@@ -1,0 +1,3 @@
+# Who Studies Prehistory — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the people who study the ages before writing are archaeologists, and they read the past from things left in the ground — as Iceland's children do with a real pagan grave, the grave of the Fjallkona — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# The Scramble and Berlin, 1884–85 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Europe's powers raced to seize Africa — the Scramble — and at Berlin in 1884–85 they set the rules of the race among themselves, with men like Cecil Rhodes grabbing for a continent no African had offered them — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
