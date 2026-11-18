@@ -1088,3 +1088,25 @@ sources, as provenance.
   phantom push absent from the tree, every Release and
   disk). See `dominican-republic/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Nicaragua** — [`nicaragua/`](nicaragua/) · 175 lessons: Levels
+  1–8 — living together begins (myself, my manners, my
+  patria and its symbols, a first meeting with the
+  Constitution and children's rights), the same spine
+  deepened (Law 779, the Declaration of Mother Earth, the
+  Red Cross), the carta magna and the Powers of the State,
+  stories and Central America's symbols and heroes with the
+  Executive and Judicial powers and the DGI, the values
+  book that closes primary (diversity of peoples and
+  languages, gender focus and empowerment, tax education),
+  then the rural secondary modules: rights and Mother Earth
+  in the countryside, the Constitution title by title with
+  the Labour Code, and life skills, the Family Code, income
+  tax and VAT with rural tourism — from Nicaragua's
+  *Convivencia y Civismo* student books for Grades 2–6 and
+  *Convivencia y Desarrollo Rural* modules for Grades 7, 9
+  and 10 (MINED, Spanish; 176 placements, 175 lessons — the
+  five primary books COMPLETE as filed, the three modules
+  PARTIAL with their agricultural units named, not placed;
+  the Grade 7 module UNHELD in the census and STAGED under
+  the push-don't-delete rule). See `nicaragua/ABOUT.md` for
+  the full book list and the acceptance reckoning.

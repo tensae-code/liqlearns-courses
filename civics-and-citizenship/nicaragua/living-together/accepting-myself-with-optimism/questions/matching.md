@@ -1,0 +1,13 @@
+# Accepting Myself With Optimism — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Accepting Myself With Optimism — a)
+**2.** Accepting Myself With Optimism (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Accepting yourself as you are, living with optimism and joy, and perseverance.
+b) One of the titles of Nicaragua's own civics course, built from Nicaragua's own government textbooks.
+
+**Answer key:** 1. a 2. b

@@ -1,0 +1,9 @@
+# Gender Focus and Empowerment — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** The gender and generational focus, and what empowerment is.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** The gender and generational focus, and what empowerment is.

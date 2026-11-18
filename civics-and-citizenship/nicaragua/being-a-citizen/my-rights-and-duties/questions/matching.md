@@ -1,0 +1,13 @@
+# My Rights and Duties — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** My Rights and Duties — a)
+**2.** My Rights and Duties (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Learning more about my rights and duties.
+b) One of the titles of Nicaragua's own civics course, built from Nicaragua's own government textbooks.
+
+**Answer key:** 1. a 2. b
