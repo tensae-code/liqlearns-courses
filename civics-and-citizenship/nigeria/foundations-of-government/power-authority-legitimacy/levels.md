@@ -1,0 +1,5 @@
+# Power, Authority and Legitimacy — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Power, authority and legitimacy are the basic concepts that make rule accepted: power can compel, authority is power recognised as right, and legitimacy is the people's acceptance of that rule. — shown in the learner's own words and one real example.

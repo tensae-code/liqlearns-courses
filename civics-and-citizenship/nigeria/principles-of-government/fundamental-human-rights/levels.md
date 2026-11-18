@@ -1,0 +1,5 @@
+# Fundamental Human Rights — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Fundamental human rights are the citizen's built-in protections, and access to information stands among them. — shown in the learner's own words and one real example.

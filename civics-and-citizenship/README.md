@@ -522,3 +522,23 @@ sources, as provenance.
   their 12 lessons) — 50 placements, 50 lessons. See
   `ecuador/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Nigeria** — [`nigeria/`](nigeria/) · 52 lessons: Levels
+  1–9 — government built from first concepts (power,
+  authority, sovereignty, the big -isms), the forms of
+  government, the constitution and the three arms, the
+  principles that judge the machinery, citizenship, and
+  parties and pressure groups, then Nigeria itself (its
+  federal bargain and standing problems, party history
+  republic by republic, crises and military rule assessed,
+  conflict resolution and peace), and last Nigeria and the
+  world (foreign policy, the AU, ECOWAS, OPEC and the UN,
+  NEPAD, e-government, leadership and followership), from
+  Nigeria's *New Government for Senior Secondary Schools 1*
+  and *3* student books (Learn Africa Plc, English, 2013
+  reprinted 2016 and 2014, both COMPLETE — 52 placements,
+  52 lessons, all on student books); Government SS2 is
+  UNREAD (phantom push, commercial page only) and the
+  twelve primary/JSS/SSS Civic Education titles are
+  RECORD-ONLY catalogue titles, all named in its ABOUT.
+  See `nigeria/ABOUT.md` for the full book list and the
+  acceptance reckoning.
