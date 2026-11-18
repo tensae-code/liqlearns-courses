@@ -1,0 +1,3 @@
+# The Zhabdrung's Legal Legacy — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The Kathrim tradition is traced forward through the Thrimzhung Chenmo to the 2008 Constitution — Bhutan's modern supreme law grows, in the books' telling, out of the Zhabdrung's 1651 code. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

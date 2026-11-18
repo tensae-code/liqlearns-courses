@@ -1,0 +1,3 @@
+# The Duar War, 1864–65 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Britain attacks in four columns in November 1864 and takes the eighteen Duars — but Jigme Namgyal cuts the water at Dewathang and captures two howitzers before superior British rifles retake the forts and force a settlement. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

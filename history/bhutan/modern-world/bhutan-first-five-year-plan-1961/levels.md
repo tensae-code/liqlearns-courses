@@ -1,0 +1,3 @@
+# The First Five-Year Plan, 1961 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Road-building from Phuentsholing to Paro starts in 1960, and in 1961 Bhutan launches its first Five-Year Plan — fully supported by India at 1,747 lakh rupees, with over 1,000 km of roads following. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

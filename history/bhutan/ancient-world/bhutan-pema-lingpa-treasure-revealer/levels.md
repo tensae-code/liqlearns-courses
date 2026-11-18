@@ -1,0 +1,3 @@
+# Pema Lingpa: The Treasure Revealer — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Prophesied by Guru Padmasambhava as the rebirth of Princess Pema Sel, a blacksmith's grandson born at Chel in Bumthang in 1450 teaches himself Tibetan, smithery and carpentry — and begins to have visions at Mani Gonpa. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

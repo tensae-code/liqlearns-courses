@@ -1,0 +1,3 @@
+# Dzongs: Fortresses of Unification — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Built of stone, wood and mud without nails around a towering central utse, Bhutan's dzongs are sorted into early medieval, medieval and modern — and read as the physical record of Bhutan being unified. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

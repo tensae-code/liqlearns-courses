@@ -1,0 +1,3 @@
+# The Indo-Bhutan Treaty, 1949 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — With India independent on 15 August 1947 and the 1910 treaty's future in doubt, Bhutan attends the Asian Relations Conference and signs the 1949 treaty with India that anchors Indo-Bhutan relations until its 2007 revision. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
