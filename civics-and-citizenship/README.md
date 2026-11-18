@@ -421,3 +421,23 @@ sources, as provenance.
   programme is record-only) — 46 placements, 41 lessons. See
   `haiti/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Senegal** — [`senegal/`](senegal/) · 38 lessons: Levels
+  1–4 — the widening circle: the close world first (family,
+  quarter, village, school), the first decentralised
+  structures and the nation, citizenship and rights and
+  duties, then living in society, how Senegal is
+  administered (arrondissement, department, region) and
+  peace and solidarity, then the nation built in history,
+  the state and its three powers, democracy and human
+  rights (women's rights and parity, vulnerable people),
+  and last heritage, a culture of peace at world scale and
+  the national challenges (poverty, malaria and HIV, drugs),
+  from Senegal's *Éducation Civique* teacher guides
+  (Ministère de l'Éducation Nationale, French — the 2012
+  all-levels *Guide d'usage des programmes*, COMPLETE, and
+  the 5e, 4e and 3e *Guides Pédagogiques*, PARTIAL as
+  filed; teacher-guide evidence only, acceptance 0 — no
+  Senegal pupil book was among the leads, and the pupil
+  manuals the guides name remain a library debt) — 46
+  placements, 38 lessons. See `senegal/ABOUT.md` for the
+  full book list and the acceptance reckoning.
