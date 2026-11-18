@@ -1,0 +1,11 @@
+# India: The Buddha — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement about “The story of the Buddha” is right?
+a) Siddhartha Gautama, a kshatriya of the small Sakya gana, left home comfort, debated other thinkers for years, then meditated under a peepal tree at Bodh Gaya until enlightenment made him the Buddha; he taught first at Sarnath and died at Kusinara.  b) it has nothing to do with this lesson  c) it is a private matter no learner ever meets  d) it was invented by LiqLearns, not taught in India's book
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) that this topic concerns only officials and never ordinary people  b) Siddhartha Gautama, a kshatriya of the small Sakya gana, left home comfort, debated other thinkers for years, then meditated under a peepal tree at Bodh Gaya until enlightenment made him the Buddha; he taught first at Sarnath and walked and taught until his death at Kusinara.  c) that learners need know nothing about it  d) that it is the same in every country and India has no way of its own
+**Answer: b)** — That is what this lesson teaches.
