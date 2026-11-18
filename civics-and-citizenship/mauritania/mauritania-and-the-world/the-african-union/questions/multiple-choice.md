@@ -1,0 +1,11 @@
+# The African Union — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The union of 55 states founded 9 July 2002, seated in Addis Ababa, as the book states.  b) it has nothing to do with how Mauritania governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The union of 55 states founded 9 July 2002, seated in Addis Ababa, as the book states.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The union of 55 states founded 9 July 2002, seated in Addis Ababa, as the book states.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Mauritania
+**Answer: a) The union of 55 states founded 9 July 2002, seated in Addis Ababa, as the book states.** — That is what this lesson teaches.

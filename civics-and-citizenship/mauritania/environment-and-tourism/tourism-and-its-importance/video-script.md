@@ -1,0 +1,12 @@
+# Video script — Tourism and its Importance
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+This lesson is about one thing.
+What tourism is — the tourist, the place, the stay — and what it brings.
+
+What tourism is — the tourist, the place, the stay — and what it brings.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

@@ -1,0 +1,13 @@
+# The General State Inspectorate — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The General State Inspectorate — a)
+**2.** The General State Inspectorate (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The inspectorate that checks the administration.
+b) One of the titles of Mauritania's own civics course, built from Mauritania's own government textbooks.
+
+**Answer key:** 1. a 2. b

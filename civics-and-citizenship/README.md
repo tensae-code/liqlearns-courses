@@ -1192,3 +1192,26 @@ sources, as provenance.
   the Grade 10–11 Map Education book is RECORD-ONLY). See
   `sri-lanka/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Mauritania** — [`mauritania/`](mauritania/) · 221 lessons: Levels
+  1–10 — the child's own body, habits, safety and surroundings
+  first ("Awakening and Civic Behaviour"), then the homeland and
+  its symbols and the calendar of feasts, family, school and the
+  places of the quarter, the values strand gathered whole, the
+  municipality and the territorial ladder, rights, identity and
+  protecting people and public money, the state and the
+  republic's watchdog institutions, elections, civil society and
+  systems of government, money, work, education and the city,
+  closing with health, the environment, heritage and Mauritania
+  in the world — from Mauritania's التربية المدنية (Civic
+  Education) books for Grades 1–12 (Institut Pédagogique
+  National (IPN), Arabic, 332 placements, 221 lessons — 15
+  books, all read in full: 12 student books count in the
+  acceptance reckoning and 3 teacher guides stand as evidence
+  only, with 5 lessons on guide evidence alone at acceptance 0,
+  labelled; Book 9, the Grade 7 teacher guide, is PARTIAL —
+  only its three worked model lessons are placed, its pedagogy
+  and apparatus named and not placed; seven books — Books 2, 6,
+  7, 12, 13, 14 and 15 — are phantom pushes, fetched from their
+  records' own source URLs and staged, exactly as filed). See
+  `mauritania/ABOUT.md` for the full book list and the
+  acceptance reckoning.
