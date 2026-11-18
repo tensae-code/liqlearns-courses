@@ -1,0 +1,9 @@
+# Pancasila Values in Daily Life — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Practising the meaning of each sila in daily life at home, school and community; the meaning of each sila as it shows up in community life; attitudes and behaviour that show Pancasila practised in society; making Pancasila behaviour a habit in daily life; the values of the five sila are one interconnected goodness, practised as a whole in daily life and in society; learning to practise Pancasila deliberately — a personal programme, letters, and never discriminating between friends; inviting friends to practise Pancasila — through one's own work and through caring; applying Pancasila's values in the life of a junior-secondary pupil, sila by sila; the meaning of each of the five sila; applying Pancasila in the life of society; applying Pancasila in the life of the nation and the state.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Practising the meaning of each sila in daily life at home, school and community; the meaning of each sila as it shows up in community life; attitudes and behaviour that show Pancasila practised in society; making Pancasila behaviour a habit in daily life; the values of the five sila are one interconnected goodness, practised as a whole in daily life and in society; learning to practise Pancasila deliberately — a personal programme, letters, and never discriminating between friends; inviting friends to practise Pancasila — through one's own work and through caring; applying Pancasila's values in the life of a junior-secondary pupil, sila by sila; the meaning of each of the five sila; applying Pancasila in the life of society; applying Pancasila in the life of the nation and the state.

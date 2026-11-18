@@ -1,0 +1,5 @@
+# The Territory of NKRI — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): The territory of the Unitary State — Indonesia's land and waters as one state territory · What a state is and its elements · The territory of the Unitary State of the Republic of Indonesia · Indonesia as a unitary state · Efforts to guard the wholeness of the state territory. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The territory of the Unitary State — Indonesia's land and waters as one state territory; what a state is and its elements; the territory of the Unitary State of the Republic of Indonesia; indonesia as a unitary state; efforts to guard the wholeness of the state territory — shown in the learner's own words and one real example, part by part.

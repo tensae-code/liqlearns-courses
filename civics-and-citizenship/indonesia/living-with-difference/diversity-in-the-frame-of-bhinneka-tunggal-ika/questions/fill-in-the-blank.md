@@ -1,0 +1,9 @@
+# Diversity in the Frame of Bhinneka Tunggal Ika — fill in the blank
+
+Fill each blank with the lesson's own word.
+
+**1.** This lesson's first key word is ____.
+**Answer:** diversity
+
+**2.** The lesson belongs to the Civics and Citizenship course of ____.
+**Answer:** Indonesia

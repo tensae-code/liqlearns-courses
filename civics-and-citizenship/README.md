@@ -1151,3 +1151,24 @@ sources, as provenance.
   workbooks, the workbooks companions with 0 placements each,
   as filed). See `kazakhstan/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Indonesia** — [`indonesia/`](indonesia/) · 149 lessons: Levels
+  1–15 — the child's self, friends and first rules, Indonesia's
+  flag, anthem, Garuda and the five sila, neighbourhood and
+  school, living with difference, belonging to the NKRI, rights
+  and duties, the village and ward officials, norms and
+  musyawarah (deliberation), then in secondary Pancasila as
+  foundation, worldview and ideology, the 1945 Constitution and
+  the hierarchy of legislation, the four elements as one system,
+  freedom of expression, legal culture, harmony and conflict,
+  the state institutions, and Pemilu (general elections) ending
+  with the first-time voter — from Indonesia's *Pendidikan
+  Pancasila* student books and teacher guides for Grades 1–12
+  (Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi,
+  Indonesian, 2023; 206 placements, 149 lessons — 24 books, all
+  COMPLETE: 12 student books count in the acceptance reckoning
+  and 12 teacher guides stand as evidence only, with 2 lessons
+  on guide evidence alone at acceptance 0, labelled; the Grade 7
+  student book, absent from the first filing's census, is read
+  in the second filing and closes that gap). See
+  `indonesia/ABOUT.md` for the full book list and the
+  acceptance reckoning.

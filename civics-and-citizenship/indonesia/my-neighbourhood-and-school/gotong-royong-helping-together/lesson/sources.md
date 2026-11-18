@@ -1,0 +1,21 @@
+# Sources — Gotong Royong Helping Together
+
+countries: Indonesia
+
+**Book 1 (indonesia-placements.md):** *Pendidikan Pancasila untuk SD/MI Kelas I* (student book, Indonesian) — Grade: grade-01 (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-615-7 (jil. 1). PDF pages: 200 (cover/title page verified against the record title). Subject as filed: Pendidikan Pancasila — track: standalone. Verdict: COMPLETE. Contents map: Bab 1 Aku dan Teman-Temanku printed pp. 1–36; Bab 2 Aku Patuh pada Aturan pp. 37–74; Bab 3 Aku Mengenal Indonesia pp. 75–118; Bab 4 Aku dan Lingkunganku pp. 119–188 (plus front matter, reflection and assessment apparatus named, not placed). Tally: 13 placements. Indonesia's own way: Pancasila taught from age six through five recurring child characters from different islands (Panca from Papua, Sila from Bali, Sakti from Jakarta, Bina from Sulawesi, Ika from Kalimantan) — diversity is embodied in the cast before it is ever explained; every chapter runs the same rhythm of story, "Mari" activity (memahami/bernyanyi/membaca/bermain), reflection and self-check. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/indonesia-placements.md` (Book 1 in that filing).
+
+**Book 7 (indonesia-placements.md):** *Pendidikan Pancasila untuk SD/MI Kelas IV* (student book, Indonesian) — Grade: grade-04 (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-650-8 (jil. 4 PDF). PDF pages: 176 (cover/title page verified against the record title). Subject as filed: Pendidikan Pancasila — track: standalone. Verdict: COMPLETE. Contents map: Bab 1 Mengenal Lingkungan Sekitar printed pp. 1–34; Bab 2 Aku Anak yang Disiplin pp. 35–62; Bab 3 Kerja Sama di Lingkunganku pp. 63–96; Bab 4 Pancasila dalam Diriku pp. 97–138; Glosarium p. 139 (inventory-only, named not placed). Tally: 15 placements. Indonesia's own way: grade 4 introduces the first rung of the state — the village and urban-ward apparatus (perangkat desa dan kelurahan) — met as neighbours with jobs, and tells the history of Pancasila's formulation as a story with characters whose traits are to be copied. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/indonesia-placements.md` (Book 7 in that filing).
+
+**Book 9 (indonesia-placements.md):** *Pendidikan Pancasila untuk SD/MI Kelas V* (student book, Indonesian) — Grade: grade-05 (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-651-5 (jil. 5 PDF). PDF pages: 192 (cover/title page verified against the record title). Subject as filed: Pendidikan Pancasila — track: standalone. Verdict: COMPLETE. Contents map: Bab 1 Pancasila dalam Kehidupanku printed pp. 1–34; Bab 2 Norma dalam Kehidupanku pp. 35–72; Bab 3 Keragaman Budaya Indonesiaku pp. 73–120; Bab 4 Aku dan Lingkungan Sekitarku pp. 121–153; Glosarium p. 155 (inventory-only, named not placed). Tally: 12 placements. Indonesia's own way: grade 5 (Fase C) names the four kinds of norms and introduces musyawarah — deliberation — as the Indonesian way of deciding, years before elections are taught. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/indonesia-placements.md` (Book 9 in that filing).
+
+| Lesson part | Where it comes from |
+|---|---|
+| B. Aku Suka Bergotong Royong | Indonesia Grade 1 PP Kelas 1 student, printed p. 132 |
+| B. Gotong Royong | Indonesia Grade 4 PP Kelas 4 student, printed p. 73 |
+| B. Gotong Royong di Lingkungan Sekitar | Indonesia Grade 5 PP Kelas 5 student, printed p. 139 |
+
+**Acceptance count: taught in 1 country (Indonesia) — this lesson stands on a student book.**
+
+This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: gotong, helping, royong, together, gotong-royong-helping-together, civics and citizenship indonesia, B. Aku Suka Bergotong Royong, B. Gotong Royong, B. Gotong Royong di Lingkungan Sekitar

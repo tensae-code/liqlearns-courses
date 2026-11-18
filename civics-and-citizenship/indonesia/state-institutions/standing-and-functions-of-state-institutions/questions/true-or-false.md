@@ -1,0 +1,9 @@
+# Standing and Functions of State Institutions — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** The standing and functions of Indonesia's state institutions.
+**Answer: True**
+
+**2.** This lesson teaches that Standing and Functions of State Institutions — and that it has no connection to the rest of Indonesia's story.
+**Answer: False** — The lesson places it inside Indonesia's own course, in its own order.

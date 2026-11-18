@@ -1,0 +1,5 @@
+# Learning From Heroes — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Taking Indonesia's heroes as models of Pancasila behaviour · The formulators of Pancasila as exemplars — their conduct during the 1945 formulation taken as a model · Modelling one's behaviour on Pancasila conduct shown by others. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Taking Indonesia's heroes as models of Pancasila behaviour; the formulators of Pancasila as exemplars — their conduct during the 1945 formulation taken as a model; modelling one's behaviour on Pancasila conduct shown by others — shown in the learner's own words and one real example, part by part.

@@ -1,0 +1,11 @@
+# Diversity in the Frame of Bhinneka Tunggal Ika — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The Indonesian nation's diversity held within the frame of Bhinneka Tunggal Ika (unity in diversity); the meaning of unity within diversity; unity across ethnic groups, religions, races and social groups in society; the factors that cause social change and diversity; challenges and attitudes toward cultural change at local, national and global levels; diversity held in the frame of Bhinneka Tunggal Ika (unity in diversity).  b) it has nothing to do with how Indonesia governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The Indonesian nation's diversity held within the frame of Bhinneka Tunggal Ika (unity in diversity); the meaning of unity within diversity; unity across ethnic groups, religions, races and social groups in society; the factors that cause social change and diversity; challenges and attitudes toward cultural change at local, national and global levels; diversity held in the frame of Bhinneka Tunggal Ika (unity in diversity).** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The Indonesian nation's diversity held within the frame of Bhinneka Tunggal Ika (unity in diversity); the meaning of unity within diversity; unity across ethnic groups, religions, races and social groups in society; the factors that cause social change and diversity; challenges and attitudes toward cultural change at local, national and global levels; diversity held in the frame of Bhinneka Tunggal Ika (unity in diversity).  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Indonesia
+**Answer: a) The Indonesian nation's diversity held within the frame of Bhinneka Tunggal Ika (unity in diversity); the meaning of unity within diversity; unity across ethnic groups, religions, races and social groups in society; the factors that cause social change and diversity; challenges and attitudes toward cultural change at local, national and global levels; diversity held in the frame of Bhinneka Tunggal Ika (unity in diversity).** — That is what this lesson teaches.

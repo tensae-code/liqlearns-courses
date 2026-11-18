@@ -1,0 +1,5 @@
+# Pancasila as State Ideology — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Pancasila as the ideology of the state — what an ideology is and what makes Pancasila an open one · Ideology defined and characterised; Pancasila as the state ideology; Pancasila as "meja statis" (static table) and "leitstar dinamis" (dynamic guiding star). Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Pancasila as the ideology of the state — what an ideology is and what makes Pancasila an open one; ideology defined and characterised; Pancasila as the state ideology; Pancasila as "meja statis" (static table) and "leitstar dinamis" (dynamic guiding star) — shown in the learner's own words and one real example, part by part.

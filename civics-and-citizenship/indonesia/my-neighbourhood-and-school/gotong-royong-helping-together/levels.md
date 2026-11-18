@@ -1,0 +1,5 @@
+# Gotong Royong Helping Together — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Gotong royong — working together to help neighbours and clean shared spaces — as an Indonesian way of life practised by children · Gotong royong as Indonesia's way of working together across difference · Gotong royong in the surrounding environment. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Gotong royong — working together to help neighbours and clean shared spaces — as an Indonesian way of life practised by children; gotong royong as Indonesia's way of working together across difference; gotong royong in the surrounding environment — shown in the learner's own words and one real example, part by part.
