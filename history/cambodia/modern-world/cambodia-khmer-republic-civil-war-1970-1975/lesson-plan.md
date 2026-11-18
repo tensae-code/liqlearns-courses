@@ -1,0 +1,49 @@
+# Lesson plan — Cambodia: The Khmer Republic and Civil War, 1970–1975
+
+**Course:** History — Cambodia · **Title:** Modern World · **Lesson:** Cambodia: The Khmer Republic and Civil War, 1970–1975
+**Place in the curriculum:** Level 6 — The World after 1945 and Cambodia's Own Modern Story (CURRICULUM.md).
+**The one thing this lesson teaches:** The 1970 coup removes Sihanouk, the republic is proclaimed, and five years of civil war tear the country apart.
+**This lesson's own level:** Level 6 — The World after 1945 and Cambodia's Own Modern Story (recommended, never forced).
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **Lesson 3, the Khmer Republic (1970–1975)** — The 1970 coup removes Sihanouk, the republic is proclaimed, and five years of civil war tear the country apart.
+2. **Ch. 2 Lesson 3, The Khmer Republic (1970–1975)** — The March 1970 coup removes Sihanouk; the republic fights a losing civil war — the lesson opens on the funeral of its soldiers (photo, 23 March 1973).
+3. **History Ch. 2 Lesson 3, The Khmer Republic era (1970–1975)** — Crisis builds through Samlaut (1967) and a 1,500-million-riel deficit (1969); Lon Nol's "national salvation government" (August 1969) precedes the 18 March 1970 vote that removes Sihanouk while he is in Moscow and Beijing.
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- **Cambodia: The Sangkum, 1953–1970** (`modern-world/cambodia-sangkum-1953-1970/`) is recommended first — it stands just before this lesson on the path (recommended, never forced).
+
+## What the learner can do when it ends
+1. State the lesson's one thing in their own words: The 1970 coup removes Sihanouk, the republic is proclaimed, and five years of civil war tear the country apart.
+2. Give one real example of it from the lesson: The March 1970 coup removes Sihanouk; the republic fights a losing civil war — the lesson opens on the funeral of its soldiers (photo, 23 March 1973).
+3. Answer the lesson's questions from the lesson, without looking back.
+
+## What you need
+Paper and a pencil. Nothing else — the lesson is worked from the story itself and the learner's own life in Cambodia, as the books themselves work.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening act of lesson/lesson.md before any explanation.
+2. **The explanation** — the lesson's parts in order (lesson/lesson.md).
+   - ADD IMAGE: a picture of the story of Cambodia: The Khmer Republic and Civil War, 1970–1975; the student points to the turn in the story where everything changed.
+3. **Say it to your companion** — the learner explains the lesson's one thing and gives a real example (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of the story of Cambodia: The Khmer Republic and Civil War, 1970–1975; the student points to the turn in the story where everything changed.
+- VIDEO — the video-script filmed (made later) → the student listens and answers along.
+
+## If the learner is stuck
+- Loses the thread of the story → Go back to the one thing: The 1970 coup removes Sihanouk, the republic is proclaimed, and five years of civil war tear the country apart. Work the Do it first act again, slowly, and name each step aloud.
+- This lesson's next door: the next lesson in path order — Cambodia: Democratic Kampuchea, 1975–1979.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -1,0 +1,3 @@
+# Globalisation: How It Grew — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — A word born in the 1960s takes off in the 1980s as transport and communication costs fall, finance and technology circle the planet, and bodies like the WTO bind national economies together. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# The Mongol Empire: Genghis Khan — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — In 1206 the steppe clans unite under Genghis Khan (illustration, p. 191); within a generation his horsemen hold the largest land empire ever — the storm that also broke over Champa and Dai Viet. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,11 @@
+# The Industrial Revolution: Steam Changes Everything — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “History Ch. 1 Lesson 1, The Industrial Revolution”?
+a) England's steam factories (chapter frontispiece) spread to France and Germany (steel by 1870), remake farming (threshing, rye and barley rotations), swell and shift populations (French regional table, 1851–1999), and put women and children into the mills.  b) Roosevelt names the "United Nations" in the declaration of 1 January 1942; on 24 October 1945 the organisation is born with 51 founding members.  c) A word born in the 1960s takes off in the 1980s as transport and communication costs fall, finance and technology circle the planet, and bodies like the WTO bind national economies together.  d) A story that is not taught in this lesson
+**Answer: a) England's steam factories (chapter frontispiece) spread to France and Germany (steel by 1870), remake farming (threshing, rye and barley rotations), swell and shift populations (French regional table, 1851–1999), and put women and children into the mills.** — That is what this lesson teaches.
+
+**2.** What is the heart of the story in “History Ch. 1 Lesson 1, The Industrial Revolution”?
+a) England's steam factories (chapter frontispiece) spread to France and Germany (steel by 1870), remake farming (threshing, rye and barley rotations), swell and shift populations (French regional table, 1851–1999), and put women and children into the mills.  b) The First Emperor walls the north (215–214 BCE, photo p. 183); the Han dynasty that follows gives China its lasting name, script and bronze art.  c) Srei Sauriyopear moves the court to Oudong (1604); Chey Chettha II marries a Vietnamese princess and opens Prey Nokor to Vietnamese settlement (1620) — two centuries of shrinking land and civil war end at the French protectorate.  d) A story that is not taught in this lesson
+**Answer: a) England's steam factories (chapter frontispiece) spread to France and Germany (steel by 1870), remake farming (threshing, rye and barley rotations), swell and shift populations (French regional table, 1851–1999), and put women and children into the mills.** — That is what this lesson teaches.

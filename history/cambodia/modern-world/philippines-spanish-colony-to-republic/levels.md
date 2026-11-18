@@ -1,0 +1,3 @@
+# The Philippines: Spanish Colony to Republic — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Magellan is killed by Lapulapu at Mactan in 1521, yet Spain returns, names the 7,000 islands for Philip II and founds Manila (1571) — three centuries of Spanish rule begin. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

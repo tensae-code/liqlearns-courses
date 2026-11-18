@@ -1,0 +1,3 @@
+# Mughal India: Babur, Akbar, Aurangzeb — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Babur (1526–1530), Akbar (1556–1605) and Aurangzeb (1685–1707) (portraits and empire map, p. 187) build and overstretch Muslim rule over Hindu India. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

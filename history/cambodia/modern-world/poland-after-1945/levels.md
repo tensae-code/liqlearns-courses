@@ -1,0 +1,3 @@
+# Poland after 1945 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Poland is shifted west on the map after 1945 (map, p. 68) — 312,683 km², 38.5 million people (2006), sixteen provinces between Germany and Russia. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

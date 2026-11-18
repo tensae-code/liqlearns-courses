@@ -1,0 +1,3 @@
+# Java: Sailendra and Borobudur — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — On the island south of Borneo (map, p. 142) a Hindu-Buddhist kingdom of Java builds Borobudur and trades across the archipelago — the southern mirror of Angkor. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

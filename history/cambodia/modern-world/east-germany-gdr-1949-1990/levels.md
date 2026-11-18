@@ -1,0 +1,3 @@
+# East Germany: The GDR, 1949–1990 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Founded on 7 October 1949 on the Soviet model — 108,333 km², 17 million people (1988) — East Germany lives and dies as the other Germany, its Berlin avenue (photo) built for parades. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

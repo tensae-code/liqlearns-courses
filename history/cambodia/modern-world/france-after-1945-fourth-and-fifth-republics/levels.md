@@ -1,0 +1,3 @@
+# France after 1945: Fourth and Fifth Republics — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — France emerges from Vichy and de Gaulle's 18 June 1940 appeal, then fights to hold Indochina and Algeria while Germany is divided and the Cold War begins (Barbarossa, 22 June 1941; Pearl Harbor, 7 December 1941). — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

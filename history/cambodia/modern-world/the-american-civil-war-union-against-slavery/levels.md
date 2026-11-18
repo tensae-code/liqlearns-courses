@@ -1,0 +1,3 @@
+# The United States, 1860–1914: Railways, Land and Growing Cities — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — A continent stitched together by railways (first transcontinental line, 1869) and by buying and taking land — Louisiana, Florida, Texas, Alaska for $7.2 million — while immigration swells the cities from 31 to 50 million people. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

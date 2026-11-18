@@ -1,0 +1,3 @@
+# The First World War: Course of the War — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The small wars of 1898, 1899–1902 and 1904–05 rehearse the great one; four years of trenches end with a new League meant to keep the peace. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

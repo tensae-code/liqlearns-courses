@@ -1,0 +1,3 @@
+# West Germany and Reunification, 1945–1991 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — A defeated Germany is split at Potsdam, blockaded at Berlin, and governed as two states for forty years until the Wall falls and the two become one again in 1990–91. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
