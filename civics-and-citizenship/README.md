@@ -349,3 +349,19 @@ sources, as provenance.
   leads duplicate the Grade 7 record). See
   `syria/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Romania** — [`romania/`](romania/) · 35 lessons: Levels
+  1–2 — the person first (what a person is, moral traits as
+  pairs of opposites), then relations in widening circles
+  (things and property, animals and plants, small groups
+  with their rules, rights and duties), then belonging
+  (locality, traditions, country and symbols, Romania in
+  the European Union), moral values and moral norms in
+  everyday life, closing with the universal rights of the
+  child, from Romania's *Educație Civică* student books
+  for Grades 3 and 4 (Aramis Print, 2021, and Grup
+  Editorial Litera, year not printed on the pages read,
+  both for the Ministerul Educației, Romanian, both
+  COMPLETE — 35 placements, 35 lessons; both read from
+  the official manuale.edu.ro PDFs via their Wayback
+  captures, as filed). See `romania/ABOUT.md` for the
+  full book list and the acceptance reckoning.

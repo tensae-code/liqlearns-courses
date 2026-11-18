@@ -1,0 +1,3 @@
+# Romania in the European Union — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Romania is a member of the European Union — belonging to the country and belonging to the Union stand together — in their own words, give one real example from their own life in Romania, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.
