@@ -1,0 +1,11 @@
+# Guatemala's Ancestral Authorities and Maya Justice — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement about “The Maya people and their ancestral ways of resolving conflicts (Grade 6)” is right?
+a) Where the state court punishes, the ancestral authorities gather the community to repair the harm and restore balance — violence or lynching, the guide insists, is not Maya justice.  b) it has nothing to do with this lesson  c) it is a private matter no learner ever meets  d) it was invented by LiqLearns, not taught in Guatemala's book
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) that this topic concerns only officials and never ordinary people  b) Where the state court punishes, Guatemala's ancestral authorities gather the community to repair the harm and restore balance — Maya justice is restorative, not punitive, and the guide insists that violence or lynching is not Maya justice at all.  c) that learners need know nothing about it  d) that it is the same in every country and Guatemala has no way of its own
+**Answer: b)** — That is what this lesson teaches.
