@@ -1,0 +1,13 @@
+# Obligations of the State — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Obligations of the State — a)
+**2.** Rights and Duties (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The obligations of the state toward its population.
+b) One of the titles that run through Rwanda's History and Citizenship books, returning at every level in a wider circle.
+
+**Answer key:** 1. a 2. b

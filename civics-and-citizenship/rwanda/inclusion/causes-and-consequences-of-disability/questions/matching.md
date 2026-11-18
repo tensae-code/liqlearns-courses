@@ -1,0 +1,13 @@
+# Causes and Consequences of Disability — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Causes and Consequences of Disability — a)
+**2.** Inclusion (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Causes and consequences of disability.
+b) One of the titles that run through Rwanda's History and Citizenship books, returning at every level in a wider circle.
+
+**Answer key:** 1. a 2. b

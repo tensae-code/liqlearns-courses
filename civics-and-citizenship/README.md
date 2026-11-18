@@ -459,3 +459,22 @@ sources, as provenance.
   acceptance 0 — no Jamaica student book was in hand) — 49
   placements, 49 lessons. See `jamaica/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Rwanda** — [`rwanda/`](rwanda/) · 49 lessons: Levels
+  1–3 — democracy, rights with duties, conflict and
+  genocide, dignity and self-reliance (Agaciro), inclusion
+  and family values first, then the state itself balanced
+  against the citizen's duties, unity in diversity and
+  social cohesion, and last rights as national and
+  international instruments, democratisation, Rwanda in
+  East Africa, conflict transformation through national
+  law and tolerance and respect, from Rwanda's *History
+  and Citizenship* books (Rwanda Basic Education Board,
+  English — the Senior One Student's Book, 2024, COMPLETE
+  for the citizenship strand; the Senior 2 and Senior 3
+  Teacher's Guides, 2020, COMPLETE as TEACHER evidence,
+  acceptance 0 for their levels; the S2 and S3 student
+  books are RECORD-ONLY, UNREAD — corrupt downloads, clean
+  copies owed; the books' history units are named, not
+  placed) — 49 placements, 49 lessons. See
+  `rwanda/ABOUT.md` for the full book list and the
+  acceptance reckoning.
