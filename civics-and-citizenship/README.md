@@ -155,3 +155,18 @@ sources, as provenance.
   (V5), COMPLETE); both records were phantom pushes, read from
   ebooks.edu.gr and now staged. See `greece/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Algeria** — [`algeria/`](algeria/) · 21 lessons: Level 1
+  only — heritage first (our heritage is a treasure: landmarks,
+  the old Casbah, material and intangible heritage, Tabriza,
+  nature reserves, the duty to preserve it, and UNESCO), then
+  dialogue and living together (dialogue and its etiquette,
+  dialogue in class and through difficulties, resolving
+  conflicts, racial discrimination named and refused), then
+  school and property (the primary, middle and secondary
+  schools, private property, public property, and cleaning the
+  school), from Algeria's *Civic Education* student book for
+  the 4th Year Primary (Ministry of National Education, Arabic,
+  second-generation curriculum, COMPLETE — taught as learning
+  situations; its three assessment pages named, not placed).
+  See `algeria/ABOUT.md` for the full book list and the
+  acceptance reckoning.
