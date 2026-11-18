@@ -1,0 +1,30 @@
+# History — South Sudan course — CURRICULUM (the path)
+
+One course for South Sudan inside the History folder, organised by **levels, not grades**: a learner climbs when they have proved the level, not when a school calendar says so. The school grade each book comes from appears only in each lesson's sources (provenance), never as the course's organisation.
+
+**How the levels derive:** South Sudan's books in hand run from the Primary 1–8 Social Studies pupil's books and their teacher's guides (Ministry of General Education and Instruction, Republic of South Sudan, 2018) through the Secondary 1, 2 and 4 History student's books and their teacher's guides — twenty-two books read; the Secondary 3 student's book and teacher's guide are UNREAD as filed and carry no placements, so no level is stocked from them. The placements file's book order is the teaching order — earliest books first. Inside that order, the ladder below groups the books the way South Sudan's own story divides in them: first steps at home, Africa's peoples and South Sudan's beginnings, kingdoms and the journey to independence, civilisations and colonisation, South Sudan in depth at secondary level, revolutions and the world wars, and the world after 1945. Each lesson sits at the level of the first book that teaches it. Levels, NOT grades: the grade numbers live only in ABOUT.md and sources.md. The ladder is a recommended path, never a forced gate.
+
+**The first page (what learners are told):** everything in this course comes from government textbooks — South Sudan's own Ministry of General Education and Instruction, Republic of South Sudan books — except the **Tip boxes**: a tip in a box is from us, the people making LiqLearns. Tips are ours; the lessons are the books'. See ABOUT.md for the full book list and the acceptance reckoning.
+
+## The levels (the path, in order)
+
+1. **First Steps at Home: Family, Change and Heritage** — the historian's craft at child height, learned at home first — who makes a family, how a family changes over time, family history and ancestors, the old and new objects that keep the past, how evidence becomes a written history, each community's own origin story, and how to argue for and against a change — 7 lessons.
+
+2. **Africa's Peoples, First Work and South Sudan's Beginnings** — Africa's peoples in their language families, the jobs of the past from herding and tilling to trade, the leaders who shaped South Sudan's culture, why its peoples settled and moved where they did, the national symbols whose colours retell the peace agreements, and the world inventions — plough, steam engine, printing press — read through what they changed at home — 8 lessons.
+
+3. **Kingdoms and the Journey to Independence** — South Sudan's pre-colonial kingdoms — Azande, Shilluk, Otuho and Anyuak — set beside Africa's other kingdoms and judged by how kingdoms hold together, West Africa's kingdoms and Benin, then South Sudan's own dated chain to independence on 9 July 2011, measured against South Africa's road out of apartheid — 6 lessons.
+
+4. **Civilisations and Colonisation** — what civilisation is and why civilisations rise and fall — the Maya, the Aztecs and Rome tested against the list — then Europeans coming into Africa: the trading posts, the motives, the effects on South Sudan's own split peoples, collaboration and resistance, colonialism in America, and the balance sheet of colonial rule — 15 lessons.
+
+5. **South Sudan in Depth: Trade, Kingdoms, Slavery and Foreign Rule** — the secondary course's own national history — the three pre-colonial trades, the scramble and partition, South Sudan's centralised kingdoms and its decentralised Nuer and Dinka, the slave trade in South Sudan and across the Atlantic, Turko-Egyptian rule and the Mahdiyya, the missionaries, and Africa's answer in the OAU and the regional blocs — 13 lessons.
+
+6. **Revolutions and the World Wars** — the French Revolution and its Terror, the Congress of Vienna, Germany and Italy unified, the two world wars whole — causes, course and results, with Africa inside the count — liberal democracy and nationalism, the Cold War, and the Non-Aligned Movement, while South Sudan's own twentieth century is stocked at Level 3 in this course's ladder — 14 lessons.
+
+7. **The World after 1945 and Africa Judged** — the final year's world survey — the United States from its Civil War through the Great Depression, the New Deal, its wars and its Civil Rights Movement, Russia in 1917, Stalin and Trotsky, Gorbachev and the Cold War's end, Latin America's independence and Bolívar, the Middle East, Israel, Suez and OPEC, the Gulf War, Japan and China, the League of Nations and the United Nations, closing where the first secondary year closed, with the OAU judged — 19 lessons.
+
+**Totals: 82 lessons** (Level 1: 7 · Level 2: 8 · Level 3: 6 · Level 4: 15 · Level 5: 13 · Level 6: 14 · Level 7: 19 — 157 placements stocked; 76 lessons stand on student books, so those lessons are taught in 1 country (South Sudan); 6 lessons stand on teacher-guide evidence only, acceptance 0, labelled in their sources; 24 lessons carry sub lessons).
+
+## Where the build stands
+
+- **Course frame — BUILT** (this CURRICULUM, TITLES.md, ABOUT.md, and the folder README entry).
+- **Levels 1–7 — BUILT**: 82 lessons, 10 questions each; every placement in the filing stocked into exactly one lesson (157 placements, the lines govern). Twenty-two books were read — eleven student books and eleven teacher's guides, all COMPLETE as filed. The two Secondary 3 books (Books 21 and 22) are UNREAD as filed — not held, both routes tried returned HTTP 404 — and are named in ABOUT.md as not yet in the course; no level is stocked from them. Six lessons stand on teacher-guide evidence only (Fact or Opinion; Company Rule, Direct Rule, Assimilation; The Great Depression, 1929; America at War: Vietnam, Gulf and Iraq; Civil Rights Movement in America; The OAU Judged: Liberator but Not Peacekeeper), acceptance 0, labelled in their sources. No PARTIAL book and no record-only book is in the South Sudan filing. No slug merges were made.

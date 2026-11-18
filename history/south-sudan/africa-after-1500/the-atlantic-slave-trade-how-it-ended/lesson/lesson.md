@@ -1,0 +1,17 @@
+# The Atlantic Slave Trade: How It Ended
+
+## Do it first
+
+Before you read, write one line: what do you think the story of **The Atlantic Slave Trade: How It Ended** will be about? Then draw a rough map from memory of where you think it happens. Keep both — you will check them at the end.
+
+The trade impairs Africa's development, displaces peoples and enriches Europe, and is finally abolished in the 1860s as printed. Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: The trade impairs Africa's development, displaces peoples and enriches Europe, and is finally abolished in the 1860s as printed. Give one real example: The trade impairs Africa's development, displaces peoples and enriches Europe, and is finally abolished in the 1860s as printed. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: compare your first map and line with the story you now know, and fix what was wrong.
+2. Write or draw the lesson's main teaching in your own words: The trade impairs Africa's development, displaces peoples and enriches Europe, and is finally abolished in the 1860s as printed.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.

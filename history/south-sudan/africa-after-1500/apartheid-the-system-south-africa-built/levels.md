@@ -1,0 +1,3 @@
+# Apartheid: The System South Africa Built — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Nominal independence in 1910, the ANC founded in 1912, the 1913 Land Act, apartheid adopted in 1948, Mandela jailed for life in 1964, then De Klerk frees activists and, as printed, Mandela becomes president. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

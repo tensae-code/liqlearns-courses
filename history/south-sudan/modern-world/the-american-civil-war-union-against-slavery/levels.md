@@ -1,0 +1,3 @@
+# The American Civil War: Union against Slavery — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — A country divided over slavery reads Lincoln's own words — his 1854 Springfield speech calling slaveholders political hypocrites and his 1858 speech that even the dumbest slave knows he is wronged. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

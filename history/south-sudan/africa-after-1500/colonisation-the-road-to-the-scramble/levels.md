@@ -1,0 +1,3 @@
+# Colonisation: The Road to the Scramble — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Europeans set up trading posts from the late 1400s, then dominate the continent in the 1800s-1900s; a partition map shares Africa out, and pupils explore why Britain occupied Egypt. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# West African Empires: Ghana — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Maps of 680 and 1625 are compared to trace how West African kingdoms changed, with Portuguese and Dutch possessions appearing on the coast. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

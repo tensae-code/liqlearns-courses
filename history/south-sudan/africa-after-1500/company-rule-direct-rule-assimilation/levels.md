@@ -1,0 +1,3 @@
+# Company Rule, Direct Rule, Assimilation — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — European traders exchange glassware, wine, guns and silk for ivory, spices, slaves and rhino horns, then form companies that administer and tax — William Mackinnon's Imperial British East Africa Company and Carl Peters's German East Africa Company. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
