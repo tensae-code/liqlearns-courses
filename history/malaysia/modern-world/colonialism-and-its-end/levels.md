@@ -1,0 +1,3 @@
+# Colonialism and Its End — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Western administration transforms the land: a modern economy of large-scale tin mining and estate agriculture brings immigrant labour, new towns and a money economy — and a widening gap between the modern sector and the village world. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

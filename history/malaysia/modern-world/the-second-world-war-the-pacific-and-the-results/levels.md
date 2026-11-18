@@ -1,0 +1,3 @@
+# The Second World War: The Pacific and the Results — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Japan emerges as a military, imperial power in the Asia-Pacific, and the war spreads across the Pacific, mainland Asia and the Southeast Asian islands (1941–1945) — bringing the war to Malaya's own shores. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
