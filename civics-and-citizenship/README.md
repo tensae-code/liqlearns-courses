@@ -744,3 +744,27 @@ sources, as provenance.
   no programme, no UNREAD book. See
   `el-salvador/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Costa Rica** — [`costa-rica/`](costa-rica/) · 77 lessons: Levels
+  1–5 — civics beginning as the safety of the places the young
+  citizen actually lives (safe communities, road culture,
+  disaster risk), then identity (national identity symbol by
+  symbol), gender rebuilt for equity under named Costa Rican
+  laws, and intercultural living, then participation practised
+  in student and local government, human rights in three
+  generations with Costa Rica's own protection mechanisms, and
+  democracy defended by horizontal and vertical control, then
+  the world's political regimes and ideologies measured against
+  Costa Rica's own institutions (the abolition of the army
+  among them), its electoral system and parties, and last the
+  state as guarantor of equal opportunity (health — La Caja and
+  the EBAIS clinics — education, work) and the young citizen's
+  democratic practices (values, projects, leadership,
+  deliberation and negotiation), from Costa Rica's *Educación
+  Cívica* student books for Grades 7, 8 and 9 and the shared
+  *Nuevo material de Educación Cívica* for Grades 10–11
+  (CONED / Universidad Estatal a Distancia (UNED), Spanish,
+  all COMPLETE as filed — 77 placements, 77 lessons, all on
+  student books). The filings contain no other Costa Rica
+  book — no teacher guide, no programme, no UNREAD book. See
+  `costa-rica/ABOUT.md` for the full book list and the
+  acceptance reckoning.
