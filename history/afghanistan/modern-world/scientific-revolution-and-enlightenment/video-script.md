@@ -1,0 +1,15 @@
+# Video script — Scientific revolution and enlightenment
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Scientific revolution and enlightenment.
+
+After the Renaissance, Europeans turn their eyes to this world, and scholars, writers and artists remake science and letters (the telescope stands as its emblem).
+
+Telescopes and new thought remake Europe's mind.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

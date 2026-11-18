@@ -1,0 +1,3 @@
+# Islam comes to afghanistan — depth
+
+This lesson is divided into sub lessons, each proved before the next opens. Pass mark: the learner can state the lesson's one thing — the story of Islam comes to afghanistan as Afghanistan's own books tell it — who was in it, where it happened, what turned, and what came of it — in their own words, retell the story (who, where, what turned, what came of it), and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain story as told in the lesson, then tellings from the later, deeper books stocked in this lesson, then the story applied in a new place — the learner's own locality and people.

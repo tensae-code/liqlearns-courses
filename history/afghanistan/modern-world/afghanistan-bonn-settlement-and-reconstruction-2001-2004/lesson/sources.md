@@ -1,0 +1,20 @@
+# Sources — Afghanistan bonn settlement and reconstruction 2001 2004
+
+countries: Afghanistan
+
+**Book 3:** دروس اجتماعی صنف ششم (Social Studies, Grade 6) (student book, Dari) — Grade: Grade 6 (student/teacher: STUDENT) — Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed PDF pages: 106 (cover/title page verified against the record title; printed pp. 1–99+) Verdict: COMPLETE. Tally as filed: 25 placements — 6 to existing lessons, 19 NEW LESSON NEEDED (History chapters only). Placements at `liqlearns-courses-work/expansion-history-2026-11-15/afghanistan-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 29: The Bonn Conference | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 57 |
+| Lesson 30: The Interim Administration | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 59 |
+| Lesson 31: The Emergency Loya Jirga | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 61 |
+| Lesson 32: The Islamic Transitional Government of Afghanistan | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 63 |
+| Lesson 33: The beginning of the country's reconstruction | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 65 |
+| Lesson 34: The presidential elections | Book 3 (Afghanistan Grade 6 Social Studies), printed p. 67 |
+
+**Acceptance count: taught in 1 country (Afghanistan) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Afghanistan's History and Social Studies books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Afghanistan bonn settlement and reconstruction 2001 2004, afghanistan-bonn-settlement-and-reconstruction-2001-2004, Afghanistan, history afghanistan, Lesson 29: The Bonn Conference, Lesson 30: The Interim Administration, Lesson 31: The Emergency Loya Jirga
