@@ -1172,3 +1172,23 @@ sources, as provenance.
   in the second filing and closes that gap). See
   `indonesia/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Sri Lanka** — [`sri-lanka/`](sri-lanka/) · 209 lessons: Levels
+  1–7 — the child's own school and family first, then community
+  and good conduct, culture and living together, the state's
+  services and democracy as a way of living, change, social
+  security and the world of work, democratic governance, local
+  government and resolving conflict, closing with a labelled
+  older-generation Tamil-medium band (Grades 10–12: Civics and
+  Governance, the Social Education books and the 1976 Political
+  Science) — from Sri Lanka's Civic Education student books for
+  Grades 6–11 (Educational Publications Department, English,
+  with Tamil parallel editions placed once) and NIE teacher
+  guides (218 placements, 209 lessons; student books count in
+  the acceptance reckoning, the 4 NIE teacher guides read with
+  placements stand as evidence only, with 66 lessons on guide
+  evidence alone at acceptance 0, labelled; the two NIE Grade 9
+  Life Competencies and Civic Education teacher guides are
+  RECORD-ONLY — legacy-font text unreadable in this wave — and
+  the Grade 10–11 Map Education book is RECORD-ONLY). See
+  `sri-lanka/ABOUT.md` for the full book list and the
+  acceptance reckoning.

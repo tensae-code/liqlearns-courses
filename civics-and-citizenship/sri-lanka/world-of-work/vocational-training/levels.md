@@ -1,0 +1,5 @@
+# Vocational Training — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Finding the vocational training centres of your area, the courses they provide, and reading newspaper advertisements for them. — shown in the learner's own words and one real example.
