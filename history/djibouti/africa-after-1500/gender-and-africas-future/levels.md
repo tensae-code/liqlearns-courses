@@ -1,0 +1,3 @@
+# Gender and Africa's Future — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The guide argues that the continent cannot unite while half its people are held back: the question of gender — the full place of women — belongs to Africa's unity and its future. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Decolonisation: Ghana, Kenya and the South — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Colony by colony, Africa won its flags back — the liberation of the continent came by negotiation in some lands and by hard struggle in others, until the colonial map was undone. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
