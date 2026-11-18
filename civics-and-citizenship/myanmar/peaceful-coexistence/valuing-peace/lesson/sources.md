@@ -1,0 +1,18 @@
+# Sources — Valuing Peace
+
+countries: Myanmar
+
+**Book 9 (myanmar-placements.md):** *စာရိတ္တနှင့်ပြည်သူ့နီတိ (Morality and Civics), Grade 6* (student book, Burmese) — school textbook, Ministry of Education (cover's four roundels: family, school, the scales of justice, the dove of peace); year 2019–2020 (the edition its Teacher Guide records); no ISBN printed in the pages read. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 66. Subject as filed: Morality and Civics — track: standalone. **Verdict: PARTIAL** — cover, front matter and contents page read first-hand from rendered pages (contents read by OCR of a high-resolution render); every lesson placed from the verified contents, cross-checked against the English Teacher Guide's year plan for the same book, whose lesson titles agree. Not a page-by-page read of all 66 pages. Contents map: Chapter 1 Social Ethics (လူမှုကျင့်ဝတ်), printed p.1 (Lessons 1.1–1.4, pp.2–12); Chapter 2 Rights and Responsibilities, p.15 (Lessons 2.1–2.4, pp.16–27); Chapter 3 Discipline and Law (စည်းကမ်းနှင့်ဥပဒေ), p.32 (Lessons 3.1–3.3, pp.33–40); Chapter 4 Living Together in Peace, p.45 (Lessons 4.1–4.3, pp.46–53). Tally: 14 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/myanmar-placements.md` (Book 9 in that filing).
+
+**Book 10 (myanmar-placements.md):** *Teacher Guide — Morality and Civic — Grade 6* (teacher guide, English) — title page: Government of the Republic of the Union of Myanmar, Ministry of Education; distributed free of charge by the government; Basic Education Curriculum, Syllabus and Textbook Committee; year 2019–2020 (printed February 2019; registration FF 06/18, as printed); no ISBN printed. Grade: Grade 6 (student/teacher: TEACHER). PDF pages: 70 (the guide has a text layer and was read in full as extracted text, in place). Subject as filed: Morality and Civics — track: standalone. **Verdict: COMPLETE** — read in full as text: preface and teaching framework, the year plan (36 weeks, 72 periods) and full lesson plans for all 14 lessons of the student book, each with objectives, competencies, teaching process (Introduction–Teaching–Practice–Review), assessment and key points. Placements are the guide's own lesson-plan teaching content, marked TEACHER; never a substitute for the pupil-book row. Contents map: Teacher Guide introduction and framework (student-centred method, Bloom's taxonomy, assessment, 21st-century skills — apparatus, named, not placed); Year Plan and Lesson Period table (placed via the lesson plans); Lesson Plans for Units 1–4, Lessons 1.1–4.3 (placed); Unit reflections and exam periods (assessment — named, not placed). Tally: 14 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/myanmar-placements.md` (Book 10 in that filing).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 4.2 "ငြိမ်းချမ်းရေးကိုမြတ်နိုးခြင်း" (Valuing peace) | Myanmar Grade 6 Morality and Civics TB, printed p. 49 |
+| Lesson 4.2 "Valuing peace" (4 periods) (teacher guide — TEACHER placement, as filed) | Myanmar Grade 6 Morality and Civics TG (English), Lesson 4.2 plan |
+
+**Acceptance count: taught in 1 country (Myanmar) — this lesson stands on a student book.**
+
+This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: peace, valuing, valuing-peace, civics and citizenship myanmar, Lesson 4.2 "ငြိမ်းချမ်းရေးကိုမြတ်နိုးခြင်း" (Valuing peace); Lesson 4.2 "Valuing peace" (4 periods)

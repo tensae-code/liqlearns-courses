@@ -1,0 +1,13 @@
+# Importance of Rules and Law — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Importance of Rules and Law — a)
+**2.** Discipline and Law (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Why rules and regulations must be followed, and the importance of a country's laws.
+b) One of the titles of Myanmar's own civics course, built from Myanmar's own government textbooks.
+
+**Answer key:** 1. a 2. b

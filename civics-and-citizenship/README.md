@@ -925,3 +925,31 @@ sources, as provenance.
   is reserved for it, not stocked). See
   `malaysia/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Myanmar** — [`myanmar/`](myanmar/) · 117 lessons: Levels
+  1–4 — character at home and school (my family, helping
+  parents, politeness, honesty, trust, empathy, fairness
+  and the pupil's duty, carried into school life), the
+  series' four values made civic (caring for younger
+  ones, using ICT properly, public goods, our rights, the
+  school council, the importance of rules and law, and
+  peace and unity as subjects), the frame at secondary
+  school (children's right to education, the
+  rule-respecting citizen, community affairs), and the
+  frame completed (human rights, the Child Rights Law,
+  elections, taxes, and peace for the Union), from
+  Myanmar's *Morality and Civics* student books and
+  teacher guides for Grades 1, 2, 3, 4, 6, 7 and 10
+  (Ministry of Education, Republic of the Union of
+  Myanmar, Burmese, with the Grade 3 book read in its
+  English translation and the Grade 3 and Grade 6 guides
+  read in English, as filed — 146 placements, 117
+  lessons; 107 lessons on student books and 10 lessons on
+  teacher guides alone, teacher-guide evidence only,
+  acceptance 0, labelled; the first filing's Books 1–9
+  are PARTIAL as filed (its guides PARTIAL at guide
+  level), its Book 10 and all four of the second filing's
+  books COMPLETE as filed (its guides COMPLETE at strand
+  level); no book is UNREAD as filed, and Grades 5, 8, 9,
+  11 and 12 are named in both filings as a library gap,
+  not stocked). See `myanmar/ABOUT.md` for the full book
+  list and the acceptance reckoning.

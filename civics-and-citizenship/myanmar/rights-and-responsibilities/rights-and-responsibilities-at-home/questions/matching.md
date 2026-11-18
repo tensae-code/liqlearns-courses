@@ -1,0 +1,13 @@
+# Rights and Responsibilities at Home — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Rights and Responsibilities at Home — a)
+**2.** Rights and Responsibilities (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The rights and responsibilities of family members, taught with case study and role play.
+b) One of the titles of Myanmar's own civics course, built from Myanmar's own government textbooks.
+
+**Answer key:** 1. a 2. b
