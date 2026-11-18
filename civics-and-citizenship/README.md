@@ -185,3 +185,18 @@ sources, as provenance.
   printed pagination, so lessons cite chapter folder + opening
   file, COMPLETE). See `france/ABOUT.md` for the full book list
   and the acceptance reckoning.
+- **Cameroon** — [`cameroon/`](cameroon/) · 26 lessons: Levels
+  1–4 — the family first (marriage, the child's rights and
+  duties, parents' responsibilities, divorce, family
+  protection), then belonging, rights and school life (clan,
+  tribe and tribalism, human dignity and rights, the school as
+  an institution), then the village (its traditional
+  organisation and values, its economy and restoration), then
+  local government (councils, their resources and budget, their
+  services, and Cameroon's regions), from Cameroon's
+  *Citizenship Education, Books 1–2* in one volume (ANUCAM,
+  English, PARTIAL — contents-only read: the GEI copy holds the
+  complete table of contents of both books but no chapter body,
+  so lessons are placed at chapter level and the book itself
+  remains a library debt). See `cameroon/ABOUT.md` for the full
+  book list and the acceptance reckoning.
