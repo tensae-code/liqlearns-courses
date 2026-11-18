@@ -1,0 +1,3 @@
+# Ancient Egypt: The Nile Kingdom — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — in Egypt, the Nile's flood became a calendar, a granary and a kingdom: plough agriculture on the river's gift of water and soil carried a whole civilisation — its culture and its technology — on one river — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
