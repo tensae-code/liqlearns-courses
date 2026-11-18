@@ -1,0 +1,3 @@
+# Islamic Resistance Figures: Nur al-Din and Omar al-Mukhtar — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Nur al-Din Zengi unites the Islamic lands against the Crusaders, and centuries later Omar al-Mukhtar fights the Italian coloniser in Libya — two resisters held up as one lesson. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

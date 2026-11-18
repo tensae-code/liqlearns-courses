@@ -1,0 +1,3 @@
+# Pan-Arab Unity 1958: The United Arab Republic — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — After the coups of 1949 and the Cold War pull of the two camps, Syria united with Egypt: on 22 February 1958 President Quwatli stepped aside for Jamal Abd al-Nasser and the United Arab Republic was born, until the secession of 28 September 1961. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
