@@ -1,0 +1,3 @@
+# Colonial Education and the New Elites — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Colonial schools — STOVIA's medical students, the Kartini schools, Padang Panjang's Madrasah Diniyah Putri — were built to serve the colony, and instead produced the educated generation that would end it; the Volksraad opened as a limited council. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

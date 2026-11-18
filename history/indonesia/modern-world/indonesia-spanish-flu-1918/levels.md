@@ -1,0 +1,3 @@
+# The Spanish Flu, 1918 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The 1918 Spanish flu swept the Indies along the shipping routes, and the colonial state answered with pamphlets, newspaper campaigns against pandemic hoaxes, and mass cholera vaccination on the rubber estates. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

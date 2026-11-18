@@ -1,0 +1,3 @@
+# BPUPKI, PPKI and the Birth of Pancasila — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Working inside Japan's own institutions, Indonesians trained in PETA and, in the BPUPKI, Sukarno spoke Pancasila on 1 June 1945 — with Maria Ulfah and Siti Sukaptinah among its members — before the PPKI convened on 18 August 1945. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# The Road to the Proclamation, August 1945 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Japan's defeats mounted, Hiroshima lay in ruins, Tokyo permitted the Indonesian flag and anthem — and the draft proclamation was formulated at Admiral Maeda's house as the vacuum opened. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

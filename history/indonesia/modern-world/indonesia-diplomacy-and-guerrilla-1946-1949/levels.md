@@ -1,0 +1,3 @@
+# Diplomacy and Guerrilla War, 1946–1949 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — At the table, Linggarjati (1946) and Renville (1948) shrank the Republic while Dutch aggressions broke them; the answer was Sudirman's guerrilla war plus Roem–Royen and the Round Table Conference, which finally transferred sovereignty. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

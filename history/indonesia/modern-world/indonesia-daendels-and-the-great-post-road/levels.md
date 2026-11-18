@@ -1,0 +1,3 @@
+# Daendels and the Great Post Road — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Governor-General Daendels (1808–1811), sent by the Batavian Republic to hold Java against Britain, quoted the French Revolution and ruled as a dictator — driving the Anyer–Panarukan Great Post Road out of the people by kerja rodi forced labour. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

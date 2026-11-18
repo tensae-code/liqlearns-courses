@@ -1,0 +1,3 @@
+# Forming the Republic, 1945 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — In the days after the Proclamation the PPKI wrote a constitution, elected Sukarno and Hatta, and built ministries and regions — a state assembled while the Japanese still held the arms depots. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

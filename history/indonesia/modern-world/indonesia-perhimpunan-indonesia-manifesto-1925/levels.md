@@ -1,0 +1,3 @@
+# Perhimpunan Indonesia and the 1925 Manifesto — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Students in the Netherlands issued the 1925 Political Manifesto, naming Indonesia — not the Indies — as the nation to be freed, and carried the word home. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

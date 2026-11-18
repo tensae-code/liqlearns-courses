@@ -1,0 +1,3 @@
+# Aceh and Maluku Resist Portugal and the VOC — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Aceh fought the Portuguese and then the Dutch for the pepper coast, while the Moluccas rose for their cloves and nutmeg — the first two centuries of armed refusal. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Sukarno-Era Games and Mercusuar Projects — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Sukarno built prestige in concrete and sport — the 1962 Asian Games, his rival GANEFO games, and the 'mercusuar' lighthouse projects — while health and education policy reached ordinary villages. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

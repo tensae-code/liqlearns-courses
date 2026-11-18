@@ -1,0 +1,3 @@
+# The Cold War: What It Was and What It Did to Africa — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Refusing both blocs under Bebas Aktif — free and active — Indonesia hosted the 1955 Asia-Africa Conference at Bandung and helped found the Non-Aligned Movement: the Cold War read from the equator. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
