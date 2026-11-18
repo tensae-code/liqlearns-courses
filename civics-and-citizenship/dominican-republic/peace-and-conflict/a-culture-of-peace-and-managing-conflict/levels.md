@@ -1,0 +1,5 @@
+# A Culture of Peace and Managing Conflict — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: A culture of peace and handling conflicts without violence. — shown in the learner's own words and one real example.

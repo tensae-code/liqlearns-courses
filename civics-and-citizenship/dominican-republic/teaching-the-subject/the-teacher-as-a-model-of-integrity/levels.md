@@ -1,0 +1,5 @@
+# The Teacher as a Model of Integrity — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The teacher's functions as a model of integrity and ethical leadership, beginning with being a coherent example. — shown in the learner's own words and one real example.

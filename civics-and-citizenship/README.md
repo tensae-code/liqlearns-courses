@@ -1049,3 +1049,42 @@ sources, as provenance.
   programmes or UNREAD books in the filing). See
   `china/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Dominican Republic** — [`dominican-republic/`](dominican-republic/) · 129 lessons: Levels
+  1–9 — "my country, my house" (society, nation, State and
+  government, the social democratic State of rights, the
+  symbols, living together though different), the
+  Constitution opening the second year (fundamental
+  rights, the Legislative Power, nationality and
+  citizenship, heritage, and the child-protection law
+  Ley 136-03), society turned outward (the Judicial
+  Power, the municipality, participation, tax rights and
+  duties, harmony in the world), the pillars for
+  "citizens of tomorrow" (rights and duties, sovereignty,
+  the Constitution with its powers and functions,
+  dialogue, peace-building, guardians of the planet),
+  rights in the Republic worked through conflict and the
+  symbols with the laws on their use, conscious
+  citizenship (human rights, governance and democracy as
+  a State of law, values that transform the school), the
+  roots of the nation ("safe routes and conscious
+  taxes", the powers as pillars, the State of law), the
+  constitutions' own history (the emergence of the
+  Dominican State, the succession of constitutions and
+  their guarantee of fundamental rights, American and
+  French influence), and Dominican thought itself
+  (identity, democracy, the Constitution, and Duarte's
+  constitutional project), closing with the graduate as
+  guardian of symbols, soil and sovereignty — with the
+  teacher guides' Teaching the Subject lessons alongside
+  (the shared teacher doctrine and project orientations,
+  teacher-guide evidence only, acceptance 0), from the
+  Dominican Republic's *Educación Moral, Cívica y Ética
+  Ciudadana* Libro Abierto Serie 1 guides for Grades
+  4–6 of Primary and 1°–6° of Secondary (MINERD, Spanish;
+  159 placements, 129 lessons — 114 placements on the
+  nine student books, 45 on the eight read teacher
+  guides, all seventeen read books COMPLETE as filed;
+  the Grade 8 teacher guide is RECORD-ONLY, UNREAD — a
+  phantom push absent from the tree, every Release and
+  disk). See `dominican-republic/ABOUT.md` for the full
+  book list and the acceptance reckoning.

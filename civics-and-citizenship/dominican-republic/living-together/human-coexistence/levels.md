@@ -1,0 +1,5 @@
+# Human Coexistence — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Human coexistence starting from the diversity of the classroom and of society · Human coexistence as the ground of a resilient community · Human coexistence as part of taking road and tax responsibility for the common good. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Human coexistence starting from the diversity of the classroom and of society; human coexistence as the ground of a resilient community; human coexistence as part of taking road and tax responsibility for the common good. — shown in the learner's own words and one real example, part by part.
