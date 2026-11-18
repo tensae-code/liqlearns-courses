@@ -1,0 +1,9 @@
+# State Bodies — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** President, Parliament, Government, courts and local bodies as one constitutional system.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** President, Parliament, Government, courts and local bodies as one constitutional system.

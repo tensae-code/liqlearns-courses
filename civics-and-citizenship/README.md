@@ -1132,3 +1132,22 @@ sources, as provenance.
   ladder between Levels 2 and 4 is labelled partial, as
   filed). See `papua-new-guinea/ABOUT.md` for the full book
   list and the acceptance reckoning.
+- **Kazakhstan** — [`kazakhstan/`](kazakhstan/) · 192 lessons: Levels
+  1–10 — the Samopoznanie (Self-Knowledge) spiral from the
+  youngest child's honesty, home and first homeland, through
+  Abai and Shakarim, conscience and "I am a citizen!", to
+  self-knowledge, dignity, duty, service to society, calling
+  and moral choice — with, at Level 9, the Grade 9
+  *Fundamentals of Law* tour of Kazakhstan's own legal system,
+  constitution first (rights and freedoms, state bodies, the
+  electoral system, civil, labour, family, administrative and
+  criminal law, ending in corruption offences and the humanism
+  of punishment) — from Kazakhstan's *Samopoznanie* student
+  textbooks for Grades 1–10 and *Fundamentals of Law* for
+  Grade 9 (NNPOOC "Bobek" and Mektep, Almaty, Russian + Kazakh
+  parallel editions, the law book also in Uyghur; 197
+  placements, 192 lessons — all 17 filed books COMPLETE and
+  student footing: 11 student textbooks and 6 pupil's
+  workbooks, the workbooks companions with 0 placements each,
+  as filed). See `kazakhstan/ABOUT.md` for the full
+  book list and the acceptance reckoning.

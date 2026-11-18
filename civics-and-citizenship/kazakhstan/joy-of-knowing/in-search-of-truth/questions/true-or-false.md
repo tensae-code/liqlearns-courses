@@ -1,0 +1,9 @@
+# In Search of Truth — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** Truth-seeking as the pupil's stance.
+**Answer: True**
+
+**2.** This lesson teaches that In Search of Truth — and that it has no connection to the rest of Kazakhstan's story.
+**Answer: False** — The lesson places it inside Kazakhstan's own course, in its own order.
