@@ -791,3 +791,24 @@ sources, as provenance.
   Teacher's Guide, a PHANTOM PUSH) and no UNREAD book. See
   `south-sudan/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Hungary** — [`hungary/`](hungary/) · 85 lessons: Levels
+  1–2 — Hungary's own two civics books form a spiral: the
+  Grade 8 book walks the widening circles (the family,
+  household money, the learner's settlement and its local
+  government, nation and homeland duties, the state's
+  basic institutions, everyday administration, consumer
+  protection and the great public systems), every lesson
+  framed by a quotation from the Fundamental Law; the
+  Grade 12 book revisits the same circles at adult depth
+  (freedom and responsibility, the state organ by organ,
+  enterprise, banks, household finance, official business
+  and consumer and environmental protection), from
+  Hungary's *Állampolgári ismeretek* (Citizenship
+  Knowledge) student books for Grades 8 and 12 (Oktatási
+  Hivatal / Education Office, Hungarian, both COMPLETE as
+  filed — 88 placements, 85 lessons, all on student
+  books; the books' practical-exercise and task-bank
+  apparatus is named, not placed, and the filing names no
+  teacher guide, no UNREAD book and no staged file). See
+  `hungary/ABOUT.md` for the full book list and the
+  acceptance reckoning.

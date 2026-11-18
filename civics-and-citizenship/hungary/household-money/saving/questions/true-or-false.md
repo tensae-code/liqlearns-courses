@@ -1,0 +1,9 @@
+# Saving — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** Saving and thrift.
+**Answer: True**
+
+**2.** This lesson teaches that Saving — and that it has no connection to the rest of Hungary's story.
+**Answer: False** — The lesson places it inside Hungary's own course, in its own order.
