@@ -1,0 +1,42 @@
+# Sources — Find History in Your Own Locality
+
+countries: Laos
+
+**Book 1:** ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1) (teacher guide, Lao) — Grade: Grade 6 / ມ.1 (student/teacher: TEACHER) — Research Institute for Educational Sciences (ສະຖາບັນຄົ້ນຄວ້າວິທະຍາສາດການສຶກສາ), Vientiane; year 2012; no ISBN printed PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 421,603 bytes, size verified) Verdict: COMPLETE. Tally as filed: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 2:** ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1) (student book, Lao) — Grade: Grade 6 / ມ.1 (student/teacher: STUDENT) — Research Institute for Educational Sciences, Vientiane; year 2010; no ISBN printed PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 64,912,985 bytes, size verified; image scan, contents and lessons verified against the teacher guide LA-G6-T, whose exercises follow this book page by page in content) Verdict: COMPLETE. Tally as filed: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 3:** ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2) (teacher guide, Lao) — Grade: Grade 7 / ມ.2 (student/teacher: TEACHER) — Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 415,080 bytes, size verified) Verdict: COMPLETE. Tally as filed: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 4:** ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2) (student book, Lao) — Grade: Grade 7 / ມ.2 (student/teacher: STUDENT) — Research Institute for Educational Sciences, Vientiane; no ISBN printed PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 9,251,049 bytes, size verified; contents and lessons verified against the teacher guide LA-G7-T) Verdict: COMPLETE. Tally as filed: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 5:** ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Teacher's Guide, History, Secondary Year 3) (teacher guide, Lao) — Grade: Grade 8 / ມ.3 (student/teacher: TEACHER) — Ministry of Education and Sports / Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed PDF pages: 106 (cover verified against the record title — same WWII-era cover art as the student book; grabbed via grab.py url from the release record, 46,142,082 bytes, size verified) Verdict: COMPLETE. Tally as filed: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 6:** ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Textbook, History, Secondary Year 3) (student book, Lao) — Grade: Grade 8 / ມ.3 (student/teacher: STUDENT) — Ministry of Education and Sports / Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed PDF pages: 106 (cover verified against the record title — WWII-era cover art shared with the teacher guide; grabbed via grab.py url from the release record, 53,151,940 bytes, size verified; contents and lessons verified against the teacher guide LA-G8-T) Verdict: COMPLETE. Tally as filed: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 9:** ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5) (teacher guide, Lao) — Grade: Grade 10 / ມ.5 (student/teacher: TEACHER) — Research Institute for Educational Sciences, Vientiane; no ISBN printed PDF pages: 220 (cover/title page verified against the record title; grabbed via grab.py tree, 3,655,523 bytes, size verified; the guide's first 38 printed pages are general teaching introduction, lessons follow the student book's content) Verdict: COMPLETE. Tally as filed: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 10:** ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5) (student book, Lao) — Grade: Grade 10 / ມ.5 (student/teacher: STUDENT) — Research Institute for Educational Sciences, Vientiane; no ISBN printed PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 7,462,495 bytes, size verified; contents and lessons verified against the teacher guide LA-G10-T) Verdict: COMPLETE. Tally as filed: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 11:** ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Teacher's Guide, History, Secondary Year 6) (teacher guide, Lao) — Grade: Grade 11 / ມ.6 (student/teacher: TEACHER) — Research Institute for Educational Sciences, Vientiane; year 2015 printing; no ISBN printed PDF pages: 185 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 8,153,529 bytes, size verified) Verdict: COMPLETE. Tally as filed: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+**Book 12:** ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Textbook, History, Secondary Year 6) (student book, Lao) — Grade: Grade 11 / ມ.6 (student/teacher: STUDENT) — Research Institute for Educational Sciences, Vientiane; year 2015 printing; no ISBN printed PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 3,578,522 bytes, size verified; contents and lessons verified against the teacher guide LA-G11-T) Verdict: COMPLETE. Tally as filed: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Part II, Lesson 12: Archaeological traces in our locality | Book 1 (Laos Grade 6 LA-G6-T), printed p. 59 |
+| Part II, Lesson 12: Archaeological traces in our locality | Book 2 (Laos Grade 6 LA-G6-S), printed p. 83 |
+| Part III, Lesson 14: History of our locality | Book 3 (Laos Grade 7 LA-G7-T), printed p. 77 |
+| Part III, Lesson 14: History of our locality | Book 4 (Laos Grade 7 LA-G7-S), printed p. 87 |
+| Part III, Lesson 12: Local people's resistance against France and America | Book 5 (Laos Grade 8 LA-G8-T), printed p. 79 |
+| Part III, Lesson 12: Local resistance against France and America | Book 6 (Laos Grade 8 LA-G8-S), printed p. 84 |
+| Part IV, Lesson 15: Archaeology and local history | Book 9 (Laos Grade 10 LA-G10-T), printed p. 205 |
+| Part V, Lesson 15: Archaeology and the history of our locality | Book 10 (Laos Grade 10 LA-G10-S), printed p. 193 |
+| Section 2, Part VII, Lesson 21: Local history, modern period | Book 11 (Laos Grade 11 LA-G11-T), printed p. 150 |
+| Part VII, Lesson 21: Local history, modern period | Book 12 (Laos Grade 11 LA-G11-S), printed p. 194 |
+
+**Acceptance count: taught in 1 country (Laos) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Laos's History books, in the books' own order; teacher-guide rows in the table above are evidence alongside the student-book tellings, as labelled in the book entries. No provenance talk appears in the lesson prose.
+
+Searchable tags: Find History in Your Own Locality, find-history-in-your-own-locality, Laos, history laos, Archaeological traces in our locality, History of our locality, Local people's resistance against France and America, Local resistance against France and America, Archaeology and local history, Archaeology and the history of our locality, Local history, modern period

@@ -1,0 +1,3 @@
+# Napoleon and the Revolution's Legacy — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the revolution's ideas march across Europe with and against Napoleon. — in their own words, retell the story (who, where, what turned, what came of it), and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain story as told in the lesson, then tellings from the later, deeper books stocked in this lesson, then the story applied in a new place — the learner's own locality and people, as Laos's own books themselves close each year by asking.
