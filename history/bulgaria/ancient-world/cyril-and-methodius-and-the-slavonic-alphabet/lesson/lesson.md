@@ -1,0 +1,24 @@
+# Cyril and Methodius and the Slavonic Alphabet
+
+## Do it first
+
+Before you read, write one line: what do you think the story of **Cyril and Methodius and the Slavonic Alphabet** will be about? Then draw a rough map from memory of where you think it happens. Keep both — you will check them at the end.
+
+
+## Sub lesson 1 — Lesson 22: The work of SS Cyril and Methodius and their disciples
+
+Two brothers invent an alphabet for the Slavs; their disciples carry it to Bulgaria. Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+
+## Sub lesson 2 — Lesson 9: The holy brothers Cyril and Methodius — apostles and enlighteners of the Slavic world
+
+The brothers give the Slavs letters, and Bulgaria shelters their disciples. Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: Two brothers invent an alphabet for the Slavs; their disciples carry it to Bulgaria. Give one real example: The brothers give the Slavs letters, and Bulgaria shelters their disciples. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: compare your first map and line with the story you now know, and fix what was wrong.
+2. Write or draw the lesson's main teaching in your own words: Two brothers invent an alphabet for the Slavs; their disciples carry it to Bulgaria.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.
