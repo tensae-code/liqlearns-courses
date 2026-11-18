@@ -1,0 +1,3 @@
+# Arar Mustafa Wahbi al Tal Jordans National Poet — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Mustafa Wahbi al-Tal "Arar", born in Irbid in 1899, teacher and state employee, becomes Jordan and the Arab world's famous poet of the diwan "Ashiyyat Wadi al-Yabis" — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

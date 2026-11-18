@@ -1,0 +1,3 @@
+# Persia Cyrus Roads Post and Zoroaster — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Cyrus (560–529 BCE) defeats the Babylonians and takes Jordan in 539 BCE; Darius reaches into the Greek cities, and Alexander of Macedon ends the Achaemenid state before the Parthians inherit the east — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

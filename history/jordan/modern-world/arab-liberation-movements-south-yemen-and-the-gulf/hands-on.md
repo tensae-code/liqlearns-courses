@@ -1,0 +1,12 @@
+# Hands-on — Arab Liberation Movements South Yemen and the Gulf
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Draw a line across a page — a road or a timeline. Mark the parts of this story on it in order: Liberation in South Yemen and the Arab Gulf. Under each mark, write who is there and what turns. This lesson's story is: Sinan Pasha takes Aden for the Ottomans in 1538 but the interior stays its own; the National Front forms in 1963, a bomb at Aden airport wounds the British High Commissioner, and Britain cannot hold the South; in the Gulf, Britain brands the Trucial Coast the "Pirate Coast", binds the sheikhdoms with perpetual protection treaties and forbids oil concessions without her consent — then, days before the Emirates unite in 1971, Iran seizes the Greater and Lesser Tunbs and lands on Abu Musa, as Prime Minister Hoveyda announces it to his parliament; Qatar and Bahrain nurse their own national movements around the British Political Resident's base, and Oman — Ya'ariba imams, Sultan bin Ahmad's treaty of 1798, the Dhofar revolution — fights its long road out of the Portuguese and British shadow.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: Sinan Pasha takes Aden for the Ottomans in 1538 but the interior stays its own; the National Front forms in 1963, a bomb at Aden airport wounds the British High Commissioner, and Britain cannot hold the South; in the Gulf, Britain brands the Trucial Coast the "Pirate Coast", binds the sheikhdoms with perpetual protection treaties and forbids oil concessions without her consent — then, days before the Emirates unite in 1971, Iran seizes the Greater and Lesser Tunbs and lands on Abu Musa, as Prime Minister Hoveyda announces it to his parliament; Qatar and Bahrain nurse their own national movements around the British Political Resident's base, and Oman — Ya'ariba imams, Sultan bin Ahmad's treaty of 1798, the Dhofar revolution — fights its long road out of the Portuguese and British shadow. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson's story echoing in real life — at home, at school, in the street, or in the news of your town. Each time you see an echo (or its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

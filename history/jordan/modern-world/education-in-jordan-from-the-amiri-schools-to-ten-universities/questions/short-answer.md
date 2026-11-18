@@ -1,0 +1,9 @@
+# Education in Jordan from the Amiri Schools to Ten Universities — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** Retell, in your own words, what happens in “Education 1921 to today”.
+**Answer:** the Emirate legislates early (Primary Instruction Law 1926, the Ma'arif system 1939), staffed by teachers from Syria and Palestine, beside the missionary schools (Mutran, Terra Sancta, the Rosary Sisters) and the lone Sanai' vocational school in Amman; unity with the West Bank (1950) multiplies schools — Khaduri in Tulkarm, Shobak's agricultural school, the Amman Teachers' Institute (1952) — and free textbooks follow; the 1967 displacement of 350,000 forces the double-shift school day; the 1994 Education Law, schools for deaf and blind pupils, military-culture schools and the Queen Rania Award (2006) mark the modern age; higher education begins with scholarships to Arab universities and ends, for now, with ten public universities from the Hashemite in Zarqa to the German-Jordanian in Na'ur.
+
+**2.** Who is in the story of “Education in Jordan from the Amiri Schools to Ten Universities”, where does it happen, and what turns?
+**Answer:** the Emirate legislates early (Primary Instruction Law 1926, the Ma'arif system 1939), staffed by teachers from Syria and Palestine, beside the missionary schools (Mutran, Terra Sancta, the Rosary Sisters) and the lone Sanai' vocational school in Amman; unity with the West Bank (1950) multiplies schools — Khaduri in Tulkarm, Shobak's agricultural school, the Amman Teachers' Institute (1952) — and free textbooks follow; the 1967 displacement of 350,000 forces the double-shift school day; the 1994 Education Law, schools for deaf and blind pupils, military-culture schools and the Queen Rania Award (2006) mark the modern age; higher education begins with scholarships to Arab universities and ends, for now, with ten public universities from the Hashemite in Zarqa to the German-Jordanian in Na'ur.

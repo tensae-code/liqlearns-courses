@@ -1,0 +1,15 @@
+# Sources — Jordans Rock Inscriptions Safaitic Thamudic Nabataean
+
+countries: Jordan
+
+**Book 24:** *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 1 — Unit 1: Jordan in the Ancient Ages* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-648-8; National Library deposit 2024/5/3174 (cataloguing data in the book itself gives exactly 68 pages). Grade: 11 STUDENT (vocational track). PDF pages: 68 (77,369,501 bytes, matches record 9669). Verdict: COMPLETE — read in full from the text layer. NOTE: the targets record titles this file simply "History of Jordan — Grade 11 Term 1"; the book itself is the VOCATIONAL-track book — the academic-track Term 1 is the separate 228 MB file (Book 25). Tally as filed: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 4: the ancient rock inscriptions of Jordan | Book 24 (Jordan Grade 11 Vocational G11T1), printed p. 41 |
+
+**Acceptance count: taught in 1 country (Jordan) — this lesson stands on a student book.**
+
+No provenance talk appears in the lesson prose. The books' own wording for these topics stands as searchable tags below.
+
+Searchable tags: ancient-world/jordans-rock-inscriptions-safaitic-thamudic-nabataean, jordans-rock-inscriptions-safaitic-thamudic-nabataean, jordans rock inscriptions safaitic thamudic nabataean, history jordan, jordan, The ancient rock inscriptions of Jordan

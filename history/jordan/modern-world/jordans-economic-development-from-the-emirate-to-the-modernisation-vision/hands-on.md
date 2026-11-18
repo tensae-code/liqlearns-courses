@@ -1,0 +1,12 @@
+# Hands-on — Jordans Economic Development from the Emirate to the Modernisation Vision
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Draw a line across a page — a road or a timeline. Mark the parts of this story on it in order: Economic life 1921 to today. Under each mark, write who is there and what turns. This lesson's story is: A poor Emirate founds an agricultural bank in 1922 and a Supreme Economic Committee in 1924, living on Ghawr and plateau grain, hand mills and olive presses until independence (1946) brings factories — textiles, mills, metals, paper; 1948 floods the country with refugees and closes Palestine's ports, so Jordan builds Aqaba's port and digs the East Ghawr (King Abdullah) Canal from Adasiya to South Shuna, raises the Central Bank in 1964 and a Tourism Authority in 1960 (a ministry by 1967); the dinar halves amid military spending and subsidy cuts, the 1990–91 Gulf crisis sends the expatriates home — then the US free-trade agreement (2001), the Aqaba Special Economic Zone, the Abdali project and the Investment Commission (2014, a ministry by 2021) carry the story to the economic-modernisation vision.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: A poor Emirate founds an agricultural bank in 1922 and a Supreme Economic Committee in 1924, living on Ghawr and plateau grain, hand mills and olive presses until independence (1946) brings factories — textiles, mills, metals, paper; 1948 floods the country with refugees and closes Palestine's ports, so Jordan builds Aqaba's port and digs the East Ghawr (King Abdullah) Canal from Adasiya to South Shuna, raises the Central Bank in 1964 and a Tourism Authority in 1960 (a ministry by 1967); the dinar halves amid military spending and subsidy cuts, the 1990–91 Gulf crisis sends the expatriates home — then the US free-trade agreement (2001), the Aqaba Special Economic Zone, the Abdali project and the Investment Commission (2014, a ministry by 2021) carry the story to the economic-modernisation vision. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson's story echoing in real life — at home, at school, in the street, or in the news of your town. Each time you see an echo (or its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

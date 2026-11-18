@@ -1,0 +1,3 @@
+# The Russian Revolution 1917 and the Soviet Union — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Tsarist tyranny jails its writers — Pushkin, Dostoevsky, Tolstoy, Gorky — until war and hunger raise the soviets; Lenin returns to Petrograd, the Bolsheviks take power in 1917, Russia leaves the Great War and the Soviet Union is born — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
