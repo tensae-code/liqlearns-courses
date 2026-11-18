@@ -504,6 +504,27 @@ sources, as provenance.
   placed) — 49 placements, 49 lessons. See
   `rwanda/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Libya** — [`libya/`](libya/) · 49 lessons: Levels 1–8 —
+  citizenship built as widening "I" statements: myself and
+  my health first, then family, school and neighbourhood,
+  the environment, and the homeland, then the values for
+  living together (equality, justice, solidarity,
+  tolerance, dialogue), rights and duties (the child's
+  rights under the 1989 convention and the duties that
+  answer them), citizenship taken apart into its social,
+  administrative, legal and political dimensions, and last
+  democracy in practice (participation, peaceful transfer
+  of power, civil society, elections, and two workshops
+  where the class itself votes), from Libya's *أنا
+  المواطن (I Am the Citizen)* National Education
+  activity books for Grades 4–9 of Basic Education (Centre
+  for Educational Curricula and Pedagogical Research,
+  Ministry of Education, Arabic, 2019–2020, all COMPLETE —
+  53 placements, 49 lessons, all on student books; all six
+  records were phantom pushes, read from Wayback snapshots
+  of their recorded source URLs and staged). See
+  `libya/ABOUT.md` for the full book list and the
+  acceptance reckoning.
 - **Ecuador** — [`ecuador/`](ecuador/) · 50 lessons: Levels
   1–3 — citizenship and human rights through history,
   equality as a natural and legal condition, the three

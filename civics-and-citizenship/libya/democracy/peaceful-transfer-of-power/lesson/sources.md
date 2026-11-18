@@ -1,0 +1,15 @@
+# Sources — Peaceful Transfer of Power
+
+countries: Libya
+
+**Book 6:** *أنا المواطن — كتاب التربية الوطنية للصف التاسع من مرحلة التعليم الأساسي (I Am the Citizen — National Education Book for the Ninth Grade of Basic Education)* (student book, Arabic) — Centre for Educational Curricula and Pedagogical Research, Ministry of Education, State of Libya; school year 1440–1441 AH / 2019–2020; no ISBN printed. Title as printed: "أنا المواطن — كتاب التربية الوطنية للصف التاسع من مرحلة التعليم الأساسي". Grade: grade-09 (student/teacher: STUDENT). PDF pages: 79 (cover verified against the record title). Phantom push — fetched via Wayback snapshot of the recorded source URL; staged (see the filings’ group log). Subject as filed: National Education — track: standalone. **Verdict: COMPLETE.** Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/libya-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Part 3: Peaceful Transfer of Power (Book 6 filing) | Libya Grade 9 I Am the Citizen, printed p. 32 |
+
+**Acceptance count: taught in 1 country (Libya) — this lesson stands on a student book.**
+
+This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: peaceful, transfer, peaceful-transfer-of-power, civics and citizenship libya, Part 3: Peaceful Transfer of Power
