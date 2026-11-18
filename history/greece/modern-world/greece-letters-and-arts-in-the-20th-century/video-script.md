@@ -1,0 +1,13 @@
+# Video script — Greece letters and arts in the 20th century
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Greece letters and arts in the 20th century.
+
+Seferis and Elytis win Nobels while Cavafy's Alexandria poems conquer the world after his death.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

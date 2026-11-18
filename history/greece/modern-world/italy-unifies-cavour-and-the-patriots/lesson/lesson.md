@@ -1,0 +1,31 @@
+# Italy unifies cavour and the patriots
+
+## Do it first
+
+Before you read: say what you already know about "Italy unifies cavour and the patriots" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — §14 The unifications of Italy and Germany; new national states in the Balkans
+
+Cavour and Garibaldi make Italy, Bismarck makes Germany in three wars, and Balkan nations queue for the same script.
+
+## Sub lesson 2 — The unification of Italy
+
+Cavour's diplomacy and Garibaldi's redshirts piece a kingdom out of seven states.
+
+## Sub lesson 3 — The national unification of Italy
+
+Piedmont's king and Garibaldi's volunteers stitch Italy together.
+
+## Sub lesson 4 — The Italian unification (1848–1871)
+
+Piedmont, Cavour and Garibaldi unite Italy and take Rome.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of Italy unifies cavour and the patriots as Greece's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

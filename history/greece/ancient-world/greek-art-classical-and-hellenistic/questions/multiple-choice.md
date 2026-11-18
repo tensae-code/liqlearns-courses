@@ -1,0 +1,13 @@
+# Greek art classical and hellenistic — multiple choice
+
+Pick the one right answer.
+
+**1.** What happens in "Chapter 5: Classical and Hellenistic art"?
+a) the Parthenon fixes the classical balance; after Alexander, art turns dramatic, individual and cosmopolitan  b) a story with no people and no place  c) a list of dates to copy without a story  d) nothing changes and nothing comes of it
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** What happens in "Chapter 5: Classical and Hellenistic art"?
+a) the Parthenon fixes the classical balance; after Alexander, art turns dramatic, individual and cosmopolitan  b) a story with no people and no place  c) a list of dates to copy without a story  d) nothing changes and nothing comes of it
+**Answer: a)** — That is what this lesson teaches.
+
+

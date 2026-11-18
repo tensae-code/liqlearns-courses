@@ -1,0 +1,28 @@
+# Sources — Greece asia minor war 1919 1922
+
+countries: Greece
+
+**Book 18:** Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras — Grade: 9 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9 — PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404) — Verdict: COMPLETE — Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED — Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 21:** Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education — Grade: 10 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2 — PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly) — Verdict: COMPLETE — Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED — Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 23:** Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti — Grade: 12 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3 — PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly) — Verdict: COMPLETE — Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED — Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 24:** Title as printed: Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism) — Grade: 12 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2418-2 — PDF pages: 290 (cover/title page verified against the record title; byte size 18,778,027 matches the record exactly) — Verdict: COMPLETE — Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED — Greece's own way: instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Entente and Greek claims on the Ottoman Empire | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 100 |
+| The Greeks of western Asia Minor and Pontus | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 102 |
+| The Turkish national movement | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 104 |
+| The Asia Minor war (1919–1922) | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 105 |
+| Greece and Turkey after the Asia Minor war | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 108 |
+| The Asia Minor war (1918–1923) and the Treaty of Lausanne | Book 21 (Greece Grade 10 G10 EPAL Modern & Contemporary World), printed p. 103 |
+| The Asia Minor War (1919–1922) | Book 23 (Greece Grade 12 G12 Modern & Contemporary World), printed p. 88 |
+| Theme 3 B: The Asia Minor Catastrophe — the exodus | Book 24 (Greece Grade 12 G12 Themes of Modern Greek History), printed p. 144 |
+
+**Acceptance count: taught in 1 country (Greece) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Greece's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Entente and Greek claims on the Ottoman Empire, The Greeks of western Asia Minor and Pontus, The Turkish national movement, The Asia Minor war (1919–1922), Greece and Turkey after the Asia Minor war, The Asia Minor war (1918–1923) and the Treaty of Lausanne, The Asia Minor War (1919–1922), Theme 3 B: The Asia Minor Catastrophe — the exodus, Greece, Greece asia minor war 1919 1922, greece-asia-minor-war-1919-1922, history greece

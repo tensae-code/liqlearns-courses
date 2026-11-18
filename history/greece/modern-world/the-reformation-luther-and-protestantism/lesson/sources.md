@@ -1,0 +1,24 @@
+# Sources — The reformation luther and protestantism
+
+countries: Greece
+
+**Book 14:** Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium) — Grade: Grade 8 (student/teacher: STUDENT) — Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087) — PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route) — Verdict: COMPLETE — Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED — Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-placements.md`.
+
+**Book 19:** Title as printed: Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki — Grade: 9 (student/teacher: STUDENT) — ecclesiastical school track — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2024; ISBN 978-960-06-6217-7 — PDF pages: 114 (cover/title page verified against the record title; byte size 13,445,336 matches the record exactly) — Verdict: COMPLETE — Tally: 13 placements — 4 to existing lessons, 9 NEW LESSON NEEDED — Greece's own way: church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 21:** Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education — Grade: 10 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2 — PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly) — Verdict: COMPLETE — Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED — Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 22:** Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas — Grade: 11 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2 — PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly) — Verdict: COMPLETE — Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED — Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 7.I.3 The Religious Reformation | Book 14 (Greece Grade 8 G8 History student book), printed p. 120 |
+| The Reformation | Book 19 (Greece Grade 9 G9 Ecclesiastical History Topics), printed p. 84 |
+| The Religious Reformation and its part in creating national states | Book 21 (Greece Grade 10 G10 EPAL Modern & Contemporary World), printed p. 4 |
+| The Religious Reformation (1517–1555) | Book 22 (Greece Grade 11 G11 Medieval & Modern World), printed p. 127 |
+
+**Acceptance count: taught in 1 country (Greece) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Greece's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Ch. 7.I.3 The Religious Reformation, The Reformation, The Religious Reformation and its part in creating national states, The Religious Reformation (1517–1555), Greece, The reformation luther and protestantism, the-reformation-luther-and-protestantism, history greece

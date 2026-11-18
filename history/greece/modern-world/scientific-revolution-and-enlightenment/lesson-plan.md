@@ -1,0 +1,56 @@
+# Lesson plan — Scientific revolution and enlightenment
+
+**Course:** History — Greece · **Title:** Modern world · **Lesson:** Scientific revolution and enlightenment
+**Place in the curriculum:** Level 6 — Byzantium the spine: medieval and modern history, with the empire's society of rich and poor investigated (CURRICULUM.md).
+**The one thing this lesson teaches:** the story of Scientific revolution and enlightenment as Greece's own books tell it — who was in it, where it happened, what turned, and what came of it.
+**This lesson's own level:** Level 6 — Byzantium the spine: medieval and modern history, with the empire's society of rich and poor investigated — it stands on the lessons before it in path order (recommended, never forced).
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **§1 Ch. 7.I.5 Developments in letters, sciences and arts in the 17th–18th c.** — telescopes, Newton and the philosophes turn the Scientific Revolution into the Enlightenment
+2. **§2 §1 The age of the Enlightenment** — reason is turned on throne, altar and tradition, and the philosophes draft the blueprint of the modern world
+3. **§3 The age of the Enlightenment** — thinkers question kings and churches, argue for reason and rights, and arm two revolutions with ideas
+4. **§4 The Enlightenment movement** — reason is turned on throne and altar, and the rights of man become a programme
+5. **§5 Scientific development (15th–18th centuries)** — Copernicus moves the Earth, Galileo looks through a telescope, Newton binds heaven and earth in one law
+6. **§6 The Enlightenment** — philosophes attack superstition and argue for toleration, rights and separated powers
+7. **§7 Intellectual life in the 17th and 18th centuries** — the scientific revolution matures into academies, encyclopaedias and salons
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended before this: Europe of absolute kings 15th to 18th century (recommended, never forced).
+
+## What the learner can do when it ends
+1. State the lesson's one thing in their own words: the story of Scientific revolution and enlightenment as Greece's own books tell it — who was in it, where it happened, what turned, and what came of it.
+2. Retell the story of Scientific revolution and enlightenment — who, where, what turned, and what came of it.
+3. Answer the lesson's questions from the lesson, without looking back.
+
+## What you need
+Paper and a pencil. Nothing else — the lesson is worked from the story itself and the learner's own place and people.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening act of lesson/lesson.md before any explanation.
+2. **The explanation** — the lesson's story in order (lesson/lesson.md).
+   - ADD IMAGE: a picture of the scene at the centre of "Scientific revolution and enlightenment" — the place and the people of the story, as an animated map would show them — the student names who is in it, where it is, and what is turning.
+   - ADD GIF: a 2-second GIF of the story's turn — the moment everything changes in "Scientific revolution and enlightenment" — the student watches it and says aloud what changed.
+3. **Say it to your companion** — the learner retells the story and states its one thing (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of the scene at the centre of "Scientific revolution and enlightenment" — the place and the people of the story → the student names who is in it, where it is, and what is turning.
+- GIF — a 2-second GIF of the story's turn in "Scientific revolution and enlightenment" → the student watches and says aloud what changed.
+- VIDEO — the video-script filmed (made later) → the student listens and answers along.
+
+## If the learner is stuck
+- Retells names but not the turn → ask: "What changed in this story, and what came of it?" The turn is the proof.
+- Go back to the one thing: the story of Scientific revolution and enlightenment as Greece's own books tell it — who was in it, where it happened, what turned, and what came of it. Work the Do it first act again, slowly, and name each step aloud.
+- This lesson's next door: the next lesson in path order — Philanthropy in byzantium church and poor relief.
+
+## Teacher note
+The full text is lesson/lesson.md; the story is told there in our own words from the books' story beats. Keep the learner on the story — who, where, what turned, what came of it — and let the questions check the story as taught.

@@ -1,0 +1,24 @@
+# Sources — American independence
+
+countries: Greece
+
+**Book 8:** Title as printed: Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World) — Grade: Grade 6 (student/teacher: STUDENT) — Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: 2018 edition; ISBN 978-960-06-3199-9 (book code 0-10-0182) — PDF pages: 242 (cover/title page verified against the record title; read from the record's ministry source_url — 45,446,905 bytes, exactly matching the books.json size_bytes) — Verdict: COMPLETE — Tally: 49 placements — 4 to existing lessons, 45 NEW LESSON NEEDED — Greece's own way: Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-placements.md`.
+
+**Book 16:** Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium) — Grade: Grade 9 (student/teacher: STUDENT) — Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151) — PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book) — Verdict: COMPLETE — Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED — Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-placements.md`.
+
+**Book 18:** Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras — Grade: 9 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9 — PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404) — Verdict: COMPLETE — Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED — Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+**Book 22:** Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas — Grade: 11 (student/teacher: STUDENT) — Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2 — PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly) — Verdict: COMPLETE — Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED — Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/greece-b-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit A, ch. 3 The American and French Revolutions | Book 8 (the two manifestos Greeks will read — Greece Grade 6 G6 History student book), printed p. 20 |
+| §2 The American Revolution | Book 16 (Greece Grade 9 G9 History student book), printed p. 14 |
+| The American revolution | Book 18 (Greece Grade 9 G9 Modern & Contemporary History), printed p. 14 |
+| The American Revolution | Book 22 (Greece Grade 11 G11 Medieval & Modern World), printed p. 170 |
+
+**Acceptance count: taught in 1 country (Greece) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Greece's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Unit A, ch. 3 The American and French Revolutions, §2 The American Revolution, The American revolution, The American Revolution, Greece, American independence, american-independence, history greece
