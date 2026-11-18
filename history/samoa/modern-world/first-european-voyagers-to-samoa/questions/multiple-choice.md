@@ -1,0 +1,14 @@
+# First European Voyagers to Samoa — multiple choice
+
+Pick the one right answer.
+
+**1.** What does the part "Part 1, Unit 3, explorers" tell?
+a) nothing changed, and nobody moved or decided anything
+b) it is a story with no people and no places in it
+c) the past cannot be known, so the book leaves it blank
+d) Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire
+**Answer: d) Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire** — That is what this lesson teaches.
+
+**2.** Which sentence matches this lesson's story of "Part 1, Unit 3, explorers"?
+a) Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire  b) the opposite happened, and the lesson says so plainly  c) this part is not in the lesson at all  d) nobody in this part did anything that mattered
+**Answer: a) Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire** — That is what this lesson teaches.
