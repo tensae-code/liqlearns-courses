@@ -1,0 +1,3 @@
+# Historical Sites of East Africa: Fort Jesus, Gedi and Nyero — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Fort Jesus guards Mombasa, Olduvai's remains reach back 1.9 million years, Gedi flourishes on the Kenyan coast from the 13th to the 17th century, and the Nyero rock paintings mark Uganda's own deep past. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Kenya's Road to Independence and Mau Mau — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Kenya's LEGCO of 1907 serves the white settlers until Eliud Mathu becomes its first African member in 1944; the Mau-Mau rise to liberate the land, end the colour bar and the Kipande system, and force independence. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Traditional Justice and Conflict Resolution in East Africa — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Two feuding clans cut a sheep and a goat in half and exchange the halves, then drink the bitter herb Oput together to "wash away bitterness" — justice as a shared drink, not a verdict. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

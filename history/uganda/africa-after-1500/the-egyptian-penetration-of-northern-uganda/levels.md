@@ -1,0 +1,3 @@
+# The Egyptian Penetration of Northern Uganda — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Egypt pushes south for the Nile, the climate and the fertile soils; Emin Pasha and Sir Samuel Baker are the imperialists the learner must research. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

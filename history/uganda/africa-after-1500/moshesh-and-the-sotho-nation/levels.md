@@ -1,0 +1,3 @@
+# Moshesh and the Sotho Nation — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Moshesh, born 1786, learns statecraft from the elder Mohlomi, holds his mountain kingdom against Zulu, Ndebele and Boer, then defeats the British in battle and wins the peace with a diplomat's letter to Cathcart. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

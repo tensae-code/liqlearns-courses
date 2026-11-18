@@ -1,0 +1,3 @@
+# The Great Trek — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — From about 1835 the trekkers pack overnight and move under Trigardt, Potgieter, Retief, Maritz and Pretorius — fleeing English law, African interpreters in court, and the 1811 circuit laws that treated all people alike; at Vegkop 430 Matabele and 2 Boers die. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

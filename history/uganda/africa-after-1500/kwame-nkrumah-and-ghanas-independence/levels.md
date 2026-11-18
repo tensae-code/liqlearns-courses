@@ -1,0 +1,3 @@
+# Kwame Nkrumah and Ghana's Independence — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Nkrumah, a goldsmith's son of the Nzima born in 1909, forms the Convention People's Party in 1949, mobilises Ghana as one people, and wins independence in 1957. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Uganda Becomes a British Protectorate, 1894 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Portal goes home, recommends the protectorate and dies of typhoid at 36; on 18 June 1894 Uganda is declared a British Protectorate, and governors from Jackson of the First World War to Crawford of the first general elections administer it. — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
