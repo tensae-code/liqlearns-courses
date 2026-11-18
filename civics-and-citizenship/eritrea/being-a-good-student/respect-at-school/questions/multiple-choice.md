@@ -1,0 +1,11 @@
+# Respect at School — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) Respect for teachers, classmates and community at school, with the false-alarm story as warning.  b) it has nothing to do with how Eritrea governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) Respect for teachers, classmates and community at school, with the false-alarm story as warning.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) Respect for teachers, classmates and community at school, with the false-alarm story as warning.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Eritrea
+**Answer: a) Respect for teachers, classmates and community at school, with the false-alarm story as warning.** — That is what this lesson teaches.

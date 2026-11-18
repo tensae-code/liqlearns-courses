@@ -610,3 +610,20 @@ sources, as provenance.
   stalled at 1,048,576 bytes), named in its ABOUT. See
   `yemen/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Eritrea** — [`eritrea/`](eritrea/) · 58 lessons: Levels
+  1–4 — the young person first (responsibility, self-control,
+  honesty, and life as a good student), then society and
+  culture (family, traditions, diversity, religious
+  harmony), then the national story (the Revolution,
+  liberation, the referendum, the state's principles and
+  government, patriotism, symbols and holidays), closing on
+  rules, rights paired with duties, right and wrong, and the
+  good, active citizen, from Eritrea's *Citizenship
+  Education* student books for Grades 6 and 8 (Ministry of
+  Education, State of Eritrea, English, 2014 and 2015, both
+  COMPLETE — 60 placements, 58 lessons, all on student
+  books; two lessons carry both books' passes of the same
+  teaching). The filings contain no other Eritrea book — no
+  teacher guide, no programme, no UNREAD book. See
+  `eritrea/ABOUT.md` for the full book list and the
+  acceptance reckoning.
