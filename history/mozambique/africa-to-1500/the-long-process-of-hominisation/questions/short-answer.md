@@ -1,0 +1,9 @@
+# The Long Process of Hominisation — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what happens in “Lição 9: O lento processo de hominização”?
+**Answer:** Over six million years primate ancestors slowly stand upright, free their hands and grow brains — the long becoming-human called hominisation.
+
+**2.** What is the one thing this lesson teaches?
+**Answer:** Over six million years primate ancestors slowly stand upright, free their hands and grow brains — the long becoming-human called hominisation.

@@ -1,0 +1,3 @@
+# The Great Capitalist Powers 1870–1914 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the great capitalist powers race ahead unevenly at the turn of the century, and their contradictions sharpen toward confrontation — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

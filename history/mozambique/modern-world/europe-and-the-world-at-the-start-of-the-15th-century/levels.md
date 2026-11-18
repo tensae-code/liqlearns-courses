@@ -1,0 +1,3 @@
+# Europe and the World at the Start of the 15th Century — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — feudal Europe begins to crack; new economic and social forces push the continent from the feudal regime toward a capitalist world system — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
