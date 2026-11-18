@@ -1,0 +1,3 @@
+# My Homeland That I Protect — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — love of the land is handed down generation after generation, and protecting the homeland — with resistance named as a basic element in recovering rights — is the citizen's duty. — in their own words, give one real example from their own life in Syria, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# The Arab Citizen and Zionist Thought — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — this lesson teaches Syria's own framing of the national adversary idea — how the book presents Zionist thought and the Arab citizen who faces it. — in their own words, give one real example from their own life in Syria, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

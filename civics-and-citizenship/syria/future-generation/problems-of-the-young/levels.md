@@ -1,0 +1,3 @@
+# Problems of the Young — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — young people face real problems, and a pupil's duty includes standing by a classmate who suffers one — the term's project takes up smoking and how to warn against it. — in their own words, give one real example from their own life in Syria, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

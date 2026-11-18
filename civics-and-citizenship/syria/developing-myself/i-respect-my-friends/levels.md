@@ -1,0 +1,3 @@
+# I Respect My Friends — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — respect among friends is shown in everyday acts — listening, fairness and kindness in ordinary school scenes. — in their own words, give one real example from their own life in Syria, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

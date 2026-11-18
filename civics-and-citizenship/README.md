@@ -327,3 +327,25 @@ sources, as provenance.
   Grade 7 and 8 PDFs stand staged-pending under the disk
   hold, as filed. See `bahrain/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Syria** — [`syria/`](syria/) · 34 lessons: Levels
+  1–8 — developing myself (self-esteem, family, friends,
+  community), rights and duties and the protectors of the
+  homeland, belonging measured in acts and the pledge
+  kept, and the future generation (environment,
+  volunteering, the problems of the young, science),
+  then the same spine climbed older: decision-making,
+  awareness, initiative and public opinion, political
+  thought, the state's pillars, systems of government
+  and economic systems, the Arab and international
+  communities and human heritage, and sustainable
+  development closing in a project for change and public
+  health, from Syria's *National Education* student
+  books for Grade 7 (NCCD, Arabic, COMPLETE — its record
+  was called UNHELD in the filing's brief but is in fact
+  held, read from staging) and Grade 10, first year
+  secondary (Ministry of Education, NCCD edition,
+  Arabic, 2021–2022, COMPLETE — its two term research
+  projects named, not placed, as filed; its Grade 7
+  leads duplicate the Grade 7 record). See
+  `syria/ABOUT.md` for the full book list and the
+  acceptance reckoning.
