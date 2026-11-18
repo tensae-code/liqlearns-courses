@@ -1,0 +1,3 @@
+# Spain and the Knights in Tripoli — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — after the Almohads fall in 1269 the Maghreb fragments and Spain strikes the coast: 120 ships bombard Tripoli in July 1510, two thousand are killed and the mosques looted — an occupation that lasts until the Ottomans come in 1551 — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

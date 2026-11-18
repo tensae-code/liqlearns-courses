@@ -1,0 +1,3 @@
+# The Lost Arabs: Ad, Thamud and Madain Salih — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Ad reject the prophet Hud and perish; Thamud carve palaces at Madain Salih and fall; a Yemeni king's army wipes out Jadis — Arabia's oldest cautionary tales — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

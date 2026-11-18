@@ -1,0 +1,11 @@
+# Pre-Islam Arab States of the North — multiple choice
+
+Pick the one right answer.
+
+**1. ** What is the heart of the story in “Aramaeans and the Arab states before Islam”?
+a) Aramaic becomes the East's common tongue and mother of the Arabic script; Nabataeans carve Petra and guard its water by law until Rome annexes them in 106 CE and the caravans move to Palmyra; Ghassanids and Lakhmids hold the desert edges.  b) Sind is secured under al-Walid, armies cross the Oxus toward China, frontier forts face Byzantium in summer and winter campaigns — and Constantinople holds out, to fall only in 1453.  c) At Misrata on 16 November 1918 the leaders — Baruni, al-Murayyid, al-Suwayhili, Bilkhayr — proclaim the Tripolitanian Republic; the 1919 Suani Ben Yadam peace wins a Fundamental Law of rights, and at Gharyan in 1920 the leaders resolve that only unity under one elected leader can save the country.  d) A story that is not taught in this lesson
+**Answer: a) Aramaic becomes the East's common tongue and mother of the Arabic script; Nabataeans carve Petra and guard its water by law until Rome annexes them in 106 CE and the caravans move to Palmyra; Ghassanids and Lakhmids hold the desert edges.** — That is what this lesson teaches.
+
+**2. ** What is the heart of the story in “Aramaeans and the Arab states before Islam”?
+a) Aramaic becomes the East's common tongue and mother of the Arabic script; Nabataeans carve Petra and guard its water by law until Rome annexes them in 106 CE and the caravans move to Palmyra; Ghassanids and Lakhmids hold the desert edges.  b) The Arab lands matter for their place between three continents and their holy cities just as a new Turkish power, the Ottoman state, rises and turns toward them.  c) Muhammad Pasha's growing fleet wins a 28-article treaty from England in 1751 and Venice signs in 1756 — Tripoli deals with Europe as a state in its own right — until plague, debt and family feuds let the Sultan's man Ali Burghul seize the city in 1793.  d) A story that is not taught in this lesson
+**Answer: a) Aramaic becomes the East's common tongue and mother of the Arabic script; Nabataeans carve Petra and guard its water by law until Rome annexes them in 106 CE and the caravans move to Palmyra; Ghassanids and Lakhmids hold the desert edges.** — That is what this lesson teaches.

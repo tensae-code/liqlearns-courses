@@ -1,0 +1,3 @@
+# Islam Expands — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — at al-Qadisiyya in 636 Sa'd ibn Abi Waqqas breaks Persia's army and Rustum falls; Ajnadayn and Yarmouk open the Levant; Nahavand in 642 is the "conquest of conquests", and Persia's last king dies in 31 AH — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

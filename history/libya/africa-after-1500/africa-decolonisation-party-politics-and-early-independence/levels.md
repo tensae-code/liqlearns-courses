@@ -1,0 +1,3 @@
+# Africa Decolonisation: Party Politics and Early Independence — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the United Kingdom of Libya builds its institutions — a parliament elected in February 1952, a Senate of twenty-four — and takes its seat in the Arab League and the United Nations — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
