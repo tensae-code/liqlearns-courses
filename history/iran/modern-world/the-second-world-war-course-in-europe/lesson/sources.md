@@ -1,0 +1,25 @@
+# Sources — The Second World War: Course in Europe
+
+countries: Iran
+
+**Book 4:** History 3, Grade 12 (student book, Persian)
+- Title as printed: تاریخ (۳) ایران و جهان معاصر — History (3): Contemporary Iran and the World
+- Grade: Grade 12, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406 (text revised 1399–1400); ISBN no ISBN printed (book code 112219)
+- PDF pages: 176 (cover/title page verified against the record title; byte size 7,837,886 and page count match the books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 4 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative.
+Placements at `liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 8 The Second World War and the world after it | Book 4 (Iran Grade 12 History 3), printed p. 99 |
+
+**Acceptance count: taught in 1 country (Iran) — this lesson stands on a student book.**
+
+No provenance talk appears in the lesson prose. History is told as a story, in our own words, from the story beats as filed. Legends and religious-history stories are told as the books tell them, as plot summaries in our own words.
+
+Combined-book scope: several of the books above are combined Social Studies books; only their History parts are placed in this course — their other parts are named, not placed, in ABOUT.md.
+
+Searchable tags: The Second World War: Course in Europe, Lesson 8 The Second World War and the world after it, the-second-world-war-course-in-europe, history iran, iran

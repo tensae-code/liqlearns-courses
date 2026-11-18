@@ -1,0 +1,27 @@
+# Iran: Local Dynasties and the Iranian-Islamic Renaissance
+
+## Do it first
+
+Before you read, write one line: what do you think the story of **Iran: Local Dynasties and the Iranian-Islamic Renaissance** will be about? Then draw a rough map from memory of where you think it happens. Keep both — you will check them at the end.
+
+## Sub lesson 1 — Chapter 3, Lesson 9 The rise and spread of Iranian-Islamic civilisation
+
+Tahirids, Saffarids, Samanids, Buyids and the Alavids of Tabaristan rule Iran in the caliph's name or against him, and Persian language and learning flower again under their courts Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+
+## Sub lesson 2 — Chapter 6, Lesson 12 The golden age of Iranian-Islamic culture and civilisation
+
+Conquered Iran conquers back with culture — Persian administrators, scientists and poets make the Islamic golden age substantially Iranian Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.
+
+## Sub lesson 3 — Chapter 5, Lesson 18 Muslim Iranians form governments
+
+Within two centuries of the conquest, Iranians are ruling Iran again under Islam — Tahirid, Saffarid and Samanid governments rise Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: Tahirids, Saffarids, Samanids, Buyids and the Alavids of Tabaristan rule Iran in the caliph's name or against him, and Persian language and learning flower again under their courts Give one real example: Conquered Iran conquers back with culture — Persian administrators, scientists and poets make the Islamic golden age substantially Iranian Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: compare your first map and line with the story you now know, and fix what was wrong.
+2. Write or draw the lesson's main teaching in your own words: Tahirids, Saffarids, Samanids, Buyids and the Alavids of Tabaristan rule Iran in the caliph's name or against him, and Persian language and learning flower again under their courts
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.
