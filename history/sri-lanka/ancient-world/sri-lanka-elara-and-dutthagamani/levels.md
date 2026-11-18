@@ -1,0 +1,3 @@
+# Sri Lanka: Elara and Dutthagamani — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Horse traders Sena and Guttika seize the throne, the just Tamil king Elara rules 44 years, Dutthagamani defeats him in 161 BCE, seven more Tamil chiefs follow, and Dhatusena at last restores the line — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

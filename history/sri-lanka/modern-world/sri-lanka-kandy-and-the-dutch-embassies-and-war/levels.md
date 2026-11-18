@@ -1,0 +1,3 @@
+# Sri Lanka: Kandy and the Dutch Embassies and War — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Envoys swap gifts in 1602, 1656, 1688 and 1721, Vimaladharmasuriya II keeps the peace and wins back monks from Burma, but Kirti Sri's Kandy is invaded in 1765 and the 1766 treaty strips the kingdom of its coast — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

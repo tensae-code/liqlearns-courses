@@ -1,0 +1,3 @@
+# India Asoka and His Inscriptions — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The book's one named king earns his chapter through his own words — edicts carved on rock and pillar across an empire, read as evidence, not legend — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

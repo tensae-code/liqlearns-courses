@@ -1,0 +1,3 @@
+# Sri Lanka: The Fall of Kandy, 1815 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The 1803 invasion starves in the hills, the interpreter John D'Oyly builds a web of Kandyan contacts, and in 1815 the chiefs themselves depose Sri Vikrama Rajasinghe and sign the kingdom away — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

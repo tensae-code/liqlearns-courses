@@ -1,0 +1,3 @@
+# Sri Lanka: Development and Welfare Since Independence — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Free education and health spread, D. S. Senanayake's Gal Oya scheme of 1949 revives the dry zone, and the Mahaweli programme with the Victoria dam carries the old tank civilisation into the age of hydro-power — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

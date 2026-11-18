@@ -1,0 +1,3 @@
+# Sri Lanka: Parakramabahu Irrigation and Foreign Expeditions — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — He joins tank to tank into the Parakrama Samudra vowing no drop of rain reach the sea unused, unites the Sangha, then strikes Burma in 1164 and restores a Pandya king in 1169 — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

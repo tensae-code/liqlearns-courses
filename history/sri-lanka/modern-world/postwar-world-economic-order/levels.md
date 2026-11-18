@@ -1,0 +1,3 @@
+# Postwar World Economic Order — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Six nations sign the European Common Market into being in 1957, UNCTAD speaks for the poor countries from 1964, and in January 1995 the WTO takes over world trade's rulebook — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

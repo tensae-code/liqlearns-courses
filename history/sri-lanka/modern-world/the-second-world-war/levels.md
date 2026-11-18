@@ -1,0 +1,3 @@
+# The Second World War — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Versailles humiliates Germany, the 1929 crash ruins millions, Mussolini takes Italy in 1922 and Hitler rides the despair — the peace built in 1919 collapses in twenty years — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

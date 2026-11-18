@@ -1,0 +1,3 @@
+# Sri Lanka: Dutch Religion Schools and Cultural Legacy — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The Reformed Church and its schools spread for 138 years, the first printing press arrives in 1739, and Dutch words for cupboards and lawyers, new foods and the Burgher community remain in the island's life — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
