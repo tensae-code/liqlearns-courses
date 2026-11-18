@@ -1,0 +1,40 @@
+# Sources — Kazakhstan ancient tribal culture
+
+countries: Kazakhstan
+
+**Book 2:** 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions) — Title as printed: Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan) — Grade: 5 (student/teacher: STUDENT) — Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-753-7 (Kazakh ed.) — PDF pages: 144 + 144 (covers/title pages verified; contents of both editions read and matched section-for-section — one placement set for both) — Verdict: COMPLETE — Tally: 34 placements — 11 to existing lessons, 23 NEW LESSON NEEDED — Kazakhstan's own way: the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/kazakhstan-placements.md`.
+
+**Book 3:** 132 Akhmetova History of Kazakhstan G5 KZ (student book, Kazakh) — Title as printed: Қазақстан тарихы (History of Kazakhstan) — Grade: 5 (student/teacher: STUDENT) — Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-13-8 — PDF pages: 173 (cover/title page verified against the record title) — Verdict: COMPLETE (Ch.4–7 contents page partially legible in the scan; sub-section titles confirmed from the contents leaf and chapter openers sampled at printed pp. 108, 128, 148) — Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED — Kazakhstan's own way: NIS lesson-by-lesson inquiry version of the same ancient-Kazakhstan arc as Book 2, but organised around named finds and heroes — Botai, the Golden Man, Tomiris, Shirak — so the national story is carried by its famous stories. NOTE on record 156: the file held under the Russian-edition record 156 is a duplicate scan of THIS Kazakh edition (same ISBN, same Kazakh contents, 172 pp.) — filed record-only under Book 3; no separate Russian-edition placements. The real Russian edition of Akhmetova G5 was not in the file received. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/kazakhstan-placements.md`.
+
+**Book 7:** 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions) — Title as printed: Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times) — Grade: 5 (student/teacher: STUDENT) — Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0866-2 (Kazakh ed.) — PDF pages: 193 + 193 + 201 (covers verified; contents of all three editions read and matched section-for-section — one placement set, Kazakh-edition pages cited). Retrieved from the record's own source (books.okulyk.kz) after both GitHub routes failed: the release asset is absent and the tree path returns 404 — the book is NOT in the GitHub library (see Staged note in the group log) — Verdict: COMPLETE — Tally: 64 placements — 10 to existing lessons, 54 NEW LESSON NEEDED — Kazakhstan's own way: the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/kazakhstan-placements.md`.
+
+**Book 10:** 1037/1038 Akhmetova History of Kazakhstan G5 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions) — Title as printed: История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide) — Grade: 5 (student/teacher: TEACHER) — Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-12-1 (Russian ed.) — PDF pages: 176 + 176 (title pages verified; full text read — the guides carry complete lesson plans, learning objectives and assessment tasks for every section of the Book 3 student book) — Verdict: COMPLETE — Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED — Kazakhstan's own way: the NIS teacher guides script the inquiry method itself — each topic is split into 2–3 staged lessons with research tasks, source cards and reflection, the pedagogy that the student book only implies. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/kazakhstan-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §50–51 Culture of the ancient tribes | Book 2 (Kazakhstan Grade 5 131 Kumekov KZ Hist), printed p. 127 |
+| §53 Brief conclusion: a journey through ancient Kazakhstan | Book 2 (Kazakhstan Grade 5 131 Kumekov KZ Hist), printed p. 134 |
+| 1.7 Ancient pictures carved on Kazakhstan's rocks | Book 3 (Kazakhstan Grade 5 132 Akhmetova KZ Hist), printed p. 36 |
+| 1.8 A journey into ancient people's life | Book 3 (Kazakhstan Grade 5 132 Akhmetova KZ Hist), printed p. 40 |
+| 7.1 Peoples of ancient Kazakhstan (review) | Book 3 (Kazakhstan Grade 5 132 Akhmetova KZ Hist), printed p. 163 |
+| 7.2 A journey to ancient Kazakhstan | Book 3 (Kazakhstan Grade 5 132 Akhmetova KZ Hist), printed p. 167 |
+| §16 Religious ideas and worldview of primitive people | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 49 |
+| §17 Rock-painting art and the first people's worldview | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 52 |
+| §18 Ancient everyday life | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 55 |
+| §23 Art of the ancient tribes | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 70 |
+| §61 Bronze Age inhabitants' appearance and anthropology | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 174 |
+| §62 Iron Age inhabitants' appearance and racial features | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 176 |
+| §63 Let's travel to the ancient world | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 178 |
+| §64 Culture of the early tribes | Book 7 (Kazakhstan Grade 5 130 Omarbekov KZ Hist), printed p. 181 |
+| 1.7 Ancient rock drawings of Kazakhstan (lesson plans) | Book 10 (Kazakhstan Grade 5 1037 Akhmetova TG), printed p. 36 |
+| 1.8 A journey into ancient people's life (lesson plans) | Book 10 (Kazakhstan Grade 5 1037 Akhmetova TG), printed p. 40 |
+| 7.1 Anthropological appearance of ancient Kazakhstan's people (lesson plans) | Book 10 (Kazakhstan Grade 5 1037 Akhmetova TG), printed p. 158 |
+| 7.2 A journey to ancient Kazakhstan (lesson plans) | Book 10 (Kazakhstan Grade 5 1037 Akhmetova TG), printed p. 162 |
+
+**Acceptance count: taught in 1 country (Kazakhstan) — this lesson stands on a student book.**
+
+This lesson also carries teacher-guide placements, named as evidence in the table's book cites above.
+
+The placements stocked here are the tellings of this story in Kazakhstan's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: §50–51 Culture of the ancient tribes, §53 Brief conclusion: a journey through ancient Kazakhstan, 1.7 Ancient pictures carved on Kazakhstan's rocks, 1.8 A journey into ancient people's life, 7.1 Peoples of ancient Kazakhstan (review), 7.2 A journey to ancient Kazakhstan, §16 Religious ideas and worldview of primitive people, §17 Rock-painting art and the first people's worldview, §18 Ancient everyday life, §23 Art of the ancient tribes, §61 Bronze Age inhabitants' appearance and anthropology, §62 Iron Age inhabitants' appearance and racial features, §63 Let's travel to the ancient world, §64 Culture of the early tribes, 1.7 Ancient rock drawings of Kazakhstan (lesson plans), 1.8 A journey into ancient people's life (lesson plans), 7.1 Anthropological appearance of ancient Kazakhstan's people (lesson plans), 7.2 A journey to ancient Kazakhstan (lesson plans), Kazakhstan, Kazakhstan ancient tribal culture, kazakhstan-ancient-tribal-culture, history kazakhstan
