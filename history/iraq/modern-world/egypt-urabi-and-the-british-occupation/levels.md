@@ -1,0 +1,3 @@
+# Egypt: Urabi and the British Occupation — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — khedive Ismail yields to a national ministry and constitutional promise; Ahmed Urabi leads the army's stand — and Britain occupies Egypt, disbands its army and fines its people — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

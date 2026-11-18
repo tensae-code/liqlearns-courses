@@ -1,0 +1,3 @@
+# Syria's Road to Independence — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — france takes Damascus after Maysalun in 1920; only when France itself falls in June 1940 does Syria's road to independence open — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

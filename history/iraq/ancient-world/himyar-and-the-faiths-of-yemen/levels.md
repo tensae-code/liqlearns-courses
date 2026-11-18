@@ -1,0 +1,3 @@
+# Himyar and the Faiths of Yemen — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — himyar's Yemen receives Judaism and then Christianity by missionaries from al-Hira and Syria, while King Karib's inscriptions already call his god Lord of Heaven and Earth — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

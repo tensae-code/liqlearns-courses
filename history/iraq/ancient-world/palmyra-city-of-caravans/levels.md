@@ -1,0 +1,3 @@
+# Palmyra, City of Caravans — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — a spring in the Syrian desert, halfway between Euphrates and Damascus, becomes the caravan city whose merchants organise, guard and provision the desert convoys — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

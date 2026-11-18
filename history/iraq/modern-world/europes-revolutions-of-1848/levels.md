@@ -1,0 +1,3 @@
+# Europe's Revolutions of 1848 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — france makes Napoleon III; Austria-Hungary's peoples rise until the Russian tsar's army crushes them in 1849; Prussia's king dodges the constitution his people demand — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

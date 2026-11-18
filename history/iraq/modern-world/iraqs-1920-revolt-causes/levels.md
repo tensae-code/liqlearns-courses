@@ -1,0 +1,3 @@
+# Iraq's 1920 Revolt: Causes — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — a ruined economy, clerics of Najaf, Karbala, Kadhimiyya and Samarra awakening national feeling, and Britain's arrests and exiles of national figures light the fuse — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
