@@ -1,0 +1,15 @@
+# Video script — The great depression 1929
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: The great depression 1929.
+
+Wall Street crashes, millions lose work, and states answer with the New Deal, Keynesian spending — or dictatorship.
+
+Wall Street crashes in 1929, banks and factories close across the industrial world and millions lose work and faith in democracy.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.
