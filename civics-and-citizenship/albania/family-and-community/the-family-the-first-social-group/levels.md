@@ -1,0 +1,3 @@
+# The Family — the First Social Group — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the family is the most important social group a child belongs to — the first group, where belonging, care and learning to live with others begin — in their own words, give one real example from their own life in Albania, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

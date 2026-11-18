@@ -270,3 +270,24 @@ sources, as provenance.
   its complete volume UNREAD-pending under the disk hold).
   See `japan/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Albania** — [`albania/`](albania/) · 31 lessons: Levels
+  1–5 — family and community first (the family as the first
+  social group, what the family does, the community,
+  diversity and heritage, cooperation, groups and leaders),
+  then taking part (active membership, self-restraint and
+  compromise, solving conflicts, voluntary work, community
+  and education, the dream of making a change), then
+  democracy and governance (democracy beginning in the
+  family, rights and class rules, local self-government, a
+  campaign and voting, elections and representation, power
+  with responsibility, practising democracy), then road
+  citizenship (where I live, the road to school, transport,
+  road conflicts, pedestrian and passenger, risk and signs),
+  and last my region and enterprise (the entrepreneur,
+  regional resources, the hot-dog kiosk game, entrepreneurs
+  solving problems, my region in the world), from Albania's
+  *Libër Mësuesi Qytetaria 5* teacher guide (Mediaprint,
+  Albanian, 2019 first edition, COMPLETE; teacher-guide
+  evidence only — the pupil book *Qytetari 5* is not in
+  hand). See `albania/ABOUT.md` for the full book list and
+  the acceptance reckoning.

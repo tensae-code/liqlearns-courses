@@ -1,0 +1,3 @@
+# Means of Transport — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the means of transport — walking, bicycle, bus, car and more — are the citizen's choices for moving, each with its own costs, benefits and duties — in their own words, give one real example from their own life in Albania, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.
