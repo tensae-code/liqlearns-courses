@@ -1,0 +1,13 @@
+# The United Nations — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The United Nations — a)
+**2.** Peace and Conflict (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The United Nations Charter, the UN's objectives, organisation and achievements.
+b) One of the titles of South Sudan's own civics course, built from South Sudan's own government textbooks.
+
+**Answer key:** 1. a 2. b

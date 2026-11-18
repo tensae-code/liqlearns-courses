@@ -768,3 +768,26 @@ sources, as provenance.
   book — no teacher guide, no programme, no UNREAD book. See
   `costa-rica/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **South Sudan** — [`south-sudan/`](south-sudan/) · 58 lessons: Levels
+  1–4 — citizenship taught machinery-first in the world's
+  newest nation (what citizenship legally is, the citizen's
+  duties, Parliament, local government, public money and
+  elections, with a real community project closing every
+  year), then the citizen in action (community action,
+  conflict resolved without violence, debate, and the state
+  through South Sudan's own founding documents and laws),
+  then social change, rights and the media, and last South
+  Sudan in the world (the UN and AU charters, governments
+  compared, work and consumer rights, peace-making and
+  sustainable development), from South Sudan's *Secondary
+  Citizenship* student's books and teacher's guides for
+  Secondary 1, 2, 3 and 4 (Ministry of General Education
+  and Instruction, Republic of South Sudan, 2018 series,
+  English, all COMPLETE as filed — 79 placements, 58
+  lessons; 48 lessons on student books and 10 lessons on
+  teacher guides alone, acceptance 0, labelled). The
+  filings name two staged files (the Secondary 3 Student's
+  Book, record marked not pushed, and the Secondary 4
+  Teacher's Guide, a PHANTOM PUSH) and no UNREAD book. See
+  `south-sudan/ABOUT.md` for the full book list and the
+  acceptance reckoning.

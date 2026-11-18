@@ -1,0 +1,23 @@
+# The Electoral System
+
+## Do it first
+
+Before anyone explains anything, say in your own words what you already think this is about: The Electoral System. Write it or say it aloud — this lesson starts from what South Sudan's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Sub lesson 1 — The electoral system at Secondary 1
+
+Stages of South Sudan's electoral system, qualifications for nomination, the National Elections Commission, and the structure and functions of government in elections — as the Secondary 1 books teach it.
+
+## Sub lesson 2 — The electoral system at Secondary 2
+
+The electoral system of South Sudan step by step: dissolution of parliament, registration of voters, nomination, campaign and elections run by the National Elections Commission — as the Secondary 2 student's book teaches it.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: Stages of South Sudan's electoral system, qualifications for nomination, the National Elections Commission, and the structure and functions of government in elections. Give one real example from your own life or from the South Sudan you live in, and name the lesson's key words: electoral, system. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's main teaching in your own words: Stages of South Sudan's electoral system, qualifications for nomination, the National Elections Commission, and the structure and functions of government in elections.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.

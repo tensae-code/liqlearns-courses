@@ -1,0 +1,13 @@
+# The World as a Global Community — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The World as a Global Community — a)
+**2.** South Sudan in the World (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The world as a global community, from African union to the United Nations.
+b) One of the titles of South Sudan's own civics course, built from South Sudan's own government textbooks.
+
+**Answer key:** 1. a 2. b
