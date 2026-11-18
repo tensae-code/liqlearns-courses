@@ -1,0 +1,3 @@
+# World Heritage and UNESCO — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — world heritage is the part of peoples' inheritance that belongs to all humanity's story — and UNESCO is the world body charged with helping to protect it, with heritage cities such as Damascus as worked examples. — in their own words, give one real example from their own life in Jordan, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

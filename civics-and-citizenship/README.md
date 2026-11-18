@@ -270,6 +270,27 @@ sources, as provenance.
   its complete volume UNREAD-pending under the disk hold).
   See `japan/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Jordan** — [`jordan/`](jordan/) · 30 lessons: Levels
+  1–5 — my society and my Jordanian identity first
+  (Jordanian society and its characteristics, national
+  culture, society's live issues, identity, citizenship,
+  serving the flag), then taking part (democracy and
+  elections, each stocked twice — Grade 9 then Grade 10
+  deepened — civil society, voluntary work, public life,
+  parties), the state of law, the constitution and human
+  rights, heritage and Jordan in the world (museums, world
+  heritage and UNESCO, Arab and international relations,
+  Jordan of the future), and last integrity and life
+  skills (national integrity, fighting corruption and
+  favouritism, media content, behaviour), from Jordan's
+  *National and Civic Education* student books for Grades
+  9 and 10, Terms 1–2 (National Centre for Curriculum
+  Development, Arabic, 2024, adopted from 2024/2025, all
+  COMPLETE — 32 placements stocking 30 lessons; all three
+  records are phantom pushes, read from their recorded
+  sources and staged under push-don't-delete). See
+  `jordan/ABOUT.md` for the full book list and the
+  acceptance reckoning.
 - **Albania** — [`albania/`](albania/) · 31 lessons: Levels
   1–5 — family and community first (the family as the first
   social group, what the family does, the community,

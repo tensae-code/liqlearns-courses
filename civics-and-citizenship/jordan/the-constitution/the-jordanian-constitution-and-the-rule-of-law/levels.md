@@ -1,0 +1,3 @@
+# The Jordanian Constitution and the Rule of Law — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Jordan's constitution is the state's highest law: it founds an independent Arab state whose sovereignty belongs to the nation, and it sets the sovereignty of law over the whole of public life. — in their own words, give one real example from their own life in Jordan, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.
