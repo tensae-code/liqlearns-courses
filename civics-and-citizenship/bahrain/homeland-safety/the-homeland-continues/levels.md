@@ -1,0 +1,3 @@
+# Our Homeland Triumphs and Continues Its March — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — our homeland triumphs and continues its march — the closing lesson of the whole preparatory course: Bahrain endures, overcomes its dangers, and goes forward, and the citizen walks with it. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

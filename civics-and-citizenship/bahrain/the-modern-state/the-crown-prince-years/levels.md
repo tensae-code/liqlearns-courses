@@ -1,0 +1,3 @@
+# The Crown Prince Years — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — King Hamad bin Isa Al Khalifa's years as crown prince and his first years of rule prepared and began the reign the pupil lives under — the book teaches that story as part of the citizen's own history. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

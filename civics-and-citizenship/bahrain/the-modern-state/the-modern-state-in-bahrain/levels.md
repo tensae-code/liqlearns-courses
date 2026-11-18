@@ -1,0 +1,3 @@
+# The Modern State in Bahrain — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Bahrain is a modern state — a state with institutions, laws and a government that serves the whole country, and the pupil can say how that state arose and what it consists of. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

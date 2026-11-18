@@ -1,0 +1,3 @@
+# Violence and Sabotage in Our Homeland — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — violence and sabotage in the homeland are named and rejected — attacks on people and destruction of the country's own works wound Bahrain itself, and the citizen refuses them utterly. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

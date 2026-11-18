@@ -312,3 +312,18 @@ sources, as provenance.
   evidence only — the pupil book *Qytetari 5* is not in
   hand). See `albania/ABOUT.md` for the full book list and
   the acceptance reckoning.
+- **Bahrain** — [`bahrain/`](bahrain/) · 33 lessons: Levels
+  2–4 — Bahraini society, the modern state and the King's
+  reform, law and human rights, and Bahrain and the world,
+  then culture, women in society and living together
+  (dialogue, tolerance, children's rights, rejecting
+  violence), and last national unity, the citizen facing
+  the world's challenges, and the homeland's safety, from
+  Bahrain's *Citizenship Education* student books for the
+  three preparatory grades (Ministry of Education, Arabic,
+  2021/2021/2017 editions, all COMPLETE — 33 placements,
+  33 lessons); Level 1 is sketched, not stocked — the
+  Grade 4 primary book is RECORD-ONLY, UNREAD, and the
+  Grade 7 and 8 PDFs stand staged-pending under the disk
+  hold, as filed. See `bahrain/ABOUT.md` for the full
+  book list and the acceptance reckoning.

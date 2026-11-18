@@ -1,0 +1,3 @@
+# Protecting the Safety of Our Homeland — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — protecting the safety of our homeland is a shared duty — the homeland's security and peace are guarded by its institutions and by every citizen's vigilance, lawfulness and refusal of harm. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

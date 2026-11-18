@@ -1,0 +1,3 @@
+# International Humanitarian Law — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — international humanitarian law binds even war: it exists to limit the effects of wars — protecting those who do not fight and restraining how wars are fought — and committing to it is a duty the book teaches. — in their own words, give one real example from their own life in Bahrain, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.
