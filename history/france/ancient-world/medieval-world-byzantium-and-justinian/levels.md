@@ -1,0 +1,3 @@
+# Medieval World: Byzantium and Justinian — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Around the medieval Mediterranean, three powers face each other across one sea — the Byzantine Empire, the Muslim world and the Christian West — and each claims to hold the true order of the world. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

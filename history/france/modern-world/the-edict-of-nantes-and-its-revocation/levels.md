@@ -1,0 +1,3 @@
+# The Edict of Nantes and Its Revocation — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Henri IV's Edict of Nantes in 1598 grants France's Protestants peace and a protected place in the kingdom; in 1685 Louis XIV revokes it — one edict given, one edict torn up, and religious unity chosen over toleration. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

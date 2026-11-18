@@ -1,0 +1,3 @@
+# The Industrial Revolution: Textiles, Steam and Rail — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The steam engine turns Enlightenment science into industrial power: heat and pressure, studied by the new science, become the machine that will remake work, towns and travel. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
