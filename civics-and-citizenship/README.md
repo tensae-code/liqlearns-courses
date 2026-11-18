@@ -210,3 +210,16 @@ sources, as provenance.
   da Educação, Portuguese, 2021, both COMPLETE). See
   `angola/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Georgia** — [`georgia/`](georgia/) · 29 lessons: Level 1
+  only — the community I live in (relations, belonging,
+  participation, rights and law, tolerance, diversity, safety),
+  then the school community (school culture, a democratic
+  school, communication, bullying, conflict), healthy life,
+  protecting nature and cultural heritage, and economic
+  relations in the community (professions, the market,
+  volunteering, resources), from Georgia's *Citizenship 7*
+  student book (მოქალაქეობა, Klio, Georgian, 2019, COMPLETE —
+  read from the publisher's own PDFs; its teacher's book stands
+  as labelled evidence, 0 placements; the book's summary
+  lessons are named, not placed). See `georgia/ABOUT.md` for
+  the full book list and the acceptance reckoning.
