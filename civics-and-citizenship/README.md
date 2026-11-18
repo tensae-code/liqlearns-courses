@@ -627,3 +627,21 @@ sources, as provenance.
   teacher guide, no programme, no UNREAD book. See
   `eritrea/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Tanzania** — [`tanzania/`](tanzania/) · 60 lessons: Levels
+  1–8 — belonging and good habits first (loving society,
+  school and country, responsibility, honesty, peace, with
+  democracy and law appearing inside that frame), then the
+  older books' own ladder: love and care, pride in school
+  and country, government and democracy, duties and
+  resources, law and character, and rights, peace and the
+  world, from Tanzania's *Civic and Moral Education / Uraia
+  na Maadili* pupil's books for Standards 3–7 (Tanzania
+  Institute of Education, English and Kiswahili, 2018–2021
+  editions, all COMPLETE — 62 placements, 60 lessons, all on
+  student books; two lessons carry both the Standard 3 and
+  Standard 4 passes of the same teaching; the English
+  Standard 5 edition is record-only, placed once from the
+  Kiswahili edition). The filings contain no other Tanzania
+  book — no teacher guide, no programme, no UNREAD book.
+  See `tanzania/ABOUT.md` for the full book list and the
+  acceptance reckoning.
