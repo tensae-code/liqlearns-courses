@@ -1,0 +1,15 @@
+# Sources — Venezuela gran colombia
+
+countries: Venezuela
+
+**Book 2:** Viva Venezuela — Ciencias Sociales, 2do grado (student book, Spanish) — Grade: Grade 2 (student/teacher: STUDENT) — Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-298-5 — PDF pages: 75 (cover/title verified against the record title) — Verdict: COMPLETE — Tally as filed: 24 placements — 9 to existing lessons, 15 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/venezuela-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia, the great one | Book 2 (Venezuela Grade 2 g2 Viva Venezuela), printed p. 126 |
+
+**Acceptance count: taught in 1 country (Venezuela) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Venezuela's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Colombia, the great one, Venezuela, Venezuela gran colombia, history venezuela, venezuela-gran-colombia

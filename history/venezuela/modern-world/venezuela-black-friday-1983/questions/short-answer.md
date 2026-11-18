@@ -1,0 +1,9 @@
+# Venezuela black friday 1983 — short answer
+
+Answer in your own words, from the lesson.
+
+**1.** Tell the story of "Black Friday 1983 and the inherited debt" — who was in it, where it happened, what turned, and what came of it.
+**Answer:** The bolívar's 1983 collapse ends the rich-Venezuela story and Lusinchi inherits a debt he refinances on the creditors' terms
+
+**2.** Tell the story of "Governments of Herrera Campíns and Lusinchi (1979–1989)" — who was in it, where it happened, what turned, and what came of it.
+**Answer:** Spending, debt and Black Friday 1983 break the rich-Venezuela story inside the democratic period itself

@@ -1,0 +1,15 @@
+# Video script — Venezuela colonial government and unification
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Venezuela colonial government and unification.
+
+Provinces hang from the Real Audiencia until the 1786 Real Audiencia de Caracas unifies them — one territory is assembled by royal paperwork
+
+Captaincies, audiencias and provinces draw the colonial map whose lines the republics will inherit
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.
