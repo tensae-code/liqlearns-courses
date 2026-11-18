@@ -441,3 +441,21 @@ sources, as provenance.
   manuals the guides name remain a library debt) — 46
   placements, 38 lessons. See `senegal/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Jamaica** — [`jamaica/`](jamaica/) · 49 lessons: Levels
+  1–6 — three themes spiralling through every level
+  (identity, culture and heritage; symbols, rituals and
+  celebrations; rights, responsibilities and stewardship):
+  the child's self, community and first symbols and a
+  child's rights first, then school, community builders and
+  the Caribbean citizen, Jamaica in the world through sport
+  and festivals, keeping self and rights in action through
+  the Free Villages, Emancipation, Bogle and Gordon, then
+  independence, unity and social justice, and last destiny,
+  nation builders, governance and leadership (Bustamante,
+  Manley, Garvey), from Jamaica's *National Standards
+  Curriculum — Grades 4-6* and *Grades 7-9 Civics Education*
+  guides (Ministry of Education and Youth, English, 2022,
+  both COMPLETE as filed; curriculum-guide evidence only,
+  acceptance 0 — no Jamaica student book was in hand) — 49
+  placements, 49 lessons. See `jamaica/ABOUT.md` for the
+  full book list and the acceptance reckoning.
