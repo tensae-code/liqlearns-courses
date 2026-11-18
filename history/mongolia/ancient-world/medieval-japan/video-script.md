@@ -1,0 +1,16 @@
+# Video script — Medieval Japan
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. The story is told the animated-map way: who, where, what turned.
+
+---
+
+This lesson is about one thing.
+Emperors, Fujiwara regents and then samurai shogunates shape an island civilisation borrowed from China and made its own.
+
+Look at the map. Find Mongolia — and the wider world its books set beside it, because Mongolia's books always tell the two stories together.
+
+First: Emperors, Fujiwara regents and then samurai shogunates shape an island civilisation borrowed from China and made its own.
+
+Remember it this way: who was there, where it happened, what turned, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.
