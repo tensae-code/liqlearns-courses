@@ -1,0 +1,13 @@
+# The pupil's gifts and qualities — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The pupil's gifts and qualities — a)
+**2.** Knowing Myself (the title this lesson sits in) — b)
+
+
+Meanings:
+a) the qualities a pupil carries
+b) One of the titles of Mongolia's own civics course, built from Mongolia's own government textbooks.
+
+**Answer key:** 1. a 2. b

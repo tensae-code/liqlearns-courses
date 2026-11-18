@@ -831,3 +831,28 @@ sources, as provenance.
   book in hand, and the framework's Grade 11/12 lesson
   lists are named, not placed). See `cambodia/ABOUT.md`
   for the full book list and the acceptance reckoning.
+- **Mongolia** — [`mongolia/`](mongolia/) · 108 lessons: Levels
+  1–4 — Mongolia's series "Би — Монгол улсын иргэн" (I am a
+  citizen of Mongolia) starts with greetings, parents, the
+  teacher and the ger — citizenship as manners and belonging
+  at home — widens through lineage, harmony, custom and
+  nature to the state flag, equal rights and how the state
+  serves citizens, closes the primary arc by systematising
+  the customs and naming rules, duties and responsibilities
+  as one set, then turns inward as Civic Ethics
+  (self-knowledge, self-correction, the fruits of actions,
+  national script and pride), from Mongolia's *Иргэний
+  боловсрол* (Civic Education) student books for Grades 1–5
+  (2018) and *Иргэний ёс зүйн боловсрол* (Civic Ethics
+  Education) student books for Grades 6–7 (2020) (Ministry
+  of Education, Culture, Science and Sports / Ministry of
+  Education and Science, Mongolia, Mongolian, all PARTIAL
+  as filed — 108 placements, 108 lessons, all on student
+  books; every book read from the Ministry's
+  econtent.edu.mn flipbook edition, its recorded source,
+  after the GitHub tree grab returned 404 for every record
+  — absence from GitHub is NOT proven and no phantom push
+  is claimed; no file was staged, and the books'
+  review/conclusion chapters are named, not placed). See
+  `mongolia/ABOUT.md` for the full book list and the
+  acceptance reckoning.

@@ -1,0 +1,5 @@
+# Let us respect father and mother — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: respecting father and mother as the child's first civic duty — shown in the learner's own words and one real example.
