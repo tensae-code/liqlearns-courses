@@ -1,0 +1,3 @@
+# Film History: The Birth of Cinema — Lumière, 1895 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — On 28 December 1895 the Lumière brothers light their cinematograph in a Paris café: workers leave a factory, a train seems to rush at the audience — and framing, the choice of what the picture holds, is born. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

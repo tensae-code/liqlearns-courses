@@ -1,0 +1,18 @@
+# Video script — Finland's Continuation War, 1941–44
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story here — animated-map style: who, where, what turned, and what came of it, in plain words.
+
+---
+
+This lesson tells one story.
+The Continuation War is taught through the army's own photographs: information companies shoot some 160,000 pictures to shape mood — of the front, its leaders, its leisure and its bombed home front — and pupils interrogate every one.
+
+The photographs come first, and so does their warning. In the summer of 1941 Finland builds information companies — TK companies — on the model of Germany's propaganda companies. Their front photographers shoot some 160,000 pictures across 1939–45, the SA-kuva archive, made to shape mood at home and at the front. Every photograph in this lesson comes from that archive: not neutral records, but the army's own pictures of its war, and they must be read as such.
+At the war front, the first task sets pupils on one photograph at a time. Finns carry a wounded enemy across a forest stream in June 1944. Anti-tank guns fire on gunboats in Vyborg Bay in 1941. Lottas give the wounded drink. For each, pupils interrogate purpose, framing and cropping: why this moment, why this angle, what stands outside the frame? Combat, in these pictures, is mostly waiting, patrolling and carrying — and the questions teach pupils to see the choosing behind the scene.
+The leadership set turns on one ceremonial visit. On Mannerheim's seventy-fifth birthday, Hitler walks in, with the Marshal and President Ryti receiving him, and sits through Mannerheim's speech. Pupils read the photographs closely — the mood, the courtesies, the closeness — and draw out what the visit says about Finland's place beside Germany in 1942. A birthday, photographed, becomes a document of alliance.
+Front life, in the army's pictures, is surprisingly cheerful. A new cinema, Kino Jörö, opens at Lempaala. A choir sings at the seventy-second soldiers' evening. Men carve birch-bark butter boxes and study by correspondence course. Pupils ask the set's real question: why did the Defence Forces want this cheerful front shown? Leisure photographs are morale work — the home front must believe its soldiers live well, and the soldiers must believe home believes it.
+The second front-life task crosses the war's gender divide on paper. A Lotta canteen entertains front-line boys in August 1944 — coffee, song, a woman's presence from the home world. Each pupil writes two diary entries for that evening: the soldier's, and the Lotta's. The same canteen, the same songs, two different wars — and the diary form forces each writer to live both.
+The home front set opens with a sound. On 9 July 1941, in the war's first summer, Soviet bombs wreck Kallio, a working-class district of Helsinki. Pupils reconstruct the soundscape of the moment — the aircraft, the impacts, the streets after — and stand, in imagination, where the photograph stands. Bombing is usually told in tonnage; here it is told in what a street heard.
+The second task stays on the same day's bombing and goes to the map. The hundred-mark villas of Porvoonkatu lie ruined under the fallen stone blocks of Fleminginkatu. Pupils compare the street then and now — the same ground in a modern view — and ask who lived in each kind of house, villa and tenement, when the bombs made no distinction. The past is stood in, literally, by standing in the present street.
+
+Now you. Say the story back, in your own words. Then go and do the lesson's Do It Yourself — today, at home, at school, in Finland.

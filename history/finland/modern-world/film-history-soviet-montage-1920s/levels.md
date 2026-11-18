@@ -1,0 +1,3 @@
+# Film History: Soviet Montage, 1920s — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Montage means 1+1 is more than 2: Kuleshov shows one face reading as hunger, grief or desire beside different shots, and Eisenstein's Battleship Potemkin turns cutting into meaning itself. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
