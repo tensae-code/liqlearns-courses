@@ -1,0 +1,15 @@
+# Video script — Romania between the wars
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Romania between the wars.
+
+Greater Romania unifies its currency in 1920, electrifies (electric industry up 429%), peaks economically in 1938 — and lives the drama of Carol II's return in June 1930 and Iuliu Maniu's resignation.
+
+The 1923 Constitution takes the 1866 text and separates the powers; in January 1926 the Crown Council accepts Prince Carol's renunciation and proclaims the child Mihai heir — the road to authoritarianism opens.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.
