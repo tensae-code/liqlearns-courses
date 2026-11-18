@@ -563,3 +563,27 @@ sources, as provenance.
   RECORD-ONLY catalogue titles, all named in its ABOUT.
   See `nigeria/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Egypt** — [`egypt/`](egypt/) · 55 lessons: Levels 1–4 —
+  citizenship and human rights first (citizenship as a
+  balance of duties and rights, the citizen online in the
+  digital-citizenship unit, and human rights from the old
+  civilisations to Egypt's National Council), then
+  citizenship applied (the Egyptian woman's journey era by
+  era, the National Council for Women, voluntary work and
+  civil society), then law and the constitution (morals,
+  law, Egypt's 2014 constitution and the Supreme
+  Constitutional Court), and last democracy, parties and
+  the pupil's own participation, ending in the electoral
+  process, from Egypt's *Citizenship and Human Rights*
+  student book for Second Secondary and its *National
+  Education — Political Participation in Egyptian Society*
+  student book for Third Secondary (Ministry of Education
+  and Technical Education, Arabic, 2025–2026, both
+  COMPLETE — 55 placements, 55 lessons, all on student
+  books; both books were read from their recorded ministry
+  sources, are NOT in GitHub and stand staged under
+  push-don't-delete); National Education, Secondary 10 is
+  RECORD-ONLY, UNREAD (GitHub grab failed; recorded source
+  blob BlobNotFound), named in its ABOUT. See
+  `egypt/ABOUT.md` for the full book list and the
+  acceptance reckoning.

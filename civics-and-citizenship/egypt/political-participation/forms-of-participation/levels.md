@@ -1,0 +1,5 @@
+# Forms of Participation — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The forms of political participation, from voting to party and community work — shown in the learner's own words and one real example.

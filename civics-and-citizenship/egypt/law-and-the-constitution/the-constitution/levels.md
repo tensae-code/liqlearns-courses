@@ -1,0 +1,9 @@
+# The Constitution — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its SUB LESSONS (2026-11-08 restructure). Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — What a constitution is, and its kinds
+Sub lesson 1 questions from the type files. Pass mark: What a constitution is, and the kinds of constitution. — shown in the learner's own words and one real example.
+
+## Sub lesson 2 — How constitutions arise and end
+Sub lesson 2 questions from the type files. Pass mark: How constitutions arise — and how they end. — shown in the learner's own words and one real example.
