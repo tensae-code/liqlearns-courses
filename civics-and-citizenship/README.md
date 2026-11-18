@@ -223,3 +223,18 @@ sources, as provenance.
   as labelled evidence, 0 placements; the book's summary
   lessons are named, not placed). See `georgia/ABOUT.md` for
   the full book list and the acceptance reckoning.
+- **Bulgaria** — [`bulgaria/`](bulgaria/) · 30 lessons: Levels 1–3 —
+  citizens, politics and democracy (freedom and power, the
+  citizen, democracy, civic culture, civil society, media),
+  then citizens, rights and responsibilities (justice, universal
+  and group human rights, rights protected at global, European
+  and national level, civic control), then identities and
+  differences in society (identity and groups, majorities and
+  minorities, discrimination recognised and answered, conflict
+  resolution), from Bulgaria's *Гражданско образование* Grade 11
+  student book (Педагог 6, Bulgarian, 2024, COMPLETE by image
+  read — its only in-hand copy is an assembled PDF preserved
+  from page images, staging deferred under the disk hold);
+  Grade 12 is UNREAD-pending under the disk hold, its level
+  sketched, not stocked. See `bulgaria/ABOUT.md` for the full
+  book list and the acceptance reckoning.
