@@ -1,0 +1,3 @@
+# The Individual and the Group — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the group shapes the person and the person shapes the group, each acting on the other — for good, or, as the book warns with groups fallen into addiction and crime, for ill — in their own words, give one real example from their own life in Afghanistan, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or community situation the learner has not seen in the lesson.

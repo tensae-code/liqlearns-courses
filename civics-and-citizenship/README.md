@@ -349,6 +349,24 @@ sources, as provenance.
   leads duplicate the Grade 7 record). See
   `syria/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Afghanistan** — [`afghanistan/`](afghanistan/) · 34 lessons:
+  Levels 1–7 — needs and the family first (material and
+  non-material needs, why we need a family, the successful
+  family), then groups and the country's own three ways of
+  life (nomad, village, city), education and economic life,
+  the social service institutions and mass media (post,
+  relief and insurance, municipality and police), and at
+  the top culture, social groups and institutions as
+  systems, closing on development and the environment,
+  from Afghanistan's *Civics* (تعلیمات مدنی) student books
+  for Grades 7, 8 and 10 (Ministry of Education, Dari,
+  1398 SH / 2019, all COMPLETE — 38 placements, 34
+  lessons); the other six filed records (Patriotism
+  Grades 7–9, Civics Grades 9, 11 and 12) are UNREAD
+  phantom pushes, named in its ABOUT, so the ladder is
+  provisional where they would sit. See
+  `afghanistan/ABOUT.md` for the full book list and the
+  acceptance reckoning.
 - **Romania** — [`romania/`](romania/) · 35 lessons: Levels
   1–2 — the person first (what a person is, moral traits as
   pairs of opposites), then relations in widening circles

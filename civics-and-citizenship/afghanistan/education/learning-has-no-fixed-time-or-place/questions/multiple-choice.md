@@ -1,0 +1,11 @@
+# Learning Has No Fixed Time or Place — multiple choice
+
+Pick the one right answer.
+
+**1.** What does this lesson teach?
+a) Learning is not bound to one age or one classroom — a person can learn young and old, at school and outside it, all through life.  b) it teaches nothing in particular  c) the opposite of the book's teaching  d) only adults need it
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** Which of these belongs to this lesson?
+a) The school's gifts do not expire: what education begins, a whole life can continue.  b) a rule invented this morning with no source  c) the opposite of the lesson  d) nothing in the lesson covers it
+**Answer: a)** — That is what the lesson teaches.
