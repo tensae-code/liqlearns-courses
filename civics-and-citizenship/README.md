@@ -200,3 +200,13 @@ sources, as provenance.
   so lessons are placed at chapter level and the book itself
   remains a library debt). See `cameroon/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Angola** — [`angola/`](angola/) · 28 lessons: Levels
+  1–7 — knowing ourselves, cultural and linguistic identity,
+  the human person (rights, duties, registration, freedom),
+  democracy through dialogue and tolerance, growing and
+  health, living justly with others, and the environment with
+  national reconciliation, from Angola's *Educação Moral e
+  Cívica* student books for the 5ª and 6ª Classes (Ministério
+  da Educação, Portuguese, 2021, both COMPLETE). See
+  `angola/ABOUT.md` for the full book list and the acceptance
+  reckoning.
