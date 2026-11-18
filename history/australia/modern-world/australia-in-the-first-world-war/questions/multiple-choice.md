@@ -1,0 +1,11 @@
+# Australia in the First World War — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement about “Australia in World War I” is right?
+a) Gallipoli and the Western Front, prisoners of war, the home front, the conscription referendums that divide the nation, commemoration and the making of the Anzac legend.  b) it has nothing to do with this lesson  c) it is a private matter no learner ever meets  d) it was invented by LiqLearns, not taught in Australia's book
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) that this topic concerns only officials and never ordinary people  b) Australia's First World War runs from Gallipoli and the Western Front to the home front — prisoners of war, the conscription referendums that divide the nation, commemoration, and the making of the Anzac legend.  c) that learners need know nothing about it  d) that it is the same in every country and Australia has no way of its own
+**Answer: b)** — That is what this lesson teaches.
