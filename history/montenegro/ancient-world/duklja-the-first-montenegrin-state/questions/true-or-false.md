@@ -1,0 +1,9 @@
+# Duklja: The First Montenegrin State — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** The first Montenegrin state, the state of the Dukljan Slavs, arises on land once held by Illyrian tribes and then by Roman provinces. (Sub lesson 1)
+**Answer: True**
+
+**2.** In this lesson, "Ch.2.2 Zeta in the age of the Vojislavljevići" is presented as a made-up tale with no real people, no real places and nothing that turned. (Sub lesson 2)
+**Answer: False — the lesson tells it as Montenegro's real story, with its people, its places and its turn, as the books teach it.**
