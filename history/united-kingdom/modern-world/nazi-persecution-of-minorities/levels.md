@@ -1,0 +1,12 @@
+# Nazi Persecution of Minorities — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its SUB LESSONS (2026-11-08 restructure). Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — 13.1 Nazi racial beliefs
+Sub lesson 1 questions from the type files. Pass mark: a ladder of races with 'Aryans' on top and Jews at the bottom turns prejudice into state doctrine — shown in the learner's own words and one real example.
+
+## Sub lesson 2 — 13.2 The persecution of the Jews
+Sub lesson 2 questions from the type files. Pass mark: boycott in 1933, the Nuremberg Laws in 1935 and Kristallnacht in 1938 drive Jews from German life step by legal step — shown in the learner's own words and one real example.
+
+## Sub lesson 3 — 13.3 The treatment of minorities
+Sub lesson 3 questions from the type files. Pass mark: Roma, gay men, disabled people and the 'asocial' are registered, sterilised, camped or killed as burdens on the community — shown in the learner's own words and one real example.

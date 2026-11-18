@@ -1,0 +1,20 @@
+# Video script — Nazi Control, Propaganda and Opposition
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story here — animated-map style: who, where, what turned, and what came of it, in plain words.
+
+---
+
+This lesson tells one story.
+The regime watched Germany through a police state, licensed its courts, churches, arts and sport, and filled every home with one message, yet small oppositions still refused.
+
+The Nazi police state watched everyone. Himmler's SS grew into a state within the state, the Gestapo secret police could arrest without charge or appeal, and the SD spied on opinion itself. Concentration camps held the regime's enemies beyond the reach of any court. Fear, not consent alone, kept the dictatorship safe, and every German knew the knock could come.
+Law itself was captured. Judges were pressed into the Nazi lawyers' league and told that the Führer's will was the highest law. The People's Court tried treason cases with hand-picked judges, screaming prosecutors and no appeal. A courtroom, the place where a state proves it is bound by rules, became a place where the regime proved it was bound by none.
+Towards the Churches the regime moved carefully. A Concordat with the Vatican in 1933 bought quiet from the Catholic Church while the regime built its own Reich Church to Nazify Protestantism. Pastors who resisted, Martin Niemöller among them, were arrested and sent to camps. Faith was tolerated exactly as long as it did not compete.
+Goebbels' Ministry of Propaganda and the Reich Chamber of Culture licensed every journalist, actor, writer and musician in Germany: no licence, no work. Cheap people's radios were manufactured so every home could hear the broadcasts, rallies staged the nation worshipping itself, and film carried the one message in story form. Propaganda was not a department of the regime; it was its air.
+Culture was policed like everything else. Jazz and modern art were banned and exhibited as degenerate, a warning of what not to be. In their place the regime glorified folk music, the classical giants claimed as German property, and monumental building meant to outlast a thousand years. Art's job was no longer to question or delight; it was to glorify.
+Sport was Nazified through its clubs, with Jewish members expelled and training bent to the regime's purposes. In 1936 the Berlin Olympics were staged as a showcase of Aryan Germany for the world's cameras: a disciplined, glittering, welcoming Reich, with the camps and the persecution carefully kept out of frame for the visitors.
+How much did Germans support the regime? Many conformed, and many genuinely approved: jobs had returned, order seemed restored, and national pride, humiliated in 1919, stood tall again. Against that stands the fear the police state manufactured. The book weighs real popularity against coercion and asks how far support was freely given, a judgement learners must make from evidence, not slogans.
+Some young people refused in the only ways open to them. Edelweiss Pirates grew their hair, hiked outside the Hitler Youth and beat up its patrols; swing gangs played banned jazz and danced to American music. These were small refusals, of dress, music and obedience, and the regime answered them with prison and, as the war came, with the gallows. Refusal had a price, and they paid it knowingly.
+The Churches produced the regime's most public opposition. Niemöller's Confessional Church insisted that obedience to God stood above obedience to man, and Bishop Galen preached sermons against the regime's killing of disabled people that were copied and passed hand to hand across Germany. Niemöller spent 1937 to 1945 in prison and concentration camps for his preaching. The pulpit was the one platform the regime never fully silenced.
+
+Now you. Say the story back, in your own words. Then go and do the lesson's Do It Yourself — today, at home, at school, in the United Kingdom.
