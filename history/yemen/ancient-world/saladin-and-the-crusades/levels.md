@@ -1,0 +1,3 @@
+# Saladin and the Crusades — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — salah al-Din Yusuf bin Ayyub, a Kurd born at Tikrit in 532 AH, goes to Egypt as Nur al-Din's man, ends the Fatimid caliphate, unites Egypt and Syria after Nur al-Din's… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

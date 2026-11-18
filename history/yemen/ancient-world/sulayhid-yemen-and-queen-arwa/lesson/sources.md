@@ -1,0 +1,21 @@
+# Sources — Sulayhid Yemen and Queen Arwa
+
+countries: Yemen
+
+**Book 4:** *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover; ISBN no ISBN printed. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets). Verdict: COMPLETE. Tally as filed: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md`.
+
+**Book 9:** *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)* (student book, Arabic) — Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed. Grade: Grade 11 / second secondary (student/teacher: STUDENT). PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders). Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112. Tally as filed: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md`.
+
+**Book 10:** *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)* (student book, Arabic) — Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed. Grade: 11 (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page). Verdict: COMPLETE. Tally as filed: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Sulayhid state (439-532 AH) | Book 4 (Yemen Grade 6 G6 History), printed p. 73 |
+| The development of women's roles: the ruling queen (Unit 3 Lesson 3, fifth part) | Book 9 (Yemen Grade 11 G11 History Part 1), printed p. 91 |
+| Yemeni states that contributed: the Sulayhid state (Unit 4 Lesson 2) | Book 10 (Yemen Grade 11 G11 History Part 2), printed p. 20 |
+
+**Acceptance count: taught in 1 country (Yemen) — this lesson stands on a student book.**
+
+No provenance talk appears in the lesson prose. The books' own wording for these topics stands as searchable tags below.
+
+Searchable tags: ancient-world/sulayhid-yemen-and-queen-arwa, sulayhid-yemen-and-queen-arwa, sulayhid yemen and queen arwa, history yemen, yemen, The Sulayhid state (439-532 AH), The development of women's roles: the ruling queen (Unit 3 Lesson 3, fifth part), Yemeni states that contributed: the Sulayhid state (Unit 4 Lesson 2)

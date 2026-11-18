@@ -1,0 +1,3 @@
+# Zakariya Yahya and Maryam — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — in a Levant ground between Roman occupation and a distorted religion, Hannah vows her unborn child to the service of al-Aqsa and bears a girl, Maryam, who is raised in… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

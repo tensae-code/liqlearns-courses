@@ -1,0 +1,3 @@
+# Marib Dam and the Flood of Al Arim — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — saba throws a dam across Wadi Adhana between the two Balaq mountains in the 7th or 8th century BCE, kings restore it for centuries, and it gathers the rains, waters the… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

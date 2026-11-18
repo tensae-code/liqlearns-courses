@@ -1,0 +1,3 @@
+# Dawud Prophet King and the Zabur — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — dawud unites the tribes under one rule, founds the kingdom and takes Jerusalem as its capital, receives the Zabur, and rules as prophet, king and judge — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

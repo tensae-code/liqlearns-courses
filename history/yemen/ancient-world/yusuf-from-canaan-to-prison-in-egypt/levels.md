@@ -1,0 +1,3 @@
+# Yusuf from Canaan to Prison in Egypt — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — yusuf, eleventh of Yaqub's twelve sons in Canaan, dreams of eleven stars and the sun and moon bowing to him, his jealous brothers throw him into a well, a trade caravan… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

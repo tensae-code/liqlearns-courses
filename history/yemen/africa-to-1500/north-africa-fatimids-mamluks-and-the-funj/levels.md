@@ -1,0 +1,3 @@
+# North Africa: Fatimids, Mamluks and the Funj — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — a caliphate claiming descent from Fatima rises in the Maghreb in 297 AH, builds Mahdia, takes Egypt, founds Cairo and al-Azhar, raises its own Dar al-Hikma and a… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# Ottoman State Rise Osman to Vienna — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — a Turkish tribe fleeing the Mongols becomes, under Osman, a frontier emirate propped up by the Seljuks in 1299, grows on Byzantine weakness and its own fierce… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

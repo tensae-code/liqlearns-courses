@@ -1,0 +1,3 @@
+# Human Rights in the Arab Islamic Civilisation — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — rights in Islam are sacred duties tied to man's vicegerency on earth: a woman argues her case before the Prophet and a Qur'an verse answers her, a commoner tells Umar… — in their own words, give one real example from the story, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
