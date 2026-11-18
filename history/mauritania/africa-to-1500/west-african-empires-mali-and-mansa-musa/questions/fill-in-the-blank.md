@@ -1,0 +1,10 @@
+# West African Empires: Mali and Mansa Musa — fill in the blank
+
+Fill each blank with the lesson's own word.
+
+**1.** One key name of this lesson is ____.
+**Answer:** West African Empires: Mali and Mansa Musa
+
+**2.** One key name of this lesson is ____.
+**Answer:** West African Empires: Mali and Mansa Musa
+

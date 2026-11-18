@@ -1,0 +1,3 @@
+# Exploration: Portugal and the Sea Routes — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — arab taxes on eastern goods push Europeans to seek a direct road to India; printing, Marco Polo's book, maps and the astrolabe arm the search. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
