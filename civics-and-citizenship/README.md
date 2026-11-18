@@ -401,3 +401,23 @@ sources, as provenance.
   (2022, COMPLETE) as labelled evidence only, acceptance 0 —
   38 placements, 38 lessons. See `kiribati/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Haiti** — [`haiti/`](haiti/) · 41 lessons: Levels 1–4 —
+  the Republic and the citizen first (citizenship education
+  and its concepts, rights and duties, the Republic, its
+  three powers and the institutions that guarantee
+  citizenship, against the openly named crisis of
+  citizenship), then constitution and governance (Haiti's
+  constitutions 1805–1987, public ethics, school and local
+  governance, elections), the world and the environment
+  (world citizenship, globalisation, eco-citizenship and
+  climate), and ethics and the city (bioethics,
+  responsibility, justice, the three generations of human
+  rights, the common good), from Haiti's MENFP *Éducation à
+  la citoyenneté* teacher programmes (French — the four 2019
+  Programmes à compétences minimales NS1–NS4 and the 2015
+  Programme Pédagogique Opérationnel, all COMPLETE as filed;
+  teacher-programme evidence only, acceptance 0 — Haiti has
+  no pupil civics textbook in hand; the 2024 fundamental-cycle
+  programme is record-only) — 46 placements, 41 lessons. See
+  `haiti/ABOUT.md` for the full book list and the acceptance
+  reckoning.
