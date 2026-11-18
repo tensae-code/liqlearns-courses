@@ -1,0 +1,5 @@
+# Social Movements — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: social movements and their causes; their importance for Pakistan as an Islamic, democratic and federal state; promoting peace in society through them. — shown in the learner's own words and one real example.

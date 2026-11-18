@@ -1,0 +1,9 @@
+# Festivals of Pakistan — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Eid-ul-Adha, Easter, Holi and Nowruz as the festivals of one country.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Eid-ul-Adha, Easter, Holi and Nowruz as the festivals of one country.

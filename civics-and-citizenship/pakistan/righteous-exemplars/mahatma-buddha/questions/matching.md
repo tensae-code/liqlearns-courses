@@ -1,0 +1,13 @@
+# Mahatma Buddha — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Mahatma Buddha — a)
+**2.** Righteous Exemplars (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Buddha's life and the summary of his religion and message.
+b) One of the titles of Pakistan's own civics course, built from Pakistan's own government textbooks.
+
+**Answer key:** 1. a 2. b

@@ -1,0 +1,9 @@
+# Festivals Janmashtami and Vesak — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Bhagwan Shri Krishna Janmashtami (بھگوان شری کرشن جنم اشٹمی) and the Sikhs' festival (ویساکھی) as Pakistani festivals.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Bhagwan Shri Krishna Janmashtami (بھگوان شری کرشن جنم اشٹمی) and the Sikhs' festival (ویساکھی) as Pakistani festivals.

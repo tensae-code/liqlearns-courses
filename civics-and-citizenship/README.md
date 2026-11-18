@@ -976,3 +976,38 @@ sources, as provenance.
   second filing's 2 reform-news leads record-only, none
   stocked). See `burkina-faso/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Pakistan** — [`pakistan/`](pakistan/) · 145 lessons: Levels
+  1–4 — the religions around us, respect and truth
+  (what religion is, moral values, rights and duties,
+  Hinduism, Sikhism, Judaism and Christianity taught from
+  inside each faith, truthfulness, the righteous
+  exemplars and the Qaumi Tarana), values in family,
+  school and neighbourhood (the world religions surveyed
+  in turn, Sikhism in a whole chapter, Pakistan's shared
+  festivals, respect, cleanliness, punctuality and the
+  first rules and law), society, rights and the good
+  citizen (religion studied as a subject — Zoroastrianism,
+  Jainism and Mahavira, Confucianism and Taoism, worship
+  and behaviour, manners of worship and public places,
+  respect for law, and lives to Socrates, Kant and
+  Aurobindo), and the state itself (civics, the state,
+  sovereignty, government, law, citizenship, the
+  constitution, the Pakistan Movement and
+  constitution-making 1947–73, the 1973 Constitution,
+  Pakistan's three organs, the rights of children and
+  women, conflict resolution, media and civil society,
+  human values, and the active, responsible citizen),
+  from Pakistan's *Akhlaqiat* (Ethics) student books for
+  Classes 1–10 and *Shehriyat* (Civics) student books for
+  Classes 11–12 (Punjab Curriculum and Textbook Board,
+  Lahore) and the Khyber Pakhtunkhwa Textbook Board's
+  Civics student books for Classes 11–12 (Peshawar), all
+  Urdu medium (151 placements, 145 lessons, all on
+  student books; the first filing's Books 1–3 COMPLETE
+  and Books 4–12 PARTIAL as filed, both of the second
+  filing's books COMPLETE as filed; the first filing's
+  Books 7–12 filed UNHELD, fetched from their recorded
+  source and staged under the push-don't-delete rule, as
+  filed; no teacher guides, programmes or UNREAD books
+  in either filing). See `pakistan/ABOUT.md` for the full
+  book list and the acceptance reckoning.

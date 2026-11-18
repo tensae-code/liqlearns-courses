@@ -1,0 +1,21 @@
+# Sources — Qaumi Tarana
+
+countries: Pakistan
+
+**Book 1 (pakistan-placements.md):** *اخلاقیات (ETHICS) 1 / جماعت اول — Punjab Curriculum and Textbook Board, Lahore (web version of PCTB textbook, "Not for Sale")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year SNC edition (no year printed on the pages read); ISBN no ISBN printed. Grade: Class 1 (student/teacher: STUDENT). PDF pages: 34 (cover verified against the record title — اخلاقیات 1, PCTB Lahore; national anthem on the inside front cover). Subject as filed: akhlaqiat — track: standalone. **Verdict: COMPLETE (read page by page as rendered sheets; image-only PDF)** Contents map: Ch. 1 Introduction to Religions (مذاہب کا تعارف) printed pp. 1–9; Ch. 2 Ethics and Values (اخلاقیات اور اقدار) pp. 10–18; Ch. 3 God's Righteous Servants (خدا کے نیک بندے) pp. 19–29; Glossary (فرہنگ) p. 30 (inventory only, not placed) Tally: 8 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/pakistan-placements.md` (Book 1 in that filing).
+
+**Book 2 (pakistan-placements.md):** *اخلاقیات (ETHICS) 2 — Punjab Curriculum and Textbook Board, Lahore (web version of PCTB textbook, "Not for Sale")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year SNC edition (no year printed on the pages read); ISBN no ISBN printed. Grade: Class 2 (student/teacher: STUDENT). PDF pages: 34 (cover verified against the record title — اخلاقیات 2, PCTB Lahore). Subject as filed: akhlaqiat — track: standalone. **Verdict: COMPLETE (read page by page as rendered sheets; the PDF is image-only, no text layer)** Contents map: Ch. 1 Introduction to Religions (مذاہب کا تعارف) printed pp. 1–13; Ch. 2 Ethics and Values (اخلاقیات اور اقدار) pp. 14–19; Ch. 3 God's Righteous Servants (خدا کے نیک بندے) pp. 20–29; Glossary (فرہنگ) p. 30 (inventory only, not placed); national anthem inside back cover Tally: 10 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/pakistan-placements.md` (Book 2 in that filing).
+
+**Book 7 (pakistan-placements.md):** *اخلاقیات (ETHICS) 7 — جماعت ہفتم — Punjab Curriculum and Textbook Board, Lahore (web version of PCTB textbook, "Not for Sale"); approved by Punjab Curriculum Authority, notification PCA-13/318 dated 2 February 2013* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2013 approval (older generation); ISBN no ISBN printed. Grade: Class 7 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title — اخلاقیات 7, PCTB Lahore; national anthem inside back cover). Subject as filed: ethics — track: standalone. **Verdict: PARTIAL — contents and Bab 1 read page by page as rendered sheets; remaining chapters placed from the contents at chapter/lesson level. This record was UNHELD (not in GitHub); the book was fetched from its recorded Google Drive source and is staged under the push-don't-delete rule (see group log).** Contents map: Bab 1 Introduction to Religions (مذاہب کا تعارف) printed pp. 1–12; Bab 2 Religion and Personality (مذہب و شخصیت) — Zoroastrianism — pp. 13–19; Bab 3 Religious Festivals in Pakistan (پاکستان میں مذہبی تہوار) pp. 20–30; Bab 4 Moral Values (اخلاقی اقدار) pp. 31–44; Bab 5 Prosperity/Integrity (خوشحالی) pp. 45–65; Bab 6 Manners (آداب) pp. 66–76; Bab 7 Personalities (شخصیات) pp. 77–85; Glossary (فرہنگ) pp. 86–92 (inventory only, not placed) Tally: 10 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/pakistan-placements.md` (Book 7 in that filing).
+
+| Lesson part | Where it comes from |
+|---|---|
+| National Anthem (قومی ترانہ) | Pakistan Class 1 Akhlaqiat, inside front cover |
+| National Anthem (قومی ترانہ) | Pakistan Class 2 Akhlaqiat, inside back cover |
+| National Anthem | Pakistan Class 7 Ethics, inside back cover |
+
+**Acceptance count: taught in 1 country (Pakistan) — this lesson stands on a student book.**
+
+This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: qaumi, tarana, qaumi-tarana, civics and citizenship pakistan, National Anthem, National Anthem (قومی ترانہ)
