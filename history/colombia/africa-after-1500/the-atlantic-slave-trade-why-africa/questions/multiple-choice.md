@@ -1,0 +1,12 @@
+# The Atlantic Slave Trade: Why Africa — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Guía 7: The African legacy in America and in Colombia”?
+a) Enslaved Africans bring rites, songs, dances, gods and deep knowledge; the Laws of the Indies answer denunciations of abuse, the free flee and fortify palenques, and oral tradition, trees and drums carry the legacy — filed here as the Colombia telling of the Atlantic trade (see also Book 10 Guía 6 note below)  b) The Maya and Aztecs built enormous empires that were disappearing with the Spanish arrival, leaving only direct Maya descendants; the game's questions then run the whole conquest — why Africans were captured, who backed Columbus, what the Taíno called San Salvador, and which treaty split the world  c) The Mapuche, "people of the land," resist the Chilean state over their territory, as Jewish and Palestinian claims collide over one land  d) A story that is not taught in this lesson
+**Answer: a) Enslaved Africans bring rites, songs, dances, gods and deep knowledge; the Laws of the Indies answer denunciations of abuse, the free flee and fortify palenques, and oral tradition, trees and drums carry the legacy — filed here as the Colombia telling of the Atlantic trade (see also Book 10 Guía 6 note below)** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Módulo 6 / Guía 16: Conflicts in the societies of the 5th–15th centuries”?
+a) Europe's geographic expansion over America revives the slave system to exploit its resources; at home the feudal lord's derecho de pernada abuses his serfs, Spain lives the Reconquista — 1492 is not only Columbus's year — and Caribe peoples resist in the Sierra Nevada and along the Magdalena  b) Kramer describes a typical Mesopotamian city, Rome founds cities across its world, and Babylon raises the Hanging Gardens on the Euphrates  c) Free men depend on lords in feudal relations, farm technique improves hard lives, the Crusades run from the 11th to the 14th century, the Catholic Church expands, scholasticism teaches, and burgos rise  d) A story that is not taught in this lesson
+**Answer: a) Europe's geographic expansion over America revives the slave system to exploit its resources; at home the feudal lord's derecho de pernada abuses his serfs, Spain lives the Reconquista — 1492 is not only Columbus's year — and Caribe peoples resist in the Sierra Nevada and along the Magdalena** — That is what this lesson teaches.
+

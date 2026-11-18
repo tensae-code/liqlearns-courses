@@ -1,0 +1,12 @@
+# Historiography: The History of History Writing — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “¿Quién dijo qué? matching game”?
+a) A conqueror who founded cities, a king advised by the Council of the Indies, an artisan of Bogotá's Democratic Society, a coffee colonist of Viejo Caldas, an ANUC peasant organiser, a workers' lawyer and Morillo himself each speak in first person, and the learner must know the history well enough to name the speaker  b) Vietnam begins as a kind of national revolution, a ruler is overthrown mid-conflict, and the United States sinks into the war  c) Players are asked how families, barrios and jobs have changed, whether Black communities endured over 300 years of slavery, and what the free enslaved people who fled to palenques in colonial times were called  d) A story that is not taught in this lesson
+**Answer: a) A conqueror who founded cities, a king advised by the Council of the Indies, an artisan of Bogotá's Democratic Society, a coffee colonist of Viejo Caldas, an ANUC peasant organiser, a workers' lawyer and Morillo himself each speak in first person, and the learner must know the history well enough to name the speaker** — That is what this lesson teaches.
+
+**2.** What is the heart of the story in “¿Quién dijo qué? matching game”?
+a) A conqueror who founded cities, a king advised by the Council of the Indies, an artisan of Bogotá's Democratic Society, a coffee colonist of Viejo Caldas, an ANUC peasant organiser, a workers' lawyer and Morillo himself each speak in first person, and the learner must know the history well enough to name the speaker  b) Vespucci, not Columbus, gives the continent its name; Balboa's Darién crossing, Ptolemy's world-without-America map and the advances that made the expeditions possible complete the picture  c) Ten thousand years ago small bands spread over the Earth; the Inuit come from northern Asia, African peoples migrate across their continent, and today over ten million Mexican-born people live in the United States  d) A story that is not taught in this lesson
+**Answer: a) A conqueror who founded cities, a king advised by the Council of the Indies, an artisan of Bogotá's Democratic Society, a coffee colonist of Viejo Caldas, an ANUC peasant organiser, a workers' lawyer and Morillo himself each speak in first person, and the learner must know the history well enough to name the speaker** — That is what this lesson teaches.
+

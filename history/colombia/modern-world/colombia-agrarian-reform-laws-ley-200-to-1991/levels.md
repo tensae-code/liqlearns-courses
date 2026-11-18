@@ -1,0 +1,3 @@
+# Colombia's Agrarian Reform Laws: Ley 200 to 1991 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — A law-by-law table runs the agrarian reforms — Ley 200 meant to give land to those who work it — down to articles 64, 65 and 311 of the Political Constitution, and learners compare what was proposed with what was executed — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

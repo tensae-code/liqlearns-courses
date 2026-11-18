@@ -1,0 +1,3 @@
+# Ancient Civilisations: Mesopotamia's Gifts — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — From the cruel Law of Talion in Babylon comes the first code of laws — the builder whose house kills its owner is condemned — and "thou shalt not kill" is named the first norm defending life — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

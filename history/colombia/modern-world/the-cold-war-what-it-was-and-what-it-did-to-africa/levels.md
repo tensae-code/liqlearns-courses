@@ -1,0 +1,3 @@
+# The Cold War: What It Was and What It Did to Africa — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The Second World War's end sets a new international order of two armed camps, and learners are asked whether nuclear weapons guarantee anything — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
