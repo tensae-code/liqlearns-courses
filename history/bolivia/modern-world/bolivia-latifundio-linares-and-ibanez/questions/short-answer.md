@@ -1,0 +1,9 @@
+# Bolivia: Latifundio, Linares and Ibáñez — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.**   What happens in “Hacienda, dictadura civil e igualitarismo”?
+**Answer:** The latifundist hacienda drives an "original accumulation" against the ayllu; Linares rules as a civilian dictator, and Andrés Ibáñez raises an egalitarian revolution in Santa Cruz. Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+
+**2.**   How does the story in “Hacienda, dictadura civil e igualitarismo” end?
+**Answer:** The latifundist hacienda drives an "original accumulation" against the ayllu; Linares rules as a civilian dictator, and Andrés Ibáñez raises an egalitarian revolution in Santa Cruz. Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.

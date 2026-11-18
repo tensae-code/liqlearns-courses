@@ -1,0 +1,3 @@
+# Women's Rights: From Gouges to Bolivia — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — From the Declaration of the Rights of Woman and the Female Citizen against patriarchal colonialism, through important women in politics, education, literature and economics, to women's participation in Bolivian democracy. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
