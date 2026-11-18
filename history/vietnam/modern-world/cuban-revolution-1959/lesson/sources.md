@@ -1,0 +1,18 @@
+# Sources — Cuban revolution 1959
+
+countries: Vietnam
+
+**Book 6:** Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống) — Grade: 9 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ — PDF pages: 243 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED — Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately. — Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 11:** Title as printed: Lịch sử 11 (Kết nối tri thức với cuộc sống) — Grade: Grade 11 (student/teacher: STUDENT) — Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35077-0 (book code G1HHYS001h26; price 12.100đ) — PDF pages: 99 (cover/title page verified against the record title) — Verdict: COMPLETE — Geography content named, not placed: Bài 12 — position, sea lanes, resources and island geography of the East Sea (printed pp. 73–79); its history is placed under Bài 13. — Tally: 35 placements — 18 to existing lessons, 17 NEW LESSON NEEDED — Vietnam's own way: Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 12, Cuba: the Moncada to Havana | Book 6 (Vietnam Grade 9 G9 History and Geography), printed p. 52 |
+| Bài 4 Socialism reaches Asia and the Caribbean: Cuba's 1959 revolution chooses socialism from 1961 under American embargo and rebuilds a one-crop economy into industry, schools and hospitals | Book 11 (Vietnam Grade 11 G11), printed p. 23 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 12, Cuba: the Moncada to Havana, Bài 4 Socialism reaches Asia and the Caribbean: Cuba's 1959 revolution chooses socialism from 1961 under American embargo and rebuilds a one-crop economy into industry, schools and hospitals, Vietnam, Cuban revolution 1959, cuban-revolution-1959, history vietnam

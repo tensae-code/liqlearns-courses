@@ -1,0 +1,10 @@
+# Dating the past — short answer
+
+Answer in your own words, from the lesson.
+
+**1.** Tell the story of "Bài 1, maps, data tables and the timeline (trục thời gian)" — who was in it, where it happened, what turned, and what came of it. (Sub lesson 1)
+**Answer:** Children learn to read a timeline by placing 1945 (August Revolution), 1954 (Điện Biên Phủ) and 1975 (Hồ Chí Minh Campaign) in order.
+
+**2.** Tell the story of "Bài 3, time in history" — who was in it, where it happened, what turned, and what came of it. (Sub lesson 2)
+**Answer:** Hourglass, water clock and sundial give way to lunar and solar calendars; BC/AD, decades, centuries and millennia let children place Âu Lạc's founding, c. 208 BC.
+

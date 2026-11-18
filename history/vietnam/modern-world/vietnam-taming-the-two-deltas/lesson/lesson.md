@@ -1,0 +1,23 @@
+# Vietnam taming the two deltas
+
+## Do it first
+
+Before you read: say what you already know about "Vietnam taming the two deltas" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — Shared Theme 1 (in the Geography part), how people reclaimed and mastered the two deltas
+
+On the Red River the ancient Viet live by the water — boats on the Đông Sơn drums, a bronze fishhook of the Gò Mun culture, shells of the Hạ Long culture — and learn early to dyke it: the "thổ nhỡ" lore of fields piled higher year by year from the Hùng kings' Phong Châu, the Cơ Xá dyke Lý Nhân Tông builds in 1108 to shield Thăng Long, a dyke office (Hà đê sứ) under the Trần, sea dykes from the 15th-century Lê, and Nguyễn Công Trứ's estuary reclamations under the Nguyễn — while Gia Long's quoted edict still debates whether dykes do more good or harm; on the Mekong there are no dykes — the delta that Óc Eo and the Phù Nam kingdom made brilliant from the 1st to the 7th century, then lost to salt water and silence for centuries, is won back from the 17th century by canals (the 90 km Vĩnh Tế canal, dug under three kings and engraved on the Nine Urns) and by a river culture of floating markets and floating houses that adapts to the flood instead of fighting it.
+
+## Sub lesson 2 — Shared Theme 2, Red River and Mekong Delta Civilisation (2) — the two deltas' cultures
+
+The Red River delta, a cradle of wet-rice civilisation, keeps its heritage in stone and festival — Cổ Loa Citadel, the Hoa Lư capital, the Thăng Long Imperial Citadel and Văn Miếu–Quốc Tử Giám among its tangible relics; Bát Tràng pottery, Đại Bái bronze casting and Văn Lâm embroidery among its craft villages; the Lim, Chùa Hương and Gióng festivals and the Quan họ and Ca trù arts among its living traditions; the Mekong delta answers with a river-water culture built by adapting to the flood — floating houses, boat travel and the floating markets of Cái Răng, Phụng Hiệp and Ngã Năm, boat-building at Cần Thơ and palm sugar in An Giang, the Bà Chúa Xứ and Nghinh Ông festivals, and Đờn ca tài tử, recognised by UNESCO as Intangible Cultural Heritage of Humanity (the theme's climate-change section is Geography and is not placed).
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of Vietnam taming the two deltas as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

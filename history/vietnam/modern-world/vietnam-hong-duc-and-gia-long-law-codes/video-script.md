@@ -1,0 +1,13 @@
+# Video script — Vietnam hong duc and gia long law codes
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Vietnam hong duc and gia long law codes.
+
+Vietnam's first written code is issued under the Lý in 1042; the Quốc triều hình luật — the Hồng Đức code — is begun under Lê Thái Tổ and completed under Lê Thánh Tông: 13 chapters and 722 articles in 6 volumes covering criminal, civil, marriage-family, land and property law; it guards the king's, royal family's and officials' privileges with the harshest penalties, yet carries progressive content the book stresses — Phan Huy Lê is cited for its protection of women's rights, found in no contemporary Eastern code: daughters inherit on a par with sons (Article 388) and a widow's share of the couple's property is fixed (Articles 374–375); the Hoàng Việt luật lệ — the Gia Long code of 1815 — has 398 articles in 22 volumes arranged in six categories matching the Six Ministries, concentrates on protecting the monarchy and ruling class (Article 224 makes even listening to a plot against the throne a capital offence for the whole family), yet also protects the elderly, children and women — its Book 19, Article 10 forbids torturing offenders over 70, under 15 or disabled; both codes share an advanced legislative technique, every norm built in three parts: the case supposed, the conduct required, and the sanction.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

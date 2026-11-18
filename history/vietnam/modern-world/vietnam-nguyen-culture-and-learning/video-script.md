@@ -1,0 +1,13 @@
+# Video script — Vietnam nguyen culture and learning
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: Vietnam nguyen culture and learning.
+
+The age's finest writing is in Nôm — Nguyễn Du's Tale of Kiều, the poetry of Hồ Xuân Hương, Bà Huyện Thanh Quan and Nguyễn Công Trứ — reflecting working lives and mocking feudal society; Huế court music (Nhã nhạc), formed under the Lý–Trần and perfected under the Nguyễn, is proclaimed by UNESCO in 2003 a Masterpiece of the Oral and Intangible Heritage of Humanity; folk painting runs from Đông Hồ to Hàng Trống and Làng Sình; and the dynasty's scholars compile the Đại Nam thực lục, the Khâm định Việt sử thông giám cương mục and Phan Huy Chú's Lịch triều hiến chương loại chí, with geographies to match — the Nine Dynastic Urns in the Imperial City stand as the lesson's emblem.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

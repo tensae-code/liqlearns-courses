@@ -1,0 +1,13 @@
+# Video script — What makes a civilisation
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story — an animated map: who, where, what turned.
+
+---
+
+This lesson tells one story: What makes a civilisation.
+
+Civilisation is the material and spiritual progress of human society — the high state of development of a culture, when human society has passed beyond the age of savagery; its basic marks are a state, cities, writing, and advances in social organisation, ethics and the techniques that improve human life, while culture — per the UNESCO declaration adopted at Mexico in August 1982, quoted here — is the whole of the spiritual and material, intellectual and emotional features of a society or group, and culture is as old as humankind while civilisation is created only at society's high stage (Engels' three ages — savagery, barbarism, civilisation — are boxed); the first civilisations form at the end of the 4th millennium BCE in Northeast Africa and West Asia, and the book's chronology table sets the four great Eastern centres side by side: ancient Egypt about 3200–30 BCE, ancient Mesopotamia from the late 4th millennium to the mid-1st millennium BCE, ancient-to-medieval India from the mid-3rd millennium BCE to 1857, and China from about the 21st century BCE to 1911.
+
+That is the turn of this story — remember who was in it, where it happened, and what came of it.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

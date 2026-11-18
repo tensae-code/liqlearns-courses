@@ -1,0 +1,15 @@
+# Sources — Asia between the wars
+
+countries: Vietnam
+
+**Book 6:** Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống) — Grade: 9 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ — PDF pages: 243 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED — Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately. — Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 3, Asia's two roads, 1918–1945 | Book 6 (Vietnam Grade 9 G9 History and Geography), printed p. 15 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 3, Asia's two roads, 1918–1945, Vietnam, Asia between the wars, asia-between-the-wars, history vietnam

@@ -1,0 +1,18 @@
+# Sources — The cold war begins 1947
+
+countries: Vietnam
+
+**Book 6:** Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống) — Grade: 9 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ — PDF pages: 243 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED — Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately. — Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 10:** Title as printed: Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống) — Grade: Grade 11 (student/teacher: STUDENT) — Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35078-7 (book code G1HHYS002h26; price 8.000đ) — PDF pages: 59 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 28 placements — 23 to existing lessons, 5 NEW LESSON NEEDED — Vietnam's own way: the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 9, the Cold War begins | Book 6 (Vietnam Grade 9 G9 History and Geography), printed p. 41 |
+| Chuyên đề 2.II.1 How the Cold War began: Truman's speech of 12-3-1947 announcing containment; the Marshall Plan's 13 billion dollars; the CMEA founded January 1949; NATO in April 1949 and the Warsaw Treaty in May 1955 locking the bipolar order | Book 10 (Vietnam Grade 11 G11 Study Topics), printed p. 29 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 9, the Cold War begins, Chuyên đề 2.II.1 How the Cold War began: Truman's speech of 12-3-1947 announcing containment; the Marshall Plan's 13 billion dollars; the CMEA founded January 1949; NATO in April 1949 and the Warsaw Treaty in May 1955 locking the bipolar order, Vietnam, The cold war begins 1947, the-cold-war-begins-1947, history vietnam

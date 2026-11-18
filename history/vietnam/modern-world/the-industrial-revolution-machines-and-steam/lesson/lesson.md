@@ -1,0 +1,19 @@
+# The industrial revolution machines and steam
+
+## Do it first
+
+Before you read: say what you already know about "The industrial revolution machines and steam" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Bài 3, the Industrial Revolution in England
+
+It begins in textiles with the Jenny spinning machine (1764); Arkwright's water frame (1769) leads to the first mill in 1771; Watt's steam engine (1784) — Westminster's memorial calls him "the man who multiplied many times the strength of man" — frees factories from the riverside; Cartwright's power loom (1785), Stephenson's locomotive (1814) and the first railway (1825) follow, and by 1850 England has some 10,000 km of track and is named "the workshop of the world".
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of The industrial revolution machines and steam as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

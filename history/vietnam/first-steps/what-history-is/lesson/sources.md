@@ -1,0 +1,22 @@
+# Sources — What history is
+
+countries: Vietnam
+
+**Book 3:** Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống) — Grade: Grade 6 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4 — PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page) — Verdict: COMPLETE — Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED — Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. — Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30). Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 7:** Title as printed: Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống) — Grade: 10 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2022 (©2022; 4th reprint with corrections and additions); ISBN 978-604-0-31108-5; book code G1HHXS002h26; price 8.200đ — PDF pages: 68 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED — Vietnam's own way: the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 8:** Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống) — Grade: 10 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26 — PDF pages: 113 (cover/title page verified against the record title) — Verdict: COMPLETE — Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED — Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 1, History and life: what history is and why study it | Book 3 (Vietnam Grade 6 G6 History and Geography), printed p. 9 |
+| Chuyên đề 1, I.3–4, history by field; national history and world history | Book 7 (Vietnam Grade 10 G10 History Study Topics), printed p. 9 |
+| Bài 1.1, historical reality and history as people perceive it | Book 8 (Vietnam Grade 10 G10), printed p. 6 |
+| Bài 2.1, why history must be learned and explored for a lifetime | Book 8 (Vietnam Grade 10 G10), printed p. 11 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 1, History and life: what history is and why study it, Chuyên đề 1, I.3–4, history by field; national history and world history, Bài 1.1, historical reality and history as people perceive it, Bài 2.1, why history must be learned and explored for a lifetime, Vietnam, What history is, what-history-is, history vietnam

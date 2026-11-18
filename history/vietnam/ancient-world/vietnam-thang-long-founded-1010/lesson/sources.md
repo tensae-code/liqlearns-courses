@@ -1,0 +1,18 @@
+# Sources — Vietnam thang long founded 1010
+
+countries: Vietnam
+
+**Book 1:** Title as printed: Lịch sử và Địa lí 4 (Kết nối tri thức với cuộc sống) — Grade: Grade 4 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (copyright; 3rd reprint with corrections); ISBN 978-604-0-35033-6 — PDF pages: 128 (cover/title page verified against the record title; printed page = PDF page − 3) — Verdict: COMPLETE — Tally: 35 placements — 12 to existing lessons, 23 NEW LESSON NEEDED — Vietnam's own way: History is taught region by region (home province, then each region of Vietnam in turn), always as named places, festivals and "Câu chuyện Lịch sử" story boxes with a named hero or legend, plus source excerpts (stele texts, the Edict on the Transfer of the Capital) even at Grade 4. — Geography parts named, not placed: Bài 2 local nature and people (printed pp. 12–15); Bài 4–5 Northern Midlands and Mountains nature, population and production (pp. 18–27); Bài 8–9 Red River Delta nature, population and production (pp. 36–45); Bài 15–16 North/Central nature, population and production (pp. 65–77); Bài 22–23 Southern region nature, population and production (pp. 99–106). Bài 14 and Bài 27 are review lessons (Ôn tập) over the same content — no separate placement. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 2:** Title as printed: Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống) — Grade: Grade 5 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (copyright; 2nd reprint with corrections and additions); ISBN 978-604-0-39225-1 — PDF pages: 124 (cover/title page verified against the record title; printed page = PDF page − 3) — Verdict: COMPLETE — Tally: 59 placements — 11 to existing lessons, 48 NEW LESSON NEEDED — Vietnam's own way: Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục). — Geography parts named, not placed: Bài 1 position/territory and administrative units (printed pp. 5–8, Geography; its flag/emblem/anthem section is Civics); Bài 2 nature of Vietnam (pp. 9–15); Bài 4 population and peoples (pp. 20–24, Geography apart from the two story boxes placed below); Bài 18–20 the neighbouring countries' nature and population (pp. 76–89, Geography apart from the heritage works placed below); Bài 22 continents and oceans (pp. 93–97); Bài 23 world population and races (pp. 98–100); Bài 26 building a green–clean–beautiful world (pp. 109–111, Civics/environment). Bài 11 and Bài 28 are review lessons — no separate placement. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 12, the founding and names of Thăng Long | Book 1 (Vietnam Grade 4 G4 History and Geography), printed p. 55 |
+| Bài 9, the Lý dynasty sets its capital at Thăng Long | Book 2 (Vietnam Grade 5 G5 History and Geography), printed p. 40 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 12, the founding and names of Thăng Long, Bài 9, the Lý dynasty sets its capital at Thăng Long, Vietnam, Vietnam thang long founded 1010, vietnam-thang-long-founded-1010, history vietnam

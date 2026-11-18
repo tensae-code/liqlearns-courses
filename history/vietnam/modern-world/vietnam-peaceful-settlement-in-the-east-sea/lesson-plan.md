@@ -1,0 +1,51 @@
+# Lesson plan — Vietnam peaceful settlement in the east sea
+
+**Course:** History — Vietnam · **Title:** Modern world · **Lesson:** Vietnam peaceful settlement in the east sea
+**Place in the curriculum:** Level 8 — War and peace, two systems and the sea: the world wars and the peace movements, capitalism and socialism, Southeast Asia out of colonial rule, Vietnam's defence wars and sea sovereignty — with art as a historical source (CURRICULUM.md).
+**The one thing this lesson teaches:** the story of Vietnam peaceful settlement in the east sea as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it.
+**This lesson's own level:** Level 8 — War and peace, two systems and the sea: the world wars and the peace movements, capitalism and socialism, Southeast Asia out of colonial rule, Vietnam's defence wars and sea sovereignty — with art as a historical source — it stands on the lessons before it in path order (recommended, never forced).
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **§1 Bài 13 Vietnam's peaceful-settlement stance: the 1977 declaration on sea zones, white papers of 1979, 1981 and 1988, joining UNCLOS 1982 (a million km² of sea, three times the land), the 2012 Sea Law, and full implementation of the 2002 ASEAN–China Declaration on Conduct signed at Phnom Penh — disputes by peaceful means, without threat or use of force** — the country that fought for the islands chooses law as its first weapon for keeping them
+2. **§2 Bài 9 Defending sovereignty in the East Sea: the reunified state administers Hoàng Sa and Trường Sa; the 12-5-1977 declaration defines Vietnam's seas, Vietnam ratifies UNCLOS as its 63rd state (1994), island districts are founded (1982) and a Trường Sa town (2007), and sovereignty is exercised through exhibitions, surveys, markers, lighthouses and island communities; when Chinese forces attack Gạc Ma, Cô Lin and Len Đao (March 1988) and dozens of naval soldiers fall, Vietnam protests to the UN and presses negotiation; the 2012 Sea Law gives the defence its legal base, with the DOC pushed forward** — sovereignty here is defended as much by declarations, districts and law as by the navy's sacrifice at Gạc Ma
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended before this: Vietnam hoang sa truong sa 1884 to 1975 (recommended, never forced).
+
+## What the learner can do when it ends
+1. State the lesson's one thing in their own words: the story of Vietnam peaceful settlement in the east sea as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it.
+2. Retell the story of Vietnam peaceful settlement in the east sea — who, where, what turned, and what came of it.
+3. Answer the lesson's questions from the lesson, without looking back.
+
+## What you need
+Paper and a pencil. Nothing else — the lesson is worked from the story itself and the learner's own place and people.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening act of lesson/lesson.md before any explanation.
+2. **The explanation** — the lesson's story in order (lesson/lesson.md).
+   - ADD IMAGE: a picture of the scene at the centre of "Vietnam peaceful settlement in the east sea" — the place and the people of the story, as an animated map would show them — the student names who is in it, where it is, and what is turning.
+   - ADD GIF: a 2-second GIF of the story's turn — the moment everything changes in "Vietnam peaceful settlement in the east sea" — the student watches it and says aloud what changed.
+3. **Say it to your companion** — the learner retells the story and states its one thing (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of the scene at the centre of "Vietnam peaceful settlement in the east sea" — the place and the people of the story → the student names who is in it, where it is, and what is turning.
+- GIF — a 2-second GIF of the story's turn in "Vietnam peaceful settlement in the east sea" → the student watches and says aloud what changed.
+- VIDEO — the video-script filmed (made later) → the student listens and answers along.
+
+## If the learner is stuck
+- Retells names but not the turn → ask: "What changed in this story, and what came of it?" The turn is the proof.
+- Go back to the one thing: the story of Vietnam peaceful settlement in the east sea as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Work the Do it first act again, slowly, and name each step aloud.
+- This lesson's next door: the next lesson in path order — Vietnam thanh hoang village tutelary cult.
+
+## Teacher note
+The full text is lesson/lesson.md; the story is told there in our own words from the books' story beats. Keep the learner on the story — who, where, what turned, what came of it — and let the questions check the story as taught.

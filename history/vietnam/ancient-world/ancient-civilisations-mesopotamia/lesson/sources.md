@@ -1,0 +1,18 @@
+# Sources — Ancient civilisations mesopotamia
+
+countries: Vietnam
+
+**Book 3:** Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống) — Grade: Grade 6 (student/teacher: STUDENT) — Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4 — PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page) — Verdict: COMPLETE — Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED — Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. — Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30). Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+**Book 9:** Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống) — Grade: Grade 10 (student/teacher: STUDENT) — Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ) — PDF pages: 39 (cover/title page verified against the record title) — Verdict: COMPLETE — SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed. — Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED — Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/vietnam-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bài 7, the succession of states between the two rivers | Book 3 (Vietnam Grade 6 G6 History and Geography), printed p. 31 |
+| Bài 2 Ancient Mesopotamia's art: born of Sumer–Akkad cultural interchange and sun-god worship, Babylonian relief, mural and palace art of high skill | Book 9 (Vietnam Grade 10 G10 Art), printed p. 16 |
+
+**Acceptance count: taught in 1 country (Vietnam) — this lesson stands on a student book.**
+
+The placements stocked here are the tellings of this story in Vietnam's History books, in the books' own order. No provenance talk appears in the lesson prose.
+
+Searchable tags: Bài 7, the succession of states between the two rivers, Bài 2 Ancient Mesopotamia's art: born of Sumer–Akkad cultural interchange and sun-god worship, Babylonian relief, mural and palace art of high skill, Vietnam, Ancient civilisations mesopotamia, ancient-civilisations-mesopotamia, history vietnam

@@ -1,0 +1,23 @@
+# The second world war the pacific and the results
+
+## Do it first
+
+Before you read: say what you already know about "The second world war the pacific and the results" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — Bài 4, the Pacific end and the war's results
+
+Atomic bombs fall on 6 and 9 August 1945 and Soviet forces strike the Japanese in Northeast China on 8 August; Japan surrenders on 15 August 1945; the book's results table counts 76 countries involved, 110 million under arms, 60 million dead, 90 million wounded and $4,000 billion in material damage — and stresses the USSR's decisive role.
+
+## Sub lesson 2 — Chuyên đề 2.I.2 What the Second World War changed: the cost table — 76 countries, 60 million dead, 90 million disabled, 4,000 billion dollars — the USSR's victory breeds socialist states and liberation movements, the USA rises as superpower, the Yalta order forms, and the UN Charter is signed on 26-6-1945
+
+The fiercest war in human history ends by splitting the world between two superpowers and founding the United Nations.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of The second world war the pacific and the results as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

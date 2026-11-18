@@ -1,0 +1,23 @@
+# Ancient civilisations india
+
+## Do it first
+
+Before you read: say what you already know about "Ancient civilisations india" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — Bài 8, ancient India: rivers, cities and the varna order
+
+Dravidian cities rise on the Indus about 2500 BC; Aryan newcomers then rank society into Brahmins, Kshatriyas, Vaishyas and Shudras, with the Pariah "untouchables" beneath them all — a word Nguyễn Ái Quốc later takes for his 1922 newspaper Le Paria.
+
+## Sub lesson 2 — Bài 4.2b, the achievements of ancient-to-medieval Indian civilisation
+
+India is the homeland of great thought and religions — beside philosophies like Vaiśeṣika and Vedānta, its two widest-reaching religions are Hinduism, formed on the basis of Brahmanism from about the 1st millennium BCE, and Buddhism, formed in the mid-1st millennium BCE, flourishing until the 7th century then declining and losing influence in India itself while spreading to many countries and regions to become one of the world's great religions; India's oldest writing is found in the Indus civilisation — the box notes that since 1921 excavations in the Indus valley have found over 3,000 seals carved with signs and animal images, used to stamp goods to certify their origin — and later Kharoshthi and Brahmi scripts appear, adapted to record Sanskrit, and Indian scripts spread to Southeast Asia and are reworked into several nations' writing; its literature gives the Vedas and the epics Mahābhārata and Rāmāyaṇa and the works of Kālidāsa such as the play Śakuntalā, its religious architecture the stone pillars, temples and Buddhist stupas, the Ajanta cave temples and the Taj Mahal; in science India invents the ten digits still used today and computes π as 3.1416, understands the universe, the Sun and the planets and makes calendars, proposes atomic theory and asserts the Earth's gravity, develops metallurgy and rust-proofing, and records pathology, anatomy and toxicology, using surgery to set skull bones and remove kidney stones — Will Durant's tribute is quoted: India gave grammar and logic, philosophy and fables, hypnotism and chess, above all the numerals and decimal system, and taught tolerance and gentleness of a mature mind.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of Ancient civilisations india as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

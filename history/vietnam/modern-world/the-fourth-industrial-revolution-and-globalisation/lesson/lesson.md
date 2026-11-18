@@ -1,0 +1,27 @@
+# The fourth industrial revolution and globalisation
+
+## Do it first
+
+Before you read: say what you already know about "The fourth industrial revolution and globalisation" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — Bài 21, Industry 4.0, globalisation and Vietnam
+
+Industry 4.0 — the term first used in Germany in the early 2010s for the union of IoT, Big Data, AI and cloud — shortens the road from invention to production and binds science, technique and technology into one; for Vietnam the book quotes the Party's Resolution 52-NQ/TW (27 September 2019): the Fourth Industrial Revolution "brings both opportunities and challenges" — seize them to raise productivity and competitiveness, guard against becoming a mere assembly workshop, against information insecurity, and against AI's pressure on jobs; the same revolution drives globalisation from the 1980s onward — in trade and global finance, in the sharing and interpenetration of cultures, and in the growing weight of regional and international organisations from the EU and ASEAN to the United Nations.
+
+## Sub lesson 2 — Bài 7.2–3, the Fourth Industrial Revolution and the meaning of the modern revolutions
+
+The fourth industrial revolution (Industry 4.0) begins in the first years of the 21st century and is still unfolding, bound up with breakthroughs in artificial intelligence (AI), the Internet of Things (IoT), cloud computing, Big Data, 3D printing, automation, new materials, gene technology and nanotechnology — 3D printing builds a house with under 50% of the labour, 60% less waste and about 60% lower cost than traditional building (part of a Dubai building printed in 3D is pictured), and nanotechnology works at the scale where 1 nanometre is a billionth of a metre, applied in medicine, biology, energy, electronics, mechanics, garments, food and environmental protection; the opener is a person — the robot Sophia, granted citizenship by the Saudi Arabian government on 25 October 2017, the first robot citizen in the world, able to communicate, show emotion and lecture, interviewed in Vietnam in 2018; the meaning sections follow: economically, smart factories applying automation and AI multiply productivity many times over, e-commerce lets consumers approach global trade, and the modern revolutions push regionalisation and globalisation of the world economy; socially, automation frees human labour especially in dangerous and toxic work, the workforce polarises toward high skills, remote work spreads — but the warning box counts the costs: AI makes many workers jobless and widens the rich–poor gap, personal-information security is threatened, false information spreads, and over-reliance on AI in education can weaken independent thinking; culturally, searching and sharing information becomes easy and cultural exchange between countries and regions quick and convenient.
+
+## Sub lesson 3 — Chuyên đề 3 Globalisation as a system: some 77,000 transnational corporations and the UN–WTO–IMF web bind states together; the World Bank credits openness with growth and poverty cuts while Stiglitz warns it can shut the developing world out of knowledge; its dark side runs from the 2008 crisis contagion to terrorism and cultural flattening
+
+One world market means one country's bank crash becomes every country's winter.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of The fourth industrial revolution and globalisation as Vietnam's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

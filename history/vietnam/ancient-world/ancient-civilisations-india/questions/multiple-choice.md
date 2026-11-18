@@ -1,0 +1,12 @@
+# Ancient civilisations india — multiple choice
+
+Pick the one right answer.
+
+**1.** What happens in "Bài 8, ancient India: rivers, cities and the varna order"? (Sub lesson 1)
+a) dravidian cities rise on the Indus about 2500 BC; Aryan newcomers then rank society into Brahmins, Kshatriyas, Vaishyas and Shudras, with the Pariah "untouchables" beneath them all — a word Nguyễn Ái Quốc later takes for his 1922 newspaper Le Paria  b) a story with no people and no place  c) a list of dates to copy without a story  d) nothing changes and nothing comes of it
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** What happens in "Bài 4.2b, the achievements of ancient-to-medieval Indian civilisation"? (Sub lesson 2)
+a) india is the homeland of great thought and religions — beside philosophies like Vaiśeṣika and Vedānta, its two widest-reaching religions are Hinduism, formed on the basis of Brahmanism from about the 1st millennium BCE, and Buddhism, formed in the mid-1st millennium BCE, flourishing until the 7th century then declining and losing influence in India itself while spreading to many countries and regions to become one of the world's great religions; India's oldest writing is found in the Indus civilisation — the box notes that since 1921 excavations in the Indus valley have found over 3,000 seals carved with signs and animal images, used to stamp goods to certify their origin — and later Kharoshthi and Brahmi scripts appear, adapted to record Sanskrit, and Indian scripts spread to Southeast Asia and are reworked into several nations' writing; its literature gives the Vedas and the epics Mahābhārata and Rāmāyaṇa and the works of Kālidāsa such as the play Śakuntalā, its religious architecture the stone pillars, temples and Buddhist stupas, the Ajanta cave temples and the Taj Mahal; in science India invents the ten digits still used today and computes π as 3.1416, understands the universe, the Sun and the planets and makes calendars, proposes atomic theory and asserts the Earth's gravity, develops metallurgy and rust-proofing, and records pathology, anatomy and toxicology, using surgery to set skull bones and remove kidney stones — Will Durant's tribute is quoted: India gave grammar and logic, philosophy and fables, hypnotism and chess, above all the numerals and decimal system, and taught tolerance and gentleness of a mature mind  b) a story with no people and no place  c) a list of dates to copy without a story  d) nothing changes and nothing comes of it
+**Answer: a)** — That is what this lesson teaches.
+
