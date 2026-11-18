@@ -645,3 +645,25 @@ sources, as provenance.
   book — no teacher guide, no programme, no UNREAD book.
   See `tanzania/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Moldova** — [`moldova/`](moldova/) · 63 lessons: Levels
+  1–3 — the person as a social being first (communication
+  and team work, conflict within the rules, the family as
+  first group, values and helping behaviour), widening to
+  the democratic society (democracy, pluralism, civil
+  society, rights-freedoms-responsibilities as one system,
+  Moldovan and EU citizenship, Moldova's European path),
+  then identity, dignity and the law that protects the
+  person (justice, national and European law, civil law),
+  and finally the adult citizen — family law, spouses'
+  property, labour and fiscal law, civil society and
+  elections, Moldova and the European organisations, and
+  business ethics, with life and health and career running
+  through all three levels, from Moldova's *Educație
+  Civică* student books for Grades 9, 10 and 11 (Univers
+  Educațional / Ministerul Educației al Republicii Moldova,
+  Romanian editions with their Russian parallel editions
+  named, 2014 and undated as filed, all COMPLETE — 63
+  placements, 63 lessons, all on student books). The
+  filings contain no other Moldova book — no teacher guide,
+  no programme, no UNREAD book. See `moldova/ABOUT.md` for
+  the full book list and the acceptance reckoning.

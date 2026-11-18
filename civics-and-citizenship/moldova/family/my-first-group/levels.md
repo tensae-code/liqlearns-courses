@@ -1,0 +1,5 @@
+# The Family — My First Group — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The family as the first group a person belongs to, its place in society and what membership of it means. — shown in the learner's own words and one real example.

@@ -1,0 +1,13 @@
+# Communication in a Couple — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Communication in a Couple — a)
+**2.** Me and My Identity (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Communication and responsibility in a couple's relationship.
+b) One of the titles of Moldova's own civics course, built from Moldova's own government textbooks.
+
+**Answer key:** 1. a 2. b
