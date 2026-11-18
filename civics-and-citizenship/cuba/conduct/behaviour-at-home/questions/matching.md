@@ -1,0 +1,13 @@
+# Behaviour at Home — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Behaviour at Home — a)
+**2.** Conduct (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Norms and habits of conduct in the home.
+b) One of the titles of Cuba's own civics course, built from Cuba's own government textbooks.
+
+**Answer key:** 1. a 2. b

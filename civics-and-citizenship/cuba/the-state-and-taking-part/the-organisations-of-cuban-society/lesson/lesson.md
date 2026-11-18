@@ -1,0 +1,17 @@
+# The Organisations of Cuban Society
+
+## Do it first
+
+Before anyone explains anything, say in your own words what you already think this is about: The Organisations of Cuban Society. Write it or say it aloud — this lesson starts from what Cuba's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+The mass and student organisations of Cuban society — the pioneers' own OPJM with its motto, school structure and elected leaders, the CDR and FMC, the Communist Party as leading political organisation and the UJC.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: The mass and student organisations of Cuban society — the pioneers' own OPJM with its motto, school structure and elected leaders, the CDR and FMC, the Communist Party as leading political organisation and the UJC. Give one real example from your own life or from the Cuba you live in, and name the lesson's key words: the, organisations, of. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's main teaching in your own words: The mass and student organisations of Cuban society — the pioneers' own OPJM with its motto, school structure and elected leaders, the CDR and FMC, the Communist Party as leading political organisation and the UJC.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.

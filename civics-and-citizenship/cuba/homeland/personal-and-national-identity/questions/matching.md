@@ -1,0 +1,13 @@
+# Personal and National Identity — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Personal and National Identity — a)
+**2.** Homeland (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Personal and national identity and the values of Cuban society.
+b) One of the titles of Cuba's own civics course, built from Cuba's own government textbooks.
+
+**Answer key:** 1. a 2. b

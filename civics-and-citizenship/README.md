@@ -877,3 +877,28 @@ sources, as provenance.
   phantom pushes with their source host unreachable — and
   are not in the course). See `bhutan/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Cuba** — [`cuba/`](cuba/) · 126 lessons: Levels
+  1–9 — family, the barrio and children's rights, the
+  Constitution as law of laws, the people choosing their
+  leaders and the mass organisations, the citizen's
+  morality and Martí's ethics, the 2019 Constitution and
+  its values, human rights and a culture of peace, the
+  legal system and the politically organised society,
+  and Cultura Política read in primary documents through
+  to Cuba's most recent history, from Cuba's *Educación
+  Ciudadana* Grade 5 teacher guide and Grade 6 student
+  book, *Educación Moral y Ciudadana* student books for
+  Grades 7–9 with the Grade 8 teacher guide, and
+  *Cultura Política* student books and study compilations
+  for Grades 10–12 with the Grade 11 teacher guide
+  (Ministerio de Educación, Cuba / Editorial Pueblo y
+  Educación, Spanish, all COMPLETE as filed — 126
+  placements, 126 lessons; 108 lessons on student books
+  and 18 lessons on teacher guides alone, teacher-guide
+  evidence only, acceptance 0, labelled; the five MINED
+  curriculum programmes for Grades 5, 7, 8, 9 and 11 are
+  RECORD-ONLY as filed with 0 placements, two of them
+  labelled older generation, and are not in the course;
+  no book is PARTIAL or UNREAD as filed). See
+  `cuba/ABOUT.md` for the full book list and the
+  acceptance reckoning.

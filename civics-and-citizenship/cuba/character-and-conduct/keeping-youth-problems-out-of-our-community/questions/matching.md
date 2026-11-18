@@ -1,0 +1,13 @@
+# Keeping Youth Problems Out of our Community — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Keeping Youth Problems Out of our Community — a)
+**2.** Character and Conduct (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The responsibility of families, schools and pupils to keep youth problems from spreading in their community and country.
+b) One of the titles of Cuba's own civics course, built from Cuba's own government textbooks.
+
+**Answer key:** 1. a 2. b
