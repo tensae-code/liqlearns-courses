@@ -1,0 +1,23 @@
+# The Stone Age: The First People on Belarusian Lands
+
+## Do it first
+
+Before you read anything, do this: say out loud what you already think this lesson is about, from its name alone — The Stone Age: The First People on Belarusian Lands. Name one person, one place, or one thing you expect to meet in it. Keep your guess in mind; the story will test it.
+
+## Sub lesson 1 — Stone Age (Ice Age period): the first people on the territory of Belarus; map "The oldest Stone Age people"
+
+Neanderthals and then Cro-Magnons hunt reindeer and mammoth at the glacier's edge, leaving flint scrapers at Berdyzh and Yurovichi.
+
+## Sub lesson 2 — Stone Age (post-glacial period): settlement of people on the Belarusian lands; map "Life of people in the post-glacial period in Belarus"
+
+As the ice retreats ~10,000 years ago, hunters and fishers follow the rivers north and settle the whole land.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: Neanderthals and then Cro-Magnons hunt reindeer and mammoth at the glacier's edge, leaving flint scrapers at Berdyzh and Yurovichi. Give one real example from your own home, school or neighbourhood where the same kind of thing happens. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: state the lesson's one thing aloud, in your own words.
+2. Write or draw the lesson's main teaching in your own words: the people, the place, the turn, and what came of it.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.
