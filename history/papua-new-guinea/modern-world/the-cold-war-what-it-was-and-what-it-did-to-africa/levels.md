@@ -1,0 +1,3 @@
+# The Cold War: What It Was and What It Did to Africa — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The Cold War is told from Papua New Guinea — its origins and causes, conflict timelines, the summits that led to détente, UN peacekeeping judged, and Taliban, Al Qaeda and Tamil Tigers compared belief by belief — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

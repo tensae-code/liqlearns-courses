@@ -1,0 +1,11 @@
+# World Religions: The Five Main Faiths — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Religion as agent of change”?
+a) Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth.  b) Out of Bretton Woods comes the post-war trading order — GATT in 1947, sibling to the IMF and World Bank, replaced by the WTO in 1995 as the 164-member referee of world trade.  c) Three European explosions — reborn learning, ocean discovery, factory industry — arm Europe to go out and take the world; groups map and timeline each one.  d) A story that is not taught in this lesson
+**Answer: a) Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Spread of world religions”?
+a) Local gods give way to universal faiths that can be practised anywhere — Hindu caste ordering India, Confucian ethics ordering China, Muslim traders doing business with fellow Muslims in distant lands, and believer-communities grown larger than any village.  b) WWII, the Cold War, Sputnik and the internet named as the century's hinges; students investigate a global event properly — questions and hypotheses, sources located and interrogated, even visiting the ground where it happened.  c) Out of Bretton Woods comes the post-war trading order — GATT in 1947, sibling to the IMF and World Bank, replaced by the WTO in 1995 as the 164-member referee of world trade.  d) A story that is not taught in this lesson
+**Answer: a) Local gods give way to universal faiths that can be practised anywhere — Hindu caste ordering India, Confucian ethics ordering China, Muslim traders doing business with fellow Muslims in distant lands, and believer-communities grown larger than any village.** — That is what this lesson teaches.

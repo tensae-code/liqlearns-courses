@@ -1,0 +1,11 @@
+# Significant Developments of the Twentieth Century — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Significant developments in history”?
+a) WWII, the Cold War, Sputnik and the internet named as the century's hinges; students investigate a global event properly — questions and hypotheses, sources located and interrogated, even visiting the ground where it happened.  b) One culture or many? Monoculturalism — ethnocentrism, assimilation, or a nation sealing itself like Japan and the Koreas — weighed against multicultural society, advantage against disadvantage.  c) PNG's founding fathers write their development model into the Constitution — growth refused if it only profits foreigners; a nation built on justice and fairness, with the five National Goals as the yardstick every policy is measured against.  d) A story that is not taught in this lesson
+**Answer: a) WWII, the Cold War, Sputnik and the internet named as the century's hinges; students investigate a global event properly — questions and hypotheses, sources located and interrogated, even visiting the ground where it happened.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) The twentieth century turns on named hinges — the Second World War, the Cold War, Sputnik and the internet — and a global event is investigated properly: questions and hypotheses, sources located and interrogated, even visiting the ground where it happened.  b) Media as modern culture's most significant force — phones, radio, television and social feeds shaping opinions and thoughts about events before historians ever reach them.  c) One culture or many? Monoculturalism — ethnocentrism, assimilation, or a nation sealing itself like Japan and the Koreas — weighed against multicultural society, advantage against disadvantage.  d) A story that is not taught in this lesson
+**Answer: a) The twentieth century turns on named hinges — the Second World War, the Cold War, Sputnik and the internet — and a global event is investigated properly: questions and hypotheses, sources located and interrogated, even visiting the ground where it happened.** — That is what this lesson teaches.

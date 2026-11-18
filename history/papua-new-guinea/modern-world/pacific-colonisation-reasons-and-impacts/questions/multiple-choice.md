@@ -1,0 +1,11 @@
+# Pacific Colonisation: Reasons and Impacts — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Colonisation in the Pacific”?
+a) Britain settles Australia in 1788 and the invasion spreads — whalers, then competition for spice, sandalwood, pearl shell and bêche-de-mer; students analyse the social, economic, political and cultural impacts and visit Queen Emma's plantation at Rabaul.  b) 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools.  c) "a photograph cannot lie" — or can it? Every account is seen through a biased lens; students test one contested massacre story for validity and reliability before accepting or rejecting it.  d) A story that is not taught in this lesson
+**Answer: a) Britain settles Australia in 1788 and the invasion spreads — whalers, then competition for spice, sandalwood, pearl shell and bêche-de-mer; students analyse the social, economic, political and cultural impacts and visit Queen Emma's plantation at Rabaul.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Colonizers' cultures in the Pacific”?
+a) Colonisers bring a whole way of life — administration and mission stations, schools, new clothes for "naked" natives, ancestral worship branded pagan, and a new language, Tok Pisin, born from the contact itself.  b) 1945–1960 the empires let go, each colony its own way — peaceful and orderly in some, revolution in Indonesia and India, long civil war in French Indo-China — while the new UN and the Cold War pull the newborn states in opposite directions.  c) 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools.  d) A story that is not taught in this lesson
+**Answer: a) Colonisers bring a whole way of life — administration and mission stations, schools, new clothes for "naked" natives, ancestral worship branded pagan, and a new language, Tok Pisin, born from the contact itself.** — That is what this lesson teaches.

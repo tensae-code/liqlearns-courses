@@ -1,0 +1,11 @@
+# Papua New Guinea: Australia's Colonisation of Papua — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Australia's colonisation of Papua (1906–1914)”?
+a) Fearing other powers and wanting gold and sugar labour, Australia takes Papua under the Papuan Act; Hubert Murray rules three decades — 99-year land leases, the 1907 labour indenture system, hospitals for TB and leprosy.  b) Before any state, power sits with Big Men in patrilineal societies and chiefs in the matrilineal island societies where women hold wealth — and colonisation's "each for himself" teaching corrodes the old duty of care toward minorities.  c) Migrants and firms come chasing work and profit — Chinese traders, Filipino workers, Brian Bell's business empire, logging multinationals — adding skills and workforce while draining brains and pressuring services at home and in PNG.  d) A story that is not taught in this lesson
+**Answer: a) Fearing other powers and wanting gold and sugar labour, Australia takes Papua under the Papuan Act; Hubert Murray rules three decades — 99-year land leases, the 1907 labour indenture system, hospitals for TB and leprosy.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) Australia took Papua in 1906, fearing other powers and wanting gold and sugar labour; Hubert Murray then ruled three decades through 99-year land leases, the 1907 labour indenture system and hospitals for TB and leprosy.  b) Britain settles Australia in 1788 and the invasion spreads — whalers, then competition for spice, sandalwood, pearl shell and bêche-de-mer; students analyse the social, economic, political and cultural impacts and visit Queen Emma's plantation at Rabaul.  c) Before any state, power sits with Big Men in patrilineal societies and chiefs in the matrilineal island societies where women hold wealth — and colonisation's "each for himself" teaching corrodes the old duty of care toward minorities.  d) A story that is not taught in this lesson
+**Answer: a) Australia took Papua in 1906, fearing other powers and wanting gold and sugar labour; Hubert Murray then ruled three decades through 99-year land leases, the 1907 labour indenture system and hospitals for TB and leprosy.** — That is what this lesson teaches.

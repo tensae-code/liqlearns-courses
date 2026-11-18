@@ -1,0 +1,11 @@
+# Pacific Dominant and Minority Groups — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Dominant and minority groups in the Pacific”?
+a) In Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islanders are minorities in their own homelands; US bases in the Marshalls, Guam and Hawaii stall Palau's decolonisation for nearly twenty years — while most Pacific islands remain indigenous-majority.  b) Himalaya, plateaus, steppes and seas set the stage — geographic determinism, first argued from the Roman Empire's fate, is tested against Asia's civilisations and China's case.  c) One generation of giants — Hitler hunting lebensraum through Austria, Czechoslovakia and Poland, Stalin, Mussolini, Churchill, Wilson, Roosevelt, Truman and Martin Luther King — each studied in depth for how a single person bends politics, society and belief.  d) A story that is not taught in this lesson
+**Answer: a) In Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islanders are minorities in their own homelands; US bases in the Marshalls, Guam and Hawaii stall Palau's decolonisation for nearly twenty years — while most Pacific islands remain indigenous-majority.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) In Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islanders are minorities in their own homelands, and US bases stalled Palau's decolonisation for nearly twenty years — while most Pacific islands remain indigenous-majority.  b) By the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included.  c) Himalaya, plateaus, steppes and seas set the stage — geographic determinism, first argued from the Roman Empire's fate, is tested against Asia's civilisations and China's case.  d) A story that is not taught in this lesson
+**Answer: a) In Australia, Guam, Hawaii, New Caledonia and New Zealand the indigenous islanders are minorities in their own homelands, and US bases stalled Palau's decolonisation for nearly twenty years — while most Pacific islands remain indigenous-majority.** — That is what this lesson teaches.

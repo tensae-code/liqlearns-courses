@@ -1,0 +1,11 @@
+# Foreign Influence on Asia and Commonwealth Governance — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Foreign influence: creation, maintenance, change in systems of power”?
+a) By the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included.  b) Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth.  c) Out of Bretton Woods comes the post-war trading order — GATT in 1947, sibling to the IMF and World Bank, replaced by the WTO in 1995 as the 164-member referee of world trade.  d) A story that is not taught in this lesson
+**Answer: a) By the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) By the 1990s multinational corporations had become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, Papua New Guinea included.  b) Three European explosions — reborn learning, ocean discovery, factory industry — arm Europe to go out and take the world; groups map and timeline each one.  c) Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth.  d) A story that is not taught in this lesson
+**Answer: a) By the 1990s multinational corporations had become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, Papua New Guinea included.** — That is what this lesson teaches.

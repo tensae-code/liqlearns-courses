@@ -1,0 +1,11 @@
+# Papua New Guinea: Impacts of Early Outsiders on Local People — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Impacts of Missionaries on Local People / Impacts of Miners and Traders”?
+a) The arrivals put PNG on the world record but changed local lives for good and ill — the class appraises what explorers, missionaries, miners and traders each did to the people already there.  b) Two world wars started far away arrive in PNG — the colonisers fight each other in WWI, and in WWII whole provinces feel the fighting; children research and document the impacts on communities, individuals and groups.  c) Three systems compared — the German Company state that learns locals hold real power and faces Tolai resentment over lost land and sacred places, Britain's law-and-patrol administration, and Australia's single-territory rule.  d) A story that is not taught in this lesson
+**Answer: a) The arrivals put PNG on the world record but changed local lives for good and ill — the class appraises what explorers, missionaries, miners and traders each did to the people already there.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Cultural influence”?
+a) Cultures change by contact and diffusion; western schooling, phones and Christianity spread through PNG until people rarely call on ancestors for help — old skills are lost as new ones are learnt, faster in some places than others.  b) Colonial rulers set out to transform peoples they called backward — western schooling erodes traditional knowledge even as laws like corpse-burial protect health; English becomes the language of government, and today's governments still react to change with laws such as the 2016 Cybercrime Code.  c) Two world wars started far away arrive in PNG — the colonisers fight each other in WWI, and in WWII whole provinces feel the fighting; children research and document the impacts on communities, individuals and groups.  d) A story that is not taught in this lesson
+**Answer: a) Cultures change by contact and diffusion; western schooling, phones and Christianity spread through PNG until people rarely call on ancestors for help — old skills are lost as new ones are learnt, faster in some places than others.** — That is what this lesson teaches.

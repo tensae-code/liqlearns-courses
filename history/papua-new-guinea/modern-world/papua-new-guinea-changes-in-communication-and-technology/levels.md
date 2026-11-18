@@ -1,0 +1,3 @@
+# Papua New Guinea: Changes in Communication and Technology — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Messages once travelled by garamut slit-gong, conch shell and kundu drum, and work was done with dugout canoes, salt-making and stone tools — modern communication and technology changed both, with gains and losses to weigh — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

@@ -1,0 +1,11 @@
+# Papua New Guinea: The Nation's History — Significant Events — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Nation's history”?
+a) The nation's turning points — discovery, the coming of missionaries, Independence and international events, with natural disasters and economic shocks beside them — are listed, explained and drawn on one national timeline.  b) Messages once travelled by garamut slit-gong, conch shell and kundu drum, and work by dugout canoe, salt-making and stone tools; modern communication and technology arrive and the class weighs what was gained and what was lost.  c) In Mt Hagen, wrongs and status were settled by Moka — reciprocal gifts of pigs, always bigger than what was received, building a Big Man's prestige; children compare that system with other traditional compensation across PNG and judge what it did well and where it fell short.  d) A story that is not taught in this lesson
+**Answer: a) The nation's turning points — discovery, the coming of missionaries, Independence and international events, with natural disasters and economic shocks beside them — are listed, explained and drawn on one national timeline.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) A nation's history can be told as its turning points — discovery, the coming of missionaries, Independence and great shocks beside them — listed, explained and drawn on one national timeline.  b) Three different endings to colonial rule are weighed side by side — PNG governs itself (Somare, Tei Abal, Julius Chan, Peter Lus, Josephine Abaijah in the pre-Independence government), then full Independence, and Bougainville's separate road to autonomous government.  c) Messages once travelled by garamut slit-gong, conch shell and kundu drum, and work by dugout canoe, salt-making and stone tools; modern communication and technology arrive and the class weighs what was gained and what was lost.  d) A story that is not taught in this lesson
+**Answer: a) A nation's history can be told as its turning points — discovery, the coming of missionaries, Independence and great shocks beside them — listed, explained and drawn on one national timeline.** — That is what this lesson teaches.

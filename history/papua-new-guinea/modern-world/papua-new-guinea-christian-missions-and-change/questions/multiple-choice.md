@@ -1,0 +1,11 @@
+# Papua New Guinea: Christian Missions and Change — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Religions and change in PNG”?
+a) Missions arriving from the mid-1800s settle region by region until whole provinces belong to the first church that came; commentators say the missions changed marriage, dress, schooling and belief more deeply than the government ever did.  b) The sea that carried the first migrants can also erase a coastline in minutes — causes and effects of tidal waves and tsunamis, with PNG's disaster history (the 1998 tsunami in the guide's sources) as the warning.  c) Power also sits outside parliaments — Bainimarama returning Fiji to the Pacific Islands Forum after ten years, and Tonga's monarchy, the Pacific's last, with chiefs still steering national development inside modern states.  d) A story that is not taught in this lesson
+**Answer: a) Missions arriving from the mid-1800s settle region by region until whole provinces belong to the first church that came; commentators say the missions changed marriage, dress, schooling and belief more deeply than the government ever did.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Religion and change in the Pacific”?
+a) Region-wide, the missions' handwriting is everywhere — a church in every settlement, church schools and health services, and Christian practice woven into marriage, childrearing, dress, art, government and farming.  b) Since the 1960s Asia grows richer faster than any region — East Asian extreme poverty falls from 56% to 12% — yet subnational conflicts multiply against the theory that prosperity brings peace; China's turn from export industrialisation remakes its economy and its environment, and millions migrate for work.  c) The sea that carried the first migrants can also erase a coastline in minutes — causes and effects of tidal waves and tsunamis, with PNG's disaster history (the 1998 tsunami in the guide's sources) as the warning.  d) A story that is not taught in this lesson
+**Answer: a) Region-wide, the missions' handwriting is everywhere — a church in every settlement, church schools and health services, and Christian practice woven into marriage, childrearing, dress, art, government and farming.** — That is what this lesson teaches.

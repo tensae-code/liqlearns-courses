@@ -1,0 +1,12 @@
+# Hands-on — Fact or Opinion
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+On a blank page, draw a simple map of where this story happens — Fact or Opinion — and mark the place where the story turns. Write one line under the map saying what changed there.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: A historical account must be tested, not just believed — every account is seen through someone's eyes, so validity, reliability and hidden bias decide what can be accepted as true. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson happening in real life — at home, at school, in the street, in your town. Each time you see it (or see its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

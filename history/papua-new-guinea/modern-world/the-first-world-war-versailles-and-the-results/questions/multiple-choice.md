@@ -1,0 +1,11 @@
+# The First World War: Versailles and the Results — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Regional political events”?
+a) The war's aftermath remakes the map — four empires collapse, boundaries are redrawn, new ideologies take hold, and at Versailles on 28 June 1919 Germany is made to accept blame, pay reparations and shrink its military.  b) The closing decades of the 20th century flip Asia's regimes — crowds topple Marcos in 1986, Korea and Taiwan negotiate out of military rule in 1987, the UN intervenes in Cambodia in 1993, Suharto falls in 1998, East Timor is rehabilitated in 2001.  c) China the rising dominant culture — among the earliest civilisations, a co-inventor of writing beside Egypt and Greece, its Great Wall maintained as a reminder, now a one-party superpower of over a billion people.  d) A story that is not taught in this lesson
+**Answer: a) The war's aftermath remakes the map — four empires collapse, boundaries are redrawn, new ideologies take hold, and at Versailles on 28 June 1919 Germany is made to accept blame, pay reparations and shrink its military.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) The First World War's aftermath remade the map — four empires collapsed, boundaries were redrawn, new ideologies took hold, and at Versailles on 28 June 1919 Germany was made to accept blame, pay reparations and shrink its military.  b) Migration touches every state in a globalising world — people cross borders for work and safety, origin and destination countries both transformed, and working overseas becomes a career strategy weighed cost against benefit.  c) The closing decades of the 20th century flip Asia's regimes — crowds topple Marcos in 1986, Korea and Taiwan negotiate out of military rule in 1987, the UN intervenes in Cambodia in 1993, Suharto falls in 1998, East Timor is rehabilitated in 2001.  d) A story that is not taught in this lesson
+**Answer: a) The First World War's aftermath remade the map — four empires collapsed, boundaries were redrawn, new ideologies took hold, and at Versailles on 28 June 1919 Germany was made to accept blame, pay reparations and shrink its military.** — That is what this lesson teaches.

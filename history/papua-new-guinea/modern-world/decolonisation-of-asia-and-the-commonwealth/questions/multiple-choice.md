@@ -1,0 +1,11 @@
+# Decolonisation of Asia and the Commonwealth — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Foreign influence on governance in Asia and Commonwealth countries”?
+a) 1945–1960 the empires let go, each colony its own way — peaceful and orderly in some, revolution in Indonesia and India, long civil war in French Indo-China — while the new UN and the Cold War pull the newborn states in opposite directions.  b) Japan takes itself apart as the example — kimono statues in parks, the language taught in every school, self-discipline, family bonds and group duty preserved deliberately as national culture.  c) Armies as history-makers — students investigate when soldiers, not voters, changed Asian states, and present the evidence as portfolios.  d) A story that is not taught in this lesson
+**Answer: a) 1945–1960 the empires let go, each colony its own way — peaceful and orderly in some, revolution in Indonesia and India, long civil war in French Indo-China — while the new UN and the Cold War pull the newborn states in opposite directions.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Decolonisation and Independence”?
+a) WWII breaks the empires; students map Africa, Asia and the Pacific with independence dates, interrogate USA and UN involvement, and build five case studies — colonisation, the strategy that won freedom, the key people, and progress since.  b) 2 July 1966, Mururoa atoll — France, having lost Algeria, moves its bomb tests to its remote Pacific territory; the lagoon boils, coconut palms bend, and a radioactive cloud rises over Fangataufa and Mururoa.  c) Japan takes itself apart as the example — kimono statues in parks, the language taught in every school, self-discipline, family bonds and group duty preserved deliberately as national culture.  d) A story that is not taught in this lesson
+**Answer: a) WWII breaks the empires; students map Africa, Asia and the Pacific with independence dates, interrogate USA and UN involvement, and build five case studies — colonisation, the strategy that won freedom, the key people, and progress since.** — That is what this lesson teaches.

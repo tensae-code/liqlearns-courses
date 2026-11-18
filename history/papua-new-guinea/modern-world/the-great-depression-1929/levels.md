@@ -1,0 +1,3 @@
+# The Great Depression, 1929 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — You lose your job on Black Thursday and keep a journal — the Depression spread worldwide, and from the wreckage the dictators rose, their ideas profiled and their propaganda dissected — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

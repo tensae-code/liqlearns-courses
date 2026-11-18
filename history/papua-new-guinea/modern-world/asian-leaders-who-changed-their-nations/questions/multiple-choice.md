@@ -1,0 +1,11 @@
+# Asian Leaders Who Changed Their Nations — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Influences of individuals and groups on governance in Asia and the Commonwealth”?
+a) Aung San Suu Kyi holds her convictions through years of house arrest; Gandhi, the "political giant" who was really a social activist, breaks an empire with nonviolent disobedience — beside Mao Zedong, Hirohito, Chiang Kai-shek and Indira Gandhi.  b) One island, two fates — West Papuans, Melanesians with the same ancestors and cultures as PNG, have been part of Indonesia since Dutch colonisation and still struggle for the independence their eastern half won.  c) Wealth gaps light wars — from colonial powers seizing assets and trade routes to today's Afghanistan, Syria, the Kurds, the US–China trade war and seven nations disputing the South China Sea.  d) A story that is not taught in this lesson
+**Answer: a) Aung San Suu Kyi holds her convictions through years of house arrest; Gandhi, the "political giant" who was really a social activist, breaks an empire with nonviolent disobedience — beside Mao Zedong, Hirohito, Chiang Kai-shek and Indira Gandhi.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Individuals and groups as agents of change”?
+a) The long line of Asia's changemakers — Genghis Khan and Kublai Khan, Emperor Meiji, the Tokugawa Shogunate, the Qin, the Kuomintang, and the Chinese Communist Party ruling since Mao and remaking China into the world's second economy.  b) Arrows on a map show goods flowing between peoples long before Europeans — students name the trade items and explain what the trade meant to everyone it touched.  c) One island, two fates — West Papuans, Melanesians with the same ancestors and cultures as PNG, have been part of Indonesia since Dutch colonisation and still struggle for the independence their eastern half won.  d) A story that is not taught in this lesson
+**Answer: a) The long line of Asia's changemakers — Genghis Khan and Kublai Khan, Emperor Meiji, the Tokugawa Shogunate, the Qin, the Kuomintang, and the Chinese Communist Party ruling since Mao and remaking China into the world's second economy.** — That is what this lesson teaches.

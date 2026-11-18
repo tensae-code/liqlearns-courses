@@ -1,0 +1,11 @@
+# Great Leaders Who Shaped the World Wars Era — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Influence of great leaders (just before WWI – WWII and aftermath)”?
+a) One generation of giants — Hitler hunting lebensraum through Austria, Czechoslovakia and Poland, Stalin, Mussolini, Churchill, Wilson, Roosevelt, Truman and Martin Luther King — each studied in depth for how a single person bends politics, society and belief.  b) By the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included.  c) Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth.  d) A story that is not taught in this lesson
+**Answer: a) One generation of giants — Hitler hunting lebensraum through Austria, Czechoslovakia and Poland, Stalin, Mussolini, Churchill, Wilson, Roosevelt, Truman and Martin Luther King — each studied in depth for how a single person bends politics, society and belief.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Folio”?
+a) Ten politically significant lives from WWII to the present, at least one Papua New Guinean, profiled and judged — early life, beliefs, rise, achievements good and bad, and the legacy each left.  b) Out of Bretton Woods comes the post-war trading order — GATT in 1947, sibling to the IMF and World Bank, replaced by the WTO in 1995 as the 164-member referee of world trade.  c) By the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included.  d) A story that is not taught in this lesson
+**Answer: a) Ten politically significant lives from WWII to the present, at least one Papua New Guinean, profiled and judged — early life, beliefs, rise, achievements good and bad, and the legacy each left.** — That is what this lesson teaches.

@@ -1,0 +1,3 @@
+# Asia's Transitions to Democracy — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The closing decades of the 20th century flipped Asia's regimes — crowds toppled Marcos in 1986, Korea and Taiwan negotiated out of military rule in 1987, the UN intervened in Cambodia in 1993, Suharto fell in 1998 and East Timor was rehabilitated in 2001 — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

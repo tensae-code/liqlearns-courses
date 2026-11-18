@@ -1,0 +1,11 @@
+# Asia's Transitions to Democracy — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “The election process in Commonwealth countries and Asia”?
+a) The closing decades of the 20th century flip Asia's regimes — crowds topple Marcos in 1986, Korea and Taiwan negotiate out of military rule in 1987, the UN intervenes in Cambodia in 1993, Suharto falls in 1998, East Timor is rehabilitated in 2001.  b) China the rising dominant culture — among the earliest civilisations, a co-inventor of writing beside Egypt and Greece, its Great Wall maintained as a reminder, now a one-party superpower of over a billion people.  c) Migration touches every state in a globalising world — people cross borders for work and safety, origin and destination countries both transformed, and working overseas becomes a career strategy weighed cost against benefit.  d) A story that is not taught in this lesson
+**Answer: a) The closing decades of the 20th century flip Asia's regimes — crowds topple Marcos in 1986, Korea and Taiwan negotiate out of military rule in 1987, the UN intervenes in Cambodia in 1993, Suharto falls in 1998, East Timor is rehabilitated in 2001.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) The closing decades of the 20th century flipped Asia's regimes — crowds toppled Marcos in 1986, Korea and Taiwan negotiated out of military rule in 1987, the UN intervened in Cambodia in 1993, Suharto fell in 1998 and East Timor was rehabilitated in 2001.  b) Before the story, the tools — history, oral history, primary and secondary source, palaeontology, archaeology, anthropology and linguistics defined as the trades that recover a past nobody wrote down.  c) China the rising dominant culture — among the earliest civilisations, a co-inventor of writing beside Egypt and Greece, its Great Wall maintained as a reminder, now a one-party superpower of over a billion people.  d) A story that is not taught in this lesson
+**Answer: a) The closing decades of the 20th century flipped Asia's regimes — crowds toppled Marcos in 1986, Korea and Taiwan negotiated out of military rule in 1987, the UN intervened in Cambodia in 1993, Suharto fell in 1998 and East Timor was rehabilitated in 2001.** — That is what this lesson teaches.

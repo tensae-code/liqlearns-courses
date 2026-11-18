@@ -1,0 +1,11 @@
+# Papua New Guinea: The Sandline Affair and Policy Change — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Government policies and plans in the Pacific”?
+a) 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools.  b) "a photograph cannot lie" — or can it? Every account is seen through a biased lens; students test one contested massacre story for validity and reliability before accepting or rejecting it.  c) 1945–1960 the empires let go, each colony its own way — peaceful and orderly in some, revolution in Indonesia and India, long civil war in French Indo-China — while the new UN and the Cold War pull the newborn states in opposite directions.  d) A story that is not taught in this lesson
+**Answer: a) 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools.** — That is what this lesson teaches.
+
+**2.** What is the one thing this lesson teaches?
+a) In the Sandline affair of the late 1990s, Prime Minister Sir Julius Chan hired a British mercenary company to end the Bougainville conflict — the decision backfired and Chan was forced to step down — a case of how government policy choices remake governments.  b) Japan takes itself apart as the example — kimono statues in parks, the language taught in every school, self-discipline, family bonds and group duty preserved deliberately as national culture.  c) "a photograph cannot lie" — or can it? Every account is seen through a biased lens; students test one contested massacre story for validity and reliability before accepting or rejecting it.  d) A story that is not taught in this lesson
+**Answer: a) In the Sandline affair of the late 1990s, Prime Minister Sir Julius Chan hired a British mercenary company to end the Bougainville conflict — the decision backfired and Chan was forced to step down — a case of how government policy choices remake governments.** — That is what this lesson teaches.
