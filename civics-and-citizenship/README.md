@@ -667,3 +667,29 @@ sources, as provenance.
   filings contain no other Moldova book — no teacher guide,
   no programme, no UNREAD book. See `moldova/ABOUT.md` for
   the full book list and the acceptance reckoning.
+- **North Macedonia** — [`north-macedonia/`](north-macedonia/) · 66 lessons: Levels
+  1–7 — civic identity first (my own traits, ethics, values
+  and humanity, career development), then living with others
+  in civil society (differences, viewpoints, conflicts,
+  interculturalism, social responsibility, civic
+  organisations, culture, religion and social media), the
+  citizen and the state (justice and the rule of law, the
+  legal state, elections, administration serving citizens),
+  and the citizen and Europe, then the gymnasium Ethics
+  course whole: what ethics and morality are, life as the
+  highest value, the building elements (good and evil, will,
+  character, conscience, the moral norm), ethics in the
+  religions, the modern teachings and today's priorities,
+  and ethics applied — bioethics and addiction, family and
+  universal ethics, work and business ethics, democracy,
+  peace and human rights, from North Macedonia's
+  *Граѓанско образование / Civic Education* student book
+  for Grade 9 (Ministry of Education and Science, Macedonian,
+  2022, COMPLETE) and its *ЕТИКА / Ethics* student book for
+  the 3rd year of gymnasium (Просветно дело / Prosvetno
+  Delo, Macedonian, 2004, COMPLETE by contents-and-samples
+  image read) — 66 placements, 66 lessons, all on student
+  books. The filings contain no other North Macedonia book —
+  no teacher guide, no programme, no UNREAD book. See
+  `north-macedonia/ABOUT.md` for the full book list and the
+  acceptance reckoning.
