@@ -1,0 +1,3 @@
+# Exploration: Portugal and the Sea Routes — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — in the 15th and 16th centuries European sailors push down the African coast and around the world, in search of routes and riches — the voyages that first bring European ships to Gabon's shore. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
