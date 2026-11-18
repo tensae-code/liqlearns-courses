@@ -1,0 +1,3 @@
+# Ancient Egypt: The Nile Kingdom — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — On the banks of the Nile a farming kingdom grows rich and organised — Ancient Egypt, the first great civilisation this course meets, studied by where it sat and how its people lived. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# What History Is — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — History — its name comes from the Greek word "histor", meaning investigation — is the science that studies human life through time, and it does not work alone: geography, anthropology, linguistics, chronology and archaeology help it. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
