@@ -1,0 +1,15 @@
+# Sources — The Right to a Name, Food and Education
+
+countries: Burkina Faso
+
+**Book 3 (burkina-faso-placements.md):** *Education Civique et Morale CP1 — Guide de l'enseignant* (teacher guide, French) — MENAPLN, Direction Générale de la Recherche en Éducation et de l'Innovation Pédagogique / Direction de la Production des Moyens Didactiques; authors Guigma Marcel, Ouattara/Baro Hélène, Millogo/Sanon Micheline, Kam Pierre; year: reform-curriculum edition (post-2013 reform; the CP fiches companion is édition 2020); no ISBN printed. Title as printed: "Education Civique et Morale CP1 — Guide de l'enseignant". Grade: grade-01 (student/teacher: TEACHER). PDF pages: 114 (cover page verified against the record title). Subject as filed: education-civique-et-morale — track: standalone. **Verdict: COMPLETE (TEACHER)** — read from the recorded source URL: the tree route returned HTTP 404 (PHANTOM PUSH, library debt — the grade-01 teacher directory listing shows only the fiches file). STAGED under the push-don't-delete rule at ~/workspace/phase3-staging/grade-01/gov/burkina-faso/education-civique-et-morale/teacher/guide-ecm-cp1.pdf (10,247,268 bytes, exactly matching the staging books.json record, which already existed). Contents map: Préface/Avant-propos (2013 curriculum reform, loi d'orientation 2007, continuum éducatif) pp. 3–26; then 37 lessons by theme, printed pp. 27–113: road safety, school organisation, hygiene of the milieu and the body, virtues, environment protection, citizenship, rights and duties of the child, equality of girls and boys. Tally: 37 placements. Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/burkina-faso-placements.md` (Book 3 in that filing).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Thème: les droits et devoirs de l'enfant — Titre: le droit à un nom et un prénom, à l'alimentation et à l'éducation (TEACHER) | Burkina Faso CP1 ECM Guide, printed p. 89 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Burkina Faso), named here, counted nowhere.**
+
+All placements in this course are marked TEACHER in the placements files: the books' own teaching content — fiches and guide lesson plans for pupil books that are not in hand. This lesson is written in our own words from the filings' teaching summaries of those parts of the books. No book text is transcribed. No provenance talk appears in the lesson prose.
+
+Searchable tags: right, to, name, right-to-a-name-food-and-education, civics and citizenship burkina faso, Thème: les droits et devoirs de l'enfant — Titre: le droit à un nom et un prénom, à l'alimentation et à l'éducation (TEACHER)

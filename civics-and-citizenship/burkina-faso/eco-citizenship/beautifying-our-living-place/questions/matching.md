@@ -1,0 +1,13 @@
+# Beautifying Our Living Place — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Beautifying Our Living Place — a)
+**2.** Eco-Citizenship (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Caring for plants as the embellishment of our living place.
+b) One of the titles of Burkina Faso's own civics course, built from Burkina Faso's own government textbooks.
+
+**Answer key:** 1. a 2. b

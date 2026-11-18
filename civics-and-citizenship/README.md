@@ -953,3 +953,26 @@ sources, as provenance.
   11 and 12 are named in both filings as a library gap,
   not stocked). See `myanmar/ABOUT.md` for the full book
   list and the acceptance reckoning.
+- **Burkina Faso** — [`burkina-faso/`](burkina-faso/) · 83 lessons: Levels
+  1–5 — good habits and hygiene (the body and the shared
+  place), respect and virtues widened by the CE1 course
+  to everyday citizenship and children's rights, school
+  life and the child's first civic institutions (class
+  leaders, the cooperative, the flag), rights and duties
+  of the child (the birth certificate, equality of girls
+  and boys, the fight against excision), and
+  eco-citizenship, road safety and the CM2 citizen's
+  wider world (Burkina Faso itself, patriotism, civic
+  rights, privacy, African organisations, man and
+  society), from Burkina Faso's *Éducation Civique et
+  Morale* teacher fiches and guide for CP1, CP2, CE1 and
+  CM2 (MENAPLN, French, all COMPLETE as filed — 149
+  placements, 83 lessons, all on TEACHER footing:
+  teacher-guide/fiches evidence only, acceptance 0,
+  labelled, because no pupil books are in the census for
+  this country; the CP1 guide is filed PHANTOM PUSH and
+  STAGED in phase3-staging as filed, and the CE2 and CM1
+  fiche sets are fetched with filings pending and the
+  second filing's 2 reform-news leads record-only, none
+  stocked). See `burkina-faso/ABOUT.md` for the full
+  book list and the acceptance reckoning.
