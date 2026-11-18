@@ -1,0 +1,5 @@
+# What Culture Is — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): The connotation and functions of culture · Correctly understanding traditional Chinese culture · Carrying forward fine traditional Chinese culture and the national spirit centred. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The connotation and functions of culture; correctly understanding traditional Chinese culture — its strengths and its historical limits; carrying forward fine traditional Chinese culture and the national spirit centred on patriotism. — shown in the learner's own words and one real example, part by part.

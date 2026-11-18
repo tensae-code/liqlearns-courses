@@ -1,0 +1,5 @@
+# The Guiding Thought of the New Era — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era · Project work comparing China's road with other roads and arguing that direction. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, its core content and status as guiding thought; project work comparing China's road with other roads and arguing that direction decides the road and the road decides destiny. — shown in the learner's own words and one real example, part by part.

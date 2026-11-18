@@ -1,0 +1,9 @@
+# Developing Socialist Culture — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** The path of developing socialist culture with Chinese characteristics, building a culturally strong country and cultural confidence; project on developing socialist culture under Marxist guidance.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** The path of developing socialist culture with Chinese characteristics, building a culturally strong country and cultural confidence; project on developing socialist culture under Marxist guidance.

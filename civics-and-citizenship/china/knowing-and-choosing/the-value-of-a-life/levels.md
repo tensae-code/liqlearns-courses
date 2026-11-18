@@ -1,0 +1,5 @@
+# The Value of a Life — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Value and values · Value judgement and value choice · Creating and realising the value of a life through work and contribution · Project on upholding historical materialism and opposing historical nihilism. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Value and values — what values are and how they guide conduct; value judgement and value choice — standing with the people's interests; creating and realising the value of a life through work and contribution; project on upholding historical materialism and opposing historical nihilism. — shown in the learner's own words and one real example, part by part.

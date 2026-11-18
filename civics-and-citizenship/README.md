@@ -1011,3 +1011,41 @@ sources, as provenance.
   filed; no teacher guides, programmes or UNREAD books
   in either filing). See `pakistan/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **China** — [`china/`](china/) · 67 lessons: Levels 1–6 —
+  the road to socialism (how socialism became a science,
+  socialism in China, socialism with Chinese
+  characteristics, the new era, the Chinese Dream and the
+  guiding thought of the new era), the economic order and
+  the people's livelihood (ownership of the means of
+  production, the socialist market economy, how China
+  develops, income distribution and social security), the
+  political core (Party leadership, the people as masters
+  — the people's congress system and China's basic
+  political systems — and rule of law), worldview, values
+  and culture (what philosophy is, the material world,
+  dialectics, where knowledge comes from, how society
+  works, the value of a life, and cultural inheritance and
+  confidence), the electives (the world of states, a
+  multipolar world, China's diplomacy, economic
+  globalisation and the international organisations; law
+  in life — civil rights and duties, property, contracts,
+  tort, family and marriage, work and enterprise, and
+  resolving disputes; and logic and thinking — scientific
+  thinking, concepts, judgements, deduction, dialectical
+  and creative thinking), and the capstone (the thought of
+  the new era, the goal of rejuvenation, the Party as
+  leading force, the people as the standpoint, the
+  Five-Sphere layout, the Four-Pronged strategy, security
+  and diplomacy), from China's Ideological and Political
+  Education (思想政治) student books for senior high
+  (filed grade-12) — the four Compulsory books, the three
+  Elective Compulsory books and the Xi Jinping Thought
+  Student Reader, Senior High (People's Education Press,
+  compiled by the Ministry of Education, Chinese; 158
+  placements, 67 lessons, all on student books, all eight
+  books COMPLETE as filed; Book 8 filed UNHELD, read from
+  its recorded source and staged under the
+  push-don't-delete rule, as filed; no teacher guides,
+  programmes or UNREAD books in the filing). See
+  `china/ABOUT.md` for the full book list and the
+  acceptance reckoning.

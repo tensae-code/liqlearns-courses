@@ -1,0 +1,5 @@
+# Law as the Way of Governance — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): The course of China's rule-of-law construction from the first constitutions · The overall goal and principles of comprehensively advancing law-based governance · Project on the organic unity of Party leadership. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The course of China's rule-of-law construction from the first constitutions to the present; the overall goal and principles of comprehensively advancing law-based governance; project on the organic unity of Party leadership, the people as masters and law-based governance. — shown in the learner's own words and one real example, part by part.

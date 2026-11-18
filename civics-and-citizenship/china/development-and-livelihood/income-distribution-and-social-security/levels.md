@@ -1,0 +1,5 @@
+# Income Distribution and Social Security — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): China's personal income distribution system and the principle of distribution according · China's social security system · Project on practising social responsibility to promote social progress. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: China's personal income distribution system and the principle of distribution according to work as the mainstay; China's social security system — social insurance, welfare, relief and special care as citizens' safety net; project on practising social responsibility to promote social progress. — shown in the learner's own words and one real example, part by part.

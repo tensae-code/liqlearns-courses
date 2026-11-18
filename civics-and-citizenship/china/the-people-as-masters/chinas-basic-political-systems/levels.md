@@ -1,0 +1,5 @@
+# China's Basic Political Systems — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): The system of multiparty cooperation and political consultation under Party leadership · The system of regional ethnic autonomy and national unity · The system of grassroots mass self-governance. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The system of multiparty cooperation and political consultation under Party leadership, and the CPPCC; the system of regional ethnic autonomy and national unity; the system of grassroots mass self-governance — villagers' and residents' committees as direct democracy in daily life. — shown in the learner's own words and one real example, part by part.

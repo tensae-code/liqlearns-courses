@@ -1,0 +1,5 @@
+# Upholding Party Leadership — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Upholding the Party's leadership as the defining feature and greatest strength · Consolidating the Party's governing position through self-reform and comprehensive strict governance · Project on the Party always standing at the forefront of the times. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Upholding the Party's leadership as the defining feature and greatest strength of the system; consolidating the Party's governing position through self-reform and comprehensive strict governance; project on the Party always standing at the forefront of the times. — shown in the learner's own words and one real example, part by part.
