@@ -1,0 +1,3 @@
+# Latin America: Crisis, Migration and Development — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Debt crises and stalled development push millions of Latin Americans to migrate, remaking both the homes left behind and the countries reached. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

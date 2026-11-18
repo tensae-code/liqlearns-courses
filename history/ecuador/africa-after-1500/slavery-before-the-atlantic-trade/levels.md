@@ -1,0 +1,3 @@
+# Slavery Before the Atlantic Trade — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Ancient empires built their wealth on enslaved people — and the book asks pupils to judge whether abolition in the 1800s really ended slavery or only changed its forms. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

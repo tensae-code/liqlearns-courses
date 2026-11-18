@@ -1,0 +1,9 @@
+# The Renaissance: What It Was — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** What is the one thing this lesson teaches?
+**Answer:** Europe rediscovered classical learning and art and began to remake its picture of the world.
+
+**2.** Why does this lesson matter to a learner in Ecuador?
+**Answer:** Because europe rediscovered classical learning and art and began to remake its picture of the world. — and a learner who understands it can take their real place in that story.
