@@ -1,0 +1,5 @@
+# Universal Suffrage — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Universal suffrage is equality in action: every citizen's vote counts, and the book works through the types of vote. — shown in the learner's own words and one real example.

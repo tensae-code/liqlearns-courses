@@ -1,0 +1,23 @@
+# Legitimating Political Power
+
+## Do it first
+
+Before anyone explains anything, say in your own words what you already think this is about: legitimating political power. Write it or say it aloud — this lesson starts from what Ecuador's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Sub lesson 1 — How power is legitimised
+
+Bourdieu's mechanisms show how political power comes to be accepted as legitimate — believed in, not only obeyed.
+
+## Sub lesson 2 — Technology and participation
+
+Habermas's line of argument, as the book presents it, is that technology changes participation: it changes who can speak, who is heard, and how publics form.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: Political power is legitimised by mechanisms Bourdieu names, and technology changes how citizens take part, as Habermas argues. Give one real example from your own life or from the Ecuador you live in, and name the lesson's key words: legitimating, political. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's main teaching in your own words: Political power is legitimised by mechanisms Bourdieu names, and technology changes how citizens take part, as Habermas argues.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.

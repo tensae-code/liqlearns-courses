@@ -478,3 +478,21 @@ sources, as provenance.
   placed) — 49 placements, 49 lessons. See
   `rwanda/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Ecuador** — [`ecuador/`](ecuador/) · 50 lessons: Levels
+  1–3 — citizenship and human rights through history,
+  equality as a natural and legal condition, the three
+  modern democracies and deliberation, consensus and
+  dissent, and Ecuador's own democracy (20 constitutions,
+  the constituent assemblies, the intercultural State of
+  2008), then the second year deepened in its student book
+  beside its teacher guide's living-together arc (norms,
+  power, authority, democracy as life and government), and
+  last rights and guarantees, participation and the Buen
+  Vivir regime, from Ecuador's *Educación para la
+  Ciudadanía* books (Ministerio de Educación, Spanish —
+  the 1ro and 2do BGU student books, Primera edición 2024,
+  both COMPLETE; the Segundo and Tercer curso teacher
+  guides COMPLETE as TEACHER evidence, acceptance 0 for
+  their 12 lessons) — 50 placements, 50 lessons. See
+  `ecuador/ABOUT.md` for the full book list and the
+  acceptance reckoning.
