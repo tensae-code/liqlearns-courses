@@ -1,0 +1,9 @@
+# Social Responsibility in Action — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** Social responsibility in action — guarding flora and fauna, tree-planting campaigns, corporate and individual contributions each according to ability.
+**Answer: True**
+
+**2.** This lesson teaches that Social Responsibility in Action — and that it has no connection to the rest of Malaysia's story.
+**Answer: False** — The lesson places it inside Malaysia's own course, in its own order.

@@ -902,3 +902,26 @@ sources, as provenance.
   no book is PARTIAL or UNREAD as filed). See
   `cuba/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Malaysia** — [`malaysia/`](malaysia/) · 143 lessons: Levels
+  1–6 (Level 7 reserved) — the neighbourhood as the child's
+  first society (knowing neighbours' faiths, care, help,
+  duty, thanks, courtesy, respect and love, then fairness,
+  honesty, consensus, moderation and tolerance), what moral
+  is and the widening circles of self, family, school and
+  community, moral sources with the Rukun Negara, the caring
+  society, public services, cyber and road law, human
+  rights, moral choice as one's own, free speech and
+  humanitarian law, and finally integrity, citizens' rights
+  and duties from the Federal Constitution, unity, ethical
+  spending, diversity as national wealth and sovereignty,
+  from Malaysia's *Pendidikan Moral* student books for
+  Tahun 4 and Tingkatan 1–4 (Dewan Bahasa dan Pustaka,
+  Kuala Lumpur, for Kementerian Pendidikan Malaysia, Malay,
+  all COMPLETE as filed — 143 placements, 143 lessons, all
+  on student books; no teacher guides or programmes are in
+  the census for this group; the Tingkatan 5 student book
+  is UNREAD-pending under the disk hold as filed, its
+  partial download left untouched in scratch, and Level 7
+  is reserved for it, not stocked). See
+  `malaysia/ABOUT.md` for the full book list and the
+  acceptance reckoning.

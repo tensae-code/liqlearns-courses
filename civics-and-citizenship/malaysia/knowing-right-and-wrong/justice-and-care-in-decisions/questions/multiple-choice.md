@@ -1,0 +1,11 @@
+# Justice and Care in Decisions — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement best gives this lesson's teaching?
+a) The two principles that must lead moral decisions — justice (keadilan) and care/concern (keprihatinan) — and what each demands.  b) it has nothing to do with how Malaysia governs itself  c) it was invented by foreign governments  d) it matters only in examinations
+**Answer: a) The two principles that must lead moral decisions — justice (keadilan) and care/concern (keprihatinan) — and what each demands.** — That is what this lesson teaches.
+
+**2.** What is this lesson's one thing?
+a) The two principles that must lead moral decisions — justice (keadilan) and care/concern (keprihatinan) — and what each demands.  b) citizens should never ask where a rule comes from  c) only officials need to know this  d) it applies in other countries but not in Malaysia
+**Answer: a) The two principles that must lead moral decisions — justice (keadilan) and care/concern (keprihatinan) — and what each demands.** — That is what this lesson teaches.
