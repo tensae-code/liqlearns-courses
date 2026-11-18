@@ -1,0 +1,3 @@
+# Ancient Civilisations: Rome — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Desert Palmyra grows rich as a caravan crossroads, Queen Zenobia extends its power over parts of Egypt and Asia Minor, and Rome crushes and occupies it in 273 CE, ending the state. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

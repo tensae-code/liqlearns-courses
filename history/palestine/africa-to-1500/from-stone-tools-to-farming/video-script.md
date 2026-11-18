@@ -1,0 +1,19 @@
+# Video script — From Stone Tools to Farming
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then. History is told as a story here — animated-map style: who, where, what turned, and what came of it, in plain words.
+
+---
+
+This lesson tells one story.
+
+The first humans wander unsettled, hunting and gathering fruit, then farming settles them, barter gives way to coined money, and the Canaanites are already using coinage in Palestine five thousand years ago. Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+Need mothers invention as flint is knapped sharp for spears, axes, sickles and grain-pounders, so the age is named the Stone Age. Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.
+Lightning and volcanoes first show humans fire, then striking flint sparks it on demand, and the cave gains warmth, light, cooked food and a weapon against beasts. Hold the place in your mind as the story moves. The turn in the middle is the heart of it: before the turn things stand one way, after it they stand another, and the people in the story must live in the new way.
+People move from rock caves and skin tents to built houses, and from plant roots and hunted skins to cotton, wool and silk clothing. Tell it slowly: who is there, where they stand, what they want, and what stops them. The moment those things collide is the turn — and everything after it follows from that turn.
+In Wadi Natuf's caves and at Tell es-Sultan (ancient Jericho, called the world's oldest and first walled city) hunter-gatherers settle, farm and build round stone houses, taking the first step to village life. Watch how one step makes the next one possible. No step here is small: each person, each place and each choice pushes the story toward the turn that gives this part its meaning.
+Suad spots strange plants sprouting where seeds fell, retelling how humans noticed dropped seeds grow, planted them on purpose in the Fertile Crescent, settled beside their fields and built houses. Follow the people in it, the place they stand in, and the moment the story turns. What changes at that turn is what the people who come after must live with — that is why this part is told, and told in this order.
+Settled humans tame animals for food, skins, wool and carrying loads, and the animals become part of the household that keeps people settled. Picture the place first, then the people in it, then the turn. Nothing in this part is decoration: each step leads to the next, and the end of the part is different from its beginning because of what happens in between.
+Farming, safety and cooperation gather people into the first villages of fixed houses and grain stores, and ancient Jericho (Tell es-Sultan) is named the world's first farming village, with Jarmo in Iraq as its peer. Hold the place in your mind as the story moves. The turn in the middle is the heart of it: before the turn things stand one way, after it they stand another, and the people in the story must live in the new way.
+Some villages swell with people who leave farming for crafts, trade and government work, and the village turns into a city — Jerusalem, Jericho, Hebron, Gaza and Haifa among Palestine's ancient-grown cities. Tell it slowly: who is there, where they stand, what they want, and what stops them. The moment those things collide is the turn — and everything after it follows from that turn.
+
+Now you. Say the story back, in your own words. Then go and do the lesson's Do It Yourself — today, at home, at school, in Palestine.

@@ -1,0 +1,11 @@
+# The Industrial Revolution: What Changed — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Unit 4 Lesson 3: the Industrial Revolution”?
+a) From the later 1700s Britain replaces hand work with water- and steam-driven machines, helped by post-1688 political stability, capital, coal, cheap labour and empire; the revolution spreads to France, Germany, Italy and North America.  b) Every community's traditional dress carries its identity, and Palestine's embroidered thobe for women and hatta, iqal and qumbaz for men are presented as living heritage to protect.  c) In the Jahiliyya Arabs worship stones, trees, sun and moon beside the Kaaba's idols; the family and then the tribe rule life, women range from Queen Zenobia to daughters buried alive (wa'd), and Bedouin tent-dwellers live hard against settled townsfolk of Yemen, al-Sham, Iraq and the Hijaz.  d) A story that is not taught in this lesson
+**Answer: a) From the later 1700s Britain replaces hand work with water- and steam-driven machines, helped by post-1688 political stability, capital, coal, cheap labour and empire; the revolution spreads to France, Germany, Italy and North America.** — That is what this lesson teaches.
+
+**2.** What is the heart of the story in “Unit 4 Lesson 3: the Industrial Revolution”?
+a) From the later 1700s Britain replaces hand work with water- and steam-driven machines, helped by post-1688 political stability, capital, coal, cheap labour and empire; the revolution spreads to France, Germany, Italy and North America.  b) Arab tribes migrate from the Peninsula and settle al-Sham as Canaanites, excelling in farming, building and trade.  c) Slave-soldiers bought young by the Ayyubid sultans rise to rule Egypt and al-Sham, restore the Abbasid caliphate in Cairo after Baghdad's fall, and Sultan al-Ashraf Khalil ibn Qalawun expels the last Franks from Acre in 690 AH / 1291 CE, freeing Palestine for good.  d) A story that is not taught in this lesson
+**Answer: a) From the later 1700s Britain replaces hand work with water- and steam-driven machines, helped by post-1688 political stability, capital, coal, cheap labour and empire; the revolution spreads to France, Germany, Italy and North America.** — That is what this lesson teaches.

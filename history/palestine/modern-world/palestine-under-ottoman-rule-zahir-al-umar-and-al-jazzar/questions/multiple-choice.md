@@ -1,0 +1,11 @@
+# Palestine under Ottoman Rule: Zahir al-Umar and al-Jazzar — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Unit 2 Lesson 4: Palestine in the Ottoman era — its rulers”?
+a) Palestine is governed as sanjaks (Jerusalem's first among them), but local power keeps breaking away — Fakhr al-Din al-Ma'ni ruling Lebanon and northern Palestine from 1603, Zahir al-Umar al-Zaydani (1689–1775) building his Galilee state, and Ahmad Pasha al-Jazzar installed at Acre after crushing Zahir in 1775.  b) History is defined first as time itself, then as the study of the past that explains the present, connects pupils to their ancestors and teaches nations to guard their heritage.  c) Arab tribes migrate from the Peninsula and settle al-Sham as Canaanites, excelling in farming, building and trade.  d) A story that is not taught in this lesson
+**Answer: a) Palestine is governed as sanjaks (Jerusalem's first among them), but local power keeps breaking away — Fakhr al-Din al-Ma'ni ruling Lebanon and northern Palestine from 1603, Zahir al-Umar al-Zaydani (1689–1775) building his Galilee state, and Ahmad Pasha al-Jazzar installed at Acre after crushing Zahir in 1775.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Unit 2 Lesson 4: Ottoman building works in Palestine”?
+a) Suleiman the Magnificent rebuilds Jerusalem's wall, restores the al-Qibli mosque and its sanctuary gates and the Church of the Holy Sepulchre and monasteries, and the era leaves mosques and clock towers across Palestine.  b) The Great Wall is named among the ancient world's civilisation landmarks pupils must know, beside Petra and the Roman theatre at Sebastia in Palestine.  c) Muawiya restores Jerusalem's walls, the Umayyads rebuild Ascalon, expand Caesarea and Acre, and raise the Dome of the Rock; Sulayman ibn Abd al-Malik founds Ramla, the only city Muslims built from nothing in Palestine, and Jerusalem's wall gets its last rebuilding under the Ottoman sultan.  d) A story that is not taught in this lesson
+**Answer: a) Suleiman the Magnificent rebuilds Jerusalem's wall, restores the al-Qibli mosque and its sanctuary gates and the Church of the Holy Sepulchre and monasteries, and the era leaves mosques and clock towers across Palestine.** — That is what this lesson teaches.

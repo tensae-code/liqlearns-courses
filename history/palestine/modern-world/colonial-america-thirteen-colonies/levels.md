@@ -1,0 +1,3 @@
+# Colonial America: The Thirteen Colonies — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — North America's native peoples (called "Red Indians") hold that the Great Spirit gave the land to all and it cannot be sold; Europeans then migrate fleeing religious persecution, tyranny and poverty, settling the thirteen colonies on the east coast. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

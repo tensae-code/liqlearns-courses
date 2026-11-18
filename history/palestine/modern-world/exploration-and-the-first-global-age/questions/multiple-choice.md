@@ -1,0 +1,11 @@
+# Exploration and the First Global Age — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Unit 4 Lesson 2: the geographical discoveries”?
+a) Portugal sails east — Diaz rounds the Cape of Good Hope and da Gama reaches India guided by the Arab pilot Ahmad ibn Majid — while Spain sails west with Columbus to San Salvador and Cuba, and Magellan's voyage circles the world.  b) The first humans wander unsettled, hunting and gathering fruit, then farming settles them, barter gives way to coined money, and the Canaanites are already using coinage in Palestine five thousand years ago.  c) Phoenicians found Carthage in Tunis and it rules the coasts of Africa, Sicily, Sardinia, Corsica and southern Spain, until Rome besieges it four years, burns it for seventeen days and takes its people captive in the second century BCE (told through a quoted passage from Mustafa Murad al-Dabbagh's ancient history of the Near East).  d) A story that is not taught in this lesson
+**Answer: a) Portugal sails east — Diaz rounds the Cape of Good Hope and da Gama reaches India guided by the Arab pilot Ahmad ibn Majid — while Spain sails west with Columbus to San Salvador and Cuba, and Magellan's voyage circles the world.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Unit 4 Lesson 2: results of the discoveries”?
+a) World trade's centre shifts from Mediterranean ports to Atlantic ones; the Arab ports of Mamluk Egypt and al-Sham, and Venice with them, decline as the Cape route takes the India trade.  b) Ma'in (1200–650 BCE, capital Qarnaw) and Saba (950–115 BCE) rise in Yemen on rain, the Zamzam-like wells and incense trade; Saba's farmers dam the floods at Marib, terrace the mountains and leave Bilqis's throne as their emblem.  c) Genghis Khan unites the nomad tribes of the Mongolian plateau into an empire reaching the Danube, and the invasions come for expansion and plunder of the Islamic lands.  d) A story that is not taught in this lesson
+**Answer: a) World trade's centre shifts from Mediterranean ports to Atlantic ones; the Arab ports of Mamluk Egypt and al-Sham, and Venice with them, decline as the Cape route takes the India trade.** — That is what this lesson teaches.

@@ -1,0 +1,11 @@
+# Ancient Civilisations: Mesopotamia — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Unit 2 Lesson 5: communication between people, from drawings to cuneiform”?
+a) Early humans signal with grunts, gestures, drawings and fire-smoke, and writing arrives with the Sumerian cuneiform the lesson names, before pigeons, telegraph and telephone carry messages further.  b) After eight centuries, luxury and power-struggles split al-Andalus into 22 taifa statelets that fall one by one; Spain then breaks the Granada surrender treaty — expelling hundreds of thousands, closing mosques, burning Arabic books and setting up the Inquisition.  c) The homeland's straits, trade routes, resources and markets draw the powers from Portugal's 1500s Indian Ocean thrust onward, Ottoman weakness opening the way; the outcome is partition into small states behind artificial borders and a Zionist entity planted in Palestine to split Arab Asia from Arab Africa.  d) A story that is not taught in this lesson
+**Answer: a) Early humans signal with grunts, gestures, drawings and fire-smoke, and writing arrives with the Sumerian cuneiform the lesson names, before pigeons, telegraph and telephone carry messages further.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Unit 4 Lesson 6: rise of states — Babylonian and Assyrian civilisations”?
+a) The lesson's own test asks where the Babylonian and Assyrian civilisations rose — in Iraq, the Mesopotamian heartland of early states.  b) North America's native peoples (called "Red Indians") hold that the Great Spirit gave the land to all and it cannot be sold; Europeans then migrate fleeing religious persecution, tyranny and poverty, settling the thirteen colonies on the east coast.  c) The burning of the al-Qibli mosque in al-Aqsa on 23 August 1969 triggers a general strike across the Arab and Islamic lands and the call for an Islamic summit, out of which the Organisation of Islamic Cooperation is founded with Jerusalem's liberation written into its charter.  d) A story that is not taught in this lesson
+**Answer: a) The lesson's own test asks where the Babylonian and Assyrian civilisations rose — in Iraq, the Mesopotamian heartland of early states.** — That is what this lesson teaches.

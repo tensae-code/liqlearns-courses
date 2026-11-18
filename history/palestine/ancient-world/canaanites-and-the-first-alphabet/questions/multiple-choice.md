@@ -1,0 +1,11 @@
+# The Canaanites and the First Alphabet — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Unit 5 Lesson 3: the Canaanites invent the alphabetic script”?
+a) About 4,000 years ago the Canaanites of Palestine invent alphabetic writing, borrowing signs from their own world — the ox-head for the first letter — and the alphabet travels from them to the whole world.  b) Against a church-bound Middle Ages of superstition, free thought, humanism and art flower (Florence, da Vinci's Mona Lisa); among its causes the book counts the Crusades' contact with Islamic civilisation, Constantinople's fall in 1453 sending scholars west, and printing.  c) The Zionist movement plants its first settlement, Montefiore, south-west of Jerusalem's wall in 1856, and the settlements double as training camps and arms stores; after the 1948 Nakba the occupation holds over 78% of Palestine.  d) A story that is not taught in this lesson
+**Answer: a) About 4,000 years ago the Canaanites of Palestine invent alphabetic writing, borrowing signs from their own world — the ox-head for the first letter — and the alphabet travels from them to the whole world.** — That is what this lesson teaches.
+
+**2.** What is the heart of the story in “Unit 5 Lesson 3: the Canaanites invent the alphabetic script”?
+a) About 4,000 years ago the Canaanites of Palestine invent alphabetic writing, borrowing signs from their own world — the ox-head for the first letter — and the alphabet travels from them to the whole world.  b) The homeland's straits, trade routes, resources and markets draw the powers from Portugal's 1500s Indian Ocean thrust onward, Ottoman weakness opening the way; the outcome is partition into small states behind artificial borders and a Zionist entity planted in Palestine to split Arab Asia from Arab Africa.  c) The past is rebuilt from written sources — scripture, histories like Ibn al-Athir's al-Kamil, official documents, land deeds (kawashin), travel books and personal memoirs.  d) A story that is not taught in this lesson
+**Answer: a) About 4,000 years ago the Canaanites of Palestine invent alphabetic writing, borrowing signs from their own world — the ox-head for the first letter — and the alphabet travels from them to the whole world.** — That is what this lesson teaches.

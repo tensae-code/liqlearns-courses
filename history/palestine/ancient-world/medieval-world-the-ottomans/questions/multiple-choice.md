@@ -1,0 +1,11 @@
+# The Medieval World: The Ottomans — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Unit 2 Lesson 2: the Ottoman state arises”?
+a) Sulayman, grandfather of Osman, migrates from Turkmenistan to Anatolia; his son Ertugrul wins Seljuk land by fighting the Romans, and Osman inherits and founds the state on Rome's frontier.  b) After the War of Attrition and the rejected Rogers Plan (1970), Egypt crosses the Suez Canal and storms the Bar Lev line while Syria advances into the Golan toward Mount Hermon and the Hula; Arab states cut oil production and embargo the United States, the Palestine Liberation Army fights on the Egyptian front, and Resolution 338 follows.  c) Ma'in (1200–650 BCE, capital Qarnaw) and Saba (950–115 BCE) rise in Yemen on rain, the Zamzam-like wells and incense trade; Saba's farmers dam the floods at Marib, terrace the mountains and leave Bilqis's throne as their emblem.  d) A story that is not taught in this lesson
+**Answer: a) Sulayman, grandfather of Osman, migrates from Turkmenistan to Anatolia; his son Ertugrul wins Seljuk land by fighting the Romans, and Osman inherits and founds the state on Rome's frontier.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Unit 2 Lesson 2: the Ottomans take the Arab homeland”?
+a) Chaldiran (1514) breaks the Safavids, Marj Dabiq (1516) takes al-Sham from the Mamluks, Ridaniya (1517) makes Egypt an Ottoman province, and the Sharif of Mecca brings the Hijaz in the same year.  b) Pupils match the world's old civilisations to their surviving landmarks, and Egypt's pyramids stand for the Nile kingdom's state power.  c) At Ajnadayn (13 AH / 634 CE) near Ajjur — a village the occupation would destroy in 1948 — Amr ibn al-As opens Palestine; Jerusalem surrenders to Caliph Umar himself, whose Umariyya Covenant, read in full, guarantees its people safety for lives, property, churches and crosses in return for jizya.  d) A story that is not taught in this lesson
+**Answer: a) Chaldiran (1514) breaks the Safavids, Marj Dabiq (1516) takes al-Sham from the Mamluks, Ridaniya (1517) makes Egypt an Ottoman province, and the Sharif of Mecca brings the Hijaz in the same year.** — That is what this lesson teaches.

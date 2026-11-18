@@ -1,0 +1,11 @@
+# Historiography: The History of History Writing — multiple choice
+
+Pick the one right answer.
+
+**1.** What is the heart of the story in “Unit 2 Lesson 4: Muslims write history and geography”?
+a) Muslims begin by writing the Prophet's sira and campaigns, then produce al-Tabari's History of Nations and Kings, al-Ya'qubi's history, Yaqut's Mu'jam al-Buldan and al-Idrisi's world map — and Abd al-Hamid al-Katib's letter is read as a founding text of Arabic prose.  b) The village grows from stone mountain houses to cement streets, then in 1948 the occupation destroys more than 500 villages, commits massacres such as Deir Yassin, and expels their people into exile as refugees.  c) Early humans signal with grunts, gestures, drawings and fire-smoke, and writing arrives with the Sumerian cuneiform the lesson names, before pigeons, telegraph and telephone carry messages further.  d) A story that is not taught in this lesson
+**Answer: a) Muslims begin by writing the Prophet's sira and campaigns, then produce al-Tabari's History of Nations and Kings, al-Ya'qubi's history, Yaqut's Mu'jam al-Buldan and al-Idrisi's world map — and Abd al-Hamid al-Katib's letter is read as a founding text of Arabic prose.** — That is what this lesson teaches.
+
+**2.** What is the heart of the story in “Unit 2 Lesson 4: Muslims write history and geography”?
+a) Muslims begin by writing the Prophet's sira and campaigns, then produce al-Tabari's History of Nations and Kings, al-Ya'qubi's history, Yaqut's Mu'jam al-Buldan and al-Idrisi's world map — and Abd al-Hamid al-Katib's letter is read as a founding text of Arabic prose.  b) Pupils learn to read ق.م (before Christ), م (CE) and the Hijri era Muslims took from the Prophet's migration, the three clocks every later lesson runs on.  c) Desert Palmyra grows rich as a caravan crossroads, Queen Zenobia extends its power over parts of Egypt and Asia Minor, and Rome crushes and occupies it in 273 CE, ending the state.  d) A story that is not taught in this lesson
+**Answer: a) Muslims begin by writing the Prophet's sira and campaigns, then produce al-Tabari's History of Nations and Kings, al-Ya'qubi's history, Yaqut's Mu'jam al-Buldan and al-Idrisi's world map — and Abd al-Hamid al-Katib's letter is read as a founding text of Arabic prose.** — That is what this lesson teaches.

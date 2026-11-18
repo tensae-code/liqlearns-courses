@@ -1,0 +1,11 @@
+# Trade Routes That Linked the Old World — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) What is the heart of the story in “Unit 5 Lesson 2: economic relations between states in ancient times”?
+a) Quraysh caravans journey to Yemen in winter and to al-Sham in summer, India trades spices with its neighbours, and Arabs and China trade silk across the old world's routes.  b) After Europe's Industrial Revolution its factory goods flood in and undercut the Arab lands' traditional industries, one strand of the late-Ottoman decline.  c) The village grows from stone mountain houses to cement streets, then in 1948 the occupation destroys more than 500 villages, commits massacres such as Deir Yassin, and expels their people into exile as refugees.  d) A story that is not taught in this lesson
+**Answer: a) Quraysh caravans journey to Yemen in winter and to al-Sham in summer, India trades spices with its neighbours, and Arabs and China trade silk across the old world's routes.** — That is what this lesson teaches.
+
+**2.** (Sub lesson 2) What is the heart of the story in “Unit 4 Lesson 3: economic life — Arab trade routes”?
+a) Arabs herd, farm oases and make swords and pottery, and their caravans link Persia, Rome, Abyssinia and India by the eastern and western land roads and the sea road to East Africa, Quraysh running the winter journey to Yemen and the summer journey to al-Sham.  b) Colonialism is defined as seizing land by force, plundering its wealth and enslaving its people; its shared motives are markets and raw materials (Britain forcing Egypt to grow cotton) and strategic positions, and its forms run from military occupation and settlement to protectorate (France in Tunisia, 1883), mandate after the First World War, economic control (the Suez Canal) and cultural invasion.  c) Pupils learn to read ق.م (before Christ), م (CE) and the Hijri era Muslims took from the Prophet's migration, the three clocks every later lesson runs on.  d) A story that is not taught in this lesson
+**Answer: a) Arabs herd, farm oases and make swords and pottery, and their caravans link Persia, Rome, Abyssinia and India by the eastern and western land roads and the sea road to East Africa, Quraysh running the winter journey to Yemen and the summer journey to al-Sham.** — That is what this lesson teaches.
