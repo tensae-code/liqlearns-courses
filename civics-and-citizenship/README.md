@@ -812,3 +812,22 @@ sources, as provenance.
   teacher guide, no UNREAD book and no staged file). See
   `hungary/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Cambodia** — [`cambodia/`](cambodia/) · 103 lessons: Levels
+  1–3 — Cambodia's one subject, សីលធម៌-ពលរដ្ឋវិជ្ជា
+  (Morality–Civics), in its repeating three-chapter frame:
+  human value first (what a human life is worth, honesty,
+  freedom, judgement, virtue, justice), then clean living
+  and belief (the faiths as Cambodia teaches them, the
+  harms of drugs, alcohol and disease, and rights in daily
+  life), then taking part (democracy, the law codes, the
+  Royal Government, the legislature and the courts, and
+  the world citizen), from Cambodia's *Morality–Civics*
+  student books for Grades 11 and 12 (Ministry of
+  Education, Youth and Sport (MoEYS), Khmer, both PARTIAL
+  as filed — 104 placements, 103 lessons; 71 lessons on
+  student books and 32 lessons on the Grades 10–12
+  curriculum framework alone (MoEYS, 2019, TEACHER
+  evidence, acceptance 0, labelled); Grade 10 has no pupil
+  book in hand, and the framework's Grade 11/12 lesson
+  lists are named, not placed). See `cambodia/ABOUT.md`
+  for the full book list and the acceptance reckoning.

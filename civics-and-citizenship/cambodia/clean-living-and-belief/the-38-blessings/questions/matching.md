@@ -1,0 +1,13 @@
+# The 38 Blessings — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The 38 Blessings — a)
+**2.** Clean Living and Belief (the title this lesson sits in) — b)
+
+
+Meanings:
+a) The thirty-eight blessings of the Mangala teaching as a guide to a clean life.
+b) One of the titles of Cambodia's own civics course, built from Cambodia's own government textbooks.
+
+**Answer key:** 1. a 2. b
