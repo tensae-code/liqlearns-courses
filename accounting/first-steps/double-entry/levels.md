@@ -1,0 +1,3 @@
+# Double Entry — depth
+
+This lesson has sub lessons; each sub lesson is proved before the next opens (the gate pool is the sub lesson's whole question set). Pass mark: the learner can state the lesson's one thing — every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, market or street situation the learner has not seen in the lesson.

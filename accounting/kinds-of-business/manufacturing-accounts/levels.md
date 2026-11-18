@@ -1,0 +1,3 @@
+# Manufacturing Accounts — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — a maker must first find what production cost: direct materials, direct labour, direct expenses and factory overheads are gathered in a manufacturing account, and the cost of production passes to the trading account — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, market or street situation the learner has not seen in the lesson.
