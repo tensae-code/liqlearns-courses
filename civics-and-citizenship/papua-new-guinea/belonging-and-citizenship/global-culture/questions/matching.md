@@ -1,0 +1,13 @@
+# Global Culture — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Global Culture — a)
+**2.** Global Culture (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Mutual respect and interdependence at global scale.
+b) One of the titles of Papua New Guinea's own civics course, built from Papua New Guinea's own government textbooks.
+
+**Answer key:** 1. a 2. b

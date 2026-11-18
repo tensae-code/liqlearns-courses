@@ -1,0 +1,9 @@
+# Solving Global Problems — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Problem-solving applied to global warming and global socio-cultural problems.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Problem-solving applied to global warming and global socio-cultural problems.

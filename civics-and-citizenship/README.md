@@ -1110,3 +1110,25 @@ sources, as provenance.
   the Grade 7 module UNHELD in the census and STAGED under
   the push-don't-delete rule). See `nicaragua/ABOUT.md` for
   the full book list and the acceptance reckoning.
+- **Papua New Guinea** — [`papua-new-guinea/`](papua-new-guinea/) · 174 lessons: Levels
+  1–2, 4–6 (Level 3 reserved, not stocked) — the child's
+  identity, family, clan/tribe, manners and first rules first,
+  then groups and social influences, citizens across political
+  systems (democratic, communist, socialist, monarchist,
+  republic) and good governance judged by PNG's own development
+  performance, rights, accountability and transparency, and at
+  the top government systems in depth, PNG's Constitution and
+  laws, its courts, human rights across systems, and PNG in the
+  Pacific and the world (RAMSI, West Papua, the World Wars'
+  impact on PNG), from Papua New Guinea's *Citizenship &
+  Christian Values Education* (CCVE), *Character and Social
+  Development* (CSD), *Legal Studies* and *Political Science*
+  teacher guides (Department of Education, Papua New Guinea,
+  English — 178 placements, 174 lessons; teacher-guide evidence
+  only throughout, acceptance 0 — no PNG pupil book was in
+  hand; the Legal Studies guide, 2008, is kept whole and
+  labelled as the older generation; the CCVE guides for Grades
+  3–6 are RECORD-ONLY, UNREAD, so Level 3 is reserved and the
+  ladder between Levels 2 and 4 is labelled partial, as
+  filed). See `papua-new-guinea/ABOUT.md` for the full book
+  list and the acceptance reckoning.

@@ -1,0 +1,9 @@
+# Making Decisions — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Decision-making on real issues, with community-service projects.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Decision-making on real issues, with community-service projects.

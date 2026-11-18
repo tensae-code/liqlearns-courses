@@ -1,0 +1,13 @@
+# Parents and Family — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Parents and Family — a)
+**2.** Parents and Family (the title this lesson sits in) — b)
+
+
+Meanings:
+a) What parents should and should not do, seen from the child's civic identity.
+b) One of the titles of Papua New Guinea's own civics course, built from Papua New Guinea's own government textbooks.
+
+**Answer key:** 1. a 2. b

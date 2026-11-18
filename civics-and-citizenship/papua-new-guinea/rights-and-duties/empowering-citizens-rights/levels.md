@@ -1,0 +1,5 @@
+# Empowering Citizens Rights — depth
+
+This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Raising awareness of violations, emancipating and empowering citizens' rights, and the mechanisms for dealing with violations. — shown in the learner's own words and one real example.

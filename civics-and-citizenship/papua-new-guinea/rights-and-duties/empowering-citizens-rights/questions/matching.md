@@ -1,0 +1,13 @@
+# Empowering Citizens Rights — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Empowering Citizens Rights — a)
+**2.** Empowering Citizens Rights (the title this lesson sits in) — b)
+
+
+Meanings:
+a) Raising awareness of violations, emancipating and empowering citizens' rights, and the mechanisms for dealing with violations.
+b) One of the titles of Papua New Guinea's own civics course, built from Papua New Guinea's own government textbooks.
+
+**Answer key:** 1. a 2. b
