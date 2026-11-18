@@ -1,0 +1,17 @@
+# Marketing — multiple choice
+
+Pick the one right answer.
+
+**1.** What does this lesson teach about the selling-and-marketing-the-product-made? (Sub lesson 5)
+a) States plainly that the useful products and decorations made from recycled wood can be sold and marketed, making the making activity a …
+b) Sale of goods law: implied terms, when ownership passes from seller to buyer, sale by non-owners and the nemo dat rule with its exceptions …
+c) Entrepreneurial ethics connected to digital-business law.
+d) Keeping a healthy business environment: avoiding or reducing each kind of pollution (clean energy, treating/recycling effluent, proper …
+**Answer: a) States plainly that the useful products and decorations made from recycled wood can be sold and marketed, making the making activity a …** — That is what this lesson teaches in its the selling-and-marketing-the-product-made part.
+
+**2.** What does this lesson teach about the knowing-what-customers-want / where-the-product-is-sold? (Sub lesson 5)
+a) What "business" means, the business as an open system turning inputs into outputs, and business resources: people, money, materials and …
+b) The same project brief ties the feasibility study to the market: the fretwork models must be useful items in present-day demand (المرغوبة …
+c) Evaluating a start-up idea against given situations.
+d) The advantages of doing business as a career opportunity.
+**Answer: b) The same project brief ties the feasibility study to the market: the fretwork models must be useful items in present-day demand (المرغوبة …** — That is what this lesson teaches in its the knowing-what-customers-want / where-the-product-is-sold part.

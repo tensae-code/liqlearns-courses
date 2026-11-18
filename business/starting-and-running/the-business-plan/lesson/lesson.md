@@ -1,0 +1,45 @@
+# The Business Plan
+
+## Do it first
+
+Take the business you imagined in Starting a Business — or invent one now. Write five headings on a page: The business. The market. The people. The making. The money. Put one true sentence under each. You have just drafted the skeleton of a business plan. That is this lesson.
+
+## Sub lesson 1 — What a business plan is — and why it matters
+
+**Opening.** What a business plan (Rancangan Perniagaan) is.
+
+**Importance.** Why preparing a business plan matters.
+
+**Opening.** What a business plan is.
+
+**Purposes.** The purposes and importance of preparing a business plan, for the entrepreneur and for financiers, suppliers and customers.
+
+## Sub lesson 2 — Feasibility first — can this idea work?
+
+**The feasibility-study.** Sets a group task to prepare an economic feasibility study (دراسة جدوى اقتصادية) for a small production project: pupils design and produce useful fretwork models for it — the book's only feasibility-study teaching, carried as project work at the end of the fretwork lesson.
+
+## Sub lesson 3 — The parts of the plan
+
+**Format.** The format of a business plan: its sections from introduction through the organisation, production, marketing and financial plans.
+
+**Components.** The components of a business plan: executive summary, background, market analysis, organisation plan, production/operations plan, marketing plan, financial plan and appendix.
+
+**Financial-plan.** The financial plan component in detail: project cost, sources of financing, the cash-budget statement and the financial statements.
+
+## Sub lesson 4 — Worked plans — the plan made whole
+
+**Worked-example.** Preparing one complete business plan, worked through section by section including its financial plan.
+
+**Worked-models.** Preparing a complete business plan: full worked model plans for different types of business, each following the book's format.
+
+**Writing a business plan.** The full SBEC business-plan outline a village-store couple work through: statement of purpose (operating guide or financing proposal), the business, the market, competition (name the five nearest), location, management, personnel, and the financial data (sources and application of funding, capital equipment, projected position statements, income statements and cash-flow projections for three years).
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's main teaching in your own words: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.
