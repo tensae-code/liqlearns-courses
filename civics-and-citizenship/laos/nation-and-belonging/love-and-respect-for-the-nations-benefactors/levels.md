@@ -1,0 +1,5 @@
+# Love and Respect for the Nation's Benefactors — depth
+
+This lesson has sub lessons (listed in lesson-plan.md): Love and respect for those who have merit toward the nation · Love and respect for those who have merit toward the nation · Love and respect for those who have merit toward the nation · Love and respect for those who have merit toward the nation. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Gratitude to those who served and sacrificed for the country; gratitude to the nation's benefactors; gratitude to those who served the country. — shown in the learner's own words and one real example, part by part.

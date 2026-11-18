@@ -1,0 +1,9 @@
+# Saving Things in the Family — short answer
+
+Answer in a sentence or two, in your own words.
+
+**1.** In your own words, what does this lesson teach?
+**Answer:** Thrift with the household's things; household thrift.
+
+**2.** In your own words, state this lesson's one thing.
+**Answer:** Thrift with the household's things; household thrift.

@@ -1215,3 +1215,28 @@ sources, as provenance.
   records' own source URLs and staged, exactly as filed). See
   `mauritania/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Laos** — [`laos/`](laos/) · 244 lessons: Levels
+  1–6 — myself, family and school first (the child's own
+  conduct, manners, friends and the flag), then community,
+  nation and world (neighbours, benefactors, traditions,
+  peace, the United Nations, the first rights), character
+  and relations re-founded for adolescents, rights and
+  duties named sphere by sphere (the child-rights
+  convention, the inviolable home, marriage, labour, the
+  law), the upper-secondary band of worldview, economy,
+  the state and its policies and law-and-living, closing
+  on the citizen's basic rights and the people's
+  democratic regime — from Laos's ຄຸນສົມບັດສຶກສາ
+  (Moral Education) and ສຶກສາພົນລະເມືອງ (Civic
+  Education) books for Grades 1–12 (Ministry of Education
+  / Ministry of Education and Sports, Research Institute
+  for Educational Sciences, Lao, 422 placements, 244
+  lessons — 24 books, all PARTIAL as filed: 10 student
+  books count in the acceptance reckoning and 14 teacher
+  guides stand as evidence only, with 87 lessons on guide
+  evidence alone at acceptance 0, labelled; six records
+  are UNREAD-pending under the disk hold — both Grade 8
+  books, the Grade 9 pupil book, and the Grade 1 and
+  Grade 5 pupil books named in ABOUT.md — and are not in
+  the course). See `laos/ABOUT.md` for the full book list
+  and the acceptance reckoning.

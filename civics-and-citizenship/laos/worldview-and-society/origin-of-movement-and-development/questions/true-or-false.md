@@ -1,0 +1,9 @@
+# Origin of Movement and Development — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** Where the movement and growth of things and phenomena come from.
+**Answer: True**
+
+**2.** This lesson teaches that Origin of Movement and Development — and that it has no connection to the rest of Laos's story.
+**Answer: False** — The lesson places it inside Laos's own course, in its own order.
