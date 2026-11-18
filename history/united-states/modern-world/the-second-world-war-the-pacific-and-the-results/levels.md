@@ -1,0 +1,3 @@
+# The Second World War: The Pacific and the Results — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — In the Pacific, island-hopping crossed the ocean at terrible cost until the atomic bombs on Hiroshima and Nagasaki ended the war — and opened the atomic age the rest of the book lives in. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

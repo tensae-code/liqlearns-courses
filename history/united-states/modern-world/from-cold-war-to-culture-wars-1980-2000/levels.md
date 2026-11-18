@@ -1,0 +1,3 @@
+# From Cold War to Culture Wars, 1980–2000 — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Reagan's revolution cut taxes and confronted the Soviet Union; the Cold War then ended and a new world order was proclaimed — while at home, Clinton's new economy presided over a nation now fighting its culture wars. — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
