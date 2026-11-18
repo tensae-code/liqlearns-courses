@@ -1,0 +1,15 @@
+# Sources — Exploration: Columbus, Vespucci and Magellan
+
+countries: Dominican Republic
+
+**Book 2:** *Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. **Grade: Grade 5 (student/teacher: STUDENT). Language: Spanish.** PDF pages: 192 (cover verified against the record title). **Verdict: COMPLETE.** Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED, as filed. Combined Ciencias Sociales book: its Geography and Civics units are named in ABOUT.md's contents map and not placed. Placements at `liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unidad 5 Expansión europea en América (siglos XV al XVIII) | Book 2 (Dominican Republic Grade 5 Ciencias Sociales), printed p. 78 |
+
+**Acceptance count: taught in 1 country (Dominican Republic) — this lesson stands on a student book.**
+
+No provenance talk appears in the lesson prose. History is told as a story, in our own words, from the story beats as filed. Legends and religious-history stories are told as the books tell them, as plot summaries in our own words. Combined-book scope, as filed: the books are combined Ciencias Sociales books; only their History parts are placed in this lesson — their Geography and Civics parts are named, not placed, in ABOUT.md's contents map.
+
+Searchable tags: Exploration: Columbus, Vespucci and Magellan, Columbus, Vespucci, Magellan, Encounter of two worlds, exploration-columbus-vespucci-and-magellan, history dominican republic, dominican republic, Unidad 5 Expansión europea en América (siglos XV al XVIII)
