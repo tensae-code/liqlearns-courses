@@ -1,0 +1,3 @@
+# Ancient Civilisations: China — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — China's 4,000-year story opens on its rivers — the Shang kingdom (the book's map: 1028–1523 BCE), the Zhou who follow, silk weaving, oracle-bone writing, and in 221 BCE Qin Shi Huang welding the warring states into one China. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

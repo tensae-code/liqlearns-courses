@@ -1,0 +1,3 @@
+# The Renaissance: What It Was — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — In the 15th and 16th centuries Europe is "reborn" — the Crusades' contacts, Constantinople's fall, and wealthy patrons turn minds back to Greece and Rome and outward to experiment; the chapter names it a cultural, social and intellectual revolution. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

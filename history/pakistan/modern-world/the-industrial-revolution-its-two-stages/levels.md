@@ -1,0 +1,3 @@
+# The Industrial Revolution: Its Two Stages — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The book divides the revolution into its English first stage (1760–1860) and the second, American-led stage from about 1870 — steel, chemicals and electricity — and counts its economic benefits: cheaper goods, new cities, and a world market. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

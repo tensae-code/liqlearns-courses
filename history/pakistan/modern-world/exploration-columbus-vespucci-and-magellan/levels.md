@@ -1,0 +1,3 @@
+# Exploration: Columbus, Vespucci and Magellan — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Columbus reaches America in 1492 seeking India; John Cabot claims North America's coast for England in 1497; Cabral lands in Brazil in 1500; and Captain Cook (1728–1779) charts the Pacific — Europe's map of the world is redrawn in a generation. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

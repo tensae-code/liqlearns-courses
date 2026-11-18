@@ -1,0 +1,3 @@
+# Magna Carta 1215: The King Under Law — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — In 1215 England's barons corner King John and make him sign the Great Charter — for the first time a king's power is written down as less than the law, a seed from which parliaments grow. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.

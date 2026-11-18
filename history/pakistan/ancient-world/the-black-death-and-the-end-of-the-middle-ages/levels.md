@@ -1,0 +1,3 @@
+# The Black Death and the End of the Middle Ages — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — The old world dies of three blows — the Hundred Years War between England and France (1337–1453), the Black Death of 1347–1351 that empties whole towns, and Gutenberg's printing press of about 1440 that makes books cheap and ideas unstoppable. — in their own words, give one real example from the lesson, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new situation the learner has not seen in the lesson.
