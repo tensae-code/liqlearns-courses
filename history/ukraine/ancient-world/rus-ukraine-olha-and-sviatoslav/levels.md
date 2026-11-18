@@ -1,0 +1,3 @@
+# Rus-Ukraine under Olha and Sviatoslav — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Princess Olha avenged Ihor, then reformed tribute itself — fixed dues and collection points — and was baptised in Constantinople; her son Sviatoslav the Brave smashed Khazaria and died in a Pecheneg ambush in 972 — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

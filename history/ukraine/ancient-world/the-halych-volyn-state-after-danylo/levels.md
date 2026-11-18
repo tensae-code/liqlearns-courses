@@ -1,0 +1,3 @@
+# The Halych-Volyn State after Danylo — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Danylo's son Lev held Galicia from his capital at Lviv and his grandson Yurii I took the royal title again — but by 1340 the Romanovych line died out and Poland and Lithuania divided the inheritance — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

@@ -1,0 +1,3 @@
+# How Rus-Ukraine Was Ruled and Lived — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — the golden-age state day to day: prince, boyars, druzhyna and viche at the top; free smerds, dependent zakupy and kholopy below; towns of craftsmen and merchants and villages of farmers — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

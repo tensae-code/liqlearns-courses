@@ -1,0 +1,3 @@
+# Volodymyr the Great Baptises Rus-Ukraine — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Volodymyr won the throne in a brothers' war, ringed the steppe frontier with fortress towns, and in 988 baptised Rus in the Dnipro — churches, schools and a tithe followed, and the young state entered Christian Europe — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.

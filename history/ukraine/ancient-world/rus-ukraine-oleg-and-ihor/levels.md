@@ -1,0 +1,3 @@
+# Rus-Ukraine under Oleh and Ihor — depth
+
+This lesson is one whole lesson with no sub lessons. Pass mark: the learner can state the lesson's one thing — Oleh seized Kyiv in 882, subdued the neighbouring tribes and won trade treaties from Byzantium; Ihor kept the tribute rounds going until the Derevlians, squeezed once too often, killed him in 945 — in their own words, give one real example from the story as taught, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, school or street situation the learner has not seen in the lesson.
