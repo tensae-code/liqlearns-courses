@@ -1,0 +1,23 @@
+# The first world war versailles and the results
+
+## Do it first
+
+Before you read: say what you already know about "The first world war versailles and the results" — a name, a place, a date, anything. Write it down. This lesson tells the story properly; at the end, check what you said against it.
+
+## Sub lesson 1 — Unità 2, Cap. 4 §7 The peace treaties (1918–1923)
+
+Wilson's Fourteen Points (Document) meet the victors' accounts; the Ottoman empire is dismembered (the chapter's map), Germany is charged with responsibility — Fischer's Storiografia reopens that charge — and the numbers of the war (La storia in cifre) close the account.
+
+## Sub lesson 2 — Modulo 1, Cap. 1 §§11–12 1918: la sconfitta degli Imperi centrali; Vincitori e vinti
+
+The Central Empires collapse, four empires vanish from the map, and Versailles' contradictions — Wilson's 14 Points against Keynes' economic warning (both in Fare storia) — plant the next crisis inside the peace.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: the story of The first world war versailles and the results as Italy's own books tell it — who was in it, where it happened, what turned, and what came of it. Retell the story — who, where, what turned, and what came of it. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's story in your own words.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the story happens in real life. Note it.

@@ -1,0 +1,9 @@
+# The crisis of the 14th century and the black death — short answer
+
+Answer in your own words, from the lesson.
+
+**1.** Tell the story of "Unità 3, Cap. 7 §§1–3 Economy and society: the factors of the crisis; The effects of the crisis and the spread of war; The Great Plague" — who was in it, where it happened, what turned, and what came of it. (Sub lesson 1)
+**Answer:** Harvests fail, famine and war thin the population, then in 1347 the plague Boccaccio describes kills a third of Europe and changes the price of everything, above all labour.
+
+**2.** Tell the story of "La crisi del '300 (module: causes, plague, epidemics and social control)" — who was in it, where it happened, what turned, and what came of it. (Sub lesson 2)
+**Answer:** Famine, plague and war strike together; cities answer with health boards and quarantines — an early machinery of social control is born of the epidemic.
