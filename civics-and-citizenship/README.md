@@ -238,3 +238,20 @@ sources, as provenance.
   Grade 12 is UNREAD-pending under the disk hold, its level
   sketched, not stocked. See `bulgaria/ABOUT.md` for the full
   book list and the acceptance reckoning.
+- **Japan** — [`japan/`](japan/) · 30 lessons: Levels 1–3 —
+  one six-year climb of the same four areas (self, others,
+  life and nature, society): looking at myself (a regular
+  day, my own tasks, good things willingly, an honest
+  heart), then raising myself and relating to others
+  (moderation, Takahashi Naoko's small goals, sincerity,
+  the guide-dog family, loving my hometown, Koizumi
+  Yakumo), then polish myself, connect, cherish life and
+  engage with society (autonomy and responsibility, Edo
+  manners, one irreplaceable life, rights and duties,
+  Sakamoto Ryoma and the world's people), from Japan's
+  *Watashitachi no Doutoku* Moral Education student books
+  for Grades 1–2, 3–4 and 5–6 (MEXT, Japanese; Grades 3–4
+  and 5–6 COMPLETE; Grades 1–2 PARTIAL — a MEXT-chunk read,
+  its complete volume UNREAD-pending under the disk hold).
+  See `japan/ABOUT.md` for the full book list and the
+  acceptance reckoning.

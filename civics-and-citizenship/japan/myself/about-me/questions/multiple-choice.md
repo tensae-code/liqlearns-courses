@@ -1,0 +1,11 @@
+# Tell Us About Yourself — multiple choice
+
+Pick the one right answer.
+
+**1.** What does this lesson teach?
+a) this lesson is where you introduce yourself — your favourite things, what you are good at, what you want to learn, your treasure and your dream  b) it teaches nothing in particular  c) the opposite of the book's teaching  d) only adults need it
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** Which of these belongs to this lesson's first part — Say who I am?
+a) Introduce yourself the book's way: your favourite food and play, what you are good at, and what you want to learn.  b) a rule invented this morning with no source  c) the opposite of the lesson  d) nothing in the lesson covers it
+**Answer: a)** — That is what the first part teaches.
