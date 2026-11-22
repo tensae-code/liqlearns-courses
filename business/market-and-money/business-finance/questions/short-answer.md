@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the financial regulation part of this lesson in your own words. (Sub lesson 1)
 **Answer:** Why financial institutions are regulated: to protect individuals (their savings and fair interest), to protect businesses (qualified providers and honest, impartial advice) and to protect the economy (competition, choice and confidence in the system); consumer protection rules, supervision and inspection by the regulatory authorities
+
+**4.** In your own words, what does this lesson say about sources of income? (Sub lesson 5)
+**Answer:** Revenue flows beyond the straight sale (TIC page): a venture can also earn through service fees, subscriptions, lending and rentals, licences, commissions and advertising, and must record income by its origin

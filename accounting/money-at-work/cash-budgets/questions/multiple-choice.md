@@ -15,3 +15,9 @@ b) Manual vs computer processing: hardware (CPU, input, storage, output) and sof
 c) the cash budget (Belanjawan Tunai): forecasting receipts and payments month by month to predict surpluses and …
 d) the cash budget (Belanjawan Tunai): forecasting receipts and payments month by month to predict surpluses and …
 **Answer: c) the cash budget (Belanjawan Tunai): forecasting receipts and payments month by month to predict surpluses and …** — That is what this lesson teaches in its the whole of the new lesson part.
+
+**3.** What does this lesson teach about forecasting money?
+a) Something this lesson does not teach.
+b) Financial projections built from budgets: the sales budget, cost budget and expense budget rest on basic…
+c) Something this lesson does not teach.
+**Answer: b) Financial projections built from budgets: the sales budget, cost budget and expense budget rest on basic…** — That is what this lesson teaches in its forecasting money part (Ecuador's book).

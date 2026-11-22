@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the contracts in business part of this lesson in your own words. (Sub lesson 2)
 **Answer:** Contracts: a voluntary, legally binding agreement (written, verbal or implied) between parties — suppliers, employees, customers, government; the book works through the contracts a business makes daily and what supplier/employment/customer contracts must set out
+
+**4.** In your own words, what does this lesson say about the legal rules? (Sub lesson 5)
+**Answer:** Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary payments, the municipal patent (operating permit), and fees to the lawyers who constitute the venture

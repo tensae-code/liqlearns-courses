@@ -19,3 +19,9 @@ d) Reading the market: the share index, market capitalisation, turnover and numb
 **3.** What does this lesson teach about the entrepreneurship in the Caribbean?
 a) Entrepreneurship in the Caribbean: defined as identifying opportunities, allocating resources and creating …  b) The other financial regulators: Financial Services Commissions license and supervise non-bank institutions …  c) Long-term sources of finance compared: issuing new shares (no repayment, but control is diluted and only open …
 **Answer: a) Entrepreneurship in the Caribbean: defined as identifying opportunities, allocating resources and creating …** — That is what this lesson teaches in its entrepreneurship in the Caribbean part (Dominica's book).
+
+**4.** What does this lesson teach about the entrepreneur?
+a) Something this lesson does not teach.
+b) The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities,…
+c) Something this lesson does not teach.
+**Answer: b) The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities,…** — That is what this lesson teaches in its the entrepreneur part (Ecuador's book).

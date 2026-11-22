@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the market research part of this lesson in your own words. (Sub lesson 2)
 **Answer:** Market research as the first marketing activity: systematically collecting and analysing information on consumer preferences and market segmentation (dividing the market into groups by age, gender, income etc. to find the target market), consumer behaviour and spending patterns, and competition
+
+**4.** In your own words, what does this lesson say about the marketing mix? (Sub lesson 5)
+**Answer:** The market variables (marketing mix): product, price, place (plaza) and promotion — the 4 Ps — plus a fifth variable for new ventures, personalisation of the sale

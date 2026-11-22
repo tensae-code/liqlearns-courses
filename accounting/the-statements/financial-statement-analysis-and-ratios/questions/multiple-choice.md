@@ -15,3 +15,9 @@ b) the partnership business itself: features and the contents of a partnership a
 c) converting between mark-up and margin: the same gross profit on different bases, so given the mark-up …
 d) what a ratio is (one item expressed in relation to another, for assessing performance and financial strength) …
 **Answer: c) converting between mark-up and margin: the same gross profit on different bases, so given the mark-up …** — That is what this lesson teaches in its proposed accounting-ratios lesson part.
+
+**3.** What does this lesson teach about reading the statements? (Sub lesson 2)
+a) Something this lesson does not teach.
+b) Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return…
+c) Something this lesson does not teach.
+**Answer: b) Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return…** — That is what this lesson teaches in its reading the statements part (Ecuador's book).

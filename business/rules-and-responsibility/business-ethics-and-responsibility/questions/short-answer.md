@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the ethics and the law in business part of this lesson in your own words.
 **Answer:** Legal vs ethical issues in setting up and running a business (registration, licences, taxes, waste disposal, truthful advertising, money laundering, product safety), the principles to adopt (legitimate firm and capital, code of ethics, environmental and data-handling policies) and the consequences table for unethical/illegal practice (fines, closure, lawsuits, imprisonment, lost reputation)
+
+**4.** In your own words, what does this lesson say about responsibility?
+**Answer:** Ventures with social interest: community and associative ventures that use nature's gifts to cover a community's needs with a social and environmental component, guided by three innovation questions (why is this done, what if it were not done, what if it were done differently)

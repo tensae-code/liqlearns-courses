@@ -60,6 +60,11 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **The role of marketing.** What marketing is: a market (all buyers and sellers of a product, wherever they are) vs marketing (identifying, creating, communicating and delivering value so needs are satisfied at a profit); the objectives of marketing and social-media / integrated marketing as new trends
 
+**Knowing the customer.** Market segmentation: a small venture can aim at small, specific groups of customers, segmenting by geographic, demographic, socioeconomic and psychographic aspects (worked example: an online clothing shop for pregnant women), and segmenting business customers too (Ecuador's book.)
+
+**The marketing mix.** The market variables (marketing mix): product, price, place (plaza) and promotion — the 4 Ps — plus a fifth variable for new ventures, personalisation of the sale (Ecuador's book.)
+
+**Preparing to sell.** The product ready for sale: a pre-launch verification checklist — the market identified and its potential customers quantified, direct competitors identified with their products, attributes, prices, sales strategies and advertising analysed — before entering the market massively (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation. Your companion asks one question back — answer it from the lesson.

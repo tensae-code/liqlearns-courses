@@ -9,3 +9,9 @@ a) Preparation, prospecting, presenting, handling rejections, closing the sale  
 **2.** Under which term of sale does the seller hold the goods while the buyer pays for them? (Sub lesson 2)
 a) Consignment  b) Layaway  c) Cash
 **Answer: b) Layaway** — In layaway the seller keeps the item until it is paid for; no interest is charged.
+
+**3.** What does this lesson teach about the selling process? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) The elevator pitch ("discurso del elevador"): planning a pitch of at most about 60 seconds — first define its…
+c) Something this lesson does not teach.
+**Answer: b) The elevator pitch ("discurso del elevador"): planning a pitch of at most about 60 seconds — first define its…** — That is what this lesson teaches in its the selling process part (Ecuador's book).

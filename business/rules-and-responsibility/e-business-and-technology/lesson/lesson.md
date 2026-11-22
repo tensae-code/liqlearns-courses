@@ -60,6 +60,11 @@ The impact of ICT on business operations: improvements in speed and time savings
 
 Ethical implications of using ICT in business: security — cybercrime in its forms (unauthorised access and corporate espionage, sabotage, stealing credit card numbers and banking fraud, skimming, phishing) and its costs in losses and customer confidence; privacy — cookies, camera systems, hacked social media profiles and employee monitoring; intellectual property — how easily online work, music, video and trade secrets are copied without payment; and the human impact — jobs lost to automation vs new ICT jobs created, continuous training, working from home, fake news and cyber bullying, health effects of prolonged computer use, and distraction
 
+**Technology in business.** CRM (TIC page): Customer Relationship Management as the method and software for running relations with current and future customers across sales, marketing, customer service and technical support — from prospect database and marketing campaigns to invoicing and product delivery (Ecuador's book.)
+
+**Technology in business.** Technology-based ventures: app-platform businesses operating in Ecuador (ride and lodging platforms named as examples) that offer services over the internet and earn commission (Ecuador's book.)
+
+**Technology in business.** ERP systems (TIC page): Enterprise Resource Planning tools (the free, modular Dolibarr ERP named for SMEs, freelancers and associations) centralise a company's information, avoid duplication and ease financial management (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms. Your companion asks one question back — answer it from the lesson.

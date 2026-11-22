@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the productivity part of this lesson in your own words. (Sub lesson 2)
 **Answer:** Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity and average revenue productivity worked with numbers, why productivity matters (lower unit costs, competitiveness, profit, wages) and the ways to raise it — skilled labour and human-resource development, motivating employees, better organisation/management, lean production processes, better land use and better capital equipment
+
+**4.** In your own words, what does this lesson say about quality in production? (Sub lesson 4)
+**Answer:** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back

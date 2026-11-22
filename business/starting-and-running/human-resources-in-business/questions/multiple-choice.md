@@ -19,3 +19,9 @@ d) The forces that grew the Nigerian capital market (indigenisation decrees, pri
 **3.** What does this lesson teach about the industrial conflict? (Sub lesson 3)
 a) Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees …  b) Government assistance — research centres, subsidies and grants: research and information centres give …  c) Digital communications, e-commerce and e-business: digital communication technologies — the internet and …
 **Answer: a) Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees …** — That is what this lesson teaches in its industrial conflict part (Dominica's book).
+
+**4.** What does this lesson teach about looking after people at work? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that…
+c) Something this lesson does not teach.
+**Answer: b) Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that…** — That is what this lesson teaches in its looking after people at work part (Ecuador's book).

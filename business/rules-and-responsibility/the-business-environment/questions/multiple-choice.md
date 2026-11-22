@@ -19,3 +19,9 @@ d) Non-profit organisations — clubs, churches, societies and welfare groups �
 **3.** What does this lesson teach about the the role of government?
 a) The government's role and its impact on business: government is consumer, producer, employer, law maker and …  b) How contracts end: discharge by performance, breach, agreement, impossibility/frustration, lapse of time and …  c) Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity …
 **Answer: a) The government's role and its impact on business: government is consumer, producer, employer, law maker and …** — That is what this lesson teaches in its the role of government part (Dominica's book).
+
+**4.** What does this lesson teach about the world the business sits in?
+a) Something this lesson does not teach.
+b) The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only…
+c) Something this lesson does not teach.
+**Answer: b) The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only…** — That is what this lesson teaches in its the world the business sits in part (Ecuador's book).

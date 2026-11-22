@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** In your own words, what does this lesson say about the finding-an-opportunity-in-available-resources? (Sub lesson 1)
 **Answer:** Teaches that materials lying around in the local environment (scrap and recycled wood) are a low-cost production resource and an opportunity: they can be turned by creative design into useful goods and decorations instead of being thrown away (info box inside the wood-joinery practical activities).
+
+**3.** In your own words, what does this lesson say about testing an idea against the market? (Sub lesson 3)
+**Answer:** Ecuador's own way: for each need, tabulating how it is satisfied today — completely, partially, not at all in the locality, or by no existing good or service — and naming the potential venture each gap suggests

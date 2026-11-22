@@ -16,6 +16,10 @@ Name one business near you. List the people and groups it touches: its workers, 
 
 **Responsibility.** Corporate social responsibility owed in turn to society at large, suppliers, lenders, shareholders, employees, customers and government, with Nigerian examples.
 
+**Responsibility.** The benefit to society: the qualitative evaluation of the project weighs its social and community benefits — increased community production, employment generated and needs covered — alongside the financial numbers (Ecuador's book.)
+
+**Responsibility.** Ventures with social interest: community and associative ventures that use nature's gifts to cover a community's needs with a social and environmental component, guided by three innovation questions (why is this done, what if it were not done, what if it were done differently) (Ecuador's book.)
+
 ## Corporate social responsibility
 
 A firm's corporate social responsibility in action: the book's supermarket-chain case shows scholarships and community support presented as part of the business's CSR agenda — "good community relations means good business"
@@ -32,6 +36,7 @@ Business and the environment: laws exist to stop businesses polluting water and 
 
 Green technology and sustainable business practice: green technology and sustainability defined; how businesses protect the environment — alternatives to fossil fuels, energy efficiency, recyclable products, responsible waste management; government tools — environmentally preferred purchasing, green building policy, tax incentives for green business (Barbados), reforestation; waste management in the Caribbean (Site Waste Management Plans and their cost savings, Barbados's sanitary landfill and recycling, medical waste treatment, re-refining used oil in Antigua); and zoning laws that separate commercial, residential, industrial and agricultural land use
 
+**Responsibility / judging a venture's social worth.** Social evaluation of a venture: a venture is judged not only on profit and payback but on social goals and impact indicators (education level, employment, unemployment in the community), with key questions the entrepreneur must ask about the problems it eases (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility. Your companion asks one question back — answer it from the lesson.

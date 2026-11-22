@@ -22,6 +22,13 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Evaluation.** Evaluating a start-up idea against given situations.
 
+**Where business ideas come from.** Finding a venture idea by detecting the needs of one's own area: listing what the market lacks, using Maslow's hierarchy (physiological, safety, belonging, esteem, self-realisation) to prioritise which needs matter most (Ecuador's book.)
+
+**Testing an idea against the market.** Ecuador's own way: for each need, tabulating how it is satisfied today — completely, partially, not at all in the locality, or by no existing good or service — and naming the potential venture each gap suggests (Ecuador's book.)
+
+**Judging opportunities.** Choosing between candidate ventures by evaluating qualitative variables (jobs created, better living standards, care for the environment, laws that encourage the venture, liking the activity) against quantitative ones (fast return on investment, profit, number of customers, market share, future sustainability) (Ecuador's book.)
+
+**Judging opportunities.** The needs-evaluation matrix: candidate ventures set in columns against the chosen qualitative and quantitative variables so the alternatives can be compared side by side (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes. Your companion asks one question back — answer it from the lesson.

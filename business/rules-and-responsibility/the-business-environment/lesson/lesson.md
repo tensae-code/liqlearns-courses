@@ -24,6 +24,7 @@ How government creates a safe environment for investors: the central bank can lo
 
 Government-provided services and infrastructure as business conditions: governments fund socially and economically desirable services the private sector will not supply at affordable prices — healthcare (a healthy population is more productive and takes fewer days off), education (a skilled workforce and better employment prospects), National Insurance contributions funding pensions and benefits, and roads and transport networks, whose direct benefits to business are shorter delivery times, lower costs, and access to larger pools of labour, materials, markets, ports and airports
 
+**The world the business sits in.** The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only interests, and the Constitution's articles on the rights of nature frame what a venture may do (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

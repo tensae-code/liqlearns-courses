@@ -12,6 +12,7 @@ Name one club, church group or society you know. Say what shared interest brings
 
 Not-for-profit private organisations — charities, local sports and social clubs and social enterprises — exist to improve social, animal or environmental welfare rather than maximise profit
 
+**Co-operative and community forms.** Youth entrepreneurship inside Ecuador's popular and solidarity economy: Constitution art. 283 names the economic system's forms — public, private, mixed, popular and solidarity — including the cooperative, associative and community sectors; state policies link young researchers and youth employment to that economy (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

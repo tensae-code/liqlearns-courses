@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Name three ways of saving the book teaches, and one fact about each.
 **Answer:** Interest-bearing deposit accounts (withdrawal limits and minimum balances); short-term fixed deposits (higher interest, money locked to the term's end); the sou-sou (members contribute equally and take the pool in turn; unregulated, built on trust).
+
+**3.** In your own words, what does this lesson say about a person's own budgeting system?
+**Answer:** Improving the family budget (Educación financiera page): the budget's parts — income against basic monthly spending, secondary spending, non-monthly outgoings, unforeseen payments, debt payments, investments and savings — with surplus as the goal and debt as the sign of deficit

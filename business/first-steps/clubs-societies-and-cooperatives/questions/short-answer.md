@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the non-profit organisations part of this lesson in your own words.
 **Answer:** Not-for-profit private organisations — charities, local sports and social clubs and social enterprises — exist to improve social, animal or environmental welfare rather than maximise profit
+
+**4.** In your own words, what does this lesson say about co-operative and community forms?
+**Answer:** Youth entrepreneurship inside Ecuador's popular and solidarity economy: Constitution art. 283 names the economic system's forms — public, private, mixed, popular and solidarity — including the cooperative, associative and community sectors; state policies link young researchers and youth employment to that economy

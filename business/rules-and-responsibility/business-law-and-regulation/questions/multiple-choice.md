@@ -19,3 +19,9 @@ d) The business environment in four kinds — economic, technological, social an
 **3.** What does this lesson teach about the government regulation of business? (Sub lesson 4)
 a) Government regulation of the establishment and conduct of businesses: the areas regulated (licences, …  b) Personal/direct selling: the qualities of successful salespeople (empathy, focus, responsibility, …  c) Warehousing in full: what a warehouse is and who uses one, inbound and outbound flows, just-in-time stock …
 **Answer: a) Government regulation of the establishment and conduct of businesses: the areas regulated (licences, …** — That is what this lesson teaches in its government regulation of business part (Dominica's book).
+
+**4.** What does this lesson teach about the legal rules? (Sub lesson 5)
+a) Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary…
+b) Workplace safety as law: Ecuador's Labour Code arts. 410–411 oblige employers to give workers conditions that…
+c) Something this lesson does not teach.
+**Answer: b) Workplace safety as law: Ecuador's Labour Code arts. 410–411 oblige employers to give workers conditions that…** — That is what this lesson teaches in its the legal rules part (Ecuador's book).

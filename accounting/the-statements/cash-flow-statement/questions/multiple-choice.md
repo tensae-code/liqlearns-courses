@@ -19,3 +19,9 @@ d) preparing a cash flow statement (Penyata Aliran Tunai) for the planned busine
 **3.** What does this lesson teach about the cash flow?
 a) Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each …  b) Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees …  c) The essential steps in establishing a business, in order: conceptualisation of the idea, research (market …
 **Answer: a) Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each …** — That is what this lesson teaches in its cash flow part (Dominica's book).
+
+**4.** What does this lesson teach about reporting past and future cash?
+a) The annual projected funds flow for the first five years: year 0 shows contributions and loans received…
+b) The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income…
+c) Something this lesson does not teach.
+**Answer: b) The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income…** — That is what this lesson teaches in its reporting past and future cash part (Ecuador's book).

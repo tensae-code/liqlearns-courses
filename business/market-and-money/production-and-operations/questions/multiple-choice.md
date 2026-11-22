@@ -19,3 +19,9 @@ d) Localisation (similar firms concentrated in one area: its causes, advantages 
 **3.** What does this lesson teach about the factors of production? (Sub lesson 1)
 a) Production as combining inputs to add value, and the four factors of production: land (natural resources, …  b) QuickBooks as a specialist accounting application: it automates bookkeeping (entering transactions and …  c) Advantages and disadvantages of international trade: advantages — local businesses expand into new markets …
 **Answer: a) Production as combining inputs to add value, and the four factors of production: land (natural resources, …** — That is what this lesson teaches in its factors of production part (Dominica's book).
+
+**4.** What does this lesson teach about how production works? (Sub lesson 4)
+a) The final product or service must keep the characteristics the customer values — quality, size, durability…
+b) Describing the operating process in detail, stage by stage with the human and material resources each stage…
+c) Something this lesson does not teach.
+**Answer: b) Describing the operating process in detail, stage by stage with the human and material resources each stage…** — That is what this lesson teaches in its how production works part (Ecuador's book).

@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the cash flow part of this lesson in your own words.
 **Answer:** Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each month; seasonal variations must be forecast; cash flow is the lifeblood of a business — even a profitable business can fail if its profit is tied up in money owed or unsold stock and it cannot pay its bills; improving cash flow by delaying payments and chasing debtors, and keeping liquidity like a bank
+
+**4.** In your own words, what does this lesson say about reporting past and future cash?
+**Answer:** The annual projected funds flow for the first five years: year 0 shows contributions and loans received against fixed-asset investment and pre-operational spending; years 1–5 summarise the monthly flows with gradual increases

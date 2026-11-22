@@ -13,3 +13,9 @@ a) Ledger fees and standing orders  b) Tariffs and quotas  c) Samples, coupons, 
 **3.** What does this lesson teach about the advertising? (Sub lesson 3)
 a) Advertising: paid communication through media, in its two forms — informative and persuasive — plus …  b) Cooperatives: jointly owned, democratically controlled by members; the three types (consumer, worker, …  c) Management's responsibilities to each stakeholder group: to owners (profit, efficient resource use, accurate …
 **Answer: a) Advertising: paid communication through media, in its two forms — informative and persuasive — plus …** — That is what this lesson teaches in its advertising part (Dominica's book).
+
+**4.** What does this lesson teach about promoting goods? (Sub lesson 3)
+a) The advertising and commercial plan inside the investment project: choosing the advertising and promotion…
+b) Advertising techniques: the promotional mix made of advertising (paid use of mass media), promotions (a…
+c) Something this lesson does not teach.
+**Answer: b) Advertising techniques: the promotional mix made of advertising (paid use of mass media), promotions (a…** — That is what this lesson teaches in its promoting goods part (Ecuador's book).

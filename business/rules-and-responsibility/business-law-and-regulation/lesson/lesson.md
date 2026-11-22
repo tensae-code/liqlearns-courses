@@ -68,6 +68,9 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Intellectual property.** Intellectual property rights: what intellectual property is and the four protections — patents (inventions, usually 20 years), copyright (expression of an idea), trademarks and industrial design rights — and why businesses protect them (differentiation, licensing revenue, collateral, encouraging innovation)
 
+**The legal rules.** Workplace safety as law: Ecuador's Labour Code arts. 410–411 oblige employers to give workers conditions that do not endanger health or life, and workers to follow the prevention, safety and hygiene measures (Ecuador's book.)
+
+**The legal rules.** Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary payments, the municipal patent (operating permit), and fees to the lawyers who constitute the venture (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law. Your companion asks one question back — answer it from the lesson.

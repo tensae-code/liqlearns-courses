@@ -24,6 +24,9 @@ Think of the last thing you bought because something persuaded you. Was it a per
 
 **Advertising.** Advertising: paid communication through media, in its two forms — informative and persuasive — plus subliminal advertising and the psychosocial techniques marketers use
 
+**Promoting goods.** Advertising techniques: the promotional mix made of advertising (paid use of mass media), promotions (a benefit, usually economic, offered for buying), public relations (building strategic links and alliances) and word of mouth (Ecuador's book.)
+
+**Promoting goods.** The advertising and commercial plan inside the investment project: choosing the advertising and promotion tools and the commercial strategies that will meet the programmed sales — the plan generates the advertising that attracts customers to the point of sale (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the four forms compared, personal selling and public relations, sales promotion, consumer and trade, advertising. Your companion asks one question back — answer it from the lesson.

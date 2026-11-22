@@ -14,7 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Contracts — made, kept valid, and ended** — contract; validity; contract; contracts in business; elements of a contract; intention and capacity; types of contract; discharge and remedies.
 3. **Agency, employment, sale of goods and hire purchase** — agency; employment; sale of goods; hire purchase; employment law.
 4. **Registering, complying — and deregulation** — formation-law; compliance; registration; regulation; regulation; government regulation of business; regulation and deregulation.
-5. **Ideas, data and digital business in law** — intellectual-property; intellectual property; digital-law; personal-data; protection.
+5. **Ideas, data and digital business in law** — intellectual-property; intellectual property; digital-law; personal-data; protection; the legal rules.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

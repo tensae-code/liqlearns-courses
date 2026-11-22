@@ -19,3 +19,9 @@ d) What "business" means, the business as an open system turning inputs into out
 **3.** What does this lesson teach about the non-profit organisations?
 a) Not-for-profit private organisations — charities, local sports and social clubs and social enterprises — …  b) Collateral: assets (property, stocks, bonds, equipment, life-insurance surrender value) pledged to secure a …  c) Contracts: a voluntary, legally binding agreement (written, verbal or implied) between parties — suppliers, …
 **Answer: a) Not-for-profit private organisations — charities, local sports and social clubs and social enterprises — …** — That is what this lesson teaches in its non-profit organisations part (Dominica's book).
+
+**4.** What does this lesson teach about co-operative and community forms?
+a) Something this lesson does not teach.
+b) Youth entrepreneurship inside Ecuador's popular and solidarity economy: Constitution art. 283 names the…
+c) Something this lesson does not teach.
+**Answer: b) Youth entrepreneurship inside Ecuador's popular and solidarity economy: Constitution art. 283 names the…** — That is what this lesson teaches in its co-operative and community forms part (Ecuador's book).

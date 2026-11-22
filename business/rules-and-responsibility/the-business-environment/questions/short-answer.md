@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the government and investors part of this lesson in your own words.
 **Answer:** How government creates a safe environment for investors: the central bank can lower interest rates to stimulate lending and expansion; tax incentives boost fledgling markets and encourage start-ups (e.g. incentives for solar equipment); trade policies — lower tariffs and quotas and free-trade zones — cut business costs; government contracting puts public work out to private companies; grants, subsidies, loans and disbursements steer activity; and political stability, transparency and tackling corruption make a country trusted by investors
+
+**4.** In your own words, what does this lesson say about the world the business sits in?
+**Answer:** The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only interests, and the Constitution's articles on the rights of nature frame what a venture may do

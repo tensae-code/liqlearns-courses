@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Why does insurance make business and trade possible at all? (Sub lesson 2)
 **Answer:** It transfers risk to the pool, so a firm will operate even where one uninsured loss — a fire, a lawsuit, an accident — would end it.
+
+**3.** In your own words, what does this lesson say about risk in one's own business? (Sub lesson 2)
+**Answer:** Risk analysis: listing the venture's potential risks in detail (worked example: community opposition to cutting trees for sports courts), then prioritising them by probability of occurrence and impact, and designing mitigation strategies so the entrepreneur is prepared

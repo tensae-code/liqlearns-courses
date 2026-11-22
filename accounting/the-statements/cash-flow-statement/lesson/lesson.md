@@ -20,6 +20,9 @@ The Statement of Changes in Cash Position built from a transaction summary, sour
 
 Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each month; seasonal variations must be forecast; cash flow is the lifeblood of a business — even a profitable business can fail if its profit is tied up in money owed or unsold stock and it cannot pay its bills; improving cash flow by delaying payments and chasing debtors, and keeping liquidity like a bank
 
+**Reporting past and future cash.** The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income and cost/expense payments but also investment and financing movements — and how it differs from the projected income statement; contribution margin calculated (Ecuador's book.)
+
+**Reporting past and future cash.** The annual projected funds flow for the first five years: year 0 shows contributions and loans received against fixed-asset investment and pre-operational spending; years 1–5 summarise the monthly flows with gradual increases (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement. Your companion asks one question back — answer it from the lesson.

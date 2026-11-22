@@ -38,6 +38,10 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** The map of business credit and its bank sources: loans (and the "triple C" of collateral, creditworthiness, character), overdrafts, bill discounting, debt factoring and acceptance credits.
 
+**Sources of finance.** Crowdfunding (TIC page): collective financing lets a project gather resources from the community through platforms such as Indiegogo, backers receiving rewards according to what they contribute (Ecuador's book.)
+
+**Sources of finance.** Fifteen techniques for financing a new venture (Financia tu emprendimiento page, from the author's guide to creating a company without money, drawn from 80 Ecuadorian business owners): own resources, relatives, friends, selling unproductive assets, selling or swapping knowledge, swapping for advertising, customer advances, supplier credit, multi-level systems, alliances with formed companies, partnership in shares, temporary investors, community resources, foundations and non-profits, and credit-card benefits (Ecuador's book.)
+
 **Sources of finance.** Credit from specialised government institutions (development corporations, loans boards), insurance-company policy and other loans, and cooperative society loans.
 
 **Sources of finance.** Trade credit from suppliers (interest-free but with hidden cost and supply risk) and finance raised from customers through advance/progress payments.
@@ -84,6 +88,19 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Choosing finance.** Choosing the best source and method of finance: the factors to weigh — how long the money is needed, how much, what it costs, and whether ownership must be given up; internal vs external sources; and matching the finance to the use — long-term finance for premises and machinery, short-term finance for running costs such as wages
 
+**Raising and sizing finance.** Determining the investment a venture needs: adding an "investment needed" column to the process table so every stage's required goods are costed before starting (Ecuador's book.)
+
+**Raising and sizing finance.** Determining the initial investment: after the production and marketing plans, the financial plan quantifies everything analysed so far as one whole so the starting investment can be fixed (Ecuador's book.)
+
+**Sources of income.** Revenue flows beyond the straight sale (TIC page): a venture can also earn through service fees, subscriptions, lending and rentals, licences, commissions and advertising, and must record income by its origin (Ecuador's book.)
+
+**Judging an investment.** Payback period: adding up the projected gains period by period until the sum covers the initial investment, to know how long the entrepreneur waits to recover the money (Ecuador's book.)
+
+**Judging an investment.** Internal Rate of Return (TIR) (TIC page): calculated with an online calculator from the initial investment and the annual collections and payments; the project is accepted when the TIR beats the minimum rate, and higher-TIR investments are preferred (Ecuador's book.)
+
+**Judging an investment.** The time value of money and Net Present Value (VAN): a dollar today is worth more than a dollar in the future; each projected flow is discounted (12% in the worked example) and the discounted flows are summed against the investment to accept or reject the project (Ecuador's book.)
+
+**Sources of finance / borrowing dangers.** The warning against informal financing (Financia tu emprendimiento page): moneylenders ("chulqueros") who lend with almost no requirements at around 10% a month will sink any lawful venture — no legal business can pay such interest and survive (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison. Your companion asks one question back — answer it from the lesson.

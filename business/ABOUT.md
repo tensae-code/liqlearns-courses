@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
-Business Studies books of Dominica, Egypt, Kenya, Malaysia,
+Business Studies books of Dominica, Ecuador, Egypt, Kenya, Malaysia,
 Nigeria and Samoa. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **24 lessons, 265 placements stocked.**
+environment, e-business). **24 lessons, 310 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 13 student
-books in all; the 10 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 14 student
+books in all; the 11 below carry this course (the Business parts
 of each are what stock these lessons). The other 3 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5 and Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2 — are pure accounting
@@ -68,6 +68,9 @@ and they are named here so the read set is whole.
 - *Principles of Business for CSEC Examinations, Second Edition* — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; second edition 2019. **Grade 11 (CSEC). STUDENT book. Language: English** (Caribbean examples throughout). 425 PDF pages (printed pp. 1–~419). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 10 ends printed p. 391). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
   - Contents map for this split: Units 1–10 fed **Business** (99 placements in this course, from this book — including the first placements for Selling and Customer Care and Business Risk and Insurance, and the new lessons Careers in Business and Personal Finance and Budgeting); the trade parts of Units 1, 6, 7, 8 and 10 fed **Commerce** (23 placements); the bookkeeping parts of Units 4 and 8 fed **Accounting** (9 placements). The economic-systems teaching (Unit 1.2, printed pp. 31–34) and the economics parts of Units 9–10 are Economics-wave material, mapped, not placed. Exclusions (named, not placed): each unit's Revision & Exam Practice section; the SBA guidance (printed pp. 392–405) and the Alternative to SBA (pp. 406–411); the Glossary.
 
+- *Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado* — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.) — Ministerio de Educación del Ecuador, Quito. © 2019; reprint September 2019; ISBN 978-9978-52-359-9. **Grade 13 (Tercero de Bachillerato, BGU). STUDENT book. Language: Spanish.** 192 PDF pages (printed pp. 1–192). **Verdict: COMPLETE** — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - Contents map for this split: Unidades 1–6 and the Anexos — the whole book is one continuous worked investment project for the student's own venture — fed **Business** (45 placements in this course, from this book); the advertising teaching of Unidad 3 fed **Commerce** (2 placements); the financial-projection teaching of Unidades 4–5 fed **Accounting** (4 placements). Exclusions (named, not placed): each unit's Evaluación sumativa and the formative/collaborative/research activity pages (assessment/apparatus — their embedded teaching was placed); the in-text Glosario boxes; Bibliografía p. 192; front matter.
+
 - *Business Studies — Year 9, Book 1: Economics* — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2006. No ISBN printed in the book. **Year 9. STUDENT book. Language: English** (Samoan translations in text boxes; bilingual glossary). 97 pages. **Verdict: COMPLETE.**
   - Contents map for this split: the seven units are **Economics** (Producer in the Economy; Goods and Services; Factors of Production; Consumers and Households; Consumer as Producer; Development of Money; Functions of Money in the Economy), mapped, not placed here — except the business/commerce teaching inside them, which fed **Business** (5 placements) and **Commerce** (5 placements). Contents-map correction: the Economics wave's map pointed to market research (p. 10) and clubs/societies (pp. 15–24) in this book — neither exists in the book as printed; nothing is stocked from the wrong map.
 
@@ -75,9 +78,9 @@ and they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 24 lessons,
-  stocked with 265 placements from **student books** of 6
-  countries (Dominica, Egypt, Kenya, Malaysia, Nigeria, Samoa) —
-  taught in 6 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 310 placements from **student books** of 7
+  countries (Dominica, Ecuador, Egypt, Kenya, Malaysia, Nigeria, Samoa) —
+  taught in 7 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher
@@ -86,7 +89,7 @@ and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-53 Business books are in hand in the library record but
+52 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -97,9 +100,6 @@ hold lifts and they are read.
 **Bhutan (2):**
 - [BUSINESS · student] Business and Entrepreneurship, Class XI (grade-11) — secured-not-on-disk
 - [BUSINESS · student] Business and Entrepreneurship, Class XII (grade-12) — secured-not-on-disk
-
-**Ecuador (1):**
-- [BUSINESS · student] Emprendimiento y Gestión — Tercero de Bachillerato (Texto del estudiante) (Grade 13) — secured-not-on-disk
 
 **Egypt (3):**
 - [BUSINESS · student] Agriculture Skills and Entrepreneurship Preparatory 7 Term 1 (Grade 7) — not-on-disk — Staged by the Economics wave under push-don't-delete and read there; the staging copy has since left staging and the path is not confirmed in either push state — treated as not-on-disk

@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Dominica, Kenya, Malaysia, Nigeria and
+and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nigeria and
 Samoa. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
@@ -27,13 +27,13 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **14 lessons,
-99 placements stocked.**
+101 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 13 student
-books in all; the 7 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 14 student
+books in all; the 8 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 6 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Malaysia's Prinsip Perakaunan Tingkatan 5 and
@@ -45,6 +45,9 @@ set is whole.
 
 - *Principles of Business for CSEC Examinations, Second Edition* — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; second edition 2019. **Grade 11 (CSEC). STUDENT book. Language: English** (Caribbean examples throughout). 425 PDF pages (printed pp. 1–~419). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 10 ends printed p. 391). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
   - Contents map for this split: the trade parts of Units 1, 6, 7, 8 and 10 — money and payment instruments, advertising and sales promotion, retailing and credit, consumer protection, warehousing, wholesale channels, transport, commercial and transport documents, financial institutions and bank services, trade insurance, and international trade with its institutions — fed **Commerce** (23 placements in this course, from this book — including the first placement for Warehousing, built from this book); Units 1–10's business parts fed **Business** (99 placements); the bookkeeping parts of Units 4 and 8 fed **Accounting** (9 placements). The economic-systems teaching (Unit 1.2) and the economics parts of Units 9–10 are Economics-wave material, mapped, not placed.
+
+- *Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado* — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.) — Ministerio de Educación del Ecuador, Quito. © 2019; reprint September 2019; ISBN 978-9978-52-359-9. **Grade 13 (Tercero de Bachillerato, BGU). STUDENT book. Language: Spanish.** 192 PDF pages (printed pp. 1–192). **Verdict: COMPLETE** — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
+  - Contents map for this split: the advertising teaching of Unidad 3 (printed pp. 84, 88) fed **Commerce** (2 placements in this course, from this book); Unidades 1–6 and the Anexos fed **Business** (45 placements); the financial-projection teaching of Unidades 4–5 fed **Accounting** (4 placements).
 
 - *Inventor Business Studies, Form Three Students' Book* — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement on the pages in hand. **Form Three (grade-11 equivalent). STUDENT book. Language: English.** 181 PDF pages (main text printed pp. 1–164). **Verdict: COMPLETE.**
   - Contents map for this split: Ch. 4 (Chain of Distribution) fed **Commerce** (6 placements in this course, from this book); Ch. 2 fed **Business**; Chs. 7–10 fed **Accounting**. The four Economics chapters (Ch. 1 Demand and Supply; Ch. 3 Product Market; Ch. 5 National Income; Ch. 6 Population and Employment) are named, not placed. Scan note: duplicated pages — citations use printed folios.
@@ -67,9 +70,9 @@ set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 14 lessons,
-  stocked with 99 placements from **student books** of 5
-  countries (Dominica, Kenya, Malaysia, Nigeria, Samoa) —
-  taught in 5 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 101 placements from **student books** of 6
+  countries (Dominica, Ecuador, Kenya, Malaysia, Nigeria, Samoa) —
+  taught in 6 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher

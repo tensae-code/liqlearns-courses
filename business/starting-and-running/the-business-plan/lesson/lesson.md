@@ -38,6 +38,15 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **The business plan.** The business plan: reasons for preparing one (test feasibility, attract investors, raise finance, guide decisions, ensure legal compliance) and its six elements — Introduction, Executive Summary, the Business Opportunity, Operational Plan, Marketing Plan and Financial Forecast — each section's contents set out, including the financial forecast's projected profit and loss, cash-flow projections, break-even analysis and return on investment
 
+**Opening / what a business plan is.** An investment project (proyecto de inversión) defined as the document that plans the future venture — market research, how it will work, marketing plan, financial projections and their evaluation — and its benefits: it describes the venture, fixes the resources needed, shows the risks, raises the chance of success and is usually required to obtain financing (Ecuador's book.)
+
+**Structure of the plan.** The contents of an investment project: executive summary, description of the venture, operational plan (organisation structure, staff functions, production/service processes, technology, investment, costs), communication plan, financial plan (projected income and outgoings, contribution margin, break-even point) and project evaluation (Ecuador's book.)
+
+**Writing the plan.** Describing the chosen venture inside the project: statement of the problem it solves, the activity and type of venture, its general objective, its beneficiaries and the needs it satisfies (Ecuador's book.)
+
+**The plan on one page.** The Business Model Canvas (TIC page): the venture mapped in nine blocks — target market, value proposition, channels, customer relationships, revenue flows, key resources, key activities, key partners, cost structure (Ecuador's book.)
+
+**Closing the plan.** Conclusions of the project: after the quantitative and qualitative evaluations and the risk analysis, the conclusions state whether implementation is feasible or not, beginning with the satisfaction of needs (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

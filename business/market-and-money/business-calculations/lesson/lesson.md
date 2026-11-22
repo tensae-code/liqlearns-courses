@@ -24,6 +24,13 @@ Price one loaf of bread in your head, in steps: what the bread cost to produce, 
 
 How a price change affects total revenue, worked through with numbers: a 10% price cut on bananas raises weekly revenue ($400 → $432) because demand rises 20%, while the same cut on sea salt lowers revenue ($300 → $283.50) because demand rises only 5%
 
+**The numbers behind choosing.** Weighting and scoring the matrix: each variable is given a percentage weight (community ventures weight qualitative variables more, private productive ventures weight quantitative ones more), each venture is scored 1–5 per variable, and the weighted totals pick the winner — worked example in which "plant a different crop" beats a collection centre, a cargo vehicle and machinery (Ecuador's book.)
+
+**Costing.** Fixed and variable costs: production costs (raw materials, direct labour, indirect costs such as packaging, maintenance and workshop electricity) grouped into costs that stay fixed and costs that vary with output; total cost = fixed + variable (Ecuador's book.)
+
+**Costing.** Operating expenses split into administration expenses (head-office salaries, office rent, services) and selling expenses (sales salaries, commissions, social benefits) (Ecuador's book.)
+
+**Costing and pricing numbers.** Total cost and unit cost of a product or service: the unit cost is what one unit costs to make, its components differ by type of business, and unit costs fall as production rises, so the venture should find its optimal production level; contribution margin introduced (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price. Your companion asks one question back — answer it from the lesson.

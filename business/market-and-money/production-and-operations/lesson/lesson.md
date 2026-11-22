@@ -56,6 +56,9 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Supply chain management and competitiveness.** Managing global supply chains: the advantages (quality of life, wealth creation, new employment) and challenges (globalisation risks, counterfeiting, changing market conditions), and how good logistics creates competitive and comparative cost advantage — including outsourcing transport to second/third-party logistics providers instead of running your own fleet
 
+**How production works.** Describing the operating process in detail, stage by stage with the human and material resources each stage needs; the three venture types by process — commercial (buys and resells unchanged), industrial (transforms raw material) and services (Ecuador's book.)
+
+**Quality in production.** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

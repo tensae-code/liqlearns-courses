@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the price, demand and revenue calculations part of this lesson in your own words.
 **Answer:** How a price change affects total revenue, worked through with numbers: a 10% price cut on bananas raises weekly revenue ($400 → $432) because demand rises 20%, while the same cut on sea salt lowers revenue ($300 → $283.50) because demand rises only 5%
+
+**4.** In your own words, what does this lesson say about costing?
+**Answer:** Fixed and variable costs: production costs (raw materials, direct labour, indirect costs such as packaging, maintenance and workshop electricity) grouped into costs that stay fixed and costs that vary with output; total cost = fixed + variable

@@ -8,6 +8,7 @@ A shop knows a big stock payment falls due in March, but its best sales come in 
 
 The cash budget (Belanjawan Tunai): forecasting receipts and payments month by month to predict surpluses and shortages.
 
+**Forecasting money.** Financial projections built from budgets: the sales budget, cost budget and expense budget rest on basic assumptions, and together they project the venture's financial figures (spreadsheets used for the projections) (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a cash budget forecasts receipts and payments month by month, so a business can see surpluses and shortages coming and plan for them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson. Your companion asks one question back — answer it from the lesson.

@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the the entrepreneur part of this lesson in your own words.
 **Answer:** The entrepreneur: functions performed (conceptualising, researching, planning, accessing finance, organising, operating, evaluating performance, risk bearing, making profit/managing losses), the characteristics of successful entrepreneurs (creative, innovative, flexible, goal-oriented, persistent, calculated risk-takers, motivated, organised)
+
+**4.** In your own words, what does this lesson say about the entrepreneur?
+**Answer:** The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities, researching and selecting the idea), start-up (writing the project and launching), and strengthening (consolidating by trial and error so the venture survives its first years); leadership as the capacity to influence others toward a goal

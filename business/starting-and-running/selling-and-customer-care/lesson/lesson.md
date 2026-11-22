@@ -16,6 +16,7 @@ Think of the last thing you bought from a person, not a machine. Walk through wh
 
 **Customer service.** Customer service is caring for the customer's needs before, during and after the purchase. Its marks are personalisation, politeness, prompt response, professionalism and awareness of special needs. It takes forms such as warranties, after-sales service, feedback, online chat, toll-free numbers and call centres, suggestion boxes and surveys. A business gathers information from its customers to improve the service — because excellent service keeps customers and wins new ones by word of mouth.
 
+**The selling process.** The elevator pitch ("discurso del elevador"): planning a pitch of at most about 60 seconds — first define its objective (sell, convince, obtain financing, get a job), then the target market and the benefits and advantages for the listener (Ecuador's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: selling is a process with steps — prepare, find the buyer, present the goods, handle objections, close the sale — done on terms both sides understand, and it is finished only by customer care: looking after the buyer before, during and after the purchase so that they come back. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: selling, terms of sale, customer service. Your companion asks one question back — answer it from the lesson.
