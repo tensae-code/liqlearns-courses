@@ -38,6 +38,13 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **The general journal.** The General Journal's own work: opening entries, buying fixed assets on credit and every miscellaneous transaction that fits no other journal, each entry carrying a narration explaining it.
 
+**The books.** The Sales Day Book (teacher guide): one of the Books of Prime Entry, where goods sold on credit are recorded; also known as the Sales Journal; the source document used to write it up is the duplicate invoice; the module's key terms — sales are goods sold, credit sales are goods sold on credit to customers (Zambia's book.)
+
+**The books.** The format of the Sales Returns Day Book (teacher guide): title on top, then Date, Details (widest column), Credit Note Number (for cross-referencing the source document), Subtotal and Total Amount columns; returns are entered at their value with trade discount deducted where the original sale carried it, and the period total is carried to the Sales Returns Account (Zambia's book.)
+
+**The books.** The Sales Returns Day Book (teacher guide): the Book of Prime Entry used to record goods sold on credit but later returned by customers — for reasons such as wrong colour, faulty goods or damaged goods; also known as the Sales Returns Journal, Returns Inwards Journal or Returns Inwards Day Book; it matters because it accounts for goods returned; (Zambia's book.)
+
+**The books.** The format of the Sales Day Book and how entries are made (teacher guide): title on top, then Date, Details (the widest column), Invoice Number (for cross-referencing the source document), Subtotal (the monetary value at unit price) and Total Amount columns; (Zambia's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal. Your companion asks one question back — answer it from the lesson.

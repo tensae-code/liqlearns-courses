@@ -33,13 +33,14 @@ environment, e-business). **25 lessons, 533 placements stocked.**
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 19 student
-books in all; the 16 below carry this course (the Business parts
-of each are what stock these lessons). The other 3 read books —
-Malaysia's Prinsip Perakaunan Tingkatan 5 and Samoa's Accounting
-Year 12 and Business Studies Year 9 Book 2 — are pure accounting
-books: every part of them fed Accounting, none fed Business,
-and they are named here so the read set is whole.
+`lesson/sources.md`. The set read for the split — 20 books
+in all (19 student books and 1 teacher guide); the 16 below carry this course (the Business parts
+of each are what stock these lessons). The other 4 read books —
+Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
+Year 12 and Business Studies Year 9 Book 2, and Zambia's
+Principles of Accounts Teaching Module (a teacher guide) — are
+pure accounting books: every part of them fed Accounting, none
+fed Business, and they are named here so the read set is whole.
 
 - *Industry Skills and Entrepreneurship, Preparatory 7 (Grade 7), Term 1* — مهارات الصناعة وريادة الأعمال — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026. **Grade 7. STUDENT book. Language: Arabic.** 60 PDF pages (printed pp. 4–58). **Verdict: COMPLETE.** The Term 1 book has no standalone entrepreneurship unit — its body is industry-skills teaching and the entrepreneurship strand lives in embedded boxes/briefs inside the skills lessons.
   - Contents map for this split: the embedded entrepreneurship parts (printed pp. 9, 19, 31, 51–53) fed **Business** (8 placements). No part fed Commerce or Accounting. The industry-skills half (Unit 1 carpentry/fretwork, printed pp. 4–33; Unit 2 plumbing, printed pp. 34–53) is contents-mapped for **Technology & Design**, not stocked in this course; Unit 2 Lesson 1 (water awareness, printed pp. 35–37) is environmental/life-skills teaching, named-not-placed.
@@ -97,10 +98,13 @@ and they are named here so the read set is whole.
   countries (Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
   taught in 12 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
-- **Teacher-guide evidence only, counted nowhere:** none read
-  yet — no teacher guide has been read for this course. Teacher
-  guides stand in the pending queue below and, when they come,
-  will be evidence only (acceptance 0), as in every course.
+- **Teacher-guide evidence only, counted nowhere:** none
+  carries this course. One teacher guide has been read for the
+  split — Zambia's *Principles of Accounts Teaching Module*
+  (read 2026-11-22) — and it fed Accounting only, as evidence
+  (acceptance 0). Teacher guides stand in the pending queue
+  below and, when they come, will be evidence only
+  (acceptance 0), as in every course.
 
 ## The pending queue — Business books not yet in the course
 

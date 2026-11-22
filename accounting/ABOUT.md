@@ -33,13 +33,13 @@ organisations, partnerships, companies, manufacturing,
 incomplete records, control accounts) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 202 placements stocked.**
+**27 lessons, 210 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 19 student
-books in all; the 13 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 20 books
+in all (19 student books and 1 teacher guide); the 14 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 6 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -83,6 +83,9 @@ they are named here so the read set is whole.
 
 - *المشاريع الصغيرة (Small Projects) — First Secondary, Entrepreneurship and Business stream* — writing team: Dr Islam Abdeljawad (coordinator) and others — State of Palestine, Ministry of Education, Palestinian Curriculum Centre. Adopted for teaching from 2018/2019. **Grade 11. STUDENT book. Language: Arabic.** 140 PDF pages (printed pp. 1–136). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 4 ends printed p. 131). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
   - The ACCOUNTING parts of this book: the financial feasibility study's cash-flow estimation (Unit 3, printed p. 75), the cash-flow-versus-profit teaching with depreciation (printed p. 76), and reading a balance sheet as sources and uses of funds (Unit 4, printed p. 112) fed **Accounting** (3 placements in this course, from this book). Contents map for this split: Units 1–4 fed **Business** (46 placements); the bank-financing teaching of Unit 4 fed **Commerce** (4 placements).
+
+- *Principles of Accounts — Teaching Module, Form 1 – Term 3* — Tendai Nyoni, Chintu Nonde Febby, Gwenani James, Tembo Moses, Kasuba Emmanuel, Kalasa Chrisborne; coordinators Sylvia Katongo and Kalaluka Jane Njanji (Curriculum Development Centre, Business Studies) — Republic of Zambia, Ministry of Education; developed by the Curriculum Development Centre, Lusaka; first published 2025 by Zambia Educational Publishing House (ZEPH). ISBN 978-9982-01-543-6. **Form 1, Term 3 (the book's own level label; the manifest record said Grade 7). TEACHER GUIDE (teaching module). Language: English.** 36 PDF pages (printed pp. ii–viii + 1–27). **Verdict: COMPLETE** — read whole module to the last page (Appendix 1 ends printed p. 27). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - The ACCOUNTING parts of this module: Sub-topic 1 (Types of Books of Prime Entry: Sales Day Book, printed pp. 1–9) and Sub-topic 2 (Sales Returns Day Book, printed pp. 10–23) fed **Accounting** (8 placements in this course, from this module — every one marked (teacher guide) in its provenance row). **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Zambia is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** Contents map for this split: no part fed Business or Commerce. Exclusions (named, not placed): the proposed assessment tasks in both sub-topics (printed pp. 6–9 and 15–23 — including their purchases and returns-outwards exercise transactions, which carry no teaching in this module); Bibliography (printed p. 24); Appendix 1 Sample Lesson Plan (printed pp. 25–27); front matter.
 
 - *Inventor Business Studies, Form Three Students' Book* —
   Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature
@@ -224,25 +227,26 @@ they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 27 lessons, stocked with
-  202 placements from **student books** of 8 countries (Dominica,
-  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 8 countries. Every
+  210 placements in all — 202 of them from **student books** of 8 countries (Dominica,
+  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 8 countries;
+  the other 8 are teacher-guide evidence from Zambia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
-- **Teacher-guide evidence only, counted nowhere:** none read
-  yet — no teacher guide has been read for this course, so the
-  acceptance reckoning above is a student-book reckoning.
-  Teacher guides stand in the pending queue below — two of its
-  entries ARE teacher guides (Indonesia's Dasar-Dasar Akuntansi
-  dan Keuangan Lembaga Kelas X teacher guide and Papua New
-  Guinea's Accounting Teacher Guide Grades 11–12, each labelled
-  as a teacher guide in the queue) — and, when they come, will
-  be evidence only (acceptance 0), as in every course. Zambia's
-  Principles of Accounts Teaching Module in the queue is
-  likewise a teaching module, labelled as such there.
+- **Teacher-guide evidence only, counted nowhere:** Zambia's
+  *Principles of Accounts Teaching Module, Form 1 – Term 3*
+  (teacher guide, read 2026-11-22) — 8 placements stocked as
+  evidence only, acceptance 0; Zambia is counted nowhere as a
+  teaching country, and every lesson it touches says so in its
+  sources. Two further teacher guides stand in the pending
+  queue below (Indonesia's Dasar-Dasar Akuntansi dan Keuangan
+  Lembaga Kelas X teacher guide and Papua New Guinea's
+  Accounting Teacher Guide Grades 11–12, each labelled as a
+  teacher guide in the queue) and, when they come, will be
+  evidence only (acceptance 0), as in every course.
 
 ## The pending queue — Accounting books not yet in the course
 
-22 Accounting books are in hand in the library record but were
+21 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -289,8 +293,6 @@ hold lifts and they are read.
 **Tanzania (1):**
 - [ACCOUNTING · student] Accountancy Form Five — Student's Book (Grade 12) — secured-not-on-disk
 
-**Zambia (1):**
-- [ACCOUNTING · teacher] Principles of Accounts Teaching Module (Grade 7) — secured-not-on-disk
 
 ## Honesty flags
 

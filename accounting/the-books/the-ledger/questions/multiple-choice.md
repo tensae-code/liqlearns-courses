@@ -19,3 +19,9 @@ d) what the ledger is: the main book of accounts, one account for each item, an 
 **3.** What does this lesson teach about the ledger accounts? (Sub lesson 1)
 a) Ledger accounts: larger businesses keep separate ledger accounts for the bank, for each type of equipment and …  b) The marketing mix: product, price, place and promotion (the 4Ps, extended to 7Ps — people, processes, …  c) Sales promotions compared in a table with costs and benefits: free samples, coupons, premiums/gifts, contests …
 **Answer: a) Ledger accounts: larger businesses keep separate ledger accounts for the bank, for each type of equipment and …** — That is what this lesson teaches in its ledger accounts part (Dominica's book).
+
+**4.** What does this lesson teach about the ledger? (Sub lesson 2)
+a) Posting sales returns to the ledger (teacher guide): the module's posting rules — debit the Sales Returns…
+b) Posting the Sales Day Book to the ledger (teacher guide): the module's two posting rules — the total value of…
+c) Something this lesson does not teach.
+**Answer: b) Posting the Sales Day Book to the ledger (teacher guide): the module's two posting rules — the total value of…** — That is what this lesson teaches in its the ledger part (Zambia's book).

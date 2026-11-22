@@ -12,6 +12,9 @@ The trial balance as a statement at a date listing every account's debit balance
 
 The trial balance lists the balanced ledger accounts to check that total debit balances equal total credit balances; agreement does not prove there are no errors, but disagreement locates one.
 
+**The trial balance.** Extracting the trial balance (teacher guide): from the ledger accounts prepared from the Sales Day Book, learners extract a trial balance as at the period end, listing the Sales account balance on the credit side and each receivable's balance (Miyoba, Z. Pimpa, M. Gondwe in the worked example) on the debit side, the two sides agreeing (Zambia's book.)
+
+**The trial balance.** Trial balance after returns (teacher guide): from the returns postings, learners extract a trial balance as at 30 April 2025 in the worked example, with the Sales Returns balance on the debit side and the reduced receivables balances on the credit side, the two sides agreeing (Zambia's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not. Your companion asks one question back — answer it from the lesson.

@@ -32,15 +32,16 @@ organisations, consumer protection). **15 lessons,
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 19 student
-books in all; the 12 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 7 read books —
+`lesson/sources.md`. The set read for the split — 20 books
+in all (19 student books and 1 teacher guide); the 12 below carry this course (the Commerce parts
+of each are what stock these lessons). The other 8 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Iran's Entrepreneurship and Production Workshop,
 Malaysia's Prinsip Perakaunan Tingkatan 5 and
 Pengajian Keusahawanan Tingkatan 5, and Samoa's Accounting
 Year 12, Business Studies Year 11 Book 2 and Business Studies
-Year 9 Book 2 — carry no Commerce part: their parts fed
+Year 9 Book 2, and Zambia's Principles of Accounts Teaching
+Module (a teacher guide) — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
 
@@ -87,11 +88,14 @@ set is whole.
   countries (Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
   taught in 10 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
-- **Teacher-guide evidence only, counted nowhere:** none read
-  yet — no teacher guide has been read for this course. Teacher
-  guides, when they come, will be evidence only (acceptance 0),
-  as in every course. (No teacher guide stands in this course's
-  pending queue below; the queue is student books throughout.)
+- **Teacher-guide evidence only, counted nowhere:** none
+  carries this course. One teacher guide has been read for the
+  split — Zambia's *Principles of Accounts Teaching Module*
+  (read 2026-11-22) — and it fed Accounting only, as evidence
+  (acceptance 0). Teacher guides, when they come, will be
+  evidence only (acceptance 0), as in every course. (No teacher
+  guide stands in this course's pending queue below; the queue
+  is student books throughout.)
 
 ## The pending queue — Commerce books not yet in the course
 
