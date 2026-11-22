@@ -105,6 +105,14 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **Discounts.** Trade discount against cash discount: trade discount for bulk orders is deducted from the list price before the invoice price is calculated and is never recorded, unlike cash discount (Bhutan's book.)
 
+**Journals.** Unit 12.1 Journals: analyse source documents; journalise into the general journal and the special journals, distinguishing which entries go where (teacher guide) (Papua New Guinea's teacher guide.)
+
+**First-entry books.** Appendix: the record formats — cash receipts and cash payments journals, credit sales and credit purchases journals, and sales/purchases records (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Source documents.** Strand 2 Unit 2: source documents — cash receipts, cheque butts, invoice, credit note, debit note, bank statements, cash register roll and others (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Special journals.** Strand 2 Unit 2: the journals — cash receipts, cash payments, purchases and sales journals, and the source documents each is written from (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.

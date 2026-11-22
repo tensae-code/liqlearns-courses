@@ -61,6 +61,10 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Accrued and deferred items.** Revenue − expenses = profit or loss inside the equation (profit increases the owner's claim, loss decreases it), and accrued and deferred items in the equation: accrued expenses increase liability and decrease capital, rent received in advance is a liability (Bhutan's book.)
 
+**The equation.** Unit 11.3: the effects of transactions on the accounting equation; the expanded accounting equation; calculating assets, liabilities and owner's equity (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Elements.** Strand 2 Unit 2: the elements of accounting — asset, liabilities, owner's equity, revenue, expense — each defined with examples (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.

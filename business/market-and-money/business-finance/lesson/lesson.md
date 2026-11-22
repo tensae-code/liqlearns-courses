@@ -179,6 +179,10 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Financing options part.** The financing plan's options for raising the total project cost: own investment, funds from friends and family, and loans from banks (Bhutan's book.)
 
+**Financing the start.** Strand 4: business financing — the start-up costs (licences and fees, utilities, advertising and marketing, equipment, fittings, land and buildings); internal financing (owner's equity); external financing as debt (bank overdraft, trade credit, term loan) and as equity (owner's equity, family and friends, business angels, venture capital) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Financing online.** Strand 5: financing e-business and money management — financial planning defined; the sources of financing, internal (equity) and external (debt); determining your financing (capital) needs (start-up costs — one-time, recurring and hidden; personal equity; monthly expenses) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

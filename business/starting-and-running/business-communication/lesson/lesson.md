@@ -28,6 +28,16 @@ Internal and external communication: the communication process (sender, channel,
 
 **Storytelling.** Storytelling: a told story is understood and remembered better than read information; the story's structure (introduction, main part, conclusion); end with a call to action and motivate the listener; storytelling as a teaching method and as a digital-marketing tool balancing message and action (Kazakhstan's book.)
 
+**Communicating in business.** Unit 9.3: the principles and importance of good communication and the barriers to it; business letters (block and semi-block layout, the letter of enquiry), memorandums, reports and meeting minutes; office equipment (fax, computer, photocopier, scanner, telephone); telephone etiquette; organising and conducting meetings (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Application writing.** Unit 10.4: the job application letter in block and semi-block layout (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Communicating in business.** Strand 1 Unit 1: communication defined; the principles of good communication (clear, concise, correct, courteous); the communication process (sender encodes, channel, receiver decodes, feedback); verbal and non-verbal communication; the forms of business communication; internal against external communication; channels (top-down, upward, bottom-up); the barriers to communication (people, language, listening, equipment, defective message) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Communication technology.** Strand 1 Unit 1: communication technology — its types and their uses in business (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Keeping business information safe.** Strand 1 Unit 1: security and confidentiality of communication technology — confidentiality controls and encryption, and why businesses keep information from competitors (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

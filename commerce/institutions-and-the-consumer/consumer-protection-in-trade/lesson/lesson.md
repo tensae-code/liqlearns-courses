@@ -39,6 +39,26 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 
 **Redressal part.** The consumer grievance redressal mechanism: how an aggrieved consumer's complaint is taken up and resolved (Bhutan's book.)
 
+**Being a wise consumer.** Unit 9.2: positive consumer behaviour — comparison shopping, checking quality, and evaluating advertising critically (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Consumer law.** Unit 10.5: the consumer-protection laws among the laws businesses work under (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Consumer law.** Strand 2 Unit 4: consumer protection laws inside business law — price regulation, maximum mark-up, standards, health and safety (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Consumer rights.** Strand 1: consumer rights (safety, to be informed, to choose, to be heard, a healthy environment, consumer education) and consumer responsibilities (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The consumer Act.** Strand 2 Unit 4: the Consumer Protection Act — its purpose (protect consumers from unfair trading practices), its main function (protection against product liability for defective products), its impact on businesses (personal injury claims and compensation), and its key feature, the establishment of the ICCC to protect, promote and enforce consumer rights (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The enforcers.** Strand 2 Unit 4: the role of state agencies in enforcing consumer protection laws — consumer protection as government regulation; the government's responsibilities (fair, efficient, competitive marketplaces; food safety, labelling and advertising; border inspection; conditions of sale, business practices, public safety, licensing); the ICCC, the Health Department and other agencies; the consumer rights the ICCC publishes (safety, choice, education, information, representation) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Sales law.** Strand 3: the sales laws protecting sellers and buyers (the Goods Act 1951) — the buyer's obligations (accept the goods, pay the price), the right to reject nonconforming goods, and the seller's four options when a buyer wrongfully rejects (sue for damages, sue for the price, cancel the contract, resell) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The enforcement bodies.** Strand 3: the roles of government and state agencies that enforce consumer protection laws — the ICCC (established by the ICCC Act 2002, its objectives: promote competition, fair trading and consumer interests, economic efficiency, and the long-term interest of PNG's people in price, quality and reliability) and the Consumer Affairs Council (Consumer Affairs Council Act 1993) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Consumer protection worldwide.** Strand 3: the impact of international law on consumer protection — the history of consumer protection; the US Federal Trade Commission; and the United Nations Guidelines for Consumer Protection (the legitimate needs: to be heard, information, safety, choice, consumer education, promotion of consumers' economic interests) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Product safety.** Strand 5: regulating e-business products — product safety regulation (safety warning notices, temporary and permanent bans, mandatory safety standards, compulsory recalls); product safety and consumer guarantees; product liability and the practices that reduce it (design reviews, quality assurance, testing, clear instructions, voluntary recalls); mandatory reporting of deaths and serious injuries (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why consumers need protecting, consumerism, rights and redress, nigeria's protective laws, regulatory measures behind the laws. Your companion asks one question back — answer it from the lesson.

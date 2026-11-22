@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The stores system and the elements of cost** — Opening part of the proposed lesson.
 2. **The stores documents** — Documents part of the proposed lesson.
-3. **Keeping the stores ledger** — Ledger part of the proposed lesson.
+3. **Keeping the stores ledger** — Ledger part of the proposed lesson.; Stock records part; Stock part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

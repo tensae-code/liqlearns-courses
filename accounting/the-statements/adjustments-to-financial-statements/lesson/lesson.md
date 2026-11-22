@@ -92,6 +92,8 @@ A business pays a full year's insurance on the first day of its year. Should the
 
 **Guarantees and onerous contracts part.** Provisions worked through guarantees and onerous contracts: a guarantee given creates the obligating event, and a provision is recognised when it becomes probable that resources will be transferred to settle it (Bhutan's book.)
 
+**Adjustments.** Unit 12.2: balance-day adjustments, the adjusted trial balance, and closing off the accounts (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: accrual vs cash basis (the matching idea), why adjustments are made, accruals, prepayments, accrued income, income in advance, closing stock valuation, capital vs revenue expenditure, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements. Your companion asks one question back — answer it from the lesson.

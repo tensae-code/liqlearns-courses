@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
 Business Studies books of Dominica, Ecuador, Egypt, Greece, Guatemala, Indonesia, Iran, Kazakhstan, Kenya, Malaysia,
-Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
+Nepal, Nicaragua, Nigeria, Palestine, Papua New Guinea, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
 
@@ -28,18 +28,18 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **26 lessons, 899 placements stocked.**
+environment, e-business). **26 lessons, 1050 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 38 books
-in all (33 student books and 5 teacher guides); the 33 below carry this course (the Business parts
-of each are what stock these lessons). The other 5 read books —
+`lesson/sources.md`. The set read for the split — 42 books
+in all (33 student books and 9 teacher guides); the 36 below carry this course (the Business parts
+of each are what stock these lessons). The other 6 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
 Accountancy Form Five, and Zambia's
-Principles of Accounts Teaching Module (a teacher guide) — are
+Principles of Accounts Teaching Module (a teacher guide), and Papua New Guinea's Accounting — Upper Secondary Teacher Guide (2008) (a teacher guide) — are
 pure accounting books: every part of them fed Accounting, none
 fed Business, and they are named here so the read set is whole.
 
@@ -160,6 +160,12 @@ fed Business, and they are named here so the read set is whole.
 
 - *Inventor 1 — Secondary Business Studies, Form One Students' Book* — Kenya Literature Bureau (KLB), Nairobi. ISBN 978-9966-44-800-2 (read from the back-cover barcode); no year or edition statement survives in this copy, and the authors are not visible in it (the title and imprint pages are blanked in the scan). **Form One (grade-9 equivalent). STUDENT book. Language: English.** 173 PDF pages (no printed folio survives anywhere in the copy; citations are by PDF page). **Verdict: PARTIAL — defective copy.** The library's secured copy is a text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the book was read from those surviving specimens and diagrams only. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **LIBRARY DEBT: a readable copy is still needed before this book can be read in full. It is recorded here as PARTIAL/defective-copy — not as fully read, and not left silently pending.** (It stood in this course's own Business pending queue.) It stocked 2 placements into this course (13 more into Commerce).
 
+- *Business Studies — Lower Secondary Teacher Guide, Grades 9–10* — coordinated by Jennifer Sangga; Department of Education, Papua New Guinea, with CRIP / Australian Government support. Published 2006; ISBN 9980-935-45-6. **Grades 9–10 (Lower Secondary). TEACHER GUIDE. Language: English.** 145 PDF pages = 145 printed pages. **Verdict: COMPLETE** — read whole guide to the last page, including all four Options and the Appendix of sample documents. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 18 placements into this course.
+
+- *Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-04-8. **Grade 9 (Junior High). TEACHER GUIDE. Language: English.** 324 PDF pages = 324 printed pages. **Verdict: COMPLETE** — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). **This record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact (26,160,225 B) and read in full. No library debt on this record.** Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 54 placements into this course.
+
+- *Business Studies — Grade 12 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-07-9. (Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High".) **Grade 12. TEACHER GUIDE. Language: English.** 392 PDF pages = 392 printed pages. **Verdict: COMPLETE** — read whole guide; every topic's Content Background in the Units of Work was read and filed. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 77 placements into this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 26 lessons,
@@ -178,15 +184,25 @@ fed Business, and they are named here so the read set is whole.
   guides, read 2026-11-22) — 39 placements stocked in this
   course as evidence only, acceptance 0; Guatemala is counted
   nowhere as a teaching country, and every lesson they touch
-  says so in its sources. (Zambia's *Principles of
+  says so in its sources. Papua New Guinea's three
+  *Business Studies* teacher guides (the Lower Secondary
+  Teacher Guide Grades 9–10 (2006), the Grade 9
+  Standards-Based Teacher Guide (2023) and the Grade 12
+  Standards-Based Teacher Guide (2023), read 2026-11-22) —
+  149 placements stocked in this course as evidence only,
+  acceptance 0; Papua New Guinea is counted nowhere as a
+  teaching country, and every lesson they touch says so in
+  its sources. (Zambia's *Principles of
   Accounts Teaching Module*, another teacher guide read for
-  the split, fed Accounting only.) Teacher guides stand in
+  the split, fed Accounting only; Papua New Guinea's fourth
+  guide, the *Accounting — Upper Secondary Teacher Guide*
+  (2008), likewise fed Accounting only.) Teacher guides stand in
   the pending queues and, when they come, will be evidence
   only (acceptance 0), as in every course.
 
 ## The pending queue — Business books not yet in the course
 
-30 Business books are in hand in the library record but
+27 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -220,12 +236,6 @@ hold lifts and they are read.
 - [BUSINESS · student] Business Studies for JSS Book 1 (grade-07) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 - [BUSINESS · student] Business Studies for JSS Book 2 (grade-08) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 - [BUSINESS · student] Business Studies for JSS Book 3 (grade-09) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
-
-**Papua New Guinea (3):**
-- [BUSINESS · teacher] Business Studies Teacher Guide Grade 12 (Secondary, Standards Based) (Grade 12) — secured-not-on-disk
-- [BUSINESS · teacher] Business Studies Lower Secondary Teacher Guide Grades 9-10 (OBE) (Grade 9) — secured-not-on-disk
-- [BUSINESS · teacher] Business Studies Teacher Guide Grade 9 (Secondary, Standards Based) (Grade 9) — secured-not-on-disk
-
 
 **Sri Lanka (4):**
 - [BUSINESS · book] business studies 2009 english (grade-12) — secured-not-on-disk
@@ -286,3 +296,12 @@ hold lifts and they are read.
   the book can be read in full — the debt stands until then.
   Kenya's Form Two book has no copy anywhere and stays in the
   Business pending queue (no-copy-exists).
+
+- **Papua New Guinea — teacher guides only, and the phantom
+  that was not:** all four Papua New Guinea books read in the
+  Phase 2 wave are teacher guides, stocked as evidence only
+  (acceptance 0); Papua New Guinea counts nowhere in this
+  course as a teaching country. The Grade 9 Standards-Based
+  guide was the suspected phantom push: it is NOT a phantom —
+  it was found as a GitHub release asset, landed byte-exact
+  and read in full, and no library debt stands on that record.

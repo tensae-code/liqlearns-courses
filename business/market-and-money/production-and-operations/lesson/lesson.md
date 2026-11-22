@@ -28,6 +28,10 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Factors of production and their incomes.** Resources and factors of production distinguished; the factor-income table: land earns rent, capital earns interest, labour earns wages, and entrepreneurial ability together with information earns profit (Kazakhstan's book.)
 
+**Factors of production.** Strand 1 Unit 2: the factors of production — land, labour, capital and enterprise (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Organising production.** Strand 2 Unit 1: specialisation and division of labour — the types of specialisation and their advantages and disadvantages (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 2 — The size of a firm — scale, economies and diseconomies
 
 **Scale.** Telling the size of a firm: by number of employees, volume of output, floor area of premises, capital invested in assets, production methods/technology, size of market served and sales volume — and the weakness of each measure.
@@ -118,6 +122,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **Estimation part.** Estimating what the operations need: the direct materials requirement estimation table (materials to cover sales volume and finished-goods stock, quantities and amounts in Nu.) and the indirect expenses of operations (insurance, electricity, depreciation, taxes and duties) (Bhutan's book.)
 
 **Product development.** Prototyping: a prototype as a testable model or simulation of the final system (a building's project, a car's concept), its types (presentation prototype, pre-production sample identical to the final product), and what a would-be entrepreneur must settle before building one (research the requirements early, build it well, test it with potential clients) (Kazakhstan's book.)
+
+**What production is.** Unit 9.1: production defined; the factors of production (natural resources, labour, enterprise); the reasons for production (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Say it to your companion
 

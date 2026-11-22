@@ -1,6 +1,6 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan
+countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua New Guinea
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -18,6 +18,8 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan
 
 **Book 8:** Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10 textbook, in two parts (student book) — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 (lessons 1–32) ISBN 978-601-7817-00-8, 144 pp.; Part 2 (lessons 33–68) ISBN 978-601-7817-01-5, 188 pp. Grade: Grade 10. Language: Kazakh. Page count: Part 1 144 PDF pages, Part 2 188 PDF pages (printed p. = PDF p. in both parts, folio-verified). Source: manifest manifests-phase2/kazakhstan.json n=1 (okulyk 604 = Part 1) and n=2 (okulyk 605 = Part 2); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), Part 1 6,228,655 B and Part 2 5,814,463 B = expected exactly, to scratch-phase2/kazakhstan/kz-604.pdf and kz-605.pdf (read copies deleted after the read). Verdict: COMPLETE — read whole, both parts, to the last teaching page. Filed as ONE book in two parts.
 
+**Book 9:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | what the new lesson would teach: the career paths business study opens | Book 1 (Principles of Business for CSEC), printed p. 43 |
@@ -31,11 +33,14 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan
 | the jobs-in-trade part of the lesson | Book 6 (Sygchrones Synallages B EPAL), printed pp. 80–91 |
 | profession part | Book 7 (Prinsip Perakaunan T4), printed p. 2 |
 | career paths part | Book 8 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 34 |
+| getting a job part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG 9–10 LS (2006)), printed p. 81 |
 
 **Acceptance count: taught in 7 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan, papua-new-guinea

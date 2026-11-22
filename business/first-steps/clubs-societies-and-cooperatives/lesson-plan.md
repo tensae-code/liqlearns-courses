@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cooperatives part; Cooperatives part; Opening part; Structure part; Samoan clubs part; Meetings part; Roles and procedure part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cooperatives part; Cooperatives part; Opening part; Structure part; Samoan clubs part; Meetings part; Roles and procedure part.; Forming an association part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a village sports club meeting under a tree, a treasurer's book open on a mat, members listening → the student names the club's shared interest, the need it meets, and one sum of money it handles.

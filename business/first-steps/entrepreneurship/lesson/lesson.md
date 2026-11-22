@@ -123,6 +123,12 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **The entrepreneurial approach.** The entrepreneurial approach: entrepreneurship as self-realisation; the qualities it needs (initiative, perseverance, independence, restraint, reliability, energy, adequate self-esteem, inventiveness, flexibility, balance, calculated risk); entrepreneurial competence defined; a business idea must be tested against who will be interested in it and what demand exists (Kazakhstan's book.)
 
+**The entrepreneur.** Strand 1 Unit 2: entrepreneurship defined (identify an opportunity, create an organisation); the characteristics of the entrepreneur (vision, passion, product knowledge, networking, self-confidence, risk management) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**What entrepreneurs do.** Strand 1 Unit 2: the two entrepreneurial functions — risk taking and innovation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Encouraging enterprise.** Strand 1: ways the economy encourages entrepreneurship — entrepreneurship programmes and awareness, business schools, National Development Bank funds and SME incubation centres, protection of private ownership, technology, contract law, a tradeable currency, reducing corruption, stability, and infant-industry protection (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Choosing where to locate** — location; location; business location.
-2. **Why people start — and what to weigh first** — push-factors; factors; reasons for starting a business.; Ways of starting part
+2. **Why people start — and what to weigh first** — push-factors; factors; reasons for starting a business.; Ways of starting part; Ways in part
 3. **The start-up investigation — and where help is** — the start-up investigation; starting a business; sources of help; steps to start a business; what a new business needs; setting up; starting / help available; Starting-a-small-project-with-a-partner; Registering-the-business; Stages-of-a-productive-project; Designing-a-project; Planning part; Startups part; Pre-operating part.; Startups part; Startups part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.

@@ -22,6 +22,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Ways of starting.** Business begins from an idea fitted to what the market requires; start-up capital and borrowing to raise it; the ways to start compared: build from scratch, attract start-up capital, buy a going firm, or buy a franchise (franchise defined); internal and external factors acting on the start (Kazakhstan's book.)
 
+**Ways in.** Strand 1 Unit 2: methods of establishing a venture — from scratch, take over a family business, buy an existing business, franchising, joint venture, partnership, licensing, online platform (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 3 — The start-up investigation — and where help is
 
 **The start-up investigation.** The pre-production investigation checklist: the market (want and price), supplies/suppliers (reliability, backup suppliers, terms, quantities), distribution, finances (paying for materials, bank transfer and lending services, insurance in transit), the production process (factor mix, quality) and storage (perishability, cost, fashion risk); freight inwards and outwards costed carefully.

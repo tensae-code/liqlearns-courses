@@ -10,10 +10,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **What a business plan is — and why it matters** — opening; importance; opening; purposes.
+1. **What a business plan is — and why it matters** — opening; importance; opening; purposes.; Strategic planning part
 2. **Feasibility first — can this idea work?** — the feasibility-study.
-3. **The parts of the plan** — format; components; financial-plan; feasibility study and market research.
-4. **Worked plans — the plan made whole** — worked-example; worked-models; writing a business plan; the business plan; opening / what a business plan is; structure of the plan; writing the plan; the plan on one page; closing the plan; purpose of the plan; writing the plan / using the money; writing the plan / goals; the plan / judging the idea first; the plan / the studies around the project; Project-plan; Picturing-the-business; Worked-model part; Plan and users part; Projections part; Pitching part.; The business plan's place in the process part
+3. **The parts of the plan** — format; components; financial-plan; feasibility study and market research.; Planning in depth part; The e-business plan part
+4. **Worked plans — the plan made whole** — worked-example; worked-models; writing a business plan; the business plan; opening / what a business plan is; structure of the plan; writing the plan; the plan on one page; closing the plan; purpose of the plan; writing the plan / using the money; writing the plan / goals; the plan / judging the idea first; the plan / the studies around the project; Project-plan; Picturing-the-business; Worked-model part; Plan and users part; Projections part; Pitching part.; The business plan's place in the process part; Planning the project part; The plan part; Why plan part; Planning steps part; Good planning part; Checking the plan part; Putting the plan to work part; Plan structure part; Planning steps part; Planning for futures part; Judging the plan part; Writing the plan part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

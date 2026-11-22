@@ -46,6 +46,8 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Testing.** Testing: the stage that closes the design-thinking cycle; testing exists to check whether the original assumptions were right, with real users; plan the test first (algorithm, participant list, place, scenario, budget, timing, materials, how results are recorded); during the test, observe and ask clarifying questions, never leading ones (Kazakhstan's book.)
 
+**Creative thinking.** Strand 4: creative techniques for generating business ideas — problem reversal, forced analogy, attribute listing, mind mapping, and brainstorming (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: creativity, innovation, creativity and innovation, creativity and innovation. Your companion asks one question back — answer it from the lesson.

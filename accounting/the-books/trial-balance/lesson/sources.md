@@ -1,6 +1,6 @@
 # Sources — The Trial Balance
 
-countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece, Malaysia, Bhutan
+countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -20,6 +20,10 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 
 **Book 8:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
 
+**Book 9:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 10:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | trial balance part of the lesson | Book 1 (Kenya Business Form 3), printed p. 137 |
@@ -35,9 +39,13 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | trial balance part | Book 7 (Prinsip Perakaunan T4), printed p. 188 |
 | correction part | Book 7 (Prinsip Perakaunan T4), printed p. 215 |
 | preparing a trial balance; what it proves | Book 8 (Accountancy XI), printed p. 104 |
+| proving the books part of the lesson (teacher guide) | Book 9 (PNG Accounting TG 11–12 (2008)), printed p. 41 |
+| trial balance part of the lesson (teacher guide) | Book 10 (PNG Business Studies TG G9 SB (2023)), printed p. 97 |
 
 **Acceptance count: taught in 7 countries (Kenya, Samoa, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
 
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece, malaysia, bhutan
+Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea

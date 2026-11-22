@@ -33,6 +33,10 @@ Think of the last thing you bought because something persuaded you. Was it a per
 
 **Promotion mix part.** The elements of the promotion mix: advertising (informing the public about an idea, goods or services through a paid announcement by an identified sponsor, to promote sales) and sales promotion beside the other elements (Bhutan's book.)
 
+**Promotion techniques.** Unit 10.1: marketing techniques compared by their advantages and disadvantages, and creating an advertisement (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Promotion.** Strand 3 Unit 1: promotion — its methods (display, cash discounts, giveaways, lucky draws, sponsorships, media advertising) and purposes; the promotional mix (advertising, publicity/PR/sponsorship, personal interaction, direct marketing, sales promotions); the costs of promotion and the factors in choosing media; low-cost promotion (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the four forms compared, personal selling and public relations, sales promotion, consumer and trade, advertising, advertising and sales promotion. Your companion asks one question back — answer it from the lesson.

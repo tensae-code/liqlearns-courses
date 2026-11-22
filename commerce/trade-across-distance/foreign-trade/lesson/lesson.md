@@ -77,6 +77,8 @@ Name one thing your country sells to the world and one thing it must buy from th
 
 **Clearing-goods-through-customs.** Customs: their purpose — collecting the duties and taxes that are a basic state revenue, controlling the quality of imports and exports and barring forbidden goods, and so fixing a country's terms of trade; smuggling (λαθρεμπόριο) and its forms; customs clearance (εκτελωνισμός) — the formalities the holder of goods must complete on import or export, beginning with the written declaration (διασάφηση) by the trader or his representative — and demurrage and unclaimed goods (Greece's book.)
 
+**Why countries trade.** Unit 9.1: the reasons for foreign trade; Papua New Guinea's trading partners, imports and exports (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade. Your companion asks one question back — answer it from the lesson.

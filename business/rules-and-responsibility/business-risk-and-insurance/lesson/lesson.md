@@ -33,6 +33,10 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 
 **Internal control part.** The internal control system: its three primary objectives — efficiency and effectiveness in operations (minimising wastage, misutilisation and theft) and the reliability and compliance objectives beside them (Bhutan's book.)
 
+**Insuring the business.** Unit 10.5: insurance — the types of insurance policies for businesses and individuals, and the importance of insurance (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Insuring the business.** Strand 4: types of business insurance and their appropriateness — risk as inherent and manageable; risk management; insurance as the sharing of risks; compulsory insurance (workers' compensation, third-party motor vehicle insurance, superannuation contribution, goods in transit) against voluntary insurance (burglary, cash, fire and flood, goods in transit/export, key personnel, loss of profit, machinery breakdown, personal liability, professional indemnity, product liability, public liability) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is the pooling of risk: many people pay a premium into one pool, and the pool pays the one who suffers the loss — it holds together only under its principles (utmost good faith, insurable interest, indemnity and the rest), and a business chooses the policy that matches each risk it faces. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: principles of insurance, types of business insurance. Your companion asks one question back — answer it from the lesson.

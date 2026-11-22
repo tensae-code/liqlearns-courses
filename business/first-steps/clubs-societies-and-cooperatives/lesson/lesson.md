@@ -35,6 +35,8 @@ Not-for-profit private organisations — charities, local sports and social club
 
 **Roles and procedure part.** The roles and procedures of the office-holders: the Patron, a nominated head of the society who attends meetings when the secretary asks and sponsors and supports the club; the President/Chairman, who chairs the meetings, is the official spokesperson, is elected by all the members and gives good leadership; the Secretary beside them — and the procedure words of a motion: amendment, closure, right of reply, and a motion voted on, carried (action taken as voted) or lost (things stay as they are) (Samoa's book.)
 
+**Forming an association.** Appendix: the steps to incorporating an association (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

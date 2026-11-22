@@ -169,6 +169,22 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Analysis.** Analysis and synthesis as the manager's paired method: analysis breaks the object into parts and improves each, synthesis agrees the parts' characteristics and rejoins them into a whole; applied as business analysis — a standing system for finding the business's problems by comparing key stakeholders' requirements with the firm's actual economic, social and ecological performance (Kazakhstan's book.)
 
+**Management theory.** Strand 2 Unit 1: Scientific Management Theory (Taylor, 1911) — its principles (replace rule of thumb with science, match workers to jobs and train them, monitor performance, divide the work between managers and workers), its strengths, weaknesses and limitations, and Henry Ford's application (division of labour, specialisation, pay as motivation, the conveyor belt) and its bad side (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Levels of management.** Strand 2 Unit 3: people management — the management functions and the three levels of management (low/front-line, middle, top) and their roles (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Goal setting.** Strand 4 Unit 1: SMART goals — setting goals that are specific, measurable, achievable, realistic and time-bound (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Running the company.** Strand 1: the board of directors and the corporate officers, and the role of each (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Officers' duties.** Strand 1: officers' personal liability — the company as an independent entity, limited liability and its limits (lying to government, stealing, embezzlement), and fiduciary duties (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Growing the company.** Strand 1: corporate expansion — conglomerates (Steamships and WR Carpenters as PNG examples, with advantages and disadvantages), mergers (the Air Niugini/Airlines PNG aborted merger), consolidation, and the four integration types (horizontal, vertical, conglomerate, lateral) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Takeovers.** Strand 1: stock acquisition against asset acquisition, with BSP's takeovers as the example (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Layers of planning.** Strand 4: supporting the strategic plan with tactical and operational plans — how the layers of strategy fit; tactical planning (middle managers) and operational planning (the 'how'); operational risks (fraud, lawsuits, environmental and fire risks from failed systems, processes and people) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

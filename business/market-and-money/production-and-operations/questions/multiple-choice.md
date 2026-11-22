@@ -123,3 +123,17 @@ b) The income each factor earns its owner: land — rent, labour — wages, capi
 c) Strand 5: e-commerce pricing — the cost factors (production/buying, labour, promotional, support, return rates); the…
 d) Strand 2 Unit 2: the chart of accounts as the index to the ledger accounts, with account numbering
 **Answer: b) The income each factor earns its owner: land — rent, labour — wages, capital — interest, entrepreneurial ability —…** — That is what this lesson teaches in its factors of production part part (Kazakhstan's book.)
+
+**20.** What does this lesson teach about the what production is part? (Sub lesson 4)
+a) Strand 4 Unit 1: implementation support (people, resources, structure, systems) and the pitfalls of implementation
+b) Unit 9.1: production defined; the factors of production (natural resources, labour, enterprise); the reasons for…
+c) Strand 2 Unit 2: the legal and ethical basis of accounting — the qualitative characteristics (understandability,…
+d) Strand 1 Unit 2: stocktaking; valuing stock issued by FIFO; the stock card
+**Answer: b) Unit 9.1: production defined; the factors of production (natural resources, labour, enterprise); the reasons for…** — That is what this lesson teaches in its what production is part part (Papua New Guinea's teacher guide.)
+
+**21.** What does this lesson teach about the factors of production part? (Sub lesson 1)
+a) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value
+b) Strand 1: the board of directors and the corporate officers, and the role of each
+c) Strand 2 Unit 2: bank reconciliation — its definition, the seven-step procedure, and the reasons for differences…
+d) Strand 1 Unit 2: the factors of production — land, labour, capital and enterprise
+**Answer: d) Strand 1 Unit 2: the factors of production — land, labour, capital and enterprise** — That is what this lesson teaches in its factors of production part part (Papua New Guinea's teacher guide.)

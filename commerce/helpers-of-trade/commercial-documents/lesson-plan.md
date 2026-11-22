@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The documents of a home-trade deal** — business documents.
 2. **The documents a business keeps**
-3. **Foreign-trade documents** — transport documents; Documents-of-a-sale; Documents-of-a-sale; Order-note; Invoice; Receipts; Documents part.; Documents part; Documents part; Documents part; Documents part; Documents part; Documents part; Documents part
+3. **Foreign-trade documents** — transport documents; Documents-of-a-sale; Documents-of-a-sale; Order-note; Invoice; Receipts; Documents part.; Documents part; Documents part; Documents part; Documents part; Documents part; Documents part; Documents part; Documents of trade part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

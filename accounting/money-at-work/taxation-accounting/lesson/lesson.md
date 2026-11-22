@@ -18,6 +18,10 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Tax return part of the proposed lesson.** The annual BIT return (Form BIT 2): its format and how the current and previous accounting periods are shown in it (Bhutan's book.)
 
+**How tax works.** Option 2 Taxation: the types of tax paid by income earners and businesses; the reasons for paying tax; taxpayer requirements; the taxation documents and completing a tax return; deductions and rebates (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Taxation.** Strand 2 Unit 4: taxation — direct tax against indirect tax; the purposes of tax (revenue, redistribution, re-pricing); GST at 10% under the Goods and Services Act 2003, with a worked example; customs duties (export and import, Customs Tariff Act 1990); excise duty; the professional licensing bodies (CPA PNG and others) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: taxation accounting records what a business owes the government: sales tax collected from customers is a liability held for the state, deferred tax is tax on this year's income whose payment falls in a later period, and Bhutan's Business Income Tax (BIT) is computed on business income after its allowable deductions and declared on the annual return. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Sales tax part of the proposed lesson, Deferred tax part of the proposed lesson, BIT part of the proposed lesson, Deductions part of the proposed lesson, Tax return part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

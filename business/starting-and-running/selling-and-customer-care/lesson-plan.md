@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Selling** — selling.
 2. **Terms of sale** — terms of sale.
-3. **Customer service** — customer service; the selling process; customer care; selling and customer care; Service part; Customer-service part.
+3. **Customer service** — customer service; the selling process; customer care; selling and customer care; Service part; Customer-service part.; Selling part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

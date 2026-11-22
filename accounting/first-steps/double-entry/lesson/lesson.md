@@ -42,6 +42,12 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Journal and the debit/credit rules.** The journal as the chronological record of accounting transactions (bookkeeping), the rules of debit and credit, and the types of accounts (liabilities, capital, revenue…) the rules apply to (Bhutan's book.)
 
+**Debit and credit rules.** Unit 11.4 Double Entry Accounting: the rules of debit and credit for proprietorship, assets, revenue, expenses and liabilities; the two-fold effect of a transaction shown on an analysis chart (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Double entry.** Strand 2 Unit 2: recording through the accounting equation A + E = OE + L + R and double entry; the account; the ledger in T format and in columnar format (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Double entry.** Strand 2 Unit 2: double entry — the increase/decrease table for the five account types (assets Dr up, liabilities Cr up, owner's equity Cr up, expenses Dr up, revenue Cr up); the transaction analysis chart; ledger formats (columnar and T); and the trial balance drawn from them (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.

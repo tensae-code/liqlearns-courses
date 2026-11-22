@@ -82,3 +82,17 @@ b) Why depreciation is charged (including retaining funds out of profits for rep
 c) The concepts of marketing and the marketing mix
 d) The statement of cash flows as one of the statement types: it presents the position of the entity's cash and…
 **Answer: b) Why depreciation is charged (including retaining funds out of profits for replacement), carrying amount =…** — That is what this lesson teaches in its depreciation and carrying amount part (Bhutan's book).
+
+**13.** What does this lesson teach about the valuing assets part?
+a) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value
+b) Strand 1: shareholder rights — common shareholders (voting, ownership, transfer, dividends, inspect documents, sue)…
+c) Strand 2 Unit 2: accounts receivable and accounts payable and their management — credit policies, shortening…
+d) Strand 2 Unit 3: employment contracts — express and implied terms (salary, sickness, working hours, holiday…
+**Answer: a) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value** — That is what this lesson teaches in its valuing assets part part (Papua New Guinea's teacher guide.)
+
+**14.** What does this lesson teach about the valuing assets part?
+a) Strand 2 Unit 3: rightsizing against downsizing, and the internal and external factors behind rightsizing
+b) Strand 2 Unit 5: input technologies — what an input device is; ten input devices; data manipulation (what it is, its…
+c) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value
+d) Strand 3: new product pricing — price-skimming and market-penetration pricing, and the conditions each needs to work
+**Answer: c) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value** — That is what this lesson teaches in its valuing assets part part (Papua New Guinea's teacher guide.)

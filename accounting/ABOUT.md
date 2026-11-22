@@ -34,13 +34,13 @@ incomplete records, control accounts, zakat, branches) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting,
 investment accounts).
-**37 lessons, 509 placements stocked.**
+**37 lessons, 567 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 38 books
-in all (33 student books and 5 teacher guides); the 21 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 42 books
+in all (33 student books and 9 teacher guides); the 25 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 17 read
 books — Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Sygchrones Synallages B EPAL, Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
@@ -268,12 +268,20 @@ they are named here so the read set is whole.
 
 - *Business and Entrepreneurship, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file. **Grade: Class XII (grade-12). STUDENT book. Language: English.** 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It stocked 1 placements into this course.
 
+- *Accounting — Upper Secondary Teacher Guide* — coordinated by Jennifer Sangga; Department of Education, Papua New Guinea, with support from the Australian Government (Education Capacity Building Program). Published 2008; ISBN 978-9980-9923-7-6. **Upper Secondary (Grades 11–12). TEACHER GUIDE. Language: English.** 65 PDF pages. **Verdict: COMPLETE** — read whole guide to the last page. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and it is recorded as it is.) Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course's own Accounting pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 18 placements into this course.
+
+- *Business Studies — Lower Secondary Teacher Guide, Grades 9–10* — coordinated by Jennifer Sangga; Department of Education, Papua New Guinea, with CRIP / Australian Government support. Published 2006; ISBN 9980-935-45-6. **Grades 9–10 (Lower Secondary). TEACHER GUIDE. Language: English.** 145 PDF pages = 145 printed pages. **Verdict: COMPLETE** — read whole guide to the last page, including all four Options and the Appendix of sample documents. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 9 placements into this course.
+
+- *Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-04-8. **Grade 9 (Junior High). TEACHER GUIDE. Language: English.** 324 PDF pages = 324 printed pages. **Verdict: COMPLETE** — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). **This record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact (26,160,225 B) and read in full. No library debt on this record.** Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 19 placements into this course.
+
+- *Business Studies — Grade 12 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-07-9. (Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High".) **Grade 12. TEACHER GUIDE. Language: English.** 392 PDF pages = 392 printed pages. **Verdict: COMPLETE** — read whole guide; every topic's Content Background in the Units of Work was read and filed. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 12 placements into this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 37 lessons, stocked with
-  509 placements in all — 499 of them from **student books** of 13 countries (Dominica,
+  567 placements in all — 499 of them from **student books** of 13 countries (Dominica,
   Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Bhutan) — taught in 13 countries;
-  the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
+  the other 68 are teacher-guide evidence from Zambia, Indonesia and Papua New Guinea (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** Zambia's
@@ -286,14 +294,22 @@ they are named here so the read set is whole.
   likewise stocked evidence only — 2 placements in this course
   (10 across the split), each marked (teacher guide); Indonesia
   counts as a teaching country only through its student book.
-  One further teacher guide stands in the pending queue below
-  (Papua New Guinea's Accounting Teacher Guide Grades 11–12,
-  labelled as a teacher guide in the queue) and, when it comes,
-  will be evidence only (acceptance 0), as in every course.
+  Papua New Guinea's four teacher guides (all read
+  2026-11-22) — 58 placements stocked as evidence only,
+  acceptance 0: the *Accounting — Upper Secondary Teacher
+  Guide* (2008; 18 placements — the manifest called it
+  Standards Based, but the book is the 2008 OBE-era guide and
+  is recorded as it is) and the three *Business Studies*
+  teacher guides (the Lower Secondary Teacher Guide Grades
+  9–10 (2006), the Grade 9 Standards-Based Teacher Guide
+  (2023) and the Grade 12 Standards-Based Teacher Guide
+  (2023); 40 placements between them). Papua New Guinea is
+  counted nowhere as a teaching country, and every lesson
+  they touch says so in its sources.
 
 ## The pending queue — Accounting books not yet in the course
 
-12 Accounting books are in hand in the library record but were
+11 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -306,10 +322,6 @@ hold lifts and they are read.
 - [ACCOUNTING · student] Year 11 Accounting Textbook (amended 2015) (grade-11) — secured-not-on-disk
 - [ACCOUNTING · student] Year 12 Accounting (Grade 12) — secured-not-on-disk
 - [ACCOUNTING · student] Senior Accounting for Year 13 (Grade 13) — secured-not-on-disk
-
-
-**Papua New Guinea (1):**
-- [ACCOUNTING · teacher] Accounting Teacher Guide Grades 11-12 (Secondary, Standards Based) (Grade 11) — secured-not-on-disk
 
 
 **Sri Lanka (8):**
@@ -357,3 +369,18 @@ hold lifts and they are read.
   the book can be read in full — the debt stands until then.
   Kenya's Form Two book has no copy anywhere and stays in the
   Business pending queue (no-copy-exists).
+
+- **Papua New Guinea — teacher guides only; the phantom that
+  was not; and a manifest label corrected:** all four Papua
+  New Guinea books read in the Phase 2 wave are teacher guides,
+  stocked as evidence only (acceptance 0); Papua New Guinea
+  counts nowhere in this course as a teaching country. The
+  Grade 9 Standards-Based *Business Studies* guide was the
+  suspected phantom push: it is NOT a phantom — it was found
+  as a GitHub release asset, landed byte-exact and read in
+  full. The *Accounting — Upper Secondary Teacher Guide* was
+  labelled "Standards Based" in the manifest; the book itself
+  is the 2008 OBE-era guide (ISBN 978-9980-9923-7-6) and is
+  recorded as it is. The Grade 12 guide's cover says "Junior
+  High — Grade 12" while its title page says "Senior High" —
+  recorded as printed.

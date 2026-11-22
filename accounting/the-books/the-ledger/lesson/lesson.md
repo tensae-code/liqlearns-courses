@@ -71,6 +71,12 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Posting journal to ledger.** Posting: transferring the transactions recorded in the journal into the relevant ledger accounts, following the set procedure, and balancing accounts (balance c/d and b/d) (Bhutan's book.)
 
+**Ledger accounts.** Unit 11.4: construct and balance ledger accounts; the chart of accounts as the list the accounts are drawn from (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Posting.** Unit 12.1: post from the journals to the ledgers, general and subsidiary (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Chart of accounts.** Strand 2 Unit 2: the chart of accounts as the index to the ledger accounts, with account numbering (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.

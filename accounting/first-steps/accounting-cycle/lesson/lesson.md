@@ -36,6 +36,10 @@ The accounting cycle closed out: preparing the financial statements and the repo
 
 **The accounting cycle as a whole.** The process of accounting drawn as the full cycle: identification of transactions → recording in journal → posting to ledger → trial balance → adjusted trial balance → preparation of financial statements → analysis, interpretation and reporting, with rectification of errors inside the cycle (Bhutan's book.)
 
+**The cycle as a whole.** Unit 12.2 Final Reports: the whole accounting cycle, from source documents through to the final reports (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The cycle.** Strand 2 Unit 2: the accounting cycle as a steps diagram — transaction, extract data from source documents, transfer to journals, post to ledgers, balance the ledgers and extract a trial balance, financial statements (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.

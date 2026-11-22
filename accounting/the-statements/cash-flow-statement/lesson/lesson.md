@@ -33,6 +33,8 @@ Cash flow: the transfers of cash in and out of a business over time, and net cas
 
 **Indirect method part.** The company cash flow statement by the indirect method: starting from profit before tax and adjusting for non-cash transactions (depreciation) and changes in working capital (inventory, receivables) to reach cash from operating activities (Bhutan's book.)
 
+**Cash flow format.** Appendix: the cash flow statement format (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement, the cash flow statement, the cash flow statement. Your companion asks one question back — answer it from the lesson.

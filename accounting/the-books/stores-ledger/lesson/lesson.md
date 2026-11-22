@@ -16,6 +16,10 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Ledger part of the proposed lesson.** Keeping the stores ledger: receipts and issues priced and balanced (issues under the set valuation method), normal loss entered in the quantity column only with the price inflated over the remaining units, stock verification shortages, and why transfers of excess material between jobs should be avoided (Bhutan's book.)
 
+**Stock records.** Strand 1 Unit 2: stocktaking; valuing stock issued by FIFO; the stock card (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Stock.** Strand 2 Unit 2: inventory — stocktaking; stock cards and FIFO; the importance of inventory control; the three recording methods (periodic, perpetual, and perpetual weighted average) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the stores ledger is the cost-accounting record of the factory store: every receipt and issue of material is priced and balanced in it, fed by the stores documents, so the business always knows what materials it holds, what they cost, and what each job used. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Opening part of the proposed lesson, Documents part of the proposed lesson, Ledger part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

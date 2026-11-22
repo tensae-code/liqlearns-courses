@@ -25,6 +25,8 @@ Think of the last thing you bought from a person, not a machine. Walk through wh
 
 **Customer-service part.** The sales and customer-service functional departments: customer service defined as the organisation's ability to deliver products that meet and exceed what customers expect, continuously and consistently (Malaysia's book.)
 
+**Selling.** Strand 3 Unit 2: the sales process in seven steps — prospecting, preparation, approach, presentation, handling objections, closing, follow-up (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: selling is a process with steps — prepare, find the buyer, present the goods, handle objections, close the sale — done on terms both sides understand, and it is finished only by customer care: looking after the buyer before, during and after the purchase so that they come back. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: selling, terms of sale, customer service. Your companion asks one question back — answer it from the lesson.

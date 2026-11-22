@@ -120,6 +120,22 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 **Management accounting purposes.** Management accounting introduced: it plays a crucial role in helping organisations achieve their financial and operational objectives through effective planning, decision-making and control (Bhutan's book.)
 
+**What the subject is for.** The six broad learning outcomes of upper secondary Accounting, including the role of accounting in society and the place of accounting standards (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Foundations.** Unit 11.3 Introduction to Accounting: bookkeeping compared with accounting; accounting terminology; the conventions and doctrines of accounting; ethics and standards in accounting (teacher guide) (Papua New Guinea's teacher guide.)
+
+**What accounting is.** Strand 2 Unit 2: accounting defined — identify, record, classify, summarise, analyse/interpret, communicate (the first two stages are bookkeeping); frameworks, principles and standards; the assumptions table (business entity, historical cost, period, monetary, going concern, consistency) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Why accounting is done.** Strand 2 Unit 2: the purpose and functions of accounting; the four statements named (profit and loss, balance sheet, income statement, cash flow) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Users.** Strand 2 Unit 2: the users of accounting information and what each uses it for (investors, management, the IRC/tax office, government, owners, creditors and banks, employees, customers, suppliers, lenders, analysts) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Standards and ethics.** Strand 2 Unit 2: the legal and ethical basis of accounting — the qualitative characteristics (understandability, relevance, reliability, comparability, materiality); PNG's regulation sources (Companies Act 1997, IFRS, Accountants Act 1996, Public Finance Management Act, Income Tax and GST Acts); unethical practices (leaking information, manipulating records for tax, inflating or deflating profit) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Principles.** Strand 2 Unit 2: accountability, transparency, honesty and compliance as accounting principles; making decisions from financial statements (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The elements classified.** Strand 2 Unit 2: the classifications within assets, liabilities and equity (current against non-current); revenue defined and its recognition criteria; profit or loss from revenue against expenses; expenses defined and their recognition (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part of the lesson, opening part, users-of-information part, uses part, concepts part of the lesson, opening / what accounting is, who does accounting / specialisations, users of accounting information, financial vs non-financial information, source documents in everyday life, accounting con, what accounting is, the standards accounting follows, what accounting is for, who uses accounting information, the concepts accounting rests on, what accounting is, what accounting is, what accounting is, the framework accounting follows, who uses accounting information, the principles accounting rests on. Your companion asks one question back — answer it from the lesson.

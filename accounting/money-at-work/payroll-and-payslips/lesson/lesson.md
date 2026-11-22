@@ -18,6 +18,10 @@ The pay advice slip's required contents (employee and employer names, employee n
 
 **Payroll records and controls.** Accounting for payroll: changes in the remuneration payable to an employee must be properly authorised and validated, and the salary and wage payments to employees must be properly recorded (Bhutan's book.)
 
+**Working out take-home pay.** Option 2 Taxation: wage and tax calculations — gross pay, deductions and net pay (a 22% rate example is worked in the activities) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Running the payroll.** Strand 2 Unit 3: the payroll management tasks inside compensation administration (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a payslip shows how pay is built: hours at a rate (with overtime at one-and-a-half or double) make gross pay, deductions such as tax come off, and what is left is net pay. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: payslips and net pay, payslips and overtime. Your companion asks one question back — answer it from the lesson.

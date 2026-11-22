@@ -37,6 +37,9 @@ Imagine a fire takes a trader's whole stock in one night. Alone, he is ruined. N
 **Insurance as a trade service.** Life insurance and its policy types: whole-life policies (premiums for life, payment on death, with variants) and endowment-type (आवधिक) policies (ordinary, double-benefit and joint-life forms, paying on survival or death), and term policies (temporary, and renewable without a fresh medical test) (Nepal's book.)
 
 **Insurance as a trade service.** The general principles of insurance: utmost good faith, insurable interest, indemnity (only the actual loss is paid — an insured vehicle worth a stated sum can never pay more than that sum; insurance compensates, it does not profit), contribution, subrogation, proximate cause (the fire, not the water used to fight it, is the cause of the loss), and mitigation of loss (the insured must still try to lessen the damage) (Nepal's book.)
+
+**How insurance works.** Strand 5: insurance for e-business — insurance as the pooling or sharing of risks (premiums into a fund, compensation from the fund); insurers and the insured; insurance brokers and agents in PNG and their commissions; the principles of insurance (utmost good faith, insurable interest, indemnity); the steps to taking out insurance (proposal form, premium, cover note, policy); and making a claim (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is pooled protection: many pay small premiums into one fund, and the fund pays the few who suffer the loss — governed by insurable interest, indemnity and utmost good faith. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: insurance as pooled protection, the three principles, the policy family, sorted three ways, life assurance in depth. Your companion asks one question back — answer it from the lesson.

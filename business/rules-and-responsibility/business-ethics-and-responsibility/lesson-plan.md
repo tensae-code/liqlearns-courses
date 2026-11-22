@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Ethics part; Ethics part; Ethics part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Ethics part; Ethics part; Ethics part.; Ethics in the project part; What ethics means part; Ethics part; Values part; Marketing ethics part; Ethics in practice part; Ethics online part; Internet fraud part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a factory with clean water running past it and workers, customers and neighbours all drawn around it as people the factory must answer to → the student names each group in the picture and one responsibility the business owes that group.

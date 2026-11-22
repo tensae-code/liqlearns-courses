@@ -1,6 +1,6 @@
 # Sources — What Is Commerce
 
-countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan
+countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Papua New Guinea
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -20,6 +20,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan
 
 **Book 9:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
 
+**Book 10:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | distribution part of the lesson | Book 1 (Kenya Business Form 3), printed p. 49 |
@@ -34,7 +36,10 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan
 | the what-trade-is part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed p. 32 |
 | commerce part | Book 8 (Business and Entrepreneurship XI), printed p. 7 |
 | classification of trade part of the lesson | Book 9 (Kenya Business Form 1), PDF p. 103 |
+| trade and its aids part of the lesson (teacher guide) | Book 10 (PNG Business Studies TG 9–10 LS (2006)), printed p. 27 |
 
 **Acceptance count: taught in 8 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania, greece, bhutan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania, greece, bhutan, papua-new-guinea

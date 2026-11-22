@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cash flow statement; Indirect method part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cash flow statement; Indirect method part.; Cash flow format part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a river flowing into and out of a tank labelled bank balance: streams in marked sales, loans and capital, streams out marked suppliers, expenses and drawings, the level rising from opening to closing — the student names two inflows and two outflows

@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Principles of insurance** — principles of insurance.
-2. **Types of business insurance** — types of business insurance; risk in one's own business; business risk; Protection part; Risk concepts part; Risk process part; Internal control part.
+2. **Types of business insurance** — types of business insurance; risk in one's own business; business risk; Protection part; Risk concepts part; Risk process part; Internal control part.; Insuring the business part; Insuring the business part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

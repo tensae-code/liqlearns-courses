@@ -22,6 +22,14 @@ A personal bank statement is read line by line and reconciled with the holder's 
 
 **Bank reconciliation preparation.** Preparing the bank reconciliation: unpresented cheques issued to suppliers, bank charges debited by the bank, and a customer depositing directly into the bank account by mobile application are the differences to reconcile (Bhutan's book.)
 
+**Reconciling the cash book with the bank statement.** Unit 11.1: construct a bank reconciliation statement from business records, and fill in bank documents correctly (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Checking the bank account.** Unit 10.3: the bank reconciliation process for the small business (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Banking.** Strand 1 Unit 2: banking for the small venture — the deposit slip, withdrawal form and bank statement, and bank reconciliation defined (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Reconciling the bank.** Strand 2 Unit 2: bank reconciliation — its definition, the seven-step procedure, and the reasons for differences (deposits not credited, outstanding cheques, bank fees, interest, NSF cheques) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book and the bank statement rarely show the same balance on the same day; a bank reconciliation explains the difference, item by item, until the two agree. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: main part, bank reconciliation, personal form, bank reconciliation. Your companion asks one question back — answer it from the lesson.

@@ -56,6 +56,10 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Changes in equity part.** The statement of changes in equity: accumulated profit brought forward, plus profit after tax, less dividend paid, gives the accumulated profit carried forward (Bhutan's book.)
 
+**Liability.** Strand 1: shareholders' liability — limited by shares and limited by guarantee; when shareholders and directors become personally liable (trading while insolvent, disposing of assets below value, fraud, an overdrawn director's loan account, illegal dividends); the liquidator's role; liability for tax debts (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Dividends.** Strand 2 Unit 2: dividends — cash dividends against stock dividends against stock splits, and their effects on the balance sheet (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.

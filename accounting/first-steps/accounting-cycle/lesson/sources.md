@@ -1,6 +1,6 @@
 # Sources — The Accounting Cycle
 
-countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
+countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
 
 **Book 1:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
@@ -20,6 +20,10 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
 
 **Book 9:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
 
+**Book 10:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 11:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | the accounting cycle as a whole | Book 1 (Bus Studies Y11 Bk2), printed p. 96 |
@@ -37,9 +41,13 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
 | the year-end-sequence part of the lesson | Book 7 (Logistikes Efarmoges G EPAL), printed pp. 178–179 |
 | cycle part | Book 8 (Prinsip Perakaunan T4), printed p. 2 |
 | the accounting cycle as a whole | Book 9 (Accountancy XI), printed p. 17 |
+| the cycle as a whole part of the lesson (teacher guide) | Book 10 (PNG Accounting TG 11–12 (2008)), printed p. 42 |
+| the cycle part of the lesson (teacher guide) | Book 11 (PNG Business Studies TG G9 SB (2023)), printed p. 93 |
 
 **Acceptance count: taught in 7 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan
+Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan, papua-new-guinea

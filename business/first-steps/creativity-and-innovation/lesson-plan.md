@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Creativity** — creativity.
-2. **Innovation** — innovation; Creativity part; Concepts part; Creative methods part.; Innovation part; Design thinking part; Design thinking part; Idea generation part; Innovation types part; Design thinking introduction part; Thinking types part; Empathy part; Analysis and synthesis part; Idea generation part; Prototyping part; Testing part
+2. **Innovation** — innovation; Creativity part; Concepts part; Creative methods part.; Innovation part; Design thinking part; Design thinking part; Idea generation part; Innovation types part; Design thinking introduction part; Thinking types part; Empathy part; Analysis and synthesis part; Idea generation part; Prototyping part; Testing part; Creative thinking part
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

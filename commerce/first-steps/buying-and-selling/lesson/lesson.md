@@ -33,6 +33,10 @@ Take a pretend purchase: 100 exercise books for a shop. Write a price, then ask 
 
 **Discounts.** Trade discount and cash discount worked as calculations: on a sh 10,000 price, trade discount of 10% (sh 1,000) is taken first, leaving sh 9,000 payable; cash discount is then calculated on that reduced amount (10% = sh 900, so sh 8,100 is paid; at 5% = sh 450, so sh 8,550 is paid) (Kenya's book.)
 
+**Deciding what to buy.** Unit 9.2: the decision-making process for purchases (identify the problem, brainstorm options, choose, implement, review) and comparing prices before buying (teacher guide) (Papua New Guinea's teacher guide.)
+
+**When a sale goes wrong.** Strand 3: breach of a sales contract — what a sales contract records (the parties, the transaction, contingencies, the status of the contract) and the buyer's remedies against a seller in breach (damages for non-delivery, suit for price, specific performance, breach of warranty, damages for repudiation, interest) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying and selling run on agreed terms — the discounts of trade, the quoted price and what it covers, and the moment payment is due — and the trader who knows the terms knows the real price. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the three discounts of trade, cash discount against trade discount, quoted prices in home trade, the timing of payment. Your companion asks one question back — answer it from the lesson.

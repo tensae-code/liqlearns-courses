@@ -35,6 +35,8 @@ Business study opens a wide range of career options: the book surveys the paths 
 
 **Career paths.** Three career paths compared: employee in a small firm, a career inside a large company (start small, salary capped however high it climbs), and the independent business path, which removes the "salary ceiling" — you earn as much as your business earns — but brings responsibility with the freedom (Kazakhstan's book.)
 
+**Getting a job.** Unit 10.4: preparing for the workplace — the job application portfolio and record of achievement (CV/resume, references, certificates, school reports), job search research, and formal and informal interview skills and preparation (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options, careers in business, careers in business. Your companion asks one question back — answer it from the lesson.

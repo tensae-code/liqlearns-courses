@@ -129,6 +129,12 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Means of payment.** The bank draft: a bank's own written order to pay, marked "A/C Payee Only", promising to pay a named payee on demand a stated sum in words and figures, signed for the bank by its manager (Kenya's book.)
 
+**Financial institutions.** Unit 9.1: the role of financial institutions in production and trade (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Paying.** Strand 3: the different methods of paying for goods and services — cash, cheques, credit cards and debit cards, and how each works (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Paying online.** Strand 5: the different methods of paying for products on the internet — credit cards, mobile payments, bank transfers, e-wallets, prepaid cards, direct deposit, and cash (cash on delivery and its risks), and which suit which business (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Business Calculations
 
-countries: Egypt, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Sudan, Guatemala, Malaysia, Bhutan, Kazakhstan
+countries: Egypt, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Sudan, Guatemala, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -36,6 +36,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 15:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
 
+**Book 16:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 17:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | the working-out-what-a-job-costs part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 51–53 |
@@ -69,8 +73,14 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | price build-up part of the lesson | Book 15 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 88 |
 | price and price structure part | Book 14 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 120 |
 | pricing strategies part | Book 14 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 120 |
+| costing part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG 9–10 LS (2006)), printed p. 53 |
+| calculation methods part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG 9–10 LS (2006)), printed p. 98 |
+| cost of goods sold part of the lesson (teacher guide) | Book 17 (PNG Business Studies TG G12 SB (2023)), printed p. 162 |
+| mark-up part of the lesson (teacher guide) | Book 17 (PNG Business Studies TG G12 SB (2023)), printed pp. 165–166 |
 
 **Acceptance count: taught in 11 countries (Egypt, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Sudan, Malaysia, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: business calculations, market and money, business, egypt, samoa, dominica, ecuador, iran, nicaragua, palestine, sudan, guatemala, malaysia, bhutan, kazakhstan
+Searchable tags: business calculations, market and money, business, egypt, samoa, dominica, ecuador, iran, nicaragua, palestine, sudan, guatemala, malaysia, bhutan, kazakhstan, papua-new-guinea

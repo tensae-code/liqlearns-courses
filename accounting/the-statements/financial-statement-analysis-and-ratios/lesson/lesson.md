@@ -67,6 +67,12 @@ Two shops each made a profit of 10,000 — but one used capital of 20,000 and th
 
 **Projected analysis part.** Analysing the projected statements: the net profit margin (also called percentage return on sales or margin on sales) calculated from revenue and cost of sales (Bhutan's book.)
 
+**Analysing performance.** Unit 12.3 Assessing Business Performance: key performance indicators for profitability, liquidity and efficiency and calculating the ratios; financial against non-financial indicators; variances, trends and benchmarks (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ratio analysis.** Strand 2 Unit 2: financial ratios, each with its formula — the current ratio, the debt-equity ratio, return on sales, return on equity, and accounts receivable turnover (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The cash cycle.** Strand 2 Unit 2: the operating cycle — its definition and formula (inventory period plus receivables period), the inventory and receivables turnover formulas, the net operating cycle/cash conversion cycle (less the payables period), and how to shorten the cycle (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: ratios and percentages read the financial statements: one figure set against another judges profitability, liquidity and efficiency, and lets a business be compared across years and against other businesses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed accounting-ratios lesson (same proposal as filed from the Nigeria book), proposed accounting-ratios lesson, opening part of the new lesson, calculation part, calculation and interpretation part, comparison part of the new lesson, ratio part of the new lesson, judgement part of the new lesso, financial statement analysis and ratios, financial statement analysis and ratios, financial statement analysis and ratios. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Marketing
 
-countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan, Kazakhstan
+countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan, Kazakhstan, Papua New Guinea
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -47,6 +47,12 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 19:** Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10 textbook, in two parts (student book) — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 (lessons 1–32) ISBN 978-601-7817-00-8, 144 pp.; Part 2 (lessons 33–68) ISBN 978-601-7817-01-5, 188 pp. Grade: Grade 10. Language: Kazakh. Page count: Part 1 144 PDF pages, Part 2 188 PDF pages (printed p. = PDF p. in both parts, folio-verified). Source: manifest manifests-phase2/kazakhstan.json n=1 (okulyk 604 = Part 1) and n=2 (okulyk 605 = Part 2); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), Part 1 6,228,655 B and Part 2 5,814,463 B = expected exactly, to scratch-phase2/kazakhstan/kz-604.pdf and kz-605.pdf (read copies deleted after the read). Verdict: COMPLETE — read whole, both parts, to the last teaching page. Filed as ONE book in two parts.
 
 **Book 20:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
+
+**Book 21:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 22:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 23:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -142,10 +148,41 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | communications planning part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 71 |
 | sales promotion part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 71 |
 | BTL part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 79 |
+| what marketing does part of the lesson (teacher guide) | Book 21 (PNG Business Studies TG 9–10 LS (2006)), printed p. 66 |
+| tourism marketing part of the lesson (teacher guide) | Book 21 (PNG Business Studies TG 9–10 LS (2006)), printed p. 109 |
+| what marketing is part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 141–142 |
+| selling vs marketing part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed p. 142 |
+| forecasting sales part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 144–146 |
+| the marketing mix part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 147–148 |
+| the mix as a whole part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 149–150 |
+| kinds of research part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 154–155 |
+| doing research part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 156–157 |
+| research ethics part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 158–159 |
+| data part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 160–161 |
+| the marketing process part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 162–163 |
+| start-up research part of the lesson (teacher guide) | Book 23 (PNG Business Studies TG G9 SB (2023)), printed pp. 183–184 |
+| setting the price part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 159–160 |
+| what moves the price part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed p. 161 |
+| changing the price part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 167–168 |
+| pricing strategy part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 169–170 |
+| pricing a new product part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 171–172 |
+| who buys part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 175–176 |
+| understanding buyers part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 177–178 |
+| marketing's environment part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 180–181 |
+| applying pricing strategies part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 182–183 |
+| supply, demand and price part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed p. 184 |
+| elasticity part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed p. 185 |
+| international pricing part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 186–187 |
+| e-marketing part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 261–262 |
+| internet pricing part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 276–277 |
+| regulated pricing part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed p. 278 |
+| global pricing influences part of the lesson (teacher guide) | Book 22 (PNG Business Studies TG G12 SB (2023)), printed pp. 279–280 |
 
 **Acceptance count: taught in 13 countries (Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `market-research` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan, kazakhstan
+Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan, kazakhstan, papua-new-guinea

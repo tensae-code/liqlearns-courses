@@ -20,6 +20,12 @@ Personal expenditure split into essential and non-essential, with the Samoan tea
 
 Budgeting for a big one-off family event: list income, list essential and non-essential expenditure, make the budget balance with a surplus if possible — worked through an extended-family wedding budget where six family groups share the contribution.
 
+**Project records.** Unit 9.4: keeping the project's financial records and presenting simple financial reports and a formal business report (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The business's own books.** Unit 10.3: recognising, organising and maintaining a file of source documents; bookkeeping — recording cash and credit transactions, keeping stock records and banking documents, and producing a profit and loss statement (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The venture's books.** Strand 1 Unit 2: entrepreneurial financial skills — bookkeeping defined and its purposes (decision making, accountability); the cash book; the cash receipts and payments journals; source documents (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a small business keeps its accounts by knowing what counts as a business transaction, keeping its documents as proof, classifying its spending, and budgeting — simple, accessible and up to date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: keeping and storing documents, transactions in a small business, personal expenditure classification, personal/event budgeting (Samoa's family way). Your companion asks one question back — answer it from the lesson.

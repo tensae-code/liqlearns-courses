@@ -16,6 +16,14 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Staff relations.** Building good management–staff relations: lead by example, two-way communication and open-door policies, good working conditions, rewarding effort, clear grievance procedures and encouraging teamwork
 
+**Managing people.** Strand 2 Unit 3: human resource management defined; its three roles (administrative, operational, strategic); the managerial functions (planning, organising, directing, controlling) and the operative functions (recruitment, job analysis and design, performance appraisal, training and development, salary administration, employee welfare, labour relations) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**People and profit.** Strand 1: the economic impact of employee actions on employer profitability — unions, working conditions and productivity, employee relations, staff turnover (voluntary and involuntary) and its costs, and the effect of the wage rate on profit (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Appraisal.** Strand 2 Unit 3: evaluating employee performance — what performance evaluation is, its objectives, why a systematic system is needed, what a review includes, and how to write one (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Appraisal tools.** Strand 4: appraising employee performance — what appraisal is; the tools prepared beforehand (duty statement, job description, activity plan, goals, objectives, key performance indicators, management action plan, and the resources needed) and what each is (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 2 — Managing people so the business grows
 
 **Application.** Applying HRM so the business develops sustainably.
@@ -27,6 +35,12 @@ Count the workers in one business you know. For each, name the job they do and o
 **Motivation and teamwork.** Motivating employees: financial methods (overtime pay, piece rate, bonuses, commission, profit-sharing, allowances) and non-financial methods (training, promotion opportunities, awards/recognition, team-oriented culture); teamwork — how to build a team (task, skills mix, personalities) and its advantages/disadvantages
 
 **Training support.** Government-supported training and human resource development: recruitment and training are costly and businesses under-invest because trained workers may leave, so governments assist with training; the benefits — improved worker productivity and performance, closing the skills gap, consistent working to correct procedures, and increased job satisfaction
+
+**Why appraise.** Strand 2 Unit 3: the reasons for performance appraisal, and its impact on employees, on the organisation, and on motivation (social comparison theory, feedback intervention theory, goal orientations) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Promotion.** Strand 2 Unit 3: employee advancement opportunities and the advancement–motivation–satisfaction–feedback cycle (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Training.** Strand 4: training programmes for new employees — why the modern worker must be trained, re-trained and up-skilled; induction and what a well-prepared induction achieves; assessing training needs so training is needs-driven; training as a competitive edge; the systematic training approach (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Sub lesson 3 — Pay — how wages and salaries are worked out
 
@@ -50,6 +64,20 @@ Count the workers in one business you know. For each, name the job they do and o
 **HR-department part.** The human-resource functional department and its four roles in developing and driving the growth of a business (Malaysia's book.)
 
 **HRM part.** The concepts of human resource management (HRM): managing the people side of the business as its own function (Bhutan's book.)
+
+**Why HRM matters.** Strand 2 Unit 3: the importance and objectives of HRM (societal, organisational, functional, personal) and HRM strategies (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Hiring.** Strand 2 Unit 3: recruitment — the five processes from job specification through strategy, searching (internal against external sources) and screening to evaluation and control, and the seven stages of recruitment and selection ending in induction (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Pay and benefits.** Strand 2 Unit 3: compensation plans, benefit packages and incentive programmes; the factors that set compensation (competitive analysis, cost of living, labour negotiations, qualifications, supply and demand) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Setting pay levels.** Strand 2 Unit 3: the issues in determining compensation — competing for talent, legal compliance (the Equal Pay Act), executive compensation design, recognising and rewarding (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Resizing the workforce.** Strand 2 Unit 3: rightsizing against downsizing, and the internal and external factors behind rightsizing (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ending employment.** Strand 2 Unit 3: termination — the fair process (identify and document, coach, performance improvement plan, terminate, exit interview) and the acceptable reasons (incompetence, insubordination, attendance, theft, harassment, violence) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Entitlements.** Strand 4: employee entitlements — the compensation package (pay, overtime, allowances, paid holidays, increments, paid leave, skills development and other benefits); incentives against motivation; Maslow's hierarchy of needs; wage rates and overtime rates; recreational leave (after 12 months), sick leave (9–27 days after 3 months), long service leave (6 months after 13 years); retirement and superannuation funds (Nambawan Supa and NASFund) (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Say it to your companion
 

@@ -97,6 +97,10 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Startup method.** A company and a startup compared in a table (activity, strategy, process, knowledge); start from a prototype, not a perfect product; the pivot — changing direction when the first model fails, with the Instagram, Groupon, Twitter and PayPal turns as examples (Kazakhstan's book.)
 
+**Finding the idea.** Strand 4 Unit 2: generating business ideas (creative thinking, finding a niche; personal and environmental factors); a business opportunity as a market gap; how to identify a gap (observation, questionnaires, consultation, reading) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Finding the idea.** Strand 4: starting a business or an entrepreneurial venture — where business ideas come from (studying the existing market for totally new ideas or improvements), and the personal and environmental factors behind a new business idea (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Adjustments to Financial Statements
 
-countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
+countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -21,6 +21,8 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
 **Book 9:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
 
 **Book 10:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
+**Book 11:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -66,9 +68,12 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
 | revaluation | Book 9 (Accountancy XI), printed p. 176 |
 | provisions part | Book 10 (Accountancy XII), printed p. 99 |
 | guarantees and onerous contracts part | Book 10 (Accountancy XII), printed p. 109 |
+| adjustments part of the lesson (teacher guide) | Book 11 (PNG Accounting TG 11–12 (2008)), printed p. 43 |
 
 **Acceptance count: taught in 7 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
 
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
 Filed name note: the placement(s) from Malaysia filed under `inventory-valuation` (proposed as a NEW lesson by Malaysia's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: adjustments to financial statements, the statements, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan
+Searchable tags: adjustments to financial statements, the statements, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan, papua-new-guinea

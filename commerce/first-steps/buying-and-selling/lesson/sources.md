@@ -1,6 +1,6 @@
 # Sources — Buying and Selling
 
-countries: Kenya, Nigeria, Nicaragua, Greece
+countries: Kenya, Nigeria, Nicaragua, Greece, Papua New Guinea
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -11,6 +11,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 **Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
 **Book 5:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
+
+**Book 6:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 7:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,7 +30,11 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the delivery-terms part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 52–55 |
 | the sales-channels part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 55–58 |
 | discounts part of the lesson | Book 5 (Kenya Business Form 1), PDF p. 158 |
+| deciding what to buy part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG 9–10 LS (2006)), printed p. 33 |
+| when a sale goes wrong part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed pp. 193–194 |
 
 **Acceptance count: taught in 4 countries (Kenya, Nigeria, Nicaragua, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: buying and selling, first steps, commerce, kenya, nigeria, nicaragua, greece
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: buying and selling, first steps, commerce, kenya, nigeria, nicaragua, greece, papua-new-guinea

@@ -45,6 +45,10 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 
 **Collective-investment.** Investment companies: the forms that pool the public's savings for investment in securities — mutual funds and portfolio investment companies — and how they let small savers hold a spread of shares and bonds (Greece's book.)
 
+**The share market.** Strand 1: capital markets in PNG — the Securities Commission (est. 1998) and its functions; the stock exchange defined; POMSoX, the Port Moresby Stock Exchange (ordinary shares only; no capital gains tax, stamp duty or GST on share transactions; brokers BSP and Kina Securities; listed examples BSP, PNG Air, Credit Corporation); shares defined; common against preference against redeemable preference shares (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Shareholders' rights.** Strand 1: shareholder rights — common shareholders (voting, ownership, transfer, dividends, inspect documents, sue) and preferred shareholders (priority to assets and income, fixed dividend, convertibility, callable) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: on the capital market a company raises long-term money in the primary market — by offer for subscription, offer for sale, rights issue, private placement or introduction — and investors then trade those securities in the secondary market, through brokers, under the exchange's discipline. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed new lesson on capital markets and the stock exchange, proposed capital-markets lesson, proposed capital-markets lesson, proposed capital-markets lesson, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange. Your companion asks one question back — answer it from the lesson.

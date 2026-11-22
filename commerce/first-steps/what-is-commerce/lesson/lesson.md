@@ -12,6 +12,8 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **Origins of trade and exchange.** How exchange began: specialisation produced surpluses, barter exchanged them, and barter's limits (double coincidence of wants, no agreed rate of exchange, indivisibility, inability to store wealth) drove the search for money
 
+**Trade and its aids.** Unit 9.1: traditional trade (barter, shell money) against modern trade; the importance of domestic trade; distribution from producer to consumer; the aids to trade, including government services (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 2 — The aids to trade
 
 **The aids to trade.** Commerce does not work alone. Samoa's book names the tertiary service industries as the working parts of commerce: transportation, communication, trade itself, accounting, banking, insurance, warehousing and advertising. Each one removes a difficulty that would otherwise stop goods moving — distance, silence, payment, risk, time and not-knowing. The rest of this course takes these helpers one by one.

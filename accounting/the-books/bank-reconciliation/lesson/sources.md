@@ -1,6 +1,6 @@
 # Sources — Bank Reconciliation
 
-countries: Malaysia, Samoa, Sudan, Bhutan
+countries: Malaysia, Samoa, Sudan, Bhutan, Papua New Guinea
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -12,6 +12,14 @@ countries: Malaysia, Samoa, Sudan, Bhutan
 
 **Book 5:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
 
+**Book 6:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 7:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 8:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 9:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | main part | Book 1 (Prinsip Perakaunan T5), printed p. 74 |
@@ -21,7 +29,13 @@ countries: Malaysia, Samoa, Sudan, Bhutan
 | bank reconciliation, personal form | Book 4 (Bus Studies Y10 Bk2), printed p. 37 |
 | bank statement concept | Book 5 (Accountancy XI), printed p. 134 |
 | bank reconciliation preparation | Book 5 (Accountancy XI), printed p. 140 |
+| reconciling the cash book with the bank statement part of the lesson (teacher guide) | Book 6 (PNG Accounting TG 11–12 (2008)), printed p. 38 |
+| checking the bank account part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG 9–10 LS (2006)), printed p. 77 |
+| banking part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG G9 SB (2023)), printed p. 62 |
+| reconciling the bank part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG G12 SB (2023)), printed pp. 104–105 |
 
 **Acceptance count: taught in 4 countries (Malaysia, Samoa, Sudan, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: bank reconciliation, the books, accounting, malaysia, samoa, sudan, bhutan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: bank reconciliation, the books, accounting, malaysia, samoa, sudan, bhutan, papua-new-guinea

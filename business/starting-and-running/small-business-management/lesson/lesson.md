@@ -35,6 +35,8 @@ Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage 
 
 **Role of small firms.** What small and medium business does for an economy: it creates jobs, builds the competitive environment (small firms are hard to monopolise and can undercut big firms' monopoly positions), reacts fast to market changes, mobilises the population's resources, and accounts for up to 95% of firms and most new jobs in developed economies (Kazakhstan's book.)
 
+**Running and judging the venture.** Unit 10.2: running the enterprise, and evaluating the project to determine its viability (weighing options, consequences and evidence) and writing the evaluation report (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

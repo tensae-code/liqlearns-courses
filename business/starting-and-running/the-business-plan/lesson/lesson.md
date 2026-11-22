@@ -14,6 +14,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Purposes.** The purposes and importance of preparing a business plan, for the entrepreneur and for financiers, suppliers and customers.
 
+**Strategic planning.** Strand 4: strategic planning — strategy against the business plan (long-term direction against the short-to-immediate future); what strategic planning is; its importance (identify risks, assess the present, position the business for what is coming); and its key elements (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 2 — Feasibility first — can this idea work?
 
 **The feasibility-study.** Sets a group task to prepare an economic feasibility study (دراسة جدوى اقتصادية) for a small production project: pupils design and produce useful fretwork models for it — the book's only feasibility-study teaching, carried as project work at the end of the fretwork lesson.
@@ -27,6 +29,10 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Financial-plan.** The financial plan component in detail: project cost, sources of financing, the cash-budget statement and the financial statements.
 
 **Feasibility study and market research.** The feasibility study before starting: market research from primary and secondary sources, qualitative vs quantitative research, and how the study's findings (viability, costs, sources of finance) feed into the business plan; planning over short, medium and long-term goals
+
+**Planning in depth.** Unit 10.2: the business plan at greater depth — comprehensive market research and a detailed financial plan (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The e-business plan.** Strand 5: the formulation of an e-business plan — the three features of a successful business plan (clear short- and long-term objectives, how they can realistically be achieved, how realisation meets investors' expectations); the basic types of business plan (short, extended, operational, start-up); and the components of a business plan (executive summary, description of the business, description of the product or service, market research, customers) (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Sub lesson 4 — Worked plans — the plan made whole
 
@@ -90,6 +96,30 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Pitching part.** Business plan pitching: developing a comprehensive plan matters, but the entrepreneur's ability to pitch it matters even more for garnering support; the pitch deck and using the competitive analysis inside the pitch to show the business understands its competition (Bhutan's book.)
 
 **The business plan's place in the process.** The book's own one-chart map of the whole entrepreneurship process: define and value the opportunity → develop the business plan (its sections named: summary, industry analysis, production plan, marketing plan, financial plan, organisational plan, operational plan, conclusion) → determine the resources needed and the suppliers → manage the enterprise with regular SWOT checks (Kazakhstan's book.)
+
+**Planning the project.** Unit 9.4: the simple business plan — the idea, the name, the resources (funds, materials, people), the market and market research, marketing strategies, the financial plan/budget, and timelines (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The plan.** Strand 4 Unit 1: the business plan as a road map — what it covers (executive summary, business description, market analysis, structure and management, marketing, finances); the entrepreneurial process (idea, planning, market research, structure and resources) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Why plan.** Strand 4 Unit 1: the principles of planning (keep it small, continuity, embrace change, empower accountability, educated forecasts) and the benefits of planning (test viability, guide actions, capture problems, measure performance, source funding), in PNG's SME context (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Planning steps.** Strand 4 Unit 1: the planning process in eight steps (preliminary goals, secondary research, confirm goals, detailed planning, draft plan, critical assessment, implement, evaluate) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Good planning.** Strand 4 Unit 1: evidence and best practice in planning — target problems, get advice, organise resources, approach investors, create milestones (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Checking the plan.** Strand 4 Unit 1: monitoring and evaluation — the implementation plan; the indicator types (input, output, outcome, impact); what is evaluated (goals, market, industry, marketing strategy, sales, profit/loss, cash flow, SWOT) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Putting the plan to work.** Strand 4 Unit 1: implementation support (people, resources, structure, systems) and the pitfalls of implementation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Plan structure.** Strand 4 Unit 2: the business plan structure in full — title and executive summary, mission and vision, SWOT analysis; marketing (market analysis, sales forecast, strategies); operations (product description, personnel, insurance and security, legal, equipment); finance (requirements, start-up capital and its sources, forecasts, records) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Planning steps.** Strand 4: the steps of the strategic planning process — preparing for planning, involving the stakeholders (internal: workers, shareholders, owners; external: customers, IRC, IPA, legal bodies), situational analysis, setting priorities, defining the measurement and evaluation framework, defining implementation arrangements, costing the plan, finalising the plan (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Planning for futures.** Strand 4: scenario planning — what it is, its steps (decision focus, driving forces, critical uncertainties, the scenario matrix, implications, overall strategies), and the pitfall of building a strategy for one scenario (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Judging the plan.** Strand 4: critiquing a strategic plan — the three-read method (absorb, question, rewrite), analysing the plan from many angles, and assessing its goals with SMART (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Writing the plan.** Strand 4: the formulation of a business plan — the eleven steps of venture creation (the business idea; vision, goals and objectives; market research; structure and name; resources required; getting advice; marketing strategy on the 4 Ps; the budget; management structure; plan implementation; review of business performance), the first two being the strategy part and the rest the operational part (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Say it to your companion
 

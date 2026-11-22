@@ -48,6 +48,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Packaging.** Packaging and presentation: what good packaging does (brand recognition, easy distribution, customer information, protection of product and of the end user), the packaging materials compared (plastics, metal, Tetra Pak, cardboard, glass), and labelling regulation — the details the law requires on a label
 
+**Marketing's environment.** Strand 3: how economic conditions, stakeholders' decisions, culture and technology affect marketing — inflation and purchasing power, disposable income, recession, interest rates and credit purchases, ecological forces, and technology shaping buying behaviour (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 4 — Product and price
 
 **Product.** The product side of the mix: product mix and product lines, quality, branding, labelling, packaging, after-sales service, warranties, technical advice and home delivery.
@@ -61,6 +63,10 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Pricing strategies.** Pricing: the factors in a pricing decision (cost, demand, competition, substitutes, life-cycle stage) and the strategies set out one by one — cost-plus, penetration, price skimming, psychological pricing, loss leader, competition-based, going rate and price discrimination
 
 **Pricing.** Pricing policy and pricing strategies: the policy as the firm's measures for forming its prices, in two directions (towards buyers of its product, towards suppliers of its resources), framed by the state's own price policy and by elasticity of demand, rivals' reactions, the product's life-cycle stage, quality, consumers' incomes and the firm's image; strategies classed as differentiated, competitive and assortment pricing (Tellis) (Kazakhstan's book.)
+
+**Supply, demand and price.** Strand 3: the influence of supply and demand on pricing — the law of supply and demand and how prices move toward the equilibrium price (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Internet pricing.** Strand 5: pricing goods and services on the internet in normal markets — price regulation defined (governments dictating prices, most common with monopolies and utilities); the ICCC as principal economic regulator and consumer watchdog; and the internal and external factors influencing pricing (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Sub lesson 5 — Place, selling and new ways of marketing
 
@@ -196,6 +202,58 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Sales promotion.** Sales promotion tools: seasonal and other discounts, discount cards, coupons, gifts for purchase, sampling and tastings, code and label-collection promotions, and special offers such as 1+1 (Kazakhstan's book.)
 
 **BTL.** BTL communications: direct marketing (promoters offering tastings and samples while explaining the product), POS materials that guide the buyer at the point of sale, sms and email direct channels, and incentives aimed at sellers and distributors (Kazakhstan's book.)
+
+**What marketing does.** Unit 10.1: the stages of the marketing and distribution process, and why marketing and distribution are essential (marketing creates demand, distribution moves goods to the consumer) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Tourism marketing.** Option 4 The Business of Tourism: tourists' needs and wants as consumers; tourist markets (traditional and emerging, and tourism growth); tourism promotion and marketing techniques (teacher guide) (Papua New Guinea's teacher guide.)
+
+**What marketing is.** Strand 3 Unit 1: marketing defined as the total process (plan, produce, price, promote, distribute), more than advertising or selling; a product as goods, services or ideas; the functions of marketing (understand the environment, segment the market, identify opportunities, understand why consumers buy, develop products, price and distribute, promote, measure, improve) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Selling vs marketing.** Strand 3 Unit 1: selling against marketing — the distinction table (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Forecasting sales.** Strand 3 Unit 1: sales forecasting — what it is, its importance, the factors affecting it, and five forecasting methods (opportunity-stage, sales-cycle length, intuitive, historical, multivariable analysis) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The marketing mix.** Strand 3 Unit 1: the marketing mix as 5Ps — Product, Price, Place, Promotion and Packaging — each explained, and the distribution channel levels from zero to three (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The mix as a whole.** Strand 3 Unit 1: how the 5Ps interrelate (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Kinds of research.** Strand 3 Unit 2: market research types — exploratory, descriptive, causal and predictive research; qualitative against quantitative research (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Doing research.** Strand 3 Unit 2: the research process in six steps (define the problem, approach, research design, data collection, preparation and analysis, report) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Research ethics.** Strand 3 Unit 2: ethical issues in market research — deceptive practices, SUGGING (selling under the guise of research), invasion of privacy, confidentiality breaches, objectivity (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Data.** Strand 3 Unit 2: primary against secondary data collection, and the role of research (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The marketing process.** Strand 3 Unit 2: the marketing process in four phases (define the brand, customer profile, strategy, evaluate and adjust) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Start-up research.** Strand 4 Unit 2: market research procedures for a start-up — the six-step procedure, in-house research, primary methods (experimental testing, surveys and questionnaires, in-depth research) and secondary sources (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Setting the price.** Strand 3: the factors affecting pricing decisions — know the market and know your costs (consumer base, competition, elasticity, revenue target, branding); the selling price and its formula (cost price + profit margin); calculating the selling price per unit; fixed against variable costs and their influence on pricing (teacher guide) (Papua New Guinea's teacher guide.)
+
+**What moves the price.** Strand 3: the factors affecting selling price — competitors, costs, the state of the market for the product, the state of the economy, the bargaining power of customers, and the other elements of the marketing mix (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Changing the price.** Strand 3: adjustments to selling price — promotion (temporary), price protection (including price matching), and markdown (permanent, to liquidate inventory, with first and subsequent markdown schedules) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Pricing strategy.** Strand 3: pricing strategies — what a pricing strategy is, what it must weigh (revenue goals, marketing objectives, target audience, brand positioning, product attributes, demand, competitor pricing, market trends), and the named strategies (competition-based, cost-plus, dynamic, freemium, high-low, hourly, skimming, penetration, premium, project-based, value-based, bundle, psychological, geographic) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Pricing a new product.** Strand 3: new product pricing — price-skimming and market-penetration pricing, and the conditions each needs to work (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Who buys.** Strand 3: the impact of socioeconomic status on consumers' buying decisions — psychological behaviours, family dynamics, social classes, the buying process, and the target market (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Understanding buyers.** Strand 3: consumer behaviour — what it is; how organisations use it (marketing, product development, customer service); gathering consumer behaviour data (sales information, focus groups, surveys, interviews); how consumer behaviour feeds back into production, productivity and prices (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Applying pricing strategies.** Strand 3: pricing strategies and their applications — economy and premium, penetration, skimming, competitor's pricing, marginal costing, the psychology of pricing (value bundling and discounting), and the cost-plus mark-up method (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Elasticity.** Strand 3: price elasticity of demand — the formula (% change in quantity demanded ÷ % change in price); why it matters (forecasting sales and revenue, deciding price changes, price discrimination, when to advertise); and why consumers respond elastically or inelastically (closeness of competition, essentialness, habit, share of income, brand loyalty, advertising, product life cycle) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**International pricing.** Strand 3: global influences on pricing — pricing for international markets; the political, economic, social and technological factors; and how exchange-rate changes move the prices of imports and of goods made from imported parts (teacher guide) (Papua New Guinea's teacher guide.)
+
+**E-marketing.** Strand 5: how the internet and emerging technologies impact the components of marketing — e-marketing's features (cheaper than traditional media, tangible ROI, the 24/7/365 approach, eliminating follow-up failure), its advantages and disadvantages, and its types (email, social media, video, article, affiliate marketing); the marketing mix extended from the 4Ps to the 7Ps (people, process, physical evidence) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Regulated pricing.** Strand 5: government regulations affecting the pricing of goods and services on the internet — the factors in international pricing decisions (exchange rates, international transport and channel costs, trade practices, government trade policies and price regulations including anti-dumping, inflation and interest rates), and what makes pricing decisions complex (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Global pricing influences.** Strand 5: the impact of national and global influences on internet prices — the customer purchasing process factors (customer satisfaction, security, information availability, shipping, quality, pricing, time) (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Say it to your companion
 

@@ -26,6 +26,8 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Discharge and remedies.** How contracts end: discharge by performance, breach, agreement, impossibility/frustration, lapse of time and death; and the remedies for breach — damages, specific performance, injunction, restitution
 
+**The employment contract.** Strand 2 Unit 3: employment contracts — express and implied terms (salary, sickness, working hours, holiday entitlement, notice; restrictive covenants and confidentiality clauses; terms implied by fact, by custom or usage, and by operation of law), and breach of the contract by employer and by employee (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Sub lesson 3 — Agency, employment, sale of goods and hire purchase
 
 **Agency.** Agency: how it is created (express agreement, implication, necessity, ratification, estoppel), actual versus ostensible authority, special/general/universal agents, the duties and rights of agent and principal, and how agency ends.
@@ -53,6 +55,10 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **Government regulation of business.** Government regulation of the establishment and conduct of businesses: the areas regulated (licences, advertising, product safety and labelling, health and safety, taxes, accounts, waste, employment contracts, planning), the agencies involved (Fair Trading Commission, Bureau of Standards, Consumer Affairs Commission) and the consequences of non-compliance (reputation damage, compensation claims, licence withdrawn, imprisonment)
 
 **Regulation and deregulation.** Regulation of business activity: government regulations affect every aspect of running a business — health and safety, premises, working conditions, exporting, accounting and the environment — with compliance costs (new technology, training, altered premises) and penalties for breaking them (fines, clean-up costs, reputational damage); the rules a start-up must follow (business structure, registration, licences and permits, insurance, premises, storing personal information, employing people, paying taxes); the balance between fair regulation and bureaucracy that inhibits growth; and deregulation — removing unnecessary rules to cut costs and drive competition, with the risk of going too far
+
+**Law and the business.** Strand 2 Unit 4: business law — what law is; the areas of business law; the IPA as the lead agency for registration and regulation; the sources of law (constitutional, parliament, judiciary; custom must conform); the court structure (Supreme/National higher, District lower); the Acts the IPA Companies Office administers (Companies Act, Business Names Act, Business Groups Incorporation Act, Associations Incorporation Act) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The regulator.** Strand 2 Unit 4: the impact of business laws on operations; the ICCC as economic regulator and consumer watchdog (ICCC Act 2002, Prices Regulation Act) (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Sub lesson 5 — Ideas, data and digital business in law
 
@@ -148,6 +154,28 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **Support part of the lesson (Kazakhstan's own system).** State support for small and medium business in Kazakhstan: the unified «Дорожная карта бизнеса-2020» (Business Road Map 2020) programme — subsidised interest rates, loan guarantees, state grants, missing infrastructure built, training and service support — and the «Единое окно» single window being built to automate the support measures (Kazakhstan's book.)
 
 **Institutions.** The National Chamber of Entrepreneurs «Атамекен»: a non-profit self-governing organisation whose tasks are to defend entrepreneurs' rights and interests and to draw entrepreneurs into forming the rules businesses work under (Kazakhstan's book.)
+
+**The legal setting.** Unit 10.5: businesses operate within a legal environment; the functions of registration and licensing; the main laws affecting business operations; employment-law basics (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Registering the name.** Appendix: registering a business name — a registered name cannot be changed, registration lasts three years, and the renewal window (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Why the law matters.** Strand 2 Unit 4: the importance of business law — zoning, pollution, trading licences — and the four core functions of law (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Regulation.** Strand 2 Unit 4: government regulations — what regulation ensures (safe goods, reasonable prices, workers' rights, minimum wages, licensing); registering with the IPA; special licences (meat, liquor, firearms, petrol, medicine); price control through a maximum mark-up on cost-into-store (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Employment law.** Strand 2 Unit 4: the impact of employment laws on business and employees — the laws Parliament passes to protect employees and set minimum terms (minimum wages, leave, occupational health and safety, training, promotion); how the government uses legislation to regulate business behaviour; employment law's areas — fair recruitment, pay (the minimum wage), discrimination (protected characteristics, equal pay for the same job), and working conditions (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Property.** Strand 2 Unit 4: property law — real property (land and things attached to it) against personal property (chattels, and intangibles such as bank accounts, intellectual property, franchises and licences, insurance policies, stocks and bonds); fixtures; what property law does (allocation, use and transfer of wealth) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Intellectual property.** Strand 2 Unit 4: intellectual property law — patents, copyrights, trademarks, franchises and trade secrets, each defined; protection through the Investment Promotion Authority's Intellectual Property Office of PNG, administering the Trade Marks Act (Ch. 385), the Copyright and Neighboring Rights Act 2000 and the Patents and Industrial Design Act 2000 (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Computer law.** Strand 2 Unit 5: computer law — what it covers (the transfer, use and storage of electronic information); privacy, hacking, and SPAM; and its other areas (file sharing, taxation of electronic commerce, electronic signatures, regulation of data transfer) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Environment law.** Strand 2 Unit 4: environment laws affecting businesses — the Environmental Planning Act 2000 and its purpose (sustainable development, safeguarding air, water, soil and ecosystems); how environmental protection laws affect business, and what the evidence shows about their impact on productivity, employment and innovation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Sale of goods law.** Strand 2 Unit 4: the relationship between contract law, the law of sales and consumer law — the Goods Act 1951; contract of sale against agreement to sell; consumer guarantees, compensation for damages and loss, and warranties; the Sale of Goods Act 1979 and where its protection stops (private sellers) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**E-commerce law.** Strand 5: ways of regulating e-business products — the privacy laws an online business must comply with (CCPA, data broker registration, GDPR); the Electronic Commerce Regulations 2002 for distance selling; why e-commerce law matters (preventing identity theft and fraud, keeping customer data private); the key areas (website tracking, email marketing, privacy policies); and the laws that protect the business itself (trademark, patent, copyright) (teacher guide) (Papua New Guinea's teacher guide.)
 
 ## Say it to your companion
 

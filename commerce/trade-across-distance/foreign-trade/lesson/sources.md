@@ -1,6 +1,6 @@
 # Sources — Foreign Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan, Tanzania, Greece
+countries: Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan, Tanzania, Greece, Papua New Guinea
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -17,6 +17,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 **Book 6:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 **Book 7:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
+**Book 8:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -53,7 +55,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | foreign trade | Book 6 (Commerce Form Three), printed pp. 123–131 |
 | the kinds-of-trade-by-place part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed pp. 33–36 |
 | the clearing-goods-through-customs part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed pp. 145–150 |
+| why countries trade part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed p. 27 |
 
 **Acceptance count: taught in 8 countries (Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan, Tanzania, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: foreign trade, trade across distance, commerce, kenya, nigeria, dominica, nepal, nicaragua, sudan, tanzania, greece
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: foreign trade, trade across distance, commerce, kenya, nigeria, dominica, nepal, nicaragua, sudan, tanzania, greece, papua-new-guinea

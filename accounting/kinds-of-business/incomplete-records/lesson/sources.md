@@ -1,6 +1,6 @@
 # Sources — Incomplete Records
 
-countries: Malaysia, Samoa, Sudan
+countries: Malaysia, Samoa, Sudan, Papua New Guinea
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -10,6 +10,8 @@ countries: Malaysia, Samoa, Sudan
 
 **Book 4:** Business Studies — Year 10, Book Two (student book) — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. Grade: Year 10 (grade-10). Language: English. Page count: 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). Source: manifest `manifests-phase2/samoa.json` n=2; fetched via `fetch_book.py` route `tree`, 897,368 B = expected exactly, to `scratch-phase2/samoa/book-2.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Unit 5 conclusion, printed p. 77). Following the series' own division (as in Year 9 and Year 11), Book 2 is the accounting-side book: Units 3–5 are pure ACCOUNTING; Unit 1 (personal finances) is filed to BUSINESS where it teaches personal budgeting (the Phase-3-built `personal-finance-and-budgeting`) and to ACCOUNTING where it teaches payslips, source documents and the personal statement of affairs; Unit 2's payment methods are filed to COMMERCE `banking-services-for-trade` and its cheque-account records and reconciliation to ACCOUNTING.
 
+**Book 5:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | opening part | Book 1 (Prinsip Perakaunan T5), printed p. 36 |
@@ -18,7 +20,10 @@ countries: Malaysia, Samoa, Sudan
 | personal statement of affairs | Book 2 (Accounting Year 12), printed p. 13 |
 | incomplete records | Book 3 (Commercial Science G11 (Sudan)), printed pp. 93–104 |
 | personal statement of affairs | Book 4 (Bus Studies Y10 Bk2), printed p. 19 |
+| working from incomplete records part of the lesson (teacher guide) | Book 5 (PNG Accounting TG 11–12 (2008)), printed p. 38 |
 
 **Acceptance count: taught in 3 countries (Malaysia, Samoa, Sudan)** — every book above is a student book, so each country counts.
 
-Searchable tags: incomplete records, kinds of business, accounting, malaysia, samoa, sudan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: incomplete records, kinds of business, accounting, malaysia, samoa, sudan, papua-new-guinea

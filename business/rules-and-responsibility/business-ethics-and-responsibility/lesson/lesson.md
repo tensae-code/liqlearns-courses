@@ -59,6 +59,22 @@ Green technology and sustainable business practice: green technology and sustain
 
 **Ethics part.** Ethical business practices and social responsibilities: ethics as society's accepted moral values and conduct, ethical behaviour improving public image, consumer satisfaction and stakeholder trust, and the business's social responsibility to meet society's claims and expectations (Bhutan's book.)
 
+**Ethics in the project.** Unit 9.4: ethical practice in the small business project — honest records, honest money management, and respect for customary taboos (teacher guide) (Papua New Guinea's teacher guide.)
+
+**What ethics means.** Strand 1 Unit 2: ethics defined, alongside the comparison of ownership forms (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ethics.** Strand 2 Unit 4: business ethics — its definition, its principles (honesty, integrity, promise-keeping, loyalty, fairness, respect), ethical against unethical behaviour, ethics against law, and the role of ethics (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Values.** Strand 2 Unit 4: business attitudes and values — developing values into principles and into behaviours (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Marketing ethics.** Strand 3: the ethical issues in marketing — unfair or deceptive practices, offensive materials, ethical product and distribution practices, and the special issues in marketing to children, to minorities, and in the portrayal of women (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ethics in practice.** Strand 4: facilitating ethical behaviour in business — ethical behaviour and the loyal customer; ethics programmes, codes and policies; managers as role models; the main responsibilities to stakeholders; change management; social justice; ecological sustainability; compliance with the law; codes of practice (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ethics online.** Strand 5: strategies for facilitating ethical business behaviour in e-business — ethical behaviour defined; business ethics at three levels (personal, professional, organisational) and how they link; establishing a code of ethics and training employees in ethical decisions; the ethical categories that can harm (fraud, sustainability, diversity, exploitation) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Internet fraud.** Strand 5: fraudulent behaviour and practices on the internet — false or fraudulent data (biased sponsorships and small sample sizes, data seized in leaks and manipulated) and investment scams such as 'pump and dump' (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility, business ethics. Your companion asks one question back — answer it from the lesson.

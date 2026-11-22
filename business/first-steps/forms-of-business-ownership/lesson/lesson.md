@@ -127,6 +127,16 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Comparing forms.** The individual entrepreneur and the partnership compared: the individual keeps freedom of action, while partners pool finance and divide management by specialisation; a pros-and-cons table of individual entrepreneurship against the limited liability company (Kazakhstan's book.)
 
+**Kinds of venture.** Strand 1 Unit 2: ventures categorised by purpose (social/non-profit, financial/profit, innovative), by size (independence, employment, market share, finance sources, turnover) and by ownership (sole trader, partnership, company, corporation, cooperatives) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Comparing the forms.** Strand 1 Unit 2: how the ownership form affects the business, compared in one table (legal entity, source of finance, taxation, decision making, sharing of profit), and the effects of government regulation on the forms (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Forming a company.** Strand 1: the steps in forming a corporation (attorney, registered agent and articles of incorporation, bylaws and directors, issue stock, state filings, tax registration), with a note to check PNG's own requirements (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Kinds of company.** Strand 1: types of corporations (municipal, NGO, professional, business companies); the private company (2–50 shareholders, Pty Ltd) against the public company (minimum 5 shareholders, Ltd, limited liability, articles of association) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Ownership forms.** Strand 4: the forms of business ownership in PNG — sole trader (characteristics: single ownership, no separate legal entity, unlimited liability, owner's equity funding), partnership (2–20 owners, profit-sharing ratio, principal–agent relationship, unlimited liability, no separate identity), company (separate legal entity under the Companies Act 1997, perpetual existence, common seal; private and public), the business group (PNG's clan/family structure), cooperatives, and state-owned enterprises (Air Niugini, BSP, MRDC) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan
+countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Papua New Guinea
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -18,6 +18,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 6:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
 
+**Book 7:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
@@ -32,7 +34,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | failure-effects part | Book 5 (Perniagaan T4), printed p. 147 |
 | size definitions part of the lesson (Kazakhstan's own legal way) | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 13 |
 | role of small firms part of the lesson | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 15 |
+| running and judging the venture part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG 9–10 LS (2006)), printed p. 70 |
 
 **Acceptance count: taught in 7 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan)** — every book above is a student book, so each country counts.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan, papua-new-guinea

@@ -1,6 +1,6 @@
 # Sources — Business Communication
 
-countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan
+countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -16,6 +16,10 @@ countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan
 
 **Book 7:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
 
+**Book 8:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 9:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | communication part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 58 |
@@ -28,7 +32,14 @@ countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan
 | negotiation part | Book 5 (Business and Entrepreneurship XI), printed p. 138 |
 | communication part of the lesson | Book 7 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 180 |
 | storytelling part | Book 6 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 171 |
+| communicating in business part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed p. 47 |
+| application writing part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed p. 81 |
+| communicating in business part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG G9 SB (2023)), printed p. 50 |
+| communication technology part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG G9 SB (2023)), printed p. 55 |
+| keeping business information safe part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG G9 SB (2023)), printed p. 56 |
 
 **Acceptance count: taught in 5 countries (Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
 
-Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan, kazakhstan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan, kazakhstan, papua-new-guinea

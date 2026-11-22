@@ -99,6 +99,56 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Internet.** The structure of the internet in one diagram: the "super highway" linking supercomputer centres, the Internet Society and the Internet Registry, Network Information Centres, Internet Service Providers, on-line services and regional networks (Kenya's book.)
 
+**Business software.** Option 3 Computer Applications for Business: word processing against spreadsheet, database, presentation and specialised software, and producing business documents with them; ethical practices with data and information (teacher guide) (Papua New Guinea's teacher guide.)
+
+**IT.** Strand 2 Unit 5: information technology defined (hardware, software, database, networks); the types of IT; the impacts of IT on society, advantages and disadvantages (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Technology in the business.** Strand 2 Unit 5: business technology — the seven common types (computers, software, networking, telephone communication, accounting systems, inventory control systems, customer relationship management) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Trends.** Strand 2 Unit 5: current technology trends (cloud, mobile, big data analytics, automation) and emerging trends (AI and smart machines, VR, AR, blockchain, cyber-privacy and security, IoT) and their impacts (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Systems software.** Strand 2 Unit 5: operating systems and their functions (interface, CPU, multitasking, memory, peripherals, file organisation, security, utilities) and utility software (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Input devices.** Strand 2 Unit 5: input devices and what each does (keyboard, mouse, light pen, scanner, touch screen, microphone, trackball, joystick, camera, webcam) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Multimedia.** Strand 2 Unit 5: multimedia — what it is; the multimedia software types (photo editing, media players, video editing, presentation software); creating multimedia and web presentations (teacher guide) (Papua New Guinea's teacher guide.)
+
+**E-commerce.** Strand 5: e-commerce defined (buying and selling over the internet); the online store; online product categories; tangible online goods against online services; how to market electronic goods (niche, personalise, e-commerce site, reviews, social-media buzz); online against physical stores (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Online pricing.** Strand 5: e-commerce pricing — the cost factors (production/buying, labour, promotional, support, return rates); the online order process (attraction, order placement/cart, payment processing/gateway, order completion, warehouse fulfilment, shipment); pricing strategy from the audience, willingness to pay and competitors (teacher guide) (Papua New Guinea's teacher guide.)
+
+**How the system works.** Strand 5: e-commerce system functions — registration, basket, payment, product management (the product fields) and order management (teacher guide) (Papua New Guinea's teacher guide.)
+
+**E-commerce technology.** Strand 5: e-commerce technologies (M-commerce, EFT and others) and their functions, advantages and disadvantages; websites for commercial purposes (government, NGO, commercial institutions); marketing on Facebook, YouTube and WhatsApp and its benefits; the steps of internet marketing, including SEO/SEM/PPC, social media, email marketing, web analytics, a consistent brand message and online reputation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Entering data.** Strand 2 Unit 5: input technologies — what an input device is; ten input devices; data manipulation (what it is, its purposes, its five steps from extracting to analysing); how a computer processes data into information (input, process, output, storage) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Technology at work.** Strand 2 Unit 5: optimising workplace performance using input technologies — technology to increase sharing and collaboration, gain a better view of individual performance, give and receive real-time feedback, and facilitate learning on the go (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Multimedia.** Strand 2 Unit 5: multimedia delivery tools — what multimedia is; its types (text, graphics, audio, animation, video); multimedia development environments (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Multimedia in business.** Strand 2 Unit 5: the impact of multimedia delivery tools on business — multimedia marketing and what it offers (reach, loyalty, two-way contact with clients); the six stages of production in multimedia (planning meeting, creative brief and script, storyboarding, design, review and editing, production and user testing) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Going online.** Strand 4: online against offline business start-up and operation — e-business defined; the key factors in the choice (cost, business model, convenience, geographical accessibility, physical space and virtual marketplace, banking and communication accessibility, cyber security); the lower overhead costs of e-commerce; which business models suit online operation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Technology needs.** Strand 4: technology needs for businesses — how improvements in transport and communication shrank the world; information, communication and computer technology (ICCT) as the driving force behind globalisation; emerging technologies and convergence; mobility, social media, and high-volume low-touch processes as the 'future of work' (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Setting up online.** Strand 5: establishing a business on the internet — the applications of e-commerce (e-banking, e-tailing, online publishing/online retailing) and how e-banking closes the e-commerce loop; eBay and Amazon as worked examples; creating a website for a business (website, web page and web server defined) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Feasibility.** Strand 5: the feasibility of conducting e-business on the internet — the business feasibility study defined and its importance (only about one in fifty business ideas is commercially viable); market research in the planning stage; starting a new online business (pure-play against click-and-mortar) and the practical guidelines to avoid e-commerce failure (easy navigation, customer loyalty and trust, easy order processing, appropriate payment method) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**E-business technology.** Strand 5: technology needs for e-business — technology and business technology defined (technology integrated into the operation of the business); ICT and the 'global village'; the uses of ICT in business management (trading overseas, obtaining information, communicating with partners, money transfer and banking, saving time and effort); technological change and its three stages (invention, innovation, diffusion) and its impacts (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Mobile websites and apps.** Strand 5: creating a website for e-business using a mobile application — email for business; what a website is; applications and app stores; native, hybrid and web apps compared; and designing for mobile (small screen, portability and interruption, single window, touchscreen, variable connectivity; the phone's GPS, camera and sensors) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**The online shop.** Strand 5: the components of an effective e-commerce site — a good experience for mobile shoppers, an easy checkout process, guest checkouts, good quality product photography, a clear returns policy, detailed product descriptions, and clear design with intuitive navigation (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Online payments.** Strand 5: using different technologies for payments of products on the internet — why online payment services are necessary (meet expectations, speed and cash flow, less trouble, at a fee) and how the online payment process works (a merchant account, an account with a payment service provider, and a payment button on the web page) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Blogs and webcasts.** Strand 5: using blogs, webcasts and other technologies for business problems — webcasting defined, its benefits and the events it serves (investor relations, training, marketing, corporate communications, HR, education, conferences); blogs — what a blog is, blogs against websites and pages, and how bloggers make money (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Selling online.** Strand 5: the steps in selling and buying goods and services on the internet — how to start selling online professionally (the pros and cons; choosing an e-commerce business model — dropshipping, sourcing from wholesalers, sourcing from manufacturers, making and selling your own products; choosing what to sell; finding suppliers; contacting and negotiating with suppliers) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

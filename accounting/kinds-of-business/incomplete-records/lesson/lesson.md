@@ -20,6 +20,8 @@ A trader kept no proper books — only a notebook of cash and a pile of invoices
 
 **Personal statement of affairs.** A personal Statement of Affairs prepared for a bank loan application: listing personal assets and liabilities to find net worth, taken to the bank together with a budget (Samoa's book.)
 
+**Working from incomplete records.** Unit 11.1 Single Entry Accounting: from single-entry records calculate cost of goods sold and gross and net profit or loss, and produce a profit or loss statement (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: when a trader's records are incomplete, profit can still be found — by comparing opening and closing statements of affairs, or by rebuilding the figures through control accounts and cash analysis. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, statement-of-affairs part, reconstruction part, personal statement of affairs, incomplete records. Your companion asks one question back — answer it from the lesson.

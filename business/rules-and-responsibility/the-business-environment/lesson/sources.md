@@ -1,6 +1,6 @@
 # Sources — The Business Environment
 
-countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan
+countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan, Papua New Guinea
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -33,6 +33,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 15:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
 
+**Book 16:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | environment part of the lesson | Book 1 (Kenya Business Form 3), printed p. 36 |
@@ -62,10 +64,13 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | business environment part of the lesson | Book 14 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 50 |
 | location part of the lesson (Kazakhstan's own examples) | Book 14 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 72 |
 | environment part of the lesson | Book 15 (Kenya Business Form 1), PDF p. 22 |
+| the environment part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG G9 SB (2023)), printed pp. 69–70 |
 
 **Acceptance count: taught in 11 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `types-of-economic-system` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan
+Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan, papua-new-guinea

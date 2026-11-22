@@ -27,14 +27,14 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-244 placements stocked.**
+265 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 38 books
-in all (33 student books and 5 teacher guides); the 19 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 19 read books —
+`lesson/sources.md`. The set read for the split — 42 books
+in all (33 student books and 9 teacher guides); the 22 below carry this course (the Commerce parts
+of each are what stock these lessons). The other 20 read books —
 Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Arches Logistikis B EPAL,
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
@@ -43,7 +43,7 @@ Pengajian Keusahawanan Tingkatan 5, and Samoa's Accounting
 Year 12, Business Studies Year 11 Book 2 and Business Studies
 Year 9 Book 2, and Zambia's Principles of Accounts Teaching
 Module (a teacher guide), Sudan's Commercial Science
-Grade 11, and Tanzania's Accountancy Form Five, and Kazakhstan's two Grade 10 *Fundamentals of Entrepreneurship and Business* textbooks (the Aganina book, in its Kazakh and Russian editions, filed as one book, and the Duisenkhanov book in two parts — both read 2026-11-22) — carry no Commerce part: their parts fed
+Grade 11, and Tanzania's Accountancy Form Five, and Kazakhstan's two Grade 10 *Fundamentals of Entrepreneurship and Business* textbooks (the Aganina book, in its Kazakh and Russian editions, filed as one book, and the Duisenkhanov book in two parts — both read 2026-11-22), and Papua New Guinea's *Accounting — Upper Secondary Teacher Guide* (2008; a teacher guide — read 2026-11-22) — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
 
@@ -125,6 +125,12 @@ set is whole.
 
 - *Inventor 1 — Secondary Business Studies, Form One Students' Book* — Kenya Literature Bureau (KLB), Nairobi. ISBN 978-9966-44-800-2 (read from the back-cover barcode); no year or edition statement survives in this copy, and the authors are not visible in it (the title and imprint pages are blanked in the scan). **Form One (grade-9 equivalent). STUDENT book. Language: English.** 173 PDF pages (no printed folio survives anywhere in the copy; citations are by PDF page). **Verdict: PARTIAL — defective copy.** The library's secured copy is a text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the book was read from those surviving specimens and diagrams only. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **LIBRARY DEBT: a readable copy is still needed before this book can be read in full. It is recorded here as PARTIAL/defective-copy — not as fully read, and not left silently pending.** (It stood in the Business pending queue, not this one.) It stocked 13 placements into this course (2 more into Business).
 
+- *Business Studies — Lower Secondary Teacher Guide, Grades 9–10* — coordinated by Jennifer Sangga; Department of Education, Papua New Guinea, with CRIP / Australian Government support. Published 2006; ISBN 9980-935-45-6. **Grades 9–10 (Lower Secondary). TEACHER GUIDE. Language: English.** 145 PDF pages = 145 printed pages. **Verdict: COMPLETE** — read whole guide to the last page, including all four Options and the Appendix of sample documents. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 8 placements into this course.
+
+- *Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-04-8. **Grade 9 (Junior High). TEACHER GUIDE. Language: English.** 324 PDF pages = 324 printed pages. **Verdict: COMPLETE** — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). **This record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact (26,160,225 B) and read in full. No library debt on this record.** Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 2 placements into this course.
+
+- *Business Studies — Grade 12 — Teacher Guide — Standards-Based* — Department of Education, Papua New Guinea; marked "FREE ISSUE NOT FOR SALE". Published 2023; ISBN 978-9980-921-07-9. (Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High".) **Grade 12. TEACHER GUIDE. Language: English.** 392 PDF pages = 392 printed pages. **Verdict: COMPLETE** — read whole guide; every topic's Content Background in the Units of Work was read and filed. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Papua New Guinea is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.** It stocked 11 placements into this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
@@ -142,8 +148,13 @@ set is whole.
   Accounts Teaching Module*, the other teacher guide read for
   the split, fed Accounting only.) Teacher guides, when they
   come, will be evidence only (acceptance 0), as in every
-  course. (No teacher guide stands in this course's pending
-  queue below; the queue is student books throughout.)
+  course. Papua New Guinea's three *Business Studies* teacher
+  guides (read 2026-11-22) — 21 placements stocked in this
+  course as evidence only, acceptance 0; Papua New Guinea is
+  counted nowhere as a teaching country, and every lesson
+  they touch says so in its sources. (No teacher guide
+  stands in this course's pending queue below; the queue is
+  student books throughout.)
 
 ## The pending queue — Commerce books not yet in the course
 
@@ -209,3 +220,12 @@ hold lifts and they are read.
   the book can be read in full — the debt stands until then.
   Kenya's Form Two book has no copy anywhere and stays in the
   Business pending queue (no-copy-exists).
+
+- **Papua New Guinea — teacher guides only, and the phantom
+  that was not:** all four Papua New Guinea books read in the
+  Phase 2 wave are teacher guides, stocked as evidence only
+  (acceptance 0); Papua New Guinea counts nowhere in this
+  course as a teaching country. The Grade 9 Standards-Based
+  guide was the suspected phantom push: it is NOT a phantom —
+  it was found as a GitHub release asset, landed byte-exact
+  and read in full, and no library debt stands on that record.

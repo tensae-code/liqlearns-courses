@@ -50,6 +50,12 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Petty cash imprest.** The petty cash book on the imprest system: the petty cashier is given a fixed imprest amount by the finance officer and reimbursed back up to it, analysed into postage, stationery, carriage, telephone and travelling columns (Bhutan's book.)
 
+**Recording cash transactions.** Unit 11.1: journalise cash and credit transactions, recording them into the books of the business (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Petty cash.** Unit 11.2 Petty Cash: what petty cash is and why it matters; analyse source documents to prepare a petty cash book; the petty cash voucher and the imprest system; drawing a cheque to replenish the float (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Petty cash.** Strand 1 Unit 2: petty cash — the petty cash book, the voucher, the cashier, the float and the imprest system (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

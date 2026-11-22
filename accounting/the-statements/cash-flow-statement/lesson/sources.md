@@ -1,6 +1,6 @@
 # Sources — The Cash Flow Statement
 
-countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan
+countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan, Papua New Guinea
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages, printed pp. i–vi + 1–260 (printed page = PDF page − 12 in the body). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 7 model business plans end at printed p. 246; back matter follows).
 
@@ -24,6 +24,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 
 **Book 9:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
 
+**Book 10:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Perniagaan T5), printed p. 181 |
@@ -37,7 +39,10 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 | the cash flow statement | Book 7 (Accountancy Form Five), printed pp. 188–203 |
 | cash flow statement | Book 8 (Accountancy XI), printed p. 227 |
 | indirect method part | Book 9 (Accountancy XII), printed p. 201 |
+| cash flow format part of the lesson (teacher guide) | Book 10 (PNG Business Studies TG 9–10 LS (2006)), printed p. 134 |
 
 **Acceptance count: taught in 8 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania, bhutan
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+
+Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania, bhutan, papua-new-guinea

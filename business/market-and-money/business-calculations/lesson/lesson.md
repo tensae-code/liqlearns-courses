@@ -75,6 +75,14 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Pricing strategies.** Pricing strategies: penetration pricing (low entry price), skimming (launch high, then lower — as with video games), and competition-based pricing (set below, equal to, or above rivals) (Kazakhstan's book.)
 
+**Costing.** Unit 9.4: costing and pricing the project, including mark-up percentages (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Calculation methods.** Option 1 Business Calculations: mark-up and selling price formulas; simple interest against compound interest; loan interest at a flat rate (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Cost of goods sold.** Strand 3: cost of goods sold and how it influences selling price — what COGS is (direct labour, direct materials, direct overheads); the formula (opening inventories + purchases − closing inventories) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Mark-up.** Strand 3: mark-up based on costs and mark-up based on retail — mark-up = selling price − cost; the mark-up percentage formula; the average mark-up; mark-up percentage (on cost) against gross margin (on revenue) (teacher guide) (Papua New Guinea's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.
