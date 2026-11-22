@@ -33,8 +33,8 @@ environment, e-business). **26 lessons, 899 placements stocked.**
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 37 books
-in all (32 student books and 5 teacher guides); the 32 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 38 books
+in all (33 student books and 5 teacher guides); the 33 below carry this course (the Business parts
 of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
@@ -158,10 +158,12 @@ fed Business, and they are named here so the read set is whole.
 
 - *Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10, in two parts* — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 ISBN 978-601-7817-00-8; Part 2 ISBN 978-601-7817-01-5. **Grade 10. STUDENT book. Language: Kazakh.** Part 1 144 PDF pages, Part 2 188 PDF pages (printed page = PDF page in both parts). **Verdict: COMPLETE** — read whole, both parts, to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course's own Business pending queue as two records — okulyk 604 (Part 1) and okulyk 605 (Part 2) — and is stocked as ONE book in two parts.) It stocked 36 placements into this course.
 
+- *Inventor 1 — Secondary Business Studies, Form One Students' Book* — Kenya Literature Bureau (KLB), Nairobi. ISBN 978-9966-44-800-2 (read from the back-cover barcode); no year or edition statement survives in this copy, and the authors are not visible in it (the title and imprint pages are blanked in the scan). **Form One (grade-9 equivalent). STUDENT book. Language: English.** 173 PDF pages (no printed folio survives anywhere in the copy; citations are by PDF page). **Verdict: PARTIAL — defective copy.** The library's secured copy is a text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the book was read from those surviving specimens and diagrams only. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **LIBRARY DEBT: a readable copy is still needed before this book can be read in full. It is recorded here as PARTIAL/defective-copy — not as fully read, and not left silently pending.** (It stood in this course's own Business pending queue.) It stocked 2 placements into this course (13 more into Commerce).
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 26 lessons,
-  stocked with 856 placements from **student books** of 18
+  stocked with 858 placements from **student books** of 18
   countries (Dominica, Ecuador, Egypt, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
   taught in 18 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
@@ -184,7 +186,7 @@ fed Business, and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-31 Business books are in hand in the library record but
+30 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -193,9 +195,8 @@ teaching is in this course yet; the course grows when the disk
 hold lifts and they are read.
 
 
-**Kenya (2):**
+**Kenya (1):**
 - [BUSINESS · student] Inventor Business Studies Form 2 Student's Book (KLB) (grade-10) — no-copy-exists — No file exists — the record's file is a directory path (Economics wave verdict); only a KLB pricelist names the book
-- [BUSINESS · student] Inventor Secondary Business Studies Form 1 Students Book (Grade 9) — secured-not-on-disk
 
 **Laos (8):**
 - [BUSINESS · teacher] Business Combined — Grade 10 (ມ.5) Teacher Guide (grade-10) — secured-not-on-disk
@@ -273,3 +274,15 @@ hold lifts and they are read.
   Business for CSEC Examinations* (Second Edition, Macmillan
   2019), the first read book to place them, in the Phase 2
   pending-queue merge. No empty lesson stands in this course.
+
+- **Kenya Form One — PARTIAL read, library debt:** Kenya's
+  *Inventor 1 — Secondary Business Studies, Form One Students'
+  Book* (KLB, ISBN 978-9966-44-800-2) was read in the Phase 2
+  wave from the library's secured copy, which is a defective,
+  text-blanked Studocu preview: no chapter text or printed
+  folio survives in it. Its 15 placements across the split are
+  filed from the surviving specimens and diagrams only and are
+  cited by PDF page. A readable copy is still needed before
+  the book can be read in full — the debt stands until then.
+  Kenya's Form Two book has no copy anywhere and stays in the
+  Business pending queue (no-copy-exists).

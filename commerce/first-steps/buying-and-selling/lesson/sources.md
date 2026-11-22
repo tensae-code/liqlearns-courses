@@ -10,6 +10,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
+**Book 5:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
+
 | Lesson part | Where it comes from |
 |---|---|
 | terms of trade part of the lesson | Book 1 (Kenya Business Form 3), printed p. 156 |
@@ -23,6 +25,7 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the packaging part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 50–52 |
 | the delivery-terms part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 52–55 |
 | the sales-channels part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 55–58 |
+| discounts part of the lesson | Book 5 (Kenya Business Form 1), PDF p. 158 |
 
 **Acceptance count: taught in 4 countries (Kenya, Nigeria, Nicaragua, Greece)** — every book above is a student book, so each country counts.
 

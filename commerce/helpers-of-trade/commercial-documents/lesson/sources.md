@@ -20,6 +20,8 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan
 
 **Book 9:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
 
+**Book 10:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
+
 | Lesson part | Where it comes from |
 |---|---|
 | documents part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 108 |
@@ -42,6 +44,13 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan
 | the invoice part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed pp. 63–64 |
 | the receipts part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed pp. 76–79 |
 | documents part | Book 9 (Business and Entrepreneurship XI), printed p. 11 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF pp. 127–128 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 130 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF pp. 132–133 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 135 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 136 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 138 |
+| documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 139 |
 
 **Acceptance count: taught in 8 countries (Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan)** — every book above is a student book, so each country counts.
 

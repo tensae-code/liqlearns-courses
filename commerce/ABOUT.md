@@ -27,13 +27,13 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-231 placements stocked.**
+244 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 37 books
-in all (32 student books and 5 teacher guides); the 18 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 38 books
+in all (33 student books and 5 teacher guides); the 19 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 19 read books —
 Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Arches Logistikis B EPAL,
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
@@ -123,10 +123,12 @@ set is whole.
 
 - *Business and Entrepreneurship, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file. **Grade: Class XII (grade-12). STUDENT book. Language: English.** 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It carries no Commerce part; it is named here so the read set stays whole.
 
+- *Inventor 1 — Secondary Business Studies, Form One Students' Book* — Kenya Literature Bureau (KLB), Nairobi. ISBN 978-9966-44-800-2 (read from the back-cover barcode); no year or edition statement survives in this copy, and the authors are not visible in it (the title and imprint pages are blanked in the scan). **Form One (grade-9 equivalent). STUDENT book. Language: English.** 173 PDF pages (no printed folio survives anywhere in the copy; citations are by PDF page). **Verdict: PARTIAL — defective copy.** The library's secured copy is a text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the book was read from those surviving specimens and diagrams only. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **LIBRARY DEBT: a readable copy is still needed before this book can be read in full. It is recorded here as PARTIAL/defective-copy — not as fully read, and not left silently pending.** (It stood in the Business pending queue, not this one.) It stocked 13 placements into this course (2 more into Business).
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 229 placements from **student books** of 15
+  stocked with 242 placements from **student books** of 15
   countries (Dominica, Ecuador, Greece, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
   taught in 15 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
@@ -195,3 +197,15 @@ hold lifts and they are read.
   named in CURRICULUM.md as expected-from-pending, to be built
   when the pending books that teach them are read. No empty
   lesson stands in this course.
+
+- **Kenya Form One — PARTIAL read, library debt:** Kenya's
+  *Inventor 1 — Secondary Business Studies, Form One Students'
+  Book* (KLB, ISBN 978-9966-44-800-2) was read in the Phase 2
+  wave from the library's secured copy, which is a defective,
+  text-blanked Studocu preview: no chapter text or printed
+  folio survives in it. Its 15 placements across the split are
+  filed from the surviving specimens and diagrams only and are
+  cited by PDF page. A readable copy is still needed before
+  the book can be read in full — the debt stands until then.
+  Kenya's Form Two book has no copy anywhere and stays in the
+  Business pending queue (no-copy-exists).

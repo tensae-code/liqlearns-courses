@@ -97,6 +97,8 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **SMM.** Social-media marketing in practice: learn when your audience is online and time posts to the top of their feed; write content that invites discussion — comments show the post is on a topic the audience cares about; run contests and answer critical comments (Kazakhstan's book.)
 
+**Internet.** The structure of the internet in one diagram: the "super highway" linking supercomputer centres, the Internet Society and the Internet Registry, Network Information Centres, Internet Service Providers, on-line services and regional networks (Kenya's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

@@ -65,6 +65,8 @@ Government-provided services and infrastructure as business conditions: governme
 
 **Location part of the lesson (Kazakhstan's own examples).** Geography and region decide what business will work: climate, distance from water and borders, ethnic and cultural makeup, soil, population size and age, religion, average wages and big employers form the demand in a place (air-conditioners sell in Shymkent, not Pavlodar; a window plant belongs by fast-growing Nur-Sultan, with the workshop-in-the-region versus in-the-city choice settled by a feasibility study of rent against delivery cost) (Kazakhstan's book.)
 
+**Environment.** The business and its environments in one diagram: at the centre the business, ringed by its internal environment (business structure, owners, business resources, business culture), and outside it the external environments it must reckon with — demographic, physical, economic, competitive, social-cultural, legal-political and technological (Kenya's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

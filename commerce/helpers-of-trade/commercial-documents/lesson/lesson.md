@@ -50,6 +50,20 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Documents part.** The documents of foreign trade: the letter of credit (the importer's bank's surety that the exporter will be paid, also called letter of undertaking or bank guarantee), the foreign bill of exchange (unconditional order to the importer to pay) and the foreign commercial invoice (the exporter's description of the goods) (Bhutan's book.)
 
+**Documents.** The price list and the quotation: the seller's price list of goods with prices, and the quotation sent in reply to an enquiry, itemising quantity, description, unit price and total for each item and promising prompt delivery (Kenya's book.)
+
+**Documents.** The local purchase order: the buyer's order document, with its order number, the tender/quotation reference it answers, the supplier's name and address, the instruction to deliver to the buyer, the itemised goods with quantities, unit costs and totals, the conditions of the order, and the signature and supplier's acknowledgement (Kenya's book.)
+
+**Documents.** The advice note and the delivery note: the advice note informs the buyer that the goods ordered have been dispatched in good order (items, number of packages, quantities, and the means of delivery); the delivery note travels with the goods, repeats the order reference and items, and is signed by the receiver on delivery (Kenya's book.)
+
+**Documents.** The invoice: the seller's demand for payment for goods supplied, itemising stock codes, quantities, descriptions and unit prices, deducting a quantity discount from the subtotal, marked E&OE, and showing the total amount due (Kenya's book.)
+
+**Documents.** The credit note: issued to the buyer for goods returned, crediting the buyer's account with the value of the returns (Kenya's book.)
+
+**Documents.** The statement of account: the seller's monthly statement to a credit customer, listing each dated transaction with debit, credit and running-balance columns and showing the amount now due (Kenya's book.)
+
+**Documents.** The receipt and the IOU: the receipt acknowledges money received, stating the sum in words and figures and what it is payment for; the IOU is the buyer's written acknowledgement of a debt owed for goods received (Kenya's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents, commercial documents, commercial documents, commercial documents, commercial documents. Your companion asks one question back — answer it from the lesson.

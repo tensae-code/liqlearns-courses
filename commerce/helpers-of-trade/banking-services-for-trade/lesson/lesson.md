@@ -123,6 +123,12 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Financial system part.** The Bhutanese financial system and its intermediaries: banking institutions that accept deposits and advance various types of loans and offer other financial services, and the functions of financial institutions (Bhutan's book.)
 
+**Means of payment.** The cheque as a means of payment, from a filled specimen: the bank and branch, the date, the payee's name, the amount written in words and in figures, the account number and cheque number, and the drawer's signature (Kenya's book.)
+
+**Means of payment.** Sending money through the post office: the inland money order (payable to a named person at a named post office, the amount in words and figures, marked not negotiable) and the postal order (a fixed-denomination order bought at the post office and valid for payment in Kenya) (Kenya's book.)
+
+**Means of payment.** The bank draft: a bank's own written order to pay, marked "A/C Payee Only", promising to pay a named payee on demand a stated sum in words and figures, signed for the bank by its manager (Kenya's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

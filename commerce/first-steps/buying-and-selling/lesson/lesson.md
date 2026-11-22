@@ -31,6 +31,8 @@ Take a pretend purchase: 100 exercise books for a shop. Write a price, then ask 
 
 **Sales-channels.** Kinds of sales by channel: the direct sale and the indirect sale through commercial agents and brokers working on commission; and sale by tender or auction (διαγωνισμός / δημοπρασία), including international tenders open on equal terms across the EU (Greece's book.)
 
+**Discounts.** Trade discount and cash discount worked as calculations: on a sh 10,000 price, trade discount of 10% (sh 1,000) is taken first, leaving sh 9,000 payable; cash discount is then calculated on that reduced amount (10% = sh 900, so sh 8,100 is paid; at 5% = sh 450, so sh 8,550 is paid) (Kenya's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying and selling run on agreed terms — the discounts of trade, the quoted price and what it covers, and the moment payment is due — and the trader who knows the terms knows the real price. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the three discounts of trade, cash discount against trade discount, quoted prices in home trade, the timing of payment. Your companion asks one question back — answer it from the lesson.
