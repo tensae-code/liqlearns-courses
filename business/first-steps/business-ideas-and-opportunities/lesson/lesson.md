@@ -115,6 +115,11 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Community.** My community: reading one's own community for its needs and openings (Mozambique's book.)
 
+
+**Business ideas and opportunities.** What a business idea is, why building one matters, and where ideas come from: a business idea is a creative, feasible idea that brings profit in business; building it settles the basic questions — what to trade in (which customers, with what needs), how to trade, and for whom (the business goal); ideas arise from internal advantages (the trader's passion, knowledge and ability to gather resources) and from external opportunities (a new unmet need, a competitive advantage, a favourable location, a favourable macro policy). (Vietnam's book.)
+
+**Business ideas and opportunities.** The business opportunity and judging it by SWOT: an opportunity is the appearance of favourable conditions for reaching a business goal, and an idea becomes an opportunity when it is sustainable, meets a real and growing need, can be maintained long-term, promises profit and the timing is right; the trader judges it on four criteria — strengths, weaknesses, opportunities and threats (the book's SWOT test) — and uses the judgement to plan on strengths and opportunities while remedying weaknesses and overcoming threats. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.

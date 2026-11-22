@@ -31,6 +31,9 @@ Methods of retailing compared: shops (convenience shops, supermarkets), departme
 
 **Retail-success.** Why a retail business may thrive or fail (Nigeria's book.)
 
+
+**Retail trade.** Retail with a shop as a small-enterprise field: the small firm trades through its own shopfront, either as a general store carrying many kinds of goods or as a specialist shop (stationery, computers, building materials, electrical and plumbing goods, furniture). (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.

@@ -153,6 +153,9 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **E-commerce.** E-commerce: its meaning, nature, origin, functions and importance (Nigeria's book.)
 
+
+**E-business and technology.** The online-selling (e-commerce) model for a small enterprise: trading on the Internet, advertising one's products and services online; it saves the costs of renting premises and hiring staff, reaches a large and varied body of customers, and is not limited by space or time, which is why it fits the small enterprise. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Production and Operations
 
-countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Nigeria
+countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Nigeria, Vietnam
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -55,7 +55,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 24:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
 
+**Book 25:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| production and operations | Book 25 (CDHT GD KT&PL 10), printed pp. 36–37 |
 |---|---|
 | scale part of the lesson | Book 1 (Kenya Business Form 3), printed p. 24 |
 | scale part of the lesson | Book 1 (Kenya Business Form 3), printed p. 29 |
@@ -128,9 +131,9 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | production part of the lesson | Book 24 (Nigeria Commerce SS1), printed p. 26 |
 | division-of-labour part of the lesson | Book 24 (Nigeria Commerce SS1), printed p. 27 |
 
-**Acceptance count: taught in 14 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Bhutan, Kazakhstan, Mozambique, Nigeria)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 15 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Bhutan, Kazakhstan, Mozambique, Nigeria, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique, nigeria
+Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique, nigeria, vietnam

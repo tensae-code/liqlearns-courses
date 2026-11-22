@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Papua New Guinea, Fiji, Mozambique
+countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Papua New Guinea, Fiji, Mozambique, Vietnam
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -26,7 +26,14 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 10:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
+**Book 11:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| small business management | Book 11 (CDHT GD KT&PL 10), printed p. 24 |
+| small business management | Book 11 (CDHT GD KT&PL 10), printed pp. 25–26 |
+| small business management | Book 11 (CDHT GD KT&PL 10), printed pp. 26–28 |
+| small business management | Book 11 (CDHT GD KT&PL 10), printed pp. 29–30 |
+| small business management | Book 11 (CDHT GD KT&PL 10), printed pp. 38–39 |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
 | why small businesses succeed or fail | Book 2 (Bus Studies Y11 Bk1), printed p. 21 |
@@ -45,8 +52,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | family-business part of the lesson | Book 9 (Empreendedorismo Módulo 1 (PESD II)), printed p. 27 |
 | family-business part of the lesson | Book 10 (Módulo de Empreendedorismo (PESD I)), printed p. 80 |
 
-**Acceptance count: taught in 9 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 10 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Fiji, Mozambique, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan, papua-new-guinea, fiji, mozambique
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan, papua-new-guinea, fiji, mozambique, vietnam

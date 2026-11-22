@@ -1,6 +1,6 @@
 # Sources — E-Business and Technology
 
-countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea, Mozambique, Nigeria
+countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea, Mozambique, Nigeria, Vietnam
 
 **Book 1:** Pengajian Keusahawanan Tingkatan 5 (Entrepreneurship Studies, Form 5) (student book) — Sasbadi, for the Kementerian Pendidikan Malaysia KSSM textbook programme. KSSM 2020 edition (page imprints dated 9 Dec 2020); the in-hand PDF opens at the Bab 1 opener — no cover or imprint leaves in the file. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 238 PDF pages (printed pp. 2–239). Source: /home/hatch/workspace/my-wave34/dl/keusahawanan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching pages (printed pp. 234–235).
 
@@ -37,7 +37,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 16:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
 
+**Book 17:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| e-business and technology | Book 17 (CDHT GD KT&PL 10), printed p. 29 |
 |---|---|
 | software part | Book 1 (Pengajian Keusahawanan T5), printed p. 138 |
 | opening part | Book 1 (Pengajian Keusahawanan T5), printed p. 142 |
@@ -101,8 +104,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | digital-finance part of the lesson | Book 15 (Módulo de Empreendedorismo (PESD I)), printed p. 135 |
 | e-commerce part of the lesson | Book 16 (Nigeria Commerce SS1), printed p. 6 |
 
-**Acceptance count: taught in 12 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Mozambique, Nigeria)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Mozambique, Nigeria, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea, mozambique, nigeria
+Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea, mozambique, nigeria, vietnam

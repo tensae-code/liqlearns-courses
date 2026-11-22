@@ -189,6 +189,9 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **SWOT.** FOFA (SWOT) analysis: strengths, weaknesses, opportunities and threats as the Mozambican-named SWOT (Mozambique's book.)
 
+
+**Business management.** How each enterprise form is organised and managed under the law: the multi-member LLC is run by its Members' Council (the highest decision body, all members or their authorised representatives), its chair and its Director or General Director who runs daily business (a state LLC must also have a Supervisory Board); the one-member LLC's owner holds the highest decision power, and an organisation-owned one-member LLC works under one of two models (company president + director, or Members' Council of 3–7 owner-appointed members + director); the joint-stock company works under one of two models built on the General Meeting of Shareholders (highest body: sets development orientation, share types, dividends, elects the Board and supervisors, amends the charter), the Board of Directors (manages the company, decides strategy, the medium-term and annual business plans, share sales and capital raising, appoints and pays the Director) and the Director who runs daily business; the partnership is run by a Members' Council of all the general partners, who are the company's legal representatives and organise its daily business. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

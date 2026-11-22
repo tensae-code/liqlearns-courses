@@ -1,6 +1,6 @@
 # Sources — Break-even Analysis
 
-countries: Malaysia, Papua New Guinea, Fiji
+countries: Malaysia, Papua New Guinea, Fiji, Vietnam
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -10,15 +10,18 @@ countries: Malaysia, Papua New Guinea, Fiji
 
 **Book 4:** Senior Accounting for Year 13 (student book) — Curriculum Development Unit (Sunita Devi Deo, SEO Accounting; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Ministry of Education, Suva, Fiji. Year / edition: First produced October 2017, © Ministry of Education. Grade: Year 13. Language: English. Page count: 232 PDF pages, printed pp. 1–231 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=2; fetched via fetch_book.py, route release (mid-size-books-7), 8,267,287 B = expected exactly, to scratch-phase2/fiji/fiji-y13-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.3 cost-volume-profit analysis, before the glossary at printed p. 224).
 
+**Book 5:** Giáo dục Kinh tế và Pháp luật 12 (Economic and Legal Education 12), Kết nối tri thức với cuộc sống series (student book) — Nguyễn Minh Đoan and Trần Thị Mai Phương (co-editors-in-chief), Nguyễn Hà An, Ngô Thái Hà, Nguyễn Thị Hồi, Nguyễn Thị Thu Trà — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2024; second reprint. Grade: Grade 12. Language: Vietnamese. Page count: 143 PDF pages (printed pp. 1–141; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=4; fetched via `fetch_book.py`, route `release-search`, 36,878,561 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chủ đề 4, Bài 5 (making a business plan, printed pp. 39–45), Chủ đề 5, Bài 6 (the social responsibility of the enterprise, printed pp. 46–51), Chủ đề 6, Bài 7 (managing income and spending in the family, printed pp. 52–57) and, from the Law part, Bài 8 (citizens' rights and obligations concerning business and paying tax, printed pp. 60–71 — placed as one business-law line, its framing named in the line) are placed here. Contents map: Phần một (Economics education) — Chủ đề 1 Growth and economic development (Bài 1); Chủ đề 2 International economic integration (Bài 2); Chủ đề 3 Insurance and social security (Bài 3–4 — Economics wave; the business-risk lesson is not stocked from it because the bài teaches insurance as a social/economic institution, not insuring one's own business); Chủ đề 4–6 (Bài 5–7 — placed here). Phần hai (Law education) — Chủ đề 7 Citizens' rights and obligations in economics (Bài 8 — one line placed here; Bài 9 property ownership); Chủ đề 8 Rights and obligations in culture and society (Bài 10–13); Chủ đề 9 Issues in international law (Bài 14–16 — taught as public international law, Law wave, not placed). No standalone marketing or production-planning unit exists in this book. The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| break-even analysis | Book 5 (GD KT&PL 12 (main)), printed p. 44 |
 |---|---|
 | the whole of the new lesson | Book 1 (Prinsip Perakaunan T5), printed p. 256 |
 | break-even part | Book 2 (Perniagaan T4), printed p. 135 |
 | break-even part of the lesson (teacher guide) | Book 3 (PNG Business Studies TG G12 SB (2023)), printed pp. 163–164 |
 | CVP part of the lesson | Book 4 (Senior Accounting Y13), printed p. 213 |
 
-**Acceptance count: taught in 1 country (Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 2 countries (Malaysia, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: break-even analysis, money at work, accounting, malaysia, papua-new-guinea, fiji
+Searchable tags: break-even analysis, money at work, accounting, malaysia, papua-new-guinea, fiji, vietnam

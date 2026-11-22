@@ -159,6 +159,11 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Money-transfer.** Payment through money transfer service organisations (Western Union, MoneyGram and others) (Nigeria's book.)
 
+
+**Banking services for trade.** Bank credit and its forms: a bank lets a customer use a sum of money for a set time on trust that principal and interest will be repaid; unsecured loans rest wholly on the borrower's reputation (simple procedure, small sums, short terms, high interest), secured (mortgage) loans require collateral worth the loan (larger sums, longer terms, heavier procedure), and instalment loans split principal and interest into monthly payments. (Vietnam's book.)
+
+**Banking services for trade.** Consumer credit and the bank credit card: consumer credit lends to individuals and households for consumption needs (small sums, high interest, repaid from the borrower's income, supplied by banks and finance companies, including instalment purchase through a finance company); the credit card is spend-first-pay-later — the bank sets a limit from the holder's finances and credit history, good repayment builds a credit record that wins better loan terms and cashback. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

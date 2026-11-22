@@ -157,6 +157,23 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Combinations.** Amalgamation and merger, holding companies, cartels, trusts and combines, and large-scale organisations compared (Nigeria's book.)
 
+
+**Forms of business ownership.** The household production-business model (hộ sản xuất kinh doanh): a small-scale economic organisation registered by one individual or the members of a household, who are liable for the business with all of their own assets; light management and easy job creation, but hard to raise capital and grow. (Vietnam's book.)
+
+**Forms of business ownership.** What an enterprise is and its three marks: an organisation with its own name, assets and transaction office, established or registered under law in order to do business; it is business-purpose (works for profit), legal (registered and licensed) and organised (management structure, staff, own assets, legal personality — except the private enterprise). (Vietnam's book.)
+
+**Forms of business ownership.** The private enterprise (doanh nghiệp tư nhân): owned by one individual who is liable for all its activities with all of his assets; one owner only, each person may found only one, it has no legal personality, the owner decides everything, and it may not issue securities to raise capital publicly. (Vietnam's book.)
+
+**Forms of business ownership.** The partnership company (công ty hợp danh): at least 2 general partners who own it together and trade under one name, each liable with all his assets; capital-contributing members may join and are liable only up to their committed capital, may share profit but may not manage or trade in the company's name; partners' professional reputation builds partners' and customers' trust. (Vietnam's book.)
+
+**Forms of business ownership.** The one-member limited liability company: owned by one organisation or individual, whose liability for the company's debts is limited to the charter capital written in the company charter; simpler and less risky than a private enterprise, the owner deciding everything; taking in another's capital means converting to a multi-member LLC or a joint-stock company. (Vietnam's book.)
+
+**Forms of business ownership.** The multi-member limited liability company (2–50 members): members are liable only up to the capital they contributed; the company has legal personality but may not issue shares to raise capital; low risk for contributors and uncomplicated management. (Vietnam's book.)
+
+**Forms of business ownership.** The joint-stock company (công ty cổ phần): charter capital divided into equal shares held by shareholders (minimum 3, no maximum), each liable only up to his contribution, free to transfer shares; the General Meeting of Shareholders is the highest body and elects the Board of Directors, which appoints the Director; the company has legal personality and may issue securities, so its capital structure is flexible and its ability to raise capital high. (Vietnam's book.)
+
+**Forms of business ownership.** The state enterprise: an economic organisation the State founds or co-founds, holding 100% of charter capital (organised as a state one-member LLC) or over 50% of charter capital or voting shares (multi-member LLC or joint-stock form); a legal person working under law on an equal footing. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

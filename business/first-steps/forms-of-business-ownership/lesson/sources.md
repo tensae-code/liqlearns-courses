@@ -1,6 +1,6 @@
 # Sources — Forms of Business Ownership
 
-countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Papua New Guinea, Fiji, Mozambique
+countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Papua New Guinea, Fiji, Mozambique, Vietnam
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -51,7 +51,17 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 22:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
 
+**Book 23:** Giáo dục Kinh tế và Pháp luật 10 (Economic and Legal Education 10), Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (student book) — Trần Thị Mai Phương (editor-in-chief), Nguyễn Hà An, Phạm Thị Kim Dung, Nguyễn Thị Toan — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. Year / edition: © 2022; fourth reprint, revised and supplemented; the secured scan is the 2026 reprint (registration 7-2026/CXBIPH/129-09/GD); ISBN 978-604-0-31115-3. Grade: Grade 10. Language: Vietnamese. Page count: 159 PDF pages (printed pp. 1–157; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=0; fetched via `fetch_book.py`, route `release-search`, 33,960,052 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only (the standing exception; the rest was placed by the Economics wave): Chủ đề 4, Bài 7 (production-business and its models, printed pp. 43–52), Chủ đề 5, Bài 9 (credit services, printed pp. 57–66 — trade-facing parts only) and Chủ đề 6, Bài 10 (personal financial planning, printed pp. 67–75) are placed here; Bài 8 (credit and its role) was read and judged Economics-wave material, contents-mapped, not placed. No standalone marketing or production-planning unit exists in this book. Contents map: Phần một (Economics education) — Chủ đề 1 The economy and its actors (Bài 1–2); Chủ đề 2 Market and market mechanism (Bài 3–4); Chủ đề 3 State budget and tax (Bài 5–6); Chủ đề 4 Production-business and its models (Bài 7 — placed here); Chủ đề 5 Credit (Bài 8 mapped, Bài 9 placed in part here); Chủ đề 6 Personal financial planning (Bài 10 — placed here). Phần hai (Law education) — Chủ đề 7 Law of the SRV (Bài 11–13); Chủ đề 8 The Constitution (Bài 14–17); Chủ đề 9 The political system (Bài 18–21). The book is an image-only scan with no text layer; it was read from 150 dpi page renders OCR'd with Tesseract's Vietnamese model, spot-checked against rendered pages. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed p. 45 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed p. 47 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed pp. 47–48 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed pp. 48–49 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed p. 49 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed pp. 49–50 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed pp. 50–51 |
+| forms of business ownership | Book 23 (GD KT&PL 10 (main)), printed p. 51 |
 |---|---|
 | registration part | Book 1 (Perniagaan T5), printed p. 163 |
 | opening part | Book 2 (Pengajian Keusahawanan T5), printed p. 4 |
@@ -127,8 +137,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | combinations part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 42 |
 | combinations part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 44 |
 
-**Acceptance count: taught in 13 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 14 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Fiji, Mozambique, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua, palestine, sudan, greece, bhutan, kazakhstan, papua-new-guinea, fiji, mozambique
+Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua, palestine, sudan, greece, bhutan, kazakhstan, papua-new-guinea, fiji, mozambique, vietnam

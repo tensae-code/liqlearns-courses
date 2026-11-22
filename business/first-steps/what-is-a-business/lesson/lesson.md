@@ -85,6 +85,9 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Classification part.** Classifying business activity: industry (the producing side) set against commerce (the distribution side) (Bhutan's book.)
 
+
+**What a business is / why it matters.** What business and production-business are, and the role of production-business in social life: business is the continuous carrying out of one or all stages from investment through production to selling products or supplying services on the market for profit; production-business makes the goods and services society needs, creates jobs and income for workers, families and the business owner, and drives local and national development. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

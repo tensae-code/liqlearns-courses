@@ -147,6 +147,9 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Work-values.** The dignity of work (dignidade de trabalho) (Mozambique's book.)
 
+
+**Entrepreneurship.** The competencies a businessperson needs: leadership competence (setting strategy, dynamism, creativity, seizing business opportunities), management competence (organising and building relationships in business), professional competence (knowledge of the trade one is in), and the competence to keep learning and accumulating knowledge and skills. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

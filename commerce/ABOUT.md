@@ -158,12 +158,18 @@ set is whole.
 
 - *Commerce for Senior Secondary Schools 2* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. **Senior Secondary 2 (SS2, grade-11 equivalent). STUDENT book. Language: English.** 192 PDF pages (main text to Ch. 12, printed p. 172+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Ch. 1 Career opportunities; Ch. 2 Cooperative societies; Ch. 3 Public enterprises; Ch. 4 Limited liability companies; Ch. 5 Trade associations and other enterprises; Ch. 6 Transportation; Ch. 7 Communication; Ch. 8 Advertising; Ch. 9 Tourism; Ch. 10 Insurance; Ch. 11 Banking; Ch. 12 Warehousing. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)It stocked 32 placements into this course (11 more into Business, 2 into Accounting) — one of them the only placement of the new lesson Tourism in Trade.
 
+- *Giáo dục Kinh tế và Pháp luật 10 (Economic and Legal Education 10)* — Trần Thị Mai Phương (editor-in-chief) et al. — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Kết nối tri thức với cuộc sống series. © 2022; 2026 reprint; ISBN 978-604-0-31115-3. **Grade 10. STUDENT book. Language: Vietnamese.** 159 PDF pages (printed pp. 1–157). **Verdict: COMPLETE for this wave's scope** — a COMBINED Economics + Law carrier read for its Business parts only. Contents map (Commerce parts): Chủ đề 5, Bài 9 Credit services (bank credit and its forms; buying by instalments and its cost; trade credit; consumer credit and the bank credit card — placed here); the book's Business parts stock Business, its Economics/Law parts ride with the Economics wave. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 4 placements into this course (12 more into Business).
+
+- *Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10)* — the series' editorial team — Nhà Xuất Bản Giáo dục Việt Nam. © 2022; 2026 reprint. **Grade 10. STUDENT book. Language: Vietnamese.** 71 PDF pages (printed pp. 1–69). **Verdict: COMPLETE for this wave's scope** — a COMBINED Economics + Law carrier read for its Business parts only. Contents map (Commerce part): Chuyên đề 2, Bài 4 — retail with a shop named as a small-enterprise field (placed here); the small-enterprise unit's remaining teaching stocks Business. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 1 placement into this course (9 more into Business).
+
+- Vietnam's other four *Economic and Legal Education* books were read in the same wave and are recorded in full in the Business ABOUT.md read-books list: the Grade 11 main textbook (5 placements, all into Business), the Grade 12 main textbook (7 into Business, 1 into Accounting) and the Grade 12 Study Topics volume (4 into Business) carry no Commerce part; the Grade 11 Study Topics volume was read with zero placements — pure law (Civil Code 2015 / Labour Code 2019 excerpts) — and stocks nothing anywhere in the split. All six stood in the Business pending queue, not this one.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 311 placements from **student books** of 17
-  countries (Dominica, Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
-  taught in 17 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 316 placements from **student books** of 18
+  countries (Dominica, Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan, Vietnam) —
+  taught in 18 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -247,3 +253,5 @@ hold lifts and they are read.
   guide was the suspected phantom push: it is NOT a phantom —
   it was found as a GitHub release asset, landed byte-exact
   and read in full, and no library debt stands on that record.
+
+- **Vietnam — combined carriers, one read-with-zero-placements book:** Vietnam's six *Giáo dục Kinh tế và Pháp luật* books are COMBINED Economics + Law carriers read for their Business parts only; the Grade 11 Study Topics volume was read and judged pure law (Civil Code 2015 / Labour Code 2019 excerpts — statutory entitlement law, not business teaching) and stocks nothing anywhere in the split, recorded as read-with-zero-placements in the read-books list above. No standalone marketing unit exists in any of the six books. All six are image-only scans read via Vietnamese OCR of page renders; summaries stocked are the reader's own words, and no statutory text is transcribed.

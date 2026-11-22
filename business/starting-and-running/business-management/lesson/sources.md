@@ -1,6 +1,6 @@
 # Sources — Business Management
 
-countries: Malaysia, Nigeria, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Indonesia, Bhutan, Kazakhstan, Papua New Guinea, Mozambique
+countries: Malaysia, Nigeria, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Indonesia, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Vietnam
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -43,7 +43,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 18:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
+**Book 19:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 12 (Study Topics in Economic and Legal Education 12), Kết nối tri thức với cuộc sống series (student book) — Nguyễn Minh Đoan and Trần Thị Mai Phương (co-editors-in-chief), Ngô Thái Hà, Nguyễn Thị Hồi — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2024; second reprint; the secured scan carries the 2026 reprint registration (7-2026/CXBIPH/211-09/GD). Grade: Grade 12. Language: Vietnamese. Page count: 51 PDF pages (printed pp. 1–49; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=5; fetched via `fetch_book.py`, route `release-search`, 12,414,157 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2 (Issues in the Law on Enterprises, printed pp. 15–31) is placed here in part — the parts that teach how an enterprise is set up, governed and wound up; the unit's restatement of the four enterprise forms themselves (printed pp. 18–21) was deliberately NOT re-placed, because the Grade 10 main textbook's Bài 7 already placed the same forms teaching. Contents map: Chuyên đề 1 Economic development and cultural and social change (printed pp. 5–14 — Economics wave, not placed); Chuyên đề 2 Issues in the Law on Enterprises (placed here in part); Chuyên đề 3 Vietnam in international economic integration (printed pp. 32–46 — Economics wave, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| business management | Book 19 (CDHT GD KT&PL 12), printed pp. 23–26 |
 |---|---|
 | organisation-structure part | Book 1 (Perniagaan T5), printed p. 21 |
 | opening part | Book 2 (Pengajian Keusahawanan T5), printed p. 58 |
@@ -135,8 +138,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | SWOT part of the lesson | Book 17 (Empreendedorismo Módulo 2 (PESD II)), printed p. 30 |
 | SWOT part of the lesson | Book 18 (Módulo de Empreendedorismo (PESD I)), printed p. 56 |
 
-**Acceptance count: taught in 12 countries (Malaysia, Nigeria, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Indonesia, Bhutan, Kazakhstan, Mozambique)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Malaysia, Nigeria, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Indonesia, Bhutan, Kazakhstan, Mozambique, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: business management, starting and running, business, malaysia, nigeria, samoa, dominica, iran, nepal, nicaragua, palestine, indonesia, bhutan, kazakhstan, papua-new-guinea, mozambique
+Searchable tags: business management, starting and running, business, malaysia, nigeria, samoa, dominica, iran, nepal, nicaragua, palestine, indonesia, bhutan, kazakhstan, papua-new-guinea, mozambique, vietnam

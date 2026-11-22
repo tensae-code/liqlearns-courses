@@ -1,6 +1,6 @@
 # Sources — Credit and Hire Purchase
 
-countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji
+countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji, Vietnam
 
 **Book 1:** Business Studies — Year 9, Book One: Economics (student book) — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2002, 2003, 2004 and 2006 by Egan Reid Ltd, Auckland, New Zealand. No ISBN is printed in the book. Year/edition: 2001, reprint 2006. Grade: Year 9 (grade-9). Language: English, with Samoan translations in text boxes and a bilingual (English–Samoan) glossary. Page count: 97 pages. Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-9-Book-1.pdf. Verdict: COMPLETE — read the whole book, all 97 PDF pages, to the last page (glossary ends printed p. 97).
 
@@ -18,7 +18,11 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji
 
 **Book 7:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
 
+**Book 8:** Giáo dục Kinh tế và Pháp luật 10 (Economic and Legal Education 10), Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (student book) — Trần Thị Mai Phương (editor-in-chief), Nguyễn Hà An, Phạm Thị Kim Dung, Nguyễn Thị Toan — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. Year / edition: © 2022; fourth reprint, revised and supplemented; the secured scan is the 2026 reprint (registration 7-2026/CXBIPH/129-09/GD); ISBN 978-604-0-31115-3. Grade: Grade 10. Language: Vietnamese. Page count: 159 PDF pages (printed pp. 1–157; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=0; fetched via `fetch_book.py`, route `release-search`, 33,960,052 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only (the standing exception; the rest was placed by the Economics wave): Chủ đề 4, Bài 7 (production-business and its models, printed pp. 43–52), Chủ đề 5, Bài 9 (credit services, printed pp. 57–66 — trade-facing parts only) and Chủ đề 6, Bài 10 (personal financial planning, printed pp. 67–75) are placed here; Bài 8 (credit and its role) was read and judged Economics-wave material, contents-mapped, not placed. No standalone marketing or production-planning unit exists in this book. Contents map: Phần một (Economics education) — Chủ đề 1 The economy and its actors (Bài 1–2); Chủ đề 2 Market and market mechanism (Bài 3–4); Chủ đề 3 State budget and tax (Bài 5–6); Chủ đề 4 Production-business and its models (Bài 7 — placed here); Chủ đề 5 Credit (Bài 8 mapped, Bài 9 placed in part here); Chủ đề 6 Personal financial planning (Bài 10 — placed here). Phần hai (Law education) — Chủ đề 7 Law of the SRV (Bài 11–13); Chủ đề 8 The Constitution (Bài 14–17); Chủ đề 9 The political system (Bài 18–21). The book is an image-only scan with no text layer; it was read from 150 dpi page renders OCR'd with Tesseract's Vietnamese model, spot-checked against rendered pages. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| credit and hire purchase | Book 8 (GD KT&PL 10 (main)), printed p. 60 |
+| credit and hire purchase | Book 8 (GD KT&PL 10 (main)), printed p. 61 |
 |---|---|
 | buying on credit; debtor and creditor | Book 1 (Bus Studies Y9 Bk1), printed p. 83 |
 | credit buying | Book 2 (Principles of Business for CSEC), printed pp. 230–231 |
@@ -34,8 +38,8 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji
 | credit part | Book 6 (Business Studies Y10 Bk 1), printed p. 66 |
 | buying part of the lesson | Book 7 (Year 9 Commercial Studies), printed p. 36 |
 
-**Acceptance count: taught in 7 countries (Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji, Vietnam)** — every book above is a student book, so each country counts.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`credit-and-hire-purchase`) in samoa-placements.md; the registry settled it as this lesson of the Commerce course, under the same slug.
 
-Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece, malaysia, fiji
+Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece, malaysia, fiji, vietnam

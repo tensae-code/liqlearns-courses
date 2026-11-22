@@ -1,6 +1,6 @@
 # Sources — Retail Trade
 
-countries: Nigeria, Samoa, Dominica, Nepal, Uganda, Greece, Kenya
+countries: Nigeria, Samoa, Dominica, Nepal, Uganda, Greece, Kenya, Vietnam
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -18,7 +18,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 8:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
 
+**Book 9:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| retail trade | Book 9 (CDHT GD KT&PL 10), printed p. 28 |
 |---|---|
 | the retailer's side part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 19 |
 | direct selling to retailers and the co-operative channel | Book 2 (Bus Studies Y9 Bk1), printed p. 13 |
@@ -32,6 +35,6 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | large-outlets part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 54 |
 | retail-success part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 61 |
 
-**Acceptance count: taught in 7 countries (Nigeria, Samoa, Dominica, Nepal, Uganda, Greece, Kenya)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Nigeria, Samoa, Dominica, Nepal, Uganda, Greece, Kenya, Vietnam)** — every book above is a student book, so each country counts.
 
-Searchable tags: retail trade, first steps, commerce, nigeria, samoa, dominica, nepal, uganda, greece, kenya
+Searchable tags: retail trade, first steps, commerce, nigeria, samoa, dominica, nepal, uganda, greece, kenya, vietnam

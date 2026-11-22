@@ -1,6 +1,6 @@
 # Sources — Clubs, Societies and Co-operatives
 
-countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea, Nigeria
+countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea, Nigeria, Vietnam
 
 **Book 1:** Business Studies — Year 11, Book One (student book) — Lili Tuioti with subject committee — Government of Samoa, Department of Education, 2003; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-042-5. Year/edition: 2003 (in-hand copy). Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-1.pdf. Verdict: COMPLETE for the assigned strands — the whole book was read; Business parts placed, Economics parts mapped only.
 
@@ -21,7 +21,10 @@ countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea, Nigeria
 
 **Book 9:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
 
+**Book 10:** Giáo dục Kinh tế và Pháp luật 10 (Economic and Legal Education 10), Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (student book) — Trần Thị Mai Phương (editor-in-chief), Nguyễn Hà An, Phạm Thị Kim Dung, Nguyễn Thị Toan — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. Year / edition: © 2022; fourth reprint, revised and supplemented; the secured scan is the 2026 reprint (registration 7-2026/CXBIPH/129-09/GD); ISBN 978-604-0-31115-3. Grade: Grade 10. Language: Vietnamese. Page count: 159 PDF pages (printed pp. 1–157; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=0; fetched via `fetch_book.py`, route `release-search`, 33,960,052 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only (the standing exception; the rest was placed by the Economics wave): Chủ đề 4, Bài 7 (production-business and its models, printed pp. 43–52), Chủ đề 5, Bài 9 (credit services, printed pp. 57–66 — trade-facing parts only) and Chủ đề 6, Bài 10 (personal financial planning, printed pp. 67–75) are placed here; Bài 8 (credit and its role) was read and judged Economics-wave material, contents-mapped, not placed. No standalone marketing or production-planning unit exists in this book. Contents map: Phần một (Economics education) — Chủ đề 1 The economy and its actors (Bài 1–2); Chủ đề 2 Market and market mechanism (Bài 3–4); Chủ đề 3 State budget and tax (Bài 5–6); Chủ đề 4 Production-business and its models (Bài 7 — placed here); Chủ đề 5 Credit (Bài 8 mapped, Bài 9 placed in part here); Chủ đề 6 Personal financial planning (Bài 10 — placed here). Phần hai (Law education) — Chủ đề 7 Law of the SRV (Bài 11–13); Chủ đề 8 The Constitution (Bài 14–17); Chủ đề 9 The political system (Bài 18–21). The book is an image-only scan with no text layer; it was read from 150 dpi page renders OCR'd with Tesseract's Vietnamese model, spot-checked against rendered pages. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| clubs, societies and co-operatives | Book 10 (GD KT&PL 10 (main)), printed pp. 46–47 |
 |---|---|
 | non-profit organisations as producers | Book 1 (Bus Studies Y11 Bk1), printed p. 18 |
 | non-profit organisations | Book 2 (Principles of Business for CSEC), printed p. 19 |
@@ -42,10 +45,10 @@ countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea, Nigeria
 | organisation part of the lesson | Book 9 (Nigeria Commerce SS2), printed p. 11 |
 | benefits part of the lesson | Book 9 (Nigeria Commerce SS2), printed p. 15 |
 
-**Acceptance count: taught in 6 countries (Samoa, Dominica, Ecuador, Nepal, Malaysia, Nigeria)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Samoa, Dominica, Ecuador, Nepal, Malaysia, Nigeria, Vietnam)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 This lesson stands on ONE placement, honestly labelled: the fuller clubs/societies teaching expected from Samoa's Book 1s is NOT in Samoa Year 9 Book 1 (verified cover to cover — the Economics wave's contents map pointing to clubs/societies at printed pp. 15–24 of that book was wrong, and nothing is stocked from the wrong map). Its likely source is the pending Samoa Year 10 Book 1; the lesson grows when that book is read.
 
-Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal, malaysia, papua-new-guinea, nigeria
+Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal, malaysia, papua-new-guinea, nigeria, vietnam

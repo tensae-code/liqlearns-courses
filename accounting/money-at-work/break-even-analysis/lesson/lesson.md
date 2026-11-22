@@ -14,6 +14,9 @@ Break-even analysis: contribution margin per unit, break-even point in units and
 
 **CVP.** Cost-volume-profit analysis: how costs, volume and profit move together and where the break-even point sits (Fiji's book.)
 
+
+**Break-even analysis.** Break-even inside the plan's financial step: the financial plan must show the need for capital and how it is secured, build the projected financial statements as the basis for analysis, and analyse the break-even point of the investment as the ground for judging decisions about output, price, costs and profit, with revenue-and-expenditure schemes that keep the cash flow balanced. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: break-even analysis finds the output where contribution exactly covers fixed costs — the break-even point — and the output needed for a target profit. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson. Your companion asks one question back — answer it from the lesson.

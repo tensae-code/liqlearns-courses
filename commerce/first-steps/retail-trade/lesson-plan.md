@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Retailer part; Small-outlets part; Large-outlets part; Retail-success part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Retailer part; Small-outlets part; Large-outlets part; Retail-success part; Retail trade
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a small neighbourhood shop, the shopkeeper handing a bag of rice to a neighbour and writing the amount in a small credit book — the student says who the retailer bought from, who she sells to, and what the credit book is for.

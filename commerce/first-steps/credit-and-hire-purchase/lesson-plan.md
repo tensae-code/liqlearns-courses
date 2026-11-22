@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Hire-purchase part; Borrowing concept part; Credit part.; Buying part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Hire-purchase part; Borrowing concept part; Credit part.; Buying part; Credit and hire purchase; Credit and hire purchase
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a family carrying a new table out of a shop while the shopkeeper writes the monthly payments in a book — the student points to the creditor and the debtor and says what each one has promised.

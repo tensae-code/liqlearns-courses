@@ -33,6 +33,11 @@ Buying on terms inside the book's terms-of-sale teaching: credit (price split in
 
 **Buying.** Types of buying: the ways goods are bought, including buying on credit terms (Fiji's book.)
 
+
+**Credit and hire purchase.** Buying by instalments and its cost: under an instalment loan the buyer repays part of the principal plus interest every month, so buying on credit costs more than paying once in full — the interest paid always exceeds what the same money would earn as a deposit. (Vietnam's book.)
+
+**Credit and hire purchase.** Trade credit (tín dụng thương mại): credit between enterprises themselves, carried out as buying and selling on deferred payment — goods are delivered now and the buying enterprise repays principal and interest in money at the agreed date. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying on credit means taking the goods now and paying over time: the seller becomes the creditor who lends, and the buyer becomes the debtor who owes — and the promise to pay is measured exactly in money. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: buying on credit, credit and hire purchase. Your companion asks one question back — answer it from the lesson.

@@ -303,11 +303,15 @@ they are named here so the read set is whole.
 
 - *Commerce for Senior Secondary Schools 2* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. **Senior Secondary 2 (SS2, grade-11 equivalent). STUDENT book. Language: English.** 192 PDF pages (main text to Ch. 12, printed p. 172+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Ch. 1 Career opportunities; Ch. 2 Cooperative societies; Ch. 3 Public enterprises; Ch. 4 Limited liability companies; Ch. 5 Trade associations and other enterprises; Ch. 6 Transportation; Ch. 7 Communication; Ch. 8 Advertising; Ch. 9 Tourism; Ch. 10 Insurance; Ch. 11 Banking; Ch. 12 Warehousing. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)It stocked 2 placements into this course (32 into Commerce, 11 into Business).
 
+- *Giáo dục Kinh tế và Pháp luật 12 (Economic and Legal Education 12)* — Nguyễn Minh Đoan and Trần Thị Mai Phương (co-editors-in-chief) et al. — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Kết nối tri thức với cuộc sống series. © 2024; second reprint. **Grade 12. STUDENT book. Language: Vietnamese.** 143 PDF pages (printed pp. 1–141). **Verdict: COMPLETE for this wave's scope** — a COMBINED Economics + Law carrier read for its Business parts only. Contents map (Accounting part): Chủ đề 4, Bài 5 Making a business plan — break-even inside the plan's financial step (placed here); the book's remaining placed parts stock Business. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 1 placement into this course (7 more into Business).
+
+- Vietnam's other five *Economic and Legal Education* books were read in the same wave and are recorded in full in the Business ABOUT.md read-books list: the Grade 10 main textbook (12 into Business, 4 into Commerce), the Grade 10 Study Topics volume (9 into Business, 1 into Commerce), the Grade 11 main textbook (5 into Business) and the Grade 12 Study Topics volume (4 into Business) carry no Accounting part; the Grade 11 Study Topics volume was read with zero placements — pure law (Civil Code 2015 / Labour Code 2019 excerpts) — and stocks nothing anywhere in the split. All six stood in the Business pending queue, not this one.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 37 lessons, stocked with
-  638 placements in all — 570 of them from **student books** of 14 countries (Dominica,
-  Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Bhutan) — taught in 14 countries;
+  639 placements in all — 571 of them from **student books** of 15 countries (Dominica,
+  Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Bhutan, Vietnam) — taught in 15 countries;
   the other 68 are teacher-guide evidence from Zambia, Indonesia and Papua New Guinea (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
@@ -400,3 +404,5 @@ hold lifts and they are read.
   recorded as it is. The Grade 12 guide's cover says "Junior
   High — Grade 12" while its title page says "Senior High" —
   recorded as printed.
+
+- **Vietnam — combined carriers, one read-with-zero-placements book:** Vietnam's six *Giáo dục Kinh tế và Pháp luật* books are COMBINED Economics + Law carriers read for their Business parts only; only one Accounting placement stands in the whole set (break-even inside the Grade 12 business plan's financial step). The Grade 11 Study Topics volume was read and judged pure law (Civil Code 2015 / Labour Code 2019 excerpts — statutory entitlement law, not payroll practice or business teaching) and stocks nothing anywhere in the split, recorded as read-with-zero-placements in the read-books list above. All six are image-only scans read via Vietnamese OCR of page renders; summaries stocked are the reader's own words, and no statutory text is transcribed.

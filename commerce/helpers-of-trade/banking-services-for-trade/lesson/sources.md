@@ -1,6 +1,6 @@
 # Sources — Banking Services for Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Papua New Guinea, Fiji
+countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Papua New Guinea, Fiji, Vietnam
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -39,7 +39,11 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 
 **Book 17:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
 
+**Book 18:** Giáo dục Kinh tế và Pháp luật 10 (Economic and Legal Education 10), Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (student book) — Trần Thị Mai Phương (editor-in-chief), Nguyễn Hà An, Phạm Thị Kim Dung, Nguyễn Thị Toan — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House), for the Ministry of Education and Training. Year / edition: © 2022; fourth reprint, revised and supplemented; the secured scan is the 2026 reprint (registration 7-2026/CXBIPH/129-09/GD); ISBN 978-604-0-31115-3. Grade: Grade 10. Language: Vietnamese. Page count: 159 PDF pages (printed pp. 1–157; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=0; fetched via `fetch_book.py`, route `release-search`, 33,960,052 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only (the standing exception; the rest was placed by the Economics wave): Chủ đề 4, Bài 7 (production-business and its models, printed pp. 43–52), Chủ đề 5, Bài 9 (credit services, printed pp. 57–66 — trade-facing parts only) and Chủ đề 6, Bài 10 (personal financial planning, printed pp. 67–75) are placed here; Bài 8 (credit and its role) was read and judged Economics-wave material, contents-mapped, not placed. No standalone marketing or production-planning unit exists in this book. Contents map: Phần một (Economics education) — Chủ đề 1 The economy and its actors (Bài 1–2); Chủ đề 2 Market and market mechanism (Bài 3–4); Chủ đề 3 State budget and tax (Bài 5–6); Chủ đề 4 Production-business and its models (Bài 7 — placed here); Chủ đề 5 Credit (Bài 8 mapped, Bài 9 placed in part here); Chủ đề 6 Personal financial planning (Bài 10 — placed here). Phần hai (Law education) — Chủ đề 7 Law of the SRV (Bài 11–13); Chủ đề 8 The Constitution (Bài 14–17); Chủ đề 9 The political system (Bài 18–21). The book is an image-only scan with no text layer; it was read from 150 dpi page renders OCR'd with Tesseract's Vietnamese model, spot-checked against rendered pages. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| banking services for trade | Book 18 (GD KT&PL 10 (main)), printed pp. 57–60 |
+| banking services for trade | Book 18 (GD KT&PL 10 (main)), printed pp. 61–64 |
 |---|---|
 | banking part of the lesson | Book 1 (Kenya Business Form 4), printed p. 100 |
 | banking part of the lesson | Book 1 (Kenya Business Form 4), printed p. 113 |
@@ -115,10 +119,10 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 | card-payment part of the lesson | Book 17 (Nigeria Commerce SS2), printed p. 163 |
 | money-transfer part of the lesson | Book 17 (Nigeria Commerce SS2), printed p. 168 |
 
-**Acceptance count: taught in 12 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 13 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Fiji, Vietnam)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece, samoa, bhutan, papua-new-guinea, fiji
+Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece, samoa, bhutan, papua-new-guinea, fiji, vietnam

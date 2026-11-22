@@ -151,6 +151,9 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Division-of-labour.** Specialisation and division of labour, and how production, division of labour, specialisation and exchange interrelate (Nigeria's book.)
 
+
+**Production and operations.** Organising a small enterprise's operations in three stages: (1) prepare the production inputs — recruit the workforce (technical, personnel, sales and office staff and skilled workers), buy machines, equipment, materials and raw materials, and study market information before deciding what to produce; (2) carry out production — fix the production structure (the main production unit, the auxiliary unit that keeps it running, the by-product unit that uses its waste, and the service unit that supplies, stores and transports), assign workers to jobs fitting their abilities, manage technique (product design, production technique, keeping machines running safely) and control product quality at every stage; (3) solve the output — plan production to customer needs and win orders by introducing, advertising and distributing the product. (Vietnam's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.
