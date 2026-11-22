@@ -1,6 +1,6 @@
 # Sources — E-commerce — buying and selling online
 
-countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan
+countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan, France
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -94,3 +94,17 @@ Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students 
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
 Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12, pakistan, grade 6 computer science 6, grade 7 computer science 7
+
+## France growth (2026-11-22, ICT leftovers — SNT Seconde)
+
+**Book (France — SNT 2de, student book):** Title as recorded: SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde (Les Manuels Libres) (student book, French) — France, Les Manuels Libres — DRANE, Région académique Île-de-France; licence CC BY-NC-SA 4.0; source site lesmanuelslibres.region-academique-idf.fr. Grade: Grade 10 (Seconde). The book teaches the official French SNT (Sciences numériques et technologie) programme as seven themes — Internet ; Le Web ; Les réseaux sociaux ; Données structurées et leur traitement ; Localisation, cartographie et mobilité ; Informatique embarquée et objets connectés ; La photographie numérique — each with Cours / Activités / En codant / Exercices / Prolongements / Repères sections. Identity: GitHub release asset — repo tensae-code/liqlearns-textbooks, release full-quality-oversized-books, asset grade-10-gov-france-snt-seconde.zip, 808,725,287 bytes (download verified byte-exact). A ZIP of the book's HTML source project (1,372 entries, 1,133 HTML files), not a PDF — no printed pages exist, so placements cite the theme and section exactly as the book names them. Verdict: COMPLETE. Read in full in the 2026-11-22 ICT leftover read (all 199 Cours files, the Activités and En codant strands of every theme, and the Prolongements of Le Web and Données structurées; Exercices and Repères surveyed file by file). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cours « Les contrats en ligne » : ce qui engage l'utilisateur quand il achète ou s'inscrit en ligne | France, *SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde*, Thème Le Web, Cours |
+
+**Acceptance count: taught in 14 countries — France added.**
+
+France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
+
+Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, e-commerce-buying-and-selling-online

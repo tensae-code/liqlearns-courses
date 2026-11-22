@@ -1,6 +1,6 @@
 # Sources — IP address classes and network masks
 
-countries: Ethiopia, China, Mongolia
+countries: Ethiopia, China, Mongolia, France
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -26,3 +26,17 @@ The Grade 10 teacher guide's Unit 2 review keys (guide printed p. 47; guide plac
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
 Searchable tags: IP classes, class A B C D E, network mask, first octet, multicast, Grade 10 ICT Ethiopia, china, mongolia, grade 12 it xii
+
+## France growth (2026-11-22, ICT leftovers — SNT Seconde)
+
+**Book (France — SNT 2de, student book):** Title as recorded: SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde (Les Manuels Libres) (student book, French) — France, Les Manuels Libres — DRANE, Région académique Île-de-France; licence CC BY-NC-SA 4.0; source site lesmanuelslibres.region-academique-idf.fr. Grade: Grade 10 (Seconde). The book teaches the official French SNT (Sciences numériques et technologie) programme as seven themes — Internet ; Le Web ; Les réseaux sociaux ; Données structurées et leur traitement ; Localisation, cartographie et mobilité ; Informatique embarquée et objets connectés ; La photographie numérique — each with Cours / Activités / En codant / Exercices / Prolongements / Repères sections. Identity: GitHub release asset — repo tensae-code/liqlearns-textbooks, release full-quality-oversized-books, asset grade-10-gov-france-snt-seconde.zip, 808,725,287 bytes (download verified byte-exact). A ZIP of the book's HTML source project (1,372 entries, 1,133 HTML files), not a PDF — no printed pages exist, so placements cite the theme and section exactly as the book names them. Verdict: COMPLETE. Read in full in the 2026-11-22 ICT leftover read (all 199 Cours files, the Activités and En codant strands of every theme, and the Prolongements of Le Web and Données structurées; Exercices and Repères surveyed file by file). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cours « Les adresses IP » : le masque de sous-réseau, l'opération ET bit à bit pour trouver l'adresse du réseau, la notation CIDR /24, l'adresse de diffusion | France, *SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde*, Thème Internet, Cours |
+
+**Acceptance count: taught in 4 countries — France added.**
+
+France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
+
+Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, ip-address-classes-and-network-masks

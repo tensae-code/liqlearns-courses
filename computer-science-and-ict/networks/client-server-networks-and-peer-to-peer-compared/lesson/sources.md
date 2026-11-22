@@ -1,6 +1,6 @@
 # Sources — Client-server networks — and peer-to-peer compared
 
-countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia, Pakistan, Kazakhstan
+countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia, Pakistan, Kazakhstan, France
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -77,3 +77,17 @@ Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev 
 
 Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
 Searchable tags: client-server, server, workstation, peer-to-peer compared, Grade 9 ICT Ethiopia, germany, nepal, sudan, grade 6, fiji, year 12, moldova, grade 7 informatica, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 8, pakistan, grade 8 computer education 8, grade 9 computer science 9, kazakhstan, vyshkova & zhurbenko g7 informatics, nis, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)
+
+## France growth (2026-11-22, ICT leftovers — SNT Seconde)
+
+**Book (France — SNT 2de, student book):** Title as recorded: SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde (Les Manuels Libres) (student book, French) — France, Les Manuels Libres — DRANE, Région académique Île-de-France; licence CC BY-NC-SA 4.0; source site lesmanuelslibres.region-academique-idf.fr. Grade: Grade 10 (Seconde). The book teaches the official French SNT (Sciences numériques et technologie) programme as seven themes — Internet ; Le Web ; Les réseaux sociaux ; Données structurées et leur traitement ; Localisation, cartographie et mobilité ; Informatique embarquée et objets connectés ; La photographie numérique — each with Cours / Activités / En codant / Exercices / Prolongements / Repères sections. Identity: GitHub release asset — repo tensae-code/liqlearns-textbooks, release full-quality-oversized-books, asset grade-10-gov-france-snt-seconde.zip, 808,725,287 bytes (download verified byte-exact). A ZIP of the book's HTML source project (1,372 entries, 1,133 HTML files), not a PDF — no printed pages exist, so placements cite the theme and section exactly as the book names them. Verdict: COMPLETE. Read in full in the 2026-11-22 ICT leftover read (all 199 Cours files, the Activités and En codant strands of every theme, and the Prolongements of Le Web and Données structurées; Exercices and Repères surveyed file by file). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cours « Le pair à pair » : principe, usages et risques du P2P | France, *SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde*, Thème Internet, Cours |
+
+**Acceptance count: taught in 11 countries — France added.**
+
+France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
+
+Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, client-server-networks-and-peer-to-peer-compared

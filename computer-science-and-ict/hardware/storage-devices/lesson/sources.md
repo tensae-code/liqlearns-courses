@@ -1,6 +1,6 @@
 # Sources — Storage devices — keeping data
 
-countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Pakistan, Kazakhstan
+countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Pakistan, Kazakhstan, France
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -116,3 +116,17 @@ Kazakhstan's own way (Mukametzhanova G5 «Информатика» 2020 edition)
 
 Kazakhstan's own way (Kobdikova G5 «Информатика»): the Arman-PV Grade 5 book is the practicum twin of the same programme as Books 18 and 35 — nearly every unit comes in a theory + practice pair, and it adds a block the others lack: sharing files (placing, changing and downloading shared files), setting a password on documents, and organising a document effectively for print, taught as "mini-project works".
 Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 8 ict student, pakistan, grade 6 computer science 6, grade 9 computer science 9, kazakhstan, kadirkulov g5 informatika, kobdikova g5 informatika, mukhametzhanova g5 informatika, 2020 edition, vyshkova & zhurbenko g7 informatics, nis, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition), mukametzhanova g5 «информатика» 2020 edition, kobdikova g5 «информатика»
+
+## France growth (2026-11-22, ICT leftovers — SNT Seconde)
+
+**Book (France — SNT 2de, student book):** Title as recorded: SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde (Les Manuels Libres) (student book, French) — France, Les Manuels Libres — DRANE, Région académique Île-de-France; licence CC BY-NC-SA 4.0; source site lesmanuelslibres.region-academique-idf.fr. Grade: Grade 10 (Seconde). The book teaches the official French SNT (Sciences numériques et technologie) programme as seven themes — Internet ; Le Web ; Les réseaux sociaux ; Données structurées et leur traitement ; Localisation, cartographie et mobilité ; Informatique embarquée et objets connectés ; La photographie numérique — each with Cours / Activités / En codant / Exercices / Prolongements / Repères sections. Identity: GitHub release asset — repo tensae-code/liqlearns-textbooks, release full-quality-oversized-books, asset grade-10-gov-france-snt-seconde.zip, 808,725,287 bytes (download verified byte-exact). A ZIP of the book's HTML source project (1,372 entries, 1,133 HTML files), not a PDF — no printed pages exist, so placements cite the theme and section exactly as the book names them. Verdict: COMPLETE. Read in full in the 2026-11-22 ICT leftover read (all 199 Cours files, the Activités and En codant strands of every theme, and the Prolongements of Le Web and Données structurées; Exercices and Repères surveyed file by file). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cours « Les supports de stockage locaux » : disque dur, SSD, mémoire vive, clé USB et carte SD, vitesses et capacités | France, *SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde*, Thème Données structurées, Cours |
+
+**Acceptance count: taught in 12 countries — France added.**
+
+France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
+
+Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, storage-devices

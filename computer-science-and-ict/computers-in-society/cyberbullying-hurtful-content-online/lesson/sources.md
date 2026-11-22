@@ -1,6 +1,6 @@
 # Sources — Cyberbullying — hurtful content and exposed private information
 
-countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indonesia, Pakistan
+countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indonesia, Pakistan, France
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -72,3 +72,17 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teache
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
 Searchable tags: cyberbullying, harassment, private information, online gender-based violence, Ethiopia Grade 12 IT, trinidad and tobago, kuwait, grade 5 digital explorer term 2, laos, grade 12 ict student, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 8, grade 8, pakistan, grade 7 computer science 7
+
+## France growth (2026-11-22, ICT leftovers — SNT Seconde)
+
+**Book (France — SNT 2de, student book):** Title as recorded: SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde (Les Manuels Libres) (student book, French) — France, Les Manuels Libres — DRANE, Région académique Île-de-France; licence CC BY-NC-SA 4.0; source site lesmanuelslibres.region-academique-idf.fr. Grade: Grade 10 (Seconde). The book teaches the official French SNT (Sciences numériques et technologie) programme as seven themes — Internet ; Le Web ; Les réseaux sociaux ; Données structurées et leur traitement ; Localisation, cartographie et mobilité ; Informatique embarquée et objets connectés ; La photographie numérique — each with Cours / Activités / En codant / Exercices / Prolongements / Repères sections. Identity: GitHub release asset — repo tensae-code/liqlearns-textbooks, release full-quality-oversized-books, asset grade-10-gov-france-snt-seconde.zip, 808,725,287 bytes (download verified byte-exact). A ZIP of the book's HTML source project (1,372 entries, 1,133 HTML files), not a PDF — no printed pages exist, so placements cite the theme and section exactly as the book names them. Verdict: COMPLETE. Read in full in the 2026-11-22 ICT leftover read (all 199 Cours files, the Activités and En codant strands of every theme, and the Prolongements of Le Web and Données structurées; Exercices and Repères surveyed file by file). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cours « Cyberviolence et cyberharcèlement » : les formes de violence en ligne, les sanctions en France et le numéro 3018 | France, *SNT 2de — Manuel Libre de Sciences numériques et technologie, Seconde*, Thème Les réseaux sociaux, Cours |
+
+**Acceptance count: France added.** (This file carries a pre-existing countries/acceptance mismatch from the ICT expansion wave — left untouched, per the leftover brief.)
+
+France's own way (SNT 2de) — France's single national Seconde SNT book (Les Manuels Libres, CC BY-NC-SA) teaches this thing at the places and in the order named in the rows above, inside the book's own seven-theme order, going unusually deep into the machinery under the topic — subnet masks worked bit by bit, an Ethernet frame decoded from a real capture, PageRank computed by hand and in Python, EXIF and NMEA data decoded, a class social network measured as a graph — is itself course content, carried exactly as filed.
+
+Searchable tags: france, france snt 2de, sciences numériques et technologie, seconde, les manuels libres, cyberbullying-hurtful-content-online

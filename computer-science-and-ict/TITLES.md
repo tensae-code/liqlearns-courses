@@ -1411,3 +1411,17 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Kazakhstan): Collaborative Work Online · Internet Addiction · Mini Project Inventions That Changed the World · Modelling and Simulation · What a Project Is and Its Stages
 
 **New Technologies** (ICT expansion, from Kazakhstan): Building a First Robot Model WeDo · Building an EV3 Robot Model · Computers of the Future · EV3 Colour Sensor · EV3 Kegeling Competition · EV3 Loop Block · EV3 Project the Dancing Robot · EV3 Project the Robot Cleaner · EV3 Project the Walking Robot · Modelling Objects in a 3D Editor · Programming a WeDo Robot · Programming an EV3 Robot Movement · Sound for an EV3 Robot · The EV3 Programming Environment · The History and Future of Robotics · Turning a Robot Left and Right
+
+**Networks** (ICT leftovers, from France): Ethernet Frames and How Data Travels · Latitude and Longitude — Locating Any Place · NMEA Frames — How GPS Devices Report Position
+
+**Internet and the Web** (ICT leftovers, from France): PageRank — How Search Engines Rank Pages · Responsive Design and Flexbox · The DOM — the Tree of a Web Page
+
+**Computers in Society** (ICT leftovers, from France): Net Neutrality — Equal Treatment Online
+
+**Multimedia** (ICT leftovers, from France): Colour Models — RGB, HSL and CMYK · EXIF Metadata — the Hidden Data in Photos · Programming Image Filters with Python PIL · Steganography — Hiding Messages in Images · Maps with Layers — OpenStreetMap and uMap
+
+**Databases** (ICT leftovers, from France): Structured Data — Objects, Descriptors and Collections · Metadata — Data about Data · Tabular File Formats — CSV, JSON and XML
+
+**New Technologies** (ICT leftovers, from France): Data Centres — Where the Cloud Lives
+
+**Programming** (ICT leftovers, from France): Processing CSV Files with Python Pandas · JSON and XML — Exchanging Data · Graph Measures — Distance, Centre and Diameter · Modelling Networks with NetworkX · Controlling a Robot Arm with an HMI
