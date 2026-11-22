@@ -104,3 +104,17 @@ b) Strand 1: corporate expansion — conglomerates (Steamships and WR Carpenters
 c) Strand 2 Unit 3: evaluating employee performance — what performance evaluation is, its objectives, why a systematic…
 d) Strand 2 Unit 4: the impact of employment laws on business and employees — the laws Parliament passes to protect…
 **Answer: a) Unit 10.2: the business plan at greater depth — comprehensive market research and a detailed financial plan** — That is what this lesson teaches in its planning in depth part part (Papua New Guinea's teacher guide.)
+
+**17.** What does this lesson teach about the opening part?
+a) What a business plan (Rancangan Perniagaan) is.
+b) Notions of plan and project: what a plan and a project are
+c) Why preparing a business plan matters.
+d) The purposes and importance of preparing a business plan, for the entrepreneur and for financiers, suppliers and…
+**Answer: b) Notions of plan and project: what a plan and a project are** — That is what this lesson teaches in its opening part (Mozambique's book.)
+
+**18.** What does this lesson teach about the plan part?
+a) What a business plan (Rancangan Perniagaan) is.
+b) Why preparing a business plan matters.
+c) The business plan (plano empresarial): drawing up the plan for a business
+d) The purposes and importance of preparing a business plan, for the entrepreneur and for financiers, suppliers and…
+**Answer: c) The business plan (plano empresarial): drawing up the plan for a business** — That is what this lesson teaches in its plan part (Mozambique's book.)

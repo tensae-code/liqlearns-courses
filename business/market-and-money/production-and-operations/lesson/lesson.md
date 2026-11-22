@@ -125,6 +125,28 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **What production is.** Unit 9.1: production defined; the factors of production (natural resources, labour, enterprise); the reasons for production (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opening.** Types of production: the kinds of production a business can carry on (Mozambique's book.)
+
+**Process.** The production process itself, step by step (Mozambique's book.)
+
+**Sizing.** Sizing the production process (dimensionamento): matching capacity to the work (Mozambique's book.)
+
+**Organisation.** Organising the production process (Mozambique's book.)
+
+**Design.** Product design (desenho do produto) (Mozambique's book.)
+
+**Quality.** Quality: what quality is in production (Mozambique's book.)
+
+**Quality-management.** Quality management: managing quality across the phases and activities of the business (Mozambique's book.)
+
+**Stock.** Stock management (gestão de stocks): what stock is and how it is managed, including the reorder level that triggers a new purchase order (Mozambique's book.)
+
+**Replenishment.** Stock replenishment methods (métodos de reaprovisionamento) (Mozambique's book.)
+
+**ABC.** The ABC diagram: classifying stock items so the most valuable get the most careful management (class A items managed most closely) (Mozambique's book.)
+
+**ABC-in-practice.** Building the ABC diagram, worked (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

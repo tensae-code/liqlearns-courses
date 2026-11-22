@@ -1,6 +1,6 @@
 # Sources — E-Business and Technology
 
-countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea
+countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea, Mozambique
 
 **Book 1:** Pengajian Keusahawanan Tingkatan 5 (Entrepreneurship Studies, Form 5) (student book) — Sasbadi, for the Kementerian Pendidikan Malaysia KSSM textbook programme. KSSM 2020 edition (page imprints dated 9 Dec 2020); the in-hand PDF opens at the Bab 1 opener — no cover or imprint leaves in the file. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 238 PDF pages (printed pp. 2–239). Source: /home/hatch/workspace/my-wave34/dl/keusahawanan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching pages (printed pp. 234–235).
 
@@ -32,6 +32,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 13:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 14:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 15:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,9 +96,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | online payments part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG G12 SB (2023)), printed pp. 265–266 |
 | blogs and webcasts part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG G12 SB (2023)), printed pp. 269–270 |
 | selling online part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG G12 SB (2023)), printed pp. 281–283 |
+| digital-finance part of the lesson | Book 15 (Módulo de Empreendedorismo (PESD I)), printed p. 135 |
 
-**Acceptance count: taught in 10 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 11 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea
+Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea, mozambique

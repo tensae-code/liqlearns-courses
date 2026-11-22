@@ -1,6 +1,6 @@
 # Sources — Creativity and Innovation
 
-countries: Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
+countries: Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan, Papua New Guinea, Mozambique
 
 **Book 1:** Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
@@ -15,6 +15,8 @@ countries: Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 **Book 6:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
 
 **Book 7:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 8:** Módulo 1 de Empreendedorismo — Empreendedorismo e dignidade do trabalho (Entrepreneurship Module 1 — Entrepreneurship and the dignity of work) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 117 PDF pages, printed pp. 1–110 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=0; fetched via fetch_book.py, route tree, 912,515 B = expected exactly, to scratch-phase2/mozambique/moz-0.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 93+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,11 +40,12 @@ countries: Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 | prototyping part | Book 5 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 153 |
 | testing part | Book 5 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 162 |
 | creative thinking part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed p. 210 |
+| creativity part of the lesson | Book 8 (Empreendedorismo Módulo 1 (PESD II)), printed p. 57 |
 
-**Acceptance count: taught in 5 countries (Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Uganda, Tanzania, Malaysia, Bhutan, Kazakhstan, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: this lesson was proposed as a NEW lesson (`creativity-and-innovation`) by Uganda's reader. It was checked against `entrepreneurship` first: creativity and innovation appear in that lesson only as traits inside other parts (the entrepreneur's traits, the Caribbean characteristics, and a part on convergent thinking blocking creativity) — no part of it teaches creativity and innovation themselves as their own thing. They are genuinely a separate one thing, so the lesson is built here, in First Steps after Entrepreneurship, and the resolution is recorded in the registry's Phase 3 addendum.
 
-Searchable tags: creativity and innovation, first steps, business, uganda, tanzania, malaysia, bhutan, kazakhstan, papua-new-guinea
+Searchable tags: creativity and innovation, first steps, business, uganda, tanzania, malaysia, bhutan, kazakhstan, papua-new-guinea, mozambique

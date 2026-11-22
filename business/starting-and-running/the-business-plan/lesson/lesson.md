@@ -16,6 +16,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Strategic planning.** Strand 4: strategic planning — strategy against the business plan (long-term direction against the short-to-immediate future); what strategic planning is; its importance (identify risks, assess the present, position the business for what is coming); and its key elements (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Plan.** The business plan (plano empresarial): drawing up the plan for a business (Mozambique's book.)
+
 ## Sub lesson 2 — Feasibility first — can this idea work?
 
 **The feasibility-study.** Sets a group task to prepare an economic feasibility study (دراسة جدوى اقتصادية) for a small production project: pupils design and produce useful fretwork models for it — the book's only feasibility-study teaching, carried as project work at the end of the fretwork lesson.
@@ -120,6 +122,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Judging the plan.** Strand 4: critiquing a strategic plan — the three-read method (absorb, question, rewrite), analysing the plan from many angles, and assessing its goals with SMART (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Writing the plan.** Strand 4: the formulation of a business plan — the eleven steps of venture creation (the business idea; vision, goals and objectives; market research; structure and name; resources required; getting advice; marketing strategy on the 4 Ps; the budget; management structure; plan implementation; review of business performance), the first two being the strategy part and the rest the operational part (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Opening.** Notions of plan and project: what a plan and a project are (Mozambique's book.)
 
 ## Say it to your companion
 

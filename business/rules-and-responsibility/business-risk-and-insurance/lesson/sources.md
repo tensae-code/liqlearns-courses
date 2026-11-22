@@ -1,6 +1,6 @@
 # Sources — Business Risk and Insurance
 
-countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Papua New Guinea, Fiji
+countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Papua New Guinea, Fiji, Mozambique
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -23,6 +23,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 8:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
 
+**Book 9:** Módulo 2 de Empreendedorismo (Entrepreneurship Module 2 — opportunities, SWOT, business law and finance) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 106 PDF pages, printed pp. 1–99 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=1; fetched via fetch_book.py, route tree, 672,388 B = expected exactly, to scratch-phase2/mozambique/moz-1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 82+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
+**Book 10:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
 | Lesson part | Where it comes from |
 |---|---|
 | principles of insurance | Book 1 (Principles of Business for CSEC), printed pp. 150–155 |
@@ -41,11 +45,14 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | insuring the business part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG 9–10 LS (2006)), printed p. 95 |
 | insuring the business part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed pp. 228–229 |
 | insurance part of the lesson | Book 8 (Year 10 Commercial Studies), printed p. 18 |
+| insurance part of the lesson | Book 9 (Empreendedorismo Módulo 2 (PESD II)), printed p. 82 |
+| risk part of the lesson | Book 10 (Módulo de Empreendedorismo (PESD I)), printed p. 67 |
+| insurance part of the lesson | Book 10 (Módulo de Empreendedorismo (PESD I)), printed p. 71 |
 
-**Acceptance count: taught in 8 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Fiji)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`business-risk-and-insurance`); Dominica's book is the first read book to place it, so it is built now, in Rules and Responsibility, where TITLES.md names its place. (Insurance as a service that helps trade lives in Commerce's Insurance in Commerce.)
 
-Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia, bhutan, papua-new-guinea, fiji
+Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia, bhutan, papua-new-guinea, fiji, mozambique

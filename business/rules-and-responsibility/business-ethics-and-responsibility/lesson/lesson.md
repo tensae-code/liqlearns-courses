@@ -75,6 +75,16 @@ Green technology and sustainable business practice: green technology and sustain
 
 **Internet fraud.** Strand 5: fraudulent behaviour and practices on the internet — false or fraudulent data (biased sponsorships and small sample sizes, data seized in leaks and manipulated) and investment scams such as 'pump and dump' (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Values.** The value of work: work as dignified and worthwhile in itself (Mozambique's book.)
+
+**Environment.** The environment and global problems as the producer's responsibility (Mozambique's book.)
+
+**Effluent.** Effluent from production processes: what production throws out and its harm (Mozambique's book.)
+
+**Cleaner-production.** Cleaner production (produção mais limpa): producing with less waste and harm (Mozambique's book.)
+
+**Sustainability.** Sustainable exploitation of resources: using resources without destroying them (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility, business ethics. Your companion asks one question back — answer it from the lesson.

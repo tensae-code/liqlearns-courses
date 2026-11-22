@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Institutions part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a market town on a river border, trucks and boats crossing freely while flags of several countries fly over one customs post — the student names one gain of integration and one body from the lesson that works for it.

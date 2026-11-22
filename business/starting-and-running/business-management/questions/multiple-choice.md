@@ -106,3 +106,17 @@ b) Unit 12.2: balance-day adjustments, the adjusted trial balance, and closing o
 c) Unit 9.3: the principles and importance of good communication and the barriers to it; business letters (block and…
 d) Unit 10.4: preparing for the workplace — the job application portfolio and record of achievement (CV/resume,…
 **Answer: a) Strand 2 Unit 3: people management — the management functions and the three levels of management (low/front-line,…** — That is what this lesson teaches in its levels of management part part (Papua New Guinea's teacher guide.)
+
+**17.** What does this lesson teach about the time-management part?
+a) Why management is important to a business.
+b) Time management and the time-management plan: managing one's time as a business resource (the book's two closing…
+c) The skills a manager needs and why each matters.
+d) Effectiveness and efficiency as the two tests of management functions.
+**Answer: b) Time management and the time-management plan: managing one's time as a business resource (the book's two closing…** — That is what this lesson teaches in its time-management part (Mozambique's book.)
+
+**18.** What does this lesson teach about the SWOT part?
+a) Why management is important to a business.
+b) The skills a manager needs and why each matters.
+c) FOFA (SWOT) analysis: strengths, weaknesses, opportunities and threats as the Mozambican-named SWOT
+d) Effectiveness and efficiency as the two tests of management functions.
+**Answer: c) FOFA (SWOT) analysis: strengths, weaknesses, opportunities and threats as the Mozambican-named SWOT** — That is what this lesson teaches in its SWOT part (Mozambique's book.)

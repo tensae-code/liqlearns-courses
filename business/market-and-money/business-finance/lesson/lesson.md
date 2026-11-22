@@ -26,6 +26,8 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Business-functions.** The finance function of a business.
 
+**Sources-of-finance.** Financing sources for investment projects (Mozambique's book.)
+
 ## Sub lesson 3 — Choosing a source — and obtaining it
 
 **Comparison.** Strengths and weaknesses of each type of financing.
@@ -89,6 +91,8 @@ List three things a new business must pay for before it earns anything. Beside e
 **Direct taxes.** Direct taxes: collected directly from the income or wealth of individuals and businesses, who bear the burden themselves — income tax (a tax-free personal allowance, progressive rates rising with income, collected by tax return or by PAYE payroll deduction); corporation tax on the profits of limited companies (with low or zero rates sometimes used to encourage new businesses); capital gains tax on profits from selling assets that have risen in value; and capital transfer tax when ownership of assets passes by sale, gift or death
 
 **Government assistance.** Government assistance for business — lending capital and technical assistance: governments lend at low cost to start-ups that banks judge too risky, where the business can show a public benefit such as innovation or jobs; technical assistance means advice, expertise, mentoring, training and help researching export markets (Barbados's Special Technical Assistance Programme, STAP); and business incubator programmes pair young businesses with development officers, mentors and coaching, including product development and intellectual property protection
+
+**Credit.** The advantages and disadvantages of credit for a small business (Mozambique's book.)
 
 ## Sub lesson 5 — Long-term finance — the capital market as a source
 
@@ -182,6 +186,12 @@ List three things a new business must pay for before it earns anything. Beside e
 **Financing the start.** Strand 4: business financing — the start-up costs (licences and fees, utilities, advertising and marketing, equipment, fittings, land and buildings); internal financing (owner's equity); external financing as debt (bank overdraft, trade credit, term loan) and as equity (owner's equity, family and friends, business angels, venture capital) (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Financing online.** Strand 5: financing e-business and money management — financial planning defined; the sources of financing, internal (equity) and external (debt); determining your financing (capital) needs (start-up costs — one-time, recurring and hidden; personal equity; monthly expenses) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Financial-system.** The organisation and composition of Mozambique's financial system (Mozambique's book.)
+
+**Investment-projects.** Investment projects: what an investment project is (Mozambique's book.)
+
+**Financial-management.** Financial management (gestão financeira) for the small enterprise (Mozambique's book.)
 
 ## Say it to your companion
 

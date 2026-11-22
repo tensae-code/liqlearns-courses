@@ -1,6 +1,6 @@
 # Sources — Entrepreneurship
 
-countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea
+countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -37,6 +37,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 16:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 17:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 18:** Módulo 1 de Empreendedorismo — Empreendedorismo e dignidade do trabalho (Entrepreneurship Module 1 — Entrepreneurship and the dignity of work) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 117 PDF pages, printed pp. 1–110 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=0; fetched via fetch_book.py, route tree, 912,515 B = expected exactly, to scratch-phase2/mozambique/moz-0.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 93+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
+**Book 19:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -96,10 +100,22 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | the entrepreneur part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG G9 SB (2023)), printed pp. 57–58 |
 | what entrepreneurs do part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG G9 SB (2023)), printed p. 59 |
 | encouraging enterprise part of the lesson (teacher guide) | Book 17 (PNG Business Studies TG G12 SB (2023)), printed pp. 51–52 |
+| opening part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 5 |
+| work-and-society part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 9 |
+| business-myths part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 13 |
+| competencies part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 31 |
+| competencies part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 39 |
+| self-assessment-of-traits part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 43 |
+| traits part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 51 |
+| development-plan part of the lesson | Book 18 (Empreendedorismo Módulo 1 (PESD II)), printed p. 63 |
+| goals part of the lesson | Book 19 (Módulo de Empreendedorismo (PESD I)), printed p. 10 |
+| opening part of the lesson | Book 19 (Módulo de Empreendedorismo (PESD I)), printed p. 20 |
+| competencies part of the lesson | Book 19 (Módulo de Empreendedorismo (PESD I)), printed p. 24 |
+| work-values part of the lesson | Book 19 (Módulo de Empreendedorismo (PESD I)), printed p. 28 |
 
-**Acceptance count: taught in 10 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 11 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda, Bhutan, Kazakhstan, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: entrepreneurship, first steps, business, egypt, malaysia, samoa, dominica, ecuador, iran, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea
+Searchable tags: entrepreneurship, first steps, business, egypt, malaysia, samoa, dominica, ecuador, iran, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique

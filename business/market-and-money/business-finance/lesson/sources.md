@@ -1,6 +1,6 @@
 # Sources — Business Finance
 
-countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece, Guatemala, Bhutan, Papua New Guinea
+countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece, Guatemala, Bhutan, Papua New Guinea, Mozambique
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -44,6 +44,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 17:** Business and Entrepreneurship, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file.. Grade: Class XII (grade-12). Language: English. Page count: 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). Source: manifest `manifests-phase2/bhutan.json` n=3; fetched via `fetch_book.py` route `tree`, 4,082,919 B = expected exactly, to `scratch-phase2/bhutan/biz-xii.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 9 ends printed p. ~134; Annexures follow). A BUSINESS subject book built around producing and pitching a business plan; its one accounting part (ratio analysis of the projected statements, and the depreciation schedule annexure) is filed to ACCOUNTING under the split rule.
 
 **Book 18:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 19:** Módulo 2 de Empreendedorismo (Entrepreneurship Module 2 — opportunities, SWOT, business law and finance) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 106 PDF pages, printed pp. 1–99 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=1; fetched via fetch_book.py, route tree, 672,388 B = expected exactly, to scratch-phase2/mozambique/moz-1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 82+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
+**Book 20:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -132,12 +136,17 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | financing options part | Book 17 (Business and Entrepreneurship XII), printed p. 108 |
 | financing the start part of the lesson (teacher guide) | Book 18 (PNG Business Studies TG G12 SB (2023)), printed pp. 224–225 |
 | financing online part of the lesson (teacher guide) | Book 18 (PNG Business Studies TG G12 SB (2023)), printed p. 243 |
+| financial-system part of the lesson | Book 19 (Empreendedorismo Módulo 2 (PESD II)), printed p. 72 |
+| credit part of the lesson | Book 19 (Empreendedorismo Módulo 2 (PESD II)), printed p. 77 |
+| investment-projects part of the lesson | Book 20 (Módulo de Empreendedorismo (PESD I)), printed p. 62 |
+| sources-of-finance part of the lesson | Book 20 (Módulo de Empreendedorismo (PESD I)), printed p. 84 |
+| financial-management part of the lesson | Book 20 (Módulo de Empreendedorismo (PESD I)), printed p. 130 |
 
-**Acceptance count: taught in 14 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 15 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece, Bhutan, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Note, as filed: this lesson holds the Nigerian book's capital-market history, regulator and market-people parts as sources of long-term finance. The same book's market-mechanics parts (raising funds, trading, instruments, reading the market, softer windows) form their own lesson, Capital Markets and the Stock Exchange.
 
-Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, sudan, tanzania, egypt, greece, guatemala, bhutan, papua-new-guinea
+Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, sudan, tanzania, egypt, greece, guatemala, bhutan, papua-new-guinea, mozambique

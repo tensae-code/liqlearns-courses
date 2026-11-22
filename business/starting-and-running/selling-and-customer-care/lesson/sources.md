@@ -1,6 +1,6 @@
 # Sources — Selling and Customer Care
 
-countries: Dominica, Ecuador, Iran, Uganda, Malaysia, Papua New Guinea
+countries: Dominica, Ecuador, Iran, Uganda, Malaysia, Papua New Guinea, Mozambique
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -14,6 +14,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 5:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 6:** Módulo 4 de Empreendedorismo (Entrepreneurship Module 4 — stocks and marketing) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 99 PDF pages, printed pp. 1–94 (printed page = PDF page − 5). Source: manifest manifests-phase2/mozambique.json n=3; fetched via fetch_book.py, route tree, 649,278 B = expected exactly, to scratch-phase2/mozambique/moz-3.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Plano de Marketing, printed p. 75+). The module's own contents list skips Lição 12 (Lição 11 is followed by Lição 13) — the book's own numbering, not a missing part. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
 | Lesson part | Where it comes from |
 |---|---|
 | selling | Book 1 (Principles of Business for CSEC), printed pp. 227–228 |
@@ -25,11 +27,13 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | service part | Book 4 (Perniagaan T4), printed p. 146 |
 | customer-service part | Book 4 (Perniagaan T4), printed p. 198 |
 | selling part of the lesson (teacher guide) | Book 5 (PNG Business Studies TG G9 SB (2023)), printed pp. 162–163 |
+| terms-of-sale part of the lesson | Book 6 (Empreendedorismo Módulo 4 (PESD II)), printed p. 49 |
+| selling part of the lesson | Book 6 (Empreendedorismo Módulo 4 (PESD II)), printed p. 69 |
 
-**Acceptance count: taught in 5 countries (Dominica, Ecuador, Iran, Uganda, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Dominica, Ecuador, Iran, Uganda, Malaysia, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`selling-and-customer-care`); Dominica's book is the first read book to place it, so it is built now, in Starting and Running, where TITLES.md names its place.
 
-Searchable tags: selling and customer care, starting and running, business, dominica, ecuador, iran, uganda, malaysia, papua-new-guinea
+Searchable tags: selling and customer care, starting and running, business, dominica, ecuador, iran, uganda, malaysia, papua-new-guinea, mozambique

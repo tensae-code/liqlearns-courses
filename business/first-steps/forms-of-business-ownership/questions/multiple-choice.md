@@ -133,3 +133,10 @@ b) Introduction to the types of business ownership found in Malaysia.
 c) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
 d) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
 **Answer: a) Forms of business ownership taught inside the financial accounting lesson** — That is what this lesson teaches in its ownership part (Fiji's book.)
+
+**21.** What does this lesson teach about the legal-forms part?
+a) Introduction to the types of business ownership found in Malaysia.
+b) The legal forms of business in Mozambique, taught across two lessons as legislation
+c) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
+d) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
+**Answer: b) The legal forms of business in Mozambique, taught across two lessons as legislation** — That is what this lesson teaches in its legal-forms part (Mozambique's book.)

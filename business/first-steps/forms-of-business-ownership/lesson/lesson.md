@@ -46,6 +46,8 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Types of company.** Private limited companies (Ltd, 1–50 shareholders, shares sold privately) vs public limited companies (plc, shares sold publicly through a stock exchange), each with advantages/disadvantages; multinationals and conglomerates (holding company with subsidiaries) as the largest company forms
 
+**Legal-forms.** The legal forms of business in Mozambique, taught across two lessons as legislation (Mozambique's book.)
+
 ## Sub lesson 2 — Forming and registering the business
 
 **Registration.** The procedure for registering a business entity with the Companies Commission of Malaysia (SSM).

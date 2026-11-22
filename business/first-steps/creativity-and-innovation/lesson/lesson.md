@@ -8,6 +8,8 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Creativity.** Creativity is the ability to produce something new through imaginative skills — a new solution to a problem, a new method or device, or a new artistic object; the work must be unique and appropriate. In business it upgrades products and services, develops new and original ideas, makes proper use of limited resources and solves everyday problems. A person becomes creative by noting down thoughts before they are forgotten, thinking beyond the invisible framework around a problem, transferring technology from one field to another, and using the unconscious mind — sleeping on a problem (Uganda's book.)
 
+**Creativity.** Assessing creativity and innovative behaviour, with goal-setting (Mozambique's book.)
+
 ## Sub lesson 2 — Innovation
 
 **Innovation.** Innovation is doing something in a different or better way. Its types are business model innovation, product innovation, service innovation and marketing innovation. It produces new products that widen customer choice, increases output through new and more effective production methods, improves the quality of products and services, and expands the market by attracting new customers while keeping old ones. The innovator is opportunity-oriented, associates with positive people, is extraordinarily persistent, and holds a compelling vision (Uganda's book.)

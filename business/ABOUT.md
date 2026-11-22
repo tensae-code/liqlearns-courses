@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
-Business Studies books of Dominica, Ecuador, Egypt, Fiji, Greece, Guatemala, Indonesia, Iran, Kazakhstan, Kenya, Malaysia,
+Business Studies books of Dominica, Ecuador, Egypt, Fiji, Greece, Guatemala, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Mozambique,
 Nepal, Nicaragua, Nigeria, Palestine, Papua New Guinea, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
@@ -177,12 +177,23 @@ fed Business, and they are named here so the read set is whole.
 
 - *Year 9 Commercial Studies: A Smart Approach* — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Amended edition, February 2017 production. **Grade 9 (Year 9). STUDENT book. Language: English.** 186 PDF pages (printed pp. 1–185). **Verdict: COMPLETE** — read whole book via its clean text layer. Contents map: Strand One Personal Finance (Lessons 1–13); Strand Two Business Information System 1 (Lessons 1.0–6.0). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)It stocked 10 placements into this course (7 into Commerce, 11 into Accounting).
 
+
+- *Módulo 1 de Empreendedorismo — Empreendedorismo e dignidade do trabalho (Entrepreneurship Module 1 — Entrepreneurship and the dignity of work)* — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. **PESD II, 2º ciclo (Grades 10–12). STUDENT book. Language: Portuguese.** 117 PDF pages (printed pp. 1–110). **Verdict: COMPLETE** — read whole module via its clean text layer. Contents map: Lição 1 myths and convictions about the nature of work; Lição 2 social status of work; Lições 3–4 myths about business and overcoming false judgements; Lição 5 value of work; Lição 6 business and the family; Lições 7–12 personal entrepreneurial competencies (CEPs) — power/planning, results, risk/goal-setting/self-confidence assessment, achievement syndrome and imagination, creativity and goal-setting, the CEP development plan; Lições 13–16 consumption/saving/investment, savings plans 1–2, savings club; Lições 17–18 time management and the time-management plan. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 15 placements into this course.
+
+- *Módulo 2 de Empreendedorismo (Entrepreneurship Module 2)* — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. **PESD II, 2º ciclo (Grades 10–12). STUDENT book. Language: Portuguese.** 106 PDF pages (printed pp. 1–99). **Verdict: COMPLETE** — read whole module via its clean text layer. Contents map: Lições 1–6 identifying opportunities (geographic situation, adding value, value chain, beyond the border, community project and fair); Lições 7–9 FOFA (SWOT) analysis and project selection; Lições 10–15 business legislation (legal forms, procedural steps, commercial registration, licensing, support institutions); Lições 16–18 Mozambique's financial system, advantages and disadvantages of credit, benefits of insurance. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 14 placements into this course (1 more into Commerce).
+
+- *Módulo 3 de Empreendedorismo (Entrepreneurship Module 3)* — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. **PESD II, 2º ciclo (Grades 10–12). STUDENT book. Language: Portuguese.** 78 PDF pages (printed pp. 1–73). **Verdict: COMPLETE** — read whole module via its clean text layer. Contents map: Lições 1–4 types of production, the production process, sizing it, organising it; Lição 5 product design; Lição 6 product life cycle; Lições 7–8 quality and quality management; Lição 9 packaging; Lições 10–12 the environment and global problems, production effluent, cleaner production. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 12 placements into this course.
+
+- *Módulo 4 de Empreendedorismo (Entrepreneurship Module 4)* — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. **PESD II, 2º ciclo (Grades 10–12). STUDENT book. Language: Portuguese.** 99 PDF pages (printed pp. 1–94). **Verdict: COMPLETE** — read whole module via its clean text layer (the module's own contents list skips Lição 12 — its own numbering, not a missing part). Contents map: Lições 1–4 stock management, replenishment methods, the ABC diagram and building it; Lições 5–7 market segmentation, the marketing mix, price-setting techniques; Lição 8 terms and conditions for selling; Lições 9–11 distribution techniques, promotion, the art of selling; Lição 13 the marketing plan. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 12 placements into this course.
+
+- *Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, 1º Ciclo* — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique, 2023. **PESD I, 1º ciclo (Grades 7–9). STUDENT book. Language: Portuguese.** 157 PDF pages (printed pp. 1–156). **Verdict: COMPLETE** — read whole module via its text layer (the file carries a diagonal 'Venda proibida' production watermark; the text reads clean through it). Contents map: Unidade 1 notions of entrepreneurship (my goals/my dreams, my community, notions, personal entrepreneurial competencies, dignity of work, employment and career, work contract and workers' rights and duties); Unidade 2 plan and project (plan/project notions, the business plan, SWOT/FOFA, investment projects, business risks, business insurance, barriers and challenges); Unidade 3 implementation and project management (family and business management, financing sources); Unidade 4 micro-enterprise planning (market study notions, consumer rights and duties, identifying investment opportunities, attitudes in using income, the savings plan); Unidade 5 investment and sustainability (sustainable use of resources, human development indicators, population growth and development, financial management, digital financial institutions and financial inclusion). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 24 placements into this course (1 more into Commerce).
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 26 lessons,
-  stocked with 881 placements from **student books** of 19
-  countries (Dominica, Ecuador, Egypt, Fiji, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
-  taught in 19 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 958 placements from **student books** of 20
+  countries (Dominica, Ecuador, Egypt, Fiji, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
+  taught in 20 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -213,7 +224,7 @@ fed Business, and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-27 Business books are in hand in the library record but
+22 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -235,13 +246,6 @@ hold lifts and they are read.
 - [BUSINESS · teacher] Business — Grade 11 (ມ.6) Teacher Guide (grade-11) — secured-not-on-disk
 - [BUSINESS · student] Business — Grade 11 (ມ.6) Textbook (grade-11) — secured-not-on-disk
 
-
-**Mozambique (5):**
-- [BUSINESS · student] Empreendedorismo — Modulo 1 (PESD II, 2o ciclo (grades 10-12)) (grade-10) — secured-not-on-disk
-- [BUSINESS · student] Empreendedorismo — Modulo 2 (PESD II, 2o ciclo (grades 10-12)) (grade-10) — secured-not-on-disk
-- [BUSINESS · student] Empreendedorismo — Modulo 3 (PESD II, 2o ciclo (grades 10-12)) (grade-10) — secured-not-on-disk
-- [BUSINESS · student] Empreendedorismo — Modulo 4 (PESD II, 2o ciclo (grades 10-12)) (grade-10) — secured-not-on-disk
-- [BUSINESS · student] Empreendedorismo — Modulo 1 (PESD I, 1o ciclo (grades 7-9)) (grade-07) — secured-not-on-disk
 
 **Nigeria (3):**
 - [BUSINESS · student] Business Studies for JSS Book 1 (grade-07) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict

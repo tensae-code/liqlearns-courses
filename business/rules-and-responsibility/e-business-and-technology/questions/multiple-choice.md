@@ -119,3 +119,10 @@ b) Strand 2 Unit 5: information technology defined (hardware, software, database
 c) Strand 3 Unit 1: sales forecasting — what it is, its importance, the factors affecting it, and five forecasting…
 d) Strand 4 Unit 1: the principles of planning (keep it small, continuity, embrace change, empower accountability,…
 **Answer: b) Strand 2 Unit 5: information technology defined (hardware, software, database, networks); the types of IT; the…** — That is what this lesson teaches in its IT part part (Papua New Guinea's teacher guide.)
+
+**19.** What does this lesson teach about the digital-finance part?
+a) Application software used in business, and using it to prepare business documents and reports.
+b) What digital technology is.
+c) The concept of digital entrepreneurship.
+d) The role of digital financial institutions in promoting financial inclusion: digital money services bringing…
+**Answer: d) The role of digital financial institutions in promoting financial inclusion: digital money services bringing…** — That is what this lesson teaches in its digital-finance part (Mozambique's book.)

@@ -69,6 +69,8 @@ Government-provided services and infrastructure as business conditions: governme
 
 **The environment.** Strand 1 Unit 2: the business environment — internal (structure, management, policies, processes, planning, staff), operating (customers, suppliers, competitors, interest groups) and macro (social, political/legal, economic — interest rates, taxes/GST, inflation, employment; technological) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Development-context.** Human development indicators and the relation between population growth and development: the development setting a business grows in (the book's two lessons taught as one context sequence) (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

@@ -149,6 +149,8 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Selling online.** Strand 5: the steps in selling and buying goods and services on the internet — how to start selling online professionally (the pros and cons; choosing an e-commerce business model — dropshipping, sourcing from wholesalers, sourcing from manufacturers, making and selling your own products; choosing what to sell; finding suppliers; contacting and negotiating with suppliers) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Digital-finance.** The role of digital financial institutions in promoting financial inclusion: digital money services bringing people into finance (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

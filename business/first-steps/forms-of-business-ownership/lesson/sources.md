@@ -1,6 +1,6 @@
 # Sources — Forms of Business Ownership
 
-countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Papua New Guinea, Fiji
+countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Papua New Guinea, Fiji, Mozambique
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -44,6 +44,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 **Book 18:** Year 11 Accounting Textbook (amended 2015) (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; acknowledged contributors from Fiji secondary schools) — Ministry of Education, Suva, Fiji. Year / edition: First produced February 2015 (amended 2015), © Ministry of Education. Grade: Year 11. Language: English. Page count: 202 PDF pages, printed pp. 1–201 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=0; fetched via fetch_book.py, route tree, 4,833,670 B = expected exactly, to scratch-phase2/fiji/fiji-y11-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.4 fixed-assets sub-system; references list follows).
 
 **Book 19:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
+
+**Book 20:** Módulo 2 de Empreendedorismo (Entrepreneurship Module 2 — opportunities, SWOT, business law and finance) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 106 PDF pages, printed pp. 1–99 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=1; fetched via fetch_book.py, route tree, 672,388 B = expected exactly, to scratch-phase2/mozambique/moz-1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 82+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -112,9 +114,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | ownership forms part of the lesson (teacher guide) | Book 17 (PNG Business Studies TG G12 SB (2023)), printed pp. 212–213 |
 | ownership part of the lesson | Book 18 (Year 11 Accounting), printed p. 45 |
 | ownership part of the lesson | Book 19 (Year 10 Commercial Studies), printed p. 49 |
+| legal-forms part of the lesson | Book 20 (Empreendedorismo Módulo 2 (PESD II)), printed p. 41 |
 
-**Acceptance count: taught in 12 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Fiji)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua, palestine, sudan, greece, bhutan, kazakhstan, papua-new-guinea, fiji
+Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua, palestine, sudan, greece, bhutan, kazakhstan, papua-new-guinea, fiji, mozambique

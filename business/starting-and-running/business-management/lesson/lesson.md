@@ -14,6 +14,8 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Concepts.** Effectiveness and efficiency as the two tests of management functions.
 
+**Time-management.** Time management and the time-management plan: managing one's time as a business resource (the book's two closing lessons taught as one sequence) (Mozambique's book.)
+
 ## Sub lesson 2 — Levels of management — and the skills each level needs
 
 **Levels.** The three levels of management.
@@ -184,6 +186,8 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Takeovers.** Strand 1: stock acquisition against asset acquisition, with BSP's takeovers as the example (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Layers of planning.** Strand 4: supporting the strategic plan with tactical and operational plans — how the layers of strategy fit; tactical planning (middle managers) and operational planning (the 'how'); operational risks (fraud, lawsuits, environmental and fire risks from failed systems, processes and people) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**SWOT.** FOFA (SWOT) analysis: strengths, weaknesses, opportunities and threats as the Mozambican-named SWOT (Mozambique's book.)
 
 ## Say it to your companion
 

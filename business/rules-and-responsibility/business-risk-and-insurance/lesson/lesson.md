@@ -10,6 +10,8 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 
 **Insurance.** Managing risk through insurance: what an insurance policy is, the parties and terms of insurance, and financial planning against risk (Fiji's book.)
 
+**Insurance.** The benefits of insurance and the responsibilities that come with taking it (Mozambique's book.)
+
 ## Sub lesson 2 — Types of business insurance
 
 **Types of business insurance.** Insurance (against events that may happen) is distinguished from assurance (against events that must happen, like death); life insurance comes as whole life and endowment policies. The business policies cover the risks a firm actually faces: public/general liability, property, auto (third-party vs comprehensive), workers' compensation, professional liability, product liability, health, accident and sickness, business interruption and event insurance. Insurance facilitates business and trade itself: by transferring risk, it lets firms operate at all where one uninsured loss would end them.
@@ -38,6 +40,8 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 **Insuring the business.** Unit 10.5: insurance — the types of insurance policies for businesses and individuals, and the importance of insurance (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Insuring the business.** Strand 4: types of business insurance and their appropriateness — risk as inherent and manageable; risk management; insurance as the sharing of risks; compulsory insurance (workers' compensation, third-party motor vehicle insurance, superannuation contribution, goods in transit) against voluntary insurance (burglary, cash, fire and flood, goods in transit/export, key personnel, loss of profit, machinery breakdown, personal liability, professional indemnity, product liability, public liability) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Risk.** Risks in business (riscos nos negócios): the risks a business faces (Mozambique's book.)
 
 ## Say it to your companion
 

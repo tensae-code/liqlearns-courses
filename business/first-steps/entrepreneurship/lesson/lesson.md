@@ -129,6 +129,24 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Encouraging enterprise.** Strand 1: ways the economy encourages entrepreneurship — entrepreneurship programmes and awareness, business schools, National Development Bank funds and SME incubation centres, protection of private ownership, technology, contract law, a tradeable currency, reducing corruption, stability, and infant-industry protection (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opening.** Myths and convictions about the nature of work: what a myth is and the false beliefs people hold about work, examined and corrected (Mozambique's book.)
+
+**Work-and-society.** The social status of work: how work gives a person standing in society (Mozambique's book.)
+
+**Business-myths.** Myths and convictions about business itself, and how to overcome false judgements about business (the book's two-lesson sequence taught as one correction arc) (Mozambique's book.)
+
+**Competencies.** Personal entrepreneurial competencies (CEPs) of power and planning: the competencies an entrepreneur must build in himself (Mozambique's book.)
+
+**Self-assessment-of-traits.** Assessing one's own risk-taking capacity, goal-setting and self-confidence (Mozambique's book.)
+
+**Traits.** The achievement syndrome and imagination: assessing one's drive to achieve and to imagine (Mozambique's book.)
+
+**Development-plan.** The personal entrepreneurial competency development plan: planning how to grow one's own competencies (Mozambique's book.)
+
+**Goals.** My goals, my dreams: telling goals from dreams — goals are specific, timed, achievable and planned, dreams are unplanned wishes — and setting one's own goals (Mozambique's book.)
+
+**Work-values.** The dignity of work (dignidade de trabalho) (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

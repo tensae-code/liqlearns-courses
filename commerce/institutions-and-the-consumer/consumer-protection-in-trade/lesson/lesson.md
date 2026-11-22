@@ -67,6 +67,8 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 
 **Wise-shopper.** Being a wise shopper: shopping carefully and getting value (Fiji's book.)
 
+**Consumer.** Consumer rights and duties (direitos e deveres dos consumidores) (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why consumers need protecting, consumerism, rights and redress, nigeria's protective laws, regulatory measures behind the laws. Your companion asks one question back — answer it from the lesson.

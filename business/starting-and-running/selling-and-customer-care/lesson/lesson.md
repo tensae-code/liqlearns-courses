@@ -8,9 +8,13 @@ Think of the last thing you bought from a person, not a machine. Walk through wh
 
 **Selling.** Personal (direct) selling is done by a salesperson, face to face with the buyer. Successful salespeople share qualities: empathy, focus, responsibility, persistence, enthusiasm and communication. The personal selling process has five steps: preparation, prospecting (finding likely buyers), presenting the goods, handling rejections and objections, and closing the sale — with follow-up after it. Merchandising techniques — how goods are displayed and presented in the shop — support the selling.
 
+**Selling.** The art of selling (arte de vender) (Mozambique's book.)
+
 ## Sub lesson 2 — Terms of sale
 
 **Terms of sale.** Every sale is made on terms, and each term favours buyer or seller differently: cash (paid at once), credit (goods now, payment later), hire purchase (instalments, ownership at the last payment), layaway (the seller holds the goods while the buyer pays), consignment (goods left with a seller who pays only for what is sold), and cash and trade discounts between businesses. A good seller states the terms plainly before the sale, so both sides know what they have agreed.
+
+**Terms-of-sale.** Terms and conditions for selling goods and services (Mozambique's book.)
 
 ## Sub lesson 3 — Customer service
 

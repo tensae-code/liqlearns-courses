@@ -12,6 +12,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Business-functions.** The marketing function of a business.
 
+**Marketing-plan.** The marketing plan: drawing the parts of marketing into one plan (Mozambique's book.)
+
 ## Sub lesson 2 — Knowing the market — research first
 
 **Market research.** Market versus marketing; market research versus the wider marketing research; push and pull promotion strategies.
@@ -37,6 +39,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Branding.** Choosing the business's name and trade mark (inside plan part 1): the name must fit the business's activity and goal, and famous companies' trade marks show the role a mark plays in a company's success (Iran's book.)
 
 **Branding.** The brand and its parts: a brand as the intangible set of characteristics and impressions in consumers' heads; its verbal elements (name, slogan, brand legend), visual elements (trademark, logo, corporate colours, corporate font — with the tests a good element must pass: meaningful, memorable, legally protected, transferable), and ideological element (the brand idea); the brand platform and the branding complex that carries one idea through research, strategy, verbal and visual identity to implementation (Kazakhstan's book.)
+
+**Market-study.** Notions of market study (estudo de mercado): studying the market before starting (Mozambique's book.)
 
 ## Sub lesson 3 — The marketing mix
 
@@ -254,6 +258,20 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Regulated pricing.** Strand 5: government regulations affecting the pricing of goods and services on the internet — the factors in international pricing decisions (exchange rates, international transport and channel costs, trade practices, government trade policies and price regulations including anti-dumping, inflation and interest rates), and what makes pricing decisions complex (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Global pricing influences.** Strand 5: the impact of national and global influences on internet prices — the customer purchasing process factors (customer satisfaction, security, information availability, shipping, quality, pricing, time) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Life-cycle.** The product life cycle and what each stage means for the business (Mozambique's book.)
+
+**Packaging.** Packaging (embalagem) as part of presenting the product (Mozambique's book.)
+
+**Segmentation.** Market segmentation: dividing the market into segments (Mozambique's book.)
+
+**Mix.** The marketing mix (Mozambique's book.)
+
+**Pricing.** Price-setting techniques (técnicas de fixação de preços) (Mozambique's book.)
+
+**Place (distribution).** Distribution techniques: getting goods to the buyer (Mozambique's book.)
+
+**Promotion.** Promotion of goods and services (Mozambique's book.)
 
 ## Say it to your companion
 

@@ -89,6 +89,14 @@ Saving is putting money aside — for a rainy day, and for set goals. The book's
 
 **Issues.** Issues and trends in personal finance (Fiji's book.)
 
+**Saving.** The relation between consumption, saving and investment: how what a person consumes, saves and invests hang together (Mozambique's book.)
+
+**Savings-plan.** The savings plan, built across two lessons: setting savings goals and working the plan (objectives against dreams — specific, timed, achievable goals with a path and indicators) (Mozambique's book.)
+
+**Group-saving.** The savings club (clube de poupança): saving together in a group as a Mozambican way of building funds (Mozambique's book.)
+
+**Income-use.** Attitudes in using income (atitudes no uso do rendimento): how a person should treat the money that comes in (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a person controls their own money with a budget — a spending plan that balances income against expenditure, fixed outgoings first and flexible spending after — watched for its peaks and troughs, and with saving done on purpose toward set goals, in ways that run from a bank deposit account to the sou-sou. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: budgeting, ways of saving. Your companion asks one question back — answer it from the lesson.

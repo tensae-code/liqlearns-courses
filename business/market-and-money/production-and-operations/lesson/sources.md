@@ -1,6 +1,6 @@
 # Sources — Production and Operations
 
-countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea
+countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -48,6 +48,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 20:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 21:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 22:** Módulo 3 de Empreendedorismo (Entrepreneurship Module 3 — production) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 78 PDF pages, printed pp. 1–73 (printed page = PDF page − 5). Source: manifest manifests-phase2/mozambique.json n=2; fetched via fetch_book.py, route tree, 545,377 B = expected exactly, to scratch-phase2/mozambique/moz-2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 12, printed p. 57+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
+**Book 23:** Módulo 4 de Empreendedorismo (Entrepreneurship Module 4 — stocks and marketing) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 99 PDF pages, printed pp. 1–94 (printed page = PDF page − 5). Source: manifest manifests-phase2/mozambique.json n=3; fetched via fetch_book.py, route tree, 649,278 B = expected exactly, to scratch-phase2/mozambique/moz-3.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Plano de Marketing, printed p. 75+). The module's own contents list skips Lição 12 (Lição 11 is followed by Lição 13) — the book's own numbering, not a missing part. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -108,10 +112,21 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | what production is part of the lesson (teacher guide) | Book 20 (PNG Business Studies TG 9–10 LS (2006)), printed p. 27 |
 | factors of production part of the lesson (teacher guide) | Book 21 (PNG Business Studies TG G9 SB (2023)), printed p. 58 |
 | organising production part of the lesson (teacher guide) | Book 21 (PNG Business Studies TG G9 SB (2023)), printed pp. 79–80 |
+| opening part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 5 |
+| process part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 9 |
+| sizing part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 17 |
+| organisation part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 21 |
+| design part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 25 |
+| quality part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 34 |
+| quality-management part of the lesson | Book 22 (Empreendedorismo Módulo 3 (PESD II)), printed p. 39 |
+| stock part of the lesson | Book 23 (Empreendedorismo Módulo 4 (PESD II)), printed p. 5 |
+| replenishment part of the lesson | Book 23 (Empreendedorismo Módulo 4 (PESD II)), printed p. 13 |
+| ABC part of the lesson | Book 23 (Empreendedorismo Módulo 4 (PESD II)), printed p. 19 |
+| ABC-in-practice part of the lesson | Book 23 (Empreendedorismo Módulo 4 (PESD II)), printed p. 24 |
 
-**Acceptance count: taught in 12 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Bhutan, Kazakhstan, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea
+Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique

@@ -40,6 +40,8 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Employment law.** Employment law: it covers everything from employment contracts to dismissal — a healthy and safe working environment, the right to belong to a trade union, pay statements, maternity/adoption/paternity rights and pay, and protection against discrimination (race, age, disability, religion, sex, marital status and more), with employers also liable for discrimination by their staff or visitors; job security and severance law — dismissal needs a valid reason, a full investigation, consistency, and the contractual or statutory notice period, with summary dismissal only for gross misconduct
 
+**Employment-law.** The work contract and workers' rights and duties (Mozambique's book.)
+
 ## Sub lesson 4 — Registering, complying — and deregulation
 
 **Formation-law.** The Acts under which a business entity is formed in Malaysia (business registration, partnership and companies legislation).
@@ -176,6 +178,12 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **Sale of goods law.** Strand 2 Unit 4: the relationship between contract law, the law of sales and consumer law — the Goods Act 1951; contract of sale against agreement to sell; consumer guarantees, compensation for damages and loss, and warranties; the Sale of Goods Act 1979 and where its protection stops (private sellers) (teacher guide) (Papua New Guinea's teacher guide.)
 
 **E-commerce law.** Strand 5: ways of regulating e-business products — the privacy laws an online business must comply with (CCPA, data broker registration, GDPR); the Electronic Commerce Regulations 2002 for distance selling; why e-commerce law matters (preventing identity theft and fraud, keeping customer data private); the key areas (website tracking, email marketing, privacy policies); and the laws that protect the business itself (trademark, patent, copyright) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Procedures.** The procedural steps (trâmites processuais) of setting a business up legally (Mozambique's book.)
+
+**Registration.** Commercial registration (registo comercial) at the legalisation institutions (Mozambique's book.)
+
+**Licensing.** Licensing an activity (licenciamento de actividade) (Mozambique's book.)
 
 ## Say it to your companion
 

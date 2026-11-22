@@ -137,3 +137,17 @@ b) Strand 1: the board of directors and the corporate officers, and the role of 
 c) Strand 2 Unit 2: bank reconciliation — its definition, the seven-step procedure, and the reasons for differences…
 d) Strand 1 Unit 2: the factors of production — land, labour, capital and enterprise
 **Answer: d) Strand 1 Unit 2: the factors of production — land, labour, capital and enterprise** — That is what this lesson teaches in its factors of production part part (Papua New Guinea's teacher guide.)
+
+**22.** What does this lesson teach about the opening part?
+a) The production function of a business.
+b) Choosing the factor mix: labour-intensive vs capital-intensive production, using factors efficiently, planning…
+c) Types of production: the kinds of production a business can carry on
+d) The four factors combined to produce, worked through a farm: land (the farm land) + labour (farm workers) +…
+**Answer: c) Types of production: the kinds of production a business can carry on** — That is what this lesson teaches in its opening part (Mozambique's book.)
+
+**23.** What does this lesson teach about the process part?
+a) The production function of a business.
+b) Choosing the factor mix: labour-intensive vs capital-intensive production, using factors efficiently, planning…
+c) The four factors combined to produce, worked through a farm: land (the farm land) + labour (farm workers) +…
+d) The production process itself, step by step
+**Answer: d) The production process itself, step by step** — That is what this lesson teaches in its process part (Mozambique's book.)

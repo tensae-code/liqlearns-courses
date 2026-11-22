@@ -1,6 +1,6 @@
 # Sources — Personal Finance and Budgeting
 
-countries: Dominica, Ecuador, Uganda, Guatemala, Malaysia, Samoa, Kazakhstan, Papua New Guinea, Fiji
+countries: Dominica, Ecuador, Uganda, Guatemala, Malaysia, Samoa, Kazakhstan, Papua New Guinea, Fiji, Mozambique
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -27,6 +27,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 12:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
 
 **Book 13:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
+**Book 14:** Módulo 1 de Empreendedorismo — Empreendedorismo e dignidade do trabalho (Entrepreneurship Module 1 — Entrepreneurship and the dignity of work) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 117 PDF pages, printed pp. 1–110 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=0; fetched via fetch_book.py, route tree, 912,515 B = expected exactly, to scratch-phase2/mozambique/moz-0.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 93+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
+**Book 15:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,12 +75,17 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | expenses part of the lesson | Book 13 (Year 9 Commercial Studies), printed p. 50 |
 | budgets part of the lesson | Book 13 (Year 9 Commercial Studies), printed p. 53 |
 | issues part of the lesson | Book 13 (Year 9 Commercial Studies), printed p. 65 |
+| saving part of the lesson | Book 14 (Empreendedorismo Módulo 1 (PESD II)), printed p. 67 |
+| savings-plan part of the lesson | Book 14 (Empreendedorismo Módulo 1 (PESD II)), printed p. 71 |
+| group-saving part of the lesson | Book 14 (Empreendedorismo Módulo 1 (PESD II)), printed p. 81 |
+| income-use part of the lesson | Book 15 (Módulo de Empreendedorismo (PESD I)), printed p. 109 |
+| savings-plan part of the lesson | Book 15 (Módulo de Empreendedorismo (PESD I)), printed p. 114 |
 
-**Acceptance count: taught in 7 countries (Dominica, Ecuador, Uganda, Malaysia, Samoa, Kazakhstan, Fiji)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Dominica, Ecuador, Uganda, Malaysia, Samoa, Kazakhstan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: these placements were filed as a NEW lesson proposal (`personal-finance-and-budgeting`) in dominica-placements.md. Keeping Accounts for a Small Business holds only a small business's side of personal money (classifying a sole trader's personal expenditure, and budgeting for one family event), and Business Calculations holds job costing and price build-ups; neither teaches a person's own budgeting system or the ways of saving. The registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: personal finance and budgeting, market and money, business, dominica, ecuador, uganda, guatemala, malaysia, samoa, kazakhstan, papua-new-guinea, fiji
+Searchable tags: personal finance and budgeting, market and money, business, dominica, ecuador, uganda, guatemala, malaysia, samoa, kazakhstan, papua-new-guinea, fiji, mozambique

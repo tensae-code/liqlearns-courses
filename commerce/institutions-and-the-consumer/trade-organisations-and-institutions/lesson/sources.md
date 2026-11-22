@@ -1,6 +1,6 @@
 # Sources — Trade Organisations and Institutions
 
-countries: Kenya, Nigeria, Nicaragua, Sudan, Tanzania, Malaysia, Bhutan
+countries: Kenya, Nigeria, Nicaragua, Sudan, Tanzania, Malaysia, Bhutan, Mozambique
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -18,6 +18,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 7:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
 
+**Book 8:** Módulo 2 de Empreendedorismo (Entrepreneurship Module 2 — opportunities, SWOT, business law and finance) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 106 PDF pages, printed pp. 1–99 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=1; fetched via fetch_book.py, route tree, 672,388 B = expected exactly, to scratch-phase2/mozambique/moz-1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 82+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
+
 | Lesson part | Where it comes from |
 |---|---|
 | trade institutions part of the lesson | Book 1 (Kenya Business Form 4), printed p. 179 |
@@ -32,7 +34,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | institutions part | Book 5 (Pengajian Keusahawanan T4), printed p. 59 |
 | institutions part | Book 6 (Perniagaan T4), printed p. 75 |
 | regulators part | Book 7 (Business and Entrepreneurship XI), printed p. 97 |
+| institutions part of the lesson | Book 8 (Empreendedorismo Módulo 2 (PESD II)), printed p. 66 |
 
-**Acceptance count: taught in 7 countries (Kenya, Nigeria, Nicaragua, Sudan, Tanzania, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Kenya, Nigeria, Nicaragua, Sudan, Tanzania, Malaysia, Bhutan, Mozambique)** — every book above is a student book, so each country counts.
 
-Searchable tags: trade organisations and institutions, institutions and the consumer, commerce, kenya, nigeria, nicaragua, sudan, tanzania, malaysia, bhutan
+Searchable tags: trade organisations and institutions, institutions and the consumer, commerce, kenya, nigeria, nicaragua, sudan, tanzania, malaysia, bhutan, mozambique

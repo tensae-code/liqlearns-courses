@@ -116,3 +116,17 @@ b) Strand 1 Unit 2: the two entrepreneurial functions — risk taking and innova
 c) Strand 2 Unit 2: actual income and expenses for a period budget — income defined; the net income formulas; expenses…
 d) Strand 2 Unit 4: the role of state agencies in enforcing consumer protection laws — consumer protection as…
 **Answer: b) Strand 1 Unit 2: the two entrepreneurial functions — risk taking and innovation** — That is what this lesson teaches in its what entrepreneurs do part part (Papua New Guinea's teacher guide.)
+
+**19.** What does this lesson teach about the opening part?
+a) Defines entrepreneurship in the book's own way: a person's ability to turn ideas into action, bringing together…
+b) The entrepreneur's personality traits, self-strengths and the advantages of being one.
+c) The advantages of doing business as a career opportunity.
+d) Myths and convictions about the nature of work: what a myth is and the false beliefs people hold about work,…
+**Answer: d) Myths and convictions about the nature of work: what a myth is and the false beliefs people hold about work,…** — That is what this lesson teaches in its opening part (Mozambique's book.)
+
+**20.** What does this lesson teach about the work-and-society part?
+a) The social status of work: how work gives a person standing in society
+b) Defines entrepreneurship in the book's own way: a person's ability to turn ideas into action, bringing together…
+c) The entrepreneur's personality traits, self-strengths and the advantages of being one.
+d) The advantages of doing business as a career opportunity.
+**Answer: a) The social status of work: how work gives a person standing in society** — That is what this lesson teaches in its work-and-society part (Mozambique's book.)

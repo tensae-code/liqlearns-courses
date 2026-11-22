@@ -37,7 +37,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Process part; Sizing part; Organisation part; Design part; Quality part; Quality-management part; Stock part; Replenishment part; ABC part; ABC-in-practice part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a small workshop where four labelled corners — land/materials, workers, machines, the owner's plan — all feed one finished product on a bench → the student names the four factors in the picture and one act of specialisation the workers are doing.

@@ -101,6 +101,20 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Finding the idea.** Strand 4: starting a business or an entrepreneurial venture — where business ideas come from (studying the existing market for totally new ideas or improvements), and the personal and environmental factors behind a new business idea (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opportunity-identification.** Identifying an opportunity from one's geographic situation: reading the place you live in for business openings (Mozambique's book.)
+
+**Value-addition.** Identifying opportunities by adding value to goods and services (Mozambique's book.)
+
+**Value-chain.** Identifying an opportunity from the value chain: finding the gap in the chain from producer to buyer (Mozambique's book.)
+
+**Cross-border.** Opportunity beyond the border: looking for business openings outside one's own area and country (two-lesson sequence) (Mozambique's book.)
+
+**Community-project.** The community project and fair: showing and testing a project idea in the community (Mozambique's book.)
+
+**Evaluation.** Applying FOFA analysis, and using it to select between projects (Mozambique's book.)
+
+**Community.** My community: reading one's own community for its needs and openings (Mozambique's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.

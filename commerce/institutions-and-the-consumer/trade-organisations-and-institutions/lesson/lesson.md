@@ -12,6 +12,8 @@ Draw a map of your own region from memory. Mark the neighbouring countries, then
 
 **Why countries integrate — and what it costs.** The gains: a wider market and economies of scale; specialisation and the trade-creation effect; better and cheaper products through competition. Set against them honestly: consumers shut off from cheaper or better goods from outside the bloc. Integration is chosen with both columns in view, like every other bargain in this course.
 
+**Institutions.** The institutions that support businesses in Mozambique and what each does (Mozambique's book.)
+
 ## Sub lesson 2 — West Africa's groupings
 
 **ECOWAS.** West Africa's great grouping: ECOWAS, with its fifteen member states and its aims — free movement, a common external tariff, common policies. Its achievements stand in the book: the free-movement protocol, ECOMOG, infrastructure. And its problems are named as plainly as its aims — the lesson keeps both.
