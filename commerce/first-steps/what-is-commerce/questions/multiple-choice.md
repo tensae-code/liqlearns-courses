@@ -101,3 +101,45 @@ b) Business defined as an activity by a person or group to generate income and p
 c) The business mindset: the traits, enthusiasm and psychological motivation of a businessperson
 d) Start-up facts: about 60% of small-business start-up money comes from private sources such as personal…
 **Answer: a) Trading as a type of business: buying goods from producers or wholesalers and reselling them (clothing shops,…** — That is what this lesson teaches in its the trade part of the three-types teaching part (Laos's book).
+
+**17.** What does this lesson teach about the trade-types part? (Sub lesson 2)
+a) The types of trade
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The types of trade** — That is what this lesson teaches in its trade-types part part (Sri Lanka's teacher guide).
+
+**18.** What does this lesson teach about the trade-and-services introduction? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Trade introduced as the central activity of business, with the auxiliary (support) services that make trade po…
+**Answer: d) Trade introduced as the central activity of business, with the auxiliary (support) services that make trade po…** — That is what this lesson teaches in its trade-and-services introduction part (Sri Lanka's book).
+
+**19.** What does this lesson teach about the Sri-Lanka-distribution part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Sri Lanka's industrial and commercial distribution: the country's industries and trade introduced through what…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Sri Lanka's industrial and commercial distribution: the country's industries and trade introduced through what…** — That is what this lesson teaches in its Sri-Lanka-distribution part part (Sri Lanka's book).
+
+**20.** What does this lesson teach about the production-and-trade part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Production and trade: human needs, goods and services, the kinds of production (agriculture, mining, fishing,…
+**Answer: d) Production and trade: human needs, goods and services, the kinds of production (agriculture, mining, fishing,…** — That is what this lesson teaches in its production-and-trade part part (Sri Lanka's book).
+
+**21.** What does this lesson teach about the history part? (Sub lesson 2)
+a) The history of commerce: how exchange grew from barter to organised trade
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) The history of commerce: how exchange grew from barter to organised trade** — That is what this lesson teaches in its history part part (Sri Lanka's book).
+
+**22.** What does this lesson teach about the commercial-policy part? (Sub lesson 2)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Commercial policy, worked through Ceylon's import and export figures 1835–1969
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Commercial policy, worked through Ceylon's import and export figures 1835–1969** — That is what this lesson teaches in its commercial-policy part part (Sri Lanka's book).

@@ -93,6 +93,22 @@ Name one thing your country sells to the world and one thing it must buy from th
 
 **Restrictions.** Tariffs: why a country imposes them, and the tools of trade restriction and export promotion (Nigeria's book.)
 
+**Foreign-trade part.** Foreign (international) trade: its benefits and its barriers/obstacles (teacher guide) (Sri Lanka's teacher guide.)
+
+**Entering-trade part.** Readiness to engage in foreign trade: what entering international trade requires (teacher guide) (Sri Lanka's teacher guide.)
+
+**Foreign-trade part.** Foreign trade: import trade and export trade defined and distinguished (Sri Lanka's book.)
+
+**International-trade part.** International trade: trade between countries and its importance to Sri Lanka (Sri Lanka's book.)
+
+**Trade part.** Trade divided into home trade and foreign trade, the two branches introduced (Sri Lanka's book.)
+
+**Foreign-trade part.** Foreign trade proper: the export and import branches diagrammed, with the parties who carry each on (Sri Lanka's book.)
+
+**Import part.** The import trade chapter (Sri Lanka's book.)
+
+**Foreign-exchange part.** Foreign exchange: the exchange rate and the exchange market (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade. Your companion asks one question back — answer it from the lesson.

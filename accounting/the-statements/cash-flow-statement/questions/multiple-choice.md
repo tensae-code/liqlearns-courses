@@ -80,3 +80,24 @@ b) The projected funds flow (projected cash flow): all the venture's money in an
 c) The annual projected funds flow for the first five years: year 0 shows contributions and loans received against…
 d) Estimating the project's cash flows: the financial feasibility study is built on all the previous studies;
 **Answer: a) The cash flow statement: classifying and presenting a business's cash movements for the period** — That is what this lesson teaches in its cash-flow part (Fiji's book.)
+
+**13.** What does this lesson teach about the cash-flow part?
+a) The statement of cash flows of a limited company: cash and cash equivalents defined, accrual vs cash basis, an…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The statement of cash flows of a limited company: cash and cash equivalents defined, accrual vs cash basis, an…** — That is what this lesson teaches in its cash-flow part part (Sri Lanka's teacher guide).
+
+**14.** What does this lesson teach about the the 2017 guide's sole-proprietorship competency contains no cash flow statement?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The cash flow statement of a sole proprietorship, prepared alongside its income statement and balance sheet
+**Answer: d) The cash flow statement of a sole proprietorship, prepared alongside its income statement and balance sheet** — That is what this lesson teaches in its the 2017 guide's sole-proprietorship competency contains no cash flow statement part (Sri Lanka's teacher guide).
+
+**15.** What does this lesson teach about the the 2017 guide's partnership competency contains no cash flow statement?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The cash flow statement of a partnership, prepared with its balance sheet
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The cash flow statement of a partnership, prepared with its balance sheet** — That is what this lesson teaches in its the 2017 guide's partnership competency contains no cash flow statement part (Sri Lanka's teacher guide).

@@ -43,3 +43,10 @@ b) Strand 2 Unit 2: accounts receivable and accounts payable and their managemen
 c) Accounting for credit transactions: keeping the receivables and payables records that control credit buying and…
 d) Something this lesson does not teach.
 **Answer: c) Accounting for credit transactions: keeping the receivables and payables records that control credit buying and…** — That is what this lesson teaches in its credit-records part (Fiji's book.)
+
+**7.** What does this lesson teach about the control-accounts part?
+a) Control accounts and subsidiary ledgers: debtors and creditors subsidiary ledgers prepared, their relationship…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Control accounts and subsidiary ledgers: debtors and creditors subsidiary ledgers prepared, their relationship…** — That is what this lesson teaches in its control-accounts part part (Sri Lanka's teacher guide).

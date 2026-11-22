@@ -99,6 +99,16 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Answer-key part.** Answer key: doing business defined as a five-step process — observe the surroundings, identify opportunities in business and non-business environments, gather the necessary resources, implement the activities, and receive financial or social rewards; and the characteristics of business — economic rules, a free-market economy, private enterprise, value added (wealth creation), goods or services that are needed, new markets. (Laos's teacher guide.)
 
+**Concept part.** The concept of business: activities of production, distribution and selling of goods and services to satisfy human needs and wants, with and without a profit motive; needs vs wants defined, with their characteristics and differences (teacher guide) (Sri Lanka's teacher guide.)
+
+**Evolution part.** The evolution of business: self-sufficient economy and direct production, specialisation, surplus, the barter system as the first stage, and trade emerging with indirect (market) production (teacher guide) (Sri Lanka's teacher guide.)
+
+**Classification part.** Classifying businesses by nature of production (primary/secondary/tertiary), ownership, goals, scale and production sector (teacher guide) (Sri Lanka's teacher guide.)
+
+**Process part.** The business as an input–output process: land, labour, capital, entrepreneurship, information, time and knowledge combined (worked through a garment factory) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Stakeholders part.** The stakeholders of a business (owners, managers, employees, creditors, customers, suppliers, potential investors, government, community) and each party's reasons for interest in it (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

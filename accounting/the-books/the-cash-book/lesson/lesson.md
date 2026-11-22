@@ -67,6 +67,14 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Answer-key part.** The fully worked simple cash book answer (a businessperson of three years' standing, expanding, who received a bank loan on 23 January): the loan received in cash, 164,000,000 kip, bringing the balance to 292,000,000 kip, then the standard transaction set carried through with running balances. (Laos's teacher guide.)
 
+**Cash-book part.** Recording a business's cash transactions (receipts and payments, cash and bank) in the cash book (teacher guide) (Sri Lanka's teacher guide.)
+
+**Petty-cash part.** The petty cash book: recording petty cash expenses on the imprest system (teacher guide) (Sri Lanka's teacher guide.)
+
+**Cash-book part.** The cash book introduced in its three kinds — single-column, double-column and treble-column cash books (Sri Lanka's book.)
+
+**Petty-cash part.** The petty cash book: recording small payments separately from the main cash book (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

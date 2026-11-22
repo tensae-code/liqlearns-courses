@@ -44,6 +44,8 @@ QuickBooks as a specialist accounting application: it automates bookkeeping (ent
 
 **Systems.** Systems for implementing the accounting process (Fiji's book.)
 
+**Spreadsheet part.** Preparing the cost statement with a computer spreadsheet: opening the spreadsheet and building the statement step by step (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.

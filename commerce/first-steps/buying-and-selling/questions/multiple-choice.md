@@ -69,3 +69,31 @@ b) The three types of business: (1) production/manufacturing (farming, livestock
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: a) Supplier selection carried to its closing steps: step 4 choose the best supplier; on delivery, check the type…** — That is what this lesson teaches in its answer/teaching part part (Laos's teacher guide).
+
+**12.** What does this lesson teach about the distribution-methods part? (Sub lesson 3)
+a) Methods of distribution: the channels by which goods move from producer to consumer, directly and through inte…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Methods of distribution: the channels by which goods move from producer to consumer, directly and through inte…** — That is what this lesson teaches in its distribution-methods part part (Sri Lanka's book).
+
+**13.** What does this lesson teach about the buying-and-selling part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Buying and selling of goods: how a purchase is made and completed, from enquiry and quotation to order
+**Answer: d) Buying and selling of goods: how a purchase is made and completed, from enquiry and quotation to order** — That is what this lesson teaches in its buying-and-selling part part (Sri Lanka's book).
+
+**14.** What does this lesson teach about the buying-and-selling part? (Sub lesson 3)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Buying and selling: how purchases and sales are made and completed
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Buying and selling: how purchases and sales are made and completed** — That is what this lesson teaches in its buying-and-selling part part (Sri Lanka's book).
+
+**15.** What does this lesson teach about the agents part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Mercantile agents: the sole agent and the general agent who sell goods for a principal
+**Answer: d) Mercantile agents: the sole agent and the general agent who sell goods for a principal** — That is what this lesson teaches in its agents part part (Sri Lanka's book).

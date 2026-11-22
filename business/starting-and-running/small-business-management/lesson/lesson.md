@@ -63,6 +63,10 @@ Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage 
 
 **Answer-key part.** Answer material on small-business strategy: the weaknesses recap (financial limits, staffing problems, higher direct costs, risk concentrated in one business, lack of confidence) set against small-business strategies. (Laos's teacher guide.)
 
+**SME part.** Small and medium scale businesses: their characteristics and their importance (teacher guide) (Sri Lanka's teacher guide.)
+
+**Incentives part.** The incentives available (from government and support institutions) to make small and medium businesses succeed, and the special projects set up for them (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

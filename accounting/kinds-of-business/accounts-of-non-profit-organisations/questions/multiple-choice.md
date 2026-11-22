@@ -36,3 +36,24 @@ b) Accounting for non-profit organisations: their records and statements in plac
 c) The club's statement of financial position and the accumulated fund.
 d) For a club or incorporated society the equity section is called the Accumulated Fund, members may not withdraw…
 **Answer: b) Accounting for non-profit organisations: their records and statements in place of profit accounts** — That is what this lesson teaches in its non-profit part (Fiji's book.)
+
+**6.** What does this lesson teach about the non-profit part? (Sub lesson 2)
+a) Accounts of not-for-profit organisations: why they keep accounts, subscriptions and the accumulated fund, the…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Accounts of not-for-profit organisations: why they keep accounts, subscriptions and the accumulated fund, the…** — That is what this lesson teaches in its non-profit part part (Sri Lanka's teacher guide).
+
+**7.** What does this lesson teach about the introduction part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Non-profit organisations introduced: what they are
+**Answer: d) Non-profit organisations introduced: what they are** — That is what this lesson teaches in its introduction part part (Sri Lanka's book).
+
+**8.** What does this lesson teach about the non-profit-statements part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)** — That is what this lesson teaches in its non-profit-statements part part (Sri Lanka's book).

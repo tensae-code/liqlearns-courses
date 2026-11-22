@@ -52,6 +52,14 @@ Diminishing (reducing) balance method: a fixed rate on the falling book value, s
 
 **Depreciation part.** A depreciation rate table: buildings 20 years at 5%, ordinary machinery 8–10 years at 10–12%, special machinery 3–5 years at 20–33%, vehicles 5 years at 20%, tools 3 years at 33%; and the depreciation register form (machine specification and number, year bought, price). (Laos's book.)
 
+**PPE-and-depreciation part.** Property, plant and equipment under LKAS 16: recognition, cost, depreciable amount, carrying amount, fair value, residual value and useful life; cost model vs revaluation model; depreciation by straight line and reducing balance (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 G12 guide has no PPE competency.** Property, plant and equipment concepts under SLAS 18: the terms that govern it — cost, depreciation, depreciable amount, carrying amount, fair value, recoverable amount, residual value, impairment, effective economic life (teacher guide) (Sri Lanka's teacher guide.)
+
+**Absent from the 2017 G12 guide.** Accounting for and disclosing property, plant and equipment: recognition, measuring depreciable amount from cost and residual value, and charging depreciation (teacher guide) (Sri Lanka's teacher guide.)
+
+**Depreciation part.** Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial position in three columns (cost, accumulated depreciation, net value) (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation. Your companion asks one question back — answer it from the lesson.

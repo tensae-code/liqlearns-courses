@@ -48,3 +48,31 @@ b) Auxiliaries to trade, 5 — warehousing (गोदाम): storing goods unti
 c) The service functions of exchange: alongside buying and selling, exchange now includes transport, storage,…
 d) Storing goods through the General Warehouses (Γενικές Αποθήκες): organisations that receive and keep traders'…
 **Answer: a) Warehousing inside the commodity exchange: assaying and warehouse receipts** — That is what this lesson teaches in its warehouse-receipts part (Nigeria's book.)
+
+**9.** What does this lesson teach about the warehousing part?
+a) Warehousing: how warehousing is used effectively for the success of business
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Warehousing: how warehousing is used effectively for the success of business** — That is what this lesson teaches in its warehousing part part (Sri Lanka's teacher guide).
+
+**10.** What does this lesson teach about the warehousing part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Warehousing (களஞ்சியப்படுத்தல்): storing goods as an aid to trade
+**Answer: d) Warehousing (களஞ்சியப்படுத்தல்): storing goods as an aid to trade** — That is what this lesson teaches in its warehousing part part (Sri Lanka's book).
+
+**11.** What does this lesson teach about the warehousing part?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Warehouses (பண்டக சாலைகள்): why goods are stored between production and sale, and the kinds of warehouses
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Warehouses (பண்டக சாலைகள்): why goods are stored between production and sale, and the kinds of warehouses** — That is what this lesson teaches in its warehousing part part (Sri Lanka's book).
+
+**12.** What does this lesson teach about the bonded-warehouses part?
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Customs (bonded) warehouses
+**Answer: d) Customs (bonded) warehouses** — That is what this lesson teaches in its bonded-warehouses part part (Sri Lanka's book).

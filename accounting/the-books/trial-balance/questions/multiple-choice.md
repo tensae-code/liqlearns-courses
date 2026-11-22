@@ -96,3 +96,17 @@ b) Trial balance after returns (teacher guide): from the returns postings, learn
 c) The trial balance drawn from the ledger
 d) The trial balance (neraca saldo): preparing it from the ledger balances and what its agreement does and does not…
 **Answer: c) The trial balance drawn from the ledger** — That is what this lesson teaches in its trial-balance part (Fiji's book.)
+
+**15.** What does this lesson teach about the trial-balance part?
+a) Balancing ledger accounts, preparing the trial balance and preparing financial statements from it
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Balancing ledger accounts, preparing the trial balance and preparing financial statements from it** — That is what this lesson teaches in its trial-balance part part (Sri Lanka's teacher guide).
+
+**16.** What does this lesson teach about the trial-balance part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The trial balance: listing the ledger balances to check the double entry
+**Answer: d) The trial balance: listing the ledger balances to check the double entry** — That is what this lesson teaches in its trial-balance part part (Sri Lanka's book).

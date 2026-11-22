@@ -59,6 +59,16 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 
 **Comparison.** Commodities against stocks: similarities and differences, the benefits of a commodity exchange and the constraints on commodity trading (Nigeria's book.)
 
+**Financial-market part.** How the financial market participates in business finance (cross-referring to the financial-institutions teaching of the Grade 12 guide) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Market-performance part.** The performance of the financial market in Sri Lanka (teacher guide) (Sri Lanka's teacher guide.)
+
+**Stock-exchange part.** The activities of the Colombo Stock Exchange (teacher guide) (Sri Lanka's teacher guide.)
+
+**Securities part.** The securities traded on the share market and their characteristics (teacher guide) (Sri Lanka's teacher guide.)
+
+**Exchange-evaluation part.** Evaluating the performance of the Colombo Stock Exchange (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: on the capital market a company raises long-term money in the primary market — by offer for subscription, offer for sale, rights issue, private placement or introduction — and investors then trade those securities in the secondary market, through brokers, under the exchange's discipline. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed new lesson on capital markets and the stock exchange, proposed capital-markets lesson, proposed capital-markets lesson, proposed capital-markets lesson, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange, capital markets and the stock exchange. Your companion asks one question back — answer it from the lesson.

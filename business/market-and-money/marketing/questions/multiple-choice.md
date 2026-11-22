@@ -199,3 +199,31 @@ b) Your values, interests and experience, and how they bear on the career and th
 c) First pointers on writing a business plan, and on organising and administering a business, including…
 d) Small-scale market research: basic questionnaires to current and future customers reveal problems and…
 **Answer: d) Small-scale market research: basic questionnaires to current and future customers reveal problems and…** — That is what this lesson teaches in its research part part (Laos's book).
+
+**31.** What does this lesson teach about the marketing-concepts part? (Sub lesson 5)
+a) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)** — That is what this lesson teaches in its marketing-concepts part part (Sri Lanka's teacher guide).
+
+**32.** What does this lesson teach about the marketing-philosophies part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The marketing concepts/philosophies compared (production, product, selling, marketing, societal) and selecting…
+**Answer: d) The marketing concepts/philosophies compared (production, product, selling, marketing, societal) and selecting…** — That is what this lesson teaches in its marketing-philosophies part part (Sri Lanka's teacher guide).
+
+**33.** What does this lesson teach about the introduction part? (Sub lesson 5)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Marketing introduced: a business exists by satisfying consumers' needs and wants with quality goods and servic…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Marketing introduced: a business exists by satisfying consumers' needs and wants with quality goods and servic…** — That is what this lesson teaches in its introduction part part (Sri Lanka's book).
+
+**34.** What does this lesson teach about the target-market part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The target market: choosing the consumer group the marketing will aim at
+**Answer: d) The target market: choosing the consumer group the marketing will aim at** — That is what this lesson teaches in its target-market part part (Sri Lanka's book).

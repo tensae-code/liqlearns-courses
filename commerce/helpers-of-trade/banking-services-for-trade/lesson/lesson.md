@@ -171,6 +171,44 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Answer-key part.** Answer material: the internet-café case answered — where he can get credit (from the shop he will buy the computers from), and where he can borrow (the village fund, which lends money; trade credit; suppliers; microfinance institutions); and the 5 Cs of credit named in English: Character, Capacity, Capital, Conditions, Collateral; borrowing chances improve by preparing a plan. (Laos's teacher guide.)
 
+**Money part.** Money and its importance in facilitating transactions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Financial-institutions part.** The system of financial institutions that supports business transactions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Central-bank part.** The role of the Central Bank of Sri Lanka (teacher guide) (Sri Lanka's teacher guide.)
+
+**Deposits-and-loans part.** Commercial banks' deposits and lending and their impact on business (teacher guide) (Sri Lanka's teacher guide.)
+
+**Bank-services part.** The other services rendered by commercial banks (teacher guide) (Sri Lanka's teacher guide.)
+
+**Cheques part.** Cheques: how transactions are made easy by using cheques (teacher guide) (Sri Lanka's teacher guide.)
+
+**E-banking part.** Electronic banking/money facilities and how they make transactions convenient (teacher guide) (Sri Lanka's teacher guide.)
+
+**Deposit-services part.** Banking services connected with deposits: the deposit-related services banks provide to trade (Sri Lanka's book.)
+
+**E-money part.** Banking services connected with electronic money (Sri Lanka's book.)
+
+**Payment-methods part.** Domestic methods of payment: paying by cash, by postal money order and by cheque (Sri Lanka's book.)
+
+**Money part.** Money and bank money: what money is, and bank money as demand deposits in customers' current accounts, drawable by cheque on demand (Sri Lanka's book.)
+
+**Banking-services part.** The banks' deposit services and the cheque: savings and fixed deposits alongside current accounts, and paying by cheque (Sri Lanka's book.)
+
+**Money part.** Money: what money is, Ceylon's currency, coins and notes (Sri Lanka's book.)
+
+**Money-market part.** The money market (Sri Lanka's book.)
+
+**Banking part.** Banks and their accounts: current accounts and deposit accounts (Sri Lanka's book.)
+
+**Central-bank part.** The Central Bank of Ceylon (Sri Lanka's book.)
+
+**Cheques part.** Cheques: crossing a cheque and the dishonoured cheque (Sri Lanka's book.)
+
+**Bills part.** Bills of exchange (Sri Lanka's book.)
+
+**Currency-depreciation part.** Currency and the depreciation of currency (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

@@ -37,6 +37,12 @@ Cash flow: the transfers of cash in and out of a business over time, and net cas
 
 **Cash-flow.** The cash flow statement: classifying and presenting a business's cash movements for the period (Fiji's book.)
 
+**Cash-flow part.** The statement of cash flows of a limited company: cash and cash equivalents defined, accrual vs cash basis, and the direct and indirect methods (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 guide's sole-proprietorship competency contains no cash flow statement.** The cash flow statement of a sole proprietorship, prepared alongside its income statement and balance sheet (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 guide's partnership competency contains no cash flow statement.** The cash flow statement of a partnership, prepared with its balance sheet (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement, the cash flow statement, the cash flow statement. Your companion asks one question back — answer it from the lesson.

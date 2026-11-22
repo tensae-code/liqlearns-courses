@@ -1,6 +1,6 @@
 # Sources — Control Accounts
 
-countries: Samoa, Malaysia, Papua New Guinea, Fiji
+countries: Samoa, Malaysia, Papua New Guinea, Fiji, Sri Lanka
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -10,15 +10,20 @@ countries: Samoa, Malaysia, Papua New Guinea, Fiji
 
 **Book 4:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
 
+**Book 5:** Full title: *Accounting, Grade 12 — Teacher's Guide (To be implemented from 2017)*, G.C.E. (Advanced Level) Publisher: Department of Commerce (cover: Department of Business Studies), Faculty of Science and Technology, National Institute of Education, Maharagama; First Edition 2017, © National Institute of Education, Maharagama; published by the Educational Publications Department, printed at Savinda Graphic Systems (Pvt) Ltd, Homagama Grade: 12 · Language: English · Pages: 257 PDF pp.; body printed pp. 1–238 (printed folio = PDF page − 19) Source: manifest `manifests-phase2/sri-lanka.json` n=3, route `tree`, fetched 1,846,306 bytes = expected; fetched as `scratch-phase2/sri-lanka/accounting-2017-english.pdf` (deleted after filing) Verified: cover and imprint read visually from renders (PDF pp. 1 and 3) — "Grade 12 Accounting, Teacher's Guide (To be implemented from 2017)", NIE; imprint "First Edition 2017". The guide's own instructions leaf (printed p. xiii) states it is the Grade 12 Teacher's Guide for the syllabus implemented from 2017. **What it actually is: a TEACHER GUIDE.** Its embedded text layer is a legacy-font garble (no ToUnicode maps), so the book was read from English OCR of 130-dpi renders. Language-pair note: manifest n=4 ("accounting 2017 tamil", same teacher-guide path) fetched 1,846,306 bytes with MD5 8699cb9de8b135ac74941cce6dc31df3 — byte-identical to this English file. The library's "Tamil" copy is a duplicate of the English guide, not a Tamil version; filed once from the English copy, and the missing Tamil version is recorded as a library debt. Edition relationship: LATEST edition of the Accounting G12 pair (2010 Teacher's Instructional Manual → this 2017 guide), read in full. The 2010 manual was compared section by section; its extras are filed under Book 8. Verdict: read in full. Ten competencies (1.0–10.0): accounting's need and process, the accounting equation, double entry, prime entry books and the ledger, accounting concepts, and the financial statements of a sole proprietorship, a manufacturer, a not-for-profit organisation, incomplete records and a partnership. All ACCOUNTING strand. Contents map: Competency 1.0 Accounting and its need (printed 1); 2.0 The accounting equation (18); 3.0 Double entry (43); 4.0 Prime entry books and the ledger (51); 5.0 Accounting concepts (125); 6.0 Financial statements of a sole proprietorship (157); 7.0 Manufacturing financial statements (179); 8.0 Not-for-profit organisations (187); 9.0 Incomplete records (198); 10.0 Partnership financial statements (204).
+
 | Lesson part | Where it comes from |
 |---|---|
 | control accounts and schedules | Book 1 (Accounting Year 12), printed p. 89 |
 | control part | Book 2 (Prinsip Perakaunan T4), printed p. 169 |
 | debtors and creditors part of the lesson (teacher guide) | Book 3 (PNG Business Studies TG G12 SB (2023)), printed pp. 108–109 |
 | credit-records part of the lesson | Book 4 (Year 12 Accounting), printed p. 162 |
+| control-accounts part (teacher guide) | Book 5 (Accounting G12 TG 2017 (Sri Lanka)), printed p. 99 |
 
 **Acceptance count: taught in 3 countries (Samoa, Malaysia, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: control accounts, kinds of business, accounting, samoa, malaysia, papua-new-guinea, fiji
+Teacher-guide evidence: this lesson also carries evidence from Sri Lanka's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Sri Lanka is not counted in the teaching countries in the acceptance line above for those guide rows.
+
+Searchable tags: control accounts, kinds of business, accounting, samoa, malaysia, papua-new-guinea, fiji, sri-lanka

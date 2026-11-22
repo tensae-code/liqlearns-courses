@@ -93,3 +93,45 @@ b) In international trade the quoted price must state which movement costs the e
 c) Nigeria's book gives the world system: Incoterms 2010. An export price is built from ten cost components, and the…
 d) The divisions of foreign trade: imports, exports and entrepot; bilateral and multilateral trade
 **Answer: d) The divisions of foreign trade: imports, exports and entrepot; bilateral and multilateral trade** — That is what this lesson teaches in its divisions part (Nigeria's book.)
+
+**16.** What does this lesson teach about the foreign-trade part? (Sub lesson 4)
+a) Foreign (international) trade: its benefits and its barriers/obstacles
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Foreign (international) trade: its benefits and its barriers/obstacles** — That is what this lesson teaches in its foreign-trade part part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the entering-trade part? (Sub lesson 4)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Readiness to engage in foreign trade: what entering international trade requires
+**Answer: d) Readiness to engage in foreign trade: what entering international trade requires** — That is what this lesson teaches in its entering-trade part part (Sri Lanka's teacher guide).
+
+**18.** What does this lesson teach about the foreign-trade part? (Sub lesson 4)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Foreign trade: import trade and export trade defined and distinguished
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Foreign trade: import trade and export trade defined and distinguished** — That is what this lesson teaches in its foreign-trade part part (Sri Lanka's book).
+
+**19.** What does this lesson teach about the international-trade part? (Sub lesson 4)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) International trade: trade between countries and its importance to Sri Lanka
+**Answer: d) International trade: trade between countries and its importance to Sri Lanka** — That is what this lesson teaches in its international-trade part part (Sri Lanka's book).
+
+**20.** What does this lesson teach about the trade part? (Sub lesson 4)
+a) Trade divided into home trade and foreign trade, the two branches introduced
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Trade divided into home trade and foreign trade, the two branches introduced** — That is what this lesson teaches in its trade part part (Sri Lanka's book).
+
+**21.** What does this lesson teach about the foreign-trade part? (Sub lesson 4)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Foreign trade proper: the export and import branches diagrammed, with the parties who carry each on
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Foreign trade proper: the export and import branches diagrammed, with the parties who carry each on** — That is what this lesson teaches in its foreign-trade part part (Sri Lanka's book).

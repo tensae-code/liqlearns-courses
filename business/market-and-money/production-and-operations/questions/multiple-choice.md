@@ -172,3 +172,31 @@ b) The multi-member limited liability company (2–50 members): members are liab
 c) Organising a small enterprise's operations in three stages: (1) prepare the production inputs — recruit the…
 d) What a personal financial plan is and its kinds by time horizon: a plan of income and spending that manages a…
 **Answer: c) Organising a small enterprise's operations in three stages: (1) prepare the production inputs — recruit the…** — That is what this lesson teaches in its production and operations part (Vietnam's book).
+
+**27.** What does this lesson teach about the operations-introduction part? (Sub lesson 4)
+a) Operations management: converting inputs into outputs in goods and service businesses, and the managerial acti…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Operations management: converting inputs into outputs in goods and service businesses, and the managerial acti…** — That is what this lesson teaches in its operations-introduction part part (Sri Lanka's teacher guide).
+
+**28.** What does this lesson teach about the production-methods part? (Sub lesson 4)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Production methods: job (one-off), batch and flow production, and choosing the suitable method
+**Answer: d) Production methods: job (one-off), batch and flow production, and choosing the suitable method** — That is what this lesson teaches in its production-methods part part (Sri Lanka's teacher guide).
+
+**29.** What does this lesson teach about the production part? (Sub lesson 4)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Production: the factors of production (land, labour, capital, organisation)
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Production: the factors of production (land, labour, capital, organisation)** — That is what this lesson teaches in its production part part (Sri Lanka's book).
+
+**30.** What does this lesson teach about the industry part? (Sub lesson 4)
+a) Trade associations and institutions: chambers and associations that serve trade
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Industry: the division of labour and how industries combine
+**Answer: d) Industry: the division of labour and how industries combine** — That is what this lesson teaches in its industry part part (Sri Lanka's book).

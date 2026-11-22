@@ -203,6 +203,32 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Worked-example part.** Time-use teaching with a worked example: building a timetable of your activities shows which activities are necessary and which are not; worked example — a secretary's day timetable (date, time, goal, activity, result: travel to work 7:00, prepare meeting documents 7:30, attend the meeting 8:00…). (Laos's teacher guide.)
 
+**Definition part.** What management is: the classic definitions (Follett, Stoner & Freeman, Kreitner) built into one working definition — planning, organising, leading and controlling resources efficiently and effectively in a dynamic business environment — and why management is necessary (teacher guide) (Sri Lanka's teacher guide.)
+
+**Managerial-roles part.** The roles of a manager (interpersonal, informational and decisional roles and the functions inside them) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Levels-and-skills part.** The three management levels (top, middle, first-line) — what each level decides and supervises — and the management skills each level needs (teacher guide) (Sri Lanka's teacher guide.)
+
+**Process part.** The management process: the four basic functions — planning, organising, leading, controlling — examined as one process (teacher guide) (Sri Lanka's teacher guide.)
+
+**Decision-making part.** Formal decision making and problem solving: identifying and analysing the problem, forming alternatives, evaluating them (acceptability, affordability, practicability, legality, morality), selecting the best, planning its implementation, evaluation and feedback (teacher guide) (Sri Lanka's teacher guide.)
+
+**Planning part.** Planning to achieve goals: definitions of planning, the planning process (aims, objectives and strategies, environment analysis incl. SWOT, resource analysis, performance gap, strategic decisions, implementation, measuring success) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Organising part.** Organising: allocating work, authority and resources; the steps of organising (recognising tasks, division of work, departmentalisation, delegation, work standards, resource allocation, co-ordination) and job specialisation (teacher guide) (Sri Lanka's teacher guide.)
+
+**Organising-concepts part.** The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide), authority and the sources of power (legitimate, expert, reward, coercive, charismatic) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Leadership part.** Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who implement plans (teacher guide) (Sri Lanka's teacher guide.)
+
+**Motivation part.** Motivation as part of leading: financial and non-financial methods of motivating employees, with examples of each (teacher guide) (Sri Lanka's teacher guide.)
+
+**Controlling part.** Controlling: comparing actual performance with what was expected, and the types of control (feedforward, concurrent, feedback) that confirm whether goals are achieved (teacher guide) (Sri Lanka's teacher guide.)
+
+**Introduction part.** Management introduced: what management is (Sri Lanka's book.)
+
+**Functions part.** The functions of management (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

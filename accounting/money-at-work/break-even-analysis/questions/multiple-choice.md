@@ -64,3 +64,24 @@ b) Your values, interests and experience, and how they bear on the career and th
 c) Sensitivity analysis: the market rarely allows price rises, and at 80–90% of break-even sales the business…
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: c) Sensitivity analysis: the market rarely allows price rises, and at 80–90% of break-even sales the business…** — That is what this lesson teaches in its sensitivity part part (Laos's book).
+
+**10.** What does this lesson teach about the cost-behaviour part?
+a) Cost behaviour for short-term decisions: fixed and variable costs, contribution, contribution/sales (P/V) rati…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Cost behaviour for short-term decisions: fixed and variable costs, contribution, contribution/sales (P/V) rati…** — That is what this lesson teaches in its cost-behaviour part part (Sri Lanka's teacher guide).
+
+**11.** What does this lesson teach about the CVP-application part?
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Using cost-volume-profit analysis to support managerial decisions
+**Answer: d) Using cost-volume-profit analysis to support managerial decisions** — That is what this lesson teaches in its CVP-application part part (Sri Lanka's teacher guide).
+
+**12.** What does this lesson teach about the break-even part?
+a) Business ethics and why a code of ethics is necessary for a business's success
+b) Break-even: fixed and variable costs, total revenue against total cost, and calculating the break-even point
+c) Sole proprietorship: characteristics, advantages and limitations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Break-even: fixed and variable costs, total revenue against total cost, and calculating the break-even point** — That is what this lesson teaches in its break-even part part (Sri Lanka's teacher guide).

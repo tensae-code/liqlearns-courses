@@ -83,6 +83,22 @@ Two shops each made a profit of 10,000 — but one used capital of 20,000 and th
 
 **Analysis.** Analysing and interpreting periodic accounting statements (Fiji's book.)
 
+**Ratio-introduction part.** Why financial statements are analysed and interpreted for management decisions, and the classification of ratios (liquidity, leverage, profitability, efficiency, investor) with comparison against previous years and similar businesses (teacher guide) (Sri Lanka's teacher guide.)
+
+**Liquidity part.** Liquidity ratios: current ratio and quick ratio, calculated and interpreted (teacher guide) (Sri Lanka's teacher guide.)
+
+**Leverage part.** Leverage ratios: debt ratio, debt-equity ratio and interest coverage ratio, calculated and interpreted (teacher guide) (Sri Lanka's teacher guide.)
+
+**Profitability part.** Profitability ratios: gross profit ratio, net profit ratio, return on assets and return on equity, calculated and interpreted (teacher guide) (Sri Lanka's teacher guide.)
+
+**Efficiency part.** Efficiency ratios: inventory turnover and inventory holding period, debtors' turnover and debtors' collection period, calculated and interpreted (teacher guide) (Sri Lanka's teacher guide.)
+
+**Investor part.** Investor ratios: earnings per share and dividend per share, calculated and interpreted (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2018 guide's ratio competency has no cash-flow-ratio level.** Cash flow ratios: cash flow adequacy ratio, debt coverage ratio and cash re-investment ratio, calculated from the cash flow statement and interpreted for decisions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Ratio-analysis part.** Analysing a business's financial position using financial ratios (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: ratios and percentages read the financial statements: one figure set against another judges profitability, liquidity and efficiency, and lets a business be compared across years and against other businesses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed accounting-ratios lesson (same proposal as filed from the Nigeria book), proposed accounting-ratios lesson, opening part of the new lesson, calculation part, calculation and interpretation part, comparison part of the new lesson, ratio part of the new lesson, judgement part of the new lesso, financial statement analysis and ratios, financial statement analysis and ratios, financial statement analysis and ratios. Your companion asks one question back — answer it from the lesson.

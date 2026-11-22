@@ -37,11 +37,13 @@ sources.
 27. Investment Property — `kinds-of-business/investment-property-accounting/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
 28. Intangible Assets — `kinds-of-business/intangible-assets-accounting/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
 29. Government Grants — `kinds-of-business/government-grants-accounting/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
-30. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
-31. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
-32. Taxation Accounting — `money-at-work/taxation-accounting/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
-33. Cash Budgets — `money-at-work/cash-budgets/`
-34. Budgeting and Variance Analysis — `money-at-work/budgeting-and-variance-analysis/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
-35. Break-even Analysis — `money-at-work/break-even-analysis/`
-36. Computerised Accounting — `money-at-work/computerised-accounting/`
-37. Investment Accounts — `money-at-work/investment-accounts/` — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)
+30. Accounting for Leases — `kinds-of-business/accounting-for-leases/` — NEW, built from Sri Lanka (Phase 3 merge, 2026-11-22); founding evidence is teacher-guide material (acceptance 0)
+31. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
+32. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
+33. Taxation Accounting — `money-at-work/taxation-accounting/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
+34. Cash Budgets — `money-at-work/cash-budgets/`
+35. Budgeting and Variance Analysis — `money-at-work/budgeting-and-variance-analysis/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
+36. Break-even Analysis — `money-at-work/break-even-analysis/`
+37. Capital Investment Appraisal — `money-at-work/capital-investment-appraisal/` — NEW, built from Sri Lanka (Phase 3 merge, 2026-11-22); founding evidence is teacher-guide material (acceptance 0)
+38. Computerised Accounting — `money-at-work/computerised-accounting/`
+39. Investment Accounts — `money-at-work/investment-accounts/` — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)

@@ -41,6 +41,14 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 
 **Wholesaler.** Wholesalers and the functions of the producer in the home-trade chain (Nigeria's book.)
 
+**Wholesale part.** How wholesale trade takes place (teacher guide) (Sri Lanka's teacher guide.)
+
+**Wholesale part.** Wholesale trade: buying in bulk for resale, the wholesaler's characteristics (large quantities, selected goods, lower unit prices, trade discounts) (Sri Lanka's book.)
+
+**Wholesale part.** Wholesale trade: the wholesaler's place between producer and retailer (Sri Lanka's book.)
+
+**Wholesale part.** Wholesale trade: what a wholesaler does, wholesale organisation and agents, and the standing question whether the wholesaler is necessary (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the wholesaler stands in the middle of the chain of distribution — buying in bulk from producers and selling on to retailers — and every middleman in the chain does real work and adds a real charge. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the channel patterns, the channels kenyan goods follow, the chain drawn whole, the taro chain, wholesale trade. Your companion asks one question back — answer it from the lesson.

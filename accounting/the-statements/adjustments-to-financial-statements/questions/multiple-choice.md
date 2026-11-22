@@ -118,3 +118,59 @@ b) Balance day adjustments under accrual accounting: why adjustments are made at
 c) Balance-day adjustments exist because business does not stop at midnight on balance day: amounts owed, amounts…
 d) Capital expenditure (buying/creating an asset that stays and earns future revenue; goes to the position statement)…
 **Answer: b) Balance day adjustments under accrual accounting: why adjustments are made at period end to match costs against…** — That is what this lesson teaches in its adjustments part (Fiji's book.)
+
+**18.** What does this lesson teach about the policies-and-estimates part? (Sub lesson 2)
+a) Accounting policies, changes in accounting estimates and prior-period errors under LKAS 8: definitions, how a…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Preparing a limited company's financial statements: statement of profit or loss and other comprehensive income…
+**Answer: a) Accounting policies, changes in accounting estimates and prior-period errors under LKAS 8: definitions, how a…** — That is what this lesson teaches in its policies-and-estimates part part (Sri Lanka's teacher guide).
+
+**19.** What does this lesson teach about the inventory-valuation part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Inventories under LKAS 2: what inventory is (finished goods, work in progress, raw materials), the elements of…
+**Answer: d) Inventories under LKAS 2: what inventory is (finished goods, work in progress, raw materials), the elements of…** — That is what this lesson teaches in its inventory-valuation part part (Sri Lanka's teacher guide).
+
+**20.** What does this lesson teach about the adjustments part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The adjustments inside a sole trader's statements: accrued and prepaid amounts, closing inventory, bad debts a…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The adjustments inside a sole trader's statements: accrued and prepaid amounts, closing inventory, bad debts a…** — That is what this lesson teaches in its adjustments part part (Sri Lanka's teacher guide).
+
+**21.** What does this lesson teach about the the 2017 G12 guide has no inventory competency? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Inventory concepts under SLAS 5: inventory defined (held for resale, in production, materials/supplies), categ…
+**Answer: d) Inventory concepts under SLAS 5: inventory defined (held for resale, in production, materials/supplies), categ…** — That is what this lesson teaches in its the 2017 G12 guide has no inventory competency part (Sri Lanka's teacher guide).
+
+**22.** What does this lesson teach about the absent from the 2017 G12 guide? (Sub lesson 2)
+a) Measuring inventory: why measurement is needed, the cost techniques (standard cost, retail method, FIFO and we…
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) Production cost introduced: what production cost is
+**Answer: a) Measuring inventory: why measurement is needed, the cost techniques (standard cost, retail method, FIFO and we…** — That is what this lesson teaches in its absent from the 2017 G12 guide part (Sri Lanka's teacher guide).
+
+**23.** What does this lesson teach about the adjustments introduction? (Sub lesson 2)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Adjusting entries introduced: why financial statements need adjustment entries before they are final
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Adjusting entries introduced: why financial statements need adjustment entries before they are final** — That is what this lesson teaches in its adjustments introduction part (Sri Lanka's book).
+
+**24.** What does this lesson teach about the accruals part? (Sub lesson 2)
+a) Recording adjusting entries: accrued/outstanding expenses and accrued income
+b) The prudence, materiality, substance over form, disclosure and consistency concepts, each applied
+c) The other services rendered by commercial banks
+d) The special transactions of partnership businesses (interest on capital and drawings, partner salaries and loa…
+**Answer: a) Recording adjusting entries: accrued/outstanding expenses and accrued income** — That is what this lesson teaches in its accruals part part (Sri Lanka's book).
+
+**25.** What does this lesson teach about the stock-valuation part? (Sub lesson 2)
+a) The valuation of stock
+b) Creating a suitable brand (and trademark) for a product
+c) The cash flow statement of a partnership, prepared with its balance sheet
+d) Foreign exchange: the exchange rate and the exchange market
+**Answer: a) The valuation of stock** — That is what this lesson teaches in its stock-valuation part part (Sri Lanka's book).

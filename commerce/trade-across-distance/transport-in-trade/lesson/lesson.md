@@ -33,6 +33,20 @@ Multimodal vs intermodal transport: multimodal — one specialist carrier contra
 
 **Documents.** Containerisation and the documents used in connection with transportation (Nigeria's book.)
 
+**Transport-introduction part.** Transport's contribution to business: getting transport's contribution effectively (teacher guide) (Sri Lanka's teacher guide.)
+
+**Modes part.** Selecting a suitable mode and method of transportation (teacher guide) (Sri Lanka's teacher guide.)
+
+**Logistics part.** Logistics and its contribution to business success (teacher guide) (Sri Lanka's teacher guide.)
+
+**Transport part.** The transport service: the basic elements of transport (way, mode, power), choosing a suitable means of transport, and the modes (road, rail, water, air) with their advantages and disadvantages (Sri Lanka's book.)
+
+**Transport part.** Transport as an aid to trade (Sri Lanka's book.)
+
+**Land-transport part.** Land transport: rail and road carriage of goods (Sri Lanka's book.)
+
+**Water-and-air part.** Water and air transport: canals, rivers, sea and air carriage (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: distribution is an aid to trade that lives or dies on transport: goods move direct, or through retailers and wholesalers — and where shipping is slow or missed, a shortage can force a trader onto expensive air-freight. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution and the shipping schedule. Your companion asks one question back — answer it from the lesson.

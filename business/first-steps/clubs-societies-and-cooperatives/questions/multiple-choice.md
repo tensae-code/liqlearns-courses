@@ -101,3 +101,17 @@ b) Assessing a risk situation and taking risks rationally: the businessperson we
 c) Strengths of small businesses (the owner bears profit and loss directly; higher flexibility than large firms)…
 d) Benefits of doing business as a group/cooperative: joint bulk purchasing of raw materials brings lower prices…
 **Answer: d) Benefits of doing business as a group/cooperative: joint bulk purchasing of raw materials brings lower prices…** — That is what this lesson teaches in its group-benefits part part (Laos's book).
+
+**16.** What does this lesson teach about the co-operatives part?
+a) The co-operative business sector: what a co-operative is, its significance and modern trends
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The co-operative business sector: what a co-operative is, its significance and modern trends** — That is what this lesson teaches in its co-operatives part part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the co-operatives part?
+a) Trade associations and institutions: chambers and associations that serve trade
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Co-operative companies: their start, registration and working
+**Answer: d) Co-operative companies: their start, registration and working** — That is what this lesson teaches in its co-operatives part part (Sri Lanka's book).

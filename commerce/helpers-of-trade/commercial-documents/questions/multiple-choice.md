@@ -88,3 +88,24 @@ b) Then the goods move, and the papers move with them: the invoice — its conte
 c) The documents used in home trade
 d) Deals go wrong and then close, on paper: credit notes and debit notes, from seller and from buyer, correct the…
 **Answer: c) The documents used in home trade** — That is what this lesson teaches in its documents part (Nigeria's book.)
+
+**15.** What does this lesson teach about the trade-documents part? (Sub lesson 3)
+a) The documents used in trade: the papers that record and evidence buying and selling
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The documents used in trade: the papers that record and evidence buying and selling** — That is what this lesson teaches in its trade-documents part part (Sri Lanka's book).
+
+**16.** What does this lesson teach about the trade-documents part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The documents used in the export and import trades
+**Answer: d) The documents used in the export and import trades** — That is what this lesson teaches in its trade-documents part part (Sri Lanka's book).
+
+**17.** What does this lesson teach about the documents part? (Sub lesson 3)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Invoices, statements of account and receipts: the papers of a sale
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Invoices, statements of account and receipts: the papers of a sale** — That is what this lesson teaches in its documents part part (Sri Lanka's book).

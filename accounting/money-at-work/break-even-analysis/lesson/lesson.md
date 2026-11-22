@@ -24,6 +24,12 @@ Break-even analysis: contribution margin per unit, break-even point in units and
 
 **Teaching part.** The teacher's explanation of break-even movement: how the break-even point moves when sales revenue or costs change, worked with examples of sales revenue and direct and indirect costs. (Laos's teacher guide.)
 
+**Cost-behaviour part.** Cost behaviour for short-term decisions: fixed and variable costs, contribution, contribution/sales (P/V) ratio, and the CVP family (break-even point, margin of safety, profit/loss equations, sensitivity analysis) by mathematical and graphical approaches (teacher guide) (Sri Lanka's teacher guide.)
+
+**CVP-application part.** Using cost-volume-profit analysis to support managerial decisions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Break-even part.** Break-even: fixed and variable costs, total revenue against total cost, and calculating the break-even point (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: break-even analysis finds the output where contribution exactly covers fixed costs — the break-even point — and the output needed for a target profit. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson. Your companion asks one question back — answer it from the lesson.

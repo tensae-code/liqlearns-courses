@@ -26,6 +26,12 @@ The limits of the trial balance: the errors that make it disagree (partial omiss
 
 **Statements after correction part.** Financial statements after the correction of errors (Penyata Kewangan Selepas Pembetulan Kesilapan): the statements are prepared after the adjusted trial balance; the correction of errors gives an effect inside the financial statements; and if a correction is not taken into account in the previous financial year, it gives an effect on the profit or loss of the current financial year (Malaysia's book.)
 
+**Error-correction part.** Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) and retrospective restatement as the correction method (teacher guide) (Sri Lanka's teacher guide.)
+
+**Error-rectification part.** Rectifying the errors that occur in recording transactions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Errors part.** Correction of errors: finding and correcting mistakes in the books (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: some errors make the trial balance disagree and some hide even when it balances; each kind is found and corrected in its own way, often through the journal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: errors part of the lesson, correcting errors, correcting errors, correcting errors, correcting errors, correcting errors. Your companion asks one question back — answer it from the lesson.

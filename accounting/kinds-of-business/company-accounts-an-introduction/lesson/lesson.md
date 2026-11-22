@@ -70,6 +70,18 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Balance-sheet.** Sources of finance and the balance sheet: liabilities and external borrowing, and the balance sheet itself (Nigeria's book.)
 
+**Company-background part.** The legal background of limited liability companies: Companies Act No. 7 of 2007, classification of companies (limited by shares/guarantee, private, public, off-shore, foreign), types of shares (ordinary, preference, special) and stated capital (teacher guide) (Sri Lanka's teacher guide.)
+
+**Share-issue part.** Issuing shares for cash collected at once: IPO vs secondary offer, the share-issue and stated-capital journal entries, and pro-rata allotment with refunds when applications exceed the issue (teacher guide) (Sri Lanka's teacher guide.)
+
+**Rights-and-bonus-issues part.** Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bonus issues) from revaluation reserve, general reserve and retained earnings (teacher guide) (Sri Lanka's teacher guide.)
+
+**Company-statements part.** Preparing a limited company's financial statements: statement of profit or loss and other comprehensive income, statement of financial position, statement of changes in equity, accounting policies and notes, under the Companies Act, the standards and the Inland Revenue Act (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2018 guide expressly excludes instalment collection from the syllabus; this is the earlier edition's extra.** Issuing shares when the consideration is collected in instalments — on application, on allotment and on calls under s.55 Companies Act, with rejection/refund and pro-rata allocation of excess applications and setting excess application money against allotment/calls (teacher guide) (Sri Lanka's teacher guide.)
+
+**Absent from the 2018 guide.** Shares in arrears and their resale: the company's lien on shares whose call money is unpaid, the board's power to resell after due notice, deducting arrears, interest and resale expenses from the proceeds, paying the balance (capped at what he paid) to the original holder and transferring the remainder to stated capital (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.

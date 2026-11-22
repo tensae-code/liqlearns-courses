@@ -160,6 +160,28 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 **Concepts.** Accounting concepts: the concepts accounting work rests on (Fiji's book.)
 
+**Standards-framework part.** Why accounting standards exist and their legal background in Sri Lanka: the Accounting and Auditing Standards Act No. 15 of 1995, the Standards Committee and Monitoring Board, and the map of the standards the course uses (LKAS 1, 2, 7, 8, 10, 16, 18, 37; SLFRS 16) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Framework part.** The conceptual framework for financial reporting: objectives of general-purpose financial statements, users, qualitative characteristics, the elements (assets, liabilities, equity, income, expenses), recognition and measurement, going concern (teacher guide) (Sri Lanka's teacher guide.)
+
+**Branches-of-accounting part.** Management accounting set against financial accounting: users, nature of information, legal requirement, time focus, use of accepted principles, and management accounting's role of supplying information for decisions (teacher guide) (Sri Lanka's teacher guide.)
+
+**Introduction part.** What accounting is and why it is needed: the AAA and AICPA definitions built into one working definition, accounting's objective, the stakeholders of a business and the information each needs, and the classification into financial and management accounting (teacher guide) (Sri Lanka's teacher guide.)
+
+**Environment part.** The accounting environment and the changes and trends in accounting: economic/political, technical/professional, legal, social/cultural and technological factors and their effect on accounting (teacher guide) (Sri Lanka's teacher guide.)
+
+**Concepts-introduction part.** The accounting concepts as the basis of accounting: what they are and how they are analysed and applied (teacher guide) (Sri Lanka's teacher guide.)
+
+**Basic-concepts part.** The entity, going concern, money measurement and periodic concepts, each applied (teacher guide) (Sri Lanka's teacher guide.)
+
+**Measurement-concepts part.** The accrual, realization, matching and historical cost concepts, each applied (teacher guide) (Sri Lanka's teacher guide.)
+
+**Presentation-concepts part.** The prudence, materiality, substance over form, disclosure and consistency concepts, each applied (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 G12 guide's concepts competency has no framework level.** The conceptual framework of financial accounting: a system of principles determining the nature, role and limitations of financial accounting and financial statements, and its structure and elements (teacher guide) (Sri Lanka's teacher guide.)
+
+**Need-for-records part.** Why transactions must be recorded: a business cannot remember or prove its dealings without records (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part of the lesson, opening part, users-of-information part, uses part, concepts part of the lesson, opening / what accounting is, who does accounting / specialisations, users of accounting information, financial vs non-financial information, source documents in everyday life, accounting con, what accounting is, the standards accounting follows, what accounting is for, who uses accounting information, the concepts accounting rests on, what accounting is, what accounting is, what accounting is, the framework accounting follows, who uses accounting information, the principles accounting rests on. Your companion asks one question back — answer it from the lesson.

@@ -42,6 +42,14 @@ Take a pretend purchase: 100 exercise books for a shop. Write a price, then ask 
 
 **Answer/teaching part.** Supplier selection carried to its closing steps: step 4 choose the best supplier; on delivery, check the type and quality of the goods before leaving the shop, check the delivery note or invoice against your order, confirm everything ordered arrived on time, report any error to the supplier at once, and do not sign the delivery note or pay for the goods until the problem is fixed. (Laos's teacher guide.)
 
+**Distribution-methods part.** Methods of distribution: the channels by which goods move from producer to consumer, directly and through intermediaries (Sri Lanka's book.)
+
+**Buying-and-selling part.** Buying and selling of goods: how a purchase is made and completed, from enquiry and quotation to order (Sri Lanka's book.)
+
+**Buying-and-selling part.** Buying and selling: how purchases and sales are made and completed (Sri Lanka's book.)
+
+**Agents part.** Mercantile agents: the sole agent and the general agent who sell goods for a principal (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying and selling run on agreed terms — the discounts of trade, the quoted price and what it covers, and the moment payment is due — and the trader who knows the terms knows the real price. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the three discounts of trade, cash discount against trade discount, quoted prices in home trade, the timing of payment. Your companion asks one question back — answer it from the lesson.

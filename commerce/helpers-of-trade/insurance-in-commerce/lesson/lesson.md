@@ -54,6 +54,22 @@ Imagine a fire takes a trader's whole stock in one night. Alone, he is ruined. N
 
 **Risks.** The other forms of indemnity insurance, the categories of risk (pure versus speculative, fundamental versus particular), and the importance of insurance (Nigeria's book.)
 
+**Insurance-introduction part.** Insurance and its importance for the existence of businesses (teacher guide) (Sri Lanka's teacher guide.)
+
+**Principles part.** The principles of insurance that govern its practical use (teacher guide) (Sri Lanka's teacher guide.)
+
+**Policy-types part.** The types of insurance policies covering the various risks of a business (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 guide dropped this level; it is the pair's only teaching of the insurance market's parties.** The parties in the insurance market: the Sri Lanka Insurance Board (registration of companies and brokers, supervision, policy advice), insurance companies registered under Act No. 43 of 2003, insurance brokers as middlemen between insurer and insured (incl. reinsurance, earning brokerage), and insurance agents (teacher guide) (Sri Lanka's teacher guide.)
+
+**Insurance part.** The insurance service as an auxiliary service of trade (Sri Lanka's book.)
+
+**Insurance part.** Insurance (காப்புறுதி) as an aid to trade, its kinds worked through the chapter (Sri Lanka's book.)
+
+**Insurance part.** Insurance: life, marine, fire and accident insurance (Sri Lanka's book.)
+
+**Marine part.** Marine insurance worked in depth, including general average (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is pooled protection: many pay small premiums into one fund, and the fund pays the few who suffer the loss — governed by insurable interest, indemnity and utmost good faith. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: insurance as pooled protection, the three principles, the policy family, sorted three ways, life assurance in depth. Your companion asks one question back — answer it from the lesson.

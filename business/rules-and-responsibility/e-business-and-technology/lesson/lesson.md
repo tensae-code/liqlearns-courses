@@ -159,6 +159,20 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Technology part.** Using technology in a small business: technology keeps changing consumer needs and businesses use it to produce goods and services; appropriate technology is simple to use, effective for the user's purpose, and locally available. (Laos's book.)
 
+**Data-and-information part.** Data, data processing and information: classifying information by examining how data is processed into it (teacher guide) (Sri Lanka's teacher guide.)
+
+**IS-role part.** The importance and role of information systems in a business (teacher guide) (Sri Lanka's teacher guide.)
+
+**IS-by-level part.** Information systems classified by the management level they serve (teacher guide) (Sri Lanka's teacher guide.)
+
+**IS-by-usage part.** Information systems classified by usage (teacher guide) (Sri Lanka's teacher guide.)
+
+**IS-by-function part.** Information systems classified by management function, and the benefits of information technology examined (teacher guide) (Sri Lanka's teacher guide.)
+
+**Internet part.** Using the internet (and computer networks) to communicate information in business (teacher guide) (Sri Lanka's teacher guide.)
+
+**E-commerce part.** Electronic commerce (e-commerce) and its contribution to business and trade (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

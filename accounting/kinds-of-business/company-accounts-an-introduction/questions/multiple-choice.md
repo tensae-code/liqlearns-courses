@@ -92,3 +92,31 @@ b) Sources of finance and the balance sheet: liabilities and external borrowing,
 c) Shares and stock: what a share is, and ordinary versus preference shares compared on dividends, assets on…
 d) The kinds of preference shares: convertible, cumulative, participating and redeemable.
 **Answer: b) Sources of finance and the balance sheet: liabilities and external borrowing, and the balance sheet itself** — That is what this lesson teaches in its balance-sheet part (Nigeria's book.)
+
+**14.** What does this lesson teach about the company-background part? (Sub lesson 2)
+a) The legal background of limited liability companies: Companies Act No. 7 of 2007, classification of companies…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Preparing a limited company's financial statements: statement of profit or loss and other comprehensive income…
+**Answer: a) The legal background of limited liability companies: Companies Act No. 7 of 2007, classification of companies…** — That is what this lesson teaches in its company-background part part (Sri Lanka's teacher guide).
+
+**15.** What does this lesson teach about the share-issue part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Issuing shares for cash collected at once: IPO vs secondary offer, the share-issue and stated-capital journal…
+**Answer: d) Issuing shares for cash collected at once: IPO vs secondary offer, the share-issue and stated-capital journal…** — That is what this lesson teaches in its share-issue part part (Sri Lanka's teacher guide).
+
+**16.** What does this lesson teach about the the 2018 guide expressly excludes instalment collection from the syllabus; this is the earlier edition's extra? (Sub lesson 2)
+a) Business ethics and why a code of ethics is necessary for a business's success
+b) Issuing shares when the consideration is collected in instalments — on application, on allotment and on calls…
+c) Sole proprietorship: characteristics, advantages and limitations
+d) Controlling: comparing actual performance with what was expected, and the types of control (feedforward, concu…
+**Answer: b) Issuing shares when the consideration is collected in instalments — on application, on allotment and on calls…** — That is what this lesson teaches in its the 2018 guide expressly excludes instalment collection from the syllabus; this is the earlier edition's extra part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the absent from the 2018 guide? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) How government intervenes in businesses
+d) Shares in arrears and their resale: the company's lien on shares whose call money is unpaid, the board's power…
+**Answer: d) Shares in arrears and their resale: the company's lien on shares whose call money is unpaid, the board's power…** — That is what this lesson teaches in its absent from the 2018 guide part (Sri Lanka's teacher guide).

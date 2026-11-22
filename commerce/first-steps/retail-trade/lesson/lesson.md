@@ -34,6 +34,14 @@ Methods of retailing compared: shops (convenience shops, supermarkets), departme
 
 **Retail trade.** Retail with a shop as a small-enterprise field: the small firm trades through its own shopfront, either as a general store carrying many kinds of goods or as a specialist shop (stationery, computers, building materials, electrical and plumbing goods, furniture). (Vietnam's book.)
 
+**Retail part.** How retail trade takes place, and selecting retail shops that satisfy needs (teacher guide) (Sri Lanka's teacher guide.)
+
+**Retail part.** Retail trade: selling goods and services for final consumption, the retailer, retail trade's characteristics and the types of retail outlets from small shops to large-scale stores (Sri Lanka's book.)
+
+**Retail part.** Retail trade: the retailer and retail selling to the final consumer (Sri Lanka's book.)
+
+**Retail part.** Retail trade and its kinds, classified in a diagram (small shops, department stores, multiple shops and the rest) (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.

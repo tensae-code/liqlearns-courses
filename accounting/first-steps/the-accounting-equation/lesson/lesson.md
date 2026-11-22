@@ -71,6 +71,12 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Elements.** Strand 2 Unit 2: the elements of accounting — asset, liabilities, owner's equity, revenue, expense — each defined with examples (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Equation part.** The accounting equation: business entity and money measurement as its basis, the elements (assets, liabilities, equity) and the dual effect of transactions on them (teacher guide) (Sri Lanka's teacher guide.)
+
+**Equity-changes part.** How equity changes: capital introduced, income, expenses and drawings, and profit as the period's increase in equity (teacher guide) (Sri Lanka's teacher guide.)
+
+**Equation part.** The balance sheet (ஐந்தொகை) inside the dual-nature chapter: assets on one side, capital and liabilities on the other, both sides always equal as transactions change them (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.

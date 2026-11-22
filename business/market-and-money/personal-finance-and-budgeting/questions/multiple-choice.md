@@ -131,3 +131,10 @@ b) The four steps of making a personal financial plan, in the book's own worked 
 c) Bank credit and its forms: a bank lets a customer use a sum of money for a set time on trust that principal…
 d) Retail with a shop as a small-enterprise field: the small firm trades through its own shopfront, either as a…
 **Answer: b) The four steps of making a personal financial plan, in the book's own worked way: (1) set the financial goals…** — That is what this lesson teaches in its personal finance and budgeting part (Vietnam's book).
+
+**21.** What does this lesson teach about the saving part?
+a) Saving: why and how people save
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Saving: why and how people save** — That is what this lesson teaches in its saving part part (Sri Lanka's book).

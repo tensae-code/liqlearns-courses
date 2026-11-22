@@ -43,6 +43,10 @@ Think of the last thing you bought because something persuaded you. Was it a per
 
 **Evaluation.** The advantages and disadvantages of advertisement (Nigeria's book.)
 
+**Advertising part.** Advertising introduced as an aid to trade (Sri Lanka's book.)
+
+**Media part.** The advertising media and kinds of advertising (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the four forms compared, personal selling and public relations, sales promotion, consumer and trade, advertising, advertising and sales promotion. Your companion asks one question back — answer it from the lesson.

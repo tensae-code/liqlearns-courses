@@ -8,6 +8,8 @@ Two traders agree a price for a lorry-load of grain. When the grain arrives, the
 
 **Arbitration.** Contract enforcement in the commodity exchange through margin, the guarantee fund and the arbitration mechanism: traders deposit margin so a bargain cannot simply be walked away from, a guarantee fund stands behind the exchange's trades, and disputes between traders are put to the exchange's own arbitration — decided by people who know the trade — instead of being left to clog the courts (Nigeria's book.)
 
+**Dispute-settlement part.** The trade-dispute settlement custom: the staged path from negotiation through conciliation to arbitration, set out in a diagram (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: when traders fall out over a bargain, the dispute can be settled by arbitration — a trusted decider chosen by the trade itself — and a commodity exchange enforces its contracts through the margin traders deposit, a guarantee fund standing behind every trade, and its own arbitration, so bargains hold and quarrels are decided quickly by people who know the trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: arbitration and trade disputes. Your companion asks one question back — answer it from the lesson.

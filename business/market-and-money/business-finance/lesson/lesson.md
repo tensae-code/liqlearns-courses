@@ -226,6 +226,20 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Answer-key part.** The Buasi case answer key: her spending is worked in two tables — a pre-start period table and a start-up period table — to compute her investment capital and working capital and so her total start-up capital (the method is the guide's teaching; the totals as read by OCR do not reconcile and are not cited). (Laos's teacher guide.)
 
+**Finance-role part.** The role of financial management in a business (teacher guide) (Sri Lanka's teacher guide.)
+
+**Sources-of-finance part.** Alternative sources of finance available to a business, evaluated against the business's financial needs (teacher guide) (Sri Lanka's teacher guide.)
+
+**Investments part.** Alternative investment opportunities for a business's funds, studied and selected (teacher guide) (Sri Lanka's teacher guide.)
+
+**Investment-introduction part.** Investment introduced, and the points to consider when choosing an investment avenue (Sri Lanka's book.)
+
+**Investment-avenues part.** The various types of investment avenues and the benefits obtained through them (Sri Lanka's book.)
+
+**Capital part.** Capital: the function of capital and how capital is raised (Sri Lanka's book.)
+
+**Industry-and-finance part.** Industry and finance: how industry is financed (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

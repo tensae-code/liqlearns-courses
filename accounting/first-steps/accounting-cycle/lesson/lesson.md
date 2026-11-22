@@ -42,6 +42,8 @@ The accounting cycle closed out: preparing the financial statements and the repo
 
 **Cycle.** The accounting process as a whole: its stages from transaction to statements (Fiji's book.)
 
+**Process part.** Accounting as a process: inputs (transactions and events on prime documents such as receipts and payment vouchers) → recording in books of prime entry → posting to the ledger → trial balance → outputs (income statement, statement of financial position, statement of changes in equity, cash flow statement, policies and notes) (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.

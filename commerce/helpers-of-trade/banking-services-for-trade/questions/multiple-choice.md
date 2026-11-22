@@ -178,3 +178,66 @@ b) The 5 Cs of credit as this book names them: character (the borrower's persona
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: b) The 5 Cs of credit as this book names them: character (the borrower's personal wealth is examined — savings…** — That is what this lesson teaches in its credit-criteria part part (Laos's book).
+
+**29.** What does this lesson teach about the money part? (Sub lesson 5)
+a) Money and its importance in facilitating transactions
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Money and its importance in facilitating transactions** — That is what this lesson teaches in its money part part (Sri Lanka's teacher guide).
+
+**30.** What does this lesson teach about the financial-institutions part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The system of financial institutions that supports business transactions
+**Answer: d) The system of financial institutions that supports business transactions** — That is what this lesson teaches in its financial-institutions part part (Sri Lanka's teacher guide).
+
+**31.** What does this lesson teach about the deposit-services part? (Sub lesson 5)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Banking services connected with deposits: the deposit-related services banks provide to trade
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Banking services connected with deposits: the deposit-related services banks provide to trade** — That is what this lesson teaches in its deposit-services part part (Sri Lanka's book).
+
+**32.** What does this lesson teach about the e-money part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Banking services connected with electronic money
+**Answer: d) Banking services connected with electronic money** — That is what this lesson teaches in its e-money part part (Sri Lanka's book).
+
+**33.** What does this lesson teach about the payment-methods part? (Sub lesson 5)
+a) Domestic methods of payment: paying by cash, by postal money order and by cheque
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Domestic methods of payment: paying by cash, by postal money order and by cheque** — That is what this lesson teaches in its payment-methods part part (Sri Lanka's book).
+
+**34.** What does this lesson teach about the money part? (Sub lesson 5)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Money and bank money: what money is, and bank money as demand deposits in customers' current accounts, drawabl…
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Money and bank money: what money is, and bank money as demand deposits in customers' current accounts, drawabl…** — That is what this lesson teaches in its money part part (Sri Lanka's book).
+
+**35.** What does this lesson teach about the banking-services part? (Sub lesson 5)
+a) The banks' deposit services and the cheque: savings and fixed deposits alongside current accounts, and paying…
+b) The prudence, materiality, substance over form, disclosure and consistency concepts, each applied
+c) The other services rendered by commercial banks
+d) The special transactions of partnership businesses (interest on capital and drawings, partner salaries and loa…
+**Answer: a) The banks' deposit services and the cheque: savings and fixed deposits alongside current accounts, and paying…** — That is what this lesson teaches in its banking-services part part (Sri Lanka's book).
+
+**36.** What does this lesson teach about the money part? (Sub lesson 5)
+a) Money: what money is, Ceylon's currency, coins and notes
+b) Creating a suitable brand (and trademark) for a product
+c) The cash flow statement of a partnership, prepared with its balance sheet
+d) Insurance: life, marine, fire and accident insurance
+**Answer: a) Money: what money is, Ceylon's currency, coins and notes** — That is what this lesson teaches in its money part part (Sri Lanka's book).
+
+**37.** What does this lesson teach about the money-market part? (Sub lesson 5)
+a) The financial plan section: project cost, expected outcomes, estimated cash flow statement and estimated balan…
+b) The money market
+c) Shares in arrears and their resale: the company's lien on shares whose call money is unpaid, the board's power…
+d) Preparing the partnership income statement (with the appropriation of profit) and the statement of financial p…
+**Answer: b) The money market** — That is what this lesson teaches in its money-market part part (Sri Lanka's book).

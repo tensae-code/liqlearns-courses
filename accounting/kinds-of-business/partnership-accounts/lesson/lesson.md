@@ -42,6 +42,16 @@ Two friends run a shop together — one put in more money, one works longer hour
 
 **Balance-sheet.** The balance sheet of a partnership (Nigeria's book.)
 
+**Partnership-law part.** The legal environment of a partnership business (teacher guide) (Sri Lanka's teacher guide.)
+
+**Special-transactions part.** The special transactions of partnership businesses (interest on capital and drawings, partner salaries and loans) evaluated (teacher guide) (Sri Lanka's teacher guide.)
+
+**Partners-equity part.** Partners' equity: how each partner's equity is made up and shown (teacher guide) (Sri Lanka's teacher guide.)
+
+**Partnership-statements part.** Preparing the partnership income statement (with the appropriation of profit) and the statement of financial position (teacher guide) (Sri Lanka's teacher guide.)
+
+**Changes part.** Changes in a partnership: admission and retirement of partners and changes in the profit-sharing ratio, with goodwill adjusted through the capital accounts and a retired partner's share retained as a loan (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: partners share what the business earns by agreement: the appropriation account divides profit through interest on capital, salaries and the agreed ratio, and each partner's capital and current accounts keep their claims apart. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, appropriation part, equity and final-accounts part, dissolution part, partners' capital accounts, partners' current accounts and profit sharing. Your companion asks one question back — answer it from the lesson.

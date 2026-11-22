@@ -193,6 +193,12 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Answer-key part.** Summary answer material: the disadvantages of self-employment (investment money may be lost, uncertainty and low income, long hours, boring daily work, risk, time used, contacts) and the three kinds of reasons for entering business — (a) forced circumstances, (b) practical reasons, (c) emotional/personal reasons. (Laos's teacher guide.)
 
+**Entrepreneurship-introduction part.** Entrepreneurship: its importance and benefits, studied to build the interest in being an entrepreneur (teacher guide) (Sri Lanka's teacher guide.)
+
+**Process part.** The process of entrepreneurship, step by step (teacher guide) (Sri Lanka's teacher guide.)
+
+**Characteristics part.** Entrepreneurial characteristics and competencies, and developing the ability to act as an entrepreneur (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

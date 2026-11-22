@@ -295,6 +295,32 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Forecasting part.** Sales forecasting: build monthly sales up over 12 months; keep separate plans per product or service, and separate plans for wholesale and for bulk retail. (Laos's book.)
 
+**Marketing-concepts part.** The basic concepts marketing rests on (needs, wants, demand, exchange, markets) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Marketing-philosophies part.** The marketing concepts/philosophies compared (production, product, selling, marketing, societal) and selecting the suitable one (teacher guide) (Sri Lanka's teacher guide.)
+
+**Target-market part.** The target market process: segmenting consumers and deciding which segment the product should serve (teacher guide) (Sri Lanka's teacher guide.)
+
+**Marketing-mix part.** The marketing mix and its variables examined from the consumer's point of view (teacher guide) (Sri Lanka's teacher guide.)
+
+**Products part.** Marketable products: the various kinds of products that can be marketed to satisfy consumers (teacher guide) (Sri Lanka's teacher guide.)
+
+**Branding part.** Creating a suitable brand (and trademark) for a product (teacher guide) (Sri Lanka's teacher guide.)
+
+**Packaging part.** Designing an attractive package and label for a product (teacher guide) (Sri Lanka's teacher guide.)
+
+**Pricing part.** Deciding a suitable price for a product: the ways of setting price (teacher guide) (Sri Lanka's teacher guide.)
+
+**Distribution part.** Selecting suitable distribution channels to get products to consumers (teacher guide) (Sri Lanka's teacher guide.)
+
+**Promotion part.** Promotion strategies for marketing a product (teacher guide) (Sri Lanka's teacher guide.)
+
+**Introduction part.** Marketing introduced: a business exists by satisfying consumers' needs and wants with quality goods and services at a fair price, attracting new customers and keeping present ones (Sri Lanka's book.)
+
+**Target-market part.** The target market: choosing the consumer group the marketing will aim at (Sri Lanka's book.)
+
+**Marketing-mix part.** The marketing mix and its variables (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

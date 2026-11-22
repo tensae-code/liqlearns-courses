@@ -83,3 +83,31 @@ b) What a ratio is (one item expressed in relation to another, for assessing per
 c) Converting between mark-up and margin: the same gross profit on different bases, so given the mark-up fraction the…
 d) The liquidity and performance ratios: current (working capital) ratio, rate of stock turnover (cost of sales over…
 **Answer: a) Financial statement analysis: calculating and interpreting the measures that judge a sole trader's performance and…** — That is what this lesson teaches in its analysis part (Fiji's book.)
+
+**13.** What does this lesson teach about the ratio-introduction part? (Sub lesson 2)
+a) Why financial statements are analysed and interpreted for management decisions, and the classification of rati…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Why financial statements are analysed and interpreted for management decisions, and the classification of rati…** — That is what this lesson teaches in its ratio-introduction part part (Sri Lanka's teacher guide).
+
+**14.** What does this lesson teach about the liquidity part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Liquidity ratios: current ratio and quick ratio, calculated and interpreted
+**Answer: d) Liquidity ratios: current ratio and quick ratio, calculated and interpreted** — That is what this lesson teaches in its liquidity part part (Sri Lanka's teacher guide).
+
+**15.** What does this lesson teach about the the 2018 guide's ratio competency has no cash-flow-ratio level? (Sub lesson 2)
+a) Business ethics and why a code of ethics is necessary for a business's success
+b) Cash flow ratios: cash flow adequacy ratio, debt coverage ratio and cash re-investment ratio, calculated from…
+c) Sole proprietorship: characteristics, advantages and limitations
+d) Controlling: comparing actual performance with what was expected, and the types of control (feedforward, concu…
+**Answer: b) Cash flow ratios: cash flow adequacy ratio, debt coverage ratio and cash re-investment ratio, calculated from…** — That is what this lesson teaches in its the 2018 guide's ratio competency has no cash-flow-ratio level part (Sri Lanka's teacher guide).
+
+**16.** What does this lesson teach about the ratio-analysis part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) How government intervenes in businesses
+d) Analysing a business's financial position using financial ratios
+**Answer: d) Analysing a business's financial position using financial ratios** — That is what this lesson teaches in its ratio-analysis part part (Sri Lanka's teacher guide).

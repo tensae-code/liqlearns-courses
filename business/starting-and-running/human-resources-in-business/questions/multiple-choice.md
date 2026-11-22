@@ -100,3 +100,17 @@ b) The three types of business: (1) production/manufacturing (farming, livestock
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: a) Pay and benefits need explicit policies (bonuses, sick leave, annual leave); good wages alone do not satisfy…** — That is what this lesson teaches in its staff-management part part (Laos's book).
+
+**16.** What does this lesson teach about the HRM-introduction part? (Sub lesson 3)
+a) The importance and functions of human resource management
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The importance and functions of human resource management** — That is what this lesson teaches in its HRM-introduction part part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the job-analysis part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Job design and job analysis: why they are necessary before employing people
+**Answer: d) Job design and job analysis: why they are necessary before employing people** — That is what this lesson teaches in its job-analysis part part (Sri Lanka's teacher guide).

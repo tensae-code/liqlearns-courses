@@ -86,6 +86,28 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Case part.** A cautionary hiring case told in the guide: an owner who hired people who looked good at first was cheated by many of them; the guide's practice — check beforehand whether anyone who knows the applicant (especially a former employer) says anything bad about them. (Laos's teacher guide.)
 
+**HRM-introduction part.** The importance and functions of human resource management (teacher guide) (Sri Lanka's teacher guide.)
+
+**Job-analysis part.** Job design and job analysis: why they are necessary before employing people (teacher guide) (Sri Lanka's teacher guide.)
+
+**HR-planning part.** Preparing the human resource (manpower) plan a business needs to exist and operate (teacher guide) (Sri Lanka's teacher guide.)
+
+**Recruitment part.** Recruiting suitable people: the ways of recruitment and preparing the job advertisement (teacher guide) (Sri Lanka's teacher guide.)
+
+**Selection part.** Methods of selecting suitable applicants (teacher guide) (Sri Lanka's teacher guide.)
+
+**Appointment part.** The recruitment procedure through to the appointment format/letter (teacher guide) (Sri Lanka's teacher guide.)
+
+**Grievances part.** Employee grievances: what they are and how they are examined and handled (teacher guide) (Sri Lanka's teacher guide.)
+
+**Discipline part.** Discipline management and its importance (teacher guide) (Sri Lanka's teacher guide.)
+
+**Health-and-safety part.** Employee health and safety at work (teacher guide) (Sri Lanka's teacher guide.)
+
+**Industrial-relations part.** Industrial relations: employer–employee relations and the parties and machinery involved (teacher guide) (Sri Lanka's teacher guide.)
+
+**HRM-evaluation part.** Evaluating the efficiency/success of human resource management against criteria (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people, people at work, people at work. Your companion asks one question back — answer it from the lesson.

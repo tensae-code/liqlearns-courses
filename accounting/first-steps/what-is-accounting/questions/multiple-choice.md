@@ -122,3 +122,45 @@ b) Capital means different things to a layman (money/tools/start-up money), to a
 c) The specialised fields of accounting introduced inside the theory section
 d) Accounting defined as a system that identifies, processes, summarises/reports, analyses and interprets financial…
 **Answer: c) The specialised fields of accounting introduced inside the theory section** — That is what this lesson teaches in its fields part (Fiji's book.)
+
+**19.** What does this lesson teach about the standards-framework part? (Sub lesson 2)
+a) Why accounting standards exist and their legal background in Sri Lanka: the Accounting and Auditing Standards…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Preparing a limited company's financial statements: statement of profit or loss and other comprehensive income…
+**Answer: a) Why accounting standards exist and their legal background in Sri Lanka: the Accounting and Auditing Standards…** — That is what this lesson teaches in its standards-framework part part (Sri Lanka's teacher guide).
+
+**20.** What does this lesson teach about the framework part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) The conceptual framework for financial reporting: objectives of general-purpose financial statements, users, q…
+**Answer: d) The conceptual framework for financial reporting: objectives of general-purpose financial statements, users, q…** — That is what this lesson teaches in its framework part part (Sri Lanka's teacher guide).
+
+**21.** What does this lesson teach about the introduction part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) What accounting is and why it is needed: the AAA and AICPA definitions built into one working definition, acco…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) What accounting is and why it is needed: the AAA and AICPA definitions built into one working definition, acco…** — That is what this lesson teaches in its introduction part part (Sri Lanka's teacher guide).
+
+**22.** What does this lesson teach about the environment part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The accounting environment and the changes and trends in accounting: economic/political, technical/professiona…
+**Answer: d) The accounting environment and the changes and trends in accounting: economic/political, technical/professiona…** — That is what this lesson teaches in its environment part part (Sri Lanka's teacher guide).
+
+**23.** What does this lesson teach about the the 2017 G12 guide's concepts competency has no framework level? (Sub lesson 2)
+a) The conceptual framework of financial accounting: a system of principles determining the nature, role and limi…
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) Production cost introduced: what production cost is
+**Answer: a) The conceptual framework of financial accounting: a system of principles determining the nature, role and limi…** — That is what this lesson teaches in its the 2017 G12 guide's concepts competency has no framework level part (Sri Lanka's teacher guide).
+
+**24.** What does this lesson teach about the need-for-records part? (Sub lesson 2)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Why transactions must be recorded: a business cannot remember or prove its dealings without records
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Why transactions must be recorded: a business cannot remember or prove its dealings without records** — That is what this lesson teaches in its need-for-records part part (Sri Lanka's book).

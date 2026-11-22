@@ -1,6 +1,6 @@
 # Sources — The Business Environment
 
-countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Vietnam, Laos
+countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Vietnam, Laos, Sri Lanka
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -41,6 +41,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 19:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Upper Secondary Year 5 / Grade 10) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) et al., Lao-India Entrepreneurship Development Centre; edited by ສີອໍາພອນ ຈັນທະພອນ and ຈັນທະລາ ພິລົມລາສັກ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports, 2014; printed in Thailand by Eastern Printing Public Co. Ltd. Written for the 2011 upper-secondary curriculum; an ILO "Know About Business" (KAB)-style course. Grade: Grade 10 (ມ.5). Language: Lao. Page count: 165 PDF pages (printed pp. 1–160; printed folio = PDF page − 5). Source: manifest `manifests-phase2/laos.json` n=3; fetched via `fetch_book.py`, route `tree`, 2,542,432 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. A complete first entrepreneurship course: what business is, why do it, who a businessperson is, becoming one (incl. small business), and finding a good business idea. Contents map: Ch.1 What is doing business (printed 1); Ch.2 Why do business (24); Ch.3 Who is a businessperson (52); Ch.4 How can I become a businessperson (96); Ch.5 How do I find a good business idea (137). Reading method: the PDF's embedded text layer uses a legacy Lao font encoding and extracts as garbage, so the book was read from Lao-script OCR (Tesseract, `lao` model) of 150-dpi page renders. All summaries stocked are the reader's own words in English.
 
+**Book 20:** Full title: *Business Studies — Teachers' Guide, Grade 12 (Implemented from 2017)*, G.C.E. (Advanced Level) Publisher: Department of Commerce, Faculty of Science and Technology, National Institute of Education, Maharagama; First Print 2017, © National Institute of Education (ISBN line left blank in the imprint) Grade: 12 · Language: English · Pages: 219 PDF pp.; body ("Learning Outcomes and Model Activities") printed pp. 1–209 (printed folio = PDF page − 10) Source: manifest `manifests-phase2/sri-lanka.json` n=9, route `tree`, fetched 3,614,191 bytes = expected; fetched as `scratch-phase2/sri-lanka/business-studies-2017-english.pdf` (deleted after filing) Verified: cover and imprint (PDF pp. 1–3) — "Business Studies, Teachers' Guide, Grade 12 (Implemented from 2017)", NIE Department of Commerce, First Print 2017. **What it actually is: a TEACHER GUIDE.** Edition relationship: LATEST edition of the Business Studies G12 pair (2009 Teacher's Instructional Manual → this 2017 guide), read in full. The 2009 manual was compared section by section; its extras are filed under Book 6. Verdict: read in full. Eleven competencies (1.0–11.0): business foundations and environment, ethics/responsibility, government and business, business organisations, entrepreneurship, small business, money and financial institutions, insurance, communication, transport/warehousing/logistics, and trade. Split across BUSINESS and COMMERCE by content (the aids-to-trade competencies 7–11 are COMMERCE). Contents map: Competency 1.0 Basis of business and environment (printed 1); 2.0 Social responsibility and ethics (38); 3.0 Government and business (49); 4.0 Business organisations (69); 5.0 Entrepreneurship (96); 6.0 Small and medium businesses (107); 7.0 Money and financial institutions (115); 8.0 Insurance (147); 9.0 Communication (159); 10.0 Transport, warehousing and logistics (168); 11.0 Trade (183).
+
 | Lesson part | Where it comes from |
 | the business environment | Book 18 (CDHT GD KT&PL 10), printed pp. 30–32 |
 | role/resources part | Book 19 (Business G10 (Laos)), printed p. 26 |
@@ -74,6 +76,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | environment part of the lesson | Book 15 (Kenya Business Form 1), PDF p. 22 |
 | the environment part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG G9 SB (2023)), printed pp. 69–70 |
 | development-context part of the lesson | Book 17 (Módulo de Empreendedorismo (PESD I)), printed p. 121 |
+| environment-classification part (teacher guide) | Book 20 (Business Studies G12 TG 2017 (Sri Lanka)), printed p. 25 |
+| internal-forces part (teacher guide) | Book 20 (Business Studies G12 TG 2017 (Sri Lanka)), printed p. 28 |
+| task-forces part (teacher guide) | Book 20 (Business Studies G12 TG 2017 (Sri Lanka)), printed p. 31 |
+| macro-forces part (teacher guide) | Book 20 (Business Studies G12 TG 2017 (Sri Lanka)), printed p. 33 |
 
 **Acceptance count: taught in 14 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan, Kazakhstan, Mozambique, Vietnam, Laos)** — every book above is a student book, so each country counts.
 
@@ -82,4 +88,6 @@ Teacher-guide evidence: this lesson also carries evidence from Guatemala's teach
 
 Filed name note: the placement(s) from Samoa filed under `types-of-economic-system` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan, papua-new-guinea, mozambique, vietnam, laos
+Teacher-guide evidence: this lesson also carries evidence from Sri Lanka's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Sri Lanka is not counted in the teaching countries in the acceptance line above for those guide rows.
+
+Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan, papua-new-guinea, mozambique, vietnam, laos, sri-lanka

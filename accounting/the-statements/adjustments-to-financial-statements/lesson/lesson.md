@@ -96,6 +96,30 @@ A business pays a full year's insurance on the first day of its year. Should the
 
 **Adjustments.** Unit 12.2: balance-day adjustments, the adjusted trial balance, and closing off the accounts (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Policies-and-estimates part.** Accounting policies, changes in accounting estimates and prior-period errors under LKAS 8: definitions, how a policy is selected, when a policy may change, and how estimate changes are accounted for prospectively (teacher guide) (Sri Lanka's teacher guide.)
+
+**Inventory-valuation part.** Inventories under LKAS 2: what inventory is (finished goods, work in progress, raw materials), the elements of inventory cost (purchase, conversion, other), net realisable value, measurement at the lower of cost and NRV, and valuing issues/receipts by FIFO and weighted average cost (teacher guide) (Sri Lanka's teacher guide.)
+
+**Provisions part.** Provisions, contingent liabilities and contingent assets under LKAS 37: definitions, the three recognition conditions for a provision, and how each is disclosed (teacher guide) (Sri Lanka's teacher guide.)
+
+**Post-reporting-events part.** Events after the reporting period under LKAS 10: adjusting vs non-adjusting events between the reporting date and the authorisation date, and how each is treated (teacher guide) (Sri Lanka's teacher guide.)
+
+**Revenue part.** Revenue under LKAS 18: the sources of revenue (sale of goods, rendering services, interest, royalties, dividends) and the recognition criteria that must be satisfied before revenue is recorded (teacher guide) (Sri Lanka's teacher guide.)
+
+**Adjustments part.** The adjustments inside a sole trader's statements: accrued and prepaid amounts, closing inventory, bad debts and provision for doubtful debts, and depreciation (teacher guide) (Sri Lanka's teacher guide.)
+
+**The 2017 G12 guide has no inventory competency.** Inventory concepts under SLAS 5: inventory defined (held for resale, in production, materials/supplies), categorised (finished goods, work in progress, raw materials), its cost (purchase + conversion + other costs of bringing it to present location and condition, and what is excluded) and net realisable value (teacher guide) (Sri Lanka's teacher guide.)
+
+**Absent from the 2017 G12 guide.** Measuring inventory: why measurement is needed, the cost techniques (standard cost, retail method, FIFO and weighted average where items cannot be separately identified), recognising inventory as an expense, and disclosure (teacher guide) (Sri Lanka's teacher guide.)
+
+**Adjustments introduction.** Adjusting entries introduced: why financial statements need adjustment entries before they are final (Sri Lanka's book.)
+
+**Accruals part.** Recording adjusting entries: accrued/outstanding expenses and accrued income (Sri Lanka's book.)
+
+**Bad-debts part.** The bad debts adjustment (and writing off irrecoverable debts) inside the final statements (Sri Lanka's book.)
+
+**Stock-valuation part.** The valuation of stock (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: accrual vs cash basis (the matching idea), why adjustments are made, accruals, prepayments, accrued income, income in advance, closing stock valuation, capital vs revenue expenditure, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements. Your companion asks one question back — answer it from the lesson.

@@ -154,6 +154,26 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Production and operations.** Organising a small enterprise's operations in three stages: (1) prepare the production inputs — recruit the workforce (technical, personnel, sales and office staff and skilled workers), buy machines, equipment, materials and raw materials, and study market information before deciding what to produce; (2) carry out production — fix the production structure (the main production unit, the auxiliary unit that keeps it running, the by-product unit that uses its waste, and the service unit that supplies, stores and transports), assign workers to jobs fitting their abilities, manage technique (product design, production technique, keeping machines running safely) and control product quality at every stage; (3) solve the output — plan production to customer needs and win orders by introducing, advertising and distributing the product. (Vietnam's book.)
 
+**Operations-introduction part.** Operations management: converting inputs into outputs in goods and service businesses, and the managerial activities (production engineering, planning, purchasing, control, R&D) it covers (teacher guide) (Sri Lanka's teacher guide.)
+
+**Production-methods part.** Production methods: job (one-off), batch and flow production, and choosing the suitable method (teacher guide) (Sri Lanka's teacher guide.)
+
+**Purchasing part.** Purchasing for production: the materials and services a business buys, the purchasing department/manager, and the purchasing process (notify requirements, find supplier, order, receive, pay) (teacher guide) (Sri Lanka's teacher guide.)
+
+**Stock-control part.** Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stock-level system and ABC analysis (teacher guide) (Sri Lanka's teacher guide.)
+
+**Stock-levels part.** The stock levels to maintain: maximum, minimum, re-order and average levels and the facts used in computing them (teacher guide) (Sri Lanka's teacher guide.)
+
+**EOQ part.** Economic order quantity: ordering cost vs holding cost and calculating the EOQ (teacher guide) (Sri Lanka's teacher guide.)
+
+**Quality-control part.** Quality control methods for assuring the quality of production (teacher guide) (Sri Lanka's teacher guide.)
+
+**Productivity part.** Productivity: the input–output ratio and the approaches to increasing productivity (teacher guide) (Sri Lanka's teacher guide.)
+
+**Production part.** Production: the factors of production (land, labour, capital, organisation) (Sri Lanka's book.)
+
+**Industry part.** Industry: the division of labour and how industries combine (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

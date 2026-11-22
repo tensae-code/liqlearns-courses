@@ -192,6 +192,16 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Business law and regulation.** Reorganising and dissolving an enterprise under the law: reorganisation takes the forms of division (an LLC or JSC splits its assets, rights, obligations and members into several new companies and ceases to exist), separation (part is hived off into new companies while the original continues), consolidation (several companies merge into one new company and cease to exist), merger (one or more companies transfer everything into another and cease to exist) and conversion of form (LLC to JSC and back, private enterprise to LLC, JSC or partnership); dissolution is allowed only when all debts and property obligations are paid and the enterprise is not in a court or arbitration dispute, in the cases the law lists (charter term expired without extension, decision of the owner / Members' Council / General Meeting, minimum membership lost for 6 continuous months, registration certificate revoked), with debts paid in the legal priority order — workers' wages, severance, social, health and unemployment insurance first, then tax debts, then other debts — and the remainder divided among owners by their capital share. (Vietnam's book.)
 
+**Government-intervention part.** How government intervenes in businesses (teacher guide) (Sri Lanka's teacher guide.)
+
+**Business-and-economic-goals part.** How businesses contribute to achieving the government's economic goals (teacher guide) (Sri Lanka's teacher guide.)
+
+**Fiscal-policy part.** Conducting business in line with the government's fiscal policy (teacher guide) (Sri Lanka's teacher guide.)
+
+**Monetary-policy part.** Conducting business in line with the government's monetary policy (teacher guide) (Sri Lanka's teacher guide.)
+
+**Contracts part.** Contracts: what makes a contract in trade (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law, the rules a business works under, the rules a business works under. Your companion asks one question back — answer it from the lesson.

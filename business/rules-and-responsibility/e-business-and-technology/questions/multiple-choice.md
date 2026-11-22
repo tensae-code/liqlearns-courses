@@ -147,3 +147,24 @@ b) Assessing a risk situation and taking risks rationally: the businessperson we
 c) Using technology in a small business: technology keeps changing consumer needs and businesses use it to…
 d) Strengths of small businesses (the owner bears profit and loss directly; higher flexibility than large firms)…
 **Answer: c) Using technology in a small business: technology keeps changing consumer needs and businesses use it to…** — That is what this lesson teaches in its technology part part (Laos's book).
+
+**23.** What does this lesson teach about the data-and-information part?
+a) Data, data processing and information: classifying information by examining how data is processed into it
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Data, data processing and information: classifying information by examining how data is processed into it** — That is what this lesson teaches in its data-and-information part part (Sri Lanka's teacher guide).
+
+**24.** What does this lesson teach about the IS-role part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The importance and role of information systems in a business
+**Answer: d) The importance and role of information systems in a business** — That is what this lesson teaches in its IS-role part part (Sri Lanka's teacher guide).
+
+**25.** What does this lesson teach about the e-commerce part?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Electronic commerce (e-commerce) and its contribution to business and trade
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Electronic commerce (e-commerce) and its contribution to business and trade** — That is what this lesson teaches in its e-commerce part part (Sri Lanka's teacher guide).

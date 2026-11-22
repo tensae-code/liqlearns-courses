@@ -43,3 +43,38 @@ b) The operating account (حساب التشغيل): the final account of a manuf
 c) Product costing by job order costing: collecting the costs of each job to price and control it
 d) Something this lesson does not teach.
 **Answer: c) Product costing by job order costing: collecting the costs of each job to price and control it** — That is what this lesson teaches in its job-costing part (Fiji's book.)
+
+**7.** What does this lesson teach about the cost-classification part?
+a) Cost concepts for management accounting: cost unit and cost centre; classification by function (production/per…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Cost concepts for management accounting: cost unit and cost centre; classification by function (production/per…** — That is what this lesson teaches in its cost-classification part part (Sri Lanka's teacher guide).
+
+**8.** What does this lesson teach about the overhead-absorption part?
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Overhead cost: production vs non-production overheads, prime cost, and the distribution process — collection,…
+**Answer: d) Overhead cost: production vs non-production overheads, prime cost, and the distribution process — collection,…** — That is what this lesson teaches in its overhead-absorption part part (Sri Lanka's teacher guide).
+
+**9.** What does this lesson teach about the manufacturing part?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Manufacturing accounts: calculating the cost of production (prime cost and the manufacturing account, incl. wo…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Manufacturing accounts: calculating the cost of production (prime cost and the manufacturing account, incl. wo…** — That is what this lesson teaches in its manufacturing part part (Sri Lanka's teacher guide).
+
+**10.** What does this lesson teach about the introduction part?
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Production cost introduced: what production cost is
+**Answer: d) Production cost introduced: what production cost is** — That is what this lesson teaches in its introduction part part (Sri Lanka's book).
+
+**11.** What does this lesson teach about the classification part?
+a) Classifying production cost (direct/indirect, factory overheads)
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Classifying production cost (direct/indirect, factory overheads)** — That is what this lesson teaches in its classification part part (Sri Lanka's book).

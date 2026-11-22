@@ -52,6 +52,10 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Analysis.** The analysis chart: analysing each transaction into its debit and credit effects before any book is written up (Fiji's book.)
 
+**Double-entry part.** The double entry system: its importance and the rules for recording business transactions and events in accounts (teacher guide) (Sri Lanka's teacher guide.)
+
+**Dual-nature part.** The dual nature of transactions: every transaction has two sides, the foundation of double entry (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.

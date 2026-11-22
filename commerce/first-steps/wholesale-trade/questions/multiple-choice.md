@@ -65,3 +65,31 @@ b) Kenya's book follows real goods. Local agricultural produce moves through co-
 c) Samoa's younger book draws the whole chain in one line: the producer sells to the wholesaler; the wholesaler sells…
 d) Channels of distribution for consumer goods and for industrial goods, and the factors for choosing a channel
 **Answer: d) Channels of distribution for consumer goods and for industrial goods, and the factors for choosing a channel** — That is what this lesson teaches in its channels part (Nigeria's book.)
+
+**12.** What does this lesson teach about the wholesale part? (Sub lesson 3)
+a) How wholesale trade takes place
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) How wholesale trade takes place** — That is what this lesson teaches in its wholesale part part (Sri Lanka's teacher guide).
+
+**13.** What does this lesson teach about the wholesale part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Wholesale trade: buying in bulk for resale, the wholesaler's characteristics (large quantities, selected goods…
+**Answer: d) Wholesale trade: buying in bulk for resale, the wholesaler's characteristics (large quantities, selected goods…** — That is what this lesson teaches in its wholesale part part (Sri Lanka's book).
+
+**14.** What does this lesson teach about the wholesale part? (Sub lesson 3)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Wholesale trade: the wholesaler's place between producer and retailer
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Wholesale trade: the wholesaler's place between producer and retailer** — That is what this lesson teaches in its wholesale part part (Sri Lanka's book).
+
+**15.** What does this lesson teach about the wholesale part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Wholesale trade: what a wholesaler does, wholesale organisation and agents, and the standing question whether…
+**Answer: d) Wholesale trade: what a wholesaler does, wholesale organisation and agents, and the standing question whether…** — That is what this lesson teaches in its wholesale part part (Sri Lanka's book).

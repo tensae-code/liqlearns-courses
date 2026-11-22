@@ -1,6 +1,6 @@
 # Sources — The Stores Ledger
 
-countries: Bhutan, Papua New Guinea, Fiji
+countries: Bhutan, Papua New Guinea, Fiji, Sri Lanka
 
 **Book 1:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
 
@@ -10,6 +10,8 @@ countries: Bhutan, Papua New Guinea, Fiji
 
 **Book 4:** Year 11 Accounting Textbook (amended 2015) (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; acknowledged contributors from Fiji secondary schools) — Ministry of Education, Suva, Fiji. Year / edition: First produced February 2015 (amended 2015), © Ministry of Education. Grade: Year 11. Language: English. Page count: 202 PDF pages, printed pp. 1–201 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=0; fetched via fetch_book.py, route tree, 4,833,670 B = expected exactly, to scratch-phase2/fiji/fiji-y11-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.4 fixed-assets sub-system; references list follows).
 
+**Book 5:** Full title: *Accounting — Teacher's Guide, Grade 13 (To be implemented from 2018)*, G.C.E. (Advanced Level) Publisher: Department of Commerce, Faculty of Science & Technology, National Institute of Education, Maharagama, Sri Lanka; First Edition 2018, © National Institute of Education Grade: 13 · Language: English · Pages: 211 PDF pp.; printed pp. 1–195 (printed folio = PDF page − 16) Source: manifest `manifests-phase2/sri-lanka.json` n=6, route `tree`, fetched 1,165,973 bytes = expected; fetched as `scratch-phase2/sri-lanka/accounting-2018-english.pdf` (deleted after filing) Verified: cover and imprint leaf (PDF pp. 1–2) — title, "Teacher's Guide", Grade 13, NIE Department of Commerce, First Edition 2018 all match the manifest record ("accounting 2018 english", grade-13, teacher-guide path). **What it actually is: a TEACHER GUIDE** — syllabus competencies with subject-matter guidance, model activities and assessment criteria; no student text. Edition relationship: this is the LATEST edition of the Accounting G13 pair (2009 Teacher's Instructional Manual → this 2018 Teacher's Guide), read in full. The 2009 manual was compared section by section; its extras are filed under Book 2. Verdict: read in full. Six competencies (11.0–16.0): Sri Lanka Accounting Standards (LKAS/SLFRS) topics, limited-company financial statements, ratio analysis, management-accounting basics, CVP, capital investment decisions. All ACCOUNTING strand. Contents map: Competency 11.0 SL Accounting Standards (printed 1); 12.0 Financial statements of a limited company (50); 13.0 Ratio analysis for management decisions (106); 14.0 Basic concepts of management accounting (123); 15.0 Cost-volume-profit decision support (159); 16.0 Capital investment decisions (173).
+
 | Lesson part | Where it comes from |
 |---|---|
 | opening part of the proposed lesson | Book 1 (Accountancy XII), printed p. 245 |
@@ -18,6 +20,8 @@ countries: Bhutan, Papua New Guinea, Fiji
 | stock records part of the lesson (teacher guide) | Book 2 (PNG Business Studies TG G9 SB (2023)), printed p. 62 |
 | stock part of the lesson (teacher guide) | Book 3 (PNG Business Studies TG G12 SB (2023)), printed pp. 96–97 |
 | inventory-records part of the lesson | Book 4 (Year 11 Accounting), printed p. 161 |
+| material-control part (teacher guide) | Book 5 (Accounting G13 TG 2018 (Sri Lanka)), printed p. 131 |
+| stock-levels part (teacher guide) | Book 5 (Accounting G13 TG 2018 (Sri Lanka)), printed p. 131 |
 
 **Acceptance count: taught in 1 country (Bhutan)** — every book above is a student book, so each country counts.
 
@@ -25,4 +29,6 @@ Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea'
 
 Filed name note: this lesson was proposed as a NEW lesson (`stores-ledger`) by Bhutan's reader. It was checked against every existing Accounting lesson first: no existing lesson teaches this one thing, so the lesson is built here, in The Books, and the resolution is recorded in the registry's Phase 3 addendum.
 
-Searchable tags: stores ledger, the books, accounting, bhutan, papua-new-guinea, fiji
+Teacher-guide evidence: this lesson also carries evidence from Sri Lanka's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Sri Lanka is not counted in the teaching countries in the acceptance line above for those guide rows.
+
+Searchable tags: stores ledger, the books, accounting, bhutan, papua-new-guinea, fiji, sri-lanka

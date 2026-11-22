@@ -182,3 +182,31 @@ b) The three types of business: (1) production/manufacturing (farming, livestock
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: a) Liability by form: the sole owner is responsible for ALL business debts, including from personal property and…** — That is what this lesson teaches in its liability part part (Laos's book).
+
+**28.** What does this lesson teach about the organisations-introduction part? (Sub lesson 4)
+a) The organisation concept and the classification of business organisations
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The organisation concept and the classification of business organisations** — That is what this lesson teaches in its organisations-introduction part part (Sri Lanka's teacher guide).
+
+**29.** What does this lesson teach about the sole-proprietor part? (Sub lesson 4)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Sole proprietorship: characteristics, advantages and limitations
+**Answer: d) Sole proprietorship: characteristics, advantages and limitations** — That is what this lesson teaches in its sole-proprietor part part (Sri Lanka's teacher guide).
+
+**30.** What does this lesson teach about the companies part? (Sub lesson 4)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Companies as a form of business organisation
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Companies as a form of business organisation** — That is what this lesson teaches in its companies part part (Sri Lanka's book).
+
+**31.** What does this lesson teach about the ownership-forms part? (Sub lesson 4)
+a) Trade associations and institutions: chambers and associations that serve trade
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Sole proprietorship and partnership: the sole trader defined, his advantages and the partnership form
+**Answer: d) Sole proprietorship and partnership: the sole trader defined, his advantages and the partnership form** — That is what this lesson teaches in its ownership-forms part part (Sri Lanka's book).

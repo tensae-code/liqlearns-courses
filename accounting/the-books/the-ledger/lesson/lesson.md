@@ -87,6 +87,10 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Chart.** The chart of accounts: the organised list of accounts a business keeps (Fiji's book.)
 
+**Ledger part.** Recording transactions in the ledger: opening accounts and posting the two sides of each transaction, worked through many traders' accounts (Sri Lanka's book.)
+
+**Ledger part.** The ledger part of the ledger-and-trial-balance chapter (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.

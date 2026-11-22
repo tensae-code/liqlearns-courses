@@ -1,15 +1,18 @@
 # Sources — Arbitration and Trade Disputes
 
-countries: Nigeria
+countries: Nigeria, Sri Lanka
 
 **Book 1:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
+**Book 2:** Full title: *வணிகம் (ஆரம்பநூல்)* — Commerce (Introductory Book), Tamil medium; author C. N. Devarajan (சி. ந. தேவராசன்); copyright held by the Government; published by the Educational Publications Department, printed at the Government Press Corporation Grade: 10 (per the manifest path) · Language: Tamil · Pages: 456 PDF pp.; printed pp. 1–442 (printed folio = PDF page − 14, verified at printed pp. 6, 65, 76, 84, 86, 117, 250, 259, 273, 319, 347, 351) Source: manifest `manifests-phase2/sri-lanka.json` n=12, route `release`, fetched 108,627,267 bytes = expected; fetched as `scratch-phase2/sri-lanka/sl-g10-commerce-1974-tamil.pdf` (deleted after filing) Verified: title leaf and imprint read VISUALLY from renders (PDF pp. 5–6) — title, author, government copyright and the 1963/1967/1974 edition history match the manifest identity. **What it actually is: a STUDENT TEXTBOOK** — the COMMERCE home-strand carrier. **Reading method (stated plainly):** this scan defeated OCR completely — the 1974 letterpress Tamil typeface on a grey scan background (page mean grey ≈ 196) makes tesseract return empty or garbage output at 150 and 300 dpi, grey and colour, thresholded or not (verified experimentally; the same pipeline OCR'd the other three Tamil books fine). The book was therefore read VISUALLY from page renders: the full contents (PDF pp. 11–14), the prefaces, and the openers/body of the chapters at printed pp. 1, 6, 13, 65, 76, 84, 86, 117, 244–261, 273, 319 and 347–351 were read directly; the remaining placements rest on the contents map's own section titles, which in this book are full teaching headings. Chapter start pages below are the contents pages, spot-verified exact at Ch. I, VII, VIII, IX, XII, XX, XXII, XXV and Appendix I. Verdict: read and split part by part. The book is overwhelmingly COMMERCE; its production, capital, organisation, saving, sole-trader/partnership and industry-and-finance chapters are BUSINESS; its profit chapter carries the only ACCOUNTING.
 
 | Lesson part | Where it comes from |
 |---|---|
 | the arbitration part of the lesson | Book 1 (Nigeria Commerce SS1), printed p. 132 |
+| dispute-settlement part | Book 2 (Commerce Introductory (Sri Lanka, Tamil)), printed p. 117 |
 
-**Acceptance count: taught in 1 country (Nigeria)** — every book above is a student book, so the country counts.
+**Acceptance count: taught in 2 countries (Nigeria, Sri Lanka)** — every book above is a student book, so the country counts.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`arbitration-and-trade-disputes`); Nigeria's *Commerce for Senior Secondary Schools 1* is the first read book to place it, so it is built now, among the Helpers of Trade, where TITLES.md names its place. It is the last of the registry's expected-from-pending slugs to be built — after this merge, no expected-from-pending slug remains unbuilt.
 
-Searchable tags: arbitration and trade disputes, helpers of trade, commerce, nigeria
+Searchable tags: arbitration and trade disputes, helpers of trade, commerce, nigeria, sri-lanka

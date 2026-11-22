@@ -68,6 +68,12 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Documents of trade.** Appendix: the sample trade documents — statement of account, order form/purchase order, invoice, receipt, and stock requisition form (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Trade-documents part.** The documents used in trade: the papers that record and evidence buying and selling (Sri Lanka's book.)
+
+**Trade-documents part.** The documents used in the export and import trades (Sri Lanka's book.)
+
+**Documents part.** Invoices, statements of account and receipts: the papers of a sale (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents, commercial documents, commercial documents, commercial documents, commercial documents. Your companion asks one question back — answer it from the lesson.

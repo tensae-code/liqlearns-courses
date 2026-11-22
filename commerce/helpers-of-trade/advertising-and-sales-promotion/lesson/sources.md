@@ -1,6 +1,6 @@
 # Sources — Advertising and Sales Promotion
 
-countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New Guinea
+countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New Guinea, Sri Lanka
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -23,6 +23,8 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New
 
 **Book 10:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
 
+**Book 11:** Full title: *வர்த்தகமும் கணக்கியலும்* (Commerce/Business and Accounting), Year 10 (10 ஆம் ஆண்டு), Tamil medium (Tamil translation of the Sinhala original; translation team M.H.M. Hasan, Rasheed Kani, J.M. Kasim) Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); imprint edition history runs from the first edition 1986 to the thirteenth edition 1998 — the manifest's "1998 edition"; preface (E.W. Abenayake, Acting Commissioner, 1998-03-05) records this printing as the reprint for 1999 distribution; printed by Mahinda Printers (Pvt) Ltd, Ambalangoda. Advisory committee incl. M.M. Premaratne, Prof. Hema Wijewardena, M.W. Wickramarachchi (chartered accountant), Y.K. Mudalige Grade: 10 · Language: Tamil · Pages: 236 PDF pp.; printed pp. 1–226 (printed folio = PDF page − 10, verified at Ch. 7 and Ch. 12) Source: manifest `manifests-phase2/sri-lanka.json` n=0, route `release`, fetched 34,274,376 bytes = expected; fetched as `scratch-phase2/sri-lanka/sl-g10-bas-1998-tamil.pdf` (deleted after filing) Verified: title leaf and imprint read from Tamil OCR of the front pages (PDF pp. 3–4) — title, Year 10, Educational Publications Department and the edition history match the manifest identity. **What it actually is: a STUDENT TEXTBOOK.** The Noolaham scan has no usable text layer; read from Tamil OCR of 150-dpi renders. The contents leaf OCR'd noisily; the contents map below was recovered from the chapter openers in the body. Verdict: read in full, split part by part: Ch. 1–6 (the Commerce part) are COMMERCE — including the warehousing chapter the registry held `warehousing` open for; Ch. 7–12 (the Accounting part) are ACCOUNTING. No BUSINESS-strand teaching in this book. Contents map: Commerce part — Ch. 1 Money and banking services (printed 1); Ch. 2 Transport (14); Ch. 3 Warehousing (26); Ch. 4 Methods of communication (35); Ch. 5 Advertising (39); Ch. 6 Insurance (49). Accounting part — Ch. 7 The cash book (63); Ch. 8 The petty cash book (112); Ch. 9 The journal (122); Ch. 10 The general journal (150); Ch. 11 The ledger and the trial balance (168); Ch. 12 Correction of errors (195).
+
 | Lesson part | Where it comes from |
 |---|---|
 | promotion part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 86 |
@@ -42,9 +44,11 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New
 | opening part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 95 |
 | methods part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 96 |
 | evaluation part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 104 |
+| advertising part | Book 11 (Commerce & Accounting Y10 (Sri Lanka, Tamil)), printed p. 39 |
+| media part | Book 11 (Commerce & Accounting Y10 (Sri Lanka, Tamil)), printed p. 43 |
 
-**Acceptance count: taught in 7 countries (Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Sri Lanka)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: advertising and sales promotion, helpers of trade, commerce, nigeria, samoa, dominica, ecuador, nepal, tanzania, bhutan, papua-new-guinea
+Searchable tags: advertising and sales promotion, helpers of trade, commerce, nigeria, samoa, dominica, ecuador, nepal, tanzania, bhutan, papua-new-guinea, sri-lanka

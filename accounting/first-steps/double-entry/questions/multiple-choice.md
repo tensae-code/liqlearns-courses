@@ -94,3 +94,17 @@ b) The dual effect: every transaction increases or decreases balance-sheet items
 c) The nature and types of transactions the process records
 d) The rules for recording in ledger accounts: an increase in an asset is debited and a decrease credited; an…
 **Answer: c) The nature and types of transactions the process records** — That is what this lesson teaches in its transactions part (Fiji's book.)
+
+**15.** What does this lesson teach about the double-entry part? (Sub lesson 2)
+a) The double entry system: its importance and the rules for recording business transactions and events in accoun…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The double entry system: its importance and the rules for recording business transactions and events in accoun…** — That is what this lesson teaches in its double-entry part part (Sri Lanka's teacher guide).
+
+**16.** What does this lesson teach about the dual-nature part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The dual nature of transactions: every transaction has two sides, the foundation of double entry
+**Answer: d) The dual nature of transactions: every transaction has two sides, the foundation of double entry** — That is what this lesson teaches in its dual-nature part part (Sri Lanka's book).

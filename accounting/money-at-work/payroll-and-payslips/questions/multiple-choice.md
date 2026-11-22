@@ -62,3 +62,17 @@ b) Accounting for wages and payroll: gross pay, deductions and net pay recorded 
 c) How pay is worked out from a pay advice slip: ordinary time and overtime hours at their rates give gross pay, PAYE…
 d) Accounting for payroll: changes in the remuneration payable to an employee must be properly authorised and…
 **Answer: b) Accounting for wages and payroll: gross pay, deductions and net pay recorded for employees** — That is what this lesson teaches in its payroll part (Fiji's book.)
+
+**10.** What does this lesson teach about the labour-records part?
+a) Recording labour cost: the labour-cost records and how labour cost is captured for costing
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Recording labour cost: the labour-cost records and how labour cost is captured for costing** — That is what this lesson teaches in its labour-records part part (Sri Lanka's teacher guide).
+
+**11.** What does this lesson teach about the wage-calculation part?
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) Calculating wages on time basis and output (piece) basis, with overtime payment explained and calculated
+**Answer: d) Calculating wages on time basis and output (piece) basis, with overtime payment explained and calculated** — That is what this lesson teaches in its wage-calculation part part (Sri Lanka's teacher guide).

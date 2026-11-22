@@ -42,6 +42,12 @@ Your sports club collects subscriptions, runs a canteen and ends the year with m
 
 **Non-profit.** Accounting for non-profit organisations: their records and statements in place of profit accounts (Fiji's book.)
 
+**Non-profit part.** Accounts of not-for-profit organisations: why they keep accounts, subscriptions and the accumulated fund, the receipts and payments account and the income and expenditure account (teacher guide) (Sri Lanka's teacher guide.)
+
+**Introduction part.** Non-profit organisations introduced: what they are (Sri Lanka's book.)
+
+**Non-profit-statements part.** The financial statements of non-profit organisations (receipts/payments and income/expenditure based) (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a club or society does not trade for an owner's profit: its year's cash is summarised in a receipts and payments account, its result in an income and expenditure account, and what it owns sits in an accumulated fund. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, receipts-and-payments part, subscriptions part, income-and-expenditure part, trading-activity part, closing part, the accumulated fund, receipts and payments account, income and expenditure account, subscriptions in arrears and in advance, non-profit organisations' finances, receipts/p, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations. Your companion asks one question back — answer it from the lesson.

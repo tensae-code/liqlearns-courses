@@ -46,3 +46,38 @@ b) Assessing a risk situation and taking risks rationally: the businessperson we
 c) Strengths of small businesses (the owner bears profit and loss directly; higher flexibility than large firms)…
 d) Negotiation skills teaching: a worked dialogue case (an entrepreneur, Kaew, applying to a woman bank manager…
 **Answer: d) Negotiation skills teaching: a worked dialogue case (an entrepreneur, Kaew, applying to a woman bank manager…** — That is what this lesson teaches in its skills part part (Laos's teacher guide).
+
+**8.** What does this lesson teach about the communication-factors part?
+a) Communication for business success: the factors that make communication effective
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Communication for business success: the factors that make communication effective** — That is what this lesson teaches in its communication-factors part part (Sri Lanka's teacher guide).
+
+**9.** What does this lesson teach about the communication-services part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The various communication services/methods and selecting effective ones for trade
+**Answer: d) The various communication services/methods and selecting effective ones for trade** — That is what this lesson teaches in its communication-services part part (Sri Lanka's teacher guide).
+
+**10.** What does this lesson teach about the communication part?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The communication service: internal and external communication, the communication process and choosing a mediu…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The communication service: internal and external communication, the communication process and choosing a mediu…** — That is what this lesson teaches in its communication part part (Sri Lanka's book).
+
+**11.** What does this lesson teach about the communication part?
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Methods of communication as an aid to trade
+**Answer: d) Methods of communication as an aid to trade** — That is what this lesson teaches in its communication part part (Sri Lanka's book).
+
+**12.** What does this lesson teach about the business-letters part?
+a) Business letters inside the contracts chapter: the letters by which trade is carried on
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Business letters inside the contracts chapter: the letters by which trade is carried on** — That is what this lesson teaches in its business-letters part part (Sri Lanka's book).

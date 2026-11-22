@@ -67,3 +67,17 @@ b) Personal selling: know when it beats the other forms, and its strengths and i
 c) Sales promotions compared in a table with costs and benefits: free samples, coupons, premiums/gifts, contests and…
 d) Direct versus indirect methods of advertising, sales promotion as indirect advertising, and other advertising forms
 **Answer: d) Direct versus indirect methods of advertising, sales promotion as indirect advertising, and other advertising forms** — That is what this lesson teaches in its methods part (Nigeria's book.)
+
+**12.** What does this lesson teach about the advertising part? (Sub lesson 3)
+a) Advertising introduced as an aid to trade
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Advertising introduced as an aid to trade** — That is what this lesson teaches in its advertising part part (Sri Lanka's book).
+
+**13.** What does this lesson teach about the media part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The advertising media and kinds of advertising
+**Answer: d) The advertising media and kinds of advertising** — That is what this lesson teaches in its media part part (Sri Lanka's book).

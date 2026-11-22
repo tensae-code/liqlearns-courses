@@ -71,3 +71,17 @@ b) Economic integration is countries of a region freeing trade among themselves 
 c) The gains: a wider market and economies of scale; specialisation and the trade-creation effect; better and cheaper…
 d) Trade associations and chambers of commerce: what they are and what they do
 **Answer: d) Trade associations and chambers of commerce: what they are and what they do** — That is what this lesson teaches in its associations part (Nigeria's book.)
+
+**12.** What does this lesson teach about the trade-blocs part? (Sub lesson 2)
+a) International unions, trade agreements/blocs and trade organisations and how they function in trade
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) International unions, trade agreements/blocs and trade organisations and how they function in trade** — That is what this lesson teaches in its trade-blocs part part (Sri Lanka's teacher guide).
+
+**13.** What does this lesson teach about the associations part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Trade associations and institutions: chambers and associations that serve trade
+**Answer: d) Trade associations and institutions: chambers and associations that serve trade** — That is what this lesson teaches in its associations part part (Sri Lanka's book).

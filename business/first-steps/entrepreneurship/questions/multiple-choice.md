@@ -151,3 +151,17 @@ b) The three types of business: (1) production/manufacturing (farming, livestock
 c) Reasons people enter business: family unity, and personal reasons of economic, psychological and social kinds
 d) Creativity is needed in all business problem-solving and is used daily, e.g. in promoting products and…
 **Answer: a) The business mindset: the traits, enthusiasm and psychological motivation of a businessperson** — That is what this lesson teaches in its mindset part part (Laos's book).
+
+**24.** What does this lesson teach about the entrepreneurship-introduction part?
+a) Entrepreneurship: its importance and benefits, studied to build the interest in being an entrepreneur
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Entrepreneurship: its importance and benefits, studied to build the interest in being an entrepreneur** — That is what this lesson teaches in its entrepreneurship-introduction part part (Sri Lanka's teacher guide).
+
+**25.** What does this lesson teach about the process part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The process of entrepreneurship, step by step
+**Answer: d) The process of entrepreneurship, step by step** — That is what this lesson teaches in its process part part (Sri Lanka's teacher guide).

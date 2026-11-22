@@ -131,3 +131,31 @@ b) The two correcting documents: the debit note, sent by a supplier when the buy
 c) Payment vouchers: where no receipt can be obtained (casual workers, small petty-cash purchases), a voucher signed…
 d) The journals: recording transactions first in the books of original entry
 **Answer: d) The journals: recording transactions first in the books of original entry** — That is what this lesson teaches in its journals part (Fiji's book.)
+
+**20.** What does this lesson teach about the prime-entry part? (Sub lesson 2)
+a) Books of prime entry: why they are maintained and their importance in the recording system
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Books of prime entry: why they are maintained and their importance in the recording system** — That is what this lesson teaches in its prime-entry part part (Sri Lanka's teacher guide).
+
+**21.** What does this lesson teach about the credit-purchases part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Maintaining the records of goods purchased on credit (purchases book and creditors' accounts)
+**Answer: d) Maintaining the records of goods purchased on credit (purchases book and creditors' accounts)** — That is what this lesson teaches in its credit-purchases part part (Sri Lanka's teacher guide).
+
+**22.** What does this lesson teach about the journal part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The journal (தினசேரி, the day book): the first record of transactions
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The journal (தினசேரி, the day book): the first record of transactions** — That is what this lesson teaches in its journal part part (Sri Lanka's book).
+
+**23.** What does this lesson teach about the general-journal part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The general journal: the book for entries that belong in no special journal
+**Answer: d) The general journal: the book for entries that belong in no special journal** — That is what this lesson teaches in its general-journal part part (Sri Lanka's book).

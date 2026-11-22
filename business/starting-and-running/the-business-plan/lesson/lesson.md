@@ -157,6 +157,20 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Answer-key part.** Answer key: the structure of a business plan — 1) cover, 2) contents, 3) executive summary, 4) details of the business, 5) information about the owner or promoter, 6) the marketing plan, 7) organisation outline, 8) operating plan, 9) financial plan, 10) appendices. (Laos's teacher guide.)
 
+**Plan-introduction part.** Preparing a business plan suitable to start (and expand) a business: what the plan is and its readiness components (teacher guide) (Sri Lanka's teacher guide.)
+
+**Marketing-plan part.** The marketing plan section of the business plan (teacher guide) (Sri Lanka's teacher guide.)
+
+**Operational-plan part.** The operational plan section, prepared according to the marketing plan (teacher guide) (Sri Lanka's teacher guide.)
+
+**HR-plan part.** The human resources plan section of the business plan (teacher guide) (Sri Lanka's teacher guide.)
+
+**Financial-plan part.** The financial plan section: project cost, expected outcomes, estimated cash flow statement and estimated balance sheet (teacher guide) (Sri Lanka's teacher guide.)
+
+**Feasibility part.** Evaluating the feasibility of the business idea against the plan (teacher guide) (Sri Lanka's teacher guide.)
+
+**Executive-summary part.** The executive summary and business description that open the finished plan, and submitting the plan (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

@@ -77,6 +77,14 @@ Government-provided services and infrastructure as business conditions: governme
 
 **Role/resources part.** The role and importance of doing business and the resources a business uses. (Laos's book.)
 
+**Environment-classification part.** The business environment classified: internal environment, external environment, task (immediate) environment and macro (general) environment (teacher guide) (Sri Lanka's teacher guide.)
+
+**Internal-forces part.** Internal environmental forces (owners, managers, employees, organisational culture and structure, resources) and their influence on the business (teacher guide) (Sri Lanka's teacher guide.)
+
+**Task-forces part.** Task environmental forces (customers, suppliers, competitors and the other immediate parties) and their influence (teacher guide) (Sri Lanka's teacher guide.)
+
+**Macro-forces part.** Macro environmental forces and their influence on business (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

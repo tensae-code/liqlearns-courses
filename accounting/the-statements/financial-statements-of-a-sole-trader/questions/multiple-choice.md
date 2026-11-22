@@ -149,3 +149,38 @@ b) Your values, interests and experience, and how they bear on the career and th
 c) First pointers on writing a business plan, and on organising and administering a business, including…
 d) The balance sheet: a statement of what you have and what you owe on a date; current liabilities (everything…
 **Answer: d) The balance sheet: a statement of what you have and what you owe on a date; current liabilities (everything…** — That is what this lesson teaches in its balance-sheet part part (Laos's book).
+
+**23.** What does this lesson teach about the first-statements part? (Sub lesson 2)
+a) Preparing the income statement and the statement of financial position from the accounting equation
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Preparing the income statement and the statement of financial position from the accounting equation** — That is what this lesson teaches in its first-statements part part (Sri Lanka's teacher guide).
+
+**24.** What does this lesson teach about the sole-trader-statements part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Financial statements of a sole proprietorship: their importance and their preparation
+**Answer: d) Financial statements of a sole proprietorship: their importance and their preparation** — That is what this lesson teaches in its sole-trader-statements part part (Sri Lanka's teacher guide).
+
+**25.** What does this lesson teach about the introduction part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Financial statements introduced: what they are and why a business prepares them
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Financial statements introduced: what they are and why a business prepares them** — That is what this lesson teaches in its introduction part part (Sri Lanka's book).
+
+**26.** What does this lesson teach about the income-statement part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The profit and loss (income) statement
+**Answer: d) The profit and loss (income) statement** — That is what this lesson teaches in its income-statement part part (Sri Lanka's book).
+
+**27.** What does this lesson teach about the profit part? (Sub lesson 2)
+a) Profit: gross profit and net profit distinguished
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Profit: gross profit and net profit distinguished** — That is what this lesson teaches in its profit part part (Sri Lanka's book).

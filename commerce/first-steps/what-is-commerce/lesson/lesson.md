@@ -46,6 +46,20 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **The trade part of the three-types teaching.** Trading as a type of business: buying goods from producers or wholesalers and reselling them (clothing shops, furniture shops). (Laos's book.)
 
+**Trade-types part.** The types of trade (teacher guide) (Sri Lanka's teacher guide.)
+
+**Trade-and-services introduction.** Trade introduced as the central activity of business, with the auxiliary (support) services that make trade possible and efficient, each feeding the other (Sri Lanka's book.)
+
+**Sri-Lanka-distribution part.** Sri Lanka's industrial and commercial distribution: the country's industries and trade introduced through what is produced and exchanged around the island (Sri Lanka's book.)
+
+**Production-and-trade part.** Production and trade: human needs, goods and services, the kinds of production (agriculture, mining, fishing, manufacture) and how trade arises from production and the division of labour (Sri Lanka's book.)
+
+**History part.** The history of commerce: how exchange grew from barter to organised trade (Sri Lanka's book.)
+
+**Commercial-policy part.** Commercial policy, worked through Ceylon's import and export figures 1835–1969 (Sri Lanka's book.)
+
+**Ceylon-trade part.** The trade and the budget of Ceylon (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade, what commerce is, what commerce is. Your companion asks one question back — answer it from the lesson.

@@ -95,3 +95,24 @@ b) The answer begins with consumerism: the eight internationally accepted consum
 c) Why consumers need protection (copycat products, false advertising, collusion, unfair treatment, uninformed…
 d) Advertising, consumer protection and consumerism
 **Answer: d) Advertising, consumer protection and consumerism** — That is what this lesson teaches in its consumer part (Nigeria's book.)
+
+**16.** What does this lesson teach about the consumer-protection part? (Sub lesson 3)
+a) Consumer protection: the procedures government takes to protect consumers and why businesses must adapt to the…
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Consumer protection: the procedures government takes to protect consumers and why businesses must adapt to the…** — That is what this lesson teaches in its consumer-protection part part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the protection-institutions part? (Sub lesson 3)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The government institutions that work for consumer protection and their roles
+**Answer: d) The government institutions that work for consumer protection and their roles** — That is what this lesson teaches in its protection-institutions part part (Sri Lanka's teacher guide).
+
+**18.** What does this lesson teach about the controls part? (Sub lesson 3)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Government controls in trade: food control and exchange control
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Government controls in trade: food control and exchange control** — That is what this lesson teaches in its controls part part (Sri Lanka's book).

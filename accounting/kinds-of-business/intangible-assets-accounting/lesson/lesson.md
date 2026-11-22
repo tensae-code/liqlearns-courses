@@ -12,6 +12,8 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Internally generated part of the proposed lesson.** Internally generated items that are NOT capitalised: brands, mastheads, publishing titles and customer lists, with the football-club player-registration question worked as the test case (Bhutan's book.)
 
+**The 2018 G13 guide has no intangible-assets level; this is the pair's only teaching of it.** Intangible assets: definition (identifiable non-monetary asset without physical substance — software, patents, copyrights, franchises), recognition conditions, initial measurement at cost, subsequent expenditure rules, and internally generated intangibles including the research/development distinction (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: intangible assets are non-monetary assets without physical substance: research spending is written off as it is incurred, development spending may be capitalised only when it meets the tests, and internally generated brands, mastheads, publishing titles and customer lists are never capitalised. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Recognition part of the proposed lesson, Internally generated part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

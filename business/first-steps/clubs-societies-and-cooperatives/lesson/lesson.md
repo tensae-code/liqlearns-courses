@@ -49,6 +49,10 @@ Not-for-profit private organisations — charities, local sports and social club
 
 **Group-benefits part.** Benefits of doing business as a group/cooperative: joint bulk purchasing of raw materials brings lower prices and better delivery terms; joint marketing (sharing transport responsibility lowers prices; the group can agree deals with big customers an individual cannot); and easier access to services and training, because providers prefer groups. (Laos's book.)
 
+**Co-operatives part.** The co-operative business sector: what a co-operative is, its significance and modern trends (teacher guide) (Sri Lanka's teacher guide.)
+
+**Co-operatives part.** Co-operative companies: their start, registration and working (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

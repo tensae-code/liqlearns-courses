@@ -182,3 +182,45 @@ b) Working capital: beginners underrate it, thinking it is only for emergencies;
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: b) Working capital: beginners underrate it, thinking it is only for emergencies; a trader must hold enough stock…** — That is what this lesson teaches in its working-capital part part (Laos's book).
+
+**29.** What does this lesson teach about the finance-role part? (Sub lesson 5)
+a) The role of financial management in a business
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The role of financial management in a business** — That is what this lesson teaches in its finance-role part part (Sri Lanka's teacher guide).
+
+**30.** What does this lesson teach about the sources-of-finance part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Alternative sources of finance available to a business, evaluated against the business's financial needs
+**Answer: d) Alternative sources of finance available to a business, evaluated against the business's financial needs** — That is what this lesson teaches in its sources-of-finance part part (Sri Lanka's teacher guide).
+
+**31.** What does this lesson teach about the investment-introduction part? (Sub lesson 5)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Investment introduced, and the points to consider when choosing an investment avenue
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Investment introduced, and the points to consider when choosing an investment avenue** — That is what this lesson teaches in its investment-introduction part part (Sri Lanka's book).
+
+**32.** What does this lesson teach about the investment-avenues part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The various types of investment avenues and the benefits obtained through them
+**Answer: d) The various types of investment avenues and the benefits obtained through them** — That is what this lesson teaches in its investment-avenues part part (Sri Lanka's book).
+
+**33.** What does this lesson teach about the capital part? (Sub lesson 5)
+a) Capital: the function of capital and how capital is raised
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Capital: the function of capital and how capital is raised** — That is what this lesson teaches in its capital part part (Sri Lanka's book).
+
+**34.** What does this lesson teach about the industry-and-finance part? (Sub lesson 5)
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Industry and finance: how industry is financed
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Industry and finance: how industry is financed** — That is what this lesson teaches in its industry-and-finance part part (Sri Lanka's book).

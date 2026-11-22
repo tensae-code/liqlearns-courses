@@ -124,6 +124,18 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 
 **Worked-example part.** A worked balance summary for the standard plan: fixed assets — a building 6,000,000 kip and tools and equipment 1,700,000 kip; current assets 4,800,000 kip; net worth 7,700,000 kip, with long-term liabilities. (Laos's teacher guide.)
 
+**First-statements part.** Preparing the income statement and the statement of financial position from the accounting equation (teacher guide) (Sri Lanka's teacher guide.)
+
+**Sole-trader-statements part.** Financial statements of a sole proprietorship: their importance and their preparation (teacher guide) (Sri Lanka's teacher guide.)
+
+**Introduction part.** Financial statements introduced: what they are and why a business prepares them (Sri Lanka's book.)
+
+**Income-statement part.** The profit and loss (income) statement (Sri Lanka's book.)
+
+**Financial-position part.** The statement of financial position (Sri Lanka's book.)
+
+**Profit part.** Profit: gross profit and net profit distinguished (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader. Your companion asks one question back — answer it from the lesson.

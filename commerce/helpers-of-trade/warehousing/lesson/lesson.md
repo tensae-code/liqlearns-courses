@@ -23,6 +23,14 @@ A warehouse is a building — used by producers, wholesalers and retailers — w
 
 **Functions.** The importance and functions of warehouses, and the advantages and disadvantages of warehousing (Nigeria's book.)
 
+**Warehousing part.** Warehousing: how warehousing is used effectively for the success of business (teacher guide) (Sri Lanka's teacher guide.)
+
+**Warehousing part.** Warehousing (களஞ்சியப்படுத்தல்): storing goods as an aid to trade (Sri Lanka's book.)
+
+**Warehousing part.** Warehouses (பண்டக சாலைகள்): why goods are stored between production and sale, and the kinds of warehouses (Sri Lanka's book.)
+
+**Bonded-warehouses part.** Customs (bonded) warehouses (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a warehouse keeps goods safe and in condition between making and selling — taking goods in, holding what is needed and no more, grading and conditioning them, and sending them out — so trade never has to stop for want of stock, and stored goods can even stand as collateral for a loan. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: warehousing, warehousing. Your companion asks one question back — answer it from the lesson.

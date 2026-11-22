@@ -64,3 +64,10 @@ b) Unit 10.4: preparing for the workplace — the job application portfolio and 
 c) Appendix: the sample trade documents — statement of account, order form/purchase order, invoice, receipt, and stock…
 d) Unit 10.3: the bank reconciliation process for the small business
 **Answer: d) Unit 10.3: the bank reconciliation process for the small business** — That is what this lesson teaches in its checking the bank account part part (Papua New Guinea's teacher guide.)
+
+**10.** What does this lesson teach about the bank-reconciliation part?
+a) Preparing the bank reconciliation statement
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Preparing the bank reconciliation statement** — That is what this lesson teaches in its bank-reconciliation part part (Sri Lanka's teacher guide).

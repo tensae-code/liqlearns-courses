@@ -45,3 +45,45 @@ b) Auxiliaries to trade, 1 — transportation: it carries produced goods through
 c) Transport defined — the movement of persons and things from place to place by a transport means, against a fare or…
 d) Carrying goods by each means in turn — road by truck, rail (with its refrigerator and container wagons for…
 **Answer: a) Land transport: road and rail** — That is what this lesson teaches in its land part (Nigeria's book.)
+
+**9.** What does this lesson teach about the transport-introduction part?
+a) Transport's contribution to business: getting transport's contribution effectively
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Transport's contribution to business: getting transport's contribution effectively** — That is what this lesson teaches in its transport-introduction part part (Sri Lanka's teacher guide).
+
+**10.** What does this lesson teach about the modes part?
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) Selecting a suitable mode and method of transportation
+**Answer: d) Selecting a suitable mode and method of transportation** — That is what this lesson teaches in its modes part part (Sri Lanka's teacher guide).
+
+**11.** What does this lesson teach about the transport part?
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The transport service: the basic elements of transport (way, mode, power), choosing a suitable means of transp…
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The transport service: the basic elements of transport (way, mode, power), choosing a suitable means of transp…** — That is what this lesson teaches in its transport part part (Sri Lanka's book).
+
+**12.** What does this lesson teach about the transport part?
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) Transport as an aid to trade
+**Answer: d) Transport as an aid to trade** — That is what this lesson teaches in its transport part part (Sri Lanka's book).
+
+**13.** What does this lesson teach about the land-transport part?
+a) Land transport: rail and road carriage of goods
+b) Prior-period errors: what counts as an error (mathematical mistakes, misapplied policies, oversights, fraud) a…
+c) Methods of selecting suitable applicants
+d) The financial statements of non-profit organisations (receipts/payments and income/expenditure based)
+**Answer: a) Land transport: rail and road carriage of goods** — That is what this lesson teaches in its land-transport part part (Sri Lanka's book).
+
+**14.** What does this lesson teach about the water-and-air part?
+a) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+b) Water and air transport: canals, rivers, sea and air carriage
+c) Rectifying the errors that occur in recording transactions
+d) The social responsibility of business and the importance of fulfilling it
+**Answer: b) Water and air transport: canals, rivers, sea and air carriage** — That is what this lesson teaches in its water-and-air part part (Sri Lanka's book).

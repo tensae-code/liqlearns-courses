@@ -22,6 +22,10 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Inventory-records.** The inventory sub-system: how stock records are kept and controlled as their own sub-system of the accounts (Fiji's book.)
 
+**Material-control part.** The material control process end to end: purchasing procedure (quotation, supplier selection, purchase order, receipt, payment), stores documents (bin card, stores ledger), and issuing/pricing materials by FIFO and weighted average (teacher guide) (Sri Lanka's teacher guide.)
+
+**Stock-levels part.** Stock-level control: re-order level, maximum, minimum and average stock levels, and the economic order quantity (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the stores ledger is the cost-accounting record of the factory store: every receipt and issue of material is priced and balanced in it, fed by the stores documents, so the business always knows what materials it holds, what they cost, and what each job used. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Opening part of the proposed lesson, Documents part of the proposed lesson, Ledger part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

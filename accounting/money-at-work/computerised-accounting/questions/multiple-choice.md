@@ -101,3 +101,10 @@ b) Operating a spreadsheet package for accounting work: what spreadsheet softwar
 c) Processing data by character, formula and function: the four data types (text, numeric, date/time, formula),…
 d) Systems for implementing the accounting process: the systems, manual and computerised, that run the process
 **Answer: d) Systems for implementing the accounting process: the systems, manual and computerised, that run the process** — That is what this lesson teaches in its systems part (Fiji's book.)
+
+**16.** What does this lesson teach about the spreadsheet part?
+a) Preparing the cost statement with a computer spreadsheet: opening the spreadsheet and building the statement s…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Preparing the cost statement with a computer spreadsheet: opening the spreadsheet and building the statement s…** — That is what this lesson teaches in its spreadsheet part part (Sri Lanka's book).

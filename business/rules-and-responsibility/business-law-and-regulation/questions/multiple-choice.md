@@ -139,3 +139,24 @@ b) Bank credit and its forms: a bank lets a customer use a sum of money for a se
 c) The Law on Enterprises itself: the body of legal norms governing enterprises' rights and obligations, the…
 d) The advantages and difficulties of the small enterprise: advantages — flexible organisation that can change…
 **Answer: c) The Law on Enterprises itself: the body of legal norms governing enterprises' rights and obligations, the…** — That is what this lesson teaches in its business law and regulation part (Vietnam's book).
+
+**22.** What does this lesson teach about the government-intervention part? (Sub lesson 5)
+a) How government intervenes in businesses
+b) Communication for business success: the factors that make communication effective
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) How government intervenes in businesses** — That is what this lesson teaches in its government-intervention part part (Sri Lanka's teacher guide).
+
+**23.** What does this lesson teach about the business-and-economic-goals part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) How businesses contribute to achieving the government's economic goals
+**Answer: d) How businesses contribute to achieving the government's economic goals** — That is what this lesson teaches in its business-and-economic-goals part part (Sri Lanka's teacher guide).
+
+**24.** What does this lesson teach about the contracts part? (Sub lesson 5)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Contracts: what makes a contract in trade
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Contracts: what makes a contract in trade** — That is what this lesson teaches in its contracts part part (Sri Lanka's book).

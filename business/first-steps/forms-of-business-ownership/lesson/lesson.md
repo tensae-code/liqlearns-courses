@@ -183,6 +183,22 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Advantages/disadvantages part.** Sole ownership weighed: advantages — low start-up cost, few regulations, direct control, small working-capital need, easy tax payment, the owner keeps all profit; disadvantages — hard to raise capital, the owner bears every decision and problem alone. (Laos's book.)
 
+**Organisations-introduction part.** The organisation concept and the classification of business organisations (teacher guide) (Sri Lanka's teacher guide.)
+
+**Sole-proprietor part.** Sole proprietorship: characteristics, advantages and limitations (teacher guide) (Sri Lanka's teacher guide.)
+
+**Partnership part.** Partnership: characteristics, advantages and disadvantages, and the necessity of a deed of partnership (teacher guide) (Sri Lanka's teacher guide.)
+
+**Companies part.** Incorporated companies compared: the types of companies and their specific characteristics (teacher guide) (Sri Lanka's teacher guide.)
+
+**Specific-forms part.** Specific business forms (franchising and the other named forms): their significant characteristics, benefits and limitations (teacher guide) (Sri Lanka's teacher guide.)
+
+**Public-sector part.** Public sector business organisations and their importance (teacher guide) (Sri Lanka's teacher guide.)
+
+**Companies part.** Companies as a form of business organisation (Sri Lanka's book.)
+
+**Ownership-forms part.** Sole proprietorship and partnership: the sole trader defined, his advantages and the partnership form (Sri Lanka's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

@@ -28,20 +28,29 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **26 lessons, 1050 placements stocked.**
+environment, e-business). **26 lessons, 1440 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 42 books
-in all (33 student books and 9 teacher guides); the 36 below carry this course (the Business parts
-of each are what stock these lessons). The other 6 read books —
+`lesson/sources.md`. The set read for the split — 54 books
+in all (37 student books and 17 teacher guides); the 40 below carry this course (the Business parts
+of each are what stock these lessons). The other 14 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
 Accountancy Form Five, and Zambia's
 Principles of Accounts Teaching Module (a teacher guide), and Papua New Guinea's Accounting — Upper Secondary Teacher Guide (2008) (a teacher guide) — are
 pure accounting books: every part of them fed Accounting, none
 fed Business, and they are named here so the read set is whole.
+Sri Lanka's Accounting Grade 13 Teacher's Guide (2018), its 2009
+Instructional Manual, its Accounting Grade 12 Teacher's Guide
+(2017) and 2010 Instructional Manual, its Business Studies
+Grade 12 Instructional Manual (2009, whose one extra fed
+Commerce), its Business Studies Grade 13 Instructional Manual
+(2010 — read-and-compared, superseded in full, 0 placements),
+and its Tamil Commerce and Accounting Year 9 and Year 10
+textbooks likewise fed Accounting and Commerce only, and are
+named here so the read set is whole.
 
 - *Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-577-8 (PDF). **Grade 10 (SMK/MAK Kelas X). STUDENT book. Language: Indonesian (Bahasa Indonesia).** 328 PDF pages (printed pp. x + 1–318). **Verdict: COMPLETE** — read whole book to the last teaching page (Bab VIII ends printed p. 304). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.)
   - Contents map for this split: Bab I (what a business is and its kinds), Bab II (the accounting profession and its jobs, professional ethics, work rules in financial services, business opportunities in accounting services) and Bab VIII (occupational safety, health and security — K3; the 5R/5S industrial work culture) fed **Business** (7 placements in this course, from this book); Bab III–VI fed **Accounting** (30 placements); Bab VII (basic banking concepts) fed **Commerce** (6 placements).
@@ -221,12 +230,48 @@ fed Business, and they are named here so the read set is whole.
 
 - *ຄູມືຄູ (Teacher's Guide: Business for combined study with 6 subject branches), Grade 11 (ມ.6)* — the same team as the Grade 11 Business Combined student book — RIES, Ministry of Education and Sports; 2015 printing. **Grade 11. TEACHER GUIDE. Language: Lao.** 65 PDF pages. **TEACHER GUIDE — evidence only, acceptance 0; every placement keeps its (teacher guide) marking.** **Verdict: COMPLETE with named OCR incidents** — read in full via Lao OCR of page renders; only its answer keys beyond the student book are placed (the worked Buasi capital computation — method placed, totals not cited, as the OCR'd totals do not reconcile — the naming of the 5 Cs, cost-classification answers, a fully worked cash book). PDF p. 30 is destroyed in OCR and the cash-flow tables at PDF pp. 56 and 58 are rotated/garbled number grids — nothing is placed from those pages. Contents map: general guidance + lesson guidance and answer keys for the Combined student book's Ch.1–4. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.)It stocked 3 placements into this course as evidence only (1 more into Commerce, 2 into Accounting).
 
+- *Accounting — Teacher's Guide, Grade 13 (To be implemented from 2018)* — Department of Commerce, Faculty of Science & Technology, National Institute of Education, Maharagama, Sri Lanka. First Edition 2018, © National Institute of Education. **Grade 13. TEACHER GUIDE. Language: English.** 211 PDF pages (printed pp. 1–195). **Verdict: COMPLETE** — read in full (the LATEST edition of the Accounting G13 pair; the 2009 manual below was compared section by section and superseded except four extras). **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Sri Lanka counts in the lessons it touches through its student textbooks below.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *Accounting, Grade 13 — Teacher's Instructional Manual (Implemented from year 2009)* — Department of Business Studies, Faculty of Science and Technology, National Institute of Education; printed at the State Printing Corporation, Panaluwa, Padukka. **Grade 13. TEACHER GUIDE (earlier edition). Language: English.** 162 PDF pages (printed pp. 1–153). **Verdict: read via its contents map and checked section by section against the 2018 guide — superseded except the four extras placed under its own header** (intangible assets; share issue by instalments; shares in arrears and resale; cash-flow ratios). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *Business Studies — Teachers' Guide, Grade 13* (cover: "(Implemented from 2017)"; imprint: First Print 2018) — Department of Commerce, Faculty of Science & Technology, National Institute of Education, Maharagama. **Grade 13. TEACHER GUIDE. Language: English.** 390 PDF pages (body printed pp. 1–327). The PDF carries a **DRAFT watermark** on the cover/imprint leaves — recorded as printed. **Verdict: COMPLETE** — read in full (the LATEST edition of the Business Studies G13 pair). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - This book stocked **Business** with 62 placements in this course.
+
+- *Business Studies — Teachers' Instructional Manual, Grade 13* (imprint: "Grade 13 – 2010") — Department of Business Studies, Faculty of Science and Technology, National Institute of Education. **Grade 13. TEACHER GUIDE (earlier edition). Language: English.** 196 PDF pages (body printed pp. 1–169). **Verdict: read via its contents map and checked section by section against the 2018 guide — SUPERSEDED IN FULL, 0 placements** (nothing in the 2010 manual is absent from the 2018 guide). It leaves the pending queue recorded as read-and-compared, superseded in full (the Vietnam Grade 11 Study Topics / Samoa guide precedent for zero-placement departures). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22).
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *Business Studies — Teachers' Guide, Grade 12 (Implemented from 2017)* — Department of Commerce, Faculty of Science & Technology, National Institute of Education, Maharagama; First Print 2017 (ISBN line left blank in the imprint). **Grade 12. TEACHER GUIDE. Language: English.** 219 PDF pages (body printed pp. 1–209). **Verdict: COMPLETE** — read in full (the LATEST edition of the Business Studies G12 pair). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - This book stocked **Business** with 29 placements in this course.
+
+- *Business Studies — Teacher's Instructional Manual, Grade 12 (Implemented from year 2009)* — Department of Business Studies, Faculty of Science and Technology, National Institute of Education. **Grade 12. TEACHER GUIDE (earlier edition). Language: English.** 164 PDF pages (body printed pp. 1–141). **Verdict: read via its contents map and checked section by section against the 2017 guide — superseded except one extra placed under its own header** (the parties in the insurance market). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *Accounting, Grade 12 — Teacher's Guide (To be implemented from 2017)* — Department of Commerce, Faculty of Science and Technology, National Institute of Education, Maharagama; First Edition 2017; published by the Educational Publications Department. **Grade 12. TEACHER GUIDE. Language: English.** 257 PDF pages (body printed pp. 1–238). The guide's embedded text layer is a legacy-font garble, so the book was read from English OCR of page renders. **Verdict: COMPLETE** — read in full (the LATEST edition of the Accounting G12 pair, and the English half of the 2017 language pair — see the library debt in the honesty flags: the library's "Tamil" copy of this guide, manifest n=4, is byte-identical to this English file, MD5 8699cb9de8b135ac74941cce6dc31df3, and is NOT a Tamil version; the record was filed once from the English copy and stocks nothing separately). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *Accounting, Grade 12 — Teacher's Instructional Manual* (imprint: "Grade 12 – 2010") — Department of Business Studies, Faculty of Science and Technology, National Institute of Education. **Grade 12. TEACHER GUIDE (earlier edition). Language: English.** 183 PDF pages (body printed pp. 1–174). **Verdict: read via its contents map and checked section by section against the 2017 guide — superseded except the seven extras placed under its own header** (the conceptual framework; inventory concepts and measurement; PPE concepts and accounting; the sole-trader and partnership cash flow statements). **Evidence only, acceptance 0.** Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *வணிகமும் கணக்கீட்டுக் கல்வியும் (Business and Accounting Studies), Grade 11* — Educational Publications Department; First edition 2015; printed by Karunaratne & Sons, Homagama. **Grade 11. STUDENT book. Language: Tamil.** 156 PDF pages (printed pp. 1–146). A Noolaham Foundation scan with no usable text layer — read from Tamil OCR of 150-dpi renders. **Verdict: COMPLETE** — read in full, split part by part (Ch. 1 Commerce; Ch. 2–3, 8 Business; Ch. 4–7 Accounting). Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - This book stocked **Business** with 7 placements in this course.
+
+- *வர்த்தகமும் கணக்கியலும் (Commerce and Accounting), Year 9* — Educational Publications Department; first edition 1986, this the ninth edition (1996 printing); Tamil translation of the Sinhala original. **Grade 9. STUDENT book. Language: Tamil.** 174 PDF pages (printed pp. 1–164). A Noolaham Foundation scan with no usable text layer — read from Tamil OCR of 150-dpi renders; the contents leaf OCR'd poorly and the contents map was recovered from the chapter openers. **Verdict: COMPLETE** — read in full, split part by part (Ch. 1–9 Commerce; Ch. 10–12 Accounting). Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *வர்த்தகமும் கணக்கியலும் (Commerce and Accounting), Year 10* — Educational Publications Department; first edition 1986, this the thirteenth edition 1998 (the reprint for 1999 distribution); Tamil translation of the Sinhala original. **Grade 10. STUDENT book. Language: Tamil.** 236 PDF pages (printed pp. 1–226). A Noolaham Foundation scan with no usable text layer — read from Tamil OCR of 150-dpi renders. **Verdict: COMPLETE** — read in full, split part by part (Ch. 1–6 Commerce, incl. the warehousing chapter; Ch. 7–12 Accounting). Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - No part of this book fed **Business** as filed; it is named here so the read set stays whole.
+
+- *வணிகம் (ஆரம்பநூல்) — Commerce (Introductory Book)* — C. N. Devarajan; copyright held by the Government; published by the Educational Publications Department, printed at the Government Press Corporation; first edition 1963, second 1967, this the third edition 1974. **Grade 10. STUDENT book. Language: Tamil.** 456 PDF pages (printed pp. 1–442). **Reading method, stated plainly: this scan could not be OCR-read — the 1974 letterpress Tamil typeface defeats Tesseract (verified experimentally by the reader); the book was read VISUALLY from page renders (the full contents, the prefaces, and the openers/body at nine folio-verified points), and the remaining placements rest on the contents' own teaching headings. It is never presented as a text-layer read.** **Verdict: read and split part by part** — overwhelmingly Commerce; its production, capital, organisation, saving, ownership and industry-and-finance chapters fed Business; its profit chapter carries the book's only Accounting. Read in the Phase 3 pending-queue wave (2026-11-22) and merged the same day.
+  - This book stocked **Business** with 9 placements in this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 26 lessons,
-  stocked with 1,119 placements from **student books** of 22
-  countries (Dominica, Ecuador, Egypt, Fiji, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan, Vietnam, Laos) —
-  taught in 22 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 1,135 placements from **student books** of 23
+  countries (Dominica, Ecuador, Egypt, Fiji, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan, Vietnam, Laos, Sri Lanka) —
+  taught in 23 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -257,19 +302,24 @@ fed Business, and they are named here so the read set is whole.
   acceptance 0 for the guide rows themselves; Laos IS counted
   as a teaching country in this course, through its four
   student books, and every lesson the guides touch says so in
-  its sources. Teacher guides stand in
+  its sources. Sri Lanka's four *Business Studies* teacher guides (the Grade 13 Teacher's Guide, First Print 2018 — its cover carries a DRAFT watermark, recorded as printed — and the Grade 12 Teacher's Guide, First Print 2017, read 2026-11-22; the two earlier Instructional Manuals were read-and-compared, the 2010 Grade 13 manual superseded in full with 0 placements) —
+  91 placements stocked in this course as evidence only,
+  acceptance 0 for the guide rows themselves; Sri Lanka IS
+  counted as a teaching country in this course, through its
+  student textbooks, and every lesson the guides touch says
+  so in its sources. Teacher guides stand in
   the pending queues and, when they come, will be evidence
   only (acceptance 0), as in every course.
 
 ## The pending queue — Business books not yet in the course
 
-8 Business books are in hand in the library record but
+4 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
 (every [BUSINESS] entry, with its status). None of their
 teaching is in this course yet; the course grows when the disk
-hold lifts and they are read.
+hold lifts and they are read. **Queue closure (2026-11-22): Sri Lanka's four Business Studies records were read in the Phase 3 wave and have left this queue — the 85-book pending queue is now CLOSED, and the four books below (Kenya Form 2 and Nigeria JSS 1–3, all no-copy-exists) are the only unread books left in the whole split.**
 
 
 **Kenya (1):**
@@ -280,11 +330,6 @@ hold lifts and they are read.
 - [BUSINESS · student] Business Studies for JSS Book 2 (grade-08) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 - [BUSINESS · student] Business Studies for JSS Book 3 (grade-09) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 
-**Sri Lanka (4):**
-- [BUSINESS · book] business studies 2009 english (grade-12) — secured-not-on-disk
-- [BUSINESS · book] business studies 2017 english (grade-12) — secured-not-on-disk
-- [BUSINESS · book] business studies 2010 english (grade-13) — secured-not-on-disk
-- [BUSINESS · book] business studies 2018 english (grade-13) — secured-not-on-disk
 
 
 ## Honesty flags
@@ -338,3 +383,5 @@ hold lifts and they are read.
 - **Vietnam — combined carriers, one read-with-zero-placements book, no marketing unit:** Vietnam's six *Giáo dục Kinh tế và Pháp luật* (Economic and Legal Education) books are COMBINED Economics + Law carriers, read for this split for their Business parts only (the standing exception); the rest was placed by the Economics wave. The Grade 11 Study Topics volume (© 2023, ISBN 978-604-0-35086-2) was READ AND JUDGED PURE LAW — its civil-law and labour-law units teach by quoting the Civil Code 2015 and the Labour Code 2019 article by article (statutory entitlement law, not business teaching) — so it stocks nothing anywhere in the split; it is recorded in the read-books list above as read-with-zero-placements and has left the pending queue (the Samoa Year 13 guide precedent). **No standalone marketing or production-planning unit exists in any of the six books**; production planning appears only inside the Grade 12 business-plan lesson and the Grade 10 Study Topics operations process, and is placed there. The Grade 12 Study Topics volume's restatement of the four enterprise forms was deliberately not re-placed — the same forms teaching is already filed from the Grade 10 main textbook. All six books are image-only scans with no text layer, read from page renders OCR'd with Tesseract's Vietnamese model; every summary stocked is the reader's own words in English, and no Vietnamese statutory text is transcribed anywhere in the courses.
 
 - **Laos — four student books, four teacher guides, OCR-read:** all eight Laos PDFs carry a legacy-font text layer that extracts as garbage, so every book was read via Lao OCR (Tesseract, `lao` model) of 150-dpi page renders; every summary stocked is the reader's own words in English. The two Combined student books are NOT uniform condensations — the Grade 10 Combined book is re-edited and reordered with content absent from Grade 10 Business, while the Grade 11 Combined book is a true condensation of named sections only — so every book is stocked under its own Book entry exactly as filed, and no filed row was dropped (the split-wide row delta is exactly +158). Named OCR-destroyed pages, from which nothing is placed: the Grade 11 Combined student book's cash-flow table (PDF p. 45) and the Grade 11 Combined teacher guide's PDF p. 30 and its cash-flow tables at PDF pp. 56 and 58. The Grade 11 Business teacher guide's rotated-table pages were read from their upright counterparts. The Grade 11 Combined teacher guide's Buasi answer-key totals do not reconcile as OCR'd — the method is placed, the totals are not cited. Grade 11 Combined student placements cite PDF pages with printed pages marked ≈ where folios were obscured. The four teacher guides are evidence only (acceptance 0); Laos is a teaching country in this course through its student books.
+
+- **Sri Lanka — eight teacher guides, four student textbooks, one duplicate record, one visual read:** Sri Lanka's thirteen records (read in the Phase 3 wave, 2026-11-22) are eight NIE teacher guides (every placement evidence only, acceptance 0; the earlier Instructional Manuals were read-and-compared against the later guides and superseded except the named extras; the Business Studies Grade 13 manual of 2010 was superseded IN FULL with 0 placements) and four Tamil-medium student textbooks (Educational Publications Department), through which Sri Lanka counts as a teaching country in this course. The Accounting Grade 12 2017 "Tamil" guide record (manifest n=4) is a byte-identical duplicate of the English guide (MD5 8699cb9de8b135ac74941cce6dc31df3) — it is not a Tamil version at all, stocks nothing, and the missing Tamil guide is recorded as a LIBRARY DEBT in the Accounting ABOUT's honesty flags. The 1974 *Commerce (Introductory Book)* could not be OCR-read and was read visually from renders, as its sources entries state. The Business Studies Grade 13 guide's cover carries a DRAFT watermark, recorded as printed.

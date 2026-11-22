@@ -17,3 +17,10 @@ a) It is always left unsettled  b) In the exchange's own arbitration  c) Only in
 **4.** Why does an exchange settle disputes by arbitration instead of leaving every quarrel to the courts?
 a) So disputes are decided quickly, by people who know the trade  b) So no one ever has to keep a bargain  c) So prices can be hidden
 **Answer: a) So disputes are decided quickly, by people who know the trade** — Arbitration keeps trade moving instead of clogging the courts.
+
+**5.** What does this lesson teach about the dispute-settlement part?
+a) The trade-dispute settlement custom: the staged path from negotiation through conciliation to arbitration, set…
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) The trade-dispute settlement custom: the staged path from negotiation through conciliation to arbitration, set…** — That is what this lesson teaches in its dispute-settlement part part (Sri Lanka's book).

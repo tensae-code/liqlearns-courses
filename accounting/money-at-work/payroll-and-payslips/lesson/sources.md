@@ -1,6 +1,6 @@
 # Sources — Payroll and Payslips
 
-countries: Samoa, Greece, Bhutan, Papua New Guinea, Fiji
+countries: Samoa, Greece, Bhutan, Papua New Guinea, Fiji, Sri Lanka
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -18,6 +18,8 @@ countries: Samoa, Greece, Bhutan, Papua New Guinea, Fiji
 
 **Book 8:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
 
+**Book 9:** Full title: *Accounting — Teacher's Guide, Grade 13 (To be implemented from 2018)*, G.C.E. (Advanced Level) Publisher: Department of Commerce, Faculty of Science & Technology, National Institute of Education, Maharagama, Sri Lanka; First Edition 2018, © National Institute of Education Grade: 13 · Language: English · Pages: 211 PDF pp.; printed pp. 1–195 (printed folio = PDF page − 16) Source: manifest `manifests-phase2/sri-lanka.json` n=6, route `tree`, fetched 1,165,973 bytes = expected; fetched as `scratch-phase2/sri-lanka/accounting-2018-english.pdf` (deleted after filing) Verified: cover and imprint leaf (PDF pp. 1–2) — title, "Teacher's Guide", Grade 13, NIE Department of Commerce, First Edition 2018 all match the manifest record ("accounting 2018 english", grade-13, teacher-guide path). **What it actually is: a TEACHER GUIDE** — syllabus competencies with subject-matter guidance, model activities and assessment criteria; no student text. Edition relationship: this is the LATEST edition of the Accounting G13 pair (2009 Teacher's Instructional Manual → this 2018 Teacher's Guide), read in full. The 2009 manual was compared section by section; its extras are filed under Book 2. Verdict: read in full. Six competencies (11.0–16.0): Sri Lanka Accounting Standards (LKAS/SLFRS) topics, limited-company financial statements, ratio analysis, management-accounting basics, CVP, capital investment decisions. All ACCOUNTING strand. Contents map: Competency 11.0 SL Accounting Standards (printed 1); 12.0 Financial statements of a limited company (50); 13.0 Ratio analysis for management decisions (106); 14.0 Basic concepts of management accounting (123); 15.0 Cost-volume-profit decision support (159); 16.0 Capital investment decisions (173).
+
 | Lesson part | Where it comes from |
 |---|---|
 | payslips and net pay | Book 1 (Accounting Year 12), printed p. 11 |
@@ -28,9 +30,14 @@ countries: Samoa, Greece, Bhutan, Papua New Guinea, Fiji
 | working out take-home pay part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG 9–10 LS (2006)), printed p. 100 |
 | running the payroll part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed pp. 121–122 |
 | payroll part of the lesson | Book 8 (Year 12 Accounting), printed p. 175 |
+| labour-records part (teacher guide) | Book 9 (Accounting G13 TG 2018 (Sri Lanka)), printed p. 137 |
+| wage-calculation part (teacher guide) | Book 9 (Accounting G13 TG 2018 (Sri Lanka)), printed p. 141 |
+| pay-sheet part (teacher guide) | Book 9 (Accounting G13 TG 2018 (Sri Lanka)), printed p. 144 |
 
 **Acceptance count: taught in 4 countries (Samoa, Greece, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: payroll and payslips, money at work, accounting, samoa, greece, bhutan, papua-new-guinea, fiji
+Teacher-guide evidence: this lesson also carries evidence from Sri Lanka's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Sri Lanka is not counted in the teaching countries in the acceptance line above for those guide rows.
+
+Searchable tags: payroll and payslips, money at work, accounting, samoa, greece, bhutan, papua-new-guinea, fiji, sri-lanka

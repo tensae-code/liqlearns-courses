@@ -94,6 +94,12 @@ Green technology and sustainable business practice: green technology and sustain
 
 **Business ethics and responsibility.** Why carrying out CSR matters, and the citizen-manager's own duties: for society it supports sustainable national development, helps solve community difficulties and protects the environment; for the enterprise it raises quality, brand value and reputation, builds the trust of the public and its workers and strengthens competitiveness; and the citizen who helps run an enterprise must obey the law, protect workers' safety and lawful interests, guarantee product quality and consumers' interests, and build the firm's community-responsibility policies to fit its conditions. (Vietnam's book.)
 
+**Social-responsibility part.** The social responsibility of business and the importance of fulfilling it (teacher guide) (Sri Lanka's teacher guide.)
+
+**Sustainability part.** Business and sustainable development: acting in an environment-friendly way and the business's contribution to sustainability (teacher guide) (Sri Lanka's teacher guide.)
+
+**Code-of-ethics part.** Business ethics and why a code of ethics is necessary for a business's success (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility, business ethics. Your companion asks one question back — answer it from the lesson.

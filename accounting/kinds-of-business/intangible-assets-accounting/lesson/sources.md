@@ -1,16 +1,21 @@
 # Sources — Intangible Assets
 
-countries: Bhutan
+countries: Bhutan, Sri Lanka
 
 **Book 1:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
+**Book 2:** Full title: *Accounting, Grade 13 — Teacher's Instructional Manual (Implemented from year 2009)*, G.C.E. (Advanced Level). The imprint leaf is headed "Grade 13 – 2010" (the manual's own printing line). Publisher: Department of Business Studies, Faculty of Science and Technology, National Institute of Education; printed at the State Printing Corporation, Panaluwa, Padukka; © National Institute of Education Grade: 13 · Language: English · Pages: 162 PDF pp.; printed pp. 1–153 (printed folio = PDF page − 9), front matter i–ix Source: manifest `manifests-phase2/sri-lanka.json` n=5, route `tree`, fetched 417,518 bytes = expected; fetched as `scratch-phase2/sri-lanka/accounting-2009-english.pdf` (deleted after filing) Verified: cover and imprint (PDF pp. 1–2) — "ACCOUNTING Grade 13, Teachers Instructional Manual (Implemented from year 2009)", NIE Department of Business Studies. **What it actually is: a TEACHER GUIDE** (the 2009 predecessor format of Book 1). Edition relationship: EARLIER edition of the Accounting G13 pair. Read via its contents map and checked section by section against the 2018 Teacher's Guide (Book 1). Superseded by the 2018 guide except for the four extras placed below. Section check: its Competency 12.0 (standards) = 2018's 11.0 minus inventory and PPE (which sit in the G12 book in this edition) and plus intangible assets (extra, placed); 13.0 (companies) = 2018's 12.0 plus share issues by instalments and shares in arrears (extras, placed); 14.0 (ratios) = 2018's 13.0 plus cash flow ratios (extra, placed); 15.0 (cost/management accounting), 16.0 (CVP) and 17.0 (capital decisions) = 2018's 14.0, 15.0 and 16.0, including unit cost per product (named in the 2018 overhead concept map) — covered, not re-placed. Contents map: Competency 12.0 Sri Lanka Accounting Standards (printed 1); 13.0 Limited company results, position and cash flow (28); 14.0 Ratio analysis for managerial decisions (60); 15.0 Cost and management accounting concepts (81); 16.0 Cost behaviour and CVP (114); 17.0 Capital investment decisions (128).
 
 | Lesson part | Where it comes from |
 |---|---|
 | recognition part of the proposed lesson | Book 1 (Accountancy XII), printed p. 75 |
 | internally generated part of the proposed lesson | Book 1 (Accountancy XII), printed p. 85 |
+| the 2018 G13 guide has no intangible-assets level; this is the pair's only teaching of it (teacher guide) | Book 2 (Accounting G13 TIM 2009 (Sri Lanka)), printed p. 24 |
 
 **Acceptance count: taught in 1 country (Bhutan)** — every book above is a student book, so each country counts.
 
 Filed name note: this lesson was proposed as a NEW lesson (`intangible-assets-accounting`) by Bhutan's reader. It was checked against every existing Accounting lesson first: no existing lesson teaches this one thing, so the lesson is built here, in Kinds of Business, and the resolution is recorded in the registry's Phase 3 addendum.
 
-Searchable tags: intangible assets accounting, kinds of business, accounting, bhutan
+Teacher-guide evidence: this lesson also carries evidence from Sri Lanka's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Sri Lanka is not counted in the teaching countries in the acceptance line above for those guide rows.
+
+Searchable tags: intangible assets accounting, kinds of business, accounting, bhutan, sri-lanka

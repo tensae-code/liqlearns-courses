@@ -141,3 +141,31 @@ b) Your values, interests and experience, and how they bear on the career and th
 c) Time and resource management: every businessperson must be a good manager of time (computers and mobile…
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: c) Time and resource management: every businessperson must be a good manager of time (computers and mobile…** — That is what this lesson teaches in its time-management part part (Laos's book).
+
+**22.** What does this lesson teach about the definition part? (Sub lesson 5)
+a) What management is: the classic definitions (Follett, Stoner & Freeman, Kreitner) built into one working defin…
+b) Communication for business success: the factors that make communication effective
+c) The basic concepts marketing rests on (needs, wants, demand, exchange, markets)
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) What management is: the classic definitions (Follett, Stoner & Freeman, Kreitner) built into one working defin…** — That is what this lesson teaches in its definition part part (Sri Lanka's teacher guide).
+
+**23.** What does this lesson teach about the managerial-roles part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) Leadership: the characteristics of leaders and the bases/styles of leadership for directing the people who imp…
+c) Stock control: holding stock at the optimum level at low cost, why it is necessary, and the methods — the stoc…
+d) The roles of a manager (interpersonal, informational and decisional roles and the functions inside them)
+**Answer: d) The roles of a manager (interpersonal, informational and decisional roles and the functions inside them)** — That is what this lesson teaches in its managerial-roles part part (Sri Lanka's teacher guide).
+
+**24.** What does this lesson teach about the introduction part? (Sub lesson 5)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) Management introduced: what management is
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) Management introduced: what management is** — That is what this lesson teaches in its introduction part part (Sri Lanka's book).
+
+**25.** What does this lesson teach about the functions part? (Sub lesson 5)
+a) Government controls in trade: food control and exchange control
+b) Non-profit organisations introduced: what they are
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The functions of management
+**Answer: d) The functions of management** — That is what this lesson teaches in its functions part part (Sri Lanka's book).

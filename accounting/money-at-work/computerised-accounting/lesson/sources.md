@@ -1,6 +1,6 @@
 # Sources — Computerised Accounting
 
-countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji
+countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji, Sri Lanka
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -26,6 +26,8 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua
 
 **Book 12:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
 
+**Book 13:** Full title: *வணிகமும் கணக்கீட்டுக் கல்வியும்* (Business and Accounting Studies), Grade 11 (தரம் 11), Tamil medium Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); First edition 2015 (முதலாம் பதிப்பு - 2015); printed by Karunaratne & Sons, Homagama. Writer panel incl. M.H.M. Buhari, M.S.M. Irfan, T. Nandakumar, R.P. Gunapala, W.A. Dayaratne; editorial panel incl. Dr A.R. Ajwad, P.Y.G. Ratnasekera, S.K. Prabaharan Grade: 11 · Language: Tamil · Pages: 156 PDF pp.; printed pp. 1–146 (printed folio = PDF page − 10) Source: manifest `manifests-phase2/sri-lanka.json` n=1, route `release`, fetched 25,417,798 bytes = expected; fetched as `scratch-phase2/sri-lanka/sl-g11-bas-2015-tamil.pdf` (deleted after filing) Verified: title leaf and imprint read from Tamil OCR of the front pages (PDF pp. 3–4) — title, Grade 11, Educational Publications Department, first edition 2015 all match the manifest identity. **What it actually is: a STUDENT TEXTBOOK.** The Noolaham scan has no usable text layer; read from Tamil OCR of 150-dpi renders. Verdict: read in full, split part by part: Ch. 1 (trade and auxiliary services) is COMMERCE; Ch. 2 (management) and Ch. 3 (marketing) are BUSINESS; Ch. 8 (investment) is BUSINESS; Ch. 4–7 (financial statements, adjusting entries, non-profit organisations, production cost) are ACCOUNTING. Contents map: Ch. 1 Trade and auxiliary services (printed 1); Ch. 2 Management (40); Ch. 3 Marketing (46); Ch. 4 Financial statements of a business (53); Ch. 5 Financial statements with adjusting entries (78); Ch. 6 Non-profit organisations (108); Ch. 7 Production cost statement (121); Ch. 8 Investment (135).
+
 | Lesson part | Where it comes from |
 |---|---|
 | computers in accounting (Samoa's cost/resources way of framing it) | Book 1 (Accounting Year 12), printed p. 91 |
@@ -46,11 +48,12 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua
 | data-processing part of the lesson | Book 10 (Year 12 Accounting), printed p. 203 |
 | systems part of the lesson | Book 11 (Year 10 Commercial Studies), printed p. 137 |
 | systems part of the lesson | Book 12 (Year 9 Commercial Studies), printed p. 127 |
+| spreadsheet part | Book 13 (Business & Accounting Studies G11 (Sri Lanka, Tamil)), printed p. 133 |
 
-**Acceptance count: taught in 8 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 9 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Fiji, Sri Lanka)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji
+Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji, sri-lanka

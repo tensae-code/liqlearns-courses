@@ -30,6 +30,8 @@ A personal bank statement is read line by line and reconciled with the holder's 
 
 **Reconciling the bank.** Strand 2 Unit 2: bank reconciliation — its definition, the seven-step procedure, and the reasons for differences (deposits not credited, outstanding cheques, bank fees, interest, NSF cheques) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Bank-reconciliation part.** Preparing the bank reconciliation statement (teacher guide) (Sri Lanka's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book and the bank statement rarely show the same balance on the same day; a bank reconciliation explains the difference, item by item, until the two agree. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: main part, bank reconciliation, personal form, bank reconciliation. Your companion asks one question back — answer it from the lesson.

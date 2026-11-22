@@ -103,3 +103,31 @@ b) The three types of business: (1) production/manufacturing (farming, livestock
 c) Your values, interests and experience, and how they bear on the career and the lifestyle you choose
 d) First pointers on writing a business plan, and on organising and administering a business, including…
 **Answer: a) A worked cash book carrying the same standard transaction set as the full Business book (furniture 7,120,000;…** — That is what this lesson teaches in its worked-example part part (Laos's book).
+
+**16.** What does this lesson teach about the cash-book part? (Sub lesson 2)
+a) Recording a business's cash transactions (receipts and payments, cash and bank) in the cash book
+b) The types of insurance policies covering the various risks of a business
+c) Productivity: the input–output ratio and the approaches to increasing productivity
+d) Increasing share capital without new outside money and with it: rights issues, and reserve capitalisation (bon…
+**Answer: a) Recording a business's cash transactions (receipts and payments, cash and bank) in the cash book** — That is what this lesson teaches in its cash-book part part (Sri Lanka's teacher guide).
+
+**17.** What does this lesson teach about the petty-cash part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) The concepts behind successful organising: chain of command, unity of command, span of control (narrow/wide),…
+c) Purchasing for production: the materials and services a business buys, the purchasing department/manager, and…
+d) The petty cash book: recording petty cash expenses on the imprest system
+**Answer: d) The petty cash book: recording petty cash expenses on the imprest system** — That is what this lesson teaches in its petty-cash part part (Sri Lanka's teacher guide).
+
+**18.** What does this lesson teach about the cash-book part? (Sub lesson 2)
+a) Business and sustainable development: acting in an environment-friendly way and the business's contribution to…
+b) The cash book introduced in its three kinds — single-column, double-column and treble-column cash books
+c) The organisation concept and the classification of business organisations
+d) How effective communication makes the leading process succeed: systematic communication flowing through the or…
+**Answer: b) The cash book introduced in its three kinds — single-column, double-column and treble-column cash books** — That is what this lesson teaches in its cash-book part part (Sri Lanka's book).
+
+**19.** What does this lesson teach about the petty-cash part? (Sub lesson 2)
+a) Government controls in trade: food control and exchange control
+b) Depreciation as an adjustment, and presenting depreciable non-current assets in the statement of financial pos…
+c) Business ethics and why a code of ethics is necessary for a business's success
+d) The petty cash book: recording small payments separately from the main cash book
+**Answer: d) The petty cash book: recording small payments separately from the main cash book** — That is what this lesson teaches in its petty-cash part part (Sri Lanka's book).
