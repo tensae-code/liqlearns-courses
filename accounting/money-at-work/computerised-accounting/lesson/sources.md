@@ -1,6 +1,6 @@
 # Sources — Computerised Accounting
 
-countries: Samoa, Dominica, Indonesia, Tanzania
+countries: Samoa, Dominica, Indonesia, Tanzania, Greece
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -11,6 +11,8 @@ countries: Samoa, Dominica, Indonesia, Tanzania
 **Book 4:** Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (teacher guide) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-579-2 (PDF). Grade: Grade 10 (SMK/MAK Kelas X) — teacher guide. Language: Indonesian (Bahasa Indonesia). Page count: 304 PDF pages (printed pp. viii + 1–296; printed page = PDF page − 8). Source: manifest manifests-phase2/indonesia.json n=0; fetched via fetch_book.py, route release-search, 9,055,539 bytes (= expected_bytes), to scratch-phase2/indonesia/teacher.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282; glossary printed pp. 283–284 follows). TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 5:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
+
+**Book 6:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,9 +25,11 @@ countries: Samoa, Dominica, Indonesia, Tanzania
 | computerised accounting | Book 3 (Dasar-Dasar Akuntansi X), printed pp. 203–209 |
 | computerised accounting (teacher guide) | Book 4 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed pp. 175–179 |
 | computerised accounting | Book 5 (Accountancy Form Five), printed pp. 21–22 |
+| the computerised-accounting part of the lesson | Book 6 (Logistikes Efarmoges G EPAL), printed pp. 187–188 |
+| the using-accounting-software part of the lesson | Book 6 (Logistikes Efarmoges G EPAL), printed pp. 189–190, 202–207 |
 
-**Acceptance count: taught in 4 countries (Samoa, Dominica, Indonesia, Tanzania)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 5 countries (Samoa, Dominica, Indonesia, Tanzania, Greece)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania
+Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece

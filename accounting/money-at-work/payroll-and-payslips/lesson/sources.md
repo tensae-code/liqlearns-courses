@@ -1,16 +1,19 @@
 # Sources — Payroll and Payslips
 
-countries: Samoa
+countries: Samoa, Greece
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
 **Book 2:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
+**Book 3:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
+
 | Lesson part | Where it comes from |
 |---|---|
 | payslips and net pay | Book 1 (Accounting Year 12), printed p. 11 |
 | payslips and overtime | Book 2 (Bus Studies Y11 Bk2), printed p. 10 |
+| the recording-the-payroll part of the lesson | Book 3 (Arches Logistikis B EPAL), printed pp. 124–128 |
 
-**Acceptance count: taught in 1 country (Samoa)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 2 countries (Samoa, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: payroll and payslips, money at work, accounting, samoa
+Searchable tags: payroll and payslips, money at work, accounting, samoa, greece

@@ -1,6 +1,6 @@
 # Sources — Books of Original Entry
 
-countries: Kenya, Samoa, Zambia, Indonesia, Tanzania
+countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book (cover: "Inventor 4 — Secondary Business Studies, Form Four Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition (title page); no year printed on the pages in hand; ISBN 978 9966 100719 (back-cover barcode). Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209, then Glossary and Index). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan also contains duplicated pages, so PDF-to-printed pagination drifts slightly; all citations use the printed folio numbers.
 
@@ -15,6 +15,10 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 **Book 5:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
 **Book 6:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
+
+**Book 7:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
+
+**Book 8:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,9 +47,20 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | books of original entry | Book 5 (Dasar-Dasar Akuntansi X), printed pp. 129–137 |
 | books of original entry | Book 6 (Accountancy Form Five), printed pp. 25–28 |
 | books of original entry | Book 6 (Accountancy Form Five), printed pp. 28–38 |
+| the journal part of the lesson | Book 7 (Arches Logistikis B EPAL), printed p. 66 |
+| the supporting-documents part of the lesson | Book 7 (Arches Logistikis B EPAL), printed p. 157 |
+| the books-a-business-keeps part of the lesson | Book 7 (Arches Logistikis B EPAL), printed p. 158 |
+| the categories-of-books part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 33–34 |
+| the classical-system part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed p. 34 |
+| the centralised-system part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 35–36 |
+| the set-of-books part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 36, 42 |
+| the no-entry-without-a-document part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 65–66 |
+| the daily-preparation part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed p. 66 |
+| the recording-documents part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 66–67 |
+| the filing-documents part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed p. 70 |
 
-**Acceptance count: taught in 4 countries (Kenya, Samoa, Indonesia, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Kenya, Samoa, Indonesia, Tanzania, Greece)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia, tanzania
+Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece

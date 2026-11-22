@@ -18,6 +18,8 @@ The limits of the trial balance: the errors that make it disagree (partial omiss
 
 **Correcting errors.** The revised income statement and statement of financial position: after the corrections, the profit and the financial-position figures are reworked to show the effect of the corrected errors on the statements (Tanzania's book.)
 
+**Correcting-errors.** Accounting errors and their correction: erasing or scratching out is forbidden; a wrong journal entry is corrected by accounting means — a total reversal (ολικός αντιλογισμός) cancelling the wrong entry, followed by the correct entry; a partial reversal (μερικός αντιλογισμός) when only one side of the entry is wrong; and a supplementary entry when the amount recorded was too small (with a partial reversal for the difference when it was too large) (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: some errors make the trial balance disagree and some hide even when it balances; each kind is found and corrected in its own way, often through the journal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: errors part of the lesson, correcting errors, correcting errors, correcting errors, correcting errors, correcting errors. Your companion asks one question back — answer it from the lesson.

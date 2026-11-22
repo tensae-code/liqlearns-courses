@@ -25,6 +25,8 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 **Protection without government.** The last layer needs no government at all: consumer associations, Nigerian and international; producer and professional associations; and crafts unions policing their own members. Trade protects its own good name when its associations refuse to shelter the cheat — protection is also a habit of honest traders.
 
 
+**Fair-trading-and-consumer-protection.** Fair competition's means — low prices, good quality, customer facilities such as returns and easy payment, good presentation and packaging, shop appearance, advertising, the trader's reputation and conduct — against unfair competition done by illegal and deceitful means; and the legislative and market-police measures that protect the consumer, including the ban on misleading advertising (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why consumers need protecting, consumerism, rights and redress, nigeria's protective laws, regulatory measures behind the laws. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Credit and Hire Purchase
 
-countries: Samoa, Dominica, Palestine, Tanzania
+countries: Samoa, Dominica, Palestine, Tanzania, Greece
 
 **Book 1:** Business Studies — Year 9, Book One: Economics (student book) — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2002, 2003, 2004 and 2006 by Egan Reid Ltd, Auckland, New Zealand. No ISBN is printed in the book. Year/edition: 2001, reprint 2006. Grade: Year 9 (grade-9). Language: English, with Samoan translations in text boxes and a bilingual (English–Samoan) glossary. Page count: 97 pages. Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-9-Book-1.pdf. Verdict: COMPLETE — read the whole book, all 97 PDF pages, to the last page (glossary ends printed p. 97).
 
@@ -10,15 +10,22 @@ countries: Samoa, Dominica, Palestine, Tanzania
 
 **Book 3:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
+**Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
 | Lesson part | Where it comes from |
 |---|---|
 | buying on credit; debtor and creditor | Book 1 (Bus Studies Y9 Bk1), printed p. 83 |
 | credit buying | Book 2 (Principles of Business for CSEC), printed pp. 230–231 |
 | credit buying | Book 3 (Small Projects), printed pp. 121–122 |
 | credit and hire purchase | Book 3 (Commerce Form Three), printed p. 79 |
+| the paying-cash-vs-on-credit part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 49–50 |
+| the what-credit-is part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 105–109 |
+| the credit-instruments part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 110–111 |
+| the bill-of-exchange part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 111–115 |
+| the promissory-note part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 114–116 |
 
-**Acceptance count: taught in 4 countries (Samoa, Dominica, Palestine, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Samoa, Dominica, Palestine, Tanzania, Greece)** — every book above is a student book, so each country counts.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`credit-and-hire-purchase`) in samoa-placements.md; the registry settled it as this lesson of the Commerce course, under the same slug.
 
-Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania
+Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece

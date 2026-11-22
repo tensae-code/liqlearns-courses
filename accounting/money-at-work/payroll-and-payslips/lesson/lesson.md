@@ -12,6 +12,8 @@ How a pay advice slip works: wages from an hourly rate, salary divided from an a
 
 The pay advice slip's required contents (employee and employer names, employee number, pay period, rate, gross pay, deductions, net pay) and how overtime at 1.5× and 2× the hourly rate is worked out from an annual salary.
 
+**Recording-the-payroll.** The payroll worked inside the expense-accounts section: the monthly payroll statement (μισθοδοτική κατάσταση) is recorded with staff pay and expenses debited against the amounts owed — pay payable to personnel through Sundry Creditors, personnel-pay taxes withheld, and IKA insurance contributions — salary advances during the month go through Sundry Debtors (staff advances) and are cleared at month end, and payment of wages, taxes and IKA stamps debits those liability accounts against cash (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a payslip shows how pay is built: hours at a rate (with overtime at one-and-a-half or double) make gross pay, deductions such as tax come off, and what is left is net pay. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: payslips and net pay, payslips and overtime. Your companion asks one question back — answer it from the lesson.

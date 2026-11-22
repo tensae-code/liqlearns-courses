@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **The partnership and its agreement**
-2. **Sharing the profit — appropriation, capital and current accounts, dissolution**
+2. **Sharing the profit — appropriation, capital and current accounts, dissolution**; Capital-coverage-entry; Paying-in-capital; Distributing-the-result.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -31,6 +31,10 @@ Diminishing (reducing) balance method: a fixed rate on the falling book value, s
 
 **Depreciation.** Changing the depreciation method: a note on the effect of a change of depreciation method on the accounts (Tanzania's book.)
 
+**Depreciation.** Depreciation (αποσβέσεις) of fixed assets: every year the business measures the fall in value its fixed assets suffer from taking part in production (wear, time, technical obsolescence) and builds that fall into the operating cost of its goods and services, so that selling them recovers the amount needed to replace the assets when fully depreciated; assets of unlimited useful life (land, works of art) are not depreciated; the main calculation methods are the stable (straight-line), the declining and the increasing method (Greece's book.)
+
+**Contra-account.** Contra accounts (αντίθετοι λογαριασμοί): accumulated depreciation is kept in a contra account standing against its main asset account, and when the asset leaves the business the contra account is transferred against the main account so the asset's remaining story (cost, depreciation, sale proceeds, extraordinary loss) can be recorded (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation. Your companion asks one question back — answer it from the lesson.

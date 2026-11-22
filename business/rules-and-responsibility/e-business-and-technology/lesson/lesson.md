@@ -75,6 +75,14 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 **Technology in business.** ERP systems (TIC page): Enterprise Resource Planning tools (the free, modular Dolibarr ERP named for SMEs, freelancers and associations) centralise a company's information, avoid duplication and ease financial management (Ecuador's book.)
 **E-business and technology.** E-commerce: using computers and communications technology to exchange goods, services and information — linking sellers and buyers, letting the consumer inspect and compare goods from home, transferring money, delivering faster at lower cost and high quality because the system rents no shop and holds no stock, its doors open 24 hours a day, seven days a week; its advantages and disadvantages are… (Sudan's book.)
 
+**Where-e-commerce-came-from.** The birth of e-commerce: banks' electronic funds transfer systems of the early 1970s, electronic data interchange (EDI) over private value-added networks (VANs), and the move to transactions between two or more parties through computers and networks (Greece's book.)
+
+**What-e-commerce-is-made-of.** The components of e-commerce: the partner categories that transact electronically — business-to-business orders, purchases and sales, business-to-consumer, and public-sector-to-citizen dealings such as tax obligations and certificates — the types of products traded, and the business processes a network can carry, classified from a network of information up to a network of transactions (Greece's book.)
+
+**Uses-of-e-commerce.** The fields where e-commerce is applied: information exchange, customer support — including after-sales contact groups where customers talk to the company and to each other — virtual (online) companies, electronic distribution, joint business processes between firms, and online banking (Greece's book.)
+
+**Effects-of-e-commerce.** The effects of e-commerce: for businesses, access to a worldwide market and more choice of customers and suppliers whatever their capital; better service quality through electronic communication; new business and organisational forms; the effects on work and employment — the computer and new-technology skills now demanded of staff — and the open questions of taxation and payment security (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

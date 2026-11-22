@@ -59,6 +59,12 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 **Why businesses matter.** The importance of doing business: people do business to get money to meet personal needs, and business also benefits the family, the community/village and the government — the book's own four-way sorting of the benefits (owner/personal, family, community members, government) (Uganda's book.)
 **What a business is / kinds of business.** What a business is and its three kinds by activity: a business creates added value by producing goods or services society needs in order to earn a profit; a service business sells intangible services, a trading business acts as intermediary buying and reselling goods, and a manufacturing business processes raw materials into finished goods (Indonesia's book.)
 
+**What-an-economic-organisation-is.** Economic organisations (οικονομικοί οργανισμοί): organised entities that combine the factors of production — nature, labour and capital — to produce economic goods under the economic principle (greatest result from the fewest factors, without sacrificing quality); they are distinguished by their owner (private, public, municipal/community, mixed) and by purpose (non-profit public-benefit units vs profit-seeking units) (Greece's book.)
+
+**What-a-business-is.** The business (επιχείρηση) defined by its basic characteristics: it has its own property, independent from its owner's; it produces economic goods and disposes of them on the market; it applies the economic principle aiming at its owner's profit (Greece's book.)
+
+**Kinds-of-business-by-sector.** Businesses distinguished by their field of activity: primary production (farming, mining, livestock, fishing, forestry), secondary production (manufacturing and crafts), and tertiary production (trade, tourism, transport, banks, insurance and other services) (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

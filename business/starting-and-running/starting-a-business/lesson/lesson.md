@@ -47,6 +47,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 **Starting a business.** The ten steps in starting a business: 1) identify potential business opportunities by scanning the environment; 2) select a suitable business opportunity; 3) carry out a market survey for it — checking it can become a profitable business with competitive advantage; (Uganda's book.)
 **Starting-a-small-project-with-a-partner.** The book's only project brief, "Invent your project" (ابتكر مشروعك), closing the cheese lesson: pupils set up a cheese-making project together with a classmate as a partner in the project (Egypt's book.)
 
+**Registering-the-business.** Declaring the start of business: a partnership files its start-of-activity declaration at the tax office within 30 days of its lawful formation, bringing the published articles, the lease or title of the business premises, the members' insurance certificates, their tax-clearance papers, the chamber-of-commerce registration and the start-of-trade stamp duty, on forms M3 (the legal person), M7 (the manager's relations) and M8 (the members); the tax office then issues the company's tax number (Α.Φ.Μ.), used in all its transactions (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

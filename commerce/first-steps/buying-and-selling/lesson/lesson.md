@@ -19,6 +19,18 @@ Take a pretend purchase: 100 exercise books for a shop. Write a price, then ask 
 **The timing of payment.** When is cash paid? The terms name the moment: payment in advance, cash with order, cash on delivery, spot cash, prompt cash, net cash, a monthly account, or deferred payment on open account. Each term shifts the risk and the waiting between buyer and seller — read the term before you agree the price.
 
 **Buying for the business.** Choosing suppliers: suppliers supply the goods and services the venture runs on; the best supplier is not always the cheapest — also judge who gives the best solutions and weigh their location (Nicaragua's book.)
+**The-sale-and-its-parties.** Goods (εμπόρευμα) defined — a movable thing, material or immaterial, destined for resale (by extension also securities) — and the commercial sale (αγοραπωλησία): its definition and elements, and the obligations and rights of seller and buyer (payment of the price, preservation costs, risk passing on delivery, interest on late payment, retention-of-ownership clause, seller's liability for defects, sale on approval) (Greece's book.)
+
+**Quantity-and-quality-terms.** Fixing the quantity and quality term of a sale: net weight against gross weight, and the tare (απόβαρο) in its four kinds — real, legal/customs, average and conventional — plus shrinkage (φύρα) allowed for in the quantity (Greece's book.)
+
+**Price-term.** Fixing the price term of a sale: how the price of goods is determined and the factors that push prices up or down (Greece's book.)
+
+**Packaging.** Packaging as a term and tool of the sale: what packaging must do for the goods and the buyer, including multiple packaging and family packaging (Greece's book.)
+
+**Delivery-terms.** The delivery term of a sale: immediate delivery (within 15 days), future delivery and delivery by instalments, and the standard delivery terms that split cost and risk between seller and buyer — FAS "Free Alongside Ship" and FOB "Free on Board" (Greece's book.)
+
+**Sales-channels.** Kinds of sales by channel: the direct sale and the indirect sale through commercial agents and brokers working on commission; and sale by tender or auction (διαγωνισμός / δημοπρασία), including international tenders open on equal terms across the EU (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying and selling run on agreed terms — the discounts of trade, the quoted price and what it covers, and the moment payment is due — and the trader who knows the terms knows the real price. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the three discounts of trade, cash discount against trade discount, quoted prices in home trade, the timing of payment. Your companion asks one question back — answer it from the lesson.

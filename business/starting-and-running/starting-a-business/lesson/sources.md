@@ -1,6 +1,6 @@
 # Sources — Starting a Business
 
-countries: Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt
+countries: Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -27,6 +27,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 10:** مهارات الزراعة وريادة الأعمال (Mahārāt al-Zirāʿa wa-Riyādat al-Aʿmāl — "Agriculture Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed; no ISBN printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 57 PDF pages (printed page numbers run to 53). Source: manifest manifests-phase2/egypt.json n=0; the book was staged-gone — no copy survived on disk — and was recovered via fetch_book.py, route release-search, 8,267,577 bytes = expected_bytes exactly (byte-exact against the Economics wave's recorded size), to scratch-phase2/egypt/Agriculture__1_Preparatory_Tr1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, page by page, to the last teaching page (printed p. 53). RECOVERED-AND-READ in the Phase 2 pending-queue wave (2026-11-22).
 
+**Book 11:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
+
 | Lesson part | Where it comes from |
 |---|---|
 | location part of the lesson | Book 1 (Kenya Business Form 3), printed p. 25 |
@@ -48,7 +50,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | starting a business | Book 9 (Entrepreneurship S1), printed p. 48 |
 | starting a business | Book 9 (Entrepreneurship S1), printed p. 49 |
 | the starting-a-small-project-with-a-partner part of the lesson | Book 10 (Agriculture Skills and Entrepreneurship Prep 7 T1), printed p. 53 |
+| the registering-the-business part of the lesson | Book 11 (Logistikes Efarmoges G EPAL), printed pp. 20–21 |
 
-**Acceptance count: taught in 10 countries (Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 11 countries (Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran, nepal, nicaragua, palestine, uganda, egypt
+Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran, nepal, nicaragua, palestine, uganda, egypt, greece

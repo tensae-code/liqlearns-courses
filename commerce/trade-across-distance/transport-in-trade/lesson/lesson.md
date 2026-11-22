@@ -17,6 +17,10 @@ Transport in trade: its roles (physical supply, specialisation, mobility of labo
 Multimodal vs intermodal transport: multimodal — one specialist carrier contracts for and is legally responsible for the whole journey across several modes; intermodal — each leg contracted separately, each carrier responsible only for its leg, giving the producer more flexibility
 
 **Aids to trade.** Auxiliaries to trade, 1 — transportation: it carries produced goods through intermediaries from the place of production to the place of sale, creating place utility; road, rail, water and air transport also move people, machinery and raw materials, so transport is vital to industry and commerce (Nepal's book.)
+**What-transport-does-for-trade.** Transport defined — the movement of persons and things from place to place by a transport means, against a fare or freight charge (κόμιστρο / ναύλος) — its elements, and the importance of the transport means: serving the market's production and consumption needs, employing large numbers, and calling into being the firms that assist transport (agencies, forwarding and travel offices) (Greece's book.)
+
+**Choosing-a-transport-means.** Carrying goods by each means in turn — road by truck, rail (with its refrigerator and container wagons for perishable and bulky goods), sea, and air (small, light, high-value goods; goods handed in at the airport against a declaration for the air waybill) — what each means suits and what limits it (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: distribution is an aid to trade that lives or dies on transport: goods move direct, or through retailers and wholesalers — and where shipping is slow or missed, a shortage can force a trader onto expensive air-freight. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution and the shipping schedule. Your companion asks one question back — answer it from the lesson.

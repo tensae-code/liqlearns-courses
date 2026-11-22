@@ -20,6 +20,12 @@ Two friends run a shop together — one put in more money, one works longer hour
 
 **Partners' current accounts and profit sharing.** Partners keep their original capital intact and run a current account for each partner: profit is shared in the agreed ratio into the current accounts and drawings are taken out of them.
 
+**Capital-coverage-entry.** The opening entry for the coverage (formation) of the partnership capital: each partner's contribution account is debited (33.03 Partners — capital coverage account, under Sundry Debtors) with the amount the articles oblige him to pay, and the Company Capital account (40.06) is credited with the partners' total obligation (Greece's book.)
+
+**Paying-in-capital.** The entries for the partners actually paying in their contributions: contributions in kind (the model's furniture, air-conditioner and van) are recorded in the same journal as the formation entry, while cash contributions are recorded in the Cash analytical journal against the receipts the manager issued when he collected the cash (Greece's book.)
+
+**Distributing-the-result.** Distributing the result in the partnership: the year's net result is gathered through the results accounts; a loss is carried to the "balance of losses carried forward" account, where it stands reducing the firm's own capital and may be set off against future profits, while a profit is distributed as the articles of partnership provide (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: partners share what the business earns by agreement: the appropriation account divides profit through interest on capital, salaries and the agreed ratio, and each partner's capital and current accounts keep their claims apart. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, appropriation part, equity and final-accounts part, dissolution part, partners' capital accounts, partners' current accounts and profit sharing. Your companion asks one question back — answer it from the lesson.

@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Raising funds — the primary market** — proposed new lesson on capital markets and the stock exchange.
 2. **Trading — the secondary market** — proposed capital-markets lesson.
 3. **The newer instruments — and reading the market** — proposed capital-markets lesson; proposed capital-markets lesson.
-4. **What exchanges do — and the softer windows** — proposed capital-markets lesson; proposed capital-markets lesson; investments; raising funds on the market.
+4. **What exchanges do — and the softer windows** — proposed capital-markets lesson; proposed capital-markets lesson; investments; raising funds on the market; What-an-exchange-is; How-a-stock-exchange-works; Government-and-company-securities; Collective-investment.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -1,6 +1,6 @@
 # Sources — What Is a Business
 
-countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda, Indonesia
+countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda, Indonesia, Greece
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -22,6 +22,8 @@ countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda, Indo
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
 **Book 8:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
+**Book 9:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,7 +48,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | kinds of business | Book 8 (Entrepreneurship S1), printed p. 25 |
 | why businesses matter | Book 8 (Entrepreneurship S1), printed p. 27 |
 | what a business is / kinds of business | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 3–6 |
+| the what-an-economic-organisation-is part of the lesson | Book 9 (Arches Logistikis B EPAL), printed pp. 9–11 |
+| the what-a-business-is part of the lesson | Book 9 (Arches Logistikis B EPAL), printed p. 11 |
+| the kinds-of-business-by-sector part of the lesson | Book 9 (Arches Logistikis B EPAL), printed p. 11 |
 
-**Acceptance count: taught in 9 countries (Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 10 countries (Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda, Indonesia, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is a business, first steps, business, kenya, nigeria, samoa, dominica, iran, nepal, palestine, uganda, indonesia
+Searchable tags: what is a business, first steps, business, kenya, nigeria, samoa, dominica, iran, nepal, palestine, uganda, indonesia, greece

@@ -19,6 +19,8 @@ Methods of retailing compared: shops (convenience shops, supermarkets), departme
 **Home trade.** Retail trade: the retailer has a direct relation with the final consumer and satisfies them by selling the wanted goods at the wanted time and place at a fair price (Nepal's book.)
 
 **Retail trade.** Retail trade inside the book's production chain: the retail business buys large-quantity goods from wholesalers and packages them into smaller amounts, selling to final consumers, who buy what they can afford in the smaller quantities — the chain runs wholesale (bulk) → retail (small quantities) → final consumer (Uganda's book.)
+**Modern-retail-forms.** Retail forms that organise selling to the final consumer: consumer cooperatives (ενώσεις καταναλωτών) selling to their members, and supermarkets with their self-service features (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.

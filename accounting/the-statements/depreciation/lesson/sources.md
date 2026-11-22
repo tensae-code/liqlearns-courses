@@ -1,6 +1,6 @@
 # Sources — Depreciation
 
-countries: Samoa, Palestine, Sudan, Tanzania
+countries: Samoa, Palestine, Sudan, Tanzania, Greece
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -9,6 +9,8 @@ countries: Samoa, Palestine, Sudan, Tanzania
 **Book 2:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
 
 **Book 3:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
+
+**Book 4:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,7 +25,9 @@ countries: Samoa, Palestine, Sudan, Tanzania
 | depreciation | Book 3 (Accountancy Form Five), printed pp. 124–126 |
 | depreciation | Book 3 (Accountancy Form Five), printed pp. 127–136 |
 | depreciation | Book 3 (Accountancy Form Five), printed p. 137 |
+| the depreciation part of the lesson | Book 4 (Arches Logistikis B EPAL), printed pp. 129–130 |
+| the contra-account part of the lesson | Book 4 (Arches Logistikis B EPAL), printed pp. 129, 133 |
 
-**Acceptance count: taught in 4 countries (Samoa, Palestine, Sudan, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Samoa, Palestine, Sudan, Tanzania, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: depreciation, the statements, accounting, samoa, palestine, sudan, tanzania
+Searchable tags: depreciation, the statements, accounting, samoa, palestine, sudan, tanzania, greece

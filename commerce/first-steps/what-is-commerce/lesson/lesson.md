@@ -25,6 +25,8 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **What commerce is.** Money and where it came from: barter failed on the lack of a double coincidence of wants, no common measure of value, perishability of goods and disputes over repayment, so exchange moved through commodity money (portable, divisible, exchangeable, scarce) and metallic money to modern money — anything generally accepted as a medium of exchange, performing the functions of measure of value/unit of… (Tanzania's book.)
 
+**What-trade-is.** Trade (εμπόριο) defined: the set of acts by which goods pass from producer to consumer; its nature and object, and why an intermediary trade stage exists between production and consumption at all (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade, what commerce is, what commerce is. Your companion asks one question back — answer it from the lesson.

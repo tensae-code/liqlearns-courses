@@ -89,6 +89,12 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Forms of business ownership.** Companies of capital (joint-stock companies): these rest on the financial consideration, not the personal — capital divided into tradable shares offered to the public; the joint-stock company is a legal person separate from its shareholders, with its own financial liability, able to sue and be sued (Sudan's book.)
 
+**Legal-forms.** Businesses distinguished by their legal organisation: individual businesses, whose owner is a single natural person, and companies, whose owners are more than one (Greece's book.)
+
+**Forming-a-partnership.** What it takes to form a general partnership (ομόρρυθμη εταιρία, Ο.Ε.) lawfully: the consent of at least two persons (natural or legal), a written contract — the articles of partnership (καταστατικό), private or notarial — and publication of the articles at the Court of First Instance of the seat (Greece's book.)
+
+**Articles-of-partnership.** What the articles of partnership must set out (the book warns that a carelessly drawn private agreement breeds later disputes between partners): the company name, seat and purpose; who the partners are; the amount of the capital and each partner's share; what each partner contributes (money, kind, or personal work); the company's duration, extension and dissolution; how it is managed and represented and who binds it; how profits are shared and losses covered; how a partner leaves, is replaced or is succeeded; and how the company property is liquidated and who the liquidators are (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

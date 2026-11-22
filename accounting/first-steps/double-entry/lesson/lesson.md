@@ -28,6 +28,14 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Double entry.** The principles of double entry: every business transaction is recorded twice — a debit entry must have its corresponding credit entry and vice versa, every transaction having an equal but opposite effect (Tanzania's book.)
 
+**What-a-transaction-does.** Accounting events and transformations: every business act that changes asset, liability or net-worth items, rests on a supporting document and is expressed in money is an accounting event; each event transforms the property (simply, when two items change; compositely, when more change) in one of nine simple patterns — within assets, within liabilities, or across the two sides — and after every event Ε = Π.Π. + Κ.Π. still holds (Greece's book.)
+
+**Debit-and-credit-rules.** The rules by which accounts work: asset accounts open with a debit and are debited on every increase and credited on every decrease, so they carry a debit balance or are balanced out — the cash account can never show a credit balance; liability and net-worth accounts work the mirror way (credit on increase, debit on decrease, credit balances) (Greece's book.)
+
+**Analysing-a-transaction.** Analysing an accounting event before recording it: the set method for working out, for each event, which accounts must be debited and which credited and with what amounts (Greece's book.)
+
+**Double-entry-rule.** The double-entry (διπλογραφική) method defined from worked examples: in every accounting event at least two accounts move, one or more are debited and one or more credited, and the total of the debit amounts is always equal to the total of the credit amounts (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.

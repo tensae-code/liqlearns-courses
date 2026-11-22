@@ -11,6 +11,10 @@ A warehouse is a building — used by producers, wholesalers and retailers — w
 **Aids to trade.** Auxiliaries to trade, 5 — warehousing (गोदाम): storing goods until they are needed, named among the helpers of trade (Nepal's book.)
 **Warehousing.** The service functions of exchange: alongside buying and selling, exchange now includes transport, storage, insurance, credit and advertising, and each adds a utility to the goods — transport adds place utility, storage and keeping goods until their season of consumption adds time utility (Sudan's book.)
 
+**Using-a-public-warehouse.** Storing goods through the General Warehouses (Γενικές Αποθήκες): organisations that receive and keep traders' goods, issue the special warehouse titles on which the goods can be sold, and charge a storage fee (αποθήκευτρο) by quantity and time — freeing the trader from building his own warehouses and tying up capital, and letting him withdraw his goods in any quantity at any time (Greece's book.)
+
+**Warehouse-documents.** The warehouse titles: the warehouse receipt (αποθετήριο), certifying that the General Warehouse received the goods and promising to deliver them to its lawful holder, with the depositor's and goods' particulars and the record of part-deliveries and endorsements on its back; and the pledge warrant (ενεχυρόγραφο), by whose endorsement the depositor can pledge the stored goods and borrow money on them (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a warehouse keeps goods safe and in condition between making and selling — taking goods in, holding what is needed and no more, grading and conditioning them, and sending them out — so trade never has to stop for want of stock, and stored goods can even stand as collateral for a loan. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: warehousing, warehousing. Your companion asks one question back — answer it from the lesson.

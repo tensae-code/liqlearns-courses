@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Assets, liabilities and capital — the words the equation is built from** — the accounting equation.
-2. **The equation at work — net worth, capital movements and kinds of capital**; first steps / what the books show.
+2. **The equation at work — net worth, capital movements and kinds of capital**; first steps / what the books show; Two-sides-of-the-equation; Classifying-assets; Classifying-liabilities.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

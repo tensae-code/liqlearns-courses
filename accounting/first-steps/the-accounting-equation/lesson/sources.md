@@ -1,6 +1,6 @@
 # Sources — The Accounting Equation
 
-countries: Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia
+countries: Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia, Greece
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -20,6 +20,8 @@ countries: Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia
 
 **Book 8:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
+**Book 9:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
+
 | Lesson part | Where it comes from |
 |---|---|
 | assets, liabilities and capital part of the lesson | Book 1 (Kenya Business Form 3), printed p. 92 |
@@ -38,7 +40,10 @@ countries: Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia
 | the accounting equation | Book 7 (Principles of Business for CSEC), printed pp. 304–305 |
 | first steps / what the books show | Book 8 (Small Projects), printed p. 112 |
 | the accounting equation | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 49–63 |
+| the two-sides-of-the-equation part of the lesson | Book 9 (Arches Logistikis B EPAL), printed pp. 12–14 |
+| the classifying-assets part of the lesson | Book 9 (Arches Logistikis B EPAL), printed pp. 15–17 |
+| the classifying-liabilities part of the lesson | Book 9 (Arches Logistikis B EPAL), printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Nigeria, Samoa, Dominica, Palestine, Indonesia, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: the accounting equation, first steps, accounting, kenya, nigeria, samoa, dominica, palestine, indonesia
+Searchable tags: the accounting equation, first steps, accounting, kenya, nigeria, samoa, dominica, palestine, indonesia, greece

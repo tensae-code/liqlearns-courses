@@ -32,9 +32,10 @@ organisations, consumer protection). **15 lessons,
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 29 books
-in all (27 student books and 2 teacher guides); the 16 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 13 read books —
+`lesson/sources.md`. The set read for the split — 32 books
+in all (30 student books and 2 teacher guides); the 18 below carry this course (the Commerce parts
+of each are what stock these lessons). The other 14 read books —
+Greece's Arches Logistikis B EPAL,
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
 Malaysia's Prinsip Perakaunan Tingkatan 5 and
@@ -93,13 +94,18 @@ set is whole.
 
 - *Business Studies — Year 9, Book 1: Economics* — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2006. No ISBN printed in the book. **Year 9. STUDENT book. Language: English** (Samoan translations in text boxes; bilingual glossary). 97 pages. **Verdict: COMPLETE.**
   - Contents map for this split: the seven units are **Economics** (Producer in the Economy; Goods and Services; Factors of Production; Consumers and Households; Consumer as Producer; Development of Money; Functions of Money in the Economy), mapped, not placed here — except the commerce teaching inside them (aids to trade, distribution chain, retail and the co-operative channel, credit), which fed **Commerce** (5 placements in this course, from this book), and the business teaching inside them, which fed **Business**. Contents-map correction: the Economics wave's map pointed to market research (p. 10) and clubs/societies (pp. 15–24) in this book — neither exists in the book as printed; nothing is stocked from the wrong map.
+- *Λογιστικές Εφαρμογές (Logistikes Efarmoges — Accounting Applications: Keeping Third-Category Books), G΄ EPAL* — Petros Michos, Nikolaos Serdaris, Marianna Katsifioti; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year printed on this copy. **Grade 12 (G΄ EPAL). STUDENT book. Language: Greek.** 258 PDF pages (printed pp. 1–257). **Verdict: COMPLETE** — read whole to the last page (Ch. 9's account lists end printed p. 252). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
+  - Contents map for this split: the partnership-formation chapters fed **Business** (4 placements); the trade-documents section fed **Commerce** (1 placement); Chs. 3–8 fed **Accounting** (18 placements in the Accounting course, from this book).
+
+- *Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), B΄ EPAL* — Nikolaos Thomopoulos and Miltiadis Kanavos — Ministry of Education / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0480; ISBN 978-960-06-4872-0. No year printed on this copy (digital reissue). **Grade 11 (B΄ EPAL). STUDENT book. Language: Greek.** 218 PDF pages (printed pp. 1–217). **Verdict: COMPLETE** — read whole to the last teaching page (e-commerce unit ends printed p. 213). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)
+  - Contents map for this split: the market-forms/competition framing, people-of-trade careers material, exchanges unit, securities/leasing/factoring material and the e-commerce unit fed **Business** (12 placements); Units 2–6 fed **Commerce** (31 placements in the Commerce course, from this book). No part fed Accounting.
 
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 178 placements from **student books** of 13
-  countries (Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
-  taught in 13 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 210 placements from **student books** of 14
+  countries (Dominica, Ecuador, Greece, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
+  taught in 14 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -116,7 +122,7 @@ set is whole.
 
 ## The pending queue — Commerce books not yet in the course
 
-6 Commerce books are in hand in the library record but
+5 Commerce books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -127,9 +133,6 @@ hold lifts and they are read.
 **Fiji (2):**
 - [COMMERCE · student] Year 10 Commercial Studies Textbook (low-res) (Grade 10) — secured-not-on-disk
 - [COMMERCE · student] Year 9 Commercial Studies: A Smart Approach (Grade 9) — secured-not-on-disk
-
-**Greece (1):**
-- [COMMERCE · student] Sygchrones Synallages B EPAL Vivlio Mathiti — B' Lykeiou (Grade 11) (grade-11) — secured-not-on-disk
 
 **Nigeria (2):**
 - [COMMERCE · student] Commerce SS1 (Grade 10) — secured-not-on-disk

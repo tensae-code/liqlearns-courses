@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 583 placements stocked.**
+environment, e-business). **25 lessons, 603 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 29 books
-in all (27 student books and 2 teacher guides); the 24 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 32 books
+in all (30 student books and 2 teacher guides); the 27 below carry this course (the Business parts
 of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
@@ -114,13 +114,21 @@ fed Business, and they are named here so the read set is whole.
 
 - *مهارات الصناعة وريادة الأعمال (Industry Skills and Entrepreneurship), Preparatory 8 (Grade 8), Term 1* — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan — Arab Republic of Egypt, Ministry of Education and Technical Education, CACD. School year 2025/2026. **Grade 8 (Preparatory 8). STUDENT book. Language: Arabic.** 46 PDF pages. **Verdict: COMPLETE** — read whole to the last teaching page (printed p. 44). **Recovered-and-read:** listed in this pending queue as staged-gone (not-on-disk); recovered via fetch_book.py (route release-search, byte-exact) and read in the Phase 2 wave (2026-11-22), merged the same day.
   - Contents map for this split: the body is industry-skills teaching (wood carving and fretwork; plumbing technology), not placed; the Introduction's entrepreneurship field map fed **Business** (5 placements in this course, from this book). No part fed Commerce or Accounting.
+- *Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), B΄ EPAL* — Aristotelis Kontakos, Kostas Margaronis, Antonis Zarifis; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-22-0126; ISBN 978-960-06-2382-6. No year printed on this copy (digital reissue of the Pedagogical Institute edition). **Grade 11 (B΄ EPAL). STUDENT book. Language: Greek.** 194 PDF pages (printed pp. 1–193). **Verdict: COMPLETE** — read whole to the last teaching page (Ch. 10 ends printed p. 190). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
+  - Contents map for this split: Ch. 1's general-business opening fed **Business** (4 placements); Chs. 1–10 fed **Accounting** (43 placements in the Accounting course, from this book). No part fed Commerce.
+
+- *Λογιστικές Εφαρμογές (Logistikes Efarmoges — Accounting Applications: Keeping Third-Category Books), G΄ EPAL* — Petros Michos, Nikolaos Serdaris, Marianna Katsifioti; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year printed on this copy. **Grade 12 (G΄ EPAL). STUDENT book. Language: Greek.** 258 PDF pages (printed pp. 1–257). **Verdict: COMPLETE** — read whole to the last page (Ch. 9's account lists end printed p. 252). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
+  - Contents map for this split: the partnership-formation chapters fed **Business** (4 placements); the trade-documents section fed **Commerce** (1 placement); Chs. 3–8 fed **Accounting** (18 placements in the Accounting course, from this book).
+
+- *Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), B΄ EPAL* — Nikolaos Thomopoulos and Miltiadis Kanavos — Ministry of Education / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0480; ISBN 978-960-06-4872-0. No year printed on this copy (digital reissue). **Grade 11 (B΄ EPAL). STUDENT book. Language: Greek.** 218 PDF pages (printed pp. 1–217). **Verdict: COMPLETE** — read whole to the last teaching page (e-commerce unit ends printed p. 213). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)
+  - Contents map for this split: the market-forms/competition framing, people-of-trade careers material, exchanges unit, securities/leasing/factoring material and the e-commerce unit fed **Business** (12 placements); Units 2–6 fed **Commerce** (31 placements in the Commerce course, from this book). No part fed Accounting.
 
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 25 lessons,
-  stocked with 579 placements from **student books** of 15
-  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
-  taught in 15 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 599 placements from **student books** of 16
+  countries (Dominica, Ecuador, Egypt, Greece, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
+  taught in 16 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan

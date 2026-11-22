@@ -34,15 +34,15 @@ incomplete records, control accounts, zakat, branches) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting,
 investment accounts).
-**30 lessons, 313 placements stocked.**
+**30 lessons, 374 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 29 books
-in all (27 student books and 2 teacher guides); the 19 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 10 read
-books — Egypt's Industry Skills and Entrepreneurship Preparatory
+`lesson/sources.md`. The set read for the split — 32 books
+in all (30 student books and 2 teacher guides); the 21 below carry this course (the Accounting
+parts of each are what stock these lessons). The other 11 read
+books — Greece's Sygchrones Synallages B EPAL, Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9
@@ -239,12 +239,17 @@ they are named here so the read set is whole.
     Business Enterprises) and the business-planning part of
     Unit 1 fed **Business**. No part fed Commerce; no Economics
     units stand in this book.
+- *Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), B΄ EPAL* — Aristotelis Kontakos, Kostas Margaronis, Antonis Zarifis; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-22-0126; ISBN 978-960-06-2382-6. No year printed on this copy (digital reissue of the Pedagogical Institute edition). **Grade 11 (B΄ EPAL). STUDENT book. Language: Greek.** 194 PDF pages (printed pp. 1–193). **Verdict: COMPLETE** — read whole to the last teaching page (Ch. 10 ends printed p. 190). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
+  - Contents map for this split: Ch. 1's general-business opening fed **Business** (4 placements); Chs. 1–10 fed **Accounting** (43 placements in the Accounting course, from this book). No part fed Commerce.
+
+- *Λογιστικές Εφαρμογές (Logistikes Efarmoges — Accounting Applications: Keeping Third-Category Books), G΄ EPAL* — Petros Michos, Nikolaos Serdaris, Marianna Katsifioti; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year printed on this copy. **Grade 12 (G΄ EPAL). STUDENT book. Language: Greek.** 258 PDF pages (printed pp. 1–257). **Verdict: COMPLETE** — read whole to the last page (Ch. 9's account lists end printed p. 252). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
+  - Contents map for this split: the partnership-formation chapters fed **Business** (4 placements); the trade-documents section fed **Commerce** (1 placement); Chs. 3–8 fed **Accounting** (18 placements in the Accounting course, from this book).
 
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 30 lessons, stocked with
-  313 placements in all — 303 of them from **student books** of 11 countries (Dominica,
-  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania) — taught in 11 countries;
+  374 placements in all — 364 of them from **student books** of 12 countries (Dominica,
+  Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania) — taught in 12 countries;
   the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
@@ -265,7 +270,7 @@ they are named here so the read set is whole.
 
 ## The pending queue — Accounting books not yet in the course
 
-18 Accounting books are in hand in the library record but were
+16 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -281,10 +286,6 @@ hold lifts and they are read.
 - [ACCOUNTING · student] Year 11 Accounting Textbook (amended 2015) (grade-11) — secured-not-on-disk
 - [ACCOUNTING · student] Year 12 Accounting (Grade 12) — secured-not-on-disk
 - [ACCOUNTING · student] Senior Accounting for Year 13 (Grade 13) — secured-not-on-disk
-
-**Greece (2):**
-- [ACCOUNTING · student] Arches Logistikis B EPAL Vivlio Mathiti — B' Lykeiou (Grade 11) (grade-11) — secured-not-on-disk
-- [ACCOUNTING · student] Logistikes Efarmoges G EPAL Vivlio Mathiti — G' Lykeiou (Grade 12) (grade-12) — secured-not-on-disk
 
 **Malaysia (1):**
 - [ACCOUNTING · student] Prinsip Perakaunan Tingkatan 4 (grade-10) — secured-not-on-disk

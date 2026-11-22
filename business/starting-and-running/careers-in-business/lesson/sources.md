@@ -1,6 +1,6 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran, Indonesia, Egypt
+countries: Dominica, Iran, Indonesia, Egypt, Greece
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -12,6 +12,8 @@ countries: Dominica, Iran, Indonesia, Egypt
 
 **Book 5:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الثاني الإعدادي (Second Preparatory grade = Grade 8), الفصل الدراسي الأول (First term) (student book) — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan (Assistant Minister for Curriculum Development, CACD) — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025/2026 as printed on the cover; no separate edition statement; no ISBN printed. Grade: Preparatory 8 (Grade 8). Language: Arabic. Page count: 46 PDF pages (printed page numbers = PDF page numbers in the body). Source: manifest manifests-phase2/egypt.json n=2; the book was staged-gone — no copy survived on disk — and was recovered via fetch_book.py, route release-search, 9,332,499 bytes = expected_bytes exactly (byte-exact against the Economics wave's recorded size), to scratch-phase2/egypt/Industry_Prep2_T1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, to the last teaching page (printed p. 44; references printed p. 45). RECOVERED-AND-READ in the Phase 2 pending-queue wave (2026-11-22).
 
+**Book 6:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
 | Lesson part | Where it comes from |
 |---|---|
 | what the new lesson would teach: the career paths business study opens | Book 1 (Principles of Business for CSEC), printed p. 43 |
@@ -22,11 +24,12 @@ countries: Dominica, Iran, Indonesia, Egypt
 | careers in business | Book 3 (Dasar-Dasar Akuntansi X), printed pp. 21–27 |
 | careers in business (teacher guide) | Book 4 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed pp. 2–5 |
 | the looking-for-work part of the lesson | Book 5 (Industry Skills and Entrepreneurship Prep 8 T1), Introduction (unnumbered front matter, PDF p. 4) |
+| the jobs-in-trade part of the lesson | Book 6 (Sygchrones Synallages B EPAL), printed pp. 80–91 |
 
-**Acceptance count: taught in 4 countries (Dominica, Iran, Indonesia, Egypt)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 5 countries (Dominica, Iran, Indonesia, Egypt, Greece)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece

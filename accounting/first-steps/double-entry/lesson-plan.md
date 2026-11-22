@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **What double entry records — cash and credit transactions and the dual effect**
-2. **The debit and credit rules, and recording the entry** — double entry.
+2. **The debit and credit rules, and recording the entry** — double entry; What-a-transaction-does; Debit-and-credit-rules; Analysing-a-transaction; Double-entry-rule.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -19,6 +19,14 @@ The trial balance lists the balanced ledger accounts to check that total debit b
 
 **The trial balance.** The trial balance and its use: a report generated at the end of the accounting period listing every account and its debit or credit balance; if the two columns agree the books are taken as balanced, if they differ the errors must be found and rectified, and after adjustments the resulting adjusted trial balance is the one used to prepare the financial statements (Tanzania's book.)
 
+**Trial-balance.** The trial balance of the General Ledger accounts (ισοζύγιο): drawn up to control the postings from journal to ledger by totalling every account's debits and credits and comparing the two grand totals (Greece's book.)
+
+**Checking-analytical-ledgers.** Agreement statements (καταστάσεις συμφωνίας) of the analytical ledgers: because general and analytical accounts run in parallel, the totals of the analytical accounts' debits, of their credits, and of their balances must each agree with the corresponding figure of their general account (Greece's book.)
+
+**Month-end-checks.** The month-end checks: a trial balance of the General Ledger is drawn (its debit and credit totals must agree with the Centralised Journal's), the analytical ledgers' trial balances must agree with their general accounts — the check that every analytical account has been updated — and the cash analytical journal doubles as the Cash account itself, so the cash balance can be followed and controlled daily (Greece's book.)
+
+**Final-trial-balance.** The final trial balance and closing the books: after the distribution entries, the Final Trial Balance (οριστικό ισοζύγιο) of the General Ledger shows the operating and results accounts balanced to zero and only balance-sheet accounts carrying balances — it is the year-end balance sheet in another arrangement of the accounts; the year-end balance sheet is drawn from it into the Book of Inventories and Balance Sheets, the balances are transferred out through the Closing Balance Sheet account (89.01), and the books are reopened for the new year (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance, the trial balance. Your companion asks one question back — answer it from the lesson.

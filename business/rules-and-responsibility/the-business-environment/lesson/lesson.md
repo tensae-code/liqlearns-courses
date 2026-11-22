@@ -31,6 +31,8 @@ Government-provided services and infrastructure as business conditions: governme
 **The world the business sits in / analysing the venture.** The FODA (SWOT) analysis: its aim is to build up strengths, seize opportunities, reduce or eliminate weaknesses and neutralise threats; (Nicaragua's book.)
 
 **The world the business sits in / green ventures.** MARENA's three national strategies aimed at entrepreneurs: registering and certifying wildlife-breeding farms (zoocriaderos) as nature-based income that reduces extraction of wild fauna; private wildlife reserves, where the entrepreneur conserves natural and water resources and diversifies the farm; (Nicaragua's book.)
+**Market-forms.** Competition (ανταγωνισμός) defined as rivalry between traders pursuing the same aim in a market governed by supply and demand, and the four market forms it produces: perfect competition, monopoly (one seller, e.g. public utilities), oligopoly (a few sellers of like products, e.g. car industries) and monopolistic competition (many sellers of slightly differentiated products) (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

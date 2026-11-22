@@ -105,6 +105,18 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Banking services for trade.** Loan management: the loan application process (which varies with the bank's experience of the borrower), the documents a personal-loan applicant must show (proof of age and identity, employment ID), the qualities a borrower must possess to be offered a loan, and collateral — the bank may require security such as buildings, land, vehicles or deposit accounts, and on default may take control of and… (Tanzania's book.)
 
+**Cheque.** The cheque (επιταγή): the drawer's order to his bank to pay a fixed sum on presentation against his deposit — the account is the cheque's cover; cheques come from the bank's cheque book and act as a substitute for money; post-dated cheques and their wide use; the kinds of cheque, including the crossed cheque (δίγραμμη), general and special; and transfer of a cheque by endorsement (Greece's book.)
+
+**Cards.** Credit cards and plastic cards as a modern means of paying in trade: how card payment replaces cash and cheque for the buyer and what it gives the seller (Greece's book.)
+
+**What-banks-are.** The bank defined as the intermediary between lenders and borrowers, channelling capital to where it is needed, its main function remaining interest-bearing lending alongside commission work such as clearances and cards and sponsoring listings; the kinds of banks, and the Greek banking institutions — the Union of Greek Banks, the Bank of Greece, the National Bank of Greece and the other banks and credit organisations (Greece's book.)
+
+**Deposit-services.** The passive banking operations, deposits: the bank takes in money it owes back to its customers and may lend only part of it, keeping the reserve percentage the Bank of Greece sets; the kinds of deposit — savings, sight, time, joint-account, blocked, foreign-currency and special deposit accounts (Greece's book.)
+
+**Borrowing-from-a-bank.** The active banking operations, lending: the loan kinds a trader meets — consumer-type loans repaid over 12–60 months, the open current-account credit (ανοικτός αλληλόχρεος λογαριασμός) that gives a business working capital up to a set limit, drawn and repaid in parts, and long-term mortgage loans (Greece's book.)
+
+**Other-bank-services.** The auxiliary banking operations and the bank's card and foreign-exchange services: credit and plastic cards handled for customers, and buying and selling foreign exchange (συνάλλαγμα) for trade payments (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

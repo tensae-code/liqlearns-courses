@@ -14,7 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Commercial banks and their services** — bank services; bank services in detail; online banking and e-trade.
 3. **The other finance institutions** — financial institutions.
 4. **Ways of paying — instruments and transfers** — payment instruments.
-5. **Bills of exchange, cheques and notes** — cheques; aids to trade; banking services.
+5. **Bills of exchange, cheques and notes** — cheques; aids to trade; banking services; Cheque; Cards; What-banks-are; Deposit-services; Borrowing-from-a-bank; Other-bank-services.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

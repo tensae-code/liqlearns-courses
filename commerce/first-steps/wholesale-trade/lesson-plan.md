@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Channels of distribution** — channels of distribution.
 2. **What the middlemen do**
-3. **Why wholesalers need credit**; home trade; wholesale trade.
+3. **Why wholesalers need credit**; home trade; wholesale trade; Wholesale/retail distinction.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

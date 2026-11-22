@@ -1,6 +1,6 @@
 # Sources — Business Finance
 
-countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt
+countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -30,6 +30,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 10:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 **Book 11:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الثاني الإعدادي (Second Preparatory grade = Grade 8), الفصل الدراسي الأول (First term) (student book) — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan (Assistant Minister for Curriculum Development, CACD) — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025/2026 as printed on the cover; no separate edition statement; no ISBN printed. Grade: Preparatory 8 (Grade 8). Language: Arabic. Page count: 46 PDF pages (printed page numbers = PDF page numbers in the body). Source: manifest manifests-phase2/egypt.json n=2; the book was staged-gone — no copy survived on disk — and was recovered via fetch_book.py, route release-search, 9,332,499 bytes = expected_bytes exactly (byte-exact against the Economics wave's recorded size), to scratch-phase2/egypt/Industry_Prep2_T1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, to the last teaching page (printed p. 44; references printed p. 45). RECOVERED-AND-READ in the Phase 2 pending-queue wave (2026-11-22).
+
+**Book 12:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -106,9 +108,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | sources of finance | Book 9 (Commercial Science G12 (Sudan)), printed p. 23 |
 | sources of finance | Book 10 (Commerce Form Three), printed pp. 142–146 |
 | the managing-resources part of the lesson | Book 11 (Industry Skills and Entrepreneurship Prep 8 T1), Introduction (unnumbered front matter, PDF p. 4) |
+| the leasing-and-factoring part of the lesson | Book 12 (Sygchrones Synallages B EPAL), printed pp. 187–189 |
 
-**Acceptance count: taught in 12 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan, Tanzania, Egypt, Greece)** — every book above is a student book, so each country counts.
 
 Note, as filed: this lesson holds the Nigerian book's capital-market history, regulator and market-people parts as sources of long-term finance. The same book's market-mechanics parts (raising funds, trading, instruments, reading the market, softer windows) form their own lesson, Capital Markets and the Stock Exchange.
 
-Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, sudan, tanzania, egypt
+Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, sudan, tanzania, egypt, greece

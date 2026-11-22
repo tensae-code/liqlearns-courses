@@ -1,6 +1,6 @@
 # Sources — Transport in Trade
 
-countries: Samoa, Dominica, Nepal
+countries: Samoa, Dominica, Nepal, Greece
 
 **Book 1:** Business Studies — Year 11, Book One (student book) — Lili Tuioti with subject committee — Government of Samoa, Department of Education, 2003; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-042-5. Year/edition: 2003 (in-hand copy). Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-1.pdf. Verdict: COMPLETE for the assigned strands — the whole book was read; Business and Commerce parts placed, Economics parts mapped only.
 
@@ -8,13 +8,17 @@ countries: Samoa, Dominica, Nepal
 
 **Book 3:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+**Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
 | Lesson part | Where it comes from |
 |---|---|
 | distribution channels | Book 1 (Bus Studies Y11 Bk1), printed p. 24 |
 | modes of transport | Book 2 (Principles of Business for CSEC), printed pp. 254–258 |
 | multimodal and intermodal transport | Book 2 (Principles of Business for CSEC), printed p. 255 |
 | aids to trade | Book 3 (Business Studies Cl. 11), printed p. 13 |
+| the what-transport-does-for-trade part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 128–129 |
+| the choosing-a-transport-means part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 130–139 |
 
-**Acceptance count: taught in 3 countries (Samoa, Dominica, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Samoa, Dominica, Nepal, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: transport in trade, trade across distance, commerce, samoa, dominica, nepal
+Searchable tags: transport in trade, trade across distance, commerce, samoa, dominica, nepal, greece

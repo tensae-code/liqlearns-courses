@@ -1,6 +1,6 @@
 # Sources — What Is Commerce
 
-countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania
+countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -14,6 +14,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania
 
 **Book 6:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
+**Book 7:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
 | Lesson part | Where it comes from |
 |---|---|
 | distribution part of the lesson | Book 1 (Kenya Business Form 3), printed p. 49 |
@@ -25,7 +27,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania
 | what commerce is | Book 4 (Business Studies Cl. 11), printed p. 10 |
 | what commerce is | Book 5 (Commercial Science G12 (Sudan)), printed pp. 3–6 |
 | what commerce is | Book 6 (Commerce Form Three), printed pp. 54–60 |
+| the what-trade-is part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed p. 32 |
 
-**Acceptance count: taught in 6 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania
+Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania, greece

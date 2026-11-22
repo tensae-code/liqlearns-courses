@@ -159,6 +159,8 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Managing-resources.** The resources field: the Introduction defines it as self-management and managing financial resources (إدارة الموارد المالية) (Egypt's book.)
 
+**Leasing-and-factoring.** Leasing (χρηματοδοτική μίσθωση) and factoring (πρακτορεία επιχειρηματικών απαιτήσεων) as finance a business can use instead of a plain loan: leasing hires equipment or property for minimum terms (three years for movables, five for aircraft, ten for property) under Laws 1665/1986 ff.; in factoring a company — usually a bank or its subsidiary, the factor — buys its client's receivables from sales of goods or services, the client (factoree) assigning them (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

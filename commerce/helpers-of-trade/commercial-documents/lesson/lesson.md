@@ -38,6 +38,16 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Commercial documents.** The import documents: the trade enquiry (the buyer's letter seeking information about goods he intends to buy, specific or general, before deciding to order); the indent (the international order placed by the importer with the exporter, usually through an agent — open, closed or confirmatory indents); and the proforma invoice — most import documents originate in the exporting country and are used… (Tanzania's book.)
 
+**Documents-of-a-sale.** The trade documents (στοιχεία του Κ.Β.Σ.) a wholesale business issues: sales are documented either by a dispatch note followed by a sales invoice or by the combined Dispatch Note – Invoice; the dispatch note also serves for returning goods to a supplier; and when a discount is granted to a customer or sales are returned, a credit invoice (πιστωτικό τιμολόγιο) must be issued (Greece's book.)
+
+**Documents-of-a-sale.** The documents of a sale in their three groups — those proving the conclusion of the sale, those issued during its execution, and those issued at settlement — plus the internal warehouse movement notes (δελτία εισαγωγής / εξαγωγής αποθήκης), and the particulars the ΚΒΣ requires on commercial documents: issuer's and counterparty's name, profession, address and Α.Φ.Μ., kind, quantity, unit price and value (Greece's book.)
+
+**Order-note.** The order note (σημείωση / δελτίο παραγγελίας): the buyer's written order that opens the sale, what it must state, taught through a worked specimen (Greece's book.)
+
+**Invoice.** The invoice (τιμολόγιο): issued by the seller when the goods are delivered or loaded, compulsory in trader-to-trader sales, with its required contents under ΠΔ 186/92 (ΚΒΣ) — including the dispatch-note numbers it refers to and the separate columns for each VAT rate (Greece's book.)
+
+**Receipts.** The settlement documents that close a sale: the receipt of collection (απόδειξη είσπραξης), issued by the one who receives, in duplicate from a numbered pad; the receipt of payment (απόδειξη πληρωμής), issued by the payer — the two differing only in issuer and heading — and the collection note (γραμμάτιο είσπραξης) used by large firms (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents, commercial documents, commercial documents, commercial documents, commercial documents. Your companion asks one question back — answer it from the lesson.

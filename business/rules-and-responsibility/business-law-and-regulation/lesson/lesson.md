@@ -127,6 +127,10 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **The rules a business works under.** The financial-services industry's own marks and its work rules, in the guide's essential-material summary: a financial-service company buys and resells no merchandise, produces no goods, holds no raw-material stock, spends mostly on staff operations, and holds cash, receivables and fixed assets; work guidelines function to order that work, a work procedure (tata kerja) is the efficient way of… (Indonesia's teacher guide.)
 
+**Publishing-the-articles.** Publication of the articles: an unpublished articles document is formally non-existent toward third parties yet binds absolutely the partners who signed it; the same holds for every amendment; after signing, the articles go to the competent tax office (Δ.Ο.Υ.) with the capital-concentration tax declaration (Greece's book.)
+
+**Who-may-trade.** The limitations on practising trade: objective limits — activities that need a special operating licence (banking, insurance, stockbroking, pharmacy, commercial agency, broking, travel offices, exporting, industry) — and subjective limits — who has the legal capacity to trade and which professions are incompatible with trader status; multi-level marketing noted (Greece's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law, the rules a business works under, the rules a business works under. Your companion asks one question back — answer it from the lesson.
