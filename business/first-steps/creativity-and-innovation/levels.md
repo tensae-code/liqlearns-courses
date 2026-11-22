@@ -1,0 +1,3 @@
+# Creativity and Innovation — depth
+
+This lesson has 2 sub lessons (Creativity; Innovation). Pass mark: the learner can state the lesson's one thing — creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market — in their own words, give one real example from their own life, and answer the lesson's questions. Practice deepens by more items and harder corners: first the plain cases from the lesson, then cases where the lesson's opposite (its false friend) tempts the wrong answer, then the lesson applied in a new place — a new home, market or street situation the learner has not seen in the lesson.

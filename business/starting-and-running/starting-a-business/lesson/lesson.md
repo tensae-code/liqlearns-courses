@@ -41,6 +41,10 @@ Choose a business you might one day start. Write down: where you would put it, a
 **Starting / help available.** The three kinds of incubator: general incubators develop all kinds of business project without a set specialisation, concentrating on renewal and innovation; specialised incubators restructure a region's economy by attracting a particular kind of investment or industry, or creating jobs for wanted specialisations or groups of job-seekers; (Palestine's book.)
 
 **Starting / help available.** Business incubators: institutions with their own legal entity (state, private or mixed) that give small investors starting small projects — especially creative ones — a bundle of services and facilities (expertise, place, financing) to carry them over the burdens and risks of the launch and establishment stage, and may market the projects' products; (Palestine's book.)
+
+**Starting a business.** Factors that enable an individual to start up a business: personal interest in the business; technical skills for the business; government support in tax incentives and subsidies; presence of a market for the product; inspiration from successful business role models; a high degree of creativity and innovation; presence of raw materials/inputs; (Uganda's book.)
+
+**Starting a business.** The ten steps in starting a business: 1) identify potential business opportunities by scanning the environment; 2) select a suitable business opportunity; 3) carry out a market survey for it — checking it can become a profitable business with competitive advantage; (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

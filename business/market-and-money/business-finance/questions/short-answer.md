@@ -25,3 +25,6 @@ Answer in a sentence or two, in your own words.
 
 **8.** In your own words, what does this lesson say about judging an investment? (Sub lesson 5)
 **Answer:** Net Present Value: the difference between the present value of the cash inflows and the initial investment, discounting at the required rate of return (the discount rate, which rises with the alternatives available and the project's risk); the decision rule — accept if NPV is zero or positive, reject if negative, and the higher the NPV the better the project when ranking;
+
+**9.** In your own words, what does this lesson say about sources of finance? (Sub lesson 4)
+**Answer:** Sources of business finance: personal savings, donations, inheritance, borrowing, shares, profits, sale of personal property, prizes and rewards, and bonds — a bond being a promise to systematically repay a borrowed amount by the end of a clearly stated period, its investors receiving regular interest payments, fixed or floating

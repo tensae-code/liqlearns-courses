@@ -16,6 +16,12 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Market research.** Market versus marketing; market research versus the wider marketing research; push and pull promotion strategies.
 
+**Market research.** Presenting the survey: after gathering the information, analyse it and prepare the findings in a written report; the information gathered guides the entrepreneur in preparing and writing a business plan if it shows the business will be profitable (Uganda's book.)
+
+**Market research.** Conducting a market survey: it is collecting and using market information to determine the market for the products and identify its problems, gathering information personally from customers, suppliers and competitors and seeking experts' advice, with the findings prepared in a written report; (Uganda's book.)
+
+**Market research.** Market and market survey: a market is all the buyers (people, institutions, businesses) who need the business's products and are willing and able to buy or pay for them; (Uganda's book.)
+
 **Market research.** The market study: the market for the project's products is the basic factor in its success or failure; (Palestine's book.)
 
 **Market research.** Market research as a feature of good management: before producing, establish that buyers exist, that the price still allows acceptable profit, that the market will last, how competition will be handled, that materials supply can be maintained, and that the location suits customers, delivery and visibility.

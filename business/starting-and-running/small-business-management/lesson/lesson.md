@@ -21,6 +21,14 @@ Find the smallest business near you. Ask (or work out): why is it small — is i
 Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, manual, local materials — characteristics, advantages, disadvantages) vs small businesses with premises and paid employees; the functions small businesses perform (jobs, niche and personalised products, competition, choice) and their advantages and disadvantages (easy set-up and flexibility vs skills gaps, difficulty raising finance, inability to match large firms' costs)
 
 **Running a small business.** What makes a project "small": ownership is not separated from management (the owner is the manager), capital is provided by one person or a small group of owners, and the project is small relative to its industry or service sector; (Palestine's book.)
+
+**Running a small business well.** Success and its indicators: success is the realisation of a worthy intention — a business is successful as it steps towards its predetermined goals, e.g. expanding market share and increasing profits; (Uganda's book.)
+
+**Running a small business well.** Reviving a failing business: (Uganda's book.)
+
+**Running a small business well.** Why businesses fail — the common management mistakes: mistaking cash for profit (spending sales cash as if it were profit until the business funds are depleted); lack of record keeping (without records the entrepreneur cannot tell the business is in trouble until too late); poor customer care; neglect (loss of interest, bad habits, poor health, changed priorities); (Uganda's book.)
+
+**Running a small business well.** Factors leading to success in business: the personal and entrepreneurial qualities of the owner; clear and definite objectives, with the operating and management guidelines set to achieve them closely followed; proper location, securing inputs (materials, labour, power) and market access at low cost; (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

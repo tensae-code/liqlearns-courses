@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about what encourages entrepreneurs?
 **Answer:** The factors that encourage entrepreneurship: social culture and values (family, community and state support, material or moral — among the most important); the possibilities of the environment (where a group's unmet need appears, the entrepreneur turns the idea of meeting it into an income-earning project);
+
+**7.** In your own words, what does this lesson say about why learn entrepreneurship?
+**Answer:** The purpose of entrepreneurship education: it is the process of imparting knowledge, skills and values so learners can identify opportunities around them and undertake business activities for profit;

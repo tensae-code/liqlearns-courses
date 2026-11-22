@@ -1,6 +1,6 @@
 # Sources — What Is a Business
 
-countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine
+countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -18,6 +18,8 @@ countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine
 
 
 المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
+
+Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,7 +40,10 @@ countries: Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine
 | why businesses matter | Book 8 (Small Projects), printed pp. 5–6 |
 | kinds of business | Book 8 (Small Projects), printed p. 9 |
 | kinds of business | Book 8 (Small Projects), printed p. 12 |
+| what a business is | Book 8 (Entrepreneurship S1), printed p. 24 |
+| kinds of business | Book 8 (Entrepreneurship S1), printed p. 25 |
+| why businesses matter | Book 8 (Entrepreneurship S1), printed p. 27 |
 
-**Acceptance count: taught in 7 countries (Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Kenya, Nigeria, Samoa, Dominica, Iran, Nepal, Palestine, Uganda)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is a business, first steps, business, kenya, nigeria, samoa, dominica, iran, nepal, palestine
+Searchable tags: what is a business, first steps, business, kenya, nigeria, samoa, dominica, iran, nepal, palestine, uganda

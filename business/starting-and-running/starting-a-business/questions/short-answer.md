@@ -22,3 +22,6 @@ Answer in a sentence or two, in your own words.
 
 **7.** In your own words, what does this lesson say about starting / help available? (Sub lesson 3)
 **Answer:** The three kinds of incubator: general incubators develop all kinds of business project without a set specialisation, concentrating on renewal and innovation; specialised incubators restructure a region's economy by attracting a particular kind of investment or industry, or creating jobs for wanted specialisations or groups of job-seekers;
+
+**8.** In your own words, what does this lesson say about starting a business? (Sub lesson 3)
+**Answer:** The ten steps in starting a business: 1) identify potential business opportunities by scanning the environment; 2) select a suitable business opportunity; 3) carry out a market survey for it — checking it can become a profitable business with competitive advantage;

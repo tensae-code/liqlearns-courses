@@ -21,3 +21,9 @@ a) Something this lesson does not teach.
 b) Customer relationships (part 4): knowing the customer personally is vital — a business that cannot gather its…
 c) Something this lesson does not teach.
 **Answer: b) Customer relationships (part 4): knowing the customer personally is vital — a business that cannot gather its…** — That is what this lesson teaches in its customer care part (Iran's book).
+
+**5.** What does this lesson teach about selling and customer care? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Customer care as the hinge of failure and revival: businesses fail through poor customer care by owners or…
+c) Something this lesson does not teach.
+**Answer: b) Customer care as the hinge of failure and revival: businesses fail through poor customer care by owners or…** — That is what this lesson teaches in its selling and customer care part (Uganda's book).

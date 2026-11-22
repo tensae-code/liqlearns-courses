@@ -19,3 +19,9 @@ a) Something this lesson does not teach.
 b) Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk…
 c) Something this lesson does not teach.
 **Answer: b) Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk…** — That is what this lesson teaches in its home trade part (Nepal's book).
+
+**5.** What does this lesson teach about wholesale trade? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Wholesale trade inside the book's production chain: the wholesale business buys goods in large amounts —…
+c) Something this lesson does not teach.
+**Answer: b) Wholesale trade inside the book's production chain: the wholesale business buys goods in large amounts —…** — That is what this lesson teaches in its wholesale trade part (Uganda's book).

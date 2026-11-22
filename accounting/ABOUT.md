@@ -38,14 +38,15 @@ cash budgets, break-even analysis, computerised accounting).
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 18 student
+`lesson/sources.md`. The set read for the split — 19 student
 books in all; the 13 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 5 read
+parts of each are what stock these lessons). The other 6 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9
-Book 1 — carry no Accounting teaching as filed (their parts fed
+Book 1, and Uganda's Entrepreneurship Textbook Senior One —
+carry no Accounting teaching as filed (their parts fed
 Business and Commerce, or were Economics/named-not-placed), and
 they are named here so the read set is whole.
 

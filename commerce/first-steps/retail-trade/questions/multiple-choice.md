@@ -19,3 +19,9 @@ a) Something this lesson does not teach.
 b) Retail trade: the retailer has a direct relation with the final consumer and satisfies them by selling the…
 c) Something this lesson does not teach.
 **Answer: b) Retail trade: the retailer has a direct relation with the final consumer and satisfies them by selling the…** — That is what this lesson teaches in its home trade part (Nepal's book).
+
+**5.** What does this lesson teach about retail trade?
+a) Something this lesson does not teach.
+b) Retail trade inside the book's production chain: the retail business buys large-quantity goods from…
+c) Something this lesson does not teach.
+**Answer: b) Retail trade inside the book's production chain: the retail business buys large-quantity goods from…** — That is what this lesson teaches in its retail trade part (Uganda's book).

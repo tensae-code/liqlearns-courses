@@ -62,6 +62,10 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Technology in business.** CRM (TIC page): Customer Relationship Management as the method and software for running relations with current and future customers across sales, marketing, customer service and technical support — from prospect database and marketing campaigns to invoicing and product delivery (Ecuador's book.)
 
+**Technology in business.** Benefits and challenges of e-business: it saves transport costs, is convenient and safer than moving with large sums of money, is very fast for payments regardless of distance, lets the entrepreneur advertise products across the world through online marketing, and lets him order raw materials or buy goods from foreign countries without travelling; (Uganda's book.)
+
+**Technology in business.** E-business: business carried out using modern technology; (Uganda's book.)
+
 **Technology in business.** Electronic filing and electronic file management: scanning documents into digital form, classifying and storing them on hard drive, server or cloud; the tools (file explorer, cloud storage services, document management systems), folder structure, naming files, access control and file security, file backup and recovery, and preservation (Nepal's book.)
 
 **Technology in business.** Informational resources: the internet as a worldwide information network reaching any person or institution, and the intranet, which keeps internal information inside the organisation — quick, secure internal communication, protection of confidential data and no misuse of information (Nepal's book.)

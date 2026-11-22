@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Rules and Responsibility · **Lesson:** The Business Environment
 **Place in the curriculum:** Unit 4 — Rules and Responsibility (CURRICULUM.md).
 **The one thing this lesson teaches:** a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well.
-**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 23 of 24 in the course ladder; it stands on Business Ethics and Responsibility, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 24 of 25 in the course ladder; it stands on Business Ethics and Responsibility, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

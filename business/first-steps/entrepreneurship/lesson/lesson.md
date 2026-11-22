@@ -34,6 +34,10 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **The entrepreneur.** The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities, researching and selecting the idea), start-up (writing the project and launching), and strengthening (consolidating by trial and error so the venture survives its first years); leadership as the capacity to influence others toward a goal (Ecuador's book.)
 
+**The entrepreneur.** The benefits of a successful business to the entrepreneur: self-reliance and fulfilment (doing things for oneself, self-confidence, independent decisions, meeting one's basic needs); increased income and further investment (part of the growing profits for personal use, part to expand the business); recognition in the community (respected owners attract still more customers); (Uganda's book.)
+
+**The entrepreneur.** The entrepreneur and the personal entrepreneurial characteristics (PECs): an entrepreneur produces new or better goods or services to sell to customers for profit, committing resources — money, time, land, machines, labour — to start and operate the venture; (Uganda's book.)
+
 **The entrepreneur.** The entrepreneurial character: (Palestine's book.)
 
 **The entrepreneur.** False beliefs about entrepreneurship, corrected: it is not only about creating jobs (it must create new value), the entrepreneur is not necessarily a good manager, its aim is not simply getting rich (it improves society's economy), and it does not only require financial capital (Iran's book.)
@@ -44,9 +48,13 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **What entrepreneurship is.** What entrepreneurship is: in general, an organised approach of identifying ideas or opportunities, planning their implementation, gathering the needed resources and carrying them out effectively and responsibly toward society for a return or reward; (Palestine's book.)
 
+**What entrepreneurship is.** What entrepreneurship is: the spirit of taking a risk to set up a business or enterprise to produce and sell goods or services, meeting customers' needs with the aim of earning profits; it involves doing new things, or doing the things already being done but in a new and better way; studying it builds a positive attitude towards work and business (Uganda's book.)
+
 **What encourages entrepreneurs.** The factors that encourage entrepreneurship: social culture and values (family, community and state support, material or moral — among the most important); the possibilities of the environment (where a group's unmet need appears, the entrepreneur turns the idea of meeting it into an income-earning project); (Palestine's book.)
 
 **Entrepreneurship.** The entrepreneur's role in development, and what makes a project entrepreneurial: entrepreneurial work creates new jobs, raises productivity and diversifies products through the entrepreneurs' varied talents, opens new markets for a good or service, transfers and localises technology, and restructures investment projects for new products and ways of serving; (Palestine's book.)
+
+**Why learn entrepreneurship.** The purpose of entrepreneurship education: it is the process of imparting knowledge, skills and values so learners can identify opportunities around them and undertake business activities for profit; (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

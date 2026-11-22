@@ -24,6 +24,12 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Where business ideas come from.** Finding a venture idea by detecting the needs of one's own area: listing what the market lacks, using Maslow's hierarchy (physiological, safety, belonging, esteem, self-realisation) to prioritise which needs matter most (Ecuador's book.)
 
+**Where business ideas come from.** Generating ideas from the environment, Uganda's own way: develop an idea in an area where you have interest; take note of the obvious problems you encounter in day-to-day life; travel to new areas to gather information about different business ideas; listen to and observe what is going on around you (Uganda's book.)
+
+**Where business ideas come from.** Sources of business ideas: the entrepreneur's technical skills and experience; personal contacts that expose him to different scenarios; hobbies that may be turned into a business; observation of developments and changes around him — products being sold, products lacking, products that could be improved, gaps; newspapers and magazines, radio and television; (Uganda's book.)
+
+**Where business ideas come from.** What a business idea is: any thought an entrepreneur may come up with for developing into a business to solve an identified problem in the community; identifying a good business idea is the first step in transforming the entrepreneur's desire and creativity into a business opportunity, and the first step in the business start-up process (Uganda's book.)
+
 **Where business ideas come from.** Sources of business ideas: existing products (studying their strengths and weaknesses against competitors), government policies, research and development, and the network of business actors — buyers, suppliers, channel members (wholesalers, retailers, agents) and consultants — plus brainstorming (Nepal's book.)
 
 **Where business ideas come from.** The unit's own way in: a traditional waste-collection routine contrasted with a modern mobile-app collection service, showing how a business idea grows out of a community problem (Nepal's book.)
@@ -35,6 +41,12 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 **Testing an idea against the market.** Ecuador's own way: for each need, tabulating how it is satisfied today — completely, partially, not at all in the locality, or by no existing good or service — and naming the potential venture each gap suggests (Ecuador's book.)
 
 **Judging opportunities.** Choosing between candidate ventures by evaluating qualitative variables (jobs created, better living standards, care for the environment, laws that encourage the venture, liking the activity) against quantitative ones (fast return on investment, profit, number of customers, market share, future sustainability) (Ecuador's book.)
+
+**Judging opportunities.** Characteristics of a good business opportunity — a good idea is not necessarily a good opportunity: real demand (customers with the ability and willingness to buy); low or moderate start-up capital; availability of resources (the raw materials used as inputs); availability of the required skills and knowledge; competitiveness (equal or better than other available products); (Uganda's book.)
+
+**Judging opportunities.** Idea into opportunity: a business opportunity is an identified situation or chance that can be turned into a real and profitable business — the evidence that the entrepreneur's idea can be turned into reality; (Uganda's book.)
+
+**Judging opportunities.** Selecting a good business idea: weigh the present market available, the possibility of expanding the future market, production costs (raw materials, labour, machinery, selling and distribution costs), and business risks — assessing the magnitude of risk from market stability, level of competition, anticipated demand and the time required to generate profits (Uganda's book.)
 
 **Judging opportunities.** Evaluating ideas: an idea is judged on two measures — goodness and feasibility; a good idea has customers who exist, are interested, can pay and can be reached (the target market), beats similar products, and gives the customer a special value and many reasons to buy (Iran's book.)
 

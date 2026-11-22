@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about home trade? (Sub lesson 3)
 **Answer:** Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk between producer and retailer
+
+**5.** In your own words, what does this lesson say about wholesale trade? (Sub lesson 3)
+**Answer:** Wholesale trade inside the book's production chain: the wholesale business buys goods in large amounts — boxes, cartons, containers — and sells large-quantity goods to retail businesses (the book's example: the wholesaler buys sacks of sugar already packed in kilograms from the producer)

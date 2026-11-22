@@ -1,6 +1,6 @@
 # Sources — E-Business and Technology
 
-countries: Malaysia, Dominica, Ecuador, Nepal
+countries: Malaysia, Dominica, Ecuador, Nepal, Uganda
 
 **Book 1:** Pengajian Keusahawanan Tingkatan 5 (Entrepreneurship Studies, Form 5) (student book) — Sasbadi, for the Kementerian Pendidikan Malaysia KSSM textbook programme. KSSM 2020 edition (page imprints dated 9 Dec 2020); the in-hand PDF opens at the Bab 1 opener — no cover or imprint leaves in the file. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 238 PDF pages (printed pp. 2–239). Source: /home/hatch/workspace/my-wave34/dl/keusahawanan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching pages (printed pp. 234–235).
 
@@ -10,6 +10,8 @@ countries: Malaysia, Dominica, Ecuador, Nepal
 
 **Book 4:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+
+Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -32,7 +34,9 @@ countries: Malaysia, Dominica, Ecuador, Nepal
 | technology in business | Book 3 (Emprendimiento y Gestión 3), printed p. 176 |
 | technology in business | Book 4 (Business Studies Cl. 11), printed p. 46 |
 | technology in business | Book 4 (Business Studies Cl. 11), printed p. 202 |
+| technology in business | Book 5 (Entrepreneurship S1), printed pp. 18–19 |
+| technology in business | Book 5 (Entrepreneurship S1), printed p. 20 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Dominica, Ecuador, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda)** — every book above is a student book, so each country counts.
 
-Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal
+Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda

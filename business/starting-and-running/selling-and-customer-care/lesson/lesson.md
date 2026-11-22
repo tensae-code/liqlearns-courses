@@ -19,6 +19,8 @@ Think of the last thing you bought from a person, not a machine. Walk through wh
 **The selling process.** The elevator pitch ("discurso del elevador"): planning a pitch of at most about 60 seconds — first define its objective (sell, convince, obtain financing, get a job), then the target market and the benefits and advantages for the listener (Ecuador's book.)
 
 **Customer care.** Customer relationships (part 4): knowing the customer personally is vital — a business that cannot gather its customers' important characteristics cannot win their satisfaction; the first step of customer orientation is identifying the customer's needs and expectations by going to the customer and hearing their views (Iran's book.)
+
+**Selling and customer care.** Customer care as the hinge of failure and revival: businesses fail through poor customer care by owners or employees — customers not handled well go to businesses where they are treated better; and the first revival measure the book names is ensuring good customer care to existing and prospective customers (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: selling is a process with steps — prepare, find the buyer, present the goods, handle objections, close the sale — done on terms both sides understand, and it is finished only by customer care: looking after the buyer before, during and after the purchase so that they come back. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: selling, terms of sale, customer service. Your companion asks one question back — answer it from the lesson.

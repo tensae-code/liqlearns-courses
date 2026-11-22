@@ -49,3 +49,9 @@ a) Choosing the project's location: the deciding factor differs by project — n
 b) The technical study: built on the market study's results, it covers everything that makes the project…
 c) Something this lesson does not teach.
 **Answer: b) The technical study: built on the market study's results, it covers everything that makes the project…** — That is what this lesson teaches in its how production works part (Palestine's book).
+
+**9.** What does this lesson teach about how production works / siting? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Location of a business: setting up in a particular area is one of the factors affecting business success, and…
+c) Something this lesson does not teach.
+**Answer: b) Location of a business: setting up in a particular area is one of the factors affecting business success, and…** — That is what this lesson teaches in its how production works / siting part (Uganda's book).

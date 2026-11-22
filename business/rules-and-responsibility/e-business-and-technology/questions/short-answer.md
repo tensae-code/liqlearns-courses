@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about technology in business?
 **Answer:** Electronic filing and electronic file management: scanning documents into digital form, classifying and storing them on hard drive, server or cloud; the tools (file explorer, cloud storage services, document management systems), folder structure, naming files, access control and file security, file backup and recovery, and preservation
+
+**6.** In your own words, what does this lesson say about technology in business?
+**Answer:** Benefits and challenges of e-business: it saves transport costs, is convenient and safer than moving with large sums of money, is very fast for payments regardless of distance, lets the entrepreneur advertise products across the world through online marketing, and lets him order raw materials or buy goods from foreign countries without travelling;

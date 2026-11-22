@@ -75,6 +75,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **What the business makes or does.** Product or service: a product is a physical good that has passed through stages to become what is sold (bread-making is the example), a service is the activity of doing something for another person (hairdressing), and a venture can do both — the custom-furniture maker whose product is the furniture and whose service is making and installing it for the particular client (Nicaragua's book.)
 
 **How production works / siting.** Choosing the project's location: the deciding factor differs by project — nearness to raw materials where transport of materials is costly (quarries) or the product perishes fast (milk, vegetables), nearness to centres of cheap labour for labour-intensive projects, nearness to the road network and transport, availability of land, of a suitable sewage network, or of cheap power; (Palestine's book.)
+
+**How production works / siting.** Location of a business: setting up in a particular area is one of the factors affecting business success, and the entrepreneur should choose an appropriate site; (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

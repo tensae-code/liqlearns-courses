@@ -2,8 +2,8 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine and
-Samoa. The
+and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa and
+Uganda. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
 books'.
@@ -27,13 +27,13 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-129 placements stocked.**
+131 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 18 student
-books in all; the 11 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 19 student
+books in all; the 12 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 7 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -59,6 +59,9 @@ set is whole.
 - *المشاريع الصغيرة (Small Projects) — First Secondary, Entrepreneurship and Business stream* — writing team: Dr Islam Abdeljawad (coordinator) and others — State of Palestine, Ministry of Education, Palestinian Curriculum Centre. Adopted for teaching from 2018/2019. **Grade 11. STUDENT book. Language: Arabic.** 140 PDF pages (printed pp. 1–136). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 4 ends printed p. 131). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
   - Contents map for this split: the financing teaching of Unit 4 (printed pp. 117–127) fed **Commerce** (4 placements in this course, from this book — getting a bank loan step by step, trade credit and its instruments, short-term bank credit and bill discounting, Islamic bank financing); Units 1–4 fed **Business** (46 placements); the cash-flow and balance-sheet teaching of Units 3–4 fed **Accounting** (3 placements).
 
+- *Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum* (marked "PROTOTYPE" throughout) — National Curriculum Development Centre (NCDC), Kampala, Uganda. Published 2020. **Grade 8 (Senior One). STUDENT book. Language: English.** 74 PDF pages (printed pp. v–vi + 1–64). **Verdict: COMPLETE** — read whole book to the last teaching page (Chapter 5 ends printed p. 64). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
+  - Contents map for this split: the production-chain teaching of Chapter 2 (printed p. 26) fed **Commerce** (2 placements in this course, from this book — wholesale trade and retail trade); Chapters 1–4 fed **Business** (35 placements, including the 2 that stock the new lesson Creativity and Innovation). No part fed Accounting. Chapter 5 (Government Revenue) is Economics-wave material, mapped, not placed.
+
 - *Inventor Business Studies, Form Three Students' Book* — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement on the pages in hand. **Form Three (grade-11 equivalent). STUDENT book. Language: English.** 181 PDF pages (main text printed pp. 1–164). **Verdict: COMPLETE.**
   - Contents map for this split: Ch. 4 (Chain of Distribution) fed **Commerce** (6 placements in this course, from this book); Ch. 2 fed **Business**; Chs. 7–10 fed **Accounting**. The four Economics chapters (Ch. 1 Demand and Supply; Ch. 3 Product Market; Ch. 5 National Income; Ch. 6 Population and Employment) are named, not placed. Scan note: duplicated pages — citations use printed folios.
 
@@ -80,9 +83,9 @@ set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 129 placements from **student books** of 9
-  countries (Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa) —
-  taught in 9 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 131 placements from **student books** of 10
+  countries (Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
+  taught in 10 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher

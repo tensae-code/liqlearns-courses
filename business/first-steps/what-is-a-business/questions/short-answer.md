@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about why businesses matter?
 **Answer:** Why small projects matter: they supply most of the goods and services consumed daily and employ most of the workforce — creating jobs, raising individuals' incomes and social welfare, and through their profits and taxes raising government spending on public services, national income and GDP;
+
+**7.** In your own words, what does this lesson say about kinds of business?
+**Answer:** Uganda's four types of business by activity: agro-businesses (produce or sell agricultural products for profit), manufacturing businesses (process raw materials to produce different products), trading businesses (buy and sell goods, in retail or wholesale) and service businesses (provide services to customers using talents or skills)

@@ -31,3 +31,9 @@ a) Electronic filing and electronic file management: scanning documents into dig
 b) Informational resources: the internet as a worldwide information network reaching any person or institution,…
 c) Something this lesson does not teach.
 **Answer: b) Informational resources: the internet as a worldwide information network reaching any person or institution,…** — That is what this lesson teaches in its technology in business part (Nepal's book).
+
+**6.** What does this lesson teach about technology in business?
+a) Benefits and challenges of e-business: it saves transport costs, is convenient and safer than moving with…
+b) E-business: business carried out using modern technology; the entrepreneur uses it to meet customers' orders,…
+c) Something this lesson does not teach.
+**Answer: b) E-business: business carried out using modern technology; the entrepreneur uses it to meet customers' orders,…** — That is what this lesson teaches in its technology in business part (Uganda's book).

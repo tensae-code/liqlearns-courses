@@ -1,6 +1,6 @@
 # Sources — Business Ideas and Opportunities
 
-countries: Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua
+countries: Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -16,6 +16,8 @@ countries: Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua
 
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,7 +45,13 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | generating ideas | Book 6 (Business Studies Cl. 11), printed p. 33 |
 | where business ideas come from | Book 6 (Business Studies Cl. 11), printed p. 33 |
 | where business ideas come from / first steps | Book 7 (Guía del Emprendedor), printed p. 2 |
+| where business ideas come from | Book 7 (Entrepreneurship S1), printed p. 37 |
+| where business ideas come from | Book 7 (Entrepreneurship S1), printed p. 38 |
+| where business ideas come from | Book 7 (Entrepreneurship S1), printed p. 38 |
+| judging opportunities | Book 7 (Entrepreneurship S1), printed p. 39 |
+| judging opportunities | Book 7 (Entrepreneurship S1), printed p. 40 |
+| judging opportunities | Book 7 (Entrepreneurship S1), printed p. 41 |
 
-**Acceptance count: taught in 7 countries (Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda)** — every book above is a student book, so each country counts.
 
-Searchable tags: business ideas and opportunities, first steps, business, egypt, kenya, malaysia, ecuador, iran, nepal, nicaragua
+Searchable tags: business ideas and opportunities, first steps, business, egypt, kenya, malaysia, ecuador, iran, nepal, nicaragua, uganda

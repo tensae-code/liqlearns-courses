@@ -8,6 +8,8 @@ Look along your street or around your village and pick one business. Name what i
 
 **What a business is.** A firm as one unit of business organisation under one management bringing factors of production together (it may run several plants/branches), set against an industry as all the firms making the same product for one market, with Kenyan examples (Bata, Kenya Commercial Bank, the petroleum and motor industries).
 
+**What a business is.** What a business is: any legal economic activity done by an individual or a group of persons with the aim of making profits — buying and selling agricultural produce, running a retail shop, operating a restaurant, services like salons, growing vegetables; (Uganda's book.)
+
 **What a business is.** The investment project as a system: a set of activities using material and human resources to produce goods or services that meet a need, for profit — if profit is not the aim but social goals are, it is a charitable/social project, not an investment project; (Palestine's book.)
 
 ## Business as a system — inputs in, outputs out
@@ -44,6 +46,8 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Kinds of business.** Service enterprises: businesses that earn by giving intangible services — knowledge, skill, experience — in kinds including education, health, hospitality and tourism, technology and IT, personal and professional services, transportation and logistics, and maintenance and repair services (Nepal's book.)
 
+**Kinds of business.** Uganda's four types of business by activity: agro-businesses (produce or sell agricultural products for profit), manufacturing businesses (process raw materials to produce different products), trading businesses (buy and sell goods, in retail or wholesale) and service businesses (provide services to customers using talents or skills) (Uganda's book.)
+
 **Kinds of business.** Classifying projects by economic activity into four sectors: primary (extracting raw materials from nature — quarries, minerals, farming, animal raising, dams and irrigation, fish farming); industrial (converting raw materials into finished or intermediate products — dairies, iron, leather tanning, soap); (Palestine's book.)
 
 **Kinds of business.** Classifying projects by size: the measures used are annual sales volume, number of workers, capital size, asset value and where products are marketed; Palestine's own bands — small: no more than about 9 workers and capital up to 50,000 dinars, products marketed locally; medium: roughly 10–19 workers, capital up to half a million dinars, sometimes exporting; large: (Palestine's book.)
@@ -51,6 +55,8 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 **Why a business exists.** Objectives of business in three families: economic objectives (earning profit, creating markets, producing to consumers' tastes, research and development), social objectives (providing quality goods, creating employment, protecting the environment, social responsibility) and human objectives (employee welfare, satisfaction of shareholders/investors, consumer satisfaction) (Nepal's book.)
 
 **Why businesses matter.** Why small projects matter: they supply most of the goods and services consumed daily and employ most of the workforce — creating jobs, raising individuals' incomes and social welfare, and through their profits and taxes raising government spending on public services, national income and GDP; (Palestine's book.)
+
+**Why businesses matter.** The importance of doing business: people do business to get money to meet personal needs, and business also benefits the family, the community/village and the government — the book's own four-way sorting of the benefits (owner/personal, family, community members, government) (Uganda's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors. Your companion asks one question back — answer it from the lesson.

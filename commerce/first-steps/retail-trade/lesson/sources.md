@@ -1,6 +1,6 @@
 # Sources — Retail Trade
 
-countries: Nigeria, Samoa, Dominica, Nepal
+countries: Nigeria, Samoa, Dominica, Nepal, Uganda
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -10,13 +10,16 @@ countries: Nigeria, Samoa, Dominica, Nepal
 
 **Book 4:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the retailer's side part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 19 |
 | direct selling to retailers and the co-operative channel | Book 2 (Bus Studies Y9 Bk1), printed p. 13 |
 | methods of retailing | Book 3 (Principles of Business for CSEC), printed pp. 228–229 |
 | home trade | Book 4 (Business Studies Cl. 11), printed p. 12 |
+| retail trade | Book 5 (Entrepreneurship S1), printed p. 26 |
 
-**Acceptance count: taught in 4 countries (Nigeria, Samoa, Dominica, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Nigeria, Samoa, Dominica, Nepal, Uganda)** — every book above is a student book, so each country counts.
 
-Searchable tags: retail trade, first steps, commerce, nigeria, samoa, dominica, nepal
+Searchable tags: retail trade, first steps, commerce, nigeria, samoa, dominica, nepal, uganda

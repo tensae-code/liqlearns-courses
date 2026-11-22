@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about running a small business?
 **Answer:** What makes a project "small": ownership is not separated from management (the owner is the manager), capital is provided by one person or a small group of owners, and the project is small relative to its industry or service sector;
+
+**5.** In your own words, what does this lesson say about running a small business well?
+**Answer:** Factors leading to success in business: the personal and entrepreneurial qualities of the owner; clear and definite objectives, with the operating and management guidelines set to achieve them closely followed; proper location, securing inputs (materials, labour, power) and market access at low cost;

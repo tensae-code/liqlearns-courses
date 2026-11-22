@@ -38,6 +38,8 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** The map of business credit and its bank sources: loans (and the "triple C" of collateral, creditworthiness, character), overdrafts, bill discounting, debt factoring and acceptance credits.
 
+**Sources of finance.** Sources of business finance: personal savings, donations, inheritance, borrowing, shares, profits, sale of personal property, prizes and rewards, and bonds — a bond being a promise to systematically repay a borrowed amount by the end of a clearly stated period, its investors receiving regular interest payments, fixed or floating (Uganda's book.)
+
 **Sources of finance.** Medium- and long-term bank loans: medium-term sources fall due after more than a year and up to ten years, long-term after more than ten; (Palestine's book.)
 
 **Sources of finance.** Leasing finance and buying long-term assets by instalments: leasing lets the project obtain the economic services of a fixed asset (land, real estate, trucks, cars, industrial machines) without buying it, for a set period against fixed periodic rent payments — its chief advantage is lifting the risk of technological obsolescence off the project and onto the owning institution; (Palestine's book.)

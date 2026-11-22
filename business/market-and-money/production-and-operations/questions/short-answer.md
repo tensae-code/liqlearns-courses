@@ -25,3 +25,6 @@ Answer in a sentence or two, in your own words.
 
 **8.** In your own words, what does this lesson say about how production works / siting? (Sub lesson 4)
 **Answer:** Choosing the project's location: the deciding factor differs by project — nearness to raw materials where transport of materials is costly (quarries) or the product perishes fast (milk, vegetables), nearness to centres of cheap labour for labour-intensive projects, nearness to the road network and transport, availability of land, of a suitable sewage network, or of cheap power;
+
+**9.** In your own words, what does this lesson say about how production works / siting? (Sub lesson 4)
+**Answer:** Location of a business: setting up in a particular area is one of the factors affecting business success, and the entrepreneur should choose an appropriate site;

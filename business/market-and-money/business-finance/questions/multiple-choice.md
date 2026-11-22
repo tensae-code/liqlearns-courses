@@ -49,3 +49,9 @@ a) Net Present Value: the difference between the present value of the cash inflo
 b) Judging the project by its payback period: after the net annual cash flows are calculated, the project's…
 c) The profitability index: a close relative of NPV that works as a ratio between the present value of the…
 **Answer: b) Judging the project by its payback period: after the net annual cash flows are calculated, the project's…** — That is what this lesson teaches in its judging an investment part (Palestine's book).
+
+**9.** What does this lesson teach about sources of finance? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Sources of business finance: personal savings, donations, inheritance, borrowing, shares, profits, sale of…
+c) Something this lesson does not teach.
+**Answer: b) Sources of business finance: personal savings, donations, inheritance, borrowing, shares, profits, sale of…** — That is what this lesson teaches in its sources of finance part (Uganda's book).

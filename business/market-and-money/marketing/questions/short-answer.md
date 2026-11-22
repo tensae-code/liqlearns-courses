@@ -22,3 +22,6 @@ Answer in a sentence or two, in your own words.
 
 **7.** In your own words, what does this lesson say about market research / selling into the market? (Sub lesson 5)
 **Answer:** Winning a market share, and the marketing plan: market share is the portion of total demand the project's good or service will take, and fixing it fixes expected sales and the production capacity needed; a project wins share from existing producers through a competitive advantage — distinguishing its product by price (e.g.
+
+**8.** In your own words, what does this lesson say about market research? (Sub lesson 2)
+**Answer:** Conducting a market survey: it is collecting and using market information to determine the market for the products and identify its problems, gathering information personally from customers, suppliers and competitors and seeking experts' advice, with the findings prepared in a written report;

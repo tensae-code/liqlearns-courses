@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about where business ideas come from / first steps? (Sub lesson 3)
 **Answer:** Nicaragua's own seven-step route from idea to start:
+
+**7.** In your own words, what does this lesson say about where business ideas come from? (Sub lesson 3)
+**Answer:** Sources of business ideas: the entrepreneur's technical skills and experience; personal contacts that expose him to different scenarios; hobbies that may be turned into a business; observation of developments and changes around him — products being sold, products lacking, products that could be improved, gaps; newspapers and magazines, radio and television;

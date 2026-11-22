@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about customer care? (Sub lesson 3)
 **Answer:** Customer relationships (part 4): knowing the customer personally is vital — a business that cannot gather its customers' important characteristics cannot win their satisfaction; the first step of customer orientation is identifying the customer's needs and expectations by going to the customer and hearing their views
+
+**5.** In your own words, what does this lesson say about selling and customer care? (Sub lesson 3)
+**Answer:** Customer care as the hinge of failure and revival: businesses fail through poor customer care by owners or employees — customers not handled well go to businesses where they are treated better; and the first revival measure the book names is ensuring good customer care to existing and prospective customers
