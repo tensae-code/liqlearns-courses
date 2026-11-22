@@ -78,6 +78,17 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Starting a business.** The legal conditions and procedure for founding an enterprise: the conditions are capital (the material base of plant, premises and machines, expressed as investment capital; only in regulated sectors such as securities, insurance and banking does the law set a minimum legal capital that must be maintained throughout operations), the founder (an organisation or individual with the right to found an enterprise and, for individuals, full civil-act capacity), the business lines (none on the prohibited list), the name (showing the enterprise form, not duplicating or imitating another enterprise's or an agency's name) and the dossier and fees; the registration procedure runs: the investor prepares a valid dossier and files it with the business registration authority, the authority checks it and grants or refuses the Enterprise Registration Certificate, and the enterprise's information is then published on the National Business Registration Portal. (Vietnam's book.)
 
+
+**Location-factors part.** Location as a key success/failure factor for a small business: high-rent sites are unnecessary for services customers will travel for (TV repair, laundry, dental clinic, shoe repair, childcare), but retail depends on passing traffic; corner sites are more visible but cost more rent; neighbouring shops can help (joint advertising, an association); three conditions for opening where competitors already are — no competitor yet, a badly managed competitor, or growing customer demand. (Laos's book.)
+
+**Selection-steps part.** Steps for selecting a specific site: list the factors the site must have (lease term, competition, parking, rent), find all possible sites, visit them and shortlist to two before deciding. (Laos's book.)
+
+**Entry-routes part.** Three ways into business: buying an existing business (existing customers among its advantages), starting a new business (needs more time to plan and study the market), and franchising/distributorship — a system where the franchisor has developed the business and grants the right to open using its business idea. (Laos's book.)
+
+**Pros/cons part.** Starting new weighed: lower start-cost tendency, personal freedom, ability to enter new markets and introduce new products, can change direction — against high establishment risk, the need to plan, and having to find customers and build relationships against strong competition. (Laos's book.)
+
+**Start-up-checklist part.** Evaluating start-up factors with checklists, including record-keeping readiness (a system to track income–expenses and credit sales/purchases; being able to prepare and analyse financial statements; knowing good stock control reduces costs) and legal-form questions (lawyer/legal costs of establishing; how owner liability depends on the form; how the form affects borrowing, tax payment and business continuity). (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

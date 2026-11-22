@@ -164,6 +164,13 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Banking services for trade.** Consumer credit and the bank credit card: consumer credit lends to individuals and households for consumption needs (small sums, high interest, repaid from the borrower's income, supplied by banks and finance companies, including instalment purchase through a finance company); the credit card is spend-first-pay-later — the bank sets a limit from the holder's finances and credit history, good repayment builds a credit record that wins better loan terms and cashback. (Vietnam's book.)
 
+
+**Credit-sources part.** Where credit/finance comes from: banks, village banks, state organisations that lend, and trade credit — suppliers extending credit terms for equipment and stock; with the book's points on women businesspeople accessing credit and improving their borrowing chances. (Laos's book.)
+
+**Credit-criteria part.** The 5 Cs of credit as this book names them: character (the borrower's personal wealth is examined — savings and other personal assets or real estate such as land and buildings), capital, conditions (the economic conditions of the community, state and region affect loan readiness), and collateral. (Laos's book.)
+
+**Answer-key part.** Answer material: the internet-café case answered — where he can get credit (from the shop he will buy the computers from), and where he can borrow (the village fund, which lends money; trade credit; suppliers; microfinance institutions); and the 5 Cs of credit named in English: Character, Capacity, Capital, Conditions, Collateral; borrowing chances improve by preparing a plan. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

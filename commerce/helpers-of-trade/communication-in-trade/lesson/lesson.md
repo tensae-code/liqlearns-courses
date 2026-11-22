@@ -31,6 +31,9 @@ Trade is a chain of people who mostly never meet: the producer who makes the goo
 
 **Internet.** Computers and networking in communication: the Internet, intranet, extranet, email and the web, and the advantages and disadvantages of modern communications (Nigeria's book.)
 
+
+**Skills part.** Negotiation skills teaching: a worked dialogue case (an entrepreneur, Kaew, applying to a woman bank manager for a loan to start an agricultural-processing factory, questioned on her expectations, her customers, her marketing and her raw-material supply), the faults of a poor negotiator (boasting and not listening to advice, looking down on the other party, showing no respect), and how a negotiator improves (adjust manners and conduct to become a better negotiator). (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: trade runs on information — communication carries news, orders, prices and feedback between producer, trader and consumer, quickly and cheaply, so each side knows what the other needs and has done. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: aids to trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade. Your companion asks one question back — answer it from the lesson.

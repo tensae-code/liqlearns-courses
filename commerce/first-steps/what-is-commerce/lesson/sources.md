@@ -1,6 +1,6 @@
 # Sources — What Is Commerce
 
-countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Papua New Guinea, Nigeria
+countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Papua New Guinea, Nigeria, Laos
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -24,7 +24,10 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Papua
 
 **Book 11:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
 
+**Book 12:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Upper Secondary Year 5 / Grade 10) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) et al., Lao-India Entrepreneurship Development Centre; edited by ສີອໍາພອນ ຈັນທະພອນ and ຈັນທະລາ ພິລົມລາສັກ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports, 2014; printed in Thailand by Eastern Printing Public Co. Ltd. Written for the 2011 upper-secondary curriculum; an ILO "Know About Business" (KAB)-style course. Grade: Grade 10 (ມ.5). Language: Lao. Page count: 165 PDF pages (printed pp. 1–160; printed folio = PDF page − 5). Source: manifest `manifests-phase2/laos.json` n=3; fetched via `fetch_book.py`, route `tree`, 2,542,432 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. A complete first entrepreneurship course: what business is, why do it, who a businessperson is, becoming one (incl. small business), and finding a good business idea. Contents map: Ch.1 What is doing business (printed 1); Ch.2 Why do business (24); Ch.3 Who is a businessperson (52); Ch.4 How can I become a businessperson (96); Ch.5 How do I find a good business idea (137). Reading method: the PDF's embedded text layer uses a legacy Lao font encoding and extracts as garbage, so the book was read from Lao-script OCR (Tesseract, `lao` model) of 150-dpi page renders. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| the trade part of the three-types teaching | Book 12 (Business G10 (Laos)), printed p. 5 |
 |---|---|
 | distribution part of the lesson | Book 1 (Kenya Business Form 3), printed p. 49 |
 | distribution part of the lesson | Book 1 (Kenya Business Form 3), printed p. 57 |
@@ -45,8 +48,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Papua
 | barter part of the lesson | Book 11 (Nigeria Commerce SS1), printed p. 18 |
 | types-of-trade part of the lesson | Book 11 (Nigeria Commerce SS1), printed p. 37 |
 
-**Acceptance count: taught in 9 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Nigeria)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 10 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania, Greece, Bhutan, Nigeria, Laos)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania, greece, bhutan, papua-new-guinea, nigeria
+Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania, greece, bhutan, papua-new-guinea, nigeria, laos

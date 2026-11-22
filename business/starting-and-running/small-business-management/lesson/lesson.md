@@ -52,6 +52,17 @@ Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage 
 
 **Small business management.** Lessons of success and failure from one small enterprise's ten years: success is judged by business results (revenue, market share, profit, jobs, budget contribution, growth) and by culture (vision, value brought to the community, a humane and creative working environment); the success lessons are designing distinctive products in friendly materials, publishing the firm's vision and values and committing to business ethics and community responsibility from the start, and joining the value chain by putting work out to village households; the failure lessons are expanding production of a selling product without renewing its design until customers left, and neglecting local workers' pay and skill growth until productivity stalled. (Vietnam's book.)
 
+
+**Definition part.** What counts as a small business: average annual workforce of at most 19 people, total assets of at most 250 million kip, or annual revenue of at most 400 million kip; its elements — independent management, the owner's own capital, mostly local operations. (Laos's book.)
+
+**Strengths/problems part.** Strengths of small businesses (the owner bears profit and loss directly; higher flexibility than large firms) and their problems (surviving while the market accepts the product, staffing on low pay, the owner having little time to think about goals, higher direct costs); the fields suited to them (personal skills, specialised local needs, made-to-order work, repair services, fast-changing markets). (Laos's book.)
+
+**Statistics part.** Start-up facts: about 60% of small-business start-up money comes from private sources such as personal savings and borrowing from friends; small businesses concentrate in retail, wholesale and services. (Laos's book.)
+
+**Success-factors part.** Four factors behind small-business success — initiative and decision-making, ability, creativity, and resources — worked through an internet-shop example (its equipment and connections as resources; IT knowledge and repair skill as abilities). (Laos's book.)
+
+**Answer-key part.** Answer material on small-business strategy: the weaknesses recap (financial limits, staffing problems, higher direct costs, risk concentrated in one business, lack of confidence) set against small-business strategies. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

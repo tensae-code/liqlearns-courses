@@ -83,6 +83,23 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Mark-up.** Strand 3: mark-up based on costs and mark-up based on retail — mark-up = selling price − cost; the mark-up percentage formula; the average mark-up; mark-up percentage (on cost) against gross margin (on revenue) (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Cost-types part.** Direct and indirect costs: direct costs are direct materials plus direct labour — all wages of workers directly involved in production or service, including social-insurance costs; the wages of retail/wholesale sales staff are NOT direct costs, because they sell many goods; an item used in tiny amounts (glue in furniture making) counts as an indirect cost, as does a helper serving many staff. (Laos's book.)
+
+**Cost-categories part.** The categories of cost: staff costs (the employer must follow law or negotiated agreements — minimum wage, legal working hours, overtime pay, leave), materials costs, other costs (electricity, water, telephone, internet, insurance, rent, administration), and capital costs (interest paid on borrowed money over the loan period, including overdraft interest). (Laos's book.)
+
+**Cost-estimate part.** Estimating costs: a monthly cost-forecast table by category (staff, materials, other, operating, capital, total), with categories subdividable (production staff, admin staff, sales staff). (Laos's book.)
+
+**Cost-types part.** Direct and indirect costs: every business has costs even with no production; direct costs are direct materials and direct labour (including social insurance); the wages of retail/wholesale staff are not direct costs. (Laos's book.)
+
+**Materials part.** Materials costs classified: raw materials (plywood, steel bar, sheet steel, wool, woven cloth, plastic, flour, vegetable oil…), general materials (nails, screws, electrical goods, spare parts…), and small/consumable materials (glue, paint, bulbs, saw blades, sandpaper, cotton, thread…); in wholesale/retail, the cost of goods purchased. (Laos's book.)
+
+**Cost-forecast part.** The monthly cost forecast for the year, by category (staff, materials, other, operating, capital, total), subdividable into production staff, admin staff and sales staff. (Laos's book.)
+
+**Answer-key part.** The direct/indirect cost answer key: worked classifications marked direct or indirect, including a computer program as indirect, nails for furniture making as direct, school fees for employees' children as indirect, goods bought into the warehouse as direct, travel abroad to customers as indirect, vehicle insurance as indirect, and spare parts in a vehicle-repair business as direct. (Laos's teacher guide.)
+
+**Answer-key part.** The direct/indirect cost answer keys: two worked keys marking items direct or indirect and by cost category — including buttons for a tailoring shop, office-building rent, shampoo in a beauty salon, general insurance, staff health insurance, product promotion, a computer program, and nails for furniture making in the first key; and in the second, vehicle maintenance as indirect, a consultant's market-study fee as indirect, loan interest as marked direct, and bricks and cement for construction as direct. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.

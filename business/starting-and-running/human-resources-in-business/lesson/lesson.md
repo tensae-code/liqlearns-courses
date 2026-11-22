@@ -79,6 +79,13 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Entitlements.** Strand 4: employee entitlements — the compensation package (pay, overtime, allowances, paid holidays, increments, paid leave, skills development and other benefits); incentives against motivation; Maslow's hierarchy of needs; wage rates and overtime rates; recreational leave (after 12 months), sick leave (9–27 days after 3 months), long service leave (6 months after 13 years); retirement and superannuation funds (Nambawan Supa and NASFund) (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Recruitment part.** Hiring staff: the selection stage — application form, interview, references, skills test; successful employers hire on skill, enthusiasm and experience, not gender, ethnicity or disability; then induction — on the first day show the new employee around, introduce them to all staff and give an overview of operations. (Laos's book.)
+
+**Staff-management part.** Pay and benefits need explicit policies (bonuses, sick leave, annual leave); good wages alone do not satisfy staff — the owner must provide a good working environment and communication; training staff (a trained employee may be poached — mitigate by specifying the job, writing the full job description, and checking references and former employers). (Laos's book.)
+
+**Case part.** A cautionary hiring case told in the guide: an owner who hired people who looked good at first was cheated by many of them; the guide's practice — check beforehand whether anyone who knows the applicant (especially a former employer) says anything bad about them. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people, people at work, people at work. Your companion asks one question back — answer it from the lesson.

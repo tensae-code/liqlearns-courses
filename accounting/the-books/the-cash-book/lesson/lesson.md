@@ -58,6 +58,15 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Cash-book.** Recording cash through the cash sub-system's books (Fiji's book.)
 
+
+**Worked-example part.** A worked cash book: a dated list of transactions (buying equipment, furniture, materials and goods; sales; cash withdrawn for personal use; electricity, part-time help, repairs and transport paid) carried to a running balance. (Laos's book.)
+
+**Worked-example part.** A worked cash book carrying the same standard transaction set as the full Business book (furniture 7,120,000; materials 1,400,000; goods 34,200,000; sales; goods 1,200,000; drawings 1,400,000; sales 24,808,000; electricity 12,000,000; part-time help; repairs 520,000; goods 1,624,000…) to a running balance. (Laos's book.)
+
+**Answer-key part.** The fully worked simple cash book answer (the case of Sutsai, in business three years and expanding, who received a bank loan on 23 January): the standard transaction set carried through with running balances (e.g. sales of 1,000,000 and 928,000 kip lifting the balance to 174,968,000; repairs 520,000 and goods 1,624,000 bringing it to 172,824,000). (Laos's teacher guide.)
+
+**Answer-key part.** The fully worked simple cash book answer (a businessperson of three years' standing, expanding, who received a bank loan on 23 January): the loan received in cash, 164,000,000 kip, bringing the balance to 292,000,000 kip, then the standard transaction set carried through with running balances. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

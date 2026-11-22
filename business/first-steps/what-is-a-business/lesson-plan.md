@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); What a business is; Opening part; Purpose part; Size-classification part; Sector-classification part; Interrelation part; Opening part; Classification part.; What a business is / why it matters
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); What a business is; Opening part; Purpose part; Size-classification part; Sector-classification part; Interrelation part; Opening part; Classification part.; What a business is / why it matters; Opening definition and community role; Classification part; Distinguishing part; Types part; Answer-key part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a small street with three different businesses — a baker, a tailor and a small bus — each busy at its own work → the student names each business, says what it produces, and says which sector — primary, secondary or tertiary — it belongs to.

@@ -47,6 +47,11 @@ Diminishing (reducing) balance method: a fixed rate on the falling book value, s
 
 **Fixed-assets.** The fixed assets sub-system: keeping the register of fixed assets and accounting for their loss of value over time (Fiji's book.)
 
+
+**Depreciation part.** Depreciation kept on a special depreciation card for each investment asset, with a worked example: special milling machine No. 123, bought in 2000 for 10,000,000 kip including transport, estimated life 4 years, depreciation 2,500,000 kip a year = 25% a year. (Laos's book.)
+
+**Depreciation part.** A depreciation rate table: buildings 20 years at 5%, ordinary machinery 8–10 years at 10–12%, special machinery 3–5 years at 20–33%, vehicles 5 years at 20%, tools 3 years at 33%; and the depreciation register form (machine specification and number, year bought, price). (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation. Your companion asks one question back — answer it from the lesson.

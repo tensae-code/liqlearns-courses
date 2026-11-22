@@ -53,6 +53,13 @@ Business study opens a wide range of career options: the book surveys the paths 
 
 **Requirements.** The requirements for different careers, and the benefits and hazards of different careers (Nigeria's book.)
 
+
+**Career-choice part.** Your values, interests and experience, and how they bear on the career and the lifestyle you choose. (Laos's book.)
+
+**Training part.** Training opportunities: a comprehensive start-up training sequence (assess yourself as a businessperson, develop a business idea, assess your market and develop a marketing plan, cost your product/service, estimate start-up capital, build a financial plan, know your responsibilities and choose the legal form), business-development services and institutions, and the associations to join (small business association, manufacturers' association, private business forum, skilled-labour association, women's business association). (Laos's book.)
+
+**Career-choice part.** Your values, interests and experience, and the work and lifestyle you choose (near-verbatim with the Business book's Ch.4 §1, as printed in this combined edition). (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options, careers in business, careers in business. Your companion asks one question back — answer it from the lesson.

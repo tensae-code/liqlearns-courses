@@ -1,6 +1,6 @@
 # Sources — Marketing
 
-countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique
+countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Laos
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -60,7 +60,21 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 26:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
+**Book 27:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Upper Secondary Year 6 / Grade 11) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) and ທຶນນະລົງ ແກ້ວສົມບັດ (Thinnarong Kaeosombat), Lao-India Entrepreneurship Development Centre; edited by ສີອາພອນ ຈັນທະພອນ and ສຸກສະທວັນ ພອນເທວາ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports; this copy is the 2015 printing. Written for the 2011 upper-secondary curriculum, Year 6, with a look toward the ASEAN economic community. Grade: Grade 11 (ມ.6). Language: Lao. Page count: 153 PDF pages (printed pp. 1–146; printed folio = PDF page − 7 in general; folios at PDF pp. 51–52 appear swapped in the scan — individual folios in that range were checked as read). Source: manifest `manifests-phase2/laos.json` n=7; fetched via `fetch_book.py`, route `tree`, 2,037,547 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. The full second-year course: setting up (market, location, legal forms, capital, finance, entry), running (people, time, sales, suppliers, technology, costs, records, statements), next steps (the business plan, viability, start-up factors, sources of help, attitude), and the standard business-plan template. Contents map: Ch.1 How do I set up a business (printed 1); Ch.2 How do I run a business (53); Ch.3 Next steps to become a businessperson (99); Ch.4 How to explain my own business plan in detail (134). Reading method: legacy-font text layer extracts as garbage; read from Lao-script OCR of page renders. All summaries stocked are the reader's own words in English.
+
+**Filed names:** the Laos reader filed 6 placements under the name `market-research`; they are stocked in this lesson, that teaching being a part of this lesson (registry Phase 3 addendum resolution — the Samoa resolution for the same filed name).
+
 | Lesson part | Where it comes from |
+| definition part | Book 27 (Business G11 (Laos)), printed p. 1 |
+| marketing-mix part | Book 27 (Business G11 (Laos)), printed p. 4 |
+| evaluation part | Book 27 (Business G11 (Laos)), printed p. 6 |
+| life-cycle part | Book 27 (Business G11 (Laos)), printed p. 70 |
+| customer-knowledge part | Book 27 (Business G11 (Laos)), printed p. 2 |
+| research part | Book 27 (Business G11 (Laos)), printed p. 3 |
+| framework part | Book 27 (Business G11 (Laos)), printed p. 8 |
+| competitor part | Book 27 (Business G11 (Laos)), printed p. 10 |
+| survey part | Book 27 (Business G11 (Laos)), printed p. 12 |
+| forecasting part | Book 27 (Business G11 (Laos)), printed p. 14 |
 |---|---|
 | the selling-and-marketing-the-product-made part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 19 |
 | the knowing-what-customers-want / where-the-product-is-sold part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 31 |
@@ -193,11 +207,11 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | marketing-plan part of the lesson | Book 25 (Empreendedorismo Módulo 4 (PESD II)), printed p. 75 |
 | market-study part of the lesson | Book 26 (Módulo de Empreendedorismo (PESD I)), printed p. 89 |
 
-**Acceptance count: taught in 14 countries (Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Bhutan, Kazakhstan, Mozambique)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 15 countries (Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Bhutan, Kazakhstan, Mozambique, Laos)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `market-research` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique
+Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan, kazakhstan, papua-new-guinea, mozambique, laos

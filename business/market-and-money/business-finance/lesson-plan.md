@@ -38,7 +38,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Financial-system part; Credit part; Investment-projects part; Sources-of-finance part; Financial-management part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Financial-system part; Credit part; Investment-projects part; Sources-of-finance part; Financial-management part; Definition part; Working-capital part; Equity-sources part; Loan-application part; Evaluation part; Template-forms part; Definition part; Case part; Borrowing part; Use-of-funds part; The plan as a borrowing tool; Evaluation part; Comparison part; Content-summary part; Content-summary part; Answer-key part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a new shop owner at a desk with five labelled purses — own capital, retained profit, bank loan, supplier credit, shares — choosing one for a bill in hand → the student matches each purse to one bill the new business must pay and says why that source fits.

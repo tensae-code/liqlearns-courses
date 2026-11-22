@@ -273,6 +273,28 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Promotion.** Promotion of goods and services (Mozambique's book.)
 
+
+**Definition part.** The market defined three ways: generally, a place of buying, selling and exchange; economically, the group of buyers and sellers — producers and consumers — who negotiate exchange; in marketing, all customers who have a need or want for a product and the purchasing power to buy it. (Laos's book.)
+
+**Marketing-mix part.** The marketing mix: product and services (focus narrowly; develop the product/service), place/distribution (use existing distributors or manufacturer's agents; retailers weigh cost and transport), price (pricing policy, including credit policy, is a main factor reflecting income), promotion. (Laos's book.)
+
+**Evaluation part.** Evaluating marketing decisions: judge each marketing decision against standards and past performance. (Laos's book.)
+
+**Life-cycle part.** The product life cycle: introduction, growth, maturity, decline; the cycle shapes marketing strategy and mix; at decline the options are to improve or add quality, cut production costs and price and keep selling, or stop production. (Laos's book.)
+
+
+**Customer-knowledge part.** Knowing your customers: who they are, where they are, when they buy (daily, weekly, monthly, yearly, seasonally — which sets opening hours, advertising timing and stock levels) and how they pay. (Laos's book.)
+
+**Research part.** Small-scale market research: basic questionnaires to current and future customers reveal problems and satisfaction, and research should identify the factors that affect sales. (Laos's book.)
+
+**Framework part.** The 5 Ws of the market: who / what / when / where / why questions, with the factors behind each and their information sources (formal market survey vs informal observation). (Laos's book.)
+
+**Competitor part.** Competitor analysis: estimate competitors' income, sales and prices; and learn from a business that failed — which factors made it fail or succeed. (Laos's book.)
+
+**Survey part.** Conducting a market survey, and information sources: primary sources (direct contact, e.g. furniture makers and sellers for a furniture survey) vs secondary, already-existing sources. (Laos's book.)
+
+**Forecasting part.** Sales forecasting: build monthly sales up over 12 months; keep separate plans per product or service, and separate plans for wholesale and for bulk retail. (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

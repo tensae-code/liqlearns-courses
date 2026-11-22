@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Insurance part; Insurance part; Risk part; Insurance part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Insurance part; Insurance part; Risk part; Insurance part; Risk part; Risk part; Risk-choice part; Risk-analysis part; Answer-key part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of many small streams of coins flowing from many shops into one big pool, and one stream flowing out of the pool to rebuild the one shop that burned — the student explains why the pool can pay a loss that no single shop could pay.

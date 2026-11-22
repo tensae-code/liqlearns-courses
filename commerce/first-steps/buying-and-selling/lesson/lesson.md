@@ -37,6 +37,11 @@ Take a pretend purchase: 100 exercise books for a shop. Write a price, then ask 
 
 **When a sale goes wrong.** Strand 3: breach of a sales contract — what a sales contract records (the parties, the transaction, contingencies, the status of the contract) and the buyer's remedies against a seller in breach (damages for non-delivery, suit for price, specific performance, breach of warranty, damages for repudiation, interest) (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Supplier part.** Choosing suppliers: find them through trade press and magazines, directories and business phone books; specify what goods, materials and equipment the supplier must sell and at what price, discount, credit and service; check each supplier's reliability (does it deliver on time?); negotiate for better terms; choose the best supplier; put orders in writing; think carefully about quantities; and ensure receipts are obtained as proof of payment. (Laos's book.)
+
+**Answer/teaching part.** Supplier selection carried to its closing steps: step 4 choose the best supplier; on delivery, check the type and quality of the goods before leaving the shop, check the delivery note or invoice against your order, confirm everything ordered arrived on time, report any error to the supplier at once, and do not sign the delivery note or pay for the goods until the problem is fixed. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying and selling run on agreed terms — the discounts of trade, the quoted price and what it covers, and the moment payment is due — and the trader who knows the terms knows the real price. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the three discounts of trade, cash discount against trade discount, quoted prices in home trade, the timing of payment. Your companion asks one question back — answer it from the lesson.

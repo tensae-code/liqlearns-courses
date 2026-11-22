@@ -1,6 +1,6 @@
 # Sources — Business Communication
 
-countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
+countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan, Papua New Guinea, Laos
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -20,7 +20,10 @@ countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 
 **Book 9:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 10:** ຄູມືຄູ ທຸລະກິດ ມ.5 (Teacher's Guide: Business, Grade 10) (teacher guide) — compiled/edited by the same team as the Grade 10 Business student book (Tin Pangprasert et al., Lao-India Entrepreneurship Development Centre; editors Si Amphorn Chanthaphorn and Chanthala Philomlasak, RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports, 2014. Grade: Grade 10 (ມ.5). Language: Lao. Page count: 177 PDF pages (printed folio = PDF page − 3, verified across the book). Source: manifest `manifests-phase2/laos.json` n=2; fetched via `fetch_book.py`, route `tree`, 1,776,315 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. **A teacher guide: evidence only, acceptance 0 — every placement from this book keeps its (teacher guide) marking and counts nowhere in acceptance.** The guide mirrors the Grade 10 Business student book's five chapters as per-activity lesson plans; only its own teaching beyond the student book — its answer keys, model answers, worked case answers and skills teaching (negotiation skills and listening skills, which its contents/annual plan lists as strands the student book treats only inside its chapters) — is placed. Contents map: general guidance + lesson plans and answer keys for Ch.1 (printed 14), Ch.2 (37), Ch.3, Ch.4 (117), Ch.5 (152) of the student book's sequence. Reading method: legacy-font text layer extracts as garbage; read from Lao-script OCR of page renders. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
+| skills part (teacher guide) | Book 10 (Business G10 TG (Laos)), printed p. 113 |
 |---|---|
 | communication part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 58 |
 | communication in the organisation | Book 2 (Principles of Business for CSEC), printed pp. 81–85 |
@@ -40,6 +43,6 @@ countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan, Papua New Guinea
 
 **Acceptance count: taught in 5 countries (Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
 
-Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
+Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above. This lesson also carries evidence from Laos's teacher guide(s) named above (1 placement) — a teacher guide is evidence only, acceptance 0, and Laos is not counted in the teaching countries in the acceptance line above through these guides.
 
-Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan, kazakhstan, papua-new-guinea
+Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan, kazakhstan, papua-new-guinea, laos

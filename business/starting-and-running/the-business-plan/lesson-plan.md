@@ -37,7 +37,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Plan part; The business plan; The business plan
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Plan part; The business plan; The business plan; Closing part of the success-factors section; Definition part; Contents part; Section-detail part; Viability part; Template part; Template-forms part; Template-forms part; Template-forms part; Definition part; Structure part; Template part; Answer-key part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of an open notebook showing a business plan's headings — purpose, market, organisation, production, marketing, money — with a small drawing of a shop beside them → the student reads the headings aloud and says what belongs under each one.

@@ -17,6 +17,13 @@ Break-even analysis: contribution margin per unit, break-even point in units and
 
 **Break-even analysis.** Break-even inside the plan's financial step: the financial plan must show the need for capital and how it is secured, build the projected financial statements as the basis for analysis, and analyse the break-even point of the investment as the ground for judging decisions about output, price, costs and profit, with revenue-and-expenditure schemes that keep the cash flow balanced. (Vietnam's book.)
 
+
+**Break-even part.** Break-even analysis: its purpose is a production-volume target for planning (a brick factory breaking even at 20,000 units — producing above that is profit at the given cost and price); the cost types it uses, fixed vs variable; worked example — average selling price 4,100 kip/unit, total fixed costs 120,000,000 kip, variable cost 2,500 kip/unit, break-even = 120,000,000 / (4,100 − 2,500) = 75,000 units. (Laos's book.)
+
+**Sensitivity part.** Sensitivity analysis: the market rarely allows price rises, and at 80–90% of break-even sales the business may not earn enough — sensitivity analysis measures the effects of price and cost changes on project returns. (Laos's book.)
+
+**Teaching part.** The teacher's explanation of break-even movement: how the break-even point moves when sales revenue or costs change, worked with examples of sales revenue and direct and indirect costs. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: break-even analysis finds the output where contribution exactly covers fixed costs — the break-even point — and the output needed for a target profit. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson. Your companion asks one question back — answer it from the lesson.

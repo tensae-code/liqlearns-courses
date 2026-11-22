@@ -164,12 +164,14 @@ set is whole.
 
 - Vietnam's other four *Economic and Legal Education* books were read in the same wave and are recorded in full in the Business ABOUT.md read-books list: the Grade 11 main textbook (5 placements, all into Business), the Grade 12 main textbook (7 into Business, 1 into Accounting) and the Grade 12 Study Topics volume (4 into Business) carry no Commerce part; the Grade 11 Study Topics volume was read with zero placements — pure law (Civil Code 2015 / Labour Code 2019 excerpts) — and stocks nothing anywhere in the split. All six stood in the Business pending queue, not this one.
 
+- Laos's eight *Business* books (RIES, Ministry of Education and Sports — four student books and four teacher guides, all read in full via Lao OCR of page renders) were read in the same wave and are recorded in full in the Business ABOUT.md read-books list. Into this course: the Grade 10 Business student book stocked 1 placement (trading as a type of business, into What Is Commerce); the Grade 11 Business student book stocked 2 (where credit and finance come from, into Banking Services for Trade; choosing suppliers, into Buying and Selling); the Grade 11 Business Combined student book stocked 2 (the 5 Cs of credit, into Banking Services for Trade; types of credit, into Credit and Hire Purchase); and three of the teacher guides stocked 3 placements as **evidence only (acceptance 0)** — the Grade 10 guide's negotiation-skills teaching into Communication in Trade, the Grade 11 Business guide's supplier-selection closing steps into Buying and Selling, and the Grade 11 Combined guide's credit answer material into Banking Services for Trade. The remaining Laos books carry no further Commerce part. All eight stood in the Business pending queue, not this one.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 316 placements from **student books** of 18
-  countries (Dominica, Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan, Vietnam) —
-  taught in 18 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 321 placements from **student books** of 19
+  countries (Dominica, Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan, Vietnam, Laos) —
+  taught in 19 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -185,7 +187,11 @@ set is whole.
   guides (read 2026-11-22) — 21 placements stocked in this
   course as evidence only, acceptance 0; Papua New Guinea is
   counted nowhere as a teaching country, and every lesson
-  they touch says so in its sources. (No teacher guide
+  they touch says so in its sources. Laos's four *Business* teacher guides
+  (read 2026-11-22) — 3 placements stocked in this course as
+  evidence only, acceptance 0 for the guide rows themselves;
+  Laos IS counted as a teaching country in this course,
+  through its student books. (No teacher guide
   stands in this course's pending queue below; the queue is
   student books throughout.)
 
@@ -255,3 +261,5 @@ hold lifts and they are read.
   and read in full, and no library debt stands on that record.
 
 - **Vietnam — combined carriers, one read-with-zero-placements book:** Vietnam's six *Giáo dục Kinh tế và Pháp luật* books are COMBINED Economics + Law carriers read for their Business parts only; the Grade 11 Study Topics volume was read and judged pure law (Civil Code 2015 / Labour Code 2019 excerpts — statutory entitlement law, not business teaching) and stocks nothing anywhere in the split, recorded as read-with-zero-placements in the read-books list above. No standalone marketing unit exists in any of the six books. All six are image-only scans read via Vietnamese OCR of page renders; summaries stocked are the reader's own words, and no statutory text is transcribed.
+
+- **Laos — OCR-read, teacher guides evidence only:** all eight Laos PDFs were read via Lao OCR of page renders (their legacy-font text layers extract as garbage); summaries stocked are the reader's own words. The Grade 11 Combined student book's placements in this course cite PDF pages with printed pages marked ≈ where folios were obscured. Laos's four teacher guides are evidence only (acceptance 0); Laos counts as a teaching country here through its student books. The full Laos honesty record (Combined-book relationships, OCR-destroyed pages, the Buasi totals) stands in the Business ABOUT.md honesty flags.

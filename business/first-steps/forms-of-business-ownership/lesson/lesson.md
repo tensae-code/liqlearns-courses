@@ -174,6 +174,15 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Forms of business ownership.** The state enterprise: an economic organisation the State founds or co-founds, holding 100% of charter capital (organised as a state one-member LLC) or over 50% of charter capital or voting shares (multi-member LLC or joint-stock form); a legal person working under law on an equal footing. (Vietnam's book.)
 
+
+**Forms part.** The legal forms introduced: sole ownership (needs a business licence; pay tax and licence fees; fewest restrictions, simplest and cheapest to start), partnership (low set-up cost; a written partnership agreement recommended), the limited company, and the cooperative/group form. (Laos's book.)
+
+**Liability part.** Liability by form: the sole owner is responsible for ALL business debts, including from personal property and assets; each partner is fully liable in the same way. (Laos's book.)
+
+**Management part.** Management by form: the sole owner decides everything alone (which can be a disadvantage); a partnership shares management roles and pools knowledge and ability. (Laos's book.)
+
+**Advantages/disadvantages part.** Sole ownership weighed: advantages — low start-up cost, few regulations, direct control, small working-capital need, easy tax payment, the owner keeps all profit; disadvantages — hard to raise capital, the owner bears every decision and problem alone. (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

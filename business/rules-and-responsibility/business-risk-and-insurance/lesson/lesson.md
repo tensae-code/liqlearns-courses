@@ -43,6 +43,17 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 
 **Risk.** Risks in business (riscos nos negócios): the risks a business faces (Mozambique's book.)
 
+
+**Risk part.** Assessing a risk situation and taking risks rationally: the businessperson weighs the risk before acting rather than gambling. (Laos's book.)
+
+**Risk part.** Calculated risk-taking: businesspeople accept risk that is calculated and moderate; they avoid low-risk situations (no challenge) and high-risk ones. (Laos's book.)
+
+**Risk-choice part.** Choosing a risk depends on how attractive the option is, how much loss the risk-taker is prepared to accept, and the chance of success; different roles need different types of risk-taker. (Laos's book.)
+
+**Risk-analysis part.** Improving your risk-facing ability (use your own ability fully, assess risk situations realistically, turn chances your way) and the steps in analysing a risk situation: assess the risk (is risk involved, what damage), set goals and objectives against company policy (slow, steady or step growth, or new products), and evaluate alternatives against market-demand forecasts and competitor responses; closing with a positive attitude to risk. (Laos's book.)
+
+**Answer-key part.** Answer key: calculated risk-taking means businesspeople accept risk that has been calculated and is moderate; they avoid low-risk situations (no challenge) and high-risk ones because they want to succeed; the rational risk-taker — in business as in daily life risk cannot be avoided, and facing risk lets you discover your own ability, control your future better, and become more self-confident, with a positive attitude. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is the pooling of risk: many people pay a premium into one pool, and the pool pays the one who suffers the loss — it holds together only under its principles (utmost good faith, insurable interest, indemnity and the rest), and a business chooses the policy that matches each risk it faces. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: principles of insurance, types of business insurance. Your companion asks one question back — answer it from the lesson.

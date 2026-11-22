@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Cash-flow part; Template-forms part; Cash-flow part; Case part; Worked-example part; Teaching part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a wall chart of the coming six months with receipts written above a line and payments below it, one month dipping below zero marked with a warning star — the student finds the shortage month and says what the business can do before it arrives

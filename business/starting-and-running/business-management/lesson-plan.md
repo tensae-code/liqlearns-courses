@@ -38,7 +38,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Time-management part; SWOT part; SWOT part; Business management
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Time-management part; SWOT part; SWOT part; Business management; Manager-qualities part; Time-management part; Information-sources part; Leadership part; Worked-example part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of an organisation chart on a wall — boxes for the board, managers and workers joined by lines — with a manager pointing at it → the student traces one line of authority from the top box to a worker's box and names the level of each box passed.

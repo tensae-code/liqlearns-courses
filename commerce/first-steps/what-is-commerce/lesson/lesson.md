@@ -43,6 +43,9 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **Types-of-trade.** Trade and its types: home trade, foreign trade and entrepot trade, their differences, similarities and relationships (Nigeria's book.)
 
+
+**The trade part of the three-types teaching.** Trading as a type of business: buying goods from producers or wholesalers and reselling them (clothing shops, furniture shops). (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade, what commerce is, what commerce is. Your companion asks one question back — answer it from the lesson.

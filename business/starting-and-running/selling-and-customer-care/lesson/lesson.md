@@ -31,6 +31,13 @@ Think of the last thing you bought from a person, not a machine. Walk through wh
 
 **Selling.** Strand 3 Unit 2: the sales process in seven steps — prospecting, preparation, approach, presentation, handling objections, closing, follow-up (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Sales-management part.** Sales management is essential: if sales do not cover all costs and create profit, the business cannot succeed. (Laos's book.)
+
+**Customer-care part.** Customer standards: the prospective customer is the most important person for the business; the customer does not depend on the business — the business depends on the customer; the customer is the business's purpose, not an interruption of it; serving the customer is not a favour. (Laos's book.)
+
+**Content-summary part.** The guide's selling teaching: a seller must be able to solve the problems that block customers from buying, have the art of selling, make customers satisfied, and keep up their selling image wherever they are in the community, because they sell goods and services to the public; communication is of the first importance in selling. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: selling is a process with steps — prepare, find the buyer, present the goods, handle objections, close the sale — done on terms both sides understand, and it is finished only by customer care: looking after the buyer before, during and after the purchase so that they come back. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: selling, terms of sale, customer service. Your companion asks one question back — answer it from the lesson.

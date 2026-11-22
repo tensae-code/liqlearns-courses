@@ -193,6 +193,39 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Financial-management.** Financial management (gestão financeira) for the small enterprise (Mozambique's book.)
 
+
+**Definition part.** Start-up capital: money held in advance for the initial stage, until the business earns its own income; it serves two purposes — investment capital (pre-start spending such as land and buildings) and working capital. (Laos's book.)
+
+**Working-capital part.** Working capital: beginners underrate it, thinking it is only for emergencies; a trader must hold enough stock to replace sold items at once, and customers may order in bulk and ask for credit or pay late. (Laos's book.)
+
+**Equity-sources part.** Sources of the owner's own (equity) money: personal savings, friends and relatives, taking a partner to raise start-up money, and forming a limited company to sell shares. (Laos's book.)
+
+**Loan-application part.** What a lender examines in a loan application: the purpose of the loan (the lender must be sure the money will not fund an illegal business), the borrower's trustworthiness, capacity shown by business track record, the repayment period, and security or a guarantor; bank officers examine past financial records; repaying on time vs penalties and forced bankruptcy. (Laos's book.)
+
+**Evaluation part.** Evaluating sources of finance by cost, risk, flexibility, control and availability; and the closing comparison of equity vs debt money (own savings: keep all profit, fewer debts, but loss risk; loan money: brings in more cash and its cost may be tax-deductible, but profit is shared as interest and the lender may impose limits). (Laos's book.)
+
+**Template-forms part.** The template's funding forms: start-up funding sources table (type, source, conditions — term and interest, amount: own savings, partners, family, friends, moneylenders, credit cooperatives, government projects, bank loans) and loan-detail forms (lender name and address, credit terms, instalment and interest schedule, total debt). (Laos's book.)
+
+**Definition part.** The start-up capital estimate: money held in advance for the initial stage until the business earns its own income — including money tied up storing finished goods in the warehouse, transporting goods to wholesalers, retailers and customers, and cash sitting in bank accounts and the cash box for months; the amount becomes fixed investment capital and working capital, and more working capital is needed as the business grows. (Laos's book.)
+
+**Case part.** Worked case: Buasi's grilled-sticky-rice and sangkhaya shop, extended with a catering sideline — her spending classified item by item (shop rent, business registration, installations, shop insurance, machinery, staff wages, raw materials, advertising; a second-hand vehicle bought for 64,000,000 kip, a driver at 800,000 kip a month, vehicle insurance about 1,500,000 kip a year; about 60% of sales at her own shop and 40% through catering, whose customers pay within two weeks). (Laos's book.)
+
+**Borrowing part.** Can all the capital be borrowed? Almost all lending institutions require the operator to provide much of the start-up money themselves; the answer depends on market and economic conditions. (Laos's book.)
+
+**Use-of-funds part.** Use of funds: start-up costs are the one-time costs of starting (installation and equipment, initial stock, rent deposit and facilities, licences and permits); other funding routes include starting a business while doing other work, and a spouse's earnings funding the business. (Laos's book.)
+
+**The plan as a borrowing tool.** Lenders carefully review the business plan: it must explain how the business will operate, how much money is needed, how it will be used, and where the profit arises; some lenders require tangible assets as security and a friend's guarantee. (Laos's book.)
+
+**Evaluation part.** Evaluating loan sources with five questions, among them the benefit of the loan against its cost, which source carries the lowest risk, and what conditions are imposed. (Laos's book.)
+
+**Comparison part.** Equity vs debt money compared, including the cooperative as a funding source (even the poor can join a cooperative; profits are shared, members participate in financial decisions, and financial risk is shared) and financial institutions set up to help small businesses by providing loans. (Laos's book.)
+
+**Content-summary part.** Content summary: the capital needed to start a business is generally more than the woman or man businessperson has in their own pocket; it must be sought from many places, and it is essential to know exactly how much is needed. (Laos's teacher guide.)
+
+**Content-summary part.** Content summary: the capital needed to start a business is generally more than the woman or man businessperson has in their own pocket; it must be sought from many places, and it is essential to know exactly how much is needed. (Laos's teacher guide.)
+
+**Answer-key part.** The Buasi case answer key: her spending is worked in two tables — a pre-start period table and a start-up period table — to compute her investment capital and working capital and so her total start-up capital (the method is the guide's teaching; the totals as read by OCR do not reconcile and are not cited). (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

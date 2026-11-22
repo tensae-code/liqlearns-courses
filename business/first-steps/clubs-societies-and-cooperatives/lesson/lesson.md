@@ -46,6 +46,9 @@ Not-for-profit private organisations — charities, local sports and social club
 
 **Clubs, societies and co-operatives.** The co-operative and union-of-co-operatives model: a collectively owned economic organisation with legal personality, founded voluntarily by at least 5 official members who help each other in production and business on the principles of self-reliance, equal responsibility, equality and democratic management, each member having an equal vote; a union is formed by at least 3 member co-operatives on the same principles. (Vietnam's book.)
 
+
+**Group-benefits part.** Benefits of doing business as a group/cooperative: joint bulk purchasing of raw materials brings lower prices and better delivery terms; joint marketing (sharing transport responsibility lowers prices; the group can agree deals with big customers an individual cannot); and easier access to services and training, because providers prefer groups. (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

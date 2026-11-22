@@ -1,6 +1,6 @@
 # Sources — Starting a Business
 
-countries: Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Fiji, Mozambique, Vietnam
+countries: Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece, Guatemala, Bhutan, Kazakhstan, Papua New Guinea, Fiji, Mozambique, Vietnam, Laos
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -53,9 +53,16 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 23:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 12 (Study Topics in Economic and Legal Education 12), Kết nối tri thức với cuộc sống series (student book) — Nguyễn Minh Đoan and Trần Thị Mai Phương (co-editors-in-chief), Ngô Thái Hà, Nguyễn Thị Hồi — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2024; second reprint; the secured scan carries the 2026 reprint registration (7-2026/CXBIPH/211-09/GD). Grade: Grade 12. Language: Vietnamese. Page count: 51 PDF pages (printed pp. 1–49; printed page = PDF page − 2, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=5; fetched via `fetch_book.py`, route `release-search`, 12,414,157 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2 (Issues in the Law on Enterprises, printed pp. 15–31) is placed here in part — the parts that teach how an enterprise is set up, governed and wound up; the unit's restatement of the four enterprise forms themselves (printed pp. 18–21) was deliberately NOT re-placed, because the Grade 10 main textbook's Bài 7 already placed the same forms teaching. Contents map: Chuyên đề 1 Economic development and cultural and social change (printed pp. 5–14 — Economics wave, not placed); Chuyên đề 2 Issues in the Law on Enterprises (placed here in part); Chuyên đề 3 Vietnam in international economic integration (printed pp. 32–46 — Economics wave, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
 
+**Book 24:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Upper Secondary Year 6 / Grade 11) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) and ທຶນນະລົງ ແກ້ວສົມບັດ (Thinnarong Kaeosombat), Lao-India Entrepreneurship Development Centre; edited by ສີອາພອນ ຈັນທະພອນ and ສຸກສະທວັນ ພອນເທວາ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports; this copy is the 2015 printing. Written for the 2011 upper-secondary curriculum, Year 6, with a look toward the ASEAN economic community. Grade: Grade 11 (ມ.6). Language: Lao. Page count: 153 PDF pages (printed pp. 1–146; printed folio = PDF page − 7 in general; folios at PDF pp. 51–52 appear swapped in the scan — individual folios in that range were checked as read). Source: manifest `manifests-phase2/laos.json` n=7; fetched via `fetch_book.py`, route `tree`, 2,037,547 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. The full second-year course: setting up (market, location, legal forms, capital, finance, entry), running (people, time, sales, suppliers, technology, costs, records, statements), next steps (the business plan, viability, start-up factors, sources of help, attitude), and the standard business-plan template. Contents map: Ch.1 How do I set up a business (printed 1); Ch.2 How do I run a business (53); Ch.3 Next steps to become a businessperson (99); Ch.4 How to explain my own business plan in detail (134). Reading method: legacy-font text layer extracts as garbage; read from Lao-script OCR of page renders. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
 | starting a business | Book 22 (CDHT GD KT&PL 10), printed pp. 33–36 |
 | starting a business | Book 23 (CDHT GD KT&PL 12), printed pp. 21–23 |
+| location-factors part | Book 24 (Business G11 (Laos)), printed p. 18 |
+| selection-steps part | Book 24 (Business G11 (Laos)), printed p. 22 |
+| entry-routes part | Book 24 (Business G11 (Laos)), printed p. 50 |
+| pros/cons part | Book 24 (Business G11 (Laos)), printed p. 52 |
+| start-up-checklist part | Book 24 (Business G11 (Laos)), printed p. 117 |
 |---|---|
 | location part of the lesson | Book 1 (Kenya Business Form 3), printed p. 25 |
 | location part of the lesson | Book 1 (Kenya Business Form 3), printed p. 27 |
@@ -90,9 +97,9 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | starting part of the lesson | Book 20 (Year 9 Commercial Studies), printed p. 87 |
 | implementation part of the lesson | Book 21 (Módulo de Empreendedorismo (PESD I)), printed p. 76 |
 
-**Acceptance count: taught in 16 countries (Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece, Bhutan, Kazakhstan, Fiji, Mozambique, Vietnam)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 17 countries (Kenya, Malaysia, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Uganda, Egypt, Greece, Bhutan, Kazakhstan, Fiji, Mozambique, Vietnam, Laos)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran, nepal, nicaragua, palestine, uganda, egypt, greece, guatemala, bhutan, kazakhstan, papua-new-guinea, fiji, mozambique, vietnam
+Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran, nepal, nicaragua, palestine, uganda, egypt, greece, guatemala, bhutan, kazakhstan, papua-new-guinea, fiji, mozambique, vietnam, laos

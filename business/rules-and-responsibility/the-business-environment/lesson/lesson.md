@@ -74,6 +74,9 @@ Government-provided services and infrastructure as business conditions: governme
 
 **The business environment.** The factors that act on a small enterprise's results: inside the firm — its people as the deciding factor, its financial capacity, its level of production technique and technology, product designs that attract customers and a distribution network that sells the product, its internal information system and control mechanism; outside the firm — the political, economic and social environment and the support of government and local authorities, the pace of technical and technological change, and market factors (customers and competitors). (Vietnam's book.)
 
+
+**Role/resources part.** The role and importance of doing business and the resources a business uses. (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

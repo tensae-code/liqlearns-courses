@@ -120,6 +120,29 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Business ideas and opportunities.** The business opportunity and judging it by SWOT: an opportunity is the appearance of favourable conditions for reaching a business goal, and an idea becomes an opportunity when it is sustainable, meets a real and growing need, can be maintained long-term, promises profit and the timing is right; the trader judges it on four criteria — strengths, weaknesses, opportunities and threats (the book's SWOT test) — and uses the judgement to plan on strengths and opportunities while remedying weaknesses and overcoming threats. (Vietnam's book.)
 
+
+**Idea-generation part.** Generating business ideas: a good idea is a precondition of success; techniques for modifying an idea — make it bigger or smaller, rearrange or substitute parts, combine ideas. (Laos's book.)
+
+**Sources part.** Sources of business ideas: your own skills and experience as the key resource, franchising and distribution arrangements, observing trends (e.g. healthy eating), services in demand (accounting, catering, security), exhibitions and trade shows, talking to customers, and observing/counting passers-by for location decisions; brainstorming as a technique. (Laos's book.)
+
+**Purpose part.** Why a business must keep generating ideas: the product life cycle (products become obsolete, so plan product growth) and spreading risk, since most new products fail. (Laos's book.)
+
+**Identifying-opportunities part.** From idea to opportunity: an idea becomes an opportunity when revenue exceeds production cost and yields profit in real practice. (Laos's book.)
+
+**Evaluation part.** Evaluating an opportunity: a real customer need; competitive advantage (lower production and marketing costs, better quality) and its barriers (large investment, registration/patent protection, regulations, contract advantages, market or supplier privileges); timing — the window of opportunity; the entrepreneur's personal goals and abilities; and lack of infrastructure (roads, electricity, water, telecom, transport) reducing attractiveness; studying these factors is the first step toward the business plan that investors and lenders require. (Laos's book.)
+
+**Identification part.** Identifying opportunities: spotting and using opportunity is a trait of successful businesspeople and the foundation for starting and investing; most new products fail; an idea becomes an opportunity when revenue exceeds production cost and creates profit in real practice. (Laos's book.)
+
+**Evaluation part.** Evaluating an opportunity, factor (a) industry and market: is there a market — customers with needs and wants, purchasing power, and access to our distribution?. (Laos's book.)
+
+**Evaluation part.** Factor (b) the window of opportunity: it exists but does not stay open forever; markets grow at different rates and, as management improves, the conditions for success shrink — so timing matters; and the management team — investors prefer good management with a mediocre product or service over the best product with unsystematic management. (Laos's book.)
+
+**Evaluation part.** Factor (c) competition: an attractive opportunity needs a competitive advantage (lower production and marketing costs, better quality), protected by barriers (large investment required, registration/patent protection, regulations, contract advantages, market or supplier privileges); and the environment — inflation and exchange-rate swings make a poor start-up environment, and lack of infrastructure and services (roads, electricity, water supply, telecom, transport, schools, hospitals) affects an opportunity's attractiveness. (Laos's book.)
+
+**Answer-key part.** Answer key: evaluating a business opportunity means the idea and the opportunity must be examined and evaluated in detail to know whether it can be used; evaluation is the most important thing and can make the difference between success and failure; marketing a newly discovered product based on registered/patented technology does not guarantee total success, but it creates a competitive advantage. (Laos's teacher guide.)
+
+**Answer-key part.** Answer key: the idea and the opportunity must be examined and evaluated in detail to know whether the opportunity is usable; evaluation is the most important thing and can create the difference between success and failure; factors to consider include industry, marketing and product demand; and marketing a newly discovered product based on registered/patented technology does not guarantee total success but creates a competitive advantage. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.

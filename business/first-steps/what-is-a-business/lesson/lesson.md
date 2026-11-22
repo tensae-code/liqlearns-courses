@@ -88,6 +88,17 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **What a business is / why it matters.** What business and production-business are, and the role of production-business in social life: business is the continuous carrying out of one or all stages from investment through production to selling products or supplying services on the market for profit; production-business makes the goods and services society needs, creates jobs and income for workers, families and the business owner, and drives local and national development. (Vietnam's book.)
 
+
+**Opening definition and community role.** Business defined as an activity by a person or group to generate income and profit; business in the community supplies goods and services people need and creates jobs. (Laos's book.)
+
+**Classification part.** Ways of classifying businesses: private vs state, formal vs informal, individual / community / local / foreign, small vs large, industry and services, consumer goods vs industrial goods. (Laos's book.)
+
+**Distinguishing part.** Business vs non-business activity compared: a business takes profit as its principal aim and sells products/services in the market for full payment; a non-business activity takes people's needs as principal and may not sell or be paid in full. (Laos's book.)
+
+**Types part.** The three types of business: (1) production/manufacturing (farming, livestock, food processing, tailoring), (2) trading, (3) services. (Laos's book.)
+
+**Answer-key part.** Answer key: doing business defined as a five-step process — observe the surroundings, identify opportunities in business and non-business environments, gather the necessary resources, implement the activities, and receive financial or social rewards; and the characteristics of business — economic rules, a free-market economy, private enterprise, value added (wealth creation), goods or services that are needed, new markets. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

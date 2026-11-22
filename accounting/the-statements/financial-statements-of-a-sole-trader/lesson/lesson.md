@@ -111,6 +111,19 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 
 **Balance-sheet.** The balance sheet of a sole proprietorship and how it is presented (Nigeria's book.)
 
+
+**Profit-and-loss part.** The profit and loss statement: it shows whether the business made a profit or a loss over a period (one month to one year), and the more often it is calculated the sooner the owner knows the financial position; five steps starting with sales (cash plus credit); worked example — value of goods sold 60,000, gross profit 20,000, expenses 13,000 (salaries/wages 10,000, electricity 1,500, advertising 700, other 800), profit before tax 7,000, estimated tax 2,000, estimated net profit after tax 5,000. (Laos's book.)
+
+**Balance-sheet part.** The balance sheet: a statement of what you have and what you owe on a date; current liabilities (everything owed and repayable from assets in hand, mostly due within 12 months — tax, loans, creditors' bills) vs long-term liabilities (not repayable within 12 months, e.g. bank loans); net worth — the value of the business after deducting debts, the owner's investment plus accumulated profit; worked check: total assets 33,500 − total liabilities 11,500 = net worth 22,000, and liabilities + net worth = 33,500. (Laos's book.)
+
+**Template-forms part.** The template's monthly net-profit estimate, per product and in total: total sales − production costs − interest − depreciation = profit before tax, then tax, then net profit after tax. (Laos's book.)
+
+**Template-forms part.** The template's opening balance sheet form: fixed assets (land, buildings, equipment, other) and current assets (cash and bank, receivables, stock) against capital, long-term liabilities (loans) and current liabilities (payables, bills payable, taxes). (Laos's book.)
+
+**Answer-key part.** Answer key in question-and-answer form: what a profit and loss statement is, the specific steps to calculate one, and what a balance sheet is. (Laos's teacher guide.)
+
+**Worked-example part.** A worked balance summary for the standard plan: fixed assets — a building 6,000,000 kip and tools and equipment 1,700,000 kip; current assets 4,800,000 kip; net worth 7,700,000 kip, with long-term liabilities. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader. Your companion asks one question back — answer it from the lesson.

@@ -26,6 +26,17 @@ Budgeting for a big one-off family event: list income, list essential and non-es
 
 **The venture's books.** Strand 1 Unit 2: entrepreneurial financial skills — bookkeeping defined and its purposes (decision making, accountability); the cash book; the cash receipts and payments journals; source documents (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Records part.** Record-keeping: the key questions records answer (how much do customers owe the business? how much does the business owe? how much tax must it pay?); setting up a system — get help from an accountant, who can design a system suited to the business. (Laos's book.)
+
+**Records part.** The records themselves, including stock records (which goods sell and which do not); the obligation to file financial statements to government so tax can be calculated on the profit made; and who keeps the records — the owner, an employed bookkeeper (best left to the bookkeeper), a contracted specialist firm (from annual audit and preparing the profit-and-loss statement and balance sheet down to weekly bookkeeping and stock control), or an accounts department in a larger company. (Laos's book.)
+
+**Records part.** Why keep records: the law requires every business to keep written records in some form; correct records answer how much profit was made, what the business is worth, how much customers owe, how much the business owes, and how much tax must be paid. (Laos's book.)
+
+**Records part.** The receivables record and the payables record: where the owner gives credit to some customers, the amount owed is a receivable — without the record the owner will not know when to invoice, how much, when to stop credit, when to chase payment, or when to charge interest. (Laos's book.)
+
+**Delegation part.** Record-keeping is the first task to delegate: appoint an assistant for the records, while all staff carry some record responsibility (cash records etc.); the owner must train, direct and evaluate them. (Laos's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a small business keeps its accounts by knowing what counts as a business transaction, keeping its documents as proof, classifying its spending, and budgeting — simple, accessible and up to date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: keeping and storing documents, transactions in a small business, personal expenditure classification, personal/event budgeting (Samoa's family way). Your companion asks one question back — answer it from the lesson.

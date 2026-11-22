@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Functions part; History (Nigeria's own way) part; Barter part; Types-of-trade part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Functions part; History (Nigeria's own way) part; Barter part; Types-of-trade part; The trade part of the three-types teaching
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a loaf of bread's journey drawn as a road from a wheat farm, through a mill and a wholesaler's store, to a small shop and a child's hand — the student follows the road with a finger and names each helper on it.

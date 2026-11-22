@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Development part; Postal-and-telecom part; Satellite-and-mobile part; Internet part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Development part; Postal-and-telecom part; Satellite-and-mobile part; Internet part; Skills part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of three people — a maker, a shopkeeper and a buyer — joined by arrows carrying labelled messages: an order, a price, a delivery day and a complaint coming back → the student follows one message on its whole journey and says what would go wrong if it never arrived.

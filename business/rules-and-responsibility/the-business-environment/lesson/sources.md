@@ -1,6 +1,6 @@
 # Sources — The Business Environment
 
-countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Vietnam
+countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan, Papua New Guinea, Mozambique, Vietnam, Laos
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -39,8 +39,11 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 18:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
 
+**Book 19:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Upper Secondary Year 5 / Grade 10) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) et al., Lao-India Entrepreneurship Development Centre; edited by ສີອໍາພອນ ຈັນທະພອນ and ຈັນທະລາ ພິລົມລາສັກ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports, 2014; printed in Thailand by Eastern Printing Public Co. Ltd. Written for the 2011 upper-secondary curriculum; an ILO "Know About Business" (KAB)-style course. Grade: Grade 10 (ມ.5). Language: Lao. Page count: 165 PDF pages (printed pp. 1–160; printed folio = PDF page − 5). Source: manifest `manifests-phase2/laos.json` n=3; fetched via `fetch_book.py`, route `tree`, 2,542,432 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. A complete first entrepreneurship course: what business is, why do it, who a businessperson is, becoming one (incl. small business), and finding a good business idea. Contents map: Ch.1 What is doing business (printed 1); Ch.2 Why do business (24); Ch.3 Who is a businessperson (52); Ch.4 How can I become a businessperson (96); Ch.5 How do I find a good business idea (137). Reading method: the PDF's embedded text layer uses a legacy Lao font encoding and extracts as garbage, so the book was read from Lao-script OCR (Tesseract, `lao` model) of 150-dpi page renders. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
 | the business environment | Book 18 (CDHT GD KT&PL 10), printed pp. 30–32 |
+| role/resources part | Book 19 (Business G10 (Laos)), printed p. 26 |
 |---|---|
 | environment part of the lesson | Book 1 (Kenya Business Form 3), printed p. 36 |
 | environment part of the lesson | Book 2 (Nigeria Commerce SS3), printed p. 71 |
@@ -72,11 +75,11 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the environment part of the lesson (teacher guide) | Book 16 (PNG Business Studies TG G9 SB (2023)), printed pp. 69–70 |
 | development-context part of the lesson | Book 17 (Módulo de Empreendedorismo (PESD I)), printed p. 121 |
 
-**Acceptance count: taught in 13 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan, Kazakhstan, Mozambique, Vietnam)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 14 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan, Kazakhstan, Mozambique, Vietnam, Laos)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `types-of-economic-system` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan, papua-new-guinea, mozambique, vietnam
+Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan, papua-new-guinea, mozambique, vietnam, laos

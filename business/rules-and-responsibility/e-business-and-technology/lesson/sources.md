@@ -1,6 +1,6 @@
 # Sources — E-Business and Technology
 
-countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea, Mozambique, Nigeria, Vietnam
+countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Papua New Guinea, Mozambique, Nigeria, Vietnam, Laos
 
 **Book 1:** Pengajian Keusahawanan Tingkatan 5 (Entrepreneurship Studies, Form 5) (student book) — Sasbadi, for the Kementerian Pendidikan Malaysia KSSM textbook programme. KSSM 2020 edition (page imprints dated 9 Dec 2020); the in-hand PDF opens at the Bab 1 opener — no cover or imprint leaves in the file. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 238 PDF pages (printed pp. 2–239). Source: /home/hatch/workspace/my-wave34/dl/keusahawanan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching pages (printed pp. 234–235).
 
@@ -39,8 +39,11 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 17:** Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 10 (Study Topics in Economic and Legal Education 10), Kết nối tri thức với cuộc sống series (student book) — the series' editorial team (editors named on the imprint leaf: Nguyễn Tất Thắng and Hoàng Kim Liên) — Nhà Xuất Bản Giáo dục Việt Nam (Vietnam Education Publishing House). Year / edition: © 2022; the secured scan is the 2026 reprint (book code G1HHXY002h26; registration 7-2026/CXBIPH/130-09/GD); the ISBN on the imprint leaf is truncated in the scan and is not recorded. Grade: Grade 10. Language: Vietnamese. Page count: 71 PDF pages (printed pp. 1–69; printed page = PDF page − 1, verified on folios). Source: manifest `manifests-phase2/vietnam.json` n=1; fetched via `fetch_book.py`, route `release-search`, 17,278,207 bytes = expected (read copy deleted after the read). Verdict: COMPLETE for this wave's scope — a COMBINED Economics + Law carrier read for its Business parts only: Chuyên đề 2, Bài 4–5 (the small-enterprise (SME) unit, printed pp. 23–40) is placed here; in the event it teaches the SME as a business form — the legal size criteria, founding procedure and organisation — rather than SME law as statute. Contents map: Chuyên đề 1 Love, marriage and family (Bài 1–3 — life/civics education, Economics wave, not placed); Chuyên đề 2 The production-business model of the small enterprise (Bài 4–5 — placed here); Chuyên đề 3 Issues in criminal law (Bài 6–7 — Law, not placed). The book is an image-only scan; it was read from page renders OCR'd with Tesseract's Vietnamese model. All summaries stocked are the reader's own words in English.
 
+**Book 18:** ແບບຮຽນ ທຸລະກິດ (Business Textbook), ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Upper Secondary Year 6 / Grade 11) (student book) — compiled by ຕິນ ປາງປະເສີດ (Tin Pangprasert) and ທຶນນະລົງ ແກ້ວສົມບັດ (Thinnarong Kaeosombat), Lao-India Entrepreneurship Development Centre; edited by ສີອາພອນ ຈັນທະພອນ and ສຸກສະທວັນ ພອນເທວາ (RIES) — Research Institute for Educational Sciences (RIES), Ministry of Education and Sports; this copy is the 2015 printing. Written for the 2011 upper-secondary curriculum, Year 6, with a look toward the ASEAN economic community. Grade: Grade 11 (ມ.6). Language: Lao. Page count: 153 PDF pages (printed pp. 1–146; printed folio = PDF page − 7 in general; folios at PDF pp. 51–52 appear swapped in the scan — individual folios in that range were checked as read). Source: manifest `manifests-phase2/laos.json` n=7; fetched via `fetch_book.py`, route `tree`, 2,037,547 bytes = expected (read copy deleted after the read). Verdict: COMPLETE — read in full. The full second-year course: setting up (market, location, legal forms, capital, finance, entry), running (people, time, sales, suppliers, technology, costs, records, statements), next steps (the business plan, viability, start-up factors, sources of help, attitude), and the standard business-plan template. Contents map: Ch.1 How do I set up a business (printed 1); Ch.2 How do I run a business (53); Ch.3 Next steps to become a businessperson (99); Ch.4 How to explain my own business plan in detail (134). Reading method: legacy-font text layer extracts as garbage; read from Lao-script OCR of page renders. All summaries stocked are the reader's own words in English.
+
 | Lesson part | Where it comes from |
 | e-business and technology | Book 17 (CDHT GD KT&PL 10), printed p. 29 |
+| technology part | Book 18 (Business G11 (Laos)), printed p. 75 |
 |---|---|
 | software part | Book 1 (Pengajian Keusahawanan T5), printed p. 138 |
 | opening part | Book 1 (Pengajian Keusahawanan T5), printed p. 142 |
@@ -104,8 +107,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | digital-finance part of the lesson | Book 15 (Módulo de Empreendedorismo (PESD I)), printed p. 135 |
 | e-commerce part of the lesson | Book 16 (Nigeria Commerce SS1), printed p. 6 |
 
-**Acceptance count: taught in 13 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Mozambique, Nigeria, Vietnam)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 14 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan, Greece, Bhutan, Kazakhstan, Kenya, Mozambique, Nigeria, Vietnam, Laos)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea, mozambique, nigeria, vietnam
+Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan, greece, bhutan, kazakhstan, kenya, papua-new-guinea, mozambique, nigeria, vietnam, laos

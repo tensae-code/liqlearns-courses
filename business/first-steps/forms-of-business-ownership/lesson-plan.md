@@ -37,7 +37,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Ownership part; Ownership part; Legal-forms part; Sole-proprietor part; Partnership part; Public-ownership part; Company part; Comparison part; Combinations part; Combinations part; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Ownership part; Ownership part; Legal-forms part; Sole-proprietor part; Partnership part; Public-ownership part; Company part; Comparison part; Combinations part; Combinations part; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms of business ownership; Forms part; Liability part; Management part; Advantages/disadvantages part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of three shopfronts side by side — a one-person kiosk, a partners' workshop with two names over the door, and a company office with a board of names → the student says who owns each shopfront and who carries its risk.

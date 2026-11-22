@@ -38,6 +38,9 @@ Internal and external communication: the communication process (sender, channel,
 
 **Keeping business information safe.** Strand 1 Unit 1: security and confidentiality of communication technology — confidentiality controls and encryption, and why businesses keep information from competitors (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Skills part.** Listening skills teaching: when nobody listens to us we dislike it; listening is an essential skill, and to become an outstanding businessperson you must learn to listen and listen to others as well as possible; a good talker who is also the best listener; with advice for developing good listening (give full attention to the speaker, as when speaking on the telephone; give as much time to listening as to speaking; real communication cannot run both ways at once). (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

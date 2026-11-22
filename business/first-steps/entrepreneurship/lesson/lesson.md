@@ -150,6 +150,49 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Entrepreneurship.** The competencies a businessperson needs: leadership competence (setting strategy, dynamism, creativity, seizing business opportunities), management competence (organising and building relationships in business), professional competence (knowledge of the trade one is in), and the competence to keep learning and accumulating knowledge and skills. (Vietnam's book.)
 
+
+**Rewards-and-effort part.** The rewards of being a businessperson set against the effort it demands. (Laos's book.)
+
+**Mindset part.** The business mindset: the traits, enthusiasm and psychological motivation of a businessperson. (Laos's book.)
+
+**Example/case part.** Worked case: Somsak, a 40-year-old Vientiane tailor who trained in tailoring, employs five full-time and two part-time staff and moved to larger rented premises near his customers — used to show jobs created, staff living standards, competition, foreign currency and contribution to GDP. (Laos's book.)
+
+**Self-employment part.** Self-employment weighed: advantages (personal satisfaction, independence and freedom, profit, career and status security, flexibility, being your own boss) against disadvantages (investment money may be lost, uncertain or low income, long hours, routine daily work). (Laos's book.)
+
+**Reasons part.** Reasons people enter business: family unity, and personal reasons of economic, psychological and social kinds. (Laos's book.)
+
+**Decision part.** The decision to become a businessperson: triggers such as job loss, family crisis, relocation and role models; entrepreneurial capacity; and the need for a supportive business environment. (Laos's book.)
+
+**Attitude part.** Keeping a business attitude: the traits list (do what you are capable of, positive attitude and self-competition, discipline, motivating and leading others, planning, persistence, appropriate dress, good health and enthusiasm); and goal-setting — when performance drifts from goals, adjust the goals to reality; goal adjustment is a regular business process. (Laos's book.)
+
+**Mindset part.** Having a business mindset: its meaning and scope at the individual level (an idea turned into a planned, organised business) and at the business level; its benefits — becoming valuable to family, community and society, and being able to handle any situation. (Laos's book.)
+
+**Characteristics part.** Characteristics of the mindset, including empathy — understanding others' feelings and putting yourself in their place; information-gathering feeds creative thinking; intuition and deep understanding. (Laos's book.)
+
+**Components part.** Goals must be specific and measurable, and set for the short and the long term; the mindset has five components (idea/concept, objective-setting, imagination, thinking, plan). (Laos's book.)
+
+**Potential part.** Evaluating a businessperson's potential: the knowledge areas a successful small-business builder needs — business opportunities, the market, customers, competitors, the production process, technical problems, business administration, and sources of help; knowledge alone is insufficient. (Laos's book.)
+
+**Distinctions part.** Knowledge vs skills vs traits: traits are personal qualities in thought and action, and are slower to develop. (Laos's book.)
+
+**Comparison part.** Self-employment vs salaried employment in parallel tables: self-employment (control the working atmosphere, give orders, keep learning — but limited time, an uncertain future, hard-to-find replacement staff, much paperwork, dependence on employees' actions) vs salaried work (limited specific responsibility, but following orders). (Laos's book.)
+
+**Advantages/disadvantages part.** Advantages of your own business: it buys goods and services from other local businesses, borrows from local banks and pays taxes; independence — not under others' control, using your own knowledge and skills as you see fit; you cannot be dismissed or forced to retire at a set age; status in society and customer acceptance — and its disadvantages: family savings accumulated over years are at stake, and income is uncertain and low (profit income is not as regular as a monthly salary, especially in the first six months to a year). (Laos's book.)
+
+**Reasons part.** Push and pull reasons for entering business: forced circumstances (unhappy with boss or colleagues, no job after school or training) and practical reasons (economic — build a livelihood, become rich, prepare for retirement, earn extra income; psychological; social). (Laos's book.)
+
+**Answer-key part.** Model answers for the Somsak tailoring case: how he created jobs for local people; how he raised his employees' living standards; how he contributed to competition in the garment industry (buying cloth and employing four skilled tailors, displaying goods in his shop); how he helped the government earn foreign currency; and how he provided cheap vocational training by learning on the job. (Laos's teacher guide.)
+
+**Answer-key part.** Scoring for the business-disposition self-test: answers scored at 2–3 points each across the questionnaire's sections (personal background, family, behaviour, attitude). (Laos's teacher guide.)
+
+**Content-summary part.** The teacher's summary teaching: doing business is a process of activities including production, trade and services; and the characteristics of having a business mindset, including skills, independence, networking and goal-orientation. (Laos's teacher guide.)
+
+**Answer-key part.** Answer material: the traits of a successful businessperson — initiative, sees and seizes opportunities, persistence, seeks information personally, concern for quality, commitment to contracts, efficiency orientation, solves problems from first principles, self-confidence, systematic planning, persuasion. (Laos's teacher guide.)
+
+**Answer-key part.** The aptitude test's scoring bands, by category (personal background, family training — which counts most, behaviour, attitude/energy/health): 0–25 no business disposition, 26–36 middle, 37–47 fairly strong entrepreneurial tendency, 48 and above strong business disposition; with the teacher note that a lower score at the end of the lesson than at the start shows students have learned the characteristics. (Laos's teacher guide.)
+
+**Answer-key part.** Summary answer material: the disadvantages of self-employment (investment money may be lost, uncertainty and low income, long hours, boring daily work, risk, time used, contacts) and the three kinds of reasons for entering business — (a) forced circumstances, (b) practical reasons, (c) emotional/personal reasons. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

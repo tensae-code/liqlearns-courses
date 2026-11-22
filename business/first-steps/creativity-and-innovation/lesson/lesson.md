@@ -50,6 +50,13 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Creative thinking.** Strand 4: creative techniques for generating business ideas — problem reversal, forced analogy, attribute listing, mind mapping, and brainstorming (teacher guide) (Papua New Guinea's teacher guide.)
 
+
+**Creativity part.** Creativity is needed in all business problem-solving and is used daily, e.g. in promoting products and services; developing creative thinking through imagination and perception and keeping a notebook of interesting things. (Laos's book.)
+
+**Definition part.** Creativity defined as the ability to design, produce or do something in a new or different way; it answers problems and marketing needs and is part of what separates growing businesses from failing ones. (Laos's book.)
+
+**Answer-key part.** Answer explanations: creativity is what separates success from failure in business and distinguishes fast-growing businesses from ordinary ones — truly successful businesspeople are creative in defining new products and services and in answering the market's needs; with a worked table of changes (demographic change, changing values and lifestyles, falling income and purchasing power, government policy, borrowing, growing computer use, network expansion, mobile phones, advertising promotion) and the business responses each calls for. (Laos's teacher guide.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: creativity, innovation, creativity and innovation, creativity and innovation. Your companion asks one question back — answer it from the lesson.

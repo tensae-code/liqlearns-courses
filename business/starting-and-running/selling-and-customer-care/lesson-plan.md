@@ -36,7 +36,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Terms-of-sale part; Selling part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Terms-of-sale part; Selling part; Sales-management part; Customer-care part; Content-summary part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a salesperson in a small shop showing a customer a radio, with the selling steps drawn as footprints across the floor from the door to the till — the student walks the footprints aloud, naming each step, and points to where customer care happens after the till.
