@@ -1,10 +1,14 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran
+countries: Dominica, Iran, Indonesia
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
 **Book 2:** کارگاه کارآفرینی و تولید (Entrepreneurship and Production Workshop) — second period of secondary education, book code 110224 (student book) — planning and authorship council of the Office for Compiling General and Theoretical Secondary Textbooks (authorship group incl. Mohammad Taqi Toghraei, Seyyed Saeed Mirvahedi, Somayeh Hashemi, Fereshteh Azizi Malekabadi, Behnam Niknejad, Amin Habibi Rad; editor Hossein Davoudi) — Ministry of Education, Organisation for Educational Research and Planning, Tehran; printed and published by the Iran Textbook Printing and Publishing Company. Tenth printing, 1405 (school year 1405–1406); ISBN 978-964-05-2523-4. Grade: Grade 10 (first year of the second period of secondary education). Language: Persian. Page count: 136 PDF pages (printed pp. 1–128 plus front matter). Source: manifest manifests-phase2/iran.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-6), to scratch-phase2/iran/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Section 32 ends printed p. 127; sources list p. 128).
+
+**Book 3:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
+**Book 4:** Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (teacher guide) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-579-2 (PDF). Grade: Grade 10 (SMK/MAK Kelas X) — teacher guide. Language: Indonesian (Bahasa Indonesia). Page count: 304 PDF pages (printed pp. viii + 1–296; printed page = PDF page − 8). Source: manifest manifests-phase2/indonesia.json n=0; fetched via fetch_book.py, route release-search, 9,055,539 bytes (= expected_bytes), to scratch-phase2/indonesia/teacher.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282; glossary printed pp. 283–284 follows). TEACHER GUIDE — evidence only, acceptance 0.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,9 +17,13 @@ countries: Dominica, Iran
 | planning your own career | Book 2 (Entrepreneurship and Production Workshop), printed p. 27 |
 | planning your own career | Book 2 (Entrepreneurship and Production Workshop), printed p. 31 |
 | planning your own career | Book 2 (Entrepreneurship and Production Workshop), printed p. 35 |
+| careers in business | Book 3 (Dasar-Dasar Akuntansi X), printed pp. 21–27 |
+| careers in business (teacher guide) | Book 4 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed pp. 2–5 |
 
-**Acceptance count: taught in 2 countries (Dominica, Iran)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 3 countries (Dominica, Iran, Indonesia)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+
+Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia

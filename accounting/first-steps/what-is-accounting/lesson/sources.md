@@ -1,6 +1,6 @@
 # Sources — What Is Accounting
 
-countries: Kenya, Malaysia, Nigeria, Samoa, Dominica
+countries: Kenya, Malaysia, Nigeria, Samoa, Dominica, Indonesia
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -15,6 +15,8 @@ countries: Kenya, Malaysia, Nigeria, Samoa, Dominica
 **Book 6:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
 **Book 7:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
+
+**Book 8:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -42,7 +44,12 @@ countries: Kenya, Malaysia, Nigeria, Samoa, Dominica
 | accounting policies statement | Book 6 (Bus Studies Y11 Bk2), printed p. 94 |
 | record keeping | Book 7 (Principles of Business for CSEC), printed pp. 137–139 |
 | purpose of financial records | Book 7 (Principles of Business for CSEC), printed p. 302 |
+| what accounting is | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 3–10 |
+| the standards accounting follows | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 11–13 |
+| what accounting is for | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 43–44 |
+| who uses accounting information | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 44–46 |
+| the concepts accounting rests on | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 46–51 |
 
-**Acceptance count: taught in 5 countries (Kenya, Malaysia, Nigeria, Samoa, Dominica)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Malaysia, Nigeria, Samoa, Dominica, Indonesia)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is accounting, first steps, accounting, kenya, malaysia, nigeria, samoa, dominica
+Searchable tags: what is accounting, first steps, accounting, kenya, malaysia, nigeria, samoa, dominica, indonesia

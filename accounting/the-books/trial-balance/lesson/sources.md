@@ -1,6 +1,6 @@
 # Sources — The Trial Balance
 
-countries: Kenya, Samoa, Zambia
+countries: Kenya, Samoa, Zambia, Indonesia
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -8,15 +8,18 @@ countries: Kenya, Samoa, Zambia
 
 Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) — Authors: Tendai Nyoni (David Livingstone College of Education), Chintu Nonde Febby (Zambia Institute of Special Education), Gwenani James (Nelson Mandela Secondary School), Tembo Moses (Madzimawe Day Secondary School), Kasuba Emmanuel (Roan Antelope Secondary School), Kalasa Chrisborne (Changilo Secondary School); coordinators Sylvia Katongo and Kalaluka Jane Njanji (Curriculum Development Centre, Business Studies) — Republic of Zambia, Ministry of Education; developed by the Curriculum Development Centre, Lusaka; first published 2025 by Zambia Educational Publishing House (ZEPH). ISBN 978-9982-01-543-6; © Curriculum Development Centre 2025. Grade: Form 1, Term 3 (per the book; the manifest record says Grade 7 — the book's own level label is Form 1, Term 3, and is what is recorded here). Language: English. Page count: 36 PDF pages (printed pp. ii–viii + 1–27). Source: manifest manifests-phase2/zambia.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/zambia/full-year-2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module to the last page (Appendix 1 ends printed p. 27). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 3:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
 | Lesson part | Where it comes from |
 |---|---|
 | trial balance part of the lesson | Book 1 (Kenya Business Form 3), printed p. 137 |
 | preparing a trial balance; what it proves and does not | Book 2 (Bus Studies Y9 Bk2), printed p. 71 |
 | the trial balance (teacher guide) | Book 3 (Principles of Accounts Teaching Module), printed p. 6 |
 | the trial balance (teacher guide) | Book 3 (Principles of Accounts Teaching Module), printed p. 15 |
+| the trial balance | Book 3 (Dasar-Dasar Akuntansi X), printed p. 93 |
 
-**Acceptance count: taught in 2 countries (Kenya, Samoa)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 3 countries (Kenya, Samoa, Indonesia)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia
+Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia, indonesia

@@ -25,9 +25,11 @@ Cash flow: the transfers of cash in and out of a business over time, and net cas
 **Reporting past and future cash.** The annual projected funds flow for the first five years: year 0 shows contributions and loans received against fixed-asset investment and pre-operational spending; years 1–5 summarise the monthly flows with gradual increases (Ecuador's book.)
 
 **Reporting and forecasting cash.** Estimating the project's cash flows: the financial feasibility study is built on all the previous studies; (Palestine's book.)
+**The cash flow statement.** The cash-flow statement named and placed as the fourth statement of the service company's reporting stage, drawn after the other statements (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement, the cash flow statement. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

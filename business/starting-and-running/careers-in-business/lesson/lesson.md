@@ -23,9 +23,13 @@ Business study opens a wide range of career options: the book surveys the paths 
 **Planning your own career.** Identifying skills, talents and interests: skills are the building blocks of your future job; a career-readiness plan sorts them into basic skills (reading, writing, speaking, listening, calculating), thinking skills (creative thinking, problem solving/decision making), interpersonal skills (negotiation, serving customers, effective communication) and information-and-technology skills, each prioritised (Iran's book.)
 
 **Planning your own career.** Identifying your values and needs as the second step of career design: a values framework in which each value (creativity, independence, and others) is defined and prioritised from 1 to 5 (Iran's book.)
+**Careers in business.** The accounting profession and its jobs, Indonesia's own ladder: what a profession is, the accounting professions and their professional associations and titles (CA, CPA, CAT and the technician certifications), the national qualification levels (operator, technician/analyst, expert), and the job openings for accounting graduates in private firms, tax, village-owned enterprises (BUMDes) and… (Indonesia's book.)
+
+**Careers in business.** The guide's own framing of the profession chapter: the phase-E outcome is that learners can explain the SMK graduate's profession as Junior Accounting Technician at KKNI Level 2 rising to Young Accounting Technician at Level 4, and be inspired toward the accounting jobs and business opportunities the field offers (Indonesia's teacher guide.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options, careers in business, careers in business. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

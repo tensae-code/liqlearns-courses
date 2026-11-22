@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa and
+and Commerce books of Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa and
 Uganda. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
@@ -27,13 +27,13 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-131 placements stocked.**
+139 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 20 books
-in all (19 student books and 1 teacher guide); the 12 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 22 books
+in all (20 student books and 2 teacher guides); the 14 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 8 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -44,6 +44,12 @@ Year 9 Book 2, and Zambia's Principles of Accounts Teaching
 Module (a teacher guide) — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
+
+- *Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-577-8 (PDF). **Grade 10 (SMK/MAK Kelas X). STUDENT book. Language: Indonesian (Bahasa Indonesia).** 328 PDF pages (printed pp. x + 1–318). **Verdict: COMPLETE** — read whole book to the last teaching page (Bab VIII ends printed p. 304). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.)
+  - Contents map for this split: Bab VII (basic banking concepts — what a bank is, the kinds of bank, what banks do, bank deposits, bank credit, sharia banking) fed **Commerce** (6 placements in this course, from this book); Bab I, II and VIII fed **Business** (7 placements); Bab III–VI fed **Accounting** (30 placements).
+
+- *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
+  - Contents map for this split: the guide's own bank-bookkeeping summaries (journalling savings and time deposits; recording sharia deposits) fed **Commerce** (2 placements in this course, from this guide — every one marked (teacher guide) in its provenance row, evidence only); its profession, work-rules, entrepreneur-profile and K3 guidance fed **Business** (4 placements, evidence only); its summarising-stage and spreadsheet-chapter material fed **Accounting** (2 placements, evidence only).
 
 - *Principles of Business for CSEC Examinations, Second Edition* — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; second edition 2019. **Grade 11 (CSEC). STUDENT book. Language: English** (Caribbean examples throughout). 425 PDF pages (printed pp. 1–~419). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 10 ends printed p. 391). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
   - Contents map for this split: the trade parts of Units 1, 6, 7, 8 and 10 — money and payment instruments, advertising and sales promotion, retailing and credit, consumer protection, warehousing, wholesale channels, transport, commercial and transport documents, financial institutions and bank services, trade insurance, and international trade with its institutions — fed **Commerce** (23 placements in this course, from this book — including the first placement for Warehousing, built from this book); Units 1–10's business parts fed **Business** (99 placements); the bookkeeping parts of Units 4 and 8 fed **Accounting** (9 placements). The economic-systems teaching (Unit 1.2) and the economics parts of Units 9–10 are Economics-wave material, mapped, not placed.
@@ -84,18 +90,22 @@ set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 131 placements from **student books** of 10
-  countries (Dominica, Ecuador, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
-  taught in 10 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 137 placements from **student books** of 11
+  countries (Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
+  taught in 11 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
-- **Teacher-guide evidence only, counted nowhere:** none
-  carries this course. One teacher guide has been read for the
-  split — Zambia's *Principles of Accounts Teaching Module*
-  (read 2026-11-22) — and it fed Accounting only, as evidence
-  (acceptance 0). Teacher guides, when they come, will be
-  evidence only (acceptance 0), as in every course. (No teacher
-  guide stands in this course's pending queue below; the queue
-  is student books throughout.)
+- **Teacher-guide evidence only, counted nowhere:**
+  Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
+  Keuangan Lembaga Kelas X* (teacher guide, read 2026-11-22) —
+  2 placements stocked in this course as evidence only,
+  acceptance 0; Indonesia is counted as a teaching country
+  only through its student book, and every lesson the guide
+  touches says so in its sources. (Zambia's *Principles of
+  Accounts Teaching Module*, the other teacher guide read for
+  the split, fed Accounting only.) Teacher guides, when they
+  come, will be evidence only (acceptance 0), as in every
+  course. (No teacher guide stands in this course's pending
+  queue below; the queue is student books throughout.)
 
 ## The pending queue — Commerce books not yet in the course
 

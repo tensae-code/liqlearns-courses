@@ -45,9 +45,17 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 **The books.** The Sales Returns Day Book (teacher guide): the Book of Prime Entry used to record goods sold on credit but later returned by customers — for reasons such as wrong colour, faulty goods or damaged goods; also known as the Sales Returns Journal, Returns Inwards Journal or Returns Inwards Day Book; it matters because it accounts for goods returned; (Zambia's book.)
 
 **The books.** The format of the Sales Day Book and how entries are made (teacher guide): title on top, then Date, Details (the widest column), Invoice Number (for cross-referencing the source document), Subtotal (the monetary value at unit price) and Total Amount columns; (Zambia's book.)
+**Books of original entry.** Transaction evidence (transaction documents): every transaction must be proven by a document whose value can be verified; documents are internal (cash-in and cash-out vouchers, memorial vouchers) or external (invoices, receipts, notes), and they are the source and legal proof of every journal entry (Indonesia's book.)
+
+**Books of original entry.** Recording transactions into the general journal: the journal's functions (recording, historical, analysis, instructive, informative), account codes, and the step-by-step journalising of a service company's transactions (Indonesia's book.)
+
+**Books of original entry.** Recording a trading company's transactions: its main activity is buying merchandise from suppliers and reselling it; transactions are recorded by the physical (periodic) method in this book — purchases, purchase returns and allowances, purchase discounts, freight-in, sales, sales returns and freight-out each journalised (Indonesia's book.)
+
+**Books of original entry.** Special journals and their recapitulation: as transaction volume grows the trading company splits the journal into purchases, sales, cash-receipts and cash-payments special journals, and at period end each special journal is recapitulated into the debit and credit totals to be posted (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

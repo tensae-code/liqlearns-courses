@@ -73,9 +73,25 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 **Banking services.** Islamic bank financing: Islamic banks finance by participation or sale, not lending, since any increase on a loan is forbidden riba; the forms are fixed participation (musharaka) — bank and project owner share the capital for shares in the profit, the owner usually managing, often for a single trade deal or several; (Palestine's book.)
 
 **Banking services.** Short-term bank credit: the overdraft (الجاري المدين) — facilities up to a set ceiling from which the client draws, interest charged only on the balance actually drawn day by day and stopping on any amount once deposited, cheap when used correctly for short periods but very costly if used heavily and long because of its high annual rate; (Palestine's book.)
+**Banking services for trade.** What a bank is and how Indonesian banking developed: a bank gathers funds from the public as deposits and channels them back as credit and other services to raise the people's standard of living (the Banking Law definition); the history runs from the Dutch colonial banks through nationalisation to the state banks (Indonesia's book.)
+
+**Banking services for trade.** The kinds of bank: by function (central bank, commercial banks, rural credit banks/BPR), by ownership (state, private, co-operative, foreign, mixed), by operating status (foreign-exchange and non-foreign-exchange banks) and by pricing principle (conventional and sharia banks — BUS, BPRS, UUS) (Indonesia's book.)
+
+**Banking services for trade.** What banks do: gathering funds, channelling funds as credit, and giving payment-traffic and other banking services — the business activities of commercial banks, BPR and sharia banks compared (Indonesia's book.)
+
+**Banking services for trade.** Bank deposits: current accounts (giro, withdrawn by cheque and giro slip), savings deposits (tabungan, withdrawn by book, slip, ATM card or mobile banking) and time deposits (deposito, 1/3/6/12 months) — how each works, how its interest (jasa giro, savings interest, deposit interest) is calculated, and how the bank journals the opening, interest and withdrawal of each (Indonesia's book.)
+
+**Banking services for trade.** Bank credit: what credit is under the Banking Law, its purposes and functions, its kinds, and how instalments and interest are computed under flat and floating rates (Indonesia's book.)
+
+**Banking services for trade.** Sharia banking: how a sharia bank gathers funds (wadiah safekeeping and mudharabah profit-sharing deposits) and finances customers (mudharabah and musyarakah profit-sharing, murabahah/salam/istishna sale-based financing, ijarah leasing, qardh and hawalah), and how its margin income is recognised (Indonesia's book.)
+
+**Banking services for trade.** The bank's own bookkeeping for deposits, in the guide's material summaries: opening a savings account is journalled cash (debit) / savings–customer account (credit), a withdrawal reverses it, and account closing likewise; time deposits are of three kinds (term deposits, certificates of deposit, on-call deposits), certificate-deposit interest is computed monthly and taxed at 20% PPh before payment (Indonesia's teacher guide.)
+
+**Banking services for trade.** Recording sharia deposits, in the guide's summaries: for wadiah savings and wadiah current accounts, a cash deposit adds cash (debit) and the wadiah account (credit), a withdrawal reduces both, and a wadiah bonus is journalled as bonus expense (debit) against the wadiah account and the state cash deposit (credit) (Indonesia's teacher guide.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

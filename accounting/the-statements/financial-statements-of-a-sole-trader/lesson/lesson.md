@@ -45,9 +45,15 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 **The statements.** The income statement (estado de resultados): a financial report for a set period that shows in detail the income obtained, the expenses as they occur and the resulting profit or loss, so the information can be analysed and decisions taken; it identifies sales income (cash or credit) and the costs and expenses, to calculate the period's gain (Nicaragua's book.)
 
 **The statements.** The structure of the income statement: (Nicaragua's book.)
+**Financial statements of a sole trader.** The service company's financial statements: income statement, statement of changes in equity and statement of financial position prepared from the worksheet (Indonesia's book.)
+
+**Financial statements of a sole trader.** Cost of goods sold (harga pokok penjualan): its components — opening inventory plus net purchases (purchases + freight-in − purchase returns − purchase discounts) minus closing inventory — and the practical shortcut layout for computing it (Indonesia's book.)
+
+**Financial statements of a sole trader.** The trading company's financial statements from its worksheet: income statement built around sales, COGS and gross profit, statement of changes in equity and statement of financial position (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

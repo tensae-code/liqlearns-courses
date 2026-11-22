@@ -24,9 +24,13 @@ A business pays a full year's insurance on the first day of its year. Should the
 
 **Closing stock valuation.** Closing inventory is found by stocktake, valued at cost or net realisable value whichever is lower; it reduces goods available for sale to cost of goods sold and appears as a current asset.
 
+**Adjustments to financial statements.** The adjusting journal for a service company: prepaid expenses, supplies used, accrued income and expenses, unearned income and depreciation of fixed assets, each adjusted at period end (Indonesia's book.)
+
+**Adjustments to financial statements.** The trading company's nine adjustments: supplies used, expenses still payable, income still receivable, prepaid expenses, unearned income, depreciation, and the merchandise-inventory adjustments that open and close the stock account (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: accrual vs cash basis (the matching idea), why adjustments are made, accruals, prepayments, accrued income, income in advance, closing stock valuation, capital vs revenue expenditure. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: accrual vs cash basis (the matching idea), why adjustments are made, accruals, prepayments, accrued income, income in advance, closing stock valuation, capital vs revenue expenditure, adjustments to financial statements, adjustments to financial statements. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

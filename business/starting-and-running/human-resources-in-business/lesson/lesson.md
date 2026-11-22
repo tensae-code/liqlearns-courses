@@ -39,9 +39,13 @@ Count the workers in one business you know. For each, name the job they do and o
 **Looking after people at work.** Human resources in the business: recruitment — seeking out likely employees and encouraging them to apply, done internally (promotion, transfer, internal advertisement) or externally — then selection (application forms, selection tests and examinations, deep interview, background study, medical examination, placement), and retention: creating the environment that keeps high-performing employees in the organisation (Nepal's book.)
 
 **Organising people.** The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business — management team, human resources and their duties — fixes each member's limits and authority, drawn as manager, deputy, finance manager, sales manager and human-resources manager (Iran's book.)
+**People at work.** Occupational safety, health and security at work (K3): what K3 is and its aims (preventing accidents, fire, explosions and work diseases), the safe working environment, the ILO's four hazard categories (long-term health, direct safety, comfort facilities, personal/psychological), risk control (engineering, administrative, personal protective equipment), emergency procedures and first aid (Indonesia's book.)
+
+**People at work.** The guide's own definition of K3: occupational safety and health is an effort to build co-operation, mutual understanding and proactive participation between employer and workers in carrying out their shared K3 duties in order to raise work productivity; its role is anticipative — reducing the chance of sickness, accident or psychological disturbance while working (Indonesia's teacher guide.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people, people at work, people at work. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
 Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
-and Samoa.
+and Samoa, and Indonesia.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
 the books'.
@@ -33,13 +33,13 @@ organisations, partnerships, companies, manufacturing,
 incomplete records, control accounts) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 210 placements stocked.**
+**27 lessons, 242 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 20 books
-in all (19 student books and 1 teacher guide); the 14 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 22 books
+in all (20 student books and 2 teacher guides); the 16 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 6 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -49,6 +49,12 @@ Book 1, and Uganda's Entrepreneurship Textbook Senior One —
 carry no Accounting teaching as filed (their parts fed
 Business and Commerce, or were Economics/named-not-placed), and
 they are named here so the read set is whole.
+
+- *Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-577-8 (PDF). **Grade 10 (SMK/MAK Kelas X). STUDENT book. Language: Indonesian (Bahasa Indonesia).** 328 PDF pages (printed pp. x + 1–318). **Verdict: COMPLETE** — read whole book to the last teaching page (Bab VIII ends printed p. 304). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - The ACCOUNTING parts of this book: Bab I (the accounting side of the business process; how Indonesian accounting standards developed; computer accounting applications), Bab III (basic concepts of accounting; the accounting equation), Bab IV (the service-company accounting cycle — transaction evidence, double entry, the journal, the ledger, the trial balance, adjustments, the worksheet, the statements, closing entries), Bab V (the trading-company cycle — special journals, subsidiary ledgers, cost of goods sold), Bab VI (spreadsheet applications for accounting) and the manufacturing business process of Bab I fed **Accounting** (30 placements in this course, from this book). Contents map for this split: Bab I, II and VIII fed **Business** (7 placements); Bab VII (basic banking concepts) fed **Commerce** (6 placements).
+
+- *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
+  - The ACCOUNTING parts of this guide: its own compression of the service cycle's summarising stage (Bab V guidance) and its essential-material list for the spreadsheet chapter (Bab VI guidance) fed **Accounting** (2 placements in this course, from this guide — every one marked (teacher guide) in its provenance row). Contents map for this split: its profession, work-rules, entrepreneur-profile and K3 guidance fed **Business** (4 placements, evidence only); its bank-bookkeeping guidance fed **Commerce** (2 placements, evidence only).
 
 - *Principles of Business for CSEC Examinations, Second
   Edition* — Riana Balliram; Peter Budd; Edith Emmanuel;
@@ -227,9 +233,9 @@ they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 27 lessons, stocked with
-  210 placements in all — 202 of them from **student books** of 8 countries (Dominica,
-  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 8 countries;
-  the other 8 are teacher-guide evidence from Zambia (acceptance 0, below). Every
+  242 placements in all — 232 of them from **student books** of 9 countries (Dominica,
+  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 9 countries;
+  the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** Zambia's
@@ -237,16 +243,19 @@ they are named here so the read set is whole.
   (teacher guide, read 2026-11-22) — 8 placements stocked as
   evidence only, acceptance 0; Zambia is counted nowhere as a
   teaching country, and every lesson it touches says so in its
-  sources. Two further teacher guides stand in the pending
-  queue below (Indonesia's Dasar-Dasar Akuntansi dan Keuangan
-  Lembaga Kelas X teacher guide and Papua New Guinea's
-  Accounting Teacher Guide Grades 11–12, each labelled as a
-  teacher guide in the queue) and, when they come, will be
-  evidence only (acceptance 0), as in every course.
+  sources. Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi
+  dan Keuangan Lembaga Kelas X* (teacher guide, read 2026-11-22)
+  likewise stocked evidence only — 2 placements in this course
+  (10 across the split), each marked (teacher guide); Indonesia
+  counts as a teaching country only through its student book.
+  One further teacher guide stands in the pending queue below
+  (Papua New Guinea's Accounting Teacher Guide Grades 11–12,
+  labelled as a teacher guide in the queue) and, when it comes,
+  will be evidence only (acceptance 0), as in every course.
 
 ## The pending queue — Accounting books not yet in the course
 
-21 Accounting books are in hand in the library record but were
+19 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -266,10 +275,6 @@ hold lifts and they are read.
 **Greece (2):**
 - [ACCOUNTING · student] Arches Logistikis B EPAL Vivlio Mathiti — B' Lykeiou (Grade 11) (grade-11) — secured-not-on-disk
 - [ACCOUNTING · student] Logistikes Efarmoges G EPAL Vivlio Mathiti — G' Lykeiou (Grade 12) (grade-12) — secured-not-on-disk
-
-**Indonesia (2):**
-- [ACCOUNTING · teacher] Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (grade-10) — secured-not-on-disk
-- [ACCOUNTING · student] Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (grade-10) — secured-not-on-disk
 
 **Malaysia (1):**
 - [ACCOUNTING · student] Prinsip Perakaunan Tingkatan 4 (grade-10) — secured-not-on-disk

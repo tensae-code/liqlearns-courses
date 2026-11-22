@@ -119,9 +119,11 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Managing / deciding.** What sound entrepreneurial decision-making requires, and why decisions go wrong: (Palestine's book.)
 
 **Managing / deciding together.** Brainstorming as the group's decision method: involving the work team in decision-making generates more and better solution options and wins the team's commitment to the decision they helped make; (Palestine's book.)
+**Business management.** Industrial work culture — the 5R/5S method: Ringkas, Rapi, Resik, Rawat, Rajin (sort, set in order, shine, standardise, sustain) as a simple method for arranging and cleaning the workplace that raises efficiency, applied step by step in the accounting office (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

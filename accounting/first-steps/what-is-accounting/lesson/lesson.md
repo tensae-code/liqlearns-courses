@@ -58,9 +58,19 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 
 
+**What accounting is.** The accounting side of the business process: in each kind of company the same flow runs — transactions happen, each is proven by a transaction document, recorded, and turned into financial information; accounting's fields and its role in the business are introduced from that flow (Indonesia's book.)
+
+**The standards accounting follows.** How Indonesian accounting standards developed: from manual bookkeeping standards to the current framework — PSAK converged with IFRS, SAK ETAP for entities without public accountability, the sharia PSAK series, government accounting standards (SAP) and SAK EMKM for micro, small and medium entities (Indonesia's book.)
+
+**What accounting is for.** The main purpose of accounting and what financial statements are for: accounting produces financial information for economic decisions and shows management's stewardship of the resources entrusted to it; the five components of financial statements are named, and the information must be relevant and reliable (honest, substance over form, neutral, prudent, complete) (Indonesia's book.)
+
+**Who uses accounting information.** The users of accounting information and what each needs it for: owners/investors, management, lenders, government (tax and statistics), employees, suppliers, customers and the public (Indonesia's book.)
+
+**The concepts accounting rests on.** The principles and basic concepts under the statements: the accounting principles, then the basic concepts — monetary unit, economic entity (the business kept separate from its owner), accounting period, going concern, and the accrual and historical-cost ideas carried in the principles (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part of the lesson, opening part, users-of-information part, uses part, concepts part of the lesson, opening / what accounting is, who does accounting / specialisations, users of accounting information, financial vs non-financial information, source documents in everyday life, accounting con. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part of the lesson, opening part, users-of-information part, uses part, concepts part of the lesson, opening / what accounting is, who does accounting / specialisations, users of accounting information, financial vs non-financial information, source documents in everyday life, accounting con, what accounting is, the standards accounting follows, what accounting is for, who uses accounting information, the concepts accounting rests on. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

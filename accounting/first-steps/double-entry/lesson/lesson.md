@@ -24,9 +24,11 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Double entry.** Double entry bookkeeping: every transaction is recorded twice — a credit in one ledger account and an equal debit in another — because every transaction has two matching effects; a debit increases what you own or reduces profit, a credit reduces what you own or increases profit (worked example: borrowing $1,000 from the bank to buy equipment); total debits must equal total credits or an error has been made
 
+**Double entry.** The debit-and-credit concept: the mechanism of debit and credit by account group, normal balances, and how increases and decreases are recorded on each side (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

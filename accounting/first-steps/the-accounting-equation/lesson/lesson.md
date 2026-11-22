@@ -37,9 +37,11 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 **Transactions and the equation.** Every transaction changes the equation: worked step by step as the owner starts with cash, buys equipment, buys a jack on credit, buys parts and takes drawings, rebalancing after each step.
 
 **First steps / what the books show.** Reading a balance sheet as sources and uses of funds: in the project's projected balance sheet one side holds the assets (current and fixed) and the other the liabilities and owners' equity; (Palestine's book.)
+**The accounting equation.** The basic accounting equation: assets = liabilities + equity, how each kind of transaction (internal and external) moves it, and how equity itself is built and reduced in a sole proprietorship, a partnership and a limited company (owner's capital and drawings vs share capital and dividends) (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

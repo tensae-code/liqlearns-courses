@@ -123,9 +123,13 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **The legal rules / protecting the brand.** Registering a trademark: a trademark is the symbol that identifies your product or service in the market and makes it different from the rest; (Nicaragua's book.)
 
 **The legal rules / registering.** Palestine's own registration map: before starting, the investor must know every body whose approval the project needs, or legal gaps can lose him the project; the bodies and what each gives — the local authority (municipality/village council) for the crafts licence (رخصة الحرف) covering trades touching public health, safety and veterinary supervision; (Palestine's book.)
+**The rules a business works under.** Work guidelines, procedures and work rules in the financial-services industry: what work guidelines, work procedures (SOP) and work systems are and why a financial institution works by them (Indonesia's book.)
+
+**The rules a business works under.** The financial-services industry's own marks and its work rules, in the guide's essential-material summary: a financial-service company buys and resells no merchandise, produces no goods, holds no raw-material stock, spends mostly on staff operations, and holds cash, receivables and fixed assets; work guidelines function to order that work, a work procedure (tata kerja) is the efficient way of… (Indonesia's teacher guide.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law, the rules a business works under, the rules a business works under. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

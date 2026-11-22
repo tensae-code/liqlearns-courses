@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
-Business Studies books of Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia,
+Business Studies books of Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia,
 Nepal, Nicaragua, Nigeria, Palestine, Samoa and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
@@ -28,19 +28,25 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 533 placements stocked.**
+environment, e-business). **25 lessons, 544 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 20 books
-in all (19 student books and 1 teacher guide); the 16 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 22 books
+in all (20 student books and 2 teacher guides); the 18 below carry this course (the Business parts
 of each are what stock these lessons). The other 4 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, and Zambia's
 Principles of Accounts Teaching Module (a teacher guide) — are
 pure accounting books: every part of them fed Accounting, none
 fed Business, and they are named here so the read set is whole.
+
+- *Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-577-8 (PDF). **Grade 10 (SMK/MAK Kelas X). STUDENT book. Language: Indonesian (Bahasa Indonesia).** 328 PDF pages (printed pp. x + 1–318). **Verdict: COMPLETE** — read whole book to the last teaching page (Bab VIII ends printed p. 304). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.)
+  - Contents map for this split: Bab I (what a business is and its kinds), Bab II (the accounting profession and its jobs, professional ethics, work rules in financial services, business opportunities in accounting services) and Bab VIII (occupational safety, health and security — K3; the 5R/5S industrial work culture) fed **Business** (7 placements in this course, from this book); Bab III–VI fed **Accounting** (30 placements); Bab VII (basic banking concepts) fed **Commerce** (6 placements).
+
+- *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
+  - Contents map for this split: the guide's own profession framing, its financial-services work-rules summary, its entrepreneur profile for the accounting field and its own definition of K3 fed **Business** (4 placements in this course, from this guide — every one marked (teacher guide) in its provenance row, evidence only); its summarising-stage and spreadsheet-chapter material fed **Accounting** (2 placements, evidence only); its bank-bookkeeping summaries fed **Commerce** (2 placements, evidence only).
 
 - *Industry Skills and Entrepreneurship, Preparatory 7 (Grade 7), Term 1* — مهارات الصناعة وريادة الأعمال — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026. **Grade 7. STUDENT book. Language: Arabic.** 60 PDF pages (printed pp. 4–58). **Verdict: COMPLETE.** The Term 1 book has no standalone entrepreneurship unit — its body is industry-skills teaching and the entrepreneurship strand lives in embedded boxes/briefs inside the skills lessons.
   - Contents map for this split: the embedded entrepreneurship parts (printed pp. 9, 19, 31, 51–53) fed **Business** (8 placements). No part fed Commerce or Accounting. The industry-skills half (Unit 1 carpentry/fretwork, printed pp. 4–33; Unit 2 plumbing, printed pp. 34–53) is contents-mapped for **Technology & Design**, not stocked in this course; Unit 2 Lesson 1 (water awareness, printed pp. 35–37) is environmental/life-skills teaching, named-not-placed.
@@ -93,18 +99,22 @@ fed Business, and they are named here so the read set is whole.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 24 lessons,
-  stocked with 533 placements from **student books** of 12
-  countries (Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
-  taught in 12 countries. Every lesson's `lesson/sources.md` carries its
+- **Pupil-taught from the books:** all 25 lessons,
+  stocked with 540 placements from **student books** of 13
+  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
+  taught in 13 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
-- **Teacher-guide evidence only, counted nowhere:** none
-  carries this course. One teacher guide has been read for the
-  split — Zambia's *Principles of Accounts Teaching Module*
-  (read 2026-11-22) — and it fed Accounting only, as evidence
-  (acceptance 0). Teacher guides stand in the pending queue
-  below and, when they come, will be evidence only
-  (acceptance 0), as in every course.
+- **Teacher-guide evidence only, counted nowhere:**
+  Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
+  Keuangan Lembaga Kelas X* (teacher guide, read 2026-11-22) —
+  4 placements stocked in this course as evidence only,
+  acceptance 0; Indonesia is counted as a teaching country
+  only through its student book, and every lesson the guide
+  touches says so in its sources. (Zambia's *Principles of
+  Accounts Teaching Module*, the other teacher guide read for
+  the split, fed Accounting only.) Teacher guides stand in
+  the pending queues and, when they come, will be evidence
+  only (acceptance 0), as in every course.
 
 ## The pending queue — Business books not yet in the course
 

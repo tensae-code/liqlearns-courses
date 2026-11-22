@@ -35,9 +35,13 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 **The ledger.** Posting the Sales Day Book to the ledger (teacher guide): the module's two posting rules — the total value of each sales invoice is posted to the debit side of each customer's account in the Accounts Receivable Ledger, and the total of the Sales Day Book for the period is posted to the credit side of the Sales Account in the General Ledger; (Zambia's book.)
 
 **The ledger.** Posting sales returns to the ledger (teacher guide): the module's posting rules — debit the Sales Returns Account in the General Ledger with the total sales returns from the Sales Returns Journal, and credit the individual customers' accounts in the Accounts Receivable Ledger from the same journal; (Zambia's book.)
+**The ledger.** Posting the journal to the ledger: ledger forms, finding each account's balance, and how the posted ledger becomes the control over the journal (Indonesia's book.)
+
+**The ledger.** Posting special journals to the main ledger and the subsidiary ledgers: the main ledger holds the accounts that appear in the financial statements and controls the journal; subsidiary ledgers carry the detail per debtor and creditor, posted from the same special journals (Indonesia's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 
