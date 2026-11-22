@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Market and Money · **Lesson:** Marketing
 **Place in the curriculum:** Unit 3 — Market and Money (CURRICULUM.md).
 **The one thing this lesson teaches:** marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand.
-**This lesson's own level:** Unit 3 — Market and Money, lesson 12 of 20 in the course ladder; it stands on Small Business Management, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 3 — Market and Money, lesson 14 of 24 in the course ladder; it stands on Selling and Customer Care, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -12,14 +12,14 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **What marketing is** — what marketing is; marketing concept; business-functions.
 2. **Knowing the market — research first** — market research; market research.
-3. **The marketing mix** — marketing mix; the marketing mix in the book's four-part form.
-4. **Product and price** — product; price; product/price.
-5. **Place, selling and new ways of marketing** — place (distribution); the selling-and-marketing-the-product-made; the knowing-what-customers-want / where-the-product-is-sold; opening; preparation; comparison.
+3. **The marketing mix** — marketing mix; the marketing mix in the book's four-part form; consumer behaviour; packaging.
+4. **Product and price** — product; price; product/price; the marketing mix and product life cycle; pricing strategies.
+5. **Place, selling and new ways of marketing** — place (distribution); the selling-and-marketing-the-product-made; the knowing-what-customers-want / where-the-product-is-sold; opening; preparation; comparison; the role of marketing.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
-- Recommended first: Small Business Management. Recommended, never forced.
+- Recommended first: Selling and Customer Care. Recommended, never forced.
 - A learner may jump straight in here: the lesson stands alone, and names are explained where they first appear.
 
 ## What the learner can do when it ends

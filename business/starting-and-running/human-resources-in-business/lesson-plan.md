@@ -3,16 +3,16 @@
 **Course:** Business · **Title:** Starting and Running · **Lesson:** Human Resources in Business
 **Place in the curriculum:** Unit 2 — Starting and Running (CURRICULUM.md).
 **The one thing this lesson teaches:** human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers.
-**This lesson's own level:** Unit 2 — Starting and Running, lesson 9 of 20 in the course ladder; it stands on Business Management, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 2 — Starting and Running, lesson 9 of 24 in the course ladder; it stands on Business Management, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **What human resource management is — and its roles** — opening; roles; business-functions.
-2. **Managing people so the business grows** — application; managing-people; employability.
-3. **Pay — how wages and salaries are worked out** — pay.
+1. **What human resource management is — and its roles** — opening; roles; business-functions; dispute resolution and trade unions; staff relations.
+2. **Managing people so the business grows** — application; managing-people; employability; motivation and teamwork; training support.
+3. **Pay — how wages and salaries are worked out** — pay; industrial conflict.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -45,6 +45,6 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
 ## If the learner is stuck
 - Thinks HR is only hiring → hiring is one role; the lesson's list runs planning, recruiting, developing, keeping — and paying.
 - Go back to the one thing: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Business Communication.
+- This lesson's next door: the next lesson in path order — Careers in Business.
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -2,7 +2,8 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
-Business Studies books of Kenya, Malaysia, Nigeria and Samoa.
+Business Studies books of Dominica, Kenya, Malaysia, Nigeria
+and Samoa.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
 the books'.
@@ -32,19 +33,44 @@ organisations, partnerships, companies, manufacturing,
 incomplete records, control accounts) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 183 placements stocked.**
+**27 lessons, 192 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 12 student
-books in all; the 9 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 13 student
+books in all; the 10 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 3 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Samoa's Business Studies Year 11 Book 1 and Year 9
 Book 1 — carry no Accounting teaching as filed (their parts fed
 Business and Commerce, or were Economics/named-not-placed), and
 they are named here so the read set is whole.
+
+- *Principles of Business for CSEC Examinations, Second
+  Edition* — Riana Balliram; Peter Budd; Edith Emmanuel;
+  Marsha Guiness; James McCloskey; Rachael Raghoo Bitu —
+  Macmillan Education (a division of Springer Nature Limited),
+  London. ISBN 978-1-380-03422-9. First published 2016; second
+  edition 2019. **Grade 11 (CSEC). STUDENT book. Language:
+  English** (Caribbean examples throughout). 425 PDF pages
+  (printed pp. 1–~419). **Verdict: COMPLETE** — read whole
+  book to the last teaching page (Unit 10 ends printed p. 391).
+  Read in the Phase 2 pending-queue wave (2026-11-22) and
+  merged the same day.
+  - The ACCOUNTING parts of this book: the record-keeping and
+    bookkeeping teaching of Units 4 and 8 — why businesses
+    keep records, single-entry bookkeeping and the cash book,
+    ledger accounts, double entry, the income statement, the
+    statement of financial position and the accounting
+    equation, and cash flow — and Unit 10's computerised
+    accounting (QuickBooks) fed **Accounting** (9 placements
+    in this course, from this book). Contents map for this
+    split: Units 1–10's business parts fed **Business**
+    (99 placements); the trade parts fed **Commerce**
+    (23 placements). The economic-systems teaching (Unit 1.2)
+    and the economics parts of Units 9–10 are
+    Economics-wave material, mapped, not placed.
 
 - *Inventor Business Studies, Form Three Students' Book* —
   Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature
@@ -186,8 +212,8 @@ they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 27 lessons, stocked with
-  183 placements from **student books** of 4 countries (Kenya,
-  Malaysia, Nigeria, Samoa) — taught in 4 countries. Every
+  192 placements from **student books** of 5 countries (Dominica,
+  Kenya, Malaysia, Nigeria, Samoa) — taught in 5 countries. Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read

@@ -10,6 +10,14 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Why businesses need finance.** What profit is for: a reward that keeps entrepreneurs going, retained (ploughed-back) profit as a permanent internal source of finance, long-run survival, and the tax the government takes from it.
 
+**Financial regulation.** Why financial institutions are regulated: to protect individuals (their savings and fair interest), to protect businesses (qualified providers and honest, impartial advice) and to protect the economy (competition, choice and confidence in the system); consumer protection rules, supervision and inspection by the regulatory authorities
+
+**Indirect taxes.** Indirect taxes: taxes on goods and services that businesses collect and try to pass on to consumers in higher prices — customs duties/tariffs on imports; excise duties on specific goods such as alcohol, cigarettes and gasoline; purchase tax; stamp duties on property transfers and legal documents; and the consumption taxes — VAT (charged as a percentage of selling price, with necessities zero-rated or exempt; Barbados 17.5% with a registration threshold), Jamaica's general consumption tax (GCT) and special consumption tax (SCT)
+
+**Subsidies and grants.** Government assistance — research centres, subsidies and grants: research and information centres give businesses expertise, market research and shared facilities (the Compete Caribbean Knowledge Centre; CARDI for Caribbean agriculture); grants are non-repayable funds for start-ups, expansion, R&D or new technology, usually with eligibility criteria and matching funds (Trinidad and Tobago's SEED grants); subsidies are paid to producers to lower production costs and raise output, or to keep a socially worthwhile service running
+
+**Foreign direct investment.** Foreign direct investment: FDI is a long-lasting investment by a person or company from one country in a business in another — setting up a new business or subsidiary, a merger or joint venture, or acquiring shares (10% or more brings management involvement); inward FDI brings jobs, capital and raw-material links and reduces the need for external borrowing; contrasted with indirect/portfolio investment in stocks and bonds for a quick return; advantages of FDI (jobs, capital injection, growth, linkage industries, skills) against disadvantages (competition closing local businesses, tax breaks reducing revenue, repatriated profits, volatile portfolio flows, environmental damage)
+
 ## Sub lesson 2 — The sources of finance
 
 **Opening.** The sources of finance available to a business, in overview.
@@ -38,6 +46,26 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** Instalment credit arrangements compared: hire purchase (ownership passes only at the end), credit sale (ownership passes at once) and conditional sale.
 
+**Collateral and secured loans.** Collateral: assets (property, stocks, bonds, equipment, life-insurance surrender value) pledged to secure a loan; secured vs unsecured loans, why lenders prefer secured lending to small businesses and why secured loans carry lower interest
+
+**Monetary policy.** The bank rate and monetary policy: the rate the central bank charges commercial banks (bank rate/discount rate) passes through to the interest rates businesses and households pay, so raising it cuts borrowing, spending and inflation while lowering it stimulates investment and growth; central banks work to keep inflation low and stable and employment and output high
+
+**Financial regulators.** The other financial regulators: Financial Services Commissions license and supervise non-bank institutions (credit unions, pensions, loan and trust companies) under fit-and-proper tests; Supervisors of Insurance license insurers and handle public complaints, with power to fine or withdraw licences; the Caribbean Association of Insurance Regulators (CAIR); and international regulation against contagion — the Bank for International Settlements and the Basel Committee's rules on bank liquidity
+
+**Short-term finance.** Short-term sources of finance compared, each with advantages and disadvantages: overdraft (flexible, interest only when in the red, penalty charges beyond the agreed limit); loans from family (quick, cheap, but no formal contract); short-term secured loans (collateral lowers the interest but the owner's assets are at risk); short-term unsecured loans (no assets at risk, higher interest); retained profits (the business's own money at zero cost); trade credit (negotiated payment terms with suppliers); and promissory notes (a signed, legally binding promise to pay)
+
+**More sources of finance.** Further sources of finance compared: instalment credit (enjoy the item now, pay over time at high interest); indigenous credit (community groups who save and borrow together, open to people without credit histories but unregulated); private money lenders (lend to risky borrowers at high rates); advances from customers (payment before delivery, as with gift cards); factoring (a factoring company collects your invoice payments so you are paid at once, for a fee); and sale of assets (zero cost, but distress sales fetch fire-sale prices)
+
+**Long-term finance.** Long-term sources of finance compared: issuing new shares (no repayment, but control is diluted and only open to limited companies); stock market flotation/IPO (a private company goes public, but must disclose much more information); debentures (long-term loans at fixed interest that do not dilute control, priced by creditworthiness); government loans and grants (grants are not repayable, loans at preferential rates, but applications are slow and targeted); crowdfunding (small amounts from many people online); and venture capital (capital plus experience and guidance, at the risk of losing control)
+
+**Angel investors, hire purchase and leasing.** Long-term finance continued: angel investors (a one-off cash injection into a start-up that need not be repaid if the business fails, but may cost a share of the business); hire purchase (pay in instalments and own the equipment after the final payment, with repossession if payments are missed); and leasing (the equipment returns to the leasing company at the end, maintenance often included and payments tax-deductible, but the lessee owns nothing)
+
+**Purposes of taxation.** The purposes of taxation: taxes are compulsory payments that mainly finance public spending, but are also used to curb inflation by reducing total demand; to protect infant industries by taxing imports; to lower unemployment by encouraging people to buy local produce and build linkages between sectors; to redistribute income and wealth from higher earners to fund social services; and to discourage harmful products (high taxes on cigarettes and alcohol, the sugar tax in Barbados and Dominica, and green taxes on waste, emissions and energy)
+
+**Direct taxes.** Direct taxes: collected directly from the income or wealth of individuals and businesses, who bear the burden themselves — income tax (a tax-free personal allowance, progressive rates rising with income, collected by tax return or by PAYE payroll deduction); corporation tax on the profits of limited companies (with low or zero rates sometimes used to encourage new businesses); capital gains tax on profits from selling assets that have risen in value; and capital transfer tax when ownership of assets passes by sale, gift or death
+
+**Government assistance.** Government assistance for business — lending capital and technical assistance: governments lend at low cost to start-ups that banks judge too risky, where the business can show a public benefit such as innovation or jobs; technical assistance means advice, expertise, mentoring, training and help researching export markets (Barbados's Special Technical Assistance Programme, STAP); and business incubator programmes pair young businesses with development officers, mentors and coaching, including product development and intellectual property protection
+
 ## Sub lesson 5 — Long-term finance — the capital market as a source
 
 **Sources of long-term finance.** The history of Nigeria's capital market told through the stock exchange: first securities 1946, Lagos Stock Exchange 1960, renaming as NSE 1977, All Share Index 1984, Second-tier Market 1985, CSCS clearing 1997, automated trading 1999, plus the Abuja exchange and the OTC market.
@@ -51,6 +79,10 @@ List three things a new business must pay for before it earns anything. Beside e
 **Sources of finance.** The Securities and Exchange Commission as apex regulator: its investor-protection functions (registration, investigation, enforcement, approving issues, mergers and unit trusts) and its market-development work.
 
 **Sources of finance.** The people who work the market: issuing houses, underwriters, registrars, investment advisers, reporting accountants, solicitors, trustees, fund managers, receiving agents and banks, stockbrokers and dealer/market makers, and the CSCS clearing house.
+
+**The central bank.** The central bank: government-owned, not run for profit; its functions — issuing notes and coins, managing government payments and public borrowing, holding gold and foreign currency reserves, operating monetary policy, issuing banking licences and supervising commercial banks; the Eastern Caribbean Central Bank (ECCB) serves Dominica and seven other territories; and the controls it uses — minimum reserve requirements and the liquid assets ratio — that limit how much commercial banks can lend
+
+**Choosing finance.** Choosing the best source and method of finance: the factors to weigh — how long the money is needed, how much, what it costs, and whether ownership must be given up; internal vs external sources; and matching the finance to the use — long-term finance for premises and machinery, short-term finance for running costs such as wages
 
 ## Say it to your companion
 

@@ -24,11 +24,14 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Ledger forms and the chart of accounts.** Ledger accounts in both presentations — T form and three-column (columnar) form with running balance — classified by a Chart of Accounts with folio numbers (GL110 Bank, GL510 Capital…).
 
+**Ledger accounts.** Ledger accounts: larger businesses keep separate ledger accounts for the bank, for each type of equipment and other assets, for each expense (rent, electricity, insurance), for cash sales, for each credit customer (showing what they owe and repay) and for each creditor the business owes
+
 ## Sub lesson 2 — Recording and balancing accounts
 
 **Balancing part of the lesson.** Balancing an account: total both sides, put the difference on the smaller side as balance carried down so the totals agree, then bring the balance down on the opposite side for the new period — debit balance versus credit balance.
 
 **Subsidiary ledgers and the chart of accounts.** Subsidiary ledgers: individual debtor and creditor accounts are kept outside the general ledger in Accounts Receivable and Accounts Payable subsidiary ledgers, organised by a business's own Chart of Accounts.
+
 
 ## Say it to your companion
 

@@ -3,15 +3,15 @@
 **Course:** Commerce · **Title:** First Steps · **Lesson:** What Is Commerce
 **Place in the curriculum:** Unit — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising.
-**This lesson's own level:** Unit — First Steps, lesson 1 of 13 in the course ladder; it stands on nothing before it in this course (recommended, never forced).
+**This lesson's own level:** Unit — First Steps, lesson 1 of 14 in the course ladder; it stands on nothing before it in this course (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **Distribution — bridging the gap between producer and consumer**
-2. **The aids to trade**
+1. **Distribution — bridging the gap between producer and consumer** — origins of trade and exchange.
+2. **The aids to trade** — money in trade.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

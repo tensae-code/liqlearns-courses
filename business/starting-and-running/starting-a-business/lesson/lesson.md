@@ -10,17 +10,23 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Location.** Localisation (similar firms concentrated in one area: its causes, advantages such as a labour pool, support services and shared infrastructure, and disadvantages such as pollution, regional imbalance and congestion) versus delocalisation (spreading firms across the country, often government-encouraged: its advantages and disadvantages).
 
+**Business location.** Choosing a business location: the factors weighed — geographical setting and market pull, availability of raw materials/supplies, roads/ports and infrastructure, power and water, telecommunications, supply of suitable labour, access to health facilities, and government assistance (grants/tax incentives) vs planning restrictions
+
 ## Sub lesson 2 — Why people start — and what to weigh first
 
 **Push-factors.** The factors that push a person to start a business.
 
 **Factors.** The factors to consider before starting a business, each explained.
 
+**Reasons for starting a business.** Why people start businesses: to generate their own income / escape unemployment, self-fulfilment, using their skills and talents, increasing their income, and taking control of their working life
+
 ## Sub lesson 3 — The start-up investigation — and where help is
 
 **The start-up investigation.** The pre-production investigation checklist: the market (want and price), supplies/suppliers (reliability, backup suppliers, terms, quantities), distribution, finances (paying for materials, bank transfer and lending services, insurance in transit), the production process (factor mix, quality) and storage (perishability, cost, fashion risk); freight inwards and outwards costed carefully.
 
 **Starting a business; sources of help.** Why small businesses fail quickly without groundwork, and where a Samoan starter gets help: the Small Business Enterprise Centre (SBEC) and Women in Small Business advise and run workshops for prospective owners.
+
+**Steps to start a business.** The essential steps in establishing a business, in order: conceptualisation of the idea, research (market probe), identification of resources, preparing the business plan, acquisition of funds, and operation of the business
 
 ## Say it to your companion
 

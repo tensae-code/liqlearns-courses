@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** In your own words, what does this lesson say about traits?
 **Answer:** The entrepreneur's personality traits, self-strengths and the advantages of being one.
+
+**3.** Explain the the entrepreneur part of this lesson in your own words.
+**Answer:** The entrepreneur: functions performed (conceptualising, researching, planning, accessing finance, organising, operating, evaluating performance, risk bearing, making profit/managing losses), the characteristics of successful entrepreneurs (creative, innovative, flexible, goal-oriented, persistent, calculated risk-takers, motivated, organised)

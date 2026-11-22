@@ -15,3 +15,7 @@ b) How production harms the environment and community health: air pollution (aci
 c) Keeping a healthy business environment: avoiding or reducing each kind of pollution (clean energy, treating/recycling effluent, proper …
 d) The concept of digital entrepreneurship.
 **Answer: a) Why businesses fail and succeed: fraud, neglect, disasters and — the most common cause, about 80% in NZ — mismanagement; good businesses …** — That is what this lesson teaches in its why small businesses succeed or fail part.
+
+**3.** What does this lesson teach about the small businesses?
+a) Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, …  b) The essential elements of a valid contract taught in full: offer (certain, communicated, express or implied; …  c) Insurance vs assurance and life insurance (whole life, endowment); the business policies table — …
+**Answer: a) Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, …** — That is what this lesson teaches in its small businesses part (Dominica's book).

@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Banking Services for Trade
 **Place in the curriculum:** Unit — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises.
-**This lesson's own level:** Unit — Helpers of Trade, lesson 11 of 13 in the course ladder; it stands on Insurance in Commerce, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Helpers of Trade, lesson 12 of 14 in the course ladder; it stands on Insurance in Commerce, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,10 +11,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **The banking system and the Central Bank**
-2. **Commercial banks and their services**
-3. **The other finance institutions**
-4. **Ways of paying — instruments and transfers**
-5. **Bills of exchange, cheques and notes**
+2. **Commercial banks and their services** — bank services; bank services in detail; online banking and e-trade.
+3. **The other finance institutions** — financial institutions.
+4. **Ways of paying — instruments and transfers** — payment instruments.
+5. **Bills of exchange, cheques and notes** — cheques.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

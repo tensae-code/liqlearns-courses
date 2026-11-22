@@ -10,6 +10,8 @@ Think of the last thing you bought because something persuaded you. Was it a per
 
 **Personal selling and public relations.** Personal selling: know when it beats the other forms, and its strengths and its costs. Public relations: the methods and activities a business uses to be well thought of — from sponsorship to lobbying. One persuades a single customer face to face; the other persuades the whole public's opinion of the firm.
 
+**Sales promotion and public relations.** Sales promotions compared in a table with costs and benefits: free samples, coupons, premiums/gifts, contests and sweepstakes, loyalty points, BOGO/BOGOF/BOGOHO, point-of-sale displays, rebates, bundling and loss leaders; and public relations (sponsorship, press releases, scholarships) as free publicity that builds a positive image
+
 ## Sub lesson 2 — Sales promotion — the short push
 
 **Sales promotion, consumer and trade.** Sales promotion works in two directions. To consumers: samples, price packs, coupons, premiums, competitions and patronage rewards. To the trade itself: bonuses, free goods, cooperative advertising and training. The consumer forms pull goods off the shelf; the trade forms push them onto it.
@@ -19,6 +21,8 @@ Think of the last thing you bought because something persuaded you. Was it a per
 **Advertising — types, media, merits.** Advertising itself: informative, persuasive and competitive types; its roles for a business; the media available to carry it; and its merits and demerits for society, stated both ways. A good advertiser knows which type he is running and what it is for — telling, convincing, or answering a rival.
 
 **Advertising in Samoa.** Samoa's book brings advertising home: word of mouth, radio, newspaper, television, sponsorship and roadside signs. And the test of it: effective advertising targets the likely buyers, and is eye-catching, informative and memorable. A message aimed at everyone reaches no one; a message aimed at the likely buyer, that the eye catches and the mind keeps, does the work.
+
+**Advertising.** Advertising: paid communication through media, in its two forms — informative and persuasive — plus subliminal advertising and the psychosocial techniques marketers use
 
 ## Say it to your companion
 

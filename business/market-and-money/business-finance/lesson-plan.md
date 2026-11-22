@@ -3,18 +3,18 @@
 **Course:** Business · **Title:** Market and Money · **Lesson:** Business Finance
 **Place in the curriculum:** Unit 3 — Market and Money (CURRICULUM.md).
 **The one thing this lesson teaches:** every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need.
-**This lesson's own level:** Unit 3 — Market and Money, lesson 14 of 20 in the course ladder; it stands on Production and Operations, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 3 — Market and Money, lesson 16 of 24 in the course ladder; it stands on Production and Operations, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **Why a business needs finance — and what profit is for** — needs; why businesses need finance.
+1. **Why a business needs finance — and what profit is for** — needs; why businesses need finance; financial regulation; indirect taxes; subsidies and grants; foreign direct investment.
 2. **The sources of finance** — opening; types; business-functions.
 3. **Choosing a source — and obtaining it** — comparison; procedure; choosing.
-4. **Credit and other ways of getting the use of money** — sources of finance; sources of finance; sources of finance; sources of finance; sources of finance.
-5. **Long-term finance — the capital market as a source** — sources of long-term finance; sources of finance; sources of finance; sources of finance; sources of finance; sources of finance.
+4. **Credit and other ways of getting the use of money** — sources of finance; sources of finance; sources of finance; sources of finance; sources of finance; collateral and secured loans; monetary policy; financial regulators; short-term finance; more sources of finance; long-term finance; angel investors, hire purchase and leasing; purposes of taxation; direct taxes; government assistance.
+5. **Long-term finance — the capital market as a source** — sources of long-term finance; sources of finance; sources of finance; sources of finance; sources of finance; sources of finance; the central bank; choosing finance.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -15,3 +15,7 @@ b) A worked priced estimate (مقايسة) for supplying and fitting a 3-stage w
 c) Why a business needs financing at each stage.
 d) What stock exchanges and capital markets do for an economy: trading facilities, discipline and listing control, allocating savings …
 **Answer: b) A worked priced estimate (مقايسة) for supplying and fitting a 3-stage water filter: every item is listed with its unit, quantity and unit …** — That is what this lesson teaches in its the pricing-and-profit-margin part.
+
+**3.** What does this lesson teach about the price, demand and revenue calculations?
+a) How a price change affects total revenue, worked through with numbers: a 10% price cut on bananas raises …  b) The income statement: prepared at the end of each 12-month trading period to calculate and monitor profit or …  c) Regulation of business activity: government regulations affect every aspect of running a business — health …
+**Answer: a) How a price change affects total revenue, worked through with numbers: a 10% price cut on bananas raises …** — That is what this lesson teaches in its price, demand and revenue calculations part (Dominica's book).

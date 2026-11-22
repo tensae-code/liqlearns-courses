@@ -8,6 +8,10 @@ Follow one message through a business you know: a manager's instruction going do
 
 **Communication.** Communication inside the firm: written, oral, electronic and gesture media, and downward, upward and lateral flows between and within departments.
 
+## Communication in the organisation
+
+Internal and external communication: the communication process (sender, channel, receiver, feedback, noise), upward/downward/horizontal and formal/informal channels, verbal/written/visual methods and their means, the barriers to effective communication (language, culture, emotion, overload, perception, wrong channel) and strategies for communicating effectively
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

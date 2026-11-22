@@ -3,16 +3,16 @@
 **Course:** Business · **Title:** Starting and Running · **Lesson:** Starting a Business
 **Place in the curriculum:** Unit 2 — Starting and Running (CURRICULUM.md).
 **The one thing this lesson teaches:** starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it.
-**This lesson's own level:** Unit 2 — Starting and Running, lesson 6 of 20 in the course ladder; it stands on Clubs, Societies and Co-operatives, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 2 — Starting and Running, lesson 6 of 24 in the course ladder; it stands on Clubs, Societies and Co-operatives, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **Choosing where to locate** — location; location.
-2. **Why people start — and what to weigh first** — push-factors; factors.
-3. **The start-up investigation — and where help is** — the start-up investigation; starting a business; sources of help.
+1. **Choosing where to locate** — location; location; business location.
+2. **Why people start — and what to weigh first** — push-factors; factors; reasons for starting a business.
+3. **The start-up investigation — and where help is** — the start-up investigation; starting a business; sources of help; steps to start a business.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -24,6 +24,8 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 
 **Proposed capital-markets lesson.** Softer windows for small companies: why firms stay off the main exchange, Nigeria's Second-tier Securities Market (1985–2009) and its softer listing rules against the first tier, the London AIM as a case study, capital trade points and OTC markets, and the gains and risks of softer windows.
 
+**Investments.** Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; high-risk growth shares vs low-risk utility shares; capital can be lost); bonds and debentures (IOUs from governments and companies, secured vs unsecured, tradable on stock exchanges); mutual funds (pooled money spread across many shares and bonds to diversify risk); and taking advice from a financial adviser
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: on the capital market a company raises long-term money in the primary market — by offer for subscription, offer for sale, rights issue, private placement or introduction — and investors then trade those securities in the secondary market, through brokers, under the exchange's discipline. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed new lesson on capital markets and the stock exchange, proposed capital-markets lesson, proposed capital-markets lesson, proposed capital-markets lesson. Your companion asks one question back — answer it from the lesson.

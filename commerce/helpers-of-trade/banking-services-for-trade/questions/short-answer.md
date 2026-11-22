@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** How does a promissory note differ from a bill of exchange? (Sub lesson 5)
 **Answer:** A note is a promise to pay made by its maker; a bill is an order directing another party to pay.
+
+**3.** Explain the payment instruments part of this lesson in your own words. (Sub lesson 4)
+**Answer:** The other common instruments of exchange compared in one table: credit cards, debit (Linx) cards, bills of exchange, electronic transfers, internet banking, tele-banking, money orders, bank drafts, telegraphic/wire transfers (SWIFT) and mobile money/wallets

@@ -30,9 +30,12 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Statement of financial position in outline.** The classified Statement of Financial Position for a sole proprietor in vertical form: owner's equity as opening capital + net profit − drawings, working capital as current assets less current liabilities, and what a positive working capital says about paying short-term debts.
 
+**The accounting equation.** The statement of financial position (balance sheet): adds up total assets (cash, stocks, land, property, equipment), total liabilities (loans and all amounts owed to creditors and employees) and owner's equity (capital invested by owners/shareholders); assets are always equal to liabilities plus owner's equity — Assets = Liabilities + Owner's equity — and the equation shows what the business is worth to its owners once debts are settled (worked values)
+
 ## Sub lesson 2 — The equation at work — net worth, capital movements and kinds of capital
 
 **Transactions and the equation.** Every transaction changes the equation: worked step by step as the owner starts with cash, buys equipment, buys a jack on credit, buys parts and takes drawings, rebalancing after each step.
+
 
 ## Say it to your companion
 

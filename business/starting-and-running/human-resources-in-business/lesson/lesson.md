@@ -12,6 +12,10 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Business-functions.** The human resource function of a business.
 
+**Dispute resolution and trade unions.** Resolving disputes: grievance procedures, and the third-party routes — mediation (facilitates, does not decide), arbitration (both sides accept the arbiter's binding ruling in advance) and conciliation (peacemaker who drafts a non-binding settlement); trade unions, collective bargaining and what makes a union's bargaining position strong
+
+**Staff relations.** Building good management–staff relations: lead by example, two-way communication and open-door policies, good working conditions, rewarding effort, clear grievance procedures and encouraging teamwork
+
 ## Sub lesson 2 — Managing people so the business grows
 
 **Application.** Applying HRM so the business develops sustainably.
@@ -20,9 +24,15 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Employability.** How workers' employability skills connect to a business's success.
 
+**Motivation and teamwork.** Motivating employees: financial methods (overtime pay, piece rate, bonuses, commission, profit-sharing, allowances) and non-financial methods (training, promotion opportunities, awards/recognition, team-oriented culture); teamwork — how to build a team (task, skills mix, personalities) and its advantages/disadvantages
+
+**Training support.** Government-supported training and human resource development: recruitment and training are costly and businesses under-invest because trained workers may leave, so governments assist with training; the benefits — improved worker productivity and performance, closing the skills gap, consistent working to correct procedures, and increased job satisfaction
+
 ## Sub lesson 3 — Pay — how wages and salaries are worked out
 
 **Pay.** Payroll systems: how an organisation works out and pays wages and salaries.
+
+**Industrial conflict.** Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees (work to rule, go-slow, overtime ban, sick-out, sit-in, strike, picketing) and employers (lock-outs, temporary/scab labour, refusing to negotiate, scare tactics)
 
 ## Say it to your companion
 

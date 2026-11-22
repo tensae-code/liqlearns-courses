@@ -14,6 +14,8 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **The invoice, item by item.** Kenya's book works the invoice through item by item: reference and order numbers, the parties, the description, quantities, rates, trade discount deducted, and cash-discount terms written as 5/20 or N/30 — with E&OE at the foot: errors and omissions excepted, and only the seller may correct errors. The same document is the seller's sales invoice and the buyer's purchases invoice — one paper, two books.
 
+**Business documents.** The document chain of a business transaction in order: purchase requisition → pro forma invoice → purchase order → invoice on delivery → credit note (returns/overcharge) → debit note (undercharge) → statement of account → stock card; what each document is, when it is used and what it shows, with pro forma invoice vs invoice compared
+
 ## Sub lesson 2 — The documents a business keeps
 
 **The documents that must be kept.** Malaysia's book turns from single deals to the business's own keeping: the documents that must be kept — invoices, receipts, payment vouchers and the other records of trade. A document's life does not end when the deal ends; the record is kept, because the record is what the business can prove from, later.
@@ -23,6 +25,8 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 ## Sub lesson 3 — Foreign-trade documents
 
 **The foreign-trade document set.** Across borders the set grows, each document with its job: the import licence; the indent (an open or closed order to an overseas agent); the bill of lading (receipt, evidence of the contract, and document of title); the insurance policy or certificate (separate, or floating / open cover); the certificate of origin (for preferential duty in a trading bloc); the airway bill (not a document of title); the commercial invoice; the consular invoice; the proforma invoice; the freight note; the letter of hypothecation; the weight note; and the shipping advice note. Name each one by its job and the set stops being a pile and becomes a toolkit.
+
+**Transport documents.** Transport documents: why they matter (contract of carriage, proof of delivery and condition — 'clean' vs 'dirty', evidence of ownership), the consignment note for inland movement, and the international documents — import licence, bill of lading (document of title, receipt, and terms of carriage) and airway bill (evidence of the air contract, but not a document of title)
 
 ## Say it to your companion
 

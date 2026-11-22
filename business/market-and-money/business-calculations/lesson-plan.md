@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Market and Money · **Lesson:** Business Calculations
 **Place in the curriculum:** Unit 3 — Market and Money (CURRICULUM.md).
 **The one thing this lesson teaches:** a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays.
-**This lesson's own level:** Unit 3 — Market and Money, lesson 16 of 20 in the course ladder; it stands on Capital Markets and the Stock Exchange, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 3 — Market and Money, lesson 18 of 24 in the course ladder; it stands on Capital Markets and the Stock Exchange, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -39,6 +39,6 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
 ## If the learner is stuck
 - Jumps straight to the final price → build it in steps and write each step; a price with no steps cannot be checked.
 - Go back to the one thing: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Business Law and Regulation.
+- This lesson's next door: the next lesson in path order — Personal Finance and Budgeting.
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

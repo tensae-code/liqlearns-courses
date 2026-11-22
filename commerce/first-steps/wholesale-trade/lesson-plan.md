@@ -3,14 +3,14 @@
 **Course:** Commerce · **Title:** First Steps · **Lesson:** Wholesale Trade
 **Place in the curriculum:** Unit — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** the wholesaler stands in the middle of the chain of distribution — buying in bulk from producers and selling on to retailers — and every middleman in the chain does real work and adds a real charge.
-**This lesson's own level:** Unit — First Steps, lesson 3 of 13 in the course ladder; it stands on Retail Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — First Steps, lesson 3 of 14 in the course ladder; it stands on Retail Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **Channels of distribution**
+1. **Channels of distribution** — channels of distribution.
 2. **What the middlemen do**
 3. **Why wholesalers need credit**
 

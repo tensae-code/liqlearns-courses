@@ -26,6 +26,10 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 **Specialisations and accounting careers.** Areas of specialisation taught through Samoan job advertisements: management accounting, financial accounting, taxation accounting, auditing, and the unqualified accounts clerk/assistant who records daily transactions.
 
+**Record keeping.** Why businesses keep records: record keeping defined, and its purposes worked through — tracking sales/purchases and credit, monitoring stock, customer and supplier relationships, monitoring performance, informing decisions, meeting legal and audit requirements, and reducing theft and fraud
+
+**Purpose of financial records.** Why a business keeps financial records: so owners and stakeholders can monitor what it earns, what it spends, what it owes and is owed, and whether it makes a profit or a loss; without records it cannot prepare statutory accounts or pay the right tax; bookkeeping records every transaction — date, amount, and who owes money to whom
+
 ## Sub lesson 2 — Who uses accounting information, and the concepts behind it
 
 **Opening part.** What financial statements are.
@@ -51,6 +55,8 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 **Accounting concepts and principles.** The six accounting concepts restated for reporting: entity, monetary measurement, historical cost (with the farm-born livestock exception), going concern, accounting period and accrual.
 
 **Accounting policies statement.** The Statement of Accounting Policies: the document stating the concepts a business actually used — entity, measurement at historical cost in its currency, accrual matching, going concern, and the depreciation policy with a rate per asset.
+
+
 
 ## Say it to your companion
 

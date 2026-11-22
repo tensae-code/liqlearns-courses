@@ -18,9 +18,12 @@ Imagine a fire takes a trader's whole stock in one night. Alone, he is ruined. N
 
 **Funds, houses, cars — and the broker.** More of the family: superannuation through Samoa's National Provident Fund; medical insurance; Accident Compensation, funded by employer and government; property cover — houseowners against householders policies; and motor vehicle insurance with an excess, the first part of a loss the customer funds himself. And the middle person of this trade: insurance brokers, who arrange cover for their clients.
 
+**Insurance of goods and trade debts.** The trade-facing covers inside the book's insurance table: trade credit insurance (against debtors not paying), goods in transit insurance, and marine insurance in its parts (hull, cargo, freight, shipowners' liability)
+
 ## Sub lesson 3 — Insurance companies serving trade
 
 **Insurance companies as servants of trade.** Kenya's book shows insurance companies as financial institutions serving trade itself: savings through endowment and education policies; loans to policy holders at low interest; guarantees for policy holders borrowing elsewhere; advice on safeguarding property; finance to meet losses from insured risks; and underwriting new share issues. The insurer does more than pay claims — it finances, guarantees and advises the trading world around it.
+
 
 ## Say it to your companion
 

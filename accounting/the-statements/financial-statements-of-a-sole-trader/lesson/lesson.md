@@ -40,6 +40,8 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 
 **The final statements and their users.** The statements a sole proprietor must complete each year and who uses them (owner, bank for lending/overdraft, Inland Revenue for tax, a prospective buyer): Statement of Accounting Policies, Statement of Financial Performance, Statement of Financial Position and Statement of Changes in Cash Position.
 
+**The income statement.** The income statement: prepared at the end of each 12-month trading period to calculate and monitor profit or loss (profit = total revenue − total costs), compared with previous periods to judge the business's health; it shows how well costs are controlled, and profitable statements attract investors and lenders; why holding a lot of cash does not by itself mean a profit
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi. Your companion asks one question back — answer it from the lesson.

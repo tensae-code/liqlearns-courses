@@ -14,6 +14,14 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Specialisation and division of labour.** Specialisation taught through a Samoan fine-mat weaver: doing one task over and over builds skill and speed, so specialisation improves efficiency and quality and produces more; people can also specialise in one part of a production process, each contributing a skill to it.
 
+**Factors of production.** Production as combining inputs to add value, and the four factors of production: land (natural resources, renewable vs non-renewable, and the Caribbean industries built on them), labour (classified by skill level — managerial/professional, skilled, semi-skilled, unskilled), capital (capital goods such as machines, tools, vehicles, premises) and enterprise; factor rewards (wages, rent, profit) as the costs of production
+
+**Capital in production.** The role of capital in production: capital-intensive vs labour-intensive methods, the advantages of automation (mass production, continuous running, uniform quality, lower labour costs) and its limits; financial capital distinguished from capital as a factor — fixed capital, working capital (and why running out of it stops a business) and venture capital
+
+**Types and levels of production.** Types and levels of production: primary (extractive), secondary (manufacturing and construction) and tertiary (services) production as a chain; and the levels — subsistence, domestic, surplus and export production, with exports/imports and foreign exchange explained
+
+**Supply chains and logistics.** Logistics and the supply chain: a supply chain is all the organisations and steps that produce a product and deliver it to the final consumer; logistics organises the movement of goods along it — forward logistics (producer to end user) and reverse logistics (returns, recalls, repairs, recycling, disposal); the activities of supply chain operations from transforming natural resources to delivering finished goods, and the distribution process
+
 ## Sub lesson 2 — The size of a firm — scale, economies and diseconomies
 
 **Scale.** Telling the size of a firm: by number of employees, volume of output, floor area of premises, capital invested in assets, production methods/technology, size of market served and sales volume — and the weakness of each measure.
@@ -21,6 +29,14 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **Scale.** Economies of scale as a firm grows: internal economies (marketing, financial, risk-bearing, managerial, technical, research and welfare) and external economies from the growth of the whole industry.
 
 **Scale.** Diseconomies of scale: internal (managerial diseconomies as control and coordination weaken, rising overhead costs) and external (scramble for raw materials, land, labour and markets).
+
+**Productivity.** Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity and average revenue productivity worked with numbers, why productivity matters (lower unit costs, competitiveness, profit, wages) and the ways to raise it — skilled labour and human-resource development, motivating employees, better organisation/management, lean production processes, better land use and better capital equipment
+
+**Productivity challenges in the Caribbean.** The Caribbean's own productivity problem taught as a case: small economies and markets, lack of skills, poor access to modern technology, strong trade unions, poorly targeted government policies and weak infrastructure — with the policy mix proposed to reverse the decline
+
+**Linkages and the effects of growth.** Linkage industries and supply chains: forward linkages (one industry's output is another's input) and backward linkages (one industry creates demand for another's products), their benefits and challenges, Caribbean linkage opportunities (agriculture–tourism, ecotourism, food tourism), and the effects of growth on a business (structure, finance, labour, technology, exporting)
+
+**Distribution problems.** Problems in distribution and how to mitigate them: delayed shipment, spoilage, industrial unrest, misdirection of goods, inadequate warehousing, poor security and ineffective communication — each problem matched with its mitigation measures (insurance, buffer stocks, refrigerated containers, tracking technology, reputable handlers, proper labelling and documentation)
 
 ## Sub lesson 3 — Managing physical and technology resources
 
@@ -37,6 +53,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **Comparison.** Comparing the effects of good and poor physical and technology resource management on the business.
 
 **Closing.** Synthesis: the link between physical/technology resource management and a business's productivity and quality.
+
+**Supply chain management and competitiveness.** Managing global supply chains: the advantages (quality of life, wealth creation, new employment) and challenges (globalisation risks, counterfeiting, changing market conditions), and how good logistics creates competitive and comparative cost advantage — including outsourcing transport to second/third-party logistics providers instead of running your own fleet
 
 ## Say it to your companion
 

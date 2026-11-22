@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Give two reasons a wholesaler needs credit. (Sub lesson 3)
 **Answer:** Any two of: buying facilities and branches, financing producers, selling to retailers on credit, bulk purchasing, holding stock for an expected price rise.
+
+**3.** Explain the channels of distribution part of this lesson in your own words. (Sub lesson 1)
+**Answer:** Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions and benefits of wholesalers (bulk buying, breaking bulk, storage, promotion, credit to retailers, transport, market feedback) and of retailers, and the four alternative channels (direct, via retailer only, via wholesaler only, via wholesaler and retailer)

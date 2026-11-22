@@ -8,6 +8,10 @@ A bookkeeper posts a month of sales by hand: a day of writing. A computer does i
 
 Manual vs computer processing: hardware (CPU, input, storage, output) and software (systems and application), electronic data processing coding source documents by the chart of accounts, and accounting packages producing ledgers, trial balance, GST returns, reconciliations and statements.
 
+## Computerised accounting software
+
+QuickBooks as a specialist accounting application: it automates bookkeeping (entering transactions and calculations), sales tax on invoices, bill tracking and online bill payment, financial reports (cash flows, profits, balance sheets, money owed), invoicing and invoice tracking, estimates and quotes, and receipt scanning from a phone; desktop vs cloud access; advantages (single data entry, speed, fewer errors, less labour, integration with online banking) against disadvantages (cost, set-up and training, technical failures, dependence on accurate input)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it). Your companion asks one question back — answer it from the lesson.

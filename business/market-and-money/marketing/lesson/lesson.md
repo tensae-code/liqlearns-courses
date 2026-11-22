@@ -18,11 +18,19 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Market research.** Market research as a feature of good management: before producing, establish that buyers exist, that the price still allows acceptable profit, that the market will last, how competition will be handled, that materials supply can be maintained, and that the location suits customers, delivery and visibility.
 
+**Market research.** Market research as the first marketing activity: systematically collecting and analysing information on consumer preferences and market segmentation (dividing the market into groups by age, gender, income etc. to find the target market), consumer behaviour and spending patterns, and competition
+
+**Branding.** Branding: what a brand is, what good branding does (legal protection, brand awareness, segmentation, brand image, brand loyalty), how a brand is created from research into the target audience, and social media as a brand-awareness tool
+
 ## Sub lesson 3 — The marketing mix
 
 **Marketing mix.** The marketing mix as a combination of product, price, place and promotion offered at a point in time, and market segmentation: dividing the market and matching a mix to each segment, with its criteria.
 
 **The marketing mix in the book's four-part form.** Marketing as directing the flow of goods from producer to consumer through product, price, advertising and distribution; non-price factors (customer service, packaging, after-sales service, warranty) can matter more than undercutting competitors.
+
+**Consumer behaviour.** Consumer behaviour: price factors (own price, prices of substitutes — close/perfect vs imperfect substitutes) and non-price factors (product quality in its four dimensions — features, durability, conformance, serviceability — taste, tradition/culture, income, spending patterns including demographics, seasonality and consumer confidence, and brand loyalty)
+
+**Packaging.** Packaging and presentation: what good packaging does (brand recognition, easy distribution, customer information, protection of product and of the end user), the packaging materials compared (plastics, metal, Tetra Pak, cardboard, glass), and labelling regulation — the details the law requires on a label
 
 ## Sub lesson 4 — Product and price
 
@@ -31,6 +39,10 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Price.** The price side of the mix: pricing objectives and the factors that move price; penetration and skimming on entry; full-cost, target-return and marginal-cost pricing, loss leaders, price discrimination and resale price maintenance.
 
 **Product/price.** The product life cycle (introduction, growth, maturity, saturation, decline) and how costs, sales, profit and price behave at each stage.
+
+**The marketing mix and product life cycle.** The marketing mix: product, price, place and promotion (the 4Ps, extended to 7Ps — people, processes, physical evidence — for services), each element supporting the others; and the product life cycle (introduction, growth, maturity, decline) and how marketing responds at each stage
+
+**Pricing strategies.** Pricing: the factors in a pricing decision (cost, demand, competition, substitutes, life-cycle stage) and the strategies set out one by one — cost-plus, penetration, price skimming, psychological pricing, loss leader, competition-based, going rate and price discrimination
 
 ## Sub lesson 5 — Place, selling and new ways of marketing
 
@@ -45,6 +57,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Preparation.** Preparing to carry out marketing and sales activities for products and services.
 
 **Comparison.** How effective conventional marketing is compared with digital marketing.
+
+**The role of marketing.** What marketing is: a market (all buyers and sellers of a product, wherever they are) vs marketing (identifying, creating, communicating and delivering value so needs are satisfied at a profit); the objectives of marketing and social-media / integrated marketing as new trends
 
 ## Say it to your companion
 

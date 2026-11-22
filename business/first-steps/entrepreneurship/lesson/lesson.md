@@ -20,6 +20,18 @@ Picture one person in your area who started something of their own — a stall, 
 
 **The entrepreneur and what entrepreneurship is.** Entrepreneurship defined as the organisation of land, labour and capital in order to make goods or services for sale at a profit, and the entrepreneur pictured as someone in business who buys land, builds a factory and hires workers to make goods or provide services.
 
+## Entrepreneurship in the Caribbean
+
+Entrepreneurship in the Caribbean: defined as identifying opportunities, allocating resources and creating value through business ownership; unemployment and fear of redundancy as drivers, government support and the EPIC regional business-incubator programme, and why Caribbean start-ups fail (costs, lack of market information, technology, capital, training, quality awareness)
+
+## The entrepreneur
+
+The entrepreneur: functions performed (conceptualising, researching, planning, accessing finance, organising, operating, evaluating performance, risk bearing, making profit/managing losses), the characteristics of successful entrepreneurs (creative, innovative, flexible, goal-oriented, persistent, calculated risk-takers, motivated, organised)
+
+## Entrepreneurs and economic development
+
+The entrepreneur as the central decision-maker through every start-up step, and how entrepreneurs support economic development: collaborating, providing goods/services that satisfy citizens, creating jobs, and contributing to nation building (incomes, less poverty, training, taxes funding infrastructure, foreign earnings, innovation)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

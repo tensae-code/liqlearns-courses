@@ -10,6 +10,8 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 
 **Consumerism, rights and redress.** The answer begins with consumerism: the eight internationally accepted consumer rights, and the matching consumer responsibilities that stand beside them — rights are held by people who also carry duties. And when a right is broken, the book gives the five steps for seeking redress in Nigeria. Know your rights, carry your responsibilities, and know the steps before you need them.
 
+**Consumer protection.** Why consumers need protection (copycat products, false advertising, collusion, unfair treatment, uninformed consumers) and how they are protected: laws, consumer organisations and government agencies; the rights of consumers (education, safety, information, choice, to be heard, redress); the Bureau of Standards and the Ombudsman, with the Caribbean acts named
+
 ## Sub lesson 2 — The laws and the measures behind them
 
 **Nigeria's protective laws.** The laws in detail: the Hire Purchase Act 1965; the Sale of Goods Act's implied terms; the Trade Descriptions Acts; the Standards Organisation Act; the Weights and Measures Act; and the food and drugs legislation. Each law answers one of the harms of the first sub lesson — false description, short weight, unsafe food and drugs, unfair hire purchase.
@@ -21,6 +23,7 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 **The government protection bodies.** The bodies, and what each does: the Standards Organisation of Nigeria (SON); NAFDAC, for food and drugs; the Consumer Protection Council (CPC); and the Federal Environmental Protection Agency (FEPA). Four doors to knock on, each with its own harm to answer — learn which door fits which complaint.
 
 **Protection without government.** The last layer needs no government at all: consumer associations, Nigerian and international; producer and professional associations; and crafts unions policing their own members. Trade protects its own good name when its associations refuse to shelter the cheat — protection is also a habit of honest traders.
+
 
 ## Say it to your companion
 

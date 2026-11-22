@@ -3,14 +3,14 @@
 **Course:** Commerce · **Title:** Institutions and the Consumer · **Lesson:** Consumer Protection in Trade
 **Place in the curriculum:** Unit — Institutions and the Consumer (CURRICULUM.md).
 **The one thing this lesson teaches:** the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them.
-**This lesson's own level:** Unit — Institutions and the Consumer, lesson 13 of 13 in the course ladder; it stands on Trade Organisations and Institutions, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Institutions and the Consumer, lesson 14 of 14 in the course ladder; it stands on Trade Organisations and Institutions, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **Why consumers need protection — and their rights**
+1. **Why consumers need protection — and their rights** — consumer protection.
 2. **The laws and the measures behind them**
 3. **The protection bodies — government and voluntary**
 

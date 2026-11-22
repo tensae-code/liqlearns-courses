@@ -20,6 +20,10 @@ Price one loaf of bread in your head, in steps: what the bread cost to produce, 
 
 **The build-up of a selling price.** What a shop price is made of: the price paid for bread consists of the cost of producing the bread, the cost of marketing the bread and the profit taken by the shopkeeper.
 
+## Price, demand and revenue calculations
+
+How a price change affects total revenue, worked through with numbers: a 10% price cut on bananas raises weekly revenue ($400 → $432) because demand rises 20%, while the same cut on sea salt lowers revenue ($300 → $283.50) because demand rises only 5%
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price. Your companion asks one question back — answer it from the lesson.

@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** In your own words, what does this lesson say about the knowing-what-customers-want / where-the-product-is-sold? (Sub lesson 5)
 **Answer:** The same project brief ties the feasibility study to the market: the fretwork models must be useful items in present-day demand (المرغوبة والمطلوبة), and the finished products can be marketed inside the school or outside it.
+
+**3.** Explain the market research part of this lesson in your own words. (Sub lesson 2)
+**Answer:** Market research as the first marketing activity: systematically collecting and analysing information on consumer preferences and market segmentation (dividing the market into groups by age, gender, income etc. to find the target market), consumer behaviour and spending patterns, and competition

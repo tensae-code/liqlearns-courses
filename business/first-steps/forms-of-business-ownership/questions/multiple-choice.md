@@ -15,3 +15,7 @@ b) Introduction to the types of business ownership found in Malaysia.
 c) Ending a contract (agreement, performance, breach, frustration, lapse of time) and the remedies for breach: damages, refusal of further …
 d) Entrepreneurial ethics connected to digital-business law.
 **Answer: b) Introduction to the types of business ownership found in Malaysia.** — That is what this lesson teaches in its opening part.
+
+**3.** What does this lesson teach about the public and private sectors? (Sub lesson 4)
+a) The two sectors of a mixed economy: the public sector (government departments, public corporations, …  b) Computer aided design and manufacturing: CAD uses computer systems to create and modify 2D and 3D designs …  c) Regional and global economic institutions: CARICOM (growth of trade, competitiveness, sustainable …
+**Answer: a) The two sectors of a mixed economy: the public sector (government departments, public corporations, …** — That is what this lesson teaches in its public and private sectors part (Dominica's book).

@@ -2,7 +2,8 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Kenya, Malaysia, Nigeria and Samoa. The
+and Commerce books of Dominica, Kenya, Malaysia, Nigeria and
+Samoa. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
 books'.
@@ -23,15 +24,16 @@ lesson's `lesson/sources.md`, as provenance.
 The course as built has **four units**: First Steps (what
 commerce is, retail, wholesale, buying and selling, credit),
 Trade Across Distance (transport, foreign trade), Helpers of
-Trade (documents, advertising, insurance, banking) and
-Institutions and the Consumer (trade organisations, consumer
-protection). **13 lessons, 76 placements stocked.**
+Trade (documents, warehousing, advertising, insurance,
+banking) and Institutions and the Consumer (trade
+organisations, consumer protection). **14 lessons,
+99 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 12 student
-books in all; the 6 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 13 student
+books in all; the 7 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 6 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Malaysia's Prinsip Perakaunan Tingkatan 5 and
@@ -40,6 +42,9 @@ Year 12, Business Studies Year 11 Book 2 and Business Studies
 Year 9 Book 2 — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
+
+- *Principles of Business for CSEC Examinations, Second Edition* — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; second edition 2019. **Grade 11 (CSEC). STUDENT book. Language: English** (Caribbean examples throughout). 425 PDF pages (printed pp. 1–~419). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 10 ends printed p. 391). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - Contents map for this split: the trade parts of Units 1, 6, 7, 8 and 10 — money and payment instruments, advertising and sales promotion, retailing and credit, consumer protection, warehousing, wholesale channels, transport, commercial and transport documents, financial institutions and bank services, trade insurance, and international trade with its institutions — fed **Commerce** (23 placements in this course, from this book — including the first placement for Warehousing, built from this book); Units 1–10's business parts fed **Business** (99 placements); the bookkeeping parts of Units 4 and 8 fed **Accounting** (9 placements). The economic-systems teaching (Unit 1.2) and the economics parts of Units 9–10 are Economics-wave material, mapped, not placed.
 
 - *Inventor Business Studies, Form Three Students' Book* — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement on the pages in hand. **Form Three (grade-11 equivalent). STUDENT book. Language: English.** 181 PDF pages (main text printed pp. 1–164). **Verdict: COMPLETE.**
   - Contents map for this split: Ch. 4 (Chain of Distribution) fed **Commerce** (6 placements in this course, from this book); Ch. 2 fed **Business**; Chs. 7–10 fed **Accounting**. The four Economics chapters (Ch. 1 Demand and Supply; Ch. 3 Product Market; Ch. 5 National Income; Ch. 6 Population and Employment) are named, not placed. Scan note: duplicated pages — citations use printed folios.
@@ -61,10 +66,10 @@ set is whole.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 13 lessons,
-  stocked with 76 placements from **student books** of 4
-  countries (Kenya, Malaysia, Nigeria, Samoa) — taught in
-  4 countries. Every lesson's `lesson/sources.md` carries its
+- **Pupil-taught from the books:** all 14 lessons,
+  stocked with 99 placements from **student books** of 5
+  countries (Dominica, Kenya, Malaysia, Nigeria, Samoa) —
+  taught in 5 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher
@@ -123,9 +128,13 @@ hold lifts and they are read.
   bodies as part of trade) lives here, in Commerce's
   `consumer-protection-in-trade`, stocked from Nigeria Commerce
   SS3. The Economics titles are not touched by this build.
-- **Three lessons held, not built:** Warehousing, Communication
-  in Trade and Arbitration and Trade Disputes carry no placement
-  from any read book; they are named in CURRICULUM.md as
-  expected-from-pending and will be built when the pending
-  books that teach them are read. No empty lesson stands in
-  this course.
+- **Lessons held, and one built:** Warehousing carried no
+  placement from any Phase 1 read book and stood as
+  expected-from-pending; it was built on 2026-11-22 from
+  Dominica's *Principles of Business for CSEC Examinations*
+  (Second Edition, Macmillan 2019), the first read book to
+  place it, in the Phase 2 pending-queue merge. Communication
+  in Trade and Arbitration and Trade Disputes remain held,
+  named in CURRICULUM.md as expected-from-pending, to be built
+  when the pending books that teach them are read. No empty
+  lesson stands in this course.

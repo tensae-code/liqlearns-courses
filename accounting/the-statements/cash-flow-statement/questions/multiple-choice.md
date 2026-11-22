@@ -15,3 +15,7 @@ b) clubs and societies as non-profit organisations: their features and sources o
 c) The Statement of Change in Cash Position (cash flow statement): it shows cash receipts and cash payments only …
 d) preparing a cash flow statement (Penyata Aliran Tunai) for the planned business
 **Answer: c) The Statement of Change in Cash Position (cash flow statement): it shows cash receipts and cash payments only …** — That is what this lesson teaches in its purpose and preparation of the cash statement part.
+
+**3.** What does this lesson teach about the cash flow?
+a) Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each …  b) Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees …  c) The essential steps in establishing a business, in order: conceptualisation of the idea, research (market …
+**Answer: a) Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each …** — That is what this lesson teaches in its cash flow part (Dominica's book).

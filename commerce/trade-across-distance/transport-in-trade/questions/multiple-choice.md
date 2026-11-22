@@ -9,3 +9,7 @@ a) A shortage can force expensive air-freight  b) Ships refuse small loads  c) R
 **2.** Through whom may goods be distributed, besides selling direct?
 a) Only government offices  b) Only co-operatives  c) Retailers and wholesalers as middle people
 **Answer: c) Retailers and wholesalers as middle people** — Distribution sells direct, or through retailers and wholesalers.
+
+**3.** What does this lesson teach about the modes of transport?
+a) Transport in trade: its roles (physical supply, specialisation, mobility of labour and capital, sales, …  b) Pricing: the factors in a pricing decision (cost, demand, competition, substitutes, life-cycle stage) and the …  c) Personal/direct selling: the qualities of successful salespeople (empathy, focus, responsibility, …
+**Answer: a) Transport in trade: its roles (physical supply, specialisation, mobility of labour and capital, sales, …** — That is what this lesson teaches in its modes of transport part (Dominica's book).

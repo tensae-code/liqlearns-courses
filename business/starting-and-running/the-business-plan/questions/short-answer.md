@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** In your own words, what does this lesson say about opening? (Sub lesson 1)
 **Answer:** What a business plan (Rancangan Perniagaan) is.
+
+**3.** Explain the feasibility study and market research part of this lesson in your own words. (Sub lesson 3)
+**Answer:** The feasibility study before starting: market research from primary and secondary sources, qualitative vs quantitative research, and how the study's findings (viability, costs, sources of finance) feed into the business plan; planning over short, medium and long-term goals

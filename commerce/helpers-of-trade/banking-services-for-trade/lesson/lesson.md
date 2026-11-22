@@ -20,6 +20,12 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Trends in banking — Kenya's own way.** Kenya's own chapter of the story: M-banking and E-banking — account access anywhere by phone: airtime top-up, salary alerts, mini-statements, bill payment, transfers between bank and phone. And mobile money from the phone companies themselves — Safaricom's M-Pesa and Zain's Zap — with agent networks for cash-in and cash-out. The bank branch shrank into the phone in the trader's pocket.
 
+**Bank services.** Commercial bank services to businesses and individuals: current, savings and deposit accounts; loans and how interest is charged (worked example: $10,000 over 5 years at 7%); secured loans against collateral; overdrafts and credit cards; payment and cheque-clearing services; and investment banking — arranging share issues and IPOs and advising on mergers
+
+**Bank services in detail.** More bank services in detail: safety deposit boxes and night safe deposits; cheque services and clearing (why a paid-in cheque is not ready funds for several days, and what a bounced cheque costs both parties); remittance services for transferring money overseas; and trustee work, where the bank manages a trust for a beneficiary
+
+**Online banking and e-trade.** Online banking and e-trading: online accounts let customers check balances, pay bills, transfer money and apply for loans and other products; e-trading is the paperless buying and selling of shares, currencies and even gold or oil prices online without a broker — cheaper, faster and with more control, but with the risk of investing too much too fast
+
 ## Sub lesson 3 — The other finance institutions
 
 **Development and housing finance.** Beyond the commercial banks stand institutions built for a purpose. Development finance institutions add more than lending: training through seminars and workshops, advice on viable businesses, sources of finance and record keeping, and guaranteeing borrowers. Housing finance companies — HFCK, the East African Building Society, the National Housing Corporation — provide mortgage finance. Each institution exists because one kind of need deserved its own lender.
@@ -29,6 +35,8 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 **Micro-finance and agricultural finance.** Micro-finance companies — Kenya Women Finance Trust, Faulu Kenya — finance small and medium businesses and organised groups whose members guarantee one another, adding advice, encouragement of saving and supervision of borrowers. And the agricultural finance houses — the Agricultural Finance Corporation and the Agricultural Development Corporation — serve farmers. Small borrowers and farmers, whom the big banks pass by, have institutions of their own.
 
 **Banks against non-bank institutions.** Compare the two families point by point: the account types offered; the term and sector of finance; foreign exchange; clearing-house membership; safe custody; Central Bank control; and overdrafts. The comparison is the lesson: same money world, different powers, different rules.
+
+**Financial institutions.** Financial institutions and what they do for business: the financial services industry channels savings into loans that give an economy liquidity; the institutions compared — the central bank, commercial banks, and non-bank institutions (credit unions, building societies, insurance companies) — and why failures of institutions such as CLICO and Lehman Brothers show the sector must be watched
 
 ## Sub lesson 4 — Ways of paying — instruments and transfers
 
@@ -44,6 +52,8 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Transfer companies and electronic money.** Money also moves outside banks: money transfer service organisations — Western Union and MoneyGram, step by step, with their fraud problem named honestly; online transfers through non-banks such as PayPal; and electronic money and electronic funds transfer as the ground under all of it. Fast and world-wide — and to be used with open eyes.
 
+**Payment instruments.** The other common instruments of exchange compared in one table: credit cards, debit (Linx) cards, bills of exchange, electronic transfers, internet banking, tele-banking, money orders, bank drafts, telegraphic/wire transfers (SWIFT) and mobile money/wallets
+
 ## Sub lesson 5 — Bills of exchange, cheques and notes
 
 **Negotiable instruments and documents of title.** What makes an instrument negotiable? A holder of a negotiable instrument takes a good title even from a thief — the paper carries the right with it. Bills of lading, by contrast, are only quasi-negotiable. This distinction is the hinge of the whole sub lesson: some paper merely evidences a right; negotiable paper is the right, walking from hand to hand.
@@ -53,6 +63,8 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 **Cheques — a special bill of exchange.** The cheque is a special bill of exchange: open cheques and crossed cheques, and the kinds of crossing — general, special, not negotiable, account payee. Then the practice: paying into an account; stopped and dishonoured cheques; and clearing, where the banks settle among themselves. The crossing written across the cheque is an instruction about how safely it may travel.
 
 **Promissory notes and the rest.** Last, the promissory note — and how it differs from a bill of exchange: a note is a promise by its maker, where a bill is an order to another. Beside them stand share warrants, dividend warrants and certificates of deposit, the other negotiable instruments of the lesson. Promise or order — that one question sorts the whole family.
+
+**Cheques.** Cheques as an instrument of exchange: the parts of a cheque (number, date, payee, amount in words and figures, drawer, drawee, account number, stub/counterfoil), and the types — open, crossed (general and special crossing), post-dated — and why cheques are dishonoured
 
 ## Say it to your companion
 

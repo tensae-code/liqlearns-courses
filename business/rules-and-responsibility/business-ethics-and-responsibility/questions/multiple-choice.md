@@ -15,3 +15,7 @@ b) The three sectors of the economy as business activity: primary (extracting/ha
 c) Frames the whole subject's entrepreneurship fields as ideas and opportunities plus resources: the entrepreneurial skill is turning ideas …
 d) Entrepreneurial ethics connected to digital-business law.
 **Answer: d) Entrepreneurial ethics connected to digital-business law.** — That is what this lesson teaches in its ethics part.
+
+**3.** What does this lesson teach about the corporate social responsibility?
+a) A firm's corporate social responsibility in action: the book's supermarket-chain case shows scholarships and …  b) Linkage industries and supply chains: forward linkages (one industry's output is another's input) and …  c) Packaging and presentation: what good packaging does (brand recognition, easy distribution, customer …
+**Answer: a) A firm's corporate social responsibility in action: the book's supermarket-chain case shows scholarships and …** — That is what this lesson teaches in its corporate social responsibility part (Dominica's book).

@@ -3,21 +3,21 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Advertising and Sales Promotion
 **Place in the curriculum:** Unit — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost.
-**This lesson's own level:** Unit — Helpers of Trade, lesson 9 of 13 in the course ladder; it stands on Commercial Documents, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Helpers of Trade, lesson 10 of 14 in the course ladder; it stands on Warehousing, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **The four forms of promotion**
+1. **The four forms of promotion** — sales promotion and public relations.
 2. **Sales promotion — the short push**
-3. **Advertising — the paid message**
+3. **Advertising — the paid message** — advertising.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
-- Recommended first: Commercial Documents. Recommended, never forced.
+- Recommended first: Warehousing. Recommended, never forced.
 - A learner may jump straight in here: the lesson stands alone, and names are explained where they first appear.
 
 ## What the learner can do when it ends

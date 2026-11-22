@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Starting and Running · **Lesson:** Business Management
 **Place in the curriculum:** Unit 2 — Starting and Running (CURRICULUM.md).
 **The one thing this lesson teaches:** management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together.
-**This lesson's own level:** Unit 2 — Starting and Running, lesson 8 of 20 in the course ladder; it stands on The Business Plan, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 2 — Starting and Running, lesson 8 of 24 in the course ladder; it stands on The Business Plan, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -12,9 +12,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **What management is — and why it matters** — opening; importance; skills; concepts.
 2. **Levels of management — and the skills each level needs** — levels; skills-to-levels; organisation structures.
-3. **The functions of management — and the objectives they serve** — functions; management; functions and principles.
+3. **The functions of management — and the objectives they serve** — functions; management; functions and principles; functions of management; business growth.
 4. **Joining the functions together** — coordination; linking; organisation-structure; organisation-chart.
-5. **Organisation structures — how the business is arranged** — organisation structures; organisation structures; leadership and decision-making; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures.
+5. **Organisation structures — how the business is arranged** — organisation structures; organisation structures; leadership and decision-making; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; functional areas; stakeholders; management responsibilities; organisational structure; leadership.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

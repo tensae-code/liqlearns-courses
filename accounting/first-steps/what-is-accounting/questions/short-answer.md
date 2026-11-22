@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** What does this lesson teach about opening part? (Sub lesson 2)
 **Answer:** What financial statements are.
+
+**3.** Explain the purpose of financial records part of this lesson in your own words. (Sub lesson 1)
+**Answer:** Why a business keeps financial records: so owners and stakeholders can monitor what it earns, what it spends, what it owes and is owed, and whether it makes a profit or a loss; without records it cannot prepare statutory accounts or pay the right tax; bookkeeping records every transaction — date, amount, and who owes money to whom

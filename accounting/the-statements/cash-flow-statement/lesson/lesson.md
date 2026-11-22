@@ -16,6 +16,10 @@ The Statement of Change in Cash Position (cash flow statement): it shows cash re
 
 The Statement of Changes in Cash Position built from a transaction summary, source documents or bank statements: sources of cash (sales, fees, interest, asset sales, extra capital, loans) against uses (suppliers, expenses, asset purchases, drawings, loan repayments, VAGST) reconciling opening to closing bank balance.
 
+## Cash flow
+
+Cash flow: the transfers of cash in and out of a business over time, and net cash flow as the difference each month; seasonal variations must be forecast; cash flow is the lifeblood of a business — even a profitable business can fail if its profit is tied up in money owed or unsold stock and it cannot pay its bills; improving cash flow by delaying payments and chasing debtors, and keeping liquidity like a bank
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement. Your companion asks one question back — answer it from the lesson.

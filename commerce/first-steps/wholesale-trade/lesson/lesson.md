@@ -16,6 +16,8 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 
 **Middle people — and Samoa's shorter chain.** Middle people between producer and consumer make exchange more efficient, but each one adds a charge. Samoa's own way is shorter: the wholesaler is not prominent there — importers usually sell directly to retailers, and that keeps the consumer price lower. Fewer hands, lower price; more hands, more service. That trade-off is the heart of this lesson.
 
+**Channels of distribution.** Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions and benefits of wholesalers (bulk buying, breaking bulk, storage, promotion, credit to retailers, transport, market feedback) and of retailers, and the four alternative channels (direct, via retailer only, via wholesaler only, via wholesaler and retailer)
+
 ## Sub lesson 2 — What the middlemen do
 
 **What intermediaries actually do.** Intermediaries earn their place by work: they reduce the number of transactions between producers and consumers; they break bulk into usable sizes and accumulate bulk (the assemblers gather many small lots into one); they take risks; they provide finance; they pass information both ways; they promote products; they handle transport and storage; they provide variety; and they avail goods conveniently to consumers. A middleman who does none of this is only a cost.
@@ -23,6 +25,7 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 ## Sub lesson 3 — Why wholesalers need credit
 
 **Why wholesalers need credit.** Wholesaling runs on credit. A wholesaler needs it to buy facilities and branches, to finance producers, to sell to retailers on credit in turn, to buy in bulk, and to hold stock while waiting for an expected price rise. Credit flows down the chain because the wholesaler both receives it and gives it.
+
 
 ## Say it to your companion
 

@@ -15,3 +15,7 @@ b) sorting transactions before recording them: cash transactions, where both sid
 c) what financial statements are
 d) what counts as a business transaction (an exchange with a monetary value), why transactions must be recorded, …
 **Answer: c) what financial statements are** — That is what this lesson teaches in its opening part part.
+
+**3.** What does this lesson teach about the record keeping? (Sub lesson 1)
+a) Why businesses keep records: record keeping defined, and its purposes worked through — tracking …  b) Franchising: the franchisor licenses the franchisee to reproduce an established brand/product; advantages and …  c) Management defined, and its functions worked through one by one: planning (with SMART goals), organising, …
+**Answer: a) Why businesses keep records: record keeping defined, and its purposes worked through — tracking …** — That is what this lesson teaches in its record keeping part (Dominica's book).

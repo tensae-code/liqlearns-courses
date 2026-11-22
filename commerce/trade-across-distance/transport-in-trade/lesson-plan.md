@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Trade Across Distance · **Lesson:** Transport in Trade
 **Place in the curriculum:** Unit — Trade Across Distance (CURRICULUM.md).
 **The one thing this lesson teaches:** distribution is an aid to trade that lives or dies on transport: goods move direct, or through retailers and wholesalers — and where shipping is slow or missed, a shortage can force a trader onto expensive air-freight.
-**This lesson's own level:** Unit — Trade Across Distance, lesson 6 of 13 in the course ladder; it stands on Credit and Hire Purchase, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Trade Across Distance, lesson 6 of 14 in the course ladder; it stands on Credit and Hire Purchase, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

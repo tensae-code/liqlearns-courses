@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Rules and Responsibility · **Lesson:** Business Law and Regulation
 **Place in the curriculum:** Unit 4 — Rules and Responsibility (CURRICULUM.md).
 **The one thing this lesson teaches:** business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade.
-**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 17 of 20 in the course ladder; it stands on Business Calculations, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 21 of 24 in the course ladder; it stands on Business Risk and Insurance, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,15 +11,15 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **What business law is** — opening.
-2. **Contracts — made, kept valid, and ended** — contract; validity; contract.
-3. **Agency, employment, sale of goods and hire purchase** — agency; employment; sale of goods; hire purchase.
-4. **Registering, complying — and deregulation** — formation-law; compliance; registration; regulation; regulation.
+2. **Contracts — made, kept valid, and ended** — contract; validity; contract; contracts in business; elements of a contract; intention and capacity; types of contract; discharge and remedies.
+3. **Agency, employment, sale of goods and hire purchase** — agency; employment; sale of goods; hire purchase; employment law.
+4. **Registering, complying — and deregulation** — formation-law; compliance; registration; regulation; regulation; government regulation of business; regulation and deregulation.
 5. **Ideas, data and digital business in law** — intellectual-property; intellectual property; digital-law; personal-data; protection.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
-- Recommended first: Business Calculations. Recommended, never forced.
+- Recommended first: Business Risk and Insurance. Recommended, never forced.
 - A learner may jump straight in here: the lesson stands alone, and names are explained where they first appear.
 
 ## What the learner can do when it ends

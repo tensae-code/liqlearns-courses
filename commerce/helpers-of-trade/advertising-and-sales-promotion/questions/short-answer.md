@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Give three media or methods of advertising used in Samoa. (Sub lesson 3)
 **Answer:** Any three of: word of mouth, radio, newspaper, television, sponsorship, roadside signs.
+
+**3.** Explain the sales promotion and public relations part of this lesson in your own words. (Sub lesson 1)
+**Answer:** Sales promotions compared in a table with costs and benefits: free samples, coupons, premiums/gifts, contests and sweepstakes, loyalty points, BOGO/BOGOF/BOGOHO, point-of-sale displays, rebates, bundling and loss leaders; and public relations (sponsorship, press releases, scholarships) as free publicity that builds a positive image

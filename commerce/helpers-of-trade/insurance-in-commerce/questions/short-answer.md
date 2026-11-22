@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Name three services insurance companies give trade, beyond paying claims. (Sub lesson 3)
 **Answer:** Any three of: savings through endowment/education policies, low-interest loans to policy holders, guarantees for borrowing elsewhere, advice on safeguarding property, underwriting new share issues.
+
+**3.** Explain the insurance of goods and trade debts part of this lesson in your own words. (Sub lesson 2)
+**Answer:** The trade-facing covers inside the book's insurance table: trade credit insurance (against debtors not paying), goods in transit insurance, and marine insurance in its parts (hull, cargo, freight, shipowners' liability)

@@ -24,6 +24,14 @@ Look along your street or around your village and pick one business. Name what i
 
 **The sectors of business activity.** Producers sorted into primary (obtaining and collecting raw materials — farming, fishing, forestry), secondary (using raw materials to produce other things, in factories) and tertiary (providing services), with an industry defined as a group of producers who produce a similar product.
 
+## Opening / what a business is
+
+Business defined as all the activities concerned with producing and distributing goods and services to satisfy consumers' needs and wants; a business as an organisation supplying goods/services for money, needing capital and customers, earning revenue and profit, though some pursue social/environmental aims too
+
+## Basic concepts
+
+The basics the book builds on: needs vs wants, goods vs services, tangible vs intangible products, and subsistence production before specialisation created surpluses to exchange
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors. Your companion asks one question back — answer it from the lesson.

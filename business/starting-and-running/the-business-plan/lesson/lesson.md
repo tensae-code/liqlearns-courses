@@ -26,6 +26,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Financial-plan.** The financial plan component in detail: project cost, sources of financing, the cash-budget statement and the financial statements.
 
+**Feasibility study and market research.** The feasibility study before starting: market research from primary and secondary sources, qualitative vs quantitative research, and how the study's findings (viability, costs, sources of finance) feed into the business plan; planning over short, medium and long-term goals
+
 ## Sub lesson 4 — Worked plans — the plan made whole
 
 **Worked-example.** Preparing one complete business plan, worked through section by section including its financial plan.
@@ -33,6 +35,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Worked-models.** Preparing a complete business plan: full worked model plans for different types of business, each following the book's format.
 
 **Writing a business plan.** The full SBEC business-plan outline a village-store couple work through: statement of purpose (operating guide or financing proposal), the business, the market, competition (name the five nearest), location, management, personnel, and the financial data (sources and application of funding, capital equipment, projected position statements, income statements and cash-flow projections for three years).
+
+**The business plan.** The business plan: reasons for preparing one (test feasibility, attract investors, raise finance, guide decisions, ensure legal compliance) and its six elements — Introduction, Executive Summary, the Business Opportunity, Operational Plan, Marketing Plan and Financial Forecast — each section's contents set out, including the financial forecast's projected profit and loss, cash-flow projections, break-even analysis and return on investment
 
 ## Say it to your companion
 

@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Describe the two short channels in this lesson.
 **Answer:** Producer sells directly to local retailers who run shops; or producer sells to a co-operative and shares in its profits.
+
+**3.** Explain the methods of retailing part of this lesson in your own words.
+**Answer:** Methods of retailing compared: shops (convenience shops, supermarkets), department stores, mail order, e-commerce, tele-marketing and vending machines — with the retailer's place as final link between manufacturer and consumer

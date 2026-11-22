@@ -9,3 +9,7 @@ a) The path goods follow from producer to final consumer  b) The price tag on a 
 **2.** Which goods need a SHORT channel of distribution? (Sub lesson 2)
 a) Goods that keep for years  b) Goods sold only abroad  c) Perishable and bulky goods
 **Answer: c) Perishable and bulky goods** — Perishables spoil and bulky goods are costly to handle, so they travel short paths.
+
+**3.** What does this lesson teach about the origins of trade and exchange? (Sub lesson 1)
+a) How exchange began: specialisation produced surpluses, barter exchanged them, and barter's limits (double …  b) What marketing is: a market (all buyers and sellers of a product, wherever they are) vs marketing …  c) Branding: what a brand is, what good branding does (legal protection, brand awareness, segmentation, brand …
+**Answer: a) How exchange began: specialisation produced surpluses, barter exchanged them, and barter's limits (double …** — That is what this lesson teaches in its origins of trade and exchange part (Dominica's book).

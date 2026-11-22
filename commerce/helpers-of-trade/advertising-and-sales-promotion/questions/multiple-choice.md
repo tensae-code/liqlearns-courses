@@ -9,3 +9,7 @@ a) Warehousing  b) Personal selling  c) Public relations
 **2.** Which set belongs to consumer sales promotion? (Sub lesson 3)
 a) Ledger fees and standing orders  b) Tariffs and quotas  c) Samples, coupons, premiums and competitions
 **Answer: c) Samples, coupons, premiums and competitions** — Nigeria's consumer forms: samples, price packs, coupons, premiums, competitions, patronage rewards.
+
+**3.** What does this lesson teach about the advertising? (Sub lesson 3)
+a) Advertising: paid communication through media, in its two forms — informative and persuasive — plus …  b) Cooperatives: jointly owned, democratically controlled by members; the three types (consumer, worker, …  c) Management's responsibilities to each stakeholder group: to owners (profit, efficient resource use, accurate …
+**Answer: a) Advertising: paid communication through media, in its two forms — informative and persuasive — plus …** — That is what this lesson teaches in its advertising part (Dominica's book).

@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Starting and Running · **Lesson:** Business Communication
 **Place in the curriculum:** Unit 2 — Starting and Running (CURRICULUM.md).
 **The one thing this lesson teaches:** inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level.
-**This lesson's own level:** Unit 2 — Starting and Running, lesson 10 of 20 in the course ladder; it stands on Human Resources in Business, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 2 — Starting and Running, lesson 11 of 24 in the course ladder; it stands on Careers in Business, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 This lesson is one whole lesson — it has no sub lessons (a short, single-skill lesson; his ruling 2026-11-09).
 
 ## Before this lesson
-- Recommended first: Human Resources in Business. Recommended, never forced.
+- Recommended first: Careers in Business. Recommended, never forced.
 - A learner may jump straight in here: the lesson stands alone, and names are explained where they first appear.
 
 ## What the learner can do when it ends

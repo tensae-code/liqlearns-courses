@@ -10,9 +10,13 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **Choosing the channel.** A business does not pick its channel by habit; it weighs real things. The nature of the product comes first — perishable and bulky goods need short channels. Then the nature of the market, the services the middlemen offer, the firm's own resources and size, the channels competitors use, government policy, and the risks of marketing. A wise choice fits all of these together.
 
+**Origins of trade and exchange.** How exchange began: specialisation produced surpluses, barter exchanged them, and barter's limits (double coincidence of wants, no agreed rate of exchange, indivisibility, inability to store wealth) drove the search for money
+
 ## Sub lesson 2 — The aids to trade
 
 **The aids to trade.** Commerce does not work alone. Samoa's book names the tertiary service industries as the working parts of commerce: transportation, communication, trade itself, accounting, banking, insurance, warehousing and advertising. Each one removes a difficulty that would otherwise stop goods moving — distance, silence, payment, risk, time and not-knowing. The rest of this course takes these helpers one by one.
+
+**Money in trade.** Money: what it is, its four functions (medium of exchange, unit of account, store of value, means of deferred payment) and the characteristics good money needs (portable, divisible, acceptable, durable, scarce, homogeneous); token money and how money encourages specialisation
 
 ## Say it to your companion
 

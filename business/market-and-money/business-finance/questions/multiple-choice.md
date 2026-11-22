@@ -15,3 +15,7 @@ b) The functions of management: planning, coordination and organisation, motivat
 c) The human resource function of a business.
 d) Internal versus external finance: the types in each family (own capital and retained profit against loans, hire purchase, shares and the …
 **Answer: d) Internal versus external finance: the types in each family (own capital and retained profit against loans, hire purchase, shares and the …** — That is what this lesson teaches in its types part.
+
+**3.** What does this lesson teach about the collateral and secured loans? (Sub lesson 4)
+a) Collateral: assets (property, stocks, bonds, equipment, life-insurance surrender value) pledged to secure a …  b) E-commerce defined as business activity/transactions over a computer-mediated network (internet, intranet, …  c) Franchising: the franchisor licenses the franchisee to reproduce an established brand/product; advantages and …
+**Answer: a) Collateral: assets (property, stocks, bonds, equipment, life-insurance surrender value) pledged to secure a …** — That is what this lesson teaches in its collateral and secured loans part (Dominica's book).

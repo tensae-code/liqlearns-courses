@@ -10,7 +10,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **What accounting is, and who does it**
+1. **What accounting is, and who does it** — record keeping; purpose of financial records.
 2. **Who uses accounting information, and the concepts behind it**
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.

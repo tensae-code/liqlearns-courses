@@ -15,3 +15,7 @@ b) The same project brief ties the feasibility study to the market: the fretwork
 c) Evaluating a start-up idea against given situations.
 d) The advantages of doing business as a career opportunity.
 **Answer: b) The same project brief ties the feasibility study to the market: the fretwork models must be useful items in present-day demand (المرغوبة …** — That is what this lesson teaches in its the knowing-what-customers-want / where-the-product-is-sold part.
+
+**3.** What does this lesson teach about the the role of marketing? (Sub lesson 5)
+a) What marketing is: a market (all buyers and sellers of a product, wherever they are) vs marketing …  b) Why financial institutions are regulated: to protect individuals (their savings and fair interest), to …  c) Choosing the best source and method of finance: the factors to weigh — how long the money is needed, how …
+**Answer: a) What marketing is: a market (all buyers and sellers of a product, wherever they are) vs marketing …** — That is what this lesson teaches in its the role of marketing part (Dominica's book).

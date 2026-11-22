@@ -15,3 +15,7 @@ b) Communication inside the firm: written, oral, electronic and gesture media, a
 c) A bought business that lasted six months: the lessons are to examine all the business records and recent accounts before buying, check for …
 d) How effective conventional marketing is compared with digital marketing.
 **Answer: a) Trading in the secondary market: approaching a broker, limit/market/stop-loss orders, margin credit, and the trading mechanisms (open …** — That is what this lesson teaches in its proposed capital-markets lesson part.
+
+**3.** What does this lesson teach about the investments? (Sub lesson 4)
+a) Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; …  b) The other financial regulators: Financial Services Commissions license and supervise non-bank institutions …  c) Long-term finance continued: angel investors (a one-off cash injection into a start-up that need not be …
+**Answer: a) Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; …** — That is what this lesson teaches in its investments part (Dominica's book).

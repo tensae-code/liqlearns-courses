@@ -30,6 +30,8 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Cash book part of the lesson.** The analysis (analytical) cash book: a cash book with extra columns analysing frequent receipts and payments, used by non-profit organisations and small businesses so the totals of each kind of receipt and expenditure are readily available.
 
+**Single entry bookkeeping.** Single entry bookkeeping: a simple record of income and expenses in a manual cash book or spreadsheet, entering each receipt and payment and carrying a running balance after every entry; the system used by sole traders, charities and clubs (worked example: the cash book of Jameson's Cakes)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal. Your companion asks one question back — answer it from the lesson.

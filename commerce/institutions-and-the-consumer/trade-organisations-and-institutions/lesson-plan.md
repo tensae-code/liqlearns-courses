@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Institutions and the Consumer · **Lesson:** Trade Organisations and Institutions
 **Place in the curriculum:** Unit — Institutions and the Consumer (CURRICULUM.md).
 **The one thing this lesson teaches:** traders and countries organise: world institutions steady money and lend for development, regions integrate their markets step by step, and West Africa's groupings join trade, rivers and money across borders.
-**This lesson's own level:** Unit — Institutions and the Consumer, lesson 12 of 13 in the course ladder; it stands on Banking Services for Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Institutions and the Consumer, lesson 13 of 14 in the course ladder; it stands on Banking Services for Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

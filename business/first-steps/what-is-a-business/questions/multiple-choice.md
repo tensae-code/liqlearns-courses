@@ -15,3 +15,7 @@ b) The management functions one by one (planning, organising, leading/directing 
 c) What "business" means, the business as an open system turning inputs into outputs, and business resources: people, money, materials and …
 d) What human resource management means in a business.
 **Answer: c) What "business" means, the business as an open system turning inputs into outputs, and business resources: people, money, materials and …** — That is what this lesson teaches in its what a business is part.
+
+**3.** What does this lesson teach about the opening / what a business is?
+a) Business defined as all the activities concerned with producing and distributing goods and services to …  b) How contracts end: discharge by performance, breach, agreement, impossibility/frustration, lapse of time and …  c) Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity …
+**Answer: a) Business defined as all the activities concerned with producing and distributing goods and services to …** — That is what this lesson teaches in its opening / what a business is part (Dominica's book).

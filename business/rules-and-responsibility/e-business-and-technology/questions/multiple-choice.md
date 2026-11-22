@@ -15,3 +15,7 @@ b) What digital technology is.
 c) The format of a business plan: its sections from introduction through the organisation, production, marketing and financial plans.
 d) The skills a manager needs and why each matters.
 **Answer: b) What digital technology is.** — That is what this lesson teaches in its opening part.
+
+**3.** What does this lesson teach about the e-commerce?
+a) E-commerce defined as business activity/transactions over a computer-mediated network (internet, intranet, …  b) Advertising: paid communication through media, in its two forms — informative and persuasive — plus …  c) Customer service: defined as caring for the customer's needs before, during and after purchase; its …
+**Answer: a) E-commerce defined as business activity/transactions over a computer-mediated network (internet, intranet, …** — That is what this lesson teaches in its e-commerce part (Dominica's book).

@@ -12,6 +12,10 @@ A retailer needs credit for the same family of reasons a wholesaler does. Credit
 
 Not every good travels the long chain. A producer may sell directly to local retailers, who run the shops where consumers buy. Or a producer may sell to a co-operative and take a share of its profits. These short channels keep the path simple: producer, retailer, consumer — with the co-operative channel giving the producer a share in the selling side as well.
 
+## Methods of retailing
+
+Methods of retailing compared: shops (convenience shops, supermarkets), department stores, mail order, e-commerce, tele-marketing and vending machines — with the retailer's place as final link between manufacturer and consumer
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.
