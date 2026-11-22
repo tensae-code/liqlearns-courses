@@ -45,6 +45,8 @@ Diminishing (reducing) balance method: a fixed rate on the falling book value, s
 
 **Valuing assets.** Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Fixed-assets.** The fixed assets sub-system: keeping the register of fixed assets and accounting for their loss of value over time (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation. Your companion asks one question back — answer it from the lesson.

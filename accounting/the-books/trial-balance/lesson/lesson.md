@@ -37,6 +37,12 @@ The trial balance lists the balanced ledger accounts to check that total debit b
 
 **Trial balance.** Strand 2 Unit 2: closing off balances to prepare the trial balance (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Trial-balance.** The trial balance prepared from the ledger balances (Fiji's book.)
+
+**Trial-balance.** The trial balance drawn from the ledger (Fiji's book.)
+
+**Trial-balance.** The trial balance extracted from the ledger (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance, the trial balance. Your companion asks one question back — answer it from the lesson.

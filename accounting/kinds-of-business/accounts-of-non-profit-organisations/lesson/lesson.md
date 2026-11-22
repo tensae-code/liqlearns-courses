@@ -40,6 +40,8 @@ Your sports club collects subscriptions, runs a canteen and ends the year with m
 
 **Accounts of non-profit organisations.** A profit-making activity inside a non-profit body: where the body runs a trading activity (a club buffet, a hotel restaurant), trading and profit-and-loss accounts are prepared for that activity first, then the income-and-expenditure account and the statement of financial position for the whole body (Sudan's book.)
 
+**Non-profit.** Accounting for non-profit organisations: their records and statements in place of profit accounts (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a club or society does not trade for an owner's profit: its year's cash is summarised in a receipts and payments account, its result in an income and expenditure account, and what it owns sits in an accumulated fund. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, receipts-and-payments part, subscriptions part, income-and-expenditure part, trading-activity part, closing part, the accumulated fund, receipts and payments account, income and expenditure account, subscriptions in arrears and in advance, non-profit organisations' finances, receipts/p, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations. Your companion asks one question back — answer it from the lesson.

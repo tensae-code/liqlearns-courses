@@ -1,6 +1,6 @@
 # Sources — Double Entry
 
-countries: Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
+countries: Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -28,6 +28,10 @@ countries: Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan
 
 **Book 13:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 14:** Year 11 Accounting Textbook (amended 2015) (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; acknowledged contributors from Fiji secondary schools) — Ministry of Education, Suva, Fiji. Year / edition: First produced February 2015 (amended 2015), © Ministry of Education. Grade: Year 11. Language: English. Page count: 202 PDF pages, printed pp. 1–201 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=0; fetched via fetch_book.py, route tree, 4,833,670 B = expected exactly, to scratch-phase2/fiji/fiji-y11-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.4 fixed-assets sub-system; references list follows).
+
+**Book 15:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | what double entry records part of the lesson | Book 1 (Kenya Business Form 3), printed p. 104 |
@@ -50,9 +54,11 @@ countries: Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan
 | debit and credit rules part of the lesson (teacher guide) | Book 11 (PNG Accounting TG 11–12 (2008)), printed p. 40 |
 | double entry part of the lesson (teacher guide) | Book 12 (PNG Business Studies TG G9 SB (2023)), printed p. 97 |
 | double entry part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG G12 SB (2023)), printed pp. 106–107 |
+| analysis part of the lesson | Book 14 (Year 11 Accounting), printed p. 67 |
+| transactions part of the lesson | Book 15 (Year 9 Commercial Studies), printed p. 94 |
 
-**Acceptance count: taught in 8 countries (Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: double entry, first steps, accounting, kenya, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea
+Searchable tags: double entry, first steps, accounting, kenya, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji

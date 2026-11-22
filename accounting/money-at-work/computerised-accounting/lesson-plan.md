@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Development part; Spreadsheet chart of accounts part; Spreadsheet payroll part.; Accounting software part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Development part; Spreadsheet chart of accounts part; Spreadsheet payroll part.; Accounting software part; Data-processing part; Systems part; Systems part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a desk split in two: on one side a hand-written ledger, on the other a computer screen showing the same ledger produced by an accounting package, with source documents coded before entry — the student names one thing the computer does and one thing the person must still do

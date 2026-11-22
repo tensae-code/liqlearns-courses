@@ -1,6 +1,6 @@
 # Sources — Control Accounts
 
-countries: Samoa, Malaysia, Papua New Guinea
+countries: Samoa, Malaysia, Papua New Guinea, Fiji
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -8,14 +8,17 @@ countries: Samoa, Malaysia, Papua New Guinea
 
 **Book 3:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 4:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
+
 | Lesson part | Where it comes from |
 |---|---|
 | control accounts and schedules | Book 1 (Accounting Year 12), printed p. 89 |
 | control part | Book 2 (Prinsip Perakaunan T4), printed p. 169 |
 | debtors and creditors part of the lesson (teacher guide) | Book 3 (PNG Business Studies TG G12 SB (2023)), printed pp. 108–109 |
+| credit-records part of the lesson | Book 4 (Year 12 Accounting), printed p. 162 |
 
-**Acceptance count: taught in 2 countries (Samoa, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 3 countries (Samoa, Malaysia, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: control accounts, kinds of business, accounting, samoa, malaysia, papua-new-guinea
+Searchable tags: control accounts, kinds of business, accounting, samoa, malaysia, papua-new-guinea, fiji

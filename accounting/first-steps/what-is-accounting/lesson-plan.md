@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Fields part; Opening part; Concepts part; Framework part; Ethics part; Opening part; Concepts part; Financial-accounting part; Opening part; Ethics part; Concepts part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a small shop counter with a receipt book, a cash tin and a notebook of daily sales, and the shopkeeper pausing to decide whether to buy more stock — the student points to where money facts are recorded and says what decision they feed

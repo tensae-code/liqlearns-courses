@@ -20,6 +20,8 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Stock.** Strand 2 Unit 2: inventory — stocktaking; stock cards and FIFO; the importance of inventory control; the three recording methods (periodic, perpetual, and perpetual weighted average) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Inventory-records.** The inventory sub-system: how stock records are kept and controlled as their own sub-system of the accounts (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the stores ledger is the cost-accounting record of the factory store: every receipt and issue of material is priced and balanced in it, fed by the stores documents, so the business always knows what materials it holds, what they cost, and what each job used. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Opening part of the proposed lesson, Documents part of the proposed lesson, Ledger part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

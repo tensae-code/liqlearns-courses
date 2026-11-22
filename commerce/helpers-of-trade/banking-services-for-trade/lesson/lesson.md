@@ -135,6 +135,10 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Paying online.** Strand 5: the different methods of paying for products on the internet — credit cards, mobile payments, bank transfers, e-wallets, prepaid cards, direct deposit, and cash (cash on delivery and its risks), and which suit which business (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Money.** The development and functions of money: how money developed and what it does in exchange (Fiji's book.)
+
+**Payment.** Methods of payment: the ways of paying, from cash and cheques to mobile money transfers (M-PAiSA, Fiji's own way) and plastic money (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

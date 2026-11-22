@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Cash-book part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of an open cash book page with a cash column and a bank column on each side, a receipt being entered on the left and a cheque on the right — the student points to where a cash sale and a cheque payment are each written

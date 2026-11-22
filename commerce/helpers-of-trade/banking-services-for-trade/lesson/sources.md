@@ -1,6 +1,6 @@
 # Sources — Banking Services for Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Papua New Guinea
+countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -32,6 +32,8 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 **Book 13:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 14:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 15:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -96,11 +98,13 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 | financial institutions part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG 9–10 LS (2006)), printed p. 27 |
 | paying part of the lesson (teacher guide) | Book 14 (PNG Business Studies TG G12 SB (2023)), printed pp. 188–189 |
 | paying online part of the lesson (teacher guide) | Book 14 (PNG Business Studies TG G12 SB (2023)), printed pp. 284–285 |
+| money part of the lesson | Book 15 (Year 9 Commercial Studies), printed p. 10 |
+| payment part of the lesson | Book 15 (Year 9 Commercial Studies), printed p. 19 |
 
-**Acceptance count: taught in 11 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 12 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa, Bhutan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece, samoa, bhutan, papua-new-guinea
+Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece, samoa, bhutan, papua-new-guinea, fiji

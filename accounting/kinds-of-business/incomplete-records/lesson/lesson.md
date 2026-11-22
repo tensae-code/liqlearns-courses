@@ -10,6 +10,8 @@ A trader kept no proper books — only a notebook of cash and a pile of invoices
 
 **Personal statement of affairs.** A personal Statement of Affairs (statement of net worth) lists an individual's assets and liabilities to find net worth, and sits beside a weekly personal budget of fixed and variable expenses; both are the statements a bank asks for with a loan application.
 
+**Incomplete-records.** Accounting from incomplete records: rebuilding a trader's results when the full double-entry records were never kept (Fiji's book.)
+
 ## Sub lesson 2 — Finding the profit — comparison and analysis methods
 
 **Statement-of-affairs part.** The comparison method: opening and closing statements of affairs and working out profit from the movement in capital, adjusted for drawings and extra capital.

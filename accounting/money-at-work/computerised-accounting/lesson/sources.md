@@ -1,6 +1,6 @@
 # Sources — Computerised Accounting
 
-countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
+countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -20,6 +20,12 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua
 
 **Book 9:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 10:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
+
+**Book 11:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
+
+**Book 12:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | computers in accounting (Samoa's cost/resources way of framing it) | Book 1 (Accounting Year 12), printed p. 91 |
@@ -37,11 +43,14 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua
 | spreadsheet chart of accounts part | Book 8 (Accountancy XII), printed p. 301 |
 | spreadsheet payroll part | Book 8 (Accountancy XII), printed p. 305 |
 | accounting software part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG 9–10 LS (2006)), printed p. 103 |
+| data-processing part of the lesson | Book 10 (Year 12 Accounting), printed p. 203 |
+| systems part of the lesson | Book 11 (Year 10 Commercial Studies), printed p. 137 |
+| systems part of the lesson | Book 12 (Year 9 Commercial Studies), printed p. 127 |
 
-**Acceptance count: taught in 7 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 8 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea
+Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji

@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Ratio part; Analysis part; Analysis part; Analysis part; Analysis part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a report card for a business with three gauges labelled profitability, liquidity and efficiency, each gauge a needle over poor, fair and good — the student says what each gauge measures and which figures feed it

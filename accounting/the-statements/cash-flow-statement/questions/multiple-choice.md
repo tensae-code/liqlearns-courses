@@ -73,3 +73,10 @@ b) Design thinking introduced: a method that produces something genuinely new th
 c) Appendix: the cash flow statement format
 d) Retail trade classified by whether the trader has a shop: without shops — itinerant traders (hawkers and peddlers),…
 **Answer: c) Appendix: the cash flow statement format** — That is what this lesson teaches in its cash flow format part part (Papua New Guinea's teacher guide.)
+
+**12.** What does this lesson teach about the cash-flow part?
+a) The cash flow statement: classifying and presenting a business's cash movements for the period
+b) The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income and…
+c) The annual projected funds flow for the first five years: year 0 shows contributions and loans received against…
+d) Estimating the project's cash flows: the financial feasibility study is built on all the previous studies;
+**Answer: a) The cash flow statement: classifying and presenting a business's cash movements for the period** — That is what this lesson teaches in its cash-flow part (Fiji's book.)

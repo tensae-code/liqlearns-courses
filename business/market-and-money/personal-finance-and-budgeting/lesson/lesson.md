@@ -61,6 +61,34 @@ Saving is putting money aside — for a rainy day, and for set goals. The book's
 
 **Personal budgeting.** Unit 9.2: constructing a personal budget and keeping personal financial records (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opening.** The personal budget: what a budget is, why people budget (reaching goals, saving for short/medium/long-term items, tracking and controlling spending), fixed versus variable expenses, and the budget format balancing income against expenses to a savings/deficit line (Fiji's book.)
+
+**Money-management.** Saving and good personal money management: why we save, setting priorities between needs and wants, staying out of debt and restraining impulse buying (Fiji's book.)
+
+**Record-keeping.** Personal financial record keeping: keeping one's own money records in order as the base of personal financial management (Fiji's book.)
+
+**Net-worth.** The personal statement of affairs: listing what a person owns and owes to find net worth, and improving net worth over time (Fiji's book.)
+
+**Opening.** Personal finance management: the principles of good financial management and managing one's own money well from a young age (Fiji's book.)
+
+**Credit.** Managing credit: borrowing, creditworthiness and the impact of debt commitments on future spending and saving (Fiji's book.)
+
+**Investment.** Investment in financial institutions: putting money into the institutions that take savings and investments (Fiji's book.)
+
+**Planning.** Making investment decisions and financial planning for the future: choosing investments and planning ahead (the book's two closing lessons taught as one decision sequence) (Fiji's book.)
+
+**Opening.** Needs and wants: telling what we must have from what we can live without, as the base of responsible spending (Fiji's book.)
+
+**Management.** Personal financial management: managing one's own money (Fiji's book.)
+
+**Income.** Managing money over time — income: where a person's income comes from and how it arrives over time (Fiji's book.)
+
+**Expenses.** Managing money over time — expenses: the expenses a person must meet over time (Fiji's book.)
+
+**Budgets.** Personal budgets: drawing up a personal budget from income and expenses (Fiji's book.)
+
+**Issues.** Issues and trends in personal finance (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a person controls their own money with a budget — a spending plan that balances income against expenditure, fixed outgoings first and flexible spending after — watched for its peaks and troughs, and with saving done on purpose toward set goals, in ways that run from a bank deposit account to the sou-sou. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: budgeting, ways of saving. Your companion asks one question back — answer it from the lesson.

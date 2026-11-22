@@ -22,6 +22,14 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Taxation.** Strand 2 Unit 4: taxation — direct tax against indirect tax; the purposes of tax (revenue, redistribution, re-pricing); GST at 10% under the Goods and Services Act 2003, with a worked example; customs duties (export and import, Customs Tariff Act 1990); excise duty; the professional licensing bodies (CPA PNG and others) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Taxation.** Personal income tax in Fiji: what income tax is, who pays it, double taxation explained, and the taxpayer's record-keeping duties to the Fiji Revenue and Customs Authority (Fiji's book.)
+
+**Taxation.** Personal income tax: how an individual's income tax is worked out and paid in Fiji (Fiji's book.)
+
+**VAT.** Value Added Tax in the accounting process: VAT charged, claimed and recorded through the source documents and journals (Fiji's book.)
+
+**VAT.** Value Added Tax: how VAT works and is recorded in a business's books (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: taxation accounting records what a business owes the government: sales tax collected from customers is a liability held for the state, deferred tax is tax on this year's income whose payment falls in a later period, and Bhutan's Business Income Tax (BIT) is computed on business income after its allowable deductions and declared on the annual return. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: Sales tax part of the proposed lesson, Deferred tax part of the proposed lesson, BIT part of the proposed lesson, Deductions part of the proposed lesson, Tax return part of the proposed lesson. Your companion asks one question back — answer it from the lesson.

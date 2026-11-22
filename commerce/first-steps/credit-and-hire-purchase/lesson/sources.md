@@ -1,6 +1,6 @@
 # Sources — Credit and Hire Purchase
 
-countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia
+countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji
 
 **Book 1:** Business Studies — Year 9, Book One: Economics (student book) — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2002, 2003, 2004 and 2006 by Egan Reid Ltd, Auckland, New Zealand. No ISBN is printed in the book. Year/edition: 2001, reprint 2006. Grade: Year 9 (grade-9). Language: English, with Samoan translations in text boxes and a bilingual (English–Samoan) glossary. Page count: 97 pages. Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-9-Book-1.pdf. Verdict: COMPLETE — read the whole book, all 97 PDF pages, to the last page (glossary ends printed p. 97).
 
@@ -16,6 +16,8 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia
 
 **Book 6:** Business Studies — Year 10 Book One — Economics (student book) — Government of Samoa, Ministry of Education, Sports and Culture (Department of Education, Curriculum Development Unit), produced under the Samoa Secondary Education Curriculum and Resources Project, funded by the New Zealand Agency for International Development (NZAID). Year / edition: © Government of Samoa, Ministry of Education, Sports and Culture, 2001; reprinted through Egan-Reid Ltd, 2006. No ISBN is printed anywhere in the book (the back cover was read visually: decorative pattern, the Samoa coat of arms and NZAID logos, "© Ministry of Education, Sports and Culture, Sāmoa, 2001" — no ISBN).. Grade: Year 10. Language: English (with Samoan terms where the culture is the lesson). Page count: 91 PDF pages; printed page = PDF page (folio-verified at printed pp. 35 and 67; one running head at printed p. 6 reads "Year 10 Business Studies Book 2" inside this Book One — the book's own production carry-over, noted here as found in Book 4 of this file's Bhutan sibling set). Source: manifest `manifests-phase2/samoa.json` n=1; fetched via `fetch_book.py` route `tree`, 15,073,241 B = expected exactly, to `scratch-phase2/samoa/book-1.pdf` Verdict: COMPLETE — read whole book, all 8 units, through the Glossary (printed pp. 86–90) and the back cover. Five pages whose OCR came back empty (printed pp. 9, 10, 11, 90, 91) were read visually from the page renders: p. 9 carries the economic-systems features chart (filed), p. 10 the market-research teaching (filed), p. 11 the Unit 1 summary, p. 90 the glossary's last entries, p. 91 the back cover. An economics-and-consumer book (the "Economics" half of Year 10 Book 1), split part by part: consumer money teaching to BUSINESS personal finance, the borrowing/credit parts and the buying-wisely consumer parts to COMMERCE under the split rule. **The Phase 1 flag is answered: Unit 2 IS the clubs/societies teaching — 5 placements filed to `clubs-societies-and-cooperatives` below, the fullest treatment of that lesson anywhere in the Samoan set.**
 
+**Book 7:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | buying on credit; debtor and creditor | Book 1 (Bus Studies Y9 Bk1), printed p. 83 |
@@ -30,9 +32,10 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia
 | hire-purchase part | Book 5 (Pengajian Keusahawanan T4), printed p. 175 |
 | borrowing concept part | Book 6 (Business Studies Y10 Bk 1), printed p. 62 |
 | credit part | Book 6 (Business Studies Y10 Bk 1), printed p. 66 |
+| buying part of the lesson | Book 7 (Year 9 Commercial Studies), printed p. 36 |
 
-**Acceptance count: taught in 6 countries (Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia, Fiji)** — every book above is a student book, so each country counts.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`credit-and-hire-purchase`) in samoa-placements.md; the registry settled it as this lesson of the Commerce course, under the same slug.
 
-Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece, malaysia
+Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece, malaysia, fiji

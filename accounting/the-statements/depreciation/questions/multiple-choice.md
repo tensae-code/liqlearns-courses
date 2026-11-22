@@ -96,3 +96,10 @@ b) Strand 2 Unit 5: input technologies — what an input device is; ten input de
 c) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value
 d) Strand 3: new product pricing — price-skimming and market-penetration pricing, and the conditions each needs to work
 **Answer: c) Strand 2 Unit 2: book value against market value; historical cost; how depreciation affects book value** — That is what this lesson teaches in its valuing assets part part (Papua New Guinea's teacher guide.)
+
+**15.** What does this lesson teach about the fixed-assets part?
+a) Cash flow is not accounting profit:
+b) Depreciation (الاستهلاك): the gradual fall in the value of fixed assets from internal causes (use in production)…
+c) Non-current assets, their types and their valuation: the nature and types of non-current assets, their initial…
+d) The fixed assets sub-system: keeping the register of fixed assets and accounting for their loss of value over time
+**Answer: d) The fixed assets sub-system: keeping the register of fixed assets and accounting for their loss of value over time** — That is what this lesson teaches in its fixed-assets part (Fiji's book.)

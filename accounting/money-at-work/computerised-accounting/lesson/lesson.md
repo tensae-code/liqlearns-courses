@@ -38,6 +38,12 @@ QuickBooks as a specialist accounting application: it automates bookkeeping (ent
 
 **Accounting software.** Option 3: specialised accounting software among the applications a business uses (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Data-processing.** Accounting for data processing: processing accounting data by computer in place of manual systems (Fiji's book.)
+
+**Systems.** Systems for implementing the accounting process: the systems, manual and computerised, that run the process (Fiji's book.)
+
+**Systems.** Systems for implementing the accounting process (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.

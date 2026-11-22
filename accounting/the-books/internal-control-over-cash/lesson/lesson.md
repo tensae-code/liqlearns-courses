@@ -12,6 +12,10 @@ Cash control as internal control: purposes (enough cash on hand, preventing misa
 
 Internal control over cash: cash is the asset most at risk, so receipts controls (bank intact daily, two people open mail, cheques crossed "Not Transferable", pre-numbered receipts, locked-in register tape, separation of duties) and payments controls (cheque-only payments, authorisation, imprest petty cash, independent bank reconciliation) protect it.
 
+**Systems.** The accounting system as manual and computerised methods, procedures and controls that gather, record and present accurate timely data, and the factors that shape a system's design (size of business, owner's needs) (Fiji's book.)
+
+**Cash-control.** The cash sub-system: how cash receipts and payments are controlled inside the whole accounting system (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: cash is the asset most at risk, so a business guards it with controls: bank takings intact and daily, separate the duties, authorise payments, and check the bank record independently. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, internal control systems for cash. Your companion asks one question back — answer it from the lesson.

@@ -101,6 +101,14 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 
 **Income and expenses.** Strand 2 Unit 2: actual income and expenses for a period budget — income defined; the net income formulas; expenses as operating against non-operating (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Worksheet and final-accounts.** The worksheet as the bridge to the final accounts of a sole trader (Fiji's book.)
+
+**Final-accounts.** The worksheet and the final accounts of a sole trader built from it (Fiji's book.)
+
+**Final-accounts.** Measuring periodic income: the final accounts that measure a period's profit (Fiji's book.)
+
+**Statements.** Measuring periodic income: the income statement and statement of financial position (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader. Your companion asks one question back — answer it from the lesson.

@@ -73,6 +73,16 @@ Two shops each made a profit of 10,000 — but one used capital of 20,000 and th
 
 **The cash cycle.** Strand 2 Unit 2: the operating cycle — its definition and formula (inventory period plus receivables period), the inventory and receivables turnover formulas, the net operating cycle/cash conversion cycle (less the payables period), and how to shorten the cycle (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Ratio.** Vertical analysis of a sole trader's statements: ratios and percentages calculated from the statements (analysis) and then commented on (interpretation) to aid decisions and industry comparison (Fiji's book.)
+
+**Analysis.** Financial statement analysis: calculating and interpreting the measures that judge a sole trader's performance and position (Fiji's book.)
+
+**Analysis.** Analysing company accounting reports: reading a company's published statements through ratios and interpretation for decisions (Fiji's book.)
+
+**Analysis.** Analysing and interpreting periodic accounting statements (Fiji's book.)
+
+**Analysis.** Analysing and interpreting periodic accounting statements (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: ratios and percentages read the financial statements: one figure set against another judges profitability, liquidity and efficiency, and lets a business be compared across years and against other businesses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed accounting-ratios lesson (same proposal as filed from the Nigeria book), proposed accounting-ratios lesson, opening part of the new lesson, calculation part, calculation and interpretation part, comparison part of the new lesson, ratio part of the new lesson, judgement part of the new lesso, financial statement analysis and ratios, financial statement analysis and ratios, financial statement analysis and ratios. Your companion asks one question back — answer it from the lesson.

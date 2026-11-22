@@ -1,6 +1,6 @@
 # Sources — Business Risk and Insurance
 
-countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Papua New Guinea
+countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -21,6 +21,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 7:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 8:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
+
 | Lesson part | Where it comes from |
 |---|---|
 | principles of insurance | Book 1 (Principles of Business for CSEC), printed pp. 150–155 |
@@ -38,11 +40,12 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | internal control part | Book 5 (Business and Entrepreneurship XI), printed p. 87 |
 | insuring the business part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG 9–10 LS (2006)), printed p. 95 |
 | insuring the business part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed pp. 228–229 |
+| insurance part of the lesson | Book 8 (Year 10 Commercial Studies), printed p. 18 |
 
-**Acceptance count: taught in 7 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`business-risk-and-insurance`); Dominica's book is the first read book to place it, so it is built now, in Rules and Responsibility, where TITLES.md names its place. (Insurance as a service that helps trade lives in Commerce's Insurance in Commerce.)
 
-Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia, bhutan, papua-new-guinea
+Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia, bhutan, papua-new-guinea, fiji

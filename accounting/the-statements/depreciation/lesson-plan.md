@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Depreciation part; Disposal part; PPE recognition and cost; Depreciation and carrying amount.; Valuing assets part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Depreciation part; Disposal part; PPE recognition and cost; Depreciation and carrying amount.; Valuing assets part; Fixed-assets part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of the same delivery van drawn three times — new, three years old, six years old — with its value shrinking under each drawing while a bar of accumulated depreciation grows — the student says what happens to book value each year and why

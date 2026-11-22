@@ -12,6 +12,8 @@ A business pays a full year's insurance on the first day of its year. Should the
 
 **Capital vs revenue expenditure.** Capital expenditure (buying/creating an asset that stays and earns future revenue; goes to the position statement) separated from revenue expenditure (everyday expenses; hits the current year's profit).
 
+**Adjustments.** Balance day adjustments under accrual accounting: why adjustments are made at period end to match costs against related income, and cash-basis versus accrual-basis accounting distinguished (Fiji's book.)
+
 ## Sub lesson 2 — The balance-day adjustments themselves
 
 **Accruals.** Accrued expenses: wages incurred but unpaid at balance day are added to the expense and shown as a current liability, entered through the General Journal.

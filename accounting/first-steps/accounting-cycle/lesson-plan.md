@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cycle part; The accounting cycle as a whole.; The cycle as a whole part; The cycle part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Cycle part; The accounting cycle as a whole.; The cycle as a whole part; The cycle part; Cycle part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a circle of four labelled steps — source document, journal, ledger, financial statements — with arrows running round it back to the start — the student follows the circle with a finger and names each step in order

@@ -119,3 +119,17 @@ b) Strand 1 Unit 2: how the ownership form affects the business, compared in one
 c) Strand 5: the feasibility of conducting e-business on the internet — the business feasibility study defined and its…
 d) Strand 5: fraudulent behaviour and practices on the internet — false or fraudulent data (biased sponsorships and…
 **Answer: b) Strand 1 Unit 2: how the ownership form affects the business, compared in one table (legal entity, source of…** — That is what this lesson teaches in its comparing the forms part part (Papua New Guinea's teacher guide.)
+
+**19.** What does this lesson teach about the ownership part?
+a) Introduction to the types of business ownership found in Malaysia.
+b) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
+c) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
+d) The six types of business entity found in Fiji, opening with the sole trader: one owner, personal…
+**Answer: d) The six types of business entity found in Fiji, opening with the sole trader: one owner, personal…** — That is what this lesson teaches in its ownership part (Fiji's book.)
+
+**20.** What does this lesson teach about the ownership part?
+a) Forms of business ownership taught inside the financial accounting lesson
+b) Introduction to the types of business ownership found in Malaysia.
+c) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
+d) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
+**Answer: a) Forms of business ownership taught inside the financial accounting lesson** — That is what this lesson teaches in its ownership part (Fiji's book.)

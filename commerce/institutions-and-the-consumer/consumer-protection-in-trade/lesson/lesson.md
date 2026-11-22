@@ -12,6 +12,8 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 
 **Consumer protection.** Why consumers need protection (copycat products, false advertising, collusion, unfair treatment, uninformed consumers) and how they are protected: laws, consumer organisations and government agencies; the rights of consumers (education, safety, information, choice, to be heard, redress); the Bureau of Standards and the Ombudsman, with the Caribbean acts named
 
+**Protection.** Consumer protection: the protections a consumer can rely on (Fiji's book.)
+
 ## Sub lesson 2 — The laws and the measures behind them
 
 **Nigeria's protective laws.** The laws in detail: the Hire Purchase Act 1965; the Sale of Goods Act's implied terms; the Trade Descriptions Acts; the Standards Organisation Act; the Weights and Measures Act; and the food and drugs legislation. Each law answers one of the harms of the first sub lesson — false description, short weight, unsafe food and drugs, unfair hire purchase.
@@ -58,6 +60,12 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 **Consumer protection worldwide.** Strand 3: the impact of international law on consumer protection — the history of consumer protection; the US Federal Trade Commission; and the United Nations Guidelines for Consumer Protection (the legitimate needs: to be heard, information, safety, choice, consumer education, promotion of consumers' economic interests) (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Product safety.** Strand 5: regulating e-business products — product safety regulation (safety warning notices, temporary and permanent bans, mandatory safety standards, compulsory recalls); product safety and consumer guarantees; product liability and the practices that reduce it (design reviews, quality assurance, testing, clear instructions, voluntary recalls); mandatory reporting of deaths and serious injuries (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Consumer.** The role of consumers in the market (Fiji's book.)
+
+**Choices.** Consumer choices: how consumers choose between goods and services (Fiji's book.)
+
+**Wise-shopper.** Being a wise shopper: shopping carefully and getting value (Fiji's book.)
 
 ## Say it to your companion
 

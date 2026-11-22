@@ -1,6 +1,6 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua New Guinea
+countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua New Guinea, Fiji
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -20,6 +20,12 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua
 
 **Book 9:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 10:** Year 11 Accounting Textbook (amended 2015) (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; acknowledged contributors from Fiji secondary schools) — Ministry of Education, Suva, Fiji. Year / edition: First produced February 2015 (amended 2015), © Ministry of Education. Grade: Year 11. Language: English. Page count: 202 PDF pages, printed pp. 1–201 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=0; fetched via fetch_book.py, route tree, 4,833,670 B = expected exactly, to scratch-phase2/fiji/fiji-y11-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.4 fixed-assets sub-system; references list follows).
+
+**Book 11:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
+
+**Book 12:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | what the new lesson would teach: the career paths business study opens | Book 1 (Principles of Business for CSEC), printed p. 43 |
@@ -34,8 +40,11 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua
 | profession part | Book 7 (Prinsip Perakaunan T4), printed p. 2 |
 | career paths part | Book 8 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 34 |
 | getting a job part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG 9–10 LS (2006)), printed p. 81 |
+| careers part of the lesson | Book 10 (Year 11 Accounting), printed p. 40 |
+| careers part of the lesson | Book 11 (Year 10 Commercial Studies), printed p. 46 |
+| careers part of the lesson | Book 12 (Year 9 Commercial Studies), printed p. 83 |
 
-**Acceptance count: taught in 7 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 8 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
@@ -43,4 +52,4 @@ Teacher-guide evidence: this lesson also carries evidence from Indonesia's teach
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan, papua-new-guinea
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan, papua-new-guinea, fiji

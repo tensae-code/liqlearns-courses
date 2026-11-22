@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Equation part; Equation part; Equation part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a balance scale: on one side a shop's assets drawn as small pictures (stock, a counter, cash), on the other side two labelled piles, the owner's capital and money owed to others, the scale level — the student names one asset and says whose money provided it

@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Worksheet and final-accounts part; Final-accounts part; Final-accounts part; Statements part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of three statements laid out in a row — trading account, profit and loss account, balance sheet — with arrows showing gross profit carried down into the second and the final position shown in the third — the student follows the arrows and says what each statement answers

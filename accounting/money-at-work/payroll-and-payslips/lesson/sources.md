@@ -1,6 +1,6 @@
 # Sources — Payroll and Payslips
 
-countries: Samoa, Greece, Bhutan, Papua New Guinea
+countries: Samoa, Greece, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -16,6 +16,8 @@ countries: Samoa, Greece, Bhutan, Papua New Guinea
 
 **Book 7:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 8:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
+
 | Lesson part | Where it comes from |
 |---|---|
 | payslips and net pay | Book 1 (Accounting Year 12), printed p. 11 |
@@ -25,9 +27,10 @@ countries: Samoa, Greece, Bhutan, Papua New Guinea
 | payroll records and controls | Book 5 (Accountancy XII), printed p. 49 |
 | working out take-home pay part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG 9–10 LS (2006)), printed p. 100 |
 | running the payroll part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG G12 SB (2023)), printed pp. 121–122 |
+| payroll part of the lesson | Book 8 (Year 12 Accounting), printed p. 175 |
 
-**Acceptance count: taught in 3 countries (Samoa, Greece, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Samoa, Greece, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: payroll and payslips, money at work, accounting, samoa, greece, bhutan, papua-new-guinea
+Searchable tags: payroll and payslips, money at work, accounting, samoa, greece, bhutan, papua-new-guinea, fiji

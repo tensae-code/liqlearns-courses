@@ -67,6 +67,10 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Startups.** Startup against going business and against small business: a startup hunts a scalable business model, needs large investment up front and may not be profitable in its first years, financed in rounds by venture capitalists and business angels who take shares, helped by incubators; a small business must generate income from the first day on a local market and is financed by loans, its owner keeping the whole firm (Kazakhstan's book.)
 
+**Reasons.** Reasons for starting a small business, taught inside the financial accounting lesson (Fiji's book.)
+
+**Starting.** Starting a small business and the decision-making process behind it (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

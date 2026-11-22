@@ -31,6 +31,8 @@ Buying on terms inside the book's terms-of-sale teaching: credit (price split in
 
 **Credit part.** Borrowing money rather than saving up for needs and wants means: you can pay for goods later, you can have the goods immediately, you can avoid price rises in the future, and you can afford the price of a good that would have taken too long to save up for — and when you have borrowed, you have obtained credit (Samoa's book.)
 
+**Buying.** Types of buying: the ways goods are bought, including buying on credit terms (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying on credit means taking the goods now and paying over time: the seller becomes the creditor who lends, and the buyer becomes the debtor who owes — and the promise to pay is measured exactly in money. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: buying on credit, credit and hire purchase. Your companion asks one question back — answer it from the lesson.

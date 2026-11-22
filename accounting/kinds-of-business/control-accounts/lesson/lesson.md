@@ -12,6 +12,8 @@ Posting a full month from every journal into the subsidiary ledgers and the gene
 
 **Debtors and creditors.** Strand 2 Unit 2: accounts receivable and accounts payable and their management — credit policies, shortening transaction cycles, automation (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Credit-records.** Accounting for credit transactions: keeping the receivables and payables records that control credit buying and selling (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: control accounts hold the totals of the many personal accounts: the sales and purchases ledger control balances must agree with the schedules of debtors and creditors, and only the control balances enter the trial balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: control accounts and schedules. Your companion asks one question back — answer it from the lesson.

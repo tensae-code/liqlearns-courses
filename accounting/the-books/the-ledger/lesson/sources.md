@@ -1,6 +1,6 @@
 # Sources — The Ledger
 
-countries: Kenya, Samoa, Dominica, Zambia, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
+countries: Kenya, Samoa, Dominica, Zambia, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -29,6 +29,14 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 **Book 12:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 13:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 14:** Year 11 Accounting Textbook (amended 2015) (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; acknowledged contributors from Fiji secondary schools) — Ministry of Education, Suva, Fiji. Year / edition: First produced February 2015 (amended 2015), © Ministry of Education. Grade: Year 11. Language: English. Page count: 202 PDF pages, printed pp. 1–201 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=0; fetched via fetch_book.py, route tree, 4,833,670 B = expected exactly, to scratch-phase2/fiji/fiji-y11-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.4 fixed-assets sub-system; references list follows).
+
+**Book 15:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
+
+**Book 16:** Year 10 Commercial Studies Textbook (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji (Adobe InDesign production, February 2015). Year / edition: 2015. Grade: Year 10. Language: English. Page count: 210 PDF pages, printed pp. 1–204 (printed page = PDF page − 6). Source: manifest manifests-phase2/fiji.json n=3; fetched via fetch_book.py, route release (mid-size-books-3), 8,444,677 B = expected exactly, to scratch-phase2/fiji/fiji-y10-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — the manifest called this copy low-res; that is true of its page images only — its text layer is clean and complete, and the whole book was read in full from the text layer to the last teaching page (Strand 3 Lesson 4, printed p. 191+). Strand Three (Economics I) is contents-mapped only, not placed in these courses.
+
+**Book 17:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -67,8 +75,13 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | ledger accounts part of the lesson (teacher guide) | Book 12 (PNG Accounting TG 11–12 (2008)), printed pp. 40–41 |
 | posting part of the lesson (teacher guide) | Book 12 (PNG Accounting TG 11–12 (2008)), printed p. 41 |
 | chart of accounts part of the lesson (teacher guide) | Book 13 (PNG Business Studies TG G9 SB (2023)), printed p. 96 |
+| ledger part of the lesson | Book 14 (Year 11 Accounting), printed p. 70 |
+| ledger part of the lesson | Book 15 (Year 12 Accounting), printed p. 72 |
+| ledger part of the lesson | Book 16 (Year 10 Commercial Studies), printed p. 104 |
+| chart part of the lesson | Book 17 (Year 9 Commercial Studies), printed p. 96 |
+| ledger part of the lesson | Book 17 (Year 9 Commercial Studies), printed p. 110 |
 
-**Acceptance count: taught in 8 countries (Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Kenya, Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
@@ -76,4 +89,4 @@ Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher 
 
 Filed name note: the placement(s) from Malaysia filed under `chart-of-accounts` (proposed as a NEW lesson by Malaysia's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: the ledger, the books, accounting, kenya, samoa, dominica, zambia, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea
+Searchable tags: the ledger, the books, accounting, kenya, samoa, dominica, zambia, indonesia, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji

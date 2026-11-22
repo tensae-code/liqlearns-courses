@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Failure-effects part.; Size definitions part of the lesson (Kazakhstan's own legal way) part; Role of small firms part; Running and judging the venture part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Failure-effects part.; Size definitions part of the lesson (Kazakhstan's own legal way) part; Role of small firms part; Running and judging the venture part; Success-factors part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a tiny one-person shop thriving next to a large supermarket, its owner serving a queue of neighbours → the student gives two reasons from the lesson why the small shop can live beside the big one.

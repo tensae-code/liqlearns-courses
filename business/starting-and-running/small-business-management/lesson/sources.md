@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Papua New Guinea
+countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Papua New Guinea, Fiji
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -20,6 +20,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 7:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 8:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
@@ -35,9 +37,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | size definitions part of the lesson (Kazakhstan's own legal way) | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 13 |
 | role of small firms part of the lesson | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 15 |
 | running and judging the venture part of the lesson (teacher guide) | Book 7 (PNG Business Studies TG 9–10 LS (2006)), printed p. 70 |
+| success-factors part of the lesson | Book 8 (Year 9 Commercial Studies), printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan, papua-new-guinea
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan, papua-new-guinea, fiji

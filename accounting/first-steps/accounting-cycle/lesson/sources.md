@@ -1,6 +1,6 @@
 # Sources — The Accounting Cycle
 
-countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea
+countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
@@ -24,6 +24,8 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua Ne
 
 **Book 11:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 12:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the accounting cycle as a whole | Book 1 (Bus Studies Y11 Bk2), printed p. 96 |
@@ -43,11 +45,12 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Papua Ne
 | the accounting cycle as a whole | Book 9 (Accountancy XI), printed p. 17 |
 | the cycle as a whole part of the lesson (teacher guide) | Book 10 (PNG Accounting TG 11–12 (2008)), printed p. 42 |
 | the cycle part of the lesson (teacher guide) | Book 11 (PNG Business Studies TG G9 SB (2023)), printed p. 93 |
+| cycle part of the lesson | Book 12 (Year 9 Commercial Studies), printed p. 92 |
 
-**Acceptance count: taught in 7 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 8 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan, Fiji)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan, papua-new-guinea
+Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan, papua-new-guinea, fiji

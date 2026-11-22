@@ -22,6 +22,10 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **Books of original entry.** The seven journals as books of first entry in the accounting cycle (source documents → journals → ledgers → statements): the two cash journals, the four goods journals and the General Journal, each with its source documents in a summary table.
 
+**Documents.** Source documents: the documents every transaction starts from and how they feed the books of first entry (Fiji's book.)
+
+**Documents.** Source documents: the documents transactions are first captured on (Fiji's book.)
+
 ## Sub lesson 2 — The journals — first record, in time order
 
 **Journals part of the lesson.** The sales journal and sales returns (returns inwards) journal: credit sales recorded from sales invoices and returns from credit notes issued, each in the same format (date, particulars, document number, ledger folio, amount), with the journal total posted to the sales or returns inwards account in the general ledger and each individual amount posted to that debtor's account in the sales ledger.
@@ -112,6 +116,10 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 **Source documents.** Strand 2 Unit 2: source documents — cash receipts, cheque butts, invoice, credit note, debit note, bank statements, cash register roll and others (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Special journals.** Strand 2 Unit 2: the journals — cash receipts, cash payments, purchases and sales journals, and the source documents each is written from (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Journals.** The journals: recording transactions first in the books of original entry (Fiji's book.)
+
+**Journals.** Journals: entering transactions in the journals from the source documents (Fiji's book.)
 
 ## Say it to your companion
 

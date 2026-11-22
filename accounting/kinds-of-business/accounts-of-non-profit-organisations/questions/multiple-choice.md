@@ -29,3 +29,10 @@ b) The income-and-expenditure account: the non-profit's counterpart of the profi
 c) The operating account (حساب التشغيل): the final account of a manufacturing business that gathers every …
 d) The trading account: prepared only for the trading activity, it closes in the trading balances from the …
 **Answer: b) The income-and-expenditure account: the non-profit's counterpart of the profit-and-loss account, …** — That is what this lesson teaches in its accounts of non-profit organisations part.
+
+**5.** What does this lesson teach about the non-profit part?
+a) Clubs and societies as non-profit organisations: their features and sources of funds.
+b) Accounting for non-profit organisations: their records and statements in place of profit accounts
+c) The club's statement of financial position and the accumulated fund.
+d) For a club or incorporated society the equity section is called the Accumulated Fund, members may not withdraw…
+**Answer: b) Accounting for non-profit organisations: their records and statements in place of profit accounts** — That is what this lesson teaches in its non-profit part (Fiji's book.)

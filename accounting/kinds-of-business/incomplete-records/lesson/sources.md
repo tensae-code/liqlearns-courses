@@ -1,6 +1,6 @@
 # Sources — Incomplete Records
 
-countries: Malaysia, Samoa, Sudan, Papua New Guinea
+countries: Malaysia, Samoa, Sudan, Papua New Guinea, Fiji
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -12,6 +12,8 @@ countries: Malaysia, Samoa, Sudan, Papua New Guinea
 
 **Book 5:** Accounting — Upper Secondary Teacher Guide (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with support from the Australian Government (Education Capacity Building Program) — Department of Education, Papua New Guinea. Year / edition: published 2008; ISBN 978-9980-9923-7-6. (The manifest called this record "Standards Based, Grades 11–12"; the book itself is the 2008 OBE-era Upper Secondary Accounting teacher guide, and is recorded as it is.) Grade: Upper Secondary (Grades 11–12). Language: English. Page count: 65 PDF pages (printed folios run through the guide). Source: manifest manifests-phase2/papua-new-guinea.json n=0; fetched via fetch_book.py, route tree, 788,077 B = expected exactly, to scratch-phase2/papua-new-guinea/png-acct-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 6:** Year 12 Accounting (student book) — Curriculum Development Unit workgroup (Sunita Devi Deo, SEO Accounting, lead; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Curriculum Development Unit, Ministry of Education, Suva, Fiji. Year / edition: First produced October 2015, © Ministry of Education. Grade: Year 12. Language: English. Page count: 216 PDF pages, printed pp. 1–215 (printed page = PDF page). Source: manifest manifests-phase2/fiji.json n=1; fetched via fetch_book.py, route tree, 13,029,564 B = expected exactly, to scratch-phase2/fiji/fiji-y12-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (§6.4 data processing, printed p. 203; glossary follows).
+
 | Lesson part | Where it comes from |
 |---|---|
 | opening part | Book 1 (Prinsip Perakaunan T5), printed p. 36 |
@@ -21,9 +23,10 @@ countries: Malaysia, Samoa, Sudan, Papua New Guinea
 | incomplete records | Book 3 (Commercial Science G11 (Sudan)), printed pp. 93–104 |
 | personal statement of affairs | Book 4 (Bus Studies Y10 Bk2), printed p. 19 |
 | working from incomplete records part of the lesson (teacher guide) | Book 5 (PNG Accounting TG 11–12 (2008)), printed p. 38 |
+| incomplete-records part of the lesson | Book 6 (Year 12 Accounting), printed p. 184 |
 
-**Acceptance count: taught in 3 countries (Malaysia, Samoa, Sudan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Malaysia, Samoa, Sudan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: incomplete records, kinds of business, accounting, malaysia, samoa, sudan, papua-new-guinea
+Searchable tags: incomplete records, kinds of business, accounting, malaysia, samoa, sudan, papua-new-guinea, fiji

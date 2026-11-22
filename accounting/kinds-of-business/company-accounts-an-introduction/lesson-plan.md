@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Formation part; Annual-accounts part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a company's shareholders' equity section drawn as stacked blocks — issued capital, paid-up capital, retained earnings — beside a debenture certificate marked as a loan — the student points to the block that is ownership and the certificate that is debt

@@ -26,6 +26,14 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Ledger accounts.** Ledger accounts: larger businesses keep separate ledger accounts for the bank, for each type of equipment and other assets, for each expense (rent, electricity, insurance), for cash sales, for each credit customer (showing what they owe and repay) and for each creditor the business owes
 
+**Ledger.** Ledger accounts and posting, leading to the trial balance as the check on the ledger (Fiji's book.)
+
+**Ledger.** Posting from the journals to the ledger (Fiji's book.)
+
+**Ledger.** Ledger postings: carrying the journal entries into the ledger accounts (Fiji's book.)
+
+**Ledger.** Ledger accounts: opening and keeping the accounts themselves (Fiji's book.)
+
 ## Sub lesson 2 — Recording and balancing accounts
 
 **Balancing part of the lesson.** Balancing an account: total both sides, put the difference on the smaller side as balance carried down so the totals agree, then bring the balance down on the opposite side for the new period — debit balance versus credit balance.
@@ -76,6 +84,8 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 **Posting.** Unit 12.1: post from the journals to the ledgers, general and subsidiary (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Chart of accounts.** Strand 2 Unit 2: the chart of accounts as the index to the ledger accounts, with account numbering (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Chart.** The chart of accounts: the organised list of accounts a business keeps (Fiji's book.)
 
 ## Say it to your companion
 

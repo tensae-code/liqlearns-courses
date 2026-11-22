@@ -1,6 +1,6 @@
 # Sources — Partnership Accounts
 
-countries: Malaysia, Samoa, Greece, Bhutan
+countries: Malaysia, Samoa, Greece, Bhutan, Fiji
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -9,6 +9,8 @@ countries: Malaysia, Samoa, Greece, Bhutan
 **Book 3:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
 
 **Book 4:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
+**Book 5:** Senior Accounting for Year 13 (student book) — Curriculum Development Unit (Sunita Devi Deo, SEO Accounting; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Ministry of Education, Suva, Fiji. Year / edition: First produced October 2017, © Ministry of Education. Grade: Year 13. Language: English. Page count: 232 PDF pages, printed pp. 1–231 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=2; fetched via fetch_book.py, route release (mid-size-books-7), 8,267,287 B = expected exactly, to scratch-phase2/fiji/fiji-y13-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.3 cost-volume-profit analysis, before the glossary at printed p. 224).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,7 +26,11 @@ countries: Malaysia, Samoa, Greece, Bhutan
 | partnership agreement part | Book 4 (Accountancy XII), printed p. 149 |
 | revaluation and admission part | Book 4 (Accountancy XII), printed p. 153 |
 | dissolution part | Book 4 (Accountancy XII), printed p. 161 |
+| opening part of the lesson | Book 5 (Senior Accounting Y13), printed p. 25 |
+| formation part of the lesson | Book 5 (Senior Accounting Y13), printed p. 27 |
+| annual-accounts part of the lesson | Book 5 (Senior Accounting Y13), printed p. 39 |
+| adjustments part of the lesson | Book 5 (Senior Accounting Y13), printed p. 57 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Samoa, Greece, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Malaysia, Samoa, Greece, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
-Searchable tags: partnership accounts, kinds of business, accounting, malaysia, samoa, greece, bhutan
+Searchable tags: partnership accounts, kinds of business, accounting, malaysia, samoa, greece, bhutan, fiji

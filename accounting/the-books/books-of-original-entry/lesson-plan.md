@@ -35,7 +35,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Documents part; Journals part; Documents part; Journals part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a row of labelled day books on a desk — sales journal, purchases journal, cash receipts journal, cash payments journal and general journal — with an invoice being written into the first one — the student says which book each of three named transactions enters first

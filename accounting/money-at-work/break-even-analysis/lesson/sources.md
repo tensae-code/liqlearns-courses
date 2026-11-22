@@ -1,6 +1,6 @@
 # Sources — Break-even Analysis
 
-countries: Malaysia, Papua New Guinea
+countries: Malaysia, Papua New Guinea, Fiji
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -8,14 +8,17 @@ countries: Malaysia, Papua New Guinea
 
 **Book 3:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 4:** Senior Accounting for Year 13 (student book) — Curriculum Development Unit (Sunita Devi Deo, SEO Accounting; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Ministry of Education, Suva, Fiji. Year / edition: First produced October 2017, © Ministry of Education. Grade: Year 13. Language: English. Page count: 232 PDF pages, printed pp. 1–231 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=2; fetched via fetch_book.py, route release (mid-size-books-7), 8,267,287 B = expected exactly, to scratch-phase2/fiji/fiji-y13-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.3 cost-volume-profit analysis, before the glossary at printed p. 224).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Prinsip Perakaunan T5), printed p. 256 |
 | break-even part | Book 2 (Perniagaan T4), printed p. 135 |
 | break-even part of the lesson (teacher guide) | Book 3 (PNG Business Studies TG G12 SB (2023)), printed pp. 163–164 |
+| CVP part of the lesson | Book 4 (Senior Accounting Y13), printed p. 213 |
 
 **Acceptance count: taught in 1 country (Malaysia)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: break-even analysis, money at work, accounting, malaysia, papua-new-guinea
+Searchable tags: break-even analysis, money at work, accounting, malaysia, papua-new-guinea, fiji

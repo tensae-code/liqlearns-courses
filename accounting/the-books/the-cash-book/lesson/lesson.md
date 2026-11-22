@@ -56,6 +56,8 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Petty cash.** Strand 1 Unit 2: petty cash — the petty cash book, the voucher, the cashier, the float and the imprest system (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Cash-book.** Recording cash through the cash sub-system's books (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

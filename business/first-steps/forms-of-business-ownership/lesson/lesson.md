@@ -137,6 +137,10 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Ownership forms.** Strand 4: the forms of business ownership in PNG — sole trader (characteristics: single ownership, no separate legal entity, unlimited liability, owner's equity funding), partnership (2–20 owners, profit-sharing ratio, principal–agent relationship, unlimited liability, no separate identity), company (separate legal entity under the Companies Act 1997, perpetual existence, common seal; private and public), the business group (PNG's clan/family structure), cooperatives, and state-owned enterprises (Air Niugini, BSP, MRDC) (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Ownership.** The six types of business entity found in Fiji, opening with the sole trader: one owner, personal savings/FNPF/bank loans as capital sources, business licence as the legal document, advantages and disadvantages (Fiji's book.)
+
+**Ownership.** Forms of business ownership taught inside the financial accounting lesson (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

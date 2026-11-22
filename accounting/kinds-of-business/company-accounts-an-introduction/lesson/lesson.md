@@ -60,6 +60,12 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Dividends.** Strand 2 Unit 2: dividends — cash dividends against stock dividends against stock splits, and their effects on the balance sheet (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opening.** The nature of company business: what a company is as a form of organisation (Fiji's book.)
+
+**Formation.** Formation of companies: bringing a company into existence and issuing its capital (Fiji's book.)
+
+**Annual-accounts.** The annual accounts of companies: the published statements a company prepares (Fiji's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.

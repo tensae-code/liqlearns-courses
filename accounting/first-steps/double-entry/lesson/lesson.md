@@ -10,6 +10,8 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **The dual-effect part of the lesson.** The dual effect: every transaction increases or decreases balance-sheet items in a way that keeps the balance sheet balancing (an asset and a liability can move together; some transactions touch more than two items, and selling stock above its cost creates profit) — taught Kenya's way, by redrawing the whole balance sheet after each transaction before the ledger is ever introduced.
 
+**Transactions.** The nature and types of transactions the process records (Fiji's book.)
+
 ## Sub lesson 2 — The debit and credit rules, and recording the entry
 
 **Debit and credit rules part of the lesson.** The rules for recording in ledger accounts: an increase in an asset is debited and a decrease credited; an increase in a liability or in capital is credited and a decrease debited (capital treated as a special liability); expenses behave like assets (increase debited) and revenues the opposite (increase credited).
@@ -47,6 +49,8 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 **Double entry.** Strand 2 Unit 2: recording through the accounting equation A + E = OE + L + R and double entry; the account; the ledger in T format and in columnar format (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Double entry.** Strand 2 Unit 2: double entry — the increase/decrease table for the five account types (assets Dr up, liabilities Cr up, owner's equity Cr up, expenses Dr up, revenue Cr up); the transaction analysis chart; ledger formats (columnar and T); and the trial balance drawn from them (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Analysis.** The analysis chart: analysing each transaction into its debit and credit effects before any book is written up (Fiji's book.)
 
 ## Say it to your companion
 

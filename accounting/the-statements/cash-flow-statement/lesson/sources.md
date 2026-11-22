@@ -1,6 +1,6 @@
 # Sources — The Cash Flow Statement
 
-countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan, Papua New Guinea
+countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan, Papua New Guinea, Fiji
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages, printed pp. i–vi + 1–260 (printed page = PDF page − 12 in the body). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 7 model business plans end at printed p. 246; back matter follows).
 
@@ -26,6 +26,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 
 **Book 10:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 11:** Senior Accounting for Year 13 (student book) — Curriculum Development Unit (Sunita Devi Deo, SEO Accounting; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Ministry of Education, Suva, Fiji. Year / edition: First produced October 2017, © Ministry of Education. Grade: Year 13. Language: English. Page count: 232 PDF pages, printed pp. 1–231 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=2; fetched via fetch_book.py, route release (mid-size-books-7), 8,267,287 B = expected exactly, to scratch-phase2/fiji/fiji-y13-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.3 cost-volume-profit analysis, before the glossary at printed p. 224).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Perniagaan T5), printed p. 181 |
@@ -40,9 +42,10 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 | cash flow statement | Book 8 (Accountancy XI), printed p. 227 |
 | indirect method part | Book 9 (Accountancy XII), printed p. 201 |
 | cash flow format part of the lesson (teacher guide) | Book 10 (PNG Business Studies TG 9–10 LS (2006)), printed p. 134 |
+| cash-flow part of the lesson | Book 11 (Senior Accounting Y13), printed p. 124 |
 
-**Acceptance count: taught in 8 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan, Fiji)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania, bhutan, papua-new-guinea
+Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania, bhutan, papua-new-guinea, fiji

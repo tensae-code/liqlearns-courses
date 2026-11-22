@@ -30,6 +30,8 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 **Purpose of financial records.** Why a business keeps financial records: so owners and stakeholders can monitor what it earns, what it spends, what it owes and is owed, and whether it makes a profit or a loss; without records it cannot prepare statutory accounts or pay the right tax; bookkeeping records every transaction — date, amount, and who owes money to whom
 
+**Financial-accounting.** Financial accounting introduced: what the financial accounting branch records and reports (Fiji's book.)
+
 ## Sub lesson 2 — Who uses accounting information, and the concepts behind it
 
 **Opening part.** What financial statements are.
@@ -135,6 +137,28 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 **Principles.** Strand 2 Unit 2: accountability, transparency, honesty and compliance as accounting principles; making decisions from financial statements (teacher guide) (Papua New Guinea's teacher guide.)
 
 **The elements classified.** Strand 2 Unit 2: the classifications within assets, liabilities and equity (current against non-current); revenue defined and its recognition criteria; profit or loss from revenue against expenses; expenses defined and their recognition (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Opening.** What accounting is: a system for recording, classifying and summarising financial information and interpreting it for decision makers, from Pacioli's 1494 double entry to a flexible tool that adapts to society's economic needs (Fiji's book.)
+
+**Fields.** The specialised fields of accounting introduced inside the theory section (Fiji's book.)
+
+**Opening.** The nature and environment of accounting: what accounting is, who uses its information, and the qualitative characteristics financial reporting must have (Fiji's book.)
+
+**Concepts.** The conceptual basis of accounting: the concepts and principles the statements rest on and the elements of a financial statement (Fiji's book.)
+
+**Framework.** The conceptual framework of accounting and the accounting bodies that set and police the standards, Fiji's own institutions named (Fiji's book.)
+
+**Ethics.** Ethics and fraud in accounting: the ethical duties of the accountant and how accounting fraud happens and is fought (Fiji's book.)
+
+**Opening.** The nature and purpose of accounting: characteristics of accounting data and what accounting information is for (Fiji's book.)
+
+**Concepts.** The authorities that regulate accountants in Fiji and the accounting concepts the work rests on (Fiji's book.)
+
+**Opening.** The nature, purpose, scope and environment of accounting, opening with the definition of accounting (Fiji's book.)
+
+**Ethics.** Business ethics and accountability inside the accounting lesson: using ethics to address accountability (Fiji's book.)
+
+**Concepts.** Accounting concepts: the concepts accounting work rests on (Fiji's book.)
 
 ## Say it to your companion
 

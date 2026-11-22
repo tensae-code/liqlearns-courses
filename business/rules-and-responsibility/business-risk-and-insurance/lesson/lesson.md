@@ -8,6 +8,8 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 
 **Principles of insurance.** Insurance works by pooling risk: the insured pays a premium into a pool, and the pool compensates whoever suffers the loss. Seven principles hold the pool together, taught one by one: utmost good faith (both sides tell the whole truth), insurable interest (you may insure only what you stand to lose by), indemnity (you are put back where you were, never better off — with over-insurance and under-insurance worked through), contribution (several insurers share one loss), subrogation (the insurer steps into your shoes to recover from whoever caused the loss), loss minimisation (you must act as if uninsured to limit the loss) and proximate cause (the loss must come from the nearest, insured cause).
 
+**Insurance.** Managing risk through insurance: what an insurance policy is, the parties and terms of insurance, and financial planning against risk (Fiji's book.)
+
 ## Sub lesson 2 — Types of business insurance
 
 **Types of business insurance.** Insurance (against events that may happen) is distinguished from assurance (against events that must happen, like death); life insurance comes as whole life and endowment policies. The business policies cover the risks a firm actually faces: public/general liability, property, auto (third-party vs comprehensive), workers' compensation, professional liability, product liability, health, accident and sickness, business interruption and event insurance. Insurance facilitates business and trade itself: by transferring risk, it lets firms operate at all where one uninsured loss would end them.
