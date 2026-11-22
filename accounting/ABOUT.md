@@ -39,14 +39,14 @@ investment accounts).
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 35 books
-in all (30 student books and 5 teacher guides); the 21 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 14 read
+`lesson/sources.md`. The set read for the split — 37 books
+in all (32 student books and 5 teacher guides); the 21 below carry this course (the Accounting
+parts of each are what stock these lessons). The other 16 read
 books — Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Sygchrones Synallages B EPAL, Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9
-Book 1, Tanzania's Commerce Form Three, and Uganda's Entrepreneurship Textbook Senior One —
+Book 1, Tanzania's Commerce Form Three, and Uganda's Entrepreneurship Textbook Senior One, and Kazakhstan's two Grade 10 *Fundamentals of Entrepreneurship and Business* textbooks (the Aganina book, in its Kazakh and Russian editions, filed as one book, and the Duisenkhanov book in two parts — both read 2026-11-22) —
 carry no Accounting teaching as filed (their parts fed
 Business and Commerce, or were Economics/named-not-placed), and
 they are named here so the read set is whole.

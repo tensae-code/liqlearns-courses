@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
-Business Studies books of Dominica, Ecuador, Egypt, Greece, Guatemala, Indonesia, Iran, Kenya, Malaysia,
+Business Studies books of Dominica, Ecuador, Egypt, Greece, Guatemala, Indonesia, Iran, Kazakhstan, Kenya, Malaysia,
 Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **26 lessons, 811 placements stocked.**
+environment, e-business). **26 lessons, 899 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 35 books
-in all (30 student books and 5 teacher guides); the 30 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 37 books
+in all (32 student books and 5 teacher guides); the 32 below carry this course (the Business parts
 of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
@@ -154,12 +154,16 @@ fed Business, and they are named here so the read set is whole.
 
 - *Business and Entrepreneurship, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file. **Grade: Class XII (grade-12). STUDENT book. Language: English.** 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Business pending queue.) It stocked 19 placements into this course.
 
+- *Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Grade 10* — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. 2019; ISBN 978-601-318-249-0 (Russian edition, okulyk 616). **Grade 10. STUDENT book. Language: Russian (this edition).** 192 PDF pages = 192 printed pages. **Verdict: COMPLETE** — read whole book to the last teaching page (printed p. 185). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course's own Business pending queue — as two of the queue's four Kazakhstan records: okulyk 616, this Russian edition, and okulyk 603, the Kazakh edition *Кәсіпкерлік және бизнес негіздері*, same authors and publisher, 2019, ISBN 978-601-318-234-6, which matches the Russian edition section for section and printed page for printed page. The two editions are ONE book: it is stocked once, from the Russian edition, with both editions and both ISBNs recorded in every lesson's sources entry. The queue's four Kazakhstan records were two books, not four.) It stocked 52 placements into this course.
+
+- *Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10, in two parts* — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 ISBN 978-601-7817-00-8; Part 2 ISBN 978-601-7817-01-5. **Grade 10. STUDENT book. Language: Kazakh.** Part 1 144 PDF pages, Part 2 188 PDF pages (printed page = PDF page in both parts). **Verdict: COMPLETE** — read whole, both parts, to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course's own Business pending queue as two records — okulyk 604 (Part 1) and okulyk 605 (Part 2) — and is stocked as ONE book in two parts.) It stocked 36 placements into this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 26 lessons,
-  stocked with 768 placements from **student books** of 17
-  countries (Dominica, Ecuador, Egypt, Greece, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
-  taught in 17 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 856 placements from **student books** of 18
+  countries (Dominica, Ecuador, Egypt, Greece, Indonesia, Iran, Kazakhstan, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
+  taught in 18 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -180,7 +184,7 @@ fed Business, and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-35 Business books are in hand in the library record but
+31 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -188,12 +192,6 @@ country, copied from the reading log's UNREAD-PENDING queue
 teaching is in this course yet; the course grows when the disk
 hold lifts and they are read.
 
-
-**Kazakhstan (4):**
-- [BUSINESS · student] Кәсіпкерлік және бизнес негіздері Аганина К.Ж. учебник для 10 класса (Grade 10) — secured-not-on-disk
-- [BUSINESS · student] Основы предпринимательства и бизнеса — grade 10 (okulyk book 604) (Grade 10) — secured-not-on-disk
-- [BUSINESS · student] Основы предпринимательства и бизнеса — grade 10 (okulyk book 605) (Grade 10) — secured-not-on-disk
-- [BUSINESS · student] Основы предпринимательства и бизнеса. . Аганина К.Ж. учебник для 10 класса (Grade 10) — secured-not-on-disk
 
 **Kenya (2):**
 - [BUSINESS · student] Inventor Business Studies Form 2 Student's Book (KLB) (grade-10) — no-copy-exists — No file exists — the record's file is a directory path (Economics wave verdict); only a KLB pricelist names the book

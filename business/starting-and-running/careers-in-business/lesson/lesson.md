@@ -33,6 +33,8 @@ Business study opens a wide range of career options: the book surveys the paths 
 
 **Profession part.** Accounting as a career and profession: the accountant as a professional (expertise, commitment), the leadership traits an accountant needs (accountability, integrity, credibility), the IFAC Code of Ethics for Professional Accountants (competence, confidentiality, integrity, objectivity), and Malaysia's accounting bodies — MASB, the standard-setting body established under the Financial Reporting Act 1997 (issues and reviews accounting standards, advises accountants, sets minimum financial-reporting requirements), and MICPA (established 1958, advancing the profession through training and examinations) (Malaysia's book.)
 
+**Career paths.** Three career paths compared: employee in a small firm, a career inside a large company (start small, salary capped however high it climbs), and the independent business path, which removes the "salary ceiling" — you earn as much as your business earns — but brings responsibility with the freedom (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options, careers in business, careers in business. Your companion asks one question back — answer it from the lesson.

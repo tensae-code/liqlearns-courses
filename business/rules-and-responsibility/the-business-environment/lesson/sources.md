@@ -1,6 +1,6 @@
 # Sources — The Business Environment
 
-countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan
+countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala, Malaysia, Samoa, Bhutan, Kazakhstan
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -29,6 +29,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 13:** Business and Entrepreneurship, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file.. Grade: Class XII (grade-12). Language: English. Page count: 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). Source: manifest `manifests-phase2/bhutan.json` n=3; fetched via `fetch_book.py` route `tree`, 4,082,919 B = expected exactly, to `scratch-phase2/bhutan/biz-xii.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 9 ends printed p. ~134; Annexures follow). A BUSINESS subject book built around producing and pitching a business plan; its one accounting part (ratio analysis of the projected statements, and the depreciation schedule annexure) is filed to ACCOUNTING under the split rule.
 
+**Book 14:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | environment part of the lesson | Book 1 (Kenya Business Form 3), printed p. 36 |
@@ -55,10 +57,12 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | ecosystem part | Book 12 (Business and Entrepreneurship XI), printed p. 43 |
 | ecosystem-in-Bhutan part | Book 12 (Business and Entrepreneurship XI), printed p. 52 |
 | selection factors part | Book 13 (Business and Entrepreneurship XII), printed p. 24 |
+| business environment part of the lesson | Book 14 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 50 |
+| location part of the lesson (Kazakhstan's own examples) | Book 14 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 72 |
 
-**Acceptance count: taught in 10 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 11 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Malaysia, Samoa, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `types-of-economic-system` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan
+Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala, malaysia, samoa, bhutan, kazakhstan

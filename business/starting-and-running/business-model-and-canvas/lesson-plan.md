@@ -10,7 +10,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
-1. **The business model and its canvas** — Opening part of the proposed lesson; Canvas part of the proposed lesson.
+1. **The business model and its canvas** — Opening part of the proposed lesson; Canvas part of the proposed lesson.; The business model part
 2. **Developing and diagnosing the model** — Development part of the proposed lesson; Diagnosis part of the proposed lesson.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.

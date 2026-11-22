@@ -22,6 +22,30 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Creative methods part.** The invention cycle (Seelig): imagination leads through creativity and innovation to entrepreneurship in a cycle, and design thinking as the contemporary creative problem-solving method — working a chosen service area through recipient feedback and iterations, keeping a journal of each stage (Bhutan's book.)
 
+**Innovation.** Innovation defined: a new or significantly improved product, process, sales method or organisational method brought into use; with the book's supporting terms — cost price (себестоимость) as the valued cost of producing and selling, and solvency (Kazakhstan's book.)
+
+**Design thinking.** Design thinking introduced: using designers' tools to solve a wide range of business problems, resting on intuition and recognising behaviour patterns; a project starts from a brief (limits and success criteria), a multidisciplinary team and a creative workspace; and the design thinker's real task — surfacing people's hidden needs, which focus groups and surveys miss, through insight, observation and empathy (Ford's "faster horse") (Kazakhstan's book.)
+
+**Design thinking.** Empathy as a working stage: what empathy is (consciously feeling with another's emotional state without losing oneself), its kinds (emotional, cognitive, predicative) and its business use — empathic listening and interviewing to learn what users and colleagues actually feel and need (Kazakhstan's book.)
+
+**Idea generation.** Generating ideas by brainstorming: Osborne's method and its unchanged rules (no criticism or judgement while ideas are voiced), its stages, and Walt Disney's three chairs — dreamer (generate without limits), realist (how could it be made and sold?), critic (weigh it) (Kazakhstan's book.)
+
+**Innovation types.** Innovation types after Schumpeter: product, process and business-model innovation; a business model defined as how a firm creates value and sells it for profit; business-model innovation is open to any beginner because it needs creativity rather than capital; regional features must be reckoned with (Kazakhstan's book.)
+
+**Design thinking introduction.** Design thinking introduced: a method that produces something genuinely new through repeated process cycles; Stanford's seven principles (put the user's interest first, test your assumptions, keep a strict methodology for each stage, work with specialists from different fields, and build through to a working model); the stage chain — Understand, Focus, Ideas, Prototype, Test — plus storytelling; iteration defined as repeating the process or its parts, each result feeding the next (Kazakhstan's book.)
+
+**Thinking types.** Divergent and convergent thinking: divergent thinking generates several solutions to one problem (used at the empathy and idea stages); convergent thinking selects the best direction using what is known (used at analysis/synthesis, prototyping and testing); because few people do both well, build a team mixing both kinds (Kazakhstan's book.)
+
+**Empathy.** The empathy stage: empathy as consciously sharing another person's experience, practised by observing, listening, feeling and structuring; stakeholders defined, and the stakeholder map that places everyone affected by the project by their interest in it; interviewing users as an empathy tool (Kazakhstan's book.)
+
+**Analysis and synthesis.** Analysis and synthesis: turning the mass of empathy-stage notes, photos and tables into an ordered picture — grouping, the two-dimensional matrix, the Venn diagram, the ladder of needs, analogies and the systemic diagram; the stage must end with the problem correctly defined and described (Kazakhstan's book.)
+
+**Idea generation.** Idea generation by brainstorming: the rules (no criticism or evaluation while ideas are generated; the more ideas, the better the final solution; build on others' ideas), followed by systematising the ideas and the separate stage of selecting and evaluating them (Kazakhstan's book.)
+
+**Prototyping.** Prototyping: the stage's principle is "fail fast and cheap"; a prototype lets you think with your hands — see, hear and feel how the user interacts with it; prototyping saves time, effort and money, lets several ideas be tested before choosing, and draws future users into the process (Kazakhstan's book.)
+
+**Testing.** Testing: the stage that closes the design-thinking cycle; testing exists to check whether the original assumptions were right, with real users; plan the test first (algorithm, participant list, place, scenario, budget, timing, materials, how results are recorded); during the test, observe and ask clarifying questions, never leading ones (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: creativity, innovation, creativity and innovation, creativity and innovation. Your companion asks one question back — answer it from the lesson.

@@ -69,6 +69,12 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Project costing part.** Project costing and the projected cost sheet: the pro forma cost sheet set out year by year (Years 1–3) with total cost and cost per unit (Bhutan's book.)
 
+**Price build-up.** The structure of a price, element by element: cost price + the enterprise's profit = the wholesale price without VAT; then excise on excisable goods; then VAT; then the supply-and-sales markup; then the trade markup = the retail price; and reading the structure — a high cost share signals weak competitiveness, a high profit-and-tax share the opposite (Kazakhstan's book.)
+
+**Price and price structure.** Price as the money expression of value; the first rule of pricing: the price must exceed production costs; price's three functions (accounting/informational, stimulating, distributive); a price built up step by step along a supply chain, each link adding its costs and its profit; the elements of price structure (cost price, enterprise profit, taxes and obligatory payments, trade markups); fixed and flexible prices (Kazakhstan's book.)
+
+**Pricing strategies.** Pricing strategies: penetration pricing (low entry price), skimming (launch high, then lower — as with video games), and competition-based pricing (set below, equal to, or above rivals) (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.

@@ -165,6 +165,10 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Org plan part.** The organisational and management plan as a business-plan component: it describes the legal form of the business and depicts the organisational structure (Bhutan's book.)
 
+**Support services.** Consulting as a service to business: what consulting is (advising managers on financial, commercial, legal, technical questions so the management system reaches its goals), its specialisations, and the three stages by which Kazakhstan's own consulting market formed after privatisation (Kazakhstan's book.)
+
+**Analysis.** Analysis and synthesis as the manager's paired method: analysis breaks the object into parts and improves each, synthesis agrees the parts' characteristics and rejoins them into a whole; applied as business analysis — a standing system for finding the business's problems by comparing key stakeholders' requirements with the firm's actual economic, social and ecological performance (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

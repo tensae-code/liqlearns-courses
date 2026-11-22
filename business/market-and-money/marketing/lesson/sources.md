@@ -1,6 +1,6 @@
 # Sources — Marketing
 
-countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan
+countries: Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Guatemala, Bhutan, Kazakhstan
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -43,6 +43,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 17:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
 
 **Book 18:** Business and Entrepreneurship, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file.. Grade: Class XII (grade-12). Language: English. Page count: 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). Source: manifest `manifests-phase2/bhutan.json` n=3; fetched via `fetch_book.py` route `tree`, 4,082,919 B = expected exactly, to `scratch-phase2/bhutan/biz-xii.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 9 ends printed p. ~134; Annexures follow). A BUSINESS subject book built around producing and pitching a business plan; its one accounting part (ratio analysis of the projected statements, and the depreciation schedule annexure) is filed to ACCOUNTING under the split rule.
+
+**Book 19:** Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10 textbook, in two parts (student book) — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 (lessons 1–32) ISBN 978-601-7817-00-8, 144 pp.; Part 2 (lessons 33–68) ISBN 978-601-7817-01-5, 188 pp. Grade: Grade 10. Language: Kazakh. Page count: Part 1 144 PDF pages, Part 2 188 PDF pages (printed p. = PDF p. in both parts, folio-verified). Source: manifest manifests-phase2/kazakhstan.json n=1 (okulyk 604 = Part 1) and n=2 (okulyk 605 = Part 2); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), Part 1 6,228,655 B and Part 2 5,814,463 B = expected exactly, to scratch-phase2/kazakhstan/kz-604.pdf and kz-605.pdf (read copies deleted after the read). Verdict: COMPLETE — read whole, both parts, to the last teaching page. Filed as ONE book in two parts.
+
+**Book 20:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -111,10 +115,37 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | market analysis part | Book 18 (Business and Entrepreneurship XII), printed p. 64 |
 | target market part | Book 18 (Business and Entrepreneurship XII), printed p. 68 |
 | marketing plan part | Book 18 (Business and Entrepreneurship XII), printed p. 72 |
+| competition part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 78 |
+| competition part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 79 |
+| competition part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 81 |
+| pricing part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 86 |
+| pricing part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 89 |
+| what marketing is part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 97 |
+| strategy part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 98 |
+| marketing mix part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 103 |
+| market research part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 108 |
+| market research part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 110 |
+| analysis part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 115 |
+| analysis part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 117 |
+| segmentation part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 119 |
+| branding part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 125 |
+| promotion part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 134 |
+| market research part of the lesson | Book 20 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 175 |
+| competition part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 108 |
+| competitive strategies part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 113 |
+| competitive strategies part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 116 |
+| introduction to marketing part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 5 |
+| the marketing mix part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 14 |
+| SWOT part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 40 |
+| segmentation part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 49 |
+| brand and positioning part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 59 |
+| communications planning part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 71 |
+| sales promotion part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 71 |
+| BTL part | Book 19 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 79 |
 
-**Acceptance count: taught in 12 countries (Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 13 countries (Egypt, Malaysia, Nigeria, Samoa, Dominica, Ecuador, Iran, Nicaragua, Palestine, Uganda, Tanzania, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
 Filed name note: the placement(s) from Samoa filed under `market-research` (proposed as a separate lesson by Samoa's reader) are stocked in this lesson, because this lesson already teaches that one thing; the filed name is recorded here and the resolution in the registry's Phase 3 addendum.
 
-Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan
+Searchable tags: marketing, market and money, business, egypt, malaysia, nigeria, samoa, dominica, ecuador, iran, nicaragua, palestine, uganda, tanzania, guatemala, bhutan, kazakhstan

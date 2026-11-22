@@ -10,6 +10,8 @@ Take a real business you know — a shop, a farm, a workshop. Ask the question t
 
 **Canvas part of the proposed lesson.** The Business Model Canvas (BMC): its nine building blocks worked through, including the value proposition (the products and services that fulfil customer needs) and the cost structure (the costs of implementing the model, used to decide whether to proceed) (Bhutan's book.)
 
+**The business model.** The business model as four questions: for whom is value created, what is offered, how is it produced, and from what does profit come; changing one element changes the model (Skype removing the intermediaries between caller and call) (Kazakhstan's book.)
+
 ## Sub lesson 2 — Developing and diagnosing the model
 
 **Development part of the proposed lesson.** Developing the business model block by block in depth (key activities — the activities without which the business cannot operate — and the other blocks), as the Class XII working-out of the canvas (Bhutan's book.)

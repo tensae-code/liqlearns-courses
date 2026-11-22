@@ -27,14 +27,14 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-180 placements stocked.**
+231 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 35 books
-in all (30 student books and 5 teacher guides); the 18 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 17 read books —
+`lesson/sources.md`. The set read for the split — 37 books
+in all (32 student books and 5 teacher guides); the 18 below carry this course (the Commerce parts
+of each are what stock these lessons). The other 19 read books —
 Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Arches Logistikis B EPAL,
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
@@ -43,7 +43,7 @@ Pengajian Keusahawanan Tingkatan 5, and Samoa's Accounting
 Year 12, Business Studies Year 11 Book 2 and Business Studies
 Year 9 Book 2, and Zambia's Principles of Accounts Teaching
 Module (a teacher guide), Sudan's Commercial Science
-Grade 11, and Tanzania's Accountancy Form Five — carry no Commerce part: their parts fed
+Grade 11, and Tanzania's Accountancy Form Five, and Kazakhstan's two Grade 10 *Fundamentals of Entrepreneurship and Business* textbooks (the Aganina book, in its Kazakh and Russian editions, filed as one book, and the Duisenkhanov book in two parts — both read 2026-11-22) — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
 

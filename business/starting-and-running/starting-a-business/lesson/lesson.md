@@ -20,6 +20,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Reasons for starting a business.** Why people start businesses: to generate their own income / escape unemployment, self-fulfilment, using their skills and talents, increasing their income, and taking control of their working life
 
+**Ways of starting.** Business begins from an idea fitted to what the market requires; start-up capital and borrowing to raise it; the ways to start compared: build from scratch, attract start-up capital, buy a going firm, or buy a franchise (franchise defined); internal and external factors acting on the start (Kazakhstan's book.)
+
 ## Sub lesson 3 — The start-up investigation — and where help is
 
 **The start-up investigation.** The pre-production investigation checklist: the market (want and price), supplies/suppliers (reliability, backup suppliers, terms, quantities), distribution, finances (paying for materials, bank transfer and lending services, insurance in transit), the production process (factor mix, quality) and storage (perishability, cost, fashion risk); freight inwards and outwards costed carefully.
@@ -58,6 +60,10 @@ Choose a business you might one day start. Write down: where you would put it, a
 **Startups part.** Startups: what a startup is as a form of new business organisation (Bhutan's book.)
 
 **Pre-operating part.** Estimating pre-operating expenses before the business opens: business plan preparation, business registration, loan application and approval, contracting with suppliers of material, trial production and recruitment, each costed in a table (Bhutan's book.)
+
+**Startups.** The startup and its working words: a startup as a company with a short operating history built on an innovative idea or a just-created technology; business model, business idea, business plan and business strategy each defined (Kazakhstan's book.)
+
+**Startups.** Startup against going business and against small business: a startup hunts a scalable business model, needs large investment up front and may not be profitable in its first years, financed in rounds by venture capitalists and business angels who take shares, helped by incubators; a small business must generate income from the first day on a local market and is financed by loans, its owner keeping the whole firm (Kazakhstan's book.)
 
 ## Say it to your companion
 

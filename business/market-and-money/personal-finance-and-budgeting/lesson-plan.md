@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Financial-management part; Credit-and-planning part; Plan-preparation part; Investment part; Usefulness and parts of a budget; Preparing a budget for a goal (Samoa's family way); Income from work part; Sources part; Spending part; Budgeting facts part; Payslip part; Budget definition part; Fixed expenses part; Budget steps part; Buying terms part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Financial-management part; Credit-and-planning part; Plan-preparation part; Investment part; Usefulness and parts of a budget; Preparing a budget for a goal (Samoa's family way); Income from work part; Sources part; Spending part; Budgeting facts part; Payslip part; Budget definition part; Fixed expenses part; Budget steps part; Buying terms part.; Personal income and budgeting part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a family's month drawn as two jugs on a table — income pouring into one jug, spending pouring out of the other into fixed outgoings (rent, food, school) and flexible spending — with a small savings jar being filled first from the income jug — the student points to where a surplus or a deficit would show.

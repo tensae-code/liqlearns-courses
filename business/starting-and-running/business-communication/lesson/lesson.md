@@ -24,6 +24,10 @@ Internal and external communication: the communication process (sender, channel,
 
 **Negotiation part.** Etiquette in business communication, and negotiation: the concepts of negotiation, the negotiation process, and effective cross-cultural negotiation (patience named as a negotiator's need) (Bhutan's book.)
 
+**Communication.** Storytelling as a business communication tool: carrying information to an audience through a story with real or invented characters (Armstrong's use of it to train newcomers and raise company performance), and its working principles — content first (the information pyramid: statement, argumentation, restatement), research the topic deeply, build the visual part, and work the headline (Kazakhstan's book.)
+
+**Storytelling.** Storytelling: a told story is understood and remembered better than read information; the story's structure (introduction, main part, conclusion); end with a call to action and motivate the listener; storytelling as a teaching method and as a digital-marketing tool balancing message and action (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

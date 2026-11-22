@@ -22,6 +22,12 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Supply chains and logistics.** Logistics and the supply chain: a supply chain is all the organisations and steps that produce a product and deliver it to the final consumer; logistics organises the movement of goods along it — forward logistics (producer to end user) and reverse logistics (returns, recalls, repairs, recycling, disposal); the activities of supply chain operations from transforming natural resources to delivering finished goods, and the distribution process
 
+**Factors of production.** Resources versus factors of production: the resource groups (natural — exhaustible/renewable, material, labour, financial, information) and the factors actually drawn into production — land, labour, capital, entrepreneurial ability and information — each defined (Kazakhstan's book.)
+
+**Factors of production.** The income each factor earns its owner: land — rent, labour — wages, capital — interest, entrepreneurial ability — profit, information — royalty (Kazakhstan's book.)
+
+**Factors of production and their incomes.** Resources and factors of production distinguished; the factor-income table: land earns rent, capital earns interest, labour earns wages, and entrepreneurial ability together with information earns profit (Kazakhstan's book.)
+
 ## Sub lesson 2 — The size of a firm — scale, economies and diseconomies
 
 **Scale.** Telling the size of a firm: by number of employees, volume of output, floor area of premises, capital invested in assets, production methods/technology, size of market served and sales volume — and the weakness of each measure.
@@ -110,6 +116,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **Production types part.** The operations plan: production types for the plan, including batch production (identical items produced in groups where demand is known, repetitive production) (Bhutan's book.)
 
 **Estimation part.** Estimating what the operations need: the direct materials requirement estimation table (materials to cover sales volume and finished-goods stock, quantities and amounts in Nu.) and the indirect expenses of operations (insurance, electricity, depreciation, taxes and duties) (Bhutan's book.)
+
+**Product development.** Prototyping: a prototype as a testable model or simulation of the final system (a building's project, a car's concept), its types (presentation prototype, pre-production sample identical to the final product), and what a would-be entrepreneur must settle before building one (research the requirements early, build it well, test it with potential clients) (Kazakhstan's book.)
 
 ## Say it to your companion
 

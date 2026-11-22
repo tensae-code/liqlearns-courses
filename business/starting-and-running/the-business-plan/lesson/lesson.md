@@ -89,6 +89,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Pitching part.** Business plan pitching: developing a comprehensive plan matters, but the entrepreneur's ability to pitch it matters even more for garnering support; the pitch deck and using the competitive analysis inside the pitch to show the business understands its competition (Bhutan's book.)
 
+**The business plan's place in the process.** The book's own one-chart map of the whole entrepreneurship process: define and value the opportunity → develop the business plan (its sections named: summary, industry analysis, production plan, marketing plan, financial plan, organisational plan, operational plan, conclusion) → determine the resources needed and the suppliers → manage the enterprise with regular SWOT checks (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Business Communication
 
-countries: Nigeria, Dominica, Malaysia, Bhutan
+countries: Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -12,6 +12,10 @@ countries: Nigeria, Dominica, Malaysia, Bhutan
 
 **Book 5:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
 
+**Book 6:** Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10 textbook, in two parts (student book) — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 (lessons 1–32) ISBN 978-601-7817-00-8, 144 pp.; Part 2 (lessons 33–68) ISBN 978-601-7817-01-5, 188 pp. Grade: Grade 10. Language: Kazakh. Page count: Part 1 144 PDF pages, Part 2 188 PDF pages (printed p. = PDF p. in both parts, folio-verified). Source: manifest manifests-phase2/kazakhstan.json n=1 (okulyk 604 = Part 1) and n=2 (okulyk 605 = Part 2); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), Part 1 6,228,655 B and Part 2 5,814,463 B = expected exactly, to scratch-phase2/kazakhstan/kz-604.pdf and kz-605.pdf (read copies deleted after the read). Verdict: COMPLETE — read whole, both parts, to the last teaching page. Filed as ONE book in two parts.
+
+**Book 7:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | communication part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 58 |
@@ -22,7 +26,9 @@ countries: Nigeria, Dominica, Malaysia, Bhutan
 | communication part | Book 5 (Business and Entrepreneurship XI), printed p. 123 |
 | correspondence part | Book 5 (Business and Entrepreneurship XI), printed p. 128 |
 | negotiation part | Book 5 (Business and Entrepreneurship XI), printed p. 138 |
+| communication part of the lesson | Book 7 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 180 |
+| storytelling part | Book 6 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 171 |
 
-**Acceptance count: taught in 4 countries (Nigeria, Dominica, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Nigeria, Dominica, Malaysia, Bhutan, Kazakhstan)** — every book above is a student book, so each country counts.
 
-Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan
+Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan, kazakhstan

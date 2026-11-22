@@ -115,6 +115,18 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Companies part.** Companies under the Companies Act of Bhutan 2016: the private company (name ending 'Private Limited' / 'Pvt. Ltd') against the public company the Act authorises (Bhutan's book.)
 
+**Forms.** Kinds of entrepreneurship named by who undertakes it: women's entrepreneurship (business run with a conscious regard for society's interests), youth entrepreneurship, and social entrepreneurship (using startups and other business means to solve social, cultural or environmental problems) (Kazakhstan's book.)
+
+**Forms part of the lesson (Kazakhstan's own thresholds).** The size classes of Kazakhstani law as now in force: small subjects (individual entrepreneurs and legal entities with up to 100 staff on average and average annual income up to 300,000 MRP), medium (over 100 and up to 250 staff, income over 300,000 and up to 3,000,000 MRP), large (over 250 staff and/or income above 3,000,000 MRP) (Kazakhstan's book.)
+
+**Forms.** The individual entrepreneur (ИП): one person or one family owns the firm, takes the whole income and answers for all its obligations with their own property — the risk of "one's own affair" (Kazakhstan's book.)
+
+**Forms.** The partnership (товарищество): two or more persons agree to own and run a firm together, pooling resources and skill and sharing income and losses under a partnership agreement; the full partnership (unlimited liability) against the limited-liability partnership (ТОО); and the joint-stock company (АО), which raises money by selling securities (shares, bonds) and is the usual form of the large firm (Kazakhstan's book.)
+
+**Kinds and forms.** Kinds of entrepreneurial activity, including social, women's, youth and creative entrepreneurship; the weight of small and medium business worldwide (about half of employment, a third to three-fifths of output); Kazakhstan's widespread legal forms listed: limited liability partnerships, joint-stock companies, production cooperatives, peasant/farm enterprises, and individual entrepreneurship including its joint and family forms (Kazakhstan's book.)
+
+**Comparing forms.** The individual entrepreneur and the partnership compared: the individual keeps freedom of action, while partners pool finance and divide management by specialisation; a pros-and-cons table of individual entrepreneurship against the limited liability company (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

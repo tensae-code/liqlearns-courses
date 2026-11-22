@@ -36,6 +36,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Branding.** Choosing the business's name and trade mark (inside plan part 1): the name must fit the business's activity and goal, and famous companies' trade marks show the role a mark plays in a company's success (Iran's book.)
 
+**Branding.** The brand and its parts: a brand as the intangible set of characteristics and impressions in consumers' heads; its verbal elements (name, slogan, brand legend), visual elements (trademark, logo, corporate colours, corporate font — with the tests a good element must pass: meaningful, memorable, legally protected, transferable), and ideological element (the brand idea); the brand platform and the branding complex that carries one idea through research, strategy, verbal and visual identity to implementation (Kazakhstan's book.)
+
 ## Sub lesson 3 — The marketing mix
 
 **Marketing mix.** The marketing mix as a combination of product, price, place and promotion offered at a point in time, and market segmentation: dividing the market and matching a mix to each segment, with its criteria.
@@ -57,6 +59,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **The marketing mix and product life cycle.** The marketing mix: product, price, place and promotion (the 4Ps, extended to 7Ps — people, processes, physical evidence — for services), each element supporting the others; and the product life cycle (introduction, growth, maturity, decline) and how marketing responds at each stage
 
 **Pricing strategies.** Pricing: the factors in a pricing decision (cost, demand, competition, substitutes, life-cycle stage) and the strategies set out one by one — cost-plus, penetration, price skimming, psychological pricing, loss leader, competition-based, going rate and price discrimination
+
+**Pricing.** Pricing policy and pricing strategies: the policy as the firm's measures for forming its prices, in two directions (towards buyers of its product, towards suppliers of its resources), framed by the state's own price policy and by elasticity of demand, rivals' reactions, the product's life-cycle stage, quality, consumers' incomes and the firm's image; strategies classed as differentiated, competitive and assortment pricing (Tellis) (Kazakhstan's book.)
 
 ## Sub lesson 5 — Place, selling and new ways of marketing
 
@@ -142,6 +146,56 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Target market part.** The target market segment: the customer group the business plans to sell to, toward which its marketing efforts and campaigns are directed (Bhutan's book.)
 
 **Marketing plan part.** Competitor and product strategy analysis (what special features make competitors' products sellable), and setting the marketing goals and objectives (awareness, sales, market share) with the strategies to achieve them (Bhutan's book.)
+
+**Competition.** Competitive struggle: its minimum aim (keep your buyers) and maximum aim (take the main rivals' buyers), its stages (fix the target audience and main competitors, find and strengthen a competitive advantage, settle the industry strategy, work out tactics), and its three rules — do not harm the market, do not harm yourself, work within the law (Kazakhstan's book.)
+
+**Competition.** The strategies of competitive struggle: offensive strategies (frontal attack, flanking attack on a leader's weak side, encirclement, concentrating forces on segments the leaders ignore, and bypass — avoiding competition with non-competing goods) against passive strategies (peaceful coexistence in small free niches, profit before share), including the copycat "false mushroom" strategy (Kazakhstan's book.)
+
+**Competition.** Price and non-price competition: price competition (lowering prices, price discrimination) against non-price competition (quality, technology, innovation, branding, and competition by conditions of sale — better service); and perfect competition (many independent producers and consumers, homogeneous product, free information) against imperfect competition (market divided among a few large firms or dominated by one) (Kazakhstan's book.)
+
+**Pricing.** Pricing: what forms the final price (production cost, the balance of demand and supply, competitors' prices, the product's advantages, marketing, storage and logistics costs, and the firm's profit), and what depends on the price level — the firm's profit, its competitiveness and its financial stability (Kazakhstan's book.)
+
+**What marketing is.** What marketing is: the chain need → want → demand (a want backed by purchasing power) → product → exchange/transaction → market, marketing as the activity of satisfying needs through exchange, its functions, and its four maximisation goals (consumption, choice, consumer satisfaction, quality of life) (Kazakhstan's book.)
+
+**Strategy.** Marketing strategy (the firm's long-term system of goals and measures for the competitive struggle) and the kinds of marketing set by the state of demand: conversion marketing for negative demand, stimulating marketing for no demand, developmental marketing for latent demand, synchromarketing for irregular demand, supportive marketing for full demand, demarketing for excessive demand (Kazakhstan's book.)
+
+**Marketing mix.** The marketing mix: the 4P model and Lauterborn's 4C answer to it (customer needs and wants, cost to the customer, convenience, communication), with the five-step routine for applying the mix — choose the P set for the kind of business, describe the ideal state of each, describe the actual state, derive corrective actions, set priorities and distribute the budget (Kazakhstan's book.)
+
+**Market research.** Marketing research: its five stages (define the problem and goals, choose information sources, collect, analyse, present results) and the desk/field split — desk research working secondary information (cheap, fast, several sources, but general and possibly stale) against field research gathering primary information for the exact task (controlled and precise, but costly) (Kazakhstan's book.)
+
+**Market research.** The methods of desk and field research: desk — analysing the firm's own potential, its competitors, and the micro- and macro-environment (the micro-environment's groups named: suppliers, marketing intermediaries, financial institutions, state bodies, civic groups); field — survey/interview, observation, experiment, panel and expert estimates, each characterised (Kazakhstan's book.)
+
+**Analysis.** SWOT analysis: strengths and weaknesses as the firm's internal, controllable traits against opportunities and threats from the uncontrollable market environment; the five rules of a good SWOT (focus it on one segment, keep the internal/external line, count only what buyers perceive, rank by importance, ground it in objective data) (Kazakhstan's book.)
+
+**Analysis.** From SWOT to strategy: the matrix of strategic measures — SO (use strengths to take opportunities), WO (overcome weaknesses by using opportunities), ST (use strengths to remove threats), WT (minimise weaknesses to escape threats) (Kazakhstan's book.)
+
+**Segmentation.** Market segmentation and the target audience: dividing consumers into narrow homogeneous groups by geographic, demographic, socio-economic, national-cultural, personal and behavioural criteria, each group possibly needing its own product or marketing mix; and the customer avatar — a partly fictional portrait of a client type built from demography plus the entrepreneur's understanding of motives and needs (Kazakhstan's book.)
+
+**Promotion.** Advertising against PR: advertising as the paid, tactical instrument that presents the product's concept to consumers from the producer's side, PR as the strategic instrument that works through public opinion to harmonise the company and society; the ATL (above-the-line) and BTL (below-the-line) split of marketing communications, and the classic kinds of advertising by aim (informative, persuasive, reminding) (Kazakhstan's book.)
+
+**Market research.** Product testing in marketing research: of six novelties only one succeeds, so new and existing products are tested before and during their market life; the tasks of a test (judge a new product's prospects, choose between prepared variants, check packaging/design changes) and its set-up (choose the target-audience buyers, the place — shop, studio or home — and the methods) (Kazakhstan's book.)
+
+**Competition.** Competition and its kinds: perfect and imperfect competition, monopoly and natural monopoly, monopolistic competition; price and non-price competition (non-price includes advertising — most owners credit marketing for their results); direct and indirect competitors and substitute goods (Kazakhstan's book.)
+
+**Competitive strategies.** The focus strategy: concentrate on one or a few market segments or geographic areas and build high loyalty, or a unique value offer, inside that narrow segment instead of serving the whole market (Kazakhstan's book.)
+
+**Competitive strategies.** "blue ocean" against "red ocean": a blue ocean is a new market space with no direct competitors, created from an unfilled niche where real demand already exists (Kazakhstan's book.)
+
+**Introduction to marketing.** What marketing is and is not: not advertising and not pushing unwanted goods; its aim is not selling but meeting real consumer needs, so it begins by identifying those needs; the marketing cycle (research → strategy → product development and tactics → organising sales → communication); consumer insight defined; services differ from goods because their quality also depends on the client (Kazakhstan's book.)
+
+**The marketing mix.** The marketing mix: Borden coined the mix (1953) and McCarthy grouped it as the 4P (1960); the full 4P decision table — the decisions taken under Product, Price, Place and Promotion; the extensions to 5P and 7P adding Process, People and Physical Evidence, and modern additions (Positioning, Packaging, Profit, Purchase); the 4C as the same mix seen from the customer's side (Kazakhstan's book.)
+
+**SWOT.** SWOT analysis as a working method: run after internal and external research; internal strengths and weaknesses against external opportunities and threats; inside, examine marketing, the sales system, production, finance and management; outside, the social, economic, technological, political, ecological and competitive factor groups; the four boxes are then crossed to derive actions (Kazakhstan's book.)
+
+**Segmentation.** Market segmentation as both a strategy and a method, its goal to be the best supplier inside your segment; the descriptor groups (by decision role, demography, purchase place, geography, behaviour, and benefits/needs); need distinguished from want; undifferentiated, differentiated and concentrated approaches; the criteria for choosing a segment, including compatibility and safety (Kazakhstan's book.)
+
+**Brand and positioning.** Brand and positioning: "products are made in factories, brands are made in minds" (Landor); a loved brand is forgiven price, service and quality slips; positioning is built from research and segmentation around the one quality competitors cannot offer; the five levels of positioning (socio-demographic, rational, functional, emotional, values); the perception map as the tool for choosing a positioning direction (Kazakhstan's book.)
+
+**Communications planning.** The marketing communications plan in five stages: set communication goals and the target audience (from research and segmentation); build the plan, choose channels and calculate the budget (commonly as a percentage of turnover — high for perfumery and cosmetics, low for food); create the creative, the key message and the unique selling proposition; run it; then evaluate effectiveness using audience surveys, awareness before/during/after, reach data and promotion participation (Kazakhstan's book.)
+
+**Sales promotion.** Sales promotion tools: seasonal and other discounts, discount cards, coupons, gifts for purchase, sampling and tastings, code and label-collection promotions, and special offers such as 1+1 (Kazakhstan's book.)
+
+**BTL.** BTL communications: direct marketing (promoters offering tastings and samples while explaining the product), POS materials that guide the buyer at the point of sale, sms and email direct channels, and incentives aimed at sellers and distributors (Kazakhstan's book.)
 
 ## Say it to your companion
 

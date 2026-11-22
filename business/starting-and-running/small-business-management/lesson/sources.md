@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia
+countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -16,6 +16,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 5:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
 
+**Book 6:** Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business) — Учебник для 10 класса общеобразовательной школы (textbook for Grade 10 of the general school, social-humanitarian and natural-mathematics tracks) (student book) — К.Ж. Аганина (K.Zh. Aganina), Р.Ж. Караев, Ж.М. Султанов, Е.Ж. Караев; scientific supervisor Ж.У. Кобдикова — Издательство «Арман-ПВ» (Arman-PV), Nur-Sultan. Year / edition: 2019 (signed to print 21.06.2019); ISBN 978-601-318-249-0 — the Russian edition (okulyk 616). **The Kazakh edition of this same book** — Кәсіпкерлік және бизнес негіздері, same authors, same publisher, 2019, ISBN 978-601-318-234-6 (okulyk 603) — matches the Russian edition section for section and printed page for printed page: the two editions are ONE book, read once (in the Russian edition) and filed once, with both editions and both ISBNs recorded in this one entry. Grade: Grade 10. Language: Russian (this edition). Page count: 192 PDF pages = 192 printed pages (printed p. = PDF p.). Source: manifest manifests-phase2/kazakhstan.json n=3 (okulyk 616; n=0 is okulyk 603); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), 6,530,095 B = expected exactly (okulyk 603: 6,391,502 B = expected exactly), to scratch-phase2/kazakhstan/kz-616.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (printed p. 185; Glossary printed pp. 186–188 inventory-only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
@@ -28,7 +30,9 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | running a small business well | Book 5 (Entrepreneurship S1), printed pp. 33–34 |
 | running a small business well | Book 5 (Entrepreneurship S1), printed p. 34 |
 | failure-effects part | Book 5 (Perniagaan T4), printed p. 147 |
+| size definitions part of the lesson (Kazakhstan's own legal way) | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 13 |
+| role of small firms part of the lesson | Book 6 (Kazakhstan Entrepreneurship G10 (Aganina)), printed p. 15 |
 
-**Acceptance count: taught in 6 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia, Kazakhstan)** — every book above is a student book, so each country counts.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia, kazakhstan

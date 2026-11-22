@@ -1,6 +1,6 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia
+countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -16,6 +16,8 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia
 
 **Book 7:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
+**Book 8:** Кәсіпкерлік және бизнес негіздері (Fundamentals of Entrepreneurship and Business), Grade 10 textbook, in two parts (student book) — Duisenkhanov E.S., Shcheglov S.A., Khanin D., Fazylzhanova A.M., Seytenova A.A. — Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019; built around the Atameken National Chamber of Entrepreneurs programme. Set ISBN 978-601-7832-99-5; Part 1 (lessons 1–32) ISBN 978-601-7817-00-8, 144 pp.; Part 2 (lessons 33–68) ISBN 978-601-7817-01-5, 188 pp. Grade: Grade 10. Language: Kazakh. Page count: Part 1 144 PDF pages, Part 2 188 PDF pages (printed p. = PDF p. in both parts, folio-verified). Source: manifest manifests-phase2/kazakhstan.json n=1 (okulyk 604 = Part 1) and n=2 (okulyk 605 = Part 2); fetched via fetch_book.py, route release (GitHub release mid-size-books-5), Part 1 6,228,655 B and Part 2 5,814,463 B = expected exactly, to scratch-phase2/kazakhstan/kz-604.pdf and kz-605.pdf (read copies deleted after the read). Verdict: COMPLETE — read whole, both parts, to the last teaching page. Filed as ONE book in two parts.
+
 | Lesson part | Where it comes from |
 |---|---|
 | what the new lesson would teach: the career paths business study opens | Book 1 (Principles of Business for CSEC), printed p. 43 |
@@ -28,11 +30,12 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia
 | the looking-for-work part of the lesson | Book 5 (Industry Skills and Entrepreneurship Prep 8 T1), Introduction (unnumbered front matter, PDF p. 4) |
 | the jobs-in-trade part of the lesson | Book 6 (Sygchrones Synallages B EPAL), printed pp. 80–91 |
 | profession part | Book 7 (Prinsip Perakaunan T4), printed p. 2 |
+| career paths part | Book 8 (Kazakhstan Entrepreneurship G10 (Duisenkhanov)), printed p. 34 |
 
-**Acceptance count: taught in 6 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 7 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan

@@ -89,6 +89,14 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Screening part.** Screening and selecting the idea: the CEFE criterion analysis (criteria rated and weighted against critical success factors) and the feasibility checklist that tests the entrepreneur's preparedness to pursue the screened idea (Bhutan's book.)
 
+**Judging an idea.** An entrepreneurial idea must stand on two factors: demand (are people ready to pay for the product?) and technology (do you yourself know how the product is made?); never start what has no demand, and from what has demand choose the direction you know well; testing your own readiness honestly (e.g. by how the labour market answers your résumé) (Kazakhstan's book.)
+
+**Judging an idea part of the lesson (Kazakhstan's own tool).** The matrix of ideas: fix point A (where the entrepreneur starts — assets, money, ideas, skills, possibilities) and point B (the result wanted), and model the variants of actions in between to find the most effective path — a first sketch of a strategic plan; and the financial safety cushion (living on reserves for up to half a year while the venture only takes money) (Kazakhstan's book.)
+
+**What a startup is.** Startup culture: a startup defined (Blank; Graham) as a temporary organisation searching for a repeatable, scalable business model aimed at fast growth; a startup's aim is to solve a client's problem; the lean startup method (Ries) (Kazakhstan's book.)
+
+**Startup method.** A company and a startup compared in a table (activity, strategy, process, knowledge); start from a prototype, not a perfect product; the pivot — changing direction when the first model fails, with the Instagram, Groupon, Twitter and PayPal turns as examples (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.

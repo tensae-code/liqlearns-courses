@@ -101,6 +101,28 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Competencies part.** The Personal Entrepreneurial Competencies (PECs) an entrepreneur is rated on: opportunity seeking, persistence, commitment to the work contract, demand for quality and efficiency, risk taking, goal setting, information seeking and the rest of the profile (Bhutan's book.)
 
+**What entrepreneurship is.** Entrepreneurship defined as a citizen's independent, initiative activity carried on in their own name under their own property risk to gain profit or personal income; the individual entrepreneur as its subject, and the starting concepts of need and good (a good as what satisfies everyday needs) (Kazakhstan's book.)
+
+**Entrepreneur part of the lesson (Kazakhstan's own way: the two figures taught as stages of one path).** Entrepreneur versus businessman: entrepreneurship as the first step into business (the owner works in the firm himself, often alone or with family, and the income stops when he stops), against business as the already-built system of processes and a team whose income no longer depends on the owner's presence; the entrepreneur's constant search (for clients, materials, premises, people) and the risk he carries (Kazakhstan's book.)
+
+**Purpose.** The subject, aim and tasks of entrepreneurship: its aim is to satisfy consumers' needs, earn profit and grow the activity up to the level of a business; its tasks are to raise income, build capitalisation, and invest in modernising and expanding production (Kazakhstan's book.)
+
+**Views of entrepreneurship.** How economists have seen the entrepreneur, compared in one table: Cantillon (readiness for risk), Marx, and Schumpeter (the drive to innovate) (Kazakhstan's book.)
+
+**Entrepreneur.** Schumpeter's entrepreneur as the engine of economic growth: growth comes from the entrepreneur's "new combinations" of the factors of production — innovation — and economic growth itself measured as the rise in real GDP, in total or per head (Kazakhstan's book.)
+
+**Entrepreneurial mindset.** The entrepreneurial approach as a competence: initiative, the continuous drive to develop and innovate, thinking ahead to future needs, imagination and creative work as the maker's mindset, counted among the skills of the 21st century (Kazakhstan's book.)
+
+**What entrepreneurship is.** Entrepreneurship as a phenomenon (the web of political, economic, social, organisational and personal relations aimed at organising a business) and as a process (the entrepreneur's unbroken chain of actions from the appearance of an idea to its practical realisation in a project) (Kazakhstan's book.)
+
+**Functions.** The functions of entrepreneurship (general-economic, creative-search/innovative, resource — named the most important, social, organising) and its principles: independence and free choice, free hiring, free disposal of profit, aiming at success, risk, personal responsibility, flexibility (Kazakhstan's book.)
+
+**The entrepreneur's mindset and staged tasks.** The entrepreneurial mindset: an entrepreneur is active, responsible and results-driven; in law there is no concept "businessman", only the individual entrepreneur; an entrepreneur creates something new or improves what exists at high risk; a business grows through staged tasks — survival, then liquidity, then market leadership; entrepreneurship carries ethical and social responsibility (Kazakhstan's book.)
+
+**What entrepreneurship does and how the state supports it.** Entrepreneurship defined through its results: producing and redistributing goods and creating jobs; how governments support it (tax reductions, cheap loans for small and medium business, information and finance support); the Atameken chamber defends entrepreneurs' interests; entrepreneurship is incompatible with corruption (Kazakhstan's book.)
+
+**The entrepreneurial approach.** The entrepreneurial approach: entrepreneurship as self-realisation; the qualities it needs (initiative, perseverance, independence, restraint, reliability, energy, adequate self-esteem, inventiveness, flexibility, balance, calculated risk); entrepreneurial competence defined; a business idea must be tested against who will be interested in it and what demand exists (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

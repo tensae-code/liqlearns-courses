@@ -31,6 +31,10 @@ Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage 
 **Running a small business well.** Factors leading to success in business: the personal and entrepreneurial qualities of the owner; clear and definite objectives, with the operating and management guidelines set to achieve them closely followed; proper location, securing inputs (materials, labour, power) and market access at low cost; (Uganda's book.)
 **Failure-effects part.** What happens when a business fails to reach its goals and objectives: sales fall, operating costs go unpaid, and the business must act at once on every cause of failure (Malaysia's book.)
 
+**Size definitions part of the lesson (Kazakhstan's own legal way).** Who counted as a small-business subject as Kazakhstan's definitions developed: the 1990 USSR criteria by sector (industry up to 200 staff, science 50, non-production 25, retail 15) and the Republic of Kazakhstan law of 19 June 1997 (not more than 50 staff on average, assets up to 60,000 times the calculation index) (Kazakhstan's book.)
+
+**Role of small firms.** What small and medium business does for an economy: it creates jobs, builds the competitive environment (small firms are hard to monopolise and can undercut big firms' monopoly positions), reacts fast to market changes, mobilises the population's resources, and accounts for up to 95% of firms and most new jobs in developed economies (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

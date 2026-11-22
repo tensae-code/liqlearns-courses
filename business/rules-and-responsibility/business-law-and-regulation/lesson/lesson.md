@@ -145,6 +145,10 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Law-effects part.** How business laws press on the environment: health-and-safety law (fire rules, worker food protection), company law and advertising law that must keep pace with promotion practice (Malaysia's book.)
 
+**Support part of the lesson (Kazakhstan's own system).** State support for small and medium business in Kazakhstan: the unified «Дорожная карта бизнеса-2020» (Business Road Map 2020) programme — subsidised interest rates, loan guarantees, state grants, missing infrastructure built, training and service support — and the «Единое окно» single window being built to automate the support measures (Kazakhstan's book.)
+
+**Institutions.** The National Chamber of Entrepreneurs «Атамекен»: a non-profit self-governing organisation whose tasks are to defend entrepreneurs' rights and interests and to draw entrepreneurs into forming the rules businesses work under (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law, the rules a business works under, the rules a business works under. Your companion asks one question back — answer it from the lesson.

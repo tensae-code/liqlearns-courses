@@ -89,6 +89,14 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Trends part.** Other trends in business: e-business (conducting business by electronic gadgets and internet; the e-commerce models B2B, B2C and C2B, with a Bhutanese e-commerce firm as the B2C example, and Amazon/Alibaba integrating machine learning and AI) and business process outsourcing (BPO/ITES, with Bhutan's BIABPO as its promotional body) (Bhutan's book.)
 
+**Online marketing.** The tools of digital marketing, each weighed: SEO (search optimisation), contextual advertising (keyword-matched, paid per click, with remarketing), display/media advertising (banners, teasers, video), SMM, viral marketing, e-mail mailings and content marketing — advantages and drawbacks of each (Kazakhstan's book.)
+
+**Online marketing.** The firm's own website as a commercial tool (orders taken automatically, consumers found across the whole country, managers freed from routine questions) and the plan for carrying value to the end consumer through digital marketing and SMM (internet-strategy tasks, channels, community building, reputation management, personal branding) (Kazakhstan's book.)
+
+**Online marketing.** Online marketing: targeting an offer to users whose characteristics fit it; retargeting/remarketing to people who already visited; contextual advertising matched to search queries; SEO — search engines reward original content and demote copied pages; landing pages that collect enquiries; native advertising fitted to its platform; the advantages of internet marketing: interactivity, measurability, flexibility and low cost (Kazakhstan's book.)
+
+**SMM.** Social-media marketing in practice: learn when your audience is online and time posts to the top of their feed; write content that invites discussion — comments show the post is on a topic the audience cares about; run contests and answer critical comments (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

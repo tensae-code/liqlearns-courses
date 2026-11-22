@@ -57,6 +57,8 @@ Saving is putting money aside — for a rainy day, and for set goals. The book's
 
 **Buying terms part.** The buying-wisely word set: impulse buying is when something is bought without planning first; the reasons we buy are called buying motives; we get a bargain when we buy something for a lower cost than we expected; things sold at a small amount off the normal price are sold at a discount; and "The Buyer Must Beware" (caveat emptor) (Samoa's book.)
 
+**Personal income and budgeting.** Personal income and its sources; the "4 envelopes" method of running a family budget (Kazakhstan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a person controls their own money with a budget — a spending plan that balances income against expenditure, fixed outgoings first and flexible spending after — watched for its peaks and troughs, and with saving done on purpose toward set goals, in ways that run from a bank deposit account to the sou-sou. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: budgeting, ways of saving. Your companion asks one question back — answer it from the lesson.
