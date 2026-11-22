@@ -1,6 +1,6 @@
 # Sources — Uses of heat in daily life
 
-countries: South Sudan
+countries: South Sudan, Jordan
 
 **Book 1 (South Sudan — Primary 4, student book):** Title as printed: Primary Science, Pupil's Book 4, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword signed by the Minister, Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 147 pages, 12,462,598 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–141, ending with the Unit 8 Check your progress).
 
@@ -31,3 +31,17 @@ Placement choice, on the record: this NEW LESSON was built for the South Sudan p
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: uses of heat in daily life, south sudan, south sudan primary science, ministry of general education and instruction
+
+## Jordan growth (2026-11-22, General Science leftovers — 2014 older edition)
+
+**Book (Jordan — Science, Grade 2, Student Book, Part 1, 2014 older edition):** Title as printed: العلوم — الصف الثاني — الجزء الأول (Science — Grade 2 — Part One). Publisher: Ministry of Education, Hashemite Kingdom of Jordan, Directorate of Curricula and School Textbooks. Ministry approval decision 2014/25, dated 2014-04-23, for school year 2014/2015; ISBN 978-9957-84-534-6; printed 2014 / 1435 AH; edition valid 2015–2019. PDF pages: 77 (4,811,585 bytes, verified on disk). Printed page = PDF page − 1. Verdict: COMPLETE (contents lists four units — Animals printed p. 4, Measurement printed p. 22, Heat printed p. 40, Light printed p. 62 — read in full, all 77 PDF pages, visually page by page; the PDF's embedded text layer is font-garbled, so the read was visual from rendered pages with Arabic OCR support). This is the OLDER (2014) edition of Jordan's Grade 2 Term 1 book — a different book from the current NCCD edition read by the wave. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-22 General Science leftover read. Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The benefits of heat: heating homes, cooking, ironing, drying, baking and industry (Jordan, Grade 2, 2014 edition, Unit 3 Lesson 1) | Jordan, *Science, Grade 2, Student Book, Part 1 (2014 edition)*, printed p. 45 |
+
+**Acceptance count: taught in 2 countries — Jordan added.**
+
+Jordan's own way (2014 edition) — its older Ministry of Education *Science* books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the book's own unit order (Animals / Measurement / Heat / Light) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science 2014, ministry of education jordan, science uses-of-heat-in-daily-life

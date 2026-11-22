@@ -1,6 +1,6 @@
 # Sources — Protecting animals
 
-countries: Kazakhstan
+countries: Kazakhstan, Jordan
 
 **Book (Kazakhstan — Bigazina et al., Grade 4 Part 1, Natural Science, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/student/108.pdf (Russian Part 1, on_disk=false, in_pushed=true; fetched by its repo release download_url, 28,270,983 bytes, 88 PDF pages — page count matches the record). The Kazakh Part 1 (record 107, 86.pdf, 88 pages in its record) is the parallel edition of the same part; Part 2 is records 102/108. Placed once from the Russian part. Title as printed: Естествознание. Учебник для 4-го класса общеобразовательных школ. Часть 1. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 88. Verdict: COMPLETE for Part 1 (contents printed pp. 3–4 lists all sections through the young researcher's handbook and glossary at printed p. 84; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
 
@@ -45,3 +45,17 @@ Placement choice, on the record: this NEW LESSON was built for the Kazakhstan pl
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals protecting-animals
+
+## Jordan growth (2026-11-22, General Science leftovers — 2014 older edition)
+
+**Book (Jordan — Science, Grade 2, Student Book, Part 1, 2014 older edition):** Title as printed: العلوم — الصف الثاني — الجزء الأول (Science — Grade 2 — Part One). Publisher: Ministry of Education, Hashemite Kingdom of Jordan, Directorate of Curricula and School Textbooks. Ministry approval decision 2014/25, dated 2014-04-23, for school year 2014/2015; ISBN 978-9957-84-534-6; printed 2014 / 1435 AH; edition valid 2015–2019. PDF pages: 77 (4,811,585 bytes, verified on disk). Printed page = PDF page − 1. Verdict: COMPLETE (contents lists four units — Animals printed p. 4, Measurement printed p. 22, Heat printed p. 40, Light printed p. 62 — read in full, all 77 PDF pages, visually page by page; the PDF's embedded text layer is font-garbled, so the read was visual from rendered pages with Arabic OCR support). This is the OLDER (2014) edition of Jordan's Grade 2 Term 1 book — a different book from the current NCCD edition read by the wave. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-22 General Science leftover read. Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Choosing the right behaviour towards animals: leave a nest's egg in its nest, feed a cat kindly, feed a tortoise rather than hit it (Jordan, Grade 2, 2014 edition, Unit 1 Lesson 4) | Jordan, *Science, Grade 2, Student Book, Part 1 (2014 edition)*, printed p. 16 |
+
+**Acceptance count: taught in 2 countries — Jordan added.**
+
+Jordan's own way (2014 edition) — its older Ministry of Education *Science* books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the book's own unit order (Animals / Measurement / Heat / Light) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science 2014, ministry of education jordan, science protecting-animals

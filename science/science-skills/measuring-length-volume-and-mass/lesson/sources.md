@@ -1,6 +1,6 @@
 # Sources — Measuring length, volume and mass
 
-countries: Saudi Arabia, Libya, Iran
+countries: Saudi Arabia, Libya, Iran, Jordan
 
 **Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
 
@@ -63,3 +63,18 @@ Placement choice, on the record: the Iran placement(s) above filed as `science-s
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, science-skills measuring-length-volume-and-mass
+
+## Jordan growth (2026-11-22, General Science leftovers — 2014 older edition)
+
+**Book (Jordan — Science, Grade 2, Student Book, Part 1, 2014 older edition):** Title as printed: العلوم — الصف الثاني — الجزء الأول (Science — Grade 2 — Part One). Publisher: Ministry of Education, Hashemite Kingdom of Jordan, Directorate of Curricula and School Textbooks. Ministry approval decision 2014/25, dated 2014-04-23, for school year 2014/2015; ISBN 978-9957-84-534-6; printed 2014 / 1435 AH; edition valid 2015–2019. PDF pages: 77 (4,811,585 bytes, verified on disk). Printed page = PDF page − 1. Verdict: COMPLETE (contents lists four units — Animals printed p. 4, Measurement printed p. 22, Heat printed p. 40, Light printed p. 62 — read in full, all 77 PDF pages, visually page by page; the PDF's embedded text layer is font-garbled, so the read was visual from rendered pages with Arabic OCR support). This is the OLDER (2014) edition of Jordan's Grade 2 Term 1 book — a different book from the current NCCD edition read by the wave. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-22 General Science leftover read. Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring lengths: measuring a table's length with the hand span and a classroom's length with the foot (Jordan, Grade 2, 2014 edition, Unit 2 Lesson 1) | Jordan, *Science, Grade 2, Student Book, Part 1 (2014 edition)*, printed p. 24 |
+| Measuring capacity: how many cups of water fill a vessel — comparing the capacities of two vessels by counting cups (Jordan, Grade 2, 2014 edition, Unit 2 Lesson 3) | Jordan, *Science, Grade 2, Student Book, Part 1 (2014 edition)*, printed p. 34 |
+
+**Acceptance count: taught in 4 countries — Jordan added.**
+
+Jordan's own way (2014 edition) — its older Ministry of Education *Science* books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the book's own unit order (Animals / Measurement / Heat / Light) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science 2014, ministry of education jordan, science measuring-length-volume-and-mass

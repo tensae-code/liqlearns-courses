@@ -1,6 +1,6 @@
 # Sources — How animals reproduce
 
-countries: Cambodia, Mauritania, Kuwait, China, Zimbabwe (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only), Kazakhstan, Honduras
+countries: Cambodia, Mauritania, Kuwait, China, Zimbabwe (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only), Kazakhstan, Honduras, Jordan
 
 **Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -208,3 +208,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, animals/how-animals-reproduce
+
+## Jordan growth (2026-11-22, General Science leftovers — 2014 older edition)
+
+**Book (Jordan — Science, Grade 2, Student Book, Part 1, 2014 older edition):** Title as printed: العلوم — الصف الثاني — الجزء الأول (Science — Grade 2 — Part One). Publisher: Ministry of Education, Hashemite Kingdom of Jordan, Directorate of Curricula and School Textbooks. Ministry approval decision 2014/25, dated 2014-04-23, for school year 2014/2015; ISBN 978-9957-84-534-6; printed 2014 / 1435 AH; edition valid 2015–2019. PDF pages: 77 (4,811,585 bytes, verified on disk). Printed page = PDF page − 1. Verdict: COMPLETE (contents lists four units — Animals printed p. 4, Measurement printed p. 22, Heat printed p. 40, Light printed p. 62 — read in full, all 77 PDF pages, visually page by page; the PDF's embedded text layer is font-garbled, so the read was visual from rendered pages with Arabic OCR support). This is the OLDER (2014) edition of Jordan's Grade 2 Term 1 book — a different book from the current NCCD edition read by the wave. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-22 General Science leftover read. Placements at liqlearns-courses-work/expansion-leftovers-gs-ict-2026-11-22/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The chicken's growth stages and life cycle: animals reproduce in different ways — the chicken by eggs, the cat by birth (Jordan, Grade 2, 2014 edition, Unit 1 Lesson 2) | Jordan, *Science, Grade 2, Student Book, Part 1 (2014 edition)*, printed p. 10 |
+
+**Acceptance count: taught in 8 countries — Jordan added.**
+
+Jordan's own way (2014 edition) — its older Ministry of Education *Science* books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the book's own unit order (Animals / Measurement / Heat / Light) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science 2014, ministry of education jordan, science how-animals-reproduce
