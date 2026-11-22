@@ -15,6 +15,14 @@ A warehouse is a building — used by producers, wholesalers and retailers — w
 
 **Warehouse-documents.** The warehouse titles: the warehouse receipt (αποθετήριο), certifying that the General Warehouse received the goods and promising to deliver them to its lawful holder, with the depositor's and goods' particulars and the record of part-deliveries and endorsements on its back; and the pledge warrant (ενεχυρόγραφο), by whose endorsement the depositor can pledge the stored goods and borrow money on them (Greece's book.)
 
+**Warehouse-types.** Types of warehouse, taught inside the home-trade chapter (Nigeria's book.)
+
+**Warehouse-receipts.** Warehousing inside the commodity exchange: assaying and warehouse receipts (Nigeria's book.)
+
+**Opening.** Warehousing: its meaning, and the types of warehouse (Nigeria's book.)
+
+**Functions.** The importance and functions of warehouses, and the advantages and disadvantages of warehousing (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a warehouse keeps goods safe and in condition between making and selling — taking goods in, holding what is needed and no more, grading and conditioning them, and sending them out — so trade never has to stop for want of stock, and stored goods can even stand as collateral for a loan. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: warehousing, warehousing. Your companion asks one question back — answer it from the lesson.

@@ -21,6 +21,16 @@ Trade is a chain of people who mostly never meet: the producer who makes the goo
 
 **Communication in trade.** Electronic communication: transferring information electronically through ICT tools (computers, telephones, mobile phones, TV, tablets) as images, graphics, sound, pictures and maps — including the procedures for opening and using an e-mail account, and the manners for communicating with a target audience (research the audience, be concise and clear, professionalism and courtesy) as business… (Tanzania's book.)
 
+**Opening.** Communication: its nature, the traditional means of communication in Nigeria, and its importance to business (Nigeria's book.)
+
+**Development.** The development of communications in Nigeria (Nigeria's book.)
+
+**Postal-and-telecom.** Modern postal services and NIPOST, and telecommunications services and NITEL (Nigeria's book.)
+
+**Satellite-and-mobile.** Communication satellites (COMSAT, geo-satellites, Nigeria's SAT-1 and SAT-2) and the GSM system (Nigeria's book.)
+
+**Internet.** Computers and networking in communication: the Internet, intranet, extranet, email and the web, and the advantages and disadvantages of modern communications (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: trade runs on information — communication carries news, orders, prices and feedback between producer, trader and consumer, quickly and cheaply, so each side knows what the other needs and has done. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: aids to trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade. Your companion asks one question back — answer it from the lesson.

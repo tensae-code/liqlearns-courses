@@ -21,6 +21,18 @@ Multimodal vs intermodal transport: multimodal — one specialist carrier contra
 
 **Choosing-a-transport-means.** Carrying goods by each means in turn — road by truck, rail (with its refrigerator and container wagons for perishable and bulky goods), sea, and air (small, light, high-value goods; goods handed in at the airport against a declaration for the air waybill) — what each means suits and what limits it (Greece's book.)
 
+**Opening.** Transportation in trade: its importance and the factors affecting the choice of transport (Nigeria's book.)
+
+**Land.** Land transport: road and rail (Nigeria's book.)
+
+**Water.** Water transport: kinds of ships, Nigerian ports, and the advantages and disadvantages of water transport (Nigeria's book.)
+
+**Air-and-pipeline.** Air transport and pipeline transport (Nigeria's book.)
+
+**Authorities (Nigeria's own way).** The Nigerian Ports Authority (NPA) and the Federal Airports Authority of Nigeria (FAAN) (Nigeria's book.)
+
+**Documents.** Containerisation and the documents used in connection with transportation (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: distribution is an aid to trade that lives or dies on transport: goods move direct, or through retailers and wholesalers — and where shipping is slow or missed, a shortage can force a trader onto expensive air-freight. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution and the shipping schedule. Your companion asks one question back — answer it from the lesson.

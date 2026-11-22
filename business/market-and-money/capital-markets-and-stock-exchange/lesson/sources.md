@@ -15,6 +15,8 @@ countries: Nigeria, Dominica, Nepal, Sudan, Greece, Papua New Guinea
 
 **Book 6:** Business Studies — Grade 12 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-07-9. Wording difference, recorded as printed: the outer cover says "Junior High — Grade 12"; the title page says "Senior High". Grade: Grade 12. Language: English. Page count: 392 PDF pages = 392 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=1; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), 28,824,289 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs12-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide; every topic's Content Background in the Units of Work was read and filed. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 7:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
 | Lesson part | Where it comes from |
 |---|---|
 | proposed new lesson on capital markets and the stock exchange | Book 1 (Nigeria Commerce SS3), printed p. 190 |
@@ -36,6 +38,11 @@ countries: Nigeria, Dominica, Nepal, Sudan, Greece, Papua New Guinea
 | the collective-investment part of the lesson | Book 5 (Sygchrones Synallages B EPAL), printed pp. 188–190 |
 | the share market part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG G12 SB (2023)), printed pp. 70–71 |
 | shareholders' rights part of the lesson (teacher guide) | Book 6 (PNG Business Studies TG G12 SB (2023)), printed pp. 72–73 |
+| commodity-exchange part of the lesson | Book 7 (Nigeria Commerce SS1), printed p. 110 |
+| market-segments part of the lesson | Book 7 (Nigeria Commerce SS1), printed p. 113 |
+| trading part of the lesson | Book 7 (Nigeria Commerce SS1), printed p. 124 |
+| clearing part of the lesson | Book 7 (Nigeria Commerce SS1), printed p. 129 |
+| comparison part of the lesson | Book 7 (Nigeria Commerce SS1), printed p. 133 |
 
 **Acceptance count: taught in 5 countries (Nigeria, Dominica, Nepal, Sudan, Greece)** — every book above is a student book, so each country counts.
 

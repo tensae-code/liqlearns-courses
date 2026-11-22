@@ -37,7 +37,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Commodity-exchange part; Market-segments part; Trading part; Clearing part; Comparison part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a stock exchange floor with a board of company names and prices, a broker taking an order, and a queue of new companies waiting to list → the student points to one primary-market act (a new issue) and one secondary-market act (a trade between investors) in the picture.

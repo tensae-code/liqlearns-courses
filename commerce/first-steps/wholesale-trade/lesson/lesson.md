@@ -18,9 +18,13 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 
 **Channels of distribution.** Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions and benefits of wholesalers (bulk buying, breaking bulk, storage, promotion, credit to retailers, transport, market feedback) and of retailers, and the four alternative channels (direct, via retailer only, via wholesaler only, via wholesaler and retailer)
 
+**Channels.** Channels of distribution for consumer goods and for industrial goods, and the factors for choosing a channel (Nigeria's book.)
+
 ## Sub lesson 2 — What the middlemen do
 
 **What intermediaries actually do.** Intermediaries earn their place by work: they reduce the number of transactions between producers and consumers; they break bulk into usable sizes and accumulate bulk (the assemblers gather many small lots into one); they take risks; they provide finance; they pass information both ways; they promote products; they handle transport and storage; they provide variety; and they avail goods conveniently to consumers. A middleman who does none of this is only a cost.
+
+**Middlemen.** Middlemen in home trade: their nature, the types of middlemen and agent middlemen, and their contractual function (Nigeria's book.)
 
 ## Sub lesson 3 — Why wholesalers need credit
 
@@ -34,6 +38,8 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 **Wholesale/retail distinction.** Trade distinguished by the quantity traded: wholesale trade, the sale of goods in large quantities from trader to trader (as the ΚΒΣ defines it), retail trade, and the in-between semi-wholesale form (Greece's book.)
 
 **Distribution part.** The distribution functional department: its purpose (every product reaches the buyer), the manager choosing among four distribution channels by market needs and product type, and stock held in warehouses before delivery (Malaysia's book.)
+
+**Wholesaler.** Wholesalers and the functions of the producer in the home-trade chain (Nigeria's book.)
 
 ## Say it to your companion
 

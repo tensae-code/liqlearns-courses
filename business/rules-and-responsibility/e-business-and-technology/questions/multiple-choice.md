@@ -126,3 +126,10 @@ b) What digital technology is.
 c) The concept of digital entrepreneurship.
 d) The role of digital financial institutions in promoting financial inclusion: digital money services bringing…
 **Answer: d) The role of digital financial institutions in promoting financial inclusion: digital money services bringing…** — That is what this lesson teaches in its digital-finance part (Mozambique's book.)
+
+**20.** What does this lesson teach about the e-commerce part?
+a) E-commerce: its meaning, nature, origin, functions and importance
+b) Application software used in business, and using it to prepare business documents and reports.
+c) What digital technology is.
+d) The concept of digital entrepreneurship.
+**Answer: a) E-commerce: its meaning, nature, origin, functions and importance** — That is what this lesson teaches in its e-commerce part (Nigeria's book.)

@@ -16,6 +16,8 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Business documents.** The document chain of a business transaction in order: purchase requisition → pro forma invoice → purchase order → invoice on delivery → credit note (returns/overcharge) → debit note (undercharge) → statement of account → stock card; what each document is, when it is used and what it shows, with pro forma invoice vs invoice compared
 
+**Documents.** The documents used in home trade (Nigeria's book.)
+
 ## Sub lesson 2 — The documents a business keeps
 
 **The documents that must be kept.** Malaysia's book turns from single deals to the business's own keeping: the documents that must be kept — invoices, receipts, payment vouchers and the other records of trade. A document's life does not end when the deal ends; the record is kept, because the record is what the business can prove from, later.

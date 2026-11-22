@@ -45,6 +45,14 @@ Business study opens a wide range of career options: the book surveys the paths 
 
 **Careers.** Employment and professional career: work as an employee and building a career (Mozambique's book.)
 
+**Occupations.** Occupation: its meaning and the types of occupation across the industrial, commercial and direct-services sectors (Nigeria's book.)
+
+**Career-choice.** The factors that determine a person's choice of, and eligibility for, different types of employment and occupation (Nigeria's book.)
+
+**Careers.** Career opportunities: a review of occupations and the career opportunities open to commerce graduates in productive occupations (Nigeria's book.)
+
+**Requirements.** The requirements for different careers, and the benefits and hazards of different careers (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options, careers in business, careers in business. Your companion asks one question back — answer it from the lesson.

@@ -22,6 +22,10 @@ Name one thing your country sells to the world and one thing it must buy from th
 
 **Foreign bills and documentary credit in practice.** Nigeria's book works the machinery: clean bills and documentary bills (documents against acceptance, or documents against payment); documentary credit and letters of credit — revocable, irrevocable, confirmed — with the step-by-step mechanism; and standby letters of credit standing behind the deal. The paper moves with the goods, and payment follows the paper.
 
+**Documents.** The main documents (other than transport documents) used in foreign trade (Nigeria's book.)
+
+**Transport-documents.** Transport documents used in foreign trade (Nigeria's book.)
+
 ## Sub lesson 4 — Restrictions — and the trends against them
 
 **Why governments restrict trade.** Trade restrictions — protectionism — are imposed for stated reasons: to protect local infant industries and strategic industries, to create and protect employment, and to prevent the dumping of surplus or substandard goods. Every restriction in this lesson answers to one of those aims; judge it by whether the aim is real.
@@ -78,6 +82,16 @@ Name one thing your country sells to the world and one thing it must buy from th
 **Clearing-goods-through-customs.** Customs: their purpose — collecting the duties and taxes that are a basic state revenue, controlling the quality of imports and exports and barring forbidden goods, and so fixing a country's terms of trade; smuggling (λαθρεμπόριο) and its forms; customs clearance (εκτελωνισμός) — the formalities the holder of goods must complete on import or export, beginning with the written declaration (διασάφηση) by the trader or his representative — and demurrage and unclaimed goods (Greece's book.)
 
 **Why countries trade.** Unit 9.1: the reasons for foreign trade; Papua New Guinea's trading partners, imports and exports (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Opening.** Foreign trade: its advantages and disadvantages, and the barriers to it (Nigeria's book.)
+
+**Divisions.** The divisions of foreign trade: imports, exports and entrepot; bilateral and multilateral trade (Nigeria's book.)
+
+**Procedures.** The procedures for international trade and the agents employed in it, including destination inspection and its requirements (Nigeria's own way) (Nigeria's book.)
+
+**Balances.** Balance of trade and balance of payments (BOP) (Nigeria's book.)
+
+**Restrictions.** Tariffs: why a country imposes them, and the tools of trade restriction and export promotion (Nigeria's book.)
 
 ## Say it to your companion
 

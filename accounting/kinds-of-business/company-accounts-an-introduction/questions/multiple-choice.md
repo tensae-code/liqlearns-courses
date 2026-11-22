@@ -78,3 +78,17 @@ b) Shares and stock: what a share is, and ordinary versus preference shares comp
 c) The kinds of preference shares: convertible, cumulative, participating and redeemable.
 d) Formation of companies: bringing a company into existence and issuing its capital
 **Answer: d) Formation of companies: bringing a company into existence and issuing its capital** — That is what this lesson teaches in its formation part (Fiji's book.)
+
+**12.** What does this lesson teach about the equity part?
+a) Sources of finance and the balance sheet of a limited company: shareholders' funds
+b) Share capital in its stages: authorised/registered, issued, called-up and paid-up capital, and how paid-up capital…
+c) Shares and stock: what a share is, and ordinary versus preference shares compared on dividends, assets on…
+d) The kinds of preference shares: convertible, cumulative, participating and redeemable.
+**Answer: a) Sources of finance and the balance sheet of a limited company: shareholders' funds** — That is what this lesson teaches in its equity part (Nigeria's book.)
+
+**13.** What does this lesson teach about the balance-sheet part?
+a) Share capital in its stages: authorised/registered, issued, called-up and paid-up capital, and how paid-up capital…
+b) Sources of finance and the balance sheet: liabilities and external borrowing, and the balance sheet itself
+c) Shares and stock: what a share is, and ordinary versus preference shares compared on dividends, assets on…
+d) The kinds of preference shares: convertible, cumulative, participating and redeemable.
+**Answer: b) Sources of finance and the balance sheet: liabilities and external borrowing, and the balance sheet itself** — That is what this lesson teaches in its balance-sheet part (Nigeria's book.)

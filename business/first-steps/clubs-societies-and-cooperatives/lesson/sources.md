@@ -1,6 +1,6 @@
 # Sources — Clubs, Societies and Co-operatives
 
-countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea
+countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea, Nigeria
 
 **Book 1:** Business Studies — Year 11, Book One (student book) — Lili Tuioti with subject committee — Government of Samoa, Department of Education, 2003; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-042-5. Year/edition: 2003 (in-hand copy). Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-1.pdf. Verdict: COMPLETE for the assigned strands — the whole book was read; Business parts placed, Economics parts mapped only.
 
@@ -19,6 +19,8 @@ countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea
 
 **Book 8:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 9:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | non-profit organisations as producers | Book 1 (Bus Studies Y11 Bk1), printed p. 18 |
@@ -36,11 +38,14 @@ countries: Samoa, Dominica, Ecuador, Nepal, Malaysia, Papua New Guinea
 | meetings part | Book 7 (Business Studies Y10 Bk 1), printed p. 21 |
 | roles and procedure part | Book 7 (Business Studies Y10 Bk 1), printed p. 22 |
 | forming an association part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed pp. 127–145 |
+| cooperatives part of the lesson | Book 9 (Nigeria Commerce SS2), printed p. 8 |
+| organisation part of the lesson | Book 9 (Nigeria Commerce SS2), printed p. 11 |
+| benefits part of the lesson | Book 9 (Nigeria Commerce SS2), printed p. 15 |
 
-**Acceptance count: taught in 5 countries (Samoa, Dominica, Ecuador, Nepal, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Samoa, Dominica, Ecuador, Nepal, Malaysia, Nigeria)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
 This lesson stands on ONE placement, honestly labelled: the fuller clubs/societies teaching expected from Samoa's Book 1s is NOT in Samoa Year 9 Book 1 (verified cover to cover — the Economics wave's contents map pointing to clubs/societies at printed pp. 15–24 of that book was wrong, and nothing is stocked from the wrong map). Its likely source is the pending Samoa Year 10 Book 1; the lesson grows when that book is read.
 
-Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal, malaysia, papua-new-guinea
+Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal, malaysia, papua-new-guinea, nigeria

@@ -10,6 +10,14 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **The Central Bank.** The Central Bank is set up by government to manage and control the supply of and demand for money — monetary control, aimed at growth, employment, stable prices, balanced development and balance-of-payments equilibrium. Its functions: issuing currency; banker to the commercial banks; the government's bank and adviser; controlling the commercial banks; the link to external institutions such as the IMF and World Bank; stabilising exchange rates; lender of last resort; clearing cheques; and administering the public debt.
 
+**Bank-types.** Commercial (universal) banks and merchant banks (Nigeria's book.)
+
+**Bank-types.** Microfinance banks, mortgage banks, mutual organisation banks and development banks (Nigeria's book.)
+
+**Non-bank.** Financial institutions that are not banks (Nigeria's book.)
+
+**E-banking.** Computers and electronic banking (Nigeria's book.)
+
 ## Sub lesson 2 — Commercial banks and their services
 
 **Commercial banks — how they profit.** Commercial banks are trading businesses, making profit by financial intermediation: interest on loans and overdrafts — their largest asset; investment in government securities such as Treasury bills; and charges for services — ledger fees, standing orders, banker's cheques, credit transfers, salary processing. A bank earns by standing between savers and borrowers and by serving both.
@@ -138,6 +146,18 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 **Money.** The development and functions of money: how money developed and what it does in exchange (Fiji's book.)
 
 **Payment.** Methods of payment: the ways of paying, from cash and cheques to mobile money transfers (M-PAiSA, Fiji's own way) and plastic money (Fiji's book.)
+
+**Payment.** Methods of payment in foreign trade (Nigeria's book.)
+
+**Money.** Money: its meaning, the evolution of money in Nigeria, and the forms of non-electronic money (Nigeria's book.)
+
+**E-money.** Electronic money (e-money) and the qualities and functions of money (Nigeria's book.)
+
+**Opening.** Banking: what a bank is and the types of banks in Nigeria, opening with the Central Bank of Nigeria (CBN) (Nigeria's book.)
+
+**Card-payment.** Payment through plastic-card technology (Nigeria's book.)
+
+**Money-transfer.** Payment through money transfer service organisations (Western Union, MoneyGram and others) (Nigeria's book.)
 
 ## Say it to your companion
 

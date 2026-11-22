@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** First Steps · **Lesson:** Wholesale Trade
 **Place in the curriculum:** Unit — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** the wholesaler stands in the middle of the chain of distribution — buying in bulk from producers and selling on to retailers — and every middleman in the chain does real work and adds a real charge.
-**This lesson's own level:** Unit — First Steps, lesson 3 of 15 in the course ladder; it stands on Retail Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — First Steps, lesson 3 of 17 in the course ladder; it stands on Retail Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -36,7 +36,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Middlemen part; Channels part; Wholesaler part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a warehouse stacked with sacks, a wholesaler breaking one big delivery into small piles for five different shopkeepers — the student points to the breaking-bulk moment and says why it matters.

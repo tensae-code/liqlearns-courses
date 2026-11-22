@@ -40,6 +40,8 @@ Two friends run a shop together — one put in more money, one works longer hour
 
 **Adjustments.** Capital adjustments: changes in profit-sharing ratio, goodwill and revaluation worked through the partners' capital accounts (Fiji's book.)
 
+**Balance-sheet.** The balance sheet of a partnership (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: partners share what the business earns by agreement: the appropriation account divides profit through interest on capital, salaries and the agreed ratio, and each partner's capital and current accounts keep their claims apart. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, appropriation part, equity and final-accounts part, dissolution part, partners' capital accounts, partners' current accounts and profit sharing. Your companion asks one question back — answer it from the lesson.

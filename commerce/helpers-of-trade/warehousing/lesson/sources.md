@@ -1,6 +1,6 @@
 # Sources — Warehousing
 
-countries: Dominica, Nepal, Sudan, Greece
+countries: Dominica, Nepal, Sudan, Greece, Nigeria
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -10,6 +10,10 @@ countries: Dominica, Nepal, Sudan, Greece
 
 **Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
+**Book 5:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
+**Book 6:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | warehousing | Book 1 (Principles of Business for CSEC), printed pp. 245–246 |
@@ -17,9 +21,13 @@ countries: Dominica, Nepal, Sudan, Greece
 | warehousing | Book 3 (Commercial Science G12 (Sudan)), printed p. 6 |
 | the using-a-public-warehouse part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 139–140 |
 | the warehouse-documents part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 141–142 |
+| warehouse-types part of the lesson | Book 5 (Nigeria Commerce SS1), printed p. 65 |
+| warehouse-receipts part of the lesson | Book 5 (Nigeria Commerce SS1), printed p. 128 |
+| opening part of the lesson | Book 6 (Nigeria Commerce SS2), printed p. 172 |
+| functions part of the lesson | Book 6 (Nigeria Commerce SS2), printed p. 176 |
 
-**Acceptance count: taught in 4 countries (Dominica, Nepal, Sudan, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Dominica, Nepal, Sudan, Greece, Nigeria)** — every book above is a student book, so each country counts.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`warehousing`); Dominica's book is the first read book to place it, so it is built now, among the Helpers of Trade, where TITLES.md names its place.
 
-Searchable tags: warehousing, helpers of trade, commerce, dominica, nepal, sudan, greece
+Searchable tags: warehousing, helpers of trade, commerce, dominica, nepal, sudan, greece, nigeria

@@ -151,6 +151,8 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Digital-finance.** The role of digital financial institutions in promoting financial inclusion: digital money services bringing people into finance (Mozambique's book.)
 
+**E-commerce.** E-commerce: its meaning, nature, origin, functions and importance (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

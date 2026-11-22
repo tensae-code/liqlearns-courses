@@ -1,6 +1,6 @@
 # Sources — Careers in Business
 
-countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua New Guinea, Fiji, Mozambique
+countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua New Guinea, Fiji, Mozambique, Nigeria
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -28,6 +28,10 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua
 
 **Book 13:** Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, Programa do Ensino Secundário à Distância, 1º Ciclo (student book) — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Year / edition: 2023. Grade: PESD I, 1º ciclo (Grades 7–9, the cycle taught as one module). Language: Portuguese. Page count: 157 PDF pages, printed pp. 1–156 (printed page = PDF page − 1). Source: manifest manifests-phase2/mozambique.json n=4; fetched via fetch_book.py, route tree, 4,305,559 B = expected exactly, to scratch-phase2/mozambique/moz-4.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its text layer to the last teaching page (Lição 26, printed p. 135+). The file carries a diagonal 'Venda proibida' (sale forbidden) production watermark; the text layer reads clean through it. All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
+**Book 14:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
+**Book 15:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | what the new lesson would teach: the career paths business study opens | Book 1 (Principles of Business for CSEC), printed p. 43 |
@@ -46,8 +50,12 @@ countries: Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Papua
 | careers part of the lesson | Book 11 (Year 10 Commercial Studies), printed p. 46 |
 | careers part of the lesson | Book 12 (Year 9 Commercial Studies), printed p. 83 |
 | careers part of the lesson | Book 13 (Módulo de Empreendedorismo (PESD I)), printed p. 32 |
+| occupations part of the lesson | Book 14 (Nigeria Commerce SS1), printed p. 20 |
+| career-choice part of the lesson | Book 14 (Nigeria Commerce SS1), printed p. 23 |
+| careers part of the lesson | Book 15 (Nigeria Commerce SS2), printed p. 1 |
+| requirements part of the lesson | Book 15 (Nigeria Commerce SS2), printed p. 3 |
 
-**Acceptance count: taught in 9 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Fiji, Mozambique)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 10 countries (Dominica, Iran, Indonesia, Egypt, Greece, Malaysia, Kazakhstan, Fiji, Mozambique, Nigeria)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Papua New Guinea's teacher guides named above — a teacher guide is evidence only, acceptance 0, and Papua New Guinea is not counted in the teaching countries in the acceptance line above.
 
@@ -55,4 +63,4 @@ Teacher-guide evidence: this lesson also carries evidence from Indonesia's teach
 
 Filed name note: this placement was filed as a NEW lesson proposal (`careers-in-business`) in dominica-placements.md. Human Resources in Business teaches the business's side of people — planning, recruiting, pay, employability — not the worker's own career path, specialisation or career options; the registry therefore settles it as this new lesson of the Business course, under the same slug.
 
-Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan, papua-new-guinea, fiji, mozambique
+Searchable tags: careers in business, starting and running, business, dominica, iran, indonesia, egypt, greece, malaysia, kazakhstan, papua-new-guinea, fiji, mozambique, nigeria

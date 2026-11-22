@@ -24,6 +24,8 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan, 
 
 **Book 11:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 12:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
 | Lesson part | Where it comes from |
 |---|---|
 | documents part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 108 |
@@ -54,6 +56,7 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan, 
 | documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 138 |
 | documents part of the lesson | Book 10 (Kenya Business Form 1), PDF p. 139 |
 | documents of trade part of the lesson (teacher guide) | Book 11 (PNG Business Studies TG 9–10 LS (2006)), printed pp. 127–145 |
+| documents part of the lesson | Book 12 (Nigeria Commerce SS1), printed p. 66 |
 
 **Acceptance count: taught in 8 countries (Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan)** — every book above is a student book, so each country counts.
 

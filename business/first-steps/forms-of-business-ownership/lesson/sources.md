@@ -47,6 +47,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 20:** Módulo 2 de Empreendedorismo (Entrepreneurship Module 2 — opportunities, SWOT, business law and finance) (student book) — Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique. Grade: PESD II, 2º ciclo (Grades 10–12). Language: Portuguese. Page count: 106 PDF pages, printed pp. 1–99 (printed page = PDF page − 7). Source: manifest manifests-phase2/mozambique.json n=1; fetched via fetch_book.py, route tree, 672,388 B = expected exactly, to scratch-phase2/mozambique/moz-1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module via its clean text layer to the last teaching page (Lição 18, printed p. 82+). All summaries in this lesson are the reader's English summaries of the Portuguese teaching.
 
+**Book 21:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
+**Book 22:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | registration part | Book 1 (Perniagaan T5), printed p. 163 |
@@ -115,6 +119,13 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | ownership part of the lesson | Book 18 (Year 11 Accounting), printed p. 45 |
 | ownership part of the lesson | Book 19 (Year 10 Commercial Studies), printed p. 49 |
 | legal-forms part of the lesson | Book 20 (Empreendedorismo Módulo 2 (PESD II)), printed p. 41 |
+| sole-proprietor part of the lesson | Book 21 (Nigeria Commerce SS1), printed p. 139 |
+| partnership part of the lesson | Book 21 (Nigeria Commerce SS1), printed p. 145 |
+| public-ownership part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 18 |
+| company part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 23 |
+| comparison part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 35 |
+| combinations part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 42 |
+| combinations part of the lesson | Book 22 (Nigeria Commerce SS2), printed p. 44 |
 
 **Acceptance count: taught in 13 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine, Sudan, Greece, Bhutan, Kazakhstan, Fiji, Mozambique)** — every book above is a student book, so each country counts.
 

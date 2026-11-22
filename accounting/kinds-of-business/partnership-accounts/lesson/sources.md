@@ -1,6 +1,6 @@
 # Sources — Partnership Accounts
 
-countries: Malaysia, Samoa, Greece, Bhutan, Fiji
+countries: Malaysia, Samoa, Greece, Bhutan, Fiji, Nigeria
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -11,6 +11,8 @@ countries: Malaysia, Samoa, Greece, Bhutan, Fiji
 **Book 4:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
 
 **Book 5:** Senior Accounting for Year 13 (student book) — Curriculum Development Unit (Sunita Devi Deo, SEO Accounting; Sheetal Mala Singh and Shiraaz Ali, Research Officers) — Ministry of Education, Suva, Fiji. Year / edition: First produced October 2017, © Ministry of Education. Grade: Year 13. Language: English. Page count: 232 PDF pages, printed pp. 1–231 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=2; fetched via fetch_book.py, route release (mid-size-books-7), 8,267,287 B = expected exactly, to scratch-phase2/fiji/fiji-y13-acct.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (§6.3 cost-volume-profit analysis, before the glossary at printed p. 224).
+
+**Book 6:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,7 +32,8 @@ countries: Malaysia, Samoa, Greece, Bhutan, Fiji
 | formation part of the lesson | Book 5 (Senior Accounting Y13), printed p. 27 |
 | annual-accounts part of the lesson | Book 5 (Senior Accounting Y13), printed p. 39 |
 | adjustments part of the lesson | Book 5 (Senior Accounting Y13), printed p. 57 |
+| balance-sheet part of the lesson | Book 6 (Nigeria Commerce SS1), printed p. 147 |
 
-**Acceptance count: taught in 5 countries (Malaysia, Samoa, Greece, Bhutan, Fiji)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Malaysia, Samoa, Greece, Bhutan, Fiji, Nigeria)** — every book above is a student book, so each country counts.
 
-Searchable tags: partnership accounts, kinds of business, accounting, malaysia, samoa, greece, bhutan, fiji
+Searchable tags: partnership accounts, kinds of business, accounting, malaysia, samoa, greece, bhutan, fiji, nigeria

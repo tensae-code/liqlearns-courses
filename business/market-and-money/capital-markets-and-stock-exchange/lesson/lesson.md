@@ -8,9 +8,13 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 
 **Proposed new lesson on capital markets and the stock exchange.** Raising funds in the primary market: offer for subscription (and the IPO), offer for sale, rights issue, private placement and introduction, and the prospectus that invites the public.
 
+**Market-segments.** The major players in a commodity exchange and its spot, forward and derivatives segments (Nigeria's book.)
+
 ## Sub lesson 2 — Trading — the secondary market
 
 **Proposed capital-markets lesson.** Trading in the secondary market: approaching a broker, limit/market/stop-loss orders, margin credit, and the trading mechanisms (open outcry, call-over, electronic and online trading) and the OTC market.
+
+**Trading.** Commodity standardisation, grading and pricing, and the methods of trading (electronic, open and online) (Nigeria's book.)
 
 ## Sub lesson 3 — The newer instruments — and reading the market
 
@@ -48,6 +52,12 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 **The share market.** Strand 1: capital markets in PNG — the Securities Commission (est. 1998) and its functions; the stock exchange defined; POMSoX, the Port Moresby Stock Exchange (ordinary shares only; no capital gains tax, stamp duty or GST on share transactions; brokers BSP and Kina Securities; listed examples BSP, PNG Air, Credit Corporation); shares defined; common against preference against redeemable preference shares (teacher guide) (Papua New Guinea's teacher guide.)
 
 **Shareholders' rights.** Strand 1: shareholder rights — common shareholders (voting, ownership, transfer, dividends, inspect documents, sue) and preferred shareholders (priority to assets and income, fixed dividend, convertibility, callable) (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Commodity-exchange.** The commodity exchange: its meaning, the attributes and types of commodity, and the evolution, organisation and regulation of commodity trading (Nigeria's book.)
+
+**Clearing.** Trade clearing, registration, settlement and the clearing house, and delivery (Nigeria's book.)
+
+**Comparison.** Commodities against stocks: similarities and differences, the benefits of a commodity exchange and the constraints on commodity trading (Nigeria's book.)
 
 ## Say it to your companion
 

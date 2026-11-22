@@ -48,6 +48,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 22:** Year 9 Commercial Studies: A Smart Approach (student book) — Curriculum Development Unit, Ministry of Education, Fiji — Ministry of Education, Suva, Fiji. Year / edition: amended edition, February 2017 production. Grade: Year 9. Language: English. Page count: 186 PDF pages, printed pp. 1–185 (printed page = PDF page − 1). Source: manifest manifests-phase2/fiji.json n=4; fetched via fetch_book.py, route tree, 7,837,694 B = expected exactly, to scratch-phase2/fiji/fiji-y9-comm.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Strand Two Lesson 6, printed p. 127+).
 
+**Book 23:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
 | Lesson part | Where it comes from |
 |---|---|
 | balance sheet part of the lesson | Book 1 (Kenya Business Form 3), printed p. 97 |
@@ -101,6 +103,7 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | final-accounts part of the lesson | Book 20 (Year 12 Accounting), printed p. 84 |
 | final-accounts part of the lesson | Book 21 (Year 10 Commercial Studies), printed p. 115 |
 | statements part of the lesson | Book 22 (Year 9 Commercial Studies), printed p. 118 |
+| balance-sheet part of the lesson | Book 23 (Nigeria Commerce SS1), printed p. 140 |
 
 **Acceptance count: taught in 11 countries (Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia, Sudan, Tanzania, Greece, Fiji)** — every book above is a student book, so each country counts.
 

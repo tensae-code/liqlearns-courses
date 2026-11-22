@@ -16,6 +16,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 7:** Inventor 1 — Secondary Business Studies, Form One Students' Book (student book) — authors not visible in this copy (the title and imprint pages are blanked in the scan, and no author names appear on either cover) — Kenya Literature Bureau (KLB), Nairobi (cover carries the KLB seal and the "Approved by the Ministry of Education" band). Year / edition: no year or edition statement survives in this copy; ISBN 978-9966-44-800-2, read from the back-cover barcode. Grade: Form One (grade-9 equivalent). Language: English. Page count: 173 PDF pages; no printed folio survives anywhere in this copy, so all citations from this book are by PDF page. Source: manifest manifests-phase2/kenya.json n=1; fetched via fetch_book.py, route tree, 3,260,133 B = expected exactly, to scratch-phase2/kenya/kenya-business-form1-inventor.pdf (read copy deleted after the read — the copy is secured on GitHub). Verdict: PARTIAL — the library's secured copy is a defective, text-blanked Studocu preview (image-only; the full-page body images are pure white): only the covers, diagrams, photographs, specimen documents, emptied table frames and one worked-calculation fragment survive, and the placements stocked from this book are filed from those surviving specimens and diagrams only. LIBRARY DEBT: a readable copy is still needed before this book can be read in full.
 
+**Book 8:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the retailer's side part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 19 |
@@ -25,6 +27,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | retail trade | Book 5 (Entrepreneurship S1), printed p. 26 |
 | the modern-retail-forms part of the lesson | Book 6 (Sygchrones Synallages B EPAL), printed pp. 37–38 |
 | types of retailers part of the lesson | Book 7 (Kenya Business Form 1), PDF p. 104 |
+| retailer part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 48 |
+| small-outlets part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 50 |
+| large-outlets part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 54 |
+| retail-success part of the lesson | Book 8 (Nigeria Commerce SS1), printed p. 61 |
 
 **Acceptance count: taught in 7 countries (Nigeria, Samoa, Dominica, Nepal, Uganda, Greece, Kenya)** — every book above is a student book, so each country counts.
 

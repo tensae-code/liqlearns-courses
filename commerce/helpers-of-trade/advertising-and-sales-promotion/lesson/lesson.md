@@ -37,6 +37,12 @@ Think of the last thing you bought because something persuaded you. Was it a per
 
 **Promotion.** Strand 3 Unit 1: promotion — its methods (display, cash discounts, giveaways, lucky draws, sponsorships, media advertising) and purposes; the promotional mix (advertising, publicity/PR/sponsorship, personal interaction, direct marketing, sales promotions); the costs of promotion and the factors in choosing media; low-cost promotion (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Opening.** Advertising: its meaning and nature, its roles, and its types (Nigeria's book.)
+
+**Methods.** Direct versus indirect methods of advertising, sales promotion as indirect advertising, and other advertising forms (Nigeria's book.)
+
+**Evaluation.** The advantages and disadvantages of advertisement (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the four forms compared, personal selling and public relations, sales promotion, consumer and trade, advertising, advertising and sales promotion. Your companion asks one question back — answer it from the lesson.

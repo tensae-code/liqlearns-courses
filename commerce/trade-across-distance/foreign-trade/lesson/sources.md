@@ -20,6 +20,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 8:** Business Studies — Lower Secondary Teacher Guide, Grades 9–10 (teacher guide) — coordinated by Jennifer Sangga; Papua New Guinea Department of Education, with CRIP / Australian Government support — Department of Education, Papua New Guinea. Year / edition: published 2006; ISBN 9980-935-45-6. Grade: Lower Secondary (Grades 9–10). Language: English. Page count: 145 PDF pages = 145 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=2; fetched via fetch_book.py, route tree, 1,025,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs-ls-tg.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last page, including all four Options and the Appendix of sample documents. TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 9:** Commerce for Senior Secondary Schools 1 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (published by Learn Africa Plc as successor imprint — imprint page carries Learn Africa Plc, Felix Iwerebon House, 52 Oba Akran Avenue, Ikeja). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. Grade: Senior Secondary 1 (SS1, grade-10 equivalent). Language: English. Page count: 168 PDF pages (main text to printed p. 152+). Source: manifest manifests-phase2/nigeria.json n=3; fetched via fetch_book.py, route release-search, 44,065,185 B = expected exactly, to scratch-phase2/nigeria/nig-ss1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 11 Money).
+
 | Lesson part | Where it comes from |
 |---|---|
 | foreign trade part of the lesson | Book 1 (Kenya Business Form 4), printed p. 163 |
@@ -56,6 +58,13 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the kinds-of-trade-by-place part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed pp. 33–36 |
 | the clearing-goods-through-customs part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed pp. 145–150 |
 | why countries trade part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed p. 27 |
+| opening part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 71 |
+| divisions part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 73 |
+| procedures part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 75 |
+| documents part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 80 |
+| transport-documents part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 86 |
+| balances part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 95 |
+| restrictions part of the lesson | Book 9 (Nigeria Commerce SS1), printed p. 100 |
 
 **Acceptance count: taught in 8 countries (Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan, Tanzania, Greece)** — every book above is a student book, so each country counts.
 

@@ -20,11 +20,14 @@ The grade a book comes from lives only in each lesson's sources.
 11. Advertising and Sales Promotion — `helpers-of-trade/advertising-and-sales-promotion/`
 12. Insurance in Commerce — `helpers-of-trade/insurance-in-commerce/`
 13. Banking Services for Trade — `helpers-of-trade/banking-services-for-trade/`
-14. Trade Organisations and Institutions — `institutions-and-the-consumer/trade-organisations-and-institutions/`
-15. Consumer Protection in Trade — `institutions-and-the-consumer/consumer-protection-in-trade/`
+14. Arbitration and Trade Disputes — `helpers-of-trade/arbitration-and-trade-disputes/`
+15. Tourism in Trade — `helpers-of-trade/tourism-in-trade/`
+16. Trade Organisations and Institutions — `institutions-and-the-consumer/trade-organisations-and-institutions/`
+17. Consumer Protection in Trade — `institutions-and-the-consumer/consumer-protection-in-trade/`
 
 ## Held as expected-from-pending (not built — no placements yet)
 
 - Warehousing — `warehousing` was held here until Dominica's *Principles of Business for CSEC Examinations* (Second Edition, Macmillan 2019) was read in the Phase 2 wave; built from its placement on 2026-11-22, among the Helpers of Trade, and stands in the ladder above.
 - Communication in Trade — `communication-in-trade` was held here until Nepal's *Business Studies, Class 11* (Government of Nepal, Curriculum Development Centre, 2082 BS) was read in the Phase 2 wave; built from its placement on 2026-11-22, among the Helpers of Trade, and stands in the ladder above.
-- Arbitration and Trade Disputes — `arbitration-and-trade-disputes` (held on the spine; built only if a read book places it)
+- Arbitration and Trade Disputes — `arbitration-and-trade-disputes` was held here until Nigeria's *Commerce for Senior Secondary Schools 1* (Longman Nigeria, new edition 2011) was read in the Phase 2 wave; built from its placement on 2026-11-22, among the Helpers of Trade, and stands in the ladder above. It was the last expected-from-pending slug — none remains unbuilt.
+- Tourism in Trade — `tourism-in-trade` was proposed NEW by Nigeria's *Commerce for Senior Secondary Schools 2* (Chapter 9, tourism as a trade service); checked against every existing Commerce lesson — none teaches tourism as its one thing — and built on 2026-11-22, among the Helpers of Trade, in the ladder above.

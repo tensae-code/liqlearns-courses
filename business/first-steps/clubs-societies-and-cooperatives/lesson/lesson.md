@@ -37,6 +37,12 @@ Not-for-profit private organisations — charities, local sports and social club
 
 **Forming an association.** Appendix: the steps to incorporating an association (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Cooperatives.** Cooperative societies: their meaning and nature, formation, and the history and principles of the cooperative movement (Nigeria's book.)
+
+**Organisation.** The characteristics, financing, internal management and types of cooperative societies, and their primary, secondary and apex bodies (Nigeria's book.)
+
+**Benefits.** The benefits and problems of cooperative societies (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

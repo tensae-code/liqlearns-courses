@@ -21,6 +21,8 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New
 
 **Book 9:** Business Studies — Junior High — Grade 9 — Teacher Guide — Standards-Based (teacher guide) — Papua New Guinea Department of Education; graphic design and layout by David Kuki Gerega; marked "FREE ISSUE NOT FOR SALE" — Department of Education, Papua New Guinea. Year / edition: published 2023; ISBN 978-9980-921-04-8. Grade: Grade 9 (Junior High). Language: English. Page count: 324 PDF pages = 324 printed pages. Source: manifest manifests-phase2/papua-new-guinea.json n=3; fetched via fetch_book.py, route release-search, 26,160,225 B = expected exactly, to scratch-phase2/papua-new-guinea/png-bs9-tg.pdf (read copy deleted after the read). **Phantom verdict: this record was the suspected phantom push; it is NOT a phantom — the book was found as a GitHub release asset, landed byte-exact, and was read in full. No library debt on this record.** Verdict: COMPLETE — read whole guide; the teaching text sits in the Units of Work (printed pp. 50–228). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 10:** Commerce for Senior Secondary Schools 2 (student book) — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc imprint page as SS1). Year / edition: First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. Grade: Senior Secondary 2 (SS2, grade-11 equivalent). Language: English. Page count: 192 PDF pages (main text to printed p. 172+). Source: manifest manifests-phase2/nigeria.json n=4; fetched via fetch_book.py, route release-search, 70,391,232 B = expected exactly, to scratch-phase2/nigeria/nig-ss2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book via its text layer to the last teaching page (Ch. 12 Warehousing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | promotion part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 86 |
@@ -37,6 +39,9 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan, Papua New
 | promotion mix part | Book 7 (Business and Entrepreneurship XI), printed p. 115 |
 | promotion techniques part of the lesson (teacher guide) | Book 8 (PNG Business Studies TG 9–10 LS (2006)), printed p. 66 |
 | promotion part of the lesson (teacher guide) | Book 9 (PNG Business Studies TG G9 SB (2023)), printed pp. 151–152 |
+| opening part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 95 |
+| methods part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 96 |
+| evaluation part of the lesson | Book 10 (Nigeria Commerce SS2), printed p. 104 |
 
 **Acceptance count: taught in 7 countries (Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
 

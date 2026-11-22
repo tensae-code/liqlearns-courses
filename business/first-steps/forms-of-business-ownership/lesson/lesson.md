@@ -48,6 +48,12 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Legal-forms.** The legal forms of business in Mozambique, taught across two lessons as legislation (Mozambique's book.)
 
+**Sole-proprietor.** Sole proprietorship: its meaning, sources of capital and how its funds are used, with its advantages and disadvantages (Nigeria's book.)
+
+**Partnership.** Partnership: its meaning, types, the deed of partnership and partnership law, financing and dissolution, advantages and disadvantages (Nigeria's book.)
+
+**Company.** Limited liability companies: their nature, formation and incorporation, Memorandum and Articles of Association, and administration (Nigeria's book.)
+
 ## Sub lesson 2 — Forming and registering the business
 
 **Registration.** The procedure for registering a business entity with the Companies Commission of Malaysia (SSM).
@@ -142,6 +148,14 @@ Take three businesses you know: one run by a single person, one run by partners 
 **Ownership.** The six types of business entity found in Fiji, opening with the sole trader: one owner, personal savings/FNPF/bank loans as capital sources, business licence as the legal document, advantages and disadvantages (Fiji's book.)
 
 **Ownership.** Forms of business ownership taught inside the financial accounting lesson (Fiji's book.)
+
+**Public-ownership.** Public enterprises: their nature, management and financing, why government owns some enterprises, and the problems public enterprises face (Nigeria's book.)
+
+**Comparison.** The advantages and disadvantages of a limited liability company (Nigeria's book.)
+
+**Combinations.** Joint ventures and consortiums as ways businesses combine (Nigeria's book.)
+
+**Combinations.** Amalgamation and merger, holding companies, cartels, trusts and combines, and large-scale organisations compared (Nigeria's book.)
 
 ## Say it to your companion
 

@@ -298,10 +298,15 @@ they are named here so the read set is whole.
 
 - *Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, 1º Ciclo* — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique, 2023. **PESD I, 1º ciclo (Grades 7–9). STUDENT book. Language: Portuguese.** 157 PDF pages (printed pp. 1–156). **Verdict: COMPLETE** — read whole module via its text layer (the file carries a diagonal 'Venda proibida' production watermark; the text reads clean through it). Contents map: Unidade 1 notions of entrepreneurship (my goals/my dreams, my community, notions, personal entrepreneurial competencies, dignity of work, employment and career, work contract and workers' rights and duties); Unidade 2 plan and project (plan/project notions, the business plan, SWOT/FOFA, investment projects, business risks, business insurance, barriers and challenges); Unidade 3 implementation and project management (family and business management, financing sources); Unidade 4 micro-enterprise planning (market study notions, consumer rights and duties, identifying investment opportunities, attitudes in using income, the savings plan); Unidade 5 investment and sustainability (sustainable use of resources, human development indicators, population growth and development, financial management, digital financial institutions and financial inclusion). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)It carries no Accounting part; it is named here so the read set stays whole.
 
+
+- *Commerce for Senior Secondary Schools 1* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. **Senior Secondary 1 (SS1, grade-10 equivalent). STUDENT book. Language: English.** 168 PDF pages (main text to Ch. 11, printed p. 152+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Theme 1 Basic information — Ch. 1 Introduction to commerce, Ch. 2 History of commerce in Nigeria, Ch. 3 Occupation, Ch. 4 Production, division of labour, specialisation and exchange; Theme 2 Trade and business organisations — Ch. 5 Trade: types and their relationships, Ch. 6 Home trade, Ch. 7 Foreign trade, Ch. 8 Commodity exchange, Ch. 9 Sole proprietorship, Ch. 10 Partnership, Ch. 11 Money. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)It stocked 2 placements into this course (28 into Commerce, 11 into Business).
+
+- *Commerce for Senior Secondary Schools 2* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. **Senior Secondary 2 (SS2, grade-11 equivalent). STUDENT book. Language: English.** 192 PDF pages (main text to Ch. 12, printed p. 172+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Ch. 1 Career opportunities; Ch. 2 Cooperative societies; Ch. 3 Public enterprises; Ch. 4 Limited liability companies; Ch. 5 Trade associations and other enterprises; Ch. 6 Transportation; Ch. 7 Communication; Ch. 8 Advertising; Ch. 9 Tourism; Ch. 10 Insurance; Ch. 11 Banking; Ch. 12 Warehousing. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)It stocked 2 placements into this course (32 into Commerce, 11 into Business).
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 37 lessons, stocked with
-  634 placements in all — 566 of them from **student books** of 14 countries (Dominica,
+  638 placements in all — 570 of them from **student books** of 14 countries (Dominica,
   Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Bhutan) — taught in 14 countries;
   the other 68 are teacher-guide evidence from Zambia, Indonesia and Papua New Guinea (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
@@ -367,12 +372,7 @@ hold lifts and they are read.
   placements. The copies read are byte-matching copies in hand
   (byte sizes verified against the assignment); nothing in this
   course claims a GitHub copy of either book exists.
-- **Nigeria Commerce SS3 ISBN:** the ISBN is carried as filed
-  in the placements file — 978 978 026 754 4. The other
-  transcription, 978 978 026 089 4, appeared in an early note
-  and is named here as unresolved; settling it needs one fresh
-  look at the book's copyright page (a book fetch — NOT done
-  under the disk hold).
+- **Nigeria Commerce SS3 ISBN — RESOLVED (2026-11-22, Nigeria Phase 2 merge):** the SS1 and SS2 imprints read in this wave (ISBN 978 978 026 730 8 and 978 978 026 742 1) establish the Longman series block rising by 12 per volume (730 8 → 742 1 → 754 4), so SS3's correct ISBN is **978 978 026 754 4** — the value the placements file carried and the value already standing in this course's sources (checked in every SS3 sources entry: confirmed, no change needed). The early-note transcription 978 978 026 089 4 does not fit the series pattern and is superseded.
 
 - **Kenya Form One — PARTIAL read, library debt:** Kenya's
   *Inventor 1 — Secondary Business Studies, Form One Students'

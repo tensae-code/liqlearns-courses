@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Trade Across Distance · **Lesson:** Foreign Trade
 **Place in the curriculum:** Unit — Trade Across Distance (CURRICULUM.md).
 **The one thing this lesson teaches:** foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them.
-**This lesson's own level:** Unit — Trade Across Distance, lesson 7 of 15 in the course ladder; it stands on Transport in Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Trade Across Distance, lesson 7 of 17 in the course ladder; it stands on Transport in Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -37,7 +37,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Opening part; Divisions part; Procedures part; Documents part; Transport-documents part; Balances part; Restrictions part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of two ports facing each other across a sea, a ship between them and a large envelope marked with documents travelling above it — the student names the ship's load, the documents, and who guarantees the payment.

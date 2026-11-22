@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Commercial Documents
 **Place in the curriculum:** Unit — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal.
-**This lesson's own level:** Unit — Helpers of Trade, lesson 8 of 15 in the course ladder; it stands on Foreign Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Helpers of Trade, lesson 8 of 17 in the course ladder; it stands on Foreign Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -36,7 +36,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Documents part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a desk with a neat row of papers — enquiry, quotation, order, invoice, delivery note, statement, receipt — each with an arrow to the next — the student follows the row and says what each paper proves.

@@ -32,6 +32,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Organising production.** Strand 2 Unit 1: specialisation and division of labour — the types of specialisation and their advantages and disadvantages (teacher guide) (Papua New Guinea's teacher guide.)
 
+**Production.** Production and its factors, and goods, services and commodities distinguished (Nigeria's book.)
+
 ## Sub lesson 2 — The size of a firm — scale, economies and diseconomies
 
 **Scale.** Telling the size of a firm: by number of employees, volume of output, floor area of premises, capital invested in assets, production methods/technology, size of market served and sales volume — and the weakness of each measure.
@@ -146,6 +148,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **ABC.** The ABC diagram: classifying stock items so the most valuable get the most careful management (class A items managed most closely) (Mozambique's book.)
 
 **ABC-in-practice.** Building the ABC diagram, worked (Mozambique's book.)
+
+**Division-of-labour.** Specialisation and division of labour, and how production, division of labour, specialisation and exchange interrelate (Nigeria's book.)
 
 ## Say it to your companion
 

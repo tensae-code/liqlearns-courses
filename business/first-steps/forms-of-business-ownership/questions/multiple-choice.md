@@ -140,3 +140,17 @@ b) The legal forms of business in Mozambique, taught across two lessons as legis
 c) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
 d) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
 **Answer: b) The legal forms of business in Mozambique, taught across two lessons as legislation** — That is what this lesson teaches in its legal-forms part (Mozambique's book.)
+
+**22.** What does this lesson teach about the sole-proprietor part?
+a) Introduction to the types of business ownership found in Malaysia.
+b) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
+c) Sole proprietorship: its meaning, sources of capital and how its funds are used, with its advantages and…
+d) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
+**Answer: c) Sole proprietorship: its meaning, sources of capital and how its funds are used, with its advantages and…** — That is what this lesson teaches in its sole-proprietor part (Nigeria's book.)
+
+**23.** What does this lesson teach about the partnership part?
+a) Introduction to the types of business ownership found in Malaysia.
+b) Sole proprietorship and partnership in detail: features, advantages and disadvantages of each.
+c) The company limited by shares, private (Sendirian) and public (Awam) compared point by point (owners, capital,…
+d) Partnership: its meaning, types, the deed of partnership and partnership law, financing and dissolution,…
+**Answer: d) Partnership: its meaning, types, the deed of partnership and partnership law, financing and dissolution,…** — That is what this lesson teaches in its partnership part (Nigeria's book.)

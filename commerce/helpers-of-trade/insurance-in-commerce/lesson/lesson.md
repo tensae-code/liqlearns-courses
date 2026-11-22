@@ -10,6 +10,10 @@ Imagine a fire takes a trader's whole stock in one night. Alone, he is ruined. N
 
 **The three principles.** Three principles guard the pool. Insurable interest: you may only insure what you stand to lose. Indemnity: a loss is made good, never profited from. Utmost good faith: tell the insurer the whole truth — false details void the claim. Break any one of the three and the protection breaks with it.
 
+**Principles.** The history of insurance companies in Nigeria and the basic principles that apply to all classes of insurance (Nigeria's book.)
+
+**Indemnity-principles.** The principles that apply to indemnity insurance alone (Nigeria's book.)
+
 ## Sub lesson 2 — The policies a trader can take
 
 **The policy family, sorted three ways.** Samoa sorts its policies three ways. Personal and family: life, home, contents, travel, motor vehicle. Business protection: freight, marine, cargo, theft by employees, commercial vehicle, loss of income or rent. Social protection: accident compensation, national superannuation, medical, natural disaster. One family of promises, sorted by whose loss it covers.
@@ -39,6 +43,16 @@ Imagine a fire takes a trader's whole stock in one night. Alone, he is ruined. N
 **Insurance as a trade service.** The general principles of insurance: utmost good faith, insurable interest, indemnity (only the actual loss is paid — an insured vehicle worth a stated sum can never pay more than that sum; insurance compensates, it does not profit), contribution, subrogation, proximate cause (the fire, not the water used to fight it, is the cause of the loss), and mitigation of loss (the insured must still try to lessen the damage) (Nepal's book.)
 
 **How insurance works.** Strand 5: insurance for e-business — insurance as the pooling or sharing of risks (premiums into a fund, compensation from the fund); insurers and the insured; insurance brokers and agents in PNG and their commissions; the principles of insurance (utmost good faith, insurable interest, indemnity); the steps to taking out insurance (proposal form, premium, cover note, policy); and making a claim (teacher guide) (Papua New Guinea's teacher guide.)
+
+**Opening.** Insurance: its nature, insurance companies and underwriting, and insurable versus non-insurable risks (Nigeria's book.)
+
+**Information.** The basic insurance problems of information asymmetry: adverse selection and moral hazard (Nigeria's book.)
+
+**People-and-regulation.** Agents, brokers, loss adjusters, the contract of insurance and bancassurance; group insurance, reinsurance and the regulatory authority (Nigeria's book.)
+
+**Types.** Types of insurance business: non-indemnity insurance and indemnity insurance, opening with marine insurance (Nigeria's book.)
+
+**Risks.** The other forms of indemnity insurance, the categories of risk (pure versus speculative, fundamental versus particular), and the importance of insurance (Nigeria's book.)
 
 ## Say it to your companion
 

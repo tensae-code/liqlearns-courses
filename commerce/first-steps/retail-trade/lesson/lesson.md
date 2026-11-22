@@ -23,6 +23,14 @@ Methods of retailing compared: shops (convenience shops, supermarkets), departme
 
 **Types of retailers.** Retail trade classified by whether the trader has a shop: without shops — itinerant traders (hawkers and peddlers), roadside traders, open-air market traders and automatic vending machines; with shops — single shops, tied shops, kiosks, mobile shops, market stalls, canteens and mail-order stores (Kenya's book.)
 
+**Retailer.** The functions of retailers, and the factors necessary in setting up a retail trade (Nigeria's book.)
+
+**Small-outlets.** Small-scale retail outlets: their types, and why small-scale retailing still thrives (Nigeria's book.)
+
+**Large-outlets.** Large-scale retail outlets and modern trends in retailing, including trading on the Internet (online retailing) (Nigeria's book.)
+
+**Retail-success.** Why a retail business may thrive or fail (Nigeria's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.

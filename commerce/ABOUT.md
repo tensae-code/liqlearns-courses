@@ -153,10 +153,15 @@ set is whole.
 
 - *Módulo de Empreendedorismo (Entrepreneurship Module) — PESD I, 1º Ciclo* — elaborated by Samuel Joaquim Uache and Beatriz H. M. Manjama — República de Moçambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Mozambique, 2023. **PESD I, 1º ciclo (Grades 7–9). STUDENT book. Language: Portuguese.** 157 PDF pages (printed pp. 1–156). **Verdict: COMPLETE** — read whole module via its text layer (the file carries a diagonal 'Venda proibida' production watermark; the text reads clean through it). Contents map: Unidade 1 notions of entrepreneurship (my goals/my dreams, my community, notions, personal entrepreneurial competencies, dignity of work, employment and career, work contract and workers' rights and duties); Unidade 2 plan and project (plan/project notions, the business plan, SWOT/FOFA, investment projects, business risks, business insurance, barriers and challenges); Unidade 3 implementation and project management (family and business management, financing sources); Unidade 4 micro-enterprise planning (market study notions, consumer rights and duties, identifying investment opportunities, attitudes in using income, the savings plan); Unidade 5 investment and sustainability (sustainable use of resources, human development indicators, population growth and development, financial management, digital financial institutions and financial inclusion). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)It stocked 1 placement into this course (24 more into Business).
 
+
+- *Commerce for Senior Secondary Schools 1* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 2011); reprinted 2014; ISBN 978 978 026 730 8. **Senior Secondary 1 (SS1, grade-10 equivalent). STUDENT book. Language: English.** 168 PDF pages (main text to Ch. 11, printed p. 152+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Theme 1 Basic information — Ch. 1 Introduction to commerce, Ch. 2 History of commerce in Nigeria, Ch. 3 Occupation, Ch. 4 Production, division of labour, specialisation and exchange; Theme 2 Trade and business organisations — Ch. 5 Trade: types and their relationships, Ch. 6 Home trade, Ch. 7 Foreign trade, Ch. 8 Commodity exchange, Ch. 9 Sole proprietorship, Ch. 10 Partnership, Ch. 11 Money. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)It stocked 28 placements into this course (11 more into Business, 2 into Accounting) — one of them the first placement of the new lesson Arbitration and Trade Disputes.
+
+- *Commerce for Senior Secondary Schools 2* — M. O. Odedokun, P. C. Udokogu, C. O. N. Oguji — Longman Nigeria Plc, Ikeja, Lagos (Learn Africa Plc as successor imprint). First published 1990; new edition 2011 (© Longman Nigeria Plc 1990, 2011); reprinted 2014; ISBN 978 978 026 742 1. **Senior Secondary 2 (SS2, grade-11 equivalent). STUDENT book. Language: English.** 192 PDF pages (main text to Ch. 12, printed p. 172+). **Verdict: COMPLETE** — read whole book via its text layer. Contents map: Ch. 1 Career opportunities; Ch. 2 Cooperative societies; Ch. 3 Public enterprises; Ch. 4 Limited liability companies; Ch. 5 Trade associations and other enterprises; Ch. 6 Transportation; Ch. 7 Communication; Ch. 8 Advertising; Ch. 9 Tourism; Ch. 10 Insurance; Ch. 11 Banking; Ch. 12 Warehousing. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)It stocked 32 placements into this course (11 more into Business, 2 into Accounting) — one of them the only placement of the new lesson Tourism in Trade.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 251 placements from **student books** of 17
+  stocked with 311 placements from **student books** of 17
   countries (Dominica, Ecuador, Fiji, Greece, Indonesia, Kenya, Malaysia, Mozambique, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
   taught in 17 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
@@ -180,17 +185,13 @@ set is whole.
 
 ## The pending queue — Commerce books not yet in the course
 
-3 Commerce books are in hand in the library record but
+1 Commerce book is in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
 (every [COMMERCE] entry, with its status). None of their
 teaching is in this course yet; the course grows when the disk
 hold lifts and they are read.
-
-**Nigeria (2):**
-- [COMMERCE · student] Commerce SS1 (Grade 10) — secured-not-on-disk
-- [COMMERCE · student] Commerce SS2 (Grade 11) — secured-not-on-disk
 
 **Sri Lanka (1):**
 - [COMMERCE · textbook] Grade 10 Commerce — introductory book (வணிகம் (ஆரம்பநூல்)) — Tamil medium, 1974 edition (grade-10) — secured-not-on-disk
@@ -202,13 +203,7 @@ hold lifts and they are read.
   duplicated pages, so PDF-to-printed pagination drifts; ALL
   Kenya citations in this course use the printed folio numbers,
   exactly as filed.
-- **Nigeria Commerce SS3 ISBN:** the ISBN was transcribed two
-  ways during the read — **978 978 026 754 4** in the placements
-  file, 978 978 026 089 4 in an early note. The placements
-  file's value (978 978 026 754 4) is carried in this course's
-  sources, with the other transcription (978 978 026 089 4)
-  named here as unresolved; settling it needs one fresh look at
-  the book's copyright page, not done under the disk hold.
+- **Nigeria Commerce SS3 ISBN — RESOLVED (2026-11-22, Nigeria Phase 2 merge):** the SS1 and SS2 imprints read in this wave (ISBN 978 978 026 730 8 and 978 978 026 742 1) establish the Longman series block rising by 12 per volume (730 8 → 742 1 → 754 4), so SS3's correct ISBN is **978 978 026 754 4** — the value the placements file carried and the value already standing in this course's sources (checked in every SS3 sources entry: confirmed, no change needed). The early-note transcription 978 978 026 089 4 does not fit the series pattern and is superseded.
 - **Consumer protection — the Economics titles are not
   touched:** the Economics wave also placed consumer protection
   inside the Economics titles in `social-studies/`. The
@@ -222,10 +217,15 @@ hold lifts and they are read.
   Dominica's *Principles of Business for CSEC Examinations*
   (Second Edition, Macmillan 2019), the first read book to
   place it, in the Phase 2 pending-queue merge. Communication
-  in Trade and Arbitration and Trade Disputes remain held,
-  named in CURRICULUM.md as expected-from-pending, to be built
-  when the pending books that teach them are read. No empty
-  lesson stands in this course.
+  in Trade was built from Nepal's book in the same wave, and
+  Arbitration and Trade Disputes — the last held slug — was
+  built on 2026-11-22 from Nigeria's *Commerce for Senior
+  Secondary Schools 1*, the first read book to place it.
+  Tourism in Trade was built the same day from Nigeria's
+  *Commerce for Senior Secondary Schools 2* (a NEW proposal,
+  checked against every existing lesson — none teaches tourism
+  as its one thing). No expected-from-pending slug remains
+  unbuilt, and no empty lesson stands in this course.
 
 - **Kenya Form One — PARTIAL read, library debt:** Kenya's
   *Inventor 1 — Secondary Business Studies, Form One Students'

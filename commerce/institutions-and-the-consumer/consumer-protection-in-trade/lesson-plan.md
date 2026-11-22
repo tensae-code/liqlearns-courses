@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Institutions and the Consumer · **Lesson:** Consumer Protection in Trade
 **Place in the curriculum:** Unit — Institutions and the Consumer (CURRICULUM.md).
 **The one thing this lesson teaches:** the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them.
-**This lesson's own level:** Unit — Institutions and the Consumer, lesson 15 of 15 in the course ladder; it stands on Trade Organisations and Institutions, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Institutions and the Consumer, lesson 17 of 17 in the course ladder; it stands on Trade Organisations and Institutions, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -36,7 +36,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Consumer part; Choices part; Protection part; Wise-shopper part; Consumer part
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).; Consumer part; Choices part; Protection part; Wise-shopper part; Consumer part; Consumer part
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a market scale being checked by an inspector while a shopper holds a packet marked with a standards stamp — the student names the wrong the scale-check prevents and the body that checks it.
