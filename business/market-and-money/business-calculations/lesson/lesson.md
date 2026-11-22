@@ -51,6 +51,12 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Business calculations.** Compound interest and its laws: interest is added to the principal at the end of each period so the next period's interest is earned on a growing amount — always more than simple interest beyond one year; the amount law (amount = principal × the amount of one pound for the period), the tables built for it, and finding any variable by computer (Sudan's book.)
 
+**Costing-and-expected-profit.** The same brief requires working out the cost of the project's raw materials and the profits the project is expected to make (Egypt's book.)
+
+**Costing-and-profit.** The same brief requires recording, in a table, the calculation of the project's costs and profits (حساب التكاليف والأرباح) and presenting the project's results to the class (Egypt's book.)
+
+**Costing-and-profit.** The same Greek-yoghurt brief again requires the costs-and-profits calculation table (جدول حساب التكاليف والأرباح) and presenting the project's results (Egypt's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.

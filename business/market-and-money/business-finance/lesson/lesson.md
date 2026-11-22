@@ -157,6 +157,8 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** Sources of capital for entrepreneurs: entrepreneurial capital (financial, physical, human) comes as the entrepreneur's own resources; friends and relatives ("love money" — the easiest and most common source, its terms negotiated on personal relationship rather than risk analysis); angel investors (quick decisions, quick growth); debt financing (the loan the commonest type — repaid with interest… (Tanzania's book.)
 
+**Managing-resources.** The resources field: the Introduction defines it as self-management and managing financial resources (إدارة الموارد المالية) (Egypt's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

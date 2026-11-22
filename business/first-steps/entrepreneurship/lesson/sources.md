@@ -18,6 +18,8 @@ countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
+**Book 8:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الثاني الإعدادي (Second Preparatory grade = Grade 8), الفصل الدراسي الأول (First term) (student book) — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan (Assistant Minister for Curriculum Development, CACD) — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025/2026 as printed on the cover; no separate edition statement; no ISBN printed. Grade: Preparatory 8 (Grade 8). Language: Arabic. Page count: 46 PDF pages (printed page numbers = PDF page numbers in the body). Source: manifest manifests-phase2/egypt.json n=2; the book was staged-gone — no copy survived on disk — and was recovered via fetch_book.py, route release-search, 9,332,499 bytes = expected_bytes exactly (byte-exact against the Economics wave's recorded size), to scratch-phase2/egypt/Industry_Prep2_T1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, to the last teaching page (printed p. 44; references printed p. 45). RECOVERED-AND-READ in the Phase 2 pending-queue wave (2026-11-22).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the what-entrepreneurship-is / definition part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 9 |
@@ -39,6 +41,7 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | why learn entrepreneurship | Book 7 (Entrepreneurship S1), printed p. 3 |
 | the entrepreneur | Book 7 (Entrepreneurship S1), printed pp. 4–5 |
 | the entrepreneur | Book 7 (Entrepreneurship S1), printed p. 32 |
+| the what-entrepreneurship-includes part of the lesson | Book 8 (Industry Skills and Entrepreneurship Prep 8 T1), Introduction (unnumbered front matter, PDF p. 4) |
 
 **Acceptance count: taught in 8 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda)** — every book above is a student book, so each country counts.
 

@@ -99,6 +99,14 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Marketing.** The marketing mix: the elements a company uses to satisfy its market, taught as seven — product, price (set on the bases of cost, demand and competition, by named pricing methods), placement/distribution (the channel of distribution moving products from producers to consumers through its institutions), promotion, people, process and physical evidence (Tanzania's book.)
 
+**How-the-product-will-be-marketed.** The same brief requires setting out the way the project will be marketed (طريقة التسويق للمشروع) alongside the costing (Egypt's book.)
+
+**Marketing-the-product-you-made.** Activity brief closing the yoghurt lesson: pupils work together on a project to produce yoghurt and market it in the school canteen (تسويقه في مقصف المدرسة) (Egypt's book.)
+
+**Marketing-the-product-you-made.** Activity brief in the Greek-yoghurt lesson repeating the same project pattern: produce Greek yoghurt and market it in the school canteen — the book's own way of teaching marketing as part of every dairy production project (Egypt's book.)
+
+**Pricing-and-selling.** Inside the same practical-application field, the Introduction names pricing, marketing and selling products (تسعير وتسويق وبيع المنتجات) as entrepreneurship skills (Egypt's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

@@ -25,6 +25,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 9:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
+**Book 10:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الثاني الإعدادي (Second Preparatory grade = Grade 8), الفصل الدراسي الأول (First term) (student book) — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan (Assistant Minister for Curriculum Development, CACD) — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025/2026 as printed on the cover; no separate edition statement; no ISBN printed. Grade: Preparatory 8 (Grade 8). Language: Arabic. Page count: 46 PDF pages (printed page numbers = PDF page numbers in the body). Source: manifest manifests-phase2/egypt.json n=2; the book was staged-gone — no copy survived on disk — and was recovered via fetch_book.py, route release-search, 9,332,499 bytes = expected_bytes exactly (byte-exact against the Economics wave's recorded size), to scratch-phase2/egypt/Industry_Prep2_T1.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, to the last teaching page (printed p. 44; references printed p. 45). RECOVERED-AND-READ in the Phase 2 pending-queue wave (2026-11-22).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the spotting-and-using-opportunities / resources part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 9 |
@@ -60,6 +62,7 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | judging opportunities | Book 7 (Dasar-Dasar Akuntansi X), printed pp. 33–35 |
 | judging opportunities (teacher guide) | Book 8 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed p. 60 |
 | judging opportunities | Book 9 (Commerce Form Three), printed pp. 138–141 |
+| the ideas-and-creativity part of the lesson | Book 10 (Industry Skills and Entrepreneurship Prep 8 T1), Introduction (unnumbered front matter, PDF p. 4) |
 
 **Acceptance count: taught in 10 countries (Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda, Indonesia, Tanzania)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 

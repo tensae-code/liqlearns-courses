@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 571 placements stocked.**
+environment, e-business). **25 lessons, 583 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 26 books
-in all (24 student books and 2 teacher guides); the 21 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 29 books
+in all (27 student books and 2 teacher guides); the 24 below carry this course (the Business parts
 of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
@@ -106,11 +106,19 @@ fed Business, and they are named here so the read set is whole.
 - *Business Studies — Year 9, Book 1: Economics* — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2006. No ISBN printed in the book. **Year 9. STUDENT book. Language: English** (Samoan translations in text boxes; bilingual glossary). 97 pages. **Verdict: COMPLETE.**
   - Contents map for this split: the seven units are **Economics** (Producer in the Economy; Goods and Services; Factors of Production; Consumers and Households; Consumer as Producer; Development of Money; Functions of Money in the Economy), mapped, not placed here — except the business/commerce teaching inside them, which fed **Business** (5 placements) and **Commerce** (5 placements). Contents-map correction: the Economics wave's map pointed to market research (p. 10) and clubs/societies (pp. 15–24) in this book — neither exists in the book as printed; nothing is stocked from the wrong map.
 
+- *مهارات الزراعة وريادة الأعمال (Agriculture Skills and Entrepreneurship), Preparatory 7 (Grade 7), Term 1* — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026. **Grade 7 (Preparatory 7). STUDENT book. Language: Arabic.** 57 PDF pages (printed pp. to 53). **Verdict: COMPLETE** — read whole to the last teaching page (printed p. 53). **Recovered-and-read:** the book was listed in this pending queue as staged-gone (not-on-disk); in the Phase 2 wave it was recovered via fetch_book.py (route release-search, byte-exact against the Economics wave's recorded size) and read. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - Contents map for this split: the body is agriculture-skills teaching (ornamental plants; dairy), not placed; the closing project brief "Invent your project" (printed p. 53) fed **Business** (3 placements in this course, from this book). No part fed Commerce or Accounting.
+
+- *مهارات الزراعة وريادة الأعمال (Agriculture Skills and Entrepreneurship), Preparatory 8 (Grade 8), Term 1* — prepared by a committee under the Central Administration for Curriculum Development — Arab Republic of Egypt, Ministry of Education and Technical Education, CACD. School year 2025–2026. **Grade 8 (Preparatory 8). STUDENT book. Language: Arabic.** 56 PDF pages (printed pp. 1–53). **Verdict: COMPLETE** — read whole to the last teaching page. **Recovered-and-read:** listed in this pending queue as staged-gone (not-on-disk); recovered via fetch_book.py (route release-search, byte-exact) and read in the Phase 2 wave (2026-11-22), merged the same day.
+  - Contents map for this split: the body is agriculture-skills teaching (ornamental plants and nurseries; dairy), not placed; the two dairy project briefs (printed pp. 39 and 45) fed **Business** (4 placements in this course, from this book). No part fed Commerce or Accounting.
+
+- *مهارات الصناعة وريادة الأعمال (Industry Skills and Entrepreneurship), Preparatory 8 (Grade 8), Term 1* — prepared by Tamer Suleiman Hassanain, Naglaa Hassan El-Sayed, Mohamed Fathy Abdel Wahab, Khaled Farouk Morsi; review Dr Kamel El-Sayed Abdel Rashid; general supervision Dr Akram Hassan — Arab Republic of Egypt, Ministry of Education and Technical Education, CACD. School year 2025/2026. **Grade 8 (Preparatory 8). STUDENT book. Language: Arabic.** 46 PDF pages. **Verdict: COMPLETE** — read whole to the last teaching page (printed p. 44). **Recovered-and-read:** listed in this pending queue as staged-gone (not-on-disk); recovered via fetch_book.py (route release-search, byte-exact) and read in the Phase 2 wave (2026-11-22), merged the same day.
+  - Contents map for this split: the body is industry-skills teaching (wood carving and fretwork; plumbing technology), not placed; the Introduction's entrepreneurship field map fed **Business** (5 placements in this course, from this book). No part fed Commerce or Accounting.
 
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 25 lessons,
-  stocked with 567 placements from **student books** of 15
+  stocked with 579 placements from **student books** of 15
   countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
   taught in 15 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
@@ -128,7 +136,7 @@ fed Business, and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-47 Business books are in hand in the library record but
+44 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -139,11 +147,6 @@ hold lifts and they are read.
 **Bhutan (2):**
 - [BUSINESS · student] Business and Entrepreneurship, Class XI (grade-11) — secured-not-on-disk
 - [BUSINESS · student] Business and Entrepreneurship, Class XII (grade-12) — secured-not-on-disk
-
-**Egypt (3):**
-- [BUSINESS · student] Agriculture Skills and Entrepreneurship Preparatory 7 Term 1 (Grade 7) — not-on-disk — Staged by the Economics wave under push-don't-delete and read there; the staging copy has since left staging and the path is not confirmed in either push state — treated as not-on-disk
-- [BUSINESS · student] Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 (Grade 8) — not-on-disk — Staged by the Economics wave under push-don't-delete and read there; the staging copy has since left staging and the path is not confirmed in either push state — treated as not-on-disk
-- [BUSINESS · student] Industry Skills and Entrepreneurship Preparatory 8 Term 1 (Grade 8) — not-on-disk — Staged by the Economics wave under push-don't-delete and read there; the staging copy has since left staging and the path is not confirmed in either push state — treated as not-on-disk
 
 **Guatemala (3):**
 - [BUSINESS · teacher] Emprendimiento para la Productividad I — Guía de orientaciones metodológicas para docentes de primero básico (Competencias emprendedoras personales y plan de vida) (Grade 7) — secured-not-on-disk

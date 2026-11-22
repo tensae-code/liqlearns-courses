@@ -55,6 +55,8 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 **Entrepreneurship.** The entrepreneur's role in development, and what makes a project entrepreneurial: entrepreneurial work creates new jobs, raises productivity and diversifies products through the entrepreneurs' varied talents, opens new markets for a good or service, transfers and localises technology, and restructures investment projects for new products and ways of serving; (Palestine's book.)
 
 **Why learn entrepreneurship.** The purpose of entrepreneurship education: it is the process of imparting knowledge, skills and values so learners can identify opportunities around them and undertake business activities for profit; (Uganda's book.)
+**What-entrepreneurship-includes.** The Introduction's field map: the subject melts its craft skills into entrepreneurship "with its different fields and skills", and sorts them into three fields — practical application, ideas and opportunities, and resources — the book's own map of what entrepreneurship covers (Egypt's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

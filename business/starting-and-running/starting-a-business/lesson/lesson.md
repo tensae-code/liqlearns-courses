@@ -45,6 +45,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 **Starting a business.** Factors that enable an individual to start up a business: personal interest in the business; technical skills for the business; government support in tax incentives and subsidies; presence of a market for the product; inspiration from successful business role models; a high degree of creativity and innovation; presence of raw materials/inputs; (Uganda's book.)
 
 **Starting a business.** The ten steps in starting a business: 1) identify potential business opportunities by scanning the environment; 2) select a suitable business opportunity; 3) carry out a market survey for it — checking it can become a profitable business with competitive advantage; (Uganda's book.)
+**Starting-a-small-project-with-a-partner.** The book's only project brief, "Invent your project" (ابتكر مشروعك), closing the cheese lesson: pupils set up a cheese-making project together with a classmate as a partner in the project (Egypt's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

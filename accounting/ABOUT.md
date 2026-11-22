@@ -39,11 +39,11 @@ investment accounts).
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 26 books
-in all (24 student books and 2 teacher guides); the 19 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 7 read
+`lesson/sources.md`. The set read for the split — 29 books
+in all (27 student books and 2 teacher guides); the 19 below carry this course (the Accounting
+parts of each are what stock these lessons). The other 10 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
-7 Term 1, Iran's Entrepreneurship and Production Workshop,
+7 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9
 Book 1, Tanzania's Commerce Form Three, and Uganda's Entrepreneurship Textbook Senior One —
