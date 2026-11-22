@@ -30,9 +30,17 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Commercial documents.** The means of payment in international trade: transfers or payment orders (a bank instructing its branch or correspondent abroad to pay a named person), bank cheques drawn on branches or correspondents abroad, letters of credit in accepted foreign currencies, and documentary credits — the bank standing between importer and exporter, undertaking to pay the exporter against the shipping documents (Sudan's book.)
 
+**Commercial documents.** The financial documents of a business: receipt records, payroll reports, paid bills, bank statements, income statements, statements of financial position and tax reporting forms — the standardised documents a business uses to report its financial information, stay within budget, prepare budget proposals and file tax returns, usually prepared by accountants (Tanzania's book.)
+
+**Commercial documents.** The export documents: the invoice; the bill of lading (the written contract with the shipping line acknowledging receipt of the goods and acceptance to deliver them to the named port, with full description of ship, owner, exporter and importer); the mate's receipt (temporary, acknowledging goods loaded on board, no delivery guarantee); the certificate of origin (claiming preferential treatment at… (Tanzania's book.)
+
+**Commercial documents.** Letters of credit: a letter of credit is the importer's bank's guarantee to the exporter's bank that it will honour payment up to a stated amount of the export bills — it evidences the importer's creditworthiness and assures the seller that payment will be received on time, with the bank's remedies (including repossessing and selling the goods) if the buyer cannot pay (Tanzania's book.)
+
+**Commercial documents.** The import documents: the trade enquiry (the buyer's letter seeking information about goods he intends to buy, specific or general, before deciding to order); the indent (the international order placed by the importer with the exporter, usually through an agent — open, closed or confirmatory indents); and the proforma invoice — most import documents originate in the exporting country and are used… (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents, commercial documents, commercial documents, commercial documents, commercial documents. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

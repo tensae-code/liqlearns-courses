@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
 Business Studies books of Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia,
-Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan and Uganda. The one exception is the **Tip boxes**: a tip in a box is
+Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
 
@@ -28,16 +28,17 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 564 placements stocked.**
+environment, e-business). **25 lessons, 571 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 24 books
-in all (22 student books and 2 teacher guides); the 20 below carry this course (the Business parts
-of each are what stock these lessons). The other 4 read books —
+`lesson/sources.md`. The set read for the split — 26 books
+in all (24 student books and 2 teacher guides); the 21 below carry this course (the Business parts
+of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
-Year 12 and Business Studies Year 9 Book 2, and Zambia's
+Year 12 and Business Studies Year 9 Book 2, Tanzania's
+Accountancy Form Five, and Zambia's
 Principles of Accounts Teaching Module (a teacher guide) — are
 pure accounting books: every part of them fed Accounting, none
 fed Business, and they are named here so the read set is whole.
@@ -53,6 +54,9 @@ fed Business, and they are named here so the read set is whole.
 
 - *العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year)* — Republic of Sudan, Ministry of Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. Second revised edition; ISBN 978-99942-53-06-7. **Grade 12 (Third Secondary). STUDENT book. Language: Arabic.** 157 PDF pages (printed pp. 1–150). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
   - Contents map for this split: the capital a trade needs and Islamic trade finance (Unit One), the two families of companies (Unit Two) and Unit Three (Financial Markets — financial assets, money markets, capital-market instruments, the stock exchange and listing) fed **Business** (10 placements in this course, from this book); Unit One's exchange teaching and the bank parts of Unit Two fed **Commerce** (16 placements); the accounting parts of Unit Two fed **Accounting** (10 placements, 4 of them stocking the new lesson Zakat Accounting).
+
+- *Commerce for Secondary Schools — Student's Book, Form Three* — Tanzania Institute of Education (TIE). Published 2023 (© Tanzania Institute of Education 2023). **Grade 10 (Form Three). STUDENT book. Language: English.** 167 PDF pages (printed pp. iv–viii + 1–154). **Verdict: COMPLETE** — read whole book to the last teaching page (Chapter Five ends printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
+  - Contents map for this split: the marketing teaching of Chapter Two (the concept of marketing, markets and marketing functions, the marketing mix) and Chapter Five (Entrepreneurship — invention and innovation, identifying opportunities, sources of capital) fed **Business** (7 placements in this course, from this book); Chapters One, Three and Four and the marketing institutions of Chapter Two fed **Commerce** (25 placements). No part fed Accounting.
 
 - *Industry Skills and Entrepreneurship, Preparatory 7 (Grade 7), Term 1* — مهارات الصناعة وريادة الأعمال — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026. **Grade 7. STUDENT book. Language: Arabic.** 60 PDF pages (printed pp. 4–58). **Verdict: COMPLETE.** The Term 1 book has no standalone entrepreneurship unit — its body is industry-skills teaching and the entrepreneurship strand lives in embedded boxes/briefs inside the skills lessons.
   - Contents map for this split: the embedded entrepreneurship parts (printed pp. 9, 19, 31, 51–53) fed **Business** (8 placements). No part fed Commerce or Accounting. The industry-skills half (Unit 1 carpentry/fretwork, printed pp. 4–33; Unit 2 plumbing, printed pp. 34–53) is contents-mapped for **Technology & Design**, not stocked in this course; Unit 2 Lesson 1 (water awareness, printed pp. 35–37) is environmental/life-skills teaching, named-not-placed.
@@ -106,9 +110,9 @@ fed Business, and they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 25 lessons,
-  stocked with 560 placements from **student books** of 14
-  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Uganda) —
-  taught in 14 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 567 placements from **student books** of 15
+  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
+  taught in 15 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan

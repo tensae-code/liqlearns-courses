@@ -26,9 +26,11 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Double entry.** The debit-and-credit concept: the mechanism of debit and credit by account group, normal balances, and how increases and decreases are recorded on each side (Indonesia's book.)
 
+**Double entry.** The principles of double entry: every business transaction is recorded twice — a debit entry must have its corresponding credit entry and vice versa, every transaction having an equal but opposite effect (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

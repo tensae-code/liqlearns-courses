@@ -1,6 +1,6 @@
 # Sources — Books of Original Entry
 
-countries: Kenya, Samoa, Zambia, Indonesia
+countries: Kenya, Samoa, Zambia, Indonesia, Tanzania
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book (cover: "Inventor 4 — Secondary Business Studies, Form Four Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition (title page); no year printed on the pages in hand; ISBN 978 9966 100719 (back-cover barcode). Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209, then Glossary and Index). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan also contains duplicated pages, so PDF-to-printed pagination drifts slightly; all citations use the printed folio numbers.
 
@@ -13,6 +13,8 @@ countries: Kenya, Samoa, Zambia, Indonesia
 Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) — Authors: Tendai Nyoni (David Livingstone College of Education), Chintu Nonde Febby (Zambia Institute of Special Education), Gwenani James (Nelson Mandela Secondary School), Tembo Moses (Madzimawe Day Secondary School), Kasuba Emmanuel (Roan Antelope Secondary School), Kalasa Chrisborne (Changilo Secondary School); coordinators Sylvia Katongo and Kalaluka Jane Njanji (Curriculum Development Centre, Business Studies) — Republic of Zambia, Ministry of Education; developed by the Curriculum Development Centre, Lusaka; first published 2025 by Zambia Educational Publishing House (ZEPH). ISBN 978-9982-01-543-6; © Curriculum Development Centre 2025. Grade: Form 1, Term 3 (per the book; the manifest record says Grade 7 — the book's own level label is Form 1, Term 3, and is what is recorded here). Language: English. Page count: 36 PDF pages (printed pp. ii–viii + 1–27). Source: manifest manifests-phase2/zambia.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/zambia/full-year-2.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole module to the last page (Appendix 1 ends printed p. 27). TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 5:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
+**Book 6:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,9 +41,11 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | books of original entry | Book 5 (Dasar-Dasar Akuntansi X), printed pp. 80–85 |
 | books of original entry | Book 5 (Dasar-Dasar Akuntansi X), printed pp. 125–128 |
 | books of original entry | Book 5 (Dasar-Dasar Akuntansi X), printed pp. 129–137 |
+| books of original entry | Book 6 (Accountancy Form Five), printed pp. 25–28 |
+| books of original entry | Book 6 (Accountancy Form Five), printed pp. 28–38 |
 
-**Acceptance count: taught in 3 countries (Kenya, Samoa, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Kenya, Samoa, Indonesia, Tanzania)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia
+Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia, tanzania

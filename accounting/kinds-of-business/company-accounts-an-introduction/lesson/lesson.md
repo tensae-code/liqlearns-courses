@@ -38,9 +38,11 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Company accounts.** The kinds of shares and the accounting treatment of a joint-stock company's capital: ordinary and preference shares and what each carries, then how the capital of joint-stock companies is treated in the accounts (Sudan's book.)
 
+**Company accounts.** The financial statements of a company: unlike a sole proprietorship, a company (a public company above all) prepares a complete set — statement of financial position, statement of profit or loss and other comprehensive income, statement of cash flows and statement of changes in equity — with the notes to the financial statements (disclosure notes) presenting the basis of preparation and the… (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

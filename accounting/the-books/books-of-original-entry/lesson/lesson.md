@@ -53,9 +53,13 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **Books of original entry.** Special journals and their recapitulation: as transaction volume grows the trading company splits the journal into purchases, sales, cash-receipts and cash-payments special journals, and at period end each special journal is recapitulated into the debit and credit totals to be posted (Indonesia's book.)
 
+**Books of original entry.** Business transactions and the books of prime entry: a business transaction, cash against credit transactions, and the books of prime/original entry in which transactions are first captured from their source documents — the books a merchandising firm keeps (Tanzania's book.)
+
+**Books of original entry.** The special journals and their recording: the format and contents of each special journal (sales, purchases, returns inwards and outwards, and the general journal for what fits nowhere else), with trade discount and cash discount distinguished and each recorded in its own way (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

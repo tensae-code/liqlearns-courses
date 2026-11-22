@@ -31,8 +31,10 @@ sources.
 21. Incomplete Records — `kinds-of-business/incomplete-records/`
 22. Control Accounts — `kinds-of-business/control-accounts/`
 23. Zakat Accounting — `kinds-of-business/zakat-accounting/` — NEW, built from Sudan (Phase 2 merge, 2026-11-22)
-24. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
-25. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
-26. Cash Budgets — `money-at-work/cash-budgets/`
-27. Break-even Analysis — `money-at-work/break-even-analysis/`
-28. Computerised Accounting — `money-at-work/computerised-accounting/`
+24. Branch Accounts — `kinds-of-business/branch-accounts/` — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)
+25. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
+26. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
+27. Cash Budgets — `money-at-work/cash-budgets/`
+28. Break-even Analysis — `money-at-work/break-even-analysis/`
+29. Computerised Accounting — `money-at-work/computerised-accounting/`
+30. Investment Accounts — `money-at-work/investment-accounts/` — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)

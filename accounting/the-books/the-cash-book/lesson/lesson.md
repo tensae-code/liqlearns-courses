@@ -32,9 +32,11 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Single entry bookkeeping.** Single entry bookkeeping: a simple record of income and expenses in a manual cash book or spreadsheet, entering each receipt and payment and carrying a running balance after every entry; the system used by sole traders, charities and clubs (worked example: the cash book of Jameson's Cakes)
 
+**The cash book.** The cash book among the books of prime entry: cash transactions are recorded in the cash book while transactions outside its scope go to the other journals (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

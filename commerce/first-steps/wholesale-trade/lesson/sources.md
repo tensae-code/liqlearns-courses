@@ -1,6 +1,6 @@
 # Sources — Wholesale Trade
 
-countries: Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda
+countries: Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -16,6 +16,8 @@ countries: Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
+**Book 7:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
+
 | Lesson part | Where it comes from |
 |---|---|
 | channels part of the lesson | Book 1 (Kenya Business Form 3), printed p. 50 |
@@ -28,7 +30,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | channels of distribution | Book 5 (Principles of Business for CSEC), printed pp. 248–249 |
 | home trade | Book 6 (Business Studies Cl. 11), printed p. 11 |
 | wholesale trade | Book 7 (Entrepreneurship S1), printed p. 26 |
+| wholesale trade | Book 7 (Commerce Form Three), printed p. 48 |
 
-**Acceptance count: taught in 6 countries (Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: wholesale trade, first steps, commerce, kenya, samoa, nigeria, dominica, nepal, uganda
+Searchable tags: wholesale trade, first steps, commerce, kenya, samoa, nigeria, dominica, nepal, uganda, tanzania

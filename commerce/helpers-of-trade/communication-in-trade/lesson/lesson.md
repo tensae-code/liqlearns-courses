@@ -9,9 +9,21 @@ A shopkeeper's shelves are empty of the soap everyone asks for, and full of a so
 Trade is a chain of people who mostly never meet: the producer who makes the goods, the traders who carry and sell them, and the consumer who uses them. The chain holds together only if information flows along it — what is wanted, what is ready, at what price, by what day — and feedback flows back: what sold, what failed, what the buyer thought of it. Communication is the helper of trade that carries that flow. Good communication supplies the important information in less time and at less cost: a quick message can stop a wrong delivery, fill an empty shelf, or warn a maker before a fault spreads. Letters, telephone calls and digital messages are its tools; the flow itself is the service.
 
 **Aids to trade.** Auxiliaries to trade, 2 — communication: trade needs information and feedback to flow between producer, trader and consumer; communication supplies important information in less time and at less cost (Nepal's book.)
+**Communication in trade.** The communication process and its elements: communication is a two-way process running sender → encoding → message → medium → decoding → receiver → feedback, with noise (external — failed media, traffic, power cuts; internal — irritation, discomfort, lack of interest) able to break it at any point; communication is effective only when the receiver understands the message as the sender intended (Tanzania's book.)
+
+**Communication in trade.** Business communication itself: the transfer of information from source to receiver within and outside an organisation, by speaking, listening, writing, reading or behaviour; it circulates plans, policies, rules and directives to staff and customers and so raises efficiency and makes realistic plans implementable (Tanzania's book.)
+
+**Communication in trade.** Barriers to effective business communication: personal barriers (emotions, stress, fear, the know-it-all attitude), physical and other barrier families, and how they are reduced — knowing the people dealt with (their education, beliefs, situations and experience) and fitting the message to them (Tanzania's book.)
+
+**Communication in trade.** Communication media or channels: the means of delivering or receiving a message — oral media (fast, immediate feedback, depending on tone, clarity, volume, speed and body language) and written media (more formal and accurate) — and the factors weighed in choosing a medium, including safety (registered/insured post for important documents) and confidentiality (Tanzania's book.)
+
+**Communication in trade.** Business communication documents and their kinds: legal/regulatory documents (contracts, non-disclosure agreements protecting client lists, financial records and pricing plans), meeting-proceedings documents, the business plan as a document, correspondence documents (letters and e-mails) and reporting documents — each directed to a specific audience, stating precisely what is expected, and able… (Tanzania's book.)
+
+**Communication in trade.** Electronic communication: transferring information electronically through ICT tools (computers, telephones, mobile phones, TV, tablets) as images, graphics, sound, pictures and maps — including the procedures for opening and using an e-mail account, and the manners for communicating with a target audience (research the audience, be concise and clear, professionalism and courtesy) as business… (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: trade runs on information — communication carries news, orders, prices and feedback between producer, trader and consumer, quickly and cheaply, so each side knows what the other needs and has done. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: aids to trade. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: trade runs on information — communication carries news, orders, prices and feedback between producer, trader and consumer, quickly and cheaply, so each side knows what the other needs and has done. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: aids to trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade, communication in trade. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

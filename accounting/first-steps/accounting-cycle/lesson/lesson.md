@@ -20,9 +20,11 @@ The accounting cycle closed out: preparing the financial statements and the repo
 
 **The accounting cycle.** Final accounts as the completion of the cycle: this book takes up where the first-year book stopped (journal, posting to the ledger, trial balance by totals and by balances) and completes the accounting cycle by preparing the final accounts — operating account, trading account, profit-and-loss account — and then the balance sheet, so the period's result can serve owners, financiers, debtors,… (Sudan's book.)
 
+**The accounting cycle.** The accounting process (cycle): a series of steps regularly repeated in the same order — (1) identify transactions through their source documents, (2) record transactions in a journal, (3) post to ledger accounts, (4) prepare the trial balance, (5) make year-end adjustments, (6) prepare financial statements (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

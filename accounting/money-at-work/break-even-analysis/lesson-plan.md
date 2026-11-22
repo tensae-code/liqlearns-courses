@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** Money at Work · **Lesson:** Break-even Analysis
 **Place in the curriculum:** Unit — Money at Work (CURRICULUM.md).
 **The one thing this lesson teaches:** break-even analysis finds the output where contribution exactly covers fixed costs — the break-even point — and the output needed for a target profit.
-**This lesson's own level:** Unit — Money at Work, lesson 27 of 28 in the course ladder.
+**This lesson's own level:** Unit — Money at Work, lesson 28 of 30 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

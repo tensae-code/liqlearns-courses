@@ -1,6 +1,6 @@
 # Sources — What Is Commerce
 
-countries: Kenya, Samoa, Dominica, Nepal, Sudan
+countries: Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -12,6 +12,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan
 
 **Book 5:** العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year), in three units: التبادل التجاري (Commercial Exchange), المحاسبة المالية (Financial Accounting), الأسواق المالية (Financial Markets) (student book) — Republic of Sudan, Ministry of Education (وزارة التربية والتعليم) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda (www.nccer.edu.sd); prepared by a committee commissioned by the Centre (Prof. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, Dr. Ahmed Hashim Ahmed Yousif, Nabil Girgis Ayyad, Iqbal Yousif Ahmed, and others named on the title page). Year / edition: الطبعة الثانية المنقحة — the second revised edition (the year line on the title page OCRs unreliably and is not stated here). ISBN 978-99942-53-06-7 (printed on the copyright page). Legal deposit number 2008/789. Grade: Grade 12 (Third Secondary). Language: Arabic. Page count: 157 PDF pages (printed pp. 1–150). Source: manifest manifests-phase2/sudan.json n=1; fetched via fetch_book.py, route release, 52,467,979 bytes (= expected_bytes), to scratch-phase2/sudan/g12.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three units to the last teaching page (printed p. 150).
 
+**Book 6:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
+
 | Lesson part | Where it comes from |
 |---|---|
 | distribution part of the lesson | Book 1 (Kenya Business Form 3), printed p. 49 |
@@ -22,7 +24,8 @@ countries: Kenya, Samoa, Dominica, Nepal, Sudan
 | opening / the parts of business | Book 4 (Business Studies Cl. 11), printed p. 7 |
 | what commerce is | Book 4 (Business Studies Cl. 11), printed p. 10 |
 | what commerce is | Book 5 (Commercial Science G12 (Sudan)), printed pp. 3–6 |
+| what commerce is | Book 6 (Commerce Form Three), printed pp. 54–60 |
 
-**Acceptance count: taught in 5 countries (Kenya, Samoa, Dominica, Nepal, Sudan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Samoa, Dominica, Nepal, Sudan, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan
+Searchable tags: what is commerce, first steps, commerce, kenya, samoa, dominica, nepal, sudan, tanzania

@@ -1,6 +1,6 @@
 # Sources — The Accounting Cycle
 
-countries: Samoa, Indonesia, Sudan
+countries: Samoa, Indonesia, Sudan, Tanzania
 
 **Book 1:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
@@ -9,6 +9,8 @@ countries: Samoa, Indonesia, Sudan
 **Book 3:** Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (teacher guide) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-579-2 (PDF). Grade: Grade 10 (SMK/MAK Kelas X) — teacher guide. Language: Indonesian (Bahasa Indonesia). Page count: 304 PDF pages (printed pp. viii + 1–296; printed page = PDF page − 8). Source: manifest manifests-phase2/indonesia.json n=0; fetched via fetch_book.py, route release-search, 9,055,539 bytes (= expected_bytes), to scratch-phase2/indonesia/teacher.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282; glossary printed pp. 283–284 follows). TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 4:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
+
+**Book 5:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,9 +21,10 @@ countries: Samoa, Indonesia, Sudan
 | the accounting cycle | Book 2 (Dasar-Dasar Akuntansi X), printed pp. 159–165 |
 | the accounting cycle (teacher guide) | Book 3 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed p. 150 |
 | the accounting cycle | Book 4 (Commercial Science G11 (Sudan)), printed p. 1 |
+| the accounting cycle | Book 5 (Accountancy Form Five), printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Samoa, Indonesia, Sudan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 4 countries (Samoa, Indonesia, Sudan, Tanzania)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan
+Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania

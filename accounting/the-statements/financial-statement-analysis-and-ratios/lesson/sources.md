@@ -1,6 +1,6 @@
 # Sources — Financial Statement Analysis and Ratios
 
-countries: Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua
+countries: Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua, Tanzania
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book (cover: "Inventor 4 — Secondary Business Studies, Form Four Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition (title page); no year printed on the pages in hand; ISBN 978 9966 100719 (back-cover barcode). Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209, then Glossary and Index). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan also contains duplicated pages, so PDF-to-printed pagination drifts slightly; all citations use the printed folio numbers.
 
@@ -21,6 +21,8 @@ Readers also filed placements for this lesson under the proposed names `accounti
 **Book 8:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+**Book 9:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,7 +47,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | analysing sole-trader statements | Book 7 (Bus Studies Y11 Bk2), printed p. 50 |
 | reading the statements | Book 8 (Emprendimiento y Gestión 3), printed p. 134 |
 | reading the venture's numbers | Book 9 (Guía del Emprendedor), printed p. 13 |
+| financial statement analysis and ratios | Book 9 (Accountancy Form Five), printed pp. 215–218 |
+| financial statement analysis and ratios | Book 9 (Accountancy Form Five), printed pp. 219–249 |
+| financial statement analysis and ratios | Book 9 (Accountancy Form Five), printed p. 250 |
 
-**Acceptance count: taught in 6 countries (Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: financial statement analysis and ratios, the statements, accounting, kenya, malaysia, nigeria, samoa, ecuador, nicaragua
+Searchable tags: financial statement analysis and ratios, the statements, accounting, kenya, malaysia, nigeria, samoa, ecuador, nicaragua, tanzania

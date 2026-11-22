@@ -39,9 +39,11 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **The ledger.** Posting special journals to the main ledger and the subsidiary ledgers: the main ledger holds the accounts that appear in the financial statements and controls the journal; subsidiary ledgers carry the detail per debtor and creditor, posted from the same special journals (Indonesia's book.)
 
+**The ledger.** Ledger accounts and balancing off: posting from the books of prime entry into ledger accounts (credit customers into the sales ledger, and so on) and balancing off each account to find its balance (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** Money at Work · **Lesson:** Computerised Accounting
 **Place in the curriculum:** Unit — Money at Work (CURRICULUM.md).
 **The one thing this lesson teaches:** computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements.
-**This lesson's own level:** Unit — Money at Work, lesson 28 of 28 in the course ladder.
+**This lesson's own level:** Unit — Money at Work, lesson 29 of 30 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -38,6 +38,8 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
 ## If the learner is stuck
 - Go back to the one thing: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Work the Do it first act again, slowly, and name each step aloud.
 - This lesson closes the course ladder.
+
+- This lesson's next door: the next lesson in path order — Investment Accounts.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

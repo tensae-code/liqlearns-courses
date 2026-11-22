@@ -1,6 +1,6 @@
 # Sources — Double Entry
 
-countries: Kenya, Samoa, Dominica, Indonesia
+countries: Kenya, Samoa, Dominica, Indonesia, Tanzania
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -11,6 +11,8 @@ countries: Kenya, Samoa, Dominica, Indonesia
 **Book 4:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
 **Book 5:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
+**Book 6:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,7 +25,8 @@ countries: Kenya, Samoa, Dominica, Indonesia
 | double-entry rules | Book 3 (Bus Studies Y11 Bk2), printed p. 80 |
 | double entry | Book 4 (Principles of Business for CSEC), printed p. 303 |
 | double entry | Book 5 (Dasar-Dasar Akuntansi X), printed pp. 76–79 |
+| double entry | Book 6 (Accountancy Form Five), printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Kenya, Samoa, Dominica, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Kenya, Samoa, Dominica, Indonesia, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: double entry, first steps, accounting, kenya, samoa, dominica, indonesia
+Searchable tags: double entry, first steps, accounting, kenya, samoa, dominica, indonesia, tanzania

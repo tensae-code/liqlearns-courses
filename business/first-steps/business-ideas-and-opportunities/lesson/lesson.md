@@ -73,9 +73,11 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Judging opportunities.** The entrepreneur profile for the accounting field, in the guide's summary: self-confidence, honesty, patience, perseverance, discipline, responsibility and creativity; performance- and result-orientation; excellent service to customers; and willingness to take risks (Indonesia's teacher guide.)
 
+**Judging opportunities.** Identifying entrepreneurial opportunities: entrepreneurs discover opportunities in people's needs, wants and problems, establish new enterprises or improve existing ones to achieve their goals, and identifying the opportunities that can achieve those goals is one of their important tasks (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes, judging opportunities, judging opportunities, judging opportunities. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

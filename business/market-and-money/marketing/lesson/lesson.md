@@ -93,9 +93,15 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Knowing the competition.** Studying the competition: competitors are ventures offering, or able to offer, the same product or service — and a competitor is not an enemy but a source of learning; find out where they are, who their customers are and why they buy, their strengths and weaknesses, their marketing strategies, their suppliers, their distribution channels, their quality and their prices (Nicaragua's book.)
 
 **Market research / selling into the market.** Winning a market share, and the marketing plan: market share is the portion of total demand the project's good or service will take, and fixing it fixes expected sales and the production capacity needed; a project wins share from existing producers through a competitive advantage — distinguishing its product by price (e.g. (Palestine's book.)
+**Marketing.** The concept of marketing: marketing in the new sense — identifying and satisfying customers' needs and wants rather than "telling and selling"; producers who understand needs develop products of superior value, price them, promote them and make them available so they sell smoothly (Tanzania's book.)
+
+**Marketing.** Markets and marketing functions: the kinds of market (consumer, reseller — wholesalers and retailers who buy finished goods and resell them unchanged for profit — and organisational markets) and market structures, then the functions a marketing department performs for the organisation (Tanzania's book.)
+
+**Marketing.** The marketing mix: the elements a company uses to satisfy its market, taught as seven — product, price (set on the bases of cost, demand and competition, by named pricing methods), placement/distribution (the channel of distribution moving products from producers to consumers through its institutions), promotion, people, process and physical evidence (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

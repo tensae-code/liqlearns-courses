@@ -17,9 +17,11 @@ The trial balance lists the balanced ledger accounts to check that total debit b
 **The trial balance.** Trial balance after returns (teacher guide): from the returns postings, learners extract a trial balance as at 30 April 2025 in the worked example, with the Sales Returns balance on the debit side and the reduced receivables balances on the credit side, the two sides agreeing (Zambia's book.)
 **The trial balance.** The trial balance (neraca saldo): preparing it from the ledger balances and what its agreement does and does not prove (Indonesia's book.)
 
+**The trial balance.** The trial balance and its use: a report generated at the end of the accounting period listing every account and its debit or credit balance; if the two columns agree the books are taken as balanced, if they differ the errors must be found and rectified, and after adjustments the resulting adjusted trial balance is the one used to prepare the financial statements (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance, the trial balance. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

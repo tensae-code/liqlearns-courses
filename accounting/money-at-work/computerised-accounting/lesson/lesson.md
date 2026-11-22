@@ -24,9 +24,11 @@ QuickBooks as a specialist accounting application: it automates bookkeeping (ent
 
 **Computerised accounting.** The guide's essential-material list for the spreadsheet chapter: the definition, functions and kinds of spreadsheet applications, the kinds of data character, formulas and functions, and the making of tables, diagrams and financial reports are the chapter's teachable core, with the accounting cycle already learned as its prerequisite (Indonesia's teacher guide.)
 
+**Computerised accounting.** The accounting information system (AIS): a system has inputs, processing and outputs, and the AIS is the grouping of interrelated components and activities that takes accounting data in, processes it and issues accounting information — its contents and main functions (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

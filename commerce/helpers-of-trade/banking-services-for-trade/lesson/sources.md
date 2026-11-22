@@ -1,6 +1,6 @@
 # Sources — Banking Services for Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan
+countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -18,6 +18,8 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan
 **Book 6:** Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (teacher guide) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-579-2 (PDF). Grade: Grade 10 (SMK/MAK Kelas X) — teacher guide. Language: Indonesian (Bahasa Indonesia). Page count: 304 PDF pages (printed pp. viii + 1–296; printed page = PDF page − 8). Source: manifest manifests-phase2/indonesia.json n=0; fetched via fetch_book.py, route release-search, 9,055,539 bytes (= expected_bytes), to scratch-phase2/indonesia/teacher.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282; glossary printed pp. 283–284 follows). TEACHER GUIDE — evidence only, acceptance 0.
 
 **Book 7:** العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year), in three units: التبادل التجاري (Commercial Exchange), المحاسبة المالية (Financial Accounting), الأسواق المالية (Financial Markets) (student book) — Republic of Sudan, Ministry of Education (وزارة التربية والتعليم) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda (www.nccer.edu.sd); prepared by a committee commissioned by the Centre (Prof. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, Dr. Ahmed Hashim Ahmed Yousif, Nabil Girgis Ayyad, Iqbal Yousif Ahmed, and others named on the title page). Year / edition: الطبعة الثانية المنقحة — the second revised edition (the year line on the title page OCRs unreliably and is not stated here). ISBN 978-99942-53-06-7 (printed on the copyright page). Legal deposit number 2008/789. Grade: Grade 12 (Third Secondary). Language: Arabic. Page count: 157 PDF pages (printed pp. 1–150). Source: manifest manifests-phase2/sudan.json n=1; fetched via fetch_book.py, route release, 52,467,979 bytes (= expected_bytes), to scratch-phase2/sudan/g12.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three units to the last teaching page (printed p. 150).
+
+**Book 8:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -63,9 +65,13 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan
 | banking services for trade | Book 7 (Commercial Science G12 (Sudan)), printed p. 82 |
 | banking services for trade | Book 7 (Commercial Science G12 (Sudan)), printed p. 92 |
 | banking services for trade | Book 7 (Commercial Science G12 (Sudan)), printed pp. 96–100 |
+| banking services for trade | Book 8 (Commerce Form Three), printed pp. 61–75 |
+| banking services for trade | Book 8 (Commerce Form Three), printed pp. 70–76 |
+| banking services for trade | Book 8 (Commerce Form Three), printed pp. 76–78 |
+| banking services for trade | Book 8 (Commerce Form Three), printed pp. 79–81 |
 
-**Acceptance count: taught in 7 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 8 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan
+Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania

@@ -23,9 +23,11 @@ Draw a map of your own region from memory. Mark the neighbouring countries, then
 **Trade institutions / selling to the state.** Registering as a state supplier (proveedor del estado): (Nicaragua's book.)
 **Trade organisations and institutions.** The international financial institutions: the Second World War's destruction led 44 states to Bretton Woods (July 1944) to build a flexible international monetary policy and encourage multilateral trade, creating the International Monetary Fund (a stable system of exchange rates and convertible currencies, international co-operation) and the World Bank — governed by a Board of Governors that… (Sudan's book.)
 
+**Trade organisations and institutions.** Marketing institutions and boards: the facilitating organisations that perform the marketing functions — marketing research companies, middlemen, advertising agencies, experiential marketing agencies, co-operatives and marketing boards; Tanzania's boards (Coffee Board, Sisal Board, Cashewnuts Board, Cotton Board, Sugar Board, Tanzania Tourist Board, and Zanzibar's tourism and investment bodies)… (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: traders and countries organise: world institutions steady money and lend for development, regions integrate their markets step by step, and West Africa's groupings join trade, rivers and money across borders. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the world institutions behind trade, economic integration, step by step, why countries integrate, ecowas, trade organisations and institutions. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: traders and countries organise: world institutions steady money and lend for development, regions integrate their markets step by step, and West Africa's groupings join trade, rivers and money across borders. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the world institutions behind trade, economic integration, step by step, why countries integrate, ecowas, trade organisations and institutions, trade organisations and institutions. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

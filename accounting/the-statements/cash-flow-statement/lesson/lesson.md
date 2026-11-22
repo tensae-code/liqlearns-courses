@@ -27,9 +27,11 @@ Cash flow: the transfers of cash in and out of a business over time, and net cas
 **Reporting and forecasting cash.** Estimating the project's cash flows: the financial feasibility study is built on all the previous studies; (Palestine's book.)
 **The cash flow statement.** The cash-flow statement named and placed as the fourth statement of the service company's reporting stage, drawn after the other statements (Indonesia's book.)
 
+**The cash flow statement.** Introduction to the statement of cash flows: why the cash-flow statement and the statement of changes in owners' equity complete the set — changes in the balances of assets and liabilities between two periods show how cash was used or released, and under the indirect route net income is adjusted for the non-cash items in the income statement (depreciation, deferred tax, gains and losses on… (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement, the cash flow statement. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a cash flow statement shows only cash in and cash out for a period — where the cash came from and where it went — reconciling the opening bank balance to the closing one. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson, purpose and preparation of the cash statement, cash flow statement, the cash flow statement, the cash flow statement. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

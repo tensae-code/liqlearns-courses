@@ -1,6 +1,6 @@
 # Sources — Adjustments to Financial Statements
 
-countries: Samoa, Indonesia, Sudan
+countries: Samoa, Indonesia, Sudan, Tanzania
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -9,6 +9,8 @@ countries: Samoa, Indonesia, Sudan
 **Book 3:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
 **Book 4:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
+
+**Book 5:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,7 +31,15 @@ countries: Samoa, Indonesia, Sudan
 | adjustments to financial statements | Book 4 (Commercial Science G11 (Sudan)), printed p. 60 |
 | adjustments to financial statements | Book 4 (Commercial Science G11 (Sudan)), printed p. 72 |
 | adjustments to financial statements | Book 4 (Commercial Science G11 (Sudan)), printed p. 76 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 88–90 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed p. 91 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 92–98 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 99–100 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 143–151 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed p. 152 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 152–156 |
+| adjustments to financial statements | Book 5 (Accountancy Form Five), printed pp. 157–166 |
 
-**Acceptance count: taught in 3 countries (Samoa, Indonesia, Sudan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Samoa, Indonesia, Sudan, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: adjustments to financial statements, the statements, accounting, samoa, indonesia, sudan
+Searchable tags: adjustments to financial statements, the statements, accounting, samoa, indonesia, sudan, tanzania

@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
 Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
-and Samoa, Indonesia and Sudan.
+and Samoa, Indonesia, Sudan and Tanzania.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
 the books'.
@@ -30,22 +30,23 @@ reconciliation, internal control over cash), The Statements
 depreciation, the cash flow statement, financial statement
 analysis and ratios), Kinds of Business (non-profit
 organisations, partnerships, companies, manufacturing,
-incomplete records, control accounts, zakat) and Money at Work
+incomplete records, control accounts, zakat, branches) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
-cash budgets, break-even analysis, computerised accounting).
-**28 lessons, 268 placements stocked.**
+cash budgets, break-even analysis, computerised accounting,
+investment accounts).
+**30 lessons, 313 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 24 books
-in all (22 student books and 2 teacher guides); the 18 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 6 read
+`lesson/sources.md`. The set read for the split — 26 books
+in all (24 student books and 2 teacher guides); the 19 below carry this course (the Accounting
+parts of each are what stock these lessons). The other 7 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9
-Book 1, and Uganda's Entrepreneurship Textbook Senior One —
+Book 1, Tanzania's Commerce Form Three, and Uganda's Entrepreneurship Textbook Senior One —
 carry no Accounting teaching as filed (their parts fed
 Business and Commerce, or were Economics/named-not-placed), and
 they are named here so the read set is whole.
@@ -61,6 +62,9 @@ they are named here so the read set is whole.
 
 - *العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year)* — Republic of Sudan, Ministry of Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. Second revised edition; ISBN 978-99942-53-06-7. **Grade 12 (Third Secondary). STUDENT book. Language: Arabic.** 157 PDF pages (printed pp. 1–150). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
   - The ACCOUNTING parts of this book: Unit Two (Financial Accounting — the accounts of non-profit organisations, company accounts and shares, and zakat accounting) fed **Accounting** (10 placements in this course, from this book — 4 of them stocking the new lesson Zakat Accounting, built from this book). Contents map for this split: Unit One (Commercial Exchange) and the bank-accounting parts of Unit Two fed **Commerce** (16 placements); Unit Three (Financial Markets) and the company-forms and trade-finance teaching fed **Business** (10 placements).
+
+- *Accountancy for Advanced Secondary Schools — Student's Book, Form Five* — Tanzania Institute of Education (TIE). Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. **Grade 12 (Form Five, Advanced Secondary). STUDENT book. Language: English.** 346 PDF pages (printed pp. xiv + 1–331). **Verdict: COMPLETE** — read whole book to the last teaching page (Chapter Ten ends printed p. 319). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - The ACCOUNTING parts of this book: the whole book fed **Accounting** (45 placements in this course, from this book — Chapters One to Eight stocking the nature of accountancy, the books of account, correction of errors, reserves and provisions, depreciation, revenue and expense recognition, financial statements and ratio analysis; Chapter Nine stocking the new lesson Investment Accounts and Chapter Ten the new lesson Branch Accounts, both built from this book). No part fed Business or Commerce.
 
 - *Principles of Business for CSEC Examinations, Second
   Edition* — Riana Balliram; Peter Budd; Edith Emmanuel;
@@ -238,9 +242,9 @@ they are named here so the read set is whole.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 28 lessons, stocked with
-  268 placements in all — 258 of them from **student books** of 10 countries (Dominica,
-  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan) — taught in 10 countries;
+- **Pupil-taught from the books:** all 30 lessons, stocked with
+  313 placements in all — 303 of them from **student books** of 11 countries (Dominica,
+  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania) — taught in 11 countries;
   the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
@@ -261,7 +265,7 @@ they are named here so the read set is whole.
 
 ## The pending queue — Accounting books not yet in the course
 
-19 Accounting books are in hand in the library record but were
+18 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -301,8 +305,6 @@ hold lifts and they are read.
 - [ACCOUNTING · book] accounting 2018 english (grade-13) — secured-not-on-disk
 - [ACCOUNTING · textbook] Grade 9 Business and Accounting Studies (வர்த்தகமும் கணக்கியலும்) — Tamil medium, 1996 edition (Grade 9) — secured-not-on-disk
 
-**Tanzania (1):**
-- [ACCOUNTING · student] Accountancy Form Five — Student's Book (Grade 12) — secured-not-on-disk
 
 
 ## Honesty flags

@@ -1,6 +1,6 @@
 # Sources — The Cash Flow Statement
 
-countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia
+countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages, printed pp. i–vi + 1–260 (printed page = PDF page − 12 in the body). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 7 model business plans end at printed p. 246; back matter follows).
 
@@ -18,6 +18,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 
 **Book 6:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
+**Book 7:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Perniagaan T5), printed p. 181 |
@@ -28,7 +30,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 | reporting past and future cash | Book 5 (Emprendimiento y Gestión 3), printed p. 120 |
 | reporting and forecasting cash | Book 6 (Small Projects), printed p. 75 |
 | the cash flow statement | Book 6 (Dasar-Dasar Akuntansi X), printed pp. 103–107 |
+| the cash flow statement | Book 7 (Accountancy Form Five), printed pp. 188–203 |
 
-**Acceptance count: taught in 6 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania)** — every book above is a student book, so each country counts.
 
-Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia
+Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania

@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** The Books · **Lesson:** The Cash Book
 **Place in the curriculum:** Unit — The Books (CURRICULUM.md).
 **The one thing this lesson teaches:** the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank.
-**This lesson's own level:** Unit — The Books, lesson 6 of 28 in the course ladder.
+**This lesson's own level:** Unit — The Books, lesson 6 of 30 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

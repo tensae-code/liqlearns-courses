@@ -61,9 +61,21 @@ Name one thing your country sells to the world and one thing it must buy from th
 
 **Foreign trade.** Trade globalisation: the entrenching of market economies and the removal of geographic and administrative barriers so goods, services and capital move freely without customs restrictions — its features (faster movement of trade and capital, multinational companies replacing national ones, a shrinking government role), its positive and negative effects, and how its consequences are faced (Sudan's book.)
 
+**Foreign trade.** The concept of international trade: goods consumed in a country are not necessarily produced there (Tanzania's computers, cars, telephones and televisions are the book's example); countries trade because of multilateral and bilateral agreements, unevenly distributed natural resources forcing specialisation, and differences in technology — high-technology countries produce large volumes cheaply… (Tanzania's book.)
+
+**Foreign trade.** Import trade: buying goods and services from outside the country — directly (the buyer purchases from the producer abroad without middlemen and is solely responsible for communication, negotiation, market research, contracts and payments) or indirectly — and the Tanzanian import procedure worked through the clearing and forwarding agent: declaration, classification, valuation and physical… (Tanzania's book.)
+
+**Foreign trade.** Export trade: selling goods and services outside the country, and how it is operated and benefits Tanzania (Tanzania's book.)
+
+**Foreign trade.** Agents in international trade: an agent acts on behalf of a principal in dealing with third parties — special agents, general agents (authority for all acts connected with a particular trade, with implied authority to bind the principal) and universal agents (unlimited power for any lawful transaction) — and the trade's own agents, including commission agents, who make exporting possible for a… (Tanzania's book.)
+
+**Foreign trade.** Balance of trade and balance of payments: the net balance of imports against exports is favourable/surplus, unfavourable/deficit or balanced; the balance of payments is the economy's barometer — it shows the country's economic and financial status in the short term, guides government monetary and fiscal policy, and oversees capital flows (a high currency outflow is dangerous); it is determined… (Tanzania's book.)
+
+**Foreign trade.** Trade protectionism: also called trade restrictions — a deliberate commercial policy by which the government protects its local industries against foreign competition, with its tools (tariffs, quotas and the rest) and its arguments and costs (international dependence, exhaustion of natural resources, harmful imports, imported inflation, monopoly danger) (Tanzania's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

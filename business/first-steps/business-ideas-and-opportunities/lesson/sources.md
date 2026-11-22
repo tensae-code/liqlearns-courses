@@ -1,6 +1,6 @@
 # Sources — Business Ideas and Opportunities
 
-countries: Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda, Indonesia
+countries: Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda, Indonesia, Tanzania
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -22,6 +22,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 **Book 7:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
 **Book 8:** Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (teacher guide) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-579-2 (PDF). Grade: Grade 10 (SMK/MAK Kelas X) — teacher guide. Language: Indonesian (Bahasa Indonesia). Page count: 304 PDF pages (printed pp. viii + 1–296; printed page = PDF page − 8). Source: manifest manifests-phase2/indonesia.json n=0; fetched via fetch_book.py, route release-search, 9,055,539 bytes (= expected_bytes), to scratch-phase2/indonesia/teacher.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282; glossary printed pp. 283–284 follows). TEACHER GUIDE — evidence only, acceptance 0.
+
+**Book 9:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,9 +59,10 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | judging opportunities | Book 7 (Entrepreneurship S1), printed p. 41 |
 | judging opportunities | Book 7 (Dasar-Dasar Akuntansi X), printed pp. 33–35 |
 | judging opportunities (teacher guide) | Book 8 (Buku Panduan Guru Dasar-Dasar Akuntansi X), printed p. 60 |
+| judging opportunities | Book 9 (Commerce Form Three), printed pp. 138–141 |
 
-**Acceptance count: taught in 9 countries (Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda, Indonesia)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 10 countries (Egypt, Kenya, Malaysia, Ecuador, Iran, Nepal, Nicaragua, Uganda, Indonesia, Tanzania)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: business ideas and opportunities, first steps, business, egypt, kenya, malaysia, ecuador, iran, nepal, nicaragua, uganda, indonesia
+Searchable tags: business ideas and opportunities, first steps, business, egypt, kenya, malaysia, ecuador, iran, nepal, nicaragua, uganda, indonesia, tanzania
