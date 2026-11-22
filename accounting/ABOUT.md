@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
-Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
+Business Studies books of Dominica, Ecuador, Greece, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
 and Samoa, Indonesia, Sudan and Tanzania.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
@@ -39,10 +39,10 @@ investment accounts).
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 32 books
-in all (30 student books and 2 teacher guides); the 21 below carry this course (the Accounting
-parts of each are what stock these lessons). The other 11 read
-books — Greece's Sygchrones Synallages B EPAL, Egypt's Industry Skills and Entrepreneurship Preparatory
+`lesson/sources.md`. The set read for the split — 35 books
+in all (30 student books and 5 teacher guides); the 21 below carry this course (the Accounting
+parts of each are what stock these lessons). The other 14 read
+books — Guatemala's three Emprendimiento para la Productividad teacher guides (I, II and III — read 2026-11-22; teacher guides, evidence only for Business, acceptance 0), Greece's Sygchrones Synallages B EPAL, Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Egypt's Agriculture Skills and Entrepreneurship Preparatory 7 Term 1, Agriculture Skills and Entrepreneurship Preparatory 8 Term 1 and Industry Skills and Entrepreneurship Preparatory 8 Term 1 (the three recovered-and-read in the Phase 2 wave, 2026-11-22), Iran's Entrepreneurship and Production Workshop,
 Nepal's Business Studies Class 11,
 Samoa's Business Studies Year 11 Book 1 and Year 9

@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Production — combining the factors** — business-functions; production and operations; combining the factors in production; specialisation and division of labour; factors of production; capital in production; types and levels of production; supply chains and logistics.
 2. **The size of a firm — scale, economies and diseconomies** — scale; scale; scale; productivity; productivity challenges in the Caribbean; linkages and the effects of growth; distribution problems.
 3. **Managing physical and technology resources** — opening; procedures; technology-resources.
-4. **Resource management and the business's productivity** — application; comparison; closing; supply chain management and competitiveness; how production works; quality in production; planning production; how production serves the customer; kinds of production; the physical side of production; what the business makes or does; how production works / siting.
+4. **Resource management and the business's productivity** — application; comparison; closing; supply chain management and competitiveness; how production works; quality in production; planning production; how production serves the customer; kinds of production; the physical side of production; what the business makes or does; how production works / siting; Producing-to-a-contract; What-production-is; Goods-vs-services-production; Bidding-with-a-production-plan; Production-plan.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -1,6 +1,6 @@
 # Sources — The Business Environment
 
-countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece
+countries: Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece, Guatemala
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -17,6 +17,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 7:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
+**Book 8:** Emprendimiento para la Productividad I — Guía de orientaciones metodológicas para docentes de primero básico (Competencias emprendedoras personales y plan de vida) (teacher guide) — ministerial authorities and technical teams named on the credits page (elaboration and coordination team; DIGEBI technical team; publication coordinated by DIGEBI's educational-materials department); the guide's embedded competency texts are drawn from Swisscontact (2015) and Ayerdi & López-Hurtado (2015) — © MINEDUC — Ministerio de Educación de Guatemala, 6ª calle 1-87, zona 10, Guatemala; Guatemala, 2017; Primera edición (first edition, as printed on the credits page). Grade: Grade 7 (primero básico). Language: Spanish. Page count: 88 PDF pages (printed pp. 1–88; printed page = PDF page). Source: manifest manifests-phase2/guatemala.json n=0; fetched via fetch_book.py, route release, 13,689,263 bytes = expected_bytes exactly, to scratch-phase2/guatemala/emprendimiento-1-g7.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, experience by experience, to the bibliography (printed pp. 87–88). TEACHER GUIDE — evidence only, acceptance 0.
+
 | Lesson part | Where it comes from |
 |---|---|
 | environment part of the lesson | Book 1 (Kenya Business Form 3), printed p. 36 |
@@ -29,7 +31,9 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the world the business sits in / analysing the venture | Book 6 (Guía del Emprendedor), printed p. 9 |
 | the world the business sits in / green ventures | Book 6 (Guía del Emprendedor), printed p. 32 |
 | the market-forms part of the lesson | Book 7 (Sygchrones Synallages B EPAL), printed pp. 100–102 |
+| the sustainability-of-a-business part of the lesson (teacher guide) | Book 8 (Emprendimiento para la Productividad I (Guatemala)), printed p. 22 |
 
 **Acceptance count: taught in 7 countries (Kenya, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Greece)** — every book above is a student book, so each country counts.
+Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece
+Searchable tags: the business environment, rules and responsibility, business, kenya, nigeria, dominica, ecuador, nepal, nicaragua, greece, guatemala

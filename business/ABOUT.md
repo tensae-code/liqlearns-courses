@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
-Business Studies books of Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia,
+Business Studies books of Dominica, Ecuador, Egypt, Greece, Guatemala, Indonesia, Iran, Kenya, Malaysia,
 Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 603 placements stocked.**
+environment, e-business). **25 lessons, 642 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 32 books
-in all (30 student books and 2 teacher guides); the 27 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 35 books
+in all (30 student books and 5 teacher guides); the 30 below carry this course (the Business parts
 of each are what stock these lessons). The other 5 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, Tanzania's
@@ -122,6 +122,14 @@ fed Business, and they are named here so the read set is whole.
 
 - *Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), B΄ EPAL* — Nikolaos Thomopoulos and Miltiadis Kanavos — Ministry of Education / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0480; ISBN 978-960-06-4872-0. No year printed on this copy (digital reissue). **Grade 11 (B΄ EPAL). STUDENT book. Language: Greek.** 218 PDF pages (printed pp. 1–217). **Verdict: COMPLETE** — read whole to the last teaching page (e-commerce unit ends printed p. 213). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue.)
   - Contents map for this split: the market-forms/competition framing, people-of-trade careers material, exchanges unit, securities/leasing/factoring material and the e-commerce unit fed **Business** (12 placements); Units 2–6 fed **Commerce** (31 placements in the Commerce course, from this book). No part fed Accounting.
+- *Emprendimiento para la Productividad I — Guía de orientaciones metodológicas para docentes de primero básico (Competencias emprendedoras personales y plan de vida)* — ministerial authorities and technical teams named on the credits page; embedded competency texts drawn from Swisscontact (2015) and Ayerdi & López-Hurtado (2015) — © MINEDUC — Ministerio de Educación de Guatemala, Guatemala, 2017; Primera edición. **Grade 7 (primero básico). TEACHER GUIDE. Language: Spanish.** 88 PDF pages (printed pp. 1–88). **Verdict: COMPLETE** — read whole to the bibliography (printed pp. 87–88). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — Guatemala is not counted as a teaching country in any lesson it touches, and each touched lesson's sources say so.**
+  - Contents map for this split: Experiences 2–4 (undertaking for the common good; the School Productive Project — PPE; personal entrepreneurial competencies and life plan) and the sustainability-for-a-business point of Experience 1 fed **Business** (14 placements in this course, from this guide — every one marked (teacher guide) in its provenance row). No part fed Commerce or Accounting.
+
+- *Emprendimiento para la Productividad II — Guía de orientaciones metodológicas para docentes de segundo básico (Producción y costos del proyecto)* — ministerial authorities and technical teams named on the credits page; embedded texts drawn from Swisscontact (2015), Cruz Muralles (2014), UNESCO (2007/2015) and GTZ/PROMOCAP (2006) — © MINEDUC — Ministerio de Educación de Guatemala, Guatemala, 2017; Primera edición. **Grade 8 (segundo básico). TEACHER GUIDE. Language: Spanish.** 88 PDF pages (printed pp. 1–88). **Verdict: COMPLETE** — read whole to the bibliography (printed p. 88). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **Teacher guide — evidence only, acceptance 0, as above.**
+  - Contents map for this split: all four experiences (business culture; setting the project's course; market feasibility study; production and costs of the project) fed **Business** (19 placements in this course, from this guide — every one marked (teacher guide) in its provenance row). No part fed Commerce or Accounting.
+
+- *Emprendimiento para la Productividad III — Guía de orientaciones metodológicas para docentes de tercero básico (Emprendimientos sociales, ambientales, culturales y cooperativos)* — ministerial authorities and technical teams named on the credits page; embedded texts drawn from UNESCO (2012), PESA (2011), Nyéléni (2007), Donis Rosell (2015), IFP/PESA Nicaragua (2008), EnteMundos (2016), Egesocial and Guatemalan press case reports — © MINEDUC — Ministerio de Educación de Guatemala, Guatemala, 2017; Primera edición. **Grade 9 (tercero básico). TEACHER GUIDE. Language: Spanish.** 88 PDF pages (printed pp. 1–88). **Verdict: COMPLETE** — read whole to the bibliography (printed p. 88). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue.) **Teacher guide — evidence only, acceptance 0, as above.**
+  - Contents map for this split: the project-design method of Experience 1, the project-management/fundraising system and community-organisation teaching of Experience 2, and the social-entrepreneurship teaching of Experience 4 fed **Business** (6 placements in this course, from this guide — every one marked (teacher guide) in its provenance row). Experiences 1 and 3 are otherwise food-security and sustainable-development content, named here only. No part fed Commerce or Accounting. (Experience 4's topic list announces "Contabilidad del proyecto", but no accounting content is developed anywhere in the printed activities — checked across the whole experience, as the reader recorded.)
 
 ## Acceptance reckoning
 
@@ -136,15 +144,20 @@ fed Business, and they are named here so the read set is whole.
   4 placements stocked in this course as evidence only,
   acceptance 0; Indonesia is counted as a teaching country
   only through its student book, and every lesson the guide
-  touches says so in its sources. (Zambia's *Principles of
-  Accounts Teaching Module*, the other teacher guide read for
+  touches says so in its sources. Guatemala's three
+  *Emprendimiento para la Productividad* guides (teacher
+  guides, read 2026-11-22) — 39 placements stocked in this
+  course as evidence only, acceptance 0; Guatemala is counted
+  nowhere as a teaching country, and every lesson they touch
+  says so in its sources. (Zambia's *Principles of
+  Accounts Teaching Module*, another teacher guide read for
   the split, fed Accounting only.) Teacher guides stand in
   the pending queues and, when they come, will be evidence
   only (acceptance 0), as in every course.
 
 ## The pending queue — Business books not yet in the course
 
-44 Business books are in hand in the library record but
+41 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -155,11 +168,6 @@ hold lifts and they are read.
 **Bhutan (2):**
 - [BUSINESS · student] Business and Entrepreneurship, Class XI (grade-11) — secured-not-on-disk
 - [BUSINESS · student] Business and Entrepreneurship, Class XII (grade-12) — secured-not-on-disk
-
-**Guatemala (3):**
-- [BUSINESS · teacher] Emprendimiento para la Productividad I — Guía de orientaciones metodológicas para docentes de primero básico (Competencias emprendedoras personales y plan de vida) (Grade 7) — secured-not-on-disk
-- [BUSINESS · teacher] Emprendimiento para la Productividad II — Guía de orientaciones metodológicas para docentes de segundo básico (Producción y costos del proyecto) (Grade 8) — secured-not-on-disk
-- [BUSINESS · teacher] Emprendimiento para la Productividad III — Guía de orientaciones metodológicas para docentes de tercero básico (Grade 9) — secured-not-on-disk
 
 **Kazakhstan (4):**
 - [BUSINESS · student] Кәсіпкерлік және бизнес негіздері Аганина К.Ж. учебник для 10 класса (Grade 10) — secured-not-on-disk

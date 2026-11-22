@@ -11,7 +11,7 @@ Commerce; the books of account live here.
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
-Business Studies books of Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan
+Business Studies books of Dominica, Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan
 and Tanzania —
 except the **Tip boxes**: a tip in a box is from us, the people
 making LiqLearns. Tips are ours; the lessons are the books'.
