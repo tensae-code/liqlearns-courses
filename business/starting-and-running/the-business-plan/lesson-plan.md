@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What a business plan is — and why it matters** — opening; importance; opening; purposes.
 2. **Feasibility first — can this idea work?** — the feasibility-study.
 3. **The parts of the plan** — format; components; financial-plan; feasibility study and market research.
-4. **Worked plans — the plan made whole** — worked-example; worked-models; writing a business plan; the business plan; opening / what a business plan is; structure of the plan; writing the plan; the plan on one page; closing the plan; purpose of the plan; writing the plan / using the money; writing the plan / goals; the plan / judging the idea first; the plan / the studies around the project; Project-plan; Picturing-the-business.
+4. **Worked plans — the plan made whole** — worked-example; worked-models; writing a business plan; the business plan; opening / what a business plan is; structure of the plan; writing the plan; the plan on one page; closing the plan; purpose of the plan; writing the plan / using the money; writing the plan / goals; the plan / judging the idea first; the plan / the studies around the project; Project-plan; Picturing-the-business; Worked-model part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

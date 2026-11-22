@@ -1,6 +1,6 @@
 # Sources — Clubs, Societies and Co-operatives
 
-countries: Samoa, Dominica, Ecuador, Nepal
+countries: Samoa, Dominica, Ecuador, Nepal, Malaysia
 
 **Book 1:** Business Studies — Year 11, Book One (student book) — Lili Tuioti with subject committee — Government of Samoa, Department of Education, 2003; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-042-5. Year/edition: 2003 (in-hand copy). Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-1.pdf. Verdict: COMPLETE for the assigned strands — the whole book was read; Business parts placed, Economics parts mapped only.
 
@@ -11,6 +11,10 @@ countries: Samoa, Dominica, Ecuador, Nepal
 **Book 4:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
 
+**Book 5:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
+
+**Book 6:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | non-profit organisations as producers | Book 1 (Bus Studies Y11 Bk1), printed p. 18 |
@@ -20,9 +24,11 @@ countries: Samoa, Dominica, Ecuador, Nepal
 | co-operative forms | Book 4 (Business Studies Cl. 11), printed p. 117 |
 | co-operative forms | Book 4 (Business Studies Cl. 11), printed p. 120 |
 | co-operative forms | Book 4 (Business Studies Cl. 11), printed p. 121 |
+| cooperatives part | Book 5 (Pengajian Keusahawanan T4), printed p. 68 |
+| cooperatives part | Book 6 (Perniagaan T4), printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Samoa, Dominica, Ecuador, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Samoa, Dominica, Ecuador, Nepal, Malaysia)** — every book above is a student book, so each country counts.
 
 This lesson stands on ONE placement, honestly labelled: the fuller clubs/societies teaching expected from Samoa's Book 1s is NOT in Samoa Year 9 Book 1 (verified cover to cover — the Economics wave's contents map pointing to clubs/societies at printed pp. 15–24 of that book was wrong, and nothing is stocked from the wrong map). Its likely source is the pending Samoa Year 10 Book 1; the lesson grows when that book is read.
 
-Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal
+Searchable tags: clubs societies and cooperatives, first steps, business, samoa, dominica, ecuador, nepal, malaysia

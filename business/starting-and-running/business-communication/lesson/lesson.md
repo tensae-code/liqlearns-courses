@@ -12,6 +12,12 @@ Follow one message through a business you know: a manager's instruction going do
 
 Internal and external communication: the communication process (sender, channel, receiver, feedback, noise), upward/downward/horizontal and formal/informal channels, verbal/written/visual methods and their means, the barriers to effective communication (language, culture, emotion, overload, perception, wrong channel) and strategies for communicating effectively
 
+**Negotiation part.** Negotiation as an entrepreneurial skill: integrative negotiation where both sides gain (win-win), preparing by assessing the other party's background, and the principles of negotiating and interacting (responsive, courteous, mutual help) (Malaysia's book.)
+
+**Communication part.** The communication process (sender, message formation, delivery, interpretation, reception, feedback, understanding) and the oral and non-oral techniques (telephone, letters and memos, meetings, reports, seminars), with the steps for planning effective communication (Malaysia's book.)
+
+**Interaction part.** How the functional departments relate and interact: the flow of information between departments (sender creates the message, receivers act on it), the flow of goods and services between businesses, orders received by the sales unit, and supplier invoices received and paid by the finance department (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

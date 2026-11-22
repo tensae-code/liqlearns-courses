@@ -119,6 +119,14 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Market-research.** Doing market research with a questionnaire: before drafting one, be clear about the research objective, the information needed and who the questions address; the rules of a good questionnaire (an introductory greeting, clear questions in accessible language, no questions suggesting their answer, no intimate questions, logical progressive order, a clean attractive appearance) and the question types — introductory, open (rich information but laborious to record and analyse), closed (quick, categorical, easy to tabulate, but rigid), multiple-response, evaluation and weighted/ranking questions — each with its advantages and disadvantages; the team then interviews at least three potential clients per member in the community and tabulates the results (teacher guide) (Guatemala's teacher guide.)
 
+**Market-scale part.** The scale of a business's market: domestic scale in three levels (local, state, national) and international scale (zone and global), the global market now reachable through the Internet (Malaysia's book.)
+
+**Marketing-mix part.** The marketing mix set out element by element (product: quality, design, brand, packaging, size, guarantee; distribution: channels, coverage, inventory, transport, location; promotion: advertising methods and sales approach; price) together with marketing research (Malaysia's book.)
+
+**Market-share part.** Market share and sales as business objectives: the sales-promotion strategies a seller uses — cheap sales in festive seasons, price discounts, samples and contests (Malaysia's book.)
+
+**Marketing-department part.** The marketing functional department: making sure goods and services reach consumers quickly, creating demand for them, identifying the target market and building relations (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

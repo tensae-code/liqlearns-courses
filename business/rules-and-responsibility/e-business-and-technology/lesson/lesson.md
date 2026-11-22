@@ -83,6 +83,10 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **Effects-of-e-commerce.** The effects of e-commerce: for businesses, access to a worldwide market and more choice of customers and suppliers whatever their capital; better service quality through electronic communication; new business and organisational forms; the effects on work and employment — the computer and new-technology skills now demanded of staff — and the open questions of taxation and payment security (Greece's book.)
 
+**ICT-department part.** The ICT functional department: information technology as computing plus telecommunications in the business, speeding transactions between trader and buyer and opening e-marketing (Malaysia's book.)
+
+**IT-use part.** The use of information technology across the business: its purposes (smoother operations, better decisions, widening the market to global level without borders) and e-banking as online banking that makes paying bills, investing and checking faster and cheaper (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

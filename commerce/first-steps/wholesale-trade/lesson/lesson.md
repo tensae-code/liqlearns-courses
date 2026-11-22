@@ -33,6 +33,8 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 
 **Wholesale/retail distinction.** Trade distinguished by the quantity traded: wholesale trade, the sale of goods in large quantities from trader to trader (as the ΚΒΣ defines it), retail trade, and the in-between semi-wholesale form (Greece's book.)
 
+**Distribution part.** The distribution functional department: its purpose (every product reaches the buyer), the manager choosing among four distribution channels by market needs and product type, and stock held in warehouses before delivery (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the wholesaler stands in the middle of the chain of distribution — buying in bulk from producers and selling on to retailers — and every middleman in the chain does real work and adds a real charge. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the channel patterns, the channels kenyan goods follow, the chain drawn whole, the taro chain, wholesale trade. Your companion asks one question back — answer it from the lesson.

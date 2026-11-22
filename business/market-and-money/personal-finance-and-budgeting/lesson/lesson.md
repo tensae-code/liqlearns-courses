@@ -27,6 +27,14 @@ Saving is putting money aside — for a rainy day, and for set goals. The book's
 **A person's own money.** What determines saving and investment, and why people do them: savings are determined by availability of financial institutions, knowledge of the saving culture, clear goals for saving and high motivation to save; investment by availability of investment opportunities, favourable government policies and determination to work hard; (Uganda's book.)
 **Personal-budget.** The personal budget as the exercise before budgeting a project: first identify the month's habitual income (salary, family contributions) and expenses (transport, food, telephone, internet); the balance is income minus expenses, and a positive balance can be destined to a savings account for unforeseen expenses or an investment; a personal budget lets you control your money so as not to fall into unnecessary debts (teacher guide) (Guatemala's teacher guide.)
 
+**Financial-management part.** The basics of the entrepreneur's financial management: what financial management is, why it matters, and what weak financial management does — bankruptcy risk, liabilities exceeding assets, being unable to borrow and losing the trust of partners, workers, customers and suppliers (Malaysia's book.)
+
+**Credit-and-planning part.** Credit and debt management (asset financing by loan, personal loans, credit cards) and the financial planning plan: what the plan covers and why having one matters (Malaysia's book.)
+
+**Plan-preparation part.** Preparing the financial plan in full: income split into active, passive and investment income; savings (including saving up the start-up capital itself); and the worked personal budget table of monthly and yearly outgoings (Malaysia's book.)
+
+**Investment part.** The investment side of the plan: types of investment open to the entrepreneur (bank investment, cooperative investment for members, PNB products such as ASB and ASN) with their risk levels, and allowing for income tax and zakat inside the plan (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a person controls their own money with a budget — a spending plan that balances income against expenditure, fixed outgoings first and flexible spending after — watched for its peaks and troughs, and with saving done on purpose toward set goals, in ways that run from a bank deposit account to the sou-sou. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: budgeting, ways of saving. Your companion asks one question back — answer it from the lesson.

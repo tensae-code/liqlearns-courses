@@ -75,6 +75,30 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Kinds-of-venture.** The kinds of venture this year studies, learned from real Guatemalan cases: social ventures (a youth project educating 300+ children in Antigua; a restaurant in Xela whose profits fund the owning NGO's social projects), environmental ventures (an NGO that builds pedal-powered machines — bicimáquinas — from recycled bicycles and sells them cheaply to rural families, developing their production, promotion and commercialisation so that both it and the beneficiary groups are self-sustainable), cultural ventures (a youth orchestra in Santa Cruz Balanyá whose instruments were earned through agriculture), and cooperative ventures (an agricultural cooperative whose young members' farm projects pay for their studies, and the cooperative sector — fishing, crafts, transport, savings, credit and housing cooperatives — working to bring young people in to innovate its practices) (teacher guide) (Guatemala's teacher guide.)
 
+**Opening part.** The history and development of entrepreneurship in Malaysia taught as the country's own story: barter in primitive society, the pedagang of the Melaka Malay kingdom, then development before, during and after the Dasar Ekonomi Baru (DEB) and under the Dasar Pembangunan Negara (DPN) (Malaysia's book.)
+
+**Development-efforts part.** The government's DEB-era efforts to grow entrepreneurs: new agencies (UDA, FAMA, BPIMB), expanding MARA and PERNAS, technical and vocational training, interest-free and low-interest loans through MARA and the CGC credit-guarantee scheme, rural industry and business premises/infrastructure (Malaysia's book.)
+
+**Definitions part.** Entrepreneur and trader defined and distinguished side by side: the entrepreneur founds, manages, bears risk and keeps seeking new potential business, the trader simply buys and sells for profit; goals and innovation compared in the book's own table (Malaysia's book.)
+
+**Concept part.** The concept of entrepreneurship as combining entrepreneurial resources to produce goods or services for human needs, with the scholars' definitions (Gartner's creation of an organisation, Timmons' creative act) (Malaysia's book.)
+
+**Perspectives part.** Entrepreneurship from the Islamic perspective, Malaysia's own way: enterprise as a form of general worship (ibadah umum) and its principles — Falah (success that solves the community's problems), Amanah (trust), Tawakal (reliance after effort) and Istiqamah (steadfastness) (Malaysia's book.)
+
+**Perspectives part.** Entrepreneurship from the conventional perspectives: the psychological, economic and sociological approaches to who becomes an entrepreneur and why (Malaysia's book.)
+
+**Elements part.** The elements inside the entrepreneurship concept: continuous initiative, daring to take risks, being able to gain returns, and mobilising entrepreneurial resources (Malaysia's book.)
+
+**Roles part.** The roles of entrepreneurship in developing the self, the family, society, the nation and religion (Malaysia's book.)
+
+**Career part.** The advantages of entrepreneurship as a career: unlimited opportunities, owning one's own business/organisation, a source of income and rewards, improving one's own and society's status, and a career that can be inherited (Malaysia's book.)
+
+**Traits part.** The characteristics of an entrepreneur: creative, innovative, quick to seize opportunities, visionary, internally driven, never giving up, daring to take risks, able to lead and competitive (Malaysia's book.)
+
+**Profile part.** What a successful entrepreneur's profile contains: background, push factors, challenges and obstacles, the ways of facing them, success achieved and life principles (Malaysia's book.)
+
+**Profiles-in-practice part.** Malaysia's own worked role-model profiles of national entrepreneur figures (a diversified corporate figure, the founder of a low-cost airline, and an internet-business figure) showing background, push factors and success in full (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

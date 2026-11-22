@@ -26,6 +26,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 11:** Emprendimiento para la Productividad III — Guía de orientaciones metodológicas para docentes de tercero básico (Emprendimientos sociales, ambientales, culturales y cooperativos) (teacher guide) — ministerial authorities and technical teams named on the credits page (elaboration and coordination team; DIGEBI technical team; publication coordinated by DIGEBI's educational-materials department); the guide's embedded texts are drawn from UNESCO (2012), the Programa Especial para la Seguridad Alimentaria en Centroamérica (2011), Nyéléni (2007), Donis Rosell (2015), the Instituto de Formación Permanente / PESA Nicaragua (2008), EnteMundos (2016), Egesocial and Guatemalan press case reports — © MINEDUC — Ministerio de Educación de Guatemala, 6ª calle 1-87, zona 10, Guatemala; Guatemala, 2017; Primera edición (first edition, as printed on the credits page). Grade: Grade 9 (tercero básico). Language: Spanish. Page count: 88 PDF pages (printed pp. 1–88; printed page = PDF page). Source: manifest manifests-phase2/guatemala.json n=2; fetched via fetch_book.py, route release, 11,402,340 bytes = expected_bytes exactly, to scratch-phase2/guatemala/emprendimiento-3-g9.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, experience by experience, to the bibliography (printed p. 88). TEACHER GUIDE — evidence only, acceptance 0.
 
+**Book 12:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the what-entrepreneurship-is / definition part of the lesson | Book 1 (Industry Skills and Entrepreneurship Prep 7 T1), printed p. 9 |
@@ -57,6 +59,18 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | the organising-together part of the lesson (teacher guide) | Book 11 (Emprendimiento para la Productividad III (Guatemala)), printed pp. 39–41 |
 | the social-entrepreneur part of the lesson (teacher guide) | Book 11 (Emprendimiento para la Productividad III (Guatemala)), printed pp. 68–69 |
 | the kinds-of-venture part of the lesson (teacher guide) | Book 11 (Emprendimiento para la Productividad III (Guatemala)), printed pp. 66–77 |
+| opening part | Book 12 (Pengajian Keusahawanan T4), printed p. 4 |
+| development-efforts part | Book 12 (Pengajian Keusahawanan T4), printed p. 7 |
+| definitions part | Book 12 (Pengajian Keusahawanan T4), printed p. 12 |
+| concept part | Book 12 (Pengajian Keusahawanan T4), printed p. 14 |
+| perspectives part | Book 12 (Pengajian Keusahawanan T4), printed p. 18 |
+| perspectives part | Book 12 (Pengajian Keusahawanan T4), printed p. 19 |
+| elements part | Book 12 (Pengajian Keusahawanan T4), printed p. 20 |
+| roles part | Book 12 (Pengajian Keusahawanan T4), printed p. 36 |
+| career part | Book 12 (Pengajian Keusahawanan T4), printed p. 39 |
+| traits part | Book 12 (Pengajian Keusahawanan T4), printed p. 41 |
+| profile part | Book 12 (Pengajian Keusahawanan T4), printed p. 46 |
+| profiles-in-practice part | Book 12 (Pengajian Keusahawanan T4), printed p. 48 |
 
 **Acceptance count: taught in 8 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine, Uganda)** — every book above is a student book, so each country counts.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.

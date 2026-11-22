@@ -25,6 +25,8 @@ Buying on terms inside the book's terms-of-sale teaching: credit (price split in
 
 **Promissory-note.** The promissory note (γραμμάτιο σε διαταγή): the maker's own written promise to pay, how it differs from a bill of exchange and how it circulates (Greece's book.)
 
+**Hire-purchase part.** The Hire Purchase Act 1967 (Amendment 2010): hire purchase as hiring goods with an option to buy — the user is the hirer, the financing company is the owner, and ownership passes only after all instalments are paid (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: buying on credit means taking the goods now and paying over time: the seller becomes the creditor who lends, and the buyer becomes the debtor who owes — and the promise to pay is measured exactly in money. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: buying on credit, credit and hire purchase. Your companion asks one question back — answer it from the lesson.

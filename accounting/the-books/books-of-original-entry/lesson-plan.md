@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Source documents — the evidence every record starts from**
-2. **The journals — first record, in time order**; the books; Journal; Supporting-documents; Books-a-business-keeps; Categories-of-books; Classical-system; Centralised-system; Set-of-books; No-entry-without-a-document; Daily-preparation; Recording-documents; Filing-documents.
+2. **The journals — first record, in time order**; the books; Journal; Supporting-documents; Books-a-business-keeps; Categories-of-books; Classical-system; Centralised-system; Set-of-books; No-entry-without-a-document; Daily-preparation; Recording-documents; Filing-documents; Documents part; Source documents part; Discounts part; Non-source part; Prime entry part; General journal part; Special journals part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

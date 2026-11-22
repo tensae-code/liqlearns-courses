@@ -131,6 +131,20 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **Who-may-trade.** The limitations on practising trade: objective limits — activities that need a special operating licence (banking, insurance, stockbroking, pharmacy, commercial agency, broking, travel offices, exporting, industry) — and subjective limits — who has the legal capacity to trade and which professions are incompatible with trader status; multi-level marketing noted (Greece's book.)
 
+**Legislation part.** Business legislation: what an Act is (law drafted, passed and gazetted by Parliament) and the purposes business law serves in keeping enterprise activity lawful and protecting customers, suppliers and workers (Malaysia's book.)
+
+**Production-law part.** The production-side Acts: the Environmental Quality Act 1974 (Amendment 2012) with its EIA machinery, and the Copyright Act 1987 — intellectual property (copyright, trademarks, designs) taught as an intangible business asset (Malaysia's book.)
+
+**Sales-law part.** The sales-side Acts: the Sale of Goods Act 1957 governing contracts for the sale of goods wholesale and retail, the Sales Tax Act 2018 (single-stage tax) and the Service Tax Act 2018 (Malaysia's book.)
+
+**Data-protection part.** The Personal Data Protection Act 2010: the law protecting personal and sensitive personal data processed for commercial transactions (Malaysia's book.)
+
+**Licensing part.** The licences, permits and certificates a business must hold: licence (12-month permission, renewed yearly), permit (temporary, up to six months) and certificate (recognition of practice, e.g. GMP, HACCP and the JAKIM Halal certificate) defined and listed, with why each matters (Malaysia's book.)
+
+**Government-and-law part.** The government's role on the legal side: Parliament makes the business laws so trade runs smoothly, consumer-protection laws stop traders misleading buyers on quality and price, and tax reliefs (pioneer status, investment tax allowance, deductions and exemptions) encourage people into chosen businesses (Malaysia's book.)
+
+**Law-effects part.** How business laws press on the environment: health-and-safety law (fire rules, worker food protection), company law and advertising law that must keep pace with promotion practice (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law, the rules a business works under, the rules a business works under. Your companion asks one question back — answer it from the lesson.

@@ -23,6 +23,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 8:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
 
+**Book 9:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
+
+**Book 10:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | organisation-structure part | Book 1 (Perniagaan T5), printed p. 21 |
@@ -79,6 +83,25 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | managing / deciding | Book 8 (Small Projects), printed p. 42 |
 | managing / deciding together | Book 8 (Small Projects), printed p. 44 |
 | business management | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 294–298 |
+| direction-setting part | Book 9 (Pengajian Keusahawanan T4), printed p. 80 |
+| SWOT part | Book 9 (Pengajian Keusahawanan T4), printed p. 83 |
+| self-development part | Book 9 (Pengajian Keusahawanan T4), printed p. 88 |
+| skills part | Book 9 (Pengajian Keusahawanan T4), printed p. 89 |
+| decision-making part | Book 9 (Pengajian Keusahawanan T4), printed p. 92 |
+| time-management part | Book 9 (Pengajian Keusahawanan T4), printed p. 99 |
+| networking part | Book 9 (Pengajian Keusahawanan T4), printed p. 102 |
+| leadership part | Book 9 (Pengajian Keusahawanan T4), printed p. 107 |
+| strategy part | Book 9 (Pengajian Keusahawanan T4), printed p. 196 |
+| life-cycle part | Book 9 (Pengajian Keusahawanan T4), printed p. 201 |
+| change-factors part | Book 10 (Perniagaan T4), printed p. 100 |
+| SWOT part | Book 10 (Perniagaan T4), printed p. 109 |
+| meanings part | Book 10 (Perniagaan T4), printed p. 121 |
+| objectives part | Book 10 (Perniagaan T4), printed p. 124 |
+| purposes part | Book 10 (Perniagaan T4), printed p. 127 |
+| change-factors part | Book 10 (Perniagaan T4), printed p. 151 |
+| achievement part | Book 10 (Perniagaan T4), printed p. 162 |
+| departments part | Book 10 (Perniagaan T4), printed p. 173 |
+| small-vs-large part | Book 10 (Perniagaan T4), printed p. 215 |
 
 **Acceptance count: taught in 9 countries (Malaysia, Nigeria, Samoa, Dominica, Iran, Nepal, Nicaragua, Palestine, Indonesia)** — every book above is a student book, so each country counts.
 

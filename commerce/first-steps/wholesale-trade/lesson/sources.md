@@ -1,6 +1,6 @@
 # Sources — Wholesale Trade
 
-countries: Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania, Greece
+countries: Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania, Greece, Malaysia
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -20,6 +20,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 8:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
 
+**Book 9:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | channels part of the lesson | Book 1 (Kenya Business Form 3), printed p. 50 |
@@ -34,7 +36,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | wholesale trade | Book 7 (Entrepreneurship S1), printed p. 26 |
 | wholesale trade | Book 7 (Commerce Form Three), printed p. 48 |
 | the wholesale/retail distinction part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed p. 33 |
+| distribution part | Book 9 (Perniagaan T4), printed p. 192 |
 
-**Acceptance count: taught in 8 countries (Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Kenya, Samoa, Nigeria, Dominica, Nepal, Uganda, Tanzania, Greece, Malaysia)** — every book above is a student book, so each country counts.
 
-Searchable tags: wholesale trade, first steps, commerce, kenya, samoa, nigeria, dominica, nepal, uganda, tanzania, greece
+Searchable tags: wholesale trade, first steps, commerce, kenya, samoa, nigeria, dominica, nepal, uganda, tanzania, greece, malaysia

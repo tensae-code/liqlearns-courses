@@ -69,6 +69,18 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Sectors-of-the-economy.** Economic activities and the sectors of the economy: an economic activity is one carrying effort and projection to produce, distribute, commercialise and intermediate products and services within a society, with the object of generating utility; activities are grouped by sector — agricultural, livestock, industry/manufacturing, commerce and services — and classified by the international CIIU (Clasificación Industrial Internacional Uniforme, from 1948) and, in Guatemala, by the NAEG nomenclature used by the INE, the Banco de Guatemala, the SAT and the IGSS, which counts some 375 economic activities (teacher guide) (Guatemala's teacher guide.)
 
+**What a business is.** The concept of a business: buying and selling goods or services to meet human needs and wants for profit, with goods (physical products) distinguished from services (work done for others) (Malaysia's book.)
+
+**Opening part.** What a business is: an activity of buying and selling goods or services between seller and buyer to meet consumer needs and wants, involving an exchange of value (money for product) from which the seller gains profit; goods and services together are the product (Malaysia's book.)
+
+**Purpose part.** The purpose of business: offering goods and services, the importance of profit to a business (measuring performance, funding growth), and the non-profit organisation (OBBU) that offers goods/services at cost or free for society's benefit (Malaysia's book.)
+
+**Size-classification part.** Classifying business by size, Malaysia's SME way: micro, small, medium and large set by annual sales and full-time employees for manufacturing and for services (e.g. small manufacturing RM300,000–<RM15 million, 5–<75 workers), with the strengths and weaknesses of each size (Malaysia's book.)
+
+**Sector-classification part.** Classifying business by sector: the primary sector, the secondary sector (manufacturing and processing, engineering, energy supply, construction) and the tertiary sector, and how the three sectors need one another (Malaysia's book.)
+
+**Interrelation part.** How the four ideas interlock: the goods/services offered, the form of ownership, the classification and the scale of a business are chosen together and shape one another (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

@@ -1,13 +1,16 @@
 # Sources — Control Accounts
 
-countries: Samoa
+countries: Samoa, Malaysia
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
+
+**Book 2:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
 | Lesson part | Where it comes from |
 |---|---|
 | control accounts and schedules | Book 1 (Accounting Year 12), printed p. 89 |
+| control part | Book 2 (Prinsip Perakaunan T4), printed p. 169 |
 
-**Acceptance count: taught in 1 country (Samoa)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 2 countries (Samoa, Malaysia)** — every book above is a student book, so each country counts.
 
-Searchable tags: control accounts, kinds of business, accounting, samoa
+Searchable tags: control accounts, kinds of business, accounting, samoa, malaysia

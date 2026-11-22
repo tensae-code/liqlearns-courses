@@ -43,6 +43,12 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **People at work.** The guide's own definition of K3: occupational safety and health is an effort to build co-operation, mutual understanding and proactive participation between employer and workers in carrying out their shared K3 duties in order to raise work productivity; its role is anticipative — reducing the chance of sickness, accident or psychological disturbance while working (Indonesia's teacher guide.)
 
+**Team part.** Group dynamics: what makes a working group dynamic — a group work plan, the context of resources, trust and cooperation among members, and the process of reaching the shared goal (Malaysia's book.)
+
+**Conflict part.** Conflict between individuals and groups: its causes (poor cooperation, differing goals, poor communication, unclear roles and the rest) and the methods of resolving it, starting with sitting down to discuss openly (Malaysia's book.)
+
+**HR-department part.** The human-resource functional department and its four roles in developing and driving the growth of a business (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people, people at work, people at work. Your companion asks one question back — answer it from the lesson.

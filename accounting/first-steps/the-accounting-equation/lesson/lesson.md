@@ -45,6 +45,10 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Classifying-liabilities.** The divisions of the Liabilities side: own capital split into capital, reserve funds (undistributed profits kept in the business) and revaluation differences; obligations to third parties split into long-term and short-term; and provisions for risks and expenses named as amounts held back for a probable loss or expense whose time and amount are not yet known (Greece's book.)
 
+**Equation part.** The accounting equation (Persamaan Perakaunan): the basic equation stating the relationship between assets, liabilities and owner's equity, and the expanded equation bringing in revenue, expenses and drawings (Malaysia's book.)
+
+**Effects part.** Analysing transactions through the equation: each transaction's dual effect set out in a table — buying goods on credit raises inventory and accounts payable by RM2 400; paying a cheque reduces the bank balance and the payable — and a month's transactions for a new business (Kedai Kain Suhana) worked through the equation (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.

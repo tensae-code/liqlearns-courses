@@ -121,6 +121,44 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Managing / deciding together.** Brainstorming as the group's decision method: involving the work team in decision-making generates more and better solution options and wins the team's commitment to the decision they helped make; (Palestine's book.)
 **Business management.** Industrial work culture — the 5R/5S method: Ringkas, Rapi, Resik, Rawat, Rajin (sort, set in order, shine, standardise, sustain) as a simple method for arranging and cleaning the workplace that raises efficiency, applied step by step in the accounting office (Indonesia's book.)
 
+**Direction-setting part.** Vision, mission and objectives defined as the core of strategic planning that sets an organisation's direction, with objectives written the SMART way (specific, measurable and the rest) (Malaysia's book.)
+
+**SWOT part.** SWOT analysis applied to the prospective entrepreneur himself: own strengths and weaknesses against external opportunities and threats, and building TOWS strategies for self-development from the four combinations (Malaysia's book.)
+
+**Self-development part.** The prospective entrepreneur's self-development plan built from the SWOT/TOWS analysis: developing mind and emotions, character, and technical skills (Malaysia's book.)
+
+**Skills part.** The basic entrepreneurial skills introduced, starting with thinking skills and their techniques (brainstorming, forced analogy and staged idea generation) (Malaysia's book.)
+
+**Decision-making part.** The decision-making and problem-solving process step by step: set specific goals, identify the problem, form and evaluate alternatives, choose and act (Malaysia's book.)
+
+**Time-management part.** Time management for the entrepreneur: identify the important things, divide time by task priority, plan a work schedule, note things in a diary and evaluate continuously (Malaysia's book.)
+
+**Networking part.** Networking in business: what a network is, its benefits (confidence before investing, cutting bureaucracy, sharing knowledge, improving image) and how to keep a network alive (Malaysia's book.)
+
+**Leadership part.** Leadership as influencing a group toward the organisation's goals, and the entrepreneur's leadership styles — autocratic (all authority centred on the manager) against democratic (authority shared, subordinates join decisions) (Malaysia's book.)
+
+**Strategy part.** Entrepreneurial strategy: what a strategy is (an action plan to reach profit goals), its types including market-penetration and retention strategies, and its importance — reducing failure risk, setting the business's direction and mobilising resources effectively (Malaysia's book.)
+
+**Life-cycle part.** The Business Life Cycle (Kitaran Hayat Perniagaan) in five phases — idea generation (seed), start-up, growth, maturity and establishment — and matching the right strategy to each phase (Malaysia's book.)
+
+**Change-factors part.** Analysing the factors that bring change: management styles read through the managerial grid up to the democratic (9,9) style, and human-resource change through recruiting from internal and external sources with their costs and benefits (Malaysia's book.)
+
+**SWOT part.** Using the SWOT matrix: matching internal strengths and weaknesses against external opportunities and threats (with PESTEL named as the external analysis) to turn outside opportunities into the business's advantage (Malaysia's book.)
+
+**Meanings part.** Vision, mission and objectives: what each means, and how their statements differ between a profit organisation, a non-profit organisation (OBBU) and a voluntary association (Malaysia's book.)
+
+**Objectives part.** The characteristics of a business's objectives: short-term against long-term objectives, and objectives written SMART (specific first), with the Gantt chart as the planning tool that sets activities against time (Malaysia's book.)
+
+**Purposes part.** Why vision, mission and objectives are set: the vision as the long-term (over five years) goal inside strategic management, the mission formed after the vision to direct current activity, objectives tied to SMART (Malaysia's book.)
+
+**Change-factors part.** The factors that force vision, mission and objectives to change: internal factors (the finance function, quality control) and external factors (the economic cycle, socioculture, technology) (Malaysia's book.)
+
+**Achievement part.** Vision, mission and objectives achieved in real chosen businesses: worked case readings (a national motorcycle maker raising market share from 10% to 15%, a food multinational's objectives, a bank's vision) (Malaysia's book.)
+
+**Departments part.** The functional departments of a business organisation: what a functional department is, the management levels inside it, and the organisation chart (chief executive over marketing, production and finance managers over supervisors) (Malaysia's book.)
+
+**Small-vs-large part.** The same functional departments interacting in a small business against a large one: in the small business the sales department deals with customers directly and departments combine functions (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

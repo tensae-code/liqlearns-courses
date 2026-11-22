@@ -30,6 +30,8 @@ QuickBooks as a specialist accounting application: it automates bookkeeping (ent
 
 **Using-accounting-software.** Setting up and running a general-ledger software package, step by step: first defining the parameters — creating the company, the journals, the document types and the accounts (each account characterised, e.g. expense/revenue accounts to be zeroed into the year's results, customer/supplier accounts feeding the tax office's ΚΕΠΥΟ invoice statements) and defining the accounting period; then entering the accounting articles, taking the printouts (journals, analytical ledgers, trial balances, ΚΕΠΥΟ, VAT returns) and doing the periodic work (opening/closing inventory, closing the period, opening the new year, producing the economic result) (Greece's book.)
 
+**Development part.** The development of the accounting process from the manual system to computerised accounting software (such as UBS), now used widely (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.

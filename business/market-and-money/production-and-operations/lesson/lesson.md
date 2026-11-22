@@ -87,6 +87,16 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Production-plan.** Planning your own project's production: decide how many you will produce and when; describe the production process step by step with, for each step, the time it takes, the labour and the knowledge and skills needed, the inputs with their quantities, and the equipment, tools and premises required; cost the labour by type — qualified, semi-qualified and unqualified, per hour and per day — and research prices in the field with at least three suppliers for the raw material, the equipment and tools, and the labour (teacher guide) (Guatemala's teacher guide.)
 
+**Resources part.** Entrepreneurial resources defined and split into physical resources: land, human resources, capital (debt capital such as bank loans against equity capital from investors' share purchases), raw materials and suppliers (Malaysia's book.)
+
+**Resources part.** The non-physical entrepreneurial resources: technology as operating method/know-how (e.g. machine operation) and information as the knowledge that lets an entrepreneur plan, organise and run business activities effectively (Malaysia's book.)
+
+**R&D-and-purchasing part.** The R&D functional department (planning new-product development and improving existing products) and the purchasing functional department (getting quantity and specifications exactly right) (Malaysia's book.)
+
+**Production-department part.** The production functional department: producing goods and services to set quality standards and meeting society's needs, with its controls — machine-utility control (keeping machines working, repairing at once, supervising regularly) and staff control (Malaysia's book.)
+
+**Product-development part.** Developing new products and new markets: product development as a growth strategy that introduces new products to the existing market and demands creativity and innovation, with workers and designers cooperating through R&D (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

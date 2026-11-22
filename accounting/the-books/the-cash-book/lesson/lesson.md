@@ -34,6 +34,10 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **The cash book.** The cash book among the books of prime entry: cash transactions are recorded in the cash book while transactions outside its scope go to the other journals (Tanzania's book.)
 
+**Cash book part.** The cash book (Buku Tunai): its purpose (most business transactions are made by cash or cheque), its ruling with discount columns, the contra entries inside it (transfers between bank and office cash), and how to balance it (totalling both sides and carrying the difference down) (Malaysia's book.)
+
+**Petty cash part.** The petty cash book (Buku Tunai Runcit): its use for the small, frequent payments of the business (refreshments and the like), kept under the imprest system (Sistem Panjar — a fixed float given to the petty cashier), evidenced by petty cash vouchers and ruled with analysis columns (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

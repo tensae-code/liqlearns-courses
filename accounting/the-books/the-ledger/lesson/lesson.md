@@ -63,6 +63,10 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Analytical-ledger-cards.** Updating the analytical ledgers: for every first-degree (general) account there is its analytical ledger of second-degree accounts, kept not in a bound book but on cards (καρτέλες) — one card per customer, supplier and every other analytical account; the cards are the primary source of daily information and must be updated accurately, in full detail, the same day, straight after each journal entry, and the journal line is ticked (ν) beside the amount so no entry updates a card twice (Greece's book.)
 
+**Chart part of the proposed lesson.** The chart of accounts (Carta Akaun): the steps to prepare one (identify every account involved in the business, classify the accounts, then assign the codes), with a company's chart shown by code ranges for each account class (Malaysia's book.)
+
+**Ledger part.** The ledger (Lejar): the main book of accounts, in which the account is a summary of the business's transactions; the account forms, including the running-balance column form (date, particulars, folio, debit, credit, balance — the balance updated after every transaction); and the division of ledgers into the general ledger (Lejar Am) and the special/subsidiary ledgers (Lejar Jualan, Lejar Belian), with the function of each (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.

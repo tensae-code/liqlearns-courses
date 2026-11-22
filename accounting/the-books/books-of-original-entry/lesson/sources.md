@@ -1,6 +1,6 @@
 # Sources — Books of Original Entry
 
-countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece
+countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece, Malaysia
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book (cover: "Inventor 4 — Secondary Business Studies, Form Four Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition (title page); no year printed on the pages in hand; ISBN 978 9966 100719 (back-cover barcode). Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209, then Glossary and Index). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan also contains duplicated pages, so PDF-to-printed pagination drifts slightly; all citations use the printed folio numbers.
 
@@ -19,6 +19,8 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 **Book 7:** Αρχές Λογιστικής (Arches Logistikis — Principles of Accounting), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Aristotelis Kontakos (Professor of Accounting, TEI of Piraeus), Kostas Margaronis (economist, secondary teacher), Antonis Zarifis (economist, secondary teacher); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-22-0126; ISBN 978-960-06-2382-6. No year is printed on the title/imprint pages of this copy; the book is a digital reissue by ΙΤΥΕ «Διόφαντος» of the Pedagogical Institute edition. Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 194 PDF pages (printed pp. 1–193; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=0; fetched via fetch_book.py, route release-search, 22,531,043 bytes = expected_bytes exactly, to scratch-phase2/greece/arches-logistikis-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last teaching page (Ch. 10 ends printed p. 190).
 
 **Book 8:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
+
+**Book 9:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,9 +60,16 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | the daily-preparation part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed p. 66 |
 | the recording-documents part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed pp. 66–67 |
 | the filing-documents part of the lesson | Book 8 (Logistikes Efarmoges G EPAL), printed p. 70 |
+| documents part | Book 9 (Prinsip Perakaunan T4), printed p. 68 |
+| source documents part | Book 9 (Prinsip Perakaunan T4), printed p. 72 |
+| discounts part | Book 9 (Prinsip Perakaunan T4), printed p. 85 |
+| non-source part | Book 9 (Prinsip Perakaunan T4), printed p. 88 |
+| prime entry part | Book 9 (Prinsip Perakaunan T4), printed p. 96 |
+| general journal part | Book 9 (Prinsip Perakaunan T4), printed p. 97 |
+| special journals part | Book 9 (Prinsip Perakaunan T4), printed p. 105 |
 
-**Acceptance count: taught in 5 countries (Kenya, Samoa, Indonesia, Tanzania, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Samoa, Indonesia, Tanzania, Greece, Malaysia)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece
+Searchable tags: books of original entry, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece, malaysia

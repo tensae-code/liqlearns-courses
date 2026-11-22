@@ -34,7 +34,7 @@ incomplete records, control accounts, zakat, branches) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting,
 investment accounts).
-**30 lessons, 374 placements stocked.**
+**30 lessons, 416 placements stocked.**
 
 ## The books read so far
 
@@ -245,10 +245,17 @@ they are named here so the read set is whole.
 - *Λογιστικές Εφαρμογές (Logistikes Efarmoges — Accounting Applications: Keeping Third-Category Books), G΄ EPAL* — Petros Michos, Nikolaos Serdaris, Marianna Katsifioti; written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year printed on this copy. **Grade 12 (G΄ EPAL). STUDENT book. Language: Greek.** 258 PDF pages (printed pp. 1–257). **Verdict: COMPLETE** — read whole to the last page (Ch. 9's account lists end printed p. 252). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.)
   - Contents map for this split: the partnership-formation chapters fed **Business** (4 placements); the trade-documents section fed **Commerce** (1 placement); Chs. 3–8 fed **Accounting** (18 placements in the Accounting course, from this book).
 
+
+- *Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET)* — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. **Grade: Tingkatan 4 (Form 4). STUDENT book. Language: Malay.** 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It carries no Accounting part; it is named here so the read set stays whole.
+
+- *Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject)* — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. **Grade: Tingkatan 4 (Form 4). STUDENT book. Language: Malay.** 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It stocked 1 placements into this course.
+
+- *Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI)* — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. **Grade: Tingkatan 4 (Form 4 / grade-10). STUDENT book. Language: Malay.** 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Accounting pending queue.) It stocked 41 placements into this course.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 30 lessons, stocked with
-  374 placements in all — 364 of them from **student books** of 12 countries (Dominica,
+  416 placements in all — 406 of them from **student books** of 12 countries (Dominica,
   Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania) — taught in 12 countries;
   the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
@@ -270,7 +277,7 @@ they are named here so the read set is whole.
 
 ## The pending queue — Accounting books not yet in the course
 
-16 Accounting books are in hand in the library record but were
+15 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -287,8 +294,6 @@ hold lifts and they are read.
 - [ACCOUNTING · student] Year 12 Accounting (Grade 12) — secured-not-on-disk
 - [ACCOUNTING · student] Senior Accounting for Year 13 (Grade 13) — secured-not-on-disk
 
-**Malaysia (1):**
-- [ACCOUNTING · student] Prinsip Perakaunan Tingkatan 4 (grade-10) — secured-not-on-disk
 
 **Papua New Guinea (1):**
 - [ACCOUNTING · teacher] Accounting Teacher Guide Grades 11-12 (Secondary, Standards Based) (Grade 11) — secured-not-on-disk

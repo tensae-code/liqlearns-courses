@@ -36,6 +36,8 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Double-entry-rule.** The double-entry (διπλογραφική) method defined from worked examples: in every accounting event at least two accounts move, one or more are debited and one or more credited, and the total of the debit amounts is always equal to the total of the credit amounts (Greece's book.)
 
+**Double entry part.** The double-entry system (Sistem Catatan Bergu): every transaction recorded in at least two different accounts, one debited and one credited; how to balance a ledger account and carry the balance down; the balances accounts carry by type (all asset accounts must have debit balances; increases in capital are credited to the Capital account, increases in drawings debited to the Drawings account); posting the journals and cash books into the ledger accounts; and the effects if double entry is not used (the trial balance will not balance and the profit or loss obtained will be inaccurate) (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.

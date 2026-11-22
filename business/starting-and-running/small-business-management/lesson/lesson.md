@@ -29,6 +29,8 @@ Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage 
 **Running a small business well.** Why businesses fail — the common management mistakes: mistaking cash for profit (spending sales cash as if it were profit until the business funds are depleted); lack of record keeping (without records the entrepreneur cannot tell the business is in trouble until too late); poor customer care; neglect (loss of interest, bad habits, poor health, changed priorities); (Uganda's book.)
 
 **Running a small business well.** Factors leading to success in business: the personal and entrepreneurial qualities of the owner; clear and definite objectives, with the operating and management guidelines set to achieve them closely followed; proper location, securing inputs (materials, labour, power) and market access at low cost; (Uganda's book.)
+**Failure-effects part.** What happens when a business fails to reach its goals and objectives: sales fall, operating costs go unpaid, and the business must act at once on every cause of failure (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

@@ -1,10 +1,12 @@
 # Sources — Creativity and Innovation
 
-countries: Uganda, Tanzania
+countries: Uganda, Tanzania, Malaysia
 
 **Book 1:** Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
 **Book 2:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
+
+**Book 3:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,10 @@ countries: Uganda, Tanzania
 | innovation | Book 1 (Entrepreneurship S1), printed pp. 8–10 |
 | creativity and innovation | Book 2 (Commerce Form Three), printed pp. 132–136 |
 | creativity and innovation | Book 2 (Commerce Form Three), printed pp. 136–141 |
+| creativity part | Book 3 (Pengajian Keusahawanan T4), printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Uganda, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 3 countries (Uganda, Tanzania, Malaysia)** — every book above is a student book, so each country counts.
 
 Filed name note: this lesson was proposed as a NEW lesson (`creativity-and-innovation`) by Uganda's reader. It was checked against `entrepreneurship` first: creativity and innovation appear in that lesson only as traits inside other parts (the entrepreneur's traits, the Caribbean characteristics, and a part on convergent thinking blocking creativity) — no part of it teaches creativity and innovation themselves as their own thing. They are genuinely a separate one thing, so the lesson is built here, in First Steps after Entrepreneurship, and the resolution is recorded in the registry's Phase 3 addendum.
 
-Searchable tags: creativity and innovation, first steps, business, uganda, tanzania
+Searchable tags: creativity and innovation, first steps, business, uganda, tanzania, malaysia

@@ -8,6 +8,8 @@ A baker's daily costs stay the same whether he sells ten loaves or a hundred, bu
 
 Break-even analysis: contribution margin per unit, break-even point in units and in RM, and the output needed for a target profit.
 
+**Break-even part.** The break-even point (Titik Pulang Modal) as the business's performance indicator: the point where total revenue equals total cost, TPM = fixed cost ÷ (price − variable cost per unit), worked through a sports-ball supplier example (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: break-even analysis finds the output where contribution exactly covers fixed costs — the break-even point — and the output needed for a target profit. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the whole of the new lesson. Your companion asks one question back — answer it from the lesson.

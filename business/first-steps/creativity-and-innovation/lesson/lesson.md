@@ -16,6 +16,8 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Creativity and innovation.** Innovation in Tanzania and where opportunities come from: the innovation ecosystem and Tanzania's Global Innovation Index trend, then the sources of entrepreneurial opportunities — people's needs, wants and problems, customer complaints (unmet needs make customers complain; businesses create value by serving the right products in the right manner to the right customers) (Tanzania's book.)
 
+**Creativity part.** Creativity defined as the ability to create, produce and develop a new and original idea, and the creative entrepreneur's product as something not yet on the market (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: creativity, innovation, creativity and innovation, creativity and innovation. Your companion asks one question back — answer it from the lesson.

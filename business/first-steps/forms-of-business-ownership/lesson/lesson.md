@@ -95,6 +95,22 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Articles-of-partnership.** What the articles of partnership must set out (the book warns that a carelessly drawn private agreement breeds later disputes between partners): the company name, seat and purpose; who the partners are; the amount of the capital and each partner's share; what each partner contributes (money, kind, or personal work); the company's duration, extension and dissolution; how it is managed and represented and who binds it; how profits are shared and losses covered; how a partner leaves, is replaced or is succeeded; and how the company property is liquidated and who the liquidators are (Greece's book.)
 
+**Formation-law part.** The formation Acts in outline: the Partnership Act 1961 definition of a partnership, and the Business Registration Act 1956 which covers the two registered entity types — sole proprietorship and partnership (Malaysia's book.)
+
+**Opening part.** The forms of business ownership introduced as legal entities — sole proprietorship, partnership, limited company and cooperative — categorised by their features (owner, capital, liability, control) (Malaysia's book.)
+
+**Sole-proprietorship part.** The sole proprietorship in full: owned and controlled by one person, and its registration with the Companies Commission of Malaysia (SSM) within 30 days of starting, with the steps for setting one up (Malaysia's book.)
+
+**Partnership part.** The partnership: what the partnership agreement must contain (firm name, partners, rights and duties, profit/loss sharing ratio, how the business is run and ended), the partner numbers for ordinary partnership (2–20), limited partnership and limited liability partnership, and each partner's duties to the others (Malaysia's book.)
+
+**Company part.** The limited company under the Companies Act 1965: Syarikat Sendirian Berhad (private) against Syarikat Awam Berhad (public), their features compared (members, share transfer, audited accounts) (Malaysia's book.)
+
+**Franchise part.** The franchise as another form of business: the agreement between franchisor (the parent company owning the original brand rights) and franchisee, with the advantages and disadvantages of franchising for each side (Malaysia's book.)
+
+**Joint-venture part.** The joint venture (usaha sama): two companies combine to raise their position, share expertise and increase profit, pool more funds, and dissolve the venture company once its objective is achieved (Malaysia's book.)
+
+**Entities part.** Business entities in accounting: an organisation defined as a group of people working together with commitment to a shared purpose, and the four types compared in a table — Milikan Tunggal (sole proprietorship: profit and loss enjoyed and borne fully by the owner), Perkongsian (partnership: profit or loss shared among the partners), Syarikat Berhad (company) and Koperasi (cooperative: profit distributed to its members) (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

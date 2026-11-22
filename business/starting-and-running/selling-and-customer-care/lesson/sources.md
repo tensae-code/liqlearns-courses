@@ -1,6 +1,6 @@
 # Sources — Selling and Customer Care
 
-countries: Dominica, Ecuador, Iran, Uganda
+countries: Dominica, Ecuador, Iran, Uganda, Malaysia
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -10,6 +10,8 @@ countries: Dominica, Ecuador, Iran, Uganda
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
+**Book 4:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | selling | Book 1 (Principles of Business for CSEC), printed pp. 227–228 |
@@ -18,9 +20,11 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | the selling process | Book 2 (Emprendimiento y Gestión 3), printed p. 188 |
 | customer care | Book 3 (Entrepreneurship and Production Workshop), printed p. 91 |
 | selling and customer care | Book 4 (Entrepreneurship S1), printed pp. 33–34 |
+| service part | Book 4 (Perniagaan T4), printed p. 146 |
+| customer-service part | Book 4 (Perniagaan T4), printed p. 198 |
 
-**Acceptance count: taught in 4 countries (Dominica, Ecuador, Iran, Uganda)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Dominica, Ecuador, Iran, Uganda, Malaysia)** — every book above is a student book, so each country counts.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`selling-and-customer-care`); Dominica's book is the first read book to place it, so it is built now, in Starting and Running, where TITLES.md names its place.
 
-Searchable tags: selling and customer care, starting and running, business, dominica, ecuador, iran, uganda
+Searchable tags: selling and customer care, starting and running, business, dominica, ecuador, iran, uganda, malaysia

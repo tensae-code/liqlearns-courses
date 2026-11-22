@@ -25,6 +25,10 @@ Draw a map of your own region from memory. Mark the neighbouring countries, then
 
 **Trade organisations and institutions.** Marketing institutions and boards: the facilitating organisations that perform the marketing functions — marketing research companies, middlemen, advertising agencies, experiential marketing agencies, co-operatives and marketing boards; Tanzania's boards (Coffee Board, Sisal Board, Cashewnuts Board, Cotton Board, Sugar Board, Tanzania Tourist Board, and Zanzibar's tourism and investment bodies)… (Tanzania's book.)
 
+**Institutions part.** The government agencies that serve business in Malaysia and what each does: MARA, MDEC (the MSC Malaysia corridor), SME Corp., FAMA, MARDI and SIRIM (Malaysia's book.)
+
+**Institutions part.** The state governments' development corporations (Perbadanan Kemajuan Negeri) and the local authorities (PBT) as the institutions that implement policy at the grassroots and serve traders directly (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: traders and countries organise: world institutions steady money and lend for development, regions integrate their markets step by step, and West Africa's groupings join trade, rivers and money across borders. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the world institutions behind trade, economic integration, step by step, why countries integrate, ecowas, trade organisations and institutions, trade organisations and institutions. Your companion asks one question back — answer it from the lesson.

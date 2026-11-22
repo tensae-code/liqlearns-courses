@@ -81,6 +81,8 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Picturing-the-business.** Visioning the chosen business: sketch the one selected idea in detail before planning it — the field of the business (exactly what kind: clothing manufacture, vehicle repair, food production…), the style of the business (home-based, opening a shop, a training centre, selling by internet), the product or service it will produce (down to which parts of it), and its clients described by their characteristics (teacher guide) (Guatemala's teacher guide.)
 
+**Worked-model part.** One complete worked project paper profiling a real small sole-trader business (Rimbun Sejadi Enterprise): its vision, mission and objectives, business profile, organisation chart and functional departments written out in the set format (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

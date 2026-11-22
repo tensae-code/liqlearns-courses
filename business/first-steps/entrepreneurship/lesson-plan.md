@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Opening part; Development-efforts part; Definitions part; Concept part; Perspectives part; Perspectives part; Elements part; Roles part; Career part; Traits part; Profile part; Profiles-in-practice part.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a young entrepreneur opening a small workshop for the first time, tools laid out, a hand-written plan on the wall → the student names the land, labour and capital in the picture and one risk the entrepreneur is taking.

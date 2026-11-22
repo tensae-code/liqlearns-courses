@@ -27,6 +27,10 @@ The trial balance lists the balanced ledger accounts to check that total debit b
 
 **Final-trial-balance.** The final trial balance and closing the books: after the distribution entries, the Final Trial Balance (οριστικό ισοζύγιο) of the General Ledger shows the operating and results accounts balanced to zero and only balance-sheet accounts carrying balances — it is the year-end balance sheet in another arrangement of the accounts; the year-end balance sheet is drawn from it into the Book of Inventories and Balance Sheets, the balances are transferred out through the Closing Balance Sheet account (89.01), and the books are reopened for the new year (Greece's book.)
 
+**Trial balance part.** The trial balance (Imbangan Duga): the list of debit balances and credit balances taken from the ledger accounts at a particular date, prepared in 'T' form and in columnar form; its functions (checking the accuracy of the double entry and of the arithmetic); and its limits — a balanced trial balance does not show the books are free of error, because some errors do not affect its balance (with the ways of detecting errors in the trial balance, compensating errors among them) (Malaysia's book.)
+
+**Correction part.** Correcting a trial balance (Pembetulan Imbangan Duga): working through a trial balance that contains several errors and putting each right (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance, the trial balance. Your companion asks one question back — answer it from the lesson.

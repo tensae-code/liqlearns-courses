@@ -20,29 +20,29 @@ acceptance reckoning.
 
 ## The units (the path, in order)
 
-1. **First Steps**** (`first-steps/`) — 3 lessons, 72 placements stocked:
-   - What Is Accounting — `first-steps/what-is-accounting/` (39 placements)
-   - The Accounting Equation — `first-steps/the-accounting-equation/` (19 placements)
-   - Double Entry — `first-steps/double-entry/` (14 placements)
+1. **First Steps**** (`first-steps/`) — 4 lessons, 92 placements stocked:
+   - What Is Accounting — `first-steps/what-is-accounting/` (42 placements)
+   - The Accounting Equation — `first-steps/the-accounting-equation/` (21 placements)
+   - Double Entry — `first-steps/double-entry/` (15 placements)
    - The Accounting Cycle — `first-steps/accounting-cycle/` (1 placement)
 
-2. **The Books**** (`the-books/`) — 6 lessons, 92 placements stocked:
-   - Books of Original Entry — `the-books/books-of-original-entry/` (36 placements)
-   - The Cash Book — `the-books/the-cash-book/` (13 placements)
-   - The Ledger — `the-books/the-ledger/` (28 placements)
-   - The Trial Balance — `the-books/trial-balance/` (10 placements)
+2. **The Books**** (`the-books/`) — 7 lessons, 115 placements stocked:
+   - Books of Original Entry — `the-books/books-of-original-entry/` (43 placements)
+   - The Cash Book — `the-books/the-cash-book/` (15 placements)
+   - The Ledger — `the-books/the-ledger/` (30 placements)
+   - The Trial Balance — `the-books/trial-balance/` (12 placements)
    - Correcting Errors — `the-books/correcting-errors/` (1 placement)
    - Bank Reconciliation — `the-books/bank-reconciliation/` (3 placements)
    - Internal Control over Cash — `the-books/internal-control-over-cash/` (2 placements)
 
-3. **The Statements**** (`the-statements/`) — 5 lessons, 108 placements stocked:
-   - Financial Statements of a Sole Trader — `the-statements/financial-statements-of-a-sole-trader/` (33 placements)
-   - Adjustments to Financial Statements — `the-statements/adjustments-to-financial-statements/` (29 placements)
-   - Depreciation — `the-statements/depreciation/` (13 placements)
+3. **The Statements**** (`the-statements/`) — 5 lessons, 124 placements stocked:
+   - Financial Statements of a Sole Trader — `the-statements/financial-statements-of-a-sole-trader/` (40 placements)
+   - Adjustments to Financial Statements — `the-statements/adjustments-to-financial-statements/` (36 placements)
+   - Depreciation — `the-statements/depreciation/` (15 placements)
    - The Cash Flow Statement — `the-statements/cash-flow-statement/` (9 placements)
    - Financial Statement Analysis and Ratios — `the-statements/financial-statement-analysis-and-ratios/` (24 placements)
 
-4. **Kinds of Business**** (`kinds-of-business/`) — 7 lessons, 57 placements stocked:
+4. **Kinds of Business**** (`kinds-of-business/`) — 8 lessons, 59 placements stocked:
    - Accounts of Non-Profit Organisations — `kinds-of-business/accounts-of-non-profit-organisations/` (16 placements)
    - Partnership Accounts — `kinds-of-business/partnership-accounts/` (9 placements)
    - Company Accounts — an Introduction — `kinds-of-business/company-accounts-an-introduction/` (16 placements)
@@ -52,18 +52,18 @@ acceptance reckoning.
    - Zakat Accounting — `kinds-of-business/zakat-accounting/` (4 placements) — NEW, built from Sudan (Phase 2 merge, 2026-11-22)
    - Branch Accounts — `kinds-of-business/branch-accounts/` (3 placements) — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)
 
-5. **Money at Work**** (`money-at-work/`) — 5 lessons, 23 placements stocked:
+5. **Money at Work**** (`money-at-work/`) — 6 lessons, 26 placements stocked:
    - Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/` (4 placements)
    - Payroll and Payslips — `money-at-work/payroll-and-payslips/` (3 placements)
    - Cash Budgets — `money-at-work/cash-budgets/` (2 placements)
    - Break-even Analysis — `money-at-work/break-even-analysis/` (1 placement)
-   - Computerised Accounting — `money-at-work/computerised-accounting/` (11 placements)
+   - Computerised Accounting — `money-at-work/computerised-accounting/` (12 placements)
    - Investment Accounts — `money-at-work/investment-accounts/` (3 placements) — NEW, built from Tanzania (Phase 2 merge, 2026-11-22)
 
-**Totals: 30 lessons, 374 placements stocked** (every placement is one part of one read book, filed in exactly one lesson's sources).
+**Totals: 30 lessons, 416 placements stocked** (every placement is one part of one read book, filed in exactly one lesson's sources).
 
 ## Where the build stands
 
-- **Course — BUILT:** 5 units, 30 lessons, 374 placements stocked. Questions: 10 per lesson at build, plus 2 per lesson for every later country merge (Dominica added 16, 2026-11-22; Ecuador added 6 to existing lessons; Nicaragua added 4 to existing lessons; Palestine added 6 to existing lessons; Zambia added 6 to existing lessons, drawn from teacher-guide evidence; Indonesia added 24 to existing lessons; Sudan added 20 to existing lessons, and its new lesson Zakat Accounting carries 10; Tanzania added 30 to existing lessons, and its new lessons Investment Accounts and Branch Accounts carry 10 each; Greece added 28 to existing lessons).
+- **Course — BUILT:** 5 units, 30 lessons, 416 placements stocked. Questions: 10 per lesson at build, plus 2 per lesson for every later country merge (Dominica added 16, 2026-11-22; Ecuador added 6 to existing lessons; Nicaragua added 4 to existing lessons; Palestine added 6 to existing lessons; Zambia added 6 to existing lessons, drawn from teacher-guide evidence; Indonesia added 24 to existing lessons; Sudan added 20 to existing lessons, and its new lesson Zakat Accounting carries 10; Tanzania added 30 to existing lessons, and its new lessons Investment Accounts and Branch Accounts carry 10 each; Greece added 28 to existing lessons; Malaysia added 30 to existing lessons).
 - **The spine is complete as filed:** all 19 spine lessons of the Accounting spine carry placements and are built. The 8 NEW lessons came from the readers' proposals as resolved in the registry: the accounting cycle; internal control over cash (the merged `cash-control` / `internal-control-over-cash` names); the cash flow statement (the merged `cash-flow-statement` / `the-cash-flow-statement` names); financial statement analysis and ratios (the merged `financial-statement-analysis-and-ratios` / `accounting-ratios` / `analysing-financial-statements` names); payroll and payslips; cash budgets; break-even analysis; computerised accounting.
-- **Pending queue in brief:** 16 Accounting books awaited (the full queue stands in ABOUT.md, by country, with its status) — Bhutan Accountancy Class XI and Class XII; Fiji Year 11, Year 12 and Year 13 Accounting; Malaysia Prinsip Perakaunan Tingkatan 4; Papua New Guinea Accounting Teacher Guide Grades 11–12; Samoa Accounting Year 13 Student Learning Guide; Sri Lanka Business & Accounting Studies G9, G10, G11 and the five Grade 12–13 accounting books/guides. They wait for the disk hold to lift — none is failed or skipped. The course grows when those books are read: new placements stock into these lessons. (Dominica's *Principles of Business for CSEC Examinations* was read in the Phase 2 wave and merged 2026-11-22, 9 placements into this course; it stood in the Business pending queue, not this one. Ecuador's *Emprendimiento y Gestión 3 BGU* was read in the same wave and merged 2026-11-22, 4 placements into this course; it also stood in the Business pending queue. Nicaragua's *Guía del Emprendedor* was read in the same wave and merged 2026-11-22, 3 placements into this course; it also stood in the Business pending queue. Palestine's *Small Projects* was read in the same wave and merged 2026-11-22, 3 placements into this course; it also stood in the Business pending queue. Zambia's *Principles of Accounts Teaching Module* — a teacher guide — was read in the same wave and merged 2026-11-22, 8 placements into this course as evidence only (acceptance 0); it stood in this course's own pending queue. Indonesia's *Dasar-Dasar Akuntansi dan Keuangan Lembaga Kelas X* (student book) and its teacher guide were read in the same wave and merged 2026-11-22, 32 placements into this course (30 from the student book, 2 teacher-guide evidence, acceptance 0); they stood in this course's own pending queue. Sudan's two Commercial Science books were read in the same wave and merged 2026-11-22, 26 placements into this course (16 from the Grade 11 book, 10 from the Grade 12 book — 4 of them stocking the new lesson Zakat Accounting); they stood in the Commerce pending queue, not this one. Tanzania's *Accountancy Form Five* was read in the same wave and merged 2026-11-22, 45 placements into this course — 39 into existing lessons and 6 stocking the new lessons Investment Accounts and Branch Accounts; it stood in this course's own pending queue. Greece's *Arches Logistikis* B EPAL and *Logistikes Efarmoges* G EPAL left this queue in the same wave: read and merged 2026-11-22, 61 placements into this course.)
+- **Pending queue in brief:** 15 Accounting books awaited (the full queue stands in ABOUT.md, by country, with its status) — Bhutan Accountancy Class XI and Class XII; Fiji Year 11, Year 12 and Year 13 Accounting; Papua New Guinea Accounting Teacher Guide Grades 11–12; Samoa Accounting Year 13 Student Learning Guide; Sri Lanka Business & Accounting Studies G9, G10, G11 and the five Grade 12–13 accounting books/guides. They wait for the disk hold to lift — none is failed or skipped. The course grows when those books are read: new placements stock into these lessons. (Dominica's *Principles of Business for CSEC Examinations* was read in the Phase 2 wave and merged 2026-11-22, 9 placements into this course; it stood in the Business pending queue, not this one. Ecuador's *Emprendimiento y Gestión 3 BGU* was read in the same wave and merged 2026-11-22, 4 placements into this course; it also stood in the Business pending queue. Nicaragua's *Guía del Emprendedor* was read in the same wave and merged 2026-11-22, 3 placements into this course; it also stood in the Business pending queue. Palestine's *Small Projects* was read in the same wave and merged 2026-11-22, 3 placements into this course; it also stood in the Business pending queue. Zambia's *Principles of Accounts Teaching Module* — a teacher guide — was read in the same wave and merged 2026-11-22, 8 placements into this course as evidence only (acceptance 0); it stood in this course's own pending queue. Indonesia's *Dasar-Dasar Akuntansi dan Keuangan Lembaga Kelas X* (student book) and its teacher guide were read in the same wave and merged 2026-11-22, 32 placements into this course (30 from the student book, 2 teacher-guide evidence, acceptance 0); they stood in this course's own pending queue. Sudan's two Commercial Science books were read in the same wave and merged 2026-11-22, 26 placements into this course (16 from the Grade 11 book, 10 from the Grade 12 book — 4 of them stocking the new lesson Zakat Accounting); they stood in the Commerce pending queue, not this one. Tanzania's *Accountancy Form Five* was read in the same wave and merged 2026-11-22, 45 placements into this course — 39 into existing lessons and 6 stocking the new lessons Investment Accounts and Branch Accounts; it stood in this course's own pending queue. Greece's *Arches Logistikis* B EPAL and *Logistikes Efarmoges* G EPAL left this queue in the same wave: read and merged 2026-11-22, 61 placements into this course. Malaysia's *Prinsip Perakaunan Tingkatan 4* left this queue in the same wave: read and merged 2026-11-22, 42 placements into this course.)

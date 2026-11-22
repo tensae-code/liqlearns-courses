@@ -163,6 +163,14 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Raising-support-for-a-project.** The management system (sistema de gestión), the ordered way to get a project funded and done when you start with no funds: identify the problem or need clearly; establish the viable, feasible solutions to implement; calculate the economic, social or other cost of the defined solutions; prepare the profile of the project or activity; identify the potential donors or allies and present the project to them; make a concrete request of what is needed, in writing, and follow it up constantly; execute the project monitoring its advance and evaluating its impact; and inaugurate it informing the donors or allies of the results obtained — working fast and strategically to locate donors and allies who join your objectives (teacher guide) (Guatemala's teacher guide.)
 
+**Support-services part.** The support services government agencies give entrepreneurs: financing, marketing services, research-and-development services and grants, business networking, infrastructure facilities (rented shop lots, factory complexes, incubator centres) (Malaysia's book.)
+
+**Bank-facilities part.** Non-government support: the commercial banks' financing facilities for entrepreneurs — start-up loans, long-term loans for equipment and working capital, and overdrafts on current accounts with interest only on the amount used (Malaysia's book.)
+
+**Government-and-finance part.** The government's role on the finance side: handling the financing issues of local, national and regional business, entrepreneurship training through agencies such as INSKEN, and government R&D activity that generates creativity and innovation for business (Malaysia's book.)
+
+**Finance-department part.** The finance functional department: financial management as planning, organising, directing and controlling all financing and spending, managing assets and liabilities so the business stays sustainable, and allocating limited funds to activities that generate profit (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

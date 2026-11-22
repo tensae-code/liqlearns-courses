@@ -8,6 +8,8 @@ A business has two hundred customers who owe it money. The owner wants one numbe
 
 Posting a full month from every journal into the subsidiary ledgers and the general-ledger Accounts Receivable and Accounts Payable Control Accounts; the schedules of receivables and payables must agree with the control balances, and only control balances enter the trial balance.
 
+**Control part.** Control accounts (Akaun Kawalan): the summary of the receivables in the Sales Ledger and of the payables in the Purchases Ledger, kept so the company can check the ledger totals quickly; the formats of the Receivables Control Account and the Payables Control Account and their building from the books of prime entry; agreeing the control account with the individual personal accounts; and the set-off between the two ledgers when a business both buys from and sells to the same party (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: control accounts hold the totals of the many personal accounts: the sales and purchases ledger control balances must agree with the schedules of debtors and creditors, and only the control balances enter the trial balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: control accounts and schedules. Your companion asks one question back — answer it from the lesson.

@@ -21,6 +21,10 @@ Not-for-profit private organisations — charities, local sports and social club
 **Co-operative forms.** The cooperative's role in Nepal's economic development: poverty reduction (the poor pooling labour, skill and capital into trade and enterprise, creating jobs and self-employment), commercialisation of agriculture, financial access, promotion of entrepreneurship, and public awareness and empowerment (Nepal's book.)
 
 **Co-operative forms.** Common forms of cooperative: producer cooperatives (Nepal's dairy cooperatives named as leaders — milk collection, distribution, livestock services), consumer cooperatives (daily goods at concessional prices), financial (savings and credit) cooperatives, labour cooperatives, multipurpose cooperatives, marketing cooperatives (small farmers marketing together, cutting out middlemen), housing cooperatives and transport cooperatives (Nepal's book.)
+**Cooperatives part.** Cooperatives in Malaysia: registered under the supervision of the Suruhanjaya Koperasi Malaysia (SKM) and set up to serve members in finance/banking, housing, consumer, transport, farming, industry, construction and service functions (Malaysia's book.)
+
+**Cooperatives part.** The cooperative as a form of business ownership: formed voluntarily by a group with shared interests to protect its members, owned jointly ("milik bersama"), its board (ALK) elected by vote at the annual general meeting, membership voluntary and open (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

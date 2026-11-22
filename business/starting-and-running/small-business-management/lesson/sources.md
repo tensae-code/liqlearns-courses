@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica, Palestine, Uganda
+countries: Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -14,6 +14,8 @@ countries: Kenya, Samoa, Dominica, Palestine, Uganda
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
 
+**Book 5:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
@@ -25,7 +27,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | running a small business well | Book 5 (Entrepreneurship S1), printed p. 31 |
 | running a small business well | Book 5 (Entrepreneurship S1), printed pp. 33–34 |
 | running a small business well | Book 5 (Entrepreneurship S1), printed p. 34 |
+| failure-effects part | Book 5 (Perniagaan T4), printed p. 147 |
 
-**Acceptance count: taught in 5 countries (Kenya, Samoa, Dominica, Palestine, Uganda)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Samoa, Dominica, Palestine, Uganda, Malaysia)** — every book above is a student book, so each country counts.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine, uganda, malaysia

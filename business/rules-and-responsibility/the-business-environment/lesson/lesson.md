@@ -35,6 +35,20 @@ Government-provided services and infrastructure as business conditions: governme
 
 **Sustainability-of-a-business.** Sustainability applied to an enterprise: sustainable development reconciles three pillars — economic, social and environmental — and an activity counts as economically sustainable when, moving towards environmental and social sustainability, it is financially possible and profitable; for a company the social pillar covers its workers (working conditions, wage level), its suppliers, its customers, the local communities and society in general (teacher guide) (Guatemala's teacher guide.)
 
+**Internal-environment part.** The internal environment elements an entrepreneur controls: human resources, organisation structure (the hierarchy/chain of command), finance (capital needs, control, budgets) and research and development (Malaysia's book.)
+
+**External-environment part.** The external environment elements, Malaysia's own list: politics and law, economy, socioculture, technology, the natural environment, and the market actors — buyers, suppliers and competitors (Malaysia's book.)
+
+**Analysis part.** Analysing the environment: scanning, monitoring and forecasting change; the effects of internal and external changes on the business set out in the book's tables, and finding solutions to those effects (Malaysia's book.)
+
+**Sector-development part.** The development of Malaysia's business sector toward the 21st century: the rising contribution of the third (services) sector as the country moves toward developed status (Malaysia's book.)
+
+**Trends part.** Business-environment trends framed as internal factors the organisation controls (management style, human resources, marketing, production, finance and accounting, information technology, R&D) against external factors, and the market defined as where seller and buyer transact at an agreed price and time, now also online (Malaysia's book.)
+
+**Growth-trends part.** The trends of employment, income and economic growth: how growth raises business profit and tax, household income and government spending in a cycle, shown through the economic cycle diagram (Malaysia's book.)
+
+**Effects part.** The effects of environment change on the business organisation: employment effects, new laws that protect business from fraud and from foreign dumping (selling below cost to drive small businesses out) (Malaysia's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Credit and Hire Purchase
 
-countries: Samoa, Dominica, Palestine, Tanzania, Greece
+countries: Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia
 
 **Book 1:** Business Studies — Year 9, Book One: Economics (student book) — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2002, 2003, 2004 and 2006 by Egan Reid Ltd, Auckland, New Zealand. No ISBN is printed in the book. Year/edition: 2001, reprint 2006. Grade: Year 9 (grade-9). Language: English, with Samoan translations in text boxes and a bilingual (English–Samoan) glossary. Page count: 97 pages. Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-9-Book-1.pdf. Verdict: COMPLETE — read the whole book, all 97 PDF pages, to the last page (glossary ends printed p. 97).
 
@@ -11,6 +11,8 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece
 **Book 3:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 **Book 4:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
+**Book 5:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,9 +25,10 @@ countries: Samoa, Dominica, Palestine, Tanzania, Greece
 | the credit-instruments part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 110–111 |
 | the bill-of-exchange part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 111–115 |
 | the promissory-note part of the lesson | Book 4 (Sygchrones Synallages B EPAL), printed pp. 114–116 |
+| hire-purchase part | Book 5 (Pengajian Keusahawanan T4), printed p. 175 |
 
-**Acceptance count: taught in 5 countries (Samoa, Dominica, Palestine, Tanzania, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Samoa, Dominica, Palestine, Tanzania, Greece, Malaysia)** — every book above is a student book, so each country counts.
 
 Filed name note: this placement was filed as a NEW lesson proposal (`credit-and-hire-purchase`) in samoa-placements.md; the registry settled it as this lesson of the Commerce course, under the same slug.
 
-Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece
+Searchable tags: credit and hire purchase, first steps, commerce, samoa, dominica, palestine, tanzania, greece, malaysia
