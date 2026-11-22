@@ -1,6 +1,6 @@
 # Sources — Financial Statement Analysis and Ratios
 
-countries: Kenya, Malaysia, Nigeria, Samoa, Ecuador
+countries: Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book (cover: "Inventor 4 — Secondary Business Studies, Form Four Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition (title page); no year printed on the pages in hand; ISBN 978 9966 100719 (back-cover barcode). Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209, then Glossary and Index). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan also contains duplicated pages, so PDF-to-printed pagination drifts slightly; all citations use the printed folio numbers.
 
@@ -19,6 +19,8 @@ countries: Kenya, Malaysia, Nigeria, Samoa, Ecuador
 Readers also filed placements for this lesson under the proposed names `accounting-ratios` and `analysing-financial-statements`; the registry resolved all three names into this one lesson.
 
 **Book 8:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
+
+Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -42,7 +44,8 @@ Readers also filed placements for this lesson under the proposed names `accounti
 | liquidity, equity and return ratios | Book 6 (Accounting Year 12), printed p. 60 |
 | analysing sole-trader statements | Book 7 (Bus Studies Y11 Bk2), printed p. 50 |
 | reading the statements | Book 8 (Emprendimiento y Gestión 3), printed p. 134 |
+| reading the venture's numbers | Book 9 (Guía del Emprendedor), printed p. 13 |
 
-**Acceptance count: taught in 5 countries (Kenya, Malaysia, Nigeria, Samoa, Ecuador)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Malaysia, Nigeria, Samoa, Ecuador, Nicaragua)** — every book above is a student book, so each country counts.
 
-Searchable tags: financial statement analysis and ratios, the statements, accounting, kenya, malaysia, nigeria, samoa, ecuador
+Searchable tags: financial statement analysis and ratios, the statements, accounting, kenya, malaysia, nigeria, samoa, ecuador, nicaragua

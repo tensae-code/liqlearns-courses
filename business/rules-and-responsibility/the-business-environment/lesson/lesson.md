@@ -27,6 +27,10 @@ Government-provided services and infrastructure as business conditions: governme
 **The world the business sits in.** The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only interests, and the Constitution's articles on the rights of nature frame what a venture may do (Ecuador's book.)
 
 **The world the business sits in.** The business environment and its components: the internal environment (organisational objectives and policies, structure, culture, resources) and the external environment, split into the task environment (customers, suppliers, competitors, government, financial institutions, pressure groups) and the general / macro environment (political and legal, economic, social-cultural, technological, natural and global environments) (Nepal's book.)
+
+**The world the business sits in / analysing the venture.** The FODA (SWOT) analysis: its aim is to build up strengths, seize opportunities, reduce or eliminate weaknesses and neutralise threats; (Nicaragua's book.)
+
+**The world the business sits in / green ventures.** MARENA's three national strategies aimed at entrepreneurs: registering and certifying wildlife-breeding farms (zoocriaderos) as nature-based income that reduces extraction of wild fauna; private wildlife reserves, where the entrepreneur conserves natural and water resources and diversifies the farm; (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

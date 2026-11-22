@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about generating ideas? (Sub lesson 3)
 **Answer:** Creativity and innovation introduced: without creativity a business idea stays narrow; creativity discovers customer needs and new opportunities, and innovation is using knowledge, skill and creativity to turn an idea or invention into new goods and services and put it into practice
+
+**6.** In your own words, what does this lesson say about where business ideas come from / first steps? (Sub lesson 3)
+**Answer:** Nicaragua's own seven-step route from idea to start:

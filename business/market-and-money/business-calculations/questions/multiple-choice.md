@@ -31,3 +31,9 @@ a) Worked example of a plan's money: a start-up's fixed costs (land, machinery a
 b) Cost estimation (part 9): the cost structure names the most important costs of running the model — creating…
 c) Something this lesson does not teach.
 **Answer: b) Cost estimation (part 9): the cost structure names the most important costs of running the model — creating…** — That is what this lesson teaches in its costing part (Iran's book).
+
+**6.** What does this lesson teach about costing?
+a) Setting the price: price is the money value of a good or service; to fix it correctly, weigh the objective…
+b) Fixed and variable costs: costs are all the money outflows needed to produce and sell; a product's total cost…
+c) Something this lesson does not teach.
+**Answer: b) Fixed and variable costs: costs are all the money outflows needed to produce and sell; a product's total cost…** — That is what this lesson teaches in its costing part (Nicaragua's book).

@@ -19,3 +19,9 @@ d) the balance sheet as a statement of the financial position (assets, capital a
 **3.** What does this lesson teach about the the income statement? (Sub lesson 2)
 a) The income statement: prepared at the end of each 12-month trading period to calculate and monitor profit or …  b) How contracts end: discharge by performance, breach, agreement, impossibility/frustration, lapse of time and …  c) Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity …
 **Answer: a) The income statement: prepared at the end of each 12-month trading period to calculate and monitor profit or …** — That is what this lesson teaches in its the income statement part (Dominica's book).
+
+**4.** What does this lesson teach about the statements? (Sub lesson 2)
+a) The structure of the income statement: sales first, then cost of sales (what it cost the venture to produce…
+b) The income statement (estado de resultados): a financial report for a set period that shows in detail the…
+c) Something this lesson does not teach.
+**Answer: b) The income statement (estado de resultados): a financial report for a set period that shows in detail the…** — That is what this lesson teaches in its the statements part (Nicaragua's book).

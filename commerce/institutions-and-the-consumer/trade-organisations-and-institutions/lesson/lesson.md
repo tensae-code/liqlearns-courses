@@ -20,6 +20,7 @@ Draw a map of your own region from memory. Mark the neighbouring countries, then
 
 **WAMA — towards one money.** The West African Monetary Agency, WAMA, successor to the West African Clearing House, promotes national currencies for regional trade and works towards a single monetary zone. Trade is easier when money itself stops being a border — that is the long aim this body serves.
 
+**Trade institutions / selling to the state.** Registering as a state supplier (proveedor del estado): (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: traders and countries organise: world institutions steady money and lend for development, regions integrate their markets step by step, and West Africa's groupings join trade, rivers and money across borders. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the world institutions behind trade, economic integration, step by step, why countries integrate, ecowas. Your companion asks one question back — answer it from the lesson.

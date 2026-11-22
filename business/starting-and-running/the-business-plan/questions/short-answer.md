@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about what a business plan is? (Sub lesson 4)
 **Answer:** The business plan: everyone entering business must have one — a written, organised document stating how a business's activities will be carried out over a set period; a map that answers three questions: where are you, where do you want to go, and how will you reach the destination
+
+**6.** In your own words, what does this lesson say about purpose of the plan? (Sub lesson 4)
+**Answer:** What the plan is for: it lets the entrepreneur examine the idea in detail — its technical, economic and financial viability — sets out the procedures and strategies to turn the idea into a real business, reduces risks, anticipates problems, gives better control, and shows potential investors the idea is serious and well supported so financing can be obtained

@@ -107,6 +107,12 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Running an organisation.** The importance of the office and office system development: the office as information centre, evidence of existence, medium of communication, centre for planning and policy, and the place of coordination of work, direction and control, memory and service; developing the office's own work system so work becomes quick, uniform and effective (Nepal's book.)
 
 **Running an organisation.** The office and its functions: the traditional view (a place) against the modern view (a process that also implements the plans and policies it makes); office functions split into regular/basic functions — information acquisition and collection, recording of information (inward and outward/dispatch books), analysis of information, storage and distribution — and executive/managerial functions, including the human-resource, purchase-and-control, public-relation and property-protection functions (Nepal's book.)
+
+**Organising the business.** Organising the venture, alone or in a group: one person alone must assume every responsibility, while a group works best with trusted partners or family with the right capacities; (Nicaragua's book.)
+
+**Organising the business.** Organisation as the base of the venture: without organisation optimal results are impossible; its pillar is a well-structured business plan that defines the productive process and who is assigned to each process, because the plan is how decisions are anticipated — and what is only in your head does not count until it is documented in writing (Nicaragua's book.)
+
+**Managing the business.** Two principles of administering the venture: order and discipline — each person in their post is responsible for doing their function as well as possible and guiding their team; and unity of direction — every member works from the same mission and vision, supporting and respecting each other so the venture grows (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills. Your companion asks one question back — answer it from the lesson.

@@ -31,3 +31,9 @@ a) Something this lesson does not teach.
 b) Resource mobilization defined: the process by which a business mobilises the financial, physical, human and…
 c) Something this lesson does not teach.
 **Answer: b) Resource mobilization defined: the process by which a business mobilises the financial, physical, human and…** — That is what this lesson teaches in its what a new business needs part (Nepal's book).
+
+**6.** What does this lesson teach about starting / help available? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Nicaragua's own support platforms for ventures at every stage: government accompaniment through training,…
+c) Something this lesson does not teach.
+**Answer: b) Nicaragua's own support platforms for ventures at every stage: government accompaniment through training,…** — That is what this lesson teaches in its starting / help available part (Nicaragua's book).

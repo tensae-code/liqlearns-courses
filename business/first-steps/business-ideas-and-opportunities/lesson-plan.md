@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Ideas, opportunities and the resources at hand** — the spotting-and-using-opportunities / resources; the finding-an-opportunity-in-available-resources.
 2. **Choosing what to produce** — choosing the product.
-3. **Routes to an idea — and testing it** — idea-routes; linking; evaluation; where business ideas come from; testing an idea against the market; judging opportunities; generating ideas.
+3. **Routes to an idea — and testing it** — idea-routes; linking; evaluation; where business ideas come from; testing an idea against the market; judging opportunities; generating ideas; where business ideas come from / first steps.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

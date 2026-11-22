@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the the income statement part of this lesson in your own words. (Sub lesson 2)
 **Answer:** The income statement: prepared at the end of each 12-month trading period to calculate and monitor profit or loss (profit = total revenue − total costs), compared with previous periods to judge the business's health; it shows how well costs are controlled, and profitable statements attract investors and lenders; why holding a lot of cash does not by itself mean a profit
+
+**4.** In your own words, what does this lesson say about the statements? (Sub lesson 2)
+**Answer:** The structure of the income statement:

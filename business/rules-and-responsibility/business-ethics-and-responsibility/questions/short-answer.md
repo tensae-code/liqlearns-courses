@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about responsibility?
 **Answer:** Ethical principles for business: integrity (the foundation stone), fairness, transparency (clear, true, understandable information to employees, customers and stakeholders; never deceiving customers), responsibility, respect towards stakeholders, environmental responsibility, and compliance with local, national and international laws and regulations
+
+**6.** In your own words, what does this lesson say about responsibility / the venture's principles?
+**Answer:** The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to achieve, how are we, what do we believe in and how do we want to be remembered; the book lists the entrepreneur's own traits as the seed of them — creative, honest, transparent, prudent, bold, risk-taking

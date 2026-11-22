@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about what a new business needs? (Sub lesson 3)
 **Answer:** Resource mobilization defined: the process by which a business mobilises the financial, physical, human and information resources it needs to reach its goals; these resources are the backbone of the business, and people come first — a plan needs planners, managers, production experts, staff and workers
+
+**6.** In your own words, what does this lesson say about starting / help available? (Sub lesson 3)
+**Answer:** Nicaragua's own support platforms for ventures at every stage:

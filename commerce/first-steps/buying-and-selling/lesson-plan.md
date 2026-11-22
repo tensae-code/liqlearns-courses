@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Discounts — trade, quantity and cash**
 2. **Quoted prices and delivery terms**
-3. **When payment is made**
+3. **When payment is made**; buying for the business.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

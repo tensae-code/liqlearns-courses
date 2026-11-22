@@ -22,6 +22,10 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Branding.** Branding: what a brand is, what good branding does (legal protection, brand awareness, segmentation, brand image, brand loyalty), how a brand is created from research into the target audience, and social media as a brand-awareness tool
 
+**Branding.** Designing the brand's logo: the best logos are simple; the design must be consistent with the message the business wants to send, memorable so consumers remember that you exist and why, and striking enough to stand out from competitors; (Nicaragua's book.)
+
+**Branding.** Choosing the brand name: a brand is a name or word, often with a symbol, that identifies a venture's goods or services and differentiates them from the competition; the name must be chosen with care because once it is fixed in people's minds changing it is very hard and costly (Nicaragua's book.)
+
 **Branding.** Choosing the business's name and trade mark (inside plan part 1): the name must fit the business's activity and goal, and famous companies' trade marks show the role a mark plays in a company's success (Iran's book.)
 
 ## Sub lesson 3 — The marketing mix
@@ -64,6 +68,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Knowing the customer.** Market segmentation: a small venture can aim at small, specific groups of customers, segmenting by geographic, demographic, socioeconomic and psychographic aspects (worked example: an online clothing shop for pregnant women), and segmenting business customers too (Ecuador's book.)
 
+**Knowing the customer.** Analysing the customers: customers are the people, ventures or organisations who will buy; study their needs, tastes and habits, where they live, work and study, whether they come grouped in institutions, what income they have and whether the market is growing — summed up as needs, tastes, customs, buying habits, age, income level, preferences and cultural patterns (Nicaragua's book.)
+
 **Knowing the customer.** Customer identification (business model part 1): customer segments — for which people do we create value, and what relationships do the different customers expect (Iran's book.)
 
 **The marketing mix.** The market variables (marketing mix): product, price, place (plaza) and promotion — the 4 Ps — plus a fifth variable for new ventures, personalisation of the sale (Ecuador's book.)
@@ -75,6 +81,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Place in the marketing mix.** Determining distribution channels (part 3): communication, distribution and sales channels are the interface and touchpoints between a company and its customers and shape the customer experience; channels are classed as direct or indirect, and as the business's own or a partner's, each with its functions (Iran's book.)
 
 **Knowing the market.** Writing the plan, part 2 — the market and marketing programme: the most important part of the plan; the market study examines the two factors of customers (identifying all of a product's customers) and competitors (their number, abilities and weaknesses), plus the opportunities and barriers to entering the business, and from that information the venture's sales are estimated (Iran's book.)
+
+**Knowing the competition.** Studying the competition: competitors are ventures offering, or able to offer, the same product or service — and a competitor is not an enemy but a source of learning; find out where they are, who their customers are and why they buy, their strengths and weaknesses, their marketing strategies, their suppliers, their distribution channels, their quality and their prices (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation. Your companion asks one question back — answer it from the lesson.

@@ -33,6 +33,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 **What a new business needs.** Resource mobilization defined: the process by which a business mobilises the financial, physical, human and information resources it needs to reach its goals; these resources are the backbone of the business, and people come first — a plan needs planners, managers, production experts, staff and workers (Nepal's book.)
 
 **Setting up.** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources (Iran's book.)
+
+**Starting / help available.** Nicaragua's own support platforms for ventures at every stage: (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

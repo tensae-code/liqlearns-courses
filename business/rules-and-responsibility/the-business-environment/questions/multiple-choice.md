@@ -31,3 +31,9 @@ a) Something this lesson does not teach.
 b) The business environment and its components: the internal environment (organisational objectives and…
 c) Something this lesson does not teach.
 **Answer: b) The business environment and its components: the internal environment (organisational objectives and…** — That is what this lesson teaches in its the world the business sits in part (Nepal's book).
+
+**6.** What does this lesson teach about the world the business sits in / analysing the venture?
+a) MARENA's three national strategies aimed at entrepreneurs: registering and certifying wildlife-breeding farms…
+b) The FODA (SWOT) analysis: its aim is to build up strengths, seize opportunities, reduce or eliminate…
+c) Something this lesson does not teach.
+**Answer: b) The FODA (SWOT) analysis: its aim is to build up strengths, seize opportunities, reduce or eliminate…** — That is what this lesson teaches in its the world the business sits in / analysing the venture part (Nicaragua's book).

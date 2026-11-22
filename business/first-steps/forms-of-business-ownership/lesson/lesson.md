@@ -75,6 +75,8 @@ Take three businesses you know: one run by a single person, one run by partners 
 **Choosing a form.** Sole trading and partnership compared side by side: who bears profit and loss, who holds decision rights and control, how risk and liability fall, and how capital is raised (Nepal's book.)
 
 **Choosing a form.** Choosing the business form: the factors that decide it — nature of the business, capital requirements, liability and risk, control and decision making, taxation policy (the pass-through system for sole traders and partnerships, where owners pay tax on business income, against company taxation and possible double tax) and legal formalities (Nepal's book.)
+
+**Forms of ownership / registering a company.** Registering a mercantile company: businesses that constitute themselves as commercial companies under Nicaragua's Commercial Code draw up their statutes and constitutive acts before an authorised notary and register the entity in the Registro Mercantil — a necessary condition before the RUM, RUC and municipal licence procedures; (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company. Your companion asks one question back — answer it from the lesson.

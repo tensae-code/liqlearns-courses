@@ -28,6 +28,8 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Costing.** Fixed and variable costs: production costs (raw materials, direct labour, indirect costs such as packaging, maintenance and workshop electricity) grouped into costs that stay fixed and costs that vary with output; total cost = fixed + variable (Ecuador's book.)
 
+**Costing.** Fixed and variable costs: costs are all the money outflows needed to produce and sell; a product's total cost is made of fixed costs, which do not vary (or vary very little) when output and sales rise or fall and which the venture needs simply to function, and variable costs, which change with the units produced, services given and sales (Nicaragua's book.)
+
 **Costing.** Worked example of a plan's money: a start-up's fixed costs (land, machinery and equipment, installations, vehicle, training) totalled separately from its variable costs (raw materials, wages, fuel and energy) to give the plan's total investment and its production costs (Iran's book.)
 
 **Costing.** Cost estimation (part 9): the cost structure names the most important costs of running the model — creating and delivering value, keeping customer relationships and generating revenue all cost money, and costs should be reduced as far as possible; cost-driven models set against value-driven ones (Iran's book.)
@@ -35,6 +37,8 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 **Costing.** Operating expenses split into administration expenses (head-office salaries, office rent, services) and selling expenses (sales salaries, commissions, social benefits) (Ecuador's book.)
 
 **Costing and pricing numbers.** Total cost and unit cost of a product or service: the unit cost is what one unit costs to make, its components differ by type of business, and unit costs fall as production rises, so the venture should find its optimal production level; contribution margin introduced (Ecuador's book.)
+
+**Pricing.** Setting the price: price is the money value of a good or service; to fix it correctly, weigh the objective the price is meant to achieve, how demand behaves when prices change, and the competition's prices — and stay alert to changes in any of these so the price can be adjusted quickly (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price. Your companion asks one question back — answer it from the lesson.

@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about the legal rules? (Sub lesson 5)
 **Answer:** The partnership deed (कबुलियतनामा) and its contents: name and address of the firm, names and addresses of the partners, capital contributions, sharing of profit and loss (equally, by capital ratio, or as agreed), remuneration of working partners, accounts and audit, and other provisions
+
+**6.** In your own words, what does this lesson say about the legal rules / taxes? (Sub lesson 5)
+**Answer:** The fiscal benefits of being formal: tax benefits from the official list; exports of nationally produced goods and services rendered abroad carry a 0% VAT (IVA) rate; a tax credit of 1.5% of the FOB value of exports can be applied against advance or annual income tax with the tax administration's approval;

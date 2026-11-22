@@ -37,3 +37,9 @@ a) Working capital and venture capital: working capital keeps daily operations c
 b) Financial resources: the money element without which a business cannot be set up or run day to day; equity…
 c) Reasons for starting a company: limited liability (the investor can lose the investment but not house and…
 **Answer: b) Financial resources: the money element without which a business cannot be set up or run day to day; equity…** — That is what this lesson teaches in its sources of finance part (Nepal's book).
+
+**7.** What does this lesson teach about sources of finance / borrowing dangers? (Sub lesson 5)
+a) Something this lesson does not teach.
+b) The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal…
+c) Something this lesson does not teach.
+**Answer: b) The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal…** — That is what this lesson teaches in its sources of finance / borrowing dangers part (Nicaragua's book).

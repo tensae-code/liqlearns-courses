@@ -44,6 +44,14 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Writing the plan.** Describing the chosen venture inside the project: statement of the problem it solves, the activity and type of venture, its general objective, its beneficiaries and the needs it satisfies (Ecuador's book.)
 
+**Writing the plan.** The vision: the future position the venture wants, stated as realistic, reachable goals with an inspiring character — built by answering what we want to achieve, where we want to be (the book asks the entrepreneur to picture the venture in 10 or 15 years), how to make sure of getting there, how long it will take and who else we want to reach (Nicaragua's book.)
+
+**Writing the plan.** The mission: every business needs one so its general objectives and working principles are clear; in the plan it is stated for the short term from the questions — what do we do, what is our reason for being, who is our target public, what is our geographic field, what is our competitive advantage and what differentiates us from competitors (Nicaragua's book.)
+
+**Writing the plan.** From objectives to a plan of activities: the actions to carry out the venture are fixed in an activity plan, which is what makes the schedule (cronograma), the budget and the investment calendar possible (Nicaragua's book.)
+
+**Writing the plan.** Objectives inside the plan: an objective states precisely the future situation to be reached, with time and quantity parameters, and must be observable and measurable; every venture needs one general objective (what the project is for) and specific objectives (the simpler, clearer activities that lead to it) (Nicaragua's book.)
+
 **Writing the plan.** Writing the plan, part 1: the plan opens with the business's title — its name and general goal stated briefly, with its scale (a language school for 1,000 learners a year; mushroom growing at 100 tons a year) — and the names of the plan's writers (Iran's book.)
 
 **The plan on one page.** The Business Model Canvas (TIC page): the venture mapped in nine blocks — target market, value proposition, channels, customer relationships, revenue flows, key resources, key activities, key partners, cost structure (Ecuador's book.)
@@ -53,6 +61,12 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Closing the plan.** Conclusions of the project: after the quantitative and qualitative evaluations and the risk analysis, the conclusions state whether implementation is feasible or not, beginning with the satisfaction of needs (Ecuador's book.)
 
 **What a business plan is.** The business plan: everyone entering business must have one — a written, organised document stating how a business's activities will be carried out over a set period; a map that answers three questions: where are you, where do you want to go, and how will you reach the destination (Iran's book.)
+
+**What a business plan is.** What a business plan is: the fundamental piece that makes a firm work well; before writing or updating it, analyse the venture's present situation with tools the book names — the FODA (SWOT) matrix, PESTEL analysis, the Canvas canvas, Design Thinking and Lean Startup; the plan describes the business idea, the objectives to reach and the strategies to reach them (Nicaragua's book.)
+
+**Purpose of the plan.** What the plan is for: it lets the entrepreneur examine the idea in detail — its technical, economic and financial viability — sets out the procedures and strategies to turn the idea into a real business, reduces risks, anticipates problems, gives better control, and shows potential investors the idea is serious and well supported so financing can be obtained (Nicaragua's book.)
+
+**Writing the plan / using the money.** The investment plan: it details how the financing will be used — what the money from a credit will be invested in — listing everything the venture needs to start up: equipment and tools, furniture, raw material, infrastructure and work clothing (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

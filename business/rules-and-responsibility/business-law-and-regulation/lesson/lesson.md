@@ -93,6 +93,32 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **The legal rules.** Nepal's own way — registering a sole-trader (private) firm under the Private Firm Registration Act, 2014 BS: application to the Department of Commerce, Supplies and Consumer Protection (trade firms) or the Department of Industry (industry firms), registration fee scaled to capital (with a 50% concession for women, Dalit and deprived-class owners), checking of documents and issue of the certificate; yearly renewal, and the consequences of not renewing (fines, no bank account or loans, tax-evasion exposure) (Nepal's book.)
 
 **The legal rules.** Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary payments, the municipal patent (operating permit), and fees to the lawyers who constitute the venture (Ecuador's book.)
+
+**The legal rules / formalising.** Why formalise: a formalised small or medium business gains access to all the programmes, rights and incentives of the MIPYME law (Ley N° 645, Ley de Promoción, Fomento y Desarrollo de la Micro, Pequeña y Mediana Empresa); (Nicaragua's book.)
+
+**The legal rules / taxes.** The fiscal benefits of being formal: tax benefits from the official list; exports of nationally produced goods and services rendered abroad carry a 0% VAT (IVA) rate; a tax credit of 1.5% of the FOB value of exports can be applied against advance or annual income tax with the tax administration's approval; (Nicaragua's book.)
+
+**The legal rules / where to register.** The Ventanilla Única de Inversiones (VUI): the one-stop business formalisation centre where a business registers under the general regime as a natural or a legal person; it gives free orientation, advice and technical assistance, manages the applications (requirements, costs, fiscal and legal aspects, additional permits) and hands over the documents needed to operate (Nicaragua's book.)
+
+**The legal rules / registering step by step.** The formalisation route and its times through the VUI: step 1 at the VUI itself (24 hours for expedited procedures, 5 days ordinary), step 2 the Dirección General de Ingresos (DGI) issuing the RUC (8 days for legal persons, half a day with the DUR for natural persons), step 3 the municipal mayor's office (about 5 days) — all of it also doable online through the VUI (Nicaragua's book.)
+
+**The legal rules / tax registration.** Getting the RUC (Registro Único de Contribuyente) as a natural person on the fixed-quota regime: be 18, present the citizen identity document (with the rules the book gives for nationals, nationals living abroad and foreigners), prove the fiscal domicile with a basic-services bill or lease contract, and if a third party files, a simple written authorisation (Nicaragua's book.)
+
+**The legal rules / tax registration.** RUC registration on the general regime and for legal persons: the same identity and fiscal-domicile proof (a notarial declaration when the bills are not in the applicant's name), professional title or graduation letter for professional services, a notarised special power when a third party files; (Nicaragua's book.)
+
+**The legal rules / local licence.** The municipal licence (matrícula): anyone, natural or legal, who carries on an economic activity must notify their municipality and request the licence, which first requires the RUC; (Nicaragua's book.)
+
+**The legal rules / health licence.** The sanitary licence (MINSA): food, drink, pharmaceutical and cosmetics ventures apply at their nearest health centre, receive the application form and an inspection of the premises (within about 20 days), then file the mayor's licence, fire inspection certificate, fumigation certificate, health certificates and fee; (Nicaragua's book.)
+
+**The legal rules / registering a product.** Sanitary registration of a product: (Nicaragua's book.)
+
+**The legal rules / sector licences.** Tourism-sector licences (INTUR): (Nicaragua's book.)
+
+**The legal rules / sector licences.** Fishing-sector formalisation (INPESCA): (Nicaragua's book.)
+
+**The legal rules / environmental permits.** Environmental permits under Decreto 20-2017 (the environmental evaluation system for permits and authorisations for sustainable use of natural resources): (Nicaragua's book.)
+
+**The legal rules / protecting the brand.** Registering a trademark: a trademark is the symbol that identifies your product or service in the market and makes it different from the rest; (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law. Your companion asks one question back — answer it from the lesson.

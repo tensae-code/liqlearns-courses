@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about sources of finance? (Sub lesson 4)
 **Answer:** Working capital and venture capital: working capital keeps daily operations continuous — regular production, paying suppliers, workers and staff on time, keeping customers satisfied — and venture capital is the start-up capital for new ventures
+
+**7.** In your own words, what does this lesson say about sources of finance / borrowing dangers? (Sub lesson 5)
+**Answer:** The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal programmes and lenders with backing, and avoid falling into the hands of moneylenders (usureros)

@@ -25,3 +25,9 @@ a) Advantages of sole trading: employment opportunity for oneself and family on 
 b) The sole trading concern: a business under one person's ownership, management and control, who invests their…
 c) The partnership firm: partners agree to run a lawful business together for private profit (Partnership Act,…
 **Answer: b) The sole trading concern: a business under one person's ownership, management and control, who invests their…** — That is what this lesson teaches in its forms of ownership part (Nepal's book).
+
+**5.** What does this lesson teach about forms of ownership / registering a company? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Registering a mercantile company: businesses that constitute themselves as commercial companies under…
+c) Something this lesson does not teach.
+**Answer: b) Registering a mercantile company: businesses that constitute themselves as commercial companies under…** — That is what this lesson teaches in its forms of ownership / registering a company part (Nicaragua's book).

@@ -37,3 +37,9 @@ a) Types of industry: genetic industry (agriculture, animal husbandry, fisheries
 b) Creation of utilities: utility is a good's or service's power to satisfy human wants; business creates form…
 c) Physical resources: land and building (needed for as long as the business exists), machinery and equipment…
 **Answer: b) Creation of utilities: utility is a good's or service's power to satisfy human wants; business creates form…** — That is what this lesson teaches in its how production serves the customer part (Nepal's book).
+
+**7.** What does this lesson teach about what the business makes or does? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Product or service: a product is a physical good that has passed through stages to become what is sold…
+c) Something this lesson does not teach.
+**Answer: b) Product or service: a product is a physical good that has passed through stages to become what is sold…** — That is what this lesson teaches in its what the business makes or does part (Nicaragua's book).

@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** Name the three river and lake groupings in this lesson. (Sub lesson 2)
 **Answer:** Niger Basin Authority, Lake Chad Basin Commission, Mano River Union.
+
+**3.** In your own words, what does this lesson say about trade institutions / selling to the state? (Sub lesson 2)
+**Answer:** Registering as a state supplier (proveedor del estado):

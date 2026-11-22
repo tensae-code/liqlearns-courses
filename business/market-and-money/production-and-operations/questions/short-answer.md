@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about kinds of production? (Sub lesson 4)
 **Answer:** Types of industry: genetic industry (agriculture, animal husbandry, fisheries, plants), extractive industry (taking minerals and forest produce from nature), construction industry, and manufacturing industry in four kinds — analytical (one raw material split into many products, e.g. crude oil into petrol, diesel, aviation fuel), processing, synthetic, and assembling (joining parts made by others into watches, TVs, vehicles)
+
+**7.** In your own words, what does this lesson say about what the business makes or does? (Sub lesson 4)
+**Answer:** Product or service: a product is a physical good that has passed through stages to become what is sold (bread-making is the example), a service is the activity of doing something for another person (hairdressing), and a venture can do both — the custom-furniture maker whose product is the furniture and whose service is making and installing it for the particular client

@@ -110,6 +110,8 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance / borrowing dangers.** The warning against informal financing (Financia tu emprendimiento page): moneylenders ("chulqueros") who lend with almost no requirements at around 10% a month will sink any lawful venture — no legal business can pay such interest and survive (Ecuador's book.)
 
+**Sources of finance / borrowing dangers.** The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal programmes and lenders with backing, and avoid falling into the hands of moneylenders (usureros) (Nicaragua's book.)
+
 **Raising finance.** Reasons for starting a company: limited liability (the investor can lose the investment but not house and land), perpetual succession, the capital-raising facility (shares, debentures and other means raise large sums easily), easy transfer of shares, credibility and reputation, tax exemptions and financial incentives, and expansion opportunities (Nepal's book.)
 ## Say it to your companion
 

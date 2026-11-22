@@ -47,6 +47,8 @@ Two shops each made a profit of 10,000 — but one used capital of 20,000 and th
 **Analysing sole-trader statements.** First analysis of a sole trader's statements: sales trend, gross profit and net profit percentages, return on owner's equity against bank term-deposit rates, working capital, and the equity ratio with its 0.5:1 danger benchmark.
 
 **Reading the statements.** Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return on investment (each year's net profit compared with the initial investment) used to judge whether the venture earns enough (Ecuador's book.)
+
+**Reading the venture's numbers.** Financial analysis of the venture: analysing its accounting information to get an objective view of its present situation and how it is expected to evolve; the plan's financial section records the product or service sold, its price in córdobas, the unit of sale, how much is made per month and whether sales are cash or credit (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: ratios and percentages read the financial statements: one figure set against another judges profitability, liquidity and efficiency, and lets a business be compared across years and against other businesses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed accounting-ratios lesson (same proposal as filed from the Nigeria book), proposed accounting-ratios lesson, opening part of the new lesson, calculation part, calculation and interpretation part, comparison part of the new lesson, ratio part of the new lesson, judgement part of the new lesso. Your companion asks one question back — answer it from the lesson.

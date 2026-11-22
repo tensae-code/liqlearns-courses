@@ -31,3 +31,9 @@ a) Ethical principles for business: integrity (the foundation stone), fairness, 
 b) Business ethics and corporate social responsibility introduced together: ethics is directly joined to CSR —…
 c) Areas of social responsibility: responsibility towards employees (fair remuneration, safe working…
 **Answer: b) Business ethics and corporate social responsibility introduced together: ethics is directly joined to CSR —…** — That is what this lesson teaches in its responsibility part (Nepal's book).
+
+**6.** What does this lesson teach about responsibility / the venture's principles?
+a) Something this lesson does not teach.
+b) The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to…
+c) Something this lesson does not teach.
+**Answer: b) The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to…** — That is what this lesson teaches in its responsibility / the venture's principles part (Nicaragua's book).

@@ -35,6 +35,16 @@ Name one thing your country sells to the world and one thing it must buy from th
 **Pros and cons of trade.** Advantages and disadvantages of international trade: advantages — local businesses expand into new markets and sell at higher volumes, competition forces up quality and down prices, selling in several countries spreads risk, unavailable products can be imported, and countries access resources for a wider range of industries; disadvantages — dumping of very cheap foreign goods, faster depletion of natural resources, large import bills causing foreign currency shortages, unbalanced development, and dependence on other countries for essentials such as food and raw materials
 
 **Trade across borders.** Foreign (external/international) trade between two or more countries, in three kinds: import trade (buying from another country to sell at home), export trade, and re-export / entrepôt trade (Nepal's book.)
+
+**Foreign trade / becoming an exporter.** Registering as an exporter at CETREX: an exporting venture must first be fully formalised, then register at the Centro de Trámites de las Exportaciones window — immediate and free; (Nicaragua's book.)
+
+**Foreign trade / food exports.** Exporting processed food of agricultural, aquaculture or fishing origin: register as an exporter with IPSA, register the establishment with the Food Safety Directorate, present the importing country's phytosanitary and sanitary requirements and request the inspection, and IPSA issues the inspection certificate; (Nicaragua's book.)
+
+**Foreign trade / export documents.** The customs (DGA) document set for an export: the export invoice, the CETREX export document, the merchandise declaration through a customs agency, the shipping document (sea, air or land) and the IPSA phytosanitary or sanitary certificate where it applies (Nicaragua's book.)
+
+**Foreign trade / sector exports.** Sector export routes: clay, stone, ceramic crafts and paintings exported to Central America need the Instituto de Cultura export certificate before CETREX issues the DUCA-F and the DGA customs declaration; leather goods (footwear, bags, wallets) go straight through the CETREX document set — invoice, FOB fee slip, DUCA-F/FUE/Certificate of Origin detail sheet (Nicaragua's book.)
+
+**Foreign trade / moving the goods.** The export logistics steps in order: 1) registration — contract the customs carrier for the mode (land, sea or air); 2) customs agency — contract the agency that prepares the merchandise declaration, with the DGA's coming "Declaración Simplificada" project noted as letting MIPYMEs file their own declarations and cut cost and time; (Nicaragua's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit. Your companion asks one question back — answer it from the lesson.

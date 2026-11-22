@@ -33,3 +33,9 @@ a) Creativity and innovation introduced: without creativity a business idea stay
 b) The unit's own way in: a traditional waste-collection routine contrasted with a modern mobile-app collection…
 c) Creativity versus innovation compared: creativity is abstract and generates the initial idea, innovation is…
 **Answer: b) The unit's own way in: a traditional waste-collection routine contrasted with a modern mobile-app collection…** — That is what this lesson teaches in its where business ideas come from part (Nepal's book).
+
+**6.** What does this lesson teach about where business ideas come from / first steps? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Nicaragua's own seven-step route from idea to start: use your own knowledge and skills to spot a need you can…
+c) Something this lesson does not teach.
+**Answer: b) Nicaragua's own seven-step route from idea to start: use your own knowledge and skills to spot a need you can…** — That is what this lesson teaches in its where business ideas come from / first steps part (Nicaragua's book).

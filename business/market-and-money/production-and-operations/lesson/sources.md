@@ -1,6 +1,6 @@
 # Sources — Production and Operations
 
-countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal
+countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -20,6 +20,8 @@ countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal
 
 **Book 9:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+
+Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,7 +54,8 @@ countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal
 | how production serves the customer | Book 9 (Business Studies Cl. 11), printed p. 5 |
 | kinds of production | Book 9 (Business Studies Cl. 11), printed p. 8 |
 | the physical side of production | Book 9 (Business Studies Cl. 11), printed p. 42 |
+| what the business makes or does | Book 10 (Guía del Emprendedor), printed p. 7 |
 
-**Acceptance count: taught in 7 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
 
-Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal
+Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua

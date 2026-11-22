@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **What ratios are, and the profitability ratios**
-2. **Liquidity, efficiency and return — and judging with ratios**; reading the statements.
+2. **Liquidity, efficiency and return — and judging with ratios**; reading the statements; reading the venture's numbers.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

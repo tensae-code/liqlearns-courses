@@ -1,6 +1,6 @@
 # Sources — Forms of Business Ownership
 
-countries: Malaysia, Nigeria, Samoa, Dominica, Nepal
+countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -14,6 +14,8 @@ countries: Malaysia, Nigeria, Samoa, Dominica, Nepal
 
 **Book 6:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+
+Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,7 +51,8 @@ countries: Malaysia, Nigeria, Samoa, Dominica, Nepal
 | forms of ownership | Book 6 (Business Studies Cl. 11), printed p. 126 |
 | forms of ownership | Book 6 (Business Studies Cl. 11), printed p. 131 |
 | choosing a form | Book 6 (Business Studies Cl. 11), printed p. 136 |
+| forms of ownership / registering a company | Book 7 (Guía del Emprendedor), printed p. 20 |
 
-**Acceptance count: taught in 5 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
 
-Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal
+Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua

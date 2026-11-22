@@ -21,3 +21,9 @@ a) Something this lesson does not teach.
 b) Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return…
 c) Something this lesson does not teach.
 **Answer: b) Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return…** — That is what this lesson teaches in its reading the statements part (Ecuador's book).
+
+**4.** What does this lesson teach about reading the venture's numbers? (Sub lesson 2)
+a) Something this lesson does not teach.
+b) Financial analysis of the venture: analysing its accounting information to get an objective view of its…
+c) Something this lesson does not teach.
+**Answer: b) Financial analysis of the venture: analysing its accounting information to get an objective view of its…** — That is what this lesson teaches in its reading the venture's numbers part (Nicaragua's book).

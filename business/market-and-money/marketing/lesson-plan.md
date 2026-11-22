@@ -14,7 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Knowing the market — research first** — market research; market research; branding.
 3. **The marketing mix** — marketing mix; the marketing mix in the book's four-part form; consumer behaviour; packaging.
 4. **Product and price** — product; price; product/price; the marketing mix and product life cycle; pricing strategies.
-5. **Place, selling and new ways of marketing** — place (distribution); the selling-and-marketing-the-product-made; the knowing-what-customers-want / where-the-product-is-sold; opening; preparation; comparison; the role of marketing; knowing the customer; the marketing mix; preparing to sell; the marketing mix / offering; place in the marketing mix; knowing the market.
+5. **Place, selling and new ways of marketing** — place (distribution); the selling-and-marketing-the-product-made; the knowing-what-customers-want / where-the-product-is-sold; opening; preparation; comparison; the role of marketing; knowing the customer; the marketing mix; preparing to sell; the marketing mix / offering; place in the marketing mix; knowing the market; knowing the competition.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

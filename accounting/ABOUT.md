@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
-Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nigeria
+Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria
 and Samoa.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
@@ -33,13 +33,13 @@ organisations, partnerships, companies, manufacturing,
 incomplete records, control accounts) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 196 placements stocked.**
+**27 lessons, 199 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 16 student
-books in all; the 11 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 17 student
+books in all; the 12 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 5 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -76,6 +76,9 @@ they are named here so the read set is whole.
 
 - *Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado* — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.) — Ministerio de Educación del Ecuador, Quito. © 2019; reprint September 2019; ISBN 978-9978-52-359-9. **Grade 13 (Tercero de Bachillerato, BGU). STUDENT book. Language: Spanish.** 192 PDF pages (printed pp. 1–192). **Verdict: COMPLETE** — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
   - The ACCOUNTING parts of this book: the financial projections of Unidad 4 (sales, cost and expense budgets; the projected funds flow, printed pp. 112, 116, 120) and the profitability analysis of Unidad 5 (printed p. 134) fed **Accounting** (4 placements in this course, from this book). Contents map for this split: Unidades 1–6 and the Anexos fed **Business** (45 placements); the advertising teaching of Unidad 3 fed **Commerce** (2 placements).
+
+- *Guía del Emprendedor* — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa). No individual author named. **No year or edition printed in the book (undated in print; the "actualizada" edition, PDF created March 2021). Grade 7. STUDENT book. Language: Spanish.** 52 PDF pages (printed pp. 1–48). **Verdict: COMPLETE** — read whole book to the last teaching page (Unidad IV ends printed p. 43). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
+  - The ACCOUNTING parts of this book: the financial analysis of the venture and the income statement (estado de resultados) and its structure, in Unidad II (printed pp. 13–14), fed **Accounting** (3 placements in this course, from this book). Contents map for this split: Unidades I–III fed **Business** (37 placements); Unidad IV and parts of Unidades II–III fed **Commerce** (7 placements).
 
 - *Inventor Business Studies, Form Three Students' Book* —
   Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature
@@ -217,8 +220,8 @@ they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 27 lessons, stocked with
-  196 placements from **student books** of 6 countries (Dominica,
-  Ecuador, Kenya, Malaysia, Nigeria, Samoa) — taught in 6 countries. Every
+  199 placements from **student books** of 7 countries (Dominica,
+  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Samoa) — taught in 7 countries. Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read

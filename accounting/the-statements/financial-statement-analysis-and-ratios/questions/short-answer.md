@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** In your own words, what does this lesson say about reading the statements? (Sub lesson 2)
 **Answer:** Profitability analysis of the project: return on sales (average profit as a percentage of sales) and return on investment (each year's net profit compared with the initial investment) used to judge whether the venture earns enough
+
+**4.** In your own words, what does this lesson say about reading the venture's numbers? (Sub lesson 2)
+**Answer:** Financial analysis of the venture: analysing its accounting information to get an objective view of its present situation and how it is expected to evolve; the plan's financial section records the product or service sold, its price in córdobas, the unit of sale, how much is made per month and whether sales are cash or credit

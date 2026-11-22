@@ -1,6 +1,6 @@
 # Sources — Business Law and Regulation
 
-countries: Malaysia, Nigeria, Dominica, Ecuador, Nepal
+countries: Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -14,6 +14,8 @@ countries: Malaysia, Nigeria, Dominica, Ecuador, Nepal
 
 **Book 6:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
+
+Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,7 +59,20 @@ countries: Malaysia, Nigeria, Dominica, Ecuador, Nepal
 | the legal rules | Book 6 (Business Studies Cl. 11), printed p. 172 |
 | the legal rules | Book 6 (Business Studies Cl. 11), printed p. 174 |
 | the legal rules | Book 6 (Business Studies Cl. 11), printed p. 176 |
+| the legal rules / formalising | Book 7 (Guía del Emprendedor), printed p. 17 |
+| the legal rules / taxes | Book 7 (Guía del Emprendedor), printed p. 18 |
+| the legal rules / where to register | Book 7 (Guía del Emprendedor), printed p. 18 |
+| the legal rules / registering step by step | Book 7 (Guía del Emprendedor), printed p. 19 |
+| the legal rules / tax registration | Book 7 (Guía del Emprendedor), printed p. 20 |
+| the legal rules / tax registration | Book 7 (Guía del Emprendedor), printed p. 21 |
+| the legal rules / local licence | Book 7 (Guía del Emprendedor), printed p. 23 |
+| the legal rules / health licence | Book 7 (Guía del Emprendedor), printed p. 24 |
+| the legal rules / registering a product | Book 7 (Guía del Emprendedor), printed p. 25 |
+| the legal rules / sector licences | Book 7 (Guía del Emprendedor), printed p. 26 |
+| the legal rules / sector licences | Book 7 (Guía del Emprendedor), printed p. 31 |
+| the legal rules / environmental permits | Book 7 (Guía del Emprendedor), printed p. 33 |
+| the legal rules / protecting the brand | Book 7 (Guía del Emprendedor), printed p. 36 |
 
-**Acceptance count: taught in 5 countries (Malaysia, Nigeria, Dominica, Ecuador, Nepal)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
 
-Searchable tags: business law and regulation, rules and responsibility, business, malaysia, nigeria, dominica, ecuador, nepal
+Searchable tags: business law and regulation, rules and responsibility, business, malaysia, nigeria, dominica, ecuador, nepal, nicaragua

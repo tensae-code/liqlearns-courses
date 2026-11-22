@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What foreign trade is**
 2. **Terms of sale — who bears which cost** — economic institutions.
 3. **Documents and the letter of credit**
-4. **Restrictions — and the trends against them** — international trade; pros and cons of trade; trade across borders.
+4. **Restrictions — and the trends against them** — international trade; pros and cons of trade; trade across borders; foreign trade / becoming an exporter; foreign trade / food exports; foreign trade / export documents; foreign trade / sector exports; foreign trade / moving the goods.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

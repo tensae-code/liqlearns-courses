@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about forms of ownership? (Sub lesson 1)
 **Answer:** Advantages of sole trading: employment opportunity for oneself and family on little investment, sole ownership of all profit (which keeps the owner devoted), independent and quick decision making, flexibility in operation, low and easy installation cost, and easy dissolution once liabilities are paid
+
+**5.** In your own words, what does this lesson say about forms of ownership / registering a company? (Sub lesson 4)
+**Answer:** Registering a mercantile company: businesses that constitute themselves as commercial companies under Nicaragua's Commercial Code draw up their statutes and constitutive acts before an authorised notary and register the entity in the Registro Mercantil — a necessary condition before the RUM, RUC and municipal licence procedures;
