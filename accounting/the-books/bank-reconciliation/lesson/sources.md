@@ -8,11 +8,15 @@ countries: Malaysia, Samoa, Sudan
 
 **Book 3:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
 
+**Book 4:** Business Studies — Year 10, Book Two (student book) — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. Grade: Year 10 (grade-10). Language: English. Page count: 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). Source: manifest `manifests-phase2/samoa.json` n=2; fetched via `fetch_book.py` route `tree`, 897,368 B = expected exactly, to `scratch-phase2/samoa/book-2.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Unit 5 conclusion, printed p. 77). Following the series' own division (as in Year 9 and Year 11), Book 2 is the accounting-side book: Units 3–5 are pure ACCOUNTING; Unit 1 (personal finances) is filed to BUSINESS where it teaches personal budgeting (the Phase-3-built `personal-finance-and-budgeting`) and to ACCOUNTING where it teaches payslips, source documents and the personal statement of affairs; Unit 2's payment methods are filed to COMMERCE `banking-services-for-trade` and its cheque-account records and reconciliation to ACCOUNTING.
+
 | Lesson part | Where it comes from |
 |---|---|
 | main part | Book 1 (Prinsip Perakaunan T5), printed p. 74 |
 | bank reconciliation, personal form | Book 2 (Accounting Year 12), printed p. 12 |
 | bank reconciliation | Book 3 (Commercial Science G11 (Sudan)), printed pp. 66–67 |
+| the cheque-account record | Book 4 (Bus Studies Y10 Bk2), printed p. 34 |
+| bank reconciliation, personal form | Book 4 (Bus Studies Y10 Bk2), printed p. 37 |
 
 **Acceptance count: taught in 3 countries (Malaysia, Samoa, Sudan)** — every book above is a student book, so each country counts.
 

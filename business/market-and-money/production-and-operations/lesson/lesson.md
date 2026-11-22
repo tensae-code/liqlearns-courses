@@ -97,6 +97,10 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Product-development part.** Developing new products and new markets: product development as a growth strategy that introduces new products to the existing market and demands creativity and innovation, with workers and designers cooperating through R&D (Malaysia's book.)
 
+**Stages part.** The three stages of production — primary (harvesting or mining natural resources), secondary and tertiary — and production as combining the factors: timber (land) + cabinet maker (labour) + tools (capital) + entrepreneurship = the chair (end product) (Samoa's book.)
+
+**Summary part.** The unit's summary: the four factors of production (land, labour, capital and entrepreneurship) are essential in the production of goods; consumers' needs and wants are met through the process of production and supply; and the signals about what goods should be produced often depend on the country's economic system (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

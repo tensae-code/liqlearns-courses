@@ -38,6 +38,12 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Petty cash part.** The petty cash book (Buku Tunai Runcit): its use for the small, frequent payments of the business (refreshments and the like), kept under the imprest system (Sistem Panjar — a fixed float given to the petty cashier), evidenced by petty cash vouchers and ruled with analysis columns (Malaysia's book.)
 
+**Cash receipts journal; discount allowed.** The cash receipts journal with discount allowed: a prompt-payment discount deducted from the price to encourage debtors to pay early, recorded in the journal beside the cash actually received (Samoa's book.)
+
+**Cash payments journal; discount received.** The cash payments journal: payments made by cheque (drawer, drawee bank and payee defined), analysed into columns, with discount received when the business settles a creditor's account promptly (Samoa's book.)
+
+**Petty cash imprest.** Petty cash: a small imprest fund kept in the office for items too small for a cheque (stamps, taxi fares, stationery), controlled by one person and reimbursed by cheque back up to the imprest amount (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

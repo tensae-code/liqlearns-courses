@@ -117,6 +117,10 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Other-bank-services.** The auxiliary banking operations and the bank's card and foreign-exchange services: credit and plastic cards handled for customers, and buying and selling foreign exchange (συνάλλαγμα) for trade payments (Greece's book.)
 
+**Cheques.** Cheques as a way of paying: a cheque defined as a bill of exchange drawn on a banker payable on demand, the conditions for a cheque to be honoured, stale cheques after six months, and crossed cheques — 'Not Negotiable' and 'A/C Payee Only' crossings that force payment into the payee's bank account (Samoa's book.)
+
+**Cards and electronic payment.** Credit cards and EFTPOS as payment methods: bank credit cards (Visa, Mastercard) against non-bank cards (Diners Club, American Express), buying now and repaying the card company later, and EFTPOS as electronic funds transfer at point of sale with a PIN (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

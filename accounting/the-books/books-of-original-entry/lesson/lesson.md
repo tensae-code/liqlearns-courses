@@ -93,6 +93,14 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **Special journals part.** The special journals (Jurnal Khas), kept for transactions that occur frequently: the purchases journal (credit purchases of goods and services, from the supplier's original invoice), the sales journal, the purchases returns journal, the sales returns journal, and the cash receipts journal (all receipts of cash and cheques — sales revenue, collections from receivables and other receipts) with the cash payments journal beside them (Malaysia's book.)
 
+**Cash journals and receipts.** The cash journals recalled as the books in which cash transactions are first recorded, and the receipt as their source document: a written acknowledgement of cash received, the original to the customer and the duplicate kept by the business (Samoa's book.)
+
+**Journals as books of first entry.** The goods journals introduced: a journal is a book of daily entry that groups similar business documents (invoices issued, invoices received) so transactions can be posted to the ledger later (Samoa's book.)
+
+**Sales and purchases journals.** The sales journal and the purchases journal: credit sales entered from the invoices issued (each debtor debited, the month's total credited to sales) and credit purchases entered from the invoices received from suppliers (Samoa's book.)
+
+**Returns journals.** The purchases returns journal (returns outwards, from credit notes received) and the sales returns journal (from credit notes issued): the reverse entries that reduce what is owed and what is owing (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.

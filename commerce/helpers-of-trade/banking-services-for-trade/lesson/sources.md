@@ -1,6 +1,6 @@
 # Sources — Banking Services for Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece
+countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -22,6 +22,8 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 **Book 8:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
 **Book 9:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
+**Book 10:** Business Studies — Year 10, Book Two (student book) — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. Grade: Year 10 (grade-10). Language: English. Page count: 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). Source: manifest `manifests-phase2/samoa.json` n=2; fetched via `fetch_book.py` route `tree`, 897,368 B = expected exactly, to `scratch-phase2/samoa/book-2.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Unit 5 conclusion, printed p. 77). Following the series' own division (as in Year 9 and Year 11), Book 2 is the accounting-side book: Units 3–5 are pure ACCOUNTING; Unit 1 (personal finances) is filed to BUSINESS where it teaches personal budgeting (the Phase-3-built `personal-finance-and-budgeting`) and to ACCOUNTING where it teaches payslips, source documents and the personal statement of affairs; Unit 2's payment methods are filed to COMMERCE `banking-services-for-trade` and its cheque-account records and reconciliation to ACCOUNTING.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -77,9 +79,11 @@ countries: Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzani
 | the deposit-services part of the lesson | Book 9 (Sygchrones Synallages B EPAL), printed pp. 175–177 |
 | the borrowing-from-a-bank part of the lesson | Book 9 (Sygchrones Synallages B EPAL), printed pp. 176–178 |
 | the other-bank-services part of the lesson | Book 9 (Sygchrones Synallages B EPAL), printed pp. 178–182 |
+| cheques | Book 10 (Bus Studies Y10 Bk2), printed p. 25 |
+| cards and electronic payment | Book 10 (Bus Studies Y10 Bk2), printed p. 29 |
 
-**Acceptance count: taught in 9 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 10 countries (Kenya, Nigeria, Dominica, Nepal, Palestine, Indonesia, Sudan, Tanzania, Greece, Samoa)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece
+Searchable tags: banking services for trade, helpers of trade, commerce, kenya, nigeria, dominica, nepal, palestine, indonesia, sudan, tanzania, greece, samoa

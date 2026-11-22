@@ -35,6 +35,28 @@ Saving is putting money aside — for a rainy day, and for set goals. The book's
 
 **Investment part.** The investment side of the plan: types of investment open to the entrepreneur (bank investment, cooperative investment for members, PNB products such as ASB and ASN) with their risk levels, and allowing for income tax and zakat inside the plan (Malaysia's book.)
 
+**Usefulness and parts of a budget.** What a budget does for a person or family: it sets priorities, makes the best use of income, stops impulse buying, plans for irregular necessary spending (school fees, car repairs) and guides wise choices; a budget's parts — income, essential and non-essential expenditure, savings — and surplus against deficit (Samoa's book.)
+
+**Preparing a budget for a goal (Samoa's family way).** Preparing and amending a family budget to reach a savings target: the Taito family's fortnightly budget is reworked (surplus to savings, changes to non-essential spending) to save for a computer, counting the fortnights needed (Samoa's book.)
+
+**Income from work part.** Types of income from work: working is the most common way of earning an income, and income from work comes as a fee, commission, wages and salary; work can be full-time or part-time, in the public or private sector, or self-employment (Samoa's book.)
+
+**Sources part.** The sources of income summarised: from work; from property (renting, leasing, or selling for a profit) and investments (investors earn interest; capital gain); with income from owning what others want to use — rent received as a charge for the use of land or property, fees as a charge for services done — and remittances as a Samoan household source (Samoa's book.)
+
+**Spending part.** Spending income on needs and wants: the money we earn is spent on satisfying needs and wants, and our spending can be on fixed expenses or variable expenses, but probably a mix of both (Samoa's book.)
+
+**Budgeting facts part.** Facts to remember about budgeting: it makes you set priorities; it helps you have a regular savings plan; it maximises satisfaction from income by enabling you to buy goods and services to satisfy as many needs and wants as possible; it helps you make wise purchasing choices (Samoa's book.)
+
+**Payslip part.** Reading a payslip: Tautua's Government of Western Samoa payslip studied — why he needs his payslip, what the deduction abbreviations stand for (NPF, NPFLN, PSC among them), and working out his yearly and fortnightly take-home pay (Samoa's book.)
+
+**Budget definition part.** A budget is a plan of income and expenditure; budgeting is critical to gain optimal satisfaction from your income, through a decision-making process about how you will spend your money (on which goods and services) and how much (Samoa's book.)
+
+**Fixed expenses part.** Fixed expenses defined: expenses we expect to have and must meet by allocating some of our resources (usually income) to them; they occur at regular intervals and we have a good idea of how much they are going to be — insurance, rent, electricity, telephone and car repayments among the common ones (Samoa's book.)
+
+**Budget steps part.** The easiest way to prepare a budget, in steps: decide whether the budget covers a week, a fortnight, a month or a year; write down your regular income for that period; write down your fixed expenses for that period; estimate your variable expenses (Samoa's book.)
+
+**Buying terms part.** The buying-wisely word set: impulse buying is when something is bought without planning first; the reasons we buy are called buying motives; we get a bargain when we buy something for a lower cost than we expected; things sold at a small amount off the normal price are sold at a discount; and "The Buyer Must Beware" (caveat emptor) (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a person controls their own money with a budget — a spending plan that balances income against expenditure, fixed outgoings first and flexible spending after — watched for its peaks and troughs, and with saving done on purpose toward set goals, in ways that run from a bank deposit account to the sou-sou. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: budgeting, ways of saving. Your companion asks one question back — answer it from the lesson.

@@ -25,6 +25,16 @@ Not-for-profit private organisations — charities, local sports and social club
 
 **Cooperatives part.** The cooperative as a form of business ownership: formed voluntarily by a group with shared interests to protect its members, owned jointly ("milik bersama"), its board (ALK) elected by vote at the annual general meeting, membership voluntary and open (Malaysia's book.)
 
+**Opening part.** Community organisations introduced through clubs and societies: the unit's aim that students describe the role clubs and societies play, from the study of producers' decisions and the diversity and goals of producers (Samoa's book.)
+
+**Structure part.** The structure of a typical club/society drawn as a hierarchy — Patron, President/Chairman, Deputy President, Secretary, Accountant/Treasurer and Committee — worked through a Samoan rugby club case (55 members, meeting every Thursday, dissatisfied with how their needs and wants are met) (Samoa's book.)
+
+**Samoan clubs part.** Clubs and societies identified in Samoa — Rugby Union, Weight Watchers, Scouts and Girl Guides, Racing Club, Young Farmers, Athletics, Golf Club, Aumaga, Play Centre, RSA, Church, Parent Teacher Association, Aero Club, Samoa Kiriketi, Suicide Awareness among them — and the needs they satisfy: the clubs provide for cultural/religious needs, societies work for cultural/welfare needs and wants (Samoa's book.)
+
+**Meetings part.** Running the club's meetings: the Notice of Meeting and Agenda (who the notice is for, who prepares it, when — with a fundraising discussion as the worked example) (Samoa's book.)
+
+**Roles and procedure part.** The roles and procedures of the office-holders: the Patron, a nominated head of the society who attends meetings when the secretary asks and sponsors and supports the club; the President/Chairman, who chairs the meetings, is the official spokesperson, is elected by all the members and gives good leadership; the Secretary beside them — and the procedure words of a motion: amendment, closure, right of reply, and a motion voted on, carried (action taken as voted) or lost (things stay as they are) (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: clubs, churches, societies and welfare groups are producers too — non-profit organisations formed voluntarily around a shared interest, meeting needs that private enterprise and government do not provide, yet handling real money and real work. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: non-profit organisations as producers. Your companion asks one question back — answer it from the lesson.

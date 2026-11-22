@@ -87,6 +87,8 @@ A trader asks three questions at year's end: Did I make a gross profit? After al
 
 **Closing part.** Closing the revenue, expense and inventory accounts at the end of the financial period (Penutupan Akaun): why the closing is needed, and the transfers — net sales and cost of sales into the Trading Account, each revenue and expense account closed into the Profit & Loss Account, and the inventory account carried (Malaysia's book.)
 
+**Classified statement of financial position.** Classifying assets and liabilities as current (turned into cash or used up within the next accounting period) and non-current, and presenting the classified Statement of Financial Position (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: at the end of a period a sole trader's records become statements: the trading account finds gross profit, the profit and loss account finds net profit, and the balance sheet shows the financial position at a date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: balance sheet part of the lesson, income statement part of the lesson, trading account part of the lesson, profit and loss part of the lesson, contents part, revenue, expenses and the two kinds of expenditure, the income statement, the worksheet route to final statements, the income statement (tradi, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader, financial statements of a sole trader. Your companion asks one question back — answer it from the lesson.

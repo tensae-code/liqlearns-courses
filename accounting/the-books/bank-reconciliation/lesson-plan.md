@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); The cheque-account record; Bank reconciliation, personal form.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a cash book page and a bank statement side by side, with two items ticked in one and not the other — an unpresented cheque and a deposit in transit — the student names the two unticked items and says why each explains part of the difference

@@ -14,6 +14,10 @@ A personal bank statement is read line by line and reconciled with the holder's 
 
 **Bank reconciliation.** Bank differences at stocktaking: the balance in the business's books is compared with the bank's current-account statement, the differences between the two are identified, and the balance that appears in the balance sheet is the agreed, real balance (Sudan's book.)
 
+**The cheque-account record.** Keeping the record of a cheque account: tracking cheques written, deposits, EFTPOS transactions, direct credits (wages paid straight in) and automatic payments against the account balance (Samoa's book.)
+
+**Bank reconciliation, personal form.** Comparing the bank statement with the cheque-account record and preparing a bank reconciliation statement for an individual: items on the statement (bank fees and charges) missing from the record explain the difference (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book and the bank statement rarely show the same balance on the same day; a bank reconciliation explains the difference, item by item, until the two agree. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: main part, bank reconciliation, personal form, bank reconciliation. Your companion asks one question back — answer it from the lesson.

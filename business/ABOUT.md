@@ -28,7 +28,7 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 739 placements stocked.**
+environment, e-business). **25 lessons, 762 placements stocked.**
 
 ## The books read so far
 
@@ -138,10 +138,17 @@ fed Business, and they are named here so the read set is whole.
 
 - *Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI)* — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. **Grade: Tingkatan 4 (Form 4 / grade-10). STUDENT book. Language: Malay.** 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) It stocked 2 placements into this course.
 
+
+- *Business Studies — Year 10, Book Two* — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. **Grade: Year 10 (grade-10). STUDENT book. Language: English.** 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Business pending queue.) It stocked 2 placements into this course.
+
+- *Business Studies — Year 10 Book One — Economics* — Government of Samoa, Ministry of Education, Sports and Culture (Department of Education, Curriculum Development Unit), produced under the Samoa Secondary Education Curriculum and Resources Project, funded by the New Zealand Agency for International Development (NZAID). Year / edition: © Government of Samoa, Ministry of Education, Sports and Culture, 2001; reprinted through Egan-Reid Ltd, 2006. No ISBN is printed anywhere in the book (the back cover was read visually: decorative pattern, the Samoa coat of arms and NZAID logos, "© Ministry of Education, Sports and Culture, Sāmoa, 2001" — no ISBN). **Grade: Year 10. STUDENT book. Language: English (with Samoan terms where the culture is the lesson).** 91 PDF pages; printed page = PDF page (folio-verified at printed pp. 35 and 67; one running head at printed p. 6 reads "Year 10 Business Studies Book 2" inside this Book One — the book's own production carry-over, noted here as found in Book 4 of this file's Bhutan sibling set). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Business pending queue.) It stocked 21 placements into this course.
+
+- *Student Learning Guide — Sāmoa Business Studies Curriculum: Accounting, Year 13* — prepared by Lili Tuioti; Government of Samoa, Ministry of Education, Sports and Culture (MESC) curriculum project; produced by Mahobe Resources NZ Ltd; funded by NZAID. No ISBN and no year printed in the file. **Grade: Year 13. CURRICULUM-MAPPING GUIDE (apparatus). Language: English.** **Verdict: COMPLETE — read whole.** It maps the Year 13 Accounting curriculum to textbooks that are not in hand, so it carries no teaching of its own: **read with zero placements** — nothing in it stocks into any lesson. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.) It is named here so the read set stays whole.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 25 lessons,
-  stocked with 696 placements from **student books** of 16
+  stocked with 719 placements from **student books** of 16
   countries (Dominica, Ecuador, Egypt, Greece, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
   taught in 16 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
@@ -164,7 +171,7 @@ fed Business, and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-39 Business books are in hand in the library record but
+37 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -214,9 +221,6 @@ hold lifts and they are read.
 - [BUSINESS · teacher] Business Studies Lower Secondary Teacher Guide Grades 9-10 (OBE) (Grade 9) — secured-not-on-disk
 - [BUSINESS · teacher] Business Studies Teacher Guide Grade 9 (Secondary, Standards Based) (Grade 9) — secured-not-on-disk
 
-**Samoa (2):**
-- [BUSINESS · student] Bus Studies Year 10 Book 1 (MESC Samoa) (Grade 10) — secured-not-on-disk
-- [BUSINESS · student] Bus Studies Year 10 Book 2 (MESC Samoa) (Grade 10) — secured-not-on-disk
 
 **Sri Lanka (4):**
 - [BUSINESS · book] business studies 2009 english (grade-12) — secured-not-on-disk

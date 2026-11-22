@@ -127,6 +127,10 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Marketing-department part.** The marketing functional department: making sure goods and services reach consumers quickly, creating demand for them, identifying the target market and building relations (Malaysia's book.)
 
+**Market research part.** Market research taught inside Unit 1's "Selling a Product" activity, in its Important Points to Remember: businesses produce goods and services for a profit; businesses need to know which goods and services consumers want so they can produce them; businesses do this by conducting market research on consumer wants; market research needs to be carried out to ensure the consumer actually wants the good or service and is prepared to pay the price charged for it; and a business might produce a good consumers want, but if it is too expensive consumers will not buy it — with the research steps worked (decide the product and the price it could be produced at, list what you need to know about consumers, design a questionnaire, judge from the answers whether the product is worthwhile) (Samoa's book.)
+
+**Marketing part.** The market defined — a situation or place where buyers and sellers meet and exchange goods or services for money — and marketing studied through a producer interview: the company's marketing strategy, the five factors a producer looks at to make his products attractive, and consumer satisfaction and the result of creating greater consumer satisfaction (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

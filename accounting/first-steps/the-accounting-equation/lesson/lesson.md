@@ -49,6 +49,12 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Effects part.** Analysing transactions through the equation: each transaction's dual effect set out in a table — buying goods on credit raises inventory and accounts payable by RM2 400; paying a cheque reduces the bank balance and the payable — and a month's transactions for a new business (Kedai Kain Suhana) worked through the equation (Malaysia's book.)
 
+**Elements of the equation.** The elements of the accounting equation defined: assets, liabilities (amounts owed — accounts payable, mortgages, loans) and proprietorship/owner's equity as the net worth of the business (Samoa's book.)
+
+**Transactions and the equation.** Transactions change the financial position: each transaction's effect is shown on the accounting equation schedule item by item until the position balances again, and the balance sheet is drawn up from it (Samoa's book.)
+
+**Revenue, expenses and drawings in the equation.** The expanded accounting equation: revenue increases proprietorship and expenses decrease it, drawings (cash or goods taken for personal use) decrease it, and repairs to an asset are an expense that does not change the asset's value (Samoa's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.
