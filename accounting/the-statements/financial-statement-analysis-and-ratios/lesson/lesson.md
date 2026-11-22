@@ -55,6 +55,18 @@ Two shops each made a profit of 10,000 — but one used capital of 20,000 and th
 
 **Financial statement analysis and ratios.** The limitations of financial ratios: ratios simplify analysis but rest on figures that can be distorted — inflation distorts the real values behind the figures, and the statements omit qualitative characteristics of the business (internally generated goodwill and brands are not recognised as assets) that matter to interpretation (Tanzania's book.)
 
+**Ratio analysis.** Ratio analysis as a management tool: a quantitative method of analysing financial statements to evaluate performance, financial health and operational efficiency by comparing figures from the balance sheet and income statement (Bhutan's book.)
+
+**Common-size statements.** Common-size (vertical) analysis: statements restated as percentages so periods can be compared line by line (Bhutan's book.)
+
+**Analysis part.** Financial statement analysis as assessing the entity's performance with the analysis tools, made by management to obtain critical information (Bhutan's book.)
+
+**Common-size part.** Common-size statement analysis: each line as a percentage so years compare directly (shown on a full statement of financial position) (Bhutan's book.)
+
+**Interpretation part.** Ratio interpretation in depth: return on equity (interest and preference dividends excluded), and the receivables trade-off — longer credit terms raise sales but also bad debts, while pressing customers to pay quickly can damage sales (Bhutan's book.)
+
+**Projected analysis part.** Analysing the projected statements: the net profit margin (also called percentage return on sales or margin on sales) calculated from revenue and cost of sales (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: ratios and percentages read the financial statements: one figure set against another judges profitability, liquidity and efficiency, and lets a business be compared across years and against other businesses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed accounting-ratios lesson (same proposal as filed from the Nigeria book), proposed accounting-ratios lesson, opening part of the new lesson, calculation part, calculation and interpretation part, comparison part of the new lesson, ratio part of the new lesson, judgement part of the new lesso, financial statement analysis and ratios, financial statement analysis and ratios, financial statement analysis and ratios. Your companion asks one question back — answer it from the lesson.

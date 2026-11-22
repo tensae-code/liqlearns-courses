@@ -16,6 +16,8 @@ The pay advice slip's required contents (employee and employer names, employee n
 
 **Payslips and net pay.** How pay is worked out from a pay advice slip: ordinary time and overtime hours at their rates give gross pay, PAYE tax and SNPF (Samoa National Provident Fund) are deducted to reach net pay (Samoa's book.)
 
+**Payroll records and controls.** Accounting for payroll: changes in the remuneration payable to an employee must be properly authorised and validated, and the salary and wage payments to employees must be properly recorded (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a payslip shows how pay is built: hours at a rate (with overtime at one-and-a-half or double) make gross pay, deductions such as tax come off, and what is left is net pay. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: payslips and net pay, payslips and overtime. Your companion asks one question back — answer it from the lesson.

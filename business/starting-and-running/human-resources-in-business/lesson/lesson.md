@@ -49,6 +49,8 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **HR-department part.** The human-resource functional department and its four roles in developing and driving the growth of a business (Malaysia's book.)
 
+**HRM part.** The concepts of human resource management (HRM): managing the people side of the business as its own function (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people, people at work, people at work. Your companion asks one question back — answer it from the lesson.

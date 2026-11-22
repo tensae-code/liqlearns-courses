@@ -121,6 +121,8 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Cards and electronic payment.** Credit cards and EFTPOS as payment methods: bank credit cards (Visa, Mastercard) against non-bank cards (Diners Club, American Express), buying now and repaying the card company later, and EFTPOS as electronic funds transfer at point of sale with a PIN (Samoa's book.)
 
+**Financial system part.** The Bhutanese financial system and its intermediaries: banking institutions that accept deposits and advance various types of loans and offer other financial services, and the functions of financial institutions (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade, banking services for trade. Your companion asks one question back — answer it from the lesson.

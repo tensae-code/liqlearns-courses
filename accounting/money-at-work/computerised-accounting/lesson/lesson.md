@@ -32,6 +32,10 @@ QuickBooks as a specialist accounting application: it automates bookkeeping (ent
 
 **Development part.** The development of the accounting process from the manual system to computerised accounting software (such as UBS), now used widely (Malaysia's book.)
 
+**Spreadsheet chart of accounts part.** Accounting on a spreadsheet: the chart of accounts set up in MS Excel (account titles and numbers — Property, Plant and Equipment 100 with Land and Buildings 100.1, Machinery 100.2, Vehicles 100.3; Intangible Assets 101…) (Bhutan's book.)
+
+**Spreadsheet payroll part.** Payroll on a spreadsheet: preparing the payroll in MS Excel with the lookup function, every employee given a unique identity number (EID) to generate the required information (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: computers in accounting (Samoa's cost/resources way of framing it), computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting, computerised accounting. Your companion asks one question back — answer it from the lesson.

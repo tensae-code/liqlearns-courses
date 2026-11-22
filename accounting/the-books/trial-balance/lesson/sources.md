@@ -1,6 +1,6 @@
 # Sources — The Trial Balance
 
-countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece, Malaysia
+countries: Kenya, Samoa, Zambia, Indonesia, Tanzania, Greece, Malaysia, Bhutan
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -18,6 +18,8 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 
 **Book 7:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
+**Book 8:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | trial balance part of the lesson | Book 1 (Kenya Business Form 3), printed p. 137 |
@@ -32,9 +34,10 @@ Principles of Accounts — Teaching Module, Form 1 – Term 3 (teacher guide) �
 | the final-trial-balance part of the lesson | Book 6 (Logistikes Efarmoges G EPAL), printed pp. 183–184 |
 | trial balance part | Book 7 (Prinsip Perakaunan T4), printed p. 188 |
 | correction part | Book 7 (Prinsip Perakaunan T4), printed p. 215 |
+| preparing a trial balance; what it proves | Book 8 (Accountancy XI), printed p. 104 |
 
-**Acceptance count: taught in 6 countries (Kenya, Samoa, Indonesia, Tanzania, Greece, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Kenya, Samoa, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
 
 Teacher-guide evidence: this lesson also carries evidence from Zambia's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Zambia is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece, malaysia
+Searchable tags: the trial balance, the books, accounting, kenya, samoa, zambia, indonesia, tanzania, greece, malaysia, bhutan

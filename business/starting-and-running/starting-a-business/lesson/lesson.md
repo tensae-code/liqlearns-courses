@@ -55,6 +55,10 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Planning part.** Planning a new business through the four stages of becoming an entrepreneur: obtaining the opportunity, seeking information, obtaining resources and carrying out the business strategy, identifying which government and non-government agencies can help at each stage (Malaysia's book.)
 
+**Startups part.** Startups: what a startup is as a form of new business organisation (Bhutan's book.)
+
+**Pre-operating part.** Estimating pre-operating expenses before the business opens: business plan preparation, business registration, loan application and approval, contracting with suppliers of material, trial production and recruitment, each costed in a table (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

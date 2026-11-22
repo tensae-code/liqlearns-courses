@@ -1,6 +1,6 @@
 # Sources — Bank Reconciliation
 
-countries: Malaysia, Samoa, Sudan
+countries: Malaysia, Samoa, Sudan, Bhutan
 
 **Book 1:** Prinsip Perakaunan Tingkatan 5 (Principles of Accounting, Form 5) — the in-hand PDF is the module-format text, organised as Modul 1–7 (student book) — Kementerian Pendidikan Malaysia textbook programme (no publisher imprint leaf survives in this PDF — it opens directly at the Modul 1 opener; PDF metadata: Adobe InDesign CS6 production, created April 2020). Year / edition: not printed on any page present in the PDF (no cover or imprint leaves); KSSM Form 5 text. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 278 PDF pages, printed pp. 1–277 (printed page = PDF page − 1). Source: /home/hatch/workspace/my-wave34/dl/prinsip-perakaunan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Modul 7 concept map, printed p. 277).
 
@@ -10,6 +10,8 @@ countries: Malaysia, Samoa, Sudan
 
 **Book 4:** Business Studies — Year 10, Book Two (student book) — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. Grade: Year 10 (grade-10). Language: English. Page count: 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). Source: manifest `manifests-phase2/samoa.json` n=2; fetched via `fetch_book.py` route `tree`, 897,368 B = expected exactly, to `scratch-phase2/samoa/book-2.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Unit 5 conclusion, printed p. 77). Following the series' own division (as in Year 9 and Year 11), Book 2 is the accounting-side book: Units 3–5 are pure ACCOUNTING; Unit 1 (personal finances) is filed to BUSINESS where it teaches personal budgeting (the Phase-3-built `personal-finance-and-budgeting`) and to ACCOUNTING where it teaches payslips, source documents and the personal statement of affairs; Unit 2's payment methods are filed to COMMERCE `banking-services-for-trade` and its cheque-account records and reconciliation to ACCOUNTING.
 
+**Book 5:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | main part | Book 1 (Prinsip Perakaunan T5), printed p. 74 |
@@ -17,7 +19,9 @@ countries: Malaysia, Samoa, Sudan
 | bank reconciliation | Book 3 (Commercial Science G11 (Sudan)), printed pp. 66–67 |
 | the cheque-account record | Book 4 (Bus Studies Y10 Bk2), printed p. 34 |
 | bank reconciliation, personal form | Book 4 (Bus Studies Y10 Bk2), printed p. 37 |
+| bank statement concept | Book 5 (Accountancy XI), printed p. 134 |
+| bank reconciliation preparation | Book 5 (Accountancy XI), printed p. 140 |
 
-**Acceptance count: taught in 3 countries (Malaysia, Samoa, Sudan)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Malaysia, Samoa, Sudan, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: bank reconciliation, the books, accounting, malaysia, samoa, sudan
+Searchable tags: bank reconciliation, the books, accounting, malaysia, samoa, sudan, bhutan

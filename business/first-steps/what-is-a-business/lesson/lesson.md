@@ -81,6 +81,10 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Interrelation part.** How the four ideas interlock: the goods/services offered, the form of ownership, the classification and the scale of a business are chosen together and shape one another (Malaysia's book.)
 
+**Opening part.** Business defined, with its objectives classified as economic, social and national objectives (Bhutan's book.)
+
+**Classification part.** Classifying business activity: industry (the producing side) set against commerce (the distribution side) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors, what a business is / kinds of business. Your companion asks one question back — answer it from the lesson.

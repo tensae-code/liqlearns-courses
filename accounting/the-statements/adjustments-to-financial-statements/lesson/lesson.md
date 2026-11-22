@@ -80,6 +80,18 @@ A business pays a full year's insurance on the first day of its year. Should the
 
 **Adjusted statements part.** Financial statements with adjustments (Penyata Kewangan dengan Pelarasan): the statements must be prepared again after taking into account all the adjustments at the end of the accounting period; the adjusted trial balance is used to prepare them, manually or with computer software such as Excel — worked in full for Perniagaan Hamizah, the Trading and Profit & Loss Account carrying every adjusted item (commission including the unearned portion, general expenses including the unpaid portion, bad debts, doubtful debts, depreciation on the vehicle and on the office equipment) (Malaysia's book.)
 
+**Capital vs revenue expenditure.** Capital expenditure separated from revenue expenditure, and why identifying capital and revenue items correctly matters to the financial information (Bhutan's book.)
+
+**Bad debts.** Bad debts: what happens when a credit customer defaults even after a series of reminders, and the need to provide for debts that will not be collected (Bhutan's book.)
+
+**Subsequent expenditure.** Subsequent expenditure after acquisition: the costs of maintaining an item of PPE through its useful life and whether they are capitalised or expensed (Bhutan's book.)
+
+**Revaluation.** Revaluation of property, plant and equipment: the revaluation surplus taken to equity, with the journal entries for a revalued building and its depreciation (Bhutan's book.)
+
+**Provisions part.** Provisions: the types of obligation (legal/contractual against constructive), the obligating event, and when a provision is recognised (Bhutan's book.)
+
+**Guarantees and onerous contracts part.** Provisions worked through guarantees and onerous contracts: a guarantee given creates the obligating event, and a provision is recognised when it becomes probable that resources will be transferred to settle it (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: accrual vs cash basis (the matching idea), why adjustments are made, accruals, prepayments, accrued income, income in advance, closing stock valuation, capital vs revenue expenditure, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements, adjustments to financial statements. Your companion asks one question back — answer it from the lesson.

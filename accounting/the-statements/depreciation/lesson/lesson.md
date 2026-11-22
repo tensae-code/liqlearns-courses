@@ -39,6 +39,10 @@ Diminishing (reducing) balance method: a fixed rate on the falling book value, s
 
 **Disposal part.** Disposal of non-current assets for cash (Pelupusan Aset Bukan Semasa secara Tunai): the reasons for disposal (the asset has no value at the end of its useful life, an old asset is exchanged for a new one, the asset is destroyed by natural disaster, the asset is sold) and the methods (sold for cash or on credit, traded in, or donated); the profit or loss on disposal known from the difference between the asset's book value and its selling price; and the recording through the Jurnal Am, the asset account, the accumulated depreciation account and the disposal account, with the profit or loss recorded in the Profit & Loss Account (Malaysia's book.)
 
+**PPE recognition and cost.** Recognition and cost of property, plant and equipment: an item is recognised as an asset only if future economic benefits will probably flow to the entity, and its cost is built up from invoice price (after cash discount), sales tax, transportation, import duties, repair before use and installation (Bhutan's book.)
+
+**Depreciation and carrying amount.** Why depreciation is charged (including retaining funds out of profits for replacement), carrying amount = cost − depreciation expense, and the accumulated depreciation account maintained as a contra-asset (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation, depreciation. Your companion asks one question back — answer it from the lesson.

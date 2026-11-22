@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Rules and Responsibility · **Lesson:** Business Ethics and Responsibility
 **Place in the curriculum:** Unit 4 — Rules and Responsibility (CURRICULUM.md).
 **The one thing this lesson teaches:** a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business.
-**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 23 of 25 in the course ladder; it stands on Business Law and Regulation, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 24 of 26 in the course ladder; it stands on Business Law and Regulation, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Ethics part; Ethics part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Ethics part; Ethics part; Ethics part.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a factory with clean water running past it and workers, customers and neighbours all drawn around it as people the factory must answer to → the student names each group in the picture and one responsibility the business owes that group.

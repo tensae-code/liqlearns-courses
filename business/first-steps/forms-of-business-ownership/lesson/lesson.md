@@ -111,6 +111,10 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Entities part.** Business entities in accounting: an organisation defined as a group of people working together with commitment to a shared purpose, and the four types compared in a table — Milikan Tunggal (sole proprietorship: profit and loss enjoyed and borne fully by the owner), Perkongsian (partnership: profit or loss shared among the partners), Syarikat Berhad (company) and Koperasi (cooperative: profit distributed to its members) (Malaysia's book.)
 
+**Sole proprietorship part.** The sole proprietorship: the owner's liability is always personal and unlimited, extending even to his private assets, with minimal legal formalities for starting and dissolving (Bhutan's book.)
+
+**Companies part.** Companies under the Companies Act of Bhutan 2016: the private company (name ending 'Private Limited' / 'Pvt. Ltd') against the public company the Act authorises (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.

@@ -55,6 +55,12 @@ List everything a small shop near you owns — its stock, its counter, its cash.
 
 **Revenue, expenses and drawings in the equation.** The expanded accounting equation: revenue increases proprietorship and expenses decrease it, drawings (cash or goods taken for personal use) decrease it, and repairs to an asset are an expense that does not change the asset's value (Samoa's book.)
 
+**Entity concept and the equation.** The separate legal entity concept first (business separate from owner/shareholder), then the accounting equation built on the definitions of assets, liabilities and equity (Bhutan's book.)
+
+**Transactions and the equation.** Transactions analysed through the equation one by one: starting a coffee shop with a capital contribution of Nu. 250,000 (cash asset against owner's claim), then cash and credit purchases rebalancing the equation each time (Bhutan's book.)
+
+**Accrued and deferred items.** Revenue − expenses = profit or loss inside the equation (profit increases the owner's claim, loss decreases it), and accrued and deferred items in the equation: accrued expenses increase liability and decrease capital, rent received in advance is a liability (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: everything a business has (its assets) comes from somewhere: from the owner (capital) or from outsiders (liabilities) — so assets always equal capital plus liabilities, and every transaction keeps that balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: assets, liabilities and capital part of the lesson, the accounting equation part of the lesson, statement of financial position in outline, entity types behind the accounts, the accounting equation, transactions and the equation, the accounting equation. Your companion asks one question back — answer it from the lesson.

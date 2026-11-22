@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** First Steps · **Lesson:** What Is Accounting
 **Place in the curriculum:** Unit — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part.
-**This lesson's own level:** Unit — First Steps, lesson 1 of 30 in the course ladder.
+**This lesson's own level:** Unit — First Steps, lesson 1 of 37 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **What accounting is, and who does it** — record keeping; purpose of financial records.
-2. **Who uses accounting information, and the concepts behind it**; What-accounting-is-and-who-uses-it; Where-accounting-comes-from; Accounting-year; Organising-the-accounts-office; Opening part; History part of the proposed lesson; Assumptions part of the proposed lesson; Source documents in personal accounting.
+2. **Who uses accounting information, and the concepts behind it**; What-accounting-is-and-who-uses-it; Where-accounting-comes-from; Accounting-year; Organising-the-accounts-office; Opening part; History part of the proposed lesson; Assumptions part of the proposed lesson; Source documents in personal accounting; What accounting is; Features of accounting; Purposes of accounting; Branches of accounting; Operating cycle; Users and stakeholders; GNH business goals; Bookkeeping vs accounting; Elements and recognition; Accounting standards, Bhutan's way; Qualitative characteristics and accrual; Management accounting purposes.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

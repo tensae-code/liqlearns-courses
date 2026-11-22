@@ -55,6 +55,12 @@ Government-provided services and infrastructure as business conditions: governme
 
 **Producers part.** Local producers and service organisations (people who produce goods and provide services within their community — the farmers at Aleipata, a Women's Committee, Youth Clubs, Rugby Clubs) against national producers (people, groups or organisations who produce goods and services for the wider public) (Samoa's book.)
 
+**Ecosystem part.** The business ecosystem concept (Moore): an economic community supported by a foundation of interacting organisations and individuals, producing goods and services of value to customers (Bhutan's book.)
+
+**Ecosystem-in-Bhutan part.** Why a vibrant business ecosystem is needed, and the entrepreneurship ecosystem in Bhutan described as the country's own environment for new ventures (Bhutan's book.)
+
+**Selection factors part.** The factors weighed when selecting an opportunity, including the economic factors: the purchasing power of the target market determines the demand for the products and services (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business works inside an environment of four kinds — economic, technological, social and political/legal — whose elements press on every decision; and keeping its own surroundings healthy, secure and clean is part of running the business well. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environment, environment. Your companion asks one question back — answer it from the lesson.

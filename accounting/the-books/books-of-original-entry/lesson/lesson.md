@@ -101,6 +101,10 @@ A shopkeeper sells on credit and writes the sale in a notebook the same day, bef
 
 **Returns journals.** The purchases returns journal (returns outwards, from credit notes received) and the sales returns journal (from credit notes issued): the reverse entries that reduce what is owed and what is owing (Samoa's book.)
 
+**Source documents and vouchers.** Source documents and vouchers: the documents behind every transaction (insurance policies, tax returns and the rest), prepared by employees and authorised by the head of the organisation as part of the internal control system, with debit and credit vouchers (Bhutan's book.)
+
+**Discounts.** Trade discount against cash discount: trade discount for bulk orders is deducted from the list price before the invoice price is calculated and is never recorded, unlike cash discount (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: source documents part of the lesson, journals part of the lesson, GST/VAGST in the journals, the journals and their source documents, source documents, journals as books of first entry, books of original entry, the general journal, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry, books of original entry. Your companion asks one question back — answer it from the lesson.

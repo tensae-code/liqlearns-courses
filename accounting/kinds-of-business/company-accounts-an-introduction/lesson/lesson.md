@@ -40,6 +40,22 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Company accounts.** The financial statements of a company: unlike a sole proprietorship, a company (a public company above all) prepares a complete set — statement of financial position, statement of profit or loss and other comprehensive income, statement of cash flows and statement of changes in equity — with the notes to the financial statements (disclosure notes) presenting the basis of preparation and the… (Tanzania's book.)
 
+**Types of financial statements.** The types of financial statements: the income statement (statement of profit or loss) reporting performance over a period, presented by function of expense with real Bhutanese company examples (NRDCL), beside the statement of financial position (Bhutan's book.)
+
+**Financial instruments part.** Financial instruments: a contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another, with the entries for a bond held to maturity (interest on the financial asset, repayment at maturity) (Bhutan's book.)
+
+**Debt finance part.** Raising debt finance in Bhutan's own market: the Dungsam Cement Corporation's third series bond of Nu. 1.5 billion at an 8% coupon rate, and the loan-account entries (drawdown, repayment split between finance cost and liability) (Bhutan's book.)
+
+**Reserves part.** Reserves: created by transferring profits, governed by the company's financial-management policies and attitude to risk, and not available to pay dividends to shareholders (Bhutan's book.)
+
+**Bonus shares and presentation part.** Bonus shares: issuing bonus shares to keep up the company's dividend culture (worked from a company that raised Nu. 200 million as 20 million shares at Nu. 10), and the presentation of equity and debt finance in the financial statements — paid-up share capital, reserves and retained earnings under the equity heading (Bhutan's book.)
+
+**Adjusted trial balance part.** Preparing a limited company's statements: writing up the adjusted trial balance from the trial balance, with the adjusting entries recapitulated (accruals — accrued income and accrued expenses — under the accrual basis the framework requires) (Bhutan's book.)
+
+**Share disclosures part.** What a company discloses about its shares: the number of shares authorised and the number issued, shown in the statement of financial position, the statement of changes in equity or the notes (Bhutan's book.)
+
+**Changes in equity part.** The statement of changes in equity: accumulated profit brought forward, plus profit after tax, less dividend paid, gives the accumulated profit carried forward (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.

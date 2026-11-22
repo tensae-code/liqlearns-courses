@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** Money at Work · **Lesson:** Investment Accounts
 **Place in the curriculum:** Unit — Money at Work (CURRICULUM.md).
 **The one thing this lesson teaches:** an investment account records a holding of shares or fixed-interest securities in three columns — nominal value, capital and income — so the cost of the holding, the income it earns and the profit or loss on selling it are never mixed up.
-**This lesson's own level:** Unit — Money at Work, lesson 30 of 30 in the course ladder; it stands on Computerised Accounting, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Money at Work, lesson 37 of 37 in the course ladder; it stands on Computerised Accounting, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

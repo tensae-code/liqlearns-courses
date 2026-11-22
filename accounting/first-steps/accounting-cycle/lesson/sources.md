@@ -1,6 +1,6 @@
 # Sources — The Accounting Cycle
 
-countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia
+countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan
 
 **Book 1:** Business Studies — Year 11, Book Two (student book) — Lili Tuioti with subject committee — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004 with minor amendments; designed/typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-046-8. Year / edition: 2003, reprint 2004. Grade: Year 11 (grade-11). Language: English. Page count: 102 pages (printed page = PDF page − 1). Source: /home/hatch/workspace/.phase3-incoming/samoa/Bus-Studies-Year-11-Book-2.pdf. Verdict: COMPLETE — read whole book to the last teaching page (Unit 7 ends printed p. 98).
 
@@ -18,6 +18,8 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia
 
 **Book 8:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
+**Book 9:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
+
 | Lesson part | Where it comes from |
 |---|---|
 | the accounting cycle as a whole | Book 1 (Bus Studies Y11 Bk2), printed p. 96 |
@@ -34,9 +36,10 @@ countries: Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia
 | the closing-the-month part of the lesson | Book 7 (Logistikes Efarmoges G EPAL), printed pp. 119–120 |
 | the year-end-sequence part of the lesson | Book 7 (Logistikes Efarmoges G EPAL), printed pp. 178–179 |
 | cycle part | Book 8 (Prinsip Perakaunan T4), printed p. 2 |
+| the accounting cycle as a whole | Book 9 (Accountancy XI), printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 7 countries (Samoa, Indonesia, Sudan, Tanzania, Greece, Malaysia, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia
+Searchable tags: the accounting cycle, first steps, accounting, samoa, indonesia, sudan, tanzania, greece, malaysia, bhutan

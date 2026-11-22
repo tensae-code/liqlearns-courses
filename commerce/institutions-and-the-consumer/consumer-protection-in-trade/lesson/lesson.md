@@ -31,6 +31,14 @@ Remember a time a bought thing was not what it promised — too light, fake, or 
 
 **Sales and advertising part.** Sales and advertising for the wise buyer: a store holds a sale because it is not selling enough, or not fast enough, or needs cash quickly, or the goods will go out of style or spoil — so a careful shopper can find real bargains at a sale; and advertising studied from the buyer's side, including finding an advertisement you think is misleading (Samoa's book.)
 
+**Protection part.** Consumer protection: its concept and need — protecting consumers from unscrupulous, unethical, unfair and deceptive practices of business entities, with appropriate redress, remedies or compensation for aggrieved consumers (Bhutan's book.)
+
+**Rights part.** The rights and responsibilities of consumers set out as a pair (Bhutan's book.)
+
+**Unfair practices part.** Misleading and false representation as an unfair trade practice: a practice adopted by a supplier, manufacturer or service provider to promote sales by misrepresenting the goods or services (Bhutan's book.)
+
+**Redressal part.** The consumer grievance redressal mechanism: how an aggrieved consumer's complaint is taken up and resolved (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the consumer at the end of the chain needs protecting — against deceptive advertising, fake brands, health hazards and short weight — and the protection stands in three layers: the consumer's own rights, the laws, and the bodies that enforce them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why consumers need protecting, consumerism, rights and redress, nigeria's protective laws, regulatory measures behind the laws. Your companion asks one question back — answer it from the lesson.

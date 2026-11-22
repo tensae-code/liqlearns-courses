@@ -18,6 +18,12 @@ Internal and external communication: the communication process (sender, channel,
 
 **Interaction part.** How the functional departments relate and interact: the flow of information between departments (sender creates the message, receivers act on it), the flow of goods and services between businesses, orders received by the sales unit, and supplier invoices received and paid by the finance department (Malaysia's book.)
 
+**Communication part.** The concepts of business communication and the principles and skills of effective business communication: effective communication fosters rapport within the organisation and with stakeholders and raises productivity (Bhutan's book.)
+
+**Correspondence part.** Business correspondences: the written instruments of business, including minutes of meeting (the written resolutions agreed on the agendas, documented for compliance and later action) and the quotation (the supplier's correspondence listing specifications, prices, quantities and modes of payment) (Bhutan's book.)
+
+**Negotiation part.** Etiquette in business communication, and negotiation: the concepts of negotiation, the negotiation process, and effective cross-cultural negotiation (patience named as a negotiator's need) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: inside a firm, people communicate in writing, in speech, electronically and by gesture — and the messages flow downward from managers, upward from workers, and laterally between departments and people at the same level. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: communication. Your companion asks one question back — answer it from the lesson.

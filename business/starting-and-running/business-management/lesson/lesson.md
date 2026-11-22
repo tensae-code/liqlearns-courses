@@ -159,6 +159,12 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Small-vs-large part.** The same functional departments interacting in a small business against a large one: in the small business the sales department deals with customers directly and departments combine functions (Malaysia's book.)
 
+**Stakeholders part.** Managing stakeholders: who the stakeholders are, intermediaries (distribution firms, marketing agencies, resellers, financial intermediaries) among them, and the roles each stakeholder plays (Bhutan's book.)
+
+**Management part.** The concept of management and its importance: achievement of goals, optimum utilisation of resources, optimising cost, segregation of roles and responsibilities, meeting market demands and serving stakeholders' expectations (Bhutan's book.)
+
+**Org plan part.** The organisational and management plan as a business-plan component: it describes the legal form of the business and depicts the organisational structure (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills, business management. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — The Cash Flow Statement
 
-countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania
+countries: Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages, printed pp. i–vi + 1–260 (printed page = PDF page − 12 in the body). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 7 model business plans end at printed p. 246; back matter follows).
 
@@ -20,6 +20,10 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 
 **Book 7:** Accountancy for Advanced Secondary Schools — Student's Book, Form Five (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). ISBN 978-9987-09-605-3. Grade: Grade 12 (Form Five, Advanced Secondary). Language: English. Page count: 346 PDF pages (printed pp. xiv + 1–331; body teaching printed pp. 1–319, glossary printed pp. 320–326; printed page = PDF page − 15). Source: manifest manifests-phase2/tanzania.json n=0; fetched via fetch_book.py, route release, 8,852,157 bytes (= expected_bytes), to scratch-phase2/tanzania/accountancy.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Ten ends printed p. 319; glossary, bibliography and index follow).
 
+**Book 8:** Accountancy, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. Grade: Class XI (grade-11). Language: English (amounts in ngultrum, Nu.). Page count: 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). Source: manifest `manifests-phase2/bhutan.json` n=0; fetched via `fetch_book.py` route `release`, 5,407,543 B = expected exactly, to `scratch-phase2/bhutan/acct-xi.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 8 ends printed p. 244; Questions for Practice and assessment apparatus follow). A pure ACCOUNTING strand book.
+
+**Book 9:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Perniagaan T5), printed p. 181 |
@@ -31,7 +35,9 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 | reporting and forecasting cash | Book 6 (Small Projects), printed p. 75 |
 | the cash flow statement | Book 6 (Dasar-Dasar Akuntansi X), printed pp. 103–107 |
 | the cash flow statement | Book 7 (Accountancy Form Five), printed pp. 188–203 |
+| cash flow statement | Book 8 (Accountancy XI), printed p. 227 |
+| indirect method part | Book 9 (Accountancy XII), printed p. 201 |
 
-**Acceptance count: taught in 7 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine, Indonesia, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania
+Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine, indonesia, tanzania, bhutan

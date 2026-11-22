@@ -31,6 +31,8 @@ Think of the last thing you bought because something persuaded you. Was it a per
 **Aids to trade.** Auxiliaries to trade, 6 — advertisement and promotion, named among the helpers of trade (Nepal's book.)
 **Advertising and sales promotion.** The promotional mix and advertising: promotion informs, reminds and persuades customers and can lift sales volume at a given price or win a first trial; advertising is paid for by the sponsor through media — newspapers, television, magazines, direct mail, radio, e-mail, billboards and digital platforms — and advertisements are classified by medium (Tanzania's book.)
 
+**Promotion mix part.** The elements of the promotion mix: advertising (informing the public about an idea, goods or services through a paid announcement by an identified sponsor, to promote sales) and sales promotion beside the other elements (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the four forms compared, personal selling and public relations, sales promotion, consumer and trade, advertising, advertising and sales promotion. Your companion asks one question back — answer it from the lesson.

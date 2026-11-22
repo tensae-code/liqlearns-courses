@@ -34,6 +34,8 @@ The accounting cycle closed out: preparing the financial statements and the repo
 
 **Cycle part.** The complete accounting cycle in its eight stages, including the adjustment stage (adjustments made in the Jurnal Am and posted to the ledger — revenue and expense adjustments, depreciation, allowance for doubtful debts, omitted entries), the adjusted trial balance (testing the accuracy of double entry after adjustment) and the closing entries (closing all revenue and expense accounts through the Jurnal Am and ledger) (Malaysia's book.)
 
+**The accounting cycle as a whole.** The process of accounting drawn as the full cycle: identification of transactions → recording in journal → posting to ledger → trial balance → adjusted trial balance → preparation of financial statements → analysis, interpretation and reporting, with rectification of errors inside the cycle (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.

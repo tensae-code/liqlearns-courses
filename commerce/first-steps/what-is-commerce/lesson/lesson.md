@@ -27,6 +27,8 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **What-trade-is.** Trade (εμπόριο) defined: the set of acts by which goods pass from producer to consumer; its nature and object, and why an intermediary trade stage exists between production and consumption at all (Greece's book.)
 
+**Commerce part.** Commerce taught whole: trade classified as home trade and foreign trade (import, export, entrepot), and wholesale against retail; and the aids to trade that remove the hindrances of commerce, with logistics named (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade, what commerce is, what commerce is. Your companion asks one question back — answer it from the lesson.

@@ -1,6 +1,6 @@
 # Sources — Business Communication
 
-countries: Nigeria, Dominica, Malaysia
+countries: Nigeria, Dominica, Malaysia, Bhutan
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -10,6 +10,8 @@ countries: Nigeria, Dominica, Malaysia
 
 **Book 4:** Perniagaan Tingkatan 4 (Business, Form 4) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Zaiton binti Hussin, Zakiyah binti Jalun, Mokhtar bin Pet — Al Hidayah House of Publishers Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2016, © Kementerian Pendidikan Malaysia 2016, ISBN 978-967-439-277-2, No. Siri Buku 0104. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 275 PDF pages, printed pp. i–x + 1–264 (printed page = PDF page − 16 in Bab 1–2, drifting to − 14 by Bab 3–4; citations below use the book's own Contents printed starts, spot-verified against page footers). Source: manifest `manifests-phase2/malaysia.json` n=2; fetched via `fetch_book.py` route `release-search`, 28,676,809 B = expected exactly, to `scratch-phase2/malaysia/perniagaan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 4 ends printed p. 222; the Kertas Kerja Projek section follows). Contents map: Tajuk 1 Tujuan Perniagaan — Bab 1 purpose and ownership of business, Bab 2 current trends in business; Tajuk 2 Organisasi Perniagaan — Bab 3 setting vision, mission and objectives, Bab 4 the main functional departments of a business organisation; Kertas Kerja Projek Perniagaan (project-paper guidance and one complete worked example). Strand split: the book is BUSINESS throughout, except the distribution-channels part filed to COMMERCE and the break-even part filed to ACCOUNTING under the split rule.
 
+**Book 5:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | communication part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 58 |
@@ -17,7 +19,10 @@ countries: Nigeria, Dominica, Malaysia
 | negotiation part | Book 3 (Pengajian Keusahawanan T4), printed p. 96 |
 | communication part | Book 3 (Pengajian Keusahawanan T4), printed p. 100 |
 | interaction part | Book 4 (Perniagaan T4), printed p. 206 |
+| communication part | Book 5 (Business and Entrepreneurship XI), printed p. 123 |
+| correspondence part | Book 5 (Business and Entrepreneurship XI), printed p. 128 |
+| negotiation part | Book 5 (Business and Entrepreneurship XI), printed p. 138 |
 
-**Acceptance count: taught in 3 countries (Nigeria, Dominica, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Nigeria, Dominica, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia
+Searchable tags: business communication, starting and running, business, nigeria, dominica, malaysia, bhutan

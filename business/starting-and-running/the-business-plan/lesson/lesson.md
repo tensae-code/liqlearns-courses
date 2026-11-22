@@ -83,6 +83,12 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Worked-model part.** One complete worked project paper profiling a real small sole-trader business (Rimbun Sejadi Enterprise): its vision, mission and objectives, business profile, organisation chart and functional departments written out in the set format (Malaysia's book.)
 
+**Plan and users part.** What a business plan is and who uses it: the entrepreneurs themselves are the foremost users (pitching their ideas to win support from stakeholders), and market analysis inside the plan shows the gap between existing supply and demand on which projected sales rest (Bhutan's book.)
+
+**Projections part.** The projected statements inside the financial plan: templates for the projected statement of financial position and the projected statement of cash flows with operating, investing and financing activities segregated year by year (Bhutan's book.)
+
+**Pitching part.** Business plan pitching: developing a comprehensive plan matters, but the entrepreneur's ability to pitch it matters even more for garnering support; the pitch deck and using the competitive analysis inside the pitch to show the business understands its competition (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Market and Money · **Lesson:** Production and Operations
 **Place in the curriculum:** Unit 3 — Market and Money (CURRICULUM.md).
 **The one thing this lesson teaches:** production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold.
-**This lesson's own level:** Unit 3 — Market and Money, lesson 16 of 25 in the course ladder; it stands on Marketing, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 3 — Market and Money, lesson 17 of 26 in the course ladder; it stands on Marketing, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Production — combining the factors** — business-functions; production and operations; combining the factors in production; specialisation and division of labour; factors of production; capital in production; types and levels of production; supply chains and logistics.
 2. **The size of a firm — scale, economies and diseconomies** — scale; scale; scale; productivity; productivity challenges in the Caribbean; linkages and the effects of growth; distribution problems.
 3. **Managing physical and technology resources** — opening; procedures; technology-resources.
-4. **Resource management and the business's productivity** — application; comparison; closing; supply chain management and competitiveness; how production works; quality in production; planning production; how production serves the customer; kinds of production; the physical side of production; what the business makes or does; how production works / siting; Producing-to-a-contract; What-production-is; Goods-vs-services-production; Bidding-with-a-production-plan; Production-plan; Resources part; Resources part; R&D-and-purchasing part; Production-department part; Product-development part; Stages part; Summary part.
+4. **Resource management and the business's productivity** — application; comparison; closing; supply chain management and competitiveness; how production works; quality in production; planning production; how production serves the customer; kinds of production; the physical side of production; what the business makes or does; how production works / siting; Producing-to-a-contract; What-production-is; Goods-vs-services-production; Bidding-with-a-production-plan; Production-plan; Resources part; Resources part; R&D-and-purchasing part; Production-department part; Product-development part; Stages part; Summary part; Operations part; Supply chain part; Inventory part; Production types part; Estimation part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

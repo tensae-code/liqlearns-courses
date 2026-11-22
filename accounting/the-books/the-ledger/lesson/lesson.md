@@ -67,6 +67,10 @@ A shop sells to ten customers on credit, buys from four suppliers, and pays rent
 
 **Ledger part.** The ledger (Lejar): the main book of accounts, in which the account is a summary of the business's transactions; the account forms, including the running-balance column form (date, particulars, folio, debit, credit, balance — the balance updated after every transaction); and the division of ledgers into the general ledger (Lejar Am) and the special/subsidiary ledgers (Lejar Jualan, Lejar Belian), with the function of each (Malaysia's book.)
 
+**Day books and subsidiary ledgers.** The subsidiary books and ledgers: transactions first recorded in the sales day book, then kept in the individual customers' personal accounts in the receivables ledger as memorandum accounts outside the double-entry system, with purchases and returns day books beside them (Bhutan's book.)
+
+**Posting journal to ledger.** Posting: transferring the transactions recorded in the journal into the relevant ledger accounts, following the set procedure, and balancing accounts (balance c/d and b/d) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the ledger is the main book of accounts: one account for each item, where every transaction is classified and summarised so the balance of any item can be found at any date. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the ledger part of the lesson, recording in the ledger part of the lesson, balancing part of the lesson, subsidiary ledgers and the chart of accounts, function of the ledger, posting journals to the ledger, posting preparation, ledger forms and the chart of accounts, the ledger, the ledger, the ledger. Your companion asks one question back — answer it from the lesson.

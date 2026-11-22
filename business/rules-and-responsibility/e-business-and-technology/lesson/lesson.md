@@ -87,6 +87,8 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 
 **IT-use part.** The use of information technology across the business: its purposes (smoother operations, better decisions, widening the market to global level without borders) and e-banking as online banking that makes paying bills, investing and checking faster and cheaper (Malaysia's book.)
 
+**Trends part.** Other trends in business: e-business (conducting business by electronic gadgets and internet; the e-commerce models B2B, B2C and C2B, with a Bhutanese e-commerce firm as the B2C example, and Amazon/Alibaba integrating machine learning and AI) and business process outsourcing (BPO/ITES, with Bhutan's BIABPO as its promotional body) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.

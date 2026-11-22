@@ -99,6 +99,8 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **Profiles-in-practice part.** Malaysia's own worked role-model profiles of national entrepreneur figures (a diversified corporate figure, the founder of a low-cost airline, and an internet-business figure) showing background, push factors and success in full (Malaysia's book.)
 
+**Competencies part.** The Personal Entrepreneurial Competencies (PECs) an entrepreneur is rated on: opportunity seeking, persistence, commitment to the work contract, demand for quality and efficiency, risk taking, goal setting, information seeking and the rest of the profile (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

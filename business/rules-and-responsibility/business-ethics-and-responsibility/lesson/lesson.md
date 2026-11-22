@@ -57,6 +57,8 @@ Green technology and sustainable business practice: green technology and sustain
 
 **Ethics part.** Ethics toward the other parties: suppliers (a trusted supplier as the business's key asset), the environment (preservation and the 5R concept), workers (fair pay), society, religion and the nation (Malaysia's book.)
 
+**Ethics part.** Ethical business practices and social responsibilities: ethics as society's accepted moral values and conduct, ethical behaviour improving public image, consumer satisfaction and stakeholder trust, and the business's social responsibility to meet society's claims and expectations (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility, business ethics. Your companion asks one question back — answer it from the lesson.

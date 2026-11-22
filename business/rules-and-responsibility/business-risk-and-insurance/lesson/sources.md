@@ -1,6 +1,6 @@
 # Sources — Business Risk and Insurance
 
-countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia
+countries: Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan
 
 **Book 1:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
@@ -15,6 +15,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 
 **Book 4:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
 
+**Book 5:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | principles of insurance | Book 1 (Principles of Business for CSEC), printed pp. 150–155 |
@@ -27,9 +29,12 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | business risk | Book 4 (Entrepreneurship S1), printed p. 16 |
 | business risk | Book 4 (Entrepreneurship S1), printed p. 16 |
 | protection part | Book 4 (Pengajian Keusahawanan T4), printed p. 131 |
+| risk concepts part | Book 5 (Business and Entrepreneurship XI), printed p. 81 |
+| risk process part | Book 5 (Business and Entrepreneurship XI), printed p. 83 |
+| internal control part | Book 5 (Business and Entrepreneurship XI), printed p. 87 |
 
-**Acceptance count: taught in 6 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Dominica, Ecuador, Nepal, Palestine, Uganda, Malaysia, Bhutan)** — every book above is a student book, so each country counts.
 
 Filed name note: this lesson was held as expected-from-pending in the registry (`business-risk-and-insurance`); Dominica's book is the first read book to place it, so it is built now, in Rules and Responsibility, where TITLES.md names its place. (Insurance as a service that helps trade lives in Commerce's Insurance in Commerce.)
 
-Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia
+Searchable tags: business risk and insurance, rules and responsibility, business, dominica, ecuador, nepal, palestine, uganda, malaysia, bhutan

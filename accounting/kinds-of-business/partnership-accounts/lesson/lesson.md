@@ -26,6 +26,12 @@ Two friends run a shop together — one put in more money, one works longer hour
 
 **Distributing-the-result.** Distributing the result in the partnership: the year's net result is gathered through the results accounts; a loss is carried to the "balance of losses carried forward" account, where it stands reducing the firm's own capital and may be set off against future profits, while a profit is distributed as the articles of partnership provide (Greece's book.)
 
+**Partnership agreement part.** The partnership firm runs on mutual trust, value and commitment, so the partnership agreement is crucial for resolving the issues that arise in normal operations (Bhutan's book.)
+
+**Revaluation and admission part.** Revaluation when the firm changes: the argument over revaluing assets on a new partner's admission (deviation from historical cost against the new partner's interest) and the capital transfers between partners' capital accounts (Bhutan's book.)
+
+**Dissolution part.** Dissolution: payment from partnership assets, assets taken over by partners (Partner's Capital Dr. to Realisation), and the realisation account entries (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: partners share what the business earns by agreement: the appropriation account divides profit through interest on capital, salaries and the agreed ratio, and each partner's capital and current accounts keep their claims apart. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, appropriation part, equity and final-accounts part, dissolution part, partners' capital accounts, partners' current accounts and profit sharing. Your companion asks one question back — answer it from the lesson.

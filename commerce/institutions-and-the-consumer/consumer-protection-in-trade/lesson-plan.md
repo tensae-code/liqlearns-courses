@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Why consumers need protection — and their rights** — consumer protection.
 2. **The laws and the measures behind them**
-3. **The protection bodies — government and voluntary**; Fair-trading-and-consumer-protection; Bulk buying part; Sales and advertising part.
+3. **The protection bodies — government and voluntary**; Fair-trading-and-consumer-protection; Bulk buying part; Sales and advertising part; Protection part; Rights part; Unfair practices part; Redressal part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** The Books · **Lesson:** Books of Original Entry
 **Place in the curriculum:** Unit — The Books (CURRICULUM.md).
 **The one thing this lesson teaches:** before anything reaches the ledger, each transaction is first written, in time order, in a book of original entry — a journal fed by a source document that proves the transaction happened.
-**This lesson's own level:** Unit — The Books, lesson 5 of 30 in the course ladder.
+**This lesson's own level:** Unit — The Books, lesson 5 of 37 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Source documents — the evidence every record starts from**
-2. **The journals — first record, in time order**; the books; Journal; Supporting-documents; Books-a-business-keeps; Categories-of-books; Classical-system; Centralised-system; Set-of-books; No-entry-without-a-document; Daily-preparation; Recording-documents; Filing-documents; Documents part; Source documents part; Discounts part; Non-source part; Prime entry part; General journal part; Special journals part; Cash journals and receipts; Journals as books of first entry; Sales and purchases journals; Returns journals.
+2. **The journals — first record, in time order**; the books; Journal; Supporting-documents; Books-a-business-keeps; Categories-of-books; Classical-system; Centralised-system; Set-of-books; No-entry-without-a-document; Daily-preparation; Recording-documents; Filing-documents; Documents part; Source documents part; Discounts part; Non-source part; Prime entry part; General journal part; Special journals part; Cash journals and receipts; Journals as books of first entry; Sales and purchases journals; Returns journals; Source documents and vouchers; Discounts.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

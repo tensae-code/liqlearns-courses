@@ -1,6 +1,6 @@
 # Sources — Computerised Accounting
 
-countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia
+countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -16,6 +16,8 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia
 
 **Book 7:** Prinsip Perakaunan, Tingkatan 4 (KSSM / MPEI) (student book) — Kementerian Pendidikan Malaysia (the KPM textbook programme; the ISBN prefix 978-967-525 is Dewan Bahasa dan Pustaka's). Year / edition: the imprint leaf is not present in this scan (the file runs cover → contents → Bab 1), so no publisher's imprint, author list or printing year could be read from the file; **ISBN 978-967-525-127-6**, price RM13.50 and code FT384001 read from the back cover. Grade: Tingkatan 4 (Form 4 / grade-10). Language: Malay. Page count: 310 PDF pages; printed page = PDF page − 3 (folio-verified at printed pp. 42, 250, 252, 259, 266, 272, 275, 277, 286, 291, 296, 300); printed pp. iii–iv + 1–306 plus covers. Source: manifest `manifests-phase2/malaysia.json` n=0; fetched via `fetch_book.py` route `release-search`, 99,818,198 B = expected exactly, to `scratch-phase2/malaysia/prinsip-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book, all 9 chapters (Bab). Method note, stated plainly: the book is an image-only scan with no text layer. Bab 1–7 and the front/back matter were read via OCR of the page renders (252 pages); mid-read, a VM restart removed the OCR tool from the machine, so Bab 8–9 were read visually from the renders — every section opener, the teaching continuations and both chapters' Rumusan (summary) pages (printed pp. 250, 252, 255, 259, 262, 266, 272, 275, 277, 280, 286, 291, 296, 300) — the remaining Bab 8–9 pages being the worked-example continuations and the chapters' Aktiviti Pengayaan / Latihan apparatus named in the exclusions. An ACCOUNTING book throughout; its two business parts (the profession/careers part of §1.1 and the business-entities part of §1.5) are filed to BUSINESS under the split rule.
 
+**Book 8:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
 | Lesson part | Where it comes from |
 |---|---|
 | computers in accounting (Samoa's cost/resources way of framing it) | Book 1 (Accounting Year 12), printed p. 91 |
@@ -30,9 +32,11 @@ countries: Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia
 | the computerised-accounting part of the lesson | Book 6 (Logistikes Efarmoges G EPAL), printed pp. 187–188 |
 | the using-accounting-software part of the lesson | Book 6 (Logistikes Efarmoges G EPAL), printed pp. 189–190, 202–207 |
 | development part | Book 7 (Prinsip Perakaunan T4), printed p. 11 |
+| spreadsheet chart of accounts part | Book 8 (Accountancy XII), printed p. 301 |
+| spreadsheet payroll part | Book 8 (Accountancy XII), printed p. 305 |
 
-**Acceptance count: taught in 6 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
+**Acceptance count: taught in 7 countries (Samoa, Dominica, Indonesia, Tanzania, Greece, Malaysia, Bhutan)** — the student books above count for their countries; the teacher guide named above is evidence only (acceptance 0) and adds no country.
 
 Teacher-guide evidence: this lesson also carries evidence from Indonesia's teacher guide named above — a teacher guide is evidence only, acceptance 0; Indonesia counts in this lesson through its student book.
 
-Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia
+Searchable tags: computerised accounting, money at work, accounting, samoa, dominica, indonesia, tanzania, greece, malaysia, bhutan

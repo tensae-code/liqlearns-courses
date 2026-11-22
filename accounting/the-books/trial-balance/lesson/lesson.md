@@ -31,6 +31,8 @@ The trial balance lists the balanced ledger accounts to check that total debit b
 
 **Correction part.** Correcting a trial balance (Pembetulan Imbangan Duga): working through a trial balance that contains several errors and putting each right (Malaysia's book.)
 
+**Preparing a trial balance; what it proves.** The trial balance: its main objective is to check the arithmetical accuracy of what was recorded in the journal and posted to the ledger, prepared from the balanced ledger accounts (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a trial balance lists every ledger account's debit balance and credit balance at a date; if double entry was kept, the two columns agree — and agreement checks the arithmetic, not everything. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trial balance part of the lesson, preparing a trial balance; what it proves and does not, the trial balance, the trial balance. Your companion asks one question back — answer it from the lesson.

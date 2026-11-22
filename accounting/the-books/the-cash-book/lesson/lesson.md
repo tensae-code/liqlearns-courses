@@ -44,6 +44,12 @@ Count the money a small business touches in one day: cash in from sales, cash ou
 
 **Petty cash imprest.** Petty cash: a small imprest fund kept in the office for items too small for a cheque (stamps, taxi fares, stationery), controlled by one person and reimbursed by cheque back up to the imprest amount (Samoa's book.)
 
+**Purposes of cash management.** Why a business manages and holds cash: taking advantage of profitable opportunities (falls in raw-material or fuel prices), ensuring timely payment of dividends, meeting unforeseen events and contingencies, and making investments (Bhutan's book.)
+
+**Double column cash book.** The double column cash book: its format (receipts Dr. / payments Cr., with cash and bank columns and journal folios) and how it is prepared (Bhutan's book.)
+
+**Petty cash imprest.** The petty cash book on the imprest system: the petty cashier is given a fixed imprest amount by the finance officer and reimbursed back up to it, analysed into postage, stationery, carriage, telephone and travelling columns (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the cash book is the business's own record of its cash and bank money — receipts on one side, payments on the other — kept apart because most transactions pass through cash or bank. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cash book part of the lesson, petty cash part of the lesson, cash receipts journal, cash payments journal, the cash book. Your companion asks one question back — answer it from the lesson.

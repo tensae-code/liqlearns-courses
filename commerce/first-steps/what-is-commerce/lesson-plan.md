@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Distribution — bridging the gap between producer and consumer** — origins of trade and exchange.
-2. **The aids to trade** — money in trade; opening / the parts of business; what commerce is; What-trade-is.
+2. **The aids to trade** — money in trade; opening / the parts of business; what commerce is; What-trade-is; Commerce part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

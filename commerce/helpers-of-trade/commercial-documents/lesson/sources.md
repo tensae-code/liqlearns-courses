@@ -1,6 +1,6 @@
 # Sources — Commercial Documents
 
-countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece
+countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -17,6 +17,8 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece
 **Book 7:** Λογιστικές Εφαρμογές (Τήρηση Βιβλίων Γ΄ Κατηγορίας) — Logistikes Efarmoges (Accounting Applications — Keeping Third-Category Books), Γ΄ ΕΠΑ.Λ. (3rd year of EPAL), Τομέας Διοίκησης και Οικονομίας; specialities: Administration & Financial Services Clerk, Warehouse & Supply Systems Clerk, Commerce & Advertising Clerk; Βιβλίο Μαθητή (student book) — Petros Michos (educator PE9 – economist), Nikolaos Serdaris (economist, Dr, University of Athens), Marianna Katsifioti (educator PE9 – economist); written under the aegis of the Pedagogical Institute — Ministry of Education, Religions and Sports / Institute of Educational Policy; published by ΙΤΥΕ «Διόφαντος»; book code 0-24-0210; ISBN 978-960-06-2985-9. No year is printed on the title/imprint pages of this copy (digital layout files dated 2021). Grade: Grade 12 (G΄ EPAL). Language: Greek. Page count: 258 PDF pages (printed pp. 1–257; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=1; fetched via fetch_book.py, route release-search, 18,586,486 bytes = expected_bytes exactly, to scratch-phase2/greece/logistikes-efarmoges-g.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, chapter by chapter, to the last page (Ch. 9's account lists end printed p. 252; bibliography follows).
 
 **Book 8:** Σύγχρονες Συναλλαγές (Sygchrones Synallages — Modern Transactions), Β΄ ΕΠΑ.Λ. (2nd year of EPAL), Βιβλίο μαθητή (student book), Τομέας Διοίκησης και Οικονομίας (Administration and Economics sector) (student book) — Nikolaos Thomopoulos (economist) and Miltiadis Kanavos (educator PE9 – economist) — Ministry of Education / Institute of Educational Policy; published by Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (ΙΤΥΕ «Διόφαντος»); book code 0-24-0480; ISBN 978-960-06-4872-0. No year is printed on the title/imprint pages of this copy (digital reissue; layout files dated 2021). Grade: Grade 11 (B΄ EPAL). Language: Greek. Page count: 218 PDF pages (printed pp. 1–217; printed page = PDF page − 1). Source: manifest manifests-phase2/greece.json n=2; fetched via fetch_book.py, route tree, 3,650,519 bytes = expected_bytes exactly, to scratch-phase2/greece/sygchrones-synallages-b.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole, unit by unit, to the last teaching page (e-commerce unit ends printed p. 213; bibliography printed p. 214).
+
+**Book 9:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,7 +41,8 @@ countries: Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece
 | the order-note part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed pp. 61–62 |
 | the invoice part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed pp. 63–64 |
 | the receipts part of the lesson | Book 8 (Sygchrones Synallages B EPAL), printed pp. 76–79 |
+| documents part | Book 9 (Business and Entrepreneurship XI), printed p. 11 |
 
-**Acceptance count: taught in 7 countries (Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Nigeria, Kenya, Malaysia, Dominica, Sudan, Tanzania, Greece, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: commercial documents, helpers of trade, commerce, nigeria, kenya, malaysia, dominica, sudan, tanzania, greece
+Searchable tags: commercial documents, helpers of trade, commerce, nigeria, kenya, malaysia, dominica, sudan, tanzania, greece, bhutan

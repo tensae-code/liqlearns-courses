@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** Rules and Responsibility · **Lesson:** Business Risk and Insurance
 **Place in the curriculum:** Unit 4 — Rules and Responsibility (CURRICULUM.md).
 **The one thing this lesson teaches:** insurance is the pooling of risk: many people pay a premium into one pool, and the pool pays the one who suffers the loss — it holds together only under its principles (utmost good faith, insurable interest, indemnity and the rest), and a business chooses the policy that matches each risk it faces.
-**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 21 of 25 in the course ladder; it stands on Personal Finance and Budgeting, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 4 — Rules and Responsibility, lesson 22 of 26 in the course ladder; it stands on Personal Finance and Budgeting, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -11,7 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
 
 1. **Principles of insurance** — principles of insurance.
-2. **Types of business insurance** — types of business insurance; risk in one's own business; business risk; Protection part.
+2. **Types of business insurance** — types of business insurance; risk in one's own business; business risk; Protection part; Risk concepts part; Risk process part; Internal control part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

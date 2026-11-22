@@ -171,6 +171,14 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Finance-department part.** The finance functional department: financial management as planning, organising, directing and controlling all financing and spending, managing assets and liabilities so the business stays sustainable, and allocating limited funds to activities that generate profit (Malaysia's book.)
 
+**Capital structure part.** The concept of business finance and the factors affecting capital structure, including the cost of raising capital: the cost of capital determines the types of securities to be issued, and the cost of equity is generally higher than the cost of debt (Bhutan's book.)
+
+**Projections part.** Projected financial statements and their analysis: what the analysis of projected statements reveals about future cash flows, profitability and financial position (Bhutan's book.)
+
+**Financial plan part.** The financial plan as a business-plan component: estimating the funds required to conduct the proposed business, determining the sources of finance and arranging them (Bhutan's book.)
+
+**Financing options part.** The financing plan's options for raising the total project cost: own investment, funds from friends and family, and loans from banks (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.

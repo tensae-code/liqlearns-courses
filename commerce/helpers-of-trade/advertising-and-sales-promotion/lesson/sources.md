@@ -1,6 +1,6 @@
 # Sources — Advertising and Sales Promotion
 
-countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania
+countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan
 
 **Book 1:** Commerce for Senior Secondary Schools 3 (student book) — M. O. Odedokun, P. C. Udokogu & C. O. N. Oguji — Longman Nigeria Plc (Longman), Ikeja, Lagos. First published 1990; New edition 2011 (© Longman Nigeria Plc 1990, 2011); ISBN 978 978 026 754 4 (as filed in the placements file — see the ISBN flag in ABOUT.md). Grade: Senior Secondary 3 (SS3, grade-12 equivalent). Language: English. Page count: 232 PDF pages (main text printed pp. 1–222). Source: /home/hatch/workspace/phase3-staging/grade-12/approved-private/nigeria/commerce-student-textbook.pdf. Verdict: COMPLETE — whole book read to the last teaching page (Ch. 17 ends printed p. 222).
 
@@ -15,6 +15,8 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania
 
 **Book 6:** Commerce for Secondary Schools — Student's Book, Form Three (student book) — Tanzania Institute of Education (TIE). Year / edition: Published 2023 (© Tanzania Institute of Education 2023). Grade: Grade 10 (Form Three). Language: English. Page count: 167 PDF pages (printed pp. iv–viii + 1–154; body teaching printed pp. 1–150, glossary printed pp. 151–153; printed page = PDF page − 9). Source: manifest manifests-phase2/tanzania.json n=1; fetched via fetch_book.py, route tree, 12,281,194 bytes (= expected_bytes), to scratch-phase2/tanzania/commerce.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book (clean text layer) to the last teaching page (Chapter Five ends printed p. 150; glossary and bibliography follow).
 
+**Book 7:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | promotion part of the lesson | Book 1 (Nigeria Commerce SS3), printed p. 86 |
@@ -28,7 +30,8 @@ countries: Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania
 | promoting goods | Book 4 (Emprendimiento y Gestión 3), printed p. 88 |
 | aids to trade | Book 5 (Business Studies Cl. 11), printed p. 14 |
 | advertising and sales promotion | Book 6 (Commerce Form Three), printed pp. 43–47 |
+| promotion mix part | Book 7 (Business and Entrepreneurship XI), printed p. 115 |
 
-**Acceptance count: taught in 6 countries (Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Nigeria, Samoa, Dominica, Ecuador, Nepal, Tanzania, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: advertising and sales promotion, helpers of trade, commerce, nigeria, samoa, dominica, ecuador, nepal, tanzania
+Searchable tags: advertising and sales promotion, helpers of trade, commerce, nigeria, samoa, dominica, ecuador, nepal, tanzania, bhutan

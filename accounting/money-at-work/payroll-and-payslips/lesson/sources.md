@@ -1,6 +1,6 @@
 # Sources — Payroll and Payslips
 
-countries: Samoa, Greece
+countries: Samoa, Greece, Bhutan
 
 **Book 1:** Accounting — Year 12 (student book) — Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), 2004; designed/typeset by Egan-Reid Ltd, Auckland, as part of the Samoa Secondary Education Curriculum and Resources Project, funded by NZAID. ISBN 982-517-066-2. Year / edition: 2004 (in-hand copy; file stamp 26/3/04). Grade: Year 12 (grade-12). Language: English (with Samoan place/business examples). Page count: 111 pages (printed page number = PDF page number). Source: /home/hatch/workspace/.phase3-incoming/samoa/Accounting-Year-12.pdf. Verdict: COMPLETE — read whole book page by page to the last teaching page (Unit 7 ends printed p. 106).
 
@@ -10,13 +10,16 @@ countries: Samoa, Greece
 
 **Book 4:** Business Studies — Year 10, Book Two (student book) — Government of Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004 with minor amendments; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project, NZAID-funded). ISBN 982-517-023-9.. Year / edition: 2002, reprint 2004. Grade: Year 10 (grade-10). Language: English. Page count: 78 pages (verified: pdfinfo 78; byte size verified 897,368 B). Source: manifest `manifests-phase2/samoa.json` n=2; fetched via `fetch_book.py` route `tree`, 897,368 B = expected exactly, to `scratch-phase2/samoa/book-2.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Unit 5 conclusion, printed p. 77). Following the series' own division (as in Year 9 and Year 11), Book 2 is the accounting-side book: Units 3–5 are pure ACCOUNTING; Unit 1 (personal finances) is filed to BUSINESS where it teaches personal budgeting (the Phase-3-built `personal-finance-and-budgeting`) and to ACCOUNTING where it teaches payslips, source documents and the personal statement of affairs; Unit 2's payment methods are filed to COMMERCE `banking-services-for-trade` and its cheque-account records and reconciliation to ACCOUNTING.
 
+**Book 5:** Accountancy, Class XII (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. Grade: Class XII (grade-12). Language: English (amounts in ngultrum, Nu.). Page count: 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). Source: manifest `manifests-phase2/bhutan.json` n=1; fetched via `fetch_book.py` route `release`, 7,640,841 B = expected exactly, to `scratch-phase2/bhutan/acct-xii.pdf` Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends at printed p. ~311; the Assessment unit follows). A pure ACCOUNTING strand book, in three units: Financial Accounting (Chapters 1–9), Cost Accounting (Chapter 10), Management Accounting (Chapters 11–12).
+
 | Lesson part | Where it comes from |
 |---|---|
 | payslips and net pay | Book 1 (Accounting Year 12), printed p. 11 |
 | payslips and overtime | Book 2 (Bus Studies Y11 Bk2), printed p. 10 |
 | the recording-the-payroll part of the lesson | Book 3 (Arches Logistikis B EPAL), printed pp. 124–128 |
 | payslips and net pay | Book 4 (Bus Studies Y10 Bk2), printed p. 6 |
+| payroll records and controls | Book 5 (Accountancy XII), printed p. 49 |
 
-**Acceptance count: taught in 2 countries (Samoa, Greece)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 3 countries (Samoa, Greece, Bhutan)** — every book above is a student book, so each country counts.
 
-Searchable tags: payroll and payslips, money at work, accounting, samoa, greece
+Searchable tags: payroll and payslips, money at work, accounting, samoa, greece, bhutan

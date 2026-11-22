@@ -3,7 +3,7 @@
 **Course:** Business · **Title:** First Steps · **Lesson:** Forms of Business Ownership
 **Place in the curriculum:** Unit 1 — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow.
-**This lesson's own level:** Unit 1 — First Steps, lesson 5 of 25 in the course ladder; it stands on Creativity and Innovation, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 1 — First Steps, lesson 5 of 26 in the course ladder; it stands on Creativity and Innovation, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The private forms — sole trader, partnership, company** — opening; first-types; company; forms of ownership; sole trader; partnerships; types of company.
 2. **Forming and registering the business** — registration; formation; legal forms and registration (samoa's way); forming a company.
 3. **Choosing the form — and the size it sets** — choosing; size-and-scale.
-4. **Public ownership — government in business** — state/public ownership; state/public ownership; state/public ownership; state/public ownership; public and private sectors; franchises; cooperatives; choosing a form; forms of ownership / registering a company; forms of ownership / choosing; Legal-forms; Forming-a-partnership; Articles-of-partnership; Formation-law part; Opening part; Sole-proprietorship part; Partnership part; Company part; Franchise part; Joint-venture part; Entities part.
+4. **Public ownership — government in business** — state/public ownership; state/public ownership; state/public ownership; state/public ownership; public and private sectors; franchises; cooperatives; choosing a form; forms of ownership / registering a company; forms of ownership / choosing; Legal-forms; Forming-a-partnership; Articles-of-partnership; Formation-law part; Opening part; Sole-proprietorship part; Partnership part; Company part; Franchise part; Joint-venture part; Entities part; Sole proprietorship part; Companies part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

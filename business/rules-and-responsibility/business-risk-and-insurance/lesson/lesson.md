@@ -27,6 +27,12 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 **Business risk.** What risk is, and its types: a risk is a situation where one must choose between two or more alternatives which may result in differing rewards for success or penalties for failure; business risk is the factors that may negatively affect a business's profitability or success; (Uganda's book.)
 **Protection part.** Protection as a part of the financial plan: insurance or takaful bought to protect the entrepreneur, family and property against death, accident, theft and fire, and to keep the business running without fear of the risks (Malaysia's book.)
 
+**Risk concepts part.** The concepts of risk management: identifying and handling the risks a business faces as a discipline of its own (Bhutan's book.)
+
+**Risk process part.** The process of risk management drawn as the full loop: communication and consultation running alongside scope/context/criteria, risk identification, risk analysis, risk evaluation, risk treatment, monitoring and review, and recording (Bhutan's book.)
+
+**Internal control part.** The internal control system: its three primary objectives — efficiency and effectiveness in operations (minimising wastage, misutilisation and theft) and the reliability and compliance objectives beside them (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is the pooling of risk: many people pay a premium into one pool, and the pool pays the one who suffers the loss — it holds together only under its principles (utmost good faith, insurable interest, indemnity and the rest), and a business chooses the policy that matches each risk it faces. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: principles of insurance, types of business insurance. Your companion asks one question back — answer it from the lesson.

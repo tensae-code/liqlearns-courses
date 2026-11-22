@@ -1,6 +1,6 @@
 # Sources — Business Ethics and Responsibility
 
-countries: Kenya, Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Palestine, Indonesia, Guatemala
+countries: Kenya, Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Palestine, Indonesia, Guatemala, Bhutan
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -27,6 +27,8 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 
 **Book 10:** Pengajian Keusahawanan Tingkatan 4 (Entrepreneurship Studies, Form 4) — Mata Pelajaran Elektif Teknikal (MPET) (student book) — Nuradli Ridzwan Shah Mohd Dali, Ummi Salwa Ahmad Bustamam, Hanifah Abdul Hamid — Aras Mega (M) Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2019, © Kementerian Pendidikan Malaysia 2019, ISBN 978-967-2212-62-1, No. Siri Buku 0160. Grade: Tingkatan 4 (Form 4). Language: Malay. Page count: 260 PDF pages, printed pp. iii–iv + 1–252 (printed page = PDF page − 8 in the body). Source: manifest `manifests-phase2/malaysia.json` n=1; fetched via `fetch_book.py` route `release-search`, 24,320,520 B = expected exactly, to `scratch-phase2/malaysia/keusahawanan-t4.pdf` (renamed from the helper's `full-year.pdf` after fetch) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 5 solutions material ends printed p. 229; summaries/reflection/exercises and back matter follow). All content is the BUSINESS strand except the cooperative-agencies part filed to COMMERCE `trade-organisations-and-institutions` and the hire-purchase Act filed to COMMERCE `credit-and-hire-purchase` under the split rule. Contents map: Bab 1 Pengenalan Keusahawanan (history/concepts/resources); Bab 2 Pembangunan Keusahawanan (roles, entrepreneur profiles, government & non-government agencies); Bab 3 Pembentukan Keperibadian Usahawan (self-development, basic skills, financial-management basics); Bab 4 Etika Keusahawanan dan Perundangan (ethics, business legislation, licences/permits/certificates); Bab 5 Strategi dan Persekitaran Keusahawanan (strategy, business life cycle, business environment).
 
+**Book 11:** Business and Entrepreneurship, Class XI (student book) — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file.. Grade: Class XI (grade-11). Language: English. Page count: 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). Source: manifest `manifests-phase2/bhutan.json` n=2; fetched via `fetch_book.py` route `tree`, 4,490,496 B = expected exactly, to `scratch-phase2/bhutan/biz-xi.pdf` (renamed from the helper's `full-year.pdf` after fetch; the Class XII fetch first overwrote this filename, so this book was re-fetched and its bytes re-verified before reading) Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Chapter 12 ends printed p. ~150; the Assessment chapter follows). A BUSINESS subject book, split part by part: its commerce chapters and parts are filed to COMMERCE under the split rule.
+
 | Lesson part | Where it comes from |
 |---|---|
 | environmental responsibility part of the lesson | Book 1 (Kenya Business Form 3), printed p. 33 |
@@ -49,8 +51,9 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | the social-ends part of the lesson (teacher guide) | Book 9 (Emprendimiento para la Productividad III (Guatemala)), printed pp. 75–76 |
 | ethics part | Book 10 (Pengajian Keusahawanan T4), printed p. 144 |
 | ethics part | Book 10 (Pengajian Keusahawanan T4), printed p. 148 |
+| ethics part | Book 11 (Business and Entrepreneurship XI), printed p. 14 |
 
-**Acceptance count: taught in 9 countries (Kenya, Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Palestine, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 10 countries (Kenya, Malaysia, Nigeria, Dominica, Ecuador, Nepal, Nicaragua, Palestine, Indonesia, Bhutan)** — every book above is a student book, so each country counts.
 Teacher-guide evidence: this lesson also carries evidence from Guatemala's teacher guide named above — a teacher guide is evidence only, acceptance 0, and Guatemala is not counted in the teaching countries in the acceptance line above.
 
-Searchable tags: business ethics and responsibility, rules and responsibility, business, kenya, malaysia, nigeria, dominica, ecuador, nepal, nicaragua, palestine, indonesia, guatemala
+Searchable tags: business ethics and responsibility, rules and responsibility, business, kenya, malaysia, nigeria, dominica, ecuador, nepal, nicaragua, palestine, indonesia, guatemala, bhutan

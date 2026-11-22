@@ -101,6 +101,16 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **Summary part.** The unit's summary: the four factors of production (land, labour, capital and entrepreneurship) are essential in the production of goods; consumers' needs and wants are met through the process of production and supply; and the signals about what goods should be produced often depend on the country's economic system (Samoa's book.)
 
+**Operations part.** The concept of operations: the operations flow of a service firm distinguished from a manufacturing firm (Bhutan's book.)
+
+**Supply chain part.** The concept of supply chain: inbound logistics and material management on the way in, outbound logistics and physical distribution from manufacturer to customers, with the flows of goods and information (Bhutan's book.)
+
+**Inventory part.** Inventory management: keeping and valuing inventory, worked through a small trader's purchases and sales of books across a month to value the stock held at the end (Bhutan's book.)
+
+**Production types part.** The operations plan: production types for the plan, including batch production (identical items produced in groups where demand is known, repetitive production) (Bhutan's book.)
+
+**Estimation part.** Estimating what the operations need: the direct materials requirement estimation table (materials to cover sales volume and finished-goods stock, quantities and amounts in Nu.) and the indirect expenses of operations (insurance, electricity, depreciation, taxes and duties) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

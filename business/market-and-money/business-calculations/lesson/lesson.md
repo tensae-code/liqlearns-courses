@@ -67,6 +67,8 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Profit-calculation part.** Maximising profit through efficiency: total revenue = price × quantity, total cost = fixed cost + variable cost (variable cost per unit × quantity), and the highest profit from maximising revenue while minimising cost (Malaysia's book.)
 
+**Project costing part.** Project costing and the projected cost sheet: the pro forma cost sheet set out year by year (Years 1–3) with total cost and cost per unit (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.

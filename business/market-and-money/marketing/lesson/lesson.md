@@ -131,6 +131,18 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Marketing part.** The market defined — a situation or place where buyers and sellers meet and exchange goods or services for money — and marketing studied through a producer interview: the company's marketing strategy, the five factors a producer looks at to make his products attractive, and consumer satisfaction and the result of creating greater consumer satisfaction (Samoa's book.)
 
+**Marketing part.** The concepts of marketing and the marketing mix (Bhutan's book.)
+
+**Creative brief part.** The creative brief: the document that sets out what a promotion must say and achieve (Bhutan's book.)
+
+**Modern marketing part.** Traditional against modern marketing concepts: modern marketing as marketing goods and services using the internet and disruptive technologies, social media marketing among its techniques (Bhutan's book.)
+
+**Market analysis part.** Market analysis defined: analysing an industry or market for its attractiveness and the needs of its customers, as the first half of the market analysis and marketing plan (Bhutan's book.)
+
+**Target market part.** The target market segment: the customer group the business plans to sell to, toward which its marketing efforts and campaigns are directed (Bhutan's book.)
+
+**Marketing plan part.** Competitor and product strategy analysis (what special features make competitors' products sellable), and setting the marketing goals and objectives (awareness, sales, market share) with the strategies to achieve them (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation, marketing, marketing, marketing. Your companion asks one question back — answer it from the lesson.

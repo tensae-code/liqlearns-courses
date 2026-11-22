@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The four forms of promotion** — sales promotion and public relations.
 2. **Sales promotion — the short push**
-3. **Advertising — the paid message** — advertising; promoting goods; aids to trade.
+3. **Advertising — the paid message** — advertising; promoting goods; aids to trade; Promotion mix part.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

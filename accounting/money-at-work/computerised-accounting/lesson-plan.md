@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** Money at Work · **Lesson:** Computerised Accounting
 **Place in the curriculum:** Unit — Money at Work (CURRICULUM.md).
 **The one thing this lesson teaches:** computers process accounting the same way hands do, only faster: source documents are coded by the chart of accounts, and accounting packages produce the ledgers, trial balance, reconciliations and statements.
-**This lesson's own level:** Unit — Money at Work, lesson 29 of 30 in the course ladder.
+**This lesson's own level:** Unit — Money at Work, lesson 36 of 37 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -29,7 +29,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
-6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Development part.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md); Development part; Spreadsheet chart of accounts part; Spreadsheet payroll part.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE — a picture of a desk split in two: on one side a hand-written ledger, on the other a computer screen showing the same ledger produced by an accounting package, with source documents coded before entry — the student names one thing the computer does and one thing the person must still do

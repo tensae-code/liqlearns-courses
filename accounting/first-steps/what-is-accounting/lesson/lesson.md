@@ -96,6 +96,30 @@ Think of the last money decision you made — to spend, to save, to borrow. Now 
 
 **Source documents in personal accounting.** The source documents that evidence a budget's income and expenditure: the pay advice slip for income, and bills such as the Samoa Water Authority invoice with its payment slip for spending (Samoa's book.)
 
+**What accounting is.** Accounting as the system that captures transactions and events (sales, purchases, payments) and processes the data into information useful to owners, managers, suppliers, government and others with an interest in the business (Bhutan's book.)
+
+**Features of accounting.** The features of financial accounting: it deals only with transactions of a financial character, and its information serves stewardship — management reporting to investors and stakeholders on its fiduciary duties (Bhutan's book.)
+
+**Purposes of accounting.** Why accounting is kept: finding profit or loss for the period, accountability — investors and stakeholders holding management and the governing board responsible for how efficiently they discharged their duties (Bhutan's book.)
+
+**Branches of accounting.** The three branches distinguished: financial accounting (statements for stakeholders — income statement, statement of financial position, cash flow statement, changes in equity), management accounting (measuring, analysing and reporting for managers) and cost accounting (Bhutan's book.)
+
+**Operating cycle.** The operating cycle: the days a business takes to receive inventory, sell it and collect the cash, and the net operating (cash) cycle as the measure of the business's efficiency (Bhutan's book.)
+
+**Users and stakeholders.** Users of accounting information divided into internal and external users, and the main areas of stakeholder interest (directors' fiduciary duties, employees' remuneration and development, and the rest) (Bhutan's book.)
+
+**GNH business goals.** Bhutan's own way: business in Bhutan is guided by the principles of GNH (Gross National Happiness), and GNH-based business goals are named among the stakeholder interests accounting serves (Bhutan's book.)
+
+**Bookkeeping vs accounting.** Bookkeeping defined against accounting: the art/science of recording business transactions systematically in the books of account (Rosen Kampff and Carter definitions quoted) (Bhutan's book.)
+
+**Elements and recognition.** The elements of the financial statements and their recognition: assets (current — expected to be realised within 12 months — against non-current), liabilities as present obligations from past events, equity as the residual interest split into capital, retained earnings and reserves, and income including unrealised gains (Bhutan's book.)
+
+**Accounting standards, Bhutan's way.** Accounting standards: codified written rules for financial accounting, their development in Bhutan (projected in the Public Finance Act 2007), and the Bhutanese Accounting Standards and BFRS issued up to January 2024 (BAS 1 Presentation of Financial Statements, BAS 2 Inventories, BAS 7 Statement of Cash Flows…) (Bhutan's book.)
+
+**Qualitative characteristics and accrual.** The qualitative characteristics of financial statements (verifiability — data that any knowledgeable person can objectively verify — neutrality and the rest) and the accrual basis: revenue accounted in the year earned and expenses in the year incurred, whether or not the cash has moved (Bhutan's book.)
+
+**Management accounting purposes.** Management accounting introduced: it plays a crucial role in helping organisations achieve their financial and operational objectives through effective planning, decision-making and control (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: accounting is the system that records a business's money transactions, sorts and summarises them into statements, and analyses them so the people who use the information can decide — and book-keeping, the systematic recording, is its first part. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part of the lesson, opening part, users-of-information part, uses part, concepts part of the lesson, opening / what accounting is, who does accounting / specialisations, users of accounting information, financial vs non-financial information, source documents in everyday life, accounting con, what accounting is, the standards accounting follows, what accounting is for, who uses accounting information, the concepts accounting rests on, what accounting is, what accounting is, what accounting is, the framework accounting follows, who uses accounting information, the principles accounting rests on. Your companion asks one question back — answer it from the lesson.

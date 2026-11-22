@@ -18,6 +18,10 @@ Take one ordinary thing at home — a cup, a bag, a stool. First be creative on 
 
 **Creativity part.** Creativity defined as the ability to create, produce and develop a new and original idea, and the creative entrepreneur's product as something not yet on the market (Malaysia's book.)
 
+**Concepts part.** Imagination, creativity, innovation and entrepreneurship defined and interrelated: imagination as envisioning what was not perceived before, creativity as using imagination on problems and opportunities, innovation as applying creativity to make changes and create value customers will pay for, and entrepreneurship in the scholars' definitions (Venkataraman and Shane; Timmons; Kuratko and Rao) (Bhutan's book.)
+
+**Creative methods part.** The invention cycle (Seelig): imagination leads through creativity and innovation to entrepreneurship in a cycle, and design thinking as the contemporary creative problem-solving method — working a chosen service area through recipient feedback and iterations, keeping a journal of each stage (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: creativity makes something new through imagination, and innovation does a thing in a different or better way — together they upgrade products and services, solve everyday problems and grow the market. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: creativity, innovation, creativity and innovation, creativity and innovation. Your companion asks one question back — answer it from the lesson.

@@ -40,6 +40,8 @@ A trader sells goods for cash. Two things changed at once: goods went down, cash
 
 **Double-entry rules.** Double entry introduced: the five types of accounts, every transaction affecting at least two accounts with one debited and one credited, and total debits always equalling total credits as the check on the work (Samoa's book.)
 
+**Journal and the debit/credit rules.** The journal as the chronological record of accounting transactions (bookkeeping), the rules of debit and credit, and the types of accounts (liabilities, capital, revenue…) the rules apply to (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every transaction has two sides: for every debit entry there is a corresponding credit entry, so the books always balance. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what double entry records part of the lesson, the dual-effect part of the lesson, debit and credit rules part of the lesson, recording transactions part of the lesson, general journal opening entry; debit and credit rules, double-entry rules, double entry, double entry. Your companion asks one question back — answer it from the lesson.

@@ -34,7 +34,7 @@ incomplete records, control accounts, zakat, branches) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting,
 investment accounts).
-**30 lessons, 433 placements stocked.**
+**37 lessons, 509 placements stocked.**
 
 ## The books read so far
 
@@ -259,11 +259,20 @@ they are named here so the read set is whole.
 
 - *Student Learning Guide — Sāmoa Business Studies Curriculum: Accounting, Year 13* — prepared by Lili Tuioti; Government of Samoa, Ministry of Education, Sports and Culture (MESC) curriculum project; produced by Mahobe Resources NZ Ltd; funded by NZAID. No ISBN and no year printed in the file. **Grade: Year 13. CURRICULUM-MAPPING GUIDE (apparatus). Language: English.** **Verdict: COMPLETE — read whole.** It maps the Year 13 Accounting curriculum to textbooks that are not in hand, so it carries no teaching of its own: **read with zero placements** — nothing in it stocks into any lesson. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Accounting pending queue.) It is named here so the read set stays whole.
 
+
+- *Accountancy, Class XI* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. **Grade: Class XI (grade-11). STUDENT book. Language: English (amounts in ngultrum, Nu.).** 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Accounting pending queue.) It stocked 39 placements into this course.
+
+- *Accountancy, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. **Grade: Class XII (grade-12). STUDENT book. Language: English (amounts in ngultrum, Nu.).** 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in this course’s own Accounting pending queue.) It stocked 36 placements into this course.
+
+- *Business and Entrepreneurship, Class XI* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file. **Grade: Class XI (grade-11). STUDENT book. Language: English.** 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It carries no Accounting part; it is named here so the read set stays whole.
+
+- *Business and Entrepreneurship, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file. **Grade: Class XII (grade-12). STUDENT book. Language: English.** 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It stocked 1 placements into this course.
+
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 30 lessons, stocked with
-  433 placements in all — 423 of them from **student books** of 12 countries (Dominica,
-  Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania) — taught in 12 countries;
+- **Pupil-taught from the books:** all 37 lessons, stocked with
+  509 placements in all — 499 of them from **student books** of 13 countries (Dominica,
+  Ecuador, Greece, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Bhutan) — taught in 13 countries;
   the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
@@ -284,7 +293,7 @@ they are named here so the read set is whole.
 
 ## The pending queue — Accounting books not yet in the course
 
-14 Accounting books are in hand in the library record but were
+12 Accounting books are in hand in the library record but were
 not on disk under the disk hold, so they are UNREAD-PENDING —
 not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -292,9 +301,6 @@ country, copied from the reading log's UNREAD-PENDING queue
 teaching is in this course yet; the course grows when the disk
 hold lifts and they are read.
 
-**Bhutan (2):**
-- [ACCOUNTING · student] Accountancy, Class XI (Grade 11) — secured-not-on-disk
-- [ACCOUNTING · student] Accountancy, Class XII (Grade 12) — secured-not-on-disk
 
 **Fiji (3):**
 - [ACCOUNTING · student] Year 11 Accounting Textbook (amended 2015) (grade-11) — secured-not-on-disk

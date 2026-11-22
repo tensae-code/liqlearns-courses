@@ -48,6 +48,8 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Receipts.** The settlement documents that close a sale: the receipt of collection (απόδειξη είσπραξης), issued by the one who receives, in duplicate from a numbered pad; the receipt of payment (απόδειξη πληρωμής), issued by the payer — the two differing only in issuer and heading — and the collection note (γραμμάτιο είσπραξης) used by large firms (Greece's book.)
 
+**Documents part.** The documents of foreign trade: the letter of credit (the importer's bank's surety that the exporter will be paid, also called letter of undertaking or bank guarantee), the foreign bill of exchange (unconditional order to the importer to pay) and the foreign commercial invoice (the exporter's description of the goods) (Bhutan's book.)
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents, commercial documents, commercial documents, commercial documents, commercial documents. Your companion asks one question back — answer it from the lesson.

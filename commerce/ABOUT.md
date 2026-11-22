@@ -114,12 +114,21 @@ set is whole.
 
 - *Student Learning Guide — Sāmoa Business Studies Curriculum: Accounting, Year 13* — prepared by Lili Tuioti; Government of Samoa, Ministry of Education, Sports and Culture (MESC) curriculum project; produced by Mahobe Resources NZ Ltd; funded by NZAID. No ISBN and no year printed in the file. **Grade: Year 13. CURRICULUM-MAPPING GUIDE (apparatus). Language: English.** **Verdict: COMPLETE — read whole.** It maps the Year 13 Accounting curriculum to textbooks that are not in hand, so it carries no teaching of its own: **read with zero placements** — nothing in it stocks into any lesson. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue.) It is named here so the read set stays whole.
 
+
+- *Accountancy, Class XI* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu. Year / edition: Provisional edition 2024, © 2024 Department of School Education, ISBN 978-99936-0-454-9. **Grade: Class XI (grade-11). STUDENT book. Language: English (amounts in ngultrum, Nu.).** 270 PDF pages, printed pp. 1–264 (printed page = PDF page − 6; the last pages are present-value tables). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) It carries no Commerce part; it is named here so the read set stays whole.
+
+- *Accountancy, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2019, © 2022 CSCD, MoESD; Reprint 2025; ISBN 978-99936-0-464-8. **Grade: Class XII (grade-12). STUDENT book. Language: English (amounts in ngultrum, Nu.).** 339 PDF pages, printed pp. 1–~318 plus the Assessment unit (printed page = PDF page − 7 through the chapters; the Assessment unit's running heads still read "Class XI" — a production carry-over in the book itself, noted here, contents unaffected). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) It carries no Commerce part; it is named here so the read set stays whole.
+
+- *Business and Entrepreneurship, Class XI* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, MoE; Reprint 2025. No ISBN printed in the file. **Grade: Class XI (grade-11). STUDENT book. Language: English.** 169 PDF pages, printed pp. i–viii + 1–~162 (citations use the book's own Contents printed starts, spot-verified against page text). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It stocked 9 placements into this course.
+
+- *Business and Entrepreneurship, Class XII* — Centre for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Thimphu, Bhutan. Year / edition: Provisional Edition 2021, © 2022 CSCD, DSE, MoESD; Reprint 2025. No ISBN printed in the file. **Grade: Class XII (grade-12). STUDENT book. Language: English.** 180 PDF pages, printed pp. III–IV + 1–172 (printed page = PDF page − 8 through the chapters). **Verdict: COMPLETE** — read whole book to the last teaching page. Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.) It carries no Commerce part; it is named here so the read set stays whole.
+
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 220 placements from **student books** of 14
-  countries (Dominica, Ecuador, Greece, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda) —
-  taught in 14 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 229 placements from **student books** of 15
+  countries (Dominica, Ecuador, Greece, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Tanzania, Uganda, Bhutan) —
+  taught in 15 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan

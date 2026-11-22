@@ -15,23 +15,24 @@ The grade a book comes from lives only in each lesson's sources.
 6. Clubs, Societies and Co-operatives — `first-steps/clubs-societies-and-cooperatives/`
 7. Starting a Business — `starting-and-running/starting-a-business/`
 8. The Business Plan — `starting-and-running/the-business-plan/`
-9. Business Management — `starting-and-running/business-management/`
-10. Human Resources in Business — `starting-and-running/human-resources-in-business/`
-11. Careers in Business — `starting-and-running/careers-in-business/`
-12. Business Communication — `starting-and-running/business-communication/`
-13. Small Business Management — `starting-and-running/small-business-management/`
-14. Selling and Customer Care — `starting-and-running/selling-and-customer-care/`
-15. Marketing — `market-and-money/marketing/`
-16. Production and Operations — `market-and-money/production-and-operations/`
-17. Business Finance — `market-and-money/business-finance/`
-18. Capital Markets and the Stock Exchange — `market-and-money/capital-markets-and-stock-exchange/`
-19. Business Calculations — `market-and-money/business-calculations/`
-20. Personal Finance and Budgeting — `market-and-money/personal-finance-and-budgeting/`
-21. Business Risk and Insurance — `rules-and-responsibility/business-risk-and-insurance/`
-22. Business Law and Regulation — `rules-and-responsibility/business-law-and-regulation/`
-23. Business Ethics and Responsibility — `rules-and-responsibility/business-ethics-and-responsibility/`
-24. The Business Environment — `rules-and-responsibility/the-business-environment/`
-25. E-Business and Technology — `rules-and-responsibility/e-business-and-technology/`
+9. Business Model and Canvas — `starting-and-running/business-model-and-canvas/` — NEW, built from Bhutan (Phase 2 merge, 2026-11-22)
+10. Business Management — `starting-and-running/business-management/`
+11. Human Resources in Business — `starting-and-running/human-resources-in-business/`
+12. Careers in Business — `starting-and-running/careers-in-business/`
+13. Business Communication — `starting-and-running/business-communication/`
+14. Small Business Management — `starting-and-running/small-business-management/`
+15. Selling and Customer Care — `starting-and-running/selling-and-customer-care/`
+16. Marketing — `market-and-money/marketing/`
+17. Production and Operations — `market-and-money/production-and-operations/`
+18. Business Finance — `market-and-money/business-finance/`
+19. Capital Markets and the Stock Exchange — `market-and-money/capital-markets-and-stock-exchange/`
+20. Business Calculations — `market-and-money/business-calculations/`
+21. Personal Finance and Budgeting — `market-and-money/personal-finance-and-budgeting/`
+22. Business Risk and Insurance — `rules-and-responsibility/business-risk-and-insurance/`
+23. Business Law and Regulation — `rules-and-responsibility/business-law-and-regulation/`
+24. Business Ethics and Responsibility — `rules-and-responsibility/business-ethics-and-responsibility/`
+25. The Business Environment — `rules-and-responsibility/the-business-environment/`
+26. E-Business and Technology — `rules-and-responsibility/e-business-and-technology/`
 
 ## Held as expected-from-pending (not built — no placements yet)
 
