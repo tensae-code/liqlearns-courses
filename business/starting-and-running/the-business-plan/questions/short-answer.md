@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about purpose of the plan? (Sub lesson 4)
 **Answer:** What the plan is for: it lets the entrepreneur examine the idea in detail — its technical, economic and financial viability — sets out the procedures and strategies to turn the idea into a real business, reduces risks, anticipates problems, gives better control, and shows potential investors the idea is serious and well supported so financing can be obtained
+
+**7.** In your own words, what does this lesson say about writing the plan / goals? (Sub lesson 4)
+**Answer:** The SMART characteristics of an entrepreneurial goal, in the book's own five:

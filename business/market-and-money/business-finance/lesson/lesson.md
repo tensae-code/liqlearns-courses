@@ -38,6 +38,20 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** The map of business credit and its bank sources: loans (and the "triple C" of collateral, creditworthiness, character), overdrafts, bill discounting, debt factoring and acceptance credits.
 
+**Sources of finance.** Medium- and long-term bank loans: medium-term sources fall due after more than a year and up to ten years, long-term after more than ten; (Palestine's book.)
+
+**Sources of finance.** Leasing finance and buying long-term assets by instalments: leasing lets the project obtain the economic services of a fixed asset (land, real estate, trucks, cars, industrial machines) without buying it, for a set period against fixed periodic rent payments — its chief advantage is lifting the risk of technological obsolescence off the project and onto the owning institution; (Palestine's book.)
+
+**Sources of finance.** Borrowing from relatives and friends, and from specialised small-project lenders: (Palestine's book.)
+
+**Sources of finance.** Grants from institutions supporting small projects: many local and international institutions give financial support to small projects, priority usually going to marginalised groups — women supporting their families, young people with special needs, those with orphaned children, the elderly, and those harmed by occupation practices such as isolation by the wall; (Palestine's book.)
+
+**Sources of finance.** Owners' funds (equity): the money the owners themselves put in — the first source for new projects, because borrowing is hard at the start, and the guaranteeing base a going project borrows against, the creditors' protection if the project fails; (Palestine's book.)
+
+**Sources of finance.** The map of financing sources for small projects: financing by ownership from the owners' own funds, financing by borrowing others' money, and grants and assistance from local and international institutions — and every source carries a cost proportionate to the risk the financier bears (Palestine's book.)
+
+**Sources of finance.** Financing and the financing decision: every project needs money, and obtaining the money is financing — providing funds to spend on investments and operations; (Palestine's book.)
+
 **Sources of finance.** Working capital and venture capital: working capital keeps daily operations continuous — regular production, paying suppliers, workers and staff on time, keeping customers satisfied — and venture capital is the start-up capital for new ventures (Nepal's book.)
 
 **Sources of finance.** Financial resources: the money element without which a business cannot be set up or run day to day; equity capital and debt capital, fixed capital and working capital (Nepal's book.)
@@ -104,6 +118,12 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Judging an investment.** Payback period: adding up the projected gains period by period until the sum covers the initial investment, to know how long the entrepreneur waits to recover the money (Ecuador's book.)
 
+**Judging an investment.** The profitability index: a close relative of NPV that works as a ratio between the present value of the inflows and the initial investment, used to judge and rank projects once the net flows are known (Palestine's book.)
+
+**Judging an investment.** Net Present Value: the difference between the present value of the cash inflows and the initial investment, discounting at the required rate of return (the discount rate, which rises with the alternatives available and the project's risk); the decision rule — accept if NPV is zero or positive, reject if negative, and the higher the NPV the better the project when ranking; (Palestine's book.)
+
+**Judging an investment.** Judging the project by its payback period: after the net annual cash flows are calculated, the project's financial feasibility is judged by indicators, the first being the payback period — how long the flows take to return the initial investment (Palestine's book.)
+
 **Judging an investment.** Internal Rate of Return (TIR) (TIC page): calculated with an online calculator from the initial investment and the annual collections and payments; the project is accepted when the TIR beats the minimum rate, and higher-TIR investments are preferred (Ecuador's book.)
 
 **Judging an investment.** The time value of money and Net Present Value (VAN): a dollar today is worth more than a dollar in the future; each projected flow is discounted (12% in the worked example) and the discounted flows are summed against the investment to accept or reject the project (Ecuador's book.)
@@ -113,6 +133,10 @@ List three things a new business must pay for before it earns anything. Beside e
 **Sources of finance / borrowing dangers.** The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal programmes and lenders with backing, and avoid falling into the hands of moneylenders (usureros) (Nicaragua's book.)
 
 **Raising finance.** Reasons for starting a company: limited liability (the investor can lose the investment but not house and land), perpetual succession, the capital-raising facility (shares, debentures and other means raise large sums easily), easy transfer of shares, credibility and reputation, tax exemptions and financial incentives, and expansion opportunities (Nepal's book.)
+
+**Sources of finance / when money is needed.** Financing needs across the project's life: pre-investment needs (studying the idea technically, in the market, financially, environmentally, legally and socially — the costs of the preliminary and detailed feasibility studies, the business plan, document certification, launch advertising, engineering detail and contracts); (Palestine's book.)
+
+**Sources of finance / choosing.** Choosing the financing source — the six determinants: suitability (matching the source's term to the nature of the assets financed — working capital should not be financed long-term, while expansion or a capital asset is financed from owners' funds or a medium/long loan); (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison. Your companion asks one question back — answer it from the lesson.

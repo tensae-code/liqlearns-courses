@@ -1,6 +1,6 @@
 # Sources — Production and Operations
 
-countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua
+countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -22,6 +22,8 @@ countries: Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua
 
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -55,7 +57,9 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | kinds of production | Book 9 (Business Studies Cl. 11), printed p. 8 |
 | the physical side of production | Book 9 (Business Studies Cl. 11), printed p. 42 |
 | what the business makes or does | Book 10 (Guía del Emprendedor), printed p. 7 |
+| how production works | Book 10 (Small Projects), printed pp. 68–69 |
+| how production works / siting | Book 10 (Small Projects), printed p. 70 |
 
-**Acceptance count: taught in 8 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 9 countries (Kenya, Malaysia, Samoa, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine)** — every book above is a student book, so each country counts.
 
-Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua
+Searchable tags: production and operations, market and money, business, kenya, malaysia, samoa, dominica, ecuador, iran, nepal, nicaragua, palestine

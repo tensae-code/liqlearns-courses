@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about reporting past and future cash?
 **Answer:** The annual projected funds flow for the first five years: year 0 shows contributions and loans received against fixed-asset investment and pre-operational spending; years 1–5 summarise the monthly flows with gradual increases
+
+**5.** In your own words, what does this lesson say about reporting and forecasting cash?
+**Answer:** Estimating the project's cash flows: the financial feasibility study is built on all the previous studies;

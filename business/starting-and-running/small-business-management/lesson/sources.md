@@ -1,6 +1,6 @@
 # Sources — Small Business Management
 
-countries: Kenya, Samoa, Dominica
+countries: Kenya, Samoa, Dominica, Palestine
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -10,13 +10,16 @@ countries: Kenya, Samoa, Dominica
 
 **Book 4:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
+
 | Lesson part | Where it comes from |
 |---|---|
 | small firms part of the lesson | Book 1 (Kenya Business Form 3), printed p. 32 |
 | why small businesses succeed or fail | Book 2 (Bus Studies Y11 Bk1), printed p. 21 |
 | buying/running a small business: failure lessons | Book 3 (Bus Studies Y11 Bk2), printed p. 27 |
 | small businesses | Book 4 (Principles of Business for CSEC), printed pp. 184–188 |
+| running a small business | Book 5 (Small Projects), printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Kenya, Samoa, Dominica)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 4 countries (Kenya, Samoa, Dominica, Palestine)** — every book above is a student book, so each country counts.
 
-Searchable tags: small business management, starting and running, business, kenya, samoa, dominica
+Searchable tags: small business management, starting and running, business, kenya, samoa, dominica, palestine

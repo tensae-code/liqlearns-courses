@@ -16,6 +16,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Market research.** Market versus marketing; market research versus the wider marketing research; push and pull promotion strategies.
 
+**Market research.** The market study: the market for the project's products is the basic factor in its success or failure; (Palestine's book.)
+
 **Market research.** Market research as a feature of good management: before producing, establish that buyers exist, that the price still allows acceptable profit, that the market will last, how competition will be handled, that materials supply can be maintained, and that the location suits customers, delivery and visibility.
 
 **Market research.** Market research as the first marketing activity: systematically collecting and analysing information on consumer preferences and market segmentation (dividing the market into groups by age, gender, income etc. to find the target market), consumer behaviour and spending patterns, and competition
@@ -83,6 +85,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 **Knowing the market.** Writing the plan, part 2 — the market and marketing programme: the most important part of the plan; the market study examines the two factors of customers (identifying all of a product's customers) and competitors (their number, abilities and weaknesses), plus the opportunities and barriers to entering the business, and from that information the venture's sales are estimated (Iran's book.)
 
 **Knowing the competition.** Studying the competition: competitors are ventures offering, or able to offer, the same product or service — and a competitor is not an enemy but a source of learning; find out where they are, who their customers are and why they buy, their strengths and weaknesses, their marketing strategies, their suppliers, their distribution channels, their quality and their prices (Nicaragua's book.)
+
+**Market research / selling into the market.** Winning a market share, and the marketing plan: market share is the portion of total demand the project's good or service will take, and fixing it fixes expected sales and the production capacity needed; a project wins share from existing producers through a competitive advantage — distinguishing its product by price (e.g. (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation. Your companion asks one question back — answer it from the lesson.

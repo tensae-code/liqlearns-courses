@@ -67,6 +67,16 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 **Purpose of the plan.** What the plan is for: it lets the entrepreneur examine the idea in detail — its technical, economic and financial viability — sets out the procedures and strategies to turn the idea into a real business, reduces risks, anticipates problems, gives better control, and shows potential investors the idea is serious and well supported so financing can be obtained (Nicaragua's book.)
 
 **Writing the plan / using the money.** The investment plan: it details how the financing will be used — what the money from a credit will be invested in — listing everything the venture needs to start up: equipment and tools, furniture, raw material, infrastructure and work clothing (Nicaragua's book.)
+
+**Writing the plan / goals.** Entrepreneurial goals: a goal is what the entrepreneur seeks to achieve through his project; setting goals is a core leadership task, the cornerstone for measuring management's effectiveness, the first step of sound planning (each goal needs its own detailed execution plan), a motivator that directs workers' efforts, and a standard for follow-up, control and evaluation; (Palestine's book.)
+
+**Writing the plan / goals.** The SMART characteristics of an entrepreneurial goal, in the book's own five: (Palestine's book.)
+
+**The plan / judging the idea first.** The feasibility study and cost–benefit thinking: the investor seeks to maximise his wealth, which happens only when a project's return exceeds its cost — economists' cost–benefit analysis; (Palestine's book.)
+
+**The plan / judging the idea first.** The stages of the investment decision, and preliminary against detailed feasibility: opportunity exists → the idea crystallises → preliminary (initial) feasibility study → detailed feasibility study → evaluation of the investment project → the investment decision → start of implementation; (Palestine's book.)
+
+**The plan / the studies around the project.** The legal and administrative studies that complete the feasibility study: (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

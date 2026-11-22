@@ -1,6 +1,6 @@
 # Sources — The Cash Flow Statement
 
-countries: Malaysia, Samoa, Dominica, Ecuador
+countries: Malaysia, Samoa, Dominica, Ecuador, Palestine
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. Year / edition: First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages, printed pp. i–vi + 1–260 (printed page = PDF page − 12 in the body). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book via its clean text layer to the last teaching page (Bab 7 model business plans end at printed p. 246; back matter follows).
 
@@ -14,6 +14,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 
 **Book 5:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
 
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
+
 | Lesson part | Where it comes from |
 |---|---|
 | the whole of the new lesson | Book 1 (Perniagaan T5), printed p. 181 |
@@ -22,7 +24,8 @@ Readers also filed one placement for this lesson under the proposed name `the-ca
 | cash flow | Book 4 (Principles of Business for CSEC), printed pp. 305–306 |
 | reporting past and future cash | Book 5 (Emprendimiento y Gestión 3), printed p. 116 |
 | reporting past and future cash | Book 5 (Emprendimiento y Gestión 3), printed p. 120 |
+| reporting and forecasting cash | Book 6 (Small Projects), printed p. 75 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Samoa, Dominica, Ecuador)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Malaysia, Samoa, Dominica, Ecuador, Palestine)** — every book above is a student book, so each country counts.
 
-Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador
+Searchable tags: the cash flow statement, the statements, accounting, malaysia, samoa, dominica, ecuador, palestine

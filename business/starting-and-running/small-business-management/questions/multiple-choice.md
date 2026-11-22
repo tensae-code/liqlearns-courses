@@ -19,3 +19,9 @@ d) The concept of digital entrepreneurship.
 **3.** What does this lesson teach about the small businesses?
 a) Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, …  b) The essential elements of a valid contract taught in full: offer (certain, communicated, express or implied; …  c) Insurance vs assurance and life insurance (whole life, endowment); the business policies table — …
 **Answer: a) Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, …** — That is what this lesson teaches in its small businesses part (Dominica's book).
+
+**4.** What does this lesson teach about running a small business?
+a) Something this lesson does not teach.
+b) What makes a project "small": ownership is not separated from management (the owner is the manager), capital…
+c) Something this lesson does not teach.
+**Answer: b) What makes a project "small": ownership is not separated from management (the owner is the manager), capital…** — That is what this lesson teaches in its running a small business part (Palestine's book).

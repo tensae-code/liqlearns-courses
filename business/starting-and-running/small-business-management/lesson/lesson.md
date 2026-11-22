@@ -20,6 +20,7 @@ Find the smallest business near you. Ask (or work out): why is it small — is i
 
 Small businesses and MSMEs in the Caribbean (CARICOM size definitions), cottage industries (home-based, manual, local materials — characteristics, advantages, disadvantages) vs small businesses with premises and paid employees; the functions small businesses perform (jobs, niche and personalised products, competition, choice) and their advantages and disadvantages (easy set-up and flexibility vs skills gaps, difficulty raising finance, inability to match large firms' costs)
 
+**Running a small business.** What makes a project "small": ownership is not separated from management (the owner is the manager), capital is provided by one person or a small group of owners, and the project is small relative to its industry or service sector; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: small firms live beside large ones for real reasons — small markets, personal services, flexibility and the owner's wish to keep control — and they fail most often through mismanagement, so records, groundwork and enough capital decide whether a small business lasts. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: small firms, why small businesses succeed or fail, buying/running a small business: failure lessons. Your companion asks one question back — answer it from the lesson.

@@ -39,6 +39,10 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 **Costing and pricing numbers.** Total cost and unit cost of a product or service: the unit cost is what one unit costs to make, its components differ by type of business, and unit costs fall as production rises, so the venture should find its optimal production level; contribution margin introduced (Ecuador's book.)
 
 **Pricing.** Setting the price: price is the money value of a good or service; to fix it correctly, weigh the objective the price is meant to achieve, how demand behaves when prices change, and the competition's prices — and stay alert to changes in any of these so the price can be adjusted quickly (Nicaragua's book.)
+
+**The numbers behind the market.** Estimating total demand by the per-capita consumption method: total consumption of the good = local production + (imports − exports) + change in stock (closing minus opening stock); average per-capita consumption = total consumption ÷ population in the same year; (Palestine's book.)
+
+**Costing / sizing the need.** Estimating the financing need realistically, and opportunity cost: the financial need arises from the value of the assets the project needs; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price. Your companion asks one question back — answer it from the lesson.

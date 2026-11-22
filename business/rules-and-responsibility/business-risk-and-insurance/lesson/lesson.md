@@ -17,6 +17,8 @@ Imagine ten shopkeepers each put a small amount into a common pot every month. W
 **Risk in one's own business.** The role of insurance in business: risk management (theft, fire, natural disaster, legal cases), business continuity, compliance with insurance law, financial stability (the insurer shares the burden of unexpected losses), protection of employees, building reputation and trust, and help with investment and expansion (Nepal's book.)
 
 **Risk in one's own business.** The concept of business risk: the possibility of loss from unexpected events arising in the course of running a business; estimating such risk in advance and insuring against it is one method of risk management (Nepal's book.)
+
+**Business risk.** The risks of entrepreneurial work and small projects: income is not guaranteed — the owner may not earn large revenues at first and may even lose; the entrepreneur may lose all or part of his investment; high stress from the fear of failure, lost deals and fierce competition; long, exhausting working hours that follow him home; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: insurance is the pooling of risk: many people pay a premium into one pool, and the pool pays the one who suffers the loss — it holds together only under its principles (utmost good faith, insurable interest, indemnity and the rest), and a business chooses the policy that matches each risk it faces. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: principles of insurance, types of business insurance. Your companion asks one question back — answer it from the lesson.

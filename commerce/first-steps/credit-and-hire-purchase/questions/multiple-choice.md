@@ -13,3 +13,9 @@ a) The goods need never be paid for  b) The price disappears  c) When the money 
 **3.** What does this lesson teach about the credit buying?
 a) Buying on terms inside the book's terms-of-sale teaching: credit (price split into payments over under a …  b) Consumer behaviour: price factors (own price, prices of substitutes — close/perfect vs imperfect substitutes) …  c) Terms of sale, each with advantages and disadvantages for buyer and seller: cash, credit, hire purchase, …
 **Answer: a) Buying on terms inside the book's terms-of-sale teaching: credit (price split into payments over under a …** — That is what this lesson teaches in its credit buying part (Dominica's book).
+
+**4.** What does this lesson teach about credit buying?
+a) Something this lesson does not teach.
+b) Trade credit and its instruments: the payment facilities suppliers give the project in goods or raw…
+c) Something this lesson does not teach.
+**Answer: b) Trade credit and its instruments: the payment facilities suppliers give the project in goods or raw…** — That is what this lesson teaches in its credit buying part (Palestine's book).

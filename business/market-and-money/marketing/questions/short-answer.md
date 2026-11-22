@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about branding? (Sub lesson 2)
 **Answer:** Designing the brand's logo: the best logos are simple; the design must be consistent with the message the business wants to send, memorable so consumers remember that you exist and why, and striking enough to stand out from competitors;
+
+**7.** In your own words, what does this lesson say about market research / selling into the market? (Sub lesson 5)
+**Answer:** Winning a market share, and the marketing plan: market share is the portion of total demand the project's good or service will take, and fixing it fixes expected sales and the production capacity needed; a project wins share from existing producers through a competitive advantage — distinguishing its product by price (e.g.

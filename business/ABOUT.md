@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
 Business Studies books of Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia,
-Nepal, Nicaragua, Nigeria and Samoa. The one exception is the **Tip boxes**: a tip in a box is
+Nepal, Nicaragua, Nigeria, Palestine and Samoa. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
 
@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **24 lessons, 452 placements stocked.**
+environment, e-business). **24 lessons, 498 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 17 student
-books in all; the 14 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 18 student
+books in all; the 15 below carry this course (the Business parts
 of each are what stock these lessons). The other 3 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5 and Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2 — are pure accounting
@@ -80,6 +80,9 @@ and they are named here so the read set is whole.
 - *Guía del Emprendedor* — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. **No year or edition printed in the book (undated in print; the "actualizada" edition — PDF created March 2021, MINED source URL dated 2024/08). Grade 7. STUDENT book. Language: Spanish.** 52 PDF pages (printed pp. 1–48). **Verdict: COMPLETE** — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
   - Contents map for this split: Unidad I (La idea, printed pp. 1–2) and Unidad II (Plan de negocios, printed pp. 3–15) fed **Business** (the idea, the plan, brand, customers, competition, organisation, costs and price); Unidad III (Formalización, printed pp. 16–37) fed **Business** (formalising, the VUI one-stop centre, RUC and municipal/sanitary licences, trademark, sector licences) and **Commerce** (1 placement — registering as a state supplier); Unidad IV (Exportaciones, printed pp. 38–43) fed **Commerce** (5 placements — CETREX exporter registration, export documents and logistics); the financial-analysis and income-statement teaching of Unidad II fed **Accounting** (3 placements). In all: **Business** 37 placements, **Commerce** 7, **Accounting** 3, from this book. Exclusions (named, not placed): Presentación and the motivational quote divider pages; the audiovisual-sector pointer page (printed p. 30); the CETREX tariff table (printed p. 43); Directorio de contactos (printed pp. 44–45); Bibliografía y links (p. 46).
 
+- *المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream)* — writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). Adopted for teaching from the school year 2018/2019. **Grade 11 (First Secondary, Entrepreneurship/Riada stream). STUDENT book. Language: Arabic** (lesson titles also given in English). 140 PDF pages (printed pp. 1–136). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; references printed pp. 135–136). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - Contents map for this split: Unit 1 (Introduction to Small Projects, printed pp. 2–26) fed **Business** (what a project is, its kinds, legal forms, Palestine's registration map); Unit 2 (Entrepreneurship, printed pp. 24–52) fed **Business** (entrepreneurship, goals, decision-making, incubators — and the risks of entrepreneurial work, stocked in Business Risk and Insurance); Unit 3 (Feasibility Study, printed pp. 55–105) fed **Business** (the feasibility study, market and technical studies), **Accounting** (2 placements — estimating cash flows; cash flow is not accounting profit) and **Business** finance judging (payback, NPV, profitability index); Unit 4 (Financing Small Projects, printed pp. 106–133) fed **Business** (46 placements in this course, from this book, across the four units), **Commerce** (4 placements — bank loans, trade credit, short-term bank credit, Islamic bank financing) and **Accounting** (1 further placement — the balance sheet as sources and uses of funds). In all: **Business** 46, **Commerce** 4, **Accounting** 3. Exclusions (named, not placed): lesson and unit questions and self-assessments; the student-project feasibility templates (printed pp. 96–105) and the Unit 4 student project (printed p. 134); references (printed pp. 135–136); front matter. Read note: the book's contents page understates the later units' page numbers — the printed folios are used throughout, as filed.
+
 - *Business Studies — Year 9, Book 1: Economics* — Editor: Lili Tuioti — Government of Samoa, Ministry of Education, Sports and Culture (MESC), © 2001, reprinted 2006. No ISBN printed in the book. **Year 9. STUDENT book. Language: English** (Samoan translations in text boxes; bilingual glossary). 97 pages. **Verdict: COMPLETE.**
   - Contents map for this split: the seven units are **Economics** (Producer in the Economy; Goods and Services; Factors of Production; Consumers and Households; Consumer as Producer; Development of Money; Functions of Money in the Economy), mapped, not placed here — except the business/commerce teaching inside them, which fed **Business** (5 placements) and **Commerce** (5 placements). Contents-map correction: the Economics wave's map pointed to market research (p. 10) and clubs/societies (pp. 15–24) in this book — neither exists in the book as printed; nothing is stocked from the wrong map.
 
@@ -87,9 +90,9 @@ and they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 24 lessons,
-  stocked with 452 placements from **student books** of 10
-  countries (Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Samoa) —
-  taught in 10 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 498 placements from **student books** of 11
+  countries (Dominica, Ecuador, Egypt, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa) —
+  taught in 11 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher
@@ -98,7 +101,7 @@ and they are named here so the read set is whole.
 
 ## The pending queue — Business books not yet in the course
 
-49 Business books are in hand in the library record but
+48 Business books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -155,9 +158,6 @@ hold lifts and they are read.
 - [BUSINESS · student] Business Studies for JSS Book 1 (grade-07) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 - [BUSINESS · student] Business Studies for JSS Book 2 (grade-08) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
 - [BUSINESS · student] Business Studies for JSS Book 3 (grade-09) — no-copy-exists — No file exists anywhere — Learn Africa catalogue/store record only (print-only); the Economics wave filed the same verdict
-
-**Palestine (1):**
-- [BUSINESS · student] Small Projects — Grade 11 (Entrepreneurship (Riada) stream) (Grade 11) — secured-not-on-disk
 
 **Papua New Guinea (3):**
 - [BUSINESS · teacher] Business Studies Teacher Guide Grade 12 (Secondary, Standards Based) (Grade 12) — secured-not-on-disk

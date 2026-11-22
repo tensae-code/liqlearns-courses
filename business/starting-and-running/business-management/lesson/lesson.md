@@ -113,6 +113,12 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Organising the business.** Organisation as the base of the venture: without organisation optimal results are impossible; its pillar is a well-structured business plan that defines the productive process and who is assigned to each process, because the plan is how decisions are anticipated — and what is only in your head does not count until it is documented in writing (Nicaragua's book.)
 
 **Managing the business.** Two principles of administering the venture: order and discipline — each person in their post is responsible for doing their function as well as possible and guiding their team; and unity of direction — every member works from the same mission and vision, supporting and respecting each other so the venture grows (Nicaragua's book.)
+
+**Managing / deciding.** Entrepreneurial decision-making: decision-making is the whole process — identifying the need/problem, gathering relevant data, setting out the alternatives, evaluating them, choosing one and following it up; (Palestine's book.)
+
+**Managing / deciding.** What sound entrepreneurial decision-making requires, and why decisions go wrong: (Palestine's book.)
+
+**Managing / deciding together.** Brainstorming as the group's decision method: involving the work team in decision-making generates more and better solution options and wins the team's commitment to the decision they helped make; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills. Your companion asks one question back — answer it from the lesson.

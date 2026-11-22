@@ -7,3 +7,6 @@ Answer in a sentence or two, in your own words.
 
 **2.** What does this lesson teach about straight-line method?
 **Answer:** Straight-line method: the same amount each year from (cost − residual value) ÷ useful life, entered by General Journal, with accumulated depreciation as a contra-asset deducted from cost to give book value; a ….
+
+**3.** In your own words, what does this lesson say about the books / what the numbers mean?
+**Answer:** Cash flow is not accounting profit:

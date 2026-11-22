@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about responsibility / the venture's principles?
 **Answer:** The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to achieve, how are we, what do we believe in and how do we want to be remembered; the book lists the entrepreneur's own traits as the seed of them — creative, honest, transparent, prudent, bold, risk-taking
+
+**7.** In your own words, what does this lesson say about responsibility / the environment?
+**Answer:** The environmental feasibility study: production activity can harm the environment people live in (factory smoke, waste, polluted water, noise, dust), so the project needs a study of the mutual effect between project and environment;

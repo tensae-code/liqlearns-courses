@@ -1,6 +1,6 @@
 # Sources — Entrepreneurship
 
-countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran
+countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine
 
 **Book 1:** مهارات الصناعة وريادة الأعمال (Mahārāt al-Ṣināʿa wa-Riyādat al-Aʿmāl — "Industry Skills and Entrepreneurship"), الصف الأول الإعدادي (First Preparatory grade = Grade 7), الفصل الدراسي الأول (First term) (student book) — Arab Republic of Egypt, Ministry of Education and Technical Education (وزارة التربية والتعليم والتعليم الفني), Central Administration for Curriculum Development (الإدارة المركزية لتطوير المناهج, CACD). School year 2025–2026 as printed on the cover; no separate edition statement printed. Grade: Preparatory 7 (Grade 7). Language: Arabic. Page count: 60 PDF pages (printed page numbers run 4–58). Source: /home/hatch/workspace/phase3-staging/grade-07/gov/egypt/Industry_Preparatory1_Tr1.pdf. Verdict: COMPLETE — read whole, to the last teaching page; the entrepreneurship strand is carried in embedded boxes and project briefs inside the skills lessons, and only those embedded business parts are placed in this course.
 
@@ -13,6 +13,8 @@ countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran
 **Book 5:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
 
 **Book 6:** کارگاه کارآفرینی و تولید (Entrepreneurship and Production Workshop) — second period of secondary education, book code 110224 (student book) — planning and authorship council of the Office for Compiling General and Theoretical Secondary Textbooks (authorship group incl. Mohammad Taqi Toghraei, Seyyed Saeed Mirvahedi, Somayeh Hashemi, Fereshteh Azizi Malekabadi, Behnam Niknejad, Amin Habibi Rad; editor Hossein Davoudi) — Ministry of Education, Organisation for Educational Research and Planning, Tehran; printed and published by the Iran Textbook Printing and Publishing Company. Tenth printing, 1405 (school year 1405–1406); ISBN 978-964-05-2523-4. Grade: Grade 10 (first year of the second period of secondary education). Language: Persian. Page count: 136 PDF pages (printed pp. 1–128 plus front matter). Source: manifest manifests-phase2/iran.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-6), to scratch-phase2/iran/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Section 32 ends printed p. 127; sources list p. 128).
+
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,7 +29,11 @@ countries: Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran
 | the entrepreneur's mind | Book 6 (Entrepreneurship and Production Workshop), printed p. 41 |
 | the entrepreneur | Book 6 (Entrepreneurship and Production Workshop), printed p. 75 |
 | the entrepreneur | Book 6 (Entrepreneurship and Production Workshop), printed p. 76 |
+| what entrepreneurship is | Book 7 (Small Projects), printed p. 29 |
+| what encourages entrepreneurs | Book 7 (Small Projects), printed pp. 29–30 |
+| entrepreneurship | Book 7 (Small Projects), printed pp. 30–31 |
+| the entrepreneur | Book 7 (Small Projects), printed p. 33 |
 
-**Acceptance count: taught in 6 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Egypt, Malaysia, Samoa, Dominica, Ecuador, Iran, Palestine)** — every book above is a student book, so each country counts.
 
-Searchable tags: entrepreneurship, first steps, business, egypt, malaysia, samoa, dominica, ecuador, iran
+Searchable tags: entrepreneurship, first steps, business, egypt, malaysia, samoa, dominica, ecuador, iran, palestine

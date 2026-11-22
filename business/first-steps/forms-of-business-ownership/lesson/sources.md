@@ -1,6 +1,6 @@
 # Sources — Forms of Business Ownership
 
-countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua
+countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -16,6 +16,8 @@ countries: Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua
 
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,7 +54,11 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | forms of ownership | Book 6 (Business Studies Cl. 11), printed p. 131 |
 | choosing a form | Book 6 (Business Studies Cl. 11), printed p. 136 |
 | forms of ownership / registering a company | Book 7 (Guía del Emprendedor), printed p. 20 |
+| forms of ownership | Book 7 (Small Projects), printed pp. 10–11 |
+| forms of ownership / choosing | Book 7 (Small Projects), printed p. 15 |
+| forms of ownership | Book 7 (Small Projects), printed p. 17 |
+| forms of ownership | Book 7 (Small Projects), printed p. 18 |
 
-**Acceptance count: taught in 6 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 7 countries (Malaysia, Nigeria, Samoa, Dominica, Nepal, Nicaragua, Palestine)** — every book above is a student book, so each country counts.
 
-Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua
+Searchable tags: forms of business ownership, first steps, business, malaysia, nigeria, samoa, dominica, nepal, nicaragua, palestine

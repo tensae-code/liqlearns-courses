@@ -22,3 +22,6 @@ Answer in a sentence or two, in your own words.
 
 **7.** In your own words, what does this lesson say about what the business makes or does? (Sub lesson 4)
 **Answer:** Product or service: a product is a physical good that has passed through stages to become what is sold (bread-making is the example), a service is the activity of doing something for another person (hairdressing), and a venture can do both — the custom-furniture maker whose product is the furniture and whose service is making and installing it for the particular client
+
+**8.** In your own words, what does this lesson say about how production works / siting? (Sub lesson 4)
+**Answer:** Choosing the project's location: the deciding factor differs by project — nearness to raw materials where transport of materials is costly (quarries) or the product perishes fast (milk, vegetables), nearness to centres of cheap labour for labour-intensive projects, nearness to the road network and transport, availability of land, of a suitable sewage network, or of cheap power;

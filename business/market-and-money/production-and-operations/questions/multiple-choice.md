@@ -43,3 +43,9 @@ a) Something this lesson does not teach.
 b) Product or service: a product is a physical good that has passed through stages to become what is sold…
 c) Something this lesson does not teach.
 **Answer: b) Product or service: a product is a physical good that has passed through stages to become what is sold…** — That is what this lesson teaches in its what the business makes or does part (Nicaragua's book).
+
+**8.** What does this lesson teach about how production works? (Sub lesson 4)
+a) Choosing the project's location: the deciding factor differs by project — nearness to raw materials where…
+b) The technical study: built on the market study's results, it covers everything that makes the project…
+c) Something this lesson does not teach.
+**Answer: b) The technical study: built on the market study's results, it covers everything that makes the project…** — That is what this lesson teaches in its how production works part (Palestine's book).

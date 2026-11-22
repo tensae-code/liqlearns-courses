@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about the entrepreneur?
 **Answer:** What entrepreneurship is: a way of working that uses opportunities and ideas to create a profitable, value-creating business; the driving engine of a country's economy and a lifestyle of growth, creativity, innovation and moving forward; its types — independent entrepreneurship (small businesses), organisational entrepreneurship, social entrepreneurship and cultural entrepreneurship
+
+**6.** In your own words, what does this lesson say about what encourages entrepreneurs?
+**Answer:** The factors that encourage entrepreneurship: social culture and values (family, community and state support, material or moral — among the most important); the possibilities of the environment (where a group's unmet need appears, the entrepreneur turns the idea of meeting it into an income-earning project);

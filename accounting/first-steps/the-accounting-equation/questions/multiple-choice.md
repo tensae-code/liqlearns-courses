@@ -19,3 +19,9 @@ d) the basic terms the equation is built from: debtor, creditor and goods, then 
 **3.** What does this lesson teach about the the accounting equation? (Sub lesson 1)
 a) The statement of financial position (balance sheet): adds up total assets (cash, stocks, land, property, …  b) The Caribbean's own productivity problem taught as a case: small economies and markets, lack of skills, poor …  c) Market research as the first marketing activity: systematically collecting and analysing information on …
 **Answer: a) The statement of financial position (balance sheet): adds up total assets (cash, stocks, land, property, …** — That is what this lesson teaches in its the accounting equation part (Dominica's book).
+
+**4.** What does this lesson teach about first steps / what the books show? (Sub lesson 2)
+a) Something this lesson does not teach.
+b) Reading a balance sheet as sources and uses of funds: in the project's projected balance sheet one side holds…
+c) Something this lesson does not teach.
+**Answer: b) Reading a balance sheet as sources and uses of funds: in the project's projected balance sheet one side holds…** — That is what this lesson teaches in its first steps / what the books show part (Palestine's book).

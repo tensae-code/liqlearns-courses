@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about risk in one's own business? (Sub lesson 2)
 **Answer:** The role of insurance in business: risk management (theft, fire, natural disaster, legal cases), business continuity, compliance with insurance law, financial stability (the insurer shares the burden of unexpected losses), protection of employees, building reputation and trust, and help with investment and expansion
+
+**5.** In your own words, what does this lesson say about business risk? (Sub lesson 2)
+**Answer:** The risks of entrepreneurial work and small projects: income is not guaranteed — the owner may not earn large revenues at first and may even lose; the entrepreneur may lose all or part of his investment; high stress from the fear of failure, lost deals and fierce competition; long, exhausting working hours that follow him home;

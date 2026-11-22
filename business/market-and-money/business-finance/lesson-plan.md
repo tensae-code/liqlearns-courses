@@ -14,7 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **The sources of finance** — opening; types; business-functions.
 3. **Choosing a source — and obtaining it** — comparison; procedure; choosing.
 4. **Credit and other ways of getting the use of money** — sources of finance; sources of finance; sources of finance; sources of finance; sources of finance; collateral and secured loans; monetary policy; financial regulators; short-term finance; more sources of finance; long-term finance; angel investors, hire purchase and leasing; purposes of taxation; direct taxes; government assistance.
-5. **Long-term finance — the capital market as a source** — sources of long-term finance; sources of finance; sources of finance; sources of finance; sources of finance; sources of finance; the central bank; choosing finance; raising and sizing finance; sources of income; judging an investment; sources of finance / borrowing dangers; raising finance.
+5. **Long-term finance — the capital market as a source** — sources of long-term finance; sources of finance; sources of finance; sources of finance; sources of finance; sources of finance; the central bank; choosing finance; raising and sizing finance; sources of income; judging an investment; sources of finance / borrowing dangers; raising finance; sources of finance / when money is needed; sources of finance / choosing.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

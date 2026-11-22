@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **The private forms — sole trader, partnership, company** — opening; first-types; company; forms of ownership; sole trader; partnerships; types of company.
 2. **Forming and registering the business** — registration; formation; legal forms and registration (samoa's way); forming a company.
 3. **Choosing the form — and the size it sets** — choosing; size-and-scale.
-4. **Public ownership — government in business** — state/public ownership; state/public ownership; state/public ownership; state/public ownership; public and private sectors; franchises; cooperatives; choosing a form; forms of ownership / registering a company.
+4. **Public ownership — government in business** — state/public ownership; state/public ownership; state/public ownership; state/public ownership; public and private sectors; franchises; cooperatives; choosing a form; forms of ownership / registering a company; forms of ownership / choosing.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

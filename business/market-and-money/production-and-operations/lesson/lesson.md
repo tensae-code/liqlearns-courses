@@ -58,6 +58,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **How production works.** Describing the operating process in detail, stage by stage with the human and material resources each stage needs; the three venture types by process — commercial (buys and resells unchanged), industrial (transforms raw material) and services (Ecuador's book.)
 
+**How production works.** The technical study: built on the market study's results, it covers everything that makes the project technically ready to start producing — the suitable project size, the suitable location, the production method to be used, and the needs in materials, labour and technical and administrative expertise — and through it the capital and operating costs are estimated; (Palestine's book.)
+
 **How production works.** Key activities (part 7): the most important actions a business must perform to work successfully — needed to create and offer the value proposition, reach customers and earn revenue — including production and services activities (designing, making, delivering) (Iran's book.)
 
 **Quality in production.** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back (Ecuador's book.)
@@ -71,6 +73,8 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **The physical side of production.** Physical resources: land and building (needed for as long as the business exists), machinery and equipment (to be chosen for quality, low operating cost, durability, flexibility and after-sales service, saving labour and time and raising accuracy), and furniture and fixtures (Nepal's book.)
 
 **What the business makes or does.** Product or service: a product is a physical good that has passed through stages to become what is sold (bread-making is the example), a service is the activity of doing something for another person (hairdressing), and a venture can do both — the custom-furniture maker whose product is the furniture and whose service is making and installing it for the particular client (Nicaragua's book.)
+
+**How production works / siting.** Choosing the project's location: the deciding factor differs by project — nearness to raw materials where transport of materials is costly (quarries) or the product perishes fast (milk, vegetables), nearness to centres of cheap labour for labour-intensive projects, nearness to the road network and transport, availability of land, of a suitable sewage network, or of cheap power; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

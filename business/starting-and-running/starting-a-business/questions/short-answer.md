@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about starting / help available? (Sub lesson 3)
 **Answer:** Nicaragua's own support platforms for ventures at every stage:
+
+**7.** In your own words, what does this lesson say about starting / help available? (Sub lesson 3)
+**Answer:** The three kinds of incubator: general incubators develop all kinds of business project without a set specialisation, concentrating on renewal and innovation; specialised incubators restructure a region's economy by attracting a particular kind of investment or industry, or creating jobs for wanted specialisations or groups of job-seekers;

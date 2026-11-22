@@ -1,6 +1,6 @@
 # Sources — Business Finance
 
-countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua
+countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -18,6 +18,8 @@ countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua
 
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,9 +73,21 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | sources of finance | Book 7 (Business Studies Cl. 11), printed p. 41 |
 | raising finance | Book 7 (Business Studies Cl. 11), printed p. 90 |
 | sources of finance / borrowing dangers | Book 8 (Guía del Emprendedor), printed p. 2 |
+| judging an investment | Book 8 (Small Projects), printed p. 80 |
+| judging an investment | Book 8 (Small Projects), printed p. 84 |
+| judging an investment | Book 8 (Small Projects), printed p. 87 |
+| sources of finance | Book 8 (Small Projects), printed pp. 107–108 |
+| sources of finance / when money is needed | Book 8 (Small Projects), printed pp. 109–110 |
+| sources of finance | Book 8 (Small Projects), printed p. 117 |
+| sources of finance | Book 8 (Small Projects), printed p. 118 |
+| sources of finance | Book 8 (Small Projects), printed p. 119 |
+| sources of finance | Book 8 (Small Projects), printed pp. 119–120 |
+| sources of finance | Book 8 (Small Projects), printed p. 123 |
+| sources of finance | Book 8 (Small Projects), printed p. 126 |
+| sources of finance / choosing | Book 8 (Small Projects), printed pp. 129–131 |
 
-**Acceptance count: taught in 7 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine)** — every book above is a student book, so each country counts.
 
 Note, as filed: this lesson holds the Nigerian book's capital-market history, regulator and market-people parts as sources of long-term finance. The same book's market-mechanics parts (raising funds, trading, instruments, reading the market, softer windows) form their own lesson, Capital Markets and the Stock Exchange.
 
-Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua
+Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine

@@ -35,6 +35,12 @@ Choose a business you might one day start. Write down: where you would put it, a
 **Setting up.** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources (Iran's book.)
 
 **Starting / help available.** Nicaragua's own support platforms for ventures at every stage: (Nicaragua's book.)
+
+**Starting / help available.** Incubator services and Palestine's admission criteria: (Palestine's book.)
+
+**Starting / help available.** The three kinds of incubator: general incubators develop all kinds of business project without a set specialisation, concentrating on renewal and innovation; specialised incubators restructure a region's economy by attracting a particular kind of investment or industry, or creating jobs for wanted specialisations or groups of job-seekers; (Palestine's book.)
+
+**Starting / help available.** Business incubators: institutions with their own legal entity (state, private or mixed) that give small investors starting small projects — especially creative ones — a bundle of services and facilities (expertise, place, financing) to carry them over the burdens and risks of the launch and establishment stage, and may market the projects' products; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

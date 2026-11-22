@@ -15,3 +15,9 @@ b) what a ratio is (one item expressed in relation to another, for assessing per
 c) Straight-line method: the same amount each year from (cost − residual value) ÷ useful life, entered by …
 d) Depreciation spreads an asset's cost less residual value over its useful life because the asset loses future …
 **Answer: c) Straight-line method: the same amount each year from (cost − residual value) ÷ useful life, entered by …** — That is what this lesson teaches in its straight-line method part.
+
+**3.** What does this lesson teach about the books / what the numbers mean?
+a) Something this lesson does not teach.
+b) Cash flow is not accounting profit: net cash flow is preferred for its ease and clarity of measurement —…
+c) Something this lesson does not teach.
+**Answer: b) Cash flow is not accounting profit: net cash flow is preferred for its ease and clarity of measurement —…** — That is what this lesson teaches in its the books / what the numbers mean part (Palestine's book).

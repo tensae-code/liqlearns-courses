@@ -45,6 +45,8 @@ Green technology and sustainable business practice: green technology and sustain
 **Responsibility / judging a venture's social worth.** Social evaluation of a venture: a venture is judged not only on profit and payback but on social goals and impact indicators (education level, employment, unemployment in the community), with key questions the entrepreneur must ask about the problems it eases (Ecuador's book.)
 
 **Responsibility / the venture's principles.** The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to achieve, how are we, what do we believe in and how do we want to be remembered; the book lists the entrepreneur's own traits as the seed of them — creative, honest, transparent, prudent, bold, risk-taking (Nicaragua's book.)
+
+**Responsibility / the environment.** The environmental feasibility study: production activity can harm the environment people live in (factory smoke, waste, polluted water, noise, dust), so the project needs a study of the mutual effect between project and environment; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business owes responsibility beyond profit — to society at large, its suppliers, lenders, shareholders, employees, customers and government — and its production must not poison the air, water and land its neighbours live on; the entrepreneur's ethics govern how it treats people, including their personal data in digital business. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: environmental responsibility, ethics, responsibility. Your companion asks one question back — answer it from the lesson.

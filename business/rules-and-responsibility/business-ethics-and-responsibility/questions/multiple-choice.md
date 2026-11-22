@@ -37,3 +37,9 @@ a) Something this lesson does not teach.
 b) The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to…
 c) Something this lesson does not teach.
 **Answer: b) The venture's values: the ethical principles its work rests on, drawn from the questions what do we want to…** — That is what this lesson teaches in its responsibility / the venture's principles part (Nicaragua's book).
+
+**7.** What does this lesson teach about responsibility / the environment?
+a) Something this lesson does not teach.
+b) The environmental feasibility study: production activity can harm the environment people live in (factory…
+c) Something this lesson does not teach.
+**Answer: b) The environmental feasibility study: production activity can harm the environment people live in (factory…** — That is what this lesson teaches in its responsibility / the environment part (Palestine's book).

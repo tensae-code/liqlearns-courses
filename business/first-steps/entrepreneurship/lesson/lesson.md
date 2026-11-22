@@ -34,11 +34,19 @@ The entrepreneur as the central decision-maker through every start-up step, and 
 
 **The entrepreneur.** The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities, researching and selecting the idea), start-up (writing the project and launching), and strengthening (consolidating by trial and error so the venture survives its first years); leadership as the capacity to influence others toward a goal (Ecuador's book.)
 
+**The entrepreneur.** The entrepreneurial character: (Palestine's book.)
+
 **The entrepreneur.** False beliefs about entrepreneurship, corrected: it is not only about creating jobs (it must create new value), the entrepreneur is not necessarily a good manager, its aim is not simply getting rich (it improves society's economy), and it does not only require financial capital (Iran's book.)
 
 **The entrepreneur.** What entrepreneurship is: a way of working that uses opportunities and ideas to create a profitable, value-creating business; the driving engine of a country's economy and a lifestyle of growth, creativity, innovation and moving forward; its types — independent entrepreneurship (small businesses), organisational entrepreneurship, social entrepreneurship and cultural entrepreneurship (Iran's book.)
 
 **The entrepreneur's mind.** How thinking works: the left brain receives, analyses and evaluates information while the right brain offers ideas intuitively; convergent thinking accepts things as they are and reaches for the first correct (usually old) solution, and over-reliance on it blocks creativity (Iran's book.)
+
+**What entrepreneurship is.** What entrepreneurship is: in general, an organised approach of identifying ideas or opportunities, planning their implementation, gathering the needed resources and carrying them out effectively and responsibly toward society for a return or reward; (Palestine's book.)
+
+**What encourages entrepreneurs.** The factors that encourage entrepreneurship: social culture and values (family, community and state support, material or moral — among the most important); the possibilities of the environment (where a group's unmet need appears, the entrepreneur turns the idea of meeting it into an income-earning project); (Palestine's book.)
+
+**Entrepreneurship.** The entrepreneur's role in development, and what makes a project entrepreneurial: entrepreneurial work creates new jobs, raises productivity and diversifies products through the entrepreneurs' varied talents, opens new markets for a good or service, transfers and localises technology, and restructures investment projects for new products and ways of serving; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about managing the business? (Sub lesson 5)
 **Answer:** Two principles of administering the venture: order and discipline — each person in their post is responsible for doing their function as well as possible and guiding their team; and unity of direction — every member works from the same mission and vision, supporting and respecting each other so the venture grows
+
+**7.** In your own words, what does this lesson say about managing / deciding? (Sub lesson 5)
+**Answer:** What sound entrepreneurial decision-making requires, and why decisions go wrong:

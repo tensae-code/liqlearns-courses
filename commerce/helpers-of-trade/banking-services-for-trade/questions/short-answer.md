@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about aids to trade? (Sub lesson 5)
 **Answer:** Auxiliaries to trade, 3 — banks and finance: banks and financial institutions supply the fixed and working capital and loans a business needs to set up and run, and organise and secure trade with services such as bank overdraft, letters of credit and remittance
+
+**5.** In your own words, what does this lesson say about banking services? (Sub lesson 5)
+**Answer:** Short-term bank credit: the overdraft (الجاري المدين) — facilities up to a set ceiling from which the client draws, interest charged only on the balance actually drawn day by day and stopping on any amount once deposited, cheap when used correctly for short periods but very costly if used heavily and long because of its high annual rate;

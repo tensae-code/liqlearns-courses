@@ -21,3 +21,9 @@ a) The role of insurance in business: risk management (theft, fire, natural disa
 b) The concept of business risk: the possibility of loss from unexpected events arising in the course of running…
 c) Something this lesson does not teach.
 **Answer: b) The concept of business risk: the possibility of loss from unexpected events arising in the course of running…** — That is what this lesson teaches in its risk in one's own business part (Nepal's book).
+
+**5.** What does this lesson teach about business risk? (Sub lesson 2)
+a) Something this lesson does not teach.
+b) The risks of entrepreneurial work and small projects: income is not guaranteed — the owner may not earn large…
+c) Something this lesson does not teach.
+**Answer: b) The risks of entrepreneurial work and small projects: income is not guaranteed — the owner may not earn large…** — That is what this lesson teaches in its business risk part (Palestine's book).

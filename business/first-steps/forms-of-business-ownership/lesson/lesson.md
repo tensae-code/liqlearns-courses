@@ -14,6 +14,12 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Forms of ownership.** Samoa's private-sector ownership forms in full: sole trader (one owner, unlimited liability, own capital or loans), partnership (2–25 partners, joint liability, sleeping partner, partnership agreement/deed, NZ Partnership Act 1908 applying in Samoa), private limited company (family/friends, unlisted, separate legal entity, dividends) and public limited company (listed, board elected at the AGM, prospectus, debentures, audited published accounts).
 
+**Forms of ownership.** The limited shareholding companies: in the private limited company (م.خ.م) capital is divided into equal shares held only by the partners, transferable only with all partners' consent and never offered to the public; (Palestine's book.)
+
+**Forms of ownership.** The sole proprietorship and the general partnership (شركة التضامن): the individual project is owned and managed by one person and set up with simple registration — the most widespread form by number; (Palestine's book.)
+
+**Forms of ownership.** Classifying projects by who owns them: private projects (owned by individuals for profit — the private sector, the majority of projects and the biggest employer); (Palestine's book.)
+
 **Forms of ownership.** Multinational companies: home country and host country; features — global presence, centralised control with local adaptation, large-scale operation, advanced technology and innovation, significant investment in host countries, diversified products and operations, global brand recognition — and roles: job creation and economic development, technology transfer, access to global markets, rising living standards (Nepal's book.)
 
 **Forms of ownership.** Public enterprises: institutions under the government's partial or full ownership (Nepal Oil Corporation named), established to give the public goods and services easily and cheaply rather than for profit; features — government control and management, service orientation, separate legal entity, public accountability, financial autonomy, autonomous management — and their roles in infrastructure development, social welfare, market regulation and government revenue (Nepal's book.)
@@ -77,6 +83,8 @@ Take three businesses you know: one run by a single person, one run by partners 
 **Choosing a form.** Choosing the business form: the factors that decide it — nature of the business, capital requirements, liability and risk, control and decision making, taxation policy (the pass-through system for sole traders and partnerships, where owners pay tax on business income, against company taxation and possible double tax) and legal formalities (Nepal's book.)
 
 **Forms of ownership / registering a company.** Registering a mercantile company: businesses that constitute themselves as commercial companies under Nicaragua's Commercial Code draw up their statutes and constitutive acts before an authorised notary and register the entity in the Registro Mercantil — a necessary condition before the RUM, RUC and municipal licence procedures; (Nicaragua's book.)
+
+**Forms of ownership / choosing.** Choosing the legal form: (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company. Your companion asks one question back — answer it from the lesson.

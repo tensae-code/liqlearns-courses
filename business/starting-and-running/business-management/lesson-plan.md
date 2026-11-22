@@ -14,7 +14,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Levels of management — and the skills each level needs** — levels; skills-to-levels; organisation structures.
 3. **The functions of management — and the objectives they serve** — functions; management; functions and principles; functions of management; business growth.
 4. **Joining the functions together** — coordination; linking; organisation-structure; organisation-chart.
-5. **Organisation structures — how the business is arranged** — organisation structures; organisation structures; leadership and decision-making; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; functional areas; stakeholders; management responsibilities; organisational structure; leadership; managing people and work; leading a team; deciding and solving; running a business; running an organisation; organising the business; managing the business.
+5. **Organisation structures — how the business is arranged** — organisation structures; organisation structures; leadership and decision-making; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; organisation structures; functional areas; stakeholders; management responsibilities; organisational structure; leadership; managing people and work; leading a team; deciding and solving; running a business; running an organisation; organising the business; managing the business; managing / deciding; managing / deciding together.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

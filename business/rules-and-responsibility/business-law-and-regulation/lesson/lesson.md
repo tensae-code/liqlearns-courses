@@ -102,6 +102,8 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **The legal rules / registering step by step.** The formalisation route and its times through the VUI: step 1 at the VUI itself (24 hours for expedited procedures, 5 days ordinary), step 2 the Dirección General de Ingresos (DGI) issuing the RUC (8 days for legal persons, half a day with the DUR for natural persons), step 3 the municipal mayor's office (about 5 days) — all of it also doable online through the VUI (Nicaragua's book.)
 
+**The legal rules / registering step by step.** The registration procedures themselves (the book's "for information only" section): (Palestine's book.)
+
 **The legal rules / tax registration.** Getting the RUC (Registro Único de Contribuyente) as a natural person on the fixed-quota regime: be 18, present the citizen identity document (with the rules the book gives for nationals, nationals living abroad and foreigners), prove the fiscal domicile with a basic-services bill or lease contract, and if a third party files, a simple written authorisation (Nicaragua's book.)
 
 **The legal rules / tax registration.** RUC registration on the general regime and for legal persons: the same identity and fiscal-domicile proof (a notarial declaration when the bills are not in the applicant's name), professional title or graduation letter for professional services, a notarised special power when a third party files; (Nicaragua's book.)
@@ -119,6 +121,8 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 **The legal rules / environmental permits.** Environmental permits under Decreto 20-2017 (the environmental evaluation system for permits and authorisations for sustainable use of natural resources): (Nicaragua's book.)
 
 **The legal rules / protecting the brand.** Registering a trademark: a trademark is the symbol that identifies your product or service in the market and makes it different from the rest; (Nicaragua's book.)
+
+**The legal rules / registering.** Palestine's own registration map: before starting, the investor must know every body whose approval the project needs, or legal gaps can lose him the project; the bodies and what each gives — the local authority (municipality/village council) for the crafts licence (رخصة الحرف) covering trades touching public health, safety and veterinary supervision; (Palestine's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: business runs inside the law — contracts and how they are made, ended and enforced; agency; employment; sale of goods and hire purchase; forming and registering a business and keeping its obligations; and the law's protection of ideas, personal data and digital trade. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: intellectual-property, formation-law, compliance, digital-law. Your companion asks one question back — answer it from the lesson.

@@ -25,3 +25,9 @@ a) The annual projected funds flow for the first five years: year 0 shows contri
 b) The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income…
 c) Something this lesson does not teach.
 **Answer: b) The projected funds flow (projected cash flow): all the venture's money in and out — not only sales income…** — That is what this lesson teaches in its reporting past and future cash part (Ecuador's book).
+
+**5.** What does this lesson teach about reporting and forecasting cash?
+a) Something this lesson does not teach.
+b) Estimating the project's cash flows: the financial feasibility study is built on all the previous studies; it…
+c) Something this lesson does not teach.
+**Answer: b) Estimating the project's cash flows: the financial feasibility study is built on all the previous studies; it…** — That is what this lesson teaches in its reporting and forecasting cash part (Palestine's book).

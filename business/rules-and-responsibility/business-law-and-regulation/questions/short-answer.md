@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about the legal rules / taxes? (Sub lesson 5)
 **Answer:** The fiscal benefits of being formal: tax benefits from the official list; exports of nationally produced goods and services rendered abroad carry a 0% VAT (IVA) rate; a tax credit of 1.5% of the FOB value of exports can be applied against advance or annual income tax with the tax administration's approval;
+
+**7.** In your own words, what does this lesson say about the legal rules / registering step by step? (Sub lesson 5)
+**Answer:** The registration procedures themselves (the book's "for information only" section):

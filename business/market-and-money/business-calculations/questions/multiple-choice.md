@@ -37,3 +37,9 @@ a) Setting the price: price is the money value of a good or service; to fix it c
 b) Fixed and variable costs: costs are all the money outflows needed to produce and sell; a product's total cost…
 c) Something this lesson does not teach.
 **Answer: b) Fixed and variable costs: costs are all the money outflows needed to produce and sell; a product's total cost…** — That is what this lesson teaches in its costing part (Nicaragua's book).
+
+**7.** What does this lesson teach about the numbers behind the market?
+a) Estimating the financing need realistically, and opportunity cost: the financial need arises from the value…
+b) Estimating total demand by the per-capita consumption method: total consumption of the good = local…
+c) Something this lesson does not teach.
+**Answer: b) Estimating total demand by the per-capita consumption method: total consumption of the good = local…** — That is what this lesson teaches in its the numbers behind the market part (Palestine's book).

@@ -19,3 +19,6 @@ Answer in a sentence or two, in your own words.
 
 **6.** In your own words, what does this lesson say about pricing?
 **Answer:** Setting the price: price is the money value of a good or service; to fix it correctly, weigh the objective the price is meant to achieve, how demand behaves when prices change, and the competition's prices — and stay alert to changes in any of these so the price can be adjusted quickly
+
+**7.** In your own words, what does this lesson say about costing / sizing the need?
+**Answer:** Estimating the financing need realistically, and opportunity cost: the financial need arises from the value of the assets the project needs;

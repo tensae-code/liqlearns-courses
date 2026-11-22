@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about opening / features of a business?
 **Answer:** The characteristics of business: it is a human economic activity (set up, run and managed for economic benefit, using labour, capital and other factors), and it creates utilities, deals in production, distribution and exchange, involves regular transactions, the profit motive, capital investment, consumer satisfaction, organisation and risk
+
+**6.** In your own words, what does this lesson say about why businesses matter?
+**Answer:** Why small projects matter: they supply most of the goods and services consumed daily and employ most of the workforce — creating jobs, raising individuals' incomes and social welfare, and through their profits and taxes raising government spending on public services, national income and GDP;

@@ -22,3 +22,6 @@ Answer in a sentence or two, in your own words.
 
 **7.** In your own words, what does this lesson say about sources of finance / borrowing dangers? (Sub lesson 5)
 **Answer:** The guide's financing warning inside step 7: draw up the business plan so the venture can reach formal programmes and lenders with backing, and avoid falling into the hands of moneylenders (usureros)
+
+**8.** In your own words, what does this lesson say about judging an investment? (Sub lesson 5)
+**Answer:** Net Present Value: the difference between the present value of the cash inflows and the initial investment, discounting at the required rate of return (the discount rate, which rises with the alternatives available and the project's risk); the decision rule — accept if NPV is zero or positive, reject if negative, and the higher the NPV the better the project when ranking;

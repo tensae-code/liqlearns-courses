@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
-Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria
+Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
 and Samoa.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
@@ -33,13 +33,13 @@ organisations, partnerships, companies, manufacturing,
 incomplete records, control accounts) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 199 placements stocked.**
+**27 lessons, 202 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 17 student
-books in all; the 12 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 18 student
+books in all; the 13 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 5 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -79,6 +79,9 @@ they are named here so the read set is whole.
 
 - *Guía del Emprendedor* — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa). No individual author named. **No year or edition printed in the book (undated in print; the "actualizada" edition, PDF created March 2021). Grade 7. STUDENT book. Language: Spanish.** 52 PDF pages (printed pp. 1–48). **Verdict: COMPLETE** — read whole book to the last teaching page (Unidad IV ends printed p. 43). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
   - The ACCOUNTING parts of this book: the financial analysis of the venture and the income statement (estado de resultados) and its structure, in Unidad II (printed pp. 13–14), fed **Accounting** (3 placements in this course, from this book). Contents map for this split: Unidades I–III fed **Business** (37 placements); Unidad IV and parts of Unidades II–III fed **Commerce** (7 placements).
+
+- *المشاريع الصغيرة (Small Projects) — First Secondary, Entrepreneurship and Business stream* — writing team: Dr Islam Abdeljawad (coordinator) and others — State of Palestine, Ministry of Education, Palestinian Curriculum Centre. Adopted for teaching from 2018/2019. **Grade 11. STUDENT book. Language: Arabic.** 140 PDF pages (printed pp. 1–136). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 4 ends printed p. 131). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
+  - The ACCOUNTING parts of this book: the financial feasibility study's cash-flow estimation (Unit 3, printed p. 75), the cash-flow-versus-profit teaching with depreciation (printed p. 76), and reading a balance sheet as sources and uses of funds (Unit 4, printed p. 112) fed **Accounting** (3 placements in this course, from this book). Contents map for this split: Units 1–4 fed **Business** (46 placements); the bank-financing teaching of Unit 4 fed **Commerce** (4 placements).
 
 - *Inventor Business Studies, Form Three Students' Book* —
   Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature
@@ -220,8 +223,8 @@ they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 27 lessons, stocked with
-  199 placements from **student books** of 7 countries (Dominica,
-  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Samoa) — taught in 7 countries. Every
+  202 placements from **student books** of 8 countries (Dominica,
+  Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 8 countries. Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
