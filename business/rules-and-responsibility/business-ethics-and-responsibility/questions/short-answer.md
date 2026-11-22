@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about responsibility?
 **Answer:** Ventures with social interest: community and associative ventures that use nature's gifts to cover a community's needs with a social and environmental component, guided by three innovation questions (why is this done, what if it were not done, what if it were done differently)
+
+**5.** In your own words, what does this lesson say about responsibility?
+**Answer:** Ethical principles for business: integrity (the foundation stone), fairness, transparency (clear, true, understandable information to employees, customers and stakeholders; never deceiving customers), responsibility, respect towards stakeholders, environmental responsibility, and compliance with local, national and international laws and regulations

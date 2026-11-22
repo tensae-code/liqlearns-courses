@@ -26,6 +26,7 @@ Imagine a company that needs money for a factory it will use for twenty years. A
 
 **Investments.** Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; high-risk growth shares vs low-risk utility shares; capital can be lost); bonds and debentures (IOUs from governments and companies, secured vs unsecured, tradable on stock exchanges); mutual funds (pooled money spread across many shares and bonds to diversify risk); and taking advice from a financial adviser
 
+**Raising funds on the market.** Mutual funds (सामूहिक कोष) treated among the ways business capital is raised, alongside shares and debentures (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: on the capital market a company raises long-term money in the primary market — by offer for subscription, offer for sale, rights issue, private placement or introduction — and investors then trade those securities in the secondary market, through brokers, under the exchange's discipline. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: proposed new lesson on capital markets and the stock exchange, proposed capital-markets lesson, proposed capital-markets lesson, proposed capital-markets lesson. Your companion asks one question back — answer it from the lesson.

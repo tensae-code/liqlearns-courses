@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about the world the business sits in?
 **Answer:** The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only interests, and the Constitution's articles on the rights of nature frame what a venture may do
+
+**5.** In your own words, what does this lesson say about the world the business sits in?
+**Answer:** The business environment and its components: the internal environment (organisational objectives and policies, structure, culture, resources) and the external environment, split into the task environment (customers, suppliers, competitors, government, financial institutions, pressure groups) and the general / macro environment (political and legal, economic, social-cultural, technological, natural and global environments)

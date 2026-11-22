@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** First Steps · **Lesson:** Retail Trade
 **Place in the curriculum:** Unit — First Steps (CURRICULUM.md).
 **The one thing this lesson teaches:** the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received.
-**This lesson's own level:** Unit — First Steps, lesson 2 of 14 in the course ladder; it stands on What Is Commerce, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — First Steps, lesson 2 of 15 in the course ladder; it stands on What Is Commerce, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

@@ -13,3 +13,9 @@ a) A tariff  b) Franco  c) An embargo
 **3.** What does this lesson teach about the international trade? (Sub lesson 4)
 a) International trade: the exchange of goods, services and money across national borders; exports (produced at …  b) Personal/direct selling: the qualities of successful salespeople (empathy, focus, responsibility, …  c) Logistics and the supply chain: a supply chain is all the organisations and steps that produce a product and …
 **Answer: a) International trade: the exchange of goods, services and money across national borders; exports (produced at …** — That is what this lesson teaches in its international trade part (Dominica's book).
+
+**4.** What does this lesson teach about trade across borders? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Foreign (external/international) trade between two or more countries, in three kinds: import trade (buying…
+c) Something this lesson does not teach.
+**Answer: b) Foreign (external/international) trade between two or more countries, in three kinds: import trade (buying…** — That is what this lesson teaches in its trade across borders part (Nepal's book).

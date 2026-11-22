@@ -66,6 +66,7 @@ Take one payment: a trader in one town paying a supplier in another country. Lis
 
 **Cheques.** Cheques as an instrument of exchange: the parts of a cheque (number, date, payee, amount in words and figures, drawer, drawee, account number, stub/counterfoil), and the types — open, crossed (general and special crossing), post-dated — and why cheques are dishonoured
 
+**Aids to trade.** Auxiliaries to trade, 3 — banks and finance: banks and financial institutions supply the fixed and working capital and loans a business needs to set up and run, and organise and secure trade with services such as bank overdraft, letters of credit and remittance (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: banks are trade's money-servants: they take deposits, lend, keep valuables, move money at home and across the world, and stand behind trade with instruments — cheques, bills of exchange, drafts and cards — that let strangers trust each other's promises. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: kenya's banking system, the central bank, commercial banks, accepting deposits. Your companion asks one question back — answer it from the lesson.

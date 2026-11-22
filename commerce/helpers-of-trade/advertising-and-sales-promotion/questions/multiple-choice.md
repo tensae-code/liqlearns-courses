@@ -19,3 +19,9 @@ a) The advertising and commercial plan inside the investment project: choosing t
 b) Advertising techniques: the promotional mix made of advertising (paid use of mass media), promotions (a…
 c) Something this lesson does not teach.
 **Answer: b) Advertising techniques: the promotional mix made of advertising (paid use of mass media), promotions (a…** — That is what this lesson teaches in its promoting goods part (Ecuador's book).
+
+**5.** What does this lesson teach about aids to trade? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Auxiliaries to trade, 6 — advertisement and promotion, named among the helpers of trade
+c) Something this lesson does not teach.
+**Answer: b) Auxiliaries to trade, 6 — advertisement and promotion, named among the helpers of trade** — That is what this lesson teaches in its aids to trade part (Nepal's book).

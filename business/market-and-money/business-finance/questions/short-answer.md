@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about raising and sizing finance? (Sub lesson 5)
 **Answer:** Writing the plan, part 4 — the financial programme and schedule: a short-term programme for correctly controlling the business's financial resources, stating the amount of costs, the amount of capital needed and how it will be supplied to launch the business
+
+**6.** In your own words, what does this lesson say about sources of finance? (Sub lesson 4)
+**Answer:** Working capital and venture capital: working capital keeps daily operations continuous — regular production, paying suppliers, workers and staff on time, keeping customers satisfied — and venture capital is the start-up capital for new ventures

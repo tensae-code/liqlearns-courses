@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Warehousing
 **Place in the curriculum:** Unit 3 — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** a warehouse keeps goods safe and in condition between making and selling — taking goods in, holding what is needed and no more, grading and conditioning them, and sending them out — so trade never has to stop for want of stock, and stored goods can even stand as collateral for a loan.
-**This lesson's own level:** Unit 3 — Helpers of Trade, lesson 9 of 14 in the course ladder; it stands on Commercial Documents, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit 3 — Helpers of Trade, lesson 9 of 15 in the course ladder; it stands on Commercial Documents, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -39,7 +39,7 @@ Paper and a pencil. Nothing else — the lesson's scenes are the learner's own h
 ## If the learner is stuck
 - Thinks a warehouse is just a big room → it is a working service: goods flow in and out, are graded, conditioned and protected from risk, and the stock is managed so the right amount — not too much, not too little — waits for the buyers.
 - Go back to the one thing: a warehouse keeps goods safe and in condition between making and selling — taking goods in, holding what is needed and no more, grading and conditioning them, and sending them out — so trade never has to stop for want of stock, and stored goods can even stand as collateral for a loan. Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Advertising and Sales Promotion.
+- This lesson's next door: the next lesson in path order — Communication in Trade.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -25,3 +25,9 @@ a) Partner sourcing (part 8): partnerships are the cornerstone of many businesse
 b) Resource sourcing (part 6): every business needs a set of key resources to create its value proposition,…
 c) Something this lesson does not teach.
 **Answer: b) Resource sourcing (part 6): every business needs a set of key resources to create its value proposition,…** — That is what this lesson teaches in its what a new business needs part (Iran's book).
+
+**5.** What does this lesson teach about what a new business needs? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Resource mobilization defined: the process by which a business mobilises the financial, physical, human and…
+c) Something this lesson does not teach.
+**Answer: b) Resource mobilization defined: the process by which a business mobilises the financial, physical, human and…** — That is what this lesson teaches in its what a new business needs part (Nepal's book).

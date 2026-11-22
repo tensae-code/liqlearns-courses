@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about planning production? (Sub lesson 4)
 **Answer:** Writing the plan, part 3 — the production programme: detailing how the product is made or the service delivered from the first stage to the final product — the resources needed, design of the work method, product design and development, location, quality, and the layout of offices and equipment
+
+**6.** In your own words, what does this lesson say about kinds of production? (Sub lesson 4)
+**Answer:** Types of industry: genetic industry (agriculture, animal husbandry, fisheries, plants), extractive industry (taking minerals and forest produce from nature), construction industry, and manufacturing industry in four kinds — analytical (one raw material split into many products, e.g. crude oil into petrol, diesel, aviation fuel), processing, synthetic, and assembling (joining parts made by others into watches, TVs, vehicles)

@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about generating ideas? (Sub lesson 3)
 **Answer:** Developing individual creativity with the SCAMPER method: working a problem through substitute, combine, adapt, modify, put to other uses, eliminate/shrink, and reverse, each with its key questions
+
+**5.** In your own words, what does this lesson say about generating ideas? (Sub lesson 3)
+**Answer:** Creativity and innovation introduced: without creativity a business idea stays narrow; creativity discovers customer needs and new opportunities, and innovation is using knowledge, skill and creativity to turn an idea or invention into new goods and services and put it into practice

@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nigeria and
+and Commerce books of Dominica, Ecuador, Kenya, Malaysia, Nepal, Nigeria and
 Samoa. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
@@ -26,14 +26,14 @@ commerce is, retail, wholesale, buying and selling, credit),
 Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
-organisations, consumer protection). **14 lessons,
-101 placements stocked.**
+organisations, consumer protection). **15 lessons,
+118 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 15 student
-books in all; the 8 below carry this course (the Commerce parts
+`lesson/sources.md`. The set read for the split — 16 student
+books in all; the 9 below carry this course (the Commerce parts
 of each are what stock these lessons). The other 7 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -49,6 +49,9 @@ set is whole.
 
 - *Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado* — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.) — Ministerio de Educación del Ecuador, Quito. © 2019; reprint September 2019; ISBN 978-9978-52-359-9. **Grade 13 (Tercero de Bachillerato, BGU). STUDENT book. Language: Spanish.** 192 PDF pages (printed pp. 1–192). **Verdict: COMPLETE** — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
   - Contents map for this split: the advertising teaching of Unidad 3 (printed pp. 84, 88) fed **Commerce** (2 placements in this course, from this book); Unidades 1–6 and the Anexos fed **Business** (45 placements); the financial-projection teaching of Unidades 4–5 fed **Accounting** (4 placements).
+
+- *व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11)* — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology, Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). **Grade 11 (Class 11). STUDENT book. Language: Nepali** (with English terms given in brackets for every heading and key term). 215 PDF pages (printed pp. 1–214). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 8 exercises end printed p. 209). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Business pending queue, not this one.)
+  - Contents map for this split: the aids-to-trade teaching of Unit 1 (commerce and its dimensions, home and foreign trade, transport, communication, banking, insurance, warehousing, advertising — printed pp. 7–14) and the insurance teaching of Unit 6 (printed pp. 152–164) fed **Commerce** (17 placements in this course, from this book — including the first placement for Communication in Trade, built from this book, and a further placement into Warehousing); Units 1–8 fed **Business** (61 placements). No part fed Accounting.
 
 - *Inventor Business Studies, Form Three Students' Book* — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement on the pages in hand. **Form Three (grade-11 equivalent). STUDENT book. Language: English.** 181 PDF pages (main text printed pp. 1–164). **Verdict: COMPLETE.**
   - Contents map for this split: Ch. 4 (Chain of Distribution) fed **Commerce** (6 placements in this course, from this book); Ch. 2 fed **Business**; Chs. 7–10 fed **Accounting**. The four Economics chapters (Ch. 1 Demand and Supply; Ch. 3 Product Market; Ch. 5 National Income; Ch. 6 Population and Employment) are named, not placed. Scan note: duplicated pages — citations use printed folios.
@@ -70,10 +73,10 @@ set is whole.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 14 lessons,
-  stocked with 101 placements from **student books** of 6
-  countries (Dominica, Ecuador, Kenya, Malaysia, Nigeria, Samoa) —
-  taught in 6 countries. Every lesson's `lesson/sources.md` carries its
+- **Pupil-taught from the books:** all 15 lessons,
+  stocked with 118 placements from **student books** of 7
+  countries (Dominica, Ecuador, Kenya, Malaysia, Nepal, Nigeria, Samoa) —
+  taught in 7 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:** none read
   yet — no teacher guide has been read for this course. Teacher

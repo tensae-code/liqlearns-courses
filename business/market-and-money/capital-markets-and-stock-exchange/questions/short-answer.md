@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the investments part of this lesson in your own words. (Sub lesson 4)
 **Answer:** Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; high-risk growth shares vs low-risk utility shares; capital can be lost); bonds and debentures (IOUs from governments and companies, secured vs unsecured, tradable on stock exchanges); mutual funds (pooled money spread across many shares and bonds to diversify risk); and taking advice from a financial adviser
+
+**4.** In your own words, what does this lesson say about raising funds on the market? (Sub lesson 4)
+**Answer:** Mutual funds (सामूहिक कोष) treated among the ways business capital is raised, alongside shares and debentures

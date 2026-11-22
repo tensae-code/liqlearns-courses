@@ -70,6 +70,28 @@ Watch one sale today — or make a small one. Ask: what was offered, what was ac
 
 **The legal rules.** Workplace safety as law: Ecuador's Labour Code arts. 410–411 oblige employers to give workers conditions that do not endanger health or life, and workers to follow the prevention, safety and hygiene measures (Ecuador's book.)
 
+**The legal rules.** Business tax in Nepal and the PAN: corporate/business tax works by self-assessment; the Permanent Account Number (PAN) is the unique and permanent nine-digit code identifying each taxpayer, issued by the Inland Revenue Department and kept for life whatever changes in the business; the PAN registration process — filling the application form, verification of documents and of information (Nepal's book.)
+
+**The legal rules.** Indirect taxes: charged on goods and services and borne by the consumer inside the price, so the payer and the bearer differ — value added tax (charged at every stage from production to distribution on the value added; Nepal's rate 13%), customs duty and excise duty — with direct and indirect tax compared on shifting, the feeling of burden, rates and examples (Nepal's book.)
+
+**The legal rules.** Direct taxes: paid straight to the government by the person taxed and impossible to shift to another — income tax (charged at progressive rates on the year's earnings, deducted in advance from salary payments), house and land tax, property/wealth tax, corporate tax, interest tax, vehicle tax, rent tax and windfall gain tax (Nepal's book.)
+
+**The legal rules.** What tax is: a compulsory payment to the state from which the taxpayer can expect no direct benefit; its features — compulsory payment, indirect benefit, the government's important source of revenue, law-based (levied by act and rules without discrimination), progressive in nature (more income, property and profit pays at a higher rate), redistribution of wealth, and variety (Nepal's book.)
+
+**The legal rules.** Winding up a company: voluntary winding-up, in which a liquidator (with an auditor) takes control of the company's assets, accounts and records, files income-and-expenditure accounts every six months, pays creditors, distributes the remainder to shareholders and reports to the Registrar until the name is struck off; and court-ordered winding-up under the Insolvency Act, 2063 BS (Nepal's book.)
+
+**The legal rules.** The company registration process in Nepal: choose private or public, choose a distinct name on the Office of the Company Registrar's online portal, prepare the Memorandum, Articles, application and founders' citizenship copies, pay the fee scaled to authorised capital, receive the certificate of incorporation (within seven days), and, for a public company, the certificate of commencement before trading (Nepal's book.)
+
+**The legal rules.** The company's founding documents: the Memorandum of Association — the company's main legal document, like its birth certificate, stating name, registered office address, objectives and scope, powers and the capital structure (Companies Act, 2063 BS); the Articles of Association — the internal rules (directors, meetings, records); and the Prospectus — the document a public company must publish before selling shares or securities to the public, which a private company does not need (Nepal's book.)
+
+**The legal rules.** Registering and renewing a partnership firm in Nepal: registration with the concerned department within six months of formation under the Partnership Act, 2020 BS, fees scaled to capital, and renewal within 35 days of the end of each fiscal year with tax-clearance certificate and audit report (Nepal's book.)
+
+**The legal rules.** Rights and duties of partners: rights — to share profit, to express an opinion, to participate in the business, to be indemnified, to use the firm's property; duties — to share losses, to act faithfully and transparently, to present true accounts to any partner, and to compensate the firm for loss caused by one's own fraud (Nepal's book.)
+
+**The legal rules.** The partnership deed (कबुलियतनामा) and its contents: name and address of the firm, names and addresses of the partners, capital contributions, sharing of profit and loss (equally, by capital ratio, or as agreed), remuneration of working partners, accounts and audit, and other provisions (Nepal's book.)
+
+**The legal rules.** Nepal's own way — registering a sole-trader (private) firm under the Private Firm Registration Act, 2014 BS: application to the Department of Commerce, Supplies and Consumer Protection (trade firms) or the Department of Industry (industry firms), registration fee scaled to capital (with a 50% concession for women, Dalit and deprived-class owners), checking of documents and issue of the certificate; yearly renewal, and the consequences of not renewing (fines, no bank account or loans, tax-evasion exposure) (Nepal's book.)
+
 **The legal rules.** Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary payments, the municipal patent (operating permit), and fees to the lawyers who constitute the venture (Ecuador's book.)
 ## Say it to your companion
 

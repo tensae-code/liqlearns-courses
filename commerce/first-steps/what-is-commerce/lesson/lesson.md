@@ -18,6 +18,9 @@ Think of one thing you used today that was made far away. Write down: who made i
 
 **Money in trade.** Money: what it is, its four functions (medium of exchange, unit of account, store of value, means of deferred payment) and the characteristics good money needs (portable, divisible, acceptable, durable, scarce, homogeneous); token money and how money encourages specialisation
 
+**Opening / the parts of business.** The three dimensions (models) of business: industry, commerce and service enterprise — the map of the whole subject (Nepal's book.)
+
+**What commerce is.** Commerce defined: all the activities that help exchange by carrying goods and services from the place of production to the consumer; buying, selling and exchange in the market (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade. Your companion asks one question back — answer it from the lesson.

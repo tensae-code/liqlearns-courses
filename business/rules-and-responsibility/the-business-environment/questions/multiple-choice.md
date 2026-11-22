@@ -25,3 +25,9 @@ a) Something this lesson does not teach.
 b) The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only…
 c) Something this lesson does not teach.
 **Answer: b) The venture and care of the environment: Ecuador's great biodiversity must be protected from profit-only…** — That is what this lesson teaches in its the world the business sits in part (Ecuador's book).
+
+**5.** What does this lesson teach about the world the business sits in?
+a) Something this lesson does not teach.
+b) The business environment and its components: the internal environment (organisational objectives and…
+c) Something this lesson does not teach.
+**Answer: b) The business environment and its components: the internal environment (organisational objectives and…** — That is what this lesson teaches in its the world the business sits in part (Nepal's book).

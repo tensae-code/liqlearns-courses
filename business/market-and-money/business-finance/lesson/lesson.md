@@ -38,6 +38,10 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Sources of finance.** The map of business credit and its bank sources: loans (and the "triple C" of collateral, creditworthiness, character), overdrafts, bill discounting, debt factoring and acceptance credits.
 
+**Sources of finance.** Working capital and venture capital: working capital keeps daily operations continuous — regular production, paying suppliers, workers and staff on time, keeping customers satisfied — and venture capital is the start-up capital for new ventures (Nepal's book.)
+
+**Sources of finance.** Financial resources: the money element without which a business cannot be set up or run day to day; equity capital and debt capital, fixed capital and working capital (Nepal's book.)
+
 **Sources of finance.** Crowdfunding (TIC page): collective financing lets a project gather resources from the community through platforms such as Indiegogo, backers receiving rewards according to what they contribute (Ecuador's book.)
 
 **Sources of finance.** Fifteen techniques for financing a new venture (Financia tu emprendimiento page, from the author's guide to creating a company without money, drawn from 80 Ecuadorian business owners): own resources, relatives, friends, selling unproductive assets, selling or swapping knowledge, swapping for advertising, customer advances, supplier credit, multi-level systems, alliances with formed companies, partnership in shares, temporary investors, community resources, foundations and non-profits, and credit-card benefits (Ecuador's book.)
@@ -105,6 +109,8 @@ List three things a new business must pay for before it earns anything. Beside e
 **Judging an investment.** The time value of money and Net Present Value (VAN): a dollar today is worth more than a dollar in the future; each projected flow is discounted (12% in the worked example) and the discounted flows are summed against the investment to accept or reject the project (Ecuador's book.)
 
 **Sources of finance / borrowing dangers.** The warning against informal financing (Financia tu emprendimiento page): moneylenders ("chulqueros") who lend with almost no requirements at around 10% a month will sink any lawful venture — no legal business can pay such interest and survive (Ecuador's book.)
+
+**Raising finance.** Reasons for starting a company: limited liability (the investor can lose the investment but not house and land), perpetual succession, the capital-raising facility (shares, debentures and other means raise large sums easily), easy transfer of shares, credibility and reputation, tax exemptions and financial incentives, and expansion opportunities (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison. Your companion asks one question back — answer it from the lesson.

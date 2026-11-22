@@ -19,3 +19,9 @@ d) How effective conventional marketing is compared with digital marketing.
 **3.** What does this lesson teach about the investments? (Sub lesson 4)
 a) Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; …  b) The other financial regulators: Financial Services Commissions license and supervise non-bank institutions …  c) Long-term finance continued: angel investors (a one-off cash injection into a start-up that need not be …
 **Answer: a) Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; …** — That is what this lesson teaches in its investments part (Dominica's book).
+
+**4.** What does this lesson teach about raising funds on the market? (Sub lesson 4)
+a) Something this lesson does not teach.
+b) Mutual funds (सामूहिक कोष) treated among the ways business capital is raised, alongside shares and debentures
+c) Something this lesson does not teach.
+**Answer: b) Mutual funds (सामूहिक कोष) treated among the ways business capital is raised, alongside shares and debentures** — That is what this lesson teaches in its raising funds on the market part (Nepal's book).

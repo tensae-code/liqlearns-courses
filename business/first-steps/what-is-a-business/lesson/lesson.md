@@ -34,7 +34,15 @@ The basics the book builds on: needs vs wants, goods vs services, tangible vs in
 
 **Opening / what a business is.** What a business is: all production, service and buying-and-selling activities carried on for profit; its features — selling and transferring goods and services for value, repeated transactions, the profit motive as the main driver, and activity joined with risk, always facing an uncertain future (Iran's book.)
 
+**Opening / what a business is.** Meaning and definitions of business: a human economic activity in which a person regularly engages in economic activity with the aim of profit; the traditional concept (profit-centred, ignoring the consumer) set against the modern, consumer-oriented concept (satisfying consumers through regular production, distribution and exchange while reaching business goals), with scholars' definitions (Nepal's book.)
+
 **Opening / kinds of business.** Classifying businesses: by type of activity (production, services, trade), by production line, by size (small, medium, large) and by place and ownership, with everyday trades sorted into the classes (Iran's book.)
+
+**Opening / features of a business.** The characteristics of business: it is a human economic activity (set up, run and managed for economic benefit, using labour, capital and other factors), and it creates utilities, deals in production, distribution and exchange, involves regular transactions, the profit motive, capital investment, consumer satisfaction, organisation and risk (Nepal's book.)
+
+**Kinds of business.** Service enterprises: businesses that earn by giving intangible services — knowledge, skill, experience — in kinds including education, health, hospitality and tourism, technology and IT, personal and professional services, transportation and logistics, and maintenance and repair services (Nepal's book.)
+
+**Why a business exists.** Objectives of business in three families: economic objectives (earning profit, creating markets, producing to consumers' tastes, research and development), social objectives (providing quality goods, creating employment, protecting the environment, social responsibility) and human objectives (employee welfare, satisfaction of shareholders/investors, consumer satisfaction) (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors. Your companion asks one question back — answer it from the lesson.

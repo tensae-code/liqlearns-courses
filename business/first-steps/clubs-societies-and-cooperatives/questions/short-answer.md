@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about co-operative and community forms?
 **Answer:** Youth entrepreneurship inside Ecuador's popular and solidarity economy: Constitution art. 283 names the economic system's forms — public, private, mixed, popular and solidarity — including the cooperative, associative and community sectors; state policies link young researchers and youth employment to that economy
+
+**5.** In your own words, what does this lesson say about co-operative forms?
+**Answer:** Common forms of cooperative: producer cooperatives (Nepal's dairy cooperatives named as leaders — milk collection, distribution, livestock services), consumer cooperatives (daily goods at concessional prices), financial (savings and credit) cooperatives, labour cooperatives, multipurpose cooperatives, marketing cooperatives (small farmers marketing together, cutting out middlemen), housing cooperatives and transport cooperatives

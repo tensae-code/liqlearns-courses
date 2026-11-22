@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about the legal rules? (Sub lesson 5)
 **Answer:** Pre-operational expenses: the set-up costs of complying with Ecuadorian law to create a company — notary payments, the municipal patent (operating permit), and fees to the lawyers who constitute the venture
+
+**5.** In your own words, what does this lesson say about the legal rules? (Sub lesson 5)
+**Answer:** The partnership deed (कबुलियतनामा) and its contents: name and address of the firm, names and addresses of the partners, capital contributions, sharing of profit and loss (equally, by capital ratio, or as agreed), remuneration of working partners, accounts and audit, and other provisions

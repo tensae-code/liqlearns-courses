@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about opening / kinds of business?
 **Answer:** Classifying businesses: by type of activity (production, services, trade), by production line, by size (small, medium, large) and by place and ownership, with everyday trades sorted into the classes
+
+**5.** In your own words, what does this lesson say about opening / features of a business?
+**Answer:** The characteristics of business: it is a human economic activity (set up, run and managed for economic benefit, using labour, capital and other factors), and it creates utilities, deals in production, distribution and exchange, involves regular transactions, the profit motive, capital investment, consumer satisfaction, organisation and risk

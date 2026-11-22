@@ -13,3 +13,9 @@ a) It is printed on special paper  b) A bank stamps it twice  c) A holder takes 
 **3.** What does this lesson teach about the cheques? (Sub lesson 5)
 a) Cheques as an instrument of exchange: the parts of a cheque (number, date, payee, amount in words and …  b) Saving vs investing, and the main investments: shares (owning part of a company; buying low and selling high; …  c) Single entry bookkeeping: a simple record of income and expenses in a manual cash book or spreadsheet, …
 **Answer: a) Cheques as an instrument of exchange: the parts of a cheque (number, date, payee, amount in words and …** — That is what this lesson teaches in its cheques part (Dominica's book).
+
+**4.** What does this lesson teach about aids to trade? (Sub lesson 5)
+a) Something this lesson does not teach.
+b) Auxiliaries to trade, 3 — banks and finance: banks and financial institutions supply the fixed and working…
+c) Something this lesson does not teach.
+**Answer: b) Auxiliaries to trade, 3 — banks and finance: banks and financial institutions supply the fixed and working…** — That is what this lesson teaches in its aids to trade part (Nepal's book).

@@ -30,6 +30,8 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **What a new business needs.** Resource sourcing (part 6): every business needs a set of key resources to create its value proposition, reach the market, keep customer relationships and earn revenue; resources are classed as physical (buildings, vehicles, equipment), human, financial and social (networks, cooperation, trust) (Iran's book.)
 
+**What a new business needs.** Resource mobilization defined: the process by which a business mobilises the financial, physical, human and information resources it needs to reach its goals; these resources are the backbone of the business, and people come first — a plan needs planners, managers, production experts, staff and workers (Nepal's book.)
+
 **Setting up.** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources (Iran's book.)
 ## Say it to your companion
 

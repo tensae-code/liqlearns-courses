@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** In your own words, what does this lesson say about risk in one's own business? (Sub lesson 2)
 **Answer:** Risk analysis: listing the venture's potential risks in detail (worked example: community opposition to cutting trees for sports courts), then prioritising them by probability of occurrence and impact, and designing mitigation strategies so the entrepreneur is prepared
+
+**4.** In your own words, what does this lesson say about risk in one's own business? (Sub lesson 2)
+**Answer:** The role of insurance in business: risk management (theft, fire, natural disaster, legal cases), business continuity, compliance with insurance law, financial stability (the insurer shares the burden of unexpected losses), protection of employees, building reputation and trust, and help with investment and expansion

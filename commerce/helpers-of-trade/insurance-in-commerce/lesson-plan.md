@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Insurance in Commerce
 **Place in the curriculum:** Unit — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** insurance is pooled protection: many pay small premiums into one fund, and the fund pays the few who suffer the loss — governed by insurable interest, indemnity and utmost good faith.
-**This lesson's own level:** Unit — Helpers of Trade, lesson 11 of 14 in the course ladder; it stands on Advertising and Sales Promotion, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Helpers of Trade, lesson 12 of 15 in the course ladder; it stands on Advertising and Sales Promotion, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **How insurance works — and its three principles**
 2. **The policies a trader can take** — insurance of goods and trade debts.
-3. **Insurance companies serving trade**
+3. **Insurance companies serving trade**; aids to trade; insurance as a trade service.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

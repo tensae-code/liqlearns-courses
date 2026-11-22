@@ -1,6 +1,6 @@
 # Sources — Business Law and Regulation
 
-countries: Malaysia, Nigeria, Dominica, Ecuador
+countries: Malaysia, Nigeria, Dominica, Ecuador, Nepal
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -11,6 +11,9 @@ countries: Malaysia, Nigeria, Dominica, Ecuador
 **Book 4:** Principles of Business for CSEC® Examinations, Second edition (student book) — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu. Contributors: Paul Anderson, Wayne Dass, Kamla Mungal, Margaret Latchman-Nicholson, Carlisle Pemberton, Nadia Salamat-Ali, Kailashnath Maharaj — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; this (second) edition 2019. Grade: Grade 11 (CSEC, Caribbean secondary certificate level). Language: English (Caribbean examples throughout). Page count: 425 PDF pages (printed pp. 1–~419 plus roman-numeral front matter; body teaching printed pp. 2–391, SBA section pp. 392–405, Glossary p. 412 ff.). Source: manifest manifests-phase2/dominica.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-2), to scratch-phase2/dominica/dominica-principles-of-business-csec-macmillan.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 10 ends printed p. 391; SBA guidance pp. 392–405 is exam-coursework apparatus, named, not placed).
 
 **Book 5:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
+
+**Book 6:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,7 +46,18 @@ countries: Malaysia, Nigeria, Dominica, Ecuador
 | regulation and deregulation | Book 4 (Principles of Business for CSEC), printed pp. 320–321 |
 | the legal rules | Book 5 (Emprendimiento y Gestión 3), printed p. 92 |
 | the legal rules | Book 5 (Emprendimiento y Gestión 3), printed p. 108 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 57 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 71 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 73 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 76 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 93 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 99 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 108 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 169 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 172 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 174 |
+| the legal rules | Book 6 (Business Studies Cl. 11), printed p. 176 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Nigeria, Dominica, Ecuador)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Malaysia, Nigeria, Dominica, Ecuador, Nepal)** — every book above is a student book, so each country counts.
 
-Searchable tags: business law and regulation, rules and responsibility, business, malaysia, nigeria, dominica, ecuador
+Searchable tags: business law and regulation, rules and responsibility, business, malaysia, nigeria, dominica, ecuador, nepal

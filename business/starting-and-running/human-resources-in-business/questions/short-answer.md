@@ -16,3 +16,6 @@ Answer in a sentence or two, in your own words.
 
 **5.** In your own words, what does this lesson say about organising people? (Sub lesson 3)
 **Answer:** The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business — management team, human resources and their duties — fixes each member's limits and authority, drawn as manager, deputy, finance manager, sales manager and human-resources manager
+
+**6.** In your own words, what does this lesson say about looking after people at work? (Sub lesson 3)
+**Answer:** Human resources in the business: recruitment — seeking out likely employees and encouraging them to apply, done internally (promotion, transfer, internal advertisement) or externally — then selection (application forms, selection tests and examinations, deep interview, background study, medical examination, placement), and retention: creating the environment that keeps high-performing employees in the organisation

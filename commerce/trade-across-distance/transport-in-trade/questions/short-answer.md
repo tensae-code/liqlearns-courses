@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the multimodal and intermodal transport part of this lesson in your own words.
 **Answer:** Multimodal vs intermodal transport: multimodal — one specialist carrier contracts for and is legally responsible for the whole journey across several modes; intermodal — each leg contracted separately, each carrier responsible only for its leg, giving the producer more flexibility
+
+**4.** In your own words, what does this lesson say about aids to trade?
+**Answer:** Auxiliaries to trade, 1 — transportation: it carries produced goods through intermediaries from the place of production to the place of sale, creating place utility; road, rail, water and air transport also move people, machinery and raw materials, so transport is vital to industry and commerce

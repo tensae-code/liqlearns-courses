@@ -16,6 +16,7 @@ Not every good travels the long chain. A producer may sell directly to local ret
 
 Methods of retailing compared: shops (convenience shops, supermarkets), department stores, mail order, e-commerce, tele-marketing and vending machines — with the retailer's place as final link between manufacturer and consumer
 
+**Home trade.** Retail trade: the retailer has a direct relation with the final consumer and satisfies them by selling the wanted goods at the wanted time and place at a fair price (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the retailer is the last seller in the chain — the one who sells to the final consumer — and retail trade works through short channels and on credit given and received. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why retailers need credit, the short channels. Your companion asks one question back — answer it from the lesson.

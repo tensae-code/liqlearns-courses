@@ -1,6 +1,6 @@
 # Sources — Starting a Business
 
-countries: Kenya, Malaysia, Samoa, Dominica, Iran
+countries: Kenya, Malaysia, Samoa, Dominica, Iran, Nepal
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. No year or edition statement appears on the pages in hand. Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (main text printed pp. 1–164). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page. This scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -16,6 +16,9 @@ countries: Kenya, Malaysia, Samoa, Dominica, Iran
 
 **Book 7:** کارگاه کارآفرینی و تولید (Entrepreneurship and Production Workshop) — second period of secondary education, book code 110224 (student book) — planning and authorship council of the Office for Compiling General and Theoretical Secondary Textbooks (authorship group incl. Mohammad Taqi Toghraei, Seyyed Saeed Mirvahedi, Somayeh Hashemi, Fereshteh Azizi Malekabadi, Behnam Niknejad, Amin Habibi Rad; editor Hossein Davoudi) — Ministry of Education, Organisation for Educational Research and Planning, Tehran; printed and published by the Iran Textbook Printing and Publishing Company. Tenth printing, 1405 (school year 1405–1406); ISBN 978-964-05-2523-4. Grade: Grade 10 (first year of the second period of secondary education). Language: Persian. Page count: 136 PDF pages (printed pp. 1–128 plus front matter). Source: manifest manifests-phase2/iran.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-6), to scratch-phase2/iran/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Section 32 ends printed p. 127; sources list p. 128).
 
+**Book 8:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
+
+
 | Lesson part | Where it comes from |
 |---|---|
 | location part of the lesson | Book 1 (Kenya Business Form 3), printed p. 25 |
@@ -29,7 +32,8 @@ countries: Kenya, Malaysia, Samoa, Dominica, Iran
 | business location | Book 6 (Principles of Business for CSEC), printed pp. 113–116 |
 | what a new business needs | Book 7 (Entrepreneurship and Production Workshop), printed p. 97 |
 | setting up | Book 7 (Entrepreneurship and Production Workshop), printed p. 101 |
+| what a new business needs | Book 8 (Business Studies Cl. 11), printed p. 38 |
 
-**Acceptance count: taught in 5 countries (Kenya, Malaysia, Samoa, Dominica, Iran)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Malaysia, Samoa, Dominica, Iran, Nepal)** — every book above is a student book, so each country counts.
 
-Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran
+Searchable tags: starting a business, starting and running, business, kenya, malaysia, samoa, dominica, iran, nepal

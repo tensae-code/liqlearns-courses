@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about technology in business?
 **Answer:** ERP systems (TIC page): Enterprise Resource Planning tools (the free, modular Dolibarr ERP named for SMEs, freelancers and associations) centralise a company's information, avoid duplication and ease financial management
+
+**5.** In your own words, what does this lesson say about technology in business?
+**Answer:** Electronic filing and electronic file management: scanning documents into digital form, classifying and storing them on hard drive, server or cloud; the tools (file explorer, cloud storage services, document management systems), folder structure, naming files, access control and file security, file backup and recovery, and preservation

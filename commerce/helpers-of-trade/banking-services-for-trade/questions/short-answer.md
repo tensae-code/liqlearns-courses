@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the payment instruments part of this lesson in your own words. (Sub lesson 4)
 **Answer:** The other common instruments of exchange compared in one table: credit cards, debit (Linx) cards, bills of exchange, electronic transfers, internet banking, tele-banking, money orders, bank drafts, telegraphic/wire transfers (SWIFT) and mobile money/wallets
+
+**4.** In your own words, what does this lesson say about aids to trade? (Sub lesson 5)
+**Answer:** Auxiliaries to trade, 3 — banks and finance: banks and financial institutions supply the fixed and working capital and loans a business needs to set up and run, and organise and secure trade with services such as bank overdraft, letters of credit and remittance

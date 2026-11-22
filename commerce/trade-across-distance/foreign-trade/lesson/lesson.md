@@ -34,6 +34,7 @@ Name one thing your country sells to the world and one thing it must buy from th
 
 **Pros and cons of trade.** Advantages and disadvantages of international trade: advantages — local businesses expand into new markets and sell at higher volumes, competition forces up quality and down prices, selling in several countries spreads risk, unavailable products can be imported, and countries access resources for a wider range of industries; disadvantages — dumping of very cheap foreign goods, faster depletion of natural resources, large import bills causing foreign currency shortages, unbalanced development, and dependence on other countries for essentials such as food and raw materials
 
+**Trade across borders.** Foreign (external/international) trade between two or more countries, in three kinds: import trade (buying from another country to sell at home), export trade, and re-export / entrepôt trade (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit. Your companion asks one question back — answer it from the lesson.

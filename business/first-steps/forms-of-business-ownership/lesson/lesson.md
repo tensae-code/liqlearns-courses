@@ -14,6 +14,26 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Forms of ownership.** Samoa's private-sector ownership forms in full: sole trader (one owner, unlimited liability, own capital or loans), partnership (2–25 partners, joint liability, sleeping partner, partnership agreement/deed, NZ Partnership Act 1908 applying in Samoa), private limited company (family/friends, unlisted, separate legal entity, dividends) and public limited company (listed, board elected at the AGM, prospectus, debentures, audited published accounts).
 
+**Forms of ownership.** Multinational companies: home country and host country; features — global presence, centralised control with local adaptation, large-scale operation, advanced technology and innovation, significant investment in host countries, diversified products and operations, global brand recognition — and roles: job creation and economic development, technology transfer, access to global markets, rising living standards (Nepal's book.)
+
+**Forms of ownership.** Public enterprises: institutions under the government's partial or full ownership (Nepal Oil Corporation named), established to give the public goods and services easily and cheaply rather than for profit; features — government control and management, service orientation, separate legal entity, public accountability, financial autonomy, autonomous management — and their roles in infrastructure development, social welfare, market regulation and government revenue (Nepal's book.)
+
+**Forms of ownership.** Challenges of company business: difficult to establish, the gap between ownership and management, lack of privacy/secrecy, speculation in shares (insiders manufacturing artificial rises and falls, endangering the public's investment), groupism of authority, conflict of interest and social vices (Nepal's book.)
+
+**Forms of ownership.** Private versus public companies in Nepal: a private company has 1 to 101 shareholders, may not sell shares or debentures to the public, and writes Pvt. Ltd. after its name; a public company has at least 7 shareholders and no maximum, lists on the stock exchange to sell shares to the public, writes Ltd., and needs both a certificate of incorporation and a certificate of commencement; minimum paid-up capital and the roles of promoters and the board of directors (Nepal's book.)
+
+**Forms of ownership.** Company business: a company as an artificial person with a separate legal entity; its features — limited liability (a shareholder risks only the amount of their shares), permanent existence, transferable shares, separation of ownership and management, and capital accumulation (Nepal's book.)
+
+**Forms of ownership.** Dissolution of a partnership: by agreement of all partners, on expiry of a fixed term or completion of the project, by notice, on the death of a partner, by the court, and on business failure or closure (Partnership Act, chapter 5) (Nepal's book.)
+
+**Forms of ownership.** Why partnerships are started — easy registration process, division of work and responsibility, availability of more capital, risk sharing, and partners' differing knowledge and skill — and their challenges: financial inequality, unequal levels of investment, power imbalance and lack of communication, with suggestions for a fair partnership built on trust and open, honest discussion (Nepal's book.)
+
+**Forms of ownership.** The partnership firm: partners agree to run a lawful business together for private profit (Partnership Act, 2020 BS); its features — number of partners, agreement between partners, distribution of profit and loss, unlimited liability, common objective, limits on transferring a share, and dissolution of the firm (Nepal's book.)
+
+**Forms of ownership.** Advantages of sole trading: employment opportunity for oneself and family on little investment, sole ownership of all profit (which keeps the owner devoted), independent and quick decision making, flexibility in operation, low and easy installation cost, and easy dissolution once liabilities are paid (Nepal's book.)
+
+**Forms of ownership.** The sole trading concern: a business under one person's ownership, management and control, who invests their own capital and alone bears all liability, risk, profit and loss; its features — sole ownership, freedom and flexibility, sole right to profit and loss, easy to establish, unlimited liability, secrecy, close relationship with the consumer, limited scope of operation (Nepal's book.)
+
 **Sole trader.** The sole trader: one person owns, finances and controls the business; characteristics (small scale, easy to set up, unlimited liability, personalised service) with advantages and disadvantages (all profits and quick decisions vs unlimited liability, limited finance, lack of continuity)
 
 **Partnerships.** Partnerships: general, limited and limited-liability partnerships; their advantages/disadvantages; and the Partnership Deed (capital contributions, profit-sharing ratio, roles, voting, duration, dissolution) with the default Partnership Act rules when there is no deed
@@ -52,6 +72,9 @@ Take three businesses you know: one run by a single person, one run by partners 
 
 **Cooperatives.** Cooperatives: jointly owned, democratically controlled by members; the three types (consumer, worker, producer/marketing) and the seven governing principles (open membership, one member one vote, member economic participation, autonomy, education, cooperation among cooperatives, concern for community)
 
+**Choosing a form.** Sole trading and partnership compared side by side: who bears profit and loss, who holds decision rights and control, how risk and liability fall, and how capital is raised (Nepal's book.)
+
+**Choosing a form.** Choosing the business form: the factors that decide it — nature of the business, capital requirements, liability and risk, control and decision making, taxation policy (the pass-through system for sole traders and partnerships, where owners pay tax on business income, against company taxation and possible double tax) and legal formalities (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company. Your companion asks one question back — answer it from the lesson.

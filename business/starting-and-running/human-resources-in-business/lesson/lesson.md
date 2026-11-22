@@ -36,6 +36,8 @@ Count the workers in one business you know. For each, name the job they do and o
 
 **Looking after people at work.** Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that can harm workers' health or safety, in public or private firms alike (Ecuador's book.)
 
+**Looking after people at work.** Human resources in the business: recruitment — seeking out likely employees and encouraging them to apply, done internally (promotion, transfer, internal advertisement) or externally — then selection (application forms, selection tests and examinations, deep interview, background study, medical examination, placement), and retention: creating the environment that keeps high-performing employees in the organisation (Nepal's book.)
+
 **Organising people.** The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business — management team, human resources and their duties — fixes each member's limits and authority, drawn as manager, deputy, finance manager, sales manager and human-resources manager (Iran's book.)
 ## Say it to your companion
 

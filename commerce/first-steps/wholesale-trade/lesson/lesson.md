@@ -26,7 +26,7 @@ Take one good — a sack of rice or a box of soap. Draw every hand it passes thr
 
 **Why wholesalers need credit.** Wholesaling runs on credit. A wholesaler needs it to buy facilities and branches, to finance producers, to sell to retailers on credit in turn, to buy in bulk, and to hold stock while waiting for an expected price rise. Credit flows down the chain because the wholesaler both receives it and gives it.
 
-
+**Home trade.** Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk between producer and retailer (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: the wholesaler stands in the middle of the chain of distribution — buying in bulk from producers and selling on to retailers — and every middleman in the chain does real work and adds a real charge. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the channel patterns, the channels kenyan goods follow, the chain drawn whole, the taro chain. Your companion asks one question back — answer it from the lesson.

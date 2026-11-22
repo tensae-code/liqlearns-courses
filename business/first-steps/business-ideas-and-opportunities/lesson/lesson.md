@@ -24,6 +24,10 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Where business ideas come from.** Finding a venture idea by detecting the needs of one's own area: listing what the market lacks, using Maslow's hierarchy (physiological, safety, belonging, esteem, self-realisation) to prioritise which needs matter most (Ecuador's book.)
 
+**Where business ideas come from.** Sources of business ideas: existing products (studying their strengths and weaknesses against competitors), government policies, research and development, and the network of business actors — buyers, suppliers, channel members (wholesalers, retailers, agents) and consultants — plus brainstorming (Nepal's book.)
+
+**Where business ideas come from.** The unit's own way in: a traditional waste-collection routine contrasted with a modern mobile-app collection service, showing how a business idea grows out of a community problem (Nepal's book.)
+
 **Where business ideas come from.** Finding ideas from experience: one's past work in a company or industry is one of the best places to find an idea (research cited in the book found most idea-givers drew on the field they had worked in) (Iran's book.)
 
 **Where business ideas come from.** Recognising opportunity: the most important element in becoming an entrepreneur; an entrepreneurial opportunity is a situation in which new goods, services, raw materials and methods can be introduced and sold for more than their cost of production, and opportunities come from identifying new problems and needs that can be turned into a business or economic value (Iran's book.)
@@ -37,6 +41,12 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 **Judging opportunities.** The needs-evaluation matrix: candidate ventures set in columns against the chosen qualitative and quantitative variables so the alternatives can be compared side by side (Ecuador's book.)
 
 **Generating ideas.** Creative (divergent) thinking: the ability to produce new solutions and goals by combining, changing and applying existing ideas, and to see relations others miss; creativity is not a talent but a skill that can be learned, like driving (Iran's book.)
+
+**Generating ideas.** The basic elements of creative behaviour: imagination and originality, flexibility, curiosity, collaboration (no one creates alone in business; collaboration solves problems in new ways) and self-expression (Nepal's book.)
+
+**Generating ideas.** Creativity versus innovation compared: creativity is abstract and generates the initial idea, innovation is concrete and is the implementation stage that creates value (thinking up a foldable phone versus bringing the foldable phone to market) (Nepal's book.)
+
+**Generating ideas.** Creativity and innovation introduced: without creativity a business idea stays narrow; creativity discovers customer needs and new opportunities, and innovation is using knowledge, skill and creativity to turn an idea or invention into new goods and services and put it into practice (Nepal's book.)
 
 **Generating ideas.** Innovation and TRIZ: innovation is creativity put to use, offered to the market as a new product or service; TRIZ is Altshuller's systematic method for problem solving and growing creativity, distilled from studying over 200,000 inventions into a small set of general inventive solutions (Iran's book.)
 

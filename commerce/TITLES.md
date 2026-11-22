@@ -16,14 +16,15 @@ The grade a book comes from lives only in each lesson's sources.
 7. Foreign Trade — `trade-across-distance/foreign-trade/`
 8. Commercial Documents — `helpers-of-trade/commercial-documents/`
 9. Warehousing — `helpers-of-trade/warehousing/`
-10. Advertising and Sales Promotion — `helpers-of-trade/advertising-and-sales-promotion/`
-11. Insurance in Commerce — `helpers-of-trade/insurance-in-commerce/`
-12. Banking Services for Trade — `helpers-of-trade/banking-services-for-trade/`
-13. Trade Organisations and Institutions — `institutions-and-the-consumer/trade-organisations-and-institutions/`
-14. Consumer Protection in Trade — `institutions-and-the-consumer/consumer-protection-in-trade/`
+10. Communication in Trade — `helpers-of-trade/communication-in-trade/`
+11. Advertising and Sales Promotion — `helpers-of-trade/advertising-and-sales-promotion/`
+12. Insurance in Commerce — `helpers-of-trade/insurance-in-commerce/`
+13. Banking Services for Trade — `helpers-of-trade/banking-services-for-trade/`
+14. Trade Organisations and Institutions — `institutions-and-the-consumer/trade-organisations-and-institutions/`
+15. Consumer Protection in Trade — `institutions-and-the-consumer/consumer-protection-in-trade/`
 
 ## Held as expected-from-pending (not built — no placements yet)
 
 - Warehousing — `warehousing` was held here until Dominica's *Principles of Business for CSEC Examinations* (Second Edition, Macmillan 2019) was read in the Phase 2 wave; built from its placement on 2026-11-22, among the Helpers of Trade, and stands in the ladder above.
-- Communication in Trade — `communication-in-trade` (expected from the same pending carriers)
+- Communication in Trade — `communication-in-trade` was held here until Nepal's *Business Studies, Class 11* (Government of Nepal, Curriculum Development Centre, 2082 BS) was read in the Phase 2 wave; built from its placement on 2026-11-22, among the Helpers of Trade, and stands in the ladder above.
 - Arbitration and Trade Disputes — `arbitration-and-trade-disputes` (held on the spine; built only if a read book places it)

@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the channels of distribution part of this lesson in your own words. (Sub lesson 1)
 **Answer:** Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions and benefits of wholesalers (bulk buying, breaking bulk, storage, promotion, credit to retailers, transport, market feedback) and of retailers, and the four alternative channels (direct, via retailer only, via wholesaler only, via wholesaler and retailer)
+
+**4.** In your own words, what does this lesson say about home trade? (Sub lesson 3)
+**Answer:** Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk between producer and retailer

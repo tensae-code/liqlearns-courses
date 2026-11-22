@@ -13,3 +13,9 @@ a) Only government offices  b) Only co-operatives  c) Retailers and wholesalers 
 **3.** What does this lesson teach about the modes of transport?
 a) Transport in trade: its roles (physical supply, specialisation, mobility of labour and capital, sales, …  b) Pricing: the factors in a pricing decision (cost, demand, competition, substitutes, life-cycle stage) and the …  c) Personal/direct selling: the qualities of successful salespeople (empathy, focus, responsibility, …
 **Answer: a) Transport in trade: its roles (physical supply, specialisation, mobility of labour and capital, sales, …** — That is what this lesson teaches in its modes of transport part (Dominica's book).
+
+**4.** What does this lesson teach about aids to trade?
+a) Something this lesson does not teach.
+b) Auxiliaries to trade, 1 — transportation: it carries produced goods through intermediaries from the place of…
+c) Something this lesson does not teach.
+**Answer: b) Auxiliaries to trade, 1 — transportation: it carries produced goods through intermediaries from the place of…** — That is what this lesson teaches in its aids to trade part (Nepal's book).

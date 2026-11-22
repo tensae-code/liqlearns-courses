@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Helpers of Trade · **Lesson:** Advertising and Sales Promotion
 **Place in the curriculum:** Unit — Helpers of Trade (CURRICULUM.md).
 **The one thing this lesson teaches:** a business wins customers by promotion in four forms — personal selling, public relations, sales promotion and advertising — each with its own moment, its own tools and its own cost.
-**This lesson's own level:** Unit — Helpers of Trade, lesson 10 of 14 in the course ladder; it stands on Warehousing, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Helpers of Trade, lesson 11 of 15 in the course ladder; it stands on Communication in Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The four forms of promotion** — sales promotion and public relations.
 2. **Sales promotion — the short push**
-3. **Advertising — the paid message** — advertising; promoting goods.
+3. **Advertising — the paid message** — advertising; promoting goods; aids to trade.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

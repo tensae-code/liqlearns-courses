@@ -3,7 +3,7 @@
 **Course:** Commerce · **Title:** Trade Across Distance · **Lesson:** Foreign Trade
 **Place in the curriculum:** Unit — Trade Across Distance (CURRICULUM.md).
 **The one thing this lesson teaches:** foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them.
-**This lesson's own level:** Unit — Trade Across Distance, lesson 7 of 14 in the course ladder; it stands on Transport in Trade, the lesson before it in path order (recommended, never forced).
+**This lesson's own level:** Unit — Trade Across Distance, lesson 7 of 15 in the course ladder; it stands on Transport in Trade, the lesson before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
@@ -13,7 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What foreign trade is**
 2. **Terms of sale — who bears which cost** — economic institutions.
 3. **Documents and the letter of credit**
-4. **Restrictions — and the trends against them** — international trade; pros and cons of trade.
+4. **Restrictions — and the trends against them** — international trade; pros and cons of trade; trade across borders.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

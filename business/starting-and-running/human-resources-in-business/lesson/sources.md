@@ -1,6 +1,6 @@
 # Sources — Human Resources in Business
 
-countries: Malaysia, Dominica, Ecuador, Iran
+countries: Malaysia, Dominica, Ecuador, Iran, Nepal
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -11,6 +11,9 @@ countries: Malaysia, Dominica, Ecuador, Iran
 **Book 4:** Emprendimiento y Gestión 3 BGU — Texto del estudiante, Tercero de Bachillerato General Unificado (student book) — Wilson Mariño Tamayo (Maya Ediciones C. Ltda.: general direction Patricio Bustos Peñaherrera; general editor Juan Páez Salcedo) — Ministerio de Educación del Ecuador, Quito (produced by Maya Ediciones C. Ltda.). © Ministerio de Educación del Ecuador, 2019; reprint September 2019; ISBN 978-9978-52-359-9. Grade: Grade 13 (Tercero de Bachillerato, BGU). Language: Spanish. Page count: 192 PDF pages (printed pp. 1–192). Source: manifest manifests-phase2/ecuador.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-8), to scratch-phase2/ecuador/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Annexes end printed p. 191; Bibliografía p. 192).
 
 **Book 5:** کارگاه کارآفرینی و تولید (Entrepreneurship and Production Workshop) — second period of secondary education, book code 110224 (student book) — planning and authorship council of the Office for Compiling General and Theoretical Secondary Textbooks (authorship group incl. Mohammad Taqi Toghraei, Seyyed Saeed Mirvahedi, Somayeh Hashemi, Fereshteh Azizi Malekabadi, Behnam Niknejad, Amin Habibi Rad; editor Hossein Davoudi) — Ministry of Education, Organisation for Educational Research and Planning, Tehran; printed and published by the Iran Textbook Printing and Publishing Company. Tenth printing, 1405 (school year 1405–1406); ISBN 978-964-05-2523-4. Grade: Grade 10 (first year of the second period of secondary education). Language: Persian. Page count: 136 PDF pages (printed pp. 1–128 plus front matter). Source: manifest manifests-phase2/iran.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-6), to scratch-phase2/iran/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Section 32 ends printed p. 127; sources list p. 128).
+
+**Book 6:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,7 +31,8 @@ countries: Malaysia, Dominica, Ecuador, Iran
 | training support | Book 3 (Principles of Business for CSEC), printed p. 333 |
 | looking after people at work | Book 4 (Emprendimiento y Gestión 3), printed p. 66 |
 | organising people | Book 5 (Entrepreneurship and Production Workshop), printed p. 113 |
+| looking after people at work | Book 6 (Business Studies Cl. 11), printed p. 44 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Dominica, Ecuador, Iran)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 5 countries (Malaysia, Dominica, Ecuador, Iran, Nepal)** — every book above is a student book, so each country counts.
 
-Searchable tags: human resources in business, starting and running, business, malaysia, dominica, ecuador, iran
+Searchable tags: human resources in business, starting and running, business, malaysia, dominica, ecuador, iran, nepal

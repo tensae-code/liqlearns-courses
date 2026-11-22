@@ -13,3 +13,9 @@ a) Growing the crop  b) Advertising the good  c) Dividing a large delivery into 
 **3.** What does this lesson teach about the channels of distribution? (Sub lesson 1)
 a) Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions …  b) The government's role and its impact on business: government is consumer, producer, employer, law maker and …  c) Direct taxes: collected directly from the income or wealth of individuals and businesses, who bear the burden …
 **Answer: a) Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions …** — That is what this lesson teaches in its channels of distribution part (Dominica's book).
+
+**4.** What does this lesson teach about home trade? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk…
+c) Something this lesson does not teach.
+**Answer: b) Home (internal) trade divided into wholesale and retail trade; wholesale trade as the link that buys in bulk…** — That is what this lesson teaches in its home trade part (Nepal's book).

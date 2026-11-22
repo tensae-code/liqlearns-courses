@@ -15,3 +15,9 @@ a) Something this lesson does not teach.
 b) Risk analysis: listing the venture's potential risks in detail (worked example: community opposition to…
 c) Something this lesson does not teach.
 **Answer: b) Risk analysis: listing the venture's potential risks in detail (worked example: community opposition to…** — That is what this lesson teaches in its risk in one's own business part (Ecuador's book).
+
+**4.** What does this lesson teach about risk in one's own business? (Sub lesson 2)
+a) The role of insurance in business: risk management (theft, fire, natural disaster, legal cases), business…
+b) The concept of business risk: the possibility of loss from unexpected events arising in the course of running…
+c) Something this lesson does not teach.
+**Answer: b) The concept of business risk: the possibility of loss from unexpected events arising in the course of running…** — That is what this lesson teaches in its risk in one's own business part (Nepal's book).

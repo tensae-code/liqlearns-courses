@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the methods of retailing part of this lesson in your own words.
 **Answer:** Methods of retailing compared: shops (convenience shops, supermarkets), department stores, mail order, e-commerce, tele-marketing and vending machines — with the retailer's place as final link between manufacturer and consumer
+
+**4.** In your own words, what does this lesson say about home trade?
+**Answer:** Retail trade: the retailer has a direct relation with the final consumer and satisfies them by selling the wanted goods at the wanted time and place at a fair price

@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about promoting goods? (Sub lesson 3)
 **Answer:** The advertising and commercial plan inside the investment project: choosing the advertising and promotion tools and the commercial strategies that will meet the programmed sales — the plan generates the advertising that attracts customers to the point of sale
+
+**5.** In your own words, what does this lesson say about aids to trade? (Sub lesson 3)
+**Answer:** Auxiliaries to trade, 6 — advertisement and promotion, named among the helpers of trade

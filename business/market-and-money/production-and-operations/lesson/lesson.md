@@ -63,6 +63,12 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 **Quality in production.** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back (Ecuador's book.)
 
 **Planning production.** Writing the plan, part 3 — the production programme: detailing how the product is made or the service delivered from the first stage to the final product — the resources needed, design of the work method, product design and development, location, quality, and the layout of offices and equipment (Iran's book.)
+
+**How production serves the customer.** Creation of utilities: utility is a good's or service's power to satisfy human wants; business creates form utility (changing raw material into finished goods), place utility (moving goods to where consumers are), time utility (storing goods in a warehouse until they are needed) and ownership utility (Nepal's book.)
+
+**Kinds of production.** Types of industry: genetic industry (agriculture, animal husbandry, fisheries, plants), extractive industry (taking minerals and forest produce from nature), construction industry, and manufacturing industry in four kinds — analytical (one raw material split into many products, e.g. crude oil into petrol, diesel, aviation fuel), processing, synthetic, and assembling (joining parts made by others into watches, TVs, vehicles) (Nepal's book.)
+
+**The physical side of production.** Physical resources: land and building (needed for as long as the business exists), machinery and equipment (to be chosen for quality, low operating cost, durability, flexibility and after-sales service, saving labour and time and raising accuracy), and furniture and fixtures (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

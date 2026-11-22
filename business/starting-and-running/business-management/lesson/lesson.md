@@ -91,6 +91,22 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 **Deciding and solving.** Goal setting: goals are the most important factor in moving and creating the future; the features of effective goals — specific and clear (answering what, when, where, by whom), measurable, achievable within one's limits (Iran's book.)
 
 **Deciding and solving.** The "Five Whys" technique: asking why five times in a chain to root-cause a problem and reach its main causes (Iran's book.)
+
+**Running a business.** Functions of business: the production function, financing function, marketing function, organising function, employment function and research-and-development function (identifying consumer tastes, finding market demand, studying new technology, watching competitors' strategies) (Nepal's book.)
+
+**Running an organisation.** Company meetings: the shareholders' annual general meeting, the special/extraordinary general meeting (called for urgent matters such as mergers, bonus shares, buy-back of shares, or converting private to public), and meetings of the board of directors (approving financial statements, recommending dividends, plans and delegation of authority, with dissent recorded in the minutes) (Nepal's book.)
+
+**Running an organisation.** Indexing: arranging a guide so files and documents can be found fast; its objectives (saving staff time, preventing repeated work from lost documents, keeping old records available for memory and reference), and its types — book index, loose-leaf index, card index (including album, visible and rotary card indexes) and the electronic index searched by name, title, date or code (Nepal's book.)
+
+**Running an organisation.** Filing: keeping letters and records arranged so they can be used easily when needed as reference; its objectives, and its types — traditional filing (wire filing, pigeonhole filing, baggage/bundle filing, misil filing, box filing) against modern filing (open-shelf, horizontal, vertical, suspension and lateral filing, and electronic filing) (Nepal's book.)
+
+**Running an organisation.** Information management: the information cycle — collection, classification, storage (guarded against theft, loss and unauthorised use), distribution and protection — and the principles of information management: accuracy, relevancy, timeliness, completeness, accessibility, security, efficiency, uniformity, usability and legal compliance (Nepal's book.)
+
+**Running an organisation.** Record management: records as the formal information an institution will need again (correspondence, registers, vouchers, files, HR, accounts and legal documents), and the importance of managing their creation, keeping and destruction — protection of documents, easy access to information, help in decision making, fulfilling legal compliance, preservation of institutional memory, accountability and transparency, and coordination and communication (Nepal's book.)
+
+**Running an organisation.** The importance of the office and office system development: the office as information centre, evidence of existence, medium of communication, centre for planning and policy, and the place of coordination of work, direction and control, memory and service; developing the office's own work system so work becomes quick, uniform and effective (Nepal's book.)
+
+**Running an organisation.** The office and its functions: the traditional view (a place) against the modern view (a process that also implements the plans and policies it makes); office functions split into regular/basic functions — information acquisition and collection, recording of information (inward and outward/dispatch books), analysis of information, storage and distribution — and executive/managerial functions, including the human-resource, purchase-and-control, public-relation and property-protection functions (Nepal's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills. Your companion asks one question back — answer it from the lesson.

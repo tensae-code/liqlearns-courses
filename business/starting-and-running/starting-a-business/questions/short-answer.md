@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about setting up? (Sub lesson 3)
 **Answer:** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources
+
+**5.** In your own words, what does this lesson say about what a new business needs? (Sub lesson 3)
+**Answer:** Resource mobilization defined: the process by which a business mobilises the financial, physical, human and information resources it needs to reach its goals; these resources are the backbone of the business, and people come first — a plan needs planners, managers, production experts, staff and workers

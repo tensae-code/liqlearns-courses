@@ -16,6 +16,12 @@ Name one business near you. List the people and groups it touches: its workers, 
 
 **Responsibility.** Corporate social responsibility owed in turn to society at large, suppliers, lenders, shareholders, employees, customers and government, with Nigerian examples.
 
+**Responsibility.** Areas of social responsibility: responsibility towards employees (fair remuneration, safe working environment, career development), towards investors, towards the environment (pollution control, wise use of raw materials, sustainable production), towards consumers, towards the community and towards the government, together with ethical and legal responsibility (Nepal's book.)
+
+**Responsibility.** Ethical principles for business: integrity (the foundation stone), fairness, transparency (clear, true, understandable information to employees, customers and stakeholders; never deceiving customers), responsibility, respect towards stakeholders, environmental responsibility, and compliance with local, national and international laws and regulations (Nepal's book.)
+
+**Responsibility.** Business ethics and corporate social responsibility introduced together: ethics is directly joined to CSR — the ethical business reduces environmental harm through sustainable practice, joins community development and keeps ethics through its supply chain — and ethics is treated as an indispensable element of long-term success in the modern business environment (Nepal's book.)
+
 **Responsibility.** The benefit to society: the qualitative evaluation of the project weighs its social and community benefits — increased community production, employment generated and needs covered — alongside the financial numbers (Ecuador's book.)
 
 **Responsibility.** Ventures with social interest: community and associative ventures that use nature's gifts to cover a community's needs with a social and environmental component, guided by three innovation questions (why is this done, what if it were not done, what if it were done differently) (Ecuador's book.)
