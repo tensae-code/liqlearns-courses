@@ -90,9 +90,13 @@ List three things a new business must pay for before it earns anything. Beside e
 
 **Raising and sizing finance.** Determining the investment a venture needs: adding an "investment needed" column to the process table so every stage's required goods are costed before starting (Ecuador's book.)
 
+**Raising and sizing finance.** Writing the plan, part 4 — the financial programme and schedule: a short-term programme for correctly controlling the business's financial resources, stating the amount of costs, the amount of capital needed and how it will be supplied to launch the business (Iran's book.)
+
 **Raising and sizing finance.** Determining the initial investment: after the production and marketing plans, the financial plan quantifies everything analysed so far as one whole so the starting investment can be fixed (Ecuador's book.)
 
 **Sources of income.** Revenue flows beyond the straight sale (TIC page): a venture can also earn through service fees, subscriptions, lending and rentals, licences, commissions and advertising, and must record income by its origin (Ecuador's book.)
+
+**Sources of income.** Revenue generation (part 5): if customers are the heart of a business, revenue models are its arteries; the revenue methods — selling assets (physical products), usage fees (the more a service is used, the more is paid), membership/subscription fees, and others, each with an example (Iran's book.)
 
 **Judging an investment.** Payback period: adding up the projected gains period by period until the sum covers the initial investment, to know how long the entrepreneur waits to recover the money (Ecuador's book.)
 

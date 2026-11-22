@@ -58,7 +58,11 @@ Watch one thing being made near you — food, furniture, a mat, a repair. Name t
 
 **How production works.** Describing the operating process in detail, stage by stage with the human and material resources each stage needs; the three venture types by process — commercial (buys and resells unchanged), industrial (transforms raw material) and services (Ecuador's book.)
 
+**How production works.** Key activities (part 7): the most important actions a business must perform to work successfully — needed to create and offer the value proposition, reach customers and earn revenue — including production and services activities (designing, making, delivering) (Iran's book.)
+
 **Quality in production.** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back (Ecuador's book.)
+
+**Planning production.** Writing the plan, part 3 — the production programme: detailing how the product is made or the service delivered from the first stage to the final product — the resources needed, design of the work method, product design and development, location, quality, and the layout of offices and equipment (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: production combines land, labour, capital and enterprise to make goods — and running operations well means managing the firm's scale, its physical resources and its technology, so output is efficient, of good quality, and no more than can be sold. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: scale, scale, scale, opening. Your companion asks one question back — answer it from the lesson.

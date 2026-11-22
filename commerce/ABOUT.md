@@ -32,11 +32,12 @@ organisations, consumer protection). **14 lessons,
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 14 student
+`lesson/sources.md`. The set read for the split — 15 student
 books in all; the 8 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 6 read books —
+of each are what stock these lessons). The other 7 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
-Term 1, Malaysia's Prinsip Perakaunan Tingkatan 5 and
+Term 1, Iran's Entrepreneurship and Production Workshop,
+Malaysia's Prinsip Perakaunan Tingkatan 5 and
 Pengajian Keusahawanan Tingkatan 5, and Samoa's Accounting
 Year 12, Business Studies Year 11 Book 2 and Business Studies
 Year 9 Book 2 — carry no Commerce part: their parts fed

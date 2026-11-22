@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** In your own words, what does this lesson say about the selling process? (Sub lesson 3)
 **Answer:** The elevator pitch ("discurso del elevador"): planning a pitch of at most about 60 seconds — first define its objective (sell, convince, obtain financing, get a job), then the target market and the benefits and advantages for the listener
+
+**4.** In your own words, what does this lesson say about customer care? (Sub lesson 3)
+**Answer:** Customer relationships (part 4): knowing the customer personally is vital — a business that cannot gather its customers' important characteristics cannot win their satisfaction; the first step of customer orientation is identifying the customer's needs and expectations by going to the customer and hearing their views

@@ -25,3 +25,9 @@ a) The final product or service must keep the characteristics the customer value
 b) Describing the operating process in detail, stage by stage with the human and material resources each stage…
 c) Something this lesson does not teach.
 **Answer: b) Describing the operating process in detail, stage by stage with the human and material resources each stage…** — That is what this lesson teaches in its how production works part (Ecuador's book).
+
+**5.** What does this lesson teach about how production works? (Sub lesson 4)
+a) Writing the plan, part 3 — the production programme: detailing how the product is made or the service…
+b) Key activities (part 7): the most important actions a business must perform to work successfully — needed to…
+c) Something this lesson does not teach.
+**Answer: b) Key activities (part 7): the most important actions a business must perform to work successfully — needed to…** — That is what this lesson teaches in its how production works part (Iran's book).

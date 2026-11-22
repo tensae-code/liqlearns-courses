@@ -16,6 +16,13 @@ Most careers are built by specialising: settling into one occupation and going d
 
 Business study opens a wide range of career options: the book surveys the paths business opens — working in the functional areas of firms (production, marketing, finance and accounts, human resources), in banking and insurance, in selling and customer care, in managing and running businesses, and in founding a business of your own as an entrepreneur. The point of the survey is choice: the same business knowledge stands behind all of them, and a learner can aim at the path that fits their strengths.
 
+**Knowing yourself for work.** Self-knowledge through personality types: the four-type model — dominant, influential, stable, conscientious — each with its own traits, abilities and skills, learned so the student can choose a fitting study and career path (Iran's book.)
+
+**Planning your own career.** The personal development plan: a continuous process that assesses a person's educational and career needs and plans to meet them — stating what you want to learn and what success you aim for, and beginning by assessing your current state and strengths (Iran's book.)
+
+**Planning your own career.** Identifying skills, talents and interests: skills are the building blocks of your future job; a career-readiness plan sorts them into basic skills (reading, writing, speaking, listening, calculating), thinking skills (creative thinking, problem solving/decision making), interpersonal skills (negotiation, serving customers, effective communication) and information-and-technology skills, each prioritised (Iran's book.)
+
+**Planning your own career.** Identifying your values and needs as the second step of career design: a values framework in which each value (creativity, independence, and others) is defined and prioritised from 1 to 5 (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a job is one post you hold; a career is the whole path of work you build over a life — and business study opens many career paths, where specialising in one occupation brings expertise, security and earnings, but also monotony, and makes change hard when the specialism fades. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: job and career, specialisation, career options. Your companion asks one question back — answer it from the lesson.

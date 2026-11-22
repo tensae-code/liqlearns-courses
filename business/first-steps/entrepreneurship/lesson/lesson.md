@@ -33,6 +33,12 @@ The entrepreneur: functions performed (conceptualising, researching, planning, a
 The entrepreneur as the central decision-maker through every start-up step, and how entrepreneurs support economic development: collaborating, providing goods/services that satisfy citizens, creating jobs, and contributing to nation building (incomes, less poverty, training, taxes funding infrastructure, foreign earnings, innovation)
 
 **The entrepreneur.** The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities, researching and selecting the idea), start-up (writing the project and launching), and strengthening (consolidating by trial and error so the venture survives its first years); leadership as the capacity to influence others toward a goal (Ecuador's book.)
+
+**The entrepreneur.** False beliefs about entrepreneurship, corrected: it is not only about creating jobs (it must create new value), the entrepreneur is not necessarily a good manager, its aim is not simply getting rich (it improves society's economy), and it does not only require financial capital (Iran's book.)
+
+**The entrepreneur.** What entrepreneurship is: a way of working that uses opportunities and ideas to create a profitable, value-creating business; the driving engine of a country's economy and a lifestyle of growth, creativity, innovation and moving forward; its types — independent entrepreneurship (small businesses), organisational entrepreneurship, social entrepreneurship and cultural entrepreneurship (Iran's book.)
+
+**The entrepreneur's mind.** How thinking works: the left brain receives, analyses and evaluates information while the right brain offers ideas intuitively; convergent thinking accepts things as they are and reaches for the first correct (usually old) solution, and over-reliance on it blocks creativity (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: entrepreneurship is turning ideas into action — organising land, labour and capital to make goods or services for sale at a profit — and the entrepreneur does it with creativity, innovation, willingness to take risks, and the ability to plan and manage projects to their goals. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the what-entrepreneurship-is / definition, traits, career, the entrepreneur and what entrepreneurship is. Your companion asks one question back — answer it from the lesson.

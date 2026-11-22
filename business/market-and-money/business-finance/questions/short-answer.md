@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about sources of income? (Sub lesson 5)
 **Answer:** Revenue flows beyond the straight sale (TIC page): a venture can also earn through service fees, subscriptions, lending and rentals, licences, commissions and advertising, and must record income by its origin
+
+**5.** In your own words, what does this lesson say about raising and sizing finance? (Sub lesson 5)
+**Answer:** Writing the plan, part 4 — the financial programme and schedule: a short-term programme for correctly controlling the business's financial resources, stating the amount of costs, the amount of capital needed and how it will be supplied to launch the business

@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about quality in production? (Sub lesson 4)
 **Answer:** The final product or service must keep the characteristics the customer values — quality, size, durability and other attributes — because a quality service wins contented customers who come back
+
+**5.** In your own words, what does this lesson say about planning production? (Sub lesson 4)
+**Answer:** Writing the plan, part 3 — the production programme: detailing how the product is made or the service delivered from the first stage to the final product — the resources needed, design of the work method, product design and development, location, quality, and the layout of offices and equipment

@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about costing?
 **Answer:** Fixed and variable costs: production costs (raw materials, direct labour, indirect costs such as packaging, maintenance and workshop electricity) grouped into costs that stay fixed and costs that vary with output; total cost = fixed + variable
+
+**5.** In your own words, what does this lesson say about costing?
+**Answer:** Worked example of a plan's money: a start-up's fixed costs (land, machinery and equipment, installations, vehicle, training) totalled separately from its variable costs (raw materials, wages, fuel and energy) to give the plan's total investment and its production costs

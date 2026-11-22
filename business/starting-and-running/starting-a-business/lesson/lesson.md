@@ -28,6 +28,9 @@ Choose a business you might one day start. Write down: where you would put it, a
 
 **Steps to start a business.** The essential steps in establishing a business, in order: conceptualisation of the idea, research (market probe), identification of resources, preparing the business plan, acquisition of funds, and operation of the business
 
+**What a new business needs.** Resource sourcing (part 6): every business needs a set of key resources to create its value proposition, reach the market, keep customer relationships and earn revenue; resources are classed as physical (buildings, vehicles, equipment), human, financial and social (networks, cooperation, trust) (Iran's book.)
+
+**Setting up.** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: starting well means choosing where to locate, weighing the reasons and the factors before starting, and investigating the market, supplies, finances and process before producing anything — groundwork first, because businesses fail quickly without it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: location, location, push-factors, factors. Your companion asks one question back — answer it from the lesson.

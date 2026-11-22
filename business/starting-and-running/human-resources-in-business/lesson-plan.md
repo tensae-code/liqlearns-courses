@@ -12,7 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **What human resource management is — and its roles** — opening; roles; business-functions; dispute resolution and trade unions; staff relations.
 2. **Managing people so the business grows** — application; managing-people; employability; motivation and teamwork; training support.
-3. **Pay — how wages and salaries are worked out** — pay; industrial conflict; looking after people at work.
+3. **Pay — how wages and salaries are worked out** — pay; industrial conflict; looking after people at work; organising people.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

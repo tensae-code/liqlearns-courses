@@ -19,3 +19,9 @@ d) What human resource management means in a business.
 **3.** What does this lesson teach about the opening / what a business is?
 a) Business defined as all the activities concerned with producing and distributing goods and services to …  b) How contracts end: discharge by performance, breach, agreement, impossibility/frustration, lapse of time and …  c) Production vs productivity: rate of production, productivity as the output/input ratio, labour productivity …
 **Answer: a) Business defined as all the activities concerned with producing and distributing goods and services to …** — That is what this lesson teaches in its opening / what a business is part (Dominica's book).
+
+**4.** What does this lesson teach about opening / what a business is?
+a) Classifying businesses: by type of activity (production, services, trade), by production line, by size…
+b) What a business is: all production, service and buying-and-selling activities carried on for profit; its…
+c) Something this lesson does not teach.
+**Answer: b) What a business is: all production, service and buying-and-selling activities carried on for profit; its…** — That is what this lesson teaches in its opening / what a business is part (Iran's book).

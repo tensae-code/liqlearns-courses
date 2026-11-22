@@ -74,6 +74,23 @@ Think of one group you belong to — a team, a class, a club. Name who plans wha
 
 **Leadership.** Leadership: what makes a good leader (honesty, integrity, competence, inspiration, charismatic and transformational qualities) and the three leadership styles — autocratic, democratic and laissez-faire — each with characteristics, advantages and disadvantages and when to use it
 
+**Managing people and work.** What a team is: a limited number of people with complementary skills, formed for a common goal with mutual responsibility to one another; the stages of forming and developing a team, and the key points of teamwork — mutual communication, at least two people, a shared goal (Iran's book.)
+
+**Managing people and work.** Barriers to effective teamwork — distrust between members, no commitment to plans or to responsibilities, lack of proper relations, inattention to the team's goals — and that strengthening teamwork means identifying these barriers and removing them, since together they make teams fail (Iran's book.)
+
+**Managing people and work.** Factors in a team's success: setting shared goals that are clear, understandable and achievable; a team guide who steers the team and resolves its conflicts; choosing capable people with commitment, expertise, skill and responsibility; mutual trust so members share ideas freely; and hard work and perseverance (Iran's book.)
+
+**Leading a team.** The team guide (leader): the qualities a team's guide needs — foresight about the team's results, high scientific and skill competence, strong communication and interaction, high moral standing that builds trust, and the authority to stop the team falling apart; the synergy idea that a team achieves more than the sum of its members (2 + 2 > 4) (Iran's book.)
+
+**Deciding and solving.** Problem solving starts with defining the problem correctly: a problem exists when a gap opens between the existing state and the desired state; examine the existing state and focus on the real problem, not its symptoms, because a wrongly defined problem ruins the whole solution process (Iran's book.)
+
+**Deciding and solving.** The Six Thinking Hats method for team problem solving: six coloured roles — blue organises the team's thinking, white stays neutral and gathers information, red speaks feelings, and the remaining hats cover criticism, optimism and new ideas in turn (Iran's book.)
+
+**Deciding and solving.** Decision making: a process through which a definite solution is chosen for a problem; important life decisions with long-term effects (field of study, career path) must be made by the rational decision-making method, thinking things through (Iran's book.)
+
+**Deciding and solving.** Goal setting: goals are the most important factor in moving and creating the future; the features of effective goals — specific and clear (answering what, when, where, by whom), measurable, achievable within one's limits (Iran's book.)
+
+**Deciding and solving.** The "Five Whys" technique: asking why five times in a chain to root-cause a problem and reach its main causes (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: management is the work of planning, organising, leading and controlling a business's people and work so its objectives are met — done by managers at three levels, through organisation structures, and by joining all the business's functions together. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: organisation-structure, opening, importance, skills. Your companion asks one question back — answer it from the lesson.

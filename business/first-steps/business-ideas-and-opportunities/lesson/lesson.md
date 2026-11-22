@@ -24,11 +24,27 @@ Find one thing near you that is lying unused — scrap wood, an empty corner, an
 
 **Where business ideas come from.** Finding a venture idea by detecting the needs of one's own area: listing what the market lacks, using Maslow's hierarchy (physiological, safety, belonging, esteem, self-realisation) to prioritise which needs matter most (Ecuador's book.)
 
+**Where business ideas come from.** Finding ideas from experience: one's past work in a company or industry is one of the best places to find an idea (research cited in the book found most idea-givers drew on the field they had worked in) (Iran's book.)
+
+**Where business ideas come from.** Recognising opportunity: the most important element in becoming an entrepreneur; an entrepreneurial opportunity is a situation in which new goods, services, raw materials and methods can be introduced and sold for more than their cost of production, and opportunities come from identifying new problems and needs that can be turned into a business or economic value (Iran's book.)
+
 **Testing an idea against the market.** Ecuador's own way: for each need, tabulating how it is satisfied today — completely, partially, not at all in the locality, or by no existing good or service — and naming the potential venture each gap suggests (Ecuador's book.)
 
 **Judging opportunities.** Choosing between candidate ventures by evaluating qualitative variables (jobs created, better living standards, care for the environment, laws that encourage the venture, liking the activity) against quantitative ones (fast return on investment, profit, number of customers, market share, future sustainability) (Ecuador's book.)
 
+**Judging opportunities.** Evaluating ideas: an idea is judged on two measures — goodness and feasibility; a good idea has customers who exist, are interested, can pay and can be reached (the target market), beats similar products, and gives the customer a special value and many reasons to buy (Iran's book.)
+
 **Judging opportunities.** The needs-evaluation matrix: candidate ventures set in columns against the chosen qualitative and quantitative variables so the alternatives can be compared side by side (Ecuador's book.)
+
+**Generating ideas.** Creative (divergent) thinking: the ability to produce new solutions and goals by combining, changing and applying existing ideas, and to see relations others miss; creativity is not a talent but a skill that can be learned, like driving (Iran's book.)
+
+**Generating ideas.** Innovation and TRIZ: innovation is creativity put to use, offered to the market as a new product or service; TRIZ is Altshuller's systematic method for problem solving and growing creativity, distilled from studying over 200,000 inventions into a small set of general inventive solutions (Iran's book.)
+
+**Generating ideas.** Making an idea when you cannot find one: looking closely at the products and services around you, listing their weaknesses and annoyances, and writing what you wish they were, so everything can be made better, faster and more efficient (Iran's book.)
+
+**Generating ideas.** Team creativity by brainstorming: its stages — background briefing by the team guide, defining the problem precisely as a question, generating ideas without limit or judgement (quantity over quality), grouping and prioritising the ideas, noting their advantages and disadvantages, evaluating them for practicality, then presenting and carrying out the best solution (Iran's book.)
+
+**Generating ideas.** Developing individual creativity with the SCAMPER method: working a problem through substitute, combine, adapt, modify, put to other uses, eliminate/shrink, and reverse, each with its key questions (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business begins with an idea and an opportunity — and the entrepreneurial skill is turning ideas and opportunities into work of value by managing the resources at hand: personal, material and non-material — then choosing what to produce and testing the idea before trusting it. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the spotting-and-using-opportunities / resources, the finding-an-opportunity-in-available-resources, choosing the product, idea-routes. Your companion asks one question back — answer it from the lesson.

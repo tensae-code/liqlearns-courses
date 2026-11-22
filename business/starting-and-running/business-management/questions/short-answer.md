@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the stakeholders part of this lesson in your own words. (Sub lesson 5)
 **Answer:** Stakeholders: internal (owners/shareholders, board of directors, managers, employees) and external (government, customers, suppliers, lending institutions, competitors, the community), with the role each group plays and why their interests can conflict
+
+**4.** In your own words, what does this lesson say about leading a team? (Sub lesson 5)
+**Answer:** The team guide (leader): the qualities a team's guide needs — foresight about the team's results, high scientific and skill competence, strong communication and interaction, high moral standing that builds trust, and the authority to stop the team falling apart; the synergy idea that a team achieves more than the sum of its members (2 + 2 > 4)

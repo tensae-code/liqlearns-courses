@@ -32,6 +32,9 @@ Business defined as all the activities concerned with producing and distributing
 
 The basics the book builds on: needs vs wants, goods vs services, tangible vs intangible products, and subsistence production before specialisation created surpluses to exchange
 
+**Opening / what a business is.** What a business is: all production, service and buying-and-selling activities carried on for profit; its features — selling and transferring goods and services for value, repeated transactions, the profit motive as the main driver, and activity joined with risk, always facing an uncertain future (Iran's book.)
+
+**Opening / kinds of business.** Classifying businesses: by type of activity (production, services, trade), by production line, by size (small, medium, large) and by place and ownership, with everyday trades sorted into the classes (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business is an organisation that brings people, money, materials and opportunities together to make goods or services — one firm under one management, standing inside an industry of firms making the same thing, in one of the economy's three sectors: primary, secondary and tertiary. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: what a business is, what a business is, what a business is / kinds of organisation, business activities and sectors. Your companion asks one question back — answer it from the lesson.

@@ -44,9 +44,15 @@ Take the business you imagined in Starting a Business — or invent one now. Wri
 
 **Writing the plan.** Describing the chosen venture inside the project: statement of the problem it solves, the activity and type of venture, its general objective, its beneficiaries and the needs it satisfies (Ecuador's book.)
 
+**Writing the plan.** Writing the plan, part 1: the plan opens with the business's title — its name and general goal stated briefly, with its scale (a language school for 1,000 learners a year; mushroom growing at 100 tons a year) — and the names of the plan's writers (Iran's book.)
+
 **The plan on one page.** The Business Model Canvas (TIC page): the venture mapped in nine blocks — target market, value proposition, channels, customer relationships, revenue flows, key resources, key activities, key partners, cost structure (Ecuador's book.)
 
+**The plan on one page.** The business model as one map (part 1 opening): the model's parts — customer identification, value proposition, distribution channels, customer relationships, revenue, resources, key activities, partners, costs — each answering its own question about the business (Iran's book.)
+
 **Closing the plan.** Conclusions of the project: after the quantitative and qualitative evaluations and the risk analysis, the conclusions state whether implementation is feasible or not, beginning with the satisfaction of needs (Ecuador's book.)
+
+**What a business plan is.** The business plan: everyone entering business must have one — a written, organised document stating how a business's activities will be carried out over a set period; a map that answers three questions: where are you, where do you want to go, and how will you reach the destination (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: a business plan is the written plan of the whole business — its purpose, market, organisation, production, marketing and financial plans — prepared before starting so the entrepreneur, and the financiers, suppliers and customers who read it, can judge whether the business can work; a feasibility study tests the idea first. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the feasibility-study, opening, importance, format. Your companion asks one question back — answer it from the lesson.

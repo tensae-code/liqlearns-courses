@@ -25,3 +25,9 @@ a) Something this lesson does not teach.
 b) Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that…
 c) Something this lesson does not teach.
 **Answer: b) Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that…** — That is what this lesson teaches in its looking after people at work part (Ecuador's book).
+
+**5.** What does this lesson teach about organising people? (Sub lesson 3)
+a) Something this lesson does not teach.
+b) The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business —…
+c) Something this lesson does not teach.
+**Answer: b) The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business —…** — That is what this lesson teaches in its organising people part (Iran's book).

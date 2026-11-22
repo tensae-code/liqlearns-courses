@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the steps to start a business part of this lesson in your own words. (Sub lesson 3)
 **Answer:** The essential steps in establishing a business, in order: conceptualisation of the idea, research (market probe), identification of resources, preparing the business plan, acquisition of funds, and operation of the business
+
+**4.** In your own words, what does this lesson say about setting up? (Sub lesson 3)
+**Answer:** Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for three motives — optimising the business, reducing risk in an uncertain competitive environment, and acquiring resources

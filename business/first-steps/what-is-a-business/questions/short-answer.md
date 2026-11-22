@@ -10,3 +10,6 @@ Answer in a sentence or two, in your own words.
 
 **3.** Explain the basic concepts part of this lesson in your own words.
 **Answer:** The basics the book builds on: needs vs wants, goods vs services, tangible vs intangible products, and subsistence production before specialisation created surpluses to exchange
+
+**4.** In your own words, what does this lesson say about opening / kinds of business?
+**Answer:** Classifying businesses: by type of activity (production, services, trade), by production line, by size (small, medium, large) and by place and ownership, with everyday trades sorted into the classes

@@ -19,3 +19,9 @@ d) Localisation (similar firms concentrated in one area: its causes, advantages 
 **3.** What does this lesson teach about the reasons for starting a business? (Sub lesson 2)
 a) Why people start businesses: to generate their own income / escape unemployment, self-fulfilment, using their …  b) Terms of sale, each with advantages and disadvantages for buyer and seller: cash, credit, hire purchase, …  c) Distribution chains/channels: the typical chain producer → wholesaler → retailer → consumer, the functions …
 **Answer: a) Why people start businesses: to generate their own income / escape unemployment, self-fulfilment, using their …** — That is what this lesson teaches in its reasons for starting a business part (Dominica's book).
+
+**4.** What does this lesson teach about what a new business needs? (Sub lesson 3)
+a) Partner sourcing (part 8): partnerships are the cornerstone of many businesses; owners take partners for…
+b) Resource sourcing (part 6): every business needs a set of key resources to create its value proposition,…
+c) Something this lesson does not teach.
+**Answer: b) Resource sourcing (part 6): every business needs a set of key resources to create its value proposition,…** — That is what this lesson teaches in its what a new business needs part (Iran's book).

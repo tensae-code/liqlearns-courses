@@ -28,6 +28,10 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 
 **Costing.** Fixed and variable costs: production costs (raw materials, direct labour, indirect costs such as packaging, maintenance and workshop electricity) grouped into costs that stay fixed and costs that vary with output; total cost = fixed + variable (Ecuador's book.)
 
+**Costing.** Worked example of a plan's money: a start-up's fixed costs (land, machinery and equipment, installations, vehicle, training) totalled separately from its variable costs (raw materials, wages, fuel and energy) to give the plan's total investment and its production costs (Iran's book.)
+
+**Costing.** Cost estimation (part 9): the cost structure names the most important costs of running the model — creating and delivering value, keeping customer relationships and generating revenue all cost money, and costs should be reduced as far as possible; cost-driven models set against value-driven ones (Iran's book.)
+
 **Costing.** Operating expenses split into administration expenses (head-office salaries, office rent, services) and selling expenses (sales salaries, commissions, social benefits) (Ecuador's book.)
 
 **Costing and pricing numbers.** Total cost and unit cost of a product or service: the unit cost is what one unit costs to make, its components differ by type of business, and unit costs fall as production rises, so the venture should find its optimal production level; contribution margin introduced (Ecuador's book.)

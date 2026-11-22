@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about the marketing mix? (Sub lesson 5)
 **Answer:** The market variables (marketing mix): product, price, place (plaza) and promotion — the 4 Ps — plus a fifth variable for new ventures, personalisation of the sale
+
+**5.** In your own words, what does this lesson say about the marketing mix / offering? (Sub lesson 5)
+**Answer:** Designing the value proposition (part 2): the value proposition is the reason customers prefer one business over others — a chosen bundle of products or services meeting a particular segment's needs — and the ways of developing one, such as novelty and brand/status

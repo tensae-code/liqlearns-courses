@@ -22,6 +22,8 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Branding.** Branding: what a brand is, what good branding does (legal protection, brand awareness, segmentation, brand image, brand loyalty), how a brand is created from research into the target audience, and social media as a brand-awareness tool
 
+**Branding.** Choosing the business's name and trade mark (inside plan part 1): the name must fit the business's activity and goal, and famous companies' trade marks show the role a mark plays in a company's success (Iran's book.)
+
 ## Sub lesson 3 — The marketing mix
 
 **Marketing mix.** The marketing mix as a combination of product, price, place and promotion offered at a point in time, and market segmentation: dividing the market and matching a mix to each segment, with its criteria.
@@ -62,9 +64,17 @@ Take one product sold near you. Answer four questions about it: What exactly is 
 
 **Knowing the customer.** Market segmentation: a small venture can aim at small, specific groups of customers, segmenting by geographic, demographic, socioeconomic and psychographic aspects (worked example: an online clothing shop for pregnant women), and segmenting business customers too (Ecuador's book.)
 
+**Knowing the customer.** Customer identification (business model part 1): customer segments — for which people do we create value, and what relationships do the different customers expect (Iran's book.)
+
 **The marketing mix.** The market variables (marketing mix): product, price, place (plaza) and promotion — the 4 Ps — plus a fifth variable for new ventures, personalisation of the sale (Ecuador's book.)
 
 **Preparing to sell.** The product ready for sale: a pre-launch verification checklist — the market identified and its potential customers quantified, direct competitors identified with their products, attributes, prices, sales strategies and advertising analysed — before entering the market massively (Ecuador's book.)
+
+**The marketing mix / offering.** Designing the value proposition (part 2): the value proposition is the reason customers prefer one business over others — a chosen bundle of products or services meeting a particular segment's needs — and the ways of developing one, such as novelty and brand/status (Iran's book.)
+
+**Place in the marketing mix.** Determining distribution channels (part 3): communication, distribution and sales channels are the interface and touchpoints between a company and its customers and shape the customer experience; channels are classed as direct or indirect, and as the business's own or a partner's, each with its functions (Iran's book.)
+
+**Knowing the market.** Writing the plan, part 2 — the market and marketing programme: the most important part of the plan; the market study examines the two factors of customers (identifying all of a product's customers) and competitors (their number, abilities and weaknesses), plus the opportunities and barriers to entering the business, and from that information the venture's sales are estimated (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: marketing is directing the flow of goods from producer to consumer — knowing the market through research first, then mixing product, price, place and promotion so purchasing power becomes effective demand. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the selling-and-marketing-the-product-made, the knowing-what-customers-want / where-the-product-is-sold, opening, preparation. Your companion asks one question back — answer it from the lesson.

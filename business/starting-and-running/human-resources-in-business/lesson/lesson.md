@@ -35,6 +35,8 @@ Count the workers in one business you know. For each, name the job they do and o
 **Industrial conflict.** Conflict at work: sources of conflict, industrial relations, and the strategies each side uses — employees (work to rule, go-slow, overtime ban, sick-out, sit-in, strike, picketing) and employers (lock-outs, temporary/scab labour, refusing to negotiate, scare tactics)
 
 **Looking after people at work.** Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that can harm workers' health or safety, in public or private firms alike (Ecuador's book.)
+
+**Organising people.** The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business — management team, human resources and their duties — fixes each member's limits and authority, drawn as manager, deputy, finance manager, sales manager and human-resources manager (Iran's book.)
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: human resource management is the business's work with its people — planning how many are needed, recruiting them, developing and keeping them, and paying them — because a business grows and lasts through the skills and employability of its workers. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, roles, application, managing-people. Your companion asks one question back — answer it from the lesson.

@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about looking after people at work? (Sub lesson 3)
 **Answer:** Occupational safety and health: the WHO sense of it — the activities that control and prevent anything that can harm workers' health or safety, in public or private firms alike
+
+**5.** In your own words, what does this lesson say about organising people? (Sub lesson 3)
+**Answer:** The human-resources layout chart (inside plan part 1): the chart of how people are arranged in the business — management team, human resources and their duties — fixes each member's limits and authority, drawn as manager, deputy, finance manager, sales manager and human-resources manager

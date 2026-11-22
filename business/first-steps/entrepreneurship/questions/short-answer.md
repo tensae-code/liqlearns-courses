@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about the entrepreneur?
 **Answer:** The stages of a venture and the entrepreneur's profile: gestation (motivation, building personal capacities, researching and selecting the idea), start-up (writing the project and launching), and strengthening (consolidating by trial and error so the venture survives its first years); leadership as the capacity to influence others toward a goal
+
+**5.** In your own words, what does this lesson say about the entrepreneur?
+**Answer:** What entrepreneurship is: a way of working that uses opportunities and ideas to create a profitable, value-creating business; the driving engine of a country's economy and a lifestyle of growth, creativity, innovation and moving forward; its types — independent entrepreneurship (small businesses), organisational entrepreneurship, social entrepreneurship and cultural entrepreneurship

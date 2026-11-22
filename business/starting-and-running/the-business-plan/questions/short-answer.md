@@ -13,3 +13,6 @@ Answer in a sentence or two, in your own words.
 
 **4.** In your own words, what does this lesson say about structure of the plan? (Sub lesson 4)
 **Answer:** The contents of an investment project: executive summary, description of the venture, operational plan (organisation structure, staff functions, production/service processes, technology, investment, costs), communication plan, financial plan (projected income and outgoings, contribution margin, break-even point) and project evaluation
+
+**5.** In your own words, what does this lesson say about what a business plan is? (Sub lesson 4)
+**Answer:** The business plan: everyone entering business must have one — a written, organised document stating how a business's activities will be carried out over a set period; a map that answers three questions: where are you, where do you want to go, and how will you reach the destination
