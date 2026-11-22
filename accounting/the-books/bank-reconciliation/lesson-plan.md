@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** The Books · **Lesson:** Bank Reconciliation
 **Place in the curriculum:** Unit — The Books (CURRICULUM.md).
 **The one thing this lesson teaches:** the cash book and the bank statement rarely show the same balance on the same day; a bank reconciliation explains the difference, item by item, until the two agree.
-**This lesson's own level:** Unit — The Books, lesson 10 of 27 in the course ladder.
+**This lesson's own level:** Unit — The Books, lesson 10 of 28 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

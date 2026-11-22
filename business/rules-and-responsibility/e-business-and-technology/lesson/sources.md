@@ -1,6 +1,6 @@
 # Sources — E-Business and Technology
 
-countries: Malaysia, Dominica, Ecuador, Nepal, Uganda
+countries: Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan
 
 **Book 1:** Pengajian Keusahawanan Tingkatan 5 (Entrepreneurship Studies, Form 5) (student book) — Sasbadi, for the Kementerian Pendidikan Malaysia KSSM textbook programme. KSSM 2020 edition (page imprints dated 9 Dec 2020); the in-hand PDF opens at the Bab 1 opener — no cover or imprint leaves in the file. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 238 PDF pages (printed pp. 2–239). Source: /home/hatch/workspace/my-wave34/dl/keusahawanan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching pages (printed pp. 234–235).
 
@@ -12,6 +12,8 @@ countries: Malaysia, Dominica, Ecuador, Nepal, Uganda
 
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
+
+**Book 5:** العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year), in three units: التبادل التجاري (Commercial Exchange), المحاسبة المالية (Financial Accounting), الأسواق المالية (Financial Markets) (student book) — Republic of Sudan, Ministry of Education (وزارة التربية والتعليم) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda (www.nccer.edu.sd); prepared by a committee commissioned by the Centre (Prof. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, Dr. Ahmed Hashim Ahmed Yousif, Nabil Girgis Ayyad, Iqbal Yousif Ahmed, and others named on the title page). Year / edition: الطبعة الثانية المنقحة — the second revised edition (the year line on the title page OCRs unreliably and is not stated here). ISBN 978-99942-53-06-7 (printed on the copyright page). Legal deposit number 2008/789. Grade: Grade 12 (Third Secondary). Language: Arabic. Page count: 157 PDF pages (printed pp. 1–150). Source: manifest manifests-phase2/sudan.json n=1; fetched via fetch_book.py, route release, 52,467,979 bytes (= expected_bytes), to scratch-phase2/sudan/g12.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three units to the last teaching page (printed p. 150).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -36,7 +38,8 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | technology in business | Book 4 (Business Studies Cl. 11), printed p. 202 |
 | technology in business | Book 5 (Entrepreneurship S1), printed pp. 18–19 |
 | technology in business | Book 5 (Entrepreneurship S1), printed p. 20 |
+| e-business and technology | Book 5 (Commercial Science G12 (Sudan)), printed p. 37 |
 
-**Acceptance count: taught in 5 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Malaysia, Dominica, Ecuador, Nepal, Uganda, Sudan)** — every book above is a student book, so each country counts.
 
-Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda
+Searchable tags: e business and technology, rules and responsibility, business, malaysia, dominica, ecuador, nepal, uganda, sudan

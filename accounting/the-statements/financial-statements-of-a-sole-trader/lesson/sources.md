@@ -1,6 +1,6 @@
 # Sources — Financial Statements of a Sole Trader
 
-countries: Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia
+countries: Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia, Sudan
 
 **Book 1:** Inventor Business Studies, Form Three Students' Book (cover: "Inventor 3 — Secondary Business Studies, Form Three Students' Book, New Syllabus") (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: no year or edition statement appears on the pages in hand (title page carries none; no imprint page in this scan). Grade: Form Three (grade-11 equivalent). Language: English. Page count: 181 PDF pages (printed pp. ix + 1–172; main text printed pp. 1–164, Glossary printed p. 165, Index printed pp. 169–172). Source: /home/hatch/workspace/scribd_pull/kenya-business-form3-inventor.pdf. Verdict: COMPLETE — whole book gone through to the last page (Index ends printed p. 172). Note: this scan contains a few duplicated pages, so PDF-to-printed pagination drifts by up to 3 pages across the book; all citations use the printed folio numbers.
 
@@ -19,6 +19,8 @@ countries: Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
 
 **Book 8:** Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X (Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) (student book) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Ministry of Education, Culture, Research and Technology), Republic of Indonesia — Pusat Perbukuan, Jakarta. Year / edition: First printing, 2023. ISBN 978-623-194-577-8 (PDF). Grade: Grade 10 (SMK/MAK Kelas X). Language: Indonesian (Bahasa Indonesia). Page count: 328 PDF pages (printed pp. x + 1–318; body teaching printed pp. 1–304, glossary printed pp. 305–307; printed page = PDF page − 10). Source: manifest manifests-phase2/indonesia.json n=1; fetched via fetch_book.py, route release-search, 16,158,024 bytes (= expected_bytes), to scratch-phase2/indonesia/student.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Bab VIII ends printed p. 304; glossary, bibliography, index and contributor biographies follow).
+
+**Book 9:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -44,7 +46,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | financial statements of a sole trader | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 103–107 |
 | financial statements of a sole trader | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 152–154 |
 | financial statements of a sole trader | Book 8 (Dasar-Dasar Akuntansi X), printed pp. 155–158 |
+| financial statements of a sole trader | Book 9 (Commercial Science G11 (Sudan)), printed p. 8 |
+| financial statements of a sole trader | Book 9 (Commercial Science G11 (Sudan)), printed p. 13 |
+| financial statements of a sole trader | Book 9 (Commercial Science G11 (Sudan)), printed p. 16 |
 
-**Acceptance count: taught in 7 countries (Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 8 countries (Kenya, Malaysia, Nigeria, Samoa, Dominica, Nicaragua, Indonesia, Sudan)** — every book above is a student book, so each country counts.
 
-Searchable tags: financial statements of a sole trader, the statements, accounting, kenya, malaysia, nigeria, samoa, dominica, nicaragua, indonesia
+Searchable tags: financial statements of a sole trader, the statements, accounting, kenya, malaysia, nigeria, samoa, dominica, nicaragua, indonesia, sudan

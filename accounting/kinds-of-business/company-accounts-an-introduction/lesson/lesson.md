@@ -34,9 +34,13 @@ A partnership grows and becomes a company. Instead of two owners' capital accoun
 
 **Retained earnings.** The profit not paid out as dividends stays in the business as retained earnings inside Shareholders' Equity.
 
+**Company accounts.** The share and its values: a share is a certificate representing a part of a capital company's capital, transferable by sale, gift, will or inheritance; its nominal value (printed on the share), issue value (never below nominal; above it only by the general assembly's decision), market value (the price it trades at on the securities market on a day), book value (its share of the company's net… (Sudan's book.)
+
+**Company accounts.** The kinds of shares and the accounting treatment of a joint-stock company's capital: ordinary and preference shares and what each carries, then how the capital of joint-stock companies is treated in the accounts (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a company is owned through shares: share capital in its stages, dividends paid only on paid-up capital, profit kept back as retained earnings, and debts raised as debentures — all shown in the shareholders' equity section. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, share-issue part, equity part, dividends part, shares part of the lesson, debentures part of the lesson, ownership forms compared (accounting view), shares and the share register, company equity section, dividends and the solvency test, retained earnings, company accounts, company accounts. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

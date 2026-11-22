@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** Kinds of Business · **Lesson:** Partnership Accounts
 **Place in the curriculum:** Unit — Kinds of Business (CURRICULUM.md).
 **The one thing this lesson teaches:** partners share what the business earns by agreement: the appropriation account divides profit through interest on capital, salaries and the agreed ratio, and each partner's capital and current accounts keep their claims apart.
-**This lesson's own level:** Unit — Kinds of Business, lesson 18 of 27 in the course ladder.
+**This lesson's own level:** Unit — Kinds of Business, lesson 18 of 28 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

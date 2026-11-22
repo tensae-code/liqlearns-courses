@@ -1,6 +1,6 @@
 # Sources — Business Finance
 
-countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda
+countries: Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan
 
 **Book 1:** Perniagaan Tingkatan 5 (Business, Form 5) — Mata Pelajaran Elektif Ikhtisas (specialist elective subject) (student book) — Utusan Publications & Distributors Sdn. Bhd., published for Kementerian Pendidikan Malaysia. First printing 2017, © Kementerian Pendidikan Malaysia 2017, ISBN 978-967-61-2784-6. Grade: Tingkatan 5 (Form 5). Language: Malay. Page count: 272 PDF pages (printed pp. i–vi + 1–260). Source: /home/hatch/workspace/my-wave34/dl/perniagaan-f5.pdf. Verdict: COMPLETE — read whole book to the last teaching page (printed p. 246).
 
@@ -22,6 +22,10 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 المشاريع الصغيرة (Small Projects) — الأول الثانوي / فرع الريادة والأعمال (First Secondary, Entrepreneurship and Business stream) (student book) — Writing team: Dr Islam Abdeljawad (coordinator), Dr Youssef Abu Fara, Dr Shaker Shalalfa, Eng. Ahmed Samhan, Eng. Aban al-Barghouthi, Ms Taghreed Najajra; Curriculum Centre director Randa al-Taweel; scientific review Dr Mahmoud Melhem — State of Palestine, Ministry of Education, Palestinian Curriculum Centre (مركز المناهج). All rights reserved © State of Palestine. Adopted for teaching in the ministry's schools from the school year 2018/2019 (imprint page); PDF file created March 2020. Grade: Grade 11 (First Secondary, Entrepreneurship/Riada stream). Language: Arabic (lesson titles also given in English in the book). Page count: 140 PDF pages (printed pp. 1–136). Source: manifest manifests-phase2/palestine.json n=0; fetched via fetch_book.py, route tree, to scratch-phase2/palestine/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 4 lesson 5 ends printed p. 131; unit questions, self-assessment and references follow to printed p. 136).
 
 Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PROTOTYPE" throughout) (student book) — National Curriculum Development Centre (NCDC), P.O. Box 7002, Kampala, Uganda. Developed as a prototype for implementation of the revised Lower Secondary Curriculum; technical support from Enabel acknowledged. Published 2020 (imprint page). Grade: Grade 8 (Senior One). Language: English. Page count: 74 PDF pages (printed pp. v–vi + 1–64). Source: manifest manifests-phase2/uganda.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/uganda/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Chapter 5 ends printed p. 64; back cover follows).
+
+**Book 8:** العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year), in three courses bound together: المحاسبة المالية (Financial Accounting), الاقتصاد العام (General Economics), الرياضة المالية (Financial Mathematics) (student book) — Republic of Sudan, Ministry of General Education (وزارة التربية والتعليم العام) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda; prepared by a committee commissioned by the Centre (Dr. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, and others named on the title page). Year / edition: no year is printed on the cover or title page of the copy read (the scan is a third-party network scan — Rowad Al-Tamayoz watermark on the cover — of the Centre's book). Grade: Grade 11 (Second Secondary). Language: Arabic. Page count: 193 PDF pages (printed pp. 1–185). Source: manifest manifests-phase2/sudan.json n=0; fetched via fetch_book.py, route tree, 1,959,448 bytes (= expected_bytes), to scratch-phase2/sudan/g11.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three parts to the last teaching page (printed p. 185).
+
+**Book 9:** العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year), in three units: التبادل التجاري (Commercial Exchange), المحاسبة المالية (Financial Accounting), الأسواق المالية (Financial Markets) (student book) — Republic of Sudan, Ministry of Education (وزارة التربية والتعليم) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda (www.nccer.edu.sd); prepared by a committee commissioned by the Centre (Prof. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, Dr. Ahmed Hashim Ahmed Yousif, Nabil Girgis Ayyad, Iqbal Yousif Ahmed, and others named on the title page). Year / edition: الطبعة الثانية المنقحة — the second revised edition (the year line on the title page OCRs unreliably and is not stated here). ISBN 978-99942-53-06-7 (printed on the copyright page). Legal deposit number 2008/789. Grade: Grade 12 (Third Secondary). Language: Arabic. Page count: 157 PDF pages (printed pp. 1–150). Source: manifest manifests-phase2/sudan.json n=1; fetched via fetch_book.py, route release, 52,467,979 bytes (= expected_bytes), to scratch-phase2/sudan/g12.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three units to the last teaching page (printed p. 150).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -88,9 +92,17 @@ Entrepreneurship Textbook — Senior One, Lower Secondary Curriculum (marked "PR
 | sources of finance | Book 8 (Small Projects), printed p. 126 |
 | sources of finance / choosing | Book 8 (Small Projects), printed pp. 129–131 |
 | sources of finance | Book 8 (Entrepreneurship S1), printed pp. 50–51 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed pp. 178–179 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed pp. 179–180 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed p. 180 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed p. 182 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed p. 184 |
+| sources of finance | Book 8 (Commercial Science G11 (Sudan)), printed pp. 184–185 |
+| sources of finance | Book 9 (Commercial Science G12 (Sudan)), printed p. 22 |
+| sources of finance | Book 9 (Commercial Science G12 (Sudan)), printed p. 23 |
 
-**Acceptance count: taught in 9 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 10 countries (Malaysia, Nigeria, Dominica, Ecuador, Iran, Nepal, Nicaragua, Palestine, Uganda, Sudan)** — every book above is a student book, so each country counts.
 
 Note, as filed: this lesson holds the Nigerian book's capital-market history, regulator and market-people parts as sources of long-term finance. The same book's market-mechanics parts (raising funds, trading, instruments, reading the market, softer windows) form their own lesson, Capital Markets and the Stock Exchange.
 
-Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda
+Searchable tags: business finance, market and money, business, malaysia, nigeria, dominica, ecuador, iran, nepal, nicaragua, palestine, uganda, sudan

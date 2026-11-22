@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business and
 Business Studies books of Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia,
-Nepal, Nicaragua, Nigeria, Palestine, Samoa and Uganda. The one exception is the **Tip boxes**: a tip in a box is
+Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan and Uganda. The one exception is the **Tip boxes**: a tip in a box is
 from us, the people making LiqLearns. Tips are ours; the lessons
 are the books'.
 
@@ -28,13 +28,13 @@ small businesses, selling and customer care), Market and Money
 (marketing, production, finance, the capital market, business
 calculations, personal finance) and Rules and
 Responsibility (risk and insurance, law, ethics, the business
-environment, e-business). **25 lessons, 544 placements stocked.**
+environment, e-business). **25 lessons, 564 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 22 books
-in all (20 student books and 2 teacher guides); the 18 below carry this course (the Business parts
+`lesson/sources.md`. The set read for the split — 24 books
+in all (22 student books and 2 teacher guides); the 20 below carry this course (the Business parts
 of each are what stock these lessons). The other 4 read books —
 Malaysia's Prinsip Perakaunan Tingkatan 5, Samoa's Accounting
 Year 12 and Business Studies Year 9 Book 2, and Zambia's
@@ -47,6 +47,12 @@ fed Business, and they are named here so the read set is whole.
 
 - *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
   - Contents map for this split: the guide's own profession framing, its financial-services work-rules summary, its entrepreneur profile for the accounting field and its own definition of K3 fed **Business** (4 placements in this course, from this guide — every one marked (teacher guide) in its provenance row, evidence only); its summarising-stage and spreadsheet-chapter material fed **Accounting** (2 placements, evidence only); its bank-bookkeeping summaries fed **Commerce** (2 placements, evidence only).
+
+- *العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year)* — Republic of Sudan, Ministry of General Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. No year printed on the copy read. **Grade 11 (Second Secondary). STUDENT book. Language: Arabic.** 193 PDF pages (printed pp. 1–185). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 185). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
+  - Contents map for this split: Part Three (Financial Mathematics — interest and its factors, simple interest, the true rate of interest, compound interest; Islam's ruling on interest and the good loan, murabaha, musharaka, mudaraba and the other Islamic finance modes) fed **Business** (10 placements in this course, from this book); Part One (Financial Accounting) fed **Accounting** (16 placements); Part Two (General Economics / Public Finance, printed pp. 117–143) is Economics-wave material, contents-mapped in the placements file, not placed in these three courses.
+
+- *العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year)* — Republic of Sudan, Ministry of Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. Second revised edition; ISBN 978-99942-53-06-7. **Grade 12 (Third Secondary). STUDENT book. Language: Arabic.** 157 PDF pages (printed pp. 1–150). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
+  - Contents map for this split: the capital a trade needs and Islamic trade finance (Unit One), the two families of companies (Unit Two) and Unit Three (Financial Markets — financial assets, money markets, capital-market instruments, the stock exchange and listing) fed **Business** (10 placements in this course, from this book); Unit One's exchange teaching and the bank parts of Unit Two fed **Commerce** (16 placements); the accounting parts of Unit Two fed **Accounting** (10 placements, 4 of them stocking the new lesson Zakat Accounting).
 
 - *Industry Skills and Entrepreneurship, Preparatory 7 (Grade 7), Term 1* — مهارات الصناعة وريادة الأعمال — Arab Republic of Egypt, Ministry of Education and Technical Education, Central Administration for Curriculum Development (CACD). School year 2025–2026. **Grade 7. STUDENT book. Language: Arabic.** 60 PDF pages (printed pp. 4–58). **Verdict: COMPLETE.** The Term 1 book has no standalone entrepreneurship unit — its body is industry-skills teaching and the entrepreneurship strand lives in embedded boxes/briefs inside the skills lessons.
   - Contents map for this split: the embedded entrepreneurship parts (printed pp. 9, 19, 31, 51–53) fed **Business** (8 placements). No part fed Commerce or Accounting. The industry-skills half (Unit 1 carpentry/fretwork, printed pp. 4–33; Unit 2 plumbing, printed pp. 34–53) is contents-mapped for **Technology & Design**, not stocked in this course; Unit 2 Lesson 1 (water awareness, printed pp. 35–37) is environmental/life-skills teaching, named-not-placed.
@@ -100,9 +106,9 @@ fed Business, and they are named here so the read set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 25 lessons,
-  stocked with 540 placements from **student books** of 13
-  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
-  taught in 13 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 560 placements from **student books** of 14
+  countries (Dominica, Ecuador, Egypt, Indonesia, Iran, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Uganda) —
+  taught in 14 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan

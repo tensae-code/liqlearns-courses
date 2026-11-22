@@ -1,6 +1,6 @@
 # Sources — Foreign Trade
 
-countries: Kenya, Nigeria, Dominica, Nepal, Nicaragua
+countries: Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan
 
 **Book 1:** Inventor Secondary Business Studies, Form Four Students' Book, Second Edition (student book) — Michael K. Nyaga and Michael K. M. Mungiria — Kenya Literature Bureau (KLB), Nairobi. Year / edition: Second Edition; no year printed on the pages in hand; ISBN 978 9966 100719. Grade: Form Four (grade-12 equivalent). Language: English. Page count: 228 PDF pages (main text printed pp. 1–209). Source: /home/hatch/workspace/scribd_pull/kenya-business-form4-inventor.pdf. Verdict: COMPLETE — whole book gone through to the back cover. Note: this scan contains duplicated pages, so PDF-to-printed pagination drifts; all citations use the printed folio numbers.
 
@@ -11,6 +11,8 @@ countries: Kenya, Nigeria, Dominica, Nepal, Nicaragua
 **Book 4:** व्यवसाय अध्ययन, कक्षा ११ (Business Studies, Class 11) — Optional (ऐच्छिक) Business Studies textbook (student book) — Government of Nepal (नेपाल सरकार), Ministry of Education, Science and Technology (शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय), Curriculum Development Centre (पाठ्यक्रम विकास केन्द्र), Sanothimi, Bhaktapur. Printed वि.सं. २०८२ (2082 BS). Grade: Grade 11 (Class 11). Language: Nepali (with English terms given in brackets for every heading and key term). Page count: 215 PDF pages (printed pp. 1–214). Source: manifest manifests-phase2/nepal.json n=0; fetched via fetch_book.py, route release (GitHub release mid-size-books-3), to scratch-phase2/nepal/full-year.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unit 8 exercises end printed p. 209; the remaining pages are imprint, preface and contents).
 
 Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Nacional (Nicaragua), through the institutions of the Comisión Nacional de Economía Creativa (Nicaragua Creativa; MEFCCA, MIFIC, INATEC, IPSA, MARENA and others named on the back cover). No individual author named. No year or edition printed in the book; the file is the "actualizada" (updated) edition — PDF created March 2021 (metadata), and the MINED source URL is dated 2024/08; recorded as undated in print. Grade: Grade 7 (per manifest record). Language: Spanish. Page count: 52 PDF pages (printed pp. 1–48). Source: manifest manifests-phase2/nicaragua.json n=0; fetched via fetch_book.py, route release-search, to scratch-phase2/nicaragua/guiadelemprendedor-actualizada-pdf.pdf (read copy deleted after the read). Verdict: COMPLETE — read whole book to the last teaching page (Unidad IV ends printed p. 43; Directorio pp. 44–45 and Bibliografía p. 46 follow).
+
+**Book 5:** العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year), in three units: التبادل التجاري (Commercial Exchange), المحاسبة المالية (Financial Accounting), الأسواق المالية (Financial Markets) (student book) — Republic of Sudan, Ministry of Education (وزارة التربية والتعليم) — National Centre for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht al-Ruda (www.nccer.edu.sd); prepared by a committee commissioned by the Centre (Prof. Abdel Aziz Abdel Rahim Suleiman, Al-Haj Al-Tayeb Mohamed Tom, Mirghani Abdel Rahim Awadallah, Dr. Ahmed Hashim Ahmed Yousif, Nabil Girgis Ayyad, Iqbal Yousif Ahmed, and others named on the title page). Year / edition: الطبعة الثانية المنقحة — the second revised edition (the year line on the title page OCRs unreliably and is not stated here). ISBN 978-99942-53-06-7 (printed on the copyright page). Legal deposit number 2008/789. Grade: Grade 12 (Third Secondary). Language: Arabic. Page count: 157 PDF pages (printed pp. 1–150). Source: manifest manifests-phase2/sudan.json n=1; fetched via fetch_book.py, route release, 52,467,979 bytes (= expected_bytes), to scratch-phase2/sudan/g12.pdf (read copy and renders deleted after the read). Verdict: COMPLETE — read in full from page renders + Arabic OCR, all three units to the last teaching page (printed p. 150).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,7 +33,15 @@ Guía del Emprendedor (student book) — Gobierno de Reconciliación y Unidad Na
 | foreign trade / export documents | Book 5 (Guía del Emprendedor), printed p. 41 |
 | foreign trade / sector exports | Book 5 (Guía del Emprendedor), printed p. 41 |
 | foreign trade / moving the goods | Book 5 (Guía del Emprendedor), printed p. 42 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed pp. 7–8 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed p. 9 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed p. 12 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed pp. 16–18 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed pp. 19–21 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed pp. 24–29 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed pp. 31–34 |
+| foreign trade | Book 5 (Commercial Science G12 (Sudan)), printed p. 35 |
 
-**Acceptance count: taught in 5 countries (Kenya, Nigeria, Dominica, Nepal, Nicaragua)** — every book above is a student book, so each country counts.
+**Acceptance count: taught in 6 countries (Kenya, Nigeria, Dominica, Nepal, Nicaragua, Sudan)** — every book above is a student book, so each country counts.
 
-Searchable tags: foreign trade, trade across distance, commerce, kenya, nigeria, dominica, nepal, nicaragua
+Searchable tags: foreign trade, trade across distance, commerce, kenya, nigeria, dominica, nepal, nicaragua, sudan

@@ -18,9 +18,11 @@ The accounting cycle closed out: preparing the financial statements and the repo
 
 **The accounting cycle.** The guide's own compression of the service cycle's summarising stage: closing entries move the balances of the nominal accounts into the real accounts (assets, liabilities, equity) at period end, their source data is the worksheet's income-statement and balance-sheet columns for the drawings or dividend account, and the post-closing trial balance is the last summarising step (Indonesia's teacher guide.)
 
+**The accounting cycle.** Final accounts as the completion of the cycle: this book takes up where the first-year book stopped (journal, posting to the ledger, trial balance by totals and by balances) and completes the accounting cycle by preparing the final accounts — operating account, trading account, profit-and-loss account — and then the balance sheet, so the period's result can serve owners, financiers, debtors,… (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: accounting runs in a cycle: transactions are recorded on source documents (input), classified and summarised in the journals and ledgers (process), and finished as financial statements (output). Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the accounting cycle as a whole, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle, the accounting cycle. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

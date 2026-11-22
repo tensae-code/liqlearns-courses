@@ -139,9 +139,25 @@ List three things a new business must pay for before it earns anything. Beside e
 **Sources of finance / when money is needed.** Financing needs across the project's life: pre-investment needs (studying the idea technically, in the market, financially, environmentally, legally and socially — the costs of the preliminary and detailed feasibility studies, the business plan, document certification, launch advertising, engineering detail and contracts); (Palestine's book.)
 
 **Sources of finance / choosing.** Choosing the financing source — the six determinants: suitability (matching the source's term to the nature of the assets financed — working capital should not be financed long-term, while expansion or a capital asset is financed from owners' funds or a medium/long loan); (Palestine's book.)
+**Sources of finance.** Islam's ruling on interest and the good loan: interest (riba) — the increase on a debt in return for the term — is prohibited, and saving is encouraged instead by character and responsibility, not by interest; the Islamic alternative for lending is the qard hasan, a loan repaid at its principal only, presented as an instrument of social security and co-operation, any increase over the principal… (Sudan's book.)
+
+**Sources of finance.** Murabaha financing: the financier buys the goods the customer needs, in whole or part payment, and the customer undertakes to pay the goods' value plus the profit agreed at contract; the book works a full applied murabaha — cost, profit margin for the period, selling value, instalments over six months, security (pledge of the business and deferred-purchase cheques) (Sudan's book.)
+
+**Sources of finance.** Musharaka (partnership) financing: the partners agree to share profit or loss and none may act without the others' leave; in the bank's musharaka the customer and the bank contribute shares of the operation's cost, the operator may take an agreed incentive share of net profit for management, and the rest of the profit divides by capital contribution (Sudan's book.)
+
+**Sources of finance.** Mudaraba financing: one party provides the money and the other provides the expertise and trades with it; profit is divided as agreed, a loss falls on the money's owner alone while the expert loses his effort, and if there is neither profit nor loss the owner recovers his money (Sudan's book.)
+
+**Sources of finance.** The other Islamic finance modes named: ijara (operating funds by selling the usufruct, not the asset itself, for rent over time), lease-sale (usufruct first, the asset at the end — a trust sale), muqawala (a contract to make something or perform work for an agreed wage, twin of istisna'a) and istisna'a (commissioning craftsmen to manufacture a thing) (Sudan's book.)
+
+**Sources of finance.** The Islamic financial system against the interest-based system: they differ in aims and means — the interest system aims at maximising the owners' wealth, the Islamic system at maximising depositors' wealth and the economic and social development of Muslim communities, giving priority to investing depositors' funds in development projects; in the Islamic system the central bank's supervision of… (Sudan's book.)
+
+**Sources of finance.** The capital a trade needs and where it comes from: before trading, a person must fund the place, its fitting and equipment, the goods, and a reserve for wages, transport and communications; money saved by the person himself is ownership funds, money borrowed is borrowed funds — cash loans from banks are bank credit, goods taken now and paid for later are trade credit (Sudan's book.)
+
+**Sources of finance.** Financing trade in the Islamic system: Islam does not allow forming capital by interest-bearing borrowing (the interest is riba) but permits the qard hasan and legislated musharaka, mudaraba, murabaha and the deferred sale as the means of financing trade, each defined by who owns the money, who works it, and how profit and loss fall (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every business needs finance at each of its stages — from its own capital and retained profit, from bank credit, suppliers and customers, and for the long term from the capital market — and the finance skill is knowing the sources and choosing the one that fits the need. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening, types, needs, comparison, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance, sources of finance. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

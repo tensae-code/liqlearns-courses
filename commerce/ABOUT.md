@@ -2,7 +2,7 @@
 
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the Business Studies
-and Commerce books of Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa and
+and Commerce books of Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan and
 Uganda. The
 one exception is the **Tip boxes**: a tip in a box is from us,
 the people making LiqLearns. Tips are ours; the lessons are the
@@ -27,21 +27,22 @@ Trade Across Distance (transport, foreign trade), Helpers of
 Trade (documents, warehousing, advertising, insurance,
 banking) and Institutions and the Consumer (trade
 organisations, consumer protection). **15 lessons,
-139 placements stocked.**
+155 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 22 books
-in all (20 student books and 2 teacher guides); the 14 below carry this course (the Commerce parts
-of each are what stock these lessons). The other 8 read books —
+`lesson/sources.md`. The set read for the split — 24 books
+in all (22 student books and 2 teacher guides); the 15 below carry this course (the Commerce parts
+of each are what stock these lessons). The other 9 read books —
 Egypt's Industry Skills and Entrepreneurship Preparatory 7
 Term 1, Iran's Entrepreneurship and Production Workshop,
 Malaysia's Prinsip Perakaunan Tingkatan 5 and
 Pengajian Keusahawanan Tingkatan 5, and Samoa's Accounting
 Year 12, Business Studies Year 11 Book 2 and Business Studies
 Year 9 Book 2, and Zambia's Principles of Accounts Teaching
-Module (a teacher guide) — carry no Commerce part: their parts fed
+Module (a teacher guide), and Sudan's Commercial Science
+Grade 11 — carry no Commerce part: their parts fed
 Business and Accounting, and they are named here so the read
 set is whole.
 
@@ -50,6 +51,9 @@ set is whole.
 
 - *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Accounting pending queue, not this one.) **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
   - Contents map for this split: the guide's own bank-bookkeeping summaries (journalling savings and time deposits; recording sharia deposits) fed **Commerce** (2 placements in this course, from this guide — every one marked (teacher guide) in its provenance row, evidence only); its profession, work-rules, entrepreneur-profile and K3 guidance fed **Business** (4 placements, evidence only); its summarising-stage and spreadsheet-chapter material fed **Accounting** (2 placements, evidence only).
+
+- *العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year)* — Republic of Sudan, Ministry of Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. Second revised edition; ISBN 978-99942-53-06-7. **Grade 12 (Third Secondary). STUDENT book. Language: Arabic.** 157 PDF pages (printed pp. 1–150). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
+  - Contents map for this split: Unit One (Commercial Exchange — what exchange is, its service functions including storage, domestic and foreign trade, the free-trade and protection systems, trade policy and its instruments, the means of payment in international trade, the exchange rate, the balance of payments, trade globalisation) and the bank parts of Unit Two (the kinds of banks, the treasury department, current accounts and their operations), with Unit Three's international financial institutions, fed **Commerce** (16 placements in this course, from this book); the trade-finance, company-forms and financial-markets teaching fed **Business** (10 placements); the accounting parts of Unit Two fed **Accounting** (10 placements).
 
 - *Principles of Business for CSEC Examinations, Second Edition* — Riana Balliram; Peter Budd; Edith Emmanuel; Marsha Guiness; James McCloskey; Rachael Raghoo Bitu — Macmillan Education (a division of Springer Nature Limited), London. ISBN 978-1-380-03422-9. First published 2016; second edition 2019. **Grade 11 (CSEC). STUDENT book. Language: English** (Caribbean examples throughout). 425 PDF pages (printed pp. 1–~419). **Verdict: COMPLETE** — read whole book to the last teaching page (Unit 10 ends printed p. 391). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day.
   - Contents map for this split: the trade parts of Units 1, 6, 7, 8 and 10 — money and payment instruments, advertising and sales promotion, retailing and credit, consumer protection, warehousing, wholesale channels, transport, commercial and transport documents, financial institutions and bank services, trade insurance, and international trade with its institutions — fed **Commerce** (23 placements in this course, from this book — including the first placement for Warehousing, built from this book); Units 1–10's business parts fed **Business** (99 placements); the bookkeeping parts of Units 4 and 8 fed **Accounting** (9 placements). The economic-systems teaching (Unit 1.2) and the economics parts of Units 9–10 are Economics-wave material, mapped, not placed.
@@ -90,9 +94,9 @@ set is whole.
 ## Acceptance reckoning
 
 - **Pupil-taught from the books:** all 15 lessons,
-  stocked with 137 placements from **student books** of 11
-  countries (Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Uganda) —
-  taught in 11 countries. Every lesson's `lesson/sources.md` carries its
+  stocked with 153 placements from **student books** of 12
+  countries (Dominica, Ecuador, Indonesia, Kenya, Malaysia, Nepal, Nicaragua, Nigeria, Palestine, Samoa, Sudan, Uganda) —
+  taught in 12 countries. Every lesson's `lesson/sources.md` carries its
   own acceptance line in exactly these terms.
 - **Teacher-guide evidence only, counted nowhere:**
   Indonesia's *Buku Panduan Guru Dasar-Dasar Akuntansi dan
@@ -109,7 +113,7 @@ set is whole.
 
 ## The pending queue — Commerce books not yet in the course
 
-9 Commerce books are in hand in the library record but
+7 Commerce books are in hand in the library record but
 were not on disk under the disk hold, so they are UNREAD-PENDING
 — not failed, not skipped. They are named here in full, by
 country, copied from the reading log's UNREAD-PENDING queue
@@ -130,10 +134,6 @@ hold lifts and they are read.
 
 **Sri Lanka (1):**
 - [COMMERCE · textbook] Grade 10 Commerce — introductory book (வணிகம் (ஆரம்பநூல்)) — Tamil medium, 1974 edition (grade-10) — secured-not-on-disk
-
-**Sudan (2):**
-- [COMMERCE · student] Sudan Grade 11 Commercial Science Student Book (العلوم التجارية – الصف الثاني الثانوي) (grade-11) — secured-not-on-disk
-- [COMMERCE · student] Sudan Grade 12 Commercial Science Student Book (العلوم التجارية – الصف الثالث الثانوي) (Grade 12) — secured-not-on-disk
 
 **Tanzania (1):**
 - [COMMERCE · student] Commerce Form Three — Student's Book (Grade 10) — secured-not-on-disk

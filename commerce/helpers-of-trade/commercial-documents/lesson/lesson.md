@@ -28,9 +28,11 @@ Think of the last thing bought on credit for a home or a shop. Ask: what paper p
 
 **Transport documents.** Transport documents: why they matter (contract of carriage, proof of delivery and condition — 'clean' vs 'dirty', evidence of ownership), the consignment note for inland movement, and the international documents — import licence, bill of lading (document of title, receipt, and terms of carriage) and airway bill (evidence of the air contract, but not a document of title)
 
+**Commercial documents.** The means of payment in international trade: transfers or payment orders (a bank instructing its branch or correspondent abroad to pay a named person), bank cheques drawn on branches or correspondents abroad, letters of credit in accepted foreign currencies, and documentary credits — the bank standing between importer and exporter, undertaking to pay the exporter against the shipping documents (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every step of a trade leaves a document — enquiry, quotation, order, invoice, delivery note, statement, receipt — and the document is the proof, the instruction and the record of the deal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the sequence before the goods move, the invoice and the delivery papers, correcting and closing papers, the invoice, item by item, commercial documents. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

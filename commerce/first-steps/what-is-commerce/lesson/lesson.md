@@ -21,9 +21,11 @@ Think of one thing you used today that was made far away. Write down: who made i
 **Opening / the parts of business.** The three dimensions (models) of business: industry, commerce and service enterprise — the map of the whole subject (Nepal's book.)
 
 **What commerce is.** Commerce defined: all the activities that help exchange by carrying goods and services from the place of production to the consumer; buying, selling and exchange in the market (Nepal's book.)
+**What commerce is.** What commercial exchange is and why it matters: production and exchange are two branches of one root — exchange moves what production makes to where needs are satisfied; it grew out of specialisation and the division of labour, from self-sufficiency through barter to exchange through money, and Islam's own regulation of trade dealings (sales, mudaraba, agency, guarantee) is part of its history (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: commerce is the work of getting goods from the people who make them to the people who use them — distribution across the gap between producer and consumer, helped by the aids to trade: transport, communication, banking, insurance, warehousing and advertising. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: distribution bridges the gap, choosing the channel, the aids to trade, what commerce is. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

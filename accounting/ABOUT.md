@@ -3,7 +3,7 @@
 **The first page (what learners are told):** everything in this
 course comes from government textbooks — the accounting and
 Business Studies books of Dominica, Ecuador, Kenya, Malaysia, Nicaragua, Nigeria, Palestine
-and Samoa, and Indonesia.
+and Samoa, Indonesia and Sudan.
 The one exception is the **Tip boxes**: a tip in a box is from
 us, the people making LiqLearns. Tips are ours; the lessons are
 the books'.
@@ -30,16 +30,16 @@ reconciliation, internal control over cash), The Statements
 depreciation, the cash flow statement, financial statement
 analysis and ratios), Kinds of Business (non-profit
 organisations, partnerships, companies, manufacturing,
-incomplete records, control accounts) and Money at Work
+incomplete records, control accounts, zakat) and Money at Work
 (keeping accounts for a small business, payroll and payslips,
 cash budgets, break-even analysis, computerised accounting).
-**27 lessons, 242 placements stocked.**
+**28 lessons, 268 placements stocked.**
 
 ## The books read so far
 
 Book entries are named in full in each lesson's
-`lesson/sources.md`. The set read for the split — 22 books
-in all (20 student books and 2 teacher guides); the 16 below carry this course (the Accounting
+`lesson/sources.md`. The set read for the split — 24 books
+in all (22 student books and 2 teacher guides); the 18 below carry this course (the Accounting
 parts of each are what stock these lessons). The other 6 read
 books — Egypt's Industry Skills and Entrepreneurship Preparatory
 7 Term 1, Iran's Entrepreneurship and Production Workshop,
@@ -55,6 +55,12 @@ they are named here so the read set is whole.
 
 - *Buku Panduan Guru Dasar-Dasar Akuntansi dan Keuangan Lembaga untuk SMK/MAK Kelas X* (Teacher's Guide to Fundamentals of Accounting and Institutional Finance for Vocational High School Class X) — Indrastuti Ristiyani, Solichatun, A. Rahmat Dimyati — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republic of Indonesia — Pusat Perbukuan, Jakarta. First printing, 2023. ISBN 978-623-194-579-2 (PDF). **Grade 10 (SMK/MAK Kelas X). TEACHER GUIDE. Language: Indonesian (Bahasa Indonesia).** 304 PDF pages (printed pp. viii + 1–296). **Verdict: COMPLETE** — read whole guide to the last teaching page (Bab VIII guidance ends printed p. 282). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. **This book is a teacher guide: it is evidence only and counts for acceptance 0 — it adds no teaching country anywhere; Indonesia counts in the lessons it touches through its student book above.**
   - The ACCOUNTING parts of this guide: its own compression of the service cycle's summarising stage (Bab V guidance) and its essential-material list for the spreadsheet chapter (Bab VI guidance) fed **Accounting** (2 placements in this course, from this guide — every one marked (teacher guide) in its provenance row). Contents map for this split: its profession, work-rules, entrepreneur-profile and K3 guidance fed **Business** (4 placements, evidence only); its bank-bookkeeping guidance fed **Commerce** (2 placements, evidence only).
+
+- *العلوم التجارية (Commercial Science) — الصف الثاني الثانوي (Second Secondary Year)* — Republic of Sudan, Ministry of General Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. No year printed on the copy read. **Grade 11 (Second Secondary). STUDENT book. Language: Arabic.** 193 PDF pages (printed pp. 1–185). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 185). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
+  - The ACCOUNTING parts of this book: Part One (Financial Accounting — final accounts and the balance sheet, stocktaking and inventory adjustments, depreciation, capital vs revenue items, incomplete records worked from total accounts) fed **Accounting** (16 placements in this course, from this book). Contents map for this split: Part Three (Financial Mathematics — interest, simple and compound; the Islamic finance modes) fed **Business** (10 placements); Part Two (General Economics / Public Finance, printed pp. 117–143) is Economics-wave material, contents-mapped in the placements file, not placed in these three courses. No part fed Commerce.
+
+- *العلوم التجارية (Commercial Science) — الصف الثالث الثانوي (Third Secondary Year)* — Republic of Sudan, Ministry of Education — National Centre for Curricula and Educational Research, Bakht al-Ruda. Second revised edition; ISBN 978-99942-53-06-7. **Grade 12 (Third Secondary). STUDENT book. Language: Arabic.** 157 PDF pages (printed pp. 1–150). **Verdict: COMPLETE** — read in full from page renders + Arabic OCR to the last teaching page (printed p. 150). Read in the Phase 2 pending-queue wave (2026-11-22) and merged the same day. (It stood in the Commerce pending queue, not this one.)
+  - The ACCOUNTING parts of this book: Unit Two (Financial Accounting — the accounts of non-profit organisations, company accounts and shares, and zakat accounting) fed **Accounting** (10 placements in this course, from this book — 4 of them stocking the new lesson Zakat Accounting, built from this book). Contents map for this split: Unit One (Commercial Exchange) and the bank-accounting parts of Unit Two fed **Commerce** (16 placements); Unit Three (Financial Markets) and the company-forms and trade-finance teaching fed **Business** (10 placements).
 
 - *Principles of Business for CSEC Examinations, Second
   Edition* — Riana Balliram; Peter Budd; Edith Emmanuel;
@@ -232,9 +238,9 @@ they are named here so the read set is whole.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from the books:** all 27 lessons, stocked with
-  242 placements in all — 232 of them from **student books** of 9 countries (Dominica,
-  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa) — taught in 9 countries;
+- **Pupil-taught from the books:** all 28 lessons, stocked with
+  268 placements in all — 258 of them from **student books** of 10 countries (Dominica,
+  Ecuador, Indonesia, Kenya, Malaysia, Nicaragua, Nigeria, Palestine, Samoa, Sudan) — taught in 10 countries;
   the other 10 are teacher-guide evidence from Zambia and Indonesia (acceptance 0, below). Every
   lesson's `lesson/sources.md` carries its own acceptance line
   in exactly these terms.

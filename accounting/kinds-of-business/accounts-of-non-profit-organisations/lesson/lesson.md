@@ -32,9 +32,17 @@ Your sports club collects subscriptions, runs a canteen and ends the year with m
 
 **Subscriptions in arrears and in advance.** Club balance-day adjustments centre on subscriptions: subscriptions in advance are a current liability and subscriptions in arrears are worked out from membership × annual subscription against cash actually received.
 
+**Accounts of non-profit organisations.** Non-profit organisations and their accounting system: bodies with legal personality whose activity is not trading and which exist for social, sporting, cultural or charitable aims (government bodies, clubs, associations, regional and international organisations); their accounting is mostly cash — all cash operations are recorded in the receipts-and-payments book (the same cash book as a profit… (Sudan's book.)
+
+**Accounts of non-profit organisations.** The income-and-expenditure account: the non-profit's counterpart of the profit-and-loss account, prepared on the same principles — only the year's expenses (debit) and incomes (credit) enter it, amounts prepaid at year end are carried to the balance sheet instead, amounts accrued are added and shown in the balance sheet, and its balance is the surplus of income over expenditure (the accumulated… (Sudan's book.)
+
+**Accounts of non-profit organisations.** The non-profit balance sheet: prepared as a trading organisation's is, its elements gathered from the previous year's balance sheet, the stock of assets, and the capital items inside the receipts-and-payments account (Sudan's book.)
+
+**Accounts of non-profit organisations.** A profit-making activity inside a non-profit body: where the body runs a trading activity (a club buffet, a hotel restaurant), trading and profit-and-loss accounts are prepared for that activity first, then the income-and-expenditure account and the statement of financial position for the whole body (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a club or society does not trade for an owner's profit: its year's cash is summarised in a receipts and payments account, its result in an income and expenditure account, and what it owns sits in an accumulated fund. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, receipts-and-payments part, subscriptions part, income-and-expenditure part, trading-activity part, closing part, the accumulated fund, receipts and payments account, income and expenditure account, subscriptions in arrears and in advance, non-profit organisations' finances, receipts/p. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a club or society does not trade for an owner's profit: its year's cash is summarised in a receipts and payments account, its result in an income and expenditure account, and what it owns sits in an accumulated fund. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, receipts-and-payments part, subscriptions part, income-and-expenditure part, trading-activity part, closing part, the accumulated fund, receipts and payments account, income and expenditure account, subscriptions in arrears and in advance, non-profit organisations' finances, receipts/p, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations, accounts of non-profit organisations. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

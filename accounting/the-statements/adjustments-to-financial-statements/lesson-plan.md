@@ -3,7 +3,7 @@
 **Course:** Accounting · **Title:** The Statements · **Lesson:** Adjustments to Financial Statements
 **Place in the curriculum:** Unit — The Statements (CURRICULUM.md).
 **The one thing this lesson teaches:** business does not stop at midnight on balance day, so amounts owed, prepaid, earned or received in advance are adjusted so each period carries exactly its own revenues and expenses.
-**This lesson's own level:** Unit — The Statements, lesson 13 of 27 in the course ladder.
+**This lesson's own level:** Unit — The Statements, lesson 13 of 28 in the course ladder.
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

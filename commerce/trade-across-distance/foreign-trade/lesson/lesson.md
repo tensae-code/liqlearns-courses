@@ -45,9 +45,25 @@ Name one thing your country sells to the world and one thing it must buy from th
 **Foreign trade / sector exports.** Sector export routes: clay, stone, ceramic crafts and paintings exported to Central America need the Instituto de Cultura export certificate before CETREX issues the DUCA-F and the DGA customs declaration; leather goods (footwear, bags, wallets) go straight through the CETREX document set — invoice, FOB fee slip, DUCA-F/FUE/Certificate of Origin detail sheet (Nicaragua's book.)
 
 **Foreign trade / moving the goods.** The export logistics steps in order: 1) registration — contract the customs carrier for the mode (land, sea or air); 2) customs agency — contract the agency that prepares the merchandise declaration, with the DGA's coming "Declaración Simplificada" project noted as letting MIPYMEs file their own declarations and cut cost and time; (Nicaragua's book.)
+**Foreign trade.** Domestic trade and foreign trade distinguished: trade inside the country's borders against trade across them, as the two fields the exchange unit then treats (Sudan's book.)
+
+**Foreign trade.** The free-trade system: a trade system is the state's stance toward exchange relations between persons at home and abroad; the free-trade system rests on the harmony of the individual's interest with society's, leaving exchange free of state restriction (Sudan's book.)
+
+**Foreign trade.** The protection system: states restrict free trade for national, social or economic reasons — in domestic trade to organise the market against exploitation and monopoly and to cheapen goods for consumers, and in foreign trade to shelter home production — and in practice every state mixes the two systems (Sudan's book.)
+
+**Foreign trade.** Trade policy and its instruments: trade policy is the set of principles a government lays down to guide the administration of trade — aiming to encourage local production toward self-sufficiency and export surplus, protect the consumer, raise revenue for the treasury and correct the balance of payments; its instruments are worked one by one — the customs policy and the quantity-restriction… (Sudan's book.)
+
+**Foreign trade.** The subsidy policy and the supply (rationing) policy: supporting local production raises producers' ability to compete and expand; a supply/rationing system shares out scarce goods, its need growing as scarcity grows (Sudan's book.)
+
+**Foreign trade.** The exchange rate and settling international obligations: banks deal at two rates for buying and selling foreign currency, the selling rate above the buying rate, the spread being the bank's profit from currency dealing; foreign currency is bought to pay for foreign goods and services, so demand for a currency tracks demand for that country's goods (Sudan's book.)
+
+**Foreign trade.** The balance of payments: its form as a set of accounts between the country and foreigners, each account balanced to show its own surplus or deficit — a debit-heavier trade account is a trade deficit, a credit-heavier one a surplus — and the ways of treating an imbalance, including increasing exports, when the state's obligations abroad outrun its rights (Sudan's book.)
+
+**Foreign trade.** Trade globalisation: the entrenching of market economies and the removal of geographic and administrative barriers so goods, services and capital move freely without customs restrictions — its features (faster movement of trade and capital, multinational companies replacing national ones, a shrinking government role), its positive and negative effects, and how its consequences are faced (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: foreign trade is trade between countries, so each can obtain what it does not produce and sell its surplus — run on quoted-price terms, secured by documents such as the letter of credit, and shaped by the restrictions governments impose and the trends now loosening them. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: trade between countries, the eleven terms of sale, incoterms 2010, the letter of credit, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade, foreign trade. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

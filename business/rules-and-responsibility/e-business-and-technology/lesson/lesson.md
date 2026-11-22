@@ -73,9 +73,11 @@ Ethical implications of using ICT in business: security — cybercrime in its fo
 **Technology in business.** Technology-based ventures: app-platform businesses operating in Ecuador (ride and lodging platforms named as examples) that offer services over the internet and earn commission (Ecuador's book.)
 
 **Technology in business.** ERP systems (TIC page): Enterprise Resource Planning tools (the free, modular Dolibarr ERP named for SMEs, freelancers and associations) centralise a company's information, avoid duplication and ease financial management (Ecuador's book.)
+**E-business and technology.** E-commerce: using computers and communications technology to exchange goods, services and information — linking sellers and buyers, letting the consumer inspect and compare goods from home, transferring money, delivering faster at lower cost and high quality because the system rents no shop and holds no stock, its doors open 24 hours a day, seven days a week; its advantages and disadvantages are… (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: digital technology lets a business do its work and its marketing in a new way — application software prepares its documents and reports, digital platforms carry its products to buyers, and the digital entrepreneur builds the business itself on those platforms. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: software, opening, digital-entrepreneurship, platforms, e-business and technology. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

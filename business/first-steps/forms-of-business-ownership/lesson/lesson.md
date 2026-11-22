@@ -85,9 +85,13 @@ Take three businesses you know: one run by a single person, one run by partners 
 **Forms of ownership / registering a company.** Registering a mercantile company: businesses that constitute themselves as commercial companies under Nicaragua's Commercial Code draw up their statutes and constitutive acts before an authorised notary and register the entity in the Registro Mercantil — a necessary condition before the RUM, RUC and municipal licence procedures; (Nicaragua's book.)
 
 **Forms of ownership / choosing.** Choosing the legal form: (Palestine's book.)
+**Forms of business ownership.** Companies and their two families: a company is a contract by which two or more persons contribute money or work to a financial project and share its profit or loss; companies of persons rest on personal consideration and mutual trust — the general partnership (partners' liability for the company's debts absolute, joint and beyond their shares into their private wealth; the firm dissolves on a… (Sudan's book.)
+
+**Forms of business ownership.** Companies of capital (joint-stock companies): these rest on the financial consideration, not the personal — capital divided into tradable shares offered to the public; the joint-stock company is a legal person separate from its shareholders, with its own financial liability, able to sue and be sued (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: every business has an ownership form — sole trader, partnership, company, or a government or non-profit form — and the form fixes who owns the business, who carries its risks and debts, how it is formed and registered, and how large it can grow. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: registration, opening, first-types, company, forms of business ownership, forms of business ownership. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

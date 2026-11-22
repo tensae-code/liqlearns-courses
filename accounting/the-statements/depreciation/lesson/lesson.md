@@ -17,9 +17,11 @@ Straight-line method: the same amount each year from (cost − residual value) �
 Diminishing (reducing) balance method: a fixed rate on the falling book value, suiting assets like computers that lose value fastest early.
 
 **The books / what the numbers mean.** Cash flow is not accounting profit: (Palestine's book.)
+**Depreciation.** Depreciation (الاستهلاك): the gradual fall in the value of fixed assets from internal causes (use in production) and external causes (a newer, more productive invention); its purpose is to keep capital intact by charging profit and loss so the retained amount can replace the asset at the end of its life; the three methods are the fixed instalment (cost less scrap over life), the reducing… (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a long-life asset loses its power to serve year by year, so its cost less its residual value is spread as an expense over its useful life. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: why assets depreciate, straight-line method, reducing-balance method, depreciation. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

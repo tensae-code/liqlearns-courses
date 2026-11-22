@@ -14,9 +14,11 @@ Preparing the manufacturing account in both T format and statement format and tr
 
 **How a manufacturer's transactions flow into the accounts.** The manufacturing company's accounting business process in its own order: buying raw and auxiliary materials and paying production labour, paying other production and operating costs, selling the finished goods, documenting every financial transaction and recording it (Indonesia's book.)
 
+**Manufacturing accounts.** The operating account (حساب التشغيل): the final account of a manufacturing business that gathers every cost of making the goods — opening raw materials and work in progress, raw-material purchases, factory wages, motive power, factory rent, water, factory salaries and fire insurance — against closing raw materials and work in progress, to extract the cost of the goods manufactured, which passes… (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a maker must first find what production cost: direct materials, direct labour, direct expenses and factory overheads are gathered in a manufacturing account, and the cost of production passes to the trading account. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cost-classification part, main part, how a manufacturer's transactions flow into the accounts. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a maker must first find what production cost: direct materials, direct labour, direct expenses and factory overheads are gathered in a manufacturing account, and the cost of production passes to the trading account. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: cost-classification part, main part, how a manufacturer's transactions flow into the accounts, manufacturing accounts. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

@@ -43,9 +43,17 @@ How a price change affects total revenue, worked through with numbers: a 10% pri
 **The numbers behind the market.** Estimating total demand by the per-capita consumption method: total consumption of the good = local production + (imports − exports) + change in stock (closing minus opening stock); average per-capita consumption = total consumption ÷ population in the same year; (Palestine's book.)
 
 **Costing / sizing the need.** Estimating the financing need realistically, and opportunity cost: the financial need arises from the value of the assets the project needs; (Palestine's book.)
+**Business calculations.** Interest and its factors: interest is built from three factors — the principal, the rate and the time — and because the time must often be found between two dates, the book teaches computing the period in years, in years and months, and in exact days between a deposit/loan date and a withdrawal/repayment/maturity date (Sudan's book.)
+
+**Business calculations.** Simple interest: interest on the principal alone for periods stated in years, months or days, including commercial interest computed on the 360-day commercial year against ordinary interest on the exact days (Sudan's book.)
+
+**Business calculations.** The true rate of interest: lenders can load a loan with commissions, administrative charges, interest deducted in advance, or counting both the borrowing and repayment months in full, so the rate the borrower really pays is higher than the stated rate; the true rate is worked out from what the borrower actually receives and actually pays (Sudan's book.)
+
+**Business calculations.** Compound interest and its laws: interest is added to the principal at the end of each period so the next period's interest is earned on a growing amount — always more than simple interest beyond one year; the amount law (amount = principal × the amount of one pound for the period), the tables built for it, and finding any variable by computer (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: a price is built up step by step — the cost of the job or the product first, then each stage's charges and mark-ups and the tax, with the profit added to reach the final amount the customer pays. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: the working-out-what-a-job-costs, the pricing-and-profit-margin, project/import costing at business-studies level, the build-up of a selling price, business calculations, business calculations, business calculations, business calculations. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

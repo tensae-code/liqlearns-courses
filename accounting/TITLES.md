@@ -30,8 +30,9 @@ sources.
 20. Manufacturing Accounts — `kinds-of-business/manufacturing-accounts/`
 21. Incomplete Records — `kinds-of-business/incomplete-records/`
 22. Control Accounts — `kinds-of-business/control-accounts/`
-23. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
-24. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
-25. Cash Budgets — `money-at-work/cash-budgets/`
-26. Break-even Analysis — `money-at-work/break-even-analysis/`
-27. Computerised Accounting — `money-at-work/computerised-accounting/`
+23. Zakat Accounting — `kinds-of-business/zakat-accounting/` — NEW, built from Sudan (Phase 2 merge, 2026-11-22)
+24. Keeping Accounts for a Small Business — `money-at-work/keeping-accounts-for-a-small-business/`
+25. Payroll and Payslips — `money-at-work/payroll-and-payslips/`
+26. Cash Budgets — `money-at-work/cash-budgets/`
+27. Break-even Analysis — `money-at-work/break-even-analysis/`
+28. Computerised Accounting — `money-at-work/computerised-accounting/`

@@ -8,9 +8,11 @@ A bookkeeper enters a payment of 90 as 9 on one side only. The two sides of the 
 
 The limits of the trial balance: the errors that make it disagree (partial omission, unequal amounts, wrong balances posted, wrong side) versus the errors it cannot reveal even when it balances — total omission, error of original entry, error of commission, compensating errors, complete reversal of entries and error of principle.
 
+**Correcting errors.** The suspense account and cash differences at stocktaking: when the physical cash count differs from the cash book, the difference is carried to a suspense account (حساب معلق) — a cash surplus credited, a shortage debited — until it is explained, so the book cash is made to agree with the cash actually in the safe, and the suspense balance shows among the balance-sheet balances (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: some errors make the trial balance disagree and some hide even when it balances; each kind is found and corrected in its own way, often through the journal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: errors part of the lesson. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: some errors make the trial balance disagree and some hide even when it balances; each kind is found and corrected in its own way, often through the journal. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: errors part of the lesson, correcting errors. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 

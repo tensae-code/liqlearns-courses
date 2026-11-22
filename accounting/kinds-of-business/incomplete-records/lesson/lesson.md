@@ -16,9 +16,11 @@ A trader kept no proper books — only a notebook of cash and a pile of invoices
 
 **Reconstruction part.** The analysis method: rebuilding sales, purchases and cash figures through control accounts and cash analysis so full final accounts can be prepared.
 
+**Incomplete records.** Completing the picture from an opening balance sheet and total accounts: given a business's opening balance sheet and the year's total (control) accounts — total bank, total purchases, total sales, total creditors, total debtors, bills and the rest — the learner completes the trial balance and rebuilds the final accounts for a business whose records are incomplete (Sudan's book.)
+
 ## Say it to your companion
 
-Tell your companion what this lesson teaches: when a trader's records are incomplete, profit can still be found — by comparing opening and closing statements of affairs, or by rebuilding the figures through control accounts and cash analysis. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, statement-of-affairs part, reconstruction part, personal statement of affairs. Your companion asks one question back — answer it from the lesson.
+Tell your companion what this lesson teaches: when a trader's records are incomplete, profit can still be found — by comparing opening and closing statements of affairs, or by rebuilding the figures through control accounts and cash analysis. Give one real example from your own home, market or neighbourhood, and name the lesson's key words: opening part, statement-of-affairs part, reconstruction part, personal statement of affairs, incomplete records. Your companion asks one question back — answer it from the lesson.
 
 ## Do It Yourself
 
