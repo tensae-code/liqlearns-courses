@@ -1,0 +1,3 @@
+# Ancient Ethiopia — Punt — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Say how we know about Punt: Egyptian hieroglyphic inscriptions, tomb records and archaeology.; Name Queen Hatshepsut and at least six goods her expeditions brought from Punt.; State the three location claims and which one the majority holds. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

@@ -1,0 +1,3 @@
+# The Adal wars — the first phase — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Give the two causes: control of the Zeila route and its wealth; subjugation against the sultanates' drive for land and independence.; Name the reign-by-reign fighting, including Dawit's defeats of Haqq al-Din II (1387), Sa'ad al-Din (1403) and Ahmad (1430).; Say the first phase runs 1314–1527 with the highland kingdom uppermost. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

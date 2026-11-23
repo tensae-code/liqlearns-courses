@@ -1,0 +1,3 @@
+# The sultanates — Hadiya and Bale — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Say Hadiya's founding is unrecorded; it was made tributary by Amda Tsion in 1316; its economy was farming and trade.; Say Bale's founding is unrecorded; it was tributary from the 14th to the 16th century; its rulers were titled garad.; Name Bale's ring: Dawaro and Sharka north, Hadiya west, Adal east. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.
