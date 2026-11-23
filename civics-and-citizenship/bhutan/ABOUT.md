@@ -199,11 +199,22 @@ REC download 5132) is non-civics — a History supplementary
 text, and the lead line itself records it as the only-book
 evidence for Class XII History; no civics book named.
 
-The filings do not state any staging, scratch or
-held-in-scratch location for any Bhutan book, and do not
-name any PARTIAL or wrong-file label for Bhutan: every read
-book's verdict is COMPLETE, exactly as filed. This build
-staged and downloaded nothing (DISK HOLD in force).
+The filings do not name any PARTIAL or wrong-file label
+for Bhutan: every read book's verdict is COMPLETE, exactly
+as filed. **Staging gap for the VCE PP pair, stated
+plainly:** the Class PP pair's PDFs are held in the wave
+work dir's scratch — `scratch-links-asia/bt-pp-student.pdf`
+(4,079,886 bytes, 50 pages) and
+`scratch-links-asia/bt-pp-teacher.pdf` (3,580,073 bytes,
+57 pages), both verified on disk in the 2026-11-22
+finisher pass. phase3-staging contains only the grade
+folders grade-01 through grade-13 — there is no
+pre-primary (PP) grade folder, so the pair has no staging
+location. Nothing was staged for the pair and no staging
+folder was created or invented; the pair stays in
+scratch-links-asia pending a ruling on where pre-primary
+books stage. This build staged and downloaded nothing
+else (DISK HOLD in force at build time).
 
 ## The acceptance reckoning
 

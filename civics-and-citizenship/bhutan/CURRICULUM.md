@@ -86,7 +86,14 @@ The Classes XI–XII coursebook is the theoretical top of the ladder: what socie
   census books as read by the target group; the first
   filing's own per-book verdicts record them UNREAD with
   no placements, and this course follows the verdicts.
-  The filings name no staging or scratch location for
-  any Bhutan book, and this build staged and downloaded
-  nothing (DISK HOLD in force). Nothing else is in the
-  course, and no lesson pretends to one (see ABOUT.md).
+  **Staging gap for the VCE PP pair, stated plainly:**
+  the Class PP pair's PDFs are held in the wave work
+  dir's `scratch-links-asia/` (student workbook
+  4,079,886 bytes, 50 pages; teacher's handbook
+  3,580,073 bytes, 57 pages); phase3-staging contains
+  only grade-01 through grade-13 — there is no
+  pre-primary (PP) grade folder, so the pair has no
+  staging location, stays in scratch, and no staging
+  folder was created for it (see ABOUT.md). Nothing
+  else is in the course, and no lesson pretends to one
+  (see ABOUT.md).
