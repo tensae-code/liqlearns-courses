@@ -1,0 +1,7 @@
+# Taking Part in Running the State and Society — matching
+
+Match each part of the lesson to what it teaches.
+
+**1.** Citizens' rights and duties in taking part in managing the state and society (named and summarised, never transcribed) → **Answer:** citizens' rights and duties in taking part in managing the state and society (named and summarised, never transcribed).
+
+**2.** Citizens' rights and duties in taking part in managing the state and society (named and summarised, never transcribed) → **Answer:** citizens' rights and duties in taking part in managing the state and society (named and summarised, never transcribed).

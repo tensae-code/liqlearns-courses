@@ -1245,3 +1245,26 @@ sources, as provenance.
   Grade 5 pupil books named in ABOUT.md — and are not in
   the course). See `laos/ABOUT.md` for the full book list
   and the acceptance reckoning.
+- **Vietnam** — [`vietnam/`](vietnam/) · 159 lessons: Levels
+  1–3 — ethics in primary school first (the body and its
+  care, family love told as small acts, school rules,
+  honesty, and a long run of accident-prevention lessons),
+  then civic education in lower secondary (family and
+  homeland traditions, the working virtues, heritage,
+  stress, school violence and social evils, and rights,
+  duties and law named sphere by sphere), closing on law
+  and the citizen in upper secondary (what law is, the
+  Constitution, the state organ by organ, rights taught as
+  equalities, democratic rights and freedoms, and the law
+  of family, work, property and the world) — from
+  Vietnam's Đạo đức (Ethics), Giáo dục công dân (Civic
+  Education) and Giáo dục Kinh tế và Pháp luật (Economics
+  and Law) books for Grades 1–12 (NXBGD — Vietnam
+  Education Publishing House, Kết nối tri thức series,
+  Vietnamese, 162 placements, 159 lessons — 15 books, all
+  PARTIAL as filed: all 15 are student books and count in
+  the acceptance reckoning; the Economics and Law books
+  are combined volumes whose economics spans are named in
+  their contents maps and never placed; no records are
+  unread). See `vietnam/ABOUT.md` for the full book list
+  and the acceptance reckoning.
