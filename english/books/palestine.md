@@ -1,10 +1,18 @@
 # Palestine — English books read for LiqLearns
 
-STATUS (2026-10-26): Grade 1 Parts 1–2 have been
-FULLY READ page by page with citation checks
-passed — see the closing blocks under each part.
-The other six items at the end of the file remain
-record-only, unread.
+STATUS (corrected 2026-11-22): ALL 8 items have
+been FULLY READ page by page. Grade 1 Parts 1–2
+were read 2026-10-26 with citation checks passed
+— see the closing blocks under each part. The
+other six items were read for the first time in
+the 2026-11-08 re-verification sweep (from the
+library's secured copies in the textbooks repo)
+and merged in commit 220e0d5d16 — see the closing
+block at the end of the file. Nothing in this set
+remains record-only. (This header and the closing
+block previously said the six were still unread;
+that was stale — the sweep's read and merge were
+never written back here until 2026-11-22.)
 
 
 Palestine's set: **English for Palestine** (Ministry of
@@ -258,22 +266,40 @@ p.56), and the imprint ISBN 978-0-230-40987-3
 — GRADE 1 FULLY READ (both parts)
 
 
-## The other six items — record note
+## The other six items — read in the 2026-11-08 sweep
 
-Still in the record, NOT read: Grade 1 Blended
-Learning Module 4, Grade 2 Part 1, Grade 2 Blended
-Module 2, Grade 5 Blended Module 4, Grade 10 Part 1,
-Grade 12 (Entrepreneurship/Riada stream). Routes tried
-2026-10-26: pal-stu.com hosts only Grade 1 as public
-files (its /books/ tree); the ministry's book app
-(moe.edu.ps/pal-books) does not answer from this
-network; the Blended modules surface on Scribd, which
-needs a sign-in (not used — the standing no-login
-rule); pdf-archive.com holds a Grade 9 book (not one
-of our rows); archive.org holds none of them. The
-library's secured copies sit in the private textbooks
-repo. Filed record-only, plainly unread.
+Grade 1 Blended Learning Module 4, Grade 2 Part 1,
+Grade 2 Blended Module 2, Grade 5 Blended Module 4,
+Grade 10 Part 1, Grade 12 (Entrepreneurship/Riada
+stream). As of 2026-10-26 no public copy opened from
+this network (pal-stu.com hosts only Grade 1; the
+ministry book app does not answer; the modules
+surface on Scribd, not used under the no-login
+rule). They were then read from the library's
+secured copies in the private textbooks repo: the
+2026-11-08 re-verification sweep grabbed all six
+via the GitHub API (pusher-token route, exact byte
+sizes), read all 8 Palestine books page by page
+(171 items, 164 distinct; placements in
+liqlearns-courses-work/sweep-2026-11-08/english/
+palestine-placements.md), and merge commit
+220e0d5d16 stocked all 148 then-missing items and
+built 5 new lessons (travel-words,
+study-and-university-words, identity-and-brand-words,
+culture-and-living-abroad-words,
+contractions-and-possessive-forms). The two
+Blended modules' 7 items duplicate main-book items
+and are cited once under the main books. The Grade
+12 book itself prints no stream label, so the Riada
+label is not carried in the course (sweep flag F5).
+Verified again 2026-11-22 in the English/Maths gaps
+pass: repo paths and sizes re-confirmed, the three
+small modules re-fetched at exact size and re-read
+against the sweep's account, and the stocked rows
+counted in the lessons' sources (G2 Part 1: 20,
+G5 Blended 4: 10, G10 Part 1: 53, G12: 50).
 
-**PALESTINE STATUS: Grade 1 FULLY READ (both parts,
-citation checks passed 2026-10-26); the other six
-items record-only, unread.**
+**PALESTINE STATUS: ALL 8 ITEMS FULLY READ — Grade 1
+(both parts, citation checks passed 2026-10-26); the
+other six read in the 2026-11-08 sweep and merged in
+220e0d5d16. Nothing remains record-only.**
