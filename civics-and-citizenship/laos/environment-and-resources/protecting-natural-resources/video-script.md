@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-Guarding the country's natural wealth.
+Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam.
 
-Guarding the country's natural wealth.
+Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

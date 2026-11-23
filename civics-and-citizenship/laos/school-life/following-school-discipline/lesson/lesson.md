@@ -12,6 +12,14 @@ Keeping the school's rules and discipline. Do it now: name one place in your own
 
 Keeping the school's rules. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Following school discipline
+
+Keeping the school's rules. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Following school discipline
+
+Keeping the school's rules and discipline. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Keeping the school's rules and discipline; keeping the school's rules. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: following school discipline. Your companion asks one question back — answer it from the lesson.

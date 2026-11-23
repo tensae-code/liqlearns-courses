@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) Reverence for older people; reverence for older people (title read from the contents).
+a) Reverence for older people; reverence for older people (title read from the contents); reverence for older people, taught in a picture series — flowers for the teacher, greeting a monk, elders at home.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

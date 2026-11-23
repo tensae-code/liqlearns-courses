@@ -1,5 +1,5 @@
 # Loving the Nation — depth
 
-This lesson is ONE lesson with no sub lessons: it teaches a single thing, whole. Practice is tied to the learner's skill number. The questions live in the type files.
+This lesson has sub lessons (listed in lesson-plan.md): Loving the nation · Loving the nation. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
 
-Pass mark: Patriotism as a formed love. — shown in the learner's own words and one real example.
+Pass mark: Patriotism as a formed love; patriotism as a formed love, opened by the map of Laos's provinces. — shown in the learner's own words and one real example, part by part.

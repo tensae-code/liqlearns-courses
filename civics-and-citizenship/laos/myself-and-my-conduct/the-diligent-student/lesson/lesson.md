@@ -12,6 +12,14 @@ Diligence as the student's first virtue. Do it now: name one place in your own h
 
 Diligence as the pupil's virtue. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## The diligent student
+
+Diligence as the pupil's virtue. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## The diligent student
+
+Diligence as the student's first virtue. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Diligence as the student's first virtue; diligence as the pupil's virtue. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: the diligent student. Your companion asks one question back — answer it from the lesson.

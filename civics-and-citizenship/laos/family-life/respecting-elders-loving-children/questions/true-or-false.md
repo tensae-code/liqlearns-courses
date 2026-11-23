@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** Reverence upward and tenderness downward (title read from the contents).
+**1.** Reverence upward and tenderness downward (title read from the contents); reverence upward and tenderness downward.
 **Answer: True**
 
 **2.** This lesson teaches that Respecting Elders Loving Children — and that it has no connection to the rest of Laos's story.

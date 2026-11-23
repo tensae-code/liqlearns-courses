@@ -34,7 +34,7 @@ Paper and a pencil. Nothing else — the lesson is worked from the learner's own
 
 ## If the learner is stuck
 - Go back to the one thing: Joining hands in common work (title read from the contents). Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Citizens' Rights and Duties in Marriage.
+- This lesson's next door: the next lesson in path order — Recording the Right Things.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

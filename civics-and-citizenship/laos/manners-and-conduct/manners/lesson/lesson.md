@@ -16,6 +16,10 @@ Polite conduct in general. Do it now: name one place in your own home, school or
 
 Polite conduct in general. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Manners
+
+Polite conduct in general. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Polite conduct in general. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: manners. Your companion asks one question back — answer it from the lesson.

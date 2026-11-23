@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-A promise made is a promise kept.
+A promise made is a promise kept; a promise made is a promise kept, now as an older pupil's word of honour.
 
-A promise made is a promise kept.
+A promise made is a promise kept; a promise made is a promise kept, now as an older pupil's word of honour.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

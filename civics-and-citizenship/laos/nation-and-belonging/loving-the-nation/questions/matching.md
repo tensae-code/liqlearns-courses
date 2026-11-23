@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) Patriotism as a formed love.
+a) Patriotism as a formed love; patriotism as a formed love, opened by the map of Laos's provinces.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

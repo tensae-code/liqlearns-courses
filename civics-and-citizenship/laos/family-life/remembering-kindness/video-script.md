@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-Never forgetting the good done to one (title read from the contents).
+Never forgetting the good done to one (title read from the contents); never forgetting the good done to one.
 
-Never forgetting the good done to one (title read from the contents).
+Never forgetting the good done to one (title read from the contents); never forgetting the good done to one.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

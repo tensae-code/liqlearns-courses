@@ -11,6 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Being a role model for younger ones** — the older child as an example to the younger
 2. **Being a model for younger ones** — example-setting for juniors
 3. **Being a model for younger ones** — example-setting for juniors
+4. **Being a role model for younger ones** — the older child as an example to the younger
 
 Gate pool: the prove-it check for each sub lesson is at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson — drawn from this lesson's questions/ files (all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool). On a fail: review the questions and answers just done, then reset with another set. No relocks ever.
 

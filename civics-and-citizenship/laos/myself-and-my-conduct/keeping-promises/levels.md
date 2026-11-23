@@ -1,5 +1,5 @@
 # Keeping Promises — depth
 
-This lesson has sub lessons (listed in lesson-plan.md): Keeping promises · Keeping promises. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
+This lesson has sub lessons (listed in lesson-plan.md): Keeping promises · Keeping promises · Keeping promises · Keeping promises. Each sub lesson is visible from the start and locked ahead; each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as hardest from the rank right under the wanted sub lesson. On a fail: review the questions and answers just done, then reset with another set. No relocks ever. Practice is tied to the learner's skill number. The questions live in the type files.
 
-Pass mark: A promise made is a promise kept. — shown in the learner's own words and one real example, part by part.
+Pass mark: A promise made is a promise kept; a promise made is a promise kept, now as an older pupil's word of honour. — shown in the learner's own words and one real example, part by part.

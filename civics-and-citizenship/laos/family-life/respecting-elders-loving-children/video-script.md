@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-Reverence upward and tenderness downward (title read from the contents).
+Reverence upward and tenderness downward (title read from the contents); reverence upward and tenderness downward.
 
-Reverence upward and tenderness downward (title read from the contents).
+Reverence upward and tenderness downward (title read from the contents); reverence upward and tenderness downward.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

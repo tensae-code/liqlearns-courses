@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** Respect for women as a civic duty (title read from the contents).
+**1.** Respect for women as a civic duty (title read from the contents); respect for women as a civic duty.
 **Answer: True**
 
 **2.** This lesson teaches that Respecting Women — and that it has no connection to the rest of Laos's story.

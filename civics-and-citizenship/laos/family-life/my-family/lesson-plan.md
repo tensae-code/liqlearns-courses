@@ -2,7 +2,7 @@
 
 **Course:** Civics and Citizenship — Laos · **Title:** Family Life · **Lesson:** My Family
 **Place in the curriculum:** Level 1 — Myself, Family and School (CURRICULUM.md).
-**The one thing this lesson teaches:** Who my family is and my place in it; who my family is. This lesson stands on teacher-guide evidence only (see lesson/sources.md) — acceptance 0, labelled.
+**The one thing this lesson teaches:** Who my family is and my place in it; who my family is. This lesson stands on a student book (see lesson/sources.md).
 **This lesson's own level:** Level 1 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
@@ -10,6 +10,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 1. **My family** — who my family is and my place in it
 2. **My family** — who my family is
+3. **My family** — who my family is
+4. **My family** — who my family is and my place in it
 
 Gate pool: the prove-it check for each sub lesson is at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson — drawn from this lesson's questions/ files (all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool). On a fail: review the questions and answers just done, then reset with another set. No relocks ever.
 

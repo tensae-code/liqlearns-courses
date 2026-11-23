@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** Guarding the country's natural wealth.
+**1.** Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam.
 **Answer: True**
 
 **2.** This lesson teaches that Protecting Natural Resources — and that it has no connection to the rest of Laos's story.

@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) A promise made is a promise kept.
+a) A promise made is a promise kept; a promise made is a promise kept, now as an older pupil's word of honour.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

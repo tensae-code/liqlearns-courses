@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Rights and Socio Economic Duties. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-The citizen's personal rights joined to economic and social duties.
+## Rights of the person and socio-economic duties
+
+The citizen's personal rights joined to economic and social duties. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Rights of the person and socio-economic duties
+
+The citizen's personal rights joined to economic and social duties. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** A promise made is a promise kept.
+**1.** A promise made is a promise kept; a promise made is a promise kept, now as an older pupil's word of honour.
 **Answer: True**
 
 **2.** This lesson teaches that Keeping Promises — and that it has no connection to the rest of Laos's story.

@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-Patriotism as a formed love.
+Patriotism as a formed love; patriotism as a formed love, opened by the map of Laos's provinces.
 
-Patriotism as a formed love.
+Patriotism as a formed love; patriotism as a formed love, opened by the map of Laos's provinces.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

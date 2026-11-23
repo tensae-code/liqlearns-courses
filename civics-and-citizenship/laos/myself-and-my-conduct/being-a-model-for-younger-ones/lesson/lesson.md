@@ -16,6 +16,10 @@ Example-setting for juniors. Do it now: name one place in your own home, school 
 
 Example-setting for juniors. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Being a role model for younger ones
+
+The older child as an example to the younger. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: The older child as an example to the younger; example-setting for juniors. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: being a model for younger ones. Your companion asks one question back — answer it from the lesson.

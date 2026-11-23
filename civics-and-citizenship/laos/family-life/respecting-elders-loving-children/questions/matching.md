@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) Reverence upward and tenderness downward (title read from the contents).
+a) Reverence upward and tenderness downward (title read from the contents); reverence upward and tenderness downward.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

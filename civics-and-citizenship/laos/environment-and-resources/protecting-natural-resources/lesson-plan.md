@@ -2,16 +2,22 @@
 
 **Course:** Civics and Citizenship — Laos · **Title:** Environment and Resources · **Lesson:** Protecting Natural Resources
 **Place in the curriculum:** Level 2 — Community, Nation and World (CURRICULUM.md).
-**The one thing this lesson teaches:** Guarding the country's natural wealth. This lesson stands on teacher-guide evidence only (see lesson/sources.md) — acceptance 0, labelled.
+**The one thing this lesson teaches:** Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam. This lesson stands on a student book (see lesson/sources.md).
 **This lesson's own level:** Level 2 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
+
+## Sub lessons
+1. **Protecting natural resources** — guarding the country's natural wealth
+2. **Protecting natural resources** — guarding the country's natural wealth, opened at the hydropower dam
+
+Gate pool: the prove-it check for each sub lesson is at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson — drawn from this lesson's questions/ files (all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool). On a fail: review the questions and answers just done, then reset with another set. No relocks ever.
 
 ## Before this lesson
 - If you know The United Nations, this lesson will be easier for you — you might try it first. A learner can jump in here directly, and can jump into any later lesson directly too.
 
 ## What the learner can do when it ends
-1. State the lesson's one thing in their own words: Guarding the country's natural wealth.
+1. State the lesson's one thing in their own words: Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam.
 2. Give one real example of it from their own home, school or town — or, for this book's lessons, from the public life of the Laos they live in.
 3. Answer the lesson's questions from the lesson, without looking back.
 
@@ -33,7 +39,7 @@ Paper and a pencil. Nothing else — the lesson is worked from the learner's own
 - VIDEO — the video-script filmed (made later) → the student listens and answers along.
 
 ## If the learner is stuck
-- Go back to the one thing: Guarding the country's natural wealth. Work the Do it first act again, slowly, and name each step aloud.
+- Go back to the one thing: Guarding the country's natural wealth; guarding the country's natural wealth, opened at the hydropower dam. Work the Do it first act again, slowly, and name each step aloud.
 - This lesson's next door: the next lesson in path order — Observing Community Rules.
 
 ## Teacher note

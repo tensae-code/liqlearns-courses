@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Manners Toward Teachers. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-How a child greets and treats teachers.
+## Manners toward teachers
+
+How a child greets and treats teachers. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Manners toward teachers
+
+How a child greets and treats teachers. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

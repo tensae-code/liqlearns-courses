@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) Never forgetting the good done to one (title read from the contents).
+a) Never forgetting the good done to one (title read from the contents); never forgetting the good done to one.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

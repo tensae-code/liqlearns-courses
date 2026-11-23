@@ -11,6 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Helping with family work** — a child's share of the household's work
 2. **Helping with family work** — a child's share of household work
 3. **Helping with family work** — a child's share of household work
+4. **Helping with family work** — a child's share of the household's work
 
 Gate pool: the prove-it check for each sub lesson is at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson — drawn from this lesson's questions/ files (all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool). On a fail: review the questions and answers just done, then reset with another set. No relocks ever.
 

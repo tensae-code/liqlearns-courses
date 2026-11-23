@@ -16,6 +16,10 @@ Knowing the family's goodness. Do it now: name one place in your own home, schoo
 
 Thankfulness at home. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Gratitude toward family
+
+Thankfulness for the family's care. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Thankfulness for the family's care; knowing the family's goodness; thankfulness at home. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: gratitude to family. Your companion asks one question back — answer it from the lesson.

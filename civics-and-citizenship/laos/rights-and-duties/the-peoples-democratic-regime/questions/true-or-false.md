@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** The Lao PDR's democratic order as the course's closing picture of the state; the state's founding document, named and summarised.
+**1.** The Lao PDR's democratic order as the course's closing picture of the state; the state's founding document, named and summarised; the state's founding document, named and summarised (topic named; legal text summarised, not transcribed).
 **Answer: True**
 
 **2.** This lesson teaches that The People's Democratic Regime — and that it has no connection to the rest of Laos's story.

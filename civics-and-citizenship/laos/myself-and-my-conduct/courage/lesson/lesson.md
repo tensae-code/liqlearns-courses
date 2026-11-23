@@ -16,6 +16,10 @@ Bravery in daily life. Do it now: name one place in your own home, school or tow
 
 Bravery in daily life. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Courage
+
+Bravery in a small child's daily life. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Bravery in a small child's daily life; bravery in daily life. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: courage. Your companion asks one question back — answer it from the lesson.

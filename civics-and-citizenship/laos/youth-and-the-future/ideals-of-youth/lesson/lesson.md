@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Ideals of Youth. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-The ideals a young person lives by.
+## Ideals of youth
+
+The ideals a young person lives by. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Ideals of youth
+
+The ideals a young person lives by. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

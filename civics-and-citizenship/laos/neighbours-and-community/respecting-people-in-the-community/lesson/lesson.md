@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Respecting People in the Community. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-Respect for the people of one's community.
+## Respecting people in the community
+
+Respect for the people of one's community. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Respecting people in the community
+
+Respect for the people of one's community. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

@@ -22,8 +22,8 @@ each lesson's `lesson/sources.md`, as provenance.
 The course as built has **six stocked levels** (Levels
 1–6), from the filing for this build
 (`laos-placements.md` — 30 records in the group targets,
-Laos share: 24 books read and 6 records UNREAD-pending).
-422 placements in all, stocking 244 lessons — the coined
+Laos share: 30 books read, no records unread).
+539 placements in all, stocking 263 lessons — the coined
 lesson names were deduped before building (see
 CURRICULUM.md, "Where the build stands"): every placement
 stocks into exactly one lesson, and every placement's
@@ -37,14 +37,15 @@ preface/introduction, full contents, and lesson openings
 where a header states the text layer extracts. Teacher
 guides are placed as TEACHER evidence of what is taught,
 per the filing. Every book's verdict states exactly how far
-its read went; all 24 verdicts are PARTIAL, so placements
+its read went; all 30 verdicts are PARTIAL, so placements
 are at lesson level from the verified contents, exactly as
 filed.
 
 **What the filing does and does not contain, stated
-plainly:** the filing contains 24 book headers and 422
-placement lines, an UNREAD-pending section naming 6
-records, and a closing ladder sketch. It contains no
+plainly:** the filing contains 30 book headers and 539
+placement lines, a closed unread queue (the six formerly
+UNREAD-pending records were fetched, read and filed as
+Books 25–30 on 2026-11-22), and a closing ladder sketch. It contains no
 COMPLETE verdict — every book is PARTIAL, as filed above.
 It names no staged-pending file for Laos beyond the
 phantom-in-tree / phantom-push fetch notes carried in the
@@ -371,9 +372,87 @@ placements headers, in the order the filing files them.
 - Laos's own way: the 2020 pupil book teaches Grade 2 virtue through tiny scenes — the right footpath, the polite word, the truth told at home, the thing not taken
 - Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
 
+### Book 25 — Moral Education / World Around Us Grade 1 Textbook (student book, Lao)
+
+- Title as printed: ແບບຮຽນ ຄຸນສົມບັດສຶກສາ ແລະ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook, Moral Education and the World Around Us, Primary Year 1)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Research Institute for Educational Sciences; 2007; printed by Nhân Dân Printing House, Ho Chi Minh City (318,000 copies); no ISBN printed
+- PDF pages: 135 (cover verified against the record title; byte size 274,668,959 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; the book is also held as a Release asset at the same byte size, checked once on the Releases route)
+- Subject as filed: Moral Education / World Around Us — track: combined
+- Verdict: PARTIAL — cover, imprint page and the Moral Education contents read visually, and Lessons 1 and 13 read in their openings (pure picture lessons: going to school and greeting the teacher; the elders picture series — flowers for the teacher, greeting a monk, elders at home). Per the combined-track rule, only the Moral Education part is placed; the World Around Us part (38 lessons under its own title page and its own pagination — myself, the body, family, school, food, plants and animals) is named here and not placed. The 13 moral lessons are the pupil-book footing of Book 20's teacher-guide set, at pupil pages
+- Contents map: Moral Education part, printed pp. 1–52 (Lessons 1–13, PLACED); World Around Us part, own title page and pagination, Lessons 1–38 (named, not placed)
+- Tally: 13 placements
+- Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
+- Laos's own way: the youngest pupils' book teaches in pictures before print — each moral lesson is a picture series to look at and talk about
+
+### Book 26 — Moral Education Grade 1 Textbook, 2020 edition (student book, Lao)
+
+- Title as printed: ແບບຮຽນ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook, Moral Education, Primary Year 1)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Sports, Research Institute for Educational Sciences; 2020; printed by the State Education Printing Enterprise (second printing, 30,000 copies; supported by the Australian Government, the European Union and the Lao state budget); no ISBN printed (the imprint's ISBN line is blank)
+- PDF pages: 80 (title page and imprint verified against the record title; byte size 111,816,904 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once; the text layer extracts, so this read is from the book's own text)
+- Subject as filed: Moral Education — track: standalone
+- Verdict: PARTIAL — title page, imprint, preface and full contents read in the text, and Lesson 1's opening read in the text (a picture-observation opening: look at the pictures together); lesson bodies not read page by page, so placements are at lesson level from the verified contents, at pupil-book pages. The 30 lessons are the pupil-book footing of Book 7's teacher-guide set
+- Contents map: Lessons 1–30, printed pp. 1–66
+- Tally: 30 placements
+- Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
+- Laos's own way: the pupil book walks the same thirty practices as the guide — road edge, classroom, flag, honesty, family, elders, neighbours — in the child's own pages
+
+### Book 27 — Moral Education / World Around Us Grade 5 Textbook (student book, Lao)
+
+- Title as printed: ແບບຮຽນ ຄຸນສົມບັດສຶກສາ ແລະ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Textbook, Moral Education and the World Around Us, Primary Year 5)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Research Institute for Educational Sciences; 2009; printed by Pitambra Books Pvt. Ltd., Jhansi, India (142,000 copies); no ISBN printed
+- PDF pages: 239 (cover verified against the record title; byte size 73,214,074 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once)
+- Subject as filed: Moral Education / World Around Us — track: combined
+- Verdict: PARTIAL — cover, approval page and both contents lists read visually, and the Moral Education part's Lessons 1, 11, 12 and 14 read in their openings (the Grade 5 pupil Thongsuk's story; loving the nation opened by the map of Laos; loving peace opened at the flag-raising; protecting natural resources opened at the dam). Per the combined-track rule, only the Moral Education part is placed; the World Around Us part (59 lessons, printed pp. 46–232 — the body, food, water, plants, animals, the earth and the sky) is named here and not placed. The 14 moral lessons are the pupil-book footing of Book 16's teacher-guide set, at pupil pages
+- Contents map: Moral Education part, printed pp. 6–45 (Lessons 1–14, PLACED); World Around Us part, pp. 46–232 (Lessons 1–59, named, not placed)
+- Tally: 14 placements
+- Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
+- Laos's own way: the last primary year widens the circle to its full width in the pupil's own pages — homeland, local government, the nation, peace, the United Nations, and the country's natural resources
+
+### Book 28 — Civic Education Grade 8 (ມ.3) Textbook (student book, Lao)
+
+- Title as printed: ແບບຮຽນ ສຶກສາພົນລະເມືອງ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, Civic Education, Secondary Year 3)
+- Grade: 8 (ມ.3) (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Sports, Research Institute for Educational Sciences; 2012; no ISBN printed
+- PDF pages: 106 (cover verified against the record title; byte size 119,870,982 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once; the read was visual)
+- Subject as filed: Civics — track: standalone
+- Verdict: PARTIAL — cover, preface and full contents read visually (the preface states the book follows the 2010 curriculum and names its two parts: Morals and culture, 11 lessons, and Law, 10 lessons), and Lessons 1, 5 and 19 read in their openings (keeping account of the right things, opened by pupils sweeping the classroom; discipline and rules defined; freedom of speech taught from the constitution's text, named and summarised, not transcribed); lesson bodies not read page by page, so placements are at lesson level from the verified contents, at pupil-book pages
+- Contents map: Part I Morals and culture, printed pp. 1–57 (Lessons 1–11); Part II Law, pp. 58–end (Lessons 12–21)
+- Tally: 21 placements
+- Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
+- Laos's own way: the middle secondary year deepens character first — keeping account of the right things, pure honesty, self-reliance — then turns to law in daily life: the family, property, accidents, disease, complaints, free speech, and the constitution itself
+
+### Book 29 — Civic Education Grade 8 (ມ.3) Teacher Guide (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ສຶກສາພົນລະເມືອງ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Teacher Guide, Civic Education, Secondary Year 3)
+- Grade: 8 (ມ.3) (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute for Educational Sciences; 2012; no ISBN printed
+- PDF pages: 106 (cover verified against the record title; byte size 75,356,771 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once; the read was visual)
+- Subject as filed: Civics — track: standalone
+- Verdict: PARTIAL — cover, preface, full contents and the general introduction read visually (the introduction sets out the subject's knowledge, skills and attitudes objectives, its teaching methods and its assessment), and Lessons 1 and 2 read in their openings (objectives, content summary, teaching media and activities verified — Lesson 2 is pure honesty); the remaining lesson bodies were not read page by page, so placements are at lesson level from the verified contents
+- Contents map: Preface and general introduction, printed pp. ກ–ຄ; Part I Morals and culture, Lessons 1–11, pp. 1–44; Part II Law, Lessons 12–21, pp. 45–end
+- Tally: 21 placements
+- Footing: teacher guide (student/teacher: TEACHER) — evidence only, acceptance 0, labelled
+- Laos's own way: the guide teaches the same two-part ladder as the pupil book — character and culture first, then the law of daily life — each lesson in the guide's fixed shape: objectives, content, media (the pupil book plus pictures), activities, assessment
+
+### Book 30 — Civic Education Grade 9 (ມ.4) Textbook (student book, Lao)
+
+- Title as printed: ແບບຮຽນ ສຶກສາພົນລະເມືອງ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, Civic Education, Secondary Year 4)
+- Grade: 9 (ມ.4) (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Sports, Research Institute for Educational Sciences; 2013; no ISBN printed
+- PDF pages: 104 (title page verified against the record title; byte size 72,114,275 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once; the read was visual)
+- Subject as filed: Civics — track: standalone
+- Verdict: PARTIAL — title page and full contents read visually, and Lessons 1, 8, 12 and 18 read in their openings (justice opened on a noodle-shop scene; diligence, perseverance and thrift defined over a photograph of pupils' collective work; citizens' rights and duties in marriage opened on the wedding ceremony; the value of living opened on a sports podium); lesson bodies not read page by page, so placements are at lesson level from the verified contents, at pupil-book pages. The 18 lessons are the pupil-book footing of Book 2's teacher-guide set
+- Contents map: Lessons 1–18, printed pp. 1–100
+- Tally: 18 placements
+- Footing: student book (student/teacher: STUDENT) — counts in the acceptance reckoning
+- Laos's own way: the pupil book teaches the same rings as the guide in the pupil's own pages — justice and self-mastery first, then democracy, peace and the nation's fine traditions, then rights and duties sphere by sphere, closing on the value of a lawful, moral life
+
 ## Gaps, labels and partial reads — carried exactly as filed
 
-- **PARTIAL — all 24 books:** every verdict in the filing
+- **PARTIAL — all 30 books:** every verdict in the filing
   is PARTIAL (contents-level reads; lesson bodies not read
   page by page; placements at lesson level from the verified
   contents), as each header's verdict states verbatim in the
@@ -383,26 +462,11 @@ placements headers, in the order the filing files them.
   placements across the filing) — those flags are carried
   in the placements and in each lesson's sources exactly as
   filed.
-- **UNREAD-pending — 6 records, NOT in this course:**
-The following six records were NOT read. A disk hold ordered by the owner (free disk at 28 GB, below his never-under-30 GB line) stopped all new book downloads before these could be fetched. Each record's tree path was checked against the GitHub repo metadata before the hold and returned 404 — the census copy is absent from the repo tree (phantom-in-tree); the recorded source URLs (the Xaypanya/Lao-Textbook GitHub mirror) remain the fetch route when the hold lifts. None of these is a failed read — all six are UNREAD-pending, to be fetched and filed when the coordinator confirms the hold is lifted.
+- **UNREAD queue — CLOSED (2026-11-22):** the six records that stood UNREAD-pending under the disk hold were fetched at their exact recorded byte sizes (the recorded Xaypanya/Lao-Textbook mirror URLs, assembled in byte ranges; each also confirmed held as a Release asset at the same byte size), staged at their census paths, read and filed as Books 25–30 above. No Laos record remains unread.
 
-- UNREAD-pending — Moral Education / World Around Us Grade 1 Textbook (student, Lao), record file grade-01/gov/laos/moral-world-around-us/student/laos-g01-moral-world-around-us-student.pdf (274,668,959 bytes as recorded) — track: combined; the largest file in the Laos set
-- UNREAD-pending — Moral Education Grade 1 Textbook, 2020 edition (student, Lao), record file grade-01/gov/laos/moral-education/student/laos-g01-moral-education-student-2020.pdf (111,816,904 bytes as recorded) — pupil pair of Book 7's guide
-- UNREAD-pending — Moral Education / World Around Us Grade 5 Textbook (student, Lao), record file grade-05/gov/laos/moral-world-around-us/student/laos-g05-moral-world-around-us-student.pdf (73,214,074 bytes as recorded) — track: combined; pupil pair of Book 16's guide
-- UNREAD-pending — Civic Education Grade 8 (ມ.3) Textbook (student, Lao), record file grade-08/gov/laos/civics/student/laos-g08-civics-student.pdf (119,870,982 bytes as recorded)
-- UNREAD-pending — Civic Education Grade 8 (ມ.3) Teacher Guide (teacher, Lao), record file grade-08/gov/laos/civics/teacher/laos-g08-civics-teacher.pdf (75,356,771 bytes as recorded) — Grade 8 is the one secondary year with neither book yet read
-- UNREAD-pending — Civic Education Grade 9 (ມ.4) Textbook (student, Lao), record file grade-09/gov/laos/civics/student/laos-g09-civics-student.pdf (72,114,275 bytes as recorded) — pupil pair of Book 2's guide
-
-- **Grade 8 (ມ.3) is the one secondary year with neither
-  book yet read** — both its books are UNREAD-pending
-  above, exactly as filed; the filing's ladder sketch
-  states they will slot into Levels 3–4 when fetched.
-- **Grade 9's pupil book is UNREAD-pending:** Book 2 (the
-  Grade 9 teacher guide) is the only footing filed for
-  Grade 9's lessons except where another book stocks the
-  same lesson; guide-only lessons stand at acceptance 0,
-  labelled, as listed below.
-- **Phantom labels, exactly as filed:** Book 14 (phantom push); Book 15 (phantom push); Book 16 (phantom-in-tree); Book 17 (phantom-in-tree); Book 18 (phantom-in-tree); Book 19 (phantom-in-tree); Book 20 (phantom-in-tree); Book 21 (phantom-in-tree); Book 22 (phantom-in-tree); Book 23 (phantom-in-tree); Book 24 (phantom-in-tree) —
+- **Grade 8 (ມ.3) — gap closed (2026-11-22):** both Grade 8 books are now read (Books 28 and 29); the year that had neither book read now stocks Levels 3–4, exactly where the filing's ladder sketch placed it.
+- **Grade 9's pupil book is now read (Book 30, 2026-11-22):** Grade 9's lessons now stand on the pupil book as well as Book 2's guide; the lessons that rested on the guide alone gained their student footing.
+- **Phantom labels, exactly as filed:** Book 14 (phantom push); Book 15 (phantom push); Book 16 (phantom-in-tree); Book 17 (phantom-in-tree); Book 18 (phantom-in-tree); Book 19 (phantom-in-tree); Book 20 (phantom-in-tree); Book 21 (phantom-in-tree); Book 22 (phantom-in-tree); Book 23 (phantom-in-tree); Book 24 (phantom-in-tree); Books 25–30 (phantom-in-tree, fetched in the unread-queue phase, 2026-11-22) —
   each such header records that the book's tree path was
   checked against the GitHub repo metadata and returned
   404 (the census copy absent from the repo tree), and that
@@ -415,8 +479,10 @@ The following six records were NOT read. A disk hold ordered by the owner (free 
   Around Us part, 33 lessons, printed pp. 46–110), Book 18
   (Grade 4: 27 lessons, printed pp. 50–128) and Book 21
   (Grade 2: the World Around Us part follows in the same
-  volume) — per the combined-track rule only the Moral
-  Education part is placed.
+  volume), Book 25 (Grade 1: 38 lessons under its own title
+  page and pagination) and Book 27 (Grade 5: 59 lessons,
+  printed pp. 46–232) — per the combined-track rule only
+  the Moral Education part is placed.
 - **Named as inventory only, not placed, as filed:**
   Book 11's four supplementary readings (children's rights;
   the Lao PDR constitution; foreign constitutions; traffic
@@ -459,8 +525,7 @@ The following six records were NOT read. A disk hold ordered by the owner (free 
   the child-rights convention and the law-and-living
   lessons are named by topic and summarised in the filing,
   and this course carries them the same way.
-- **Guides-only lessons:** 87 lessons rest on teacher
-  guides alone — `myself-and-my-conduct/walking-safely-by-the-road`, `school-life/our-school`, `school-life/following-school-discipline`, `school-life/keeping-the-school-clean`, `manners-and-conduct/manners-toward-teachers`, `manners-and-conduct/thanking-and-apologising`, `friends-and-sharing/loving-friends-at-school`, `nation-and-belonging/respecting-the-national-flag`, `myself-and-my-conduct/caring-for-learning-things`, `manners-and-conduct/dressing-neatly-and-politely`, `myself-and-my-conduct/the-diligent-student`, `myself-and-my-conduct/honesty-in-learning`, `myself-and-my-conduct/honesty-toward-oneself`, `myself-and-my-conduct/admitting-faults-and-changing`, `myself-and-my-conduct/giving-and-receiving-rightly`, `friends-and-sharing/sharing-things`, `family-life/my-family`, `family-life/manners-toward-family`, `family-life/kindness-to-family`, `family-life/respecting-places-in-the-home`, `family-life/respecting-elders`, `school-life/before-the-school-year-closes`, `myself-and-my-conduct/using-the-walkway-correctly`, `manners-and-conduct/respecting-teachers`, `manners-and-conduct/polite-speech`, `nation-and-belonging/preserving-the-national-flag`, `manners-and-conduct/dressing-for-the-place`, `myself-and-my-conduct/responsibility-for-learning`, `family-life/speaking-truth-to-family`, `myself-and-my-conduct/receiving-things-wrongly`, `family-life/saving-learning-things-helps-family`, `school-life/i-am-a-grade-5-pupil`, `myself-and-my-conduct/responsibility-for-ones-own-work`, `myself-and-my-conduct/diligence-and-endurance`, `family-life/remembering-kindness`, `friends-and-sharing/being-a-friend`, `family-life/respecting-elders-loving-children`, `school-life/i-am-a-grade-1-pupil`, `school-life/going-to-school-on-time`, `school-life/my-school`, `friends-and-sharing/loving-friends`, `culture-and-traditions/loving-our-culture`, `neighbours-and-community/manners-in-public-places`, `neighbours-and-community/keeping-public-property`, `neighbours-and-community/loving-fellow-neighbours`, `neighbours-and-community/respecting-people-in-the-community`, `rights-and-duties/respecting-women`, `neighbours-and-community/cooperating-with-close-neighbours`, `nation-and-belonging/loving-ones-homeland`, `neighbours-and-community/local-governing-authority`, `nation-and-belonging/loving-the-nation`, `the-world/loving-peace`, `the-world/the-united-nations`, `environment-and-resources/protecting-natural-resources`, `character-and-self-mastery/justice`, `character-and-self-mastery/being-ones-own-master`, `democracy-and-peace/having-democracy`, `democracy-and-peace/keeping-peace`, `nation-and-belonging/fine-traditions-of-the-nation`, `character-and-self-mastery/diligence-perseverance-and-thrift`, `character-and-self-mastery/working-effectively`, `youth-and-the-future/ideals-of-youth`, `character-and-self-mastery/the-value-of-living`, `character-and-self-mastery/living-a-simple-life`, `character-and-self-mastery/honesty-to-self-and-others`, `character-and-self-mastery/recording-oneself`, `character-and-self-mastery/morality-and-discipline`, `character-and-self-mastery/loving-fellow-humans`, `character-and-self-mastery/asking-forgiveness`, `morality-and-family/building-a-cultured-family`, `morality-and-family/caring-for-the-familys-work`, `character-and-self-mastery/self-confidence`, `character-and-self-mastery/working-in-an-organised-way`, `environment-and-resources/protecting-environment-and-natural-resources`, `culture-and-traditions/protecting-cultural-heritage`, `rights-and-duties/citizens-rights-and-duties-in-marriage`, `rights-and-duties/rights-and-socio-economic-duties`, `rights-and-duties/citizens-labour-rights-and-duties`, `rights-and-duties/responsibility-toward-the-law`, `rights-and-duties/safeguarding-rights-and-society`, `rights-and-duties/freedom-of-belief`, `rights-and-duties/rights-in-the-lao-pdr`, `rights-and-duties/local-administration`, `nation-and-world/building-unity-with-the-worlds-peoples`, `nation-and-world/international-cooperation`, `youth-and-the-future/mission-of-lao-youth`, `nation-and-world/duty-to-protect-the-nation` — each labelled
+- **Guides-only lessons:** 25 lessons rest on teacher guides alone — `culture-and-traditions/loving-our-culture`, `myself-and-my-conduct/using-the-walkway-correctly`, `manners-and-conduct/respecting-teachers`, `manners-and-conduct/polite-speech`, `nation-and-belonging/preserving-the-national-flag`, `manners-and-conduct/dressing-for-the-place`, `myself-and-my-conduct/responsibility-for-learning`, `family-life/speaking-truth-to-family`, `myself-and-my-conduct/receiving-things-wrongly`, `family-life/saving-learning-things-helps-family`, `character-and-self-mastery/living-a-simple-life`, `character-and-self-mastery/honesty-to-self-and-others`, `character-and-self-mastery/recording-oneself`, `character-and-self-mastery/morality-and-discipline`, `character-and-self-mastery/loving-fellow-humans`, `character-and-self-mastery/asking-forgiveness`, `morality-and-family/building-a-cultured-family`, `morality-and-family/caring-for-the-familys-work`, `character-and-self-mastery/self-confidence`, `character-and-self-mastery/working-in-an-organised-way`, `environment-and-resources/protecting-environment-and-natural-resources`, `culture-and-traditions/protecting-cultural-heritage`, `rights-and-duties/freedom-of-belief`, `rights-and-duties/rights-in-the-lao-pdr`, `rights-and-duties/local-administration` — each labelled
   evidence only at acceptance 0 in its own sources. No
   whole level rests on teacher guides alone.
 
@@ -469,13 +534,13 @@ The following six records were NOT read. A disk hold ordered by the owner (free 
 Student books count; teacher guides are evidence only,
 acceptance 0, labelled.
 
-- **Student books — count (10 books):** Books 4, 6, 13, 14, 17, 18, 21, 22, 23, 24.
-- **Teacher guides — evidence only, acceptance 0 (14 books):** Books 1, 2, 3, 5, 7, 8, 9, 10, 11, 12, 15, 16, 19, 20.
+- **Student books — count (15 books):** Books 4, 6, 13, 14, 17, 18, 21, 22, 23, 24, 25, 26, 27, 28, 30.
+- **Teacher guides — evidence only, acceptance 0 (15 books):** Books 1, 2, 3, 5, 7, 8, 9, 10, 11, 12, 15, 16, 19, 20, 29.
 - Every lesson that stands on at least one student book
   carries "**Acceptance count: taught in 1 country
-  (Laos)**" in its sources. The 87 guide-only lessons
+  (Laos)**" in its sources. The 25 guide-only lessons
   listed above carry "**Acceptance count: taught in 0
   countries**", labelled evidence only.
-- Totals: 422 placements stocked into 244 lessons
-  across Levels 1–6. The 6 UNREAD-pending records are not
-  in the course and count nowhere.
+- Totals: 539 placements stocked into 263 lessons
+  across Levels 1–6. No records are unread; the Laos
+  unread queue is empty.

@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Citizens' Rights and Duties in Marriage. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-What marriage (building a family) means, its principles, conditions and rules, and the spouses' basic rights and duties (topic named; legal detail summarised, not transcribed).
+## Citizens' rights and duties in marriage
+
+What marriage (building a family) means, its principles, conditions and rules, and the spouses' basic rights and duties (topic named; legal detail summarised, not transcribed). Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Citizens' rights and duties in marriage
+
+What marriage (building a family) means, its principles, conditions and rules, and the spouses' basic rights and duties (topic named; legal detail summarised, not transcribed). Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

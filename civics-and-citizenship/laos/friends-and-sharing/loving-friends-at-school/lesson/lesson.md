@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Loving Friends at School. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-Affection and care among school friends.
+## Loving friends at school
+
+Affection and care among school friends. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Loving friends at school
+
+Affection and care among school friends. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

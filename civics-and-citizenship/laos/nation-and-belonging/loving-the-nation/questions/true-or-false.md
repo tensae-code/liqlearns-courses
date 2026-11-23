@@ -2,7 +2,7 @@
 
 Say whether each statement is true or false, and be ready to say why.
 
-**1.** Patriotism as a formed love.
+**1.** Patriotism as a formed love; patriotism as a formed love, opened by the map of Laos's provinces.
 **Answer: True**
 
 **2.** This lesson teaches that Loving the Nation — and that it has no connection to the rest of Laos's story.

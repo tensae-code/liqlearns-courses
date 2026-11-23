@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-Respect for women as a civic duty (title read from the contents).
+Respect for women as a civic duty (title read from the contents); respect for women as a civic duty.
 
-Respect for women as a civic duty (title read from the contents).
+Respect for women as a civic duty (title read from the contents); respect for women as a civic duty.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

@@ -7,7 +7,7 @@ Match each part of the lesson with its teaching.
 
 
 Meanings:
-a) The oldest primary pupil's identity and example.
+a) The oldest primary pupil's identity and example; the oldest primary pupil's identity and example, met through Thongsuk's story.
 b) One of the titles of Laos's own civics course, built from Laos's own government textbooks.
 
 **Answer key:** 1. a 2. b

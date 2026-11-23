@@ -14,12 +14,25 @@ countries: Laos
 - Laos's own way: the citizen is built in rings — justice and self-mastery first, then democracy, peace and the nation's fine traditions, then rights and duties spelled out sphere by sphere (marriage, labour, law), closing on the value of a lawful, moral life
 Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/laos-placements.md` (Book 2 in that filing).
 
+**Book 30 (laos-placements.md):** Civic Education Grade 9 (ມ.4) Textbook (student book, Lao)
+- Title as printed: ແບບຮຽນ ສຶກສາພົນລະເມືອງ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, Civic Education, Secondary Year 4)
+- Grade: 9 (ມ.4) (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Sports, Research Institute for Educational Sciences; 2013; no ISBN printed
+- PDF pages: 104 (title page verified against the record title; byte size 72,114,275 matches the record exactly; fetched in byte ranges from the record's recorded source URL — tree metadata check 404, phantom-in-tree, named in the group log; also held as a Release asset at the same byte size, checked once; the read was visual)
+- Subject as filed: Civics — track: standalone
+- Verdict: PARTIAL — title page and full contents read visually, and Lessons 1, 8, 12 and 18 read in their openings (justice opened on a noodle-shop scene; diligence, perseverance and thrift defined over a photograph of pupils' collective work; citizens' rights and duties in marriage opened on the wedding ceremony; the value of living opened on a sports podium); lesson bodies not read page by page, so placements are at lesson level from the verified contents, at pupil-book pages. The 18 lessons are the pupil-book footing of Book 2's teacher-guide set
+- Contents map: Lessons 1–18, printed pp. 1–100
+- Tally: 18 placements
+- Laos's own way: the pupil book teaches the same rings as the guide in the pupil's own pages — justice and self-mastery first, then democracy, peace and the nation's fine traditions, then rights and duties sphere by sphere, closing on the value of a lawful, moral life
+Placements at `liqlearns-courses-work/expansion-civics-folder-2026-11-17/laos-placements.md` (Book 30 in that filing).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Citizens' rights and duties in marriage | Laos Grade 9 Civics TEACHER, printed p. 59 |
+| Citizens' rights and duties in marriage | Laos Grade 9 Civics, printed p. 62 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Laos), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Laos) — this lesson stands on a student book.**
 
 This lesson is written in our own words from the filing's teaching summary of that part of the book. No book text is transcribed. No provenance talk appears in the lesson prose.
 
-Searchable tags: citizens, rights, and, duties, in, marriage, citizens-rights-and-duties-in-marriage, civics and citizenship laos, Citizens' rights and duties in marriage, ສິດ ແລະ ພັນທະຂອງພົນລະເມືອງໃນການແຕ່ງດອງ
+Searchable tags: citizens, rights, and, duties, in, marriage, citizens-rights-and-duties-in-marriage, civics and citizenship laos, Citizens' rights and duties in marriage, Citizens' rights and duties in marriage, ສິດ ແລະ ພັນທະຂອງພົນລະເມືອງໃນການແຕ່ງດອງ, ສິດ ແລະ ພັນທະຂອງພົນລະເມືອງໃນການແຕ່ງດອງ

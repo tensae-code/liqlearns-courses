@@ -5,8 +5,8 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 ---
 
 This lesson is about one thing.
-The new pupil's identity and place.
+The new pupil's identity and place; the new pupil's identity and place, taught in pictures — going to school and greeting the teacher.
 
-The new pupil's identity and place.
+The new pupil's identity and place; the new pupil's identity and place, taught in pictures — going to school and greeting the teacher.
 
 Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

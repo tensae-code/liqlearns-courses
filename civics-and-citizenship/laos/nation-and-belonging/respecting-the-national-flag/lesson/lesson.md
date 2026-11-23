@@ -12,6 +12,14 @@ Reverence for the flag as the nation's sign. Do it now: name one place in your o
 
 Reverence for the flag. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Respecting the national flag
+
+Reverence for the flag. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Respecting the national flag
+
+Reverence for the flag as the nation's sign. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: Reverence for the flag as the nation's sign; reverence for the flag. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: respecting the national flag. Your companion asks one question back — answer it from the lesson.

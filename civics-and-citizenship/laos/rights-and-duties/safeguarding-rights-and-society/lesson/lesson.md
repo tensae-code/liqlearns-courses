@@ -4,7 +4,13 @@
 
 Before anyone explains anything, say in your own words what you already think this is about: Safeguarding Rights and Society. Write it or say it aloud — this lesson starts from what Laos's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
 
-Protecting rights and society under the amended 2003 Constitution and the election law, with school, community and society each playing a part (topics named; legal text summarised, not transcribed).
+## Safeguarding rights and society
+
+Protecting rights and society under the amended 2003 Constitution and the election law, with school, community and society each playing a part (topics named; legal text summarised, not transcribed). Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
+## Safeguarding rights and society
+
+Protecting rights and society under the amended 2003 Constitution and the election law, with school, community and society each playing a part (topics named; legal text summarised, not transcribed). Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
 ## Say it to your companion
 

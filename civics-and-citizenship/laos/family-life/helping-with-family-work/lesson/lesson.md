@@ -16,6 +16,10 @@ A child's share of household work. Do it now: name one place in your own home, s
 
 A child's share of household work. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
 
+## Helping with family work
+
+A child's share of the household's work. Do it now: name one place in your own home, school or town where you can see this, and say what happens there.
+
 ## Say it to your companion
 
 Tell your companion what this lesson teaches: A child's share of the household's work; a child's share of household work. Give one real example from your own life or from the Laos you live in, and name the lesson's key words: helping with family work. Your companion asks one question back — answer it from the lesson.
