@@ -108,9 +108,12 @@ programmes, French):**
   PDF p. 2; content/competence tables printed pp. 1–4;
   progression grid (4 themes, 30 periods) printed p. 4.
   Fetched from its recorded haitidocs.org source URL (byte
-  size matches its record exactly: 738,777); **UNHELD in the
-  census and NOT in GitHub — the fetched file is STAGED
-  under the push-don't-delete rule** (staged-pending).
+  size matches its record exactly: 738,777); **UNHELD in the census as filed, but since
+  secured in GitHub — the pusher landed it on 2026-11-17
+  and it is recorded as pushed in the phase3 push
+  state; a re-fetched copy still stands in
+  phase3-staging at the recorded size (738,777 B,
+  verified 2026-11-22).**
   Tally as filed: 10 placements.
 - *Programme à compétences minimales — Éducation à la
   citoyenneté, Secondaire II* — MENFP; year 2019 (décembre);
@@ -122,9 +125,12 @@ programmes, French):**
   content/competence tables printed pp. 1–5; progression
   grid (4 themes, 30 periods) printed p. 6. Fetched from
   its recorded haitidocs.org source URL (byte size matches
-  its record exactly: 1,190,846); **UNHELD in the census and
-  NOT in GitHub — STAGED under the push-don't-delete rule**
-  (staged-pending). Tally as filed: 10 placements.
+  its record exactly: 1,190,846); **UNHELD in the census as filed, but since
+  secured in GitHub — the pusher landed it on 2026-11-17
+  and it is recorded as pushed in the phase3 push
+  state; a re-fetched copy still stands in
+  phase3-staging at the recorded size (1,190,846 B,
+  verified 2026-11-22).** Tally as filed: 10 placements.
 - *Programme à compétences minimales — Éducation à la
   citoyenneté, Secondaire III* — MENFP; year 2019
   (décembre); no ISBN printed. Grade: Grade 12 / NS3
@@ -135,9 +141,12 @@ programmes, French):**
   content/competence tables printed pp. 1–3; progression
   grid (4 themes, 30 periods) printed p. 4. Fetched from
   its recorded haitidocs.org source URL (byte size matches
-  its record exactly: 851,323); **UNHELD in the census and
-  NOT in GitHub — STAGED under the push-don't-delete rule**
-  (staged-pending). Tally as filed: 7 placements.
+  its record exactly: 851,323); **UNHELD in the census as filed, but since
+  secured in GitHub — the pusher landed it on 2026-11-18
+  and it is recorded as pushed in the phase3 push
+  state; a re-fetched copy still stands in
+  phase3-staging at the recorded size (851,323 B,
+  verified 2026-11-22).** Tally as filed: 7 placements.
 - *Programme à compétences minimales — Éducation à la
   citoyenneté, Secondaire IV* — MENFP; year 2019
   (décembre); no ISBN printed. Grade: Grade 13 / NS4
@@ -149,9 +158,12 @@ programmes, French):**
   table not extractable from the PDF's text layer — carried
   exactly as filed). Fetched from its recorded
   haitidocs.org source URL (byte size matches its record
-  exactly: 1,120,791); **UNHELD in the census and NOT in
-  GitHub — STAGED under the push-don't-delete rule**
-  (staged-pending). Tally as filed: 7 placements.
+  exactly: 1,120,791); **UNHELD in the census as filed, but since
+  secured in GitHub — the pusher landed it on 2026-11-18
+  and it is recorded as pushed in the phase3 push
+  state; a re-fetched copy still stands in
+  phase3-staging at the recorded size (1,120,791 B,
+  verified 2026-11-22).** Tally as filed: 7 placements.
 
 **Book 5 — the 2015 operational programme (teacher
 programme, French):**
@@ -186,10 +198,13 @@ programme, French):**
   Source as filed: the lead's MENFP Google Drive file,
   fetched 2026-11-17 via the direct-download route;
   verified 2,851,090 bytes (matches the lead exactly), 46
-  pages. **Staged under the push-don't-delete rule**:
-  phase3-staging/grade-07/gov/haiti/social-sciences/
-  teacher/programme-2024-education-a-la-citoyennete.pdf
-  (+ books.json record), as filed. Contents map as filed:
+  pages. **Staged under the push-don't-delete rule as
+  filed, and since secured in GitHub** — recorded as
+  pushed in the phase3 push state at
+  grade-07/gov/haiti/social-sciences/teacher/
+  programme-2024-education-a-la-citoyennete.pdf
+  (+ books.json record); its staged copy no longer
+  stands in phase3-staging (verified 2026-11-22). Contents map as filed:
   a common part on the renovated fundamental cycle, then the
   discipline section — approach by competences; the
   discipline's foundations (national identity in a world
@@ -263,16 +278,26 @@ Named here exactly as filed; none feeds any lesson:
   teacher programmes alone; every lesson's sources say so
   and count 0 in the acceptance reckoning. There are no
   student-book levels to set against them.
-- **Staged-pending files, named exactly as filed.** The
-  four 2019 booklets were UNHELD in the census, are NOT in
-  GitHub, and their fetched files are STAGED under the
-  push-don't-delete rule (see the main filing's group log);
-  the 2024 record-only programme is likewise staged at the
-  phase3-staging path named above. The 2015 operational
-  programme is recorded as pushed; its fetched copy was
-  deleted after reading, as filed. No book was downloaded
-  for this build (DISK HOLD in force); everything was built
-  from the two placements filings.
+- **Secured files, verified 2026-11-22 (correcting the
+  staged-pending wording carried as filed).** The four
+  2019 booklets were UNHELD in the census as filed, but
+  the pusher has since secured them in GitHub: each is
+  recorded as pushed in the phase3 push state at
+  grade-{10,11,12,13}/gov/haiti/citizenship/teacher/
+  programme-competences-minimales-2019.pdf, with a
+  1-small-landed pusher log line per grade (2026-11-17
+  for NS1-NS2, 2026-11-18 for NS3-NS4). Re-fetched copies
+  still stand in phase3-staging at exactly the recorded
+  sizes (738,777 / 1,190,846 / 851,323 / 1,120,791 B,
+  staged 2026-11-21, after the landings) — staged copies
+  of secured books, not staged-pending books. The 2024
+  record-only programme is likewise recorded as pushed
+  and its staged copy no longer stands in phase3-staging.
+  The 2015 operational programme is recorded as pushed;
+  its fetched copy was deleted after reading, as filed.
+  No book was downloaded for this build (DISK HOLD in
+  force); everything was built from the two placements
+  filings.
 - **Programme apparatus is named, not placed.** The 2015
   programme's general finalities/missions front matter
   (printed pp. 2–6) is programme apparatus, named in its

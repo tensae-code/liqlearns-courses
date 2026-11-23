@@ -110,5 +110,8 @@ programmes each).
   filed; the 2024 fundamental-cycle programme (Grades 7–9)
   in the second filing is record-only — a curriculum
   document, named in ABOUT.md exactly as filed, feeding no
-  lesson; and the four 2019 booklets are STAGED, not in
-  GitHub (push-don't-delete rule), as ABOUT.md states.
+  lesson; and the four 2019 booklets are secured in
+  GitHub (pusher landed 2026-11-17/18, recorded as pushed
+  in the phase3 push state; re-fetched copies still stand
+  in phase3-staging at the recorded sizes), as ABOUT.md
+  states in its verified 2026-11-22 wording.
