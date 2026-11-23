@@ -1,0 +1,12 @@
+# Hands-on — The Individual's Participation in Community Life
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Before anyone explains anything, say in your own words what you already think this is about: The Individual's Participation in Community Life. Write it or say it aloud — this lesson starts from what Yemen's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: Community participation — the individuals' positive engagement in the social, economic and political sides of life in society, such as guarding public property and public manners, taking part in the society's consultative practices, and fighting the negative behaviours — cheating, bribery, monopoly and manipulation of prices; its fields — voluntary work, respecting others, respecting the society's positive traditions, guarding public property and public manners, taking part in school activity groups, taking part in fighting bribery, monopoly and cheating, and encouraging agricultural production and self-sufficiency; the importance of holding to participation's values — caring for society's institutions and growing them, rooting and growing the consultative practices, supporting the state's efforts to develop and modernise society, practising rights and performing duties, keeping the soundness of social, political and economic life and its positives, and society's cohesion and the keeping of its values; and the ways of strengthening the individual's participation — taking part in school activities connected to the local environment and community, joining school activity groups, opening chances for pupils and individuals to carry responsibility, adopting the stands that help gain noble values, awareness of participation's importance for individual and society, and guiding society's sons to what they should do in life's different situations. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson happening in real life — at home, at school, in the street, or in the public life of your town. Each time you see it (or see its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

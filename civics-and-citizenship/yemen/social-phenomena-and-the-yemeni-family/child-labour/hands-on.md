@@ -1,0 +1,12 @@
+# Hands-on — Child Labour
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Before anyone explains anything, say in your own words what you already think this is about: Child Labour. Write it or say it aloud — this lesson starts from what Yemen's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: Child labour — a child's practising work beyond his capacity, before the lawful age for work, in a way that threatens his safety and health, children leaving school for it; why children work beyond their capacity — the family's weak cultural level, employers and tradesmen exploiting children and giving them low wages, family break-up driving some children to flee school into hard work, the parents' inability to spend on their children through poverty, occupation, wars and crises laying an economic burden on the country and then the family, the wish to help the family in work like farming and herding, and weak knowledge of the child-labour laws; its negative effects — the various diseases, illiteracy spread, psychological harms, exploitation, behavioural and sexual delinquency, and social crimes such as begging and theft; the means of prevention — awakening children's guardians to the importance of teaching their children and not letting them drop out, never forcing children to work beyond their capacity, closing the establishments that exploit children, and applying the Child Rights Law and its penalties; and the state's efforts — deterrent laws punishing employers who exploit children and violate their rights, the Child Rights Law and its executive regulation, widening the social security that cares for poor families and their children, and encouraging youth to join the technical institutes to learn crafts and trades they can earn from. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson happening in real life — at home, at school, in the street, or in the public life of your town. Each time you see it (or see its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

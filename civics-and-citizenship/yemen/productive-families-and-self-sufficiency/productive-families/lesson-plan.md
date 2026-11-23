@@ -1,9 +1,9 @@
 # Lesson plan — Productive Families
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Productive Families and Self-Sufficiency · **Lesson:** Productive Families
-**Place in the curriculum:** Level 7 — Productive Families and Self-Sufficiency (CURRICULUM.md).
+**Place in the curriculum:** Level 11 — Productive Families and Self-Sufficiency (CURRICULUM.md).
 **The one thing this lesson teaches:** What a productive family is — a family that secures most of its own needs instead of buying imports, and may sell its surplus — and why local production matters. This lesson stands on a student book.
-**This lesson's own level:** Level 7 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 11 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

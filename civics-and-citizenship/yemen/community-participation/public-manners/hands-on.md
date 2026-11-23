@@ -1,0 +1,12 @@
+# Hands-on — Public Manners
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Do the opening act again
+Before anyone explains anything, say in your own words what you already think this is about: Public Manners. Write it or say it aloud — this lesson starts from what Yemen's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Show it with real things
+Take paper and a pencil — or real objects from your home — and show the lesson's main teaching: Public manners — the behaviours we practise in our dealing with others and in public places, which the Qur'an urges in all our behaviour, directing deliberateness in walking on foot or driving a car, as a mark of fine character, and lowering the voice when speaking with others; their importance; the public manners in dealing with others — respecting others, not forcing our opinions on them or offending their convictions, speaking well with them and showing them the truth in what we differ on; respecting the elderly, speaking and dealing with them politely and never mocking them; respecting constructive dialogue, which rests on persuasion by proof and logic; respecting the social order — standing where the queue ends and never breaking past others; respecting people with special needs, helping the disabled and those with impairments and considering their feelings; not intervening in others' privacies; and not setting wedding camps in the streets, closing the road, running loudspeakers in wedding camps or using live rounds that disturb others and may injure them bodily; and the manners of dealing with the laws — respecting the state's constitution in harmony with the Qur'an, obeying the laws and directions of the security bodies concerning society's security and safety, obeying the health bodies' laws and keeping away from wrong practices, and likewise the other bodies' directions in organising life and the relations between society's members. Arrange the objects, draw the scene, or act it with someone at home. Say each part aloud as you place it.
+
+## Watch for it for one day
+For one whole day, watch for this lesson happening in real life — at home, at school, in the street, or in the public life of your town. Each time you see it (or see its opposite), note it: what happened, who was there, what the lesson would say about it. Bring your notes back to the lesson.

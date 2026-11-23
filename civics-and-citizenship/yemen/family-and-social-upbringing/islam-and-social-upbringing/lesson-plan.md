@@ -1,9 +1,9 @@
 # Lesson plan — Islam and Social Upbringing
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Family and Social Upbringing · **Lesson:** Islam and Social Upbringing
-**Place in the curriculum:** Level 5 — Family and Social Upbringing (CURRICULUM.md).
+**Place in the curriculum:** Level 9 — Family and Social Upbringing (CURRICULUM.md).
 **The one thing this lesson teaches:** The child's duties toward his parents and his rights upon them, how Islam strengthens sound upbringing, and the honoured place and rights of women in Islam, inheritance named among them, in summary. This lesson stands on a student book.
-**This lesson's own level:** Level 5 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 9 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

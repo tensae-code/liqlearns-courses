@@ -1,14 +1,14 @@
 # Lesson plan — The Family
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Family and Society · **Lesson:** The Family
-**Place in the curriculum:** Level 13 — Teacher-Guide Background — Evidence Only (CURRICULUM.md).
+**Place in the curriculum:** Level 21 — Teacher-Guide Background — Evidence Only (CURRICULUM.md).
 **The one thing this lesson teaches:** The family — its place as the first community the citizen belongs to, the background essay behind the Grade 7 lessons — TEACHER evidence. This lesson stands on teacher-guide evidence only.
-**This lesson's own level:** Level 13 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 21 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
 ## Before this lesson
-- Stands in path order after **The Media** — do that lesson first if this one feels hard (recommended, never forced).
+- Stands in path order after **Fighting Bribery, Cheating and Monopoly** — do that lesson first if this one feels hard (recommended, never forced).
 
 ## What the learner can do when it ends
 1. State the lesson's one thing in their own words: The family — its place as the first community the citizen belongs to, the background essay behind the Grade 7 lessons — TEACHER evidence.

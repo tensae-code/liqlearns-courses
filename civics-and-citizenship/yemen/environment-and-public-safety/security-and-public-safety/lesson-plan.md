@@ -1,9 +1,9 @@
 # Lesson plan — Security and Public Safety
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Environment and Public Safety · **Lesson:** Security and Public Safety
-**Place in the curriculum:** Level 11 — Environment and Public Safety (CURRICULUM.md).
+**Place in the curriculum:** Level 15 — Environment and Public Safety (CURRICULUM.md).
 **The one thing this lesson teaches:** Security as preventing the emergencies that can strike persons, society or property, and public safety as a better life in ordinary conditions; the safety rules of home (gas and electricity shut off, matches, medicines and sharp tools away from children, a first-aid box, extinguishers), of the car (maintenance, care in fog and rain, seat belts, children in the back), of school (no crowding, no harmful play) and of the road, with the traffic signs pictured. This lesson stands on a student book.
-**This lesson's own level:** Level 11 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 15 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

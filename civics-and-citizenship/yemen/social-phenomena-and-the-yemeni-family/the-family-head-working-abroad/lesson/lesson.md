@@ -1,0 +1,23 @@
+# The Family Head's Working Abroad
+
+## Do it first
+
+Before anyone explains anything, say in your own words what you already think this is about: The Family Head's Working Abroad. Write it or say it aloud — this lesson starts from what Yemen's own book teaches about it, and you will compare your first thought with the book's teaching as you go.
+
+## Sub lesson 1 — What working abroad is, and its causes
+
+The family head travelling to another country to better the family's income; caused by wars, low living standards, family problems and swollen dowries, and by continuing education.
+
+## Sub lesson 2 — Its good and bad effects, and the cures
+
+Improved living, remittances feeding development, and skills brought home — against the wife's doubled burdens, the father's absent upbringing, weakened bonds, neglected farmland and rising prices; and the solutions the lesson proposes.
+
+## Say it to your companion
+
+Tell your companion what this lesson teaches: What ightirab is — the family head's travelling from his homeland to another country in order to improve the family's income; its causes — wars and conflicts and the family's low living standard leading to poverty, illiteracy and sickness and few work chances at home, political and tribal or population problems and strife, the exaggeration in dowries and family disputes among them — political causes like wars, economic causes like low living conditions, social causes like family problems and swollen dowries, and others like continuing education; its positive effects — the family's living standard improved, the emigrants' cash remittances supporting economic development by setting up projects and real-estate installations, and some emigrants gaining knowledge, experience and skill and transferring scientific and industrial expertise home; its negative effects — on the family: the wife carrying doubled burdens psychologically, socially and economically, the father's absent role in raising the children raising problems and delinquency among some of them, the weakening of family and social bonds, and children acquiring negative values from emigrants on their return, with the difficulty of re-adapting after return; on society: falling care for agricultural land and the loss of some traditional crafts, rising farm wages and falling production of some crops and the turn to importing instead of producing, and inflation from the emigrants' cash flow, with ill behaviour — extravagance, luxury goods and waste — driving land prices up; and the proposed solutions the lesson names. Give one real example from your own life or from the Yemen you live in, and name the lesson's key words: the, family, head's. Your companion asks one question back — answer it from the lesson.
+
+## Do It Yourself
+
+1. Do the opening act of this lesson again today, on purpose: repeat the Do it first act and notice what changes.
+2. Write or draw the lesson's main teaching in your own words: What ightirab is — the family head's travelling from his homeland to another country in order to improve the family's income; its causes — wars and conflicts and the family's low living standard leading to poverty, illiteracy and sickness and few work chances at home, political and tribal or population problems and strife, the exaggeration in dowries and family disputes among them — political causes like wars, economic causes like low living conditions, social causes like family problems and swollen dowries, and others like continuing education; its positive effects — the family's living standard improved, the emigrants' cash remittances supporting economic development by setting up projects and real-estate installations, and some emigrants gaining knowledge, experience and skill and transferring scientific and industrial expertise home; its negative effects — on the family: the wife carrying doubled burdens psychologically, socially and economically, the father's absent role in raising the children raising problems and delinquency among some of them, the weakening of family and social bonds, and children acquiring negative values from emigrants on their return, with the difficulty of re-adapting after return; on society: falling care for agricultural land and the loss of some traditional crafts, rising farm wages and falling production of some crops and the turn to importing instead of producing, and inflation from the emigrants' cash flow, with ill behaviour — extravagance, luxury goods and waste — driving land prices up; and the proposed solutions the lesson names.
+3. Teach one part of this lesson to someone at home, and watch for one place this week where the lesson happens in real life. Note it.

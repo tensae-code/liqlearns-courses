@@ -1,0 +1,12 @@
+# Video script — The Poet (al-Hasan ibn Ali ibn Jaber al-Habal)
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+This lesson is about one thing.
+The poet al-Hasan ibn Ali ibn Jaber al-Habal — born in Sana'a in 1048 AH / 1639 CE and dead in 1079 AH / 1668 CE at thirty-one; raised on worship and asceticism, busy with the sciences and literature, famed for eloquence, brilliance and wide reading until Imam al-Mahdi Ahmad ibn al-Hasan named him Prince of Poets of that age; al-Habal the wronged rebel poet — his great role in the struggle against the Turks, the sultans and the feudalists, his call to form the Qasimid state that came to rule greater Yemen east and west, north and south, his embracing the creed of rising against the unjust, and his war on corruption by tongue and by pen, in thought, creed and conduct; and his poetry — named Qala'id al-Jawahir, gathered by his companion and friend Ahmad ibn Nasir al-Mikhlafi al-Haymi and edited by Ahmad ibn Muhammad al-Shami as Diwan al-Habal, Prince of Yemen's Poets — much of it lost, burned and torn by the poet himself and tampered with by his enemies and rivals, what remains running with praise, elegy and love of the Prophet's house.
+
+The poet al-Hasan ibn Ali ibn Jaber al-Habal — born in Sana'a in 1048 AH / 1639 CE and dead in 1079 AH / 1668 CE at thirty-one; raised on worship and asceticism, busy with the sciences and literature, famed for eloquence, brilliance and wide reading until Imam al-Mahdi Ahmad ibn al-Hasan named him Prince of Poets of that age; al-Habal the wronged rebel poet — his great role in the struggle against the Turks, the sultans and the feudalists, his call to form the Qasimid state that came to rule greater Yemen east and west, north and south, his embracing the creed of rising against the unjust, and his war on corruption by tongue and by pen, in thought, creed and conduct; and his poetry — named Qala'id al-Jawahir, gathered by his companion and friend Ahmad ibn Nasir al-Mikhlafi al-Haymi and edited by Ahmad ibn Muhammad al-Shami as Diwan al-Habal, Prince of Yemen's Poets — much of it lost, burned and torn by the poet himself and tampered with by his enemies and rivals, what remains running with praise, elegy and love of the Prophet's house.
+
+Now you. Say it back, in your own words. Then go and do it — today, at home, at school, in your street.

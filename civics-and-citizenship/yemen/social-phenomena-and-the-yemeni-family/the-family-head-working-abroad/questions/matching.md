@@ -1,0 +1,13 @@
+# The Family Head's Working Abroad — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** The Family Head's Working Abroad — a)
+**2.** Social Phenomena and the Yemeni Family (the title this lesson sits in) — b)
+
+
+Meanings:
+a) What ightirab is — the family head's travelling from his homeland to another country in order to improve the family's income; its causes — wars and conflicts and the family's low living standard leading to poverty, illiteracy and sickness and few work chances at home, political and tribal or population problems and strife, the exaggeration in dowries and family disputes among them — political causes like wars, economic causes like low living conditions, social causes like family problems and swollen dowries, and others like continuing education; its positive effects — the family's living standard improved, the emigrants' cash remittances supporting economic development by setting up projects and real-estate installations, and some emigrants gaining knowledge, experience and skill and transferring scientific and industrial expertise home; its negative effects — on the family: the wife carrying doubled burdens psychologically, socially and economically, the father's absent role in raising the children raising problems and delinquency among some of them, the weakening of family and social bonds, and children acquiring negative values from emigrants on their return, with the difficulty of re-adapting after return; on society: falling care for agricultural land and the loss of some traditional crafts, rising farm wages and falling production of some crops and the turn to importing instead of producing, and inflation from the emigrants' cash flow, with ill behaviour — extravagance, luxury goods and waste — driving land prices up; and the proposed solutions the lesson names.
+b) One of the titles of Yemen's own civics course, built from Yemen's own government textbooks.
+
+**Answer key:** 1. a 2. b

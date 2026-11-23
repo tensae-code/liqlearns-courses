@@ -1,9 +1,9 @@
 # Lesson plan — Summer Centres and Youth
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Social Issues · **Lesson:** Summer Centres and Youth
-**Place in the curriculum:** Level 12 — Social Issues (CURRICULUM.md).
+**Place in the curriculum:** Level 16 — Social Issues (CURRICULUM.md).
 **The one thing this lesson teaches:** The summer centres — state or community centres that fill pupils' and youths' summer holiday, the best investment of free time — their aims (a balanced personality, stronger belonging, talents discovered, responsibility learned) and their activities, sport, swimming, computing, languages, arts, first aid and Qur'an study among them; and the state's care for youth, from memorisation centres and sports clubs to women's education centres. This lesson stands on a student book.
-**This lesson's own level:** Level 12 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 16 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

@@ -34,7 +34,7 @@ Paper and a pencil. Nothing else — the lesson is worked from the learner's own
 
 ## If the learner is stuck
 - Go back to the one thing: The blind poet's life and works — his diwans, his histories of Yemen, and the UNESCO prize the book records — as proof that disability is no bar to greatness. Work the Do it first act again, slowly, and name each step aloud.
-- This lesson's next door: the next lesson in path order — Social Upbringing.
+- This lesson's next door: the next lesson in path order — The Family and Its Formation.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

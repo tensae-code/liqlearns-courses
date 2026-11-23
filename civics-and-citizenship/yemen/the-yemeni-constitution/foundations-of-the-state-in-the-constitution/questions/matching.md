@@ -1,0 +1,13 @@
+# Foundations of the Yemeni State in the Yemeni Constitution — matching
+
+Match each part of the lesson with its teaching.
+
+**1.** Foundations of the Yemeni State in the Yemeni Constitution — a)
+**2.** The Yemeni Constitution (the title this lesson sits in) — b)
+
+
+Meanings:
+a) What a constitution is — the basic document that shows the form of the state's rule, fixes the competences of the legislative, judicial and executive powers, orders the relations between them and states the citizen's rights and duties — and what a law is, the rules issued to organise a matter, flowing from the constitution as the elections law flows from the constitutional right to vote, stand and vote in referendums; and the republic's constitutional foundations — political (the Republic of Yemen an Arab, Islamic, sovereign state; Islam the state's religion and Arabic its official language; the Islamic Sharia the source of all legislation; the political system built on pluralism; the peaceful transfer of power), economic (freedom of economic activity for the good of individual and society, freedom of private property, and the natural wealth — oil, gas, gold mines and the other minerals — owned by the state and used for the public good), social and cultural (equal opportunity for all citizens without discrimination in rights and duties, the family as society's foundation on religion and morals, society built on justice and freedom, women as men's full partners with the rights of their duties, and the encouragement of scientific and artistic invention and creativity), and of national defence (the state alone creates the armed forces, police and general security, and no individual or group may raise forces of its own; the armed forces belong to the people and their task is guarding the republic from outside attack and attempts at invasion and colonisation; the police a disciplined body serving the people and keeping internal security, public order and public morals; and the armed forces, police and security may never be harnessed for an individual, group or party) — the articles named by topic and summarised, never transcribed.
+b) One of the titles of Yemen's own civics course, built from Yemen's own government textbooks.
+
+**Answer key:** 1. a 2. b

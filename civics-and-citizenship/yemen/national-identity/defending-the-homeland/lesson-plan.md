@@ -1,9 +1,9 @@
 # Lesson plan — Defending the Homeland
 
 **Course:** Civics and Citizenship — Yemen · **Title:** National Identity · **Lesson:** Defending the Homeland
-**Place in the curriculum:** Level 9 — National Identity (CURRICULUM.md).
+**Place in the curriculum:** Level 13 — National Identity (CURRICULUM.md).
 **The one thing this lesson teaches:** Defence of the homeland as gathering every energy and closing ranks to guard its borders on land, sea and in the air; Yemen's long record of expelling invaders down to the British departure from the south in 1967; and the means of defence — money for the fighters and war production, readiness to give oneself, farm production, watchfulness at home, and the media. This lesson stands on a student book.
-**This lesson's own level:** Level 9 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 13 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 

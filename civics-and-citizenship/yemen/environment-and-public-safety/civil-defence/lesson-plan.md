@@ -1,9 +1,9 @@
 # Lesson plan — Civil Defence
 
 **Course:** Civics and Citizenship — Yemen · **Title:** Environment and Public Safety · **Lesson:** Civil Defence
-**Place in the curriculum:** Level 11 — Environment and Public Safety (CURRICULUM.md).
+**Place in the curriculum:** Level 15 — Environment and Public Safety (CURRICULUM.md).
 **The one thing this lesson teaches:** The civil defence as the body charged with protecting people and property from fires, disasters and wars — relieving the stricken, training volunteers, fighting fires, evacuation, searching for the trapped, checking safety conditions and guiding citizens; why fires start; keeping the home safe from fire; using an extinguisher; and first aid for a burn — cut off the air, cool with water, do not strip the burned clothes, no creams or powders, and get the casualty to hospital. This lesson stands on a student book.
-**This lesson's own level:** Level 11 — it stands on the lessons before it in path order (recommended, never forced).
+**This lesson's own level:** Level 15 — it stands on the lessons before it in path order (recommended, never forced).
 
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 2 seconds.
 
