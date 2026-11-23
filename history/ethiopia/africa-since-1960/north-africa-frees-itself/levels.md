@@ -1,0 +1,5 @@
+# North Africa Frees Itself — Egypt to Algeria's Hard Road — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The first breakthroughs came in the north: Egypt, a British protectorate from 1882, where Saad Zaghlul's nationalist delegation's demand to end the protectorate was backed by demonstrations and strikes across the country; Morocco, independent by negotiated settlement on 2 March 1956, its French and Spanish zones reunited; Tunisia, independent in 1956 under Habib Bourguiba's Neo-Destour Party; and Algeria, where a large settler population, organised in the "Secret Armed Organization" to block independence, forced the FLN under Ahmed Ben Bella into a bitter guerrilla war from 1954 to 1962, ended by agreement and referendum. — shown in the learner's own words and one real example.

@@ -1,0 +1,5 @@
+# Three Kinds of Heritage — Nature, Practice, Thing — depth
+
+This lesson is one whole lesson with no sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: Three kinds are defined in UNESCO's frame: natural heritage (natural features, geological and physiographical formations, habitats of threatened species, and natural sites of outstanding scientific, conservation or beauty value); intangible heritage (practices, representations, expressions, knowledge and skills, with their instruments and artefacts — in the domains of oral traditions and expressions including language, performing arts, social practices, rituals and festive events, knowledge and practices concerning nature and the universe, and indigenous handicrafts); and tangible heritage (physical artefacts produced, maintained and transmitted across generations — artistic creations, buildings, historic places, monuments). — shown in the learner's own words and one real example.

@@ -1,0 +1,5 @@
+# Ethiopia on the World Heritage List — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The registered list is walked site by site: the Stelae of Aksum (inscribed 1980; symbol of the Aksumite kingdom's wealth and importance); the rock-hewn churches of Lalibela (one of the first sites ever listed, 1978); the Lower Valley of the Awash (1980; palaeo-anthropological research 300 km north-east of Addis Ababa in Afar); the Lower Valley of the Omo (1980; human and animal fossils and stone tools fundamental to studying human evolution); Tiya (36 monuments including 32 carved stelae, 90 km south of Addis Ababa) — with the remaining registered sites (the review adds Harar Jugol and Fiche-Chambalala to the pupil's map of them). — shown in the learner's own words and one real example.
