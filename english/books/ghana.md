@@ -1,12 +1,20 @@
 # Ghana — English books read for LiqLearns
 
-STATUS (2026-10-26): all three NaCCA English
+STATUS (corrected 2026-11-22): all three NaCCA English
 curricula in this file (B1–3, B4–6, JHS 1–3) have
 been FULLY READ page by page with citation checks
 passed — see the closing block under each document.
 The Distance Learning guides/workbooks at the end
-of the file remain record-only, unread (no public
-copy opens from this network).
+of the file have ALSO been fully read: the
+2026-11-08 re-verification sweep read all nine
+(six teacher guides, three learners' workbooks,
+371 items) from the library's secured copies and
+merge commits a2c40748d8 + fbb98cf236 stocked all
+371 as provenance rows. Nothing in this set remains
+record-only. (This header and the closing note
+previously said the DL set was still unread; that
+was stale — the sweep's read and merge were never
+written back here until 2026-11-22.)
 
 
 Ghana's set is different in kind: there is NO government
@@ -1962,21 +1970,35 @@ p.97), and the cocoa/water-brands research project
 (B9, p.98).
 
 
-## The Distance Learning guides and workbooks — record note
+## The Distance Learning guides and workbooks — read in the 2026-11-08 sweep
 
 The record also holds the COVID-era Distance Learning
 set: English Teacher Guides Levels 1–3 for Lower
-Primary and for Upper Primary, and the English
-Workbooks (Lower Primary student workbook; Levels 2
-and 3) — filed per grade, most of the 28 rows. Twice
-looked for (the October front and again 2026-10-26):
-no public copy of these opens from this network; the
-library's secured copies sit in the private textbooks
-repo. NOT read — filed as record-only. What they teach
-is set by the curricula above, which they were built
-to deliver.
+Primary and for Upper Primary (six guides), and the
+English Learners' Workbooks, Lower Primary Levels
+1–3 (three workbooks) — filed per grade, most of the
+28 rows. Twice looked for (the October front and
+again 2026-10-26): no public copy of these opens from
+this network. They were then read from the library's
+secured copies in the private textbooks repo: the
+2026-11-08 re-verification sweep read all nine in
+full (371 items), and merge commits a2c40748d8 +
+fbb98cf236 (2026-11-11) stocked all 371 items as
+provenance rows across 19 lessons — teacher-guide
+rows labelled teacher evidence only, workbook rows
+workbook evidence; Ghana holds no pupil textbook, so
+no taught-in acceptance count moves. Verified again
+2026-11-22 in the English/Maths gaps pass: the
+stocked rows were counted per book in the lessons'
+sources (Lower Primary guides 41/39/41, Upper
+Primary guides 40/40/45, workbooks 42/41/42 — 371 in
+all, matching the sweep's count exactly). What they
+teach is set by the curricula above, which they were
+built to deliver.
 
-**GHANA COMPLETE on its curricula: all three NaCCA
-English curriculum documents read (B1–3, B4–6, JHS
-1–3); the Distance Learning guides/workbooks are
-record-only, unread.**
+**GHANA COMPLETE: all three NaCCA English curriculum
+documents read (B1–3, B4–6, JHS 1–3) AND the whole
+Distance Learning set — six teacher guides and three
+learners' workbooks — read in the 2026-11-08 sweep
+and merged in a2c40748d8 + fbb98cf236. Nothing in
+Ghana's English set remains record-only.**
