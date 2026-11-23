@@ -5,11 +5,11 @@ folder, built from Malaysia's own government textbooks:
 Pendidikan Moral (Moral Education), the subject taken by
 non-Muslim pupils and the closest Malaysian equivalent of
 a civics course — Tahun 4 (KSSR, Semakan 2017) and
-Tingkatan 1–4 (KSSM) student books, all Malay, all
-COMPLETE as filed, with the Tingkatan 5 student book
-standing UNREAD-pending under the disk hold (see
-ABOUT.md for the full book list, the reading routes, and
-every label carried exactly as filed). The organisation
+Tingkatan 1–5 (KSSM) student books, all Malay, all
+COMPLETE as filed (the Tingkatan 5 student book was read
+in the unread-queue phase, 2026-11-22; see ABOUT.md for
+the full book list, the reading routes, and every label
+carried exactly as filed). The organisation
 is by **levels, not grades**: a learner's place is found
 by what they prove. The path is recommended, never
 forced — a learner can jump in higher; the "start here
@@ -26,9 +26,10 @@ sources, community and society, rules and law (Level 4),
 moral choice as one's own and the first step beyond
 Malaysia (Level 5) — and finally the senior course's turn
 to integrity, citizens' rights read from the Federal
-Constitution, unity and sovereignty (Level 6). Level 7
-is reserved for the final year, Tingkatan 5, which is
-not yet read.
+Constitution, unity and sovereignty (Level 6) — and
+finally the final year, Tingkatan 5, turning the whole
+course outward to the global society, integrity at
+national scale and Malaysia in the world (Level 7).
 
 ## Level 1 — The Neighbourhood — My First Society — 14 lessons
 
@@ -54,48 +55,42 @@ Tingkatan 3: moral choice becomes the pupil's own, to be defended and practised;
 
 Tingkatan 4 (Bidang 5–7: Insan Bermoral, Jati Diri Moral, Moral dan Kenegaraan): community norms; noble character; justice and care as the principles of moral decisions; ethical use of ICT; integrity in the person and the family; being humane; citizens' rights and responsibilities read from the Federal Constitution, and their limits; unity and who builds it; ethical spending and the budget; the uniqueness of Malaysia's people as national wealth; and sovereignty under the constitutional monarchy as a shared citizen duty. Lessons: Norms of My Community · Why Community Norms Matter · Building a Noble Character · Why Character Protects Me · Justice and Care in Decisions · Deciding a Moral Dilemma · Using Technology Ethically · What Unethical Technology Use Brings · Integrity · The Person of Integrity · The Family of Integrity · When Family Integrity Fails · Being Humane · Humanity in Action · Rights and Duties of a Citizen · The Limits of Rights · Unity Makes the Nation Prosper · Who Builds Unity · Spending Ethically · Planning a Budget · The Uniqueness of Malaysia's People · Diversity as National Wealth · The Sovereign Nation · Defending Sovereignty Together.
 
-## Level 7 — Reserved — the Final Year (Not Yet Read) — 0 lessons
+## Level 7 — The World and Malaysia — Global Norms, Integrity and International Ties — 24 lessons
 
-Tingkatan 5 — RESERVED, not yet read: the final KSSM year (UNREAD-pending under the disk hold, Book 6). This rung is a placeholder from the curriculum's progression only; its units and lessons are to be coined from the book itself when the hold lifts. No lessons stand at this level.
+Tingkatan 5 (Bidang 5–7 at the global scale): global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral. Lessons: Global Society Norms · Why Global Norms Matter · The Glokal Person · Glokal Attitudes · Spiritual Values Shape Character · Growing Spiritual Values · Trustworthy Sources · Sharing Information Responsibly · Integrity in an Organisation · Why Organisational Integrity Matters · Integrity Builds the Nation · Doing My Duty with Integrity · Humane for Global Wellbeing · Humanity Across Borders · Community Programmes with Government and NGOs · Taking Part in Community Programmes · Global Cooperation · Why Nations Cooperate · Ethical Income Sources · Managing Money Ethically · Malaysia Excels in the World's Eyes · Making Malaysia Proud · Malaysia and the World · Malaysia's Two-Way Ties.
 
 ## Totals
 
-- **143 lessons** in all, stocked from 143
+- **167 lessons** in all, stocked from 167
   placements (Level 1: 14 · Level 2: 14 ·
   Level 3: 34 · Level 4: 29 · Level 5:
-  28 · Level 6: 24 · Level 7: 0,
-  reserved) — from five books read COMPLETE as filed,
-  all of them student books (Pendidikan Moral Tahun 4
-  and Tingkatan 1, 2, 3 and 4). A sixth book, the
-  Tingkatan 5 student book, is UNREAD-pending and stocks
-  nothing.
+  28 · Level 6: 24 · Level 7: 24) — from six books
+  read COMPLETE as filed, all of them student books
+  (Pendidikan Moral Tahun 4 and Tingkatan 1, 2, 3, 4
+  and 5). No book for Malaysia is left unread.
 
 ## Where the build stands
 
 - **Course frame — BUILT** (this CURRICULUM, TITLES.md,
   ABOUT.md, and the folder README entry).
-- **Levels 1–6 — BUILT**: 143 lessons, stocked from
-  143 placements in the five read books (14
+- **Levels 1–7 — BUILT**: 167 lessons, stocked from
+  167 placements in the six read books (14
   placements at Level 1 · 14 at Level 2 ·
   34 at Level 3 · 29 at Level 4 ·
-  28 at Level 5 · 24 at Level 6).
+  28 at Level 5 · 24 at Level 6 · 24 at Level 7).
 - **Student-book footing throughout**: every one of the
-  143 lessons stands on a student book. The filing's
+  167 lessons stands on a student book. The filing's
   census for this group holds no teacher guides and no
   programmes for Pendidikan Moral — all six records are
   student books — so no lesson in this course stands on
   guide evidence, and the acceptance reckoning has no
   evidence-only tier (see ABOUT.md).
-- **Not built, named plainly**: Level 7 (Tingkatan 5) is
-  RESERVED, not stocked — the Tingkatan 5 student book
-  is UNREAD-pending under the owner's disk hold, exactly
-  as filed: its download was stopped by the hold, the
-  partial file in scratch is not a readable copy and is
-  left untouched there, not deleted, and the book is to
-  be fetched and read when the coordinator confirms the
-  hold is lifted. No lesson pretends to it. The other
-  primary years of the KSSR course (Tahun 1–3, 5, 6) are
-  not in this group's census and are not in the course.
-  This build staged and downloaded nothing (DISK HOLD
-  in force). Nothing else is in the course (see
-  ABOUT.md).
+- **Not built, named plainly**: nothing for Malaysia is
+  left unbuilt — the unread list for Malaysia is empty.
+  The other primary years of the KSSR course (Tahun
+  1–3, 5, 6) are not in this group's census and are not
+  in the course. The Tingkatan 5 book was fetched from
+  the GitHub Releases asset it was already secured in,
+  read, and the local copy deleted after the read (the
+  book itself stays secured on GitHub). Nothing else is
+  in the course (see ABOUT.md).

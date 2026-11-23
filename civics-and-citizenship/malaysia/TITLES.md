@@ -3,8 +3,8 @@
 Civics belongs to the country: this course is Malaysia's
 own — built from Malaysia's Pendidikan Moral books
 (Dewan Bahasa dan Pustaka, Kuala Lumpur, for Kementerian
-Pendidikan Malaysia, Malay), five student books COMPLETE
-as filed and one student book UNREAD-pending. Inside the
+Pendidikan Malaysia, Malay), six student books COMPLETE
+as filed and no student book left unread. Inside the
 course the organisation is by **levels, not grades**: the
 titles below ARE the levels' titles, in path order — what
 the learner proves, step by step. The grades and forms
@@ -22,8 +22,8 @@ here instead" hints point down this ladder).
 
 The coined lesson names in the filing were deduped
 before building, by lesson name: no coined name is used
-by more than one placement, so 143 placements stock
-143 lessons, each lesson carrying exactly one
+by more than one placement, so 167 placements stock
+167 lessons, each lesson carrying exactly one
 placement. Every placement stocks into exactly one
 lesson, and each placement's provenance row (book +
 printed page, exactly as filed) is in that lesson's
@@ -76,6 +76,14 @@ year.
 - `belonging-to-malaysia/` — Level 6. Unity Makes the Nation Prosper · Who Builds Unity · The Uniqueness of Malaysia's People · Diversity as National Wealth · The Sovereign Nation · Defending Sovereignty Together. Belonging to Malaysia as Malaysia's own books teach it — this title sits at Level 6 because tingkatan 4 (Bidang 5–7: Insan Bermoral, Jati Diri Moral, Moral dan Kenegaraan): community norms; noble character; justice and care as the principles of moral decisions; ethical use of ICT; integrity in the person and the family; being humane; citizens' rights and responsibilities read from the Federal Constitution, and their limits; unity and who builds it; ethical spending and the budget; the uniqueness of Malaysia's people as national wealth; and sovereignty under the constitutional monarchy as a shared citizen duty.
 - `myself-and-my-duties/` — Level 6. Spending Ethically · Planning a Budget. Myself and My Duties as Malaysia's own books teach it — this title sits at Level 6 because tingkatan 4 (Bidang 5–7: Insan Bermoral, Jati Diri Moral, Moral dan Kenegaraan): community norms; noble character; justice and care as the principles of moral decisions; ethical use of ICT; integrity in the person and the family; being humane; citizens' rights and responsibilities read from the Federal Constitution, and their limits; unity and who builds it; ethical spending and the budget; the uniqueness of Malaysia's people as national wealth; and sovereignty under the constitutional monarchy as a shared citizen duty.
 
-**Level 7 — Reserved — the Final Year (Not Yet Read)** (0 lessons):
+**Level 7 — The World and Malaysia — Global Norms, Integrity and International Ties** (24 lessons):
 
-- No unit folders. Tingkatan 5 — RESERVED, not yet read: the final KSSM year (UNREAD-pending under the disk hold, Book 6). This rung is a placeholder from the curriculum's progression only; its units and lessons are to be coined from the book itself when the hold lifts. No lessons stand at this level.
+- `community-and-society/` — Level 7. Global Society Norms · Why Global Norms Matter · Humane for Global Wellbeing · Humanity Across Borders · Community Programmes with Government and NGOs · Taking Part in Community Programmes · Global Cooperation · Why Nations Cooperate. Community and Society as Malaysia's own books teach it — this title sits at Level 7 because tingkatan 5 (Bidang 5–7 at the global scale: global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral).
+
+- `knowing-right-and-wrong/` — Level 7. The Glokal Person · Glokal Attitudes · Spiritual Values Shape Character · Growing Spiritual Values · Integrity in an Organisation · Why Organisational Integrity Matters · Integrity Builds the Nation · Doing My Duty with Integrity. Knowing Right and Wrong as Malaysia's own books teach it — this title sits at Level 7 because tingkatan 5 (Bidang 5–7 at the global scale: global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral).
+
+- `rules-law-and-rights/` — Level 7. Trustworthy Sources · Sharing Information Responsibly. Rules, Law and Rights as Malaysia's own books teach it — this title sits at Level 7 because tingkatan 5 (Bidang 5–7 at the global scale: global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral).
+
+- `myself-and-my-duties/` — Level 7. Ethical Income Sources · Managing Money Ethically. Myself and My Duties as Malaysia's own books teach it — this title sits at Level 7 because tingkatan 5 (Bidang 5–7 at the global scale: global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral).
+
+- `belonging-to-malaysia/` — Level 7. Malaysia Excels in the World's Eyes · Making Malaysia Proud · Malaysia and the World · Malaysia's Two-Way Ties. Belonging to Malaysia as Malaysia's own books teach it — this title sits at Level 7 because tingkatan 5 (Bidang 5–7 at the global scale: global-society norms; the glokal person; spiritual values; trustworthy sources and responsible sharing; integrity in the organisation and the nation; being humane for global wellbeing; community programmes with government bodies and NGOs; global cooperation; ethical finance; Malaysia's success in the world's eyes; and Malaysia's international relations, bilateral and multilateral).

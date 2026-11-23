@@ -46,13 +46,21 @@ with international humanitarian law. The senior course
 1–3) turns from personal virtue to the state: citizens'
 rights read from the Federal Constitution, unity, ethical
 spending, Malaysia's diversity as national wealth, and
-sovereignty as a shared citizen duty.
+sovereignty as a shared citizen duty. The final year
+(Tingkatan 5, the same Bidang 5–7 at the global scale)
+turns the whole course outward: the global society and
+its norms, the glokal person, spirituality, trustworthy
+information, integrity in the organisation and the
+nation, humane conduct for global wellbeing, community
+programmes, global cooperation, ethical finance, and
+Malaysia's place in the world.
 
-The course as built has **six stocked levels and one
-reserved level**, from the one filing for this build
+The course as built has **seven stocked levels**, from
+the one filing for this build
 (`malaysia-placements.md` — 6 records / 6 distinct books /
-5 books read complete, 1 book UNREAD-pending, as filed).
-All five read books were fetched from the GitHub Releases
+6 books read complete, 0 books unread, as updated in the
+unread-queue phase, 2026-11-22).
+All six read books were fetched from the GitHub Releases
 assets of tensae-code/liqlearns-textbooks after the grab.py
 tree route returned HTTP 404 (the books are secured as
 release assets, not tree files); every byte size was
@@ -60,7 +68,7 @@ verified against its release asset, and each cover was
 rendered and checked against the record title before
 reading. Books already in GitHub — nothing was staged and
 nothing was deleted under the push-don't-delete rule.
-143 placements in all, stocking 143 lessons — the
+167 placements in all, stocking 167 lessons — the
 coined lesson names were deduped before building, by lesson
 name: no coined name is used by more than one placement, so
 every placement stocks into exactly one lesson, and every
@@ -73,6 +81,7 @@ placement's provenance row is in that lesson's
 4. **Level 4 — Where Morals Come From — the Caring Society, Services and Rights (29 lessons, 29 placements).** Sources of Morals · Rukun Negara as a Moral Guide · Faith Shapes Character · Life Without a Moral Anchor · Responsibility to Myself · Keeping Myself Safe · My Duties in the Family · What Happens When Family Duties Fail · Good Manners in Friendship · Why Manners Keep Friendships · Living with Neighbours · Being a Good Neighbour · The Caring Society · People in Need Come First · Public Service Agencies · Valuing Public Services · Protecting Our Environment · Government Bodies That Guard Nature · A Healthy and Safe Life · Cleanliness and a Positive Mind · Public Places and Shared Facilities · Courtesy in Public Places · Ethics in Cyberspace · Cyber Laws of Malaysia · Road Rules and Road Laws · Identity Conflict · The Teenage Years and Identity · Rights of Women and Consumers · Rights of Disabled People and Workers.
 5. **Level 5 — My Own Moral Choice — Traditions, Unity, Speech and Humanity (28 lessons, 28 placements).** Making Moral Choices · Standing by a Moral Choice · Natures Gifts · What Neglecting Nature Brings · Self Excellence · Practising Self Excellence · Family Traditions Are Treasure · Keeping Family Traditions · Conflict Between Friends · Resolving Conflict with Friends · Living United · Challenges to Unity · Quality Public Service · Improving Public Service · Keeping the Earth Green · Everyone's Part for the Earth · Social Responsibility · Social Responsibility in Action · Courtesy at Ceremonies · Why Courtesy at Ceremonies Matters · Child Crime · Preventing Child Crime · Freedom of Speech · The Legal Limits of Speech · Traditions of a Plural Society · How Traditions Are Born · Humanitarian Law · Why Humanitarian Law Must Stand.
 6. **Level 6 — Integrity and the Nation — Rights, Unity and Sovereignty (24 lessons, 24 placements).** Norms of My Community · Why Community Norms Matter · Building a Noble Character · Why Character Protects Me · Justice and Care in Decisions · Deciding a Moral Dilemma · Using Technology Ethically · What Unethical Technology Use Brings · Integrity · The Person of Integrity · The Family of Integrity · When Family Integrity Fails · Being Humane · Humanity in Action · Rights and Duties of a Citizen · The Limits of Rights · Unity Makes the Nation Prosper · Who Builds Unity · Spending Ethically · Planning a Budget · The Uniqueness of Malaysia's People · Diversity as National Wealth · The Sovereign Nation · Defending Sovereignty Together.
+7. **Level 7 — The World and Malaysia — Global Norms, Integrity and International Ties (24 lessons, 24 placements).** Global Society Norms · Why Global Norms Matter · The Glokal Person · Glokal Attitudes · Spiritual Values Shape Character · Growing Spiritual Values · Trustworthy Sources · Sharing Information Responsibly · Integrity in an Organisation · Why Organisational Integrity Matters · Integrity Builds the Nation · Doing My Duty with Integrity · Humane for Global Wellbeing · Humanity Across Borders · Community Programmes with Government and NGOs · Taking Part in Community Programmes · Global Cooperation · Why Nations Cooperate · Ethical Income Sources · Managing Money Ethically · Malaysia Excels in the World's Eyes · Making Malaysia Proud · Malaysia and the World · Malaysia's Two-Way Ties.
 
 **Course-intro video script** (written here, made later;
 the books' own shape, walked in order):
@@ -93,19 +102,22 @@ the books' own shape, walked in order):
   borders. Last, integrity and the nation — rights and
   duties from the Federal Constitution, unity, ethical
   spending, our diversity as wealth, and sovereignty we
-  defend together. The final year is still to come: its
-  book is not yet read."
+  defend together. Last, the world and Malaysia: the
+  global society's norms, the glokal person, integrity
+  for the nation, humane conduct across borders,
+  cooperation among nations, ethical money, and
+  Malaysia standing tall in the world's eyes."
 
 ## The books (Malaysia)
 
 Book entries are named in full in each lesson's
 `lesson/sources.md`. The set in hand for this build is the
 filing's whole set: 6 distinct books — all 6 of them
-student books, all Malay. 143 placements in all,
-stocking 143 lessons (every placement stocks into
-exactly one lesson). Five books' verdicts are COMPLETE,
-exactly as filed; the sixth is UNREAD-pending, exactly as
-filed. No book in the filing carries a PARTIAL verdict,
+student books, all Malay. 167 placements in all,
+stocking 167 lessons (every placement stocks into
+exactly one lesson). All six books' verdicts are COMPLETE,
+as filed and as updated for Book 6 in the unread-queue
+phase. No book in the filing carries a PARTIAL verdict,
 and the filing names no teacher guide and no programme
 for this group.
 
@@ -131,14 +143,14 @@ for this group.
 
 **Book 6 (malaysia-placements.md) — PM Tingkatan 5 student (student book)**
 
-- *Pendidikan Moral Tingkatan 5* (student book, Malay) — publisher not verified (not read); year not verified (not read); no ISBN verified (not read). Title as printed: "Pendidikan Moral Tingkatan 5" (record title; cover not verified — book not read). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: not verified (not read). Subject as filed: Pendidikan Moral — track: standalone. **Verdict: UNREAD-pending — DISK HOLD.** Routes tried, as filed: (1) grab.py tree — HTTP 404 (books are secured in GitHub Releases, not the git tree); (2) GitHub Releases census — the book IS present and secured as asset grade-11-gov-malaysia-pendidikan-moral-student-full-year.pdf in release full-quality-oversized-books, 238,632,868 bytes; (3) Releases download via grab.py url was under way when the owner's disk hold arrived (free disk 28 GB, below his 30 GB line) — the download was stopped at 186,646,528 bytes landed; the partial file (scratch-id-my/my-g11.pdf) is not a readable copy (incomplete PDF) and is left untouched in scratch, not deleted; (4) the record's own source URL is a Google Drive file (Pendidikan Moral Tingkatan 5 KSSM.pdf, 228M as Drive reports it) — the predecessor's Drive fetch in scratch was likewise incomplete when the predecessor died. To be fetched and read when the coordinator confirms the hold is lifted. An orphaned continuation of the stopped download was checked for after the hold: no grab.py/curl process touching Malaysia files remains running, and the partial file's size was verified frozen over a timed check — nothing is still downloading. Contents map: not read. Tally: 0 placements.
+- *Pendidikan Moral Tingkatan 5 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Dewan Bahasa dan Pustaka, Kuala Lumpur, for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-983-49-2872-8. Title as printed: "Pendidikan Moral Tingkatan 5 (Kurikulum Standard Sekolah Menengah)". Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Subject as filed: Pendidikan Moral — track: standalone. **Verdict: COMPLETE** — read in the unread-queue phase (2026-11-22) from the GitHub Releases asset grade-11-gov-malaysia-pendidikan-moral-student-full-year.pdf in release full-quality-oversized-books; byte size 238,632,868 verified exactly (fetched in ranges through the API asset route; pdfinfo 200 pages); full text layer read unit by unit. The earlier partial download (186,646,528 bytes) was replaced by the full copy and never read; the local copy was deleted after the read, the book staying secured on GitHub. Contents map: Bidang 5 Insan Bermoral — Unit 1 Norma Masyarakat Global Membentuk Keharmonian Sejagat printed pp. 2–15, Unit 2 Ukir Nama di Mata Dunia, Jati Diri Berpisah Tiada pp. 16–29, Unit 3 Kerohanian Membentuk Individu Bermoral pp. 30–43, Unit 4 Penggunaan Sumber dan Penyebaran Maklumat demi Kesejahteraan Sejagat pp. 44–58; Bidang 6 Jati Diri Moral — Unit 5 Integriti Pemacu Kecemerlangan Organisasi pp. 60–73, Unit 6 Pembangunan Negara Bertunjangkan Integriti pp. 74–87, Unit 7 Berperikemanusiaan Pemangkin Kesejahteraan Global pp. 88–102; Bidang 7 Moral dan Kenegaraan — Unit 8 Penglibatan Diri Peneraju Komuniti pp. 104–119, Unit 9 Kerjasama Masyarakat Global pp. 120–135, Unit 10 Pengurusan Kewangan Secara Beretika Menjamin Keharmonian Hidup pp. 136–151, Unit 11 Malaysia Unggul di Mata Dunia pp. 152–167, Unit 12 Malaysia dalam Hubungan Antarabangsa pp. 168–185; Glosari p. 186, Senarai Rujukan p. 187, Indeks p. 189 and Cadangan Jawapan p. 190 (inventory-only / answer apparatus, named not placed); each unit's Pengukuhan, Pengayaan, Pemulihan and Penilaian sections are activity/assessment apparatus, named not placed. Tally: 24 placements.
 
 ## The acceptance reckoning
 
-- **Student books count.** All 143 of the 143
+- **Student books count.** All 167 of the 167
   lessons stand on student books (the Tahun 4 Pendidikan
   Moral book, 28; Tingkatan 1, 34; Tingkatan 2, 29;
-  Tingkatan 3, 28; Tingkatan 4, 24) — each such lesson's
+  Tingkatan 3, 28; Tingkatan 4, 24; Tingkatan 5, 24) — each such lesson's
   `lesson/sources.md` carries "**Acceptance count: taught
   in 1 country (Malaysia) — this lesson stands on a
   student book.**"
@@ -149,36 +161,34 @@ for this group.
   So this course has no evidence-only tier: no lesson
   stands on a teacher guide alone, and nothing stands at
   acceptance 0 on guide or programme footing.
-- **The UNREAD-pending book counts for nothing and
-  stocks nothing.** The Tingkatan 5 student book (Book
-  6) is UNREAD-pending under the disk hold, with 0
-  placements; Level 7 is reserved for it and no lesson
-  pretends to its content.
+- **No book is left unread.** The Tingkatan 5 student
+  book (Book 6), formerly UNREAD-pending under the disk
+  hold, was read complete in the unread-queue phase
+  (2026-11-22) and stocks 24 placements at Level 7. The
+  unread list for Malaysia is empty.
 
 ## Every gap, label and named-not-placed item, carried exactly as filed
 
-- **UNREAD-pending — DISK HOLD (Book 6):** the Tingkatan
-  5 student book is unread — pending, not failed. Its
-  download was stopped by the owner's disk hold; the
-  partial file in scratch (scratch-id-my/my-g11.pdf,
-  stopped at 186,646,528 bytes of 238,632,868) is not a
-  readable copy (incomplete PDF) and is left untouched
-  in scratch, not deleted. The book is secured in
-  GitHub Releases (asset
-  grade-11-gov-malaysia-pendidikan-moral-student-full-year.pdf,
-  release full-quality-oversized-books) and is to be
-  fetched and read when the coordinator confirms the
-  hold is lifted. Level 7 of this course is a reserved
-  placeholder from the curriculum's progression only;
-  its units and lessons are to be coined from the book
-  itself when the hold lifts.
-- **DISK HOLD, as filed for the whole group:** downloads
-  were stopped mid-wave; the two books fully landed and
-  verified before the hold (Tahun 4, Tingkatan 1) and
-  the three landed earlier in the wave (Tingkatan 2, 3,
-  4) were read as normal; Tingkatan 5's download was
-  stopped by the hold and is filed UNREAD-pending, not
-  failed. This build downloaded and staged nothing.
+- **Formerly UNREAD-pending — DISK HOLD (Book 6), now
+  read:** the Tingkatan 5 student book was unread under
+  the owner's disk hold in the original filing — its
+  download had been stopped at 186,646,528 bytes of
+  238,632,868 and that partial file was not a readable
+  copy. In the unread-queue phase (2026-11-22) the book
+  was fetched in full from the GitHub Releases asset it
+  was already secured in (grade-11-gov-malaysia-pendidikan-moral-student-full-year.pdf,
+  release full-quality-oversized-books), verified at
+  exactly 238,632,868 bytes and 200 pages, read complete
+  unit by unit, and stocked at Level 7 (24 placements).
+  The local copy was deleted after the read. No Malaysia
+  book remains unread.
+- **DISK HOLD, as filed for the whole group (historical):**
+  downloads were stopped mid-wave in the original wave;
+  the two books fully landed and verified before the
+  hold (Tahun 4, Tingkatan 1) and the three landed
+  earlier in the wave (Tingkatan 2, 3, 4) were read as
+  normal; Tingkatan 5's download was stopped by the hold
+  at the time. That hold no longer applies to this book.
 - **Reading routes, as filed:** every read book was
   fetched from the GitHub Releases assets of
   tensae-code/liqlearns-textbooks after the grab.py tree
@@ -191,17 +201,18 @@ for this group.
   rule.
 - **PARTIAL:** no book in the filing carries a PARTIAL
   verdict; every read book is COMPLETE as filed. The
-  only partial object named anywhere in the filing is
+  only partial object named anywhere in the filing was
   the stopped Tingkatan 5 download in scratch — a
-  partial *file*, not a partial read: the book itself is
-  filed UNREAD-pending, and this course labels it so.
+  partial *file*, not a partial read: that partial file
+  was replaced by the verified full copy in the
+  unread-queue phase and was never read.
   Nothing in this course is labelled PARTIAL, because
   the filing does not file any book so.
 - **Named, not placed (as filed):** in the Tahun 4 book,
   each unit's Mari Uji Diri self-test pages are
   assessment apparatus, named not placed; in Tingkatan
   1–4, each unit's Pengukuhan/Pengayaan (and, in
-  Tingkatan 3–4, Pemulihan/Penilaian) activity sections
+  Tingkatan 3–5, Pemulihan/Penilaian) activity sections
   are apparatus, named not placed; Senarai Rujukan,
   Indeks and Glosari pages are inventory-only, named not
   placed; the Tingkatan 4 book's Cadangan Jawapan

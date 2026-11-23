@@ -34,7 +34,7 @@ Paper and a pencil. Nothing else — the lesson is worked from the learner's own
 
 ## If the learner is stuck
 - Go back to the one thing: Defending the nation's sovereignty as the shared responsibility of leaders and people, against internal and external threats, with the national symbols (Jalur Gemilang) honoured. Work the Do it first act again, slowly, and name each step aloud.
-- This is the last lesson of the course as built — the ladder ends here (Level 7 is reserved for a book not yet read; see ABOUT.md).
+- This lesson's next door: the next lesson in path order — Global Society Norms.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
