@@ -354,9 +354,13 @@ sources, as provenance.
   three preparatory grades (Ministry of Education, Arabic,
   2021/2021/2017 editions, all COMPLETE — 33 placements,
   33 lessons); Level 1 is sketched, not stocked — the
-  Grade 4 primary book is RECORD-ONLY, UNREAD, and the
-  Grade 7 and 8 PDFs stand staged-pending under the disk
-  hold, as filed. See `bahrain/ABOUT.md` for the full
+  Grade 4 primary book is RECORD-ONLY, UNREAD; the
+  Grade 7 and 8 PDFs were staged on 2026-11-22 after
+  the disk hold lifted (byte-verified at their census
+  paths in phase3-staging) and have since been secured
+  by the pusher (PUSHED in its 2026-11-23 logs, 1
+  mid-size release file landed for each). See
+  `bahrain/ABOUT.md` for the full
   book list and the acceptance reckoning.
 - **Syria** — [`syria/`](syria/) · 34 lessons: Levels
   1–8 — developing myself (self-esteem, family, friends,

@@ -243,12 +243,31 @@ is claimed anywhere in this course.
   debt. It is named in this course only as not yet in
   the course; Level 1 is sketched from it, not stocked,
   and nothing from it is claimed.
-- **Staging-pending files, carried exactly as filed:**
-  STAGING NOTE (disk hold, 2026-11-17): the Grade 9 book
-  was staged before the hold; the Grade 7 and Grade 8
-  PDFs are held in the filing group's scratch and are
-  NOT yet staged — staging is pending the coordinator
-  lifting the hold. This build staged nothing and
+- **Staging state, updated to the verified state
+  (2026-11-22/23):** as filed under the 2026-11-17 disk
+  hold, the Grade 9 book was staged before the hold and
+  the Grade 7 and Grade 8 PDFs were held in the filing
+  group's scratch, NOT yet staged. That state has since
+  been resolved: after the hold lifted, the
+  2026-11-22 staging pass staged both PDFs at their
+  census paths in phase3-staging —
+  `grade-07/gov/bahrain/citizenship-education/student/citizenship-education-grade-7-bahrain.pdf`
+  (94,247,064 bytes, 52 pp, SHA-256
+  52b5ca18188551c4774ece4754172aef16b5beff591c0dd3bad41de6091bf57b)
+  and
+  `grade-08/gov/bahrain/citizenship-education/student/citizenship-education-grade-8-bahrain.pdf`
+  (47,194,014 bytes, 73 pp, SHA-256
+  74605c054211f9ddebacf18dbd7fe65b4fb404587be9b087ef49d3fef3c7249b),
+  each with `books.json` + `CURRICULUM.md` records at
+  its grade; the scratch PDFs were deleted after
+  byte-for-byte verification. The pusher has since
+  secured both books: its 2026-11-23 logs record
+  grade-07/gov/bahrain PUSHED at 00:41 UTC and
+  grade-08/gov/bahrain PUSHED at 00:45 UTC (1 mid-size
+  release file landed for each), phase3-push-state.json
+  lists both folders under "pushed", and the pusher
+  deleted the local staged PDFs after landing, as it
+  does. This build itself staged nothing and
   downloaded nothing.
 - **No PARTIAL and no wrong-file labels were filed**
   for any of the three read books: all three verdicts
@@ -268,4 +287,5 @@ is claimed anywhere in this course.
 - No downloads were made for this build and nothing was
   staged into phase3-staging by this build; the course
   is built from the placements files alone, under the
-  disk hold.
+  disk hold. (The books' staging state has since moved
+  on — see the staging note above.)

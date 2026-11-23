@@ -98,8 +98,17 @@ coined twice — so no dedupe merge arises. 33 placements,
   books in hand reach:** only these three books were
   read for Bahrain — the Grade 4 primary book stands
   UNREAD (Level 1 sketched, not stocked), and no lesson
-  is built from anything else. Staging, as filed: the
-  Grade 9 book was staged before the disk hold; the
-  Grade 7 and Grade 8 PDFs are held in the filing
-  group's scratch, NOT yet staged, pending the
-  coordinator lifting the hold.
+  is built from anything else. Staging, updated to the
+  verified state: the Grade 9 book was staged before
+  the 2026-11-17 disk hold; the Grade 7 and Grade 8
+  PDFs, held in the filing group's scratch under that
+  hold, were staged on 2026-11-22 at
+  grade-07/gov/bahrain/citizenship-education/student/citizenship-education-grade-7-bahrain.pdf
+  (94,247,064 bytes) and
+  grade-08/gov/bahrain/citizenship-education/student/citizenship-education-grade-8-bahrain.pdf
+  (47,194,014 bytes), byte-verified, and the pusher
+  has since secured both (PUSHED in its 2026-11-23
+  logs, 00:41 and 00:45 UTC, 1 mid-size release file
+  landed for each; the local staged PDFs were deleted
+  by the pusher after landing). See ABOUT.md for the
+  full staging note.
