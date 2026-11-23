@@ -1,9 +1,10 @@
 # Civics and Citizenship — Bulgaria course — titles, FROM THE BOTTOM
 
 Civics belongs to the country: this course is Bulgaria's own —
-built from Bulgaria's Civic Education student book for Grade 11
-(Гражданско образование, Педагог 6, Bulgarian, 2024, COMPLETE
-by image read from the publisher's page-image set). Inside the
+built from Bulgaria's Civic Education student books for
+Grades 11 and 12 (Гражданско образование, Педагог 6,
+Bulgarian, 2024, both COMPLETE by image read from the
+publisher's page-image sets). Inside the
 course the organisation is by **levels, not grades**: the
 titles below ARE the levels, in path order — what the learner
 proves, step by step. The grade the book comes from lives only
@@ -15,9 +16,10 @@ justice, universal and group rights, rights protected at
 global, European and national level — with the duties that go
 with them; then identity and difference — groups, majorities
 and minorities, discrimination named, recognised and answered,
-and conflicts resolved. Grade 12's book is UNREAD-pending
-under the disk hold, so its level is sketched, not stocked.
-That ladder IS the path order (recommended, never forced — a
+and conflicts resolved; then the Grade 12 book's climb —
+power organised and limited, the citizen in the market
+economy, and Bulgaria inside the world's problems. That
+ladder IS the path order (recommended, never forced — a
 learner can jump in anywhere; the "start here instead" hints
 point down this ladder).
 
@@ -45,10 +47,29 @@ point down this ladder).
   discrimination, protection from discrimination, the state
   and minorities, policies for minorities, resolving conflicts
   and constructive communication.
-- Level 4 — **PENDING (no title folder yet).** Grade 12
-  (Гражданско образование за 12. клас): UNREAD-pending under
-  the disk hold; its title will be sketched from its own
-  contents when it is fetched after the hold lifts.
+- `citizens-power-and-the-state/` — Level 4 (Grade 12,
+  Тема 1). Citizens, power and the state: society and power,
+  separation of powers in practice, partnership in
+  governance, institutions of Bulgaria and the EU, how
+  institutions work together, me the institutions Europe,
+  civic control and legitimacy of power, the limits of
+  political power, my civic project for positive change.
+- `citizens-and-the-economy/` — Level 4 (Grade 12, Тема 2).
+  Citizens and the economy: property contracts and the
+  market economy, property and contracts in today's market
+  economy, the circular flow of the economy, the labour
+  market and public policies, succeeding in the labour
+  market, social policy and regulating the market, public
+  budget state policies and sustainable development, the
+  public budget in practice, sustainable social and economic
+  development.
+- `bulgaria-and-global-problems/` — Level 4 (Grade 12,
+  Тема 3). Bulgaria and global problems: global problems,
+  globalisation pluralism and tolerance, civic activity
+  cooperation and solidarity, my civic position on a global
+  problem, nature and culture under globalisation, education
+  the key to global problems, a culture of security under
+  globalisation, together we can do more.
 
 ## Every lesson title, in ladder order
 
@@ -82,3 +103,29 @@ point down this ladder).
 28. The State and Minorities — `identities-and-differences-in-society/the-state-and-minorities/`
 29. Policies for Minorities — `identities-and-differences-in-society/policies-for-minorities/`
 30. Resolving Conflicts and Constructive Communication — `identities-and-differences-in-society/resolving-conflicts-and-constructive-communication/`
+31. Society and Power — `citizens-power-and-the-state/society-and-power/`
+32. Separation of Powers in Practice — `citizens-power-and-the-state/separation-of-powers-in-practice/`
+33. Partnership in Governance — `citizens-power-and-the-state/partnership-in-governance/`
+34. Institutions of Bulgaria and the European Union — `citizens-power-and-the-state/institutions-of-bulgaria-and-the-eu/`
+35. How Institutions Work Together — `citizens-power-and-the-state/how-institutions-work-together/`
+36. Me, the Institutions, Europe — `citizens-power-and-the-state/me-the-institutions-europe/`
+37. Civic Control and Legitimacy of Power — `citizens-power-and-the-state/civic-control-and-legitimacy-of-power/`
+38. The Limits of Political Power — `citizens-power-and-the-state/the-limits-of-political-power/`
+39. My Civic Project for Positive Change — `citizens-power-and-the-state/my-civic-project-for-positive-change/`
+40. Property, Contracts and the Market Economy — `citizens-and-the-economy/property-contracts-and-the-market-economy/`
+41. Property and Contracts in Today's Market Economy — `citizens-and-the-economy/property-and-contracts-in-todays-market-economy/`
+42. The Circular Flow of the Economy — `citizens-and-the-economy/the-circular-flow-of-the-economy/`
+43. The Labour Market and Public Policies — `citizens-and-the-economy/the-labour-market-and-public-policies/`
+44. Succeeding in the Labour Market — `citizens-and-the-economy/succeeding-in-the-labour-market/`
+45. Social Policy and Regulating the Market — `citizens-and-the-economy/social-policy-and-regulating-the-market/`
+46. Public Budget, State Policies and Sustainable Development — `citizens-and-the-economy/public-budget-state-policies-and-sustainable-development/`
+47. The Public Budget in Practice — `citizens-and-the-economy/the-public-budget-in-practice/`
+48. Sustainable Social and Economic Development — `citizens-and-the-economy/sustainable-social-and-economic-development/`
+49. Global Problems — `bulgaria-and-global-problems/global-problems/`
+50. Globalisation, Pluralism and Tolerance — `bulgaria-and-global-problems/globalisation-pluralism-and-tolerance/`
+51. Civic Activity, Cooperation and Solidarity — `bulgaria-and-global-problems/civic-activity-cooperation-and-solidarity/`
+52. My Civic Position on a Global Problem — `bulgaria-and-global-problems/my-civic-position-on-a-global-problem/`
+53. Nature and Culture under Globalisation — `bulgaria-and-global-problems/nature-and-culture-under-globalisation/`
+54. Education — the Key to Global Problems — `bulgaria-and-global-problems/education-the-key-to-global-problems/`
+55. A Culture of Security under Globalisation — `bulgaria-and-global-problems/a-culture-of-security-under-globalisation/`
+56. Together We Can Do More — `bulgaria-and-global-problems/together-we-can-do-more/`

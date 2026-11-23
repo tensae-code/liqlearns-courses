@@ -264,7 +264,7 @@ sources, as provenance.
   stocks as one lesson with two sub lessons, so 30 placements
   make 29 lessons). See `nepal/ABOUT.md` for the full book
   list and the acceptance reckoning.
-- **Bulgaria** — [`bulgaria/`](bulgaria/) · 30 lessons: Levels 1–3 —
+- **Bulgaria** — [`bulgaria/`](bulgaria/) · 56 lessons: Levels 1–3 —
   citizens, politics and democracy (freedom and power, the
   citizen, democracy, civic culture, civil society, media),
   then citizens, rights and responsibilities (justice, universal
@@ -273,11 +273,16 @@ sources, as provenance.
   differences in society (identity and groups, majorities and
   minorities, discrimination recognised and answered, conflict
   resolution), from Bulgaria's *Гражданско образование* Grade 11
-  student book (Педагог 6, Bulgarian, 2024, COMPLETE by image
-  read — its only in-hand copy is an assembled PDF preserved
-  from page images, staging deferred under the disk hold);
-  Grade 12 is UNREAD-pending under the disk hold, its level
-  sketched, not stocked. See `bulgaria/ABOUT.md` for the full
+  student book; then Level 4 — power, the economy and global
+  problems (society and power, Bulgaria's and the EU's
+  institutions, civic control and legitimacy, property and
+  contracts, the labour market, the public budget, sustainable
+  development, globalisation, migration and solidarity, the
+  Sustainable Development Goals), from the Grade 12 student
+  book (both Педагог 6, Bulgarian, 2024, COMPLETE by image
+  read — each an assembled PDF from the publisher's page
+  images, staged at exactly its recorded size). Bulgaria's
+  unread list is empty. See `bulgaria/ABOUT.md` for the full
   book list and the acceptance reckoning.
 - **Japan** — [`japan/`](japan/) · 30 lessons: Levels 1–3 —
   one six-year climb of the same four areas (self, others,

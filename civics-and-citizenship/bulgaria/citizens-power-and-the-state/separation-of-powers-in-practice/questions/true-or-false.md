@@ -1,0 +1,9 @@
+# Separation of Powers in Practice — true or false
+
+Say whether each statement is true or false, and be ready to say why.
+
+**1.** The legislative, executive and judicial powers are separated so that each limits the others, and every public problem has an owner — a person, local power or central power — who must take responsibility.
+**Answer: True**
+
+**2.** This lesson's teaching does not apply to a citizen's own home, school or community in Bulgaria.
+**Answer: False** — The lesson teaches the opposite: it is learned from life in Bulgaria and lived there.
