@@ -23,17 +23,28 @@ books filed — one six-year climb of the same four content
 areas (self, others, life and nature, society), restated at
 each band:
 
-1. **Level 1 — Looking at Myself** (5 lessons, in the title
-   `myself/`). The Grades 1–2 book's first content area
-   only, exactly as filed: tell us about yourself; a
-   regular and pleasant day; my own tasks done properly;
-   good things done willingly; an honest and cheerful
-   heart. **Book 1 stands as a PARTIAL read (a MEXT-chunk
-   read; the complete volume is in the UNREAD-pending
-   queue under the disk hold) — carried exactly as
-   filed.** The band's other three content areas are owed
-   from that complete volume and are not yet in the
-   course.
+1. **Level 1 — Myself, People, Life and Everyone**
+   (21 lessons, in the titles `myself/`, `others/`,
+   `cherishing-life/` and `groups-and-society/`). The
+   whole Grades 1–2 book: looking at myself (tell us
+   about yourself; a regular and pleasant day; my own
+   tasks done properly; good things done willingly; an
+   honest and cheerful heart); with people (pleasant
+   behaviour and greetings; kindness with a warm heart —
+   the Wolf on the Bridge; getting along with friends;
+   grateful to the people who help us); touching life
+   (cherish life; palms to the sun; kind to living things
+   — Peace the polar bear and Fabre; a fresh and open
+   heart); together with everyone (keeping promises and
+   rules — the Yellow Bench; the goodness of working;
+   being useful to my family; making school life fun;
+   feeling close to my hometown — the Gion Festival); and
+   the closing review (finding the good points — with
+   Hasegawa Machiko; getting along with everyone; learning
+   about other countries). **Book 1 stands COMPLETE: its
+   complete merged volume was recovered from the
+   mid-size-books-6 release and read in full in the
+   unread-queue phase, 2026-11-22.**
 2. **Level 2 — Raising Myself and Relating to Others**
    (9 lessons, in the titles `myself/`, `others/` and
    `groups-and-society/`). Raising myself (write about
@@ -94,17 +105,21 @@ Book entries are named in full in each lesson's
 `lesson/sources.md`. The set filed for this build — 3
 records / 3 distinct books; placements at
 `liqlearns-courses-work/expansion-civics-folder-2026-11-17/japan-placements.md`.
-Books 2–3 were recovered complete from the mid-size-books-6
-release under their path-based asset names after the
-GitHub tree route 404'd and the recorded MEXT source URLs
-returned HTML 404 pages; both are the collectors' merged
-complete volumes (98 two-page spreads each), read in full.
-Book 1 was read from its recorded MEXT source URL, which
-serves only the book's first chunk — its verdict stays
-PARTIAL for the file as read; the pushed merged copy was
-not fetched (disk hold). Fetched copies of Books 2–3 were
+All three books were recovered complete from the
+mid-size-books-6 release under their path-based asset
+names after the GitHub tree route 404'd and the recorded
+MEXT source URLs returned HTML 404 pages; all three are
+the collectors' merged complete volumes (Books 2–3: 98
+two-page spreads each; Book 1: 90 spreads), read in full.
+Book 1 was first read from its recorded MEXT source URL,
+which serves only the book's first chunk (its verdict
+stood PARTIAL for that file as read); its complete merged
+copy was recovered from the same release in the
+unread-queue phase, 2026-11-22 (36,770,856 bytes, SHA-256
+verified against the staging record), and read in full —
+verdict COMPLETE. Fetched copies of all three books were
 deleted after reading (recorded as pushed); Book 1's
-source copy is kept in scratch pending the hold lifting.
+original MEXT-chunk source copy is kept in scratch.
 
 - *わたしたちの道徳 小学校一・二年 (Watashitachi no
   Doutoku — "Our Morals", Elementary Grades 1–2)* —
@@ -113,20 +128,24 @@ source copy is kept in scratch pending the hold lifting.
   (student/teacher: STUDENT). Publisher: 文部科学省
   (Ministry of Education, Culture, Sports, Science and
   Technology — MEXT); year not printed in the file; ISBN
-  no ISBN printed. PDF pages: 27 (cover verified against
-  the record title — full cover spread with title, grades
-  and MEXT imprint). Subject as filed: Moral Education —
-  track: standalone. **Verdict: PARTIAL — the file as
-  held contains only the book's first content area
-  (printed pp. 4–50, "Looking at myself"); the remaining
-  content areas of the printed book are not in this
-  file.** Contents map: how to use the book printed
-  p. 4; "Tell us about yourself" p. 6; Content area 1
-  "Looking at myself" (自分を見つめて) pp. 8–50 with its
-  four value themes — (1) a regular, pleasant daily life
-  pp. 8–20; (2) doing your own tasks properly pp. 22–31;
-  (3) doing good things willingly pp. 32–42; (4) being
-  honest and cheerful pp. 44–50. **5 placements.**
+  no ISBN printed. PDF pages: 90 spreads (printed folios
+  to 176; the complete volume — cover-to-colophon, all
+  four content areas plus the closing review section, per
+  the staging record's own verification note). Subject
+  as filed: Moral Education — track: standalone.
+  **Verdict: COMPLETE** (recovered from the
+  mid-size-books-6 release, SHA-256 verified against the
+  staging record, read in full 2026-11-22; the complete
+  copy's folios match the first read's printed-page
+  citations exactly — no pagination shift). Contents
+  map: how to use the book printed p. 4; "Tell us about
+  yourself" p. 6; Content area 1 "Looking at myself"
+  (自分を見つめて) pp. 8–50; Content area 2 "With people"
+  (人とともに) pp. 52–87; Content area 3 "Touching life"
+  (いのちにふれて) pp. 88–115; Content area 4 "Together
+  with everyone" (みんなとともに) pp. 116–157; closing
+  review section pp. 158–176, ending with the source
+  list and colophon on p. 176. **21 placements.**
 - *わたしたちの道徳 小学校三・四年 (Watashitachi no
   Doutoku — "Our Morals", Elementary Grades 3–4)* —
   Title as printed: わたしたちの道徳 小学校三・四年
@@ -164,11 +183,11 @@ source copy is kept in scratch pending the hold lifting.
 
 ## Acceptance reckoning
 
-- **Pupil-taught from Japan's books:** all 30 lessons —
+- **Pupil-taught from Japan's books:** all 46 lessons —
   the Watashitachi no Doutoku student-book lessons of
-  Levels 1–3 — taught in **1 country (Japan)**. Level 1's
-  5 lessons stand on Book 1's PARTIAL footing, stated in
-  every one of their sources.
+  Levels 1–3 — taught in **1 country (Japan)**. All three
+  books stand COMPLETE, stated in every lesson's
+  sources.
 - **Teacher-guide / programme evidence only, counted
   nowhere:** no teacher guide or programme was filed for
   Japan — the category stands at **0 books, 0 lessons**,
@@ -180,27 +199,32 @@ source copy is kept in scratch pending the hold lifting.
 
 ## Honesty notes (course level)
 
-- **Book 1 PARTIAL, carried exactly as filed:** Japan's
-  Grades 1–2 complete volume stands as a PARTIAL read (a
-  MEXT-chunk read; the complete volume is in the
-  UNREAD-pending queue under the disk hold). The file as
-  read holds only the book's first content area (printed
-  pp. 4–50, "Looking at myself"). Level 1 stocks exactly
-  that area's 5 placements; the band's other three content
-  areas are **not yet in the course** — they are owed from
-  the complete pushed copy, which was not fetched under
-  the disk hold, and no lesson is built from them.
-- **UNREAD book named:** the complete merged volume of
-  Watashitachi no Doutoku, Grades 1–2 — UNREAD-pending
-  under the disk hold (see above). It is the only UNREAD
-  item filed for Japan. Books 2–3 were read in full.
-- **Recovery route, as filed:** Books 2–3 are the
+- **Book 1 COMPLETE, as now filed:** Japan's Grades 1–2
+  volume was first read as a PARTIAL (a MEXT-chunk read
+  holding only content area 1, printed pp. 4–50). In the
+  unread-queue phase (2026-11-22) the complete merged
+  volume was recovered from the mid-size-books-6 release
+  under its path-based asset name
+  (grade-01-gov-japan-moral-education-student-full-year.pdf,
+  36,770,856 bytes; SHA-256 matches the staging record
+  exactly), verified complete (90 spreads; cover spread
+  and the final spread at printed folio 176 with the
+  source list and MEXT colophon both rendered and seen),
+  and read in full. Its folios match the first read's
+  printed-page citations exactly — no pagination shift.
+  Level 1 now stocks all 21 of the book's placements.
+- **UNREAD list: empty.** No book filed for Japan is
+  unread or partial; all three volumes were read in
+  full.
+- **Recovery route, as filed:** all three books are the
   collectors' merged complete volumes, recovered from the
   mid-size-books-6 release under path-based asset names
   after the tree route 404'd and the recorded MEXT source
   URLs returned HTML 404 pages — recorded here so no
   reader mistakes the in-hand copies for direct MEXT
-  downloads.
+  downloads. Book 1's merged copy is the five MEXT chunks
+  recovered from the National Diet Library WARP archive's
+  2018 capture and merged, per the staging record.
 - **No year, no ISBN:** none of the three books prints a
   year or an ISBN in the files read; none is claimed
   anywhere in this course.
@@ -208,6 +232,10 @@ source copy is kept in scratch pending the hold lifting.
   "how to use the book" page (printed p. 4) and Books 2–3's
   closing source and reference lists are named in the
   contents maps above, not stocked as lessons.
-- No downloads were made for this build and nothing was
-  staged into phase3-staging; the course is built from
-  the placements file alone, under the disk hold.
+- The original build made no downloads and staged
+  nothing into phase3-staging (built from the placements
+  file alone, under the disk hold). The unread-queue
+  completion (2026-11-22) fetched only Book 1's complete
+  copy from the release asset named above; the book was
+  already secured on GitHub, so nothing was staged, and
+  the fetched read copy was deleted after the read.

@@ -6,4 +6,4 @@ Fill each blank with the lesson's own word.
 **Answer:** myself
 
 **2.** This lesson belongs to the level called ____.
-**Answer:** Level 1 — Looking at Myself
+**Answer:** Level 1 — Myself, People, Life and Everyone

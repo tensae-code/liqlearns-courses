@@ -18,20 +18,31 @@ this course comes from government textbooks — this country's
 own Moral Education books (Watashitachi no Doutoku) — except
 the **Tip boxes**: a tip in a box is from us, the people
 making LiqLearns. Tips are ours; the lessons are the books'.
-See ABOUT.md for the full book list, the Grades 1–2 PARTIAL
-label, the UNREAD complete volume, and the acceptance
-reckoning.
+See ABOUT.md for the full book list and the acceptance
+reckoning. All three books stand COMPLETE; Japan's
+unread/partial list is empty.
 
 ## The levels (the path, in order)
 
-1. **Looking at Myself** — the youngest child's first content
-   area: tell us about yourself; a regular and pleasant day;
-   my own tasks done properly; good things done willingly; an
-   honest and cheerful heart. 5 lessons, in the title
-   `myself/`. *(Book 1 as filed is PARTIAL — only this first
-   content area was in the file read; the band's other three
-   areas are owed from the complete volume, UNREAD-pending
-   under the disk hold — see ABOUT.md.)*
+1. **Myself, People, Life and Everyone** — the youngest
+   child's whole first book: looking at myself (tell us about
+   yourself; a regular and pleasant day; my own tasks done
+   properly; good things done willingly; an honest and
+   cheerful heart); with people (pleasant behaviour and
+   greetings; kindness with a warm heart; getting along with
+   friends; grateful to the people who help us); touching
+   life (cherish life; palms to the sun; kind to living
+   things; a fresh and open heart); together with everyone
+   (keeping promises and rules; the goodness of working;
+   being useful to my family; making school life fun; feeling
+   close to my hometown); and the closing review (finding the
+   good points; getting along with everyone; learning about
+   other countries). 21 lessons, in the titles `myself/` (6),
+   `others/` (5), `cherishing-life/` (4) and
+   `groups-and-society/` (6). *(Book 1 stands COMPLETE: the
+   complete merged volume was recovered from the
+   mid-size-books-6 release and read in full in the
+   unread-queue phase, 2026-11-22 — see ABOUT.md.)*
 2. **Raising Myself and Relating to Others** — the four areas
    widen: write about myself; think well and live with
    moderation; the road before me; I can do it (Takahashi
@@ -54,21 +65,17 @@ reckoning.
    titles `myself/` (6), `others/` (4), `cherishing-life/`
    (2) and `groups-and-society/` (4).
 
-**Totals: 30 lessons** (Level 1: 5 · Level 2: 9 · Level 3:
-16 — from three student books: Grades 3–4 and Grades 5–6
-COMPLETE; Grades 1–2 PARTIAL as filed, its complete volume
-UNREAD-pending under the disk hold; see ABOUT.md).
+**Totals: 46 lessons** (Level 1: 21 · Level 2: 9 · Level 3:
+16 — from three student books, all COMPLETE: Grades 1–2,
+Grades 3–4 and Grades 5–6; see ABOUT.md).
 
 ## Where the build stands
 
 - **Course frame — BUILT** (this CURRICULUM, TITLES.md,
   ABOUT.md, and the folder README entry).
-- **Levels 1–3 — BUILT**: 30 lessons, 300 questions; every
+- **Levels 1–3 — BUILT**: 46 lessons, 460 questions; every
   lesson stands on one of Japan's three Watashitachi no
-  Doutoku student books (MEXT, Japanese; Grades 3–4 and
-  Grades 5–6 COMPLETE; Grades 1–2 PARTIAL — a MEXT-chunk
-  read, its complete volume in the UNREAD-pending queue
-  under the disk hold). **The course is complete as far as
-  the books in hand reach:** the Grades 1–2 book's remaining
-  three content areas are not yet in the course, named
-  plainly in ABOUT.md, and no lesson is built from them.
+  Doutoku student books (MEXT, Japanese), all three read in
+  full and COMPLETE. **The course is complete:** every
+  content area of every book is in the course, and Japan's
+  unread/partial list is empty.
