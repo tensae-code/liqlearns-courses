@@ -284,22 +284,25 @@ sources, as provenance.
   images, staged at exactly its recorded size). Bulgaria's
   unread list is empty. See `bulgaria/ABOUT.md` for the full
   book list and the acceptance reckoning.
-- **Japan** — [`japan/`](japan/) · 30 lessons: Levels 1–3 —
+- **Japan** — [`japan/`](japan/) · 46 lessons: Levels 1–3 —
   one six-year climb of the same four areas (self, others,
-  life and nature, society): looking at myself (a regular
-  day, my own tasks, good things willingly, an honest
-  heart), then raising myself and relating to others
-  (moderation, Takahashi Naoko's small goals, sincerity,
-  the guide-dog family, loving my hometown, Koizumi
-  Yakumo), then polish myself, connect, cherish life and
-  engage with society (autonomy and responsibility, Edo
-  manners, one irreplaceable life, rights and duties,
-  Sakamoto Ryoma and the world's people), from Japan's
-  *Watashitachi no Doutoku* Moral Education student books
-  for Grades 1–2, 3–4 and 5–6 (MEXT, Japanese; Grades 3–4
-  and 5–6 COMPLETE; Grades 1–2 PARTIAL — a MEXT-chunk read,
-  its complete volume UNREAD-pending under the disk hold).
-  See `japan/ABOUT.md` for the full book list and the
+  life and nature, society): Level 1, "Myself, People,
+  Life and Everyone" (21 lessons) — looking at myself (a
+  regular day, my own tasks, good things willingly, an
+  honest heart), then Level 2 (9 lessons) — raising myself
+  and relating to others (moderation, Takahashi Naoko's
+  small goals, sincerity, the guide-dog family, loving my
+  hometown, Koizumi Yakumo), then Level 3 (16 lessons) —
+  polish myself, connect, cherish life and engage with
+  society (autonomy and responsibility, Edo manners, one
+  irreplaceable life, rights and duties, Sakamoto Ryoma
+  and the world's people), from Japan's *Watashitachi no
+  Doutoku* Moral Education student books for Grades 1–2,
+  3–4 and 5–6 (MEXT, Japanese, 46 placements, 46 lessons
+  — 3 books, all COMPLETE; the Grades 1–2 complete volume
+  was recovered from the mid-size-books-6 release and read
+  in full; Japan's unread/partial list is empty). See
+  `japan/ABOUT.md` for the full book list and the
   acceptance reckoning.
 - **Jordan** — [`jordan/`](jordan/) · 30 lessons: Levels
   1–5 — my society and my Jordanian identity first
@@ -1224,31 +1227,33 @@ sources, as provenance.
   records' own source URLs and staged, exactly as filed). See
   `mauritania/ABOUT.md` for the full book list and the
   acceptance reckoning.
-- **Laos** — [`laos/`](laos/) · 244 lessons: Levels
-  1–6 — myself, family and school first (the child's own
-  conduct, manners, friends and the flag), then community,
-  nation and world (neighbours, benefactors, traditions,
-  peace, the United Nations, the first rights), character
-  and relations re-founded for adolescents, rights and
-  duties named sphere by sphere (the child-rights
-  convention, the inviolable home, marriage, labour, the
-  law), the upper-secondary band of worldview, economy,
-  the state and its policies and law-and-living, closing
-  on the citizen's basic rights and the people's
-  democratic regime — from Laos's ຄຸນສົມບັດສຶກສາ
-  (Moral Education) and ສຶກສາພົນລະເມືອງ (Civic
-  Education) books for Grades 1–12 (Ministry of Education
-  / Ministry of Education and Sports, Research Institute
-  for Educational Sciences, Lao, 422 placements, 244
-  lessons — 24 books, all PARTIAL as filed: 10 student
-  books count in the acceptance reckoning and 14 teacher
-  guides stand as evidence only, with 87 lessons on guide
-  evidence alone at acceptance 0, labelled; six records
-  are UNREAD-pending under the disk hold — both Grade 8
-  books, the Grade 9 pupil book, and the Grade 1 and
-  Grade 5 pupil books named in ABOUT.md — and are not in
-  the course). See `laos/ABOUT.md` for the full book list
-  and the acceptance reckoning.
+- **Laos** — [`laos/`](laos/) · 263 lessons: Levels
+  1–6 (Level 1: 101 lessons; Level 2: 34; Level 3: 54;
+  Level 4: 29; Level 5: 41; Level 6: 4) — myself, family
+  and school first (the child's own conduct, manners,
+  friends and the flag), then community, nation and world
+  (neighbours, benefactors, traditions, peace, the United
+  Nations, the first rights), character and relations
+  re-founded for adolescents, rights and duties named
+  sphere by sphere (the child-rights convention, the
+  inviolable home, marriage, labour, the law), the
+  upper-secondary band of worldview, economy, the state
+  and its policies and law-and-living, closing on the
+  citizen's basic rights and the people's democratic
+  regime — from Laos's ຄຸນສົມບັດສຶກສາ (Moral
+  Education) and ສຶກສາພົນລະເມືອງ (Civic Education)
+  books for Grades 1–12 (Ministry of Education / Ministry
+  of Education and Sports, Research Institute for
+  Educational Sciences, Lao, 539 placements, 263 lessons
+  — 30 books, all PARTIAL as filed: 15 student books
+  count in the acceptance reckoning and 15 teacher guides
+  stand as evidence only, with 25 lessons on guide
+  evidence alone at acceptance 0, labelled; all six
+  formerly UNREAD-pending books are now read, their
+  verdicts PARTIAL at the siblings' depth — the Grade 8
+  gap is closed and the Grade 9 pupil book is read — and
+  the Laos unread queue is empty). See `laos/ABOUT.md`
+  for the full book list and the acceptance reckoning.
 - **Vietnam** — [`vietnam/`](vietnam/) · 159 lessons: Levels
   1–3 — ethics in primary school first (the body and its
   care, family love told as small acts, school rules,
