@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Barbados, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia, Moldova, Dominican Republic, Guyana, Cuba, Bahamas, Jamaica
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Barbados, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia, Moldova, Dominican Republic, Guyana, Cuba, Bahamas, Jamaica, Bolivia
 
 Every part traces to its book and page.
 
@@ -224,8 +224,8 @@ verification sweep.
 | Ordering the La Cegua story — retelling in sequence | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
 | A whole chapter on story writing: specimen stories, and stories built up from outlines | Pakistan, *English Grammar & Composition 9–10*, Chapter II, printed p.8 |
 
-**Acceptance count: taught in 42 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Moldova, Dominican Republic, Guyana, Cuba, Jamaica).** Jamaica joins with the Jamaica rows stocked below (stocked 2026-11-11 by the Jamaica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its retelling work — retelling and dramatising a favourite story, and retelling 'The Enormous Turnip' with then/later/in the end (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 43 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Moldova, Dominican Republic, Guyana, Cuba, Jamaica, Bolivia).** Bolivia joins with the narrative-structure row stocked below (stocked 2026-11-22 by the CATCH-UP-PLAN extension re-check). Jamaica joins with the Jamaica rows stocked below (stocked 2026-11-11 by the Jamaica expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its retelling work — retelling and dramatising a favourite story, and retelling 'The Enormous Turnip' with then/later/in the end (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -887,3 +887,15 @@ The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs �
 **Counting for this lesson: Jamaica is counted** — 4 of its rows here rest on pupil's books (the Literacy 1-2-3 readers named above); its remaining rows rest on NSC curriculum guides and are curriculum evidence, labelled as such in the table. The countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.
+
+## Bolivia added 2026-11-22 (CATCH-UP-PLAN extension re-check)
+
+The plan's extension item for this lesson — making-a-presentation's narrative-structure half (Bolivia Year 6, Topic 7.2) — stood stocked in presentation-skills but nowhere in this lesson. It is stocked here now, from the same filing evidence.
+
+**Book:** *Textos de Aprendizaje 2023–2024, Área Lengua Extranjera* (teacher compendium), Year 6 — Bolivia, Ministerio de Educación. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The narrative structure a talk may borrow when its topic is a story — scene, problem, climax, resolution — named inside the five presentation steps; stocked here as the retelling's four beats | Bolivia compendium, Year 6, Topic 7, item 2 “speech: prepare a dissertation”, student p.226 |
+
+Bolivia is new to this lesson: the countries line and the acceptance count above were updated together (42 → 43).

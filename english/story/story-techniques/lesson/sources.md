@@ -838,3 +838,15 @@ The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs �
 Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Jamaica row in this lesson rests on an NSC curriculum guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.
+
+## Malaysia — “On the Great Alkali Plain” stocked 2026-11-22
+
+Stocked from the Malaysia filing (english/books/malaysia.md, Form 4 section, FULLY READ + CITATION CHECK PASSED 2026-11-04) — the one Form 4 “Let's Read” extract that stood unstocked in every lesson.
+
+**Book:** *Full Blast! Plus 4* Student's Book — Malaysia, MM Publications; no year, ISBN or edition printed in the copy. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+
+| Lesson part | Where it comes from |
+|---|---|
+| “On the Great Alkali Plain” — a desert-survival story extract (a traveller finds an injured girl on a North American plain), with a note teaching the terms foreshadowing, cliffhanger and direct speech — plot summary only, never a transcription | Malaysia, *Full Blast! Plus 4*, Let's Read 4 (inside Module 8), printed pp.124–125 |
+
+Malaysia already stood in this lesson (Close-Up story-writing rows above), so the countries line and the acceptance count above are unchanged.

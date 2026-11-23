@@ -35,6 +35,17 @@ The hat is hers.**"
    themselves, because the thing is already known — they
    carry owner AND thing in one word.
 
+**Two more rungs of the name-tag.** When the owner is
+plural, the apostrophe moves after the s: "the **girls'**
+desk," "the **boys'** books" (Uzbekistan's and South
+Africa's books drill 's against s' as one system). And
+for things — where 's sounds wrong — English switches
+to **of**: "the **wheels of** the car," "the **door of**
+the room," set against "Kate's scarf" and "the
+**teachers'** office" in Iran's book, where the whole
+'s / s' / of system is taught as one See Also table.
+People and named owners take 's or s'; things take of.
+
 ## Sub lesson 2 — The Alone Forms
 
 **The two families, whole.** Partner forms (hold a noun):

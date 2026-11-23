@@ -530,3 +530,143 @@ shape): (A) Levels 5+7 additions; (B) Levels 2/3/8 additions;
 (F) Levels 31–33; (G) Levels 34–36; (H) Levels 37–39;
 (I) Levels 40–41; (J) Levels 42–44. CURRICULUM.md and
 TITLES.md are updated in the same commits as each batch.
+
+## Extension stock re-check — 2026-11-22
+
+Each of the 10 extension-stock items above was re-checked
+one by one against its target lesson's lesson files
+(lesson.md read, not only grepped) and sources.md
+(provenance rows read in context — a keyword hit in
+unrelated prose does not count). Verdicts:
+
+1. **Frequency adverbs → `adverbs` — STOCKED.**
+   Lesson: Sub lesson 5 teaches the frequency ladder
+   (always / usually / sometimes / never, Egypt's book).
+   Sources: Egypt, Primary 5 Term 1, Unit 1, p.12
+   (percentage ladder) and China, Grade 5 Volume 2,
+   Unit 1, pp.7–8 (frequency set in dialogues) — the
+   plan's Egypt/China stock, both present.
+2. **for/since detail, been to/gone to, first-time /
+   best-ever frames → `the-present-perfect` — STOCKED**
+   (provenance already stocked; lesson text completed
+   2026-11-22). Sources already carried: Vietnam,
+   Tiếng Anh 12, Unit 4, pp.48–59 ("the first/second
+   time … and the best/worst/only … (ever) structures");
+   Kazakhstan, Full Blast! Grade 6, Module 2 (been
+   against gone; for/since); Iraq, Grade 7 Activity
+   Book, Unit 5 (been to / gone to ground). The lesson
+   already taught for/since and been to; a Been-or-gone
+   contrast and the first-time / best-ever frames were
+   added to Sub lesson 3 on 2026-11-22 so the lesson
+   text itself teaches the whole item.
+3. **Future forms compared → `going-to-later` —
+   STOCKED** (lesson text completed 2026-11-22).
+   Lesson Sub lesson 3 already compared will / going
+   to / scheduled present simple; the present
+   continuous for fixed arrangements was added there
+   on 2026-11-22. Sources already carried the full
+   four-form comparison (e.g. Jordan, Team Together
+   Grade 7, Unit 1; Greece, Think Teen! Grade 7, Unit 7;
+   Nepal, Grade 9, Unit 1).
+4. **Possessive 's / s' / of system → `mine-and-yours`
+   — STOCKED** (lesson text completed 2026-11-22).
+   Lesson already taught singular 's as the name-tag
+   rung; plural s' and the of-construction were added
+   to Sub lesson 1 on 2026-11-22. Sources already
+   carried Iran, Prospect 3, Lesson 2, See Also, p.36
+   ('s set against of: Kate's scarf, teachers' office,
+   the wheels of the car, the door of the room),
+   Uzbekistan's girls'/boys' rows and South Africa's
+   plural-possessive rows.
+5. **Dummy it, empty-subject there, emphatic do,
+   ellipsis → `building-a-sentence` — NOT STOCKED in
+   part; stocked 2026-11-22.** Already stocked: the
+   empty-subject half, as a sources row (India,
+   Honeysuckle Class 6, A Game of Chance teacher
+   notes, printed pp.96–98 — "there" and "it" used as
+   empty subjects). NOT stocked anywhere in the
+   lesson: emphatic do and ellipsis (0 rows, 0 lesson
+   text). Stocked on 2026-11-22: new Sub lesson 4 in
+   the lesson (door-holder subjects, emphatic do,
+   ellipsis) plus a dated sources section with three
+   India rows — Honeysuckle Class 6, Unit 1 (ellipsis
+   rule and rewriting), Honeysuckle Class 6, Unit 8
+   (sentences rewritten beginning with There), and
+   Honeycomb Class 7, Unit 7 (DO FOR EMPHASIS:
+   "I did study", "He does read his books"). India
+   already stood in the lesson, so its countries line
+   and acceptance count are unchanged.
+6. **Pronoun case, determiners system, noun
+   types/phrases → `pronouns` / `nouns` — STOCKED.**
+   Sources, read in context: Ethiopia, Grade 11,
+   Unit 9, grammar 9E (pronoun case in full:
+   nominative against accusative) in `pronouns`;
+   Ghana, NaCCA JHS curriculum, Basic 8–9 (noun
+   phrases used accurately) and Sierra Leone, SSS 2,
+   Term 2, Lesson 52 (Noun Phrases and Adjectival
+   Phrases) in `nouns`; noun types in `nouns` (South
+   Africa HL Grade 6: common/proper known, collective
+   and abstract introduced; Ethiopia Grade 4 collective
+   nouns); determiners in `nouns` (quantity determiners
+   as named sets — South Sudan Secondary 1, Unit 5;
+   Rwanda Pupil's Book 3, Unit 10). The two lessons'
+   own texts teach the core sets (person words and
+   whose-forms; person/place/thing and special names);
+   the extension systems stand in their provenance.
+7. **Ordinals, fractions, dates → `numbers` /
+   `telling-the-time` — STOCKED** (fractions lesson
+   text added 2026-11-22). Lesson: `numbers` Sub
+   lesson 5 teaches ordinals 1st–100th as a working
+   date system; `telling-the-time` sources carry
+   Eritrea, Grade 3, Unit 6 (saying the date).
+   Fractions stood only as provenance (Armenia,
+   English 7 Appendix, pp.152–153 — cardinal, ordinal
+   and fractional numbers tabulated; Sudan, SMILE
+   Book 2, Unit 7 — there is/are + fractions); a
+   Fractions sub lesson (a half, a quarter, a third,
+   three quarters) was added to `numbers` on
+   2026-11-22, built on the ordinal system the lesson
+   already teaches.
+8. **Tense contrasts as drills → the tense lessons —
+   STOCKED.** `the-present-perfect` Sub lesson 3
+   teaches the bright line (present perfect against
+   past simple, held side by side in Libya's Work
+   Book); `the-past-continuous` teaches the tense
+   against the past simple (interrupted scene) and
+   side by side with itself (simultaneous scenes).
+   Sources carry contrast rows throughout (e.g.
+   Kazakhstan, Excel Grade 6, Module 3 — present
+   perfect in full paradigm, then set against the
+   past simple; Cambodia, Grade 8, Unit 32 — the two
+   contrasted on timelines) — the Egypt/India-named
+   contrast stock is inside this wider stocked set.
+9. **Making-a-presentation's narrative-structure half
+   → `telling-a-story-back` — NOT STOCKED; stocked
+   2026-11-22.** The narrative structure (scene,
+   problem, climax, resolution; Bolivia compendium,
+   Year 6, Topic 7, item 2, student p.226) stood only
+   in `presentation-skills`, its source lesson — no
+   row and no lesson text in `telling-a-story-back`,
+   and Bolivia was absent from that lesson's
+   countries. Stocked on 2026-11-22: new Sub lesson 5
+   in the lesson (the four beats as the retelling's
+   load-bearing stones), a Bolivia sources section
+   with the provenance row, and the countries line
+   and acceptance count updated together (42 → 43,
+   Bolivia added).
+10. **Cursive handwriting's letter-formation half →
+    Level 1/2 stock — STOCKED.** `joined-up-writing`
+    (Level 2) Sub lesson 3 teaches Bangladesh's
+    letter-formation climb in full: cursive capitals
+    A–Z (Class 4, Unit 9, printed p.19), cursive small
+    letters a–p then q–z (Units 10–11, printed
+    pp.20–23), days of the week in cursive (Unit 12,
+    printed pp.24–25), with Class 5's
+    rewrite-in-cursive exercises as the assessed style
+    — the plan's Bangladesh stock, present in lesson
+    text and sources.
+
+Result: 8 of 10 items already stocked; 2 items
+(5 in part, 9) had a real shortfall and were stocked
+on 2026-11-22; 4 items (2, 3, 4, 7) had provenance
+stocked but thin lesson text, completed on 2026-11-22.

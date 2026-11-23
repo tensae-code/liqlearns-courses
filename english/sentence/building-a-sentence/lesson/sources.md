@@ -1017,3 +1017,19 @@ The 2026-11-10 expansion read read Jamaica's in-hand English set from the PDFs �
 Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Jamaica row in this lesson rests on an NSC curriculum guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/jamaica-placements.md.
+
+## India — extension stock stocked 2026-11-22 (CATCH-UP-PLAN re-check)
+
+The plan's extension item for this lesson (dummy *it*, empty-subject *there*, emphatic *do*, ellipsis — India; Sierra Leone stock) was re-checked item by item. The empty-subject half already stood in the table above (Honeysuckle, A Game of Chance teacher notes, printed pp.96–98); emphatic *do* and ellipsis stood nowhere in this lesson and are stocked now, with the *there*-rewriting models beside them, from the India filing (english/books/india.md, FULLY READ + CITATION CHECK PASSED 2026-10-26).
+
+**Book:** Honeysuckle — Textbook in English for Class VI — India, NCERT, first edition February 2006, ISBN 81-7450-485-0 (2020-21 printing). Filed in english/books/india.md.
+
+**Book:** Honeycomb — Textbook in English for Class VII — India, NCERT, first edition February 2007, ISBN 81-7450-676-4 (2020-21 printing). Filed in english/books/india.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ellipsis taught — “When we speak, we often leave out words that can easily be guessed. We do not do this when we write, unless we are trying to write as we speak” — with incomplete sentences (“more and more books,” “too difficult,” “got up late, missed the bus”) rewritten carefully in full | India — Honeysuckle (Class 6), Unit 1 (Who Did Patrick's Homework?), Writing (as filed) |
+| Sentences rewritten beginning with *There* — “I can do nothing to help you” → “There is nothing I can do to help you” — *there* as empty subject, worked as rewriting, beside the teacher-note point already stocked above | India — Honeysuckle (Class 6), Unit 8 (A Game of Chance), Working with Language (as filed) |
+| DO FOR EMPHASIS — “What did happen?” — emphatic utterances (I did study, I did go there, He does read his books) repeated back without the emphasis, with disagreement added | India — Honeycomb (Class 7), Unit 7 (Dad and the Cat and the Tree), Speaking (as filed) |
+
+India already stood in this lesson, so the countries line and the acceptance count above are unchanged.

@@ -116,6 +116,21 @@ Afghanistan's Grade 7 book lists the ordinals whole, **1st
 to 100th** — first all the way to **one hundredth** (Unit 15,
 Lesson 3, printed pp.147–148).
 
+## Sub lesson 6 — Fractions: Parts of One Whole
+
+**Fractions.** A fraction names a part of one whole:
+**a half** (1/2), **a quarter** (1/4), **a third** (1/3),
+**three quarters** (3/4). The top number counts the parts
+you take; the bottom number counts the equal parts the
+whole was cut into — and the bottom number wears an
+ordinal: third, quarter/fourth, fifth, sixth. Armenia's
+Grade 7 book tables the three number families side by
+side in its appendix — cardinal, ordinal and **fractional
+numbers** (printed pp.152–153) — because a fraction is
+built from both: a counting word over an ordinal word.
+You already own the clock's two: half past and quarter
+past in Telling the time are these same words at work.
+
 ## Say it to your companion
 Point at things and ask: "How many chairs are there?" Your
 companion counts aloud, touching each one, and answers whole:

@@ -69,6 +69,38 @@ all the same words as "The cow eats grass" and says the
 opposite. Order is not decoration on the thought; in English,
 order IS the thought's shape.
 
+## Sub lesson 4 — Subjects That Hold the Door, Emphatic Do, and Words Left Out
+
+**The door-holders.** Some sentences open with a subject
+that names nothing: **it** in "It is raining," **there**
+in "There is a book on the table." India's Class 6 book
+names them in its teacher notes — "**there**" and "**it**
+used as empty subjects — and its pupils rewrite sentences
+to begin with There: "I can do nothing to help you" →
+"**There is** nothing I can do to help you." The real
+subject arrives after the verb; it and there only hold
+its seat. (Each has a fuller home of its own later in
+this course — the dummy-subject *it* and introductory
+*there* lessons.)
+
+**Emphatic do.** To insist, English lends the sentence a
+stressed **do / does / did** before the plain verb:
+"I **did** study." "He **does** read his books." "What
+**did** happen?" India's Class 7 book teaches it as
+speaking work — emphatic utterances said, then repeated
+back without the emphasis, so the ear hears exactly what
+the do adds: truth, insisted on.
+
+**Ellipsis — words left out.** In speech we drop words
+the listener can guess. India's Class 6 book states the
+rule: "When we speak, we often leave out words that can
+easily be guessed. We do not do this when we write,
+unless we are trying to write as we speak" — and sets
+incomplete spoken sentences ("got up late, missed the
+bus") to be written out carefully in full. The dropped
+words are the ellipsis; the full sentence underneath
+must still stand whole by this lesson's test.
+
 ## Say it to your companion
 Play builder and judge. The builder takes a WHO from the
 air (the teacher, my sister, the tiger) and a DOES WHAT

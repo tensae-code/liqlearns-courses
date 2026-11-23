@@ -78,6 +78,24 @@ mislead, but the solution must be buildable from the real
 clues alone — a mystery whose answer arrives from nowhere
 is not clever, it is broken.
 
+**The cliffhanger, worked on a survival extract.**
+Malaysia's Form 4 book (*Full Blast! Plus 4*) sets a
+desert-survival extract, "On the Great Alkali Plain"
+(pp.124–125): a traveller crossing a North American plain
+finds an injured girl — and the extract's own note names
+the three tools it works by: **foreshadowing** (the hint
+planted early that the later danger makes bloom — Sub
+lesson 1's move, here met inside a real text),
+**cliffhanger** (the telling cut at the moment of greatest
+danger, so the reader is left hanging on the answer —
+suspense stretched past the page's end), and **direct
+speech** (the characters' own spoken words, carrying the
+scene instead of a narrator's report — STEAL's Speech
+window, opened on purpose). One short extract, three
+named tools: when you retell it, tell only the plot —
+who, where, what is at stake — and name which tool did
+the work at each turn.
+
 ## Sub lesson 3 — Character and Endings
 **Characterisation by STEAL.** Indonesia's Grade 11 book
 does its character work on a heard legend with the

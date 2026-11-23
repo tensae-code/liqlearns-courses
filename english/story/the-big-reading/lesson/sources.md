@@ -854,6 +854,7 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Reading extract: Sherlock Holmes, “The Adventure of the Mazarin Stone” | Malaysia, Form 4 *Full Blast Plus 4*, Module 2, printed p.28 |
 | Let's Read 2: *Oliver Twist* | Malaysia, Form 4 *Full Blast Plus 4*, Module 4, printed p.64 |
 | Let's Read 3: “The Princess of Mount Ledang” — a folk tale (the seventh demand is a silver bowl filled with the blood of the king's only son) — plot summary only | Malaysia, Form 4 *Full Blast Plus 4*, Module 6, printed p.94 |
+| Let's Read 4: “On the Great Alkali Plain” — a desert-survival story extract (a traveller finds an injured girl on a North American plain), with a note teaching foreshadowing, cliffhanger and direct speech — plot summary only (stocked 2026-11-22) | Malaysia, Form 4 *Full Blast! Plus 4*, Module 8, printed pp.124–125 |
 | Listening text: the legend of Robin Hood | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 2, printed p.24 |
 | Crime story: “Whodunnit?” (a man accused by his boss protests his innocence from a cell) — plot summary only | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 6, printed p.70 |
 

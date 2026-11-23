@@ -92,6 +92,26 @@ time — present perfect) → "Yes, I **went** there last
 year." (a definite time — past simple). One conversation,
 both tenses, each in its own seat.
 
+**Been or gone?** The participle of *go* splits in two,
+and the split carries meaning: **been to** — went and
+came back (the visit is complete, the person is here to
+tell it: "Have you ever **been to** France?"); **gone
+to** — went and is still away ("He has **gone to** the
+beach" — he is not here now). Kazakhstan's and Iraq's
+books drill the pair against each other, beside **for**
+(a length: for six years) against **since** (a starting
+point: since third grade) — the for/since detail of
+knot 3, worked as a contrast.
+
+**First-time and best-ever frames.** Vietnam's Grade 12
+book (Unit 4) reviews this tense with two frames built
+on it: "This is the **first time** I have …" (the
+experience is new, counted from now) and the
+superlative frame "the **best** … I have **ever** …"
+(the whole of your life up to now is the field the best
+stands in). Both frames only work because this tense's
+stretch reaches now — a past-simple verb breaks them.
+
 **Asking.** The partner steps to the front: **Has** Gwen
 **cooked** the chicken? — Yes, she **has**. **Have** they
 **washed** the car? — No, they **haven't**. (Libya, p.33 —

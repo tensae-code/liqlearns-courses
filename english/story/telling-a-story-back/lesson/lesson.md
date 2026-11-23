@@ -80,6 +80,21 @@ retelling, yours or another's, by holding it against the
 original the way Bangladesh's lesson ends: compared, item
 by item.
 
+## Sub lesson 5 — The Narrative Structure Under the Telling
+**The shape a retelling walks.** Bolivia's Year 6 book,
+in its presentation steps, names the structure a talk
+may borrow when its topic is a story — the **narrative
+structure: scene, problem, climax, resolution**. A
+retelling walks the same four beats in the same order:
+the **scene** (who, where — the furniture set out), the
+**problem** (what goes wrong or is wanted), the
+**climax** (the highest, sharpest moment the problem
+builds to), and the **resolution** (how it lands). When
+a telling feels lost, check the beats: a dropped problem
+leaves the climax standing on air, and a resolution with
+no climax before it lands flat. The beats are the
+load-bearing stones, named as a set.
+
 ## Say it to your companion
 The chain, for real. Sit in a small circle. The first
 teller gives the story's opening happening; each next

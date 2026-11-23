@@ -63,7 +63,14 @@ timetable futures in the plain present: "The bus leaves
 early tomorrow." This lesson plants going to whole; will
 has its own deeper home later. Just keep the border: decided
 before → going to; decided now → will; printed on a
-timetable → plain present.
+timetable → plain present. The fourth neighbour completes
+the comparison the books draw: the **present continuous**
+for a future **arrangement** already fixed with other
+people — "We **are meeting** Ana at five" (Jordan's and
+Greece's books teach the future as this one system:
+going to for plans and intentions, present continuous
+for fixed arrangements, will for predictions and
+on-the-spot decisions, present simple for timetables).
 
 **The clue words.** Later announces itself like the past
 did: **tomorrow, tonight, next (week/year), soon, later**.
