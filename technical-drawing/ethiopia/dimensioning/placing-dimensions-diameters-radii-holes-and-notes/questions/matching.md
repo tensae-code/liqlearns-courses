@@ -1,0 +1,11 @@
+# Placing Dimensions — Diameters, Radii, Holes and Notes — matching
+
+Match each item to this lesson.
+
+**1.** The lesson's one thing — match to: (a) this lesson, (b) another lesson.
+**Answer:** (a) this lesson.
+
+**2.** The part "Diameters, radii and cylinders" — match to: (a) a different course, (b) this lesson.
+**Answer:** (b) this lesson.
+
+Difficulty: 1 = recognition.
