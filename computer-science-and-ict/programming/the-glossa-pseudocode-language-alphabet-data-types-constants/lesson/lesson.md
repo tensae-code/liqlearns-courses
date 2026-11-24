@@ -8,13 +8,13 @@ Greece's national-exam programming course does not begin in Python or Java. It b
 
 **ΓΛΩΣΣΑ** is the **pseudocode language of Greece's school programming course** (Anaptyxi Efarmogon — AEPP): algorithms are written in it in a fixed program structure — **ΠΡΟΓΡΑΜΜΑ** (program) with its name, declarations, then commands between **ΑΡΧΗ** and **ΤΕΛΟΣ_ΠΡΟΓΡΑΜΜΑΤΟΣ**. Like every language it has an **alphabet**: the characters its words may be built from — Greek and Latin letters, the digits, and the special symbols of its commands and operators. A name (identifier) is built from letters, digits and the underscore, and must begin with a letter.
 
-[Picture — The language and its alphabet]
+In your mind's eye: the language and its alphabet.
 
 ## Sub lesson 2 — Data types, constants and variables
 
 ΓΛΩΣΣΑ holds four kinds of value: **ΑΚΕΡΑΙΕΣ** (integer), **ΠΡΑΓΜΑΤΙΚΕΣ** (real), **ΧΑΡΑΚΤΗΡΕΣ** (character/string) and **ΛΟΓΙΚΕΣ** (logical — ΑΛΗΘΗΣ/ΨΕΥΔΗΣ, true/false). A **constant (ΣΤΑΘΕΡΑ)** is a value named once in the declarations and never changed in the run; a **variable (ΜΕΤΑΒΛΗΤΗ)** is a named place whose value commands may change. Declaring each name with its type before use is the language's discipline: the reader — and the examiner — always knows what kind of thing every name holds.
 
-[Picture — Data types, constants and variables]
+In your mind's eye: data types, constants and variables.
 
 ## Say it to your companion
 

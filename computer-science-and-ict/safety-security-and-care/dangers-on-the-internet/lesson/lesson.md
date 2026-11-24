@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Какие есть опасности при работе в Интернете?** — covering: 1.3 Какие есть опасности при работе в Интернете?. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Какие есть опасности при работе в Интернете?]
+In your mind's eye: какие есть опасности при работе в Интернете?.
 
 ## Sub lesson 2 — Какие есть опасности при работе в Интернете?
 
 This part of Kazakhstan's book teaches **Какие есть опасности при работе в Интернете?** — covering: 5.3 Какие есть опасности при работе в Интернете?. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Какие есть опасности при работе в Интернете?]
+In your mind's eye: какие есть опасности при работе в Интернете?.
 
 ## Say it to your companion
 

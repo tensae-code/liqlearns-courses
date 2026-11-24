@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Creating a Google+ account — covering:
 
 This part of South Sudan's book teaches **Creating a Google+ account** — covering: Creating a Google+ account. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating a Google+ account. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — creating a Google+ account is part of that chain..
 
-[Picture — Creating a Google+ account]
+In your mind's eye: creating a Google+ account.
 
 ## Sub lesson 2 — Doing it — Creating a Google+ account in practice
 
 This part of South Sudan's book teaches **Doing it — Creating a Google+ account in practice** — covering: Creating a Google+ account. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating a Google+ account. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Creating a Google+ account in practice is part of that chain..
 
-[Picture — Doing it — Creating a Google+ account in practice]
+In your mind's eye: doing it — Creating a Google+ account in practice.
 
 ## Say it to your companion
 

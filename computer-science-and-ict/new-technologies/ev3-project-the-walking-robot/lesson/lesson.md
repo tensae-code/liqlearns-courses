@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Project work "The Walking Robot"** — covering: §14: Project work "The Walking Robot". The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Project work "The Walking Robot"]
+In your mind's eye: project work "The Walking Robot".
 
 ## Sub lesson 2 — Жүретін робот. Жобалық жұмыс
 
 This part of Kazakhstan's book teaches **Жүретін робот. Жобалық жұмыс** — covering: §14 Жүретін робот. Жобалық жұмыс. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Жүретін робот. Жобалық жұмыс]
+In your mind's eye: жүретін робот. Жобалық жұмыс.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A paper map of your town must choose, once and forever: roads, or contours, or b
 
 A digital map is a **stack of layers** — the French word in the book is **calques**, like transparent sheets laid one over another. At the bottom, a **base layer**: a drawn street map, or relief shading, or satellite photography — France’s **IGN** (the national geographic institute) publishes its maps and aerial photos through **Géoportail**, one base among others. Above the base lie **thematic layers**: cycle paths, bus lines, flood zones, hiking trails, each drawn on its own sheet. The reader **toggles** them — your cyclist switches on cycle paths and relief, off motorways and parking. And because the machine assembles the view on demand, the map can **zoom** from a continent to a doorstep and carry more data than any printed sheet: the layers hold everything; the screen shows the chosen slice.
 
-[Picture — a map exploded into four transparent sheets — base streets, relief, cycle paths, satellite photo — with tick boxes beside each]
+In your mind's eye: a map exploded into four transparent sheets — base streets, relief, cycle paths, satellite photo. With tick boxes beside each.
 
 ## Sub lesson 2 — Making and enriching your own map
 
 Two names turn the reader into an author. **OpenStreetMap** (OSM) is the world map drawn by its users — volunteers surveying their own streets, tracing imagery, correcting errors — free for anyone to use, the base under countless services. **uMap** builds on it: in the browser, you create your own map over the OSM base, **place points** with names and descriptions, **draw lines and areas**, organise them in your own layers — and **import data files**: the SNT book imports a **KML** file of an aircraft’s tracked route and lays the flight over the map, exactly as a GPS track from the NMEA lesson could be laid. The finished map is shared by a link: a class’s survey of its neighbourhood, a club’s rides, a voyage’s track — cartography as something you publish, not only something you read.
 
-[Picture — a uMap screen: an OpenStreetMap base, three placed points with a description open on one, and an imported curved track crossing the map]
+In your mind's eye: a uMap screen. An OpenStreetMap base, three placed points with a description open on one, and an imported curved track crossing the map.
 
 ## Say it to your companion
 

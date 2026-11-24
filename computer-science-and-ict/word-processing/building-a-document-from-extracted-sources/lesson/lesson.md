@@ -8,13 +8,13 @@ Cuba's Grade 5 word-processing is a research workflow: the document is not typed
 
 The work starts outside the document. **Sources** — Cuban educational software, encyclopedias and **EcuRed**, Cuba's own encyclopedia — are searched for the information the document needs. From each source the pupil **extracts**: reads, selects the part that serves, and **copies it out** — a text, an image, a symbol — instead of retyping it. Extraction is a choosing skill: take what the document needs, leave the rest, and keep the source's meaning whole.
 
-[Picture — Finding and extracting information]
+In your mind's eye: finding and extracting information.
 
 ## Sub lesson 2 — Building the document from what was extracted
 
 The extracted parts are **assembled in the word processor**: texts and images are placed in an order that makes sense, arranged on the page and completed with the pupil's own writing — a title, links between the parts, a closing. The result is a **new document built from sources**, the Grade 6 book's *Creación de documentos con información gráfica y textual* — documents made of graphic and textual information gathered, not invented. Saving and opening the built document follows the same file rules as every document in this course.
 
-[Picture — Building the document from what was extracted]
+In your mind's eye: building the document from what was extracted.
 
 ## Say it to your companion
 

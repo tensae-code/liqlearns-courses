@@ -8,13 +8,13 @@ Unit 2 §2.3.5 Log in an email inbox and §2.3.6 An appropriate use of email (si
 
 This part of Pakistan (Punjab)'s book teaches **Log in an email inbox and §2.3.6 An appropriate use of email** — covering: Unit 2 §2.3.5 Log in an email inbox and §2.3.6 An appropriate use of email (signing out after usage). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Log in an email inbox and §2.3.6 An appropriate use of email]
+In your mind's eye: log in an email inbox and §2.3.6 An appropriate use of email.
 
 ## Sub lesson 2 — Doing it — Logging in and Signing Out of Your Inbox in practice
 
 **Doing it — Logging in and Signing Out of Your Inbox in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Logging in and Signing Out of Your Inbox in practice]
+In your mind's eye: doing it — Logging in and Signing Out of Your Inbox in practice.
 
 ## Say it to your companion
 

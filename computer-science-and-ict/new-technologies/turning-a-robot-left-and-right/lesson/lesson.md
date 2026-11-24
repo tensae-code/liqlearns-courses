@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **The labyrinth** — covering: §16: The labyrinth — robot turns of 90 and 180 degrees. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — The labyrinth]
+In your mind's eye: the labyrinth.
 
 ## Sub lesson 2 — Exiting the labyrinth
 
 This part of Kazakhstan's book teaches **Exiting the labyrinth** — covering: §17: Exiting the labyrinth — a program of straight runs and turns. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Exiting the labyrinth]
+In your mind's eye: exiting the labyrinth.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 5 §5.1.3 Introduction to Probability (favourable over total outcomes; the 
 
 This part of Pakistan (Punjab)'s book teaches **Introduction to Probability** — covering: Unit 5 §5.1.3 Introduction to Probability (favourable over total outcomes; the coin flip; cricket and weather examples). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Introduction to Probability]
+In your mind's eye: introduction to Probability.
 
 ## Sub lesson 2 — Doing it — Probability First Ideas in practice
 
 **Doing it — Probability First Ideas in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Probability First Ideas in practice]
+In your mind's eye: doing it — Probability First Ideas in practice.
 
 ## Say it to your companion
 

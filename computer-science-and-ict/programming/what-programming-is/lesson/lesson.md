@@ -8,13 +8,13 @@ A computer does nothing on its own — every action it takes was written by some
 
 A **program** is a set of **instructions** written for a computer to carry out **in order**. The machine does exactly what the instructions say — no more, no less — so the instructions must be **complete, precise and in the right order**. A missing or vague step is not understood and forgiven; it is an error. Programming is the work of producing those instructions.
 
-[Picture — instructions a machine can follow]
+In your mind's eye: instructions a machine can follow.
 
 ## Sub lesson 2 — From problem to program
 
 Programming starts before any code: first the **problem** is understood, then a **solution method (algorithm)** is worked out, then the algorithm is written in a **programming language**, and finally the program is **run and checked**. North Macedonia's course takes this road into C++: the thinking steps come first in the book, and the language follows them.
 
-[Picture — from problem to program]
+In your mind's eye: from problem to program.
 
 ## Say it to your companion
 

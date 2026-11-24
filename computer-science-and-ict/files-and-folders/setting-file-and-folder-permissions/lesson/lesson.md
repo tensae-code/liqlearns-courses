@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Setting permissions for directories — 
 
 This part of South Sudan's book teaches **Setting permissions for directories** — covering: Setting permissions for directories; Understanding File and Folder Permissions. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Setting permissions for directories; Understanding File and Folder Permissions. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — setting permissions for directories is part of that chain..
 
-[Picture — Setting permissions for directories]
+In your mind's eye: setting permissions for directories.
 
 ## Sub lesson 2 — Setting permissions for directories
 
 This part of South Sudan's book teaches **Setting permissions for directories** — covering: Setting permissions for directories. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Setting permissions for directories. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — setting permissions for directories is part of that chain..
 
-[Picture — Setting permissions for directories]
+In your mind's eye: setting permissions for directories.
 
 ## Say it to your companion
 

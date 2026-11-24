@@ -8,13 +8,13 @@ Unit 5 §5.2.3 Sample Programs (sum and average of five numbers; product of five
 
 This part of Pakistan (Punjab)'s book teaches **Sample Programs** — covering: Unit 5 §5.2.3 Sample Programs (sum and average of five numbers; product of five numbers; larger of two numbers; area of a rectangle; area of a circle; Celsius to Fahrenheit; Fahrenheit to Celsius). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Sample Programs]
+In your mind's eye: sample Programs.
 
 ## Sub lesson 2 — Doing it — GW BASIC Sample Programs Seven Worked Programs in practice
 
 **Doing it — GW BASIC Sample Programs Seven Worked Programs in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — GW BASIC Sample Programs Seven Worked Programs in practice]
+In your mind's eye: doing it — GW BASIC Sample Programs Seven Worked Programs in practice.
 
 ## Say it to your companion
 

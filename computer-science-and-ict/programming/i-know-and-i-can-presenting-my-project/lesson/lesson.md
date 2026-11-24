@@ -8,7 +8,7 @@ Stand beside your best project and imagine the class asking: "How does this part
 
 Grade 4 closes with **"Знам и мога. Представям проект" (I know and I can: I present my project)** — the mastery check in its final form: not a test page, but a **presentation**. The learner **presents a finished project** — the computer game or the Journey through Bulgaria — running it for an audience, **explaining how it works** part by part (control, variables, decisions, synchronising, backdrops), and **answering questions** about it. Presenting is a stricter proof than building: a part you merely copied cannot be explained, so the presentation shows honestly what is truly known. The lesson teaches the presenting craft itself: start from the plan, run the project slowly enough to follow, name the skills inside it, and finish by saying what you would improve next.
 
-[Picture — a picture of a picture of a learner standing beside a screen running their journey project, pointing at one part of it while classmates watch, with speech marks showing the explanation]
+In your mind's eye: a picture of a learner standing beside a screen running their journey project, pointing at one part of it while classmates watch, with speech marks showing the explanation.
 
 ## Say it to your companion
 

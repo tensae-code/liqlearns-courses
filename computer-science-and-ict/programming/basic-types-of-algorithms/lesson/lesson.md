@@ -8,13 +8,13 @@ Before Grade 11 writes more algorithms, it sorts the ones it has. A named type i
 
 The theory chapter sorts algorithms into their **basic types by method**: **sequential** algorithms that step straight through; **iterative (repetitive)** algorithms that loop until a condition releases them; **recursive** algorithms that call themselves on a smaller piece; and algorithms built on **selection**, branching by condition. Naming the type of a printed algorithm — loop or recursion, straight or branching — is the chapter's first analysis skill, practised before efficiency is ever counted.
 
-[Picture — Sorting algorithms by their working]
+In your mind's eye: sorting algorithms by their working.
 
 ## Sub lesson 2 — Sorting algorithms by their task
 
 Beside method stands **task**: algorithms that **search** (find or report absent), algorithms that **sort** (put in order), algorithms that **calculate** (produce a value — sums, roots, conversions), and algorithms that **decide** (answer yes/no about their input, as the computational-problems lesson's decision kind does). A real program is usually several types woven together — a calculation inside a loop inside a search — and the types give the reader the words to say so.
 
-[Picture — Sorting algorithms by their task]
+In your mind's eye: sorting algorithms by their task.
 
 ## Say it to your companion
 

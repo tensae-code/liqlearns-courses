@@ -8,13 +8,13 @@ colours in CSS — setting the colour of text and the background colour of eleme
 
 CSS colours text with the **color** property: `p { color: blue; }` recolours every paragraph. A colour can be named in several ways — by a **colour name** (red, darkgreen), by **hexadecimal** (`#FF0000`), or by **rgb()** values (`rgb(255, 0, 0)`) that mix red, green and blue light from 0 to 255. Vietnam's Grade 12 book gives colour its own lesson because colour is the first design decision a page makes — and the first that can go wrong, when text stops being readable against its ground.
 
-[Picture — Colour for text — the color property]
+In your mind's eye: colour for text — the color property.
 
 ## Sub lesson 2 — Backgrounds — the ground the page stands on
 
 The **background-color** property colours the ground behind an element — a heading's band, a box, or the whole page through `body`. Text colour and background colour are chosen **together**: the pair must keep **contrast** high enough to read comfortably, for every visitor, including those who see colours weakly. The book's discipline is the designer's: few colours, used consistently, each earning its place — decoration that fights the reading loses.
 
-[Picture — Backgrounds — the ground the page stands on]
+In your mind's eye: backgrounds — the ground the page stands on.
 
 ## Say it to your companion
 

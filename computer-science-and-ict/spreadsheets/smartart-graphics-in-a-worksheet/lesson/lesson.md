@@ -8,13 +8,13 @@ Some ideas are shapes, not sentences: steps, parts, a cycle. In this lesson you 
 
 **SmartArt** builds a **diagram from your text**: choose a graphic that matches your idea — a process, a cycle, a hierarchy — or a **visual list** that gives each point its own shape, or a picture graphic where each item carries a **captioned picture**. Type the text into the shapes (or the text pane beside them) and the graphic arranges itself.
 
-[Picture — inserting smartart — diagrams, lists and pictures]
+In your mind's eye: inserting smartart — diagrams, lists and pictures.
 
 ## Sub lesson 2 — Changing SmartArt colours and styles
 
 The whole graphic is restyled as one object: change its **colours** to a new colour set and its **style** to a new effect, and every shape updates together — the diagram keeps its arrangement while its look changes. That is SmartArt's bargain: the structure is automatic, so your work is the words and the choice of look.
 
-[Picture — changing smartart colours and styles]
+In your mind's eye: changing smartart colours and styles.
 
 ## Say it to your companion
 

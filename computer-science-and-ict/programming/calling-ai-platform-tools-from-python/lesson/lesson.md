@@ -8,13 +8,13 @@ You could never write a program that understands spoken Chinese from nothing —
 
 An **AI platform** is a service that gathers trained AI abilities — speech recognition, language understanding, image recognition, question answering — and offers each as a **tool** other programs can use. The program does not contain the AI; it **calls** it through the tool's interface: it packages a **request** (the text to understand, the sound to recognise, plus the key that identifies the caller), sends it to the platform, and receives a **response** carrying the tool's result, which the program then uses like any other value. The pattern is the client's pattern from the email and chat lessons, one level up: your program is the client; the platform's tool is the server; the intelligence lives on the far side of the call.
 
-[Picture — a small student program at a counter, handing a sealed request envelope across to a vast machine room labelled AI PLATFORM, and receiving a small answer card back]
+In your mind's eye: a small student program at a counter, handing a sealed request envelope across to a vast machine room labelled AI PLATFORM, and receiving a small answer card back.
 
 ## Sub lesson 2 — Building a WeChat chatbot
 
 The book's practical joins the calls into a working thing: a **chatbot** on WeChat, the messaging app. A Python library for WeChat (the book uses **itchat**) lets the program log in to an account, notice each arriving message, and send replies. The program's loop is small: receive a friend's message → call the platform's intelligent tool with the message text → take the tool's answer → reply with it. To the friend, the account now converses; in truth a few lines of Python are carrying messages back and forth between the friend and the platform's AI. The lesson the practical teaches is the volume's deepest: a programmer's power is not only writing intelligence, but **composing** — joining ready tools with a little code of your own into something new.
 
-[Picture — a phone chat: a friend types a question, the message hops to a small Python program, across to a glowing platform, and back as an answer appearing in the chat]
+In your mind's eye: a phone chat. A friend types a question, the message hops to a small Python program, across to a glowing platform, and back as an answer appearing in the chat.
 
 ## Say it to your companion
 

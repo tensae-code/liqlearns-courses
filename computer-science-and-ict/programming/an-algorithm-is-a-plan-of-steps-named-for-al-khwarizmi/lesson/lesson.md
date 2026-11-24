@@ -8,13 +8,13 @@ Halfway through Grade 5, Palestine stops and names the thing the pupils have bee
 
 In **Extracting coal from the mine** the book defines it plainly: the **algorithm** is **the program’s plan of steps**, and the word is **named for al-Khwarizmi**, the scholar whose name gave the world the word. Every Minecraft puzzle solved so far was an algorithm first and blocks second.
 
-[Picture — the plan gets its name — extracting coal]
+In your mind's eye: the plan gets its name — extracting coal.
 
 ## Sub lesson 2 — Writing the algorithm in words — crossing the lava
 
 In **Crossing the molten lava** the pupil writes the **algorithm in words beside each block**, so plan and program can be checked against each other line by line. Two rules hold the lesson together: **order matters** — steps out of order fail — and the best algorithm reaches the goal in the **fewest steps**.
 
-[Picture — writing the algorithm in words — crossing the lava]
+In your mind's eye: writing the algorithm in words — crossing the lava.
 
 ## Say it to your companion
 

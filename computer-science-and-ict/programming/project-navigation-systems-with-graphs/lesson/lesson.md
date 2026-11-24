@@ -10,7 +10,7 @@ A navigation graph is not the whole map. Its **nodes** are the crossings and the
 
 Then each edge gets its **weight**, and here the modelling choice matters: weight by **length** and the system finds the shortest route; weight by **driving time** and it finds the fastest — and the two answers genuinely differ. One-way streets become **directed edges**. Turn bans and closed roads delete or forbid edges. A real system re-weights its edges with live traffic, which is why your route home changes at rush hour while the map stays the same.
 
-[Picture — navigation-graph-model: a small street map on the left dissolving into its graph on the right — junctions as nodes, road pieces as edges with minute-weights]
+In your mind's eye: navigation-graph-model: a small street map on the left dissolving into its graph on the right — junctions as nodes, road pieces as edges with minute-weights.
 
 ## Step 2 — Answer the request by hand
 

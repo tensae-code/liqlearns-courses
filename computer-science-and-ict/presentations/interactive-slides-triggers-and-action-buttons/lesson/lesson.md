@@ -8,13 +8,13 @@ interactive slides — action buttons and triggers that make a presentation resp
 
 An **action button** is a shape on a slide that **does something when clicked** during the show: jump to another slide, return home, open a link, play a sound. PowerPoint ships ready-made action shapes (home, forward, back), and any picture or shape can be given an **action** of its own. Vietnam's Applied specialist book uses them for its tourism-fair product: the presentation stops being a lecture and becomes a stand the visitor drives.
 
-[Picture — Action buttons — slides you can press]
+In your mind's eye: action buttons — slides you can press.
 
 ## Sub lesson 2 — Triggers — this object answers that click
 
 A **trigger** ties an animation to a click on a **chosen object**: click the question and its answer appears; click the wrong choice in the book's **interactive game** and it shakes or vanishes, click the right one and it celebrates. Building one runs: add the animation, set it to **start on click of** the chosen object, and test in the show — triggers only exist while presenting. The design rule: the audience must always know **what can be clicked** — interactivity they cannot see is decoration.
 
-[Picture — Triggers — this object answers that click]
+In your mind's eye: triggers — this object answers that click.
 
 ## Say it to your companion
 

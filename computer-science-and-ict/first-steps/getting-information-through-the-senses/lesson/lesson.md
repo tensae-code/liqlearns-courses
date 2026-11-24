@@ -18,7 +18,7 @@ Your **tongue** takes in tastes. With your tongue you know sweet, sour and salty
 
 Your **skin** takes in touch. With your skin you feel hot and cold, soft and hard, smooth and rough.
 
-[Picture — a child with five small pictures around them: an eye and a red apple, an ear and a bell, a nose and a flower, a tongue and a sweet, a hand touching a soft ball]
+In your mind's eye: a child with five small pictures around them. An eye and a red apple, an ear and a bell, a nose and a flower, a tongue and a sweet, a hand touching a soft ball.
 
 Five senses, five ways of receiving information. Each sense organ is a receiver — and together they are how information from the whole world first reaches you.
 

@@ -8,13 +8,13 @@ An octal number arrives — 47₈ — and you need its decimal worth. Malaysia's
 
 Write the octal **place values** over the digits: from the right, 1, 8, 64, 512 — powers of eight. **Multiply** each digit by the place it stands in. For 47₈: the 4 stands in the eights place, so 4×8 = 32; the 7 stands in the ones place, so 7×1 = 7. Every digit is handled the same way, biggest place first or smallest first — the products are what matter.
 
-[Picture — Each digit times its place]
+In your mind's eye: each digit times its place.
 
 ## Sub lesson 2 — Add the products — the decimal answer
 
 **Add** all the products: 32 + 7 = **39**, so 47₈ = 39 in decimal. The method never changes with size: 125₈ = 1×64 + 2×8 + 5×1 = 64 + 16 + 5 = 85. Malaysia pairs this with the forward journey (divide by 8) so the two check each other: convert your decimal answer back by dividing, and the octal number you started with must return.
 
-[Picture — Add the products — the decimal answer]
+In your mind's eye: add the products — the decimal answer.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Fifty test scores need fifty variables — or one array. This lesson replaces th
 
 An **array** declares a **type**, one **name** and a **size**: int scores[5] makes five integer **elements** in a row, stored side by side in memory. Every element is a full variable of the array's type — it can be assigned, read and computed with — and the array's gift is that the **position** selecting the element can itself be a variable, which no list of separate names can do.
 
-[Picture — one name, many elements]
+In your mind's eye: one name, many elements.
 
 ## Sub lesson 2 — Why arrays change what programs can do
 
 Because position can be computed, a **loop** can visit every element with the same code: read all, print all, total all. Without arrays, each of fifty scores would need its own lines of code; with an array, five lines serve five elements or five thousand. That is why the book gives arrays a long run of sections — the array is the first **data structure** a C++ programmer meets.
 
-[Picture — why arrays change what programs can do]
+In your mind's eye: why arrays change what programs can do.
 
 ## Say it to your companion
 

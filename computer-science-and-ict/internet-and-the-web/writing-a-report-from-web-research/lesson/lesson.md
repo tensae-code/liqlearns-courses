@@ -8,13 +8,13 @@ Your teacher asks for a report on a topic you know nothing about — yet. The fa
 
 The report begins with **research**: using **browsers and search engines** — the previous lesson's tools — to find information on the topic from more than one page. What is gathered is **raw material**: notes of the facts found, kept with the pages they came from, ready to be judged and arranged.
 
-[Picture — Gathering information from the web]
+In your mind's eye: gathering information from the web.
 
 ## Sub lesson 2 — Preparing the report
 
 Preparing the report means **arranging what was found into a written report of your own**: the topic opened, the facts set out in an order that serves the reader, and the report finished as a document that stands by itself. The web supplied the information; the report — its order, its wording, its sense — is the writer's own work.
 
-[Picture — Preparing the report]
+In your mind's eye: preparing the report.
 
 ## Say it to your companion
 

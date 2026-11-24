@@ -8,13 +8,13 @@ Two programs that have never met can still swap data — if they agree on a shap
 
 Programs store data in their own internal shapes, which other programs cannot read. A **data exchange format** is an agreed public shape for handing data over: both sides know how the data is laid out, so the receiver can rebuild it. The simplest is **plain text**; a table travels as **CSV** (values separated by commas, one row per line). Armenia's Grade 6 book teaches 'general concepts of data exchange formats' as its own lesson (§17) — the concept before the tools.
 
-[Picture — Why exchange needs a format — agreement before sending]
+In your mind's eye: why exchange needs a format — agreement before sending.
 
 ## Sub lesson 2 — Structured formats — XML and JSON, and choosing between them
 
 Data with inner structure travels in **XML** (data wrapped in named tags, like <name>…</name>) or **JSON** (data written as name–value pairs and lists, borrowed from JavaScript). Both are text, so humans can read and debug them; both need the two sides to agree on the names. Choosing a format asks: Is it a flat table (CSV), a structured document (XML), or program data (JSON)? Is it readable by people? Will the receiver's program accept it?
 
-[Picture — Structured formats — XML and JSON, and choosing between them]
+In your mind's eye: structured formats — XML and JSON, and choosing between them.
 
 ## Say it to your companion
 

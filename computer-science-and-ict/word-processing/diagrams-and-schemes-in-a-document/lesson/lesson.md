@@ -8,13 +8,13 @@ Cuba's Grade 7 word-processor chapter ends its run of skills with schemes: after
 
 A **scheme** draws **how a thing is organised**: the whole at the top or the start, its **parts in boxes** under or after it, and **connecting lines or arrows** showing what belongs to what and what follows what. A scheme of a lesson shows its units and sub-units; a scheme of a story shows its parts in order. The scheme is not decoration — it is the structure itself, made visible, and it is read by following the connections, not line by line.
 
-[Picture — Schemes — a structure drawn]
+In your mind's eye: schemes — a structure drawn.
 
 ## Sub lesson 2 — Building a scheme in the word processor
 
 The word processor builds a scheme from its **drawing shapes**: choose a shape for each box, place the boxes in their levels, write the part's name inside each, and join them with **connector lines or arrows**. Order matters: draw the whole first, then its parts under it, then the connections — a box added before its place is known makes tangles. Cuba teaches schemes inside the word processor, not a drawing program, because the scheme belongs inside the document it explains.
 
-[Picture — Building a scheme in the word processor]
+In your mind's eye: building a scheme in the word processor.
 
 ## Say it to your companion
 

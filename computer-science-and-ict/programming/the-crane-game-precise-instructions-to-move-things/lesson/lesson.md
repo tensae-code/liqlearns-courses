@@ -8,13 +8,13 @@ Stretch out your arm like a crane. Your partner may move it only by your spoken 
 
 In the **crane game (jeu de la grue)**, one pupil is the crane: eyes perhaps closed, arm as jib, hand as claw, moving only as instructed. The other is the operator, whose instructions must do all the seeing and thinking. The crane teaches the machine's first law in the body: **a machine does only what it is told** — it does not guess what you meant, forgive a vague word, or see the target you forgot to mention.
 
-[Picture — The crane obeys literally]
+In your mind's eye: the crane obeys literally.
 
 ## Sub lesson 2 — Precision is a learnable craft
 
 Failed pickups are the curriculum: “go down” fails where “down ten centimetres” lands; “turn” fails where “turn left” lands. The class repairs each failure by naming its vagueness and rewriting the instruction — direction, amount, order — until the crane succeeds. That repair loop, played at age six, is debugging before the word: the program was wrong, never the crane.
 
-[Picture — Precision is a learnable craft]
+In your mind's eye: precision is a learnable craft.
 
 ## Say it to your companion
 

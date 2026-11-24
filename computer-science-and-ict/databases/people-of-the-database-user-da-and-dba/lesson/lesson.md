@@ -8,13 +8,13 @@ Chapter 2 §2.7 The User, §2.8 The Data Administrator and §2.9 The Database Ad
 
 This part of Pakistan (Punjab)'s book teaches **The User, §2.8 The Data Administrator and §2.9 The Database Administrator** — covering: Chapter 2 §2.7 The User, §2.8 The Data Administrator and §2.9 The Database Administrator (their distinct responsibilities). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — The User, §2.8 The Data Administrator and §2.9 The Database Administrator]
+In your mind's eye: the User, §2.8 The Data Administrator and §2.9 The Database Administrator.
 
 ## Sub lesson 2 — Doing it — People of the Database User Da and Dba in practice
 
 **Doing it — People of the Database User Da and Dba in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — People of the Database User Da and Dba in practice]
+In your mind's eye: doing it — People of the Database User Da and Dba in practice.
 
 ## Say it to your companion
 

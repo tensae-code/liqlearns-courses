@@ -8,13 +8,13 @@ The shop needs a price for every kilo and a total at the end. Where does Scratch
 
 The variable blocks are five in Grade 9’s count: **create** a named variable, **set** it, **change** it by an amount, **show and hide** it — and a variable **keeps the last value** in memory until set again. Values can be **constants, expressions, or other variables**. Grade 8 adds **ask-and-answer**: the program asks, the keyboard’s typed answer becomes the value — the square-area and rectangle-perimeter programs run on it. Variables can be **deleted and renamed**.
 
-[Picture — creating, setting, changing — and asking the user]
+In your mind's eye: creating, setting, changing — and asking the user.
 
 ## Sub lesson 2 — Variables at work — the fruit shop’s arithmetic
 
 Grade 9’s fruit seller runs its shop on variables: **a variable for each price per kilo and each quantity**, totals **multiplied out and added into one grand total**. The discipline is in the names: variables are given **meaningful names**, so the program can be read like the shop’s own notebook. Seller and buyer sprites greet each other by broadcast while the arithmetic runs.
 
-[Picture — variables at work — the fruit shop’s arithmetic]
+In your mind's eye: variables at work — the fruit shop’s arithmetic.
 
 ## Say it to your companion
 

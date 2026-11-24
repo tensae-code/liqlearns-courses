@@ -8,7 +8,7 @@ Name a game you could build from your toolbox: you control a sprite, a score gro
 
 The book's longest Grade 4 work is **"Създаване на компютърна игра" (Creating a computer game)**, inside its **"На училище" (At School)** theme, spread over Урок 25–28 in two stocked parts (printed pp. 44 and 48). A game joins the year's skills in one build: **sprites controlled by the player**, **variables** holding score or lives, **comparisons and logical operators** deciding what happens next, **branching** on those decisions, and **synchronised sprites** acting together. The arc is worked the project way: plan the game (what the player does, what is scored, what ends the game), build it in parts, **test each part as a player would** — pressing, missing, breaking it on purpose — improve it, and finish with a game someone else can play and understand. Both parts stock this one lesson: part 2 continues the same game build, it is not a second game.
 
-[Picture — a picture of a picture of a school-themed Scratch game mid-build — a controlled sprite, a score variable showing, a branching decision drawn as a fork — with a tester's checklist beside the stage]
+In your mind's eye: a picture of a school-themed Scratch game mid-build — a controlled sprite, a score variable showing, a branching decision drawn as a fork. With a tester's checklist beside the stage.
 
 ## Say it to your companion
 

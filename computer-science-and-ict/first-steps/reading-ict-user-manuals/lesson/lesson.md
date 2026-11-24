@@ -8,13 +8,13 @@ A new ICT tool is in front of you — a phone, a printer, a computer part. It do
 
 A **user manual** is the instruction book that comes with an ICT tool. The people who made the tool wrote it to teach the person who will use it: what the tool is, what each part is called, how to set it up, how to do each job with it, how to keep safe while using it, and what to do when something goes wrong. A manual is not a story to read from the first page to the last. It is a **place to find answers**: you go to the part that matches your question, follow it, and close the book again. Uganda's book makes this a doing activity — Activity 1.9 — because the skill is in the using: find the tool's manual, find the right part of it, and do what it says.
 
-[Picture — a picture of an ICT user manual open beside the tool it belongs to, its cover showing the tool's name and picture]
+In your mind's eye: an ICT user manual open beside the tool it belongs to, its cover showing the tool's name and picture.
 
 ## Finding your answer and following it
 
 Work a manual the same way every time. **First, name your question** in plain words: 'How do I connect this?' or 'Why did it stop?' **Second, find the place**: use the contents list at the front to find the chapter or heading for that job; many manuals also have an index at the back, and a manual on a screen can be searched by word. **Third, follow the steps in order** — manual steps are written in the order they must be done, and skipping a step is the commonest reason a job fails. **Fourth, obey the warnings**: the parts marked as warnings or cautions are there because someone could be hurt or the tool damaged; read them before you touch, not after. **Last, keep the manual with the tool** — a manual stored far away helps nobody on the day it is needed. A learner who can do this owns every new tool that arrives, because the tool arrives with its own teacher.
 
-[Picture — a picture of a learner using a manual's contents page with a finger, finding the heading for the job they want to do, with the tool waiting beside the book]
+In your mind's eye: a learner using a manual's contents page with a finger, finding the heading for the job they want to do, with the tool waiting beside the book.
 
 ## Say it to your companion
 

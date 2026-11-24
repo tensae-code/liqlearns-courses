@@ -8,13 +8,13 @@ Type one letter on the keyboard. The computer never saw a letter — it received
 
 A variable of the **char** type holds exactly **one character**: a letter, a digit, a punctuation mark or a space. Inside the computer the character is stored as a **code number**, and a coding table says which number belongs to which character. In **ASCII**, the classic table, the Latin letters, digits and common marks have fixed codes; **national codings** extend the idea so the letters of other alphabets — including the Belarusian and Russian letters the book's readers type — also have codes. Because characters have numbers, they can be compared: a character is 'greater' when its code is greater, which is what puts characters into alphabetical order.
 
-[Picture — one big letter A in a box labelled char, with an arrow down to its code number in a coding table]
+In your mind's eye: one big letter A in a box labelled char, with an arrow down to its code number in a coding table.
 
 ## Sub lesson 2 — Procedures and functions for characters
 
 PascalABC gives ready **procedures and functions** for character variables, so a program does not have to work with raw codes by hand. They answer questions like: what is the character for this code, what is the code of this character, is this character a letter or a digit, and what is the same letter in the other case — capital for small, small for capital. The rule for using them is the rule for all such tools: give the function a character (or a code), and it hands back the answer as a value the program can store, print or compare.
 
-[Picture — a two-column coding table — character on the left, code number on the right — with Latin and Belarusian letters in the rows]
+In your mind's eye: a two-column coding table — character on the left, code number on the right. With Latin and Belarusian letters in the rows.
 
 ## Say it to your companion
 

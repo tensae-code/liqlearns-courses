@@ -8,13 +8,13 @@ Walk across wet sand and look back: every step is written behind you. Now do the
 
 Some traces are **deliberate**: the photo you post, the comment you sign, the profile you fill. Others are **recorded without a thought**: the times you connected, the places your device reported, the pages you lingered on, the searches you typed and deleted. Together they form your **digital footprint (empreinte numérique)** — a trail that describes you to anyone who can read it, including people you will never meet.
 
-[Picture — Traces you leave on purpose — and traces you don't]
+In your mind's eye: traces you leave on purpose — and traces you don't.
 
 ## Sub lesson 2 — Living with a footprint
 
 A footprint cannot be switched off — connected life leaves traces the way walking leaves prints — but it can be **walked carefully**: share less by default, check who a service shares with, keep private things off public ground, and remember that hyperconnected life multiplies traces across every device and account. The older pupils' scenario adds the mirror question: what does your footprint say about you to a stranger, an employer, a future self?
 
-[Picture — Living with a footprint]
+In your mind's eye: living with a footprint.
 
 ## Say it to your companion
 

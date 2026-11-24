@@ -8,13 +8,13 @@ Storing is only half a database's promise — the other half is getting the righ
 
 **Information retrieval** is getting **stored information back out** of a system to answer a need: a name looked up, a record found, a list drawn. Retrieval works because storage was **organised** — records in fields, filed in a known order or index — so the system can go to the right place instead of reading everything. Fiji's pairing is the point: Unit 3 stores in one section and retrieves in the next, because a store you cannot retrieve from is a hole, not a database.
 
-[Picture — Retrieval — asking the store a question]
+In your mind's eye: retrieval — asking the store a question.
 
 ## Sub lesson 2 — How a retrieval is asked — and judged
 
 A retrieval is asked as a **request in the system's terms**: the field to search, the value to find, the conditions to meet. Its quality is judged two ways — did it return **everything that matches** (nothing wanted missing), and **only what matches** (nothing unwanted mixed in)? A school retrieval shows both: 'all Year 11 pupils in Suva' must bring every such pupil and no Year 12 visitor. Fast, complete and exact — that is retrieval doing the job storage promised.
 
-[Picture — How a retrieval is asked — and judged]
+In your mind's eye: how a retrieval is asked — and judged.
 
 ## Say it to your companion
 

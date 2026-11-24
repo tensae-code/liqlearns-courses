@@ -8,13 +8,13 @@ Text was the first world; pictures are the second. Mongolia's Grade 11 graphics 
 
 The **GraphicsWindow** is Small Basic's drawing object: open it and the program gains a canvas. Every point of the canvas has **coordinates**: **x**, the distance rightward from the left edge, and **y**, the distance **downward** from the top edge — the origin (0, 0) sits at the **top-left** corner, and y grows downwards, the screen's way, not the maths graph's way. Every drawing command in the next lessons is an order given in these coordinates: a shape is its points, named by x and y.
 
-[Picture — The GraphicsWindow and its coordinates]
+In your mind's eye: the GraphicsWindow and its coordinates.
 
 ## Sub lesson 2 — Window properties — shaping the canvas
 
 Before drawing, the program sets the window's **properties**: its **Width** and **Height** in pixels, its **Title** shown in the title bar, and its **BackgroundColor**. Properties are read and written like variables of the window — `GraphicsWindow.Width = 600` — so the canvas itself is part of the program's design: the draughtsman chooses the paper before the picture. Mongolia's order is deliberate: canvas and coordinates first, shapes second — no drawing command can be understood until the grid it lands on is.
 
-[Picture — Window properties — shaping the canvas]
+In your mind's eye: window properties — shaping the canvas.
 
 ## Say it to your companion
 

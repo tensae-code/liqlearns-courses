@@ -8,13 +8,13 @@ The fruit seller needs rows of apples, oranges and bananas — not three sprites
 
 The block at the lesson’s heart is **“create a copy of myself”**: run it, and the sprite has a **clone — a copy made while the program runs**, not in the editor. The original’s scripts make the copies; the copies fill the stage where the program sends them.
 
-[Picture — create a copy of myself]
+In your mind's eye: create a copy of myself.
 
 ## Sub lesson 2 — The fruit seller — rows stocked by clones
 
 The build is **the fruit seller**: **rows of fruit shown by clone blocks** — the seller’s stock is a loop of copying and placing, one sprite becoming a stall. The same lesson’s shop arithmetic runs beside it in the variables lesson: clones stock the stall, variables price it.
 
-[Picture — the fruit seller — rows stocked by clones]
+In your mind's eye: the fruit seller — rows stocked by clones.
 
 ## Say it to your companion
 

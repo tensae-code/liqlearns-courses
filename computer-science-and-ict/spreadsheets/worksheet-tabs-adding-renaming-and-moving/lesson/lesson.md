@@ -8,7 +8,7 @@ Open a workbook — or picture one. Along the bottom of the Excel window runs a 
 
 A workbook is one file holding several **worksheets**. You see them through the **worksheet tabs** — the labelled strips along the bottom of the window. In the Excel of this book, a new workbook starts with **three** worksheets: **Sheet1**, **Sheet2** and **Sheet3**.
 
-[Picture — the bottom of an Excel window, with the worksheet tab row and the Insert Worksheet button labelled]
+In your mind's eye: the bottom of an Excel window, with the worksheet tab row and the Insert Worksheet button labelled.
 
 Click a tab, and that worksheet comes to the front: its grid fills the window, ready to work on. The other sheets do not change; they wait behind their tabs. Only one sheet is in front at a time.
 

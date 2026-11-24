@@ -8,13 +8,13 @@ Papua New Guinea's Grade 9 guide closes its Communication Technology strand by l
 
 An **emerging technology** is a **new technology still spreading into use**. It does not stay new: it becomes everyday, or it disappears. As it spreads it can **replace older ways of doing the same thing**, and its impacts show first in **how people work and communicate**. Studying a technology's evolution shows how it grew and what it changed.
 
-[Picture — How emerging technologies evolve]
+In your mind's eye: how emerging technologies evolve.
 
 ## Sub lesson 2 — Impact on society and environment — a music case study
 
 The same technology can bring **changes in jobs and the skills needed** and **new waste and energy use from devices** — good and bad effects together. The guide's **case study is music**: recording and digital sharing changed how music is made and how it reaches listeners. A case study uses one real example, studied in detail, to show the whole pattern.
 
-[Picture — Impact on society and environment — a music case study]
+In your mind's eye: impact on society and environment — a music case study.
 
 ## Say it to your companion
 

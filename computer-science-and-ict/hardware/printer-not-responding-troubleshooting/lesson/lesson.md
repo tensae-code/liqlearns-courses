@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Printer not responding — covering: Pri
 
 This part of South Sudan's book teaches **Printer not responding** — covering: Printer not responding. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Printer not responding. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — printer not responding is part of that chain..
 
-[Picture — Printer not responding]
+In your mind's eye: printer not responding.
 
 ## Sub lesson 2 — Doing it — Printer not responding in practice
 
 This part of South Sudan's book teaches **Doing it — Printer not responding in practice** — covering: Printer not responding. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Printer not responding. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Printer not responding in practice is part of that chain..
 
-[Picture — Doing it — Printer not responding in practice]
+In your mind's eye: doing it — Printer not responding in practice.
 
 ## Say it to your companion
 

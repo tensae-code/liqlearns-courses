@@ -8,7 +8,7 @@ Two sprites must act at one moment — one finishes speaking, the other must ent
 
 A **broadcast** sends a named message out to the whole project: the broadcasting script calls the message's name and carries on (or waits, with the wait form). Any script, on any sprite, topped by **when I receive** that same message starts at that moment — one message can wake many scripts on many sprites at once, like a shouted word a whole class answers. Messages must match exactly: a receiver waiting on a different name hears nothing. The book files this as advanced for a reason — messages replace visible structure with signals: a whole maze game can be **run by messages instead of backdrop changes**, each message announcing what has happened ('level won', 'caught', 'game over') and the right scripts answering each. That is looser and more powerful than backdrop control, and easier to get tangled — which is exactly why it comes last, as a project tip for growers.
 
-[Picture — a picture of one sprite broadcasting a named message across the stage, with sound-wave rings carrying it to three other sprites whose when-I-receive scripts light up]
+In your mind's eye: one sprite broadcasting a named message across the stage, with sound-wave rings carrying it to three other sprites whose when-I-receive scripts light up.
 
 ## Say it to your companion
 

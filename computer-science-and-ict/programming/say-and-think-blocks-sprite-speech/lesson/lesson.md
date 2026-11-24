@@ -8,7 +8,7 @@ Say "Hello!" out loud — that is speech everyone hears. Now think the word "Hel
 
 A sprite that only moves is half a character. The book now gives it a voice and a mind: **say blocks** put words in a speech bubble above the sprite, for as long as you set or until changed; **think blocks** put words in a thought bubble — the sprite's silent thoughts, which the audience reads but the other characters "do not hear". The lesson also teaches **entering text**: the words inside the block are yours to type, change and correct, so the sprite says exactly the sentence the story needs. Choosing say or think is a storytelling decision: what the world hears, and what only we know.
 
-[Picture — a picture of a picture of two Scratch sprites: one with a speech bubble saying a typed sentence, one with a cloud thought bubble, and the say and think blocks beside them]
+In your mind's eye: a picture of two Scratch sprites. One with a speech bubble saying a typed sentence, one with a cloud thought bubble, and the say and think blocks beside them.
 
 ## Say it to your companion
 

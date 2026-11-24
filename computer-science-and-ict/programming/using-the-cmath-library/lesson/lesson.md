@@ -8,13 +8,13 @@ You do not have to build a square-root machine before you may use one. This less
 
 Library functions arrive through a **header**: `#include <cmath>` at the top makes them available. A call looks like any function call — **sqrt(81)** has the value **9** wherever it is written, so it can be stored, printed or built into a bigger expression. The functions work on decimal (double) values and return doubles.
 
-[Picture — including and calling]
+In your mind's eye: including and calling.
 
 ## Sub lesson 2 — The working set
 
 The book's working set: **sqrt(x)** square root; **pow(x, y)** x raised to the power y; **abs / fabs** absolute value; **floor** and **ceil** rounding down and up; **round** to nearest; and the trigonometric family (sin, cos, tan — in **radians**). Using the library instead of hand-writing these is the modular habit applied: tested once by the library's makers, reused by everyone.
 
-[Picture — the working set]
+In your mind's eye: the working set.
 
 ## Say it to your companion
 

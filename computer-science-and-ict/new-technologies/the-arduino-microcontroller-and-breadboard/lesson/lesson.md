@@ -8,13 +8,13 @@ The micro:bit came ready-made. Arduino comes as a workshop: a bare board, loose 
 
 **Arduino** is a **microcontroller board** — the small computer-on-a-chip of the microcontrollers lesson, mounted on a board that exposes its **pins**: connections where the outside world (lights, buttons, sensors, motors) is **wired to the chip**. The program, written on the computer, is **uploaded** to the board, which then runs it **alone**, reading its pins and driving its pins — the pattern of every embedded machine, learned with the wires visible.
 
-[Picture — The Arduino — a microcontroller you wire yourself]
+In your mind's eye: the Arduino — a microcontroller you wire yourself.
 
 ## Sub lesson 2 — The breadboard — circuits without solder
 
 The **breadboard** is the **solderless board of connected holes** where Arduino circuits are **tried**: components and jumper wires **push in and pull out**, rows inside the board carry the connections (power rails along the edges, joined strips across the middle), so a circuit can be built, tested, corrected and rebuilt in minutes with nothing melted and nothing wasted. Connecting the board to the computer — cable, the environment's board and port chosen — completes the bench: build on the breadboard, upload from the computer, watch the circuit answer.
 
-[Picture — The breadboard — circuits without solder]
+In your mind's eye: the breadboard — circuits without solder.
 
 ## Say it to your companion
 

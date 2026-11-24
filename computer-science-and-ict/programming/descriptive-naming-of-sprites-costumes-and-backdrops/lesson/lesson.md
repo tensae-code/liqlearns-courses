@@ -8,7 +8,7 @@ Open an old project. Its sprites are called Sprite1, Sprite4 and Sprite7; its ba
 
 Scratch's automatic names (Sprite1, costume2, backdrop1) describe nothing, and a growing project fills with them until even its maker is lost. The guide teaches **descriptive naming** as good practice, done at the moment of making: a sprite is named for what it is and does (Player, Chaser, Goal-keeper), a costume for what it shows (walking-1, surprised), and a backdrop for the place or level it is. For series, names carry **numbers in order** — the maze backdrops are Maze 1, Maze 2, Maze 3 — so a script that says 'switch to Maze 2' reads like a sentence anyone can follow. The cost is seconds at making time; the saving is every reading after: by partners, by a teacher marking the project, and by yourself when you return to it weeks later.
 
-[Picture — a picture of a sprite list renamed properly — Player, Chaser, Goal — beside backdrop thumbnails named Maze 1, Maze 2, Maze 3, with a script block switching to Maze 2 reading like a sentence]
+In your mind's eye: a sprite list renamed properly — Player, Chaser, Goal. Beside backdrop thumbnails named Maze 1, Maze 2, Maze 3, with a script block switching to Maze 2 reading like a sentence.
 
 ## Say it to your companion
 

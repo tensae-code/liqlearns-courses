@@ -8,13 +8,13 @@ Unit 6 §6.6 Payments, §6.7 Transactions and §6.7.1 Difference between payment
 
 This part of Pakistan (Punjab)'s book teaches **Payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions** — covering: Unit 6 §6.6 Payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions]
+In your mind's eye: payments, §6.7 Transactions and §6.7.1 Difference between payments and transactions.
 
 ## Sub lesson 2 — Doing it — Payments and Transactions What Is the Difference in practice
 
 **Doing it — Payments and Transactions What Is the Difference in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Payments and Transactions What Is the Difference in practice]
+In your mind's eye: doing it — Payments and Transactions What Is the Difference in practice.
 
 ## Say it to your companion
 

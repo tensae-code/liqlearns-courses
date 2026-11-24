@@ -8,13 +8,13 @@ Point at the things in this room you could name in one word each. The digital on
 
 Before using devices well, the youngest pupils learn to **name** them: the **tablet (tablette)**, the **computer (ordinateur)**, the **screen (écran)**, the **mouse (souris)**, the keyboard, the phone, the camera. The scenario's fiche (Les différents appareils) is a naming hunt: picture, name, and the thing itself matched together — because a class cannot talk about its tools, share them, or take care of them until everyone calls them by the same names.
 
-[Picture — The names of the devices]
+In your mind's eye: the names of the devices.
 
 ## Sub lesson 2 — One name, one thing
 
 Naming is also sorting: a tablet is not a computer-without-keyboard in the child's first map, a screen is not the whole computer, and the mouse is a device of its own, not a toy animal. Each name pins one thing, and the pinning is the beginning of all the course's later precision — instructions, programs and care routines all fail when names slide between things.
 
-[Picture — One name, one thing]
+In your mind's eye: one name, one thing.
 
 ## Say it to your companion
 

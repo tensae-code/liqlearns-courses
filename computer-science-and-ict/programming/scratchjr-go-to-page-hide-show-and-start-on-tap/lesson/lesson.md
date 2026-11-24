@@ -8,13 +8,13 @@ A story longer than one screen needs rooms. Kuwait's third ScratchJr lesson give
 
 **Go to Page** moves the story to another **page** of the project — ScratchJr's scenes: the sprite's script sends the reader to the next place, and the new page's sprites take up the tale. With it come **Hide and Show**: a sprite can be **hidden** — present but invisible — and **shown** again by a block, which is how surprises, entrances and disappearances are made.
 
-[Picture — Go to Page — a story in rooms, and Hide–Show]
+In your mind's eye: go to Page — a story in rooms, and Hide–Show.
 
 ## Sub lesson 2 — Start on Tap — the reader's finger as a trigger
 
 **Start on Tap** starts a script when the reader **taps that sprite**. The story stops being only watched and becomes handled: tap the door and it opens; tap the animal and it calls. Kuwait places tap beside pages and hiding because together they make the book interactive — the reader moves the story by moving between pages and touching the cast.
 
-[Picture — Start on Tap — the reader's finger as a trigger]
+In your mind's eye: start on Tap — the reader's finger as a trigger.
 
 ## Say it to your companion
 

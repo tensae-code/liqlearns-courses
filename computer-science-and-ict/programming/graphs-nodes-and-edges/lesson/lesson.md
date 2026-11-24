@@ -10,7 +10,7 @@ A **graph** throws away everything about a web of relationships except the conne
 
 Take six friends — Ana, Ben, Cy, Di, Eli, Fay — where Ana knows Ben and Cy, Ben knows Cy and Di, Di knows Eli, and Eli knows Fay. The graph has six nodes and six edges: Ana–Ben, Ana–Cy, Ben–Cy, Ben–Di, Di–Eli and Eli–Fay. Draw it twice, once with the names in a circle and once in a straight line with the edges curving. The two drawings look different, but they are **the same graph**, because the same pairs are joined. In a graph, position means nothing; connection means everything.
 
-[Picture — graphs-nodes-edges: the same friendship graph drawn two ways, in a circle and in a line, with the same edges in both]
+In your mind's eye: graphs-nodes-edges. The same friendship graph drawn two ways, in a circle and in a line, with the same edges in both.
 
 Two special edges complete the picture. A **loop** is an edge that leaves a node and comes straight back to the same node. Two nodes can also be joined by **more than one edge** — think of two towns joined by both a road and a railway. Ordinary school graphs often leave loops and double edges out, but a real network may need them, so the names are worth having from the start.
 
@@ -20,7 +20,7 @@ Some relationships run one way. If Ana follows Ben online, Ben may not follow An
 
 The **degree** of a node is how many edges meet at it. In the friendship graph, Ben has degree 3 (edges to Ana, Cy and Di), Fay has degree 1, and a node of degree 0 would be an island — connected to nobody. Degree is the fastest first fact about a node: a station with degree 6 is a hub; a person with degree 1 hangs on the edge of the network.
 
-[Picture — graphs-degree-and-path: the friendship graph with Ben's three edges highlighted, and one path from Ana to Fay lit up step by step]
+In your mind's eye: graphs-degree-and-path. The friendship graph with Ben's three edges highlighted, and one path from Ana to Fay lit up step by step.
 
 A **path** is a walk from node to node along edges, never lifting the pencil: Ana → Ben → Di → Eli → Fay is a path of length 4 (four edges). Two nodes are **connected** if a path joins them — in our graph every pair is connected, so the whole graph is one connected piece. A path that comes back to its start is a **cycle**: Ana → Ben → Cy → Ana is a cycle of length 3. Paths, connection and cycles are the questions every later lesson in this strand answers with machinery: the matrix stores the graph, breadth-first search walks it in order, and Dijkstra finds its cheapest path.
 

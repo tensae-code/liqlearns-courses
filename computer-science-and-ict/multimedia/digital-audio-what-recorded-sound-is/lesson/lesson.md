@@ -8,13 +8,13 @@ Class VIII's audio unit opens by saying what its material is: sound a computer c
 
 **Digital audio** is sound **recorded and stored as data**: a microphone turns the sound's waves into electrical signals, and the computer samples them into numbers it can keep in an **audio file**. What the file holds is not the sound itself but its counted pattern — which is why the same file plays the same sound on any machine, and can be copied perfectly forever.
 
-[Picture — Sound becomes data — recording and the audio file]
+In your mind's eye: sound becomes data — recording and the audio file.
 
 ## Sub lesson 2 — Kinds of audio work — record, import, edit, share
 
 The unit's road runs through the file's life: sounds are **recorded** or **imported** into an editor, **edited** — cut, joined, cleaned — given **effects**, **mixed** with other tracks, and finally **exported and shared** in a format other people can play. Class VIII walks that whole road in Audacity; this first lesson is the map: audio is data, and data can be worked.
 
-[Picture — Kinds of audio work — record, import, edit, share]
+In your mind's eye: kinds of audio work — record, import, edit, share.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The ScratchJr unit closes with its first project: not one game but four, each ex
 
 The **maze game** sends a sprite through a maze's passages — movement steered carefully, walls that matter. The **safe-traffic game** builds the road-crossing rule into play: the player crosses when it is safe, and the game teaches the safety it is named for. Both games live on control: small moves, made at the right moment, inside a world with edges.
 
-[Picture — The maze game and the safe-traffic game]
+In your mind's eye: the maze game and the safe-traffic game.
 
 ## Sub lesson 2 — The obstacle-jump game and the moon-orbit game
 
 The **obstacle-jump game** is timing: the sprite must jump what blocks its path, and the player's tap or the program's timing decides success. The **moon-orbit game** leaves the ground: a sprite circles the moon — movement bent into an orbit, the unit's blocks stretched to a space scene. Four games, four tempers: steer, judge, time, and circle.
 
-[Picture — The obstacle-jump game and the moon-orbit game]
+In your mind's eye: the obstacle-jump game and the moon-orbit game.
 
 ## Say it to your companion
 

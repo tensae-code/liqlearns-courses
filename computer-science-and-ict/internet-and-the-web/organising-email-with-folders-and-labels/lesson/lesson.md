@@ -8,13 +8,13 @@ Unit 2 §2.3.4 Organize emails using different folders/labels
 
 This part of Pakistan (Punjab)'s book teaches **Organize emails using different folders/labels** — covering: Unit 2 §2.3.4 Organize emails using different folders/labels. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Organize emails using different folders/labels]
+In your mind's eye: organize emails using different folders/labels.
 
 ## Sub lesson 2 — Doing it — Organising Email with Folders and Labels in practice
 
 **Doing it — Organising Email with Folders and Labels in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Organising Email with Folders and Labels in practice]
+In your mind's eye: doing it — Organising Email with Folders and Labels in practice.
 
 ## Say it to your companion
 

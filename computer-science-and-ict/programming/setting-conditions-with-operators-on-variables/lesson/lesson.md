@@ -8,13 +8,13 @@ Unit 4, setting a condition using mathematical operators on a variable (random-n
 
 This part of Pakistan (Punjab)'s book teaches **, setting a condition using mathematical operators on a variable** — covering: Unit 4, setting a condition using mathematical operators on a variable (random-numbers product script; nested join blocks). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , setting a condition using mathematical operators on a variable]
+In your mind's eye: , setting a condition using mathematical operators on a variable.
 
 ## Sub lesson 2 — Doing it — Setting Conditions with Operators on Variables in practice
 
 **Doing it — Setting Conditions with Operators on Variables in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Setting Conditions with Operators on Variables in practice]
+In your mind's eye: doing it — Setting Conditions with Operators on Variables in practice.
 
 ## Say it to your companion
 

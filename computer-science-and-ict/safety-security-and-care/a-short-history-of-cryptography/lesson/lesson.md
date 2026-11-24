@@ -8,13 +8,13 @@ Generals, lovers, spies and banks have all needed the same thing: a message enem
 
 The fiche's history opens with the ancient tricks: messages hidden (a shaved head, a wax tablet) and messages **transposed or substituted** — letters rearranged, or replaced by others, as in **Caesar's shift**, where each letter moves a fixed number of places. For centuries, substitution ruled — until frequency analysis (next inquiry step) showed that a language's letter habits betray any simple substitution, and cipher-makers answered with polyalphabetic systems that shift by a changing key.
 
-[Picture — Ciphers of the ancient and paper ages]
+In your mind's eye: ciphers of the ancient and paper ages.
 
 ## Sub lesson 2 — Machines, computers and keys
 
 The modern ages mechanised the contest: rotor machines like Enigma multiplied the shifts beyond hand-breaking, and computers broke machine ciphers — then became the cipher-makers themselves, with mathematical locks whose keys are numbers too long to guess. The history's pattern never changes: a stronger cipher, a cleverer break, a stronger cipher again. Today's encryption is that race, run at electronic speed, guarding everything from messages to money.
 
-[Picture — Machines, computers and keys]
+In your mind's eye: machines, computers and keys.
 
 ## Say it to your companion
 

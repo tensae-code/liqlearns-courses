@@ -8,13 +8,13 @@ An office in Kigali and a branch in another town both use the public internet. H
 
 A **virtual private network (VPN)** makes a **private connection across a public network**. The data travels through the public internet, but it is **encrypted** — wrapped so that only the two ends can read it — inside what works like a **tunnel**. It is *virtual* because no new wire is laid, and *private* because the encryption keeps everyone else out, even though the road is shared.
 
-[Picture — What a VPN is]
+In your mind's eye: what a VPN is.
 
 ## Sub lesson 2 — What a VPN is for
 
 The guide names the VPN among the extended network kinds for one job: **joining separated sites and people** as if they were on **one local network** — a branch office reaching the head office's files, or a worker at home reaching the office system. The organisation rents the road (the internet) but keeps its own locked carriage on it: **the reach of a public network with the privacy of a private one**.
 
-[Picture — What a VPN is for]
+In your mind's eye: what a VPN is for.
 
 ## Say it to your companion
 

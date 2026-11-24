@@ -8,13 +8,13 @@ This part of South Sudan's book teaches 1.0 Advanced formatting in MS Word — c
 
 This part of South Sudan's book teaches **1.0 Advanced formatting in MS Word** — covering: 1.0 Advanced formatting in MS Word; Unit 2: Advanced Formatting Techniques. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: 1.0 Advanced formatting in MS Word; Unit 2: Advanced Formatting Techniques. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — 1.0 Advanced formatting in MS Word is part of that chain..
 
-[Picture — 1.0 Advanced formatting in MS Word]
+In your mind's eye: 1.0 Advanced formatting in MS Word.
 
 ## Sub lesson 2 — The benefits of advanced formatting in MS Word
 
 This part of South Sudan's book teaches **The benefits of advanced formatting in MS Word** — covering: The benefits of advanced formatting in MS Word. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: The benefits of advanced formatting in MS Word. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — the benefits of advanced formatting in MS Word is part of that chain..
 
-[Picture — The benefits of advanced formatting in MS Word]
+In your mind's eye: the benefits of advanced formatting in MS Word.
 
 ## Say it to your companion
 

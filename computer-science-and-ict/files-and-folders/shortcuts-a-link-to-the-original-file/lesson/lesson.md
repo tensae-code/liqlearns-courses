@@ -8,13 +8,13 @@ Unit 3 §3.7.3 Shortcut
 
 This part of Pakistan (Punjab)'s book teaches **Shortcuts a Link to the Original File** — covering: Unit 3 §3.7.3 Shortcut. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Shortcuts a Link to the Original File]
+In your mind's eye: shortcuts a Link to the Original File.
 
 ## Sub lesson 2 — Doing it — Shortcuts a Link to the Original File in practice
 
 **Doing it — Shortcuts a Link to the Original File in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Shortcuts a Link to the Original File in practice]
+In your mind's eye: doing it — Shortcuts a Link to the Original File in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A car beeps when you drift from your lane. Another drives the motorway while you
 
 Autonomy is measured on a **ladder of levels**: at the bottom, the car **assists** — warns, or steadies one thing (lane, speed) while the human drives. In the middle, the car drives **under supervision** — steering and speed together, but the human must watch and take over at once when asked. At the top, the car drives **itself** in its domain — the human may stop watching — and at the final level, everywhere, with no human driver needed at all. The Thymio mission asks “and in real life?” because the robot's own small autonomies sit on this same ladder's first rungs.
 
-[Picture — The levels ladder]
+In your mind's eye: the levels ladder.
 
 ## Sub lesson 2 — Responsibility climbs with the level
 
 Each level is also a **responsibility** answer: while the human must supervise, the human answers for the driving; when the car truly drives itself, responsibility shifts toward its makers and operators — the reading keys (delegation, responsibility) applied to the road. That is why the levels matter beyond engineering: a buyer, a law and an insurer all need to know which level a car really is — not what its advertisement calls it.
 
-[Picture — Responsibility climbs with the level]
+In your mind's eye: responsibility climbs with the level.
 
 ## Say it to your companion
 

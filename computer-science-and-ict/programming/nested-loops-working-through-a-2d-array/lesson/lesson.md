@@ -8,13 +8,13 @@ To read every page of a book you do two rounds of repeating: turn pages inside a
 
 A **nested loop** is a **loop placed inside another loop**: the **inner loop** runs all the way through for **every single turn of the outer loop**. The book teaches the nested loop statement inside its arrays unit, because a table of values cannot be worked through by one loop alone.
 
-[Picture — The nested loop statement]
+In your mind's eye: the nested loop statement.
 
 ## Sub lesson 2 — Nested loops on arrays
 
 On a two-dimensional array, the **outer loop takes the rows** and the **inner loop takes the columns**: for each row, the inner loop visits every column in that row before the outer loop moves on. Counting the visits — rows times columns — tells you exactly how many times the innermost work is done.
 
-[Picture — Nested loops on arrays]
+In your mind's eye: nested loops on arrays.
 
 ## Say it to your companion
 

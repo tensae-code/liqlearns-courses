@@ -8,13 +8,13 @@ Count to ten on your fingers — that is the decimal way, with ten digits. A com
 
 Inside the computer, data travels as **electrical signals** with only **two states** — a signal is there or it is not. Each single two-state signal is the smallest piece of data, a **bit**. Because the machine itself works in two states, the numbers it uses are built from two states too.
 
-[Picture — Data as two-state electrical signals]
+In your mind's eye: data as two-state electrical signals.
 
 ## Sub lesson 2 — Bits — the language of computers
 
 A bit takes one of **two values, 0 or 1** — 0 for off, 1 for on. Long patterns of bits represent letters, numbers, pictures and sounds, so **binary numbers** are called **the language of computers**: everything the computer holds is written in them, even when the screen shows it back to us in our own decimal numbers and letters.
 
-[Picture — Bits — the language of computers]
+In your mind's eye: bits — the language of computers.
 
 ## Say it to your companion
 

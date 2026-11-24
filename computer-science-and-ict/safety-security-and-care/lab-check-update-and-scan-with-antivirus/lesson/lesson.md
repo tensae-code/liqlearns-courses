@@ -8,13 +8,13 @@ Unit 2 Lab Activities (note your lab's antivirus; check its definition file; run
 
 This part of Pakistan (Punjab)'s book teaches **Lab Activities** — covering: Unit 2 Lab Activities (note your lab's antivirus; check its definition file; run a manual update; scan the computer; scan a USB flash drive). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lab Activities]
+In your mind's eye: lab Activities.
 
 ## Sub lesson 2 — Doing it — Lab Check Update and Scan with Antivirus in practice
 
 **Doing it — Lab Check Update and Scan with Antivirus in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Lab Check Update and Scan with Antivirus in practice]
+In your mind's eye: doing it — Lab Check Update and Scan with Antivirus in practice.
 
 ## Say it to your companion
 

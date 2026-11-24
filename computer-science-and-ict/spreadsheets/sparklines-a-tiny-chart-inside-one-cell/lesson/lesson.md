@@ -8,13 +8,13 @@ A full chart is too big when every row needs its own picture. In this lesson you
 
 A **sparkline** is a **tiny chart inside one cell**. It draws **one row or one column** of data — no axes, no labels — so a column of sparklines lets you read the shape of every row at a glance: rising, falling, steady. To **create** one, select the data row or column, insert the sparkline, and name the single cell that will hold it.
 
-[Picture — what a sparkline is, and creating one]
+In your mind's eye: what a sparkline is, and creating one.
 
 ## Sub lesson 2 — Formatting sparklines and marking points
 
 A sparkline is **formatted** with its own **colours and styles** — the line or columns can change colour and weight to suit the sheet. Its **data points** can be **marked**: show the highest and lowest values (and first, last or negative points) in a different colour, so the eye lands on the extremes at once.
 
-[Picture — formatting sparklines and marking points]
+In your mind's eye: formatting sparklines and marking points.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Choose one object in the room — a book, a bag, a chair. Your task: describe it
 
 To store facts about the world, first decide what one **object** is: one book, one student, one product — a single thing the data is about. Then decide how it will be described. Each named aspect is a **descriptor**: for a book, its title, its author, its year, its number of pages. For one particular book, each descriptor holds a **value**: the title is this title, the year is 2023. Object, descriptor, value — with those three words you can describe anything, and the describing is a human decision: a library describes a book by author and year; a bookshop describes the same book by price and stock. Neither is wrong; the purpose chooses the descriptors.
 
-[Picture — one book with labelled lines running from it to its descriptors and their values: title, author, year, pages]
+In your mind's eye: one book with labelled lines running from it to its descriptors and their values. Title, author, year, pages.
 
 ## Sub lesson 2 — Collections — data in tables
 
@@ -16,7 +16,7 @@ One described object is a note; the power comes from gathering many. A **collect
 
 This shape is not one program's habit; it is the shape of structured data itself. The spreadsheet grid is this table. The CSV file is this table written as text. The database table of the later lessons is this table with rules added. France's SNT book begins its whole data theme here — objects, descriptors, collections — because everything after, from file formats to SQL, is this one idea at work.
 
-[Picture — three described books becoming the three rows of a table, their shared descriptors becoming the column headings]
+In your mind's eye: three described books becoming the three rows of a table, their shared descriptors becoming the column headings.
 
 ## Say it to your companion
 

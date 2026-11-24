@@ -8,13 +8,13 @@ Every system begins as a complaint: the records are slow, the stock is wrong, th
 
 The **preliminary investigation** is a **short, first look** at the present system and its troubles, done before any promise is made. It asks three questions. **What is the problem** — stated plainly, in the users' own experience (not 'we need a computer' but 'stock figures are three weeks late')? **Is a new system feasible** — could it be built and run with the money, people, skills and time actually available? And **is it worth it** — would its gains outweigh its whole cost? Fiji's phase is deliberately small: a look, not a study.
 
-[Picture — Look first — the problem, stated plainly]
+In your mind's eye: look first — the problem, stated plainly.
 
 ## Sub lesson 2 — The decision Phase 1 hands on
 
 The phase ends in a **decision and a report**: go ahead to full analysis, change the idea, or **stop** — stopping is a success of this phase, not a failure, when it saves an organisation from building the wrong system. If the answer is go, the investigation hands analysis its starting gift: the problem stated, the present system sketched, and the limits — money, time, people — written down. At Viti, Phase 1 is where 'the stock cards are always wrong' becomes a bounded question the rest of the cycle can work on.
 
-[Picture — The decision Phase 1 hands on]
+In your mind's eye: the decision Phase 1 hands on.
 
 ## Say it to your companion
 

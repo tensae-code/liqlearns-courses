@@ -12,7 +12,7 @@ But some statements are **uncertain** — they **might be true**. 'It will rain 
 
 An uncertain statement is not a mistake. It becomes true or false when we **learn more** or when the event **happens**. Sorting statements into true, false and uncertain is careful thinking: never call a 'might be' statement true before you know, and never call it false either.
 
-[Picture — a picture of a closed box with a question mark, a child looking at clouds, and speech bubbles: true, false, might be true]
+In your mind's eye: a closed box with a question mark, a child looking at clouds, and speech bubbles. True, false, might be true.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 1 §1.2.2 Stages in SDLC: §1.2.2.1 Requirement Gathering (interviews, surv
 
 This part of Pakistan (Punjab)'s book teaches **Stages in SDLC: §1.2.2.1 Requirement Gathering** — covering: Unit 1 §1.2.2 Stages in SDLC: §1.2.2.1 Requirement Gathering (interviews, surveys, observation, document review; functional vs non-functional requirements for a library system). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Stages in SDLC: §1.2.2.1 Requirement Gathering]
+In your mind's eye: stages in SDLC. §1.2.2.1 Requirement Gathering.
 
 ## Sub lesson 2 — Doing it — Requirements Gathering Functional vs Non Functional in practice
 
 **Doing it — Requirements Gathering Functional vs Non Functional in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Requirements Gathering Functional vs Non Functional in practice]
+In your mind's eye: doing it — Requirements Gathering Functional vs Non Functional in practice.
 
 ## Say it to your companion
 

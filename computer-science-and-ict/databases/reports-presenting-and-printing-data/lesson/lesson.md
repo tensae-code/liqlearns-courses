@@ -8,13 +8,13 @@ Queries answer questions on screen. Reports carry the answer to people — print
 
 A **report** takes a table or query as its source and lays the records out as a **document**: a **title**, column headings, page numbers, and a designed order. The data is the same; the report adds everything a reader needs and a grid lacks — context, structure and finish. Reports are for **viewing and printing**, not for editing data.
 
-[Picture — from answer to document]
+In your mind's eye: from answer to document.
 
 ## Sub lesson 2 — Grouping and totals
 
 Reports earn their keep by **grouping**: records gathered under group headings (by class, by town), with a **subtotal per group** and a **grand total** at the end — the printed cousin of the pivot idea. Design choices (what groups, what totals, what fits the page) are the report-maker's real work, and a preview shows the pages before any paper is spent.
 
-[Picture — grouping and totals]
+In your mind's eye: grouping and totals.
 
 ## Say it to your companion
 

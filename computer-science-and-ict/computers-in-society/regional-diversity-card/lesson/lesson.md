@@ -8,13 +8,13 @@ Grade 6 grew a diversity tree for one class. Grade 7 widens the lens to a whole 
 
 The teams **find information** about their region's people: languages, occupations, foods, dress, festivals, beliefs and crafts — the beauty of diversity is the session's own name for what the research uncovers. Sources are the verification lessons' business: elders and family, books, and the internet, each checked against the others. A region profiled only from one website is a rumour with headings; a region profiled from its own people's mouths and records is knowledge.
 
-[Picture — The beauty of diversity — researching a region]
+In your mind's eye: the beauty of diversity — researching a region.
 
 ## Sub lesson 2 — Change of technology — the region in motion
 
 The card's second half asks how **technology is changing** the region: phones in the market, machines in the field, new jobs arriving and old crafts pressured — the sociocultural change of the companion lessons, mapped onto one home ground. The finished **regional diversity card** holds both halves together: what the region is, in its variety, and what it is becoming. Presented to the class, the cards side by side teach the country's own diversity better than any list — each region different, each changing, each described by its own children.
 
-[Picture — Change of technology — the region in motion]
+In your mind's eye: change of technology — the region in motion.
 
 ## Say it to your companion
 

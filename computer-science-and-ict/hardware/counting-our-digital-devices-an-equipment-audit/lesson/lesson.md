@@ -8,13 +8,13 @@ Quick: how many digital devices are in your home? Most people guess half the tru
 
 An **equipment audit** lists every digital device in a place: phones, computers, tablets, televisions, consoles, printers, routers, connected objects — including the broken, the drawer-bound and the forgotten. The scenario's prolongement sends pupils to count their own equipment because environmental thinking starts from a true inventory: you cannot weigh the footprint of devices you have not counted, and households consistently undercount their own shelves.
 
-[Picture — The audit — count everything]
+In your mind's eye: the audit — count everything.
 
 ## Sub lesson 2 — What the count shows
 
 A finished audit shows more than a number: how many devices **work**, how many are **kept “just in case”**, how many duplicate the same job, and how old the fleet is. Those four views turn a pile into decisions — repair, share, pass on, recycle — and give the class's environmental discussion its facts: the cost of digital life is not an abstraction; it is this list, in this room.
 
-[Picture — What the count shows]
+In your mind's eye: what the count shows.
 
 ## Say it to your companion
 

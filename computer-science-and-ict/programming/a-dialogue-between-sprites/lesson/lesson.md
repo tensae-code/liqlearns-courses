@@ -8,7 +8,7 @@ Hold a real conversation: you speak, stop, your friend answers, stops, you speak
 
 Two sprites that each have a say script are not yet a conversation — run together, they talk over each other. This double lesson builds a true **dialogue**: sprite one says its line **for a set time**, a **wait** keeps the second sprite silent, then the second sprite answers for its time, and so on, turn by turn. The book's example is a **conversation between dolphins** — questions and answers passing between two characters. The craft is timing: each line must last long enough to read, each wait must match the partner's line, and the order of lines must make sense as talk. When a dialogue sounds wrong, the fault is almost always a wait that is too short or a line order that is muddled — both fixable by reading the conversation aloud.
 
-[Picture — a picture of a picture of two dolphin sprites facing each other, speech bubbles alternating between them in a numbered order, with wait blocks shown as small clocks between the lines]
+In your mind's eye: a picture of two dolphin sprites facing each other, speech bubbles alternating between them in a numbered order, with wait blocks shown as small clocks between the lines.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ On paper, a corrected price means re-adding the whole column by hand. In the spr
 
 **Automatic recalculation** means: when a **value in a cell changes**, every **formula that depends on it** — directly, or through other formulas in a chain — **works itself out again at once** and shows its new answer. The total was never a typed number; it was a **standing instruction** (sum those cells) whose answer the sheet keeps current. This is why the formula lessons come first in the unit: a sheet of typed totals is a photograph; a sheet of formulas is a living calculator that cannot go stale.
 
-[Picture — The living sheet — results that follow their data]
+In your mind's eye: the living sheet — results that follow their data.
 
 ## Sub lesson 2 — Chains and care — what recalculation demands of the builder
 
 Recalculation chains run **as far as the formulas reach** — change an early price and a total, a tax on the total, and a grand total all move in the same instant — so the builder's care is the mirror of the gift: **build with formulas wherever a value is derived**, never type a derived value by hand, and **check the chain's sources**, because one wrong source value now poisons every result downstream, instantly and everywhere. Grade 8 teaches the gift and the care in one section because they are one fact seen from two sides.
 
-[Picture — Chains and care — what recalculation demands of the builder]
+In your mind's eye: chains and care — what recalculation demands of the builder.
 
 ## Say it to your companion
 

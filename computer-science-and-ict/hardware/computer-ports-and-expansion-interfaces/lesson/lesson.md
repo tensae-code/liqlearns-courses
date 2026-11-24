@@ -8,13 +8,13 @@ A computer that cannot connect is a box. Mongolia's Grade 11 book gives the conn
 
 Inside the system unit, the motherboard offers **expansion interfaces** — slots where cards are added. **PCI** is the general expansion bus for cards such as network and sound cards; **AGP** was the dedicated graphics slot; **SCSI** is an interface for chains of devices, above all disks; a **sound card** is the classic expansion example, adding audio the board lacks. An interface is a bargain between two sides: a physical connector plus the rules of exchange, and both sides must hold the same bargain or nothing connects.
 
-[Picture — Expansion interfaces — connections inside the box]
+In your mind's eye: expansion interfaces — connections inside the box.
 
 ## Sub lesson 2 — Ports and storage interfaces — connections at the edge
 
 At the case's edge stand the **ports**: **USB**, the universal port for nearly everything; the older **serial** and **parallel** ports; **FireWire** and **Thunderbolt**, the fast ports for video and drives; and **HDMI**, carrying picture and sound to a screen in one cable. Inside, the disks connect by their own interfaces: **PATA**, the older parallel ribbon, replaced by **SATA**, the serial interface of modern drives. Mongolia's engineering point: every generation of connection is a trade of speed, width and simplicity — read a machine's ports and you read its age and its possibilities.
 
-[Picture — Ports and storage interfaces — connections at the edge]
+In your mind's eye: ports and storage interfaces — connections at the edge.
 
 ## Say it to your companion
 

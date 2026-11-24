@@ -8,13 +8,13 @@ A Bhutanese pupil's own language belongs on the computer too. Class V teaches ty
 
 Dzongkha script cannot be typed with an English-only setup: the computer needs **Dzongkha keyboard software**, which maps the keys to Dzongkha characters, and **Dzongkha fonts**, which draw those characters correctly on the screen and on paper. With both installed, the pupil selects Dzongkha as the typing language and the same keys now write Dzongkha — the machine has learned the country's script.
 
-[Picture — Dzongkha on the computer — keyboard software and fonts]
+In your mind's eye: dzongkha on the computer — keyboard software and fonts.
 
 ## Sub lesson 2 — Typing Dzongkha in Word
 
 In **Word**, a Dzongkha document is made like any document: choose the Dzongkha font, type, save with a clear name. The new cares are script cares — characters must stack and join as Dzongkha writing requires, so the typist checks the screen as they go and corrects at once. Class V ends its year with a Dzongkha story in Word: the national language, typed by the pupil's own hands, filed like every other piece of work.
 
-[Picture — Typing Dzongkha in Word]
+In your mind's eye: typing Dzongkha in Word.
 
 ## Say it to your companion
 

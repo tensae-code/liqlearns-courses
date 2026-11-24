@@ -8,13 +8,13 @@ Imagine programming in 1964, when writing a program was a specialist's mystery. 
 
 Sudan's Grade 11 programming course is taught through **BASIC** — and the book begins with its history. BASIC's name says its purpose: the **Beginner's All-purpose Symbolic Instruction Code**. It was **designed in 1964** so that students who were not specialists could write programs themselves — its commands are short English-like words, and a learner can run a first program in a first sitting. Every choice in BASIC serves the beginner standing at the machine for the first time.
 
-[Picture — A language designed for beginners]
+In your mind's eye: a language designed for beginners.
 
 ## Sub lesson 2 — Why BASIC carries this course
 
 BASIC runs through an **interpreter** — the learner types a program and runs it at once, seeing results and errors immediately, which is how beginners learn. From that start the book builds the whole craft: numbered lines, variables, input and output, branching, loops, subroutines and functions — all inside this one language. Meeting BASIC first, as history and as tool, is the book's own order, and this course keeps it.
 
-[Picture — Why BASIC carries this course]
+In your mind's eye: why BASIC carries this course.
 
 ## Say it to your companion
 

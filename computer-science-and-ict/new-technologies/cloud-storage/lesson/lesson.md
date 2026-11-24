@@ -8,13 +8,13 @@ Your phone dies in a river. Your photos survive. That small miracle has a machin
 
 **Cloud storage** keeps your files on **servers run by a provider**, reached over the internet, instead of only on your own device. The provider spreads copies across machines and buildings, so one failure loses nothing — the **redundancy** your single phone cannot offer. You rent **capacity that stretches**: more space is a settings change, not a purchase, and the same file is reachable from phone, school computer and home alike.
 
-[Picture — What cloud storage is]
+In your mind's eye: what cloud storage is.
 
 ## Sub lesson 2 — Its terms — sync, sharing and trust
 
 Cloud storage brings working habits with names: **synchronisation** keeps the same file current on every device; **sharing** sends a link instead of a copy; **versioning** keeps earlier shapes of a file. Its price is **trust**: your data sits under another company's roof, under its security and its country's laws — so what may live there is a decision, and the course's security lessons (encryption, strong accounts) travel with every upload.
 
-[Picture — Its terms — sync, sharing and trust]
+In your mind's eye: its terms — sync, sharing and trust.
 
 ## Say it to your companion
 

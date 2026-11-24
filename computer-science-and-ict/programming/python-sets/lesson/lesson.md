@@ -8,13 +8,13 @@ A list can hold the same pupil twice. A set cannot — and that refusal is its w
 
 A **set** is a collection of **unique** values in **no fixed order**, written in curly brackets: `{1, 2, 3}`. Adding a value already present changes nothing; there is no index, because there is no order to index by. The set's native question is **membership** — 'is this value in?' — asked with `in`, and answered fast however large the set grows. Sets are mutable (values can be added and removed), and their values must be of kinds that can be held fixed.
 
-[Picture — What a set is]
+In your mind's eye: what a set is.
 
 ## Sub lesson 2 — Set operations — the mathematics built in
 
 Python builds set mathematics in as operations: **union** (in either — `|`), **intersection** (in both — `&`), **difference** (in the first, not the second — `−`), and **symmetric difference** (in exactly one — `^`). Jordan's Grade 12 data-structures lesson places sets after lists, tuples and dictionaries because the four together are the chooser's kit: order-and-change (list), order-fixed (tuple), named (dictionary), unique (set) — and real data declares which it is, if the programmer listens.
 
-[Picture — Set operations — the mathematics built in]
+In your mind's eye: set operations — the mathematics built in.
 
 ## Say it to your companion
 

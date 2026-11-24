@@ -8,13 +8,13 @@ Lesson 18: Sound effects (sound files and the mixer program)
 
 This part of Kazakhstan's book teaches **Lesson 18: Sound effects** — covering: Lesson 18: Sound effects (sound files and the mixer program). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 18: Sound effects]
+In your mind's eye: lesson 18. Sound effects.
 
 ## Sub lesson 2 — Sound effects
 
 This part of Kazakhstan's book teaches **Sound effects** — covering: §19: Sound effects — media players AIMP and Windows Media Player; volume in the taskbar mixer. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Sound effects]
+In your mind's eye: sound effects.
 
 ## Say it to your companion
 

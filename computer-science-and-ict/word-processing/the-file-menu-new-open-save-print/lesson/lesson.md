@@ -8,13 +8,13 @@ Every Word document begins, is kept, and ends on paper through one menu. In this
 
 The **File menu** is the first menu in Word's menu bar, and it works on the whole document, not on its text. **New** starts a fresh blank document. **Open** brings an existing document back from where it was saved, so work is never begun twice. **Save** keeps the document under the name and place it already has — the command to use again and again while you work. **Save As** keeps it under a *new* name or in a *new* place, leaving the old copy as it was: Save replaces, Save As branches. The book teaches these four as one lesson because together they are the document's whole life of being kept.
 
-[Picture — Word's File menu open — New, Open, Save, Save As, Print Preview, Print, Close, Exit]
+In your mind's eye: word's File menu open — New, Open, Save, Save As, Print Preview, Print, Close, Exit.
 
 ## Sub lesson 2 — Print — and closing the document
 
 **Print** sends the document to the printer; before it, **Print Preview** shows the pages exactly as they will come out, so a mistake is caught on the screen, not on paper, and the Print dialog lets you choose the printer, which pages, and how many copies. **Close** shuts the document but leaves Word open for the next one; **Exit** shuts Word itself. And the safety rule that runs through the whole menu: if you close with unsaved work, Word asks whether to save — but the careful writer never depends on being asked. Save early, save often: that is the File menu's real lesson.
 
-[Picture — the Print dialog — printer choice, pages and number of copies]
+In your mind's eye: the Print dialog — printer choice, pages and number of copies.
 
 ## Say it to your companion
 

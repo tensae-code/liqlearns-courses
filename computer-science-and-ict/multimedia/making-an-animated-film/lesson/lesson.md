@@ -8,13 +8,13 @@ making an animated film — producing a cartoon from its script and characters t
 
 The animated film is **produced** from its plan: the script and storyboard name the **scenes**, the model sheets fix the characters, and the software's timeline receives them scene by scene. Each scene is built the animator's way — background layer, character layers, the frame-by-frame changes — and **played back at once**, while fixing is cheap. Vietnam teaches this production twice over: in the Applied Grade 11 book as a film-making practical, and in the specialist volume as the cartoon craft's centre.
 
-[Picture — Production — scenes built from the plan]
+In your mind's eye: production — scenes built from the plan.
 
 ## Sub lesson 2 — Sound, export and release — the film leaves the workshop
 
 A film is finished in its last crafts: **sound** is added — voices, music and effects laid under the scenes they belong to; the project is **exported** as one video file any player can show; and the film is **released** — presented to its audience, in the specialist book with a premiere for the class ('Releasing my animated film'). Export and release are part of the lesson, not an afterthought: a film that cannot be shown is a workshop exercise, not a film.
 
-[Picture — Sound, export and release — the film leaves the workshop]
+In your mind's eye: sound, export and release — the film leaves the workshop.
 
 ## Say it to your companion
 

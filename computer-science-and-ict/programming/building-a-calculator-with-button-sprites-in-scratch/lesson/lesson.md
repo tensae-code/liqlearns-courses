@@ -8,13 +8,13 @@ Grade 9’s biggest single build is a machine everyone knows: a calculator — d
 
 The calculator’s face is **drawn digit and operation button sprites**. Pressing digits builds the number as text: **the first number is built by joining each digit pressed**, exactly as the PIN lock built its entry. An **operation variable remembers + − × ÷** — the sign waits in its variable while the second number is entered.
 
-[Picture — buttons and the joined number]
+In your mind's eye: buttons and the joined number.
 
 ## Sub lesson 2 — Equals — the if-chain and the big display
 
 Equals is a decision: it **runs an if-chain** on the operation variable — if +, add; if −, subtract; and so on — and **shows the result in a large stage display**. The projects extend the machine: **chaining operations, keyboard input, square root and remainder**.
 
-[Picture — equals — the if-chain and the big display]
+In your mind's eye: equals — the if-chain and the big display.
 
 ## Say it to your companion
 

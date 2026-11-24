@@ -8,13 +8,13 @@ This part of South Sudan's book teaches WordPress.com vs. WordPress.org — pros
 
 This part of South Sudan's book teaches **WordPress.com vs. WordPress.org — pros and cons** — covering: WordPress.com vs. WordPress.org — pros and cons. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: WordPress.com vs. WordPress.org — pros and cons. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — wordPress.com vs. WordPress.org — pros and cons is part of that chain..
 
-[Picture — WordPress.com vs. WordPress.org — pros and cons]
+In your mind's eye: wordPress.com vs. WordPress.org — pros and cons.
 
 ## Sub lesson 2 — Doing it — WordPress.com vs. WordPress.org — pros and cons in practice
 
 This part of South Sudan's book teaches **Doing it — WordPress.com vs. WordPress.org — pros and cons in practice** — covering: WordPress.com vs. WordPress.org — pros and cons. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: WordPress.com vs. WordPress.org — pros and cons. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — WordPress.com vs. WordPress.org — pros and cons in practice is part of that chain..
 
-[Picture — Doing it — WordPress.com vs. WordPress.org — pros and cons in practice]
+In your mind's eye: doing it — WordPress.com vs. WordPress.org. Pros and cons in practice.
 
 ## Say it to your companion
 

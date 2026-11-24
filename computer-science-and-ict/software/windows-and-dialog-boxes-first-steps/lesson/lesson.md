@@ -8,13 +8,13 @@ Open a program and it does not cover the machine in just any way: it arrives ins
 
 Every program and folder opens in a **window**: a framed rectangle with a **title bar** naming what is open. The title bar carries the working buttons — **minimise** sends the window down to the taskbar still open, **maximise** fills the screen with it, **restore** brings it back, and **close** shuts it. A window is moved by dragging its title bar and resized by dragging its edge. Cuba's Grade 5 student chapter gives windows a chapter of their own — *Las ventanas* — because every later program is met inside one.
 
-[Picture — Windows — the framed boxes work opens in]
+In your mind's eye: windows — the framed boxes work opens in.
 
 ## Sub lesson 2 — Dialog boxes — small windows that ask and answer
 
 A **dialog box** is a small window that opens over a program when the program needs something from you: a choice, a name, a confirmation. It carries **buttons** — accept and cancel are the common pair — and sometimes boxes to type in or options to pick. Work waits behind it: the dialog must be answered or cancelled before the program continues. Cuba meets dialog boxes in the same first unit as windows themselves, and the Grade 5 programme rehearses them again inside the drawing editor's window — answer the small window first, then the big one works again.
 
-[Picture — Dialog boxes — small windows that ask and answer]
+In your mind's eye: dialog boxes — small windows that ask and answer.
 
 ## Say it to your companion
 

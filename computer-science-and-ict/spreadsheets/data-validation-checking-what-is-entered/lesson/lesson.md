@@ -8,13 +8,13 @@ data validation in a spreadsheet — setting the rules a cell will accept (a lis
 
 **Data validation** (xác thực dữ liệu) sets the **rules for what may be entered** in a cell: only a **whole number** between 1 and 100, only a **date** in this term, only a value from a **list** you provide. An entry that breaks the rule is **refused**, with a message saying why. Vietnam's Grade 9 advanced-Excel track opens with validation for a working reason: a workbook others will fill in is only as good as what they are allowed to type into it.
 
-[Picture — Rules at the door — what a cell will accept]
+In your mind's eye: rules at the door — what a cell will accept.
 
 ## Sub lesson 2 — Messages that teach — input help and honest errors
 
 Validation has a kind side and a firm side. The **input message** appears when the cell is chosen, telling the typist **what belongs here** before they type. The **error alert** appears when a rule is broken — and a good alert says **what was wrong and what is allowed**, not merely 'invalid'. The lesson's judgement: validation does not make data true — a permitted value can still be the wrong one — but it kills the whole family of impossible entries, so checking can spend itself on the possible ones.
 
-[Picture — Messages that teach — input help and honest errors]
+In your mind's eye: messages that teach — input help and honest errors.
 
 ## Say it to your companion
 

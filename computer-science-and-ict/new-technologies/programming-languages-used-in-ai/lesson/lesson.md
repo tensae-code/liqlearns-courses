@@ -8,13 +8,13 @@ Grade 11's AI chapter ends with the workshop question: in what languages is this
 
 AI's founding languages were built for its own kind of data. **Lisp** (from *list processing*) treats **lists** as its native material and programs as lists themselves — the language of the first AI decades, still the ancestor of how AI represents knowledge and rules. **Prolog** is the **logical** language: the programmer states **facts and rules**, and the system **answers questions by reasoning** over them — the expert-systems work of the AI-at-work lessons written in its own tongue.
 
-[Picture — The classic AI languages — Lisp and Prolog]
+In your mind's eye: the classic AI languages — Lisp and Prolog.
 
 ## Sub lesson 2 — The modern working set — Python and the data languages
 
 Today's AI is largely written in **general languages with great AI libraries**: **Python** above all — the course's own language grown up, carrying the machine-learning and data work of the new-technologies strand — with languages of **data and statistics** beside it and the fast systems languages underneath, where the libraries' heavy arithmetic actually runs. The chapter's judgement is the durable one: languages rise and fall; what lasts is knowing **which kind of language a problem wants** — symbolic for reasoning, data-rich for learning.
 
-[Picture — The modern working set — Python and the data languages]
+In your mind's eye: the modern working set — Python and the data languages.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The plan is drawn and the shots are ready. In this lesson you build the film its
 
 Shotcut's **interface** centres on the **Timeline** — the tracks where the film is assembled — with a preview that shows the film as it grows. Making begins by **importing files**: bring the video clips, pictures and sounds into the project first, so everything the film needs sits ready before any editing starts.
 
-[Picture — the shotcut screen and importing files]
+In your mind's eye: the shotcut screen and importing files.
 
 ## Sub lesson 2 — Building on the Timeline — and saving the project
 
 **Add clips** to the Timeline in the order the story needs them; **delete** a clip that does not fit. **Lock a track** when its work is finished, so later edits cannot disturb it. A mistake is not a disaster: **Undo** steps back over it. **Save the project** as you work, and **reopen** it next time to carry on exactly where you stopped — the project file remembers the whole arrangement.
 
-[Picture — building on the timeline — and saving the project]
+In your mind's eye: building on the timeline — and saving the project.
 
 ## Say it to your companion
 

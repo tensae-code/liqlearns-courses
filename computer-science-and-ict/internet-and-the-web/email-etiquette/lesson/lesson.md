@@ -8,13 +8,13 @@ An email is a letter, and letters have manners. Class VI's etiquette lesson name
 
 Email etiquette begins before the message: a **subject line** that says what the mail is about, a **greeting** that names the reader, and a **signature** that says who wrote it. The body is **short and clear** — one matter per message where possible, plain words, and no shouting in capital letters. A message written in haste and anger is written twice: once in the draft, once after cooling down — only the second is sent.
 
-[Picture — The well-made message — subject, greeting, clear words]
+In your mind's eye: the well-made message — subject, greeting, clear words.
 
 ## Sub lesson 2 — Replying and attaching with care
 
 Replies keep the manners: **reply** to the person who needs the answer, use reply-all only when everyone truly needs it, and answer in reasonable time. **Attachments** are announced in the message and kept to a size the receiver can take. And the standing check before Send: the right address, the right words, the right file attached — etiquette is mostly this one pause.
 
-[Picture — Replying and attaching with care]
+In your mind's eye: replying and attaching with care.
 
 ## Say it to your companion
 

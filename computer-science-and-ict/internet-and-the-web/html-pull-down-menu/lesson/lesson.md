@@ -8,13 +8,13 @@ A form asks for your state, and instead of a blank box it offers a folded list: 
 
 A pull-down menu is made with the **<select>** element, and each choice inside it is an **<option>** element: <select><option>Selangor</option><option>Perak</option></select>. The browser shows the menu **folded**: only the current choice is visible, with a small arrow beside it. Clicking opens the full list; clicking a choice folds the menu again with that choice showing. The menu's name (its name attribute) is what the choice is sent as when the form is submitted.
 
-[Picture — The select element — a folded list]
+In your mind's eye: the select element — a folded list.
 
 ## Sub lesson 2 — When a pull-down is the right control
 
 A pull-down suits a choice from a **fixed list** — states, months, class names — where typing would invite misspellings and wrong entries: the visitor can only pick what is offered, so the answers arrive clean and comparable. It suits badly when the list is very long (hunting through a hundred countries) or when the answer might not be on the list at all. Malaysia's teaching point is the match: fixed and short — pull-down; open or long — a text box or another control.
 
-[Picture — When a pull-down is the right control]
+In your mind's eye: when a pull-down is the right control.
 
 ## Say it to your companion
 

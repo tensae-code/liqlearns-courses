@@ -12,7 +12,7 @@ Open a program and it appears in a **window**: a framed area of the screen where
 
 One desktop can hold more than one window: open two programs and each has its own window. The desktop is the desk; each window is like one exercise book opened on it. Knowing which surface is the desktop and which frame is a program's window is the first map of the computer screen — every program in this unit opens in a window on the desktop.
 
-[Picture — a picture of a computer desktop with icons, and one open program window with its title bar named]
+In your mind's eye: a computer desktop with icons, and one open program window with its title bar named.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A postcard can be read by everyone who handles it. This lesson is about the seal
 
 **Coding (encoding)** turns information into another agreed representation: letters become numbers, numbers become binary, a message becomes signals. Anyone who knows the code can read it back — encoding is about **form, not secrecy**. The Year 1 book starts here (Тема 3 §3.4): before a computer can protect information, it must first represent it.
 
-[Picture — coding — saying it another way]
+In your mind's eye: coding. Saying it another way.
 
 ## Sub lesson 2 — Encryption — scrambling with a key
 
 **Encryption** scrambles a readable message (**plaintext**) into unreadable **ciphertext** using a rule and a **key**; **decryption** with the right key turns it back. The Year 2 book returns to the topic as full **cryptography** (Theme 1): modern systems rely on keys long enough that guessing them is hopeless, and encryption protects banking, messaging and personal data as they cross networks anyone could listen to. Encoding anyone can undo; encryption only the key-holder can.
 
-[Picture — encryption — scrambling with a key]
+In your mind's eye: encryption — scrambling with a key.
 
 ## Say it to your companion
 

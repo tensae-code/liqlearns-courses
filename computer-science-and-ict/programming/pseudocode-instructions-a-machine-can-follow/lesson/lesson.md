@@ -8,13 +8,13 @@
 
 **Pseudocode** is an algorithm written in **short, ordered, unambiguous instructions** in ordinary words — 'SET cup on table', 'POUR water UNTIL full' — no special language, but no vagueness either: every step names one action, every decision names its condition, every repeat names its end. It is 'pseudo' because it is not code a computer runs directly; it is the programme's thinking, written where humans can read, check and argue with it before any real language is touched.
 
-[Picture — Pseudocode — plain words, machine precision]
+In your mind's eye: pseudocode — plain words, machine precision.
 
 ## Sub lesson 2 — Let the machine read our words — running pseudocode in the robot
 
 The Grade 7 sessions **run the pseudocode in a robot** — a learner (or the book's Nano) executes the class's instructions **literally**: a missing step is a fall, a vague word is a frozen robot, an endless instruction is a robot walking into the wall forever. The failures are the teaching: each one sends the writers back to their text to find the exact word that failed, and the rewrite is the debugging lesson arriving early, in plain language. Pseudocode that survives a literal reader is ready to become a real program — the flowchart lesson's twin, in words instead of shapes.
 
-[Picture — Let the machine read our words — running pseudocode in the robot]
+In your mind's eye: let the machine read our words — running pseudocode in the robot.
 
 ## Say it to your companion
 

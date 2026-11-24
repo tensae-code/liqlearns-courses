@@ -8,13 +8,13 @@ Unit 2 §2.6.2 Tuples and §2.6.3 Indexing and Slicing (zero-based indexing; sli
 
 This part of Pakistan (Punjab)'s book teaches **Tuples and §2.6.3 Indexing and Slicing** — covering: Unit 2 §2.6.2 Tuples and §2.6.3 Indexing and Slicing (zero-based indexing; slicing; negative indices). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Tuples and §2.6.3 Indexing and Slicing]
+In your mind's eye: tuples and §2.6.3 Indexing and Slicing.
 
 ## Sub lesson 2 — Doing it — Tuples and Indexing and Slicing with Negative Indices in practice
 
 **Doing it — Tuples and Indexing and Slicing with Negative Indices in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Tuples and Indexing and Slicing with Negative Indices in practice]
+In your mind's eye: doing it — Tuples and Indexing and Slicing with Negative Indices in practice.
 
 ## Say it to your companion
 

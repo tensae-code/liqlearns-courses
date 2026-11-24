@@ -8,13 +8,13 @@ Paint's shapes draw themselves straight and round. The pencil does not: it draws
 
 The **pencil tool** draws a **thin free line that follows the mouse** wherever it moves while the button is held: press, move, release — the line is the path your hand took. Unlike the shape tools, the pencil makes **any line at all** — wavy, zigzag, a signature, the outline of a house — because nothing corrects it into a ready shape. A slow hand makes a surer line: the lesson's practice is drawing outlines first, steadily, before any filling or colour work begins.
 
-[Picture — the pencil tool — drawing free lines]
+In your mind's eye: the pencil tool — drawing free lines.
 
 ## Sub lesson 2 — The eraser — rubbing out mistakes
 
 The **eraser (gomme)** removes drawing where it passes: choose it, and **drag it over the part to rub out** — that part disappears, back to the paper colour. The eraser is for **small corrections** — one wrong line, one stray mark — not for starting again: what it touches is gone, including good lines it crosses, so it is used in short, careful strokes. Pencil and eraser are a pair: draw bravely, correct precisely.
 
-[Picture — the eraser — rubbing out mistakes]
+In your mind's eye: the eraser — rubbing out mistakes.
 
 ## Say it to your companion
 

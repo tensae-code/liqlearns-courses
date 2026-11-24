@@ -10,7 +10,7 @@ To build a model from shapes, first look at the thing you want to make — and l
 
 A boat has a long body, a tall mast and a triangle sail. A house has square walls and a triangle roof. A car has a rectangle body and circle wheels.
 
-[Picture — a boat, a house and a car, each with its parts outlined as a triangle, a square, a rectangle and circles]
+In your mind's eye: a boat, a house and a car, each with its parts outlined as a triangle, a square, a rectangle and circles.
 
 The flat **geometric shapes** are your building pieces: the **circle**, the **square**, the **triangle** and the **rectangle**. The work of this sub lesson is choosing: which shape is each part? Say it before you touch any paper: the sail is a triangle; the wheels are circles.
 
@@ -20,7 +20,7 @@ Now build. Take your shapes — cut from coloured paper, or ready-cut pieces you
 
 Lay them out first, without glue. Put each shape where its part goes: the triangle sail above the boat's body, the circle sun in the sky. Look at the whole picture. Is anything upside down, or in the wrong place? Move it now — moving is free before the glue.
 
-[Picture — children's hands laying coloured paper shapes into a boat: a long body, a mast, a triangle sail, a circle sun]
+In your mind's eye: children's hands laying coloured paper shapes into a boat. A long body, a mast, a triangle sail, a circle sun.
 
 Then stick them down, one by one. This way of building a picture-model from cut shapes is called **appliqué**.
 

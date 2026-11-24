@@ -8,13 +8,13 @@ Two operating systems divide the personal-computer world, and they divide it by 
 
 **Windows** is Microsoft's operating system for personal computers: it works through **windows, icons, menus and a mouse** (the graphical way DOS never had), it is **sold as a product** with the maker's support behind it, and it runs the widest shelf of programs — which is why it fills the school and office machines of this course, in the book's era as **Windows XP**. Its way is the guided way: the system shows what can be done and the user points at the doing.
 
-[Picture — Windows — the sold, windowed system]
+In your mind's eye: windows — the sold, windowed system.
 
 ## Sub lesson 2 — Linux — the free, open system
 
 **Linux** is an operating system given away **free**, whose **code is open** — anyone may study it, change it and pass it on, which is its name in the guide's pairing (GNU/Linux). It runs from the largest servers to school computers, works by graphical windows where wanted and by the **command line** where power is wanted, and comes in many **distributions** — packagings by different makers of the same open heart. The guide's comparison is the durable one: the same manager's jobs, done under two opposite ideas of ownership — one sold and supported, one free and shared.
 
-[Picture — Linux — the free, open system]
+In your mind's eye: linux — the free, open system.
 
 ## Say it to your companion
 

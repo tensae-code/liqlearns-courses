@@ -8,13 +8,13 @@ The Excel journey ends, as Kuwait's journeys end, in making: not one practice ta
 
 The project builds three **.xlsx workbooks**, one per world the pupil knows. The **school workbook** keeps school numbers — pupils, marks, attendance — in tables with the journey's formatting and formulas. The **bank workbook** keeps money's records — deposits, withdrawals, balances — where the formula that computes the running balance is the workbook's heart. The **office workbook** keeps a workplace's lists and totals. Three worlds, one craft: each is a workbook of rows and columns, formatted cells and working formulas, saved properly and reopened whole.
 
-[Picture — Three workbooks, three worlds]
+In your mind's eye: three workbooks, three worlds.
 
 ## Sub lesson 2 — Working the project — the journey's skills, together
 
 Nothing in the project is new: launching and keeping workbooks, rows columns and cells, formatting, formulas that start with =, and the fill handle are all demanded **together**, without a lesson title to say which comes next. That is the project's examination: the journey's four lessons ('My Special Table' 1–4) were skills, and the three workbooks are where the pupil proves they can be spent without instructions — one finished, presentable workbook per world.
 
-[Picture — Working the project — the journey's skills, together]
+In your mind's eye: working the project — the journey's skills, together.
 
 ## Say it to your companion
 

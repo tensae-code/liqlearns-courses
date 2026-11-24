@@ -8,13 +8,13 @@ Unit 4 §§4.2–4.3 Simple problems; Complex problems
 
 This part of Pakistan (Punjab)'s book teaches **§§4.2–4.3 Simple problems; Complex problems** — covering: Unit 4 §§4.2–4.3 Simple problems; Complex problems. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — §§4.2–4.3 Simple problems; Complex problems]
+In your mind's eye: §§4.2–4.3 Simple problems; Complex problems.
 
 ## Sub lesson 2 — Doing it — Simple Problems and Complex Problems in practice
 
 **Doing it — Simple Problems and Complex Problems in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Simple Problems and Complex Problems in practice]
+In your mind's eye: doing it — Simple Problems and Complex Problems in practice.
 
 ## Say it to your companion
 

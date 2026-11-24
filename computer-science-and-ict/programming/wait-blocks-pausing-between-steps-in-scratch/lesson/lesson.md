@@ -8,13 +8,13 @@ Two lines of dialogue spoken in the same instant are noise. A drawing that appea
 
 Grade 7 teaches the **wait period** inside its repetitions lesson: a **wait block** holds the script still for the seconds written on it, and the next block runs only when the wait ends. Waits **control the timing of execution** — the same script, with different waits, tells its story at a different speed.
 
-[Picture — the wait period — timing of execution]
+In your mind's eye: the wait period — timing of execution.
 
 ## Sub lesson 2 — Waits at work — dialogue, journeys, repetition
 
 Once taught, the wait quietly runs the rest of the course: speakers **wait while the other talks**, the travelling parrot’s journey is **paced by waits**, and repeated drawing becomes watchable when a wait sits inside the repeat. The question is never whether to wait, but how long — long enough to read, short enough to keep the story alive.
 
-[Picture — waits at work — dialogue, journeys, repetition]
+In your mind's eye: waits at work — dialogue, journeys, repetition.
 
 ## Say it to your companion
 

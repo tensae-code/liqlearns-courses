@@ -8,13 +8,13 @@ Laos's Grade 7 teacher guide introduces the classic languages two at a time. Its
 
 **BASIC** (Beginner's All-purpose Symbolic Instruction Code) was designed so that **beginners could write programs at once**: its instructions are short, English-like words, its programs run through an **interpreter** that answers immediately, and a learner's first program fits in a first sitting. The guide's student book closes its software chapter with a comparison table of real compilers — Visual Basic (BASIC's descendant) among them — because BASIC's family still fills offices and classrooms: the language made to be first became a language that stayed.
 
-[Picture — BASIC — the beginners' language]
+In your mind's eye: bASIC — the beginners' language.
 
 ## Sub lesson 2 — C — the systems language
 
 **C** is the opposite character: a **compact, powerful language close to the machine**, in which operating systems themselves (Unix first among them) were written. C gives the programmer direct command of the machine's memory and parts, and demands in return exactness — a C program does what it is told at a depth where mistakes are the programmer's alone. It is a **compiled** language, translated whole before it runs. The guide pairs the two because together they mark the road every programmer walks: begin where the language forgives (BASIC), arrive where the language obeys (C).
 
-[Picture — C — the systems language]
+In your mind's eye: c — the systems language.
 
 ## Say it to your companion
 

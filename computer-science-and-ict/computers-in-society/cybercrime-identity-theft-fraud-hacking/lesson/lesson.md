@@ -8,13 +8,13 @@ Unit 4 §4.5 Cybercrime (identity theft; transaction fraud; advance fee fraud; h
 
 This part of Pakistan (Punjab)'s book teaches **Cybercrime Identity Theft Fraud Hacking** — covering: Unit 4 §4.5 Cybercrime (identity theft; transaction fraud; advance fee fraud; hacking and spyware; piracy; Pakistan's NR3C). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Cybercrime Identity Theft Fraud Hacking]
+In your mind's eye: cybercrime Identity Theft Fraud Hacking.
 
 ## Sub lesson 2 — Doing it — Cybercrime Identity Theft Fraud Hacking in practice
 
 **Doing it — Cybercrime Identity Theft Fraud Hacking in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Cybercrime Identity Theft Fraud Hacking in practice]
+In your mind's eye: doing it — Cybercrime Identity Theft Fraud Hacking in practice.
 
 ## Say it to your companion
 

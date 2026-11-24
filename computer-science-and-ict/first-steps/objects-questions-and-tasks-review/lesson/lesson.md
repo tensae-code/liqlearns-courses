@@ -14,7 +14,7 @@ This is the **review lesson** for the Objects unit — the book's own 'questions
 
 **Task set 3 — riddles.** Solve a riddle by listening to the features one at a time, and make a riddle of your own with three or four true features and no name. If a task goes wrong, that task names the lesson to visit again — the review is a map back, not only a test.
 
-[Picture — a picture of a review table with five small tasks in a row: naming, comparing, grouping, telling apart and a riddle speech bubble]
+In your mind's eye: a review table with five small tasks in a row. Naming, comparing, grouping, telling apart and a riddle speech bubble.
 
 ## Say it to your companion
 

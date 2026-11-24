@@ -8,13 +8,13 @@ Before a computer can hold a letter, a sound or a picture, each must become numb
 
 A computer stores only numbers, so **information is represented with digits**: a quantity by its count, a yes or no by 1 or 0, a place on a grid by two numbers. Uzbekistan's Grade 8 book places this lesson between conversions and coding — the pupil first learns that numbers can *stand for* things, then learns the codes that do the standing.
 
-[Picture — Everything becomes a number]
+In your mind's eye: everything becomes a number.
 
 ## Sub lesson 2 — Counting the amount of information
 
 Representing with numbers lets us **measure**: the amount of information in a message can be counted in its digits and symbols, and a bigger store holds more numbers than a smaller one. The same idea returns in the book's next lessons as volume of information and transfer speed — representation first, measurement second, code third.
 
-[Picture — Counting the amount of information]
+In your mind's eye: counting the amount of information.
 
 ## Say it to your companion
 

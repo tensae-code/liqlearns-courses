@@ -8,13 +8,13 @@ Two phones cost the same. One feels fast for two years, the other slows within m
 
 Choosing well means comparing **criteria — specifications** — against the work the device must do: the **processor's speed**, the amount of **memory** and **storage**, the screen, and the battery for a carried device. Grade 11's lesson sets the criteria beside each other for the **computer and the smartphone**, because the same questions serve both.
 
-[Picture — Criteria for choosing]
+In your mind's eye: criteria for choosing.
 
 ## Sub lesson 2 — Comparing the smart device and the computer
 
 The book **compares the smart device and the computer** directly: what they share (processor, memory, storage, operating system) and where they differ (size, battery, how they are carried and used). The buyer who can read both specification lists with the same criteria can choose either device well — and say why.
 
-[Picture — Comparing the smart device and the computer]
+In your mind's eye: comparing the smart device and the computer.
 
 ## Say it to your companion
 

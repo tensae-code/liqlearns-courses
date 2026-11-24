@@ -8,13 +8,13 @@ Grade 7's cybersecurity unit does not leave 'be secure' as one fog. It levels it
 
 At the **computer level**, security guards **one machine**: its accounts and passwords, its updated programs, its antivirus, who may sit at it. At the **network level**, security guards **the travelling and the gates**: the connections' protection, the **firewall** deciding what may pass, the watching for attacks aimed at many machines at once. A fault at one level is not excused by the other: a guarded network carrying an unguarded laptop is a wall with the door open.
 
-[Picture — The computer level and the network level]
+In your mind's eye: the computer level and the network level.
 
 ## Sub lesson 2 — The information-systems level — people, data and rules
 
 At the **information-system level**, security guards the **whole working system** — its **data** (who may read, change and delete what, with backups when the worst happens), its **people** (their training, their duties, the rules they sign), and its **procedures** (what happens on the bad day, decided before it comes). The unit's application rule closes the levels: real security is **all three rings at once**, because attackers choose the weakest ring, and the levels are a checklist for finding it before they do.
 
-[Picture — The information-systems level — people, data and rules]
+In your mind's eye: the information-systems level — people, data and rules.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A variable that cannot be calculated with is a label, not a tool. Mongolia's nex
 
 An **expression** is a written working-out: values and variables joined by operators, which the machine evaluates to a single result. Programs get their starting values from the user with **ReadNumber**, the TextWindow operation that pauses, takes a typed number, and hands it to a variable. Input, then expression, then assignment — `area = side * side` — is the rhythm of every numeric program in the book: read the quantities, work the expression, keep the result.
 
-[Picture — Expressions and ReadNumber — values in, values worked]
+In your mind's eye: expressions and ReadNumber — values in, values worked.
 
 ## Sub lesson 2 — Operators and precedence — the order of working out
 
 Small Basic's **arithmetic operators** are the school set: **+ − * /** and the remainder and powers met through the Math object. Joined in one expression they are **not** worked left to right by habit but by **operator precedence**: multiplication and division before addition and subtraction, and **parentheses** above all — the bracketed part is worked first, always. Precedence is the lesson's warning label: `2 + 3 * 4` is 14, not 20, and the programmer who needs 20 must write the brackets and say so.
 
-[Picture — Operators and precedence — the order of working out]
+In your mind's eye: operators and precedence — the order of working out.
 
 ## Say it to your companion
 

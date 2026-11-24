@@ -8,13 +8,13 @@ Unit 2 §2.3.7 Use email as a means of Authentication for Another Website Login 
 
 This part of Pakistan (Punjab)'s book teaches **Use email as a means of Authentication for Another Website Login Password** — covering: Unit 2 §2.3.7 Use email as a means of Authentication for Another Website Login Password (password, certificate, biometric; DKIM, SPF, DMARC) and §2.3.11 Process of authentication. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Use email as a means of Authentication for Another Website Login Password]
+In your mind's eye: use email as a means of Authentication for Another Website Login Password.
 
 ## Sub lesson 2 — Doing it — Email Authentication DKIM SPF and DMARC in practice
 
 **Doing it — Email Authentication DKIM SPF and DMARC in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Email Authentication DKIM SPF and DMARC in practice]
+In your mind's eye: doing it — Email Authentication DKIM SPF and DMARC in practice.
 
 ## Say it to your companion
 

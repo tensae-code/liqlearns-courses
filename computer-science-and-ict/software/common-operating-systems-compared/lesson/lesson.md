@@ -8,13 +8,13 @@ The last lesson named the operating system — the manager program. But there is
 
 The **common operating systems** are the ones a learner will actually meet: **Microsoft Windows**, the system of most school and office personal computers; **Linux**, the free, open system found on servers, school machines and programmers' computers; and the other widely used systems the book names alongside them. Each does the same manager's jobs — starting the machine, running programs, managing files and devices — so the comparison is never 'which works' but 'which fits'.
 
-[Picture — The common operating systems — the named set]
+In your mind's eye: the common operating systems — the named set.
 
 ## Sub lesson 2 — Comparing them — same jobs, different fits
 
 Operating systems are compared on the things a user feels: **what machines they run on**, **what they cost** (Windows is sold; Linux is free), **who may change them** (open-source code may be studied and altered; closed code may not), and **what programs and support** surround them. Libya's point in comparing, not just listing, is judgement: the right system for a school lab, a server and a home computer may be three different answers, each right for its place.
 
-[Picture — Comparing them — same jobs, different fits]
+In your mind's eye: comparing them — same jobs, different fits.
 
 ## Say it to your companion
 

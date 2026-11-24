@@ -8,13 +8,13 @@ Unit 2 §2.1.7 resizing an image and aligning it with the text
 
 This part of Pakistan (Punjab)'s book teaches **Resizing an image and aligning it with the text** — covering: Unit 2 §2.1.7 resizing an image and aligning it with the text. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Resizing an image and aligning it with the text]
+In your mind's eye: resizing an image and aligning it with the text.
 
 ## Sub lesson 2 — Doing it — Resizing Images and Wrapping Text Around Them in practice
 
 **Doing it — Resizing Images and Wrapping Text Around Them in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Resizing Images and Wrapping Text Around Them in practice]
+In your mind's eye: doing it — Resizing Images and Wrapping Text Around Them in practice.
 
 ## Say it to your companion
 

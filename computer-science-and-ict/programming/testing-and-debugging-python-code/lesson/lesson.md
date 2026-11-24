@@ -8,13 +8,13 @@ Unit 2 §2.10 Testing and Debugging in Python (§2.10.1 testing — unittest, ty
 
 This part of Pakistan (Punjab)'s book teaches **Testing and Debugging in Python** — covering: Unit 2 §2.10 Testing and Debugging in Python (§2.10.1 testing — unittest, types of testing; §2.10.2 debugging; §2.10.3 common techniques — print statements, pdb, error messages). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Testing and Debugging in Python]
+In your mind's eye: testing and Debugging in Python.
 
 ## Sub lesson 2 — Doing it — Testing and Debugging Python Code in practice
 
 **Doing it — Testing and Debugging Python Code in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Testing and Debugging Python Code in practice]
+In your mind's eye: doing it — Testing and Debugging Python Code in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ One loop was a discovery; real programs need several. The Grade 2 book closes it
 
 A program may hold **many loops, one after another**, each repeating its own part: the mouse crosses a corridor (loop), turns a square room's corners (another loop), then climbs stairs (a third). Each loop keeps **its own body and its own count**; when one loop finishes, the program moves to the next instruction, loop or not. Reading such a program means reading it **in order, part by part** — and writing one means cutting the task into parts first, then looping the parts that repeat.
 
-[Picture — Several loops, each with its own job]
+In your mind's eye: several loops, each with its own job.
 
 ## Sub lesson 2 — The laboratory — compose, run, fix, and two new instructions
 
 The laboratory lessons work as real programming works: **compose** a program for a set task, **run** it on the executor, **find** where it went wrong, **fix** it and run again. Two new instructions join the executors' language here — **collect** and **squeeze** style orders for the hedgehog's tasks (gathering what lies on the road, passing narrow places) — met the laboratory way: an instruction is learned by the task that needs it. The module's closing rule: a program is finished not when it is written, but when it **runs right**.
 
-[Picture — The laboratory — compose, run, fix, and two new instructions]
+In your mind's eye: the laboratory — compose, run, fix, and two new instructions.
 
 ## Say it to your companion
 

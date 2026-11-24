@@ -8,13 +8,13 @@ Before the course defends its pseudocode, it asks what a language is. Greek grew
 
 A **natural language** (Greek, English, every mother tongue) **grew** with its people: enormous vocabulary, grammar full of history, and **ambiguity everywhere** — one sentence honestly meaning two things, its sense carried by context, tone and shared life. That richness is its glory for people and its impossibility for machines: a computer given an ambiguous instruction does not know which meaning was meant, and guessing is not obeying.
 
-[Picture — Natural languages — grown, rich, ambiguous]
+In your mind's eye: natural languages — grown, rich, ambiguous.
 
 ## Sub lesson 2 — Artificial languages — built, small, exact
 
 An **artificial language** is **built on purpose** with a **small fixed vocabulary and exact rules**: a programming language (and ΓΛΩΣΣΑ among them) is one, and so are mathematics' notation and the sign systems of science. Every sentence of an artificial language means **one thing**, checkable by its rules alone — which is exactly the property that lets a machine translate and execute it without judgement. The chapter's balance: people will keep *thinking* in natural languages; artificial languages are the narrow, honest bridge their thoughts cross to reach the machine.
 
-[Picture — Artificial languages — built, small, exact]
+In your mind's eye: artificial languages — built, small, exact.
 
 ## Say it to your companion
 

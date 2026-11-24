@@ -8,13 +8,13 @@ A presentation saved only in its own program's format can be opened only there. 
 
 **Save As** keeps the presentation under a new **format** as well as a new name. Saved as a **PDF**, the deck becomes a document any computer can read and print, its slides fixed exactly as designed. Saved as **pictures**, each slide becomes an image that can be placed in other work. Saved as a **show**, the file opens straight into the slide show, ready for an audience with no editing tools in the way.
 
-[Picture — Save As — one deck, several forms]
+In your mind's eye: save As — one deck, several forms.
 
 ## Sub lesson 2 — Choosing the format for the reader
 
 The format is chosen by **who receives it and how**: a reader who must only read gets the PDF; a designer who needs a slide inside other work gets the picture; an audience gets the show. The original editable deck is always kept too — the other formats are copies sent out, and the master stays at home, changeable for next time.
 
-[Picture — Choosing the format for the reader]
+In your mind's eye: choosing the format for the reader.
 
 ## Say it to your companion
 

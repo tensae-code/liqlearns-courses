@@ -8,13 +8,13 @@ Pick any digital tool you used today — a phone, a bus card, a game. Before rea
 
 Every digital technology is **modular**: it is built from smaller parts that can be combined, replaced and reused — a phone is camera, screen, battery, programs, network, each a module. And no technology lives alone: it sits in a **socio-technical environment** — the people, habits, rules and other machines around it. The Décodage guides open every cycle with these reading keys, because a tool can only be understood by naming its parts and its surroundings.
 
-[Picture — Modularity and the socio-technical environment]
+In your mind's eye: modularity and the socio-technical environment.
 
 ## Sub lesson 2 — Delegation, responsibility and pluralism
 
 **Delegation** is handing work to the machine: the alarm remembers, the map navigates, the spell-checker watches. But delegating does not erase **responsibility** — the person who delegates still answers for the result, so the guides ask who decided, who checked, who is accountable. **Pluralism** completes the keys: there is never only one tool, one answer or one way of living with technology — several ways exist, and they can be compared and chosen between.
 
-[Picture — Delegation, responsibility and pluralism]
+In your mind's eye: delegation, responsibility and pluralism.
 
 ## Say it to your companion
 

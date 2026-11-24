@@ -8,13 +8,13 @@ The Blender course ends in a product with an address: a Kuwaiti landmark, modell
 
 The integrated project models the **Al-Shagaya renewable-energy station** — Kuwait's solar and wind plant — in Blender: its panels' arrays (the Array modifier's real home), its structures modelled and mesh-edited, materials and textures assigned, the scene lit and framed for its render. Integrated means the whole unit is spent at once, on a Kuwaiti subject: the pupil's country supplying both the landmark and the lesson — how a nation makes its power is Grade 8's final 3D subject.
 
-[Picture — The project — modelling Al-Shagaya]
+In your mind's eye: the project — modelling Al-Shagaya.
 
 ## Sub lesson 2 — Exhibiting the class's digital products
 
 The project closes with an **exhibition of the class's digital products**: the models shown to an audience, each maker's choices — what was modelled, what was simplified, what the render argues — presented with the work. Kuwait's products unit always ends in showing, because a product's last stage is its readers: the exhibition is where the class's private skills become public standards, and where the next project quietly begins in a pupil who saw a better tower.
 
-[Picture — Exhibiting the class's digital products]
+In your mind's eye: exhibiting the class's digital products.
 
 ## Say it to your companion
 

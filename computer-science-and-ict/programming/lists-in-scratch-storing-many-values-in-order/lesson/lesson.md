@@ -8,13 +8,13 @@ A variable holds one value. A class holds thirty names, a budget holds every exp
 
 **A list is ordered data, every item with a position number.** Its operations are the lesson’s kit: **add, insert, item number of, replace, delete** — **deleting renumbers the rest** — **length of list**, and **contains**. The first lists hold **names, fathers’ names and family names**, in order.
 
-[Picture — the list and its operations]
+In your mind's eye: the list and its operations.
 
 ## Sub lesson 2 — Parallel lists at work — quiz, address book, budget, tasks
 
 The book’s builds pair lists up: a **quiz on three parallel lists** (questions, correct answers, the student’s answers) with **counters for right and wrong**; an **address book on six parallel lists** (name, mobile, city, home address, email, age) with **input checked as entered** — age 0–120, a mobile ten digits starting 05, asked again until valid — and **searching the names list**; **Amal’s expense tracking on two lists** (kind and price) totalled by **looping with a counter**, savings = income − total; and a **task list on two lists** (tasks and dates) with Add, Update, Delete-one and Delete-all buttons, updating first checking the position is inside the list.
 
-[Picture — parallel lists at work — quiz, address book, budget, tasks]
+In your mind's eye: parallel lists at work — quiz, address book, budget, tasks.
 
 ## Say it to your companion
 

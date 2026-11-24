@@ -8,13 +8,13 @@ Some areas have no formula. Grade 12's last numerical method builds them from th
 
 The **definite integral** of f over [a, b] is the **area under its curve** (above the axis, on that span). The **rectangle method** cuts [a, b] into **n equal subintervals** of width **h = (b − a) / n**, stands a **rectangle** on each — its height a function value in that subinterval — and takes the **sum of the rectangles' areas** as the integral's approximation: Σ f(xᵢ)·h. As n grows and h shrinks, the staircase hugs the curve closer, and the sum approaches the true area — a method error the refinement literally pictures.
 
-[Picture — Areas from rectangles — the sum that approximates]
+In your mind's eye: areas from rectangles — the sum that approximates.
 
 ## Sub lesson 2 — Left, right, midpoint — choosing the height
 
 The height choice gives the method its three school forms: **left rectangles** take f at each subinterval's **left end** (under-shooting a rising function), **right rectangles** at the **right end** (overshooting it), and **midpoint rectangles** at the **centre** — whose errors from the two sides of the curve partly cancel, making it the most accurate of the three for smooth functions. For a monotone function, left and right sums **bracket the truth** between them — the integral's own separation interval — and their difference bounds the error of either.
 
-[Picture — Left, right, midpoint — choosing the height]
+In your mind's eye: left, right, midpoint — choosing the height.
 
 ## Say it to your companion
 

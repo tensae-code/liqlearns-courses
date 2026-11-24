@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **–34 Практикум. Программирование условий. Разработка игры по готовому сценарию** — covering: §33–34 Практикум. Программирование условий. Разработка игры по готовому сценарию. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — –34 Практикум. Программирование условий. Разработка игры по готовому сценарию]
+In your mind's eye: –34 Практикум. Программирование условий. Разработка игры по готовому сценарию.
 
 ## Sub lesson 2 — Определяем идею
 
 This part of Kazakhstan's book teaches **Определяем идею** — covering: 4.1 Определяем идею. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Определяем идею]
+In your mind's eye: определяем идею.
 
 ## Say it to your companion
 

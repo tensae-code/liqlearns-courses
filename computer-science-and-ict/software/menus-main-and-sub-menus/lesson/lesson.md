@@ -8,13 +8,13 @@ Click one word on a menu bar and a list falls down. Point at one item with an ar
 
 A **menu** is a list of choices the program offers, so you pick a command instead of typing or remembering it. The **main menu** is the first list: it opens from the **menu bar** at the top of a window — File, Edit, View and their neighbours — or from the Start button. Clicking a name opens its list; clicking a command in the list carries it out and closes the menu. Pressing Escape, or clicking elsewhere, closes the menu without choosing anything.
 
-[Picture — a window's menu bar with the File main menu opened — a list of commands]
+In your mind's eye: a window's menu bar with the File main menu opened — a list of commands.
 
 ## Sub lesson 2 — The sub-menu — a menu inside a menu
 
 Some items in a main menu carry a small **arrow** at their right edge. Pointing at such an item — without clicking — opens a **sub-menu**: a second, smaller list that opens out sideways, offering the choices inside that one item. So a command can be two steps deep: main menu first, then across to the sub-menu, then click the exact command. If you slide off the path, the sub-menu closes and you simply point again.
 
-[Picture — a main menu item with an arrow, its sub-menu opened out sideways]
+In your mind's eye: a main menu item with an arrow, its sub-menu opened out sideways.
 
 ## Say it to your companion
 

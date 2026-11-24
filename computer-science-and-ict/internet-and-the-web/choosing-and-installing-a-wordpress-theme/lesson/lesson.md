@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Choosing a Theme/Template for your site 
 
 This part of South Sudan's book teaches **Choosing a Theme/Template for your site — free and responsive themes, installing a theme** — covering: Choosing a Theme/Template for your site — free and responsive themes, installing a theme. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Choosing a Theme/Template for your site — free and responsive themes, installing a theme. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — choosing a Theme/Template for your site — free and responsive themes, installing a theme is part of that chain..
 
-[Picture — Choosing a Theme/Template for your site — free and responsive themes, installing a theme]
+In your mind's eye: choosing a Theme/Template for your site — free and responsive themes, installing a theme.
 
 ## Sub lesson 2 — Doing it — Choosing a Theme/Template for your site — free and responsive themes, installing a theme in practice
 
 This part of South Sudan's book teaches **Doing it — Choosing a Theme/Template for your site — free and responsive themes, installing a theme in practice** — covering: Choosing a Theme/Template for your site — free and responsive themes, installing a theme. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Choosing a Theme/Template for your site — free and responsive themes, installing a theme. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Choosing a Theme/Template for your site — free and responsive themes, installing a theme in practice is part of that chain..
 
-[Picture — Doing it — Choosing a Theme/Template for your site — free and responsive themes, installing a theme in practice]
+In your mind's eye: doing it — Choosing a Theme/Template for your site. Free and responsive themes, installing a theme in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Kuwait's Grade 6 Scratch ladder ends by opening Scratch's extension shelf — ex
 
 An **extension** adds a new family of blocks to Scratch for a special power. The **Text to Speech** extension gives sprites a spoken voice: a block takes **written text and speaks it aloud**, in chosen voices and languages — the sprite stops showing its words in bubbles and starts saying them. Kuwait files it under Advanced Skills because the sprite's speech changes what a Scratch story can be: narration, dialogue and announcements performed, not read.
 
-[Picture — Extensions — and Text to Speech]
+In your mind's eye: extensions — and Text to Speech.
 
 ## Sub lesson 2 — Translate — and the finishing skills
 
 The **Translate** extension turns text from one **language** into another inside the program — a sprite that greets in Arabic and answers in English is translating as it runs. Around these powers stand the unit's finishing skills: **joining the Scratch platform** — the pupil's own account on the Scratch site, where projects live and are shared — and **packaging a project as an executable**, a file that runs outside Scratch, as a finished product is handed over.
 
-[Picture — Translate — and the finishing skills]
+In your mind's eye: translate — and the finishing skills.
 
 ## Say it to your companion
 

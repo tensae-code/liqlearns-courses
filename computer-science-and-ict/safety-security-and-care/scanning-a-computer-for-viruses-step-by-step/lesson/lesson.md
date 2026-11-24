@@ -8,13 +8,13 @@ Unit 2 §2.2.3 Scanning a Computer for Viruses (AVG: update, scan now, whole com
 
 This part of Pakistan (Punjab)'s book teaches **Scanning a Computer for Viruses** — covering: Unit 2 §2.2.3 Scanning a Computer for Viruses (AVG: update, scan now, whole computer scan, Virus Vault). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Scanning a Computer for Viruses]
+In your mind's eye: scanning a Computer for Viruses.
 
 ## Sub lesson 2 — Doing it — Scanning a Computer for Viruses Step by Step in practice
 
 **Doing it — Scanning a Computer for Viruses Step by Step in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Scanning a Computer for Viruses Step by Step in practice]
+In your mind's eye: doing it — Scanning a Computer for Viruses Step by Step in practice.
 
 ## Say it to your companion
 

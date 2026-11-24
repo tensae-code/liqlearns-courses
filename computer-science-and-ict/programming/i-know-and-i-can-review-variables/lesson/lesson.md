@@ -8,7 +8,7 @@ Run the balloon idea once more from memory: a score that grows each time the bal
 
 This **"Знам и мога" (I know and I can)** check proves the **variables** strand of Grade 4: the variable work of Урок 17 — **"Работа с променливи. Да спукаме балона!" (Working with variables: let's pop the balloon!)**, stocked in the variables lesson — where a variable holds a value, the value **changes** as the program runs, and the balloon game's score proves why a program needs memory. The review also draws in the **drawing blocks**, so proved work mixes memory and drawing in one set of tasks. Tasks are done alone and checked against what the program actually does — a variable review is proved by watching the value change, not by describing it. Anything not proved is named and practised again.
 
-[Picture — a picture of a picture of a balloon sprite with a score variable box beside it reading first 0, then 1, then 2, with a small checklist ticking "variable made" and "value changed"]
+In your mind's eye: a picture of a balloon sprite with a score variable box beside it reading first 0, then 1, then 2, with a small checklist ticking "variable made" and "value changed".
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The BCD lesson coded digits. Letters, signs and whole alphabets need bigger agre
 
 **EBCDIC** (Extended Binary Coded Decimal Interchange Code) is the 8-bit code of IBM's mainframe world — 256 characters, its letter order broken into ranges by its punched-card ancestry. **ASCII** is the 7-bit code that won the wider world: 128 characters — control codes, digits, English letters and signs in one clean order (the codes lesson's table). ASCII's limit is written on its face: 128 places cannot hold the world's scripts — not Bangla, not Chinese, not even the accented letters of French.
 
-[Picture — EBCDIC and ASCII — the first two agreements]
+In your mind's eye: eBCDIC and ASCII — the first two agreements.
 
 ## Sub lesson 2 — Unicode — every character, one table; and the Bangla table
 
 **Unicode** answers by giving **every character of every script its own number** — over a hundred thousand places and growing. Its storage forms trade size for reach: **UTF-8** spends 1–4 bytes per character and rules the web; **UTF-16** spends mostly 2; **UTF-32** spends a fixed 4. The book prints the **Bangla Unicode table** — the block where Bangla's letters live — because for its readers Unicode is not an abstraction: it is the agreement that lets their own language be typed, stored, printed and sent, the agreement the web chapter's charset line declares.
 
-[Picture — Unicode — every character, one table; and the Bangla table]
+In your mind's eye: unicode — every character, one table; and the Bangla table.
 
 ## Say it to your companion
 

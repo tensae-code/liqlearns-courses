@@ -8,13 +8,13 @@ The first Motion lesson moved the sprite; this one steers it and multiplies its 
 
 A sprite moves **the way it faces**, so direction is set before movement: the **direction blocks** turn the sprite or point it at an angle, and the **keyboard arrows** can be made to steer it as the player presses. Kuwait separates direction from motion because beginners blame the move block for journeys that were really lost at the facing: the sprite went exactly where it pointed — the pointing was wrong.
 
-[Picture — Changing direction — facing where the next move goes]
+In your mind's eye: changing direction — facing where the next move goes.
 
 ## Sub lesson 2 — Duplicating a script — copy the whole stack
 
 **Duplicating** copies a whole script at once — the stack and every block in it — so it can be placed again, on this sprite or another, and then adjusted. It is the maker's answer to building the same behaviour twice: build once, duplicate, change what differs. The discipline travels with the shortcut: a duplicated script duplicates its mistakes too, so the original is tested before it is copied.
 
-[Picture — Duplicating a script — copy the whole stack]
+In your mind's eye: duplicating a script — copy the whole stack.
 
 ## Say it to your companion
 

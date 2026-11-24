@@ -12,7 +12,7 @@ The **shortest path** is the route that takes the **least travelling** — the f
 
 Shortest is a choosing problem, like the algorithm lessons before it: state the start and the finish, list the routes you know, compare them fairly — same start, same finish — and pick the best. Sometimes the simplest route and the shortest route are the same; sometimes a route is short but hard. In this lesson we choose by length, the Grade 2 way: the route with the least travelling wins.
 
-[Picture — a picture of a simple map with two routes from a house to a park: a long route around the block and a short route through a lane, with steps counted along each]
+In your mind's eye: a simple map with two routes from a house to a park. A long route around the block and a short route through a lane, with steps counted along each.
 
 ## Say it to your companion
 

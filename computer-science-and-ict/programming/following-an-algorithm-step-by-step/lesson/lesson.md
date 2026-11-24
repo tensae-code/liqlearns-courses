@@ -12,7 +12,7 @@ An executor does exactly what the step says — no more, no less, and no guessin
 
 Executing well means three habits: read the whole plan once before starting, tick each step as you finish it, and stop at once if a step is unclear — an unclear step is reported, not guessed. Step by step, in order, to the end: that is execution.
 
-[Picture — a picture of a child following a numbered plan on paper, ticking step 2 of 4 with a pencil while doing it]
+In your mind's eye: a child following a numbered plan on paper, ticking step 2 of 4 with a pencil while doing it.
 
 ## Say it to your companion
 

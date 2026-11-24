@@ -8,13 +8,13 @@ A robot that cannot feel the wall drives into it. Grade 7's robotics unit gives 
 
 The **Touch sensor** is a button on the robot's front that is **pressed when the robot meets an obstacle**: the program can ask it at any moment — pressed or not — and branch on the answer. With touch, the robot's world stops being only the plan in its program: the wall announces itself by being touched, and 'drive until you feel it' becomes a writable instruction — the first sensing loop of the series.
 
-[Picture — The Touch sensor — the robot feels what it meets]
+In your mind's eye: the Touch sensor — the robot feels what it meets.
 
 ## Sub lesson 2 — Missions — parking, and the robot returns home
 
 The book's missions spend the new sense at once. In **parking**, the robot drives into its bay until touch says the bay's end is reached — stopping by evidence, not by a guessed distance. In **robot returns home**, touch marks the journey's landmarks: each meeting with an obstacle is information the program uses to find its way back. Both missions run in the **RCJ Rescue simulation** in Open Roberta Lab, on the SPIKE robot — competition ground, in the classroom.
 
-[Picture — Missions — parking, and the robot returns home]
+In your mind's eye: missions — parking, and the robot returns home.
 
 ## Say it to your companion
 

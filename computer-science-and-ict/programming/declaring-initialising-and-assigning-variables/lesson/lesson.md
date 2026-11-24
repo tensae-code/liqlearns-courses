@@ -8,13 +8,13 @@ A variable has a biography: it is brought into being, given a first value, and g
 
 **Declaration** brings the variable into being: a **type** and a **name** — int score; — after which the name exists but holds nothing usable. **Initialisation** gives the **first value**, often in the same breath: int score = 0;. Java refuses to use a variable that has not been given a value — reading an uninitialised variable is an error the compiler catches. A **constant** is declared with **final** and initialised once: final int PASS_MARK = 50; — its initialisation is also its only assignment, by law.
 
-[Picture — Declaration and initialisation — being, and first value]
+In your mind's eye: declaration and initialisation — being, and first value.
 
 ## Sub lesson 2 — Assignment — every later value
 
 **Assignment** replaces a variable's value while the program runs: score = score + 5; — read it as 'score becomes score plus 5': the right side is worked out with the **old** value, then the result replaces it. Assignments may happen any number of times; a declaration happens **once** — declaring the same name twice is an error, assigning twice is ordinary work. Malaysia's three acts, kept apart, explain most beginner compiler messages: 'cannot find symbol' is a missing declaration, 'might not have been initialised' is a missing first value, and 'cannot assign to final' is an assignment aimed at a constant.
 
-[Picture — Assignment — every later value]
+In your mind's eye: assignment — every later value.
 
 ## Say it to your companion
 

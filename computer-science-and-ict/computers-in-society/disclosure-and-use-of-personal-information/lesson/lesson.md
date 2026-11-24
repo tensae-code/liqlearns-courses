@@ -8,13 +8,13 @@ Knowing what personal information is, and that it must be protected, is only hal
 
 Personal information is collected for a **purpose** — the school record for schooling, the clinic record for care. **Use** means working with it inside the organisation that holds it, and the standing rule is that use stays **inside the purpose**: information given for one reason is not quietly spent on another. The holder's duties travel with the data: keep it accurate, keep it only as long as the purpose needs, and let the person it belongs to know what is held and why. Egypt teaches this as its own section, after personal information and intellectual property, because use is where most harm quietly happens — not in a dramatic leak, but in a record reused for something its owner never agreed to.
 
-[Picture — Use — personal information serves the purpose it was given for]
+In your mind's eye: use — personal information serves the purpose it was given for.
 
 ## Sub lesson 2 — Disclosure — passing information on, only with a basis
 
 **Disclosure** is letting personal information leave the holder — to another organisation, another person, or the public. Because the person loses control at that moment, disclosure needs a **basis**: the owner's **consent**, a **legal duty**, or a genuine emergency protecting life. Each disclosure should be as small as the basis allows — the needed facts, to the needed receiver, and no more — and the receiver inherits the duties: use it only for the disclosed purpose, protect it the same way. Egypt's own way is to teach disclosure beside the platforms of its own digital state, where citizens hand data to services like the Digital Egypt platform: the lesson's point is that a modern citizen both uses those services and knows the rules that bind them.
 
-[Picture — Disclosure — passing information on, only with a basis]
+In your mind's eye: disclosure — passing information on, only with a basis.
 
 ## Say it to your companion
 

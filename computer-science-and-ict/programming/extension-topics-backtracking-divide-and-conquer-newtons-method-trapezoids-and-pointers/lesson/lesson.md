@@ -8,13 +8,13 @@ The final chapter of Moldova's school informatics is deliberately a doorway, not
 
 The summaries name three advances on the course's methods. **Backtracking** perfects the sifting method: candidates are built **step by step**, and a partial candidate that already fails is **abandoned at once**, its whole family unbuilt — the eight queens placed without ever completing a doomed board. **Divide and conquer** perfects recursion: split the problem into **independent halves**, solve each, **combine** — the design behind the fastest sorts and searches. **Newton's method** perfects root-finding: from a guess, follow the function's **tangent** to a better guess, converging in few steps when it behaves — the chord method's quicker, riskier heir.
 
-[Picture — Three techniques — backtracking, divide and conquer, Newton]
+In your mind's eye: three techniques — backtracking, divide and conquer, Newton.
 
 ## Sub lesson 2 — Two completions — trapezoids, pointers — and the CTICE doorway
 
 The last summaries complete two school topics. The **trapezoid method** completes numerical integration: rectangles promoted to trapezoids, the rectangle chapter's average made a method in its own right, with its finer error pace. **Dynamic structures and pointers** complete the data types: the electives' lists and run-time memory, named here as the road into data structures proper. The chapter then does its designed act: it **stops**, and points — the full texts of all five topics are **downloaded from the CTICE site**, so the book ends by teaching its reader to continue without it.
 
-[Picture — Two completions — trapezoids, pointers — and the CTICE doorway]
+In your mind's eye: two completions — trapezoids, pointers. And the CTICE doorway.
 
 ## Say it to your companion
 

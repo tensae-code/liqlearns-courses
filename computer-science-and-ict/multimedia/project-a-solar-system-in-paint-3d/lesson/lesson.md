@@ -8,13 +8,13 @@ Unit 3 project: create a Solar System in Paint 3D with labelled planets
 
 This part of Pakistan (Punjab)'s book teaches **Project: create a Solar System in Paint 3D with labelled planets** — covering: Unit 3 project: create a Solar System in Paint 3D with labelled planets. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Project: create a Solar System in Paint 3D with labelled planets]
+In your mind's eye: project. Create a Solar System in Paint 3D with labelled planets.
 
 ## Sub lesson 2 — Doing it — Project a Solar System in Paint 3D in practice
 
 **Doing it — Project a Solar System in Paint 3D in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Project a Solar System in Paint 3D in practice]
+In your mind's eye: doing it — Project a Solar System in Paint 3D in practice.
 
 ## Say it to your companion
 

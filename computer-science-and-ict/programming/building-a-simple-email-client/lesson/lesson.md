@@ -8,13 +8,13 @@ Every day you tap 'send' and trust the mail app. But the app is only a program d
 
 Email does not fly directly from your computer to your friend's. When you send, your **client** (the program you use) hands the message to a **sending mail server** using the protocol **SMTP** (Simple Mail Transfer Protocol). That server passes it across the internet to the receiver's mail server, where it waits in the receiver's mailbox. When your friend's client collects mail, it asks that server with a receiving protocol — **POP3**, which downloads the messages, or **IMAP**, which reads them while they stay on the server. Two errands, two protocols: SMTP pushes mail out; POP3 or IMAP pulls mail in.
 
-[Picture — a letter's journey drawn as four stops — your computer, a sending server, the receiver's server with a mailbox, your friend's computer — with the labels SMTP on the way out and POP3/IMAP on the way in]
+In your mind's eye: a letter's journey drawn as four stops — your computer, a sending server, the receiver's server with a mailbox, your friend's computer. With the labels SMTP on the way out and POP3/IMAP on the way in.
 
 ## Sub lesson 2 — Building the client in Python
 
 Python's standard library carries the tools. The **`smtplib`** module speaks SMTP: the program connects to the sending server, logs in with the account name and password, builds the message — sender, receiver, subject and body — as one text (the `email` module helps format it), and calls the send method. Receiving uses **`poplib`** for POP3: connect, log in, count the waiting messages, fetch one by its number, and print its text. The book's practical builds exactly this: a small client that first sends a real message, then fetches and shows a real one — the moment the program works, the protocols of the first sub lesson stop being theory.
 
-[Picture — a short Python program running: a 'message sent' line appearing, then an inbox count, then the text of a fetched message printing]
+In your mind's eye: a short Python program running. A 'message sent' line appearing, then an inbox count, then the text of a fetched message printing.
 
 ## Say it to your companion
 

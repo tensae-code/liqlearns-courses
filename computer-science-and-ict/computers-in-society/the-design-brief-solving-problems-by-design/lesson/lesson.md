@@ -8,13 +8,13 @@ A team must make something that does not exist yet — a product in Grade 9, an 
 
 A **design brief** is a written statement of a **problem to be solved by designing something**. It says **who needs it**, **what the finished thing must do**, and the **limits** it must stay inside — time, materials and cost. The brief is not the design itself: the brief states the problem, and the design is the answer to it.
 
-[Picture — What a design brief is]
+In your mind's eye: what a design brief is.
 
 ## Sub lesson 2 — The stages of a design brief, worked on a case
 
 The stages carry the brief forward in order: **research** the problem and the needs, state the **requirements**, **sketch ideas**, **choose** the best idea against the brief, **make** a first version, **test** it, and **improve** it. A **case study** of a design brief shows one real brief carried through every stage to a finished product, so each stage can be seen at work.
 
-[Picture — The stages of a design brief, worked on a case]
+In your mind's eye: the stages of a design brief, worked on a case.
 
 ## Say it to your companion
 

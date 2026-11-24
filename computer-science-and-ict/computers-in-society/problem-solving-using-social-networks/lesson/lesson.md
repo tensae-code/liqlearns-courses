@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Problem solving using Social networks; e
 
 This part of South Sudan's book teaches **Problem solving using Social networks; evaluating problem solving strategies** — covering: Problem solving using Social networks; evaluating problem solving strategies. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Problem solving using Social networks; evaluating problem solving strategies. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — problem solving using Social networks; evaluating problem solving strategies is part of that chain..
 
-[Picture — Problem solving using Social networks; evaluating problem solving strategies]
+In your mind's eye: problem solving using Social networks; evaluating problem solving strategies.
 
 ## Sub lesson 2 — Doing it — Problem solving using Social networks; evaluating problem solving strategies in practice
 
 This part of South Sudan's book teaches **Doing it — Problem solving using Social networks; evaluating problem solving strategies in practice** — covering: Problem solving using Social networks; evaluating problem solving strategies. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Problem solving using Social networks; evaluating problem solving strategies. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Problem solving using Social networks; evaluating problem solving strategies in practice is part of that chain..
 
-[Picture — Doing it — Problem solving using Social networks; evaluating problem solving strategies in practice]
+In your mind's eye: doing it — Problem solving using Social networks; evaluating problem solving strategies in practice.
 
 ## Say it to your companion
 

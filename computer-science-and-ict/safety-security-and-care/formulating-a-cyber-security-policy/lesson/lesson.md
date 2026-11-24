@@ -8,13 +8,13 @@ Rules imposed from above are obeyed while the watcher watches. Grade 7's cyber-i
 
 A **cyber security policy** is a written agreement that states: what must be **protected**, the **rules** of protection (passwords, sharing, downloads, strangers — the course's lessons gathered into clauses), who holds which **role** (who keeps accounts, who receives reports), and what happens when a rule is **broken** or an attack succeeds — the response, written before the panic. Each clause carries its **reason** beside it, because a policy whose reasons are known is followed when nobody watches, which is the only following that protects anyone.
 
-[Picture — The policy — rules with reasons]
+In your mind's eye: the policy — rules with reasons.
 
 ## Sub lesson 2 — Cyber awareness — the policy goes public
 
 The final session turns outward: **cyber awareness** — the class carries its policy's teaching to the school and families, as the verification campaign carried checking: posters, a presentation, the policy's best clauses translated for younger children. A policy locked in a drawer protects one classroom's intentions; awareness multiplies it into a school's habits. The experience closes where the whole ICT course aims: citizens who do not merely survive the digital world but govern their corner of it — and teach the governing.
 
-[Picture — Cyber awareness — the policy goes public]
+In your mind's eye: cyber awareness — the policy goes public.
 
 ## Say it to your companion
 

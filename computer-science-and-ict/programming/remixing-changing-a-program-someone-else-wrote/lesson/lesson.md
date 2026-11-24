@@ -8,13 +8,13 @@ A stranger's program lands in front of you: it works, it is clever, it is not yo
 
 The séance's title is its ethic: **“Ce n'est pas moi qui l'ai fait, mais je peux le modifier”** — ‘It wasn't me who made it, but I can modify it.’ **Remixing** starts with **reading**: run the program, predict each script's job, name the parts (initialisation, movement, scoring) before touching anything. A change made without a map is vandalism with good intentions; the same change, mapped, is engineering.
 
-[Picture — Reading before changing]
+In your mind's eye: reading before changing.
 
 ## Sub lesson 2 — Change one thing, keep the rest alive
 
 The remix discipline is surgical: choose **one behaviour** to change, find the **smallest set of blocks** that owns it, change, and **retest everything** — the new behaviour, and every old one you promised to keep. Credit travels with the work: a remix names its original (‘after X's program’), because programs, like stories, have authors — and the remix culture Scratch is built on runs on that honesty.
 
-[Picture — Change one thing, keep the rest alive]
+In your mind's eye: change one thing, keep the rest alive.
 
 ## Say it to your companion
 

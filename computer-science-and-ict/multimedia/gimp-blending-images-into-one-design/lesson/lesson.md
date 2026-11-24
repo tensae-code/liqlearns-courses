@@ -8,13 +8,13 @@ One picture is found; a design is assembled. Kuwait's blending lesson combines s
 
 **Blending images** means placing parts of **several images into one design** so they read as a single scene: each brought-in part is cut to its subject, set on its own layer, and seated where the design needs it. The balloons over **Kuwait Towers** are the book's set example — balloons that were never over the Towers, made to belong there. A blend is judged by its seams: if the eye finds the joins, the blend is not finished.
 
-[Picture — Blending — several images, one design]
+In your mind's eye: blending — several images, one design.
 
 ## Sub lesson 2 — Scale and perspective — making it belong
 
 Two crafts hide the joins. The **Scale tool** resizes a brought-in part to its **true size in the scene** — a balloon bigger than the Tower betrays the blend at once. **Perspective lines** give the design its depth rules: things shrink as they recede, and a part placed far must be scaled and set by those lines. Kuwait teaches the helpers beside the act because blending is not pasting — it is persuading several photographs they were always one.
 
-[Picture — Scale and perspective — making it belong]
+In your mind's eye: scale and perspective — making it belong.
 
 ## Say it to your companion
 

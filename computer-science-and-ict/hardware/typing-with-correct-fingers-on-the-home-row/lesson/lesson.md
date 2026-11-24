@@ -8,13 +8,13 @@ typing with correct fingers on the home row — each finger owns its starting ke
 
 Correct typing begins before any speed: the fingers **rest on the home row**, the middle row of letter keys. The **index fingers** find the two keys with the small bumps — **F and J** — and the other fingers settle beside them, the **thumbs** resting over the space bar. Each finger **owns** its starting keys and the keys above and below them, and after every reach it **returns home**. Vietnam's Grade 4 book teaches this placement as a rule of the body, not of the machine: a finger that starts from its place never has to hunt.
 
-[Picture — The home row — every finger has its place]
+In your mind's eye: the home row — every finger has its place.
 
 ## Sub lesson 2 — Typing-trainer software — practice that watches your fingers
 
 Grade 4's alternative lesson meets the **typing-trainer software**: programs that drill the home row finger by finger, show which finger should strike each letter, and measure **speed and accuracy** as you practise. The trainer's order is the book's order — **placement first, accuracy second, speed last** — because speed built on wrong fingers must be unlearned, while speed built on correct placement only grows. Short daily practice beats one long session: the fingers learn by returning.
 
-[Picture — Typing-trainer software — practice that watches your fingers]
+In your mind's eye: typing-trainer software — practice that watches your fingers.
 
 ## Say it to your companion
 

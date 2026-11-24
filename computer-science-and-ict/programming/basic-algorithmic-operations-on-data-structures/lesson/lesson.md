@@ -8,13 +8,13 @@ A data structure is only as good as what you can do with it. Grade 11's theory c
 
 Three operations change or question a structure's contents. **Insertion** puts a new value in, at the place the structure's order demands. **Deletion** takes a value out and closes the gap honestly, so no later operation trips on the hole. **Search** asks whether a value is present and where — the operation whose cost (one look in an indexed array place, a walk along a chain) differs most sharply between structures, and so teaches why structures differ at all.
 
-[Picture — Insert, delete, search — changing and finding]
+In your mind's eye: insert, delete, search — changing and finding.
 
 ## Sub lesson 2 — Traverse and sort — visiting all, and putting in order
 
 **Traversal** visits **every** value of the structure once, in its order — printing the list, summing the array, counting the chain; half of all real work on structures is traversal wearing a purpose. **Sorting** rearranges the structure's values into order without losing or adding any. The chapter teaches the five operations as one checklist: meet any new structure and ask — how does it insert, delete, search, traverse, sort, and what does each cost here?
 
-[Picture — Traverse and sort — visiting all, and putting in order]
+In your mind's eye: traverse and sort — visiting all, and putting in order.
 
 ## Say it to your companion
 

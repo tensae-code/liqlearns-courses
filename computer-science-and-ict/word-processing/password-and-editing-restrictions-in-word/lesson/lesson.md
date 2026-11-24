@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Password and Editing Restrictions — co
 
 This part of South Sudan's book teaches **Password and Editing Restrictions** — covering: Password and Editing Restrictions. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Password and Editing Restrictions. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — password and Editing Restrictions is part of that chain..
 
-[Picture — Password and Editing Restrictions]
+In your mind's eye: password and Editing Restrictions.
 
 ## Sub lesson 2 — Doing it — Password and Editing Restrictions in practice
 
 This part of South Sudan's book teaches **Doing it — Password and Editing Restrictions in practice** — covering: Password and Editing Restrictions. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Password and Editing Restrictions. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Password and Editing Restrictions in practice is part of that chain..
 
-[Picture — Doing it — Password and Editing Restrictions in practice]
+In your mind's eye: doing it — Password and Editing Restrictions in practice.
 
 ## Say it to your companion
 

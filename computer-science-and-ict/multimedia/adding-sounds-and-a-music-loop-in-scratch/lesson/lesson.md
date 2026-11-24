@@ -8,7 +8,7 @@ Your story is silent. A door should creak, a character should cheer, and music s
 
 Sounds live in a **sound library**, as sprites live in the sprite library: choose a sound and it belongs to your sprite or project, ready to be played by blocks. The two play blocks differ in one thing — waiting. **Play sound** starts the sound and the script runs on at once to the next block: right for an effect that should ring out while the action continues. **Play sound until done** starts the sound and makes the script **wait** until the sound has finished: right for speech or a short tune that must be heard whole before anything else happens. Background music uses waiting plus a loop: put play sound until done inside a **forever** loop (in its own parallel script) and the music restarts the moment it ends, playing under the whole project.
 
-[Picture — a picture of Scratch's sound library open, two blocks side by side — play sound moving on at once, play sound until done waiting — and a forever loop circling a music block]
+In your mind's eye: scratch's sound library open, two blocks side by side — play sound moving on at once, play sound until done waiting. And a forever loop circling a music block.
 
 ## Say it to your companion
 

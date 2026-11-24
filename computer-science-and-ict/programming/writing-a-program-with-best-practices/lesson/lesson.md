@@ -8,13 +8,13 @@ Two programs can do the same work; one can be read, the other cannot. Malaysia's
 
 Best practice begins at the keyboard: **meaningful names** (totalMark, not x2) that say what a thing is for; **comments** that explain **why** a part exists and what a non-obvious step does — not a narration of what the code plainly says; and **constants named** for fixed values, so no unexplained numbers (50, 0.1) wander the code. A program written this way explains itself to its next reader — who is often its writer, months later, at the moment something must change.
 
-[Picture — Names and comments — the program explains itself]
+In your mind's eye: names and comments — the program explains itself.
 
 ## Sub lesson 2 — Layout and structure — the program shows its shape
 
 The second family is **shape**: **indentation** that mirrors nesting, so a loop's body and a branch's arms can be seen at a glance; **one structure per job** — sequences straight, selections and loops in their standard shapes, no jumps that tangle the flow; and development in the chapter's own order — algorithm first, code translated from it, tests planned and run. Malaysia's standard is a **production** standard: the delivered program is the one that passes its tests **and** can be handed to another programmer without an apology or a tour.
 
-[Picture — Layout and structure — the program shows its shape]
+In your mind's eye: layout and structure — the program shows its shape.
 
 ## Say it to your companion
 

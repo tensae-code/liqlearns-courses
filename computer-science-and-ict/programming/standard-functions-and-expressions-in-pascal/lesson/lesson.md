@@ -8,13 +8,13 @@ Pascal arrives with work already done: abs, sqr, sqrt and their kin are built in
 
 **Standard functions** are built into Pascal: **abs** gives a value without its sign, **sqr** squares, **sqrt** takes the square root, **sin** and **cos** serve geometry, and **trunc** and **round** turn real numbers into integers. They are called by name with the value in brackets — `sqrt(9)` is 3 — and need no writing by the programmer, only knowing.
 
-[Picture — The standard functions]
+In your mind's eye: the standard functions.
 
 ## Sub lesson 2 — Algebraic expressions in Pascal
 
 An **expression** joins values, variables and functions with operations — `+ - * /` and **div** and **mod** for integers — and Pascal works it out by the usual order: brackets first, then multiplication and division, then addition and subtraction. School algebra must be rewritten flat: a fraction becomes a division in brackets. The expression's result takes the place of the whole expression wherever it stands.
 
-[Picture — Algebraic expressions in Pascal]
+In your mind's eye: algebraic expressions in Pascal.
 
 ## Say it to your companion
 

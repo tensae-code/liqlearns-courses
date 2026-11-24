@@ -8,13 +8,13 @@ Removing duplicate data — finding rows that repeat the same record in a worksh
 
 **Duplicate data** (duplikasi data) is the same record entered more than once in a worksheet — a pupil listed twice, a sale written in two rows — and it poisons every summary built on the sheet: counts swell, totals double-count, averages lean. Indonesia's Grade 7 data chapter teaches removing duplicates inside its data-handling sequence (after sorting and filtering) because cleaning is part of handling: the analyst who can sort and filter but cannot clean is working on a sheet that lies politely.
 
-[Picture — Duplicates — the same record twice]
+In your mind's eye: duplicates — the same record twice.
 
 ## Sub lesson 2 — Remove safely — copy first, choose the columns, check the catch
 
 Safe removal has an order. **Copy the sheet first** — removal cannot be argued back. Then decide **which columns make a duplicate**: two rows are duplicates when the chosen columns all agree (same name alone is not proof — two pupils can share a name; name and birth date together are a record). Use the sheet's **Remove Duplicates** on the chosen columns, then **check the catch**: how many rows went, and do the totals now agree with a hand count of a sample? The removed rows are reported, not vanished — cleaning is an act the analyst can defend.
 
-[Picture — Remove safely — copy first, choose the columns, check the catch]
+In your mind's eye: remove safely — copy first, choose the columns, check the catch.
 
 ## Say it to your companion
 

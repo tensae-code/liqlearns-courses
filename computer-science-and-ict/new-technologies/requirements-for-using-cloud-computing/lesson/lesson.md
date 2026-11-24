@@ -8,13 +8,13 @@ A school announces: 'from Monday, everything is in the cloud.' By Friday, half t
 
 Cloud computing requires, first, a **reliable internet connection** of enough speed — the cloud has no other road — and **devices** able to run a browser or the service's apps. It requires **accounts and identity management**: who each user is, and what each may reach. And it requires **compatible choices**: file formats and services that the work's partners can also open. Each missing requirement fails in its own way, and all are knowable before the move.
 
-[Picture — The technical requirements]
+In your mind's eye: the technical requirements.
 
 ## Sub lesson 2 — The human and organisational requirements
 
 Beyond machinery: **skills** (people trained, not merely told), **support** (someone to ask when it breaks), **policies** (what may go to the cloud, what must not, who decides), and a **plan for failure** — the day the connection dies in the middle of the exam week. Jordan's lesson counts cost honestly too: subscriptions are a rent forever, weighed against the purchase they replace. A cloud adopted without its requirements is not modern; it is merely moved fragility.
 
-[Picture — The human and organisational requirements]
+In your mind's eye: the human and organisational requirements.
 
 ## Say it to your companion
 

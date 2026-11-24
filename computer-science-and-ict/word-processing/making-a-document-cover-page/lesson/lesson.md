@@ -8,13 +8,13 @@ Every project in Mongolia's Grade 9 strand ends as a document someone receives �
 
 Word ships **built-in cover-page templates**: ready first pages with the title, author, date and decoration laid out in a designed arrangement. Insert one and the fields are filled with the document's own facts — the cover joins the document (its styles and colours follow the work's theme) instead of sitting on it like a stranger's hat. For the school report or booklet that must look finished by Friday, the built-in cover is the professional act: design borrowed whole, facts your own.
 
-[Picture — Built-in cover pages — the template's face]
+In your mind's eye: built-in cover pages — the template's face.
 
 ## Sub lesson 2 — Designing your own — WordArt and shapes
 
 Where the cover must be the work's own, it is **designed**: a title set in **WordArt** — decorative lettering, filled, outlined and shaped — over a ground of **shapes** that carry the design's structure. The design rules are the strand's standing ones: one strong idea, the title unmissable, nothing on the cover that the document cannot honour inside. Mongolia's pupils design covers for their own projects — the face is theirs because the work is: template when borrowing serves, design when the work deserves its own face.
 
-[Picture — Designing your own — WordArt and shapes]
+In your mind's eye: designing your own — WordArt and shapes.
 
 ## Say it to your companion
 

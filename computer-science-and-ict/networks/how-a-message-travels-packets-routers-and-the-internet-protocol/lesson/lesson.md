@@ -8,13 +8,13 @@ Send a photo to a friend in another town. It does not travel as a photo — it t
 
 At Level 2, the home-network study opens the envelope: a message is **cut into packets (paquets)** — small addressed pieces. Each packet carries its destination's **IP address** and follows the **Internet Protocol (protocole Internet)**: the shared rules for addressing and forwarding. **Routers (routeurs)** read each packet's address and forward it toward its destination, hop by hop — packets of one message may take different roads and arrive out of order.
 
-[Picture — Packets and the Internet Protocol]
+In your mind's eye: packets and the Internet Protocol.
 
 ## Sub lesson 2 — Reassembly at the other end
 
 Arrival is a rebuild: the receiving machine collects the packets, puts them back in order, checks what is missing, and only then holds the message. This is why networks survive broken roads — a lost packet is one piece to resend, not a message to restart — and why the protocol, agreed by everyone, matters more than any single machine: the roads are many, the rules are one.
 
-[Picture — Reassembly at the other end]
+In your mind's eye: reassembly at the other end.
 
 ## Say it to your companion
 

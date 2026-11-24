@@ -10,13 +10,13 @@ Data crossing a local network travels inside an **Ethernet frame**. A frame is a
 
 The frame opens with a **preamble**: a short run of the same byte repeated, which tells every listening device "a frame is starting — get ready and synchronise your clock." Then comes the **destination address**: the MAC address, six bytes, of the machine the frame is for. Right after it, the **source address**: the MAC address of the machine that sent it — so the receiver always knows who to answer. Next, a two-byte **type** field says what kind of thing the frame is carrying — most often an IP packet, which is how the receiver knows which protocol must take over. Then comes the **data** itself, the parcel. The frame closes with a **frame check sequence**: a few bytes calculated from everything before them. The receiver does the same calculation; if the two results differ, the frame was damaged on the way and is thrown away.
 
-[Picture — one Ethernet frame drawn as a long envelope cut into labelled boxes: preamble, destination MAC, source MAC, type, data, check sequence]
+In your mind's eye: one Ethernet frame drawn as a long envelope cut into labelled boxes. Preamble, destination MAC, source MAC, type, data, check sequence.
 
 ## Sub lesson 2 — Decoding a real frame from a capture
 
 A field list is only words until you read a real one. Network tools such as **Wireshark** capture frames as they pass and show them as hexadecimal bytes, grouped and decoded. Decoding by hand means walking the same road the machine walks: count off the preamble bytes; the next six bytes are the destination MAC — write them in pairs, like 3C:7A:9F:…; the six after that are the source. Two bytes of type follow: the code 0800, for instance, announces an IPv4 packet inside. Everything after that, until the last four bytes, is the carried data — open it and you find the IP packet with its own addresses inside, the envelope within the envelope. The last four bytes are the check sequence, never data.
 
-[Picture — a Wireshark capture line with the bytes coloured in blocks, each block matched to the field it belongs to]
+In your mind's eye: a Wireshark capture line with the bytes coloured in blocks, each block matched to the field it belongs to.
 
 Worked this way, a capture stops being a wall of numbers: it becomes a conversation you can follow frame by frame — who spoke, to whom, carrying what.
 

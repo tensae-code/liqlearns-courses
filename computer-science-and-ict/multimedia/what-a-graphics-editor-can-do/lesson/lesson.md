@@ -8,13 +8,13 @@ Grade 9's second graphics lesson asks what the tool is *for*: the tasks and poss
 
 A **graphics editor** is given three tasks: **create** new pictures, **edit** pictures that exist — fix, crop, recolour, combine — and **prepare** pictures for use: size them, save them in the needed form. Uzbekistan's Grade 9 book states the tasks before the interface, so the pupil knows the job before the tools.
 
-[Picture — The tasks of a graphics editor]
+In your mind's eye: the tasks of a graphics editor.
 
 ## Sub lesson 2 — The possibilities — what can be done
 
 The editor's **possibilities** reach further than drawing: work with photographs, join pieces into one picture, add text to an image, and save the result for print or screen. The lesson's measure is practical — a possibility counts when the pupil can say which task it serves and try it on a real picture.
 
-[Picture — The possibilities — what can be done]
+In your mind's eye: the possibilities — what can be done.
 
 ## Say it to your companion
 

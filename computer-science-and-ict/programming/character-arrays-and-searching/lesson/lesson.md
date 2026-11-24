@@ -8,13 +8,13 @@ Before there were string objects, text was an array like any other — with one 
 
 **char word[10] = "Skopje";** stores the letters in elements 0–5 and then the **null terminator '\0'** in element 6 — the mark every text routine watches for. The array's declared size is its **capacity**; the text's **length** is the count up to the terminator, which a simple walk can measure. Spaces are characters too and take elements of their own.
 
-[Picture — text as a char array]
+In your mind's eye: text as a char array.
 
 ## Sub lesson 2 — Searching the characters
 
 **Searching** walks the array comparing each element with the target: stop with **found** (and its position) on a match, or stop at the **terminator** with not-found. The same walk counts occurrences (do not stop at the first match — count and continue) or tests membership. Case matters: 'A' and 'a' are different characters with different codes, so searches must say which they mean.
 
-[Picture — searching the characters]
+In your mind's eye: searching the characters.
 
 ## Say it to your companion
 

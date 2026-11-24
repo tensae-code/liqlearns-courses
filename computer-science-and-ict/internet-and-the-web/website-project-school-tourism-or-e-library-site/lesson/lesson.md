@@ -8,13 +8,13 @@ Libya's web term ends as its database year ended: with projects. Three are set �
 
 Each project is a **complete website** for a named owner with a named audience: the **secondary-school website** serves pupils, parents and teachers; the **tourism-company website** must persuade visitors and show what the company offers; the **electronic library** must let readers **find and reach books**. The three differ in purpose — informing, persuading, providing — so the same HTML course is bent three ways, and choosing **pages, order and content** for the audience is the project's first and largest work.
 
-[Picture — The three set projects — one course, three real sites]
+In your mind's eye: the three set projects — one course, three real sites.
 
 ## Sub lesson 2 — Building the project — the term's skills in order
 
 The build uses the term in its own order: **structure** every page (head, title, body), **format** the text (size, style, colour), **link** the pages and the outside with text and image links, **list and tabulate** what the site holds, then **publish**: a registered **domain**, a chosen **host**, and the files **uploaded by FTP**. A project is judged whole: does a visitor reach everything in a few clicks, do the pages look like one site, and does the published site — not the folder on your machine — actually work?
 
-[Picture — Building the project — the term's skills in order]
+In your mind's eye: building the project — the term's skills in order.
 
 ## Say it to your companion
 

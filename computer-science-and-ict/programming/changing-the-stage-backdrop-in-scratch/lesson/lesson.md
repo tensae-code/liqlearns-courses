@@ -8,13 +8,13 @@ The cat stands on a plain white stage. Give its story a place to happen. (teache
 
 The **backdrop** is the picture that fills the **stage** behind the sprites. Scratch keeps a **library** of backdrops, arranged **by category** — outdoors, indoors, space and more. Pick the category that fits your story, choose its backdrop, and the stage changes at once.
 
-[Picture — choosing a backdrop from the library]
+In your mind's eye: choosing a backdrop from the library.
 
 ## Sub lesson 2 — Drawing one, uploading one — and changing the sprite
 
 A backdrop can also be **drawn new** in the paint editor, or **uploaded** from a picture file on the computer. The **sprite** changes the same three ways — library, drawn, uploaded — so both the actor and its stage can be entirely your own.
 
-[Picture — drawing one, uploading one — and changing the sprite]
+In your mind's eye: drawing one, uploading one — and changing the sprite.
 
 ## Say it to your companion
 

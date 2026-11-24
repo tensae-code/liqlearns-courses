@@ -10,7 +10,7 @@ There are two ways to put the decimal number 47 inside a machine. The way you me
 
 Four bits can make sixteen patterns, but a decimal digit needs only ten of them, 0000 to 1001. The six patterns 1010, 1011, 1100, 1101, 1110 and 1111 are never used in BCD — if one of them ever appears, something has gone wrong, which makes BCD easy to check.
 
-[Picture — the number 47 split into its two digits, each digit turning into its own four-bit group, with the plain binary of 47 beside it for contrast]
+In your mind's eye: the number 47 split into its two digits, each digit turning into its own four-bit group, with the plain binary of 47 beside it for contrast.
 
 Why keep a number digit by digit instead of converting it whole? Because some machines live digit by digit: a digital clock, a measuring instrument, a price display, a cash amount. Each digit is shown and handled separately, and BCD matches that exactly — read the groups of four from the left and the decimal number stands in front of you again, with no conversion arithmetic. The price of this convenience is space: BCD uses more bits than plain binary for the same number, and arithmetic in BCD needs extra correction steps, which is why computers calculate in plain binary and use BCD where digits must stay visible one by one.
 
@@ -20,7 +20,7 @@ Numbers are only half of what a machine must hold. The other half is text — le
 
 The table is built in a sensible order, and the order itself is worth learning. The space is 32. The digit characters run from '0' = 48 to '9' = 57 — notice: the character '5' is not the number 5; it is code 53, because it is a picture of a digit, not a value. The capital letters run in order from A = 65 to Z = 90, and the small letters from a = 97 to z = 122. So the word *Cat* is the three codes 67, 97, 116 — and in bits, 1000011 1100001 1110100.
 
-[Picture — a strip of the ASCII table showing the space, the digit characters, the capitals and the small letters in their runs, with the word Cat picked out]
+In your mind's eye: a strip of the ASCII table showing the space, the digit characters, the capitals and the small letters in their runs, with the word Cat picked out.
 
 Because every maker agreed to the same table, a text file written on one machine opens correctly on any other machine in the world. That is what a standard buys. ASCII's limit is its size: 128 characters cannot hold the letters of every language — Montenegro's own letters č, ć, š, ž and đ are not in it — so wider codes were built later on top of the same idea. The idea itself starts here: a character is a number, and the table is the agreement.
 

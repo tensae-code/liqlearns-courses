@@ -8,13 +8,13 @@ An algorithm on paper solves the problem once, by hand. Implementation is where 
 
 A LiveCode program is a **stack of cards** — screens — and each card carries **controls**: buttons to press, fields to type into and read. Every control can hold a **script**: code written in LiveCode's language, made of **near-English commands**, attached to the control's events — a button's script runs when the button is clicked. The database created earlier in SQLite stands behind the cards: the program the pupil builds is the face; the data lives in the file made before.
 
-[Picture — LiveCode — cards, controls and scripts]
+In your mind's eye: liveCode — cards, controls and scripts.
 
 ## Sub lesson 2 — From algorithm to running program
 
 **Implementing** an algorithm means **translating its steps into the tool's objects and scripts**: each step of the algorithm finds its home — an input step becomes a field, a decision becomes a script that tests, an output becomes a field or a message. Then the program is **run and tested** against cases whose answers are known from the algorithm worked by hand; where they differ, the implementation — not the algorithm — is debugged first. Cuba closes the chapter with an integrative project: the whole road, algorithm to running program, walked once entire.
 
-[Picture — From algorithm to running program]
+In your mind's eye: from algorithm to running program.
 
 ## Say it to your companion
 

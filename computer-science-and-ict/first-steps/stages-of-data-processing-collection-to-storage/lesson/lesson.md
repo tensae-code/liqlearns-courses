@@ -8,13 +8,13 @@ Unit 2, Stages of Data Processing figure
 
 This part of Pakistan (Punjab)'s book teaches **, Stages of Data Processing figure** — covering: Unit 2, Stages of Data Processing figure. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Stages of Data Processing figure]
+In your mind's eye: , Stages of Data Processing figure.
 
 ## Sub lesson 2 — Doing it — Stages of Data Processing Collection to Storage in practice
 
 **Doing it — Stages of Data Processing Collection to Storage in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Stages of Data Processing Collection to Storage in practice]
+In your mind's eye: doing it — Stages of Data Processing Collection to Storage in practice.
 
 ## Say it to your companion
 

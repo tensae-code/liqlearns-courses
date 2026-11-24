@@ -8,13 +8,13 @@ Every craft begins by learning the bench. Class VIII meets Audacity — the free
 
 **Audacity** is a **free program for recording and editing audio**: it records through the microphone, opens audio files, and works on their sound — cutting, changing and mixing — before saving the result. Schools use it because it costs nothing and runs on ordinary computers; Bhutan's Class VIII unit is built on it from this first meeting to the final shared piece.
 
-[Picture — The program — a free editor for recorded sound]
+In your mind's eye: the program — a free editor for recorded sound.
 
 ## Sub lesson 2 — The window — tracks, tools and the waveform
 
 Audacity's window is read in three parts. The **toolbar** carries the transport buttons — play, stop, record — and the editing tools. The **track area** holds each sound as a **track**, drawn as a **waveform**: the picture of the sound, tall where it is loud and flat where it is silent. The **timeline** above the tracks counts the seconds, so any point in the sound can be found by its time.
 
-[Picture — The window — tracks, tools and the waveform]
+In your mind's eye: the window — tracks, tools and the waveform.
 
 ## Say it to your companion
 

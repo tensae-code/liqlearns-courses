@@ -8,19 +8,19 @@ A school register holds a name, an age, a fee paid and the day a student joined.
 
 A **data type** is the rule given to a column that says what kind of value may live there. The type controls three things: what the column **accepts** (and what it refuses), how the values are **stored**, and how they **sort and calculate**. For numbers, MySQL gives a family of types. **INT** holds whole numbers — ages, quantities, marks, counts: things you count, add and average. A whole-number column refuses a value with a part after the point and refuses words outright. For numbers that do have parts — a price, a weight, a temperature — the types are **DECIMAL** and **FLOAT**. DECIMAL stores the value exactly as written, which is why money is kept in DECIMAL: a fee of 1250.50 stays 1250.50. FLOAT stores a near value quickly and is used for measures where a tiny difference does not matter.
 
-[Picture — a picture of a table drawn as four labelled columns — age, fee, name, joining day — each with its data type written under it]
+In your mind's eye: a table drawn as four labelled columns — age, fee, name, joining day. Each with its data type written under it.
 
 ## Sub lesson 2 — Text types — words, names and longer writing
 
 Text has its own family. **CHAR** holds text of a fixed length that you set — every value is padded to the same length, fitting codes that are always the same size. **VARCHAR** holds text up to a length you set, storing only the length each value actually has — the usual choice for names, addresses and titles. **TEXT** holds long writing with no short limit: remarks, descriptions, a whole paragraph of notes. The test for the text family is simple: if the value is words to be read rather than amounts to be added, it belongs to text — even when the words are made of digits, as the next part shows.
 
-[Picture — a picture of a database refusing a value: the word "twelve" trying to enter an INT age column, stopped by a gate marked with the column's type]
+In your mind's eye: a database refusing a value. The word "twelve" trying to enter an INT age column, stopped by a gate marked with the column's type.
 
 ## Sub lesson 3 — Dates, times — and choosing the right type
 
 Dates and times have their own types too: **DATE** holds a day (year, month, day), **TIME** holds a time of day, and **DATETIME** holds a day and a time together. A date in a DATE column can be sorted truly — the earliest day first — and the database can count the days between two dates, which no text column can do. **Choosing** a type follows one rule: ask what the values *are* and what will be *done* with them. The famous case is the **phone number**: it is written in digits, but it is **text**, not a number — nobody adds two phone numbers or averages them, and a number column would strip off a leading zero and ruin the number. Give a column the type of the thing it holds, and the database itself will guard the gate, refusing values that do not belong.
 
-[Picture — a picture of a phone number written two ways: as a number, its first zero missing, and as text, complete]
+In your mind's eye: a phone number written two ways. As a number, its first zero missing, and as text, complete.
 
 ## Say it to your companion
 

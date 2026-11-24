@@ -8,13 +8,13 @@ Chapter 6 §6.4 Modifying a Table (adding, editing and deleting records; inserti
 
 This part of Pakistan (Punjab)'s book teaches **Modifying a Table** — covering: Chapter 6 §6.4 Modifying a Table (adding, editing and deleting records; inserting and deleting fields; resizing rows and columns; freezing and hiding columns; Find; Replace; spell check and AutoCorrect) and §6.5 Print a Datasheet. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Modifying a Table]
+In your mind's eye: modifying a Table.
 
 ## Sub lesson 2 — Doing it — Working in the Datasheet Edit Find Replace in practice
 
 **Doing it — Working in the Datasheet Edit Find Replace in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Working in the Datasheet Edit Find Replace in practice]
+In your mind's eye: doing it — Working in the Datasheet Edit Find Replace in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Kuwait's Grade 5 coders leave the screen: their next programs run on a board the
 
 The **micro:bit** is a small programmable **board**: a grid of **LED lights** it can display pictures and text on, **buttons** it can be pressed by, and **sensors** that feel movement, direction, light and temperature. Every feature is something a program can use — the board is not a toy that happens to light up; it is a computer whose inputs and outputs are visible and touchable.
 
-[Picture — The micro:bit — a small board with features to program]
+In your mind's eye: the micro:bit — a small board with features to program.
 
 ## Sub lesson 2 — MakeCode — the browser editor and its simulator
 
 **MakeCode** is where micro:bit programs are written: it opens **in the browser**, with block families on one side and the program built by dragging them together. Beside the blocks stands the **simulator** — a picture-board on screen that runs the program exactly as the real board would, so work is tested before it is downloaded. Projects are **saved and opened** by name, like any real work: a saved project can be returned to, improved, and finally sent to the board.
 
-[Picture — MakeCode — the browser editor and its simulator]
+In your mind's eye: makeCode — the browser editor and its simulator.
 
 ## Say it to your companion
 

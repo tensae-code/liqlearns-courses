@@ -8,13 +8,13 @@ The physics teacher sets the same formula for twenty different values. By hand t
 
 Other subjects are full of repeated calculation: physics works values through a formula many times, geography compares quantities across places, household and economics tasks total and share amounts. Done in a **spreadsheet**, the subject's formula is entered **once** as a sheet formula and the sheet recalculates it for every row of data — the learner's work shifts from arithmetic to setting the task up correctly: the right data in columns, the subject formula translated exactly, and the results checked against one hand-worked case.
 
-[Picture — a physics formula entered once in a spreadsheet and recalculated down twenty rows of data]
+In your mind's eye: a physics formula entered once in a spreadsheet and recalculated down twenty rows of data.
 
 ## Sub lesson 2 — Studying dependencies with graphs
 
 A dependency — how one quantity answers to another — is studied by **varying** the first quantity in steps and letting the sheet calculate the second, then drawing the calculated table as a **graph**. The graph shows what a table of numbers hides: where the growth is fast or slow, where it levels or turns. The practicum's discipline is the same as any experiment's: change one thing at a time, keep the steps even, and read the graph as a claim about the subject's rule, not just a picture of numbers.
 
-[Picture — a table of stepped values turning into a rising graph beside it]
+In your mind's eye: a table of stepped values turning into a rising graph beside it.
 
 ## Say it to your companion
 

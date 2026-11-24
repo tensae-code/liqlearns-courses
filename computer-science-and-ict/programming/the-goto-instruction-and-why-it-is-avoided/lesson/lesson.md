@@ -8,13 +8,13 @@ Grade 10's instruction set ends with its cautionary exhibit. Goto does one thing
 
 The **goto** instruction is written `goto <label>;` and its execution is absolute: control **transfers at once to the labelled instruction**, skipping everything between, forward or backward. With goto alone, any loop or branch can be improvised — a jump backward with an if is a loop; a jump forward is a branch. That total freedom is its seduction: goto asks no design, fits every situation, and answers to no structure.
 
-[Picture — goto — the unconditional jump]
+In your mind's eye: goto — the unconditional jump.
 
 ## Sub lesson 2 — Why it is avoided — spaghetti and structure
 
 Programs woven from free jumps earned the profession's verdict name: **spaghetti code** — control flowing like tangled strands, unreadable because a reader cannot see a jump's whole story on one page. **Structured programming** answered with the governed instructions — sequence, if, while, for, repeat, case — each with **one entry and one exit**, each readable locally. Goto survives legitimately only at rare edges (escaping several nested loops at once, in some languages without better tools). The course's rule: **know goto, recognise it, and write without it**.
 
-[Picture — Why it is avoided — spaghetti and structure]
+In your mind's eye: why it is avoided — spaghetti and structure.
 
 ## Say it to your companion
 

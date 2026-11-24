@@ -8,13 +8,13 @@ A robot never tires, never forgets a step, never has a bad day. A human child ca
 
 The Parcours comparison starts by honouring the machine: a robot **repeats exactly** without tiring or drifting, **senses** some things finer than we do, **calculates** faster, works in places too dangerous or dull for people, and never needs sleep. These are real superiorities, in named tasks — the honest comparison never pretends otherwise, because a difference-list that flatters humans teaches nothing.
 
-[Picture — What robots do better]
+In your mind's eye: what robots do better.
 
 ## Sub lesson 2 — What stays human
 
 The other column is not “everything else” but named human strengths: **feeling with others** (comforting without instructions), **judging** what matters in a new situation, **caring** — wanting another's good — **inventing** questions nobody programmed, and **answering for** one's acts. The Parcours teaches the pair of columns together so pupils meet robots without fear or worship: a robot is a powerful tool with a shape, and the human beside it is not its rival but its author and its judge.
 
-[Picture — What stays human]
+In your mind's eye: what stays human.
 
 ## Say it to your companion
 

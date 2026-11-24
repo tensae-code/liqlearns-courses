@@ -8,13 +8,13 @@ A school office that once kept results in paper files can now print a whole scho
 
 An information system works at machine speed: a calculation or a search that takes a person a day takes the system seconds. It is **accurate** in the way machines are — the same rule applied the same way every time, without tiredness. It **stores** enormous amounts of data in a tiny space and finds any item again instantly. It **shares**: the same information reaches many people in many places at once, always identical. And because records are complete and current, managers can base **decisions** on facts instead of guesses — a school can see which class is falling behind while there is still time to help.
 
-[Picture — a clerk lifting a heavy stack of paper files on one side, and the same clerk tapping one key while report cards stream out of a printer on the other]
+In your mind's eye: a clerk lifting a heavy stack of paper files on one side, and the same clerk tapping one key while report cards stream out of a printer on the other.
 
 ## Sub lesson 2 — The limitations
 
 Systems also have limits, and the book names them honestly. They **cost** — to buy, to install, to maintain and to replace. They create **dependence**: when the system, the network or the power fails, work that used to continue by hand may stop entirely. They open **security and privacy risks** — data gathered in one place is worth stealing, and personal information can leak or be misused. They can **displace jobs** — work once done by clerks is done by the system, and people must find new roles. And they demand **trained people**: an untrained user can enter wrong data, and the system's accuracy then only spreads the error faster — garbage in, garbage out.
 
-[Picture — the same office in darkness during a power cut, the clerk looking at a dead screen while a queue waits]
+In your mind's eye: the same office in darkness during a power cut, the clerk looking at a dead screen while a queue waits.
 
 ## Say it to your companion
 

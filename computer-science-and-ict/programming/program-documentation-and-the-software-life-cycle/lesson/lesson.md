@@ -8,13 +8,13 @@ A program nobody can re-enter is a program already dying. Greece closes its exam
 
 **Documentation (τεκμηρίωση)** records what a program is and how it is used, and the chapter gives its **reasons** plainly: programs outlive their writers' memories, other programmers must maintain them, and users must be told truly what the program does. Its **categories** run from the documentation **inside** the program (comments, meaningful names), through the **program file (φάκελος προγράμματος)** — the standing dossier of statement, design, code, tests and history the chapter assembles — to the **user's documentation** that teaches the program's use.
 
-[Picture — Documentation — why, and its categories]
+In your mind's eye: documentation — why, and its categories.
 
 ## Sub lesson 2 — The software life cycle — a program's whole life in stages
 
 Software is not finished when it first runs; it **lives**: the **software life cycle (κύκλος ζωής λογισμικού)** names its stages — the problem's **analysis**, the **design**, the **implementation (writing)**, **testing**, **release into use**, and the long **maintenance** in which faults are fixed and the world changes around it, until replacement starts the cycle again. The chapter teaches the cycle as the frame that holds everything before it: every earlier chapter of the course — analysis, algorithms, structures, code, debugging, evaluation — is one stage's craft, and documentation is the thread that runs through them all.
 
-[Picture — The software life cycle — a program's whole life in stages]
+In your mind's eye: the software life cycle — a program's whole life in stages.
 
 ## Say it to your companion
 

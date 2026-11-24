@@ -8,7 +8,7 @@ Stand in the middle of the room. Now stand exactly at the door, then exactly at 
 
 A sprite that only moves forward from wherever it stands is hard to direct. This lesson teaches **positioning**: the stage is a place with places on it, and a sprite can be **put** at a chosen spot — with the go-to idea and the stage's left-right and up-down positions — and then **moved** from that spot in a planned way. Starting a scene becomes exact: each sprite begins where the story needs it, every time the green flag is clicked, not where it happened to stop last time. The learner practises placing, checking the place against the plan, and moving between two named places without extra wandering in between.
 
-[Picture — a picture of a picture of a Scratch stage with a sprite being placed at a marked spot, a dotted planned path to a second marked spot, and the rest of the stage empty]
+In your mind's eye: a picture of a Scratch stage with a sprite being placed at a marked spot, a dotted planned path to a second marked spot, and the rest of the stage empty.
 
 ## Say it to your companion
 

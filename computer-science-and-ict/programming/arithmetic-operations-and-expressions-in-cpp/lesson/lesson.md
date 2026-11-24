@@ -8,13 +8,13 @@ A calculator follows rules you never see. In C++ you write the calculation yours
 
 C++ computes with **+** (add), **−** (subtract), **\*** (multiply), **/** (divide) and **%** — **modulo**, the **remainder** after division: 17 % 5 = **2**. Watch division: between **integers**, / keeps only the whole part — 17 / 5 = **3**, the fraction is dropped. Between decimal numbers it divides fully. Mixing the two kinds without care is a classic beginner surprise.
 
-[Picture — the operators — and the remainder]
+In your mind's eye: the operators — and the remainder.
 
 ## Sub lesson 2 — Order — precedence and brackets
 
 Expressions are evaluated by **precedence**: brackets first, then **\* / %**, then **+ −**; equal ranks go left to right. So 2 + 3 * 4 = **14**, not 20 — and (2 + 3) * 4 = **20** because the brackets reorder it. An expression's single final **value** is what an assignment stores or an output prints, so reading an expression means working out that one value step by step.
 
-[Picture — order — precedence and brackets]
+In your mind's eye: order — precedence and brackets.
 
 ## Say it to your companion
 

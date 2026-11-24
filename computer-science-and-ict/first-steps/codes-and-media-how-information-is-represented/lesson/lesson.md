@@ -12,13 +12,13 @@ To travel from a sender to a receiver, information is put into a **code**: a sys
 
 A code only works when both sides know it. The sender puts the information into the signs; the receiver reads the signs back into information. If the receiver does not share the code — a language they cannot read, a sign they have never learned — the signs arrive, but the information does not.
 
-[Picture — a road scene with a traffic light, a road sign and a shop sign, each labelled with its code]
+In your mind's eye: a road scene with a traffic light, a road sign and a shop sign, each labelled with its code.
 
 ## Sub lesson 2 — Media — the carriers, and choosing by context
 
 Signs must ride on something. That carrier is a **medium** (its plural is media): printed text on paper, a picture, spoken sound carried by air, a video, a file shown on a screen. The code is the system of signs; the medium is what carries them to the receiver.
 
-[Picture — one message shown three ways: as written text, as a spoken announcement, and as a picture sign]
+In your mind's eye: one message shown three ways. As written text, as a spoken announcement, and as a picture sign.
 
 The same information can ride in different media. "School is closed tomorrow" can be written in a notice, spoken in an announcement, or sent as a message on a phone. None of these changes the information — they change how it is represented, and how well it reaches its receiver.
 

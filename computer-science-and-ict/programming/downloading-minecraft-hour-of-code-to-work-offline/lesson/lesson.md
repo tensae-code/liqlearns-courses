@@ -8,13 +8,13 @@ Your class has no internet today. Does coding stop? In Palestine’s Grade 5 boo
 
 The Grade 5 book opens by **downloading Minecraft (Hour of Code)** to the computer. The adventures come from **code.org’s Hour of Code**, packed so they can be saved once and opened again without a connection. Downloading is treated as part of programming itself: a programmer first makes sure the tool is on the machine and working.
 
-[Picture — downloading the adventures to the computer]
+In your mind's eye: downloading the adventures to the computer.
 
 ## Sub lesson 2 — Working offline — plan, run, check
 
 With the adventures on the computer, the class works **offline**: each puzzle is planned on **squared paper**, run in the adventure, and checked against the **success screen**. No connection is needed at any step — the download at the start is what makes the whole book’s offline way of working possible.
 
-[Picture — working offline — plan, run, check]
+In your mind's eye: working offline — plan, run, check.
 
 ## Say it to your companion
 

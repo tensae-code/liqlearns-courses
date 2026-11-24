@@ -8,13 +8,13 @@ A drawing is rarely right the first time. Mongolia's Grade 6 book gives image-wo
 
 Every edit starts with **selection**: mark the part of the picture to work on, leaving the rest untouched. A selection can be **copied many times** — one drawn flower becomes a row of flowers. **Cropping** cuts the picture down to the part that matters, throwing the edges away. Select, copy, crop are the taking tools: they decide what of the picture survives.
 
-[Picture — Select, copy and crop — taking the part you need]
+In your mind's eye: select, copy and crop — taking the part you need.
 
 ## Sub lesson 2 — Resize, skew, rotate and zoom — changing and viewing the whole
 
 The whole picture, or its selection, can be **resized** — made bigger or smaller — and **skewed** — slanted. **Rotate** turns it: sideways, upside down, or flipped as in a mirror. **Zoom** changes not the picture but your view of it: zoom in and the **pixels** appear — the tiny single-colour squares every Paint picture is made of — which is where fine corrections are made. Mongolia's order is the editor's discipline: take first (select, crop), then change (resize, rotate), then inspect (zoom, pixels).
 
-[Picture — Resize, skew, rotate and zoom — changing and viewing the whole]
+In your mind's eye: resize, skew, rotate and zoom — changing and viewing the whole.
 
 ## Say it to your companion
 

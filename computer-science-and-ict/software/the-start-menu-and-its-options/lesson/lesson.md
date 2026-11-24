@@ -12,7 +12,7 @@ There are three ways to open the Start menu, and all three open the same menu:
 2. Press the **Windows key** on the keyboard.
 3. Press **Ctrl+Esc** together.
 
-[Picture — the Windows 7 Start menu open, its two sides labelled, with the search box, the Shut down button and its arrow marked]
+In your mind's eye: the Windows 7 Start menu open, its two sides labelled, with the search box, the Shut down button and its arrow marked.
 
 Now read the menu as a map with two sides. The **left side is programs**. At the top sit the programs pinned there — the ones kept always in view. Below them sit the programs you used most recently, so the work you return to is one click away. At the bottom of the left side sits **All Programs**.
 

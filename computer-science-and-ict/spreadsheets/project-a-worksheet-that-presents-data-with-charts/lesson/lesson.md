@@ -8,13 +8,13 @@ Numbers alone do not present themselves. Your group's job: one topic, one honest
 
 The group **chooses a topic** and gathers its **real data** into a **worksheet**: tidy rows and columns, clear labels, values that can be checked. The worksheet is the project's foundation — every chart drawn from it inherits its honesty or its errors.
 
-[Picture — building the group's worksheet]
+In your mind's eye: building the group's worksheet.
 
 ## Sub lesson 2 — Presenting the data with charts
 
 From the worksheet, the group builds the **charts that present the data**: the right chart kind for each question the topic raises, formatted so an audience reads it at a glance. Presenting means the group can walk an audience from the data to the chart to the conclusion — and answer for all three.
 
-[Picture — presenting the data with charts]
+In your mind's eye: presenting the data with charts.
 
 ## Say it to your companion
 

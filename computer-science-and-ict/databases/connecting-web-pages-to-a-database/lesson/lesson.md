@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **–68: The connection of web pages with a database** — covering: §67–68: The connection of web pages with a database. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — –68: The connection of web pages with a database]
+In your mind's eye: –68. The connection of web pages with a database.
 
 ## Sub lesson 2 — Doing it — Connecting Web Pages to a Database in practice
 
 **Doing it — Connecting Web Pages to a Database in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Connecting Web Pages to a Database in practice]
+In your mind's eye: doing it — Connecting Web Pages to a Database in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 5 §5.3 Building Statistical Models: §5.3.1 Introduction to Statistical Mo
 
 This part of Pakistan (Punjab)'s book teaches **Building Statistical Models: §5.3.1 Introduction to Statistical Modeling** — covering: Unit 5 §5.3 Building Statistical Models: §5.3.1 Introduction to Statistical Modeling (§5.3.1.1 model development steps) and §5.3.1.2 Linear Regression (the fruit-stall earnings model built, interpreted and tested step by step). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Building Statistical Models: §5.3.1 Introduction to Statistical Modeling]
+In your mind's eye: building Statistical Models. §5.3.1 Introduction to Statistical Modeling.
 
 ## Sub lesson 2 — Doing it — Building a Statistical Model Linear Regression in practice
 
 **Doing it — Building a Statistical Model Linear Regression in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Building a Statistical Model Linear Regression in practice]
+In your mind's eye: doing it — Building a Statistical Model Linear Regression in practice.
 
 ## Say it to your companion
 

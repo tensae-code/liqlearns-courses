@@ -8,13 +8,13 @@ The AI arc ends in the pupil's own hands: after meeting AI and training a chatbo
 
 The pupil **trains an AI** of their own choosing: picks what it will learn to tell apart or answer, **teaches it with examples** — the training the machine-learning lesson practised, now self-directed — and **tests** what it decides on cases it has never seen. The **project worksheets** structure the work: the aim written first, the examples recorded, the tests and their results kept — so the training is a record that can be judged, not a memory that can be exaggerated.
 
-[Picture — The project — your AI, your teaching]
+In your mind's eye: the project — your AI, your teaching.
 
 ## Sub lesson 2 — What the project proves
 
 The project is the arc's examination: AI (what it is), data (what it eats), training (how it learns) and decisions (how it answers) must all be spent together, on a machine nobody else trained. Its deepest result is usually a surprise the worksheets catch: the AI learned **exactly what it was taught** — its failures are the training's failures, visible in the recorded examples — which is the single most useful thing a citizen of an AI age can know at ten years old.
 
-[Picture — What the project proves]
+In your mind's eye: what the project proves.
 
 ## Say it to your companion
 

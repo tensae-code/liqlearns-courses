@@ -8,13 +8,13 @@ Judging products taught the standards; now Malaysia's learners design to them. T
 
 The process opens with **understanding**: who are the **users**, what are their **tasks**, and in what setting will the meeting happen? Only on that ground is the **interaction designed**: the screens, the controls, the order of steps, the words used — each choice answerable to a named user and task. A design that cannot say whose task a screen serves has skipped the first step, and the skip will be charged later, with interest, at evaluation.
 
-[Picture — Understand, then design]
+In your mind's eye: understand, then design.
 
 ## Sub lesson 2 — Prototype, evaluate, refine — the loop
 
 The design is made testable as a **prototype** — a rough, cheap version of the interaction — and the prototype is **evaluated** with users on the chapter's three measures. The findings drive **refinement**: the design changes where the evidence says it fails, and the loop **repeats** — prototype again, evaluate again — until the measures pass. Malaysia's process is a loop on purpose: interaction cannot be got right by thinking alone, because its judges are users, and users must be met. The final design is the one the loop releases, not the first one the designer loved.
 
-[Picture — Prototype, evaluate, refine — the loop]
+In your mind's eye: prototype, evaluate, refine — the loop.
 
 ## Say it to your companion
 

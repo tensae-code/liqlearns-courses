@@ -8,13 +8,13 @@ Two photos of the same animal: one makes you laugh, one makes your heart squeeze
 
 **Framing (cadrage)** is the photographer's first decision: what is inside the picture and what is cut away. Close framing fills the picture with the animal's face — you meet its eyes and feel with it; wide framing shrinks it in a large world — you feel its smallness. The Parcours des bestioles starts here because a picture's emotion is built, not found: the same creature, framed differently, tells two different truths.
 
-[Picture — Framing — what the edges choose]
+In your mind's eye: framing — what the edges choose.
 
 ## Sub lesson 2 — Colour and light — the feeling's steering wheel
 
 **Colour** steers feeling: warm, saturated colours excite and cheer; cold, grey ones quieten or sadden. **Light** steers it too: soft light soothes, hard contrast dramatises, a face lit from below turns strange. Reading a picture means naming these choices before surrendering to the feeling — the animal has not changed; the steering has. A reader who can name the steering can also use it, and resist it.
 
-[Picture — Colour and light — the feeling's steering wheel]
+In your mind's eye: colour and light — the feeling's steering wheel.
 
 ## Say it to your companion
 

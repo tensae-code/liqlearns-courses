@@ -8,13 +8,13 @@ Unit 1 §1.6.5 ICT Application in Business
 
 This part of Pakistan (Punjab)'s book teaches **ICT Application in Business** — covering: Unit 1 §1.6.5 ICT Application in Business. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — ICT Application in Business]
+In your mind's eye: iCT Application in Business.
 
 ## Sub lesson 2 — Doing it — ICT in Business Decisions Productivity and Service in practice
 
 **Doing it — ICT in Business Decisions Productivity and Service in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — ICT in Business Decisions Productivity and Service in practice]
+In your mind's eye: doing it — ICT in Business Decisions Productivity and Service in practice.
 
 ## Say it to your companion
 

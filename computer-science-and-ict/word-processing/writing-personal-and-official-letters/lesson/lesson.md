@@ -8,7 +8,7 @@ You must write twice today: once to a friend who moved away, and once to an offi
 
 A **personal letter** is written to someone you know: a friend, a relative, a teacher you are close to. Its reader knows your voice, and the letter sounds like you speaking to them.
 
-[Picture — a personal letter laid out with its parts labelled: address and date, greeting, body, closing, name]
+In your mind's eye: a personal letter laid out with its parts labelled. Address and date, greeting, body, closing, name.
 
 Its parts, in order:
 
@@ -24,7 +24,7 @@ The personal letter's mark: nothing in it is stiff. If it does not sound like yo
 
 An **official letter** is written to an office, an organisation or an authority — to a reader who does not know you, and who must act on your letter among many others. Its form must carry everything by itself: who you are, who it is for, and exactly what the matter is.
 
-[Picture — an official letter laid out with its parts labelled: sender's address, receiver's address, date, subject line, greeting, matter paragraphs, closing, signature and name]
+In your mind's eye: an official letter laid out with its parts labelled. Sender's address, receiver's address, date, subject line, greeting, matter paragraphs, closing, signature and name.
 
 Its parts, in order:
 

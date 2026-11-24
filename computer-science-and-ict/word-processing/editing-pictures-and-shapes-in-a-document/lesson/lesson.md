@@ -8,13 +8,13 @@ Inserting a picture is half the job; the inserted picture rarely fits as it land
 
 A selected shape is dressed by the **Drawing Tools**: its **fill** — the colour or **texture** poured into it, from plain colour to a patterned texture that imitates material — and its outline. Pictures meet their own **Picture Tools** for their dressing. In the booklet project the dressing is not decoration for its own sake: a water-blue textured fill under a heading carries the booklet's subject before a word is read.
 
-[Picture — Fill and texture — dressing a shape]
+In your mind's eye: fill and texture — dressing a shape.
 
 ## Sub lesson 2 — Flip, rotate, edit points — reshaping the object
 
 An object can be **flipped** — mirrored left-right or top-bottom — and **rotated** to any angle, by its handle or by exact degrees. Deepest of all, a shape's **points can be edited**: the corner points of its outline are dragged one by one, bending the ready shape into a custom one — the wave, the drop. The book's picture shelf is **ClipArt**, the ready-picture library of its Word era, inserted and then edited by the same tools. Mongolia's order: insert, dress, reshape — an object is finished only when all three have had their chance to refuse it.
 
-[Picture — Flip, rotate, edit points — reshaping the object]
+In your mind's eye: flip, rotate, edit points — reshaping the object.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The cat is not the only character in the world. Your story may need a fish, a ro
 
 Scratch keeps a **library** of ready sprites. Choose a new sprite and Scratch shows the library: animals, people, objects and more, each ready to use. Pick one and it appears on the stage and in the sprite list, with its own scripts area, empty and waiting. A library sprite is a starting point, not a finished answer — you can still change how it looks, which is the next part of this lesson.
 
-[Picture — a picture of the Scratch sprite library open, with rows of ready characters and one being chosen]
+In your mind's eye: the Scratch sprite library open, with rows of ready characters and one being chosen.
 
 ## Sub lesson 2 — Drawing and editing your own sprite with the paint tools
 
 The **paint editor** is where a sprite's look is made and changed. You can draw a sprite from nothing, or open a library sprite's costume and edit it. The tools are: **select** — choose and move a part; **reshape** — bend a shape by its points; **brush** — paint free lines; **eraser** — rub parts away; **fill** — fill an area with colour; **text** — write letters on the picture; **line**, **circle** and **rectangle** — draw those exact shapes. Work slowly, zoom in for small parts, and remember: what you draw here is the costume the sprite wears on the stage.
 
-[Picture — a picture of the Scratch paint editor with its tool column labelled — select, reshape, brush, eraser, fill, text, line, circle, rectangle — and a half-drawn character on the canvas]
+In your mind's eye: the Scratch paint editor with its tool column labelled — select, reshape, brush, eraser, fill, text, line, circle, rectangle. And a half-drawn character on the canvas.
 
 ## Say it to your companion
 

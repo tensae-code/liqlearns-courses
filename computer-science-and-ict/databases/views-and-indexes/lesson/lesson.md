@@ -8,13 +8,13 @@ Chapter 2 §2.4 Views (CREATE VIEW in SQL — the male-students view) and §2.5 
 
 This part of Pakistan (Punjab)'s book teaches **Views and Indexes** — covering: Chapter 2 §2.4 Views (CREATE VIEW in SQL — the male-students view) and §2.5 Indexes. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Views and Indexes]
+In your mind's eye: views and Indexes.
 
 ## Sub lesson 2 — Doing it — Views and Indexes in practice
 
 **Doing it — Views and Indexes in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Views and Indexes in practice]
+In your mind's eye: doing it — Views and Indexes in practice.
 
 ## Say it to your companion
 

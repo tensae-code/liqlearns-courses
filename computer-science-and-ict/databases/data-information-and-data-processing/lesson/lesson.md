@@ -8,13 +8,13 @@ Chapter 1 §1.1 Overview (data vs information; data operations — capturing, ma
 
 This part of Pakistan (Punjab)'s book teaches **Data Information and Data Processing** — covering: Chapter 1 §1.1 Overview (data vs information; data operations — capturing, manipulation: classifying, calculations, sorting, summarizing; managing output — storing/retrieval, communication/reproduction). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Data Information and Data Processing]
+In your mind's eye: data Information and Data Processing.
 
 ## Sub lesson 2 — Doing it — Data Information and Data Processing in practice
 
 **Doing it — Data Information and Data Processing in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Data Information and Data Processing in practice]
+In your mind's eye: doing it — Data Information and Data Processing in practice.
 
 ## Say it to your companion
 

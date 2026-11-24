@@ -10,7 +10,7 @@ A flip-flop is called **bistable**: it has exactly two stable states, and it res
 
 The simplest member of the family is the **RS flip-flop**, named for its two inputs: **S for set** and **R for reset**. It can be built from just two NAND gates wired in a cross-coupled loop — each gate's output feeding one input of the other gate. Its behaviour has four cases, and you should be able to run them like a story. Set active (in the NAND version the inputs are active-low, pulled to 0 to act): Q becomes 1 and stays 1 — the bit is *written*. Reset active: Q becomes 0. Neither active: the flip-flop **holds** — Q keeps whatever it had, which is the memory doing its job. And the fourth case is the family's warning label: **both inputs active at once is forbidden**. It forces Q and Q̄ to the same value, breaking the rule that they are opposites, and when both inputs release together, the state the loop falls into is a coin toss — no designer may build on a coin toss.
 
-[Picture — two NAND gates cross-coupled in a loop, outputs labelled Q and Q̄, with the four input cases listed beside it and the forbidden case crossed out]
+In your mind's eye: two NAND gates cross-coupled in a loop, outputs labelled Q and Q̄, with the four input cases listed beside it and the forbidden case crossed out.
 
 One timing note the book is careful about: this plain RS flip-flop reacts the moment its inputs change. Real systems march in step, so most flip-flops add a **clock** — an input that says 'now' — and only change state when the clock ticks. The next part's family members are usually met in their clocked forms.
 
@@ -22,7 +22,7 @@ The **JK flip-flop** keeps two inputs — J does set's job, K does reset's — a
 
 The **D flip-flop** is the simplest to use and the one real machines are full of. It has a single data input, **D**, and a clock. On each clock tick, Q simply *copies* D: Q next = D now. Between ticks it holds. One D flip-flop is one stored bit that can be written on command — line up eight of them and you have a byte of memory being written in one tick. When the registers lesson arrives, a register will turn out to be just a row of D flip-flops sharing one clock.
 
-[Picture — the three flip-flops as boxes: JK with inputs J and K, D with its single input D, T with its single input T, each with a clock arrow entering from below and Q and Q̄ leaving on the right]
+In your mind's eye: the three flip-flops as boxes. JK with inputs J and K, D with its single input D, T with its single input T, each with a clock arrow entering from below and Q and Q̄ leaving on the right.
 
 The **T flip-flop** also has one input, **T**. While T = 0 it holds its state; while T = 1 it toggles on every clock tick — 0, 1, 0, 1 — so its output changes at half the clock's rate: a frequency halved, a count of two. T is really a JK with J and K joined into one input, and a chain of toggling flip-flops is a counter, as the counters lesson will build.
 

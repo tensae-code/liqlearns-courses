@@ -8,13 +8,13 @@ A warehouse worker waves a box past a frame and the stock list updates itself �
 
 An **RFID** system has three parts. The **tag** (chip with a small antenna) is fixed to the object and holds its identity data. The **reader** sends out radio waves and receives the tag's answer. The **application system** — the computer and software behind the reader — records and uses the identity: stock, entry, payment. Tags may be **passive** (powered by the reader's wave) or **active** (carrying their own battery, answering from farther away).
 
-[Picture — The three parts — tag, reader, system]
+In your mind's eye: the three parts — tag, reader, system.
 
 ## Sub lesson 2 — Writing and reading — how the data moves
 
 In the **write process**, data is stored onto the tag — the object's identity written once or updated. In the **read process**, the reader's wave wakes the tag, the tag replies with its data, and the application system matches the reply against its records and acts. Reading needs no line of sight and can take many tags at once — the two advantages over barcodes that explain RFID's spread through shops, libraries, roads and warehouses.
 
-[Picture — Writing and reading — how the data moves]
+In your mind's eye: writing and reading — how the data moves.
 
 ## Say it to your companion
 

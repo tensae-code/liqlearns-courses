@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Идея для проекта** — covering: §27 Идея для проекта. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Идея для проекта]
+In your mind's eye: идея для проекта.
 
 ## Sub lesson 2 — Planning a Robot Project
 
 This part of Kazakhstan's book teaches **Planning a Robot Project** — covering: §27 Лайиһә идея (project idea). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Planning a Robot Project]
+In your mind's eye: planning a Robot Project.
 
 ## Say it to your companion
 

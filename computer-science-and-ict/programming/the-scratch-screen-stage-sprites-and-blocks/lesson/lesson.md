@@ -8,13 +8,13 @@ Scratch opens and everything is visible at once: a cat on a stage, towers of col
 
 The **stage** (right) is where the project performs, with its backdrop; beneath and beside it, the **sprite list** holds the project's cast — every character/object (lutin) — and the **stage's own scripts and backdrops** live one click away. Selecting a sprite selects its scripts, costumes and sounds: in Scratch, everything belongs to someone — sprite or stage — and the interface's first lesson is asking “whose is this?” before editing anything.
 
-[Picture — Stage, sprites, and the project's cast]
+In your mind's eye: stage, sprites, and the project's cast.
 
 ## Sub lesson 2 — Palette and script area
 
 The **block palette** (left/centre) sorts blocks by category and colour — motion, looks, sound, events, control, sensing, operators, variables — and the **script area** is the bench where blocks snap into scripts for the selected sprite. Discovery ends with the interface read as a workflow: pick the **who** (sprite), take the **what** (blocks), build on the **bench**, watch on the **stage**. Pupils who own the geography can spend every later séance on ideas instead of hunting.
 
-[Picture — Palette and script area]
+In your mind's eye: palette and script area.
 
 ## Say it to your companion
 

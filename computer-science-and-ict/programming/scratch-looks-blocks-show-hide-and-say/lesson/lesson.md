@@ -8,13 +8,13 @@ Movement walks the sprite; looks give it a face and a voice. Cuba teaches the ap
 
 The **say** block puts the words written in it into a **speech bubble** over the sprite, for a set time or until it is changed — the sprite is heard by everyone on stage. The **think** block puts words in a **thought bubble**: the audience reads the sprite's mind, but the other characters do not hear it. Choosing between them is choosing who knows what: say it aloud to the scene, or think it silently for the audience. Cuba's Grade 5 unit names decir and pensar — say and think — as the first looks blocks a pupil owns.
 
-[Picture — Say and think — the sprite speaks]
+In your mind's eye: say and think — the sprite speaks.
 
 ## Sub lesson 2 — Show, hide and change the look
 
 **Show** puts the sprite on the stage; **hide** takes it off — still in the project, with its scripts, only unseen, waiting for its entrance. The look itself changes too: **switch costume** gives the sprite another of its looks, **switch backdrop** changes the stage behind it, and **change size** grows or shrinks it. Cuba's Grade 5 guide lists the full family in one line — decir, pensar, mostrar, esconder, disfraz, fondo, tamaño: say, think, show, hide, costume, backdrop, size.
 
-[Picture — Show, hide and change the look]
+In your mind's eye: show, hide and change the look.
 
 ## Say it to your companion
 

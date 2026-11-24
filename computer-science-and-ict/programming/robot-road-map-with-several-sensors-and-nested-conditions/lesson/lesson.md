@@ -8,13 +8,13 @@ One sensor gives one fact at a time. A road needs them together. Grade 7's robot
 
 The road-map robot reads its **sensors together**: touch for contact, ultrasonic for the distance ahead, each sense answering its own question in the same moment of the journey. Measured **distances are kept in variables** — the gap to the wall, the length of the last leg — so the program can compare, remember and compute, instead of reacting only to the instant. A robot with variables has a short memory, and a road map needs one.
 
-[Picture — Several sensors together — and variables for distances]
+In your mind's eye: several sensors together — and variables for distances.
 
 ## Sub lesson 2 — Nested conditions — decisions inside decisions
 
 Road decisions are **nested**: **if** the way is clear, **then if** the distance is shrinking, slow — otherwise hold speed; **else** turn. A condition inside a condition is how a program answers a world that asks two questions at once. Kuwait places nesting here, in the robot, because the road makes its need visible: single conditions drive into walls that two questions would have avoided.
 
-[Picture — Nested conditions — decisions inside decisions]
+In your mind's eye: nested conditions — decisions inside decisions.
 
 ## Say it to your companion
 

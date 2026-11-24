@@ -8,13 +8,13 @@ binary search trees — a binary tree kept under one rule (smaller to the left, 
 
 A **binary search tree** (cây tìm kiếm nhị phân) is a binary tree under one discipline: for **every node**, all values in its **left subtree are smaller** than the node's value, and all in its **right subtree are larger**. The rule turns the tree into a searching machine: to find a value, compare it with the root — smaller, go left; larger, go right; equal, found — discarding half the tree at each step, as binary search discards half a list, but in a structure that can also **grow**.
 
-[Picture — The rule — smaller left, larger right]
+In your mind's eye: the rule — smaller left, larger right.
 
 ## Sub lesson 2 — Insert, delete, and the shape's warning
 
 **Inserting** walks the search path and attaches the new value as a leaf where the path runs out — the rule is never broken. **Deleting** is careful work: a leaf is simply removed; a node with one child is replaced by that child; a node with **two children** is replaced by a value from below (its successor) so the rule survives. The warning the book teaches: the tree's speed depends on its **shape** — insert sorted values and the 'tree' becomes a crooked line, no better than a list.
 
-[Picture — Insert, delete, and the shape's warning]
+In your mind's eye: insert, delete, and the shape's warning.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Mixed — covering: Mixed. South Sudan's
 
 This part of South Sudan's book teaches **Mixed** — covering: Mixed. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Mixed. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — mixed is part of that chain..
 
-[Picture — Mixed]
+In your mind's eye: mixed.
 
 ## Sub lesson 2 — Doing it — Mixed in practice
 
 This part of South Sudan's book teaches **Doing it — Mixed in practice** — covering: Mixed. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Mixed. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Mixed in practice is part of that chain..
 
-[Picture — Doing it — Mixed in practice]
+In your mind's eye: doing it — Mixed in practice.
 
 ## Say it to your companion
 

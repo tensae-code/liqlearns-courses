@@ -8,13 +8,13 @@ You cannot bring a whole town into the classroom — but a map of it fits on the
 
 A **model** is a stand-in for a real thing, made to be studied instead of it. An **information model** is a stand-in made of information: it keeps the features of the original that matter for the maker's **purpose** and leaves the rest out. A timetable models a school's day, a map models a country's land, a formula models how a quantity depends on others. The same original can have many information models, because different purposes keep different features — a bus timetable and a road map both model the same town and share almost nothing.
 
-[Picture — a town on one side and three stand-ins on the other — a written description, a map scheme and a formula — each keeping different features]
+In your mind's eye: a town on one side and three stand-ins on the other — a written description, a map scheme and a formula. Each keeping different features.
 
 ## Sub lesson 2 — The forms a model takes
 
 The book names the forms by how the information is carried. A **verbal model** describes in words. A **formula model** describes with mathematical formulas, so values can be calculated. A **video (pictorial) model** shows with images or film, keeping how the thing looks. A **scheme model** draws the structure — boxes, lines and arrows that show parts and connections while dropping appearance. Choosing the form follows the purpose: calculate — take a formula; explain to a beginner — take words and a picture; show how parts connect — take a scheme.
 
-[Picture — four model forms in a row — words, a formula, a picture, a box-and-arrow scheme — under one original object]
+In your mind's eye: four model forms in a row — words, a formula, a picture, a box-and-arrow scheme. Under one original object.
 
 ## Say it to your companion
 

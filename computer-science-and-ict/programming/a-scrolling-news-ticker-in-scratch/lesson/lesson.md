@@ -8,13 +8,13 @@ Breaking news runs along the bottom of the television screen. Grade 9 builds tha
 
 The ticker’s moving part is a **headline sprite**: an **Arabic headline written in the painter** becomes a sprite, and the sprite **scrolls across the screen**, **growing as the bulletin starts** — the size change is the bulletin’s opening signal, the scroll is the news arriving.
 
-[Picture — the headline sprite scrolls]
+In your mind's eye: the headline sprite scrolls.
 
 ## Sub lesson 2 — The example bulletin — and the presenter project
 
 The book’s **example breaking news** is the Ministry’s own decision: **programming taught from Grade 5 to Grade 9** — the very course the pupil is holding. The project completes the studio: **add a presenter sprite and a recorded voice** reading the bulletin.
 
-[Picture — the example bulletin — and the presenter project]
+In your mind's eye: the example bulletin — and the presenter project.
 
 ## Say it to your companion
 

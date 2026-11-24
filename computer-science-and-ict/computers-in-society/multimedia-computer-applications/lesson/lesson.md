@@ -8,13 +8,13 @@ The applications tour ends with the loudest family: multimedia — text, image, 
 
 **Multimedia applications** create, edit and present combined media: **graphics and photo editors**, **audio and music tools**, **video editors**, **animation tools**, and the **players and presentation forms** that deliver the weave — educational packages, encyclopedias, exhibitions, advertisements, games. Their common craft is **composition**: media kinds timed and layered so each does what it does best — the diagram explains, the voice warms, the animation shows the movement no still can.
 
-[Picture — What multimedia applications are]
+In your mind's eye: what multimedia applications are.
 
 ## Sub lesson 2 — Working with multimedia — files, weight, quality
 
 The family's working facts: media files are **heavy** (minutes of video outweigh shelves of text — compression is the family's daily bread), quality is **chosen** (resolution and sampling fit the purpose — a billboard and a thumbnail are different promises), and every medium brings its **tools and rights** (editing software to learn; creators' rights to respect — the intellectual-property lessons apply with pictures attached). Jordan closes the applications tour here because multimedia is where most pupils will meet computing as makers: the family in which school projects, and half the internet, are built.
 
-[Picture — Working with multimedia — files, weight, quality]
+In your mind's eye: working with multimedia — files, weight, quality.
 
 ## Say it to your companion
 

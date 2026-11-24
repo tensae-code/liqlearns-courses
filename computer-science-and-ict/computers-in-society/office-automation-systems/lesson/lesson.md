@@ -8,13 +8,13 @@ Between the big decision systems of its chapter, Laos's Grade 10 book places the
 
 An **Office Automation System (OAS)** is the set of technologies that **automates an office's routine work** — producing documents, communicating, filing and finding — so clerks and managers spend their time on judgement instead of copying and carrying. Its heart is not one program but the joining of many: the same information typed once is reused in the letter, the filing system and the message, instead of being re-typed at every step.
 
-[Picture — What office automation is]
+In your mind's eye: what office automation is.
 
 ## Sub lesson 2 — The tools of the automated office
 
 The OAS toolbox is the course's familiar programs working as one system: **word processing** for documents, **email and messaging** for communication, **spreadsheets and databases** for the office's figures and records, **desktop publishing** for its printed forms, and **scheduling and filing tools** for its appointments and archives — increasingly joined in one suite on one network. Laos teaches it among the information-system types because it serves every level at once: the clerk's letter and the director's report both ride on it.
 
-[Picture — The tools of the automated office]
+In your mind's eye: the tools of the automated office.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Mini-project "Inventions that changed the world"** — covering: §8: Mini-project "Inventions that changed the world". The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Mini-project "Inventions that changed the world"]
+In your mind's eye: mini-project "Inventions that changed the world".
 
 ## Sub lesson 2 — Mini-project "Discoveries that changed the world"
 
 This part of Kazakhstan's book teaches **Mini-project "Discoveries that changed the world"** — covering: 1.5: Mini-project "Discoveries that changed the world". The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Mini-project "Discoveries that changed the world"]
+In your mind's eye: mini-project "Discoveries that changed the world".
 
 ## Say it to your companion
 

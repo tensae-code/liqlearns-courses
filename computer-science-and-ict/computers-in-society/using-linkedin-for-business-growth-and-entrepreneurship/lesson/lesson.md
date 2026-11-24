@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Exercise — how LinkedIn can promote bu
 
 This part of South Sudan's book teaches **Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan** — covering: Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan is part of that chain..
 
-[Picture — Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan]
+In your mind's eye: exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan.
 
 ## Sub lesson 2 — Doing it — Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan in practice
 
 This part of South Sudan's book teaches **Doing it — Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan in practice** — covering: Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan in practice is part of that chain..
 
-[Picture — Doing it — Exercise — how LinkedIn can promote business growth and entrepreneurship in South Sudan in practice]
+In your mind's eye: doing it — Exercise. How LinkedIn can promote business growth and entrepreneurship in South Sudan in practice.
 
 ## Say it to your companion
 

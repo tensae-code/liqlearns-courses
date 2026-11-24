@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Keywords — covering: Keywords. South S
 
 This part of South Sudan's book teaches **Keywords** — covering: Keywords. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Keywords. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — keywords is part of that chain..
 
-[Picture — Keywords]
+In your mind's eye: keywords.
 
 ## Sub lesson 2 — Doing it — Keywords in practice
 
 This part of South Sudan's book teaches **Doing it — Keywords in practice** — covering: Keywords. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Keywords. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Keywords in practice is part of that chain..
 
-[Picture — Doing it — Keywords in practice]
+In your mind's eye: doing it — Keywords in practice.
 
 ## Say it to your companion
 

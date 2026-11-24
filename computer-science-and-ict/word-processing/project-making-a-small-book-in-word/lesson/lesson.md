@@ -8,13 +8,13 @@ Mongolia's Grade 7 Word unit is not a set of exercises; it is one long project �
 
 A **book project** begins with three decisions. **Purpose**: what the booklet is for — Mongolia's class booklet exists to teach its readers to value water. **Audience**: who will read it — pupils, parents, the school — whose reading level and interests shape every page. **Structure**: the booklet's parts in order — cover, contents, sections — sketched before any typing, so each gathered fact already has its home. A book planned this way is written once; a book begun by typing is rewritten all the way through.
 
-[Picture — Purpose, audience, structure — the plan before the pages]
+In your mind's eye: purpose, audience, structure — the plan before the pages.
 
 ## Sub lesson 2 — Gathering the information
 
 With the plan fixed, the class **gathers the information**: facts, texts and pictures for each section, collected from books, the internet and the pupils' own knowledge — and **checked** as it is gathered, because a printed book cannot be corrected after the run. Each gathered piece is marked with the section it belongs to. Gathering is the last of the planning lessons and the first of the making ones: from here the unit proceeds — type it into Word, set its pages, dress it with pictures and tables, and print the booklet — each later lesson a stage of this one project.
 
-[Picture — Gathering the information]
+In your mind's eye: gathering the information.
 
 ## Say it to your companion
 

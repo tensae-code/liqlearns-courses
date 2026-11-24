@@ -8,13 +8,13 @@ Draw a circle. Make it ten times bigger: still perfectly round and smooth. Now t
 
 A **vector** picture is built from **shapes** — circles, lines and filled outlines the editor remembers as shapes. Because they are remembered as shapes, they stay **editable**: click one and its **reshape points** appear, and dragging a point bends and stretches that shape exactly. And they stay **sharp at any size**: a vector circle enlarged ten times is recalculated and drawn round again. Working in vector also lets you **group** several shapes so they travel and scale as one piece, and **ungroup** them when you need the parts separately again.
 
-[Picture — a picture of a vector circle with its reshape points showing as handles, enlarged large beside its small self, both with clean round edges, and two shapes grouped inside one selection box]
+In your mind's eye: a vector circle with its reshape points showing as handles, enlarged large beside its small self, both with clean round edges, and two shapes grouped inside one selection box.
 
 ## Sub lesson 2 — Bitmap — dots, and what converting loses
 
 A **bitmap** picture is a grid of coloured dots (pixels): the editor remembers dots, not shapes. Dots cannot be reshape-point edited as shapes, and enlarging a bitmap stretches the dots — edges go blocky and soft. The guide's warning is about **converting**: turning a vector drawing into bitmap flattens its shapes into dots, and that change **loses the editable parts and the sharpness** — you cannot convert back and recover them. So convert only when you mean it (for example to paint dot-by-dot with the brush), and keep a copy of the vector version when the drawing still matters as shapes.
 
-[Picture — a picture of a grid of coloured pixels forming a small picture, the same picture enlarged with blocky edges, and an arrow from a shape drawing to pixels marked as one-way]
+In your mind's eye: a grid of coloured pixels forming a small picture, the same picture enlarged with blocky edges, and an arrow from a shape drawing to pixels marked as one-way.
 
 ## Say it to your companion
 

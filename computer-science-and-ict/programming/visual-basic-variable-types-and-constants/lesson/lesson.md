@@ -8,13 +8,13 @@ The Basic Code Instructions book opens where every VB program's memory begins: i
 
 A Visual Basic **variable** is a **named place in memory whose value changes** as the program runs — and its **type** declares the **kind** of value it may hold. The book's set is the working shelf: **Boolean** (true/false), **String** (text), **Date** (dates and times), **Byte** and **Integer** (whole numbers, small and full range), and **Double** (numbers with fractions). **Declaring** a variable — naming it and its type before use — is the discipline: the program states what each memory place is **for**, and the compiler holds it to the statement.
 
-[Picture — Variable types — what a variable may hold]
+In your mind's eye: variable types — what a variable may hold.
 
 ## Sub lesson 2 — Assigning — and constants, the values that refuse
 
 **Assigning** puts a value into a variable — of the variable's own kind, the type's promise kept — and a variable may be assigned again as the program's work changes it. Against the variables stand the **constants**: named values declared once and **never changed** in the run — the rate, the limit, the fixed text — whose name in the code says what the number means, and whose constancy the compiler enforces. Types, declaring, assigning, constants: the four acts that make a program's memory honest.
 
-[Picture — Assigning — and constants, the values that refuse]
+In your mind's eye: assigning — and constants, the values that refuse.
 
 ## Say it to your companion
 

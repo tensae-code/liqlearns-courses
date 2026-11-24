@@ -12,7 +12,7 @@ The book's example is the one inside every keypad: the **decimal-to-BCD encoder*
 
 Now look at how it is built, because it is only OR gates wearing a plan. Call the four outputs by their BCD weights: 8, 4, 2, 1. The 8-output must be 1 exactly when the pressed digit is 8 or 9 — so the 8-output is the OR of input lines 8 and 9. The 4-output is 1 for digits 4, 5, 6, 7 — the OR of those four lines. The 2-output is the OR of 2, 3, 6, 7, and the 1-output the OR of the odd digits 1, 3, 5, 7, 9. Four OR gates, wired by reading the BCD table column by column — the table *is* the circuit plan.
 
-[Picture — the decimal-to-BCD encoder as a box with ten numbered input lines entering and four outputs leaving, one output opened up to show its OR gate fed by lines 8 and 9]
+In your mind's eye: the decimal-to-BCD encoder as a box with ten numbered input lines entering and four outputs leaving, one output opened up to show its OR gate fed by lines 8 and 9.
 
 One honest limitation of the simple encoder: it assumes **only one input is active at a time**. Press two keys together and the outputs OR themselves into a code that matches neither key. Real keypads add priority logic for that case; the book's simple encoder teaches the core idea first.
 
@@ -22,7 +22,7 @@ A **decoder** runs the conversation backwards: a binary code goes in, and exactl
 
 The book's example is the **2-to-4 decoder**. Inputs A and B; outputs numbered 0, 1, 2, 3. Input code 00 activates output 0 and no other; 01 activates output 1; 10 output 2; 11 output 3. Inside, it is AND gates and inverters: each output is one AND gate watching for exactly one pattern — output 2 watches for A = 1, B = 0, so its gate receives A and B̄; output 0 watches Ā · B̄; and so on. Each output is a single row of the truth table, made physical.
 
-[Picture — the 2-to-4 decoder as a box with two inputs and four outputs, output 2 lit for the input 10, and its AND gate shown fed by A and by B through an inverter]
+In your mind's eye: the 2-to-4 decoder as a box with two inputs and four outputs, output 2 lit for the input 10, and its AND gate shown fed by A and by B through an inverter.
 
 Why the world wants decoders: wherever a binary number must **choose one thing**. A memory chip holds thousands of stored rows; the address is a binary number, and a decoder inside turns it into 'this row, and only this row'. A multiplexed display lights one digit at a time under a decoder's choosing. And the famous partnership: a decoder whose outputs drive a **seven-segment display** turns a BCD code into the lit segments of a visible digit — decoding carried all the way back to something human eyes read.
 

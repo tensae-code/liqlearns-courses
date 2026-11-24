@@ -8,13 +8,13 @@ Before any new tool is fetched, the operating system already carries a diagnosti
 
 Windows 10's troubleshooting kit includes: the **built-in troubleshooters** (guided fixers for network, sound, updates and more — they ask, test and repair common faults), **Task Manager** (what is running, what is eating the processor, memory and disk — the crawling system's confession), **Event Viewer** (the system's diary: errors and warnings timestamped — the fault's history), **Device Manager** (each device's health, and its driver's state — the yellow mark that names the guilty), and **System Information / diagnostics** (what the machine is and has).
 
-[Picture — The built-in kit]
+In your mind's eye: the built-in kit.
 
 ## Sub lesson 2 — Working with the tools — evidence before action
 
 The tools are used in the troubleshooter's order: **read before repairing** — the Event Viewer's diary and Task Manager's loads are gathered while the fault is present, because a restart burns the evidence. Each tool's report is **matched to the fault tables** of the unit's earlier lessons (a Device Manager mark → the hardware families; a hungry process → the software families), and the fix is verified by the same tool that found the fault. Jordan's point for the maintenance year: the professional's difference is not secret tools but **evidence discipline** with ordinary ones.
 
-[Picture — Working with the tools — evidence before action]
+In your mind's eye: working with the tools — evidence before action.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Access templates are ready-made databases — structure, tables, forms and repor
 
 Access templates are ready-made databases — structure, tables, forms and reports already designed for a common job — from which a new working database can be created in a few steps The learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data Because not every database must start from a blank page; a template gives a tested design that the learner can study and adapt.
 
-[Picture — Create a database by using a template]
+In your mind's eye: create a database by using a template.
 
 ## Sub lesson 2 — Doing it — Create a database by using a template in practice
 
 Creating a Database from a Template in Access is learned by doing: the learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data The learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data Because not every database must start from a blank page; a template gives a tested design that the learner can study and adapt.
 
-[Picture — Doing it — Create a database by using a template in practice]
+In your mind's eye: doing it — Create a database by using a template in practice.
 
 ## Say it to your companion
 

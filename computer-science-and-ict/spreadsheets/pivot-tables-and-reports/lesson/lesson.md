@@ -8,13 +8,13 @@ A list of five hundred sales tells you nothing at a glance. A pivot table turns 
 
 Start from a tidy list with **headings** (one record per row). Insert a **pivot table**, then drag fields into its areas: a field into **Rows** becomes the grouping (for example, one row per product), a numeric field into **Values** is **summarised** for each group — **sum** by default, or count, average, max or min. The source list is not changed; the pivot is a view built on top of it.
 
-[Picture — grouping and totalling a list]
+In your mind's eye: grouping and totalling a list.
 
 ## Sub lesson 2 — Reading and reshaping the report
 
 A second field into **Columns** (or a filter) splits each total further — sales by product **and** by month, say. Dragging fields around **repivots** the report instantly, which is the whole point: the same data answers many questions. When the source data changes, **refresh** the pivot so the report catches up. North Macedonia's book ends its spreadsheet theme here — pivot reports are its deepest spreadsheet skill.
 
-[Picture — reading and reshaping the report]
+In your mind's eye: reading and reshaping the report.
 
 ## Say it to your companion
 

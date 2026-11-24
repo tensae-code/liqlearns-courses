@@ -8,13 +8,13 @@ Your phone out-computes the machines that filled rooms within living memory. Bef
 
 Long before electronics, people built **automata** — machines that follow a built-in pattern of actions — and dreamed the ideas computing would need: a machine that could be **programmed** (Jacquard's punched cards steering a loom; Babbage's planned Analytical Engine) and a **programmer** to write for it (Ada Lovelace, 1840s). The annexes start here on purpose: computing begins as an idea — instructions stored and followed by a machine — centuries before it becomes a box.
 
-[Picture — Automata and the first ideas]
+In your mind's eye: automata and the first ideas.
 
 ## Sub lesson 2 — Electronic computers to the microcomputer
 
 The twentieth century electrified the idea: wartime and post-war **electronic computers** filled rooms, computed with valves, then transistors, then integrated circuits — each generation smaller, faster, cheaper. The **microcomputer** of the 1970s put a whole processor on one chip and computing on desks and in homes; networks and the phone in every pocket followed. The history's shape is the annexes' lesson: one idea, shrinking — until the computer disappears into everything.
 
-[Picture — Electronic computers to the microcomputer]
+In your mind's eye: electronic computers to the microcomputer.
 
 ## Say it to your companion
 

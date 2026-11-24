@@ -8,13 +8,13 @@ Your best sprite — its looks, its scripts, everything — lives in last week�
 
 The **right-click menu** on a sprite offers the saving: the sprite is **saved to a file**, carrying **all its properties and scripts** — its costumes, its sounds, its blocks — packed into the one file. The sprite on the stage stays where it was; the file is its travelling copy.
 
-[Picture — save the sprite to a file]
+In your mind's eye: save the sprite to a file.
 
 ## Sub lesson 2 — Load it into another program
 
 In the other project the file is **loaded**, and the sprite arrives whole — looks, properties and programming together. Work built once can be **used in another project** exactly as built: the lesson’s rule is build well once, carry it anywhere.
 
-[Picture — load it into another program]
+In your mind's eye: load it into another program.
 
 ## Say it to your companion
 

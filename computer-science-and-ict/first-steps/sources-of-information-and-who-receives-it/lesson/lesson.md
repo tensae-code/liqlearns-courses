@@ -10,7 +10,7 @@ Information does not appear from nowhere. It comes from a **source**.
 
 A source is the one who gives the information. When your teacher speaks, the teacher is the source. When you read a book, the book is the source. When a radio plays a song or a voice, the radio is the source. A road sign is a source too — it tells drivers and walkers what they need to know, without speaking at all.
 
-[Picture — a teacher speaking to a class, a book, a radio and a road sign, each marked as a source]
+In your mind's eye: a teacher speaking to a class, a book, a radio and a road sign, each marked as a source.
 
 To find the source, ask one question: *where did this information start?* Point to that place or that person. That is the source.
 
@@ -20,7 +20,7 @@ Information goes somewhere, too. It goes to a **receiver**.
 
 A receiver is the one who takes the information in. When the teacher speaks, the pupils listening are the receivers. When you read a book, you are the receiver, and the book is the source. When the radio plays, everyone who hears it is a receiver.
 
-[Picture — a child speaking to a friend, with an arrow going from the speaker to the listener]
+In your mind's eye: a child speaking to a friend, with an arrow going from the speaker to the listener.
 
 Here is the part to remember: you swap jobs all day long. When you listen, you are a receiver. When you speak, you become a source, and your friend becomes the receiver. Source and receiver are not who you are — they are the job you are doing at that moment.
 

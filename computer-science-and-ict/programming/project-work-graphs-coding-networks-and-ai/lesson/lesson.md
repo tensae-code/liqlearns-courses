@@ -10,7 +10,7 @@ A **project** is work with a beginning, an end, and a product. The book's projec
 
 Then the **plan**: break the goal into steps, give each step an **owner** (roles are named people, not 'the group'), and set **milestones** — two or three dates on which a named, touchable piece must exist: the map drawn as a graph (day 2), the search running on paper tests (day 4), the presentation built (day 6). A short **log** — three lines per session, what was done, what blocked, what is next — keeps the project honest while memories are fresh. At the end, the product is **tested against the goal sentence**, the failures are written down beside the successes (a project that hides its failures teaches nothing), and the whole is **presented**: product first, then the road, then what the team would do differently.
 
-[Picture — project-plan-board: one goal sentence at the top of a board, steps with owners' names beneath, and three milestone flags on a timeline]
+In your mind's eye: project-plan-board. One goal sentence at the top of a board, steps with owners' names beneath, and three milestone flags on a timeline.
 
 ## Sub lesson 2 — The menu — one build per strand, and the social bot
 
@@ -18,7 +18,7 @@ The book's menu offers one build per strand, each small enough to finish and rea
 
 And the crown piece the chapter saves for its end: **programming a social bot** — a program that receives a message and answers as a character. The first honest version is rule-based, and building it teaches its lesson precisely: the bot scans the incoming text for **patterns** (a greeting word, a question mark, the name of a topic) and answers from prepared responses, with fallbacks for everything unmatched. It feels alive exactly until a message arrives that no pattern fits — and then the class sees, from inside their own build, the border this course drew two ways of AI ago: rules answer what was foreseen (§4.2's knowledge-based way); the unforeseeable is what data-based systems are for. A bot that logs its failures is a project that ends knowing something true.
 
-[Picture — social-bot-patterns: an incoming message flowing through three pattern cards — greeting, question, unknown — each lighting its prepared answer, the unknown card lighting the fallback]
+In your mind's eye: social-bot-patterns: an incoming message flowing through three pattern cards — greeting, question, unknown. Each lighting its prepared answer, the unknown card lighting the fallback.
 
 ## Say it to your companion
 

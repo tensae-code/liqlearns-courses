@@ -8,13 +8,13 @@ Unit 5 §5.4 Introduction to Data Visualization: §5.4.1 Types of Visualizations
 
 This part of Pakistan (Punjab)'s book teaches **Introduction to Data Visualization: §5.4.1 Types of Visualizations** — covering: Unit 5 §5.4 Introduction to Data Visualization: §5.4.1 Types of Visualizations (§5.4.1.1 bar charts, §5.4.1.2 line graphs, §5.4.1.3 histograms, §5.4.1.4 scatterplots, §5.4.1.5 boxplots). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Introduction to Data Visualization: §5.4.1 Types of Visualizations]
+In your mind's eye: introduction to Data Visualization. §5.4.1 Types of Visualizations.
 
 ## Sub lesson 2 — Doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice
 
 **Doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice]
+In your mind's eye: doing it — Choosing the Right Chart Bar Line Histogram Scatter Boxplot in practice.
 
 ## Say it to your companion
 

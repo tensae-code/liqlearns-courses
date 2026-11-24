@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Editing sound** — covering: §21: Editing sound — cutting an unwanted part of a recording (the Trim tool). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Editing sound]
+In your mind's eye: editing sound.
 
 ## Sub lesson 2 — Editing sound in Wave Editor
 
 This part of Kazakhstan's book teaches **Editing sound in Wave Editor** — covering: §18: Editing sound in Wave Editor — opening a file, the waveform diagram, selecting a segment by its start and end. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Editing sound in Wave Editor]
+In your mind's eye: editing sound in Wave Editor.
 
 ## Say it to your companion
 

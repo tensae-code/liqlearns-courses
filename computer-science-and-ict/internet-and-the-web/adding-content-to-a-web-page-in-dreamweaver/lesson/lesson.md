@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Adding Content to Your Page — covering
 
 This part of South Sudan's book teaches **Adding Content to Your Page** — covering: Adding Content to Your Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content to Your Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content to Your Page is part of that chain..
 
-[Picture — Adding Content to Your Page]
+In your mind's eye: adding Content to Your Page.
 
 ## Sub lesson 2 — Adding Content by Using Dreamweaver
 
 This part of South Sudan's book teaches **Adding Content by Using Dreamweaver** — covering: Adding Content by Using Dreamweaver. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content by Using Dreamweaver. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content by Using Dreamweaver is part of that chain..
 
-[Picture — Adding Content by Using Dreamweaver]
+In your mind's eye: adding Content by Using Dreamweaver.
 
 ## Say it to your companion
 

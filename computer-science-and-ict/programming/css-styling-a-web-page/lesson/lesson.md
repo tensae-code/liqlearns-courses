@@ -8,13 +8,13 @@ HTML builds the page; CSS dresses it. Mongolia's Grade 11 book gives page styles
 
 A CSS **style rule** has three parts: the **selector** names what is styled (a tag, a class, an id), the **property** names the feature (colour, size, background), and the **value** says how (red, 14 points, an image). Written `selector { property: value; }`, one rule can restyle every matching element on the page at once — the whole power of CSS is in that 'at once': change the rule, and every paragraph wearing it changes together.
 
-[Picture — The style rule — selector, property, value]
+In your mind's eye: the style rule — selector, property, value.
 
 ## Sub lesson 2 — Three homes for styles — and the first properties
 
 Styles can live in three places: **inline**, inside one element's own attribute — strongest, but scattered; **internal**, in a style block in the page's head — ruling that page only; and **external**, in a separate .css file linked by many pages — the way a whole site is dressed from one file. The book's first working properties are **font** properties (family, size, style, weight) and **background** properties (colour and image) — enough to take a page from default grey to designed, which is where the pupils' sites go next.
 
-[Picture — Three homes for styles — and the first properties]
+In your mind's eye: three homes for styles — and the first properties.
 
 ## Say it to your companion
 

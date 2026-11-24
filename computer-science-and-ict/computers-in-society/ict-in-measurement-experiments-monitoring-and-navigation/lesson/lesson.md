@@ -8,13 +8,13 @@ Unit 1 §1.6.3 ICT Application in Measurement (digital experiments, environmenta
 
 This part of Pakistan (Punjab)'s book teaches **ICT Application in Measurement** — covering: Unit 1 §1.6.3 ICT Application in Measurement (digital experiments, environmental monitoring, navigation). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — ICT Application in Measurement]
+In your mind's eye: iCT Application in Measurement.
 
 ## Sub lesson 2 — Doing it — ICT in Measurement Experiments Monitoring and Navigation in practice
 
 **Doing it — ICT in Measurement Experiments Monitoring and Navigation in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — ICT in Measurement Experiments Monitoring and Navigation in practice]
+In your mind's eye: doing it — ICT in Measurement Experiments Monitoring and Navigation in practice.
 
 ## Say it to your companion
 

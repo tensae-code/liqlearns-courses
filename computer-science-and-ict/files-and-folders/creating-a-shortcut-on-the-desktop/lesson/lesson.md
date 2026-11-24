@@ -8,13 +8,13 @@ Unit 3 §3.7.6 Create a shortcut (practical)
 
 This part of Pakistan (Punjab)'s book teaches **Create a shortcut** — covering: Unit 3 §3.7.6 Create a shortcut (practical). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Create a shortcut]
+In your mind's eye: create a shortcut.
 
 ## Sub lesson 2 — Doing it — Creating a Shortcut on the Desktop in practice
 
 **Doing it — Creating a Shortcut on the Desktop in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Creating a Shortcut on the Desktop in practice]
+In your mind's eye: doing it — Creating a Shortcut on the Desktop in practice.
 
 ## Say it to your companion
 

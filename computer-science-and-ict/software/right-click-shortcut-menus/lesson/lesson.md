@@ -8,13 +8,13 @@ Right-click on an empty part of the desktop. A small menu jumps up that was not 
 
 A **right-click** opens a **shortcut menu**: a short list of orders that belong to the thing you clicked. Right-clicking the **desktop** gives the desktop menu, for arranging the desktop itself. Right-clicking a **file or folder** gives its own menu, with the orders that act on that file or folder — the menu changes because the thing clicked changed.
 
-[Picture — The desktop menu and the file/folder menu]
+In your mind's eye: the desktop menu and the file/folder menu.
 
 ## Sub lesson 2 — The This PC menu, the Recycle Bin and the taskbar menu
 
 Right-clicking **This PC** opens the menu for the computer itself and its drives. The **Recycle Bin** sits in this part of the book too: deleted files wait there until they are restored or removed for good. Right-clicking the **taskbar** opens the taskbar menu, with orders for the bar and the windows open on it. One habit serves everywhere: right-click a thing to see what you can do with it.
 
-[Picture — The This PC menu, the Recycle Bin and the taskbar menu]
+In your mind's eye: the This PC menu, the Recycle Bin and the taskbar menu.
 
 ## Say it to your companion
 

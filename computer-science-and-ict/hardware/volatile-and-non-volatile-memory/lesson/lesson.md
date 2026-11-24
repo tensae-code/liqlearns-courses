@@ -8,13 +8,13 @@ Unit 2 §2.3 Memory and Data Storage: §2.3.1 Memory (volatile — RAM; non-vola
 
 This part of Pakistan (Punjab)'s book teaches **Memory and Data Storage: §2.3.1 Memory** — covering: Unit 2 §2.3 Memory and Data Storage: §2.3.1 Memory (volatile — RAM; non-volatile). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Memory and Data Storage: §2.3.1 Memory]
+In your mind's eye: memory and Data Storage. §2.3.1 Memory.
 
 ## Sub lesson 2 — Doing it — Volatile and Non Volatile Memory in practice
 
 **Doing it — Volatile and Non Volatile Memory in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Volatile and Non Volatile Memory in practice]
+In your mind's eye: doing it — Volatile and Non Volatile Memory in practice.
 
 ## Say it to your companion
 

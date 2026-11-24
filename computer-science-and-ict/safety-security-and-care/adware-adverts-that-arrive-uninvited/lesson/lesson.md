@@ -8,13 +8,13 @@ Unit 2 §2.1.1 Adware
 
 This part of Pakistan (Punjab)'s book teaches **Adware Adverts That Arrive Uninvited** — covering: Unit 2 §2.1.1 Adware. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Adware Adverts That Arrive Uninvited]
+In your mind's eye: adware Adverts That Arrive Uninvited.
 
 ## Sub lesson 2 — Doing it — Adware Adverts That Arrive Uninvited in practice
 
 **Doing it — Adware Adverts That Arrive Uninvited in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Adware Adverts That Arrive Uninvited in practice]
+In your mind's eye: doing it — Adware Adverts That Arrive Uninvited in practice.
 
 ## Say it to your companion
 

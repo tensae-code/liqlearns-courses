@@ -8,13 +8,13 @@ Unit 1 §1.1.4 Defining Candid Solutions and Activity 1.2 (average height, candi
 
 This part of Pakistan (Punjab)'s book teaches **Defining Candid Solutions and Activity 1.2** — covering: Unit 1 §1.1.4 Defining Candid Solutions and Activity 1.2 (average height, candid vs exact). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Defining Candid Solutions and Activity 1.2]
+In your mind's eye: defining Candid Solutions and Activity 1.2.
 
 ## Sub lesson 2 — Doing it — Candid Solutions Quick First Answers in practice
 
 **Doing it — Candid Solutions Quick First Answers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Candid Solutions Quick First Answers in practice]
+In your mind's eye: doing it — Candid Solutions Quick First Answers in practice.
 
 ## Say it to your companion
 

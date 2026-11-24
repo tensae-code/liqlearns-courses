@@ -8,13 +8,13 @@ Unit 1, Important Information: 12th Gen Intel Core processor lineup table (progr
 
 This part of Pakistan (Punjab)'s book teaches **, Important Information: 12th Gen Intel Core processor lineup table** — covering: Unit 1, Important Information: 12th Gen Intel Core processor lineup table (progression of processor generations). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Important Information: 12th Gen Intel Core processor lineup table]
+In your mind's eye: , Important Information. 12th Gen Intel Core processor lineup table.
 
 ## Sub lesson 2 — Doing it — Processor Generations and Reading a CPU Lineup in practice
 
 **Doing it — Processor Generations and Reading a CPU Lineup in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Processor Generations and Reading a CPU Lineup in practice]
+In your mind's eye: doing it — Processor Generations and Reading a CPU Lineup in practice.
 
 ## Say it to your companion
 

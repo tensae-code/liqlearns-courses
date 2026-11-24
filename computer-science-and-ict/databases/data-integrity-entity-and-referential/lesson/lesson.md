@@ -8,13 +8,13 @@ Chapter 4 §4.1 Overview: §4.1.1 Data Integrity (entity integrity — no null p
 
 This part of Pakistan (Punjab)'s book teaches **Overview: §4.1.1 Data Integrity** — covering: Chapter 4 §4.1 Overview: §4.1.1 Data Integrity (entity integrity — no null primary key; referential integrity — foreign key matches or is null). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Overview: §4.1.1 Data Integrity]
+In your mind's eye: overview. §4.1.1 Data Integrity.
 
 ## Sub lesson 2 — Doing it — Data Integrity Entity and Referential in practice
 
 **Doing it — Data Integrity Entity and Referential in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Data Integrity Entity and Referential in practice]
+In your mind's eye: doing it — Data Integrity Entity and Referential in practice.
 
 ## Say it to your companion
 

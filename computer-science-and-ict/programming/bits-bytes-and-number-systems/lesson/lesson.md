@@ -10,7 +10,7 @@ The computer's code has exactly two signs. A **bit** is a single one of them —
 
 Eight bits in a row make one **byte**, and a byte is the computer's working bundle: 8 two-way choices give 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = **256 different patterns**, enough to give every letter, digit and punctuation mark its own pattern, as character codes like ASCII do — the letter A lives in machines as the byte 01000001.
 
-[Picture — bits-and-byte: eight switches in a row, some on and some off, spelling one byte, with the letter it stands for beside it]
+In your mind's eye: bits-and-byte. Eight switches in a row, some on and some off, spelling one byte, with the letter it stands for beside it.
 
 From the byte the sizes climb a staircase, each step 1,024 of the step below (about a thousand): **kilobyte (KB)** ≈ a page of text; **megabyte (MB)** ≈ a photo; **gigabyte (GB)** ≈ a film; **terabyte (TB)** ≈ a whole library shelf of films. When a phone says '128 GB', it is counting these bundles — some 128 billion bytes, over a trillion bits, all of them just 0s and 1s.
 
@@ -20,7 +20,7 @@ Decimal counting is one choice among many. A **number system** is fixed by its *
 
 Reading binary is adding the places that carry a 1: 1101₂ = 8 + 4 + 0 + 1 = **13**. Writing decimal in binary runs the other way: take away the largest power of two that fits, mark 1 at that place, continue with what is left. For 13: take 8 (place marked 1), 5 remains; take 4 (1), 1 remains; take 1 (1), the 2-place gets 0 — 1101₂ again, checked both ways.
 
-[Picture — binary-place-values: the number 13 built three ways — thirteen stones, decimal digits over places 10 and 1, binary digits over places 8, 4, 2, 1]
+In your mind's eye: binary-place-values: the number 13 built three ways — thirteen stones, decimal digits over places 10 and 1, binary digits over places 8, 4, 2, 1.
 
 Binary numbers grow long, so the people who work close to machines write them in **hexadecimal** (base 16): digits 0–9 plus letters A–F for ten to fifteen. Its one convenience rules them all: **one hexadecimal digit is exactly four bits** (2⁴ = 16), so a byte is always exactly two hex digits — 01000001 is 41 in hex, and the letter A in ASCII is '41' in the machine's shorthand. Same numbers, three sets of clothes; converting never changes the value, only its writing.
 

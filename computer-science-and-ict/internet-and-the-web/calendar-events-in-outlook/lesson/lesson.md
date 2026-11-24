@@ -8,13 +8,13 @@ The Outlook calendar holds events and meetings on a day-by-day grid: an event is
 
 The Outlook calendar holds events and meetings on a day-by-day grid: an event is an appointment with a time, and a meeting is an event with other people invited The learner sets up common events in the calendar, creates meetings with invitees, and reads the calendar by day, week and month Because time is the one resource a school or office cannot make more of; the calendar makes commitments visible before they clash.
 
-[Picture — Setting up common events in the calendar]
+In your mind's eye: setting up common events in the calendar.
 
 ## Sub lesson 2 — How to schedule a meeting
 
 Calendar Events in Outlook is learned by doing: the learner sets up common events in the calendar, creates meetings with invitees, and reads the calendar by day, week and month The learner sets up common events in the calendar, creates meetings with invitees, and reads the calendar by day, week and month Because time is the one resource a school or office cannot make more of; the calendar makes commitments visible before they clash.
 
-[Picture — How to schedule a meeting]
+In your mind's eye: how to schedule a meeting.
 
 ## Say it to your companion
 

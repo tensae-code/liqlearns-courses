@@ -8,13 +8,13 @@ Part IV. Working with a text document, 4.1: Footnotes and references
 
 This part of Kazakhstan's book teaches **Working with a text document, 4.1: Footnotes and references** — covering: Part IV. Working with a text document, 4.1: Footnotes and references. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Working with a text document, 4.1: Footnotes and references]
+In your mind's eye: working with a text document, 4.1. Footnotes and references.
 
 ## Sub lesson 2 — Working with text documents, 6.1: Footnotes
 
 This part of Kazakhstan's book teaches **Working with text documents, 6.1: Footnotes** — covering: Part VI. Working with text documents, 6.1: Footnotes. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Working with text documents, 6.1: Footnotes]
+In your mind's eye: working with text documents, 6.1. Footnotes.
 
 ## Say it to your companion
 

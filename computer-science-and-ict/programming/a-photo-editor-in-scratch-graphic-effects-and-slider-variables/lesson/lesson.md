@@ -8,13 +8,13 @@ Grade 9 does not only use programs — it builds a tool: a photo editor, with bu
 
 The editor’s controls are **button sprites**: **Rotate**, **Zoom In**, **Zoom Out** and **Reset**, each a sprite whose script changes the photo when clicked. A program’s controls can be sprites themselves — the interface is built from the same pieces as the picture it controls.
 
-[Picture — button sprites — Rotate, Zoom In, Zoom Out, Reset]
+In your mind's eye: button sprites — Rotate, Zoom In, Zoom Out, Reset.
 
 ## Sub lesson 2 — Effect variables and their sliders
 
 Under the buttons, **variables hold the graphic effects** — **brightness, colour, fisheye, pixelate, mosaic, ghost** — and each variable is **changed by a slider on the stage**: drag the slider and the effect deepens or fades at once. The slider is a variable you can pull with a finger.
 
-[Picture — effect variables and their sliders]
+In your mind's eye: effect variables and their sliders.
 
 ## Say it to your companion
 

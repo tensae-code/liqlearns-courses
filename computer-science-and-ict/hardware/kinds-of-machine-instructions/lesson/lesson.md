@@ -8,13 +8,13 @@ An opcode field promises a set of operations. Grade 11 sorts that set into its w
 
 The **data-transfer** instructions **move** values without changing them: load (memory → register), store (register → memory), move between registers, push and pop on the stack. The **arithmetic** instructions **compute**: add, subtract, multiply, divide, increment, decrement — on the registers' contents. The **logic** instructions compute **bitwise**: AND, OR, NOT, XOR applied to every bit of a word at once, and **shifts** that slide a word's bits left or right — the same operations the Boolean chapter built from gates, now wearing opcodes.
 
-[Picture — Movers and workers — transfer, arithmetic, logic]
+In your mind's eye: movers and workers — transfer, arithmetic, logic.
 
 ## Sub lesson 2 — Choosers and speakers — control and input/output
 
 The **control** instructions steer the program counter: **jumps** (go to another instruction), **conditional branches** (jump only if a test on the last result holds — the machine's if), **calls** (jump to a subprogram, remembering the return) and **returns**, and **halt**. The **input/output** instructions speak to the **devices** — reading a key, sending a character to the display — through the machine's ports. Four families, and the count is closed: every program ever written for the machine is these, in some order.
 
-[Picture — Choosers and speakers — control and input/output]
+In your mind's eye: choosers and speakers — control and input/output.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Two loops test before; this one tests after. Grade 8 closes its Pascal instructi
 
 The **repeat** instruction reads `repeat <instructions> until <condition>`: the body runs, **then** the condition is tested — if it is **false**, the body repeats; if **true**, the loop ends. Two gifts follow from the order. The body is a bare sequence — **no begin…end needed**, repeat and until are themselves the brackets. And the body runs **at least once**, always: a repeat loop can never be skipped, which is exactly right for work like 'ask until the answer is valid'.
 
-[Picture — Body first, test after]
+In your mind's eye: body first, test after.
 
 ## Sub lesson 2 — repeat against while — and do-while
 
 Set the loops side by side: **while** tests first and repeats while its condition is **true** — it may run zero times; **repeat** tests last and repeats until its condition is **true** — it runs at least once, and its ending condition is the while's negation (repeat until x = 0 is while x <> 0 continued). C++ writes the same loop **do…while**. Choosing is a question about the first run: must the body act before any test makes sense — reading a value, showing a menu? Then repeat; must the test guard even the first entry? Then while.
 
-[Picture — repeat against while — and do-while]
+In your mind's eye: repeat against while — and do-while.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 2, Indicators of Security Threats
 
 This part of Pakistan (Punjab)'s book teaches **, Indicators of Security Threats** — covering: Unit 2, Indicators of Security Threats. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Indicators of Security Threats]
+In your mind's eye: , Indicators of Security Threats.
 
 ## Sub lesson 2 — Doing it — Signs Your Computer Is Infected in practice
 
 **Doing it — Signs Your Computer Is Infected in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Signs Your Computer Is Infected in practice]
+In your mind's eye: doing it — Signs Your Computer Is Infected in practice.
 
 ## Say it to your companion
 

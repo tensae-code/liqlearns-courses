@@ -8,13 +8,13 @@ Lessons 14–15: Making a cartoon
 
 This part of Kazakhstan's book teaches **Lessons 14–15: Making a cartoon** — covering: Lessons 14–15: Making a cartoon. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lessons 14–15: Making a cartoon]
+In your mind's eye: lessons 14–15. Making a cartoon.
 
 ## Sub lesson 2 — Creating a cartoon
 
 This part of Kazakhstan's book teaches **Creating a cartoon** — covering: §14: Creating a cartoon. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creating a cartoon]
+In your mind's eye: creating a cartoon.
 
 ## Say it to your companion
 

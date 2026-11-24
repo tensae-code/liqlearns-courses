@@ -8,13 +8,13 @@ Chapter 3 §3.3 Database Design (the development process diagram) and §3.3.1 Co
 
 This part of Pakistan (Punjab)'s book teaches **Database Design** — covering: Chapter 3 §3.3 Database Design (the development process diagram) and §3.3.1 Conceptual (Logical) Database Design (represent entities, represent relationships, merge the relations — view integration, normalize the relations). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Database Design]
+In your mind's eye: database Design.
 
 ## Sub lesson 2 — Doing it — Logical Design Turning an ERD into Relations in practice
 
 **Doing it — Logical Design Turning an ERD into Relations in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Logical Design Turning an ERD into Relations in practice]
+In your mind's eye: doing it — Logical Design Turning an ERD into Relations in practice.
 
 ## Say it to your companion
 

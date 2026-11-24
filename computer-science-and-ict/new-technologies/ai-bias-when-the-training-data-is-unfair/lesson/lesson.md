@@ -8,13 +8,13 @@ A program learns faces from a photo collection where one kind of face barely app
 
 A learning system is built from its **training data**: it finds the patterns the data contains — including the data's unfairness. If the examples under-represent a group, skew toward one place or period, or encode yesterday's prejudices, the system learns a **bias (biais)**: a systematic tilt in its answers. Every Décodage introduction carries the same warning from age six upward: attention aux biais — the machine's mistakes often begin as our data's mistakes.
 
-[Picture — Bias comes from the data]
+In your mind's eye: bias comes from the data.
 
 ## Sub lesson 2 — Correlation is not causation
 
 The introductions pair bias with its twin trap: **correlation is not causation (corrélation n'est pas causalité)**. A system may learn that two things rise together and treat one as the other's cause — ice-cream sales and drowning both rise in summer, caused by a third thing neither system nor child should miss: the heat. A correlation is a hint to investigate, never a proof; acting on it as a cause builds unfair and foolish systems.
 
-[Picture — Correlation is not causation]
+In your mind's eye: correlation is not causation.
 
 ## Say it to your companion
 

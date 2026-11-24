@@ -8,13 +8,13 @@
 
 An **arithmetic sequence** grows by **adding the same difference** each step; a **geometric sequence** grows by **multiplying by the same ratio**. A loop with the rule inside it **generates the sequence into a list**, term after term, without the programmer typing them.
 
-[Picture — arithmetic and geometric — add the same, multiply by the same]
+In your mind's eye: arithmetic and geometric — add the same, multiply by the same.
 
 ## Sub lesson 2 — Fibonacci — each term the sum of the two before it
 
 The **Fibonacci sequence** follows its own rule: **each term is the sum of the two before it** — 1, 1, 2, 3, 5, 8… The book keeps its history with it: **Fibonacci learned his mathematics from Arab scholars**, and carried the sequence — and much else — to Europe.
 
-[Picture — fibonacci — each term the sum of the two before it]
+In your mind's eye: fibonacci — each term the sum of the two before it.
 
 ## Say it to your companion
 

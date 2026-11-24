@@ -8,13 +8,13 @@ The cat is Scratch's first sprite, but your story may need a dog, a fish, or nob
 
 A sprite is **changed** by choosing another: open the **sprite library**, pick the character the story needs, and it appears on the stage and in the sprite list with its own empty script area. The old sprite can be kept for another scene or removed. Bhutan's Class IV book teaches the steps in order — open the library, choose, check the stage — because every later Scratch project begins with casting the right actors.
 
-[Picture — Changing the sprite — choosing a new actor]
+In your mind's eye: changing the sprite — choosing a new actor.
 
 ## Sub lesson 2 — Deleting a sprite — removing an actor cleanly
 
 A sprite is **deleted** from the sprite list: select the sprite and use its **delete** command (the small cross or right-click delete), and the sprite leaves the stage and the project — its scripts and costumes go with it. Deleting is for actors the project truly does not need; a sprite wanted later should be hidden, not deleted. The rule before deleting: check the sprite carries no script another part of the story depends on.
 
-[Picture — Deleting a sprite — removing an actor cleanly]
+In your mind's eye: deleting a sprite — removing an actor cleanly.
 
 ## Say it to your companion
 

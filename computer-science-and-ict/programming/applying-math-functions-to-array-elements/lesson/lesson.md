@@ -8,13 +8,13 @@ You have the toolbox (cmath) and the row of values (the array). This lesson runs
 
 The pattern is the familiar walk with a function inside: **b[i] = sqrt(a[i]);** fills a second array with roots; printing **pow(a[i], 2)** shows squares without storing them. Domain care travels with the function: sqrt of a **negative** element is not a real number, so a careful program tests before it transforms.
 
-[Picture — one function, every element]
+In your mind's eye: one function, every element.
 
 ## Sub lesson 2 — Transforms, then facts about transforms
 
 Transformed arrays feed the usual walks — total the **absolute values**, find the largest **square**, count the elements whose **rounded** value passes a mark. Each job is a composition: transform inside the walk that totals, crowns or counts. The section's discipline is order: know whether the function applies **per element** (one pass) or needs an **array-wide fact first** (two passes).
 
-[Picture — transforms, then facts about transforms]
+In your mind's eye: transforms, then facts about transforms.
 
 ## Say it to your companion
 

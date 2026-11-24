@@ -8,13 +8,13 @@ The monkey reaches the banana. The ball reaches the arrow. How does the program 
 
 A **touching** test asks whether the sprite is touching the **mouse pointer**, **another sprite**, or a **colour** on the stage. Inside a game these tests are the referee: the monkey has the banana exactly when touching says so — not when the player thinks so.
 
-[Picture — touching — pointer, sprite, colour]
+In your mind's eye: touching. Pointer, sprite, colour.
 
 ## Sub lesson 2 — Wait-until and layers
 
 **Wait-until** holds everything until its test comes true — the script’s way of standing at the meeting point. When sprites meet, **layers** decide the picture: **go to front** brings a sprite over the others, **go to back** sends it behind.
 
-[Picture — wait-until and layers]
+In your mind's eye: wait-until and layers.
 
 ## Say it to your companion
 

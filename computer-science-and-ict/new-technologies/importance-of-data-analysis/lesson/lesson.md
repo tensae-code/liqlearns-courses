@@ -8,13 +8,13 @@ Why analyse at all? Because the alternative is guessing — dressed in experienc
 
 Data analysis matters first because it replaces **opinion with evidence** in decisions: a shop stocks what the data shows selling, a school helps the pupils the data shows struggling, a ministry funds what the data shows working. It **finds what eyes miss** — patterns too slow, too large or too tangled for watching: the fault that grows for a year in a factory's numbers before any machine sounds wrong.
 
-[Picture — Decisions with evidence]
+In your mind's eye: decisions with evidence.
 
 ## Sub lesson 2 — Foreseeing, saving, serving
 
 Beyond seeing: analysis **predicts** (demand next month, risk next season — the forecasting lessons' whole point), **saves** (waste, fraud and failure spotted early are cheaper than late), and **serves** (services shaped to actual use, not imagined use). Jordan's importance lesson is the unit's contract with the pupil: every technique after this page is a way of earning one of these — evidence, foresight, savings, service — and a technique that earns none is a parlour trick.
 
-[Picture — Foreseeing, saving, serving]
+In your mind's eye: foreseeing, saving, serving.
 
 ## Say it to your companion
 

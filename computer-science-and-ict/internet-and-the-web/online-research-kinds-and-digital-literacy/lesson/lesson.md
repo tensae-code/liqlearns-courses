@@ -8,13 +8,13 @@ Unit 8 §8.1 Online Research and Digital Literacy (§8.1.1 importance of online 
 
 This part of Pakistan (Punjab)'s book teaches **Online Research and Digital Literacy** — covering: Unit 8 §8.1 Online Research and Digital Literacy (§8.1.1 importance of online research; §8.1.2 types — general, academic, market, fact-checking, health; §8.1.3 digital literacy; §8.1.4 key components — using technology, searching for information (Punjab farmers searching irrigation methods), evaluating sources). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Online Research and Digital Literacy]
+In your mind's eye: online Research and Digital Literacy.
 
 ## Sub lesson 2 — Doing it — Online Research Kinds and Digital Literacy in practice
 
 **Doing it — Online Research Kinds and Digital Literacy in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Online Research Kinds and Digital Literacy in practice]
+In your mind's eye: doing it — Online Research Kinds and Digital Literacy in practice.
 
 ## Say it to your companion
 

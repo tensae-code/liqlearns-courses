@@ -8,13 +8,13 @@ Unit 6 §6.4.2 Use Cases of Blockchain Technology (cryptocurrencies, supply chai
 
 This part of Pakistan (Punjab)'s book teaches **Use Cases of Blockchain Technology** — covering: Unit 6 §6.4.2 Use Cases of Blockchain Technology (cryptocurrencies, supply chain, healthcare, voting) and §6.4.3 Cryptocurrencies and Smart Contracts (§6.4.3.1 role of cryptocurrencies; §6.4.3.2 smart contracts — Ethereum). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Use Cases of Blockchain Technology]
+In your mind's eye: use Cases of Blockchain Technology.
 
 ## Sub lesson 2 — Doing it — Cryptocurrencies and Smart Contracts in practice
 
 **Doing it — Cryptocurrencies and Smart Contracts in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Cryptocurrencies and Smart Contracts in practice]
+In your mind's eye: doing it — Cryptocurrencies and Smart Contracts in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before information can be worked on, the world must be sorted into things. Mongo
 
 An **object** is any thing around us that can be named and pointed to — a book, a ger, the Mazaalai bear. Every object has **properties** (its **parameters**): the features by which it can be described and measured — a book's size, colour, weight and number of pages. To describe an object is to list its properties and their values; two objects of the same kind are told apart by the values their properties take.
 
-[Picture — Objects and their properties]
+In your mind's eye: objects and their properties.
 
 ## Sub lesson 2 — Environment and classification
 
 No object stands alone: each exists in an **environment** — the surroundings it belongs to and acts in. Objects are **classified** by shared properties: objects whose key properties match are put in one **class** (all books together, all bears together). Classification is the first information skill in the book's order: once the world is sorted into objects with properties, information about it can be stored, compared and reasoned with — the work the rest of the course builds on.
 
-[Picture — Environment and classification]
+In your mind's eye: environment and classification.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ PRINT shows; a program must also ask. Libya's Grade 11 book teaches the asking a
 
 **INPUTBOX** is Visual Basic's **input function**: when it runs, the program **pauses and shows a small box** with a **prompt** — the question you write for the user — and a space to type in. The user types an answer and confirms, and the program continues. The prompt is the function's argument: write it as a real question, because the user sees nothing else to guide them.
 
-[Picture — INPUTBOX — asking while the program runs]
+In your mind's eye: iNPUTBOX — asking while the program runs.
 
 ## Sub lesson 2 — Where the answer goes — into a variable
 
 What the user types **comes back as the function's result**, and like every result it must be **kept**: assigned to a variable in the same line, `name = INPUTBOX("What is your name?")`. If the result is not assigned, the answer is shown and lost. Libya places INPUTBOX in the 'interacting with the computer' chapter, beside the special-purpose and general-purpose programs of the same chapter — input is the half of the conversation PRINT alone cannot hold.
 
-[Picture — Where the answer goes — into a variable]
+In your mind's eye: where the answer goes — into a variable.
 
 ## Say it to your companion
 

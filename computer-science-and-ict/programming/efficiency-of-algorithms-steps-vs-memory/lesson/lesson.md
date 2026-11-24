@@ -8,13 +8,13 @@ Unit 3, Efficiency of a Solution (steps executed; memory consumed)
 
 This part of Pakistan (Punjab)'s book teaches **, Efficiency of a Solution** — covering: Unit 3, Efficiency of a Solution (steps executed; memory consumed). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Efficiency of a Solution]
+In your mind's eye: , Efficiency of a Solution.
 
 ## Sub lesson 2 — Efficiency of Algorithms
 
 This part of Pakistan (Punjab)'s book teaches **Efficiency of Algorithms** — covering: Unit 1 §1.3.5 Efficiency of Algorithms (number of steps; space used; the 1+2+…+99 example three ways). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Efficiency of Algorithms]
+In your mind's eye: efficiency of Algorithms.
 
 ## Say it to your companion
 

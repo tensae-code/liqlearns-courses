@@ -8,13 +8,13 @@ An integrated library management system is one database-driven system that runs 
 
 An integrated library management system is one database-driven system that runs a whole library — catalogue, members, borrowing and returning, and fines — with every part sharing the same records The learner traces a book through the system: catalogued once, borrowed against a member record, returned, and reported on — seeing how one shared database replaces separate paper registers Because a library's work is exactly the work databases do best, and integration means an item's story is written once and read everywhere.
 
-[Picture — Integrated Library Management Systems]
+In your mind's eye: integrated Library Management Systems.
 
 ## Sub lesson 2 — Key inquiry: how books are managed in a school library (a small library information system)
 
 Integrated Library Management Systems is learned by doing: the learner traces a book through the system: catalogued once, borrowed against a member record, returned, and reported on — seeing how one shared database replaces separate paper registers The learner traces a book through the system: catalogued once, borrowed against a member record, returned, and reported on — seeing how one shared database replaces separate paper registers Because a library's work is exactly the work databases do best, and integration means an item's story is written once and read everywhere.
 
-[Picture — Key inquiry: how books are managed in a school library (a small library information system)]
+In your mind's eye: key inquiry. How books are managed in a school library (a small library information system).
 
 ## Say it to your companion
 

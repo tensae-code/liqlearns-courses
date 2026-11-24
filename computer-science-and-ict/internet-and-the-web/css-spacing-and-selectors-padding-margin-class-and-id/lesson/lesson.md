@@ -8,13 +8,13 @@ The first CSS lesson styled a page. This one aims and spaces: which elements a s
 
 A **selector** names what a style rule hits. An element selector hits every such element; a **class** selector hits every element **wearing that class** — the reusable uniform, given to many elements that must look alike (every price, every note); an **id** selector hits the **one** element carrying that id — the named individual (the page's single header banner). Choosing the selector is choosing the style's **reach**, and Kuwait teaches reach before decoration: a style that hits the wrong elements is a tidy accident.
 
-[Picture — Selectors — class for many, id for one]
+In your mind's eye: selectors — class for many, id for one.
 
 ## Sub lesson 2 — Padding and margin — the air inside and outside
 
 Every element is a box, and CSS spaces it twice: **padding** is the space **inside** the box, between its border and its contents — the cushion; **margin** is the space **outside** the border, between this box and its neighbours — the elbow room. The book's practice styles **table headers and cells**: header cells padded so their words breathe, the table margined from the text around it. Confusing the two spaces is the beginner's classic fault; the picture that cures it is a framed photograph — padding is the mount inside the frame, margin is the wall around it.
 
-[Picture — Padding and margin — the air inside and outside]
+In your mind's eye: padding and margin — the air inside and outside.
 
 ## Say it to your companion
 

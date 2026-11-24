@@ -8,13 +8,13 @@ You are typing in Arabic and the next word must be English. You do not need a se
 
 Press **Alt+Shift** and the keyboard's **typing language switches** — from **Arabic to English**, and back again with the same press. The letters the keys produce change with the language: the same key that typed an Arabic letter now types an English one. The language indicator on the taskbar always shows which language is live.
 
-[Picture — alt+shift — the language switch]
+In your mind's eye: alt+shift — the language switch.
 
 ## Sub lesson 2 — Text direction follows the language
 
 **Text direction** is where writing runs: **Arabic runs right to left**, and **English is written left to right** — so when the language changes, the **direction changes** too, and the writing point moves to the correct side. A document can hold both: switch language and direction for each part, and each part sits in its own direction.
 
-[Picture — text direction follows the language]
+In your mind's eye: text direction follows the language.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A sprite that moves leaves nothing behind — until its pen goes down. Palestine
 
 The pen’s first blocks are three: **pen down** puts the pen on the stage so movement draws, **pen up** lifts it so movement is invisible, and **clear** wipes the drawing away. On top of these sit the settings: **pen colour**, chosen across **200+ shades** in Grade 6 and set **by number** or **by touching a colour on screen** in Grade 8, with **pen shade** light or dark, and **pen size** set and changed by blocks.
 
-[Picture — pen down, pen up, clear — and the pen’s colour and size]
+In your mind's eye: pen down, pen up, clear — and the pen’s colour and size.
 
 ## Sub lesson 2 — The pen at work — ornaments, stairs, and free writing
 
 The books put the pen to four kinds of work: Grade 7 draws **lines and ornaments** (opening with the question of ornaments like Al-Aqsa Mosque’s), Grade 6 combines the pen with **movement, costumes and resizing**, Grade 8 draws **stairs and a house**, and Grade 9 writes **freehand on the stage** — a pencil sprite whose costume centre is its tip follows the mouse, pen down while the mouse is pressed, with a clear sprite as the board wiper and an eraser sprite in the poetry project.
 
-[Picture — the pen at work — ornaments, stairs, and free writing]
+In your mind's eye: the pen at work — ornaments, stairs, and free writing.
 
 ## Say it to your companion
 

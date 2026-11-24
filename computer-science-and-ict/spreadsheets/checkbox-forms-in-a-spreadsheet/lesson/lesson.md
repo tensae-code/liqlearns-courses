@@ -8,13 +8,13 @@ building a form in a spreadsheet with checkboxes — a customer form whose tick 
 
 A spreadsheet can carry a **form**: not just cells to type in, but **controls** a person operates — and the first control is the **checkbox**, a small box that is **ticked or unticked** with a click. Vietnam's Applied specialist book builds a **customer form** for its travel company's quotation program this way: the customer (or the clerk serving them) ticks what the trip includes — meals, guide, insurance — and the form becomes the friendly face of a working sheet.
 
-[Picture — A form inside the sheet — controls a person can touch]
+In your mind's eye: a form inside the sheet — controls a person can touch.
 
 ## Sub lesson 2 — The checkbox works — its value feeds the sheet
 
 A checkbox is not decoration: it is **linked to a cell**, which reads **TRUE when ticked, FALSE when not**, and formulas can spend that truth — an IF adds the insurance cost only when its box is ticked. Building the form well means the usual form discipline: **labels a stranger understands**, boxes grouped by meaning, and nothing required left ambiguous. The quotation that follows in the project is only as honest as this form's ticks.
 
-[Picture — The checkbox works — its value feeds the sheet]
+In your mind's eye: the checkbox works — its value feeds the sheet.
 
 ## Say it to your companion
 

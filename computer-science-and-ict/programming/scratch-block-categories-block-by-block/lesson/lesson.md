@@ -8,13 +8,13 @@ Unit 5, the block category tables (Motion, Looks, Sound, Sensing, Operators, Con
 
 This part of Pakistan (Punjab)'s book teaches **, the block category tables** — covering: Unit 5, the block category tables (Motion, Looks, Sound, Sensing, Operators, Control, Events, Variables). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , the block category tables]
+In your mind's eye: , the block category tables.
 
 ## Sub lesson 2 — Doing it — Scratch Block Categories Block by Block in practice
 
 **Doing it — Scratch Block Categories Block by Block in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Scratch Block Categories Block by Block in practice]
+In your mind's eye: doing it — Scratch Block Categories Block by Block in practice.
 
 ## Say it to your companion
 

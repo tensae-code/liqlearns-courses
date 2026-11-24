@@ -8,13 +8,13 @@ This is where the theme's two halves join: the array becomes something functions
 
 A function declares an array parameter as **int a[]** (size left open) and — because the function cannot see how many elements are live — the **count n travels with it**: **void printArray(int a[], int n)**. Inside, the function indexes the parameter exactly like a local array. Unlike ordinary variables, **no copy** is made: the function works on the caller's own elements.
 
-[Picture — passing an array to a function]
+In your mind's eye: passing an array to a function.
 
 ## Sub lesson 2 — The capstone shape — fill, process, print
 
 Because changes are real, the theme's programs settle into a standard crew: a **fill** function reads the array, **process** functions (total, crown, count, transform) work on it, a **print** function shows it, and **main** only calls the crew in order. That is modular programming standing on arrays — the Year 2 book's destination for its whole C++ theme, and the shape its final exercises demand.
 
-[Picture — the capstone shape — fill, process, print]
+In your mind's eye: the capstone shape — fill, process, print.
 
 ## Say it to your companion
 

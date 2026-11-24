@@ -8,13 +8,13 @@ Put a small box inside a big box, then try to close the big box first. Your hand
 
 HTML pages are built by **nesting**: an element placed inside another — a paragraph inside a section, a bold word inside the paragraph, a link inside the bold. The inside element is the **child**, its container the **parent**, and the browser builds the page as exactly this tree of boxes. Nesting is how structure is said: the tree is the document's skeleton, and every later skill — styling by CSS selectors, scripting — walks this tree.
 
-[Picture — Nesting — elements inside elements]
+In your mind's eye: nesting — elements inside elements.
 
 ## Sub lesson 2 — The mirror rule — last opened, first closed
 
 The rule is one line: **elements close in the reverse order they opened** — `<p>…<b>…</b>…</p>`, never `<p>…<b>…</p>…</b>`. Wrongly nested (overlapping) tags make the browser guess where boxes end, and its guess may not be yours — the page breaks in ways that wander between browsers. The error-hunting lesson meets wrong nesting as a fault; this lesson is its prevention: write the closing tag the moment you write the opening one, then fill the middle, and the mirror can never break.
 
-[Picture — The mirror rule — last opened, first closed]
+In your mind's eye: the mirror rule — last opened, first closed.
 
 ## Say it to your companion
 

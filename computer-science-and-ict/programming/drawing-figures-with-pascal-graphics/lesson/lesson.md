@@ -8,13 +8,13 @@ Once the screen is in graphics mode, Pascal can draw: points, lines, rectangles,
 
 In the Graph unit, **PutPixel** lights one point, **Line** draws a segment between two points, **Rectangle** draws a box by its corners, **Circle** draws a circle by centre and radius, and **SetColor** chooses the drawing colour. Each operator takes numbers — coordinates and sizes — so the picture is computed, not dragged: change a number and the figure obeys.
 
-[Picture — The drawing operators]
+In your mind's eye: the drawing operators.
 
 ## Sub lesson 2 — Composing a picture from figures
 
 Figures compose: a house is a rectangle, a triangle roof and a circle sun; a flag is rectangles in colours. The book closes the lesson with a repetition, because the graphics operators are the Pascal course's reward — the pupil who has done values, branches and loops now makes the screen show them. Draw big first, then add the small figures.
 
-[Picture — Composing a picture from figures]
+In your mind's eye: composing a picture from figures.
 
 ## Say it to your companion
 

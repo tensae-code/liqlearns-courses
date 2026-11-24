@@ -8,13 +8,13 @@ Part 3. Creating video, §16: The video clip
 
 This part of Kazakhstan's book teaches **Creating video, §16: The video clip** — covering: Part 3. Creating video, §16: The video clip. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creating video, §16: The video clip]
+In your mind's eye: creating video, §16. The video clip.
 
 ## Sub lesson 2 — Creating video content, §4: Programs for working with video
 
 This part of Kazakhstan's book teaches **Creating video content, §4: Programs for working with video** — covering: Part 2. Creating video content, §4: Programs for working with video. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creating video content, §4: Programs for working with video]
+In your mind's eye: creating video content, §4. Programs for working with video.
 
 ## Say it to your companion
 

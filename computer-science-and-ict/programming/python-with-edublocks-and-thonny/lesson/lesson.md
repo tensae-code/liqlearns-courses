@@ -8,13 +8,13 @@ Grade 9 does not throw its learners at a bare editor. It gives them two careful 
 
 **EduBlocks** is a **block environment whose blocks are Python**: the learner drags blocks — print, input, if, loops — and the environment shows the **Python text they make**, line by line beside the blocks. Its gift is the bridge: the Scratch habits of Grade 7-8 (snap, run, see) are spent on real Python ideas, and when the blocks come away, the text that remains is a language the learner already half-knows.
 
-[Picture — EduBlocks — Python built from blocks]
+In your mind's eye: eduBlocks — Python built from blocks.
 
 ## Sub lesson 2 — Thonny — the environment built for beginners
 
 **Thonny** is a **Python environment (IDE) made for learners**: a simple editor above, the program's run below, and — its famous kindness — a **debugger that walks the program step by step**, showing each variable's value as it changes, so the machine's invisible work becomes watching a table fill. Greece's unit introduces both environments before data types and variables, in the book's own order: first the homes where Python will be lived in, then the language's furniture.
 
-[Picture — Thonny — the environment built for beginners]
+In your mind's eye: thonny — the environment built for beginners.
 
 ## Say it to your companion
 

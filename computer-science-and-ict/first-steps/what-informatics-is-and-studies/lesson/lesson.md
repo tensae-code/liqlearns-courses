@@ -8,13 +8,13 @@ Uzbekistan's Grade 8 book opens with two lessons before it touches a machine: fi
 
 **Informatics** is the subject — and the science — of **information**: how it is gathered, stored, processed, passed on and used, and of the computer as the machine that does this work fastest. The Grade 8 book's first chapter is named for the concept itself, and its first lesson is an introduction: the pupil meets the word before any device.
 
-[Picture — Introduction — a subject about information]
+In your mind's eye: introduction — a subject about information.
 
 ## Sub lesson 2 — What informatics studies
 
 The second lesson names the field's parts: information and its kinds, the processes done with it, the computer and its devices, programs, and the rules of working safely and well. Every later chapter of the book — number systems, the computer, the operating system, documents — is one of these parts grown large, which is why the map is drawn first.
 
-[Picture — What informatics studies]
+In your mind's eye: what informatics studies.
 
 ## Say it to your companion
 

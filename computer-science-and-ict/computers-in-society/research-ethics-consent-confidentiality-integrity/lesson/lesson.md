@@ -8,13 +8,13 @@ Unit 8 §8.3 Research Ethics (§8.3.1 importance; §8.3.2 key principles — inf
 
 This part of Pakistan (Punjab)'s book teaches **Research Ethics** — covering: Unit 8 §8.3 Research Ethics (§8.3.1 importance; §8.3.2 key principles — informed consent, confidentiality, integrity, respect for participants). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Research Ethics]
+In your mind's eye: research Ethics.
 
 ## Sub lesson 2 — Doing it — Research Ethics Consent Confidentiality Integrity in practice
 
 **Doing it — Research Ethics Consent Confidentiality Integrity in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Research Ethics Consent Confidentiality Integrity in practice]
+In your mind's eye: doing it — Research Ethics Consent Confidentiality Integrity in practice.
 
 ## Say it to your companion
 

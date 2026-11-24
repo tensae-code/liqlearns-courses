@@ -8,13 +8,13 @@ The cloud is not a vapour; it is buildings, machines, networks and software in a
 
 A cloud system stands on **data centres** — buildings of servers, storage and networking, with power and cooling — and on the **virtualisation** layer that slices each physical machine into many virtual ones, so one server serves many customers in isolation. Over that sits the **platform software** that allocates, monitors and bills: the machinery that turns a warehouse of computers into a service that can be rented by the hour.
 
-[Picture — The physical and virtual parts]
+In your mind's eye: the physical and virtual parts.
 
 ## Sub lesson 2 — The reaching parts — clients, networks, services
 
 On the user's side: the **client devices** (anything with a browser or app), the **internet connection** that is the cloud's road, and the **services** themselves, offered in the models the next lesson names (IaaS, PaaS, SaaS). Jordan's components lesson insists on the whole chain because every link can fail or be attacked: a cloud is exactly as strong, and exactly as private, as its weakest component.
 
-[Picture — The reaching parts — clients, networks, services]
+In your mind's eye: the reaching parts — clients, networks, services.
 
 ## Say it to your companion
 

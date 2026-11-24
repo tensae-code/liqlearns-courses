@@ -8,13 +8,13 @@ Fourteen lessons of solving other people’s puzzles end with the tables turned:
 
 The final lesson, **Innovations**, asks the pupil to **invent new missions and puzzles** with **everything learned** in the book — commands, sequences, repeat blocks, nested loops and conditionals. A good invented puzzle is fair: it can be solved, its goal is clear, and its plan fits on squared paper before it is built.
 
-[Picture — inventing the mission]
+In your mind's eye: inventing the mission.
 
 ## Sub lesson 2 — Exchanging tasks with a classmate
 
 The invented puzzles are then **exchanged with a classmate**: each pupil solves the other’s task and meets the success screen or finds the flaw. Inventing teaches what solving alone cannot — the maker must think about the solver, the order of steps, and whether the puzzle’s rules are clear.
 
-[Picture — exchanging tasks with a classmate]
+In your mind's eye: exchanging tasks with a classmate.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Scratch lives on the internet — until it doesn’t. Every Palestine Scratch bo
 
 The books teach the install as one job with two parts: the **Scratch Offline Editor** and **Adobe AIR**, which the editor needs in order to run. Installed once, Scratch opens from the computer like any other program — no browser, no connection, no account needed to start working.
 
-[Picture — installing the editor and Adobe AIR]
+In your mind's eye: installing the editor and Adobe AIR.
 
 ## Sub lesson 2 — Why offline — the same first step, four years running
 
 Grades 6, 7, 8 and 9 all repeat the install, because the offline editor is the course’s working home: lessons, projects and saved files all assume Scratch is **on the machine**. A class whose internet fails loses nothing — the editor, and every saved project, are already there.
 
-[Picture — why offline — the same first step, four years running]
+In your mind's eye: why offline — the same first step, four years running.
 
 ## Say it to your companion
 

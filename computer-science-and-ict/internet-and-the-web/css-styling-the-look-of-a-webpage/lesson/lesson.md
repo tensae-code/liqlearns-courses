@@ -8,13 +8,13 @@ HTML says what a page *is*; something else must say how it *looks*. Fiji's Year 
 
 **CSS (Cascading Style Sheets)** is the language that sets a webpage's **look**: colours, fonts, sizes, spacing, layout — everything HTML's tags deliberately leave out. Its founding idea is **separation**: the HTML carries the page's *structure and meaning* (this is a heading, this is a paragraph), while the CSS carries its *presentation* — so one change to a style can restyle every page that uses it, and the same page can wear a different look without its words being touched. Fiji teaches CSS inside its web-design section because design *is* this layer.
 
-[Picture — Style, separated — the CSS idea]
+In your mind's eye: style, separated — the CSS idea.
 
 ## Sub lesson 2 — Rules and the cascade — how a style takes hold
 
 A CSS **rule** names the part of the page it styles — the **selector** — and states the **declarations**: property and value pairs, such as heading colour or paragraph spacing. Sheets can be written **inside** a page or kept as a **separate file** linked by many pages — the senior course's way, since a site's look should live in one place. The **cascade** is CSS's order of authority when rules meet: the nearer and more specific rule wins. And Fiji names the modern step: **CSS3** adds the effects newer pages show — rounded shapes, shadows, movement — style growing from paint into behaviour.
 
-[Picture — Rules and the cascade — how a style takes hold]
+In your mind's eye: rules and the cascade — how a style takes hold.
 
 ## Say it to your companion
 

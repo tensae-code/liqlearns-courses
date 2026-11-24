@@ -8,13 +8,13 @@ Unit 1 §1.1.2 Understanding a Problem (problem analysis; the 5 Ws) and Activity
 
 This part of Pakistan (Punjab)'s book teaches **Understanding a Problem** — covering: Unit 1 §1.1.2 Understanding a Problem (problem analysis; the 5 Ws) and Activity 1.1. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Understanding a Problem]
+In your mind's eye: understanding a Problem.
 
 ## Sub lesson 2 — Doing it — Understanding a Problem the Five Ws in practice
 
 **Doing it — Understanding a Problem the Five Ws in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Understanding a Problem the Five Ws in practice]
+In your mind's eye: doing it — Understanding a Problem the Five Ws in practice.
 
 ## Say it to your companion
 

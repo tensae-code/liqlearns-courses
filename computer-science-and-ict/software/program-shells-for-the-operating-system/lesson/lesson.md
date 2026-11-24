@@ -8,13 +8,13 @@ Between the user and the operating system there can stand a helper: a shell prog
 
 A **program shell** (программная оболочка) is a program that stands over the operating system and gives the user an easier face for it: files shown as lists and panels, commands chosen from menus instead of typed from memory. The shell is not the system — remove it and the operating system still works; it is a coat the system wears for the user's comfort.
 
-[Picture — What a program shell is]
+In your mind's eye: what a program shell is.
 
 ## Sub lesson 2 — What shells add
 
 Shells add **speed and sight**: two panels show source and destination together for copying, viewers open a file without its program, and searches and comparisons are one key away. Grade 8 teaches shells at the end of its operating-system chapter — after files and directories — because a shell is only useful to a pupil who already knows what a file operation is.
 
-[Picture — What shells add]
+In your mind's eye: what shells add.
 
 ## Say it to your companion
 

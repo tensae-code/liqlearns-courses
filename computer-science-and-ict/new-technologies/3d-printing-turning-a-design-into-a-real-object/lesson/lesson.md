@@ -8,13 +8,13 @@ The Blender course's last word is not a picture. It is a thing you can hold. Kuw
 
 A **3D printer** builds an object **layer by layer**: it reads the design as a stack of thin slices and lays material down slice by slice — the bottom first — until the stack **is** the object. What modelling made as surfaces, printing makes as substance, with the model's measures kept true: the tower on screen becomes a tower on the desk at the size the design declared. The failures are the design's, printed faithfully — a model that cannot stand in the file will not stand in plastic.
 
-[Picture — How 3D printing works — building in layers]
+In your mind's eye: how 3D printing works — building in layers.
 
 ## Sub lesson 2 — Exporting in a printable format
 
 Between Blender and the printer stands the **export**: the design saved in a **printable format** — the exchange format printers and their slicing programs read (the file-formats lesson's third destination, after keeping and sharing). Exporting is the designer's final check: the model whole and packed, its size confirmed, its shape one the printer can build — overhangs and floating parts judged before material is spent, not after.
 
-[Picture — Exporting in a printable format]
+In your mind's eye: exporting in a printable format.
 
 ## Say it to your companion
 

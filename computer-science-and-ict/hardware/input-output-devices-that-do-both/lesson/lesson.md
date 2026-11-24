@@ -8,13 +8,13 @@ Grade 7 sorts the machine's devices into input and output — then honestly show
 
 An **input-output device** carries data **both ways**. The **touchscreen** shows the picture (output) and feels the finger (input) in the same glass. A **headset** plays sound into the ear (output) and takes the voice in through its microphone (input). A **modem/router** receives the world's data and sends the home's. A drive that both **reads and writes** (the hard disk, the USB stick) takes files in and gives them back — storage wearing both hats.
 
-[Picture — Both directions in one device]
+In your mind's eye: both directions in one device.
 
 ## Sub lesson 2 — Why the sort bends — direction is a job, not a device
 
 The lesson's point is classification itself: **input and output name directions of data travel, not species of device**. A device is sorted by asking which way data moves *for the job at hand* — and some devices honestly answer 'both', at once or in turns. Grade 7 files them as their own kind so the young classifier learns the grown-up rule: a sort that cannot admit its exceptions will start lying about everything else too.
 
-[Picture — Why the sort bends — direction is a job, not a device]
+In your mind's eye: why the sort bends — direction is a job, not a device.
 
 ## Say it to your companion
 

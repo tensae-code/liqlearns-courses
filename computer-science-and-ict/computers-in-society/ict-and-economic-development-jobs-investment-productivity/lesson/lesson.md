@@ -8,13 +8,13 @@ A country gets richer when its people can make more, sell wider, and waste less.
 
 ICT grows economies first through **jobs**: whole occupations exist only because the technology does — programmers, network engineers, support workers, the outsourcing and freelancing workforce of the companion lesson — and every connected business employs people to run its systems. Then **investment** follows the connections: companies build where communication is fast and reliable, so a country that wires itself becomes a country capital chooses. Bangladesh's hi-tech parks and Startup Bangladesh, in the Digital Bangladesh lesson, are this lever pulled deliberately.
 
-[Picture — Jobs and investment — work appears, capital follows]
+In your mind's eye: jobs and investment — work appears, capital follows.
 
 ## Sub lesson 2 — Productivity and communication — more from the same day
 
 **Productivity** is output per worker, and ICT raises it everywhere at once: a farmer with a price before selling, a clerk whose files search themselves, a factory whose machines report their own faults. Underneath all of it is **communication** — cheaper and faster every year — shrinking the cost of every agreement, order and delivery. The book adds the **environment** to the ledger: paperless work and travel replaced by meetings save real resources, while the village's devices and data centres spend energy that must be counted honestly on the other side.
 
-[Picture — Productivity and communication — more from the same day]
+In your mind's eye: productivity and communication — more from the same day.
 
 ## Say it to your companion
 

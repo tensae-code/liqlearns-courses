@@ -8,13 +8,13 @@ Serial bits arrive one after another — but how does the receiver know where on
 
 **Asynchronous transmission** sends each character in its own envelope: a **start bit** announces 'a character begins', the data bits follow, and **stop bits** close it. No shared clock runs between characters — the line may idle any length of time — so it suits irregular traffic like a keyboard's. The price is the envelope itself: extra bits on every character, a tax that grows heavy on long fast streams.
 
-[Picture — Asynchronous — start and stop bits]
+In your mind's eye: asynchronous — start and stop bits.
 
 ## Sub lesson 2 — Synchronous — blocks under one clock; isochronous — time itself guaranteed
 
 **Synchronous transmission** drops the per-character envelopes: sender and receiver share a **clock**, and data flows in large **blocks** with small control frames — the tax paid once per block, so fast bulk transfer runs efficiently. **Isochronous transmission** adds the strictest promise: bits are delivered at a **guaranteed rate with bounded delay**, because live voice and video cannot wait for late bits — a late syllable is a lost syllable. The three are one idea at three prices: agree loosely per character, agree by clock per block, or agree on time itself for streams that live or die by it.
 
-[Picture — Synchronous — blocks under one clock; isochronous — time itself guaranteed]
+In your mind's eye: synchronous — blocks under one clock; isochronous. Time itself guaranteed.
 
 ## Say it to your companion
 

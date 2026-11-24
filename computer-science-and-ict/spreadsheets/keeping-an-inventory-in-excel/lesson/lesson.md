@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Inventories in MS Excel — covering: In
 
 This part of South Sudan's book teaches **Inventories in MS Excel** — covering: Inventories in MS Excel. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Inventories in MS Excel. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — inventories in MS Excel is part of that chain..
 
-[Picture — Inventories in MS Excel]
+In your mind's eye: inventories in MS Excel.
 
 ## Sub lesson 2 — Doing it — Inventories in MS Excel in practice
 
 This part of South Sudan's book teaches **Doing it — Inventories in MS Excel in practice** — covering: Inventories in MS Excel. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Inventories in MS Excel. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Inventories in MS Excel in practice is part of that chain..
 
-[Picture — Doing it — Inventories in MS Excel in practice]
+In your mind's eye: doing it — Inventories in MS Excel in practice.
 
 ## Say it to your companion
 

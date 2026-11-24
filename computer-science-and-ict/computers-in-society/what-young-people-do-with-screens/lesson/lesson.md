@@ -8,13 +8,13 @@
 
 “The screen” is not one activity. The scenario sorts young people's practices into families: **learning** (lessons, research, tutorials), **communicating** (messages, calls, shared games with friends), **playing**, **watching** (video, streams), and **creating** (drawing, music, video, code). The same hour of “screen time” can be homework, friendship, rest or making — judging the hour without its practice judges nothing.
 
-[Picture — One screen, many practices]
+In your mind's eye: one screen, many practices.
 
 ## Sub lesson 2 — Surveying honestly
 
 The scenario turns pupils into surveyors of their own generation: design a few questions, ask the class, tally the practices, and present what young people around you actually do. Honest surveying has rules: ask about practices, not judgements; let answers be anonymous where truth needs it; and report what the tally says — even when it surprises the adults, or you.
 
-[Picture — Surveying honestly]
+In your mind's eye: surveying honestly.
 
 ## Say it to your companion
 

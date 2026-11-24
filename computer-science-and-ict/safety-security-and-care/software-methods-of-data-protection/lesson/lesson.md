@@ -8,13 +8,13 @@ Locks guard rooms; software guards data itself. This lesson catalogues the progr
 
 The **software methods**: **anti-malware programs** (detecting and removing harmful code), **firewall software** (ruling the network's traffic in and out), **encryption software** (scrambling files, disks and messages), **backup software** (copying data on schedule, and restoring it), **access-control software** (accounts, permissions, authentication), and **update systems** (closing known holes as their fixes arrive). Each method answers a named threat family from the unit's threat lesson — the catalogue is the threats list, read backwards as shields.
 
-[Picture — The guarding programs]
+In your mind's eye: the guarding programs.
 
 ## Sub lesson 2 — Limits — software is necessary, not sufficient
 
 Every method has its **limits**: anti-malware knows yesterday's weapons best; encryption guards the file and not the password taped to the screen; backups faithfully copy corrupted data too. Software also **ages** — an unupdated protector becomes a museum of old dangers. Jordan's lesson closes with the unit's standing refrain: software methods protect data only inside the weave — physical means, legal means and human habits around them — and the pupil who can state each tool's limit is the one who will not be betrayed by trusting it wholly.
 
-[Picture — Limits — software is necessary, not sufficient]
+In your mind's eye: limits — software is necessary, not sufficient.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@
 
 Jordan sorts algorithms first by **how they learn**: **supervised** algorithms learn from labelled examples (classification — sorting into known kinds; regression — predicting a number), **unsupervised** algorithms find structure in unlabelled data (clustering — grouping by likeness; association — what comes with what), and **reinforcement** algorithms learn from reward and punishment by acting. The family's name is a promise about the data you must bring: labels, none, or a world that answers back.
 
-[Picture — The families by their learning]
+In your mind's eye: the families by their learning.
 
 ## Sub lesson 2 — Named algorithms — the working shelf
 
 The working shelf holds the names the next lessons use: **decision trees** (and their forests), **nearest neighbours**, **linear regression**, **support vector machines**, **neural networks**, and clustering's **k-means**. Choosing among them weighs the data's size and shape, the need to **explain** the answer (a tree can show its reasons; a network mostly cannot), and the cost of errors. Jordan's list is a chooser's list: the question is never 'the best algorithm' but 'the best for this data, this decision, this price of being wrong'.
 
-[Picture — Named algorithms — the working shelf]
+In your mind's eye: named algorithms — the working shelf.
 
 ## Say it to your companion
 

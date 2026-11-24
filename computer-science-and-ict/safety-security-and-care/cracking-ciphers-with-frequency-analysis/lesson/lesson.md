@@ -8,13 +8,13 @@ Unit 4 §4.3.4 Encrypted with Random Substitution using Frequency Analysis (Code
 
 This part of Pakistan (Punjab)'s book teaches **Encrypted with Random Substitution using Frequency Analysis** — covering: Unit 4 §4.3.4 Encrypted with Random Substitution using Frequency Analysis (Code.org widget; cryptanalysis). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Encrypted with Random Substitution using Frequency Analysis]
+In your mind's eye: encrypted with Random Substitution using Frequency Analysis.
 
 ## Sub lesson 2 — Doing it — Cracking Ciphers with Frequency Analysis in practice
 
 **Doing it — Cracking Ciphers with Frequency Analysis in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Cracking Ciphers with Frequency Analysis in practice]
+In your mind's eye: doing it — Cracking Ciphers with Frequency Analysis in practice.
 
 ## Say it to your companion
 

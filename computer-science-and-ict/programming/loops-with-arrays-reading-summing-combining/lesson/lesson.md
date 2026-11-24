@@ -8,13 +8,13 @@ Unit 4 §4.2.5 Loops and Arrays (read 10 values into an array; store the first f
 
 This part of Pakistan (Punjab)'s book teaches **Loops and Arrays** — covering: Unit 4 §4.2.5 Loops and Arrays (read 10 values into an array; store the first five multiples of 23; print an array; sum of elements) and §4.2.6 solved example (add two arrays element by element). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Loops and Arrays]
+In your mind's eye: loops and Arrays.
 
 ## Sub lesson 2 — Doing it — Loops with Arrays Reading Summing Combining in practice
 
 **Doing it — Loops with Arrays Reading Summing Combining in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Loops with Arrays Reading Summing Combining in practice]
+In your mind's eye: doing it — Loops with Arrays Reading Summing Combining in practice.
 
 ## Say it to your companion
 

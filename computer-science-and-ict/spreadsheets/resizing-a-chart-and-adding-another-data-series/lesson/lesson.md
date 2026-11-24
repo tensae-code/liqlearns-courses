@@ -8,13 +8,13 @@ Your chart is too small to read and it is missing a year of data. In this lesson
 
 Click a chart and **handles** appear on its edges and corners. Drag a **corner handle** to change height and width together; drag an **edge handle** to change one direction only. Resizing matters because a chart too small hides its labels, and a chart too big crowds out the data beside it — size is part of readability.
 
-[Picture — resizing a chart with its handles]
+In your mind's eye: resizing a chart with its handles.
 
 ## Sub lesson 2 — Adding another data series
 
 A chart can gain an **extra data series**: select the chart and add the new row or column of data to its range, and the new series appears in the plot with its own colour and legend entry. The chart **updates automatically** — bars, lines and legend redraw themselves; nothing is rebuilt by hand.
 
-[Picture — adding another data series]
+In your mind's eye: adding another data series.
 
 ## Say it to your companion
 

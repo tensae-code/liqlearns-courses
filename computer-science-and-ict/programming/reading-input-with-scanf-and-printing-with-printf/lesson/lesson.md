@@ -8,13 +8,13 @@ A program that only prints its author's greeting is a poster. Give it scanf and 
 
 **printf** prints text and values together: the **format string** carries ordinary words, **format specifiers** (%d, %f, %c — the data-types lesson's promises) where values go, and **escape sequences** for what keyboards cannot type directly — **\n** for a new line, **\t** for a tab. The values follow the string in order, one per specifier: `printf("Marks: %d\n", marks);`. What the user sees — labels, spacing, new lines — is entirely the programmer's courtesy, designed here and nowhere else.
 
-[Picture — printf — printing with format]
+In your mind's eye: printf — printing with format.
 
 ## Sub lesson 2 — scanf — reading into addresses; and the worked program
 
 **scanf** reads the user's typed values **into variables** — and its famous peculiarity is the **&**: `scanf("%d", &age);` passes the variable's **address**, because scanf must *put* the value somewhere, not merely look at it. Forgetting the & is the C beginner's rite of passage. The book's worked whole joins the pair: read a **Celsius** temperature with scanf, compute **Fahrenheit = (C × 9/5) + 32**, print the answer with printf — input, process, output in C dress, and the template of every HSC program that follows.
 
-[Picture — scanf — reading into addresses; and the worked program]
+In your mind's eye: scanf — reading into addresses; and the worked program.
 
 ## Say it to your companion
 

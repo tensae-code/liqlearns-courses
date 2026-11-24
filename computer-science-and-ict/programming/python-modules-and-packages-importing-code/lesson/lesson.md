@@ -8,13 +8,13 @@ No programmer writes everything. The unit that opens Grade 10 Term 2's products 
 
 A **module** is a **Python file of ready code** — functions and values written once, in their own file — that another program brings in with **import**. The importing program then uses the module's names through the module's own name, so borrowed code stays labelled as borrowed. Your own files are modules too: a program split across files imports its own helpers exactly as it imports Python's — the mechanism that lets a project grow past one file without becoming one pile.
 
-[Picture — Modules — a file of code, imported]
+In your mind's eye: modules — a file of code, imported.
 
 ## Sub lesson 2 — Packages — modules organised, and the AI doorway
 
 A **package** is modules **organised together** under one name — a library: a family of modules for one great subject, imported as one household. The course's destination names the point: the AI unit's powers arrive as packages — the vision library OpenCV among them — and a pupil who understands import understands how a school program can suddenly recognise faces: not by new magic, but by importing solved problems. Import is the programmer's library card; this unit issues it before the AI shelves are visited.
 
-[Picture — Packages — modules organised, and the AI doorway]
+In your mind's eye: packages — modules organised, and the AI doorway.
 
 ## Say it to your companion
 

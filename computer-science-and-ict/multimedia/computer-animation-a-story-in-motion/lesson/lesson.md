@@ -8,7 +8,7 @@ Flip a notebook with a small drawing in the corner of each page, changed a littl
 
 Grade 3 closes its Scratch story work with **computer animation (Компютърна анимация)**: making a story move on the screen. The book's example is the story **"The lost teddy bear"** — a small tale told as a row of moments: backdrop changes carry the story from place to place, costume switches move the characters' bodies, say blocks carry the words, and movement blocks carry the action, all **in story order**. Animation here is not a new block; it is all the earlier skills aimed at one thing — a story an audience can follow from its first scene to its last. The craft is order and small steps: each moment changes a little from the one before, so the eye reads the row as one living story.
 
-[Picture — a picture of a picture of a film-strip row of four small Scratch scenes from a teddy-bear story — lost, searching, found, hugged — each changed a little from the one before]
+In your mind's eye: a picture of a film-strip row of four small Scratch scenes from a teddy-bear story — lost, searching, found, hugged. Each changed a little from the one before.
 
 ## Say it to your companion
 

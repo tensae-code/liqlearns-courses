@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Project work: A quiz game** — covering: 4.6 Project work: A quiz game. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Project work: A quiz game]
+In your mind's eye: project work. A quiz game.
 
 ## Sub lesson 2 — Problem statement. Quiz game
 
 This part of Kazakhstan's book teaches **Problem statement. Quiz game** — covering: 5.1 Problem statement. Quiz game. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Problem statement. Quiz game]
+In your mind's eye: problem statement. Quiz game.
 
 ## Say it to your companion
 

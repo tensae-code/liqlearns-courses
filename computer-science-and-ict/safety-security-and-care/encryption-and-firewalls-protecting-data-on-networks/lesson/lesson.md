@@ -8,13 +8,13 @@ Data is safest at home and in danger on the road. Libya's Grade 12 security chap
 
 **Encryption of information** turns readable data into a **scrambled form** before it travels, so anyone who intercepts it on the network holds something they **cannot read**; only the intended receiver, holding the means to unscramble, restores it. Encryption protects the **data itself**, wherever it goes — the letter is sealed, not just the road guarded. It answers the network's first danger: listening and copying in transit.
 
-[Picture — Encryption — scrambling the data itself]
+In your mind's eye: encryption — scrambling the data itself.
 
 ## Sub lesson 2 — The firewall — guarding the gate
 
 The **firewall** guards the **gate** between a network and the outside: it **examines traffic passing in and out** and **allows or blocks it by its rules**, so unwanted connections are turned away before they reach the machines inside. The two defences are partners, not alternatives: the firewall decides **what may pass**, encryption decides **what passing data reveals**. Libya teaches them in one section because a network needs both answers at once.
 
-[Picture — The firewall — guarding the gate]
+In your mind's eye: the firewall — guarding the gate.
 
 ## Say it to your companion
 

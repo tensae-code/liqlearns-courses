@@ -8,13 +8,13 @@ A good page found today is needed again next week. Class VII's browser chapter t
 
 A **bookmark** (called a favourite in some browsers) saves a page's **address** inside the browser: while the page is open, choose **Bookmark this page**, give it a clear name, and it joins the bookmarks list or toolbar. The page itself is not copied — the bookmark is a signpost to its address, so the page you return to is the living page, with any updates its makers have made.
 
-[Picture — Saving the bookmark — the browser remembers the address]
+In your mind's eye: saving the bookmark — the browser remembers the address.
 
 ## Sub lesson 2 — Using bookmarks well — names and folders
 
 Bookmarks serve when they can be **found**: short clear names, and **folders** for kinds of pages — school, news, reference — as the list grows. A bookmark whose page has moved or closed leads nowhere, and is deleted so the list stays honest. Class VII teaches bookmarking beside browser history: the bookmark is what you chose to keep; history is everything you visited.
 
-[Picture — Using bookmarks well — names and folders]
+In your mind's eye: using bookmarks well. Names and folders.
 
 ## Say it to your companion
 

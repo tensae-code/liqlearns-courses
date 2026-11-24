@@ -8,13 +8,13 @@ The library’s sounds are somebody else’s. The national anthem, in your own c
 
 **Microphone recording** brings a new sound into the project: speak or sing, and the take is a clip in the sprite’s sounds. The **sound editor** then works the take over — **selecting** the part to keep, **cutting** and **deleting parts** that went wrong, until the clip is the sound the project needs.
 
-[Picture — recording with the microphone — and editing the take]
+In your mind's eye: recording with the microphone — and editing the take.
 
 ## Sub lesson 2 — Uploading a sound — the anthem project
 
 A sound can also arrive from outside: an **mp3 found on the internet** is **uploaded** into the project. The lesson’s project uses both routes’ result: **the national anthem as a sprite’s sound**, played by the program like any clip.
 
-[Picture — uploading a sound — the anthem project]
+In your mind's eye: uploading a sound — the anthem project.
 
 ## Say it to your companion
 

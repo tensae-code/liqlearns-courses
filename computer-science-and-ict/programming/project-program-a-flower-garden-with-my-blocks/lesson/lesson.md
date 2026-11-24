@@ -8,13 +8,13 @@ One petal block, many flowers. Your group's garden is the proof that your own bl
 
 The group's **flower garden** is programmed **using My Blocks**: the petal (and any stem or leaf pattern) is defined **once** as a block, with a **size input** where sizes must vary. The garden program itself then stays short and readable — a list of plantings, each one a use of the group's blocks.
 
-[Picture — the garden is built from your own blocks]
+In your mind's eye: the garden is built from your own blocks.
 
 ## Sub lesson 2 — Working as a group of programmers
 
 The group divides the work as programmers do: agree the blocks' names and inputs first, define them, test each block alone, then plant the garden together. A garden that grows crooked is debugged at the definition — fix the block once and every flower it planted stands straight.
 
-[Picture — working as a group of programmers]
+In your mind's eye: working as a group of programmers.
 
 ## Say it to your companion
 

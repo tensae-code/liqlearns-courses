@@ -19,7 +19,7 @@ For the friendship graph with nodes Ana (A), Ben (B), Cy (C), Di (D) — edges A
 
 Read row B: 1, 0, 1, 1 — Ben is joined to Ana, Cy and Di, and not to himself. Two details complete the rule. The diagonal (A–A, B–B, …) is 0 unless the graph has a **loop**, which writes a 1 on the diagonal. And in a **weighted graph** — roads with distances, say — the cell stores the **weight** instead of 1, and 0 (or 'no entry') where there is no edge.
 
-[Picture — the-adjacency-matrix: a small graph beside its adjacency matrix, with one edge and its two matching cells highlighted in the same colour]
+In your mind's eye: the-adjacency-matrix. A small graph beside its adjacency matrix, with one edge and its two matching cells highlighted in the same colour.
 
 ## Sub lesson 2 — Reading the matrix — neighbours, degrees, symmetry
 
@@ -27,7 +27,7 @@ The matrix pays you back the moment you read it. The neighbours of a node are ex
 
 Look at the table once more: the entry at row A, column B equals the entry at row B, column A — 1 = 1. That is no accident. In an **undirected** graph every edge runs both ways, so the matrix is **symmetric**: it mirrors exactly across the diagonal. A program can check a matrix for symmetry to check that a graph really is undirected.
 
-[Picture — adjacency-matrix-symmetry: the matrix folded along its diagonal, the two halves matching cell for cell]
+In your mind's eye: adjacency-matrix-symmetry. The matrix folded along its diagonal, the two halves matching cell for cell.
 
 A **directed** graph breaks the mirror. If the only edge runs A → B, the matrix holds a 1 at row A, column B but a 0 at row B, column A — the arrow lives in that difference. So the same one table serves both kinds of graph, and its symmetry — or its absence — tells you which kind you hold.
 

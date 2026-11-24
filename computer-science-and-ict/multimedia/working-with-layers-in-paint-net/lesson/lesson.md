@@ -8,13 +8,13 @@ Mongolia's Grade 7 picture editor is not MS Paint but Paint.NET — the free edi
 
 **Paint.NET** is a free image editor, **installed** from its home at getpaint.net — the book's deliberate choice of a free tool over a bought one. A new picture begins as a **canvas** of a chosen **size**, measured in pixels, with a **resolution** that ties the pixel size to a printed size. Unlike Paint's single sheet, this canvas is a stack: the picture lives on **layers**, transparent sheets piled in order, each holding part of the image — the idea the whole Paint.NET strand is built on.
 
-[Picture — Install, canvas, resolution — the layered editor opened]
+In your mind's eye: install, canvas, resolution — the layered editor opened.
 
 ## Sub lesson 2 — Layers, History and the two saves
 
 Work on **layers** means each part can be drawn, hidden, reordered and erased without touching the parts on other layers. The **History window** lists every act done to the picture, and **Undo** walks back through it — the layered editor forgives in a way single-sheet Paint cannot. Saving keeps the choice open or closes it: save as **.pdn** and the layers survive for tomorrow's editing; save as **.jpg** and the stack is flattened into one finished picture for the world. Mongolia's rule is the professional's: keep the .pdn master, publish the .jpg.
 
-[Picture — Layers, History and the two saves]
+In your mind's eye: layers, History and the two saves.
 
 ## Say it to your companion
 

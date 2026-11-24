@@ -12,7 +12,7 @@ Information can be presented as **speech** — telling it aloud. As **writing** 
 
 Changing the form does not change the information. Five apples stay five apples in every form. A good presenter chooses the form that helps the listener most: a picture for someone who cannot read yet, writing for someone who must remember it later.
 
-[Picture — a picture of the same five apples shown four ways: a speech bubble, the written words 'five apples', a drawing of five apples, and the number 5]
+In your mind's eye: the same five apples shown four ways. A speech bubble, the written words 'five apples', a drawing of five apples, and the number 5.
 
 ## Say it to your companion
 

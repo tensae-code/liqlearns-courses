@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Programming nested conditions** — covering: 4.5: Programming nested conditions. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming nested conditions]
+In your mind's eye: programming nested conditions.
 
 ## Sub lesson 2 — Programming compound conditions
 
 This part of Kazakhstan's book teaches **Programming compound conditions** — covering: 4.6: Programming compound conditions. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming compound conditions]
+In your mind's eye: programming compound conditions.
 
 ## Say it to your companion
 

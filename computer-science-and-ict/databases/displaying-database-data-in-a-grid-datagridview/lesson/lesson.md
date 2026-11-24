@@ -8,13 +8,13 @@ A connected database is invisible until the form shows it. Kuwait's Grade 12 boo
 
 The **DataGridView** is the form's grid control: bound to a table through the **Data Sources**, it shows the table **as a grid** — records as rows, fields as columns — the database's own shape, readable at a glance. Through it the user sees the whole store the program serves: what records exist, in what order, holding what values — the form's window onto the tables the connection lessons joined.
 
-[Picture — The DataGridView — the table, on the form]
+In your mind's eye: the DataGridView — the table, on the form.
 
 ## Sub lesson 2 — Moving through the records
 
 A grid of many records is travelled, not merely seen: the user moves **through the records** — next, previous, first, last — and the **current record** is the one the form's other controls show and edit. Kuwait teaches the movement as a skill because every database program lives here: find the record, stand on it, then act — edit it, print it, delete it — and the grid is where finding happens.
 
-[Picture — Moving through the records]
+In your mind's eye: moving through the records.
 
 ## Say it to your companion
 

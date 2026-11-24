@@ -8,13 +8,13 @@ Opinions about a screen are cheap; numbers are evidence. Malaysia's HCI chapter 
 
 A **quantitative evaluation** measures the interaction with **counts**: how many users **completed** each task (success rate), how **long** tasks took (time), how many **errors** were made, and — by questionnaire — how users **rated** the experience (satisfaction scores, such as an average of 3.8 out of 5). Users and tasks are fixed before the trial, and every number is reported **with its task and its users named** — a success rate with no task named is a number about nothing.
 
-[Picture — The numbers of a trial]
+In your mind's eye: the numbers of a trial.
 
 ## Sub lesson 2 — Discussing the report — numbers into decisions
 
 The report is **discussed**, not merely read: each number is set against the design's **aim** (a checkout task aimed at under a minute that averages 2:40 has failed, however pleasant the screens felt), and the failures are **ranked** — the task with the lowest success is repaired first. Malaysia's discussion also honours the numbers' limits: a small trial's figures are **indications**, not proofs, and a satisfaction average can hide a furious minority the comments reveal. The evaluation ends in decisions: which screens change, in what order, and what will be measured again after the change.
 
-[Picture — Discussing the report — numbers into decisions]
+In your mind's eye: discussing the report — numbers into decisions.
 
 ## Say it to your companion
 

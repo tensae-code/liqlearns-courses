@@ -8,13 +8,13 @@ Look at the last thing you printed, or wanted to print. Could it have stayed on 
 
 Printing spends paper, ink and energy for something a screen often shows just as well. **Responsible printing** starts with a pause and three questions: Do I need this on paper at all? Do I need all of it, or only part? Does one copy serve, or am I printing copies nobody will read? The Décodage Parcours teaches this pause to the youngest pupils, as a class habit, not a scolding.
 
-[Picture — The pause before printing]
+In your mind's eye: the pause before printing.
 
 ## Sub lesson 2 — Printing well when you do print
 
 When paper is truly needed, print it well: choose only the pages that matter, use both sides when the printer allows, check the preview so a mistake is not printed twice, and share one printed copy between readers instead of one each. What is printed and kept should be worth keeping — a page thrown away unread was never needed at all.
 
-[Picture — Printing well when you do print]
+In your mind's eye: printing well when you do print.
 
 ## Say it to your companion
 

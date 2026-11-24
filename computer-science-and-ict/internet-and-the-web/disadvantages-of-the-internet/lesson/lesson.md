@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Disadvantages of the internet — coveri
 
 This part of South Sudan's book teaches **Disadvantages of the internet** — covering: Disadvantages of the internet. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Disadvantages of the internet. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — disadvantages of the internet is part of that chain..
 
-[Picture — Disadvantages of the internet]
+In your mind's eye: disadvantages of the internet.
 
 ## Sub lesson 2 — Doing it — Disadvantages of the internet in practice
 
 This part of South Sudan's book teaches **Doing it — Disadvantages of the internet in practice** — covering: Disadvantages of the internet. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Disadvantages of the internet. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Disadvantages of the internet in practice is part of that chain..
 
-[Picture — Doing it — Disadvantages of the internet in practice]
+In your mind's eye: doing it — Disadvantages of the internet in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Sixty parents need the same letter with sixty different names. This lesson write
 
 A merge has exactly **two parts**: the **main document** (the letter's fixed text, with **merge fields** like «Name» standing where personal details go) and the **data source** — a database table or list whose **fields** (columns) match those merge fields and whose **records** (rows) are the recipients. Neither part alone can do the job.
 
-[Picture — two parts — document and data]
+In your mind's eye: two parts — document and data.
 
 ## Sub lesson 2 — Running the merge
 
 Connect the document to the source, place the fields, **preview** a few records to catch layout faults, then **finish the merge** — to a new document, to the printer, or to labels/envelopes. One mis-typed field name breaks the match, so field names in the letter must equal the source's column names exactly. The book teaches merge as the meeting point of its Word and database themes.
 
-[Picture — running the merge]
+In your mind's eye: running the merge.
 
 ## Say it to your companion
 

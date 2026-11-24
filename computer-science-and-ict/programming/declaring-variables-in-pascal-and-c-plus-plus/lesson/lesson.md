@@ -8,13 +8,13 @@ Data enters a program through declarations: the act that brings a variable into 
 
 In Pascal, variables are declared in the **var section** between the heading and begin: `var a, b: integer; x: real;` — several names may share one type in one line. The declaration **reserves memory, fixes the type, and introduces the name** for the whole block; a variable not declared does not exist for the compiler, and using one is the beginner's first error message. Declaration is not assignment: a fresh variable's value is **undefined** until the program gives it one.
 
-[Picture — Pascal's var section — all names before the work]
+In your mind's eye: pascal's var section — all names before the work.
 
 ## Sub lesson 2 — C++'s declarations — where needed, with initial values
 
 C++ allows a declaration **wherever an instruction may stand**, and lets it carry an **initial value**: `int a = 5;` declares and assigns in one breath — and a for loop may declare its own steer in its heading: `for (int i = 0; …)`. The freedom has a shadow discipline: a name exists only **from its declaration to the end of its block** — C++'s first sight of the scope Grade 12 formalises. Pascal's gathered var section trades that freedom for a single census of a block's data, read at a glance.
 
-[Picture — C++'s declarations — where needed, with initial values]
+In your mind's eye: c++'s declarations — where needed, with initial values.
 
 ## Say it to your companion
 

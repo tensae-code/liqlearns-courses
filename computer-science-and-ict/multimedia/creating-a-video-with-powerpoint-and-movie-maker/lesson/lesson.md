@@ -8,13 +8,13 @@ A video does not always start with a camera. Rwanda's S3 book creates videos fro
 
 A presentation becomes a video by **exporting it**: record a **narration** over the slides, set the **timings** — how long each slide stays — and PowerPoint renders the deck as a **video file** that plays itself anywhere, no presenter and no PowerPoint needed. The slide show stops being an event and becomes an **object** that can be sent, stored and replayed. Rwanda's S3 practical uses it for exactly that: a deck that must travel without its maker.
 
-[Picture — PowerPoint as a video — narration and timings]
+In your mind's eye: powerPoint as a video — narration and timings.
 
 ## Sub lesson 2 — Movie Maker — building the video from pieces
 
 In **Windows Movie Maker** the video is assembled: **videos, photos and music are added** to the project, then shaped — **fade** between pieces, **trim** a clip's ends, **split** a clip to remove or move its middle, and change a clip's **speed**. The book's order is the editor's order everywhere: gather, arrange, trim, then polish — effects last, because a fade cannot fix a wrong order.
 
-[Picture — Movie Maker — building the video from pieces]
+In your mind's eye: movie Maker — building the video from pieces.
 
 ## Say it to your companion
 

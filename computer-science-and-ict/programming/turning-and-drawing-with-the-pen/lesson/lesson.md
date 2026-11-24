@@ -8,7 +8,7 @@ Walk a square in the room: four steps, turn a quarter-turn, four steps, turn —
 
 Scratch begins, and its first drawing skill joins two ideas. **Turning**: a sprite does not only move forward — it turns, by a number of degrees, and a quarter-turn (90 degrees) is the turn that makes corners of squares and rectangles. **Drawing with the pen**: Scratch's pen blocks let a moving sprite leave a line behind it — pen down starts the line, pen up lifts it. Put turning and the pen together and shapes appear: lines at angles, corners, squares, and patterns no hand could rule so evenly. This is Bulgaria's first Scratch drawing lesson, and it stands on the robot artist's strokes: the same move-and-turn thinking, now with a pen that remembers the path.
 
-[Picture — a picture of a picture of a Scratch sprite with its pen down drawing a square on the stage, with a curved arrow showing a 90-degree turn at one corner]
+In your mind's eye: a picture of a Scratch sprite with its pen down drawing a square on the stage, with a curved arrow showing a 90-degree turn at one corner.
 
 ## Say it to your companion
 

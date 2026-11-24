@@ -8,13 +8,13 @@ Picture a page with a menu on the left, three boxes of news across the middle, a
 
 Fixed layouts break because screens are not fixed. **Flexbox** is CSS's answer: instead of placing every box at an exact position, you declare a **flex container** and let its children arrange themselves. The children line up along a **main axis** — a row across, or a column down — and Flexbox shares the available space among them: a box can be told to grow to fill what is free, or to shrink when space runs out, in the proportions you set. Across the other axis they can be aligned to the start, the centre or the end, or stretched to the same height. And with wrapping allowed, boxes that no longer fit side by side simply flow onto the next line, like words in a paragraph. The three crushed news boxes from Do it first, placed in a flex row with wrapping, arrange themselves — two across, then one — with no new code.
 
-[Picture — three boxes in a flex row on a wide screen, then the same three boxes wrapped onto two lines on a narrow screen]
+In your mind's eye: three boxes in a flex row on a wide screen, then the same three boxes wrapped onto two lines on a narrow screen.
 
 ## Sub lesson 2 — Media queries — one page, many screens
 
 Flexbox adapts a layout continuously; sometimes a design must change in a step. That is the job of a **media query**: a block of CSS that applies only when a condition about the screen is true — most often its width. You write the wide-screen layout as the normal rules, then add `@media (max-width: 600px) { … }` containing the narrow-screen rules: the menu becomes a single column, the three boxes stack, the photo takes the full width. The width where the design switches is called the **breakpoint**. One HTML file, one CSS file, two layouts — the page itself asks the screen how wide it is and dresses accordingly. That is **responsive design**: not a separate mobile site, but one page that responds.
 
-[Picture — the same page drawn twice, wide and narrow, with the media query that switches between them written underneath]
+In your mind's eye: the same page drawn twice, wide and narrow, with the media query that switches between them written underneath.
 
 ## Say it to your companion
 

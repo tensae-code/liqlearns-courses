@@ -8,13 +8,13 @@ The first modelling lesson makes things: not placed pictures, but solid objects,
 
 A Blender scene is populated by **adding objects** — the program's ready solids (cubes, spheres and their kin) placed in the Viewport — and pruned by **deleting** what does not belong. **Scaling** resizes an object along its measures, and the book's **table-tennis ball and racket** teach proportion by play: the ball's small sphere against the racket's flattened shape — two scalings of simple solids, judged by the real objects every pupil knows.
 
-[Picture — Adding, deleting and scaling — the scene's population]
+In your mind's eye: adding, deleting and scaling — the scene's population.
 
 ## Sub lesson 2 — A first material — the object's surface
 
 A grey solid is a ghost of a thing; a **material** gives it a **surface** — its colour and its way with light — so the ball is white and matte, the racket's face red rubber. Giving an object its **first material** is the modelling lesson's completion: form first (added and scaled), then surface. Kuwait keeps the first material simple on purpose: one object, one material, chosen — the textured richness comes in a later lesson.
 
-[Picture — A first material — the object's surface]
+In your mind's eye: a first material — the object's surface.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The document looks finished on screen. This lesson takes the last step — onto 
 
 Open **Print** from the File menu and the **print preview** shows the document exactly as it will come out — page by page, margins and all. Here you choose the **printer**, the pages to print (all, the current page, or a range such as 2–4) and the **number of copies**. Checking the preview first catches the mistakes — a heading stranded on a new page, a picture cut in half — while they still cost nothing.
 
-[Picture — before you print]
+In your mind's eye: before you print.
 
 ## Sub lesson 2 — Printing — and if something goes wrong
 
 Click **Print** and the printer takes the pages in order; a small printer icon and queue show the job waiting its turn. If nothing comes out, check the simple things first: is the printer on, does it have paper, is it the printer you chose? A job sent by mistake can be cancelled in the **print queue**. Never send the job again and again — each click adds another copy to the queue.
 
-[Picture — printing]
+In your mind's eye: printing.
 
 ## Say it to your companion
 

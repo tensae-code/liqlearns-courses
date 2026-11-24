@@ -8,7 +8,7 @@ Decide how to travel today: if it rains, take the bus; if not, walk. You just ra
 
 Grade 4's Scratch work began with the branching block; this lesson teaches the **branched algorithm (разклонен алгоритъм)** behind it, through the book's journey theme — **"Обичам пътешествията" (I love journeys)**. A straight algorithm does every step in order. A branching algorithm meets a **question with a yes/no answer**, and the road **splits**: follow the yes-way or the no-way, then rejoin or end. Writing one means choosing the question carefully — it must be answerable yes or no — and making sure **both ways** are written, sensible, and end somewhere. The learner plans branched journeys on paper first: a decision about weather, time or road, with two honest routes onward.
 
-[Picture — a picture of a picture of a journey road splitting at a signpost question — "Is it raining?" — one way with a bus in the rain, the other a walker in the sun, the two ways joining again below]
+In your mind's eye: a picture of a journey road splitting at a signpost question — "Is it raining?". One way with a bus in the rain, the other a walker in the sun, the two ways joining again below.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A recording kept on one computer has an audience of one. The audio unit's last l
 
 A project inside Audacity is a workbench, not a performance: **exporting** renders the mixed tracks into a single **audio file** — commonly **MP3** — that any player can open. The export asks for the file's name and place, and can carry its title and maker. What is shared is always the export, never the project file: the listeners need the sound, not the bench it was built on.
 
-[Picture — Exporting — the piece leaves the editor]
+In your mind's eye: exporting — the piece leaves the editor.
 
 ## Sub lesson 2 — Sharing — putting sound where listeners are
 
 The exported file is **shared online** — uploaded to a sound or video service, or attached where the class publishes its work — with a **title and a sentence** saying what the piece is. Sharing carries the standing online cares of this course: share your own work, credit any music or voice that is not yours, and remember that a published sound, like a published page, can travel beyond its first audience.
 
-[Picture — Sharing — putting sound where listeners are]
+In your mind's eye: sharing — putting sound where listeners are.
 
 ## Say it to your companion
 

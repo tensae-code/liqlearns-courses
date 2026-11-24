@@ -8,13 +8,13 @@ Unit 1 §1.3.3 Formulation of an Algorithm (notation table)
 
 This part of Pakistan (Punjab)'s book teaches **Formulation of an Algorithm** — covering: Unit 1 §1.3.3 Formulation of an Algorithm (notation table). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Formulation of an Algorithm]
+In your mind's eye: formulation of an Algorithm.
 
 ## Sub lesson 2 — Doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice
 
 **Doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice]
+In your mind's eye: doing it — Writing Algorithms with Notations Start Input Set If Else Goto Output Stop in practice.
 
 ## Say it to your companion
 

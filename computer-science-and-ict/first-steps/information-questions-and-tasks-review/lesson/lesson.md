@@ -14,7 +14,7 @@ This is the **review lesson** for the Information unit — the book's own 'quest
 
 **Task set 3 — transmitting.** Tell how a piece of information travels from a sender to a receiver: who sends, what carries it on its way, and who receives it. If a task goes wrong, that task names the lesson to visit again.
 
-[Picture — a picture of a review path with five stops: seeing and hearing, the five senses, forms, memory and a book, and a message travelling from one child to another]
+In your mind's eye: a review path with five stops. Seeing and hearing, the five senses, forms, memory and a book, and a message travelling from one child to another.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Press the power button and wait: before any program appears, Windows itself wake
 
 **Windows XP** is **system software** — an **operating system**. When the computer is switched on, Windows is loaded first, before any other program: it wakes the hardware, checks it, and then stays in charge the whole time, passing your orders to the machine and the machine's answers back to you. No application — no Word, no Paint — can run until Windows is running. That is why the book begins the software chapter here: Windows is the ground every other program stands on.
 
-[Picture — a Windows XP desktop — icons down the left side, the taskbar across the bottom with the Start button and clock]
+In your mind's eye: a Windows XP desktop — icons down the left side, the taskbar across the bottom with the Start button and clock.
 
 ## Sub lesson 2 — The desktop — your desk on the screen
 
 What Windows shows you first is the **desktop**: a working surface like a real desk, spread across the screen. On it sit **icons** — small pictures that stand for programs, files and folders, opened with a double-click. Across the bottom runs the **taskbar**, which shows the Start button, the programs you have open, and the clock. Everything you do in Windows begins from this desk: open a program from an icon or the Start menu, work in its window, and return to the desktop when you close it.
 
-[Picture — the parts of the desktop labelled — icon, taskbar, Start button, clock]
+In your mind's eye: the parts of the desktop labelled — icon, taskbar, Start button, clock.
 
 ## Say it to your companion
 

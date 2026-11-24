@@ -8,13 +8,13 @@ A phone reminds you, a watch counts your steps, a television connects to the int
 
 A **smart device** is a device that does more than its plain job: it **senses, processes and responds** — taking in information, working on it with its own programs, and acting or answering back. Grade 11's first unit builds the concept from the devices pupils already carry: the **smartphone** above all.
 
-[Picture — The concept of smart devices]
+In your mind's eye: the concept of smart devices.
 
 ## Sub lesson 2 — Smart devices around us
 
 Smart devices run on their own **operating systems** and **applications** — the next lessons' topics — and they **connect**: to the internet and to each other, which is what leads the book straight into the **Internet of Things**. A device earns “smart” not by having a screen, but by processing, responding and connecting.
 
-[Picture — Smart devices around us]
+In your mind's eye: smart devices around us.
 
 ## Say it to your companion
 

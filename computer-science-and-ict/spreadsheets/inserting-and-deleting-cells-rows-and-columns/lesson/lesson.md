@@ -13,7 +13,7 @@ Nothing on a finished worksheet is fixed. To make room **inside** a table, you *
 3. A small dialog opens and asks the one question that matters: which way should the cells that are already there **shift** to make room — **shift cells right**, or **shift cells down**? (The dialog also offers an entire row or an entire column.)
 4. Choose, and click **OK**. The new empty cell appears, and its neighbours have moved aside — nothing is overwritten, nothing is lost.
 
-[Picture — a small grid with one cell selected and the Insert Cells dialog open, its four choices labelled]
+In your mind's eye: a small grid with one cell selected and the Insert Cells dialog open, its four choices labelled.
 
 **Deleting cells** is the mirror image. Click the cell that must go; **Home tab → Delete → Delete Cells**. The dialog asks which way the remaining cells should shift to **close the gap** — **shift cells left**, or **shift cells up**. Choose and confirm: the cell is gone, and the table closes ranks behind it. A worksheet never keeps a hole where a cell was deleted; everything moves together, and formulas move with their cells.
 

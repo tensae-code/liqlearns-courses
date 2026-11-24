@@ -8,13 +8,13 @@ A computer's numbers are silent until a chain of devices turns them into sound y
 
 Inside the computer, sound exists as **digital audio** — numbers describing the wave. The **sound card** is the device that **converts those numbers into the electrical signal speakers can use** (and, in reverse, turns a microphone's signal into numbers the computer can store). It may be a card in an expansion slot or built into the motherboard. Without this conversion, the machine can store a song forever and never be heard to play it.
 
-[Picture — The sound card — making sound from numbers]
+In your mind's eye: the sound card — making sound from numbers.
 
 ## Sub lesson 2 — Speakers and headphones — the last step to the ear
 
 The signal's last step is a choice of two deliverers. **Speakers** turn the signal into sound in the air, for everyone in the room — the classroom and the meeting. **Headphones** carry the same sound to **one listener's ears alone** — the language lab, the late worker, the learner who must hear without disturbing. Laos teaches the three together as one family — card, speaker, headphone — because a fault can sit at any link: no sound may mean the numbers, the conversion, or only the deliverer has failed.
 
-[Picture — Speakers and headphones — the last step to the ear]
+In your mind's eye: speakers and headphones — the last step to the ear.
 
 ## Say it to your companion
 

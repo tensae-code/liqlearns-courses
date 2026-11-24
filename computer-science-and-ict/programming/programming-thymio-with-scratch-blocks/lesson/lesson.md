@@ -8,13 +8,13 @@ The same Thymio, a new tongue: Scratch blocks on the screen now move wheels on t
 
 The activity opens with the **instructions (consignes)**: Thymio's Scratch extension adds **motor blocks** — set the wheels' speeds, run, stop — to the familiar palette. A **first script** is deliberately tiny: one event, motors forward, wait, stop. Then the robot **draws a square** in the next séance: move, turn, move, turn — the screen's program judged by chalk on the floor, where every error is centimetres, visible to all.
 
-[Picture — A first Scratch script for a real robot]
+In your mind's eye: a first Scratch script for a real robot.
 
 ## Sub lesson 2 — Loops and the two programming kinds
 
 The square's four sides beg for the **“repeat forever” / repeat block**: Séance 1 already adds “répéter indéfiniment” to create a loop, collapsing four sides into one instruction repeated. Séance 2 then names the course's pair: **sequential programming** (the script runs top to bottom) against **event programming** (scripts waiting for sensor events) — Thymio drawing its square both ways, so the kinds are felt in behaviour, not just defined.
 
-[Picture — Loops and the two programming kinds]
+In your mind's eye: loops and the two programming kinds.
 
 ## Say it to your companion
 

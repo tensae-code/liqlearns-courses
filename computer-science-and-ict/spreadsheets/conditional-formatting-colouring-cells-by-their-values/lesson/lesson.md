@@ -8,13 +8,13 @@ In a sea of numbers, the important ones should shout. In this lesson you teach E
 
 **Conditional formatting** means the **formatting follows a condition**: if a cell's value meets the **rule**, the cell is **highlighted** — filled or coloured — automatically. Ready-made rules highlight values **above average** or **below average**, and pick out **unique** values or **duplicate** values in a range.
 
-[Picture — highlighting by rule]
+In your mind's eye: highlighting by rule.
 
 ## Sub lesson 2 — Making a new rule — and living colours
 
 When no ready rule fits, you build a **new formatting rule**: state the condition and the formatting it triggers. The deep point of the lesson: the colours are **alive** — edit a value so it crosses the rule, and its highlighting appears or disappears by itself, because the rule watches the values, not the colours.
 
-[Picture — making a new rule — and living colours]
+In your mind's eye: making a new rule — and living colours.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Practical guide, Examples — factorial 
 
 This part of South Sudan's book teaches **Practical guide, Examples — factorial function; making a calendar / printing a date** — covering: Practical guide, Examples — factorial function; making a calendar / printing a date. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical guide, Examples — factorial function; making a calendar / printing a date. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — practical guide, Examples — factorial function; making a calendar / printing a date is part of that chain..
 
-[Picture — Practical guide, Examples — factorial function; making a calendar / printing a date]
+In your mind's eye: practical guide, Examples — factorial function; making a calendar / printing a date.
 
 ## Sub lesson 2 — Doing it — Practical guide, Examples — factorial function; making a calendar / printing a date in practice
 
 This part of South Sudan's book teaches **Doing it — Practical guide, Examples — factorial function; making a calendar / printing a date in practice** — covering: Practical guide, Examples — factorial function; making a calendar / printing a date. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical guide, Examples — factorial function; making a calendar / printing a date. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical guide, Examples — factorial function; making a calendar / printing a date in practice is part of that chain..
 
-[Picture — Doing it — Practical guide, Examples — factorial function; making a calendar / printing a date in practice]
+In your mind's eye: doing it — Practical guide, Examples. Factorial function; making a calendar / printing a date in practice.
 
 ## Say it to your companion
 

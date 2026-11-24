@@ -10,7 +10,7 @@ The Earth comes with one line drawn by nature: the **equator**, the circle halfw
 
 The second angle needs a line chosen by agreement, since nature offers none: the **prime meridian**, the north–south circle passing through **Greenwich**, London. **Longitude** is the angle east or west of it, from 0° at Greenwich to 180° on the far side of the Earth, lettered **E** or **W**. Paris is about 2.35° E; New York about 74° W. Neither number alone fixes anything — a latitude is a whole circle of places, a longitude a whole half-circle — but the pair crosses at exactly one point. That crossing is the address of every place on Earth, and it is the language GPS speaks in the next lessons.
 
-[Picture — a globe with the equator and the Greenwich meridian drawn bold, one place marked with its two angles opened from Earth’s centre]
+In your mind's eye: a globe with the equator and the Greenwich meridian drawn bold, one place marked with its two angles opened from Earth’s centre.
 
 ## Sub lesson 2 — Writing coordinates — decimal, DMS, and altitude
 
@@ -18,7 +18,7 @@ The pair can be written two ways. **Decimal degrees** write each angle as one de
 
 Height is the third number when it matters: **altitude**, the height above sea level in metres — an aeroplane, a mountain refuge and a flood map all care about it. Two numbers fix a place on the surface; three fix it in space.
 
-[Picture — one coordinate written both ways, decimal and DMS, with the ×60 steps of the conversion shown between them]
+In your mind's eye: one coordinate written both ways, decimal and DMS, with the ×60 steps of the conversion shown between them.
 
 ## Say it to your companion
 

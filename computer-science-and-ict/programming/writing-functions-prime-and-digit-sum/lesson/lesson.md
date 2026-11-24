@@ -8,13 +8,13 @@ Unit 5 Programming Time (prime() returns 1 or 0; digitsSum() sums 0..n) and Prog
 
 This part of Pakistan (Punjab)'s book teaches **Programming Time** — covering: Unit 5 Programming Time (prime() returns 1 or 0; digitsSum() sums 0..n) and Programming Practice (write square(x), power(x, y) and a factorial function). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming Time]
+In your mind's eye: programming Time.
 
 ## Sub lesson 2 — Doing it — Writing Functions Prime and Digit Sum in practice
 
 **Doing it — Writing Functions Prime and Digit Sum in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Writing Functions Prime and Digit Sum in practice]
+In your mind's eye: doing it — Writing Functions Prime and Digit Sum in practice.
 
 ## Say it to your companion
 

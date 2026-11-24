@@ -8,13 +8,13 @@ A LinkedIn account and profile are a person's professional face online: the prof
 
 A LinkedIn account and profile are a person's professional face online: the profile states who they are, their education and work, and their connections are other professionals The learner follows the book's steps: creating the account, reading the User Agreement and Privacy Policy, writing the profile, and making first connections Because LinkedIn is where employers and partners look first; a careful profile is a working document, not a decoration.
 
-[Picture — Creating a LinkedIn account and profile — reading the User Agreement and Privacy Policy, writing a profile, making connections]
+In your mind's eye: creating a LinkedIn account and profile — reading the User Agreement and Privacy Policy, writing a profile, making connections.
 
 ## Sub lesson 2 — Doing it — Creating a LinkedIn account and profile — reading the User Agreement and Privacy Policy, writing a profile, making connections in practice
 
 Creating a LinkedIn Account and Profile is learned by doing: the learner follows the book's steps: creating the account, reading the User Agreement and Privacy Policy, writing the profile, and making first connections The learner follows the book's steps: creating the account, reading the User Agreement and Privacy Policy, writing the profile, and making first connections Because LinkedIn is where employers and partners look first; a careful profile is a working document, not a decoration.
 
-[Picture — Doing it — Creating a LinkedIn account and profile — reading the User Agreement and Privacy Policy, writing a profile, making connections in practice]
+In your mind's eye: doing it — Creating a LinkedIn account and profile. Reading the User Agreement and Privacy Policy, writing a profile, making connections in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ In Egypt's Grade 11 project, the dictionary site's pages must stop being fixed t
 
 A **static** page is a finished file: every visitor gets the same bytes. A **dynamic** page is **generated**: a program on the server builds the page's HTML **in response to this request** — reading the database, choosing what this visitor asked for — and sends the result. **PHP** is the language the book uses for that generating program: PHP code sits inside the page file, runs **on the server** (the visitor never sees it — only its output), and its whole job is producing the page, often out of database content. The dictionary becomes dynamic the moment its term pages are PHP: add a term to the database, and the site shows it — no page edited by hand.
 
-[Picture — Dynamic pages — generated when asked]
+In your mind's eye: dynamic pages — generated when asked.
 
 ## Sub lesson 2 — The PHP page at work — request, database, answer
 
 The working rhythm is the project's heartbeat: the browser **requests** a PHP page, perhaps with a choice attached (which term? which letter?); the server runs the PHP, which **queries MySQL**; the answers come back as data; the PHP **builds HTML around the data** and the server sends that HTML to the browser. Every part of the Grade 11 project meets here — the Expression Web pages provide the pattern the data is poured into, the MySQL database created earlier provides the content, and the Add_Term page is this same rhythm running in reverse, storing instead of showing. Egypt teaches PHP inside one real site because a dynamic page only makes sense attached to data someone actually wants.
 
-[Picture — The PHP page at work — request, database, answer]
+In your mind's eye: the PHP page at work — request, database, answer.
 
 ## Say it to your companion
 

@@ -12,7 +12,7 @@ Some information we **see**: pictures, colours, shapes, signs and faces. Some in
 
 The same thing can give more than one type. A teacher speaking gives information we hear — and if the teacher writes on the board, the same lesson also gives information we read. Naming the type means naming how the information reaches us.
 
-[Picture — a picture of three panels: an eye looking at a drawing, an ear beside a bell, and an open book with words]
+In your mind's eye: three panels. An eye looking at a drawing, an ear beside a bell, and an open book with words.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ In your project the sprite must dance AND the music must play. In one script, th
 
 Scripts in Scratch normally run one after another inside themselves — block by block in order. But a sprite (or a project) can hold **more than one script**, and when **the same event starts two scripts**, Scratch runs them **at the same time** — in parallel. The book's example is background music: one script, started by the green flag, plays the music; a second script, started by the same green flag, runs the story's action. The music does not wait for the action, and the action does not wait for the music — they run side by side from the same start signal. Parallel scripts are how a project does two things at once: a character walks in one script while its costume animates in another; an enemy moves in one script while the timer counts in another.
 
-[Picture — a picture of two Scratch scripts side by side, both topped by the same green-flag event block — one playing music notes, one moving a sprite — with clock hands showing they run together]
+In your mind's eye: two Scratch scripts side by side, both topped by the same green-flag event block — one playing music notes, one moving a sprite. With clock hands showing they run together.
 
 ## Say it to your companion
 

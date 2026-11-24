@@ -8,13 +8,13 @@ Cuba's Grade 5 student book opens its word-processing chapter with synonyms — 
 
 Words that carry the **same or nearly the same meaning** are **synonyms**: big and large, begin and start. A text that repeats one word tires its reader, and a text copied word-for-word from a source is not the writer's own. Synonyms answer both: they let a sentence say the same thing freshly. The choice is not free, though — a synonym must **fit the sentence**: its meaning in that place, and the tone of the text around it.
 
-[Picture — Synonyms — the same meaning, another word]
+In your mind's eye: synonyms — the same meaning, another word.
 
 ## Sub lesson 2 — The thesaurus — finding the synonym in the program
 
 The word processor carries a **thesaurus** — a synonym finder built into the program. The working order is: **select the word** in your text, **open the thesaurus**, read the synonyms it offers, **choose** the one that fits, and let the program **replace** the word — or type the change yourself. Then read the sentence again whole: the thesaurus offers, but the writer decides, because only the writer knows what the sentence must say.
 
-[Picture — The thesaurus — finding the synonym in the program]
+In your mind's eye: the thesaurus — finding the synonym in the program.
 
 ## Say it to your companion
 

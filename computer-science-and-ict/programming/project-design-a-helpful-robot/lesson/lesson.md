@@ -8,13 +8,13 @@ Grade 5's first project is titled for its maker: I Am the Little Programmer. Its
 
 The project asks each pupil to **design a robot that helps them**: name the help needed — a real task in the pupil's own day — and design the robot for exactly that help. The robot is a design, not a purchase: what it must sense, what it must do, and how the pupil would know it had helped. Choosing the help is the thinking; a robot designed for everyone helps no one in particular.
 
-[Picture — The task — a robot that helps me]
+In your mind's eye: the task — a robot that helps me.
 
 ## Sub lesson 2 — Designing with the four stages
 
 The design is worked in the unit's craft: set the **goal** (the help, in one sentence), the **smart plan** (the steps the robot follows), its **flowchart**, and then the **code instructions** the robot would run — the same four stages the Little Programmer lessons taught, now spent on the pupil's own invention. The project is the unit's proof: the stages are a way of working, not a page in the book.
 
-[Picture — Designing with the four stages]
+In your mind's eye: designing with the four stages.
 
 ## Say it to your companion
 

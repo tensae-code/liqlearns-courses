@@ -8,13 +8,13 @@ You built it, the lesson ends, the computer shuts down. Tomorrow, is your projec
 
 Grade 7’s files lesson walks the **File menu**: **New** starts a fresh project, **Save** writes the project to its file, **Save As** writes it under a new name or place, and **Open** loads a saved project back. Scratch project files carry the **.sb/.sb2 extensions** — the ending that says what kind of file it is.
 
-[Picture — the File menu — New, Save, Save As, Open]
+In your mind's eye: the File menu — New, Save, Save As, Open.
 
 ## Sub lesson 2 — The save-project warning — unsaved work is lost for good
 
 The lesson’s centre is its **warning**: work that was never saved is **lost for good** when the program closes. Saving is therefore a habit inside the work, not a chore after it — save when the project starts, and save again as it grows.
 
-[Picture — the save-project warning — unsaved work is lost for good]
+In your mind's eye: the save-project warning — unsaved work is lost for good.
 
 ## Say it to your companion
 

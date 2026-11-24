@@ -8,13 +8,13 @@ Web pages are HTML — but who writes the HTML? Fiji's Year 11 advanced applicat
 
 A **web authoring program** is an application for **building web pages and whole sites** in which the author works mostly **visually** — typing text, placing pictures, choosing links — while the program **writes the HTML underneath**. Fiji names the class's leaders of its time: **Dreamweaver** and **FrontPage**. The author's job shifts from writing tags to making decisions — what the page says, how it is arranged, where its links go — and the program does the coding labour.
 
-[Picture — Authoring — making pages without writing every tag]
+In your mind's eye: authoring — making pages without writing every tag.
 
 ## Sub lesson 2 — HTML editors — the middle way
 
 Beside the full authoring programs stand **HTML editors**: programs that help a person **write HTML directly** — colouring the tags, completing them, checking them — without hiding the code. The two kinds divide by how much code the author wants to see: authoring programs hide it for speed and ease; editors show it for control and learning. Fiji places both in its advanced applications because a serious web worker meets the pair — and because every page either kind produces is still HTML, which the course teaches on its own terms alongside.
 
-[Picture — HTML editors — the middle way]
+In your mind's eye: hTML editors — the middle way.
 
 ## Say it to your companion
 

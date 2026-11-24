@@ -8,13 +8,13 @@ An AI system is not a spell; it is a system, with parts that can be listed and a
 
 An AI system's standing **components**: the **data** it learns or reasons from, the **algorithms / model** that do the learning or reasoning, the **computing machinery** that runs them, and the **interface** through which people give and receive. **Preparing** one has its stages: define the problem, gather and prepare the data, choose and build the model, train and test it, then put it to work and watch it. A failure can be assigned to a component and a stage — that is what makes it a system and not a mystery.
 
-[Picture — Components and preparation]
+In your mind's eye: components and preparation.
 
 ## Sub lesson 2 — Characteristics — what marks AI off
 
 AI systems are marked by: **learning** (improving from data or experience), **reasoning** (drawing conclusions), **perception** (taking in speech, images, signals), **language** (understanding or producing words), and **adaptation** (holding their performance as the world shifts). Jordan's Grade 9 list is a measuring stick: hold any claimed 'AI' against the five marks, and the honest ones — a thermostat has none but reaction; a recogniser has several — sort themselves.
 
-[Picture — Characteristics — what marks AI off]
+In your mind's eye: characteristics — what marks AI off.
 
 ## Say it to your companion
 

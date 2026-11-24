@@ -8,13 +8,13 @@ Look at the back of a system unit: a row of holes and sockets, each waiting for 
 
 The **power** port takes the power cable. The **monitor**, **keyboard** and **mouse** each have their own port. The **audio** ports carry sound out to speakers and in from a microphone. The **USB** port takes flash memory and many other devices. The **modem** and **internet** ports join the computer to the telephone line and the network. A plug fits its own port — the shapes differ on purpose, so a part cannot easily be forced into the wrong socket.
 
-[Picture — the ports and what joins at each one]
+In your mind's eye: the ports and what joins at each one.
 
 ## Sub lesson 2 — Connecting the parts — the lab practice
 
 In the school lab you practise **connecting the parts without power**: the machine stays switched off and unplugged while hands learn the work. Take one part at a time, find its port by shape, push its plug in gently and straight, and never force it. When every part is joined — monitor, keyboard, mouse, power — the teacher checks the connections before any power is switched on.
 
-[Picture — connecting the parts — the lab practice]
+In your mind's eye: connecting the parts — the lab practice.
 
 ## Say it to your companion
 

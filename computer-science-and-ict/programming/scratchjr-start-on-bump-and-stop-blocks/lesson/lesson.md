@@ -8,13 +8,13 @@ One sprite alone is a monologue. Kuwait's second ScratchJr lesson makes sprites 
 
 **Start on Bump** is a trigger block: the script under it **sleeps until this sprite bumps into another sprite**, then runs. It is ScratchJr's way of making characters react to each other — the cat reaches the mouse and only then speaks; the car reaches the sign and only then turns. The programmer's question changes: not 'what runs first?' but 'what meeting wakes this script?'
 
-[Picture — Start on Bump — a script woken by a meeting]
+In your mind's eye: start on Bump — a script woken by a meeting.
 
 ## Sub lesson 2 — The Stop block — ending on purpose
 
 The **Stop block** ends a sprite's running script at the point where it stands. Paired with Start on Bump it closes the interaction's shape: a meeting starts the reaction, the reaction plays, and Stop ends it cleanly instead of letting it wander. A program that can start on a meeting and stop on purpose is a program whose meetings mean something.
 
-[Picture — The Stop block — ending on purpose]
+In your mind's eye: the Stop block — ending on purpose.
 
 ## Say it to your companion
 

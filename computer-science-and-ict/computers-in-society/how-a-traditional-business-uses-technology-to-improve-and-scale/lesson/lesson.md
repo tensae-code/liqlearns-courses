@@ -8,13 +8,13 @@ Unit 7, ten ways technology improves or scales a traditional business
 
 This part of Pakistan (Punjab)'s book teaches **, ten ways technology improves or scales a traditional business** — covering: Unit 7, ten ways technology improves or scales a traditional business. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , ten ways technology improves or scales a traditional business]
+In your mind's eye: , ten ways technology improves or scales a traditional business.
 
 ## Sub lesson 2 — Doing it — How a Traditional Business Uses Technology to Improve and Scale in practice
 
 **Doing it — How a Traditional Business Uses Technology to Improve and Scale in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — How a Traditional Business Uses Technology to Improve and Scale in practice]
+In your mind's eye: doing it — How a Traditional Business Uses Technology to Improve and Scale in practice.
 
 ## Say it to your companion
 

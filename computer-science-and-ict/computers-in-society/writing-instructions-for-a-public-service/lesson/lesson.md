@@ -8,13 +8,13 @@ A service can exist and still be unusable — if nobody can find its steps. The 
 
 Good instructions begin as research: **identify the steps** of the service as they truly are — where it starts, what papers and fees it needs, which office or screen does what, in what order, and where it ends. The Grade 7 teams walk the service themselves or question someone who has, because instructions written from imagination fail at exactly the step nobody checked. Every step gets its evidence: the form's real name, the office's real hours, the fee's real amount.
 
-[Picture — Finding the steps — identify before writing]
+In your mind's eye: finding the steps — identify before writing.
 
 ## Sub lesson 2 — The handbook — steps a stranger can follow
 
 Then the steps become a **handbook**: numbered, in order, each step one action with its place and its needed papers named; warnings placed where the mistakes happen ('bring the photocopy — the office has no copier'); and a final checklist to run before leaving home. The test of the handbook is a stranger: hand it to someone who has never used the service and watch silently where they stumble — the stumble is the handbook's fault, and the rewrite fixes the step, not the reader.
 
-[Picture — The handbook — steps a stranger can follow]
+In your mind's eye: the handbook — steps a stranger can follow.
 
 ## Say it to your companion
 

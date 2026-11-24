@@ -8,13 +8,13 @@ Every search so far had a passive world. In a game, the world moves back — and
 
 **Adversarial search** studies games as search trees where two players alternate: **MAX**, who wants the highest final score, and **MIN**, who wants it lowest. A position's value is no longer found but **fought over**: MAX chooses the move leading to the best value she can force; MIN chooses the move leading to the worst for her. The tree's leaves are scored by a **utility function** — win, loss, draw, or a number.
 
-[Picture — Adversarial search — two wills in one tree]
+In your mind's eye: adversarial search — two wills in one tree.
 
 ## Sub lesson 2 — Minimax — assuming the worst, playing the best
 
 The **minimax algorithm** values a position by supposing both play perfectly: at MAX's nodes take the **maximum** of the children's values, at MIN's nodes the **minimum**, working up from the leaves — and MAX then chooses the move whose minimax value is highest. Jordan's Grade 12 lesson programs it in Python for tic-tac-toe (the next programming lesson): a game small enough to search whole, teaching the shape every game AI — chess engines included — still stands on, pruned and heuristically trimmed.
 
-[Picture — Minimax — assuming the worst, playing the best]
+In your mind's eye: minimax — assuming the worst, playing the best.
 
 ## Say it to your companion
 

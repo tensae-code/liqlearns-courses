@@ -8,13 +8,13 @@ Write a web page in Bangla, open it, and the letters arrive as boxes and questio
 
 Characters travel as numbers (the character-codes lesson), and the browser must be told which code table the numbers use. The declaration lives in the head: **<meta charset="utf-8">** — 'this page is encoded in UTF-8', the Unicode form that holds Bangla and every other script. With it, the page's bytes are read as meant; without it, the browser guesses, and guesses fail exactly on the scripts that need the declaration most. The charset line goes first in the head, before anything it must protect.
 
-[Picture — Meta charset — declare UTF-8]
+In your mind's eye: meta charset — declare UTF-8.
 
 ## Sub lesson 2 — The lang attribute — name the language
 
 The page's other declaration names its **language**: the **lang attribute** on the html element — `<html lang="bn">` for a Bangla page. Lang does quiet, essential work: screen readers pronounce by it, search engines file the page under its language, browsers offer translation and choose fonts and hyphenation by it. Together the two declarations are the page's passport: charset says how its letters are coded, lang says what language they speak — and a page that carries both can travel the whole web and be read as written, in Dhaka or anywhere.
 
-[Picture — The lang attribute — name the language]
+In your mind's eye: the lang attribute. Name the language.
 
 ## Say it to your companion
 

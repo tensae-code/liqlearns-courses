@@ -8,13 +8,13 @@ The green-computing lesson taught the world's ideas. This one brings them home: 
 
 Jordan's ground gives green computing a particular shape: **sun in abundance** (solar energy is a national resource, not a metaphor), **imported fuel's cost** (efficiency is money saved at national scale), **water scarcity** (cooling and washing have a Jordanian price), and a young, schooled population whose devices multiply yearly. A practice that is a preference elsewhere can be a necessity here — the lesson reads Jordan's own programmes and examples against the worldwide principles to show the fit.
 
-[Picture — Why Jordan's case is its own]
+In your mind's eye: why Jordan's case is its own.
 
 ## Sub lesson 2 — Green computing practised in Jordan
 
 The practices the book gathers: **solar power** for schools, companies and data work; **energy-efficient devices and settings** in government and education; **e-services replacing paper and journeys** (Jordan's e-government is a green policy as much as a service one); **recycling and responsible disposal** efforts for electronic waste; and **awareness** — the curriculum itself, this very lesson, as a national instrument. Jordan's closing point: a country's green computing is its principles **translated into its own ground** — and the pupil who can do the translating for Jordan can do it anywhere.
 
-[Picture — Green computing practised in Jordan]
+In your mind's eye: green computing practised in Jordan.
 
 ## Say it to your companion
 

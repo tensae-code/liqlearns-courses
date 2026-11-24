@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Posting content — covering: Posting co
 
 This part of South Sudan's book teaches **Posting content** — covering: Posting content. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Posting content. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — posting content is part of that chain..
 
-[Picture — Posting content]
+In your mind's eye: posting content.
 
 ## Sub lesson 2 — Doing it — Posting content in practice
 
 This part of South Sudan's book teaches **Doing it — Posting content in practice** — covering: Posting content. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Posting content. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Posting content in practice is part of that chain..
 
-[Picture — Doing it — Posting content in practice]
+In your mind's eye: doing it — Posting content in practice.
 
 ## Say it to your companion
 

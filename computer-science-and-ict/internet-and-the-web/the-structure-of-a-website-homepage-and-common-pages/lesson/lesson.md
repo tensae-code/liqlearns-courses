@@ -8,13 +8,13 @@ Open any good website and you can guess where things are before you look: home a
 
 A website's **homepage** is its door and map in one: it names the site, shows what matters most, and routes every visitor onward — a homepage that tries to say everything sends visitors nowhere. Around it stand the **common pages** most sites share: the content pages of its sections, an **about** page (whose site this is), a **contact** page, and help or search for the lost. Each page has one job; the structure is the agreement about which job lives where, so returning visitors find things where memory says they were.
 
-[Picture — Homepage and the common pages]
+In your mind's eye: homepage and the common pages.
 
 ## Sub lesson 2 — Three structure types — sequence, hierarchy, web
 
 Sites arrange pages three ways. A **sequence** structure walks the visitor step by step — a lesson, a checkout — one road, no branches. A **hierarchy** branches like a tree: homepage, sections, sub-pages — the commonest shape, and the one this course's own site uses. A **web (network) structure** links pages freely, each to many — richest for exploring, easiest to get lost in. Real sites mix the three: a hierarchy of sections, sequences inside its forms, web links inside its articles. The designer's choice follows the visitor's errand, not the designer's taste.
 
-[Picture — Three structure types — sequence, hierarchy, web]
+In your mind's eye: three structure types — sequence, hierarchy, web.
 
 ## Say it to your companion
 

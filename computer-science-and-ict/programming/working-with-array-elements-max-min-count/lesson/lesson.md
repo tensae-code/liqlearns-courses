@@ -8,13 +8,13 @@ Almost every array job is the same walk wearing different clothes. This lesson t
 
 The pattern: an **accumulator** starts at its neutral value (0 for a sum), the loop visits **every** element, and each visit **folds** the element in — total += a[i]. The same walk with a different fold gives products, sums of squares, or a transformed second array (each element doubled, say). The array itself is only read, never changed, in this family of tasks.
 
-[Picture — operations over the whole array]
+In your mind's eye: operations over the whole array.
 
 ## Sub lesson 2 — Largest, smallest and counting
 
 For **largest**: set max = **a[0]** (never 0 — an all-negative array would break that), then each element that **beats** max replaces it. **Smallest** mirrors it. For **counting**: a counter rises by one **only when the element passes a test** (negative? even? above the average?) — same walk, conditional fold. The links-pass reading splits this material further: inserting elements, finding largest/smallest and counting each get their own stocked lessons beside this one.
 
-[Picture — largest, smallest and counting]
+In your mind's eye: largest, smallest and counting.
 
 ## Say it to your companion
 

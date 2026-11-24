@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Adding pages to the menu — covering: A
 
 This part of South Sudan's book teaches **Adding pages to the menu** — covering: Adding pages to the menu. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding pages to the menu. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding pages to the menu is part of that chain..
 
-[Picture — Adding pages to the menu]
+In your mind's eye: adding pages to the menu.
 
 ## Sub lesson 2 — Doing it — Adding pages to the menu in practice
 
 This part of South Sudan's book teaches **Doing it — Adding pages to the menu in practice** — covering: Adding pages to the menu. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding pages to the menu. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Adding pages to the menu in practice is part of that chain..
 
-[Picture — Doing it — Adding pages to the menu in practice]
+In your mind's eye: doing it — Adding pages to the menu in practice.
 
 ## Say it to your companion
 

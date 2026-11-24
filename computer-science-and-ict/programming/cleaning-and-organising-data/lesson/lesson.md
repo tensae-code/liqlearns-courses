@@ -8,13 +8,13 @@ Two hundred survey answers arrive. One age is written 'fifteen', one is 15, one 
 
 Collected data is dirty in five recurring ways. **Missing values**: an entry left blank where the analysis will need it. **Wrong formats**: the same kind of value written in different shapes — 'fifteen', 15, '15 yrs'. **Duplicates**: the same record entered twice, quietly doubling its weight. **Impossible entries**: an age of 150, a date of 32 January — values that cannot be true, born of slips. **Inconsistent spellings**: one village under three names, which a counting program will treat as three villages. Spotting them is a skill of its own: scan each column asking 'what shapes appear here, and do they agree?'
 
-[Picture — a table with five problem cells highlighted in five colours — one empty, one word among numbers, one row repeated, one impossible age, one village spelled a new way]
+In your mind's eye: a table with five problem cells highlighted in five colours — one empty, one word among numbers, one row repeated, one impossible age, one village spelled a new way.
 
 ## Sub lesson 2 — Cleaning and organising — the repairs
 
 Cleaning repairs each fault by its own rule, decided **before** touching the data and applied the **same way everywhere**. Formats are unified (all ages as numbers, all dates in one pattern). Spellings are standardised to one agreed name per thing. Duplicates are hunted by their identifying columns and merged or removed. Missing and impossible values are handled honestly: go back to the source if possible; if not, mark them clearly as missing rather than inventing plausible numbers — an invented value is a lie the analysis will repeat with confidence. Around the cleaning sits the **organising**: one table, one row per record, one column per kind of value, headings agreed — the shape every later tool expects.
 
-[Picture — the messy table from the first sub lesson being repaired cell by cell — words becoming numbers, the double row dissolving, the three village spellings merging into one — until the table stands clean and even]
+In your mind's eye: the messy table from the first sub lesson being repaired cell by cell — words becoming numbers, the double row dissolving, the three village spellings merging into one. Until the table stands clean and even.
 
 ## Say it to your companion
 

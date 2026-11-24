@@ -8,13 +8,13 @@ The screen is black. Is it the screen, the cable, the card, the power? This less
 
 Jordan sorts hardware faults by **component**: **power** faults (no life at all — supply, cable, switch), **display** faults (dark, distorted, flickering — screen, cable, graphics), **storage** faults (disk unseen, clicking, vanishing files — the disk dying), **input** faults (dead keys, a wandering mouse), **overheating** (shutdowns under load — dust, fans, dried paste), and **connection** faults (loose and oxidised contacts — the largest family of all, and the cheapest to fix). Each fault's **causes** are listed beside it because the same symptom has many parents: a dark screen may be power, cable, card or screen, and fixing begins by separating them.
 
-[Picture — The faults and their causes — by component]
+In your mind's eye: the faults and their causes — by component.
 
 ## Sub lesson 2 — Fixing — the safe order of work
 
 Fixing follows the troubleshooter's order: **observe and record** the symptom exactly, **test the cheap and external first** (cables, another screen, another socket — the swaps that separate the parents), **open the case only then** (power off, static care, one change at a time), and **verify** the fix under the load that revealed the fault. The lesson's safety spine: electricity and stored charge are respected, a part is condemned only on evidence (a swap that moves the fault), and a fault beyond the school's tools is **reported with its evidence**, not hidden by guessing.
 
-[Picture — Fixing — the safe order of work]
+In your mind's eye: fixing — the safe order of work.
 
 ## Say it to your companion
 

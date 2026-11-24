@@ -8,7 +8,7 @@ Look at two drawings of the same cat: legs together, legs apart. Flick between t
 
 Grade 4 returns to the sprite's **appearance (Външен вид на героя)** with new depth: the sprite's look is not just chosen, it is **made** — in Scratch's paint editor, drawing and editing the costume the sprite wears, changing shape, colour and detail until the look fits the story. Then the second half of the lesson joins look to motion: **computer animation (Компютърна анимация)** at the sprite level — a row of costumes, each changed a little, switched in order, so the sprite walks, flaps, blinks or dances by its own body, not by sliding across the stage. The craft is small honest changes: a costume that changes too much jumps; a row that is too short stutters. This builds directly on Grade 3's sprites-and-costumes and story-animation lessons, going deeper into the editor and the costume row.
 
-[Picture — a picture of a picture of the Scratch paint editor open on a sprite's costume being edited, with a row of four costumes below it — a bird with wings down, half up, up, half up — ready to switch in order]
+In your mind's eye: a picture of the Scratch paint editor open on a sprite's costume being edited, with a row of four costumes below it — a bird with wings down, half up, up, half up. Ready to switch in order.
 
 ## Say it to your companion
 

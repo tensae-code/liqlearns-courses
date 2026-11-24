@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Adding Headings; formatting with bold, i
 
 This part of South Sudan's book teaches **Adding Headings; formatting with bold, italics, underline and font colour** — covering: Adding Headings; formatting with bold, italics, underline and font colour. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Headings; formatting with bold, italics, underline and font colour. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Headings; formatting with bold, italics, underline and font colour is part of that chain..
 
-[Picture — Adding Headings; formatting with bold, italics, underline and font colour]
+In your mind's eye: adding Headings; formatting with bold, italics, underline and font colour.
 
 ## Sub lesson 2 — Doing it — Adding Headings; formatting with bold, italics, underline and font colour in practice
 
 This part of South Sudan's book teaches **Doing it — Adding Headings; formatting with bold, italics, underline and font colour in practice** — covering: Adding Headings; formatting with bold, italics, underline and font colour. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Headings; formatting with bold, italics, underline and font colour. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Adding Headings; formatting with bold, italics, underline and font colour in practice is part of that chain..
 
-[Picture — Doing it — Adding Headings; formatting with bold, italics, underline and font colour in practice]
+In your mind's eye: doing it — Adding Headings; formatting with bold, italics, underline and font colour in practice.
 
 ## Say it to your companion
 

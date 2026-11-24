@@ -8,13 +8,13 @@ Switch a computer on and wait. Before you open anything, something has already s
 
 **Windows** is the **operating system** Iraq's Grade 7 book teaches on: the system software that starts when the computer starts, manages the machine's parts, and runs the application programs. Nothing else can be used until the operating system is running — it is the layer between the user, the programs and the hardware.
 
-[Picture — Windows is an operating system]
+In your mind's eye: windows is an operating system.
 
 ## Sub lesson 2 — What working in Windows means
 
 Working in Windows means doing your tasks through the operating system's own screens and tools: the **desktop** you land on, the **windows** programs open in, and the menus and icons you click to give orders. The lessons after this one take the desktop and its shortcut menus one piece at a time.
 
-[Picture — What working in Windows means]
+In your mind's eye: what working in Windows means.
 
 ## Say it to your companion
 

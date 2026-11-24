@@ -8,13 +8,13 @@ Grade 12's subprogram chapter turns detective. A subprogram is contracted to wor
 
 A **side effect** is any change a subprogram makes **outside its contract**: altering a **global variable**, writing to a **file or the screen**, moving a device — anything besides computing its return value and its agreed (variable) parameters. The function's offence is subtle: its heading **promises** a clean exchange, so a caller reading the call sees only the exchange — the side effect is invisible exactly where decisions about it would be made. Two calls that look identical can do different amounts of hidden work.
 
-[Picture — What a side effect is — the uncontracted change]
+In your mind's eye: what a side effect is — the uncontracted change.
 
 ## Sub lesson 2 — The discipline — declare, isolate, or refuse
 
 The chapter's discipline has three moves. **Name it**: a subprogram whose job *is* an effect (printing, saving) should be a **procedure** with the effect in its understood purpose, not a function moonlighting. **Isolate it**: pass what is needed as parameters instead of reaching for globals, so the whole influence crosses the visible border. **Refuse it** in functions: a function should compute its value from its parameters alone, so it can be used inside any expression safely — called twice, called never, without the world changing. Programs stay readable exactly as far as their effects stay visible.
 
-[Picture — The discipline — declare, isolate, or refuse]
+In your mind's eye: the discipline — declare, isolate, or refuse.
 
 ## Say it to your companion
 

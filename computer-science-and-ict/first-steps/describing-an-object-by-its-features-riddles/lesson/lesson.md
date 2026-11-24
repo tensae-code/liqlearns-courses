@@ -12,7 +12,7 @@ A good riddle gives features one at a time, and each feature cuts the guesses do
 
 To make your own riddle, choose an object in secret, list three or four of its true features, and say them without its name. If a feature is not true of the object, the riddle is broken — every feature in a riddle must be true.
 
-[Picture — a picture of a child thinking, with a round red apple hidden behind a question mark and three clue bubbles: round, red, you can eat it]
+In your mind's eye: a child thinking, with a round red apple hidden behind a question mark and three clue bubbles. Round, red, you can eat it.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 5 §5.2 Text Formatting: §5.2.1 Content Formatting in HTML (paragraphs; li
 
 This part of Pakistan (Punjab)'s book teaches **Text Formatting: §5.2.1 Content Formatting in HTML** — covering: Unit 5 §5.2 Text Formatting: §5.2.1 Content Formatting in HTML (paragraphs; line breaks; &nbsp; spaces; h1–h6 headings). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Text Formatting: §5.2.1 Content Formatting in HTML]
+In your mind's eye: text Formatting. §5.2.1 Content Formatting in HTML.
 
 ## Sub lesson 2 — Doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice
 
 **Doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice]
+In your mind's eye: doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Be the bee: take two steps forward, turn right like a clock hand, two more steps
 
 The book's programmable device is **Blue-Bot** — a small **bee robot** that drives on the floor and on mats. **"Роботът се движи" (The robot moves)** teaches its movement commands: **forward, back, left turn, right turn**, entered with the **buttons on the robot's back**, with **clear** wiping the old program and **go** running the entered route. The double lesson also meets the **Blue-Bot control environment (Среда за управление Blue Bot)** — the app/screen side where a route can be built and sent to the robot. The craft is exact counting: the robot moves in its own step-lengths and turns in quarter-turns, so a route must be planned in robot steps, not human strides — and a forgotten clear means yesterday's program drives today's route into the wall.
 
-[Picture — a picture of a picture of the Blue-Bot bee robot on a mat, its back buttons labelled — forward, back, left, right, clear, go — with a dotted route of robot steps and one quarter-turn ahead of it]
+In your mind's eye: a picture of the Blue-Bot bee robot on a mat, its back buttons labelled — forward, back, left, right, clear, go. With a dotted route of robot steps and one quarter-turn ahead of it.
 
 ## Say it to your companion
 

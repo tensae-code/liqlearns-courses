@@ -8,13 +8,13 @@ Work out 2 + 3 × 4 in your head. If you got 14, you already follow the rule thi
 
 An **arithmetic (mathematical) expression** is a piece of a program that **works out a number**: values joined by operators, like 2 + 3 × 4. When the program runs, the expression is **evaluated** — replaced by the single number it works out to — and that number is what the rest of the program uses.
 
-[Picture — The arithmetic expression]
+In your mind's eye: the arithmetic expression.
 
 ## Sub lesson 2 — Grouping and precedence
 
 Not all operations are worked out in reading order: **precedence** fixes which operation is done first — multiplication and division before addition and subtraction. **Grouping** changes the order on purpose: the part inside **brackets** is worked out first, whatever the precedence says. So 2 + 3 × 4 is 14, but (2 + 3) × 4 is 20 — the brackets, not the numbers, made the difference.
 
-[Picture — Grouping and precedence]
+In your mind's eye: grouping and precedence.
 
 ## Say it to your companion
 

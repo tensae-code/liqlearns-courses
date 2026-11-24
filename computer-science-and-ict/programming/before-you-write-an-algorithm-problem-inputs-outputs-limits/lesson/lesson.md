@@ -8,13 +8,13 @@ Unit 3, Essentials of writing an Algorithm
 
 This part of Pakistan (Punjab)'s book teaches **, Essentials of writing an Algorithm** — covering: Unit 3, Essentials of writing an Algorithm. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Essentials of writing an Algorithm]
+In your mind's eye: , Essentials of writing an Algorithm.
 
 ## Sub lesson 2 — Doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice
 
 **Doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice]
+In your mind's eye: doing it — Before You Write an Algorithm Problem Inputs Outputs Limits in practice.
 
 ## Say it to your companion
 

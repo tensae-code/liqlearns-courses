@@ -8,13 +8,13 @@ The robot drives too fast in the turns and too slow on the straight. In this les
 
 In VEXcode VR, the robot's movement blocks can take their **speed from a variable** instead of a number typed into each block. Set the **speed variable** once — before the drive — and every movement that reads it obeys it. To change the robot's pace everywhere, you now change **one value in one place**.
 
-[Picture — a speed variable drives the robot]
+In your mind's eye: a speed variable drives the robot.
 
 ## Sub lesson 2 — Watching values in the Monitor console
 
 The **Monitor console** shows the program's variables **while it runs**: watch the speed variable's **value change** as blocks assign and use it. The Monitor turns an invisible thing visible — when the robot misbehaves, the watched values tell you whether the variable held what you thought it held.
 
-[Picture — watching values in the monitor console]
+In your mind's eye: watching values in the monitor console.
 
 ## Say it to your companion
 

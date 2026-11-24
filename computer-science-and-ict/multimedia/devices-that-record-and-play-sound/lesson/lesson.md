@@ -8,13 +8,13 @@ Part 4, §17: Devices for recording and playing sound — natural and artificial
 
 This part of Kazakhstan's book teaches **, §17: Devices for recording and playing sound** — covering: Part 4, §17: Devices for recording and playing sound — natural and artificial sounds; microphone, speakers, headphones. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , §17: Devices for recording and playing sound]
+In your mind's eye: , §17. Devices for recording and playing sound.
 
 ## Sub lesson 2 — Тавушни йезиш вә ойнитиш қурулмилири
 
 This part of Kazakhstan's book teaches **Тавушни йезиш вә ойнитиш қурулмилири** — covering: §17 Тавушни йезиш вә ойнитиш қурулмилири (devices that record and play sound). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Тавушни йезиш вә ойнитиш қурулмилири]
+In your mind's eye: тавушни йезиш вә ойнитиш қурулмилири.
 
 ## Say it to your companion
 

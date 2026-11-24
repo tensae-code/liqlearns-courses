@@ -8,13 +8,13 @@ Every writer is blind to their own mistakes. This lesson learns the organised cu
 
 **Code review** is the practice of having another programmer **read code before it is accepted**, looking for faults, risks and unreadable places. The writer cannot do it alone: they read what they *meant*, not what they *wrote*. The reviewer reads what is actually there. Armenia's Grade 10 book teaches review together with its instrument (Lesson 21): 'Code review and the checklist. Checklist structure' — the review is a quality practice of the senior course, sitting between readable code and debugging.
 
-[Picture — Code review — a second reader with a job]
+In your mind's eye: code review — a second reader with a job.
 
 ## Sub lesson 2 — The checklist — structure of a good list
 
 A **checklist** makes review complete instead of impressionistic. A good checklist is **structured in sections** that follow the code's own risks: correctness (boundaries, empty cases, division by zero), readability (names, layout, style-sheet rules), safety (inputs checked, files closed), and tests (is there a test for the risky part?). Each item is a **yes/no question** answerable from the code, short enough to run in minutes, and revised when a real fault escapes — the list learns from every miss.
 
-[Picture — The checklist — structure of a good list]
+In your mind's eye: the checklist — structure of a good list.
 
 ## Say it to your companion
 

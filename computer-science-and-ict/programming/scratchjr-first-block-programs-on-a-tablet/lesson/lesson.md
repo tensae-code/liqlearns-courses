@@ -8,13 +8,13 @@ Your story is written. The tablet shows a cat, a stage, and trays of coloured bl
 
 ScratchJr programs are built by **snapping blocks**: yellow **trigger** blocks start a script (tap, green flag), blue **motion** blocks move the character, purple **looks** blocks change what it says and shows, and orange **control** blocks wait and repeat. The first programs stay small and honest: one trigger, a few actions, run, watch. A program is “written” (écriture du programme) the same way a sentence is — blocks in the order of the doing.
 
-[Picture — Blocks that act]
+In your mind's eye: blocks that act.
 
 ## Sub lesson 2 — Scene by scene from the story
 
 The scenarios build **scene by scene**: each written scene becomes one ScratchJr page, its characters placed, its script staged from the storyboard — nothing in the program that the story did not ask for. Changing scene, changing background and characters, is the program growing the way the story grows: page by page. The discipline travels to all later programming: the plan decides, the blocks obey.
 
-[Picture — Scene by scene from the story]
+In your mind's eye: scene by scene from the story.
 
 ## Say it to your companion
 

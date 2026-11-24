@@ -8,13 +8,13 @@ The desktop you were given is not the desktop you must keep. In this lesson you 
 
 The **desktop background** is the picture behind the icons. **Change** it by choosing a picture in the settings — a ready picture, or **your own Paint drawing** saved as a file. The desktop becomes yours the moment your own work stands behind every program you open.
 
-[Picture — changing the background — even to your own drawing]
+In your mind's eye: changing the background — even to your own drawing.
 
 ## Sub lesson 2 — System sounds, volume — and themes
 
 **System sounds** are the little sounds Windows makes at events — starting, an error, a notification; they can be changed or silenced in the settings. The **volume** control sets how loud all sound is. A **theme** is a bundle: background, sounds and colours chosen together, applied as one.
 
-[Picture — system sounds, volume — and themes]
+In your mind's eye: system sounds, volume — and themes.
 
 ## Say it to your companion
 

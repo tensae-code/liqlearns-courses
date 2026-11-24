@@ -8,13 +8,13 @@ Unit 4 §4.1.1 Piracy (product keys and cracking; softlifting, client-server ove
 
 This part of Pakistan (Punjab)'s book teaches **Piracy and Its Five Types** — covering: Unit 4 §4.1.1 Piracy (product keys and cracking; softlifting, client-server overuse, hard-disk loading, counterfeiting, online piracy). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Piracy and Its Five Types]
+In your mind's eye: piracy and Its Five Types.
 
 ## Sub lesson 2 — Doing it — Piracy and Its Five Types in practice
 
 **Doing it — Piracy and Its Five Types in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Piracy and Its Five Types in practice]
+In your mind's eye: doing it — Piracy and Its Five Types in practice.
 
 ## Say it to your companion
 

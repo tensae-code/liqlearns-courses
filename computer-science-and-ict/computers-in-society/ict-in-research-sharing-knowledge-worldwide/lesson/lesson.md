@@ -8,13 +8,13 @@ A researcher once waited months for a journal to cross the sea by post, and test
 
 Research begins with **data** — measurements and records too many for any notebook — and computers hold, sort and analyse them. Then comes **simulation**: a model of the real thing — a bridge, a drug, a storm, a market — run inside the computer so ideas can be tested, and fail, cheaply and safely before anyone builds or risks the real one. A simulation is only as honest as the model inside it, which is why researchers check its results against the real world whenever they can.
 
-[Picture — Data and simulation — the laboratory inside the computer]
+In your mind's eye: data and simulation — the laboratory inside the computer.
 
 ## Sub lesson 2 — E-journals and open records — the world's library open
 
 Research is shared, and ICT shares it at village speed: **e-journals** put new findings on every connected desk at once; shared databases let teams on different continents work on the same data; and **open patent databases** let an inventor check whether an idea is already claimed before spending a year on it. The researcher's skill grows with the flood: not finding *a* source, but judging which sources deserve trust — the verification skill this course teaches in its own lessons.
 
-[Picture — E-journals and open records — the world's library open]
+In your mind's eye: e-journals and open records — the world's library open.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Every language has its letters. Grade 9 begins the Pascal course proper with the
 
 Pascal's **alphabet** is the Latin letters A–Z and a–z, the digits 0–9, and the **special symbols**: `+ - * / = < > ( ) [ ] . , ; : ' ` and the assignment sign **:=**. A program may contain nothing outside the alphabet — a letter from another script or a sign like ≠ stops the compiler at once. Words of the language — program, begin, end — are built from these letters and kept whole.
 
-[Picture — Letters, digits and symbols]
+In your mind's eye: letters, digits and symbols.
 
 ## Sub lesson 2 — Identifiers — names built by rule
 
 Names the programmer invents — **identifiers** — are built from letters and digits, must **begin with a letter**, and may not be a service word: `sum1` is allowed, `1sum` and `begin` are not. Good names say what the thing is. The alphabet lesson stands first in the course because every later rule — variables, operators, procedures — is written in these letters and names.
 
-[Picture — Identifiers — names built by rule]
+In your mind's eye: identifiers. Names built by rule.
 
 ## Say it to your companion
 

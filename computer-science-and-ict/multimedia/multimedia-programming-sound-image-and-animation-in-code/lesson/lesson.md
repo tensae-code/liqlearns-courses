@@ -8,13 +8,13 @@ Mongolia's final programming chapter spends everything at once: the graphics, lo
 
 Programmed pictures that **move** are the **Shapes object's** work: a shape is **added** once, then **moved, rotated and zoomed** by orders, and faded by its **opacity** — animation as the repeated re-placing of kept shapes, smoother than redrawing. Programmed music is the **Sound object's**: **PlayMusic** takes music written as **note notation** — a string of note names and lengths — and plays the tune the string describes, text become sound by the string lesson's own tools. The **Mouse object** reports the pointer's place and clicks, and the **Program object** governs the program itself — its window, its delays — the stage manager of the show the other objects perform.
 
-[Picture — Shapes and Sound — multimedia's two objects]
+In your mind's eye: shapes and Sound — multimedia's two objects.
 
 ## Sub lesson 2 — The 'Bouncing Ball' game — and the survey of languages
 
 The chapter's crown artefact is complete: the **'Bouncing Ball' paddle game** — a ball in flight, a paddle under the player's mouse, walls, bounces, misses — every object and every earlier doctrine (loops, conditions, graphics, sound) serving inside one playable program. Then the book closes its whole programming course with a **survey of languages** — C/C++/C#, Java, Python, App Inventor, Swift, Scratch, Flowgorithm, Logo, Alice — Small Basic's family portrait: the pupil who leaves Mongolia's course knows one language well and can place a dozen by their shapes and homes, which is what 'knowing a language' honestly means at school's end.
 
-[Picture — The 'Bouncing Ball' game — and the survey of languages]
+In your mind's eye: the 'Bouncing Ball' game — and the survey of languages.
 
 ## Say it to your companion
 

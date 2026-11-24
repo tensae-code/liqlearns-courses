@@ -8,13 +8,13 @@ Word is for text — but Grade 6's course ends its climb with formulas inside th
 
 Word's **formula** tools (the equation editor) build mathematics from parts: choose the pattern — fraction, power, root, sum — and fill its boxes. A formula is not typed letter by letter like a sentence; it is **assembled**, and it stays one object that can be moved and resized as a whole. The Grade 6 book teaches formulas after tables, as the Word course's last new tool before printing.
 
-[Picture — The formula editor]
+In your mind's eye: the formula editor.
 
 ## Sub lesson 2 — Writing mathematics that reads well
 
 A good formula in a document is **placed and explained**: it sits on its own line or inside the sentence where the text names it, and the text around it says what its letters mean. The pupil's own school subjects are the source — the lesson practises on real sums from mathematics and physics homework, set in Word so they can be printed and handed in.
 
-[Picture — Writing mathematics that reads well]
+In your mind's eye: writing mathematics that reads well.
 
 ## Say it to your companion
 

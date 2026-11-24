@@ -8,13 +8,13 @@ Data governance and access control — the rules and arrangements that decide wh
 
 **Data governance** (tata kelola data) is the rule-layer above every tool: who owns a body of data, who may decide its uses, how long it is kept, and who answers when it is harmed. Indonesia's Grade 12 chapter teaches it after cyber security on purpose — tools protect data from attackers; governance protects it from confusion, excess and neglect inside the house. Its named parts: **database hardening** (penguatan database — closing the database's unneeded doors), **database security**, **network security**, and the governance of access itself.
 
-[Picture — Governance — the rules above the tools]
+In your mind's eye: governance — the rules above the tools.
 
 ## Sub lesson 2 — Access control — the governed door
 
 **Access governance** decides, for each person and each body of data: may they enter, and to do what — read, add, change, delete? Its working rules are the profession's: **least privilege** (no one holds powers their work does not need), **named accounts** (access belongs to a person, never a shared secret), and **review** (permissions are re-judged as jobs change, and removed when they end). Governance is written down or it does not exist: the chapter's learner leaves able to draft the rules, not only work the locks.
 
-[Picture — Access control — the governed door]
+In your mind's eye: access control — the governed door.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Grade 8's image chapter ends with the professional's free tool. GIMP edits raste
 
 **GIMP** (GNU Image Manipulation Program) is a **free raster image editor**: it works on images made of **pixels**, changing them dot by dot. Its window gathers the **toolbox** (selection, paint, erase, fill, text and transform tools), the **canvas** where the image stands, and panels for the tool's options, colours and **layers**. Every tool is chosen, given its options (size, hardness, colour), and applied to the canvas — the same choose-set-apply rhythm as Paint's, at professional depth.
 
-[Picture — GIMP — the window and the toolbox]
+In your mind's eye: gIMP — the window and the toolbox.
 
 ## Sub lesson 2 — Layers and practical raster work
 
 GIMP's central idea is the **layer**: the image is a stack of transparent sheets, each holding part of the picture, edited without touching the others — text on its own layer, a pasted photo on another. The practical section drills the raster crafts: **open and crop** a photo, **correct** its colours, **erase and retouch** a flaw, **compose** layers into one picture, and **save** in the working format (keeping layers) versus **export** flat (PNG, JPEG) for use. Layer discipline — name layers, edit the right one — is the practical's real syllabus.
 
-[Picture — Layers and practical raster work]
+In your mind's eye: layers and practical raster work.
 
 ## Say it to your companion
 

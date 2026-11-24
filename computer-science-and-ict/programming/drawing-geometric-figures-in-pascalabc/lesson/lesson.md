@@ -8,13 +8,13 @@ A drawing you can only make by stating numbers: no dragging, no guessing — the
 
 GraphABC opens a **graphics window**: a drawing surface where every point has **coordinates** — its distance across and its distance down from the corner — and every drawing command names the points it needs by their coordinates. A **line** is drawn between two points; a **rectangle** by its opposite corners; a **circle** by its centre and radius. Nothing is dragged with a mouse: the program states the numbers, and the figure appears exactly where the numbers put it — wrong numbers, wrong place, visibly.
 
-[Picture — a graphics window with a coordinate grid, and a line, a rectangle and a circle placed by their numbers]
+In your mind's eye: a graphics window with a coordinate grid, and a line, a rectangle and a circle placed by their numbers.
 
 ## Sub lesson 2 — Building figures from commands
 
 Figures are **built**: a house is a rectangle, a triangle roof and a circle window, drawn by a sequence of commands in an order the programmer chooses. Colour and fill commands dress a figure, and a drawing program can be re-run with changed numbers to move or resize the whole construction — the figure is the numbers, so changing the numbers rebuilds it. This section's tasks are geometric in the school sense — constructions and patterns — which is why the Grade 11 programming part opens here: the screen shows at once whether the program, and the geometry inside it, are right.
 
-[Picture — a house assembled from a rectangle, a triangle and a circle, with the drawing commands listed beside it in order]
+In your mind's eye: a house assembled from a rectangle, a triangle and a circle, with the drawing commands listed beside it in order.
 
 ## Say it to your companion
 

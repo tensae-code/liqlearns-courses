@@ -8,13 +8,13 @@ Unit 1 §1.5 Verification and Validation (§1.5.1 Verification; §1.5.2 Validati
 
 This part of Pakistan (Punjab)'s book teaches **Verification and Validation** — covering: Unit 1 §1.5 Verification and Validation (§1.5.1 Verification; §1.5.2 Validation; pizza and sorting examples). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Verification and Validation]
+In your mind's eye: verification and Validation.
 
 ## Sub lesson 2 — Doing it — Verification and Validation in practice
 
 **Doing it — Verification and Validation in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Verification and Validation in practice]
+In your mind's eye: doing it — Verification and Validation in practice.
 
 ## Say it to your companion
 

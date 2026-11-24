@@ -8,13 +8,13 @@ Grade 12 in Papua New Guinea opens with a powerful idea: build a copy of the thi
 
 A **simulation model** copies **a real system or process** in a simpler form. Its purpose is **to test ideas without risk to the real thing**: a simulation is used **before building or changing the real system**, and testing in a model **costs less and is safer** than testing the real thing — this is why pilots train in simulators, where mistakes harm no one.
 
-[Picture — What a simulation model is for]
+In your mind's eye: what a simulation model is for.
 
 ## Sub lesson 2 — Using a model to try ideas
 
 To use a simulation you **change the inputs and conditions** and **watch the outcomes**. If the outcomes are bad, you change **the design or idea — not the real system**. A model earns its trust by being **checked against the real system it represents**.
 
-[Picture — Using a model to try ideas]
+In your mind's eye: using a model to try ideas.
 
 ## Say it to your companion
 

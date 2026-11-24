@@ -8,13 +8,13 @@ Unit 4 §4.2.3 Nested Loops (the 5×10 number grid; the star triangle pattern)
 
 This part of Pakistan (Punjab)'s book teaches **Nested Loops** — covering: Unit 4 §4.2.3 Nested Loops (the 5×10 number grid; the star triangle pattern). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Nested Loops]
+In your mind's eye: nested Loops.
 
 ## Sub lesson 2 — Doing it — Nested Loops in C in practice
 
 **Doing it — Nested Loops in C in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Nested Loops in C in practice]
+In your mind's eye: doing it — Nested Loops in C in practice.
 
 ## Say it to your companion
 

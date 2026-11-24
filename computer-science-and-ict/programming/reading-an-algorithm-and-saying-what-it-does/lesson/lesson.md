@@ -8,13 +8,13 @@ Other people's algorithms land in front of you all your life. This lesson reads 
 
 Read an unfamiliar algorithm the slow way: note what it asks for at the start (its **inputs**), then follow it line by line with small, easy values, writing down each variable's value as it changes — a **trace**. Note every decision and what makes the algorithm take each branch, and every loop and what makes it stop. The trace is the algorithm thinking out loud; without it, reading is guessing.
 
-[Picture — following an algorithm step by step]
+In your mind's eye: following an algorithm step by step.
 
 ## Sub lesson 2 — Naming the task it performs
 
 With traces done on two or three different inputs, compare what went in with what came out each time: the pattern between input and output **is** the task — 'it adds the numbers from 1 to the number given', 'it finds the largest of the three values'. Say the task in one plain sentence naming the inputs and the result, then test your sentence: run one more value and check the algorithm does exactly what your sentence promises — no more, no less.
 
-[Picture — naming the task it performs]
+In your mind's eye: naming the task it performs.
 
 ## Say it to your companion
 

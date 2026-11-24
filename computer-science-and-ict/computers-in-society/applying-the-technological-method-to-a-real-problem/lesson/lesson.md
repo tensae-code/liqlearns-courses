@@ -8,13 +8,13 @@ A method is only real when it meets a real problem. Papua New Guinea's Grade 12 
 
 **Practical application** means **using the method on a real problem**. The technological method used in the guide has **seven methods (steps)**. It begins by **identifying and stating the problem**, and a brief is written before designing the solution.
 
-[Picture — The technological method in practice]
+In your mind's eye: the technological method in practice.
 
 ## Sub lesson 2 — Carrying a real problem through
 
 The application continues: **designing and planning, then making**, keeping **records that show decisions and results**, and finally **evaluation — after making, against the brief**. If evaluation fails, the method **loops back to improve the design**. The method ends when the solution works and has been evaluated.
 
-[Picture — Carrying a real problem through]
+In your mind's eye: carrying a real problem through.
 
 ## Say it to your companion
 

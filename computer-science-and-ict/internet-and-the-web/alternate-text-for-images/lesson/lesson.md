@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Accessibility Attributes — covering: A
 
 This part of South Sudan's book teaches **Accessibility Attributes** — covering: Accessibility Attributes; Alternate Text. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Accessibility Attributes; Alternate Text. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — accessibility Attributes is part of that chain..
 
-[Picture — Accessibility Attributes]
+In your mind's eye: accessibility Attributes.
 
 ## Sub lesson 2 — Long Description
 
 This part of South Sudan's book teaches **Long Description** — covering: Long Description. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Long Description. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — long Description is part of that chain..
 
-[Picture — Long Description]
+In your mind's eye: long Description.
 
 ## Say it to your companion
 

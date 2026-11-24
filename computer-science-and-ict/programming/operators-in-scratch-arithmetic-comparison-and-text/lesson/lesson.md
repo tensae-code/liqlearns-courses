@@ -8,13 +8,13 @@ A mean is not guessed: add every value, divide by how many there are. Palestine�
 
 Grade 8’s operations lesson lists the kit: **arithmetic + − × ÷**, **remainder**, **rounding** and **square root**; **comparisons** that answer true or false; and **joining text** into one string. Operations **nest inside say blocks**, so a sprite can speak a computed answer, not just a typed one.
 
-[Picture — arithmetic, comparison and joining text]
+In your mind's eye: arithmetic, comparison and joining text.
 
 ## Sub lesson 2 — The arithmetic mean — a sum that accumulates
 
 Grade 9 builds the **arithmetic mean**: a **sum variable accumulates each new value**, a count keeps how many values came, and **mean = sum ÷ count**. The program says the result **joined with words**, and the lesson extends it with a **STOP sprite** that ends the entering of values.
 
-[Picture — the arithmetic mean — a sum that accumulates]
+In your mind's eye: the arithmetic mean — a sum that accumulates.
 
 ## Say it to your companion
 

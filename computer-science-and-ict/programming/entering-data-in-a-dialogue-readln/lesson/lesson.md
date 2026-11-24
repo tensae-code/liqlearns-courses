@@ -8,13 +8,13 @@ A program that only uses its own numbers talks to itself. With readln, the Pasca
 
 **Read** and **readln** take values the user types and put them into variables: `readln(a)` waits until the user types a value and presses Enter, then stores it in a. A program should first **write a prompt** — say what it wants — then read. Without the prompt the screen just waits, and the user cannot know why.
 
-[Picture — Read and readln — input from the keyboard]
+In your mind's eye: read and readln — input from the keyboard.
 
 ## Sub lesson 2 — Dialogue programs
 
 A **dialogue program** alternates: prompt, read, compute, answer. The Grade 9 lesson builds the first full dialogues — read two numbers, print their sum — and every later input in the course, including files, is this same conversation written once instead of every run. Test a dialogue with easy numbers you can check in your head.
 
-[Picture — Dialogue programs]
+In your mind's eye: dialogue programs.
 
 ## Say it to your companion
 

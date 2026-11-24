@@ -8,13 +8,13 @@ An ERD is a picture; a schema is the buildable design. Malaysia's advanced datab
 
 The straight rules come first: every **entity** in the ERD becomes a **table**; every **attribute** of the entity becomes a **column** of that table; the entity's **key attribute** becomes the table's **primary key**. A **multivalued attribute** (a pupil's phone numbers) cannot be a column — it becomes a **table of its own**, holding the key and one value per record. After this step every box and oval of the diagram has a home in the schema, or a stated reason why not.
 
-[Picture — Entities and attributes — the straight mapping]
+In your mind's eye: entities and attributes — the straight mapping.
 
 ## Sub lesson 2 — Relationships — foreign keys and new tables
 
 Relationships map by their **cardinality**. A **one-to-many** relationship is carried by a **foreign key**: the key of the 'one' side is placed as a column in the 'many' side's table (ClassID inside the Pupil table). A **many-to-many** relationship cannot be a single column — it becomes a **new table** holding both sides' keys as its composite key, plus the relationship's own attributes (an Enrolment table: PupilID, SubjectID, mark). Malaysia's check closes the mapping: every relationship in the ERD must be traceable in the schema — as a foreign key or as a table — or the mapping is not finished.
 
-[Picture — Relationships — foreign keys and new tables]
+In your mind's eye: relationships — foreign keys and new tables.
 
 ## Say it to your companion
 

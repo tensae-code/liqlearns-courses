@@ -8,13 +8,13 @@ Unit 5 §5.9 Misuse of Computer Resources (unauthorized access, improper use, il
 
 This part of Pakistan (Punjab)'s book teaches **Misuse of Computer Resources** — covering: Unit 5 §5.9 Misuse of Computer Resources (unauthorized access, improper use, illegal use, interfering with others, altering system files). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Misuse of Computer Resources]
+In your mind's eye: misuse of Computer Resources.
 
 ## Sub lesson 2 — Doing it — Misuse of Computer Resources in practice
 
 **Doing it — Misuse of Computer Resources in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Misuse of Computer Resources in practice]
+In your mind's eye: doing it — Misuse of Computer Resources in practice.
 
 ## Say it to your companion
 

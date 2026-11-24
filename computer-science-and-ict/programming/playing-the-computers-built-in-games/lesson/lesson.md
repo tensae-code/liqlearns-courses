@@ -8,13 +8,13 @@ Before any program is installed, a computer already holds games of its own. Bhut
 
 A computer's **built-in games** are the games installed with the system itself — card games, puzzle games and board games that need no disc and no download. They are opened the same way as any program: from the **Start menu** or the games folder, by name. Class IV meets them in the programming chapter, before Scratch, because a game is a program the pupil can already run: choose it, start it, and the program answers every move.
 
-[Picture — The games that come with the computer]
+In your mind's eye: the games that come with the computer.
 
 ## Sub lesson 2 — Playing well — rules, mouse and care
 
 Every built-in game has **rules** the screen can show, and a score or finish that tells the player how they did. Playing practises real skills: moving and clicking exactly, reading instructions, planning moves ahead. The class care rules still hold while playing — sit well, rest your eyes, and stop at the agreed time: a game is a program you run for a set time, not a place to disappear into.
 
-[Picture — Playing well — rules, mouse and care]
+In your mind's eye: playing well — rules, mouse and care.
 
 ## Say it to your companion
 

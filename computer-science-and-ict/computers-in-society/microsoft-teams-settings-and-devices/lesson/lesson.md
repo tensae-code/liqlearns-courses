@@ -8,13 +8,13 @@ Signed in is not set up. Kuwait's Teams section gives the platform's settings th
 
 On the computer, Teams' **settings** are where the pupil makes the program behave: the profile that classmates see, how notifications arrive, and which **devices** — microphone, speaker and camera — the program will use in a meeting. Kuwait teaches settings as a place you visit deliberately, not a maze you fear: change one thing, see what it does, and know how to change it back.
 
-[Picture — Settings on the computer program]
+In your mind's eye: settings on the computer program.
 
 ## Sub lesson 2 — Settings on the smart-device app
 
 The **smart-device app** carries the same platform in a smaller window: its settings cover the account, notifications on the phone, and the device's own camera and microphone permissions. The lesson's point is sameness with difference — it is the **same account and the same teams** on both, while each device's settings are its own, so a change made on the phone does not silently rewrite the computer.
 
-[Picture — Settings on the smart-device app]
+In your mind's eye: settings on the smart-device app.
 
 ## Say it to your companion
 

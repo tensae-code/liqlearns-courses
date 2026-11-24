@@ -8,7 +8,7 @@ Your group project is finished. The teacher asks: how did you work together, and
 
 The Finnish form is used after the group projects, and it has three moves, done **for each member of the group**. First, **two things they did well** — specific, real things: a script they solved, a test they ran, a moment they helped. Second, **two things that went less well, and what could be done differently** — the honesty half: not blame, but a difficulty named together with a different way for next time. Third, **each member's coding strengths** — the particular thing that person is good at in the group's programming work, named so they know it themselves. Feedback is about **the work**, said plainly and kindly: specific enough to act on, never a judgement of the person. A group that practises this leaves every project knowing more about how it works than the project alone could teach.
 
-[Picture — a picture of the one-page peer feedback form with its three spaces for one group member — two things done well, two things less well and differently next time, and that member's coding strengths]
+In your mind's eye: the one-page peer feedback form with its three spaces for one group member — two things done well, two things less well and differently next time, and that member's coding strengths.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A page of plain HTML text works, but nobody chose how it looks. Libya's Grade 11
 
 Text formatting first fixes **how the words stand**: the **font size**, set for a piece of text so headings stand larger than body text; and the **font styles** — the manners of standing out the chapter teaches, such as **bold** and **italic** — used to mark what matters, not to decorate everything. The rule of the chapter is purpose: size shows **rank** (what is a heading, what is detail), style shows **emphasis** (what the reader must not miss).
 
-[Picture — Size and style — how big, and in what manner]
+In your mind's eye: size and style — how big, and in what manner.
 
 ## Sub lesson 2 — Colour and combining properties — background, font, together
 
 Colour is set in **two places**: the **background colour** of the page, and the **font colour** of the text — a pair that must stay **readable together**, dark text on a light ground or the reverse. The chapter closes by **combining font properties**: size, style and colour set on the **same piece of text at once**, so one heading can be large, bold and coloured in a single instruction. Combining is where formatting becomes design: every property chosen once, together, for one reason.
 
-[Picture — Colour and combining properties — background, font, together]
+In your mind's eye: colour and combining properties — background, font, together.
 
 ## Say it to your companion
 

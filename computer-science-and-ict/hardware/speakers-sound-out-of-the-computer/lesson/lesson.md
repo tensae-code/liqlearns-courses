@@ -8,13 +8,13 @@ Unit 2 §2.4.5 Speaker
 
 This part of Pakistan (Punjab)'s book teaches **Speakers Sound Out of the Computer** — covering: Unit 2 §2.4.5 Speaker. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Speakers Sound Out of the Computer]
+In your mind's eye: speakers Sound Out of the Computer.
 
 ## Sub lesson 2 — Doing it — Speakers Sound Out of the Computer in practice
 
 **Doing it — Speakers Sound Out of the Computer in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Speakers Sound Out of the Computer in practice]
+In your mind's eye: doing it — Speakers Sound Out of the Computer in practice.
 
 ## Say it to your companion
 

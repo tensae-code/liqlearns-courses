@@ -8,13 +8,13 @@ A person with a clipboard visits the river once a month. A sensor in the river r
 
 IoT **data collection** is sensing done **continuously and automatically**: sensors measure on a rhythm, gateways gather, networks carry, and storage fills without a human copying a number. The gains are **scale** (a thousand points, not ten), **rhythm** (nights and storms included), and **immediacy** (a flood is known while it rises). Jordan's book teaches collection as a designed act: the sensor's place, rhythm and range are chosen for the question the data must answer.
 
-[Picture — How IoT collects — continuous, automatic, at scale]
+In your mind's eye: how IoT collects — continuous, automatic, at scale.
 
 ## Sub lesson 2 — Trust — what can poison a collection
 
 Continuous data is not automatically true data. A **misplaced or fouled sensor** lies steadily; a **gap** in transmission hides exactly the storm you needed; **duplicated or mis-timed** readings bend the averages. The collector's crafts are calibration, checking a sensor's stream against a neighbour's, and recording the collection's own story (where, how often, what failed) beside the data — the story that lets a later analyst judge what the numbers may claim.
 
-[Picture — Trust — what can poison a collection]
+In your mind's eye: trust — what can poison a collection.
 
 ## Say it to your companion
 

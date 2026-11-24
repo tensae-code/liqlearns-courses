@@ -8,13 +8,13 @@ Two pupils both say ‘make a fun game’ and build for a week — one ships a q
 
 A **cahier des charges** is the brief a project is built against: the **product** (what game, what kind), the **players** (who it is for), the **required behaviours** (rules, scoring, win/lose, levels), the **limits** (time, tools, content rules), and the **acceptance** — how the studio and its client will judge ‘done’. Fiche 4 gives the video-game project's brief its form, because studios that write it argue once, on paper, instead of at delivery.
 
-[Picture — What a cahier des charges says]
+In your mind's eye: what a cahier des charges says.
 
 ## Sub lesson 2 — Working to the brief
 
 During the build, the brief is the studio's court: scope questions (‘shall we add a second level?’) are answered by reading it, not by enthusiasm; playtest findings are sorted into ‘brief broken’ (must fix) and ‘brief silent’ (studio's choice, or a brief amendment, written and agreed). The delivered game is judged against the delivered brief — a professional mirror the scenario holds up so pupils feel the difference between ‘I like it’ and ‘it meets its charges’.
 
-[Picture — Working to the brief]
+In your mind's eye: working to the brief.
 
 ## Say it to your companion
 

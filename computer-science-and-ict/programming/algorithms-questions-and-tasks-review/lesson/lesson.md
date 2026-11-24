@@ -14,7 +14,7 @@ This is the **review lesson** for the Algorithm unit — the book's own 'questio
 
 **Task set 3 — the shortest path.** On a simple map, compare two routes between the same start and finish and choose the shortest, saying both counts. If a task goes wrong, that task names the lesson to visit again.
 
-[Picture — a picture of a review board with a numbered sequence, a ticked plan, three statement cards marked true false and uncertain, and a map with two routes]
+In your mind's eye: a review board with a numbered sequence, a ticked plan, three statement cards marked true false and uncertain, and a map with two routes.
 
 ## Say it to your companion
 

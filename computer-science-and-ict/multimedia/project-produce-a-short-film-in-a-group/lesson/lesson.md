@@ -8,13 +8,13 @@ Everything in the unit comes together here: your group chooses a topic, research
 
 The group first **researches its topic on the web**, gathering facts worth filming. Everything the group borrows — text, pictures, music — belongs to someone: **intellectual property** must be **respected**, so the group uses what it may use, names its sources, and makes its own material wherever it can.
 
-[Picture — research the topic — and respect intellectual property]
+In your mind's eye: research the topic — and respect intellectual property.
 
 ## Sub lesson 2 — Produce and present the film
 
 Production follows the unit's road: plan (script, storyboard), shoot, build on the Timeline, add text, effects and sound, export. Then the group **presents the film** to its audience and can say how each part was made — the presentation is part of the project, not an extra.
 
-[Picture — produce and present the film]
+In your mind's eye: produce and present the film.
 
 ## Say it to your companion
 

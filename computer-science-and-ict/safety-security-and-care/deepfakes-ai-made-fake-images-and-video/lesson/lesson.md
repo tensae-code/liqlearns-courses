@@ -8,13 +8,13 @@ Egypt's Grade 9 course closes its AI-and-cybersecurity unit with the threat its 
 
 A **deepfake** is media **generated or altered by AI** so that a real, recognisable person appears to say or do something they did not. The face is mapped, the voice is cloned from samples, and the performance is assembled — cheaply, quickly, and well enough to fool a casual viewer, especially in a small, compressed, emotionally charged clip. Its danger is double: a fake can **damage** the person shown — a pupil, a teacher, a public figure — and every real clip becomes deniable, because 'that could be faked' is now always sayable. Egypt teaches deepfakes beside cyber awareness and dangerous games because the defence is the same family: awareness before belief.
 
-[Picture — What a deepfake is — a manufactured performance]
+In your mind's eye: what a deepfake is — a manufactured performance.
 
 ## Sub lesson 2 — The defence — slow down, check sideways, never forward the harm
 
 No single tell is reliable, so the defence is a **routine**, not a spot-the-error game. **Slow down**: the fake wants your first emotion — outrage, delight, shame — because emotion forwards. **Check sideways**: does any independent, trustworthy source carry the same event; what does the shown person's own channel say? **Look at the source, not just the clip**: who posted it, when, and what else do they post? And the citizen's rule that Egypt's digital-responsibility lessons build toward: **never forward** a damaging clip of a real person you have not verified — forwarding is publishing, and the harm is done by the forwarders, not only by the maker.
 
-[Picture — The defence — slow down, check sideways, never forward the harm]
+In your mind's eye: the defence — slow down, check sideways, never forward the harm.
 
 ## Say it to your companion
 

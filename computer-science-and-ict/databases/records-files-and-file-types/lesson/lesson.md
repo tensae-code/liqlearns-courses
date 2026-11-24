@@ -8,13 +8,13 @@ Chapter 1 §1.2 Traditional File System (record and file; file types by use — 
 
 This part of Pakistan (Punjab)'s book teaches **Traditional File System** — covering: Chapter 1 §1.2 Traditional File System (record and file; file types by use — master, transaction, backup; by function — program files and data files and their extensions; file organization — sequential, direct/random, indexed sequential). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Traditional File System]
+In your mind's eye: traditional File System.
 
 ## Sub lesson 2 — Doing it — Records Files and File Types in practice
 
 **Doing it — Records Files and File Types in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Records Files and File Types in practice]
+In your mind's eye: doing it — Records Files and File Types in practice.
 
 ## Say it to your companion
 

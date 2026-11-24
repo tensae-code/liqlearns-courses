@@ -12,7 +12,7 @@ People store information in their **memory**. Your memory keeps your name, your 
 
 So people also store information on **carriers** — things outside the body that carry information and keep it: **paper** and **books** carry written words and pictures, a **photograph** carries the look of a moment, a drawing carries what a place looked like. A carrier can be kept, shown to others, and read long after. Later in this course, the computer will appear as another carrier of information — but paper, books and memory come first.
 
-[Picture — a picture of a child remembering a friend's face in a thought bubble, beside a book, a sheet of paper and a photograph on a table]
+In your mind's eye: a child remembering a friend's face in a thought bubble, beside a book, a sheet of paper and a photograph on a table.
 
 ## Say it to your companion
 

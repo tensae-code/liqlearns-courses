@@ -8,13 +8,13 @@ Egypt's Grade 5 internet unit sends its pupils on a named journey: Lesson 5, My 
 
 Information is **reliable** when a searcher can safely build on it: it is **true**, it is **current** enough for the question, and it comes from a source that **knows and can be checked**. The journey metaphor is exact — a search rarely arrives in one step; the pupil moves from result to result, comparing, the way a traveller checks signs at each junction. Egypt teaches this to ten-year-olds because their searching is already real: homework, health, news from home. The opposite of reliable is not always a lie — stale pages, guesses dressed as facts, and one person's opinion repeated a hundred times all fail the same test.
 
-[Picture — Reliable — what the word promises]
+In your mind's eye: reliable — what the word promises.
 
 ## Sub lesson 2 — The young searcher's checks — source, agreement, date
 
 Three checks carry the lesson. **Source**: who published this, and would they know — a ministry, a museum, a named expert outrank an unnamed page copying others. **Agreement**: does another, independent source say the same — one page is a claim, two independent pages are evidence. **Date**: when was it made or updated, and does the question need newer? A pupil who runs these three checks on everything they use has the whole skill in seed; every later research lesson in this course — reports from web research, bibliographic managers — is these three checks grown up. Egypt's own way is to make it a journey with a companionable tone, because the habit, not the warning, is the lesson.
 
-[Picture — The young searcher's checks — source, agreement, date]
+In your mind's eye: the young searcher's checks — source, agreement, date.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Think of a school quiz: it must add up your score (arithmetic) and decide whethe
 
 Skills separately learned must learn to work together. In **"На училище" (At School)**, the book's double lesson builds a school-themed Scratch work where **arithmetic operations** compute — scores, counts, totals — and **logical operations** decide — comparisons joined by and, or, not feeding branching blocks. The project rhythm is the one the book has used all along: plan what the program must compute and what it must decide, build the computing part and check its numbers, build the deciding part and check both its answers, then join them. A project that computes right but decides wrong — or the reverse — is half proved, and this lesson teaches checking the two halves separately before trusting the whole.
 
-[Picture — a picture of a picture of a school-themed Scratch scene — a quiz on the stage — with arithmetic blocks adding a score on one side and a branching block deciding pass or retry on the other]
+In your mind's eye: a picture of a school-themed Scratch scene — a quiz on the stage. With arithmetic blocks adding a score on one side and a branching block deciding pass or retry on the other.
 
 ## Say it to your companion
 

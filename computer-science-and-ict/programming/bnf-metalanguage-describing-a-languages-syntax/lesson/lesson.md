@@ -8,13 +8,13 @@ Grade 10's programming becomes formal. Before the languages' own rules can be st
 
 A **metalanguage** is a language used to describe another language. **BNF (Backus–Naur Form)** is the standard metalanguage for syntax: it defines each construction of the language by a **production** — a name, the sign **::=** ('is defined as'), and its definition. The names being defined, written in **angle brackets** like <identifier>, are **nonterminals** — constructions that unfold further; the language's own symbols in a definition are **terminals** — they stand as themselves.
 
-[Picture — A language about languages — the metalanguage]
+In your mind's eye: a language about languages — the metalanguage.
 
 ## Sub lesson 2 — Alternatives and repetition — reading a production
 
 A definition may offer **alternatives**, separated by **|**: <digit> ::= 0 | 1 | … | 9. Reading BNF is unfolding: start from a nonterminal, replace it by one of its alternatives, and continue until only terminals remain — a legal text of the described language. <identifier> ::= <letter> | <identifier> <letter> | <identifier> <digit> unfolds letter by letter into names of any length: the production is **recursive**, and recursion here is what lets a finite grammar describe infinitely many texts.
 
-[Picture — Alternatives and repetition — reading a production]
+In your mind's eye: alternatives and repetition — reading a production.
 
 ## Say it to your companion
 

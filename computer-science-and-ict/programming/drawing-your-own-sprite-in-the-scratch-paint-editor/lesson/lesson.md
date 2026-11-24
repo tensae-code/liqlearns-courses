@@ -8,13 +8,13 @@ The library has no traffic light. So Grade 8 draws one — then copies it three 
 
 In the **paint editor** a **new sprite is drawn** with the paint tools, shape by shape. The book’s worked drawing is a **traffic-light sprite**: drawn once, then **duplicated into three costumes** and **coloured red, orange and green** — one drawing, three working lights.
 
-[Picture — drawing a new sprite — the traffic light]
+In your mind's eye: drawing a new sprite — the traffic light.
 
 ## Sub lesson 2 — Editing, flipping, and sprites that talk
 
 Grade 9’s painter lesson completes the skill: **flipping** a drawing to face the other way, **editing a library costume** instead of starting from nothing, and **adding a new costume** to a sprite that already has some. The drawn sprites join the program like library sprites — the traffic light’s sprites **communicate by message**.
 
-[Picture — editing, flipping, and sprites that talk]
+In your mind's eye: editing, flipping, and sprites that talk.
 
 ## Say it to your companion
 

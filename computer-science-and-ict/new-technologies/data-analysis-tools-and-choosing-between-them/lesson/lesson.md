@@ -8,13 +8,13 @@ Notebook, spreadsheet, Python, a statistics package, a BI dashboard: the analyst
 
 Jordan's shelf: the **spreadsheet** (Excel — quick, visual, everyone's; weakens as data grows and steps multiply), **Python** with its libraries (strong at scale, repeatable, automated; demands programming), **statistical packages** (deep ready-made statistics), and **visual/BI tools** (dashboards and drag-and-drop analysis for non-programmers). No tool is 'the best'; each is a trade among the next sub lesson's grounds, and professional analysts keep several and pass work between them.
 
-[Picture — The tool shelf]
+In your mind's eye: the tool shelf.
 
 ## Sub lesson 2 — Choosing — the trade-offs
 
 The choice weighs: **data size** (a million rows expels the spreadsheet), **repeatability** (a monthly report wants code, not clicks), **the analysis's depth** (a ready test in a package against building it yourself), **the audience** (a dashboard they can touch against a table they cannot), **cost and availability**, and **the analyst's own skill** — honestly counted. Jordan's phrase is trading off: every gain is bought with a named loss, and the chooser who cannot name the loss has not yet chosen.
 
-[Picture — Choosing — the trade-offs]
+In your mind's eye: choosing — the trade-offs.
 
 ## Say it to your companion
 

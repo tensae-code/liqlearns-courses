@@ -8,13 +8,13 @@ Chapter 10 §10.1.3 Field-width Specifier (formatting integers — %4d right-jus
 
 This part of Pakistan (Punjab)'s book teaches **Field-width Specifier** — covering: Chapter 10 §10.1.3 Field-width Specifier (formatting integers — %4d right-justified; formatting floating point numbers — %m.nf, rounding). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Field-width Specifier]
+In your mind's eye: field-width Specifier.
 
 ## Sub lesson 2 — Doing it — Field Width and Formatting Numbers in Printf in practice
 
 **Doing it — Field Width and Formatting Numbers in Printf in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Field Width and Formatting Numbers in Printf in practice]
+In your mind's eye: doing it — Field Width and Formatting Numbers in Printf in practice.
 
 ## Say it to your companion
 

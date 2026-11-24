@@ -8,13 +8,13 @@ The data is in, the queries work — now the head teacher wants the term's lists
 
 Tables hold data, queries find it, forms enter it — a **report** presents it. A report takes records (from a table, or better, from a **query** that already chose them) and lays them out as a **document**: a title, headings, the records in a chosen order, often **grouped** — all the members of one class together, all the sales of one month together — with group and final **totals** where amounts are involved. The report is made for a reader who will never open the database.
 
-[Picture — a database table turning into a printed page with a title, grouped lists and a total at the foot]
+In your mind's eye: a database table turning into a printed page with a title, grouped lists and a total at the foot.
 
 ## Sub lesson 2 — Creating a report
 
 **Creating** one means choosing the source records, the fields to show, the grouping and order, and the layout — usually starting from the program's report-building help and then adjusting. A report is a **view, not a copy**: it holds no data of its own, so printing it again tomorrow shows tomorrow's data in the same arrangement. If the arrangement is wrong — ungrouped when the reader thinks in groups, unordered when the reader scans by name — the report fails even with perfect data, because its whole job is to be read.
 
-[Picture — the same report printed twice on different days, with changed numbers inside an unchanged layout]
+In your mind's eye: the same report printed twice on different days, with changed numbers inside an unchanged layout.
 
 ## Say it to your companion
 

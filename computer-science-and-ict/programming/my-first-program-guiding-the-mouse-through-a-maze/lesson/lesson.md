@@ -8,13 +8,13 @@ The mouse must reach the cheese, and the walls do not forgive a wrong turn. Mold
 
 The program is written in **arrows**: each arrow is one instruction — move one square forward in the arrow's direction. The arrows are laid **in a row, in order**, and the mouse will follow them exactly as laid: first the first, then the second, to the last. Writing the program means **planning the whole road before moving**: look at the maze, find the path from start to cheese, and only then lay the arrows. A program is thought first and run second.
 
-[Picture — Arrow instructions — the program's words]
+In your mind's eye: arrow instructions — the program's words.
 
 ## Sub lesson 2 — Running the program — and the guided stages
 
 To **run** the program, the mouse walks it: read the first arrow, move; read the next, move — until the last arrow or a wall stops the walk. The book then moves the same skill onto the screen in **guided online stages**: the same arrow programs, slightly harder mazes, each stage checking the walk at once. Whether on paper or on screen, the discipline is one: plan, write, run, and when the mouse hits a wall, the program — not the mouse — is wrong.
 
-[Picture — Running the program — and the guided stages]
+In your mind's eye: running the program — and the guided stages.
 
 ## Say it to your companion
 

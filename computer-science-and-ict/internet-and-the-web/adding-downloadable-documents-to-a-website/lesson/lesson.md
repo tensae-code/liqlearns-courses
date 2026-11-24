@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Add Downloadable Documents — covering:
 
 This part of South Sudan's book teaches **Add Downloadable Documents** — covering: Add Downloadable Documents; Step 1: Make the file ready for the Web. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Add Downloadable Documents; Step 1: Make the file ready for the Web. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — add Downloadable Documents is part of that chain..
 
-[Picture — Add Downloadable Documents]
+In your mind's eye: add Downloadable Documents.
 
 ## Sub lesson 2 — Step 2: Place document within local site files
 
 This part of South Sudan's book teaches **Step 2: Place document within local site files** — covering: Step 2: Place document within local site files; Step 3: Upload file and link to it. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Step 2: Place document within local site files; Step 3: Upload file and link to it. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — step 2: Place document within local site files is part of that chain..
 
-[Picture — Step 2: Place document within local site files]
+In your mind's eye: step 2. Place document within local site files.
 
 ## Say it to your companion
 

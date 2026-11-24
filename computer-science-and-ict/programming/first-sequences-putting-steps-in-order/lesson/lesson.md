@@ -8,7 +8,7 @@ Act out three steps in order — stand up, turn around, sit down. Now swap the l
 
 A **sequence** is a row of actions done one after another, in order. Bulgaria's Grade 3 book starts programming here, away from the screen, with code.org Course 1 puzzles: a character must reach a goal, and you build the path out of single steps — forward, turn, forward — placed in the right order. Each step is done exactly once, in its turn; nothing is skipped and nothing jumps ahead. If the order is wrong, the character ends in the wrong place, even though every step in the row was a good step. So the first programming skill is not typing or blocks: it is looking at a job, breaking it into steps, and putting the steps in the order that works.
 
-[Picture — a picture of a picture of a character at the start of a short path, with three step cards in a row — forward, turn, forward — and the goal at the end of the path]
+In your mind's eye: a picture of a character at the start of a short path, with three step cards in a row — forward, turn, forward. And the goal at the end of the path.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A phone in a school bag is usually talked about as a problem. Rwanda's S1 teache
 
 The guide's additional content names the phone as a **learning tool**: a learner can **look up information** beyond the textbook, use the phone's **calculator and dictionary**, and **photograph a diagram or note** to study later. For schools with few computers, the phones already in learners' pockets are the **largest computer room the school has** — the guide's point is that the device is present; teaching decides what it is for.
 
-[Picture — The phone as a learning tool]
+In your mind's eye: the phone as a learning tool.
 
 ## Sub lesson 2 — Communication and reach
 
 The guide's second advantage is **reach**: a phone keeps **learners, teachers and parents in contact** — a timetable change, a homework question, a parent reached the same day instead of at term's end. Phones also carry learning **home**: the lesson's material, recorded or photographed, travels with the learner after the school day closes. The advantage is not the phone itself; it is the **connection** the phone keeps open.
 
-[Picture — Communication and reach]
+In your mind's eye: communication and reach.
 
 ## Say it to your companion
 

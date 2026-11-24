@@ -8,13 +8,13 @@ A function is a machine with an in-tray and an out-tray. This lesson is about ex
 
 Each **parameter** declares a **type and a name**; the call's **arguments** must match in **number, type and order**. In C++ the argument's value is **copied** into the parameter (pass by value), so changes the function makes to its parameter do not reach the caller's original variable. The parameter exists only inside the function, for the length of the call.
 
-[Picture — parameters — inputs by copy]
+In your mind's eye: parameters — inputs by copy.
 
 ## Sub lesson 2 — The return value — one output
 
 A function returns **at most one value**, of its declared **return type**, through **return** — which also ends the function at once, even mid-body. The caller may store the value, print it, or use it inside a bigger expression. A **void** function returns nothing and is called for what it **does**, not what it gives. The signature — return type plus parameter list — is the contract every call must honour.
 
-[Picture — the return value — one output]
+In your mind's eye: the return value — one output.
 
 ## Say it to your companion
 

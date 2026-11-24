@@ -8,13 +8,13 @@ A silent project is half a story. Palestine’s Scratch books give every sprite 
 
 The **sound blocks** play a sprite’s clips: **play-sound** starts the clip and the script runs on, while **play-sound until done** holds the script until the clip finishes — the difference the Grade 6 book makes pupils compare directly. Sounds belong to sprites: **each sprite has its own sound**, and sounds can be **repeated with loops and waits** in Grade 7’s telling.
 
-[Picture — play-sound and play-until-done — each sprite’s own sounds]
+In your mind's eye: play-sound and play-until-done — each sprite’s own sounds.
 
 ## Sub lesson 2 — Where sounds come from — library, recordings, your own voice
 
 Grade 8 names the **three sources**: the **sound library of about 240 sounds**, **external recordings** brought in from outside, and **recording your own voice**. Choosing the source is part of the making: a library clip for a quick effect, your own voice when only your voice says it right.
 
-[Picture — where sounds come from — library, recordings, your own voice]
+In your mind's eye: where sounds come from — library, recordings, your own voice.
 
 ## Say it to your companion
 

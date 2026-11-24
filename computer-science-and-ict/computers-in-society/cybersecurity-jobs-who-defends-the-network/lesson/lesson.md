@@ -8,13 +8,13 @@ Security lessons name attacks and defences; this one names the defenders. Kuwait
 
 Cyber security is worked by a **team of named jobs**: analysts who watch the network's traffic and logs for the signs of attack; engineers who build and maintain the defences — firewalls, accounts, updates; and testers who attack their own organisation's systems, with permission, to find the holes before criminals do. Kuwait teaches the jobs inside the security unit so the defences stop being magic: every control in the earlier themes is somebody's daily work.
 
-[Picture — The defending jobs — a team, not a hero]
+In your mind's eye: the defending jobs — a team, not a hero.
 
 ## Sub lesson 2 — The incident responder — the job when the alarm is real
 
 The **incident responder** is the job for the worst day: when an attack is real and running, the responder leads the answer — confirming what is happening, containing the damage, driving the attacker out, and restoring the systems, then writing what happened so it cannot happen the same way twice. The responder works under pressure with the whole organisation waiting, which is why the job asks for both technical depth and calm — the unit's ethics theme in human form.
 
-[Picture — The incident responder — the job when the alarm is real]
+In your mind's eye: the incident responder — the job when the alarm is real.
 
 ## Say it to your companion
 

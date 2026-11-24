@@ -8,13 +8,13 @@ Why does one photo look rich and print huge while another looks flat and grainy?
 
 **Colour depth** is the number of **bits per pixel** — how many different colours one pixel can choose from. 1 bit gives 2 colours (black or white); 8 bits give 256 colours; 24 bits give about 16.7 million colours, more shades than the eye separates. More bits per pixel means smoother shading and richer colour — higher quality — and, because every pixel carries more bits, a bigger data size for the same grid.
 
-[Picture — Colour depth — how many colours a pixel can be]
+In your mind's eye: colour depth — how many colours a pixel can be.
 
 ## Sub lesson 2 — Resolution — how fine the grid is
 
 **Resolution** is how many pixels the image has — its grid's fineness (and, when printed, pixels per inch). A finer grid shows sharper edges and smaller detail: higher quality again — and again more data, because there are more pixels to store. Malaysia's relation joins the two: **quality, colour depth, resolution and size rise together**. A maker chooses the balance the purpose needs — screen images can be lighter; print and archive work pays for both numbers to be high.
 
-[Picture — Resolution — how fine the grid is]
+In your mind's eye: resolution — how fine the grid is.
 
 ## Say it to your companion
 

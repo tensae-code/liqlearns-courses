@@ -8,13 +8,13 @@ Lessons give parts; this one gives wholes. Given a place and a problem, design t
 
 A practical design proceeds in order: **name the problem and its measures** (what will count as success), **choose the sensing** (what, where, how often), **choose the architecture and scenarios** (star or mesh; device-to-gateway or device-to-cloud), **plan security and failure** (what is protected, what happens when a link dies), and **plan the data** (its journey, storage and use). Skipping the first step is the classic fault: networks built beautifully for the wrong problem.
 
-[Picture — The design act — from problem to plan]
+In your mind's eye: the design act — from problem to plan.
 
 ## Sub lesson 2 — Worked applications — designs that differ
 
 Jordan's applications differ because their grounds differ: a **smart home** (short range, mains power, comfort and safety), a **greenhouse** (moisture rhythms, a gateway in a shed, alerts that must arrive), a **city service** (hundreds of points, public data, stubborn reliability). Comparing worked designs teaches the unit's deepest point: there is no standard IoT network, only standard questions — the design is the set of answers one ground demands.
 
-[Picture — Worked applications — designs that differ]
+In your mind's eye: worked applications — designs that differ.
 
 ## Say it to your companion
 

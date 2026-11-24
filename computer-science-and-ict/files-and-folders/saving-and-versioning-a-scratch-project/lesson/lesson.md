@@ -8,7 +8,7 @@ An afternoon's maze game is on the screen, better than anything you have built. 
 
 The teacher guide's notes give two saving routes. With a **Scratch account** and a signed-in session, Scratch **saves automatically** to the account as you work — the project waits for you online next time. Without that, the deliberate route is **File > Save to your computer**, which puts a copy of the project file on the machine itself, yours to keep, move and back up. Growers need one more habit on top of either route: **named versions**. Before a big change, save the project under a name that marks its stage (the maze with one level, the maze with enemies), then change the working copy. If the big change spoils the game, the last good version still exists untouched — an afternoon is never lost to one risky experiment.
 
-[Picture — a picture of a Scratch File menu open at Save to your computer, beside a row of named project versions — Maze v1 one level, Maze v2 enemies, Maze v3 music]
+In your mind's eye: a Scratch File menu open at Save to your computer, beside a row of named project versions — Maze v1 one level, Maze v2 enemies, Maze v3 music.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ From blocks to text — the transition from visual block programming (Scratch an
 
 A block program and a text program are the same thought in two spellings. Indonesia's Grade 9 chapter on the transition (transisi dari pemrograman visual blok ke pemrograman tekstual) names what does **not** change: sequence, selection and repetition, variables and procedures — every structure learned in **Scratch** and **Blockly** exists in **C** and **Python** with the same meaning. What changes is the spelling: shapes become **syntax** — words, punctuation and indentation that must be exact, because no palette prevents a malformed block in text; the text simply fails.
 
-[Picture — What changes, what does not]
+In your mind's eye: what changes, what does not.
 
 ## Sub lesson 2 — Crossing well — translate, then write
 
 The crossing is made by **translation first**: take a working block program and rewrite it line by line in text, running both until they agree — the blocks become a known-correct plan for the text. Then write new programs in text directly, keeping the block habits: one structure at a time, names that mean, testing as you go. The chapter closes junior-high programming deliberately: the learner leaves owning the structures twice — once by shape, once by spelling — and the second ownership is the one every later language will ask for.
 
-[Picture — Crossing well — translate, then write]
+In your mind's eye: crossing well — translate, then write.
 
 ## Say it to your companion
 

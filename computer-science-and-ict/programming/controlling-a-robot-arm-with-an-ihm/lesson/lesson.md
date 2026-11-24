@@ -8,13 +8,13 @@ Pick up a cup. Your shoulder rotated, your elbow bent, your wrist turned, your f
 
 A robot arm like the book’s **Braccio** is a chain of joints, and at each joint sits a **servomotor**: a motor that turns to an **angle it is ordered to** and holds that angle against load. Base rotation, shoulder, elbow, wrist, and the gripper that opens and closes — five or six servos, each with its own range, together giving the arm its reach. No servo knows anything about cups: each knows only its angle. The choreography — shoulder to this, elbow to that, then close the gripper — is decided above them, by the **Arduino** board: the embedded microcontroller that receives commands, and drives the servos in sequence and in time, so the arm moves as one creature rather than six twitches. This is the embedded-systems pattern in its purest form: motors as actuators, the board as the brain, angles as the language between them.
 
-[Picture — a robot arm with each joint circled and labelled — base, shoulder, elbow, wrist, gripper — and the Arduino board drawn at its foot with wires to every servo]
+In your mind's eye: a robot arm with each joint circled and labelled — base, shoulder, elbow, wrist, gripper. And the Arduino board drawn at its foot with wires to every servo.
 
 ## Sub lesson 2 — The Python interface that drives it
 
 The human’s place in the loop is the **HMI — the human–machine interface** (in French, IHM). In the book’s build it is a **Python** window made with **Tkinter**: a slider or buttons for each joint, showing its current angle. The user drags the elbow slider; the program sends the new target **over the serial link** (the USB cable, used as a serial connection) to the Arduino; the board drives that servo; the arm bends. Command by command, the user composes a grip: approach, align, close, lift. The interface is not decoration — it is the half of the system where judgement lives, because this arm has no eyes: the human sees the cup, judges the angles, and corrects. Automate the sequence later if you wish — record the angles of a successful grip and replay them — but the book’s order is the honest one: first a human driving through an interface, understanding every stage a command crosses: mouse, window, serial link, board, servo, joint.
 
-[Picture — the chain drawn left to right: a hand on a slider, the Python window, the USB cable, the Arduino, the arm bending — one arrow per stage]
+In your mind's eye: the chain drawn left to right: a hand on a slider, the Python window, the USB cable, the Arduino, the arm bending — one arrow per stage.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Owning a copy of a program is not owning the program. What you may do with softw
 
 A **software licence** is the maker's **written permission** saying what a user may do with a program: install it, on how many machines, copy it, give it away, change it. Using software **outside** its licence is **piracy**, whatever the copy cost. Every type in this lesson is a different answer to the same four questions: **What does it cost? May I copy and share it? May I see and change how it works? For how long may I use it?**
 
-[Picture — The licence — permission, written in advance]
+In your mind's eye: the licence — permission, written in advance.
 
 ## Sub lesson 2 — The types — commercial, free, open-source, trial
 
 **Commercial** software is **sold**: the licence is bought, copying and sharing are forbidden. **Free** software is given at **no cost**, usable without payment, on its maker's terms. **Open-source** software adds the deeper freedom: its **source code is open** to study and change, and changed versions may be shared under the licence's terms. **Trial** software (shareware) is given to **try for a limited time or with limits**, after which the full licence must be bought. The four stand on one line: from the tightest permission to the most open — and a user who can name a program's type knows their rights in it before they install it.
 
-[Picture — The types — commercial, free, open-source, trial]
+In your mind's eye: the types — commercial, free, open-source, trial.
 
 ## Say it to your companion
 

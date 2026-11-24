@@ -8,13 +8,13 @@ One key, held or locked, changes what every letter key says. In this lesson Shif
 
 Hold **Shift** while pressing a letter and that one letter comes out **capital** — for the **first letter of a sentence**, and for **names and countries**, which always begin with a capital in English. Press **Caps Lock** and every letter is capital until you press it again — right for a whole word or line of capitals, wrong for ordinary sentences.
 
-[Picture — capitals in english — shift for one, caps lock for many]
+In your mind's eye: capitals in english — shift for one, caps lock for many.
 
 ## Sub lesson 2 — Shift in Arabic — the hamza and punctuation
 
 In Arabic typing, **Shift** reaches the forms printed above the keys — above all the **hamza** form **أ** (alif with hamza above), typed with Shift where the plain key gives the bare letter. Shift likewise types the **full stop and the comma** where they sit as upper forms — the punctuation that ends and divides Arabic sentences.
 
-[Picture — shift in arabic — the hamza and punctuation]
+In your mind's eye: shift in arabic — the hamza and punctuation.
 
 ## Say it to your companion
 

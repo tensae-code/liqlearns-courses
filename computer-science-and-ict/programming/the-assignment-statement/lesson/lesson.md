@@ -8,13 +8,13 @@ Write this on paper: score = 10. You have not written an equals sign from maths 
 
 The **assignment statement** is the statement that **puts a value into a variable**: the variable's name goes on one side, the value on the other, and when the statement runs, the variable holds that value. It follows the book's lessons on constants and variables and on input and output: a variable that holds nothing is of no use until a value is assigned to it.
 
-[Picture — Assignment puts a value into a variable]
+In your mind's eye: assignment puts a value into a variable.
 
 ## Sub lesson 2 — Assignment is not equality
 
 Assignment is an **action, not an equality**: the computer works out the value on the right side and stores it in the variable on the left, replacing what was there before. Writing x = x + 1 is nonsense as maths equality but a normal assignment — it takes x's old value, adds 1, and stores the result back into x.
 
-[Picture — Assignment is not equality]
+In your mind's eye: assignment is not equality.
 
 ## Say it to your companion
 

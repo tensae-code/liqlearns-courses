@@ -8,13 +8,13 @@ A classroom is not fair when only some learners can read the page. Fiji's Years 
 
 For a learner who is **blind or sees little**, the computer speaks and touches back: a **Braille keyboard** and Braille display turn the screen's words into touch; **screen-reading and magnification** turn print into speech or into print large enough to read. For a learner who **hears little**, the computer shows what others hear — captions, written instructions, visual signals. Fiji names the Braille keyboard itself: in its schools this is not theory but the equipment list of an inclusive classroom.
 
-[Picture — Help for learners who cannot see or hear well]
+In your mind's eye: help for learners who cannot see or hear well.
 
 ## Sub lesson 2 — Help for learners who learn differently — tutorials and patience of the machine
 
 The book's second help is the **tutorial program**: lessons on the computer that a learner can take **at their own pace**, repeating without embarrassment, with the machine patient at the tenth try as at the first. For learners whose bodies make writing hard, the computer also takes dictation and works by switch or touch. Fiji's point for the whole class: these are not favours — they are how the same lesson reaches every learner, and the learners who use them are doing the same work as everyone else.
 
-[Picture — Help for learners who learn differently — tutorials and patience of the machine]
+In your mind's eye: help for learners who learn differently — tutorials and patience of the machine.
 
 ## Say it to your companion
 

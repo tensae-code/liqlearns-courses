@@ -8,7 +8,7 @@ Lay out the year: sequences, Scratch, loops, dialogue, projects, branching, vari
 
 Both Bulgaria books end their programming with a closing **"Знам и мога. Преговор и обобщение" — I know and I can: review and summary**. In Grade 3 (Урок 32) it proves the whole year: sequences and loops from code.org, the Scratch environment, movement, pen drawing, positioning, stage and backdrops, sprites and costumes, sound, speech and dialogue, animation and project work. In Grade 4 (Урок 24) the same-named closing review proves that book's Scratch work — branching, operators, variables and synchronised sprites — before its game and journey projects. One lesson stocks both placements because the thing is the same: a final, honest proving of the course so far, where anything not yet proved is named and practised, and the summary gathers the year into a single "I know and I can" that the learner has earned.
 
-[Picture — a picture of a picture of a full-year map — sequence, Scratch, dialogue, project, branching, variables, robot — with a learner standing at the end holding a flag that reads "I know and I can"]
+In your mind's eye: a picture of a full-year map — sequence, Scratch, dialogue, project, branching, variables, robot. With a learner standing at the end holding a flag that reads "I know and I can".
 
 ## Say it to your companion
 

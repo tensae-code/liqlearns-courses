@@ -8,7 +8,7 @@ Watch a scene of a forest with seaside sounds and a bedroom picture: everything 
 
 This double lesson joins two finishing skills. **Choosing a sound**: the Scratch sound gallery holds many sounds, and the craft is picking the one that **fits the moment** — a pop for a balloon, a cheer for a goal — and testing it in the scene, not just in the gallery. **Changing the backdrop**: when the story moves to a new place, the backdrop changes with it, at the right moment, so place and action agree. Together they are the polish of every earlier project: the right sound at the right second, the right place behind the right action. The learner practises judging fit — trying a sound, rejecting it, choosing better — which is real multimedia judgement, not just block knowledge.
 
-[Picture — a picture of a picture of a Scratch scene with the sound gallery open on one side and two backdrop thumbnails on the other, one sound and one backdrop ringed as the fitting choices]
+In your mind's eye: a picture of a Scratch scene with the sound gallery open on one side and two backdrop thumbnails on the other, one sound and one backdrop ringed as the fitting choices.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Chapter 3 §3.3.2 Physical Database Design (data volume and usage analysis; dist
 
 This part of Pakistan (Punjab)'s book teaches **Physical Database Design** — covering: Chapter 3 §3.3.2 Physical Database Design (data volume and usage analysis; distribution strategies — centralized, partitioned, replicated, hybrid; file organization; indexes; integrity constraints) and §3.4 Implementation (NADRA and CRICKINFO as distributed-database examples). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Physical Database Design]
+In your mind's eye: physical Database Design.
 
 ## Sub lesson 2 — Doing it — Physical Design and Data Distribution Strategies in practice
 
 **Doing it — Physical Design and Data Distribution Strategies in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Physical Design and Data Distribution Strategies in practice]
+In your mind's eye: doing it — Physical Design and Data Distribution Strategies in practice.
 
 ## Say it to your companion
 

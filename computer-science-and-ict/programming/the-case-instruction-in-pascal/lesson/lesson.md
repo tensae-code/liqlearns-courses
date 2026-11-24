@@ -8,13 +8,13 @@ Some choices are not two-way. A mark is 1, 2, 3, 4 or 5; a month has twelve name
 
 The **case** instruction begins with a **selector** — an expression of ordinal type — and lists **labels**: `case n of 1: writeln('one'); 2: writeln('two'); else writeln('other') end;`. The selector is evaluated **once**; the branch whose label equals its value executes; the optional **else** catches every unlisted value. Labels may be single values, lists (1, 3, 5:) or ranges (1..5:). Without else and with an unlisted value, case does nothing and passes on — a silence the writer must intend.
 
-[Picture — Selector and labels — one value, one branch]
+In your mind's eye: selector and labels — one value, one branch.
 
 ## Sub lesson 2 — case against if-chains — choosing the chooser
 
 A chain of if…else if tests **conditions** one by one, each possibly different; case tests **one value** against a set — clearer when the choice is truly by value, and the compiler can even check the labels for duplicates. C++ spells the same idea **switch**, with break ending each branch — forgetting break lets execution **fall through** into the next branch, switch's classic trap, which Pascal's case does not have. Rule: one value choosing among labelled roads — case; unrelated conditions — the if-chain.
 
-[Picture — case against if-chains — choosing the chooser]
+In your mind's eye: case against if-chains — choosing the chooser.
 
 ## Say it to your companion
 

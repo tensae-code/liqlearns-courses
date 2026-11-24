@@ -8,13 +8,13 @@ The circuits chapter ends with the family that remembers at work: not the lone f
 
 A **register** is a **row of flip-flops holding one word** — 8, 16, 32 or 64 bits kept together, loaded together, read together: the processor's hands, holding the numbers it is working on *now*. A **shift register** adds motion: at each clock pulse its bits **move one place** along the row — the circuit form of the binary multiplication-by-2 the arithmetic lessons met, and the bridge that turns parallel words into serial streams (one bit at a time) for transmission, and back.
 
-[Picture — Registers — a word held in flip-flops]
+In your mind's eye: registers — a word held in flip-flops.
 
 ## Sub lesson 2 — Counters — flip-flops that count
 
 A **counter** is a sequential circuit whose state, advanced by each incoming **pulse**, **counts in binary**: 000, 001, 010, 011… each flip-flop a place, the clock's ticks its input. Counters **divide frequency** (each stage's output pulses at half the rate of the one before), time events, and sequence operations — the machine's patience made of gates. With them the chapter closes its ladder: gates → functions → adders and routers → memory → registers and counters → (next chapter) the whole computer's architecture.
 
-[Picture — Counters — flip-flops that count]
+In your mind's eye: counters — flip-flops that count.
 
 ## Say it to your companion
 

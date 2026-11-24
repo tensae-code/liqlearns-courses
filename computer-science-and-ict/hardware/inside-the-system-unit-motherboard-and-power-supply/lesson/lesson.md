@@ -8,13 +8,13 @@ The system unit's door opens and the inside is not a mystery — it is a board, 
 
 The **motherboard** is the large main board inside the system unit: the **CPU** sits on it, memory plugs into its slots, and its **expansion slots** take extra cards that grow what the machine can do. Its printed pathways carry data, instructions and power between every part — the board is what makes separate parts one computer. A **heat sink** sits on the processor, drawing its heat away into the air.
 
-[Picture — The motherboard — the board everything joins]
+In your mind's eye: the motherboard — the board everything joins.
 
 ## Sub lesson 2 — The power supply — feeding every part
 
 The **power supply** is the unit that takes electricity from the wall and feeds it to every part inside, each at the level it needs. No part works without it: a dead power supply makes a silent, dark machine however healthy the rest is. Class VI teaches it with the board because the two are the system unit's foundation — one joins everything, the other feeds everything.
 
-[Picture — The power supply — feeding every part]
+In your mind's eye: the power supply — feeding every part.
 
 ## Say it to your companion
 

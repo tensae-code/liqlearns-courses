@@ -8,13 +8,13 @@ Chapter 5. Creativity and computer, §16: Figures in the graphics editor
 
 This part of Kazakhstan's book teaches **Creativity and computer, §16: Figures in the graphics editor** — covering: Chapter 5. Creativity and computer, §16: Figures in the graphics editor. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creativity and computer, §16: Figures in the graphics editor]
+In your mind's eye: creativity and computer, §16. Figures in the graphics editor.
 
 ## Sub lesson 2 — Repeating patterns
 
 This part of Kazakhstan's book teaches **Repeating patterns** — covering: §17: Repeating patterns (templates). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Repeating patterns]
+In your mind's eye: repeating patterns.
 
 ## Say it to your companion
 

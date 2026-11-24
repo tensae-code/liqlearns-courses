@@ -8,13 +8,13 @@ Your phone buzzes: a dramatic message, already forwarded many times, begging you
 
 Verification begins with three questions. **Source**: who first said this, and would they know — a named authority, or an unnamed forward of a forward? **Impartiality**: does the message show more than one side, or does it argue like a lawyer for one side only — the Grade 9 book's test of differences between reality and the telling of it. **Agreement**: do independent sources say the same, in their own words? A claim that passes all three has earned forwarding; a claim that fails one gets held, however exciting it is.
 
-[Picture — The checks — source, sides, agreement]
+In your mind's eye: the checks — source, sides, agreement.
 
 ## Sub lesson 2 — Technology that verifies — and the share decision
 
 The Grade 8 book adds the tools: **reverse image search** shows whether a photo is old or from another place; checking the **original date and context** kills most recycled scares; official websites and fact-checking services answer directly. Then comes the decision the whole lesson serves: **share, hold, or correct**. Sharing a verified thing is a service; holding an unchecked thing is a kindness; and sending a correction back along the chain you received from is citizenship — the chain that carried the falsehood can carry its cure.
 
-[Picture — Technology that verifies — and the share decision]
+In your mind's eye: technology that verifies — and the share decision.
 
 ## Say it to your companion
 

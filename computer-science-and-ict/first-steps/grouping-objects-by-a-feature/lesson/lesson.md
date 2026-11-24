@@ -12,7 +12,7 @@ Group by colour: all the red objects in one group, all the blue objects in anoth
 
 Every object in a group must have the chosen feature. If one object in the red group is not red, it is in the wrong group — move it. Checking a group means checking each object against the chosen feature.
 
-[Picture — a picture of mixed toys sorted into two groups: round toys in one ring and square toys in another ring]
+In your mind's eye: mixed toys sorted into two groups. Round toys in one ring and square toys in another ring.
 
 ## Say it to your companion
 

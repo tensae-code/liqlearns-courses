@@ -8,13 +8,13 @@ Your best project is on the screen right now. If the computer blinks, is it stil
 
 To **save** a Scratch project is to write it to a file on the computer. Projects are **kept in their own folder** — one home for all your Scratch work — so projects never scatter among pictures and documents. Save when the project is made, and save again as it grows: the saved file is the project's memory.
 
-[Picture — saving the project — in its own folder]
+In your mind's eye: saving the project — in its own folder.
 
 ## Sub lesson 2 — A name that describes the project
 
 The saved project takes a **name that describes it** — the guide's examples are **"Space"** and **"Football"**: a name that says what the project is, so future-you can pick it from the folder without opening everything. A describing name plus its own folder is the whole system: find it fast, open it, continue it.
 
-[Picture — a name that describes the project]
+In your mind's eye: a name that describes the project.
 
 ## Say it to your companion
 

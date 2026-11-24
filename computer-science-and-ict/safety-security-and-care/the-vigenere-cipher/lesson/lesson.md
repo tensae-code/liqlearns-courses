@@ -8,13 +8,13 @@ Unit 4 §4.3.2.2 Vigenere Cipher (the 26×26 table; encrypting PAKISTAN with key
 
 This part of Pakistan (Punjab)'s book teaches **Vigenere Cipher** — covering: Unit 4 §4.3.2.2 Vigenere Cipher (the 26×26 table; encrypting PAKISTAN with key ZINDABAD). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Vigenere Cipher]
+In your mind's eye: vigenere Cipher.
 
 ## Sub lesson 2 — Doing it — The Vigenere Cipher in practice
 
 **Doing it — The Vigenere Cipher in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — The Vigenere Cipher in practice]
+In your mind's eye: doing it — The Vigenere Cipher in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A table grid is a warehouse; a form is the counter where people are served. In t
 
 Entering data straight into a **table** means working in a grid of rows and columns where it is easy to type into the wrong row or miss a field. A **form** presents **one record at a time**: each field with its label, in a chosen order and layout, with room for the person entering to see the whole record before saving it. The form holds no data of its own — everything typed into it lands in the **underlying table**, and every record the form shows is read from that table.
 
-[Picture — a table grid on one side and its form on the other — one record laid out with labels, like a card]
+In your mind's eye: a table grid on one side and its form on the other — one record laid out with labels, like a card.
 
 ## Sub lesson 2 — Creating and filling a form
 
 **Creating** a form means choosing the table it serves and arranging its fields: which fields appear, in what order, with what labels — by the program's form-building help or by placing fields by hand. **Filling** it is the daily work: move to a new blank record, type each field, and move through records with the navigation controls to view or correct earlier ones. The form is where the database meets people who never need to see a table — a well-made form makes correct entry the easy path.
 
-[Picture — a form with navigation arrows at its foot, moving from record to record like pages]
+In your mind's eye: a form with navigation arrows at its foot, moving from record to record like pages.
 
 ## Say it to your companion
 

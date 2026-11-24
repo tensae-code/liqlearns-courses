@@ -8,13 +8,13 @@ Type a sentence, receive a picture. This lesson looks at what the machine is act
 
 A **generative-AI image model** has been **trained** on huge collections of images paired with text, learning how descriptions and pictures correspond. Given a **prompt** — a written description — it **generates** a new image that fits: subject, style, colours, composition can all be steered by the words. The image is **new**, not fetched: no such photo existed before, which is both the power and the problem.
 
-[Picture — from prompt to picture]
+In your mind's eye: from prompt to picture.
 
 ## Sub lesson 2 — Directing and judging the result
 
 Good results need **precise prompts** (subject + style + setting + details) and **iteration** — generate, judge, sharpen the prompt, repeat. Judge hard: generators famously fumble **hands, written text, and factual details**, and a convincing image can still be a false one. North Macedonia's 2026 book already teaches this in school: the standing rules are to **credit** machine-made work honestly and to respect **copyright and people's likenesses** — a generated picture is a tool's output, not a photograph of reality.
 
-[Picture — directing and judging the result]
+In your mind's eye: directing and judging the result.
 
 ## Say it to your companion
 

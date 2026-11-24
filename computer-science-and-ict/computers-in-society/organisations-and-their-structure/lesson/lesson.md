@@ -8,13 +8,13 @@ Every information system in this year's Laos course serves an organisation — s
 
 An **organisation** is a group of people joined to reach **shared goals** they could not reach alone — a school, a ministry, a factory, a shop. It has people, work to divide, and resources to manage, and it survives only by coordinating all three. Laos opens its information-systems chapter here because a system is never built in the abstract: it is built for this organisation, with these goals, and it succeeds or fails by serving them.
 
-[Picture — What an organisation is]
+In your mind's eye: what an organisation is.
 
 ## Sub lesson 2 — The structure — vertical levels and horizontal functions
 
 An organisation's **structure** arranges it two ways at once. **Vertically**, it stands in **levels**: a top that directs, a middle that manages, and a floor that does the daily work — authority and responsibility step down the levels, and reports step up. **Horizontally**, it divides into **functions or departments** side by side — production, sales, accounts, personnel — each doing one kind of work. The drawing of both together (who stands above whom, and which department does what) is the organisation's chart, and every later lesson in the chapter — levels of decision, types of system — is read off this chart.
 
-[Picture — The structure — vertical levels and horizontal functions]
+In your mind's eye: the structure — vertical levels and horizontal functions.
 
 ## Say it to your companion
 

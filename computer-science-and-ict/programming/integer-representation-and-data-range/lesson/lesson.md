@@ -8,13 +8,13 @@ A type is a box of a fixed size. This lesson is about how big the box is, how ne
 
 With **n bits** a type can hold **2ⁿ different patterns**. An unsigned type spends them all on 0 and positives (8 bits: **0 to 255**); a signed type spends about half on negatives (8 bits: **−128 to 127**). Bigger types widen the range: more bits, astronomically more values. Choosing a type is choosing a range big enough for the job — and no bigger than needed.
 
-[Picture — bits fix the range]
+In your mind's eye: bits fix the range.
 
 ## Sub lesson 2 — Negatives and overflow
 
 Signed integers are stored in **two's complement**, the scheme that lets the same addition circuits work for negative and positive numbers. The danger at the edges is **overflow**: add 1 to the maximum and the value wraps to the minimum — 127 + 1 in a signed byte becomes **−128** — with no error message. Programs that count people, money or measurements must use types whose range the data can never outgrow.
 
-[Picture — negatives and overflow]
+In your mind's eye: negatives and overflow.
 
 ## Say it to your companion
 

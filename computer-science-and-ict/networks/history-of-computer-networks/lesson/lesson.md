@@ -8,13 +8,13 @@ Computer networks began when separate computers were first linked to share expen
 
 Computer networks began when separate computers were first linked to share expensive equipment and data, and grew — through early wide-area networks — into the connected world the learners use today The learner follows the book's short history: the first linked machines, the early networks, and the steps by which networking spread from research centres to schools and homes Because today's network terms — the book's own PAN, LAN, WAN — only make sense against the history that produced them.
 
-[Picture — History of earlier computer networks (within 1.0)]
+In your mind's eye: history of earlier computer networks (within 1.0).
 
 ## Sub lesson 2 — History of computer networks (teaching notes, Activity 1.1)
 
 History of Computer Networks is learned by doing: the learner follows the book's short history: the first linked machines, the early networks, and the steps by which networking spread from research centres to schools and homes The learner follows the book's short history: the first linked machines, the early networks, and the steps by which networking spread from research centres to schools and homes Because today's network terms — the book's own PAN, LAN, WAN — only make sense against the history that produced them.
 
-[Picture — History of computer networks (teaching notes, Activity 1.1)]
+In your mind's eye: history of computer networks (teaching notes, Activity 1.1).
 
 ## Say it to your companion
 

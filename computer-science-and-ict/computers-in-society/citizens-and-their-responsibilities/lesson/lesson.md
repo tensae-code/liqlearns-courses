@@ -8,13 +8,13 @@ Unit 6 §6.1 Citizen and Citizenship
 
 This part of Pakistan (Punjab)'s book teaches **Citizen and Citizenship** — covering: Unit 6 §6.1 Citizen and Citizenship. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Citizen and Citizenship]
+In your mind's eye: citizen and Citizenship.
 
 ## Sub lesson 2 — Doing it — Citizens and Their Responsibilities in practice
 
 **Doing it — Citizens and Their Responsibilities in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Citizens and Their Responsibilities in practice]
+In your mind's eye: doing it — Citizens and Their Responsibilities in practice.
 
 ## Say it to your companion
 

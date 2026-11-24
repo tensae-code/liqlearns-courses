@@ -8,13 +8,13 @@ This part of South Sudan's book teaches How to Decipher Search Engine Results �
 
 This part of South Sudan's book teaches **How to Decipher Search Engine Results** — covering: How to Decipher Search Engine Results. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: How to Decipher Search Engine Results. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — how to Decipher Search Engine Results is part of that chain..
 
-[Picture — How to Decipher Search Engine Results]
+In your mind's eye: how to Decipher Search Engine Results.
 
 ## Sub lesson 2 — Doing it — How to Decipher Search Engine Results in practice
 
 This part of South Sudan's book teaches **Doing it — How to Decipher Search Engine Results in practice** — covering: How to Decipher Search Engine Results. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: How to Decipher Search Engine Results. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — How to Decipher Search Engine Results in practice is part of that chain..
 
-[Picture — Doing it — How to Decipher Search Engine Results in practice]
+In your mind's eye: doing it — How to Decipher Search Engine Results in practice.
 
 ## Say it to your companion
 

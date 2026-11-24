@@ -8,13 +8,13 @@ Visual Basic for Applications — VBA — is the programming language built insi
 
 Visual Basic for Applications — VBA — is the programming language built inside Microsoft Office: it lets a user write small programs, called macros, that make Word, Excel and Access do repeated work automatically The learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run Because Office work is full of repeated steps; a macro records or writes those steps once and repeats them exactly, in a second.
 
-[Picture — Visual Basic for Applications (VBA)]
+In your mind's eye: visual Basic for Applications (VBA).
 
 ## Sub lesson 2 — Inserting VBA code to Excel Workbook
 
 Visual Basic for Applications (VBA) is learned by doing: the learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run The learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run Because Office work is full of repeated steps; a macro records or writes those steps once and repeats them exactly, in a second.
 
-[Picture — Inserting VBA code to Excel Workbook]
+In your mind's eye: inserting VBA code to Excel Workbook.
 
 ## Say it to your companion
 

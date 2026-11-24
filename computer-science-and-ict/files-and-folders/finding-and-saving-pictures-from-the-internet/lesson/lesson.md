@@ -8,13 +8,13 @@ Your Scratch plane needs a runway picture that does not exist on your computer. 
 
 The lesson searches **images filtered by type — still or animated — colour and transparency**, so the runway found is the runway needed: the right kind of picture, in the right colours, with a see-through background where the project needs one. Filtering is the skill: the internet has every picture, and the filters pick yours.
 
-[Picture — searching with filters — type, colour, transparency]
+In your mind's eye: searching with filters — type, colour, transparency.
 
 ## Sub lesson 2 — Save image as — and the GIF that arrives as costumes
 
 The found picture is saved with **“save image as”** into the computer’s files, then brought into Scratch. An **animated GIF arrives as a sprite with many costumes** — one costume per frame — so a downloaded animation is already an animation inside the project. The project lands **a plane on a runway** built this way.
 
-[Picture — save image as — and the GIF that arrives as costumes]
+In your mind's eye: save image as — and the GIF that arrives as costumes.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A value is not just a value — it is a value of a type, and an expression inher
 
 An expression's **type** is determined by its operands and operators together. Arithmetic on **integers** with +, −, * stays **integer**; the same operands under **div or mod** stay integer too, but under **/** the result is **real** — one operator changes the type of the whole. Reals anywhere in an arithmetic expression make the result **real**. The type is not written beside the expression; it is **derived**, by the compiler and by the reader who knows the rules, from the types of the parts.
 
-[Picture — The type follows the operations]
+In your mind's eye: the type follows the operations.
 
 ## Sub lesson 2 — Relations give booleans — and types guard assignments
 
 A **relation** (comparison) takes operands of a matching type and gives a **boolean**: `a + 1 > b` is boolean whatever a and b are. Logical operators (and, or, not) take booleans and give booleans. The type system then guards the exits: assigning a **real expression to an integer variable is an error**, because a fraction cannot honestly enter a whole-number box; assigning integer to real is allowed (whole numbers are reals with empty fractions). Know the type before you assign — that is this section's whole discipline.
 
-[Picture — Relations give booleans — and types guard assignments]
+In your mind's eye: relations give booleans — and types guard assignments.
 
 ## Say it to your companion
 

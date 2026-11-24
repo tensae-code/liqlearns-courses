@@ -8,13 +8,13 @@ No mouse, no keys: wave your hand at the camera, and Ayman’s football moves. G
 
 **Turning the video on** brings the camera’s picture into the project. Scratch then senses **video motion and direction on this sprite** — how much movement the camera sees over the sprite, and which way it moves — and **video transparency** sets how strongly the camera picture shows through the stage.
 
-[Picture — turning the video on — motion and direction]
+In your mind's eye: turning the video on — motion and direction.
 
 ## Sub lesson 2 — Ayman’s football — the ball follows your movement
 
 The lesson’s game is **Ayman’s football**: **the ball follows the camera’s motion towards a drawn goal**, driven by the player’s real movement in the room. **Scoring brings clapping and a new backdrop** — the game celebrates with sound and a changed stage.
 
-[Picture — ayman’s football — the ball follows your movement]
+In your mind's eye: ayman’s football — the ball follows your movement.
 
 ## Say it to your companion
 

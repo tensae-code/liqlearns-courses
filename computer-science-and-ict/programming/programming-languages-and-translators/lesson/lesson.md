@@ -8,13 +8,13 @@ Part 4. Programming solutions, 4.1: Programming languages
 
 This part of Kazakhstan's book teaches **Programming solutions, 4.1: Programming languages** — covering: Part 4. Programming solutions, 4.1: Programming languages. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming solutions, 4.1: Programming languages]
+In your mind's eye: programming solutions, 4.1. Programming languages.
 
 ## Sub lesson 2 — Programming solutions, 4.1: Languages and programming systems
 
 This part of Kazakhstan's book teaches **Programming solutions, 4.1: Languages and programming systems** — covering: Section IV. Programming solutions, 4.1: Languages and programming systems. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming solutions, 4.1: Languages and programming systems]
+In your mind's eye: programming solutions, 4.1. Languages and programming systems.
 
 ## Say it to your companion
 

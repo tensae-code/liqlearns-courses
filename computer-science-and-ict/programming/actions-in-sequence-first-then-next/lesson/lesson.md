@@ -12,7 +12,7 @@ Everyday life is full of sequences. Getting dressed: first underclothes, then sh
 
 The order matters. Some actions can swap places and nothing breaks — but many cannot: you cannot rinse the soap before you put the soap on. When you tell a sequence, say every action, in its order, with nothing skipped. A missing step breaks the sequence just as a wrong order does.
 
-[Picture — a picture of hand-washing in four numbered panels: tap on, wet hands, soap, rinse]
+In your mind's eye: hand-washing in four numbered panels. Tap on, wet hands, soap, rinse.
 
 ## Say it to your companion
 

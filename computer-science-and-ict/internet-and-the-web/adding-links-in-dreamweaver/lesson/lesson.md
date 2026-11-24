@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Adding Links in Dreamweaver — covering
 
 This part of South Sudan's book teaches **Adding Links in Dreamweaver** — covering: Adding Links in Dreamweaver; Point to File. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Links in Dreamweaver; Point to File. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Links in Dreamweaver is part of that chain..
 
-[Picture — Adding Links in Dreamweaver]
+In your mind's eye: adding Links in Dreamweaver.
 
 ## Sub lesson 2 — Browse for File
 
 This part of South Sudan's book teaches **Browse for File** — covering: Browse for File; Drag File from Files Panel. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Browse for File; Drag File from Files Panel. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — browse for File is part of that chain..
 
-[Picture — Browse for File]
+In your mind's eye: browse for File.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ You already tap and swipe a screen without thinking. This lesson looks at three 
 
 A **touch screen** is both output and input: it shows the picture and **senses where a finger (or stylus) touches it**, turning the touch position into a command. Phones, tablets, ticket machines and classroom boards all work this way. Multi-touch reads several fingers at once, which is what makes pinch-to-zoom and two-finger gestures possible.
 
-[Picture — touch — the screen that listens]
+In your mind's eye: touch — the screen that listens.
 
 ## Sub lesson 2 — Holography and 3D projection — pictures with depth
 
 A **hologram** records and rebuilds the light pattern of a real scene, so the image looks **solid from different angles** — you can lean and see around it a little, unlike a flat photo. **3D projection** throws images onto surfaces or into space (projection mapping can wrap a building or a stage object in moving pictures). Both give depth without the viewer wearing a headset, and both are used in medicine, design, museums and entertainment.
 
-[Picture — holography and 3d projection — pictures with depth]
+In your mind's eye: holography and 3d projection — pictures with depth.
 
 ## Say it to your companion
 

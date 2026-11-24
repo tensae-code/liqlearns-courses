@@ -8,13 +8,13 @@ The Grade 7 GIMP course gathers itself into its first real publication: the post
 
 A poster is built as a **stack of layers with jobs**: the background, the images (blended and cut out by the earlier lessons' crafts), the drawn elements, and the text layers on top where reading happens. **Duplicated layers** are the builder's shortcut and safety in one: copy a finished element to repeat it in a pattern, or duplicate a layer before experimenting on it, so the good version survives the trial. A poster's layer panel, read top to bottom, is its recipe.
 
-[Picture — The poster's layers — built, and duplicated]
+In your mind's eye: the poster's layers — built, and duplicated.
 
 ## Sub lesson 2 — Formatted text — the words a poster is read by
 
 A poster's text is **formatted** to be read at a distance and in an order: the **title** largest — the words seen first; the **details** smaller beneath; fonts and colours chosen for contrast against what lies under them. Formatting is the poster's traffic control: it decides what the passer-by reads first, second, and never. Kuwait ends the GIMP basics here because a poster is where design stops being exercises: it will hang in public and be judged by strangers.
 
-[Picture — Formatted text — the words a poster is read by]
+In your mind's eye: formatted text — the words a poster is read by.
 
 ## Say it to your companion
 

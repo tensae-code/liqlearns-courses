@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Quality Work — covering: Quality Work.
 
 This part of South Sudan's book teaches **Quality Work** — covering: Quality Work. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Quality Work. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — quality Work is part of that chain..
 
-[Picture — Quality Work]
+In your mind's eye: quality Work.
 
 ## Sub lesson 2 — Doing it — Quality Work in practice
 
 This part of South Sudan's book teaches **Doing it — Quality Work in practice** — covering: Quality Work. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Quality Work. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Quality Work in practice is part of that chain..
 
-[Picture — Doing it — Quality Work in practice]
+In your mind's eye: doing it — Quality Work in practice.
 
 ## Say it to your companion
 

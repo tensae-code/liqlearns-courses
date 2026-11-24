@@ -8,13 +8,13 @@ A sprite can do more with words than say them. Class VIII's string lesson works 
 
 A **string** is a piece of text — letters, spaces and marks held as one value. Scratch's **join** operator glues two strings into one: join 'Thim' and 'phu' and the result is 'Thimphu'. Joins **nest**: join the result with a third piece, and a sentence is built piece by piece — a name joined with a score, a greeting joined with a name the user typed. What say blocks speak is very often a joined string.
 
-[Picture — Joining and building strings]
+In your mind's eye: joining and building strings.
 
 ## Sub lesson 2 — Letter of and length of — taking strings apart
 
 The same family takes strings apart. **Letter (n) of** a string reports its nth character — letter 1 of 'Bhutan' is 'B' — and **length of** reports how many characters the string holds, spaces counted. With variables and ask blocks these two build real tools: counting the letters in a typed name, checking an answer letter by letter, or reading an initial from a full name.
 
-[Picture — Letter of and length of — taking strings apart]
+In your mind's eye: letter of and length of — taking strings apart.
 
 ## Say it to your companion
 

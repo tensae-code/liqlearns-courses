@@ -8,13 +8,13 @@ Unit 5 §5.1.5 Operators (arithmetic operators incl. MOD; assignment operator; r
 
 This part of Pakistan (Punjab)'s book teaches **Operators Arithmetic Assignment and Relational** — covering: Unit 5 §5.1.5 Operators (arithmetic operators incl. MOD; assignment operator; relational operators). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Operators Arithmetic Assignment and Relational]
+In your mind's eye: operators Arithmetic Assignment and Relational.
 
 ## Sub lesson 2 — Operators: §2.2.1 Assignment Operators
 
 This part of Pakistan (Punjab)'s book teaches **Operators: §2.2.1 Assignment Operators** — covering: Unit 2 §2.2 Operators: §2.2.1 Assignment Operators (with the swap-two-variables program). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Operators: §2.2.1 Assignment Operators]
+In your mind's eye: operators. §2.2.1 Assignment Operators.
 
 ## Say it to your companion
 

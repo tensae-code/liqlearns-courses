@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Creating animation graphics** — covering: §24: Creating animation graphics. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creating animation graphics]
+In your mind's eye: creating animation graphics.
 
 ## Sub lesson 2 — Animating objects and events in the game-programming environment
 
 This part of Kazakhstan's book teaches **Animating objects and events in the game-programming environment** — covering: §25: Animating objects and events in the game-programming environment. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Animating objects and events in the game-programming environment]
+In your mind's eye: animating objects and events in the game-programming environment.
 
 ## Say it to your companion
 

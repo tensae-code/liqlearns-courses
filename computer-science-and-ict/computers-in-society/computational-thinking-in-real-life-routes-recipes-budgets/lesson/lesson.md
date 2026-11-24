@@ -8,13 +8,13 @@ Unit 3, Examples of Computational Thinking in Real Life
 
 This part of Pakistan (Punjab)'s book teaches **, Examples of Computational Thinking in Real Life** — covering: Unit 3, Examples of Computational Thinking in Real Life. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Examples of Computational Thinking in Real Life]
+In your mind's eye: , Examples of Computational Thinking in Real Life.
 
 ## Sub lesson 2 — Doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice
 
 **Doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice]
+In your mind's eye: doing it — Computational Thinking in Real Life Routes Recipes Budgets in practice.
 
 ## Say it to your companion
 

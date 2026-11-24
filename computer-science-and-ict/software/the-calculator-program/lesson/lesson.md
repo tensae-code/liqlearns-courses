@@ -12,7 +12,7 @@ To calculate: open the Calculator program (it opens in its own window on the des
 
 The Calculator does exactly what you press — like the executor in the algorithm lessons. If you press 7 + 5 but meant 7 + 6, it will still answer 12, faithfully. So the careful habits are: say the calculation aloud before pressing, check each number on the screen as you press it, and ask whether the answer makes sense when it appears.
 
-[Picture — a picture of the Calculator program window with the buttons 7, +, 5 and = pressed in order and 12 on its screen]
+In your mind's eye: the Calculator program window with the buttons 7, +, 5 and = pressed in order and 12 on its screen.
 
 ## Say it to your companion
 

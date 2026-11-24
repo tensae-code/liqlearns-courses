@@ -14,7 +14,7 @@ That travelling has a name: **dissemination** — spreading information out so t
 
 People have always spread information: by word of mouth, by printed notices and newspapers, by letters carried from town to town. Those ways still work — but they are slow, and each copy reaches only so far. The modern ways changed the speed and the distance.
 
-[Picture — one source in the middle, with arrows carrying the same notice out to a poster, a radio, a television, a phone message and a website]
+In your mind's eye: one source in the middle, with arrows carrying the same notice out to a poster, a radio, a television, a phone message and a website.
 
 **Radio and television** broadcast one message to a whole country at the same moment — no receiver needs to ask for it first. **Mobile phones** carry messages from person to person and group to group in seconds, and the receivers can answer back at once. **The internet** spreads information through websites, email and social media: a notice posted once can be read anywhere in the world, copied, and passed on again and again. **Email and messaging** carry the same notice straight to named people, wherever they are.
 

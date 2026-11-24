@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Project work "Let's Keep Safety"** — covering: §4: Project work "Let's Keep Safety" — what a project is; making a poster of classroom and Internet safety rules. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Project work "Let's Keep Safety"]
+In your mind's eye: project work "Let's Keep Safety".
 
 ## Sub lesson 2 — , Lesson 27: What a project is
 
 This part of Kazakhstan's book teaches **, Lesson 27: What a project is** — covering: Section VI, Lesson 27: What a project is (stages and kinds of project work). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Lesson 27: What a project is]
+In your mind's eye: , Lesson 27. What a project is.
 
 ## Say it to your companion
 

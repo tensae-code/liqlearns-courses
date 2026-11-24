@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Спрайттар соқтығысуын анықтау** — covering: 5.6 Спрайттар соқтығысуын анықтау. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Спрайттар соқтығысуын анықтау]
+In your mind's eye: спрайттар соқтығысуын анықтау.
 
 ## Sub lesson 2 — Doing it — Detecting Sprite Collisions in practice
 
 **Doing it — Detecting Sprite Collisions in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Detecting Sprite Collisions in practice]
+In your mind's eye: doing it — Detecting Sprite Collisions in practice.
 
 ## Say it to your companion
 

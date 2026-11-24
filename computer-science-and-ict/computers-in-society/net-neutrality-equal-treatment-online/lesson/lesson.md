@@ -10,7 +10,7 @@ Everything you do online travels through one company first: your **internet prov
 
 The rule forbids three things. A provider may not **block** a lawful site or service so its customers cannot reach it. It may not **throttle** — deliberately slow down — some services while others run fast. And it may not sell **paid priority**: fast lanes for companies that pay, leaving everyone else in the slow lane. Under neutrality, what decides how fast a page loads is the network itself and the site's own servers — never a deal between the site and your provider, and never the provider's wish to favour its own services over a rival's.
 
-[Picture — one road carrying two cars, a giant truck and a small bicycle, both moving at the same speed under a sign that reads "same road, same rules"]
+In your mind's eye: one road carrying two cars, a giant truck and a small bicycle, both moving at the same speed under a sign that reads "same road, same rules".
 
 ## Sub lesson 2 — Why it is argued about
 
@@ -18,7 +18,7 @@ Why does the rule matter enough to be written into law in many places? Because o
 
 Providers argue back: they built the roads, video floods them, and the heaviest services should help pay; some say priority could fund cheaper access for everyone. The argument is real, and different countries settle it differently — which is exactly why a citizen who uses the network every day should be able to state both sides. What neutrality protects, in the end, is the position of the person at the end of the line: you, choosing freely among sites that all had the same chance to reach you.
 
-[Picture — a small new site and a giant platform arriving at a reader's screen at the same moment, the reader choosing between them]
+In your mind's eye: a small new site and a giant platform arriving at a reader's screen at the same moment, the reader choosing between them.
 
 ## Say it to your companion
 

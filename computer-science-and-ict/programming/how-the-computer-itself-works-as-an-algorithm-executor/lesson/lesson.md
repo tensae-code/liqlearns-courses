@@ -8,13 +8,13 @@ Grade 8's algorithms chapter closes its executor study with the executor the who
 
 The computer executes a program by a fixed cycle: **fetch** the next instruction from memory, **decode** it (work out which command of its set it is), **execute** it — then fetch the next. The **processor** runs the cycle; the **program counter** keeps the place, pointing at the next instruction, so sequence is kept even as branches and loops redirect it. Billions of cycles per second are still this same three-step round: the fastest executor is, step by step, the simplest.
 
-[Picture — Fetch, decode, execute — the machine's cycle]
+In your mind's eye: fetch, decode, execute — the machine's cycle.
 
 ## Sub lesson 2 — The computer against the other executors
 
 Set beside the chapter's other executors, the computer's marks stand out: its **command set** is small and exact (machine instructions), its **obedience** is total (it does what the instruction says, never what was meant), its **speed and endurance** are inhuman, and its **judgement is zero** — it cannot notice a senseless instruction. That is why the algorithm must be **complete and exact before it runs**: the executor that never tires also never thinks. Every later Pascal lesson is written for this executor's character.
 
-[Picture — The computer against the other executors]
+In your mind's eye: the computer against the other executors.
 
 ## Say it to your companion
 

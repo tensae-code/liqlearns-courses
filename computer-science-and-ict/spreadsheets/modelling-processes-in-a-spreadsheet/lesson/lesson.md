@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Modelling processes in a spreadsheet** — covering: 3.7: Modelling processes in a spreadsheet. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Modelling processes in a spreadsheet]
+In your mind's eye: modelling processes in a spreadsheet.
 
 ## Sub lesson 2 — Modelling processes in a spreadsheet
 
 This part of Kazakhstan's book teaches **Modelling processes in a spreadsheet** — covering: 3.6: Modelling processes in a spreadsheet. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Modelling processes in a spreadsheet]
+In your mind's eye: modelling processes in a spreadsheet.
 
 ## Say it to your companion
 

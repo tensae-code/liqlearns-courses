@@ -8,13 +8,13 @@ The Grade 5 Scratch unit closes with enrichment that turns homeward: the extra b
 
 The enrichment build takes the **landmarks of the State of Kuwait** as its material — the towers and places every pupil knows by sight — and makes them a Scratch scene: backdrops and sprites drawn from home ground, animated with the unit's Motion, Looks, Sound and Pen blocks. The teaching is quiet but deliberate: the same blocks that drew invented worlds draw the pupil's own country, and a program can carry a place's memory as well as a game's score.
 
-[Picture — A build on the landmarks of Kuwait]
+In your mind's eye: a build on the landmarks of Kuwait.
 
 ## Sub lesson 2 — The uses of the robot in our lives
 
 Beside the build, the enrichment names the **uses of the robot in our lives** — the work robots already do around the pupils: in factories, hospitals, homes and exploration. It closes the unit's circle: the year met the robot in its AI lessons, programmed movement in Scratch as if steering one, and ends by surveying the real machines. Enrichment here is not more blocks; it is the blocks' meaning, at home and in the world.
 
-[Picture — The uses of the robot in our lives]
+In your mind's eye: the uses of the robot in our lives.
 
 ## Say it to your companion
 

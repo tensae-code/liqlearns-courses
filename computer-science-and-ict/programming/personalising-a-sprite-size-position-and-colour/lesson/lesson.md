@@ -8,13 +8,13 @@ Two learners add the same library sprite, and their projects already differ — 
 
 Every sprite carries **settings** its maker can change. Its **size** makes it **bigger or smaller** — a near character large, a far one small. Its **position** is **where it stands on the stage**, changed by dragging it to its place or by its position settings, so each character begins the story exactly where the story needs it. Changing size and position does not change what the sprite is — it fits the sprite to its place in the scene, the way an actor takes their mark.
 
-[Picture — size and position — the sprite's settings]
+In your mind's eye: size and position — the sprite's settings.
 
 ## Sub lesson 2 — Colour — personalising in the paint editor
 
 A sprite's **colours** are changed where its look is made: in the **paint editor**, the learner **recolours parts of the costume** — choosing a new colour and applying it to a part — or adjusts the drawing itself, so the character wears the colours its maker chose, not only the library's. Personalising finishes when the sprite on the stage — its size, its place and its colours — is the character the story described, and the learner can say which setting made each difference.
 
-[Picture — colour — personalising in the paint editor]
+In your mind's eye: colour — personalising in the paint editor.
 
 ## Say it to your companion
 

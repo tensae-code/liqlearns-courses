@@ -8,13 +8,13 @@ Your studio has four séances and one deliverable: a game a stranger can play wi
 
 The scenario organises the class as **studios** — small game companies with a product to ship. Everyone's apprenticeship is the **Number Mystery game (jeu du Nombre Mystère)**: the computer ‘thinks’ of a number, the player guesses, the program answers higher/lower until the find. Its first steps are the project's template: state the game's rule in one sentence, list what the program must remember (the secret, the guesses, the count), and sketch the play before any block is touched.
 
-[Picture — Studios, and the Mystery Number]
+In your mind's eye: studios, and the Mystery Number.
 
 ## Sub lesson 2 — From first game to your own game
 
 With the template in hand, each studio designs **its own game** under the scenario's full discipline: natural-language algorithm, Scratch program, a written brief (cahier des charges), playtesting by other studios, and revision — the Nim studios run the same pipeline in expert mode. The project's lesson is industrial, not just technical: a game is finished when **players** say it works, and the road from idea to players is paved with documents, tests and repairs.
 
-[Picture — From first game to your own game]
+In your mind's eye: from first game to your own game.
 
 ## Say it to your companion
 

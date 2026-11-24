@@ -8,13 +8,13 @@ Every MakeCode program needs a frame to hang on. Kuwait's micro:bit ladder begin
 
 **On start** holds the blocks that run **once**, when the program begins: the setting-up — a greeting on the LEDs, a starting value, the first picture. Read it as the program's first sentence: everything in it happens before anything else, and never again. Kuwait begins here because a beginner must be able to point at a program and say what happens first.
 
-[Picture — On start — what runs once, at the waking]
+In your mind's eye: on start — what runs once, at the waking.
 
 ## Sub lesson 2 — Forever — what runs while the board lives, and lighting shapes
 
 **Forever** holds the blocks that run **again and again** for as long as the board is on: the program's heartbeat. Between the two frames, the LED grid becomes a canvas: blocks light chosen LEDs into **shapes** — a heart, a face, an arrow — and a shape inside Forever with pauses becomes simple animation. On start sets the stage once; Forever keeps the show running.
 
-[Picture — Forever — what runs while the board lives, and lighting shapes]
+In your mind's eye: forever — what runs while the board lives, and lighting shapes.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ IT careers and certifications — the professions of informatics and the certifi
 
 Informatics is not one job but a field of **professions**, each with its own work: building systems (programmers, analysts), keeping them alive (network and system administrators, technicians), guarding them (security specialists), and making them useful to people (support, data and media roles). Indonesia's Grade 10 books — general and SMK alike — teach the careers inside the digital-culture chapter, because choosing a direction early shapes which skills a learner builds. The SMK book adds the practitioner's view: professions described by their daily work and their place in a company.
 
-[Picture — The professions — who does what in informatics]
+In your mind's eye: the professions — who does what in informatics.
 
 ## Sub lesson 2 — Certifications — proof a stranger can trust
 
 A **certification** is an examination by a recognised body that a person can do a stated skill to a stated standard — proof that travels: an employer who has never met you can trust the certificate the way a reader trusts a citation. The books set careers beside the **legal side** of informatics (copyright and the profession's rules) on purpose: a professional is skilled, certified where the field asks it, and bound by the field's law and ethics. Certification is not the skill — it is the skill's passport, and it expires, because the field it certifies keeps moving.
 
-[Picture — Certifications — proof a stranger can trust]
+In your mind's eye: certifications — proof a stranger can trust.
 
 ## Say it to your companion
 

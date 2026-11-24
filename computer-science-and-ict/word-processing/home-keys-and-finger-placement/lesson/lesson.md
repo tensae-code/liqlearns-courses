@@ -8,13 +8,13 @@ Papua New Guinea teaches typing as a real, tested skill. Before any speed comes 
 
 The **home keys** are the middle row keys your fingers rest on: **A S D F** for the left hand and **J K L ;** for the right hand. The two **index (pointing) fingers** start on **F and J**, which carry small raised bumps so the fingers can find home **without looking**. The **thumbs rest on the space bar**.
 
-[Picture — The home keys]
+In your mind's eye: the home keys.
 
 ## Sub lesson 2 — Which finger presses which keys
 
 **Each finger owns a column of keys**: the left little finger owns A, the right index finger owns the J column, and so on. After pressing a key away from home, the finger **returns to its home key** at once. Keeping the fingers on the home keys is what makes every key quick and accurate to reach.
 
-[Picture — Which finger presses which keys]
+In your mind's eye: which finger presses which keys.
 
 ## Say it to your companion
 

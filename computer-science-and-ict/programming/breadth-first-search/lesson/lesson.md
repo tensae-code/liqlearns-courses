@@ -10,7 +10,7 @@ Stand at your front door and imagine exploring your streets fairly: first every 
 
 Start with the graph A joined to B and C; B joined to D and E; C joined to F. Search from A. Put A in the queue and mark it visited. Take A from the front; its unvisited neighbours B and C join the back — queue: B, C. Take B; its unvisited neighbours D and E join — queue: C, D, E. Take C; F joins — queue: D, E, F. Then D, E, F come off one by one with nothing new to add. The visiting order is A, B, C, D, E, F — layer 0, then layer 1 (B, C), then layer 2 (D, E, F).
 
-[Picture — breadth-first-search-layers: the graph drawn in three shaded layers around the start node, with the queue shown as a line of boxes underneath]
+In your mind's eye: breadth-first-search-layers. The graph drawn in three shaded layers around the start node, with the queue shown as a line of boxes underneath.
 
 Two rules do all the work. A node is **marked the moment it enters the queue**, not when it leaves it — otherwise the same node could be queued twice by two neighbours in the same layer. And the queue's order is never broken: first in, first out is what keeps the layers fair.
 
@@ -20,7 +20,7 @@ Breadth-first search hands you more than an order. Because it moves layer by lay
 
 That guarantee is why this search is used wherever 'nearest' matters in an unweighted network: the fewest stops between two stations, the smallest number of handshakes joining two people, everyone reachable within three steps of a post, a web crawler taking pages link-layer by link-layer.
 
-[Picture — breadth-first-search-parents: the same graph with a parent arrow on each node pointing one step closer to the start, and one shortest path traced back]
+In your mind's eye: breadth-first-search-parents. The same graph with a parent arrow on each node pointing one step closer to the start, and one shortest path traced back.
 
 Its opposite habit is worth naming: a **depth-first** wander runs down one branch as far as it can before coming back. Depth-first has its own uses, but it gives no shortest-path promise — the first route it finds to a node may be a long way round. Breadth-first's queue is the price of the promise.
 

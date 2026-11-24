@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Creating a New Document Using a Blank Pa
 
 This part of South Sudan's book teaches **Creating a New Document Using a Blank Page** — covering: Creating a New Document Using a Blank Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating a New Document Using a Blank Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — creating a New Document Using a Blank Page is part of that chain..
 
-[Picture — Creating a New Document Using a Blank Page]
+In your mind's eye: creating a New Document Using a Blank Page.
 
 ## Sub lesson 2 — Choosing a Blank HTML Page
 
 This part of South Sudan's book teaches **Choosing a Blank HTML Page** — covering: Choosing a Blank HTML Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Choosing a Blank HTML Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — choosing a Blank HTML Page is part of that chain..
 
-[Picture — Choosing a Blank HTML Page]
+In your mind's eye: choosing a Blank HTML Page.
 
 ## Say it to your companion
 

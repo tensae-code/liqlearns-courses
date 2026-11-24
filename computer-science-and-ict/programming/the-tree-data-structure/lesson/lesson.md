@@ -8,13 +8,13 @@ The tree data structure — data arranged as a branching hierarchy: a root, node
 
 A **tree** is a data structure shaped like its name turned upside down: one starting node — the **root** — from which branches lead to **child** nodes, each of which may branch again, down to the **leaves** that have no children. Every node except the root has exactly one **parent**, and there are no loops: follow the branches and you never return to a node twice. Indonesia's Grade 9 book opens its data-structure chapter with the tree because the shape is already in the pupil's hands — the folder inside folder inside folder of every file system they have ever opened.
 
-[Picture — The tree — one root, many branches]
+In your mind's eye: the tree — one root, many branches.
 
 ## Sub lesson 2 — Working with trees — depth, subtrees and uses
 
 A tree is described by its measures: the **depth** of a node (edges down from the root), the **height** of the tree (its longest root-to-leaf road), and the **subtree** — any node taken with all its descendants, itself a complete tree, which is why tree programs are so often recursive. Its uses are the branching shapes of the world: file systems, organisation charts, family descent, the classification of living things, and decision trees whose leaves are verdicts. Choosing a tree is recognising that the data's truth is a hierarchy — one whole, branching into parts, branching into parts.
 
-[Picture — Working with trees — depth, subtrees and uses]
+In your mind's eye: working with trees — depth, subtrees and uses.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ This part of South Sudan's book teaches PowerPoint Picture Tools — covering: P
 
 This part of South Sudan's book teaches **PowerPoint Picture Tools** — covering: PowerPoint Picture Tools. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: PowerPoint Picture Tools. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — powerPoint Picture Tools is part of that chain..
 
-[Picture — PowerPoint Picture Tools]
+In your mind's eye: powerPoint Picture Tools.
 
 ## Sub lesson 2 — Doing it — PowerPoint Picture Tools in practice
 
 This part of South Sudan's book teaches **Doing it — PowerPoint Picture Tools in practice** — covering: PowerPoint Picture Tools. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: PowerPoint Picture Tools. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — PowerPoint Picture Tools in practice is part of that chain..
 
-[Picture — Doing it — PowerPoint Picture Tools in practice]
+In your mind's eye: doing it — PowerPoint Picture Tools in practice.
 
 ## Say it to your companion
 

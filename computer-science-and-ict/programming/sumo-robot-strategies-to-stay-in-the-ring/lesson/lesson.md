@@ -8,13 +8,13 @@ The strangest classroom robot is a wrestler. Kuwait's Grade 9 robotics unit buil
 
 A Sumo robot wins first with its **body**: **weight** low and spread gives it grip and makes it hard to tip; **balance** — the heavy parts centred — keeps it planted when the opponent's push lands off-centre. The book teaches body before program because no logic rescues a robot that falls over: in Sumo, the mechanics are half the strategy, and the ring rewards the builder who respected them.
 
-[Picture — Weight and balance — the wrestler's body]
+In your mind's eye: weight and balance — the wrestler's body.
 
 ## Sub lesson 2 — Sensors and logic — find, push, and never cross the edge
 
 The program fights with three senses: **Colour** watches the floor for the ring's **edge line** — the wrestler's cliff, to be turned away from instantly; **Ultrasonic** finds the **opponent** across the ring and measures the charge; **Touch** reports contact, the moment pushing begins. The logic is a wrestler's priorities in order: **if the edge is near, escape it first** — a robot that pushes its opponent out and follows has lost beautifully; then seek, charge, and push while the edge is far.
 
-[Picture — Sensors and logic — find, push, and never cross the edge]
+In your mind's eye: sensors and logic — find, push, and never cross the edge.
 
 ## Say it to your companion
 

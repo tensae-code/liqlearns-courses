@@ -8,13 +8,13 @@ You met three databases before breakfast — you just never saw them. Fiji's Yea
 
 The **school office** keeps its pupils in a database — names, classes, fees, marks — searched every time a list is made. The **library** keeps its books and borrowers in one: the catalogue that answers 'do we have this book, and who has it?' The **shop and the bank** keep theirs: stock and prices at the till; accounts and balances at the bank. Fiji's point is recognition — each of these answers questions from stored records, which is the database's job, whether or not anyone says the word.
 
-[Picture — The databases you already use]
+In your mind's eye: the databases you already use.
 
 ## Sub lesson 2 — One shape under all of them
 
 Different lives, one shape: each everyday database holds **records** of one kind of thing — pupils, books, goods, accounts — each record in **fields**, and each is **searched** to answer a real question in seconds: Is this pupil in Year 8? Is this book out? What does this account hold? Seeing the shape under the examples is the lesson: when a learner meets a new system — an airline booking, a hospital file, a phone contact list — they already know what kind of thing it is.
 
-[Picture — One shape under all of them]
+In your mind's eye: one shape under all of them.
 
 ## Say it to your companion
 

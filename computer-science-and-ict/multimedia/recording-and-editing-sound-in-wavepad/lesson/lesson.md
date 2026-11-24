@@ -8,13 +8,13 @@ Lesson 19: Recording sound in WavePad
 
 This part of Kazakhstan's book teaches **Lesson 19: Recording sound in WavePad** — covering: Lesson 19: Recording sound in WavePad. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 19: Recording sound in WavePad]
+In your mind's eye: lesson 19. Recording sound in WavePad.
 
 ## Sub lesson 2 — Lesson 20: Editing sound in WavePad
 
 This part of Kazakhstan's book teaches **Lesson 20: Editing sound in WavePad** — covering: Lesson 20: Editing sound in WavePad (cut, copy, delete). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 20: Editing sound in WavePad]
+In your mind's eye: lesson 20. Editing sound in WavePad.
 
 ## Say it to your companion
 

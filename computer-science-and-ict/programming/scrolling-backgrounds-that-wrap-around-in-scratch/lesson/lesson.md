@@ -8,13 +8,13 @@ The scene is wider than the stage: the road runs on past the screen’s edge. Gr
 
 The trick is a cut: **a scene wider than the stage is split into two sprites**, laid edge to edge so the stage shows a join that should not be seen. Together the two pieces are the whole wide picture; the stage only ever shows one scene’s width of it.
 
-[Picture — two sprites, one endless scene]
+In your mind's eye: two sprites, one endless scene.
 
 ## Sub lesson 2 — Glide left, jump back right
 
 Both sprites **keep gliding left**; when a sprite’s **position passes a limit** — its whole width gone off the left — it **jumps back to the right**, behind its partner, ready to glide through again. The two leapfrog forever, and **the background never ends**.
 
-[Picture — glide left, jump back right]
+In your mind's eye: glide left, jump back right.
 
 ## Say it to your companion
 

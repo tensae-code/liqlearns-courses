@@ -8,13 +8,13 @@ The eye is easily and honourably fooled: show it stills fast enough and it swear
 
 Animation rests on the eye's own working: shown **frames** in quick succession (the rate the video lessons count), the eye **blends them into motion** — persistence of vision doing the animator's hardest work. **2D animation** draws its world flat: characters and backgrounds as drawings, moved by **key poses** with the in-between frames filled (by hand or by the program's tweening), the craft of cartoons, explainer films and the moving web.
 
-[Picture — The physiology of animation — and the 2D craft]
+In your mind's eye: the physiology of animation — and the 2D craft.
 
 ## Sub lesson 2 — 3D animation — building a world, then moving in it
 
 **3D animation** does not draw its world; it **builds** it — objects modelled with depth, surfaces and light — and then **moves the objects and a virtual camera** through it, the program computing every frame from the model, even to **photorealistic** images the eye takes for film. Its costs are its signature: modelling before any movement, computing time for every frame. The chapter's judgement closes the pair: 2D when the drawing's voice is the point; 3D when the world must be walked around.
 
-[Picture — 3D animation — building a world, then moving in it]
+In your mind's eye: 3D animation — building a world, then moving in it.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ After exact tools, the hand. Kuwait's digital drawing lessons begin with free dr
 
 The **Paintbrush tool** paints where the pointer moves: a stroke follows the hand, with the brush's **size, hardness and colour** chosen by the painter. It is GIMP's free instrument — nothing is plotted or measured; the line is as the hand makes it. Kuwait starts digital drawing here because the first question of drawing is not the software's: it is whether the pupil will look at the subject and trust their own stroke.
 
-[Picture — The Paintbrush tool — GIMP's pencil and brush in one]
+In your mind's eye: the Paintbrush tool — GIMP's pencil and brush in one.
 
 ## Sub lesson 2 — Drawing and colouring on separate layers — the cat activity
 
 The set activity — **the cat** — is drawn the forgiving way: the **drawing on one layer, the colouring on another beneath it**, so colour can flood and be corrected without smearing the lines, and lines can be mended without touching the colour. Separate layers are the digital version of a light pencil and clean paint — the structure that lets a beginner be brave, because every kind of mark can be fixed in its own place.
 
-[Picture — Drawing and colouring on separate layers — the cat activity]
+In your mind's eye: drawing and colouring on separate layers — the cat activity.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A magician finds your card without seeing it. The audience gasps; the magician s
 
 The activity's first move is demystification: **understand the magicians' tricks (comprendre les astuces)** by demanding the method. A card trick works like a program: a **prepared setup** (the deck's hidden order), **exact steps** the performer must not vary, and a **forced outcome** the audience experiences as freedom. Nothing supernatural survives the write-up: once the steps are written plainly, anyone performing them gets the ‘miracle’ — the secret was an algorithm all along.
 
-[Picture — Understand the trickster's method]
+In your mind's eye: understand the trickster's method.
 
 ## Sub lesson 2 — Writing the trick as a logigramme
 
 Temps 1.2 writes the trick's steps into a **logigramme** (flowchart): the choices the spectator ‘freely’ makes become branches that reconverge; the performer's questions become tests; the reveal sits at the chart's single exit. Drawn this way, the class sees the family resemblance in full: the magic trick, the Deviner la carte conditional, and every deterministic program share one skeleton — arrange the steps so the desired end cannot escape.
 
-[Picture — Writing the trick as a logigramme]
+In your mind's eye: writing the trick as a logigramme.
 
 ## Say it to your companion
 

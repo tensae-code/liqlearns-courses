@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Choosing software** — covering: §6: Choosing software. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Choosing software]
+In your mind's eye: choosing software.
 
 ## Sub lesson 2 — Selecting software
 
 This part of Kazakhstan's book teaches **Selecting software** — covering: 1.6: Selecting software. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Selecting software]
+In your mind's eye: selecting software.
 
 ## Say it to your companion
 

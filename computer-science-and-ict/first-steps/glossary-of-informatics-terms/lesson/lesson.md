@@ -8,13 +8,13 @@ At the back of Uzbekistan's Grade 5 book sits a glossary — every new word of t
 
 A **glossary** is the book's own dictionary: an alphabetical list of the subject's words, each with a short explanation in plain words. Informatics brings many new words in one year — system unit, desktop, file, program — and the glossary is where a pupil checks a word without searching the whole book. Uzbekistan's Grade 5 book prints its glossary after the last lesson, at printed p. 67.
 
-[Picture — What a glossary is]
+In your mind's eye: what a glossary is.
 
 ## Sub lesson 2 — Using the glossary well
 
 Use the glossary three ways: before a lesson, to meet its new words; during a lesson, the moment a word stops you; and after, to test yourself — cover the explanation and say it from the word alone. A word you can explain in your own words is learned; the glossary's line is the check, not the goal.
 
-[Picture — Using the glossary well]
+In your mind's eye: using the glossary well.
 
 ## Say it to your companion
 

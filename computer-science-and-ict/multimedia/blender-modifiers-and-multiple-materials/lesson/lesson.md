@@ -8,13 +8,13 @@ Some shapes are too regular to model by hand — a fence of fifty posts, a shape
 
 A **modifier** is a standing instruction applied **over** the mesh: the mesh keeps its simple form, and the modifier's effect stands on top, changeable or removable at any time. The book's three families-by-example: **Array** repeats the object in a row or grid — the **garden fence** is one post, arrayed; **Mirror** reflects the object across an axis, modelling half a symmetric thing and letting the modifier keep both halves identical — the **magnet** is modelled this way; **Wireframe** turns the solid's skin into its edges' lattice, a cage-look surface.
 
-[Picture — Modifiers — Array, Mirror, Wireframe]
+In your mind's eye: modifiers — Array, Mirror, Wireframe.
 
 ## Sub lesson 2 — Multiple materials on one object
 
 One object can wear **several materials**: parts of its mesh are **assigned** different materials — the fence post's wood and its metal cap, the magnet's two poles in their two colours — chosen face by face or by the mesh's parts. It completes the first material lesson: surface stops being the object's single coat and becomes its clothing, piece by piece. With modifiers above the mesh and materials across it, a simple object becomes a designed one.
 
-[Picture — Multiple materials on one object]
+In your mind's eye: multiple materials on one object.
 
 ## Say it to your companion
 

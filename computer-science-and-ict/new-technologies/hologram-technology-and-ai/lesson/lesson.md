@@ -8,13 +8,13 @@ A photograph of a cup shows one side forever. A hologram of a cup lets you walk 
 
 A **photograph** records **light intensity** from one viewpoint — a flat pattern of brightness. A **hologram** records the light's **pattern of interference** — intensity and phase together — usually with laser light split into a reference beam and an object beam. Replaying the hologram rebuilds the light as it left the object, so the image has **depth and parallax**: move your head, and you see around it. The hologram stores not a picture of the object but the object's light itself, encoded.
 
-[Picture — Photograph against hologram]
+In your mind's eye: photograph against hologram.
 
 ## Sub lesson 2 — Applications, and AI's part
 
 Holograms serve **security** (the dove on a bank card, hard to forge), **storage**, **medicine and engineering** (measuring strain and vibration invisibly small), **displays and education** (a heart turning in the air above a classroom table). AI enters as the hologram's new maker and reader: networks **compute** holograms for real-time 3D displays, clean damaged ones, and read holographic measurements — Jordan's pairing of the two in one lesson is the book's pattern: each new technology is asked, at the end, what it has to do with intelligence.
 
-[Picture — Applications, and AI's part]
+In your mind's eye: applications, and AI's part.
 
 ## Say it to your companion
 

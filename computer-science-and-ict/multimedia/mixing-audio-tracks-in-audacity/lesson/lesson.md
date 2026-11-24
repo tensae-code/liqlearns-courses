@@ -8,13 +8,13 @@ One voice alone is a reading; a voice over music, with a second voice answering,
 
 In Audacity every sound sits on its own **track**, and the tracks play **together**: the mix is what all of them sound like at once. A voice track, a music track and an effect track can be moved along the timeline so their parts fall where they belong — music under the introduction, silence under the important sentence, a sound exactly at the moment the story names it.
 
-[Picture — Tracks together — each sound on its own line]
+In your mind's eye: tracks together — each sound on its own line.
 
 ## Sub lesson 2 — Balancing the mix — volume, mute and solo
 
 Mixing is **balance**: each track's **volume** is set against the others — music low under speech, speech clear above it. **Mute** silences a track without deleting it; **solo** plays one track alone so it can be checked. The mixer listens to the whole, adjusts one track at a time, and listens again: the mix is finished when every part can be heard as intended, and nothing fights anything else.
 
-[Picture — Balancing the mix — volume, mute and solo]
+In your mind's eye: balancing the mix — volume, mute and solo.
 
 ## Say it to your companion
 

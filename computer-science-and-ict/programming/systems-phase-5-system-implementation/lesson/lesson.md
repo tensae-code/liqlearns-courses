@@ -8,13 +8,13 @@ A working system in a back room helps nobody. Fiji's Phase 5 puts the new system
 
 **System implementation** installs the developed system in the organisation's real work. Its heart is the **changeover**: the old system's **data is converted** and carried into the new files, the **hardware and programs are installed** where the work happens, and the organisation starts living on the new system. Fiji names the changeover strategies by their risk: **direct** (old stops, new starts — boldest), **parallel** (both run together until the new is trusted — safest, dearest), and **phased or pilot** changeovers that move part by part or place by place.
 
-[Picture — Changeover — the old way hands over to the new]
+In your mind's eye: changeover — the old way hands over to the new.
 
 ## Sub lesson 2 — People are implemented too — training and the first days
 
 A system is not implemented until its **people can work it**: users are **trained** before the switch, helped through the first days, and given documents that say how the new way runs. Fiji counts training inside the phase, not as an afterthought, because most 'system failures' at changeover are people meeting an unpractised way of working on a busy morning. The phase ends when the new way is simply *the way* — the old system retired, its data safe in the new, its users at home.
 
-[Picture — People are implemented too — training and the first days]
+In your mind's eye: people are implemented too — training and the first days.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Your best shots still sit on the camera. In this lesson you bring them onto the 
 
 On the computer, **Microsoft Photos** is where pictures and video clips are **viewed**: open a picture to see it large, play a clip, and move through a folder of shots. To bring new media in with a **cable**, connect the camera or phone, let the computer recognise the device, choose the pictures and videos to import, and copy them onto the computer.
 
-[Picture — viewing in microsoft photos, and importing wired]
+In your mind's eye: viewing in microsoft photos, and importing wired.
 
 ## Sub lesson 2 — Importing wirelessly — and storing what you imported
 
 Media can also arrive **wirelessly**, without a cable, when the device and the computer share a connection. However it arrives, importing is not finished until the media is **stored**: put the pictures and videos in a named folder on the computer, check they open from their new home, and only then is the copy on the device free to be cleared.
 
-[Picture — importing wirelessly — and storing what you imported]
+In your mind's eye: importing wirelessly — and storing what you imported.
 
 ## Say it to your companion
 

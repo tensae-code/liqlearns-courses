@@ -8,13 +8,13 @@ Your sprite sits still. You press the right-arrow key — it moves. You click it
 
 An **event block** sits at the top of a script and **starts it when its event happens**. Grade 7 states the rule plainly: event blocks are what start a script — a stack with no event at its top has no moment to run at.
 
-[Picture — event blocks start scripts]
+In your mind's eye: event blocks start scripts.
 
 ## Sub lesson 2 — Driving a sprite with the keyboard and a click
 
 Grade 6 builds the driving: **when a key is pressed** — **arrows, letters, numbers** — a script runs, and **when the sprite is clicked** another runs, so the sprite is **driven with the keyboard** and answered with the mouse. Each key gets its own small script, each waiting for its own event.
 
-[Picture — driving a sprite with the keyboard and a click]
+In your mind's eye: driving a sprite with the keyboard and a click.
 
 ## Say it to your companion
 

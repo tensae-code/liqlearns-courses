@@ -8,13 +8,13 @@ A backup that lives on the same desk as the computer can die in the same acciden
 
 Backing up with **Google Drive** means **uploading**: sign in to the school Google account, open Drive, and upload the files and folders to be kept — they are copied to Google's storage while the originals stay on the computer. The upload is watched until it finishes; a backup half-uploaded is a backup of half the work. Drive shows each file with its name and size, the check that it arrived whole.
 
-[Picture — Uploading — putting the backup on Drive]
+In your mind's eye: uploading — putting the backup on Drive.
 
 ## Sub lesson 2 — Downloading again — the return journey
 
 The backup is spent by **downloading**: sign in anywhere, open Drive, choose the file and download it back to the computer — the copy becomes a working file again. This return journey is the point of the whole lesson, and Class VII practises it in the same sitting: upload, then download again, and open the returned file, so the pupil has proof, not hope, that the backup works.
 
-[Picture — Downloading again — the return journey]
+In your mind's eye: downloading again — the return journey.
 
 ## Say it to your companion
 

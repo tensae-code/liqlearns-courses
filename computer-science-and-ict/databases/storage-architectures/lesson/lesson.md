@@ -8,13 +8,13 @@ The information-systems chapter needs somewhere for its data to live. Before dat
 
 The simplest architecture keeps storage **attached to the machine that uses it** — fast and private, but stranded when others need the same data. **Network-attached storage** puts the shelves **on the network as a named place** any authorised machine may reach, so the organisation's files live **once, together**, instead of in copies scattered per desk. The architecture question is already a sharing question: who must reach this data, and what breaks when two copies disagree?
 
-[Picture — Attached and networked storage — where the shelves stand]
+In your mind's eye: attached and networked storage — where the shelves stand.
 
 ## Sub lesson 2 — Storage as its own network — and choosing
 
 At the largest scale, storage becomes **its own dedicated network** behind the servers — a **storage area network** — so many servers share pools of storage at machine-room speed, and the pools can grow without the servers stopping. The chapter's judgement is by need: attached for the lone machine's speed, network-attached for the office's sharing, a storage network for the institution whose data is its life. Architecture is the database lessons' ground floor: the DBMS of the next sections stands on one of these arrangements, whether the learner names it or not.
 
-[Picture — Storage as its own network — and choosing]
+In your mind's eye: storage as its own network — and choosing.
 
 ## Say it to your companion
 

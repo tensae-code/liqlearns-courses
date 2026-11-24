@@ -8,7 +8,7 @@ Look at the top row of letters on your keyboard and read the first six letters a
 
 A keyboard is named by the first letters of its top letter row. AZERTY begins A, Z, E, R, T, Y — so the name itself tells you where to look first.
 
-[Picture — the AZERTY keyboard with its top letter row highlighted]
+In your mind's eye: the AZERTY keyboard with its top letter row highlighted.
 
 Compared with QWERTY, some letters have traded places. A sits where Q sits on a QWERTY keyboard, and Z sits where W sits. M has moved too: on AZERTY it sits at the end of the home row, beside the punctuation. If your fingers learned one layout and your eyes meet the other, the letters come out wrong — not because you cannot type, but because the map changed. Learn this map.
 
@@ -20,7 +20,7 @@ Good typing is not fast searching. It is each finger knowing its own keys so wel
 
 Rest your fingers lightly on the home row — the middle row, where A sits at the left end on AZERTY. Each finger owns the keys above, below and beside its home key, and reaches for them and returns. Your thumbs rest on the space bar.
 
-[Picture — hands on the home row, each finger matched to the keys it owns]
+In your mind's eye: hands on the home row, each finger matched to the keys it owns.
 
 Now type slowly. Copy a short line, letter by letter. Keep your eyes on the line you are copying, not on your hands. When a letter comes out wrong, do not speed up — slow down, find the right key with the right finger, and type it again. Accuracy first: a slow line with no errors teaches your fingers more than a fast line full of them. A little practice every day builds the map into your hands, and speed arrives on its own.
 

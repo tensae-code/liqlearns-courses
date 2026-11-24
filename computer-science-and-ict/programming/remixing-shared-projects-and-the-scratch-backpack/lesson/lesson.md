@@ -8,13 +8,13 @@ Somewhere, someone has already built the racing track your game needs, and you h
 
 Scratch projects can be **shared** so other people can see, play and open them. Sharing carries an idea the teacher guide stresses: **remixing**. To remix a project is to take it as your starting point and make your own changed version — new sprites, new rules, your own ideas added on top. A remix is not a copy passed off untouched: it is the shared project grown in a new direction, and Scratch keeps the line of credit visible from the remix back to the original. Remixing is how Scratch learners learn from projects better than their own — by opening them, reading their scripts, and then building further.
 
-[Picture — a picture of a shared Scratch project with a remix branch splitting from it — the original on one side, a changed, grown version on the other, joined by a credit line]
+In your mind's eye: a shared Scratch project with a remix branch splitting from it — the original on one side, a changed, grown version on the other, joined by a credit line.
 
 ## Sub lesson 2 — The Backpack — carrying pieces between your projects
 
 Your own good pieces also travel. The **Backpack** is a carrying tray at the bottom of the Scratch editor: drag in a stack of blocks, a sound, a sprite or a costume, and it waits in the Backpack; open **another project**, and drag the piece out of the Backpack into it. A jump script written once can serve every platform game you ever make; a favourite sound can follow you from story to maze game. The Backpack turns one-off work into a personal toolbox you carry from project to project.
 
-[Picture — a picture of the Scratch Backpack tray open at the editor's foot, holding a block stack, a sound and a sprite, with arrows carrying them into a second project]
+In your mind's eye: the Scratch Backpack tray open at the editor's foot, holding a block stack, a sound and a sprite, with arrows carrying them into a second project.
 
 ## Say it to your companion
 

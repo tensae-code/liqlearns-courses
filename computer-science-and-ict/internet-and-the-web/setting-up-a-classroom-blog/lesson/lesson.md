@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Guide to setting a classroom blog — co
 
 This part of South Sudan's book teaches **Guide to setting a classroom blog** — covering: Guide to setting a classroom blog. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Guide to setting a classroom blog. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — guide to setting a classroom blog is part of that chain..
 
-[Picture — Guide to setting a classroom blog]
+In your mind's eye: guide to setting a classroom blog.
 
 ## Sub lesson 2 — Doing it — Guide to setting a classroom blog in practice
 
 This part of South Sudan's book teaches **Doing it — Guide to setting a classroom blog in practice** — covering: Guide to setting a classroom blog. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Guide to setting a classroom blog. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Guide to setting a classroom blog in practice is part of that chain..
 
-[Picture — Doing it — Guide to setting a classroom blog in practice]
+In your mind's eye: doing it — Guide to setting a classroom blog in practice.
 
 ## Say it to your companion
 

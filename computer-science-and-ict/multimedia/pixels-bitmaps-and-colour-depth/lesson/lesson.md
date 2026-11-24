@@ -8,13 +8,13 @@ Uzbekistan's Grade 9 graphics chapter returns to the pixel with a worker's quest
 
 A **bitmap** (raster) picture is a grid: every cell is one **pixel**, and the file stores a number for each pixel saying its colour. Zoom far in and the grid shows; print big and the picture softens — the points are all there is. The Grade 9 book teaches this inside 'working with graphic information', after the graphics editor itself, so the pupil edits knowing what is being edited.
 
-[Picture — The bitmap — a picture as a grid of points]
+In your mind's eye: the bitmap — a picture as a grid of points.
 
 ## Sub lesson 2 — Colour depth — bits per pixel
 
 **Colour depth** is how many bits describe one pixel: 1 bit gives two colours, black and white; 8 bits give 256; 24 bits give millions — 'true colour'. More depth means truer colour and a bigger file: every added bit doubles the colours and grows every picture. Choosing a depth is choosing a balance between truth and size.
 
-[Picture — Colour depth — bits per pixel]
+In your mind's eye: colour depth — bits per pixel.
 
 ## Say it to your companion
 

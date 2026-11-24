@@ -8,13 +8,13 @@ One scene is a moment; a school is a world: yard, classroom, library, gym — ea
 
 The scenario's extension (prolongements) grows a ScratchJr project from one scene to **several (plusieurs scènes)**: the **school plan (le plan de l'école)** becomes the map — each place a page, each page with its own background, characters (personnages) and small scripts. The project's craft is coherence: the same character must be recognisably itself in every scene, and moving between scenes must feel like walking the school, not changing the channel.
 
-[Picture — Several scenes, one project]
+In your mind's eye: several scenes, one project.
 
 ## Sub lesson 2 — Planning the world before building it
 
 A multi-scene project is planned on paper first: the **plan** — a drawn school map where each room is ticked with its scene, cast and micro-story. Builders then work scene by scene against the map, and the finished project is ‘walked’ by visitors who should never get lost: if a visitor cannot say where they are in the school, the plan or the scene has failed, and the repair is located — not guessed. Scale teaches planning; planning makes scale survivable.
 
-[Picture — Planning the world before building it]
+In your mind's eye: planning the world before building it.
 
 ## Say it to your companion
 

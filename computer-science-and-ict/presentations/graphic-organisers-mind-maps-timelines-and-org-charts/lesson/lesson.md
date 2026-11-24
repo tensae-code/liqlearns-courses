@@ -8,13 +8,13 @@ Cuba's Grade 8 presentations chapter gives graphic organisers a lesson of their 
 
 A list hides relations; a drawing shows them. A **graphic organiser** arranges ideas **in space** — centre and branches, before and after, above and below — so the reader sees **how the parts connect** in one look. The organiser is chosen by the relation it must show: branching ideas, time order, or rank. Cuba teaches organisers inside the presentations book because slides are where organised ideas are shown to an audience.
 
-[Picture — Graphic organisers — relations made visible]
+In your mind's eye: graphic organisers — relations made visible.
 
 ## Sub lesson 2 — Mind maps, timelines and org charts
 
 A **mind map** grows from a **centre**: the main idea in the middle, its parts on branches, their details on smaller branches. A **timeline** lays **events along a line in time order** — first to last, each at its date. An **org chart** stacks **boxes by rank**: who directs at the top, who answers to whom below. One content, three drawings: the same school can be a mind map of its activities, a timeline of its year, and an org chart of its staff.
 
-[Picture — Mind maps, timelines and org charts]
+In your mind's eye: mind maps, timelines and org charts.
 
 ## Say it to your companion
 

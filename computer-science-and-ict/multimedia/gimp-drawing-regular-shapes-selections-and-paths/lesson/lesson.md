@@ -8,13 +8,13 @@ Free drawing is the hand; regular drawing is the ruler. Kuwait's second drawing 
 
 A **selection** is a chosen region of the image — and a shaped selection, filled, **is** a shape. The **Ellipse Select** tool drags out an exact ellipse or circle: fill it and the design gains a true circle no free hand could promise; hold its proportions and it stays a circle at any size. Kuwait teaches selections as drawing tools, not only cutting tools: the marquee is a stencil the computer holds steady for you.
 
-[Picture — Selections as shape-makers — the Ellipse Select]
+In your mind's eye: selections as shape-makers — the Ellipse Select.
 
 ## Sub lesson 2 — The Paths tool — shapes drawn as outlines
 
 The **Paths tool** draws a shape as an **outline of points and curves** placed by the maker, which can then be filled, stroked (outlined), or used as a selection. Paths draw the shapes selections cannot — the exact curve of a hill, a flag's wave, a logo's sweep — as **editable** geometry: a point can be moved later and the curve follows. Regular drawing's two instruments divide the world: selections for the shapes with names (circle, rectangle), paths for the shapes with intentions.
 
-[Picture — The Paths tool — shapes drawn as outlines]
+In your mind's eye: the Paths tool — shapes drawn as outlines.
 
 ## Say it to your companion
 

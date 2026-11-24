@@ -8,13 +8,13 @@ Not every page in Papua New Guinea's Grade 11 design unit is hand-coded. The gui
 
 A **website builder** lets you **build pages with ready tools and templates**, so a page needs **less hand-written code**. A template gives the page its **starting layout and design**, and builders include publishing — a builder site **can be published online** from the tool itself.
 
-[Picture — Website builders]
+In your mind's eye: website builders.
 
 ## Sub lesson 2 — Canva and Figma as design tools
 
 **Canva** is used for **graphics and designs**; **Figma** is used for **designing interfaces and prototypes**. A prototype shows **how the site will look and work before it is built**, and a design made in Figma can guide the building of the real page. The tools are chosen by the job they must do — and they do not replace planning, which still comes first.
 
-[Picture — Canva and Figma as design tools]
+In your mind's eye: canva and Figma as design tools.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The game is over — but a loop somewhere is still running and a sprite keeps wa
 
 Scratch's stop block has three choices, and the difference matters. **Stop all** ends every script in the project — the full stop, used when the whole project is over. **Stop this script** ends only the script the block sits in — the other scripts of the same sprite keep running, which is what you want when one job is finished but its sprite has other jobs. **Stop other scripts in this sprite** does the mirror image: the script containing it keeps running and its sprite's other scripts end. Choosing the wrong stop either leaves runaway loops going or kills work that should have continued — name what must keep running before you choose.
 
-[Picture — a picture of three stopped signs over three scripts — all scripts stopped, only the middle script stopped, and the outer two stopped while the middle runs on]
+In your mind's eye: three stopped signs over three scripts — all scripts stopped, only the middle script stopped, and the outer two stopped while the middle runs on.
 
 ## Sub lesson 2 — Moving a sprite by x and y
 
 Every place on the stage has two numbers: **x**, how far left or right the sprite is, and **y**, how far up or down. Changing x moves the sprite sideways — bigger x to the right, smaller x to the left. Changing y moves it up and down — bigger y up, smaller y down. Moving by coordinates is exact in a way dragging is not: a script can send a sprite to the very same start place every time, or step it across the stage by equal, counted amounts — which is how arrow-key movement and maze-game starts are built.
 
-[Picture — a picture of a stage grid with x running left–right and y running up–down, and a sprite with arrows showing bigger x rightwards and bigger y upwards]
+In your mind's eye: a stage grid with x running left–right and y running up–down, and a sprite with arrows showing bigger x rightwards and bigger y upwards.
 
 ## Say it to your companion
 

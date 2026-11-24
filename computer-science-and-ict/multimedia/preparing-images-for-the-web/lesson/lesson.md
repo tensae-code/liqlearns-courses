@@ -8,13 +8,13 @@ Your page is ready except its hero photograph — four megabytes of it, for a sl
 
 A camera photograph is made to be printed and kept; a web page needs it **no bigger than the place it fills**. Preparation starts with **size**: shrink the image's dimensions to the display size — a picture shown small but stored huge wastes loading time on detail nobody sees. Then **weight**: an image file's size in bytes decides how long a visitor waits. Preparation is the trade between looking right and loading fast, and for the web the balance always leans to the visitor's wait.
 
-[Picture — a huge camera photograph being shrunk down to fit a small frame on a web page, with its file weight dropping beside it]
+In your mind's eye: a huge camera photograph being shrunk down to fit a small frame on a web page, with its file weight dropping beside it.
 
 ## Sub lesson 2 — Choosing the format
 
 The saving **format** is the second decision. Photographs, with their millions of shades, belong in a format made for photographs, which squeezes them by dropping detail the eye barely misses. Drawings, logos and screenshots with flat colours and sharp edges belong in a format that keeps edges exact, even at few colours. Saving in the wrong format shows at once: a photograph bloated far beyond its need, or a sharp diagram gone fuzzy. The finished preparation is checked on the page itself: right size on screen, small weight in the folder, and nothing the eye needed lost.
 
-[Picture — two saving doors — one for a photograph, one for a sharp logo — with each image entering the right one]
+In your mind's eye: two saving doors — one for a photograph, one for a sharp logo. With each image entering the right one.
 
 ## Say it to your companion
 

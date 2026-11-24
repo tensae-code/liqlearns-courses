@@ -8,13 +8,13 @@ Unit 2 §2.2.4 Assignment Operator (=) & Equal to Operator (==)
 
 This part of Pakistan (Punjab)'s book teaches **Assignment Operator** — covering: Unit 2 §2.2.4 Assignment Operator (=) & Equal to Operator (==). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Assignment Operator]
+In your mind's eye: assignment Operator.
 
 ## Sub lesson 2 — Doing it — Assignment vs Equality One Equals or Two in practice
 
 **Doing it — Assignment vs Equality One Equals or Two in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Assignment vs Equality One Equals or Two in practice]
+In your mind's eye: doing it — Assignment vs Equality One Equals or Two in practice.
 
 ## Say it to your companion
 

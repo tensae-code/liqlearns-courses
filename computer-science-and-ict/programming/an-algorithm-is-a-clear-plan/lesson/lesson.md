@@ -12,7 +12,7 @@ A recipe is an algorithm for a dish. Directions to a friend's house are an algor
 
 An algorithm must be **clear**: no step may be a guess. 'Add some water' is not clear; 'add one cup of water' is clear. It must be **complete**: every needed step is there. And it must **end**: after the last step, the task is finished. Whoever follows a good algorithm carefully gets the same result every time — that is the point of the plan. Later, computers will follow algorithms too — but the idea belongs to everyday life first.
 
-[Picture — a picture of a recipe card with three clear numbered steps beside the finished dish]
+In your mind's eye: a recipe card with three clear numbered steps beside the finished dish.
 
 ## Say it to your companion
 

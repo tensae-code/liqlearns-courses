@@ -8,13 +8,13 @@ In some writings a digit's place changes its value; in others it never does. Tha
 
 In a **positional system**, a digit's value depends on its **position**: in 222, the three twos stand for two hundreds, two tens and two ones. Decimal and binary are positional. Each place is worth the base times the place before it, which is why positional systems can write any number with few digits and do arithmetic by rules.
 
-[Picture — Positional systems — the place carries value]
+In your mind's eye: positional systems — the place carries value.
 
 ## Sub lesson 2 — Non-positional systems — the sign keeps its value
 
 In a **non-positional system**, a sign keeps the same value wherever it stands: in Roman writing, V is always five and I is always one, so VIII is 5+1+1+1. Such systems are easy to read for small counts but heavy for big numbers and hard for arithmetic — which is why the positional idea won, and why computers are built on a positional system of base two.
 
-[Picture — Non-positional systems — the sign keeps its value]
+In your mind's eye: non-positional systems — the sign keeps its value.
 
 ## Say it to your companion
 

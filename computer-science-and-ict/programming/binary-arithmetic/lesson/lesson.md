@@ -10,7 +10,7 @@ Add 7 + 5 in decimal and notice the moment of the carry: the ones column overflo
 
 **Negative numbers.** A machine's bits have no room for a minus sign drawn in front, so the sign must live *in* the bits. The book's method is the one every real computer uses: **two's complement**. To write a negative number in, say, 4 bits: write the positive number, **invert every bit** (0s become 1s, 1s become 0s — that intermediate step is the **ones' complement**), then **add 1**. So −5 in 4 bits: 5 is 0101; inverted, 1010; add 1 → **1011**. In a fixed bit length, the top bit now works as the sign: numbers starting with 0 are positive, with 1 negative, and a 4-bit two's-complement register holds −8 to +7.
 
-[Picture — the making of −5 in four bits in three frames: 0101, its bits flipped to 1010, then +1 arriving to give 1011, with the sign bit shaded]
+In your mind's eye: the making of −5 in four bits in three frames. 0101, its bits flipped to 1010, then +1 arriving to give 1011, with the sign bit shaded.
 
 The payoff, next part, is enormous: with two's complement, a machine needs no subtraction circuit at all.
 
@@ -20,7 +20,7 @@ The payoff, next part, is enormous: with two's complement, a machine needs no su
 
 **Multiplication.** Use the school method, where every partial product is trivial: multiplying by a 0 bit gives a row of zeros; by a 1 bit, a copy of the number. Compute 101 × 11 (5 × 3): partial product for the ones bit: 101; for the twos bit: 101 shifted one place left, 1010; add them: 101 + 1010 = **1111** = 15. Correct. Notice the engine inside: **shifting a binary number one place left multiplies it by 2** — the same fact the shift register lesson met — so multiplication is 'shift and add the copies where the multiplier has 1s'.
 
-[Picture — the multiplication 101 × 11 laid out in columns: the two partial products, the second shifted one place left, and their sum 1111 beneath]
+In your mind's eye: the multiplication 101 × 11 laid out in columns. The two partial products, the second shifted one place left, and their sum 1111 beneath.
 
 **Division.** The mirror of multiplication and the inverse of subtraction: work from the left, at each step ask 'does the divisor fit into the current part of the dividend?' — write 1 in the quotient and subtract if it fits, write 0 and shift if not, exactly the rhythm of decimal long division but with only two possible quotient digits, so there is never any guessing of times tables. Compute 1111 ÷ 11 (15 ÷ 3): 11 fits into 11 → quotient bit 1, subtract, remainder 0; bring down the next 1: 01 — 11 does not fit → quotient bit 0, shift; bring down the last 1: 11 fits → quotient bit 1, remainder 0. Quotient **101** = 5, remainder 0. Correct.
 

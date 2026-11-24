@@ -8,13 +8,13 @@ Scratch snaps blocks; Python takes typed lines. Both are programming — this le
 
 **Block-based (graphical) languages** represent commands as **shapes that snap together**: only fitting joins are possible, so syntax errors cannot be typed; the palette shows every command the language has. **Text-based languages** are written as **typed code** under strict syntax: any command can be written, including wrong ones, and the whole literature of programming — libraries, idioms, tools — lives here. Jordan's Grade 11 introduction holds both because the pupil has come from blocks and is going to text: the concepts — sequence, selection, repetition — are identical; only the clothing changes.
 
-[Picture — The two faces]
+In your mind's eye: the two faces.
 
 ## Sub lesson 2 — Algorithms first — pseudocode and flowcharts
 
 Beneath both faces sits the **algorithm**: the steps, writable before any language in **pseudocode** (structured plain language — 'IF mark ≥ 50 THEN pass') or drawn in a **flowchart** (shapes for steps, decisions, flow). The book's order is the discipline: design in pseudocode or flowchart, then dress the design in blocks or in text. A pupil who can move an algorithm between the three clothings owns the algorithm; a pupil who knows only one clothing owns a costume.
 
-[Picture — Algorithms first — pseudocode and flowcharts]
+In your mind's eye: algorithms first — pseudocode and flowcharts.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A maze, a chess position, a route across a city: three problems that look nothin
 
 AI search begins by stating a problem as **states** (the situations that can arise), an **initial state** (where we start), **actions** (the moves that change a state), and a **goal test** (how we know a state is the answer). A route problem: states are places, actions are roads. A puzzle: states are arrangements, actions are legal slides. The statement is the solving's first half — a badly stated problem has no search that can save it.
 
-[Picture — Problems as states and moves]
+In your mind's eye: problems as states and moves.
 
 ## Sub lesson 2 — The search tree — the problem drawn out
 
 Applying actions to states grows a **search tree**: the initial state at the root, each branch an action, each node a reached state, the goal sitting somewhere in the branches. **Solving is searching** — walking the tree by a strategy until a goal node is found, then reading the path back down as the solution's steps. The tree is usually far too big to draw fully; the art of the next lessons is searching it without visiting every branch.
 
-[Picture — The search tree — the problem drawn out]
+In your mind's eye: the search tree — the problem drawn out.
 
 ## Say it to your companion
 

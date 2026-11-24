@@ -8,7 +8,7 @@ Open a blank page and type your name. The characters that appear are the script 
 
 Typing is typing — but the script is not automatic. A computer types in the script it is set to. So the first step of this session, before any practice line, is to **switch the computer's typing to Khmer script**, using the script or keyboard setting the computer offers. Prove the switch before you go on: press a key and watch. Khmer script must appear on the page. If another script appears, you are not switched yet — switch, and test again.
 
-[Picture — a blank Writer page beside the printed practice line in Khmer script, with the insertion point at the start of the page]
+In your mind's eye: a blank Writer page beside the printed practice line in Khmer script, with the insertion point at the start of the page.
 
 Now type, the session's way: **slowly, and watching the screen.** Khmer script builds on the screen as you press the keys, and your eyes have a job while it builds — follow the script as it forms, part by part, against the copy in front of you. The practice line for this lesson is a real one: the title line of your own Grade 10 book —
 
@@ -16,7 +16,7 @@ Now type, the session's way: **slowly, and watching the screen.** Khmer script b
 
 Work in short parts. Read one part of the copy. Type it. Stop and **check it against the copy** — same script, same order, nothing missing, nothing extra. If a part is wrong, correct it there and then, while you still know which keys made it. Only when the part is right do you move to the next part.
 
-[Picture — Khmer script appearing character by character on a screen as keys are pressed]
+In your mind's eye: khmer script appearing character by character on a screen as keys are pressed.
 
 This order — switch, type slowly, check each part, correct at once — is the whole skill, and it is also how speed honestly arrives. First the line comes out right. Practised day after day, the hands learn where the keys are, the checking gets quicker because there is less to correct, and speed follows accuracy. Speed that is chased before accuracy only practises mistakes.
 

@@ -8,13 +8,13 @@ Write a page and print it, and the words may run too close to the edge or stand 
 
 **Margins** are the blank spaces between your text and the four edges of the paper: **top, bottom, left and right**. Page setup is where they are set, in centimetres or inches. Wider margins leave more blank border and fit fewer words on the page; narrower margins fit more words but crowd the edge and can be cut off by the printer. A document usually keeps the same margins on every page, so the whole work looks even.
 
-[Picture — a page with its four margins marked — top, bottom, left and right]
+In your mind's eye: a page with its four margins marked — top, bottom, left and right.
 
 ## Sub lesson 2 — Paper — size and direction
 
 Page setup also chooses the **paper size** — A4 is the school standard — and the paper's **direction**: **portrait**, standing tall, for letters and essays, or **landscape**, lying wide, for wide tables and pictures. The choice must match the real paper in the printer, or the print will be clipped or shrunk. Set the page up before you finish the document, and check the result in print preview before a single sheet is used.
 
-[Picture — the same page in portrait and in landscape, side by side]
+In your mind's eye: the same page in portrait and in landscape, side by side.
 
 ## Say it to your companion
 

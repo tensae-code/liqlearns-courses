@@ -8,13 +8,13 @@ There is no single best language — there are languages built for different job
 
 **Scratch** — programs built by snapping **blocks** together; made for first steps, nothing to type wrong. **C++** — a powerful compiled language close to the machine; North Macedonia's own first language. **Java** — general-purpose, its programs run on a virtual machine so the same program travels between systems. **Python** — readable, general-purpose, huge in science and AI. **PHP** — built for **web servers**, generating pages. **Lisp** — among the oldest languages, built around **lists** and famous in AI history.
 
-[Picture — six languages, six characters]
+In your mind's eye: six languages, six characters.
 
 ## Sub lesson 2 — Choosing a language for a job
 
 The comparison rests on questions a programmer actually asks: Is it **compiled or interpreted**? How close to the hardware? What is it **used for**, and how easy is it to **learn**? A beginner's block language, a systems language and a web language are not rivals — they are tools shaped by their jobs, and learning one teaches ideas (sequence, choice, loops, data) that carry into all the others.
 
-[Picture — choosing a language for a job]
+In your mind's eye: choosing a language for a job.
 
 ## Say it to your companion
 

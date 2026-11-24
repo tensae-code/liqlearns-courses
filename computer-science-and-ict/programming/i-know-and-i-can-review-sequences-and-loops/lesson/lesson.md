@@ -8,7 +8,7 @@ Take one old puzzle from each kind — a sequence, a path, a loop drawing. Solve
 
 Bulgaria's book stops every few lessons for **"Знам и мога" — I know and I can**. It is not a new topic; it is the mastery check the book builds in, where the learner proves the things the last lessons taught: building a **sequence** in order, moving the hero with **motion blocks**, **finding a path**, spotting **repeating actions**, and wrapping them in a **loop** for the robot artist. The review is honest work: each task is done alone, the answer is checked against what the blocks actually do, and anything not yet proved is named plainly and practised again. Passing this review means the first half of Grade 3 programming — everything before Scratch — is truly yours.
 
-[Picture — a picture of a picture of a checklist with five ticks — sequence, motion blocks, path, repeats, loop — and a small flag on the one item not yet ticked]
+In your mind's eye: a picture of a checklist with five ticks — sequence, motion blocks, path, repeats, loop. And a small flag on the one item not yet ticked.
 
 ## Say it to your companion
 

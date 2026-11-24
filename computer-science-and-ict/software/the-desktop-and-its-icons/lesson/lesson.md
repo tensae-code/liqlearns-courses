@@ -8,13 +8,13 @@ When your computer finishes starting, you land on one screen before you open any
 
 The **desktop** is the working surface the computer shows after start-up, before any program is opened. It holds the background picture, the taskbar along the bottom with the Start button, and the shortcuts you use most. Managing the desktop means keeping it tidy and reachable: the things you open every day sit on it, and everything else lives in folders where it can be found.
 
-[Picture — the desktop]
+In your mind's eye: the desktop.
 
 ## Sub lesson 2 — Icons — pictures that open things
 
 An **icon** is a small picture that stands for a program, a file or a folder. Double-clicking an icon opens the thing it stands for; a small arrow on an icon marks it as a **shortcut**, a pointer to the real thing, which stays safely in its folder. Icons can be moved, arranged and renamed, and deleting a shortcut never deletes the real program or file behind it.
 
-[Picture — icons]
+In your mind's eye: icons.
 
 ## Say it to your companion
 

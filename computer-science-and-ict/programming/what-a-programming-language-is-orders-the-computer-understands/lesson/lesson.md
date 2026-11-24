@@ -8,13 +8,13 @@ A television obeys a remote, a phone rings when it is called, a game obeys its p
 
 Grade 6 defines it first: a **programming language** is **orders written by fixed rules** that the computer understands and carries out. The book names its examples — **Scratch, Java, Visual Basic, C, HTML** — and starts with Scratch, whose orders are blocks. Break the rules and the order is not understood.
 
-[Picture — orders written by fixed rules]
+In your mind's eye: orders written by fixed rules.
 
 ## Sub lesson 2 — Programming around us
 
 Grade 8 opens the same idea wider: **programming around us** — the **programmer writes the controlling orders**, and programming is lines of orders a machine executes. The book’s witnesses are everyday: a **remote-control TV**, a **phone ringing when called**, and **electronic games** — each one runs orders somebody wrote.
 
-[Picture — programming around us]
+In your mind's eye: programming around us.
 
 ## Say it to your companion
 

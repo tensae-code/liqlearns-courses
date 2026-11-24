@@ -8,13 +8,13 @@ One paragraph in your document matters more than the rest. In this lesson you ma
 
 **Shading** fills the area **behind a paragraph or a piece of text** with a colour. The words stay the same; the ground under them changes, so the paragraph lifts off the page. Choose a light shade — dark shading swallows dark letters — and shade only what must stand out, or nothing does.
 
-[Picture — shading — colour behind the words]
+In your mind's eye: shading — colour behind the words.
 
 ## Sub lesson 2 — A border — a frame around the paragraph
 
 A **border** draws a **frame (lines) around a paragraph** — on all sides, or only where you choose. Border and shading combine: a framed, lightly shaded paragraph reads as a separate notice inside the document — the way warnings, rules and announcements are set apart.
 
-[Picture — a border — a frame around the paragraph]
+In your mind's eye: a border — a frame around the paragraph.
 
 ## Say it to your companion
 

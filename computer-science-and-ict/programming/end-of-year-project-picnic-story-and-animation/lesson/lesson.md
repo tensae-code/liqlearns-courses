@@ -8,13 +8,13 @@ A whole year of small skills becomes one finished piece. Bhutan's Class IV end-o
 
 The project opens with **writing**: the picnic story is typed in **Notepad**, the plain text program, so the words come first with no formatting to hide behind. The story is planned before typing — who went, where, what happened — then typed, read back and corrected, and **saved as a file** with a clear name in the class folder, using the year's file skills.
 
-[Picture — The picnic story — words first in Notepad]
+In your mind's eye: the picnic story — words first in Notepad.
 
 ## Sub lesson 2 — The picnic animation — drawing and movement in Scratch
 
 The story is then **drawn and animated in Scratch**: a backdrop for the picnic place, sprites for the people and things in the story, and motion and looks blocks to make the scene move — a walk to the picnic spot, food appearing, a greeting said. The finished project is shown to the class: story file and animation together, each part made with a skill the year taught separately.
 
-[Picture — The picnic animation — drawing and movement in Scratch]
+In your mind's eye: the picnic animation — drawing and movement in Scratch.
 
 ## Say it to your companion
 

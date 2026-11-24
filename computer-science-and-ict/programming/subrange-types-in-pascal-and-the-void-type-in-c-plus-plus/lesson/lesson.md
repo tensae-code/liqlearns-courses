@@ -8,13 +8,13 @@ Grade 10's types chapter pairs two extremes in one sitting: the type that holds 
 
 The **subrange** (met in Grade 7) is a slice of an ordinal host: `1..31`, `'A'..'Z'`, `Mon..Fri` — a variable holds only values inside the slice, and range checking **stops the program at a violating assignment**. C++ has **no subrange type**: the same honesty must be written by hand, as checks inside the program — the concept survives, the guard changes from the type system to the programmer's discipline. The comparison is the point: what one language enforces, the other must remember.
 
-[Picture — The subrange — Pascal's guarded slice]
+In your mind's eye: the subrange — Pascal's guarded slice.
 
 ## Sub lesson 2 — void — the type of no value
 
 C++'s **void** names the **absence of a value**: a function declared void **returns nothing** — it is C++'s spelling of Pascal's **procedure**, against value-returning functions. No variable can be of type void; nothing is stored, compared or printed. Its lesson is symmetry's: a type system needs a word not only for every kind of value but for **no value**, so that 'this subprogram only acts' is said in the type itself. Pascal says it with a keyword (procedure), C++ with a type (void) — the pair's neat parting difference.
 
-[Picture — void — the type of no value]
+In your mind's eye: void — the type of no value.
 
 ## Say it to your companion
 

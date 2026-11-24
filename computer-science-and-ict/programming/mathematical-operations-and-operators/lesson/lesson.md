@@ -8,13 +8,13 @@ A computer program that cannot add, subtract, multiply and divide cannot do much
 
 Programs do **mathematical operations** — addition, subtraction, multiplication and division — and each operation is written with its **operator**, the sign that orders it, such as + and −. Grade 8's book adds the **relational operations** beside them: comparing two values to ask which is bigger, smaller, or whether they are equal.
 
-[Picture — The operations and their operators]
+In your mind's eye: the operations and their operators.
 
 ## Sub lesson 2 — Unary and binary operations
 
 An operation can work on **two values** or on **one**. A **binary operation** takes two values, like adding two numbers. A **unary operation** works on a single value, like changing a number's sign. Naming which kind an operation is tells you how many values it needs before it can run.
 
-[Picture — Unary and binary operations]
+In your mind's eye: unary and binary operations.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ In Grade 11 Papua New Guinea turns learners into junior system administrators. A
 
 **System administration** is **looking after a computer system so it works for its users**, and its first task with any fault is to **diagnose — find what is wrong — before changing anything**. Administration is done by the **system administrator**, who keeps notes of changes so the system can be understood and restored.
 
-[Picture — Diagnosing a system]
+In your mind's eye: diagnosing a system.
 
 ## Sub lesson 2 — Performing basic administration
 
 The basic tasks include **managing user accounts**, keeping settings and access under control, and **regular maintenance that prevents faults and breakdowns**. After any fix, an administrator **tests that the system works**, and the documentation of what was done helps the next administrator who meets the system.
 
-[Picture — Performing basic administration]
+In your mind's eye: performing basic administration.
 
 ## Say it to your companion
 

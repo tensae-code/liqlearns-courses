@@ -8,13 +8,13 @@ The internet and an intranet use the same technology but differ in ownership and
 
 The internet and an intranet use the same technology but differ in ownership and access: the internet is public and worldwide, an intranet belongs to one organisation and admits only its members The learner compares the two side by side — who owns it, who may enter, what it is used for — and places real examples on the right side Because the similar names hide an opposite difference — open to everyone against open to members only — and confusing them risks real information.
 
-[Picture — Comparison between internet and intranet]
+In your mind's eye: comparison between internet and intranet.
 
 ## Sub lesson 2 — Doing it — Comparison between internet and intranet in practice
 
 Internet versus Intranet is learned by doing: the learner compares the two side by side — who owns it, who may enter, what it is used for — and places real examples on the right side The learner compares the two side by side — who owns it, who may enter, what it is used for — and places real examples on the right side Because the similar names hide an opposite difference — open to everyone against open to members only — and confusing them risks real information.
 
-[Picture — Doing it — Comparison between internet and intranet in practice]
+In your mind's eye: doing it — Comparison between internet and intranet in practice.
 
 ## Say it to your companion
 

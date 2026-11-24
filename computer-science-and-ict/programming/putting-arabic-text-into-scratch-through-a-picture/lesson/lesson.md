@@ -8,13 +8,13 @@ You type your name in Arabic into Scratch’s painter — and the letters will n
 
 The lesson starts from the limit, stated plainly: **Scratch 2’s painter cannot type Arabic**. Any Arabic headline, name or title a project needs must arrive another way — the limit is in the tool, not in the language.
 
-[Picture — the problem — the painter cannot type Arabic]
+In your mind's eye: the problem — the painter cannot type Arabic.
 
 ## Sub lesson 2 — The workaround — write in MS Paint, save as a picture, upload
 
 The book’s route goes around the limit in three steps: write the text in **MS Paint**, **save it as a picture** — **JPEG, PNG or GIF** — and **upload** the picture into Scratch, where it works as a sprite or costume. The project proves it: **your full name, each word a different colour**.
 
-[Picture — the workaround — write in MS Paint, save as a picture, upload]
+In your mind's eye: the workaround — write in MS Paint, save as a picture, upload.
 
 ## Say it to your companion
 

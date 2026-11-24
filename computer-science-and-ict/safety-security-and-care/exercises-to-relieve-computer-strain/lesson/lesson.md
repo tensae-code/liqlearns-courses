@@ -8,13 +8,13 @@ Your shoulders ache, your eyes sting — the computer will not rest you; you mus
 
 Computer work strains the body quietly: the **eyes** tire from holding one distance and blinking too little, the **neck and shoulders** tighten from holding still, the **back** suffers a held posture, and the **wrists and fingers** repeat the same small movements hundreds of times. None of it hurts in the first minute — that is the trap. Strain is the price of stillness, and it is paid either in small change during the work — short breaks and exercises — or all at once later, as pain. The book puts this lesson inside its health chapter, straight after healthy computer use: first set the workplace right, then move the body the work has held.
 
-[Picture — a learner at a desk doing the eye exercise — looking far across the room]
+In your mind's eye: a learner at a desk doing the eye exercise — looking far across the room.
 
 ## Sub lesson 2 — The exercises themselves
 
 The exercises are short and done at the desk. For the **eyes**: look far away across the room and back, roll the eyes gently, and rest them closed or covered for a moment. For **neck and shoulders**: turn the head slowly side to side, drop each ear toward its shoulder, roll the shoulders in circles, and shrug up and release. For the **back**: stand, stretch the arms overhead, and bend gently. For **wrists and fingers**: make fists and open the fingers wide, rotate the wrists, and shake the hands out. The working rule is rhythm, not marathon: a **short break with exercises every half hour or so of work**, and a stop at once if anything hurts sharply — exercises relieve strain, they are not a test to push through.
 
-[Picture — the strain-relief exercise set — neck turn, shoulder roll, back stretch, wrist and finger movements]
+In your mind's eye: the strain-relief exercise set — neck turn, shoulder roll, back stretch, wrist and finger movements.
 
 ## Say it to your companion
 

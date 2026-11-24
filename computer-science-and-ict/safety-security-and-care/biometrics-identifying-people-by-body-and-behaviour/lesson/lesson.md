@@ -8,13 +8,13 @@ A password can be forgotten, lent, stolen. A fingerprint travels with its owner 
 
 The body's measures: **fingerprint** — the fingertip's ridges, unique even between twins; **hand geometry** — the hand's lengths and widths; **iris** — the eye's coloured pattern, stable for life and readable at a distance; **face** — the geometry of features every camera now hunts; and **DNA** — the deepest text, read from blood or hair, certain and slow, the courtroom's standard. Each trades speed, cost and certainty differently: the phone unlocks by face in a blink, the court convicts by DNA in a month.
 
-[Picture — By body — fingerprint, hand, iris, face, DNA]
+In your mind's eye: by body — fingerprint, hand, iris, face, DNA.
 
 ## Sub lesson 2 — By behaviour — keystroke, signature, voice; and where biometrics serve
 
 Behaviour identifies too: **keystroke rhythm** — your typing's timing, as personal as a gait; **signature dynamics** — not the signature's shape but its speed and pressure in the making; and **voice** — the print a phone bank checks when you speak. **Where biometrics are used**: attendance that cannot be signed by a friend, borders and national ID, phones and banking, examinations and elections. The closing caution belongs with the power: a stolen password can be changed; a stolen fingerprint cannot — so biometric data demands the strongest keeping of all the data in this course.
 
-[Picture — By behaviour — keystroke, signature, voice; and where biometrics serve]
+In your mind's eye: by behaviour — keystroke, signature, voice; and where biometrics serve.
 
 ## Say it to your companion
 

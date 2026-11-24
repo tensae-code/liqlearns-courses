@@ -8,13 +8,13 @@ Unit 7, Examples of digital/traditional entrepreneurship (Investors Lounge, Zero
 
 This part of Pakistan (Punjab)'s book teaches **, Examples of digital/traditional entrepreneurship** — covering: Unit 7, Examples of digital/traditional entrepreneurship (Investors Lounge, Zero Makeup, PayPal, Foodpanda and EatOye, Shopsy.pk). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Examples of digital/traditional entrepreneurship]
+In your mind's eye: , Examples of digital/traditional entrepreneurship.
 
 ## Sub lesson 2 — Doing it — Pakistani Digital Entrepreneurs and Their Startups in practice
 
 **Doing it — Pakistani Digital Entrepreneurs and Their Startups in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Pakistani Digital Entrepreneurs and Their Startups in practice]
+In your mind's eye: doing it — Pakistani Digital Entrepreneurs and Their Startups in practice.
 
 ## Say it to your companion
 

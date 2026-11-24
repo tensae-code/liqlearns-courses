@@ -8,13 +8,13 @@ Grade 6 listed the forms of information one by one. Grade 10 gathers them: Mongo
 
 **Package information** is **many kinds of information gathered into one whole** about one subject: the text tells, the numbers measure, the pictures show, the sounds and recordings witness — bound together by the subject they all serve. A package is more than a pile: its kinds **complete and check each other** — the caption explains the photograph, the table corrects the memory the text relied on. Mongolia's term names what every real task already handles: nobody knows a place by its map alone or its story alone, but by the package.
 
-[Picture — The package — kinds gathered about one subject]
+In your mind's eye: the package — kinds gathered about one subject.
 
 ## Sub lesson 2 — The example — a subject packaged whole
 
 The book then **works an example**: one subject taken and its information packaged — the kinds collected, ordered, and held together so the whole can be used, stored and presented as one thing. The example teaches the package's discipline: every kind admitted must earn its place by adding what the others cannot say, and the whole must stay **one** — a reader who takes the package takes the subject entire, not whichever kind happened to be nearest. The chapters after this one are the package's working life: how it is processed, stored, and merged with other information into finished work.
 
-[Picture — The example — a subject packaged whole]
+In your mind's eye: the example — a subject packaged whole.
 
 ## Say it to your companion
 

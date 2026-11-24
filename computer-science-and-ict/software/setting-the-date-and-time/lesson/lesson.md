@@ -8,13 +8,13 @@ Look at the clock at the end of the taskbar. If it says the wrong day or the wro
 
 The computer's **clock** sits at the end of the **taskbar**, and beside the time it keeps the **date** — day, month and year. Clicking the clock, or opening the date-and-time settings through the Control Panel, opens a box showing both. You do not set the time by moving the taskbar clock itself: the clock is only the display. The settings box behind it is where the real date and time live and where they are changed.
 
-[Picture — the taskbar clock and the date-and-time settings box opened beside it]
+In your mind's eye: the taskbar clock and the date-and-time settings box opened beside it.
 
 ## Sub lesson 2 — Setting them right
 
 To set the date, pick the right **month and year**, then click the right **day** in the calendar. To set the time, change the **hour, minutes and seconds** in the time box. Then confirm with **Apply or OK** — until you confirm, nothing has changed. Afterwards, look at the taskbar clock again: it now shows the corrected time, and files you save from now on carry the right date and time stamp.
 
-[Picture — the settings box — calendar for the date, time box for the hour, and the OK button]
+In your mind's eye: the settings box — calendar for the date, time box for the hour, and the OK button.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 6 §6.1 Definition and Overview of Emerging Technologies (AI, cloud computi
 
 This part of Pakistan (Punjab)'s book teaches **Definition and Overview of Emerging Technologies** — covering: Unit 6 §6.1 Definition and Overview of Emerging Technologies (AI, cloud computing, blockchain, IoT, AR/VR, 5G, quantum computing, biotechnology). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Definition and Overview of Emerging Technologies]
+In your mind's eye: definition and Overview of Emerging Technologies.
 
 ## Sub lesson 2 — Doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice
 
 **Doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice]
+In your mind's eye: doing it — Emerging Technologies Survey AI IoT AR VR 5G Quantum in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Pilots crash a thousand simulated planes before touching a real one. AI learns t
 
 A **model** is a simplified copy of a thing or process, keeping what matters for a purpose; a **simulation** is running that model to watch what happens. In AI their role is double: models are what AI systems themselves contain (a learned model of the world or the data), and simulations are where AI **trains and is tested safely** — a driving system meets a million virtual storms before one real road. Types of models used: **mathematical** (equations), **physical** (built things), and **computer** models — the AI kind, increasingly.
 
-[Picture — The concept and its role in AI]
+In your mind's eye: the concept and its role in AI.
 
 ## Sub lesson 2 — Applications and software
 
 Applications in AI: **training environments** for robots and game agents, **testing** systems against rare and dangerous cases no real trial may stage, **predicting** (weather, epidemics, traffic) by simulating the model forward, and **designing** — trying a bridge, a network, a policy in the model first. The **software** ranges from general simulation environments to the AI frameworks' own simulators. Jordan closes the AI unit here because the idea completes it: intelligence that can model the world can practise in the model — and so, in these lessons, can the pupil.
 
-[Picture — Applications and software]
+In your mind's eye: applications and software.
 
 ## Say it to your companion
 

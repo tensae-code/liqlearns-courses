@@ -12,7 +12,7 @@ When two objects share a feature, that feature is a **similar feature** of the t
 
 To compare objects, look at one feature at a time. Ask: is the colour the same? Is the shape the same? Is the size the same? Each 'the same' answer is a similar feature you have found.
 
-[Picture — a picture of two pencils side by side, and a red ball beside a red apple, with the shared colour circled]
+In your mind's eye: two pencils side by side, and a red ball beside a red apple, with the shared colour circled.
 
 ## Say it to your companion
 

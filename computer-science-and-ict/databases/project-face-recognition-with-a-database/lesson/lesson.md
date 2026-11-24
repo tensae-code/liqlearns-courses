@@ -8,13 +8,13 @@ Two of Kuwait's courses meet in one project: the AI that sees faces, and the dat
 
 The project separates two acts pupils confuse: **detection** — finding that a face is in the picture, and where — and **recognition** — saying whose it is. Detection is done with OpenCV's **Haar cascade**, a trained detector that scans the image for face patterns. What the camera sees is then **logged in an SQLite database** — a face_logs / attendance table of who was seen and when — because, as the book insists, **a database beats a text file**: the log can be queried, counted and kept honestly, not merely appended and forgotten.
 
-[Picture — Detection, recognition, and the log — the Term 1 build]
+In your mind's eye: detection, recognition, and the log — the Term 1 build.
 
 ## Sub lesson 2 — The Term 2 growth — employees, queries and reports that decide
 
 Term 2 grows the logger into a system: an **employees table linked to a face_log table** (the relational year's parent and child), Haar detection feeding the log, and **queries and reports that support decisions** — who was late how often, which door saw whom — finished as **PDF reports built with ReportLab**, the program itself printing its findings. The project's lesson is the integration: neither the AI nor the database is the product — the product is a system whose seeing is remembered, questioned, and reported.
 
-[Picture — The Term 2 growth — employees, queries and reports that decide]
+In your mind's eye: the Term 2 growth — employees, queries and reports that decide.
 
 ## Say it to your companion
 

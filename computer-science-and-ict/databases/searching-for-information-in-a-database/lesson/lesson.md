@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Methods of searching for information** — covering: §10: Methods of searching for information. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Methods of searching for information]
+In your mind's eye: methods of searching for information.
 
 ## Sub lesson 2 — Methods of searching for information
 
 This part of Kazakhstan's book teaches **Methods of searching for information** — covering: 3.3: Methods of searching for information. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Methods of searching for information]
+In your mind's eye: methods of searching for information.
 
 ## Say it to your companion
 

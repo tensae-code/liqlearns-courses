@@ -8,13 +8,13 @@ A class that shares computers needs a filing system everyone can use. Your proje
 
 The project builds **three main folders — documents, pictures and videos** — and inside each, **subfolders for teachers and pupils**, so every kind of file has a home and every person's work has its own place inside it. The structure is the lesson of the unit made real: main folders, subfolders, clear names.
 
-[Picture — folders for the class — teachers and pupils inside]
+In your mind's eye: folders for the class — teachers and pupils inside.
 
 ## Sub lesson 2 — Settings changed — and a part drawn in Paint
 
 The project also practises the unit's **basic Windows settings** — the settings work of the unit, applied on the real machine. It ends in **Paint**: draw your **favourite computer part** — the part you would save first — and file the drawing in the pictures folder your project just built.
 
-[Picture — settings changed — and a part drawn in paint]
+In your mind's eye: settings changed — and a part drawn in paint.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A spreadsheet is a calculating engine, and Mongolia's Grade 9 unit puts it to ma
 
 To **solve by tabulating** is to turn the word problem into a table: the quantities become columns, the steps become rows, and each cell's formula takes the problem one step further. The method's power is inspection: every intermediate value stands visible, so a wrong turn is found at its row, not at the answer. Mongolia's pupils tabulate the word problems of their maths course — growth, exchange, journeys — the spreadsheet as the rough paper that checks itself.
 
-[Picture — Tabulating a word problem — the sheet as the working]
+In your mind's eye: tabulating a word problem — the sheet as the working.
 
 ## Sub lesson 2 — Sequences and Fibonacci — each term from those before
 
 A **number sequence** is tabulation's natural citizen: a column where each term is built by a rule from the ones before — add a constant, multiply, alternate. The crown is the **Fibonacci sequence**: each term the sum of the two before it — 1, 1, 2, 3, 5, 8… — built in the sheet by one formula copied down, term growing out of term exactly as the rule says. The lesson's delight is scale: the fiftieth term, unthinkable by hand, costs the sheet nothing — the rule is written once, and repetition is free.
 
-[Picture — Sequences and Fibonacci — each term from those before]
+In your mind's eye: sequences and Fibonacci — each term from those before.
 
 ## Say it to your companion
 

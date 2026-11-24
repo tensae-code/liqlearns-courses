@@ -8,13 +8,13 @@ One program that does five jobs, or five programs that work as one family — Fi
 
 An **integrated package** is a **single program** that combines the common jobs — word processing, spreadsheet, database and graphics — inside one program with one way of working. Its strength is sameness: learn one program and every job feels familiar, and moving work between its parts is easy. Its limit is depth: each job inside the package is a **lighter version** of the job done by a program built only for it — integrated packages serve everyday work, not the heaviest professional work.
 
-[Picture — The integrated package — one program, several jobs]
+In your mind's eye: the integrated package — one program, several jobs.
 
 ## Sub lesson 2 — The software suite — a family of full programs
 
 A **software suite** is the opposite shape: a **set of separate, full programs** — a real word processor, a real spreadsheet, a database program and more — **sold and installed together** as one product, sharing a look, a way of working and easy movement of work between them. Microsoft Office is the book's standing example class: the programs are independent and complete; the suite is the family they are gathered into. Fiji's test for telling the shapes apart: count the programs — one program wearing several hats is a package; several full programs in one box is a suite.
 
-[Picture — The software suite — a family of full programs]
+In your mind's eye: the software suite — a family of full programs.
 
 ## Say it to your companion
 

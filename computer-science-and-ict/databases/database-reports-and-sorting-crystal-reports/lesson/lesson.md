@@ -8,13 +8,13 @@ The VB database year ends on paper. Kuwait's Grade 12 projects chapter builds pr
 
 **Crystal Reports** is Visual Basic 2008's **report builder**: it takes the database's records and lays them out as a **printed report** — title, headings, the records in a designed order, totals where amounts run — a document for readers who never open the program. Building one means choosing the source records, the fields shown, and the layout; the report holds no data of its own, so printing it tomorrow shows tomorrow's data in the same arrangement.
 
-[Picture — Crystal Reports — the database, printed properly]
+In your mind's eye: crystal Reports — the database, printed properly.
 
 ## Sub lesson 2 — Sorting — the report's order is a decision
 
 A report is read in the order it presents, so **sorting** is taught beside building: the records arranged **by the field the reader thinks in** — names alphabetical for a directory, dates in order for a log, amounts largest-first for a dues list. An unsorted report makes its reader hunt; a sorted one answers at walking pace. Kuwait places reports and sorting in the Projects chapter because they are the database program's public face: the part the world actually receives.
 
-[Picture — Sorting — the report's order is a decision]
+In your mind's eye: sorting — the report's order is a decision.
 
 ## Say it to your companion
 

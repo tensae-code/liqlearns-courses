@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Share your Post — publishing a post �
 
 This part of South Sudan's book teaches **Share your Post — publishing a post** — covering: Share your Post — publishing a post. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Share your Post — publishing a post. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — share your Post — publishing a post is part of that chain..
 
-[Picture — Share your Post — publishing a post]
+In your mind's eye: share your Post — publishing a post.
 
 ## Sub lesson 2 — Doing it — Share your Post — publishing a post in practice
 
 This part of South Sudan's book teaches **Doing it — Share your Post — publishing a post in practice** — covering: Share your Post — publishing a post. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Share your Post — publishing a post. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Share your Post — publishing a post in practice is part of that chain..
 
-[Picture — Doing it — Share your Post — publishing a post in practice]
+In your mind's eye: doing it — Share your Post. Publishing a post in practice.
 
 ## Say it to your companion
 

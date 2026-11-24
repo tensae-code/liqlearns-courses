@@ -8,7 +8,7 @@ Drive an imaginary car with your hands: turn left, go, stop — on your commands
 
 Until now, scripts ran and sprites obeyed the script. This lesson hands over the controls: **controlling the sprites' movement (Управление на движението на героите)** means the **user** becomes part of the program — pressing keys (commonly the arrow keys) or clicking, with the sprite responding: move this way when this key is pressed, turn, stop. The program must be built to **listen**: separate small scripts, one per command, each waiting for its event. The learner builds a sprite that can be driven around the stage in all directions, tests every command, and learns the driver's test — a control is only proved when it works every time it is given, and does nothing when it is not.
 
-[Picture — a picture of a picture of a Scratch sprite with four arrows around it, each arrow joined to a small script that starts with its key being pressed]
+In your mind's eye: a picture of a Scratch sprite with four arrows around it, each arrow joined to a small script that starts with its key being pressed.
 
 ## Say it to your companion
 

@@ -10,13 +10,13 @@ An HTML file is a text. But the browser does not keep it as a text: as it loads 
 
 Because it is a tree, the DOM speaks the language of families: a node has one **parent** (the element directly containing it), may have **children** (what it directly contains), and shares its parent with its **siblings**. Your drawing from Do it first is a DOM: the `div` is the parent of `h1` and `p`; `h1` and `p` are siblings; the link `a` is a child of `p`; "Enter" is a text node, child of `a`. Nothing in the tree is decoration: it is the page, in the form a program can work with.
 
-[Picture — a small HTML fragment on the left and its DOM tree on the right, arrows joining each tag to its node]
+In your mind's eye: a small HTML fragment on the left and its DOM tree on the right, arrows joining each tag to its node.
 
 ## Sub lesson 2 — Using the DOM — finding and changing nodes
 
 Why build a tree at all? Because a tree can be **walked and changed**. When JavaScript runs on a page — the subject of the JavaScript lesson — it does not edit the HTML file; it works on the DOM. It can search the tree for one node, most simply by the `id` you gave the element; read what the node contains; and change it: new text, a new attribute, a different style. The browser redraws from the changed tree instantly, so the reader sees the page itself change — a message appears, an error shows under a form field, a menu opens. Every interactive page you have ever used is, underneath, a program climbing this tree. Learn to draw the tree of a fragment and you can predict what a script will find; learn the family words — parent, child, sibling — and you can say precisely where it will land.
 
-[Picture — a script's hand pointing at one highlighted node in a page's tree while the same element glows on the rendered page beside it]
+In your mind's eye: a script's hand pointing at one highlighted node in a page's tree while the same element glows on the rendered page beside it.
 
 ## Say it to your companion
 

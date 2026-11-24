@@ -8,13 +8,13 @@ Unit 5 §5.3 Importance of Programming in today's world
 
 This part of Pakistan (Punjab)'s book teaches **Importance of Programming in today's world** — covering: Unit 5 §5.3 Importance of Programming in today's world. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Importance of Programming in today's world]
+In your mind's eye: importance of Programming in today's world.
 
 ## Sub lesson 2 — Doing it — Why Programming Matters in Todays World in practice
 
 **Doing it — Why Programming Matters in Todays World in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Why Programming Matters in Todays World in practice]
+In your mind's eye: doing it — Why Programming Matters in Todays World in practice.
 
 ## Say it to your companion
 

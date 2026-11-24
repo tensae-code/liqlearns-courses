@@ -10,7 +10,7 @@ A screen makes colour with light. In the **RGB** model every pixel is three lamp
 
 For the human description there is **HSL** — in the French book TSL: **teinte, saturation, luminosité** — hue, saturation, lightness. **Hue** is the colour itself, a position on a circle: red at the top, then orange, yellow, green, blue, violet and back to red. **Saturation** says how pure it is: slide down and every hue fades towards grey. **Lightness** says where it stands between black and white. Your orange from Do it first: hue in the orange sector, saturation high (it is vivid), lightness in the middle. Three numbers again — but numbers a person can reason with, which is why colour pickers offer both systems side by side.
 
-[Picture — the hue circle with saturation fading to grey at the centre and a lightness scale from black to white beside it, one orange marked on all three]
+In your mind's eye: the hue circle with saturation fading to grey at the centre and a lightness scale from black to white beside it, one orange marked on all three.
 
 ## Sub lesson 2 — CMYK — colour in print
 
@@ -18,7 +18,7 @@ Paper does not shine; it reflects. A printer therefore works backwards: it start
 
 Because light and ink build colour by opposite roads, they cannot reach all the same colours: some vivid screen colours — a neon green, an electric blue — have no exact ink mixture, and they print duller. That is why work destined for print is prepared and checked in CMYK from the start, and why the same photo looks different on the screen and on the page — not a fault, but two models with different reaches.
 
-[Picture — a bright screen colour wheel beside a printed page of the same image, the neon colours visibly duller in print, with the four ink cartridges C, M, Y, K below]
+In your mind's eye: a bright screen colour wheel beside a printed page of the same image, the neon colours visibly duller in print, with the four ink cartridges C, M, Y, K below.
 
 ## Say it to your companion
 

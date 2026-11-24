@@ -8,13 +8,13 @@ Unit 3 §3.4.1 Protocols in TCP/IP Suit (FTP, HTTP and HTTPS, SMTP)
 
 This part of Pakistan (Punjab)'s book teaches **Protocols in TCP/IP Suit** — covering: Unit 3 §3.4.1 Protocols in TCP/IP Suit (FTP, HTTP and HTTPS, SMTP). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Protocols in TCP/IP Suit]
+In your mind's eye: protocols in TCP/IP Suit.
 
 ## Sub lesson 2 — Doing it — Protocols of the Internet FTP HTTP SMTP in practice
 
 **Doing it — Protocols of the Internet FTP HTTP SMTP in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Protocols of the Internet FTP HTTP SMTP in practice]
+In your mind's eye: doing it — Protocols of the Internet FTP HTTP SMTP in practice.
 
 ## Say it to your companion
 

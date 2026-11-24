@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Practical guide, Examples — grading a 
 
 This part of South Sudan's book teaches **Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares** — covering: Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares is part of that chain..
 
-[Picture — Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares]
+In your mind's eye: practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares.
 
 ## Sub lesson 2 — Doing it — Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares in practice
 
 This part of South Sudan's book teaches **Doing it — Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares in practice** — covering: Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares in practice is part of that chain..
 
-[Picture — Doing it — Practical guide, Examples — grading a score with if-else; solving a quadratic equation / sum of squares in practice]
+In your mind's eye: doing it — Practical guide, Examples. Grading a score with if-else; solving a quadratic equation / sum of squares in practice.
 
 ## Say it to your companion
 

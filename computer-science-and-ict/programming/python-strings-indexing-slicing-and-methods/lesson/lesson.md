@@ -8,13 +8,13 @@ Grade 10's Python treats text as a sequence a program can measure and cut. The s
 
 A **string** is text held as a **sequence of characters**, so it is **indexed** from 0 like a list: the first character, the last (counted from the end), each reachable by its number. **Slicing** cuts a **run** of characters out — from this index to before that one — and the book's set work spends it on a real string: **splitting the civil ID number** into its meaningful parts by their positions, the state's own numbers read by the pupil's program.
 
-[Picture — Strings, indexing and slicing — text by position]
+In your mind's eye: strings, indexing and slicing — text by position.
 
 ## Sub lesson 2 — Methods and f-strings — working and presenting text
 
 Strings carry **built-in methods** — named operations the course teaches by set: **capitalize** and **lower** for the text's case, **replace** for swapping one piece for another, **center** for padding a string into a width. And **f-string formatting** builds presentable text by placing **values inside the string itself**, in braces, so a sentence is written once with its numbers living in it — the program's speech, formatted where it is spoken.
 
-[Picture — Methods and f-strings — working and presenting text]
+In your mind's eye: methods and f-strings — working and presenting text.
 
 ## Say it to your companion
 

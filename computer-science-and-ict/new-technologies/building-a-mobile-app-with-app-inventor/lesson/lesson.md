@@ -8,13 +8,13 @@ After Python and boards, Grade 9 builds for the device in every pocket — not i
 
 App Inventor's **Designer** is where the app's **screen is built from components**: buttons, labels, text boxes, images and the invisible workers (sensors, storage, sounds) dragged onto a phone-shaped canvas and given their **properties** — text, size, colour, name. The Designer teaches the standing truth of app building: an application is **an interface and a behaviour**, and the interface half can be arranged before a single behaviour is programmed.
 
-[Picture — The Designer — the app's face from components]
+In your mind's eye: the Designer — the app's face from components.
 
 ## Sub lesson 2 — The Blocks Editor — behaviour as events
 
 The **Blocks Editor** programs what the components **do**: blocks snapped into **event handlers** — *when* this button is clicked, *when* this sensor shakes — holding the actions that answer, with the Scratch habits of the earlier years (sequence, selection, variables) spent on a phone's real powers. The app is then **run on a real device** or its emulator, so the builder's loop closes in the hand: design, program, hold it, judge it.
 
-[Picture — The Blocks Editor — behaviour as events]
+In your mind's eye: the Blocks Editor — behaviour as events.
 
 ## Say it to your companion
 

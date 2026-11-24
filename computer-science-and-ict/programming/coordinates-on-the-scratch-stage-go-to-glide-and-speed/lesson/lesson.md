@@ -8,13 +8,13 @@
 
 The stage is a **grid**: **x from −240 to 240** left-to-right, **y from −180 to 180** bottom-to-top, and the **origin** — (0, 0) — at the centre. Every place on the stage has a pair of numbers, and shapes can be drawn from their **corner coordinates**.
 
-[Picture — the stage as a grid — x, y and the origin]
+In your mind's eye: the stage as a grid — x, y and the origin.
 
 ## Sub lesson 2 — Go to, glide — and sensing x and y
 
 **Go to** puts the sprite at the given position at once; **glide** travels there **in seconds** — and the book’s rule of speed is plain: a **longer glide is a slower** move. The **x/y sensing blocks** report where the sprite is, so a program can ask the stage where its sprite stands.
 
-[Picture — go to, glide — and sensing x and y]
+In your mind's eye: go to, glide — and sensing x and y.
 
 ## Say it to your companion
 

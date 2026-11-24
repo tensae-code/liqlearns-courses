@@ -8,13 +8,13 @@ A web page lives on the internet — until you bring a copy home. Grade 2's séa
 
 To **save a web page** is to keep **a copy of the page — its words and pictures — as a file on your own computer**. Before saving, the page is borrowed: it is shown to you from far away, and disappears when the browser closes or the connection stops. After saving, the copy is **yours to open again** from your files. The saved copy does not change when the real page changes — it is the page as it was on the day it was saved.
 
-[Picture — what saving a page keeps]
+In your mind's eye: what saving a page keeps.
 
 ## Sub lesson 2 — Saving the page — and finding it again
 
 The saving is done **from the browser**, while the wanted page is open: the browser's **save** command keeps the page, and the learner gives the copy **a name that says what the page is** and puts it **in the right folder** — the file habits of the course apply to pages as to every file. Afterwards the learner **opens the saved copy from the folder**, without the internet, and checks the words and pictures arrived whole. A saved page that cannot be found again was not saved properly.
 
-[Picture — saving the page — and finding it again]
+In your mind's eye: saving the page — and finding it again.
 
 ## Say it to your companion
 

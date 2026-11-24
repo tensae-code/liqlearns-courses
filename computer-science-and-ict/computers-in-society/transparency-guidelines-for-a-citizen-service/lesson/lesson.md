@@ -8,13 +8,13 @@ A service hides its fee, and the citizen pays whatever is asked. A service publi
 
 **Transparency** means the service's facts are public before anyone asks: what it gives, what it costs, how long it takes, what papers it needs, and who decides. Hidden facts are power over citizens; published facts are power for them — a citizen who knows the real fee and the real waiting time cannot be charged a private one. Digital technology serves transparency directly: the same facts on a website or noticeboard reach everyone at once and cannot be quietly changed for one visitor.
 
-[Picture — Transparency — the service in the open]
+In your mind's eye: transparency — the service in the open.
 
 ## Sub lesson 2 — Accountability — and the guidelines that bind them
 
 **Accountability** is transparency with a name attached: every decision has a decider, every complaint a road and a deadline, every taka a record. The Grade 9 session has teams **write the guidelines** for a real service: publish the charter of fees and times; record each application and its decider; give the citizen a receipt and a complaint number; review the records in the open. Guidelines are promises written before they are tested — the service binds itself in advance, which is the only binding a citizen can rely on.
 
-[Picture — Accountability — and the guidelines that bind them]
+In your mind's eye: accountability — and the guidelines that bind them.
 
 ## Say it to your companion
 

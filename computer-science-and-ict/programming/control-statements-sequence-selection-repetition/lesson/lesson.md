@@ -8,13 +8,13 @@ Unit 3 §3.1 Control Statements (sequential, conditional, repetition)
 
 This part of Pakistan (Punjab)'s book teaches **Control Statements** — covering: Unit 3 §3.1 Control Statements (sequential, conditional, repetition). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Control Statements]
+In your mind's eye: control Statements.
 
 ## Sub lesson 2 — Overview and §11.1.1 Control Structures
 
 This part of Pakistan (Punjab)'s book teaches **Overview and §11.1.1 Control Structures** — covering: Chapter 11 §11.1 Overview and §11.1.1 Control Structures (sequence, selection and repetition; compound statements; the two selection statements if-else and switch). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Overview and §11.1.1 Control Structures]
+In your mind's eye: overview and §11.1.1 Control Structures.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Thirty pupils, thirty marks, one name. Grade 11's structured-types chapter begin
 
 An **array** is a fixed row of values **of one type** under **one name**, each reached by its **index**: Pascal declares `var a: array[1..30] of integer;` — index range and element type in the declaration; C++ writes `int a[30];` — size in brackets, indexes running **0..29**. The element `a[i]` is an ordinary variable of the element type: assignable, readable, computable. The index may itself be a **variable or expression** — that single fact is the array's whole power, because a loop can then compute which element to touch.
 
-[Picture — Declaration and elements — the name with an address]
+In your mind's eye: declaration and elements — the name with an address.
 
 ## Sub lesson 2 — Working the array — loops, and the border's danger
 
 Almost all array work is a **for loop** walking the index across the whole range: reading in, printing out, summing into an accumulator, searching for a value or the greatest element — the patterns Grade 11 calls array processing. The structure's danger stands at its **borders**: an index outside the declared range touches memory that is not the array's — Pascal's range checking (switched on) catches it; C++ lets it pass silently into corruption. Every array program therefore guards its indexes the way drivers guard a cliff road.
 
-[Picture — Working the array — loops, and the border's danger]
+In your mind's eye: working the array — loops, and the border's danger.
 
 ## Say it to your companion
 

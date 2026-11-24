@@ -10,7 +10,7 @@ A digital photo is two things in one file: the picture, and a written record abo
 
 None of this shows in the picture. A photo of a birthday cake looks innocent; its EXIF may say which phone took it, on what day at what minute, and at which house. France's SNT book makes you open this block yourself — in the photography theme you extract a photo's EXIF, and in the localisation theme you hunt a mystery photo's location from the coordinates hiding inside it.
 
-[Picture — one photo shown twice: the picture on the left, and on the right its EXIF record as a list — device, date, settings, GPS numbers]
+In your mind's eye: one photo shown twice: the picture on the left, and on the right its EXIF record as a list — device, date, settings, GPS numbers.
 
 ## Sub lesson 2 — Reading EXIF and finding where a photo was taken
 
@@ -18,7 +18,7 @@ Reading EXIF needs no special power: a photo's **properties** on any computer sh
 
 So the practical rule cuts both ways. EXIF is useful: it sorts your photos by date, maps your travels, proves when a shot was taken. And it is a leak: post an original photo of your home and you may publish your address with it. Many social platforms strip EXIF on upload; sending the original file — by email or messaging — usually keeps it. The book's habit is the right one: know the block exists, read it before you share, and strip the location (most phones offer "remove location" when sharing) when the place is private.
 
-[Picture — a pair of GPS numbers from an EXIF block being placed as a pin on a map]
+In your mind's eye: a pair of GPS numbers from an EXIF block being placed as a pin on a map.
 
 ## Say it to your companion
 

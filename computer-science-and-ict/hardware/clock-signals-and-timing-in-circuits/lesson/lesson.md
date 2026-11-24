@@ -8,13 +8,13 @@ Inside an integrated circuit, nothing moves 'whenever' — everything moves on a
 
 An **oscillator** is the circuit that makes **clock pulses**. A **clock signal** is a **steady stream of pulses**, and its job is to **time when parts of a circuit act**. Clock speed is measured in **hertz — pulses per second**. An oscillator built around a crystal is valued for steady, accurate pulses.
 
-[Picture — Oscillators and clock signals]
+In your mind's eye: oscillators and clock signals.
 
 ## Sub lesson 2 — Timing inside integrated circuits
 
 Inside an integrated circuit, the parts act **in step with the clock signal**, each **clock cycle** (one full pulse period) moving data on. **More pulses per second means a faster clock.** Parts must share the timing so that **data moves between them correctly** — in a computer, the clock coordinates the processor and the other circuits.
 
-[Picture — Timing inside integrated circuits]
+In your mind's eye: timing inside integrated circuits.
 
 ## Say it to your companion
 

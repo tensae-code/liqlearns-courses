@@ -8,7 +8,7 @@ Clap this pattern: clap, clap, stamp — clap, clap, stamp. You did not invent s
 
 Paths grow longer, and inside the long paths the book points at something new: **repeating actions**. The hero walks the same stretch twice, turns the same corner again, and the row of blocks starts to look like a song with a chorus — a part that comes back. This lesson teaches the eye to find that part: read a long row of actions, mark where a group of actions ends and begins again, and say how many times the group repeats. Nothing new is run yet — the loop itself is the next lesson — but every loop ever written starts with this noticing: *these actions repeat, this many times*.
 
-[Picture — a picture of a picture of a long row of action blocks with the repeating group circled twice in the same colour, and the hero walking the same corner twice]
+In your mind's eye: a picture of a long row of action blocks with the repeating group circled twice in the same colour, and the hero walking the same corner twice.
 
 ## Say it to your companion
 

@@ -12,7 +12,7 @@ To put text in a picture: open Paint, make or open your drawing, choose the **te
 
 Choose the place before you click: words under the drawing for a name or caption, words in an empty space so they can be read clearly. Once text is placed and you click away, it becomes part of the picture itself — so think first, then type. A good picture-with-text can be read at a glance: short words, clear place, nothing covering the drawing's important parts.
 
-[Picture — a picture of a Paint drawing of a house with the words 'My house' typed under it, and the text tool marked with a letter shown beside it]
+In your mind's eye: a Paint drawing of a house with the words 'My house' typed under it, and the text tool marked with a letter shown beside it.
 
 ## Say it to your companion
 

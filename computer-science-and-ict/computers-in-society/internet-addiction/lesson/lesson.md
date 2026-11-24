@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Қоғамдағы интернетке тәуелділік мәселелері** — covering: 1.2 Қоғамдағы интернетке тәуелділік мәселелері. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Қоғамдағы интернетке тәуелділік мәселелері]
+In your mind's eye: қоғамдағы интернетке тәуелділік мәселелері.
 
 ## Sub lesson 2 — Обсуждение проблемы интернет-зависимости
 
 This part of Kazakhstan's book teaches **Обсуждение проблемы интернет-зависимости** — covering: §2 Обсуждение проблемы интернет-зависимости. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Обсуждение проблемы интернет-зависимости]
+In your mind's eye: обсуждение проблемы интернет-зависимости.
 
 ## Say it to your companion
 

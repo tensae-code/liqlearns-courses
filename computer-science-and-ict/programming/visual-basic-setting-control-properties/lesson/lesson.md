@@ -8,13 +8,13 @@ A placed control is generic until its properties say otherwise. The second build
 
 A **property** is a **characteristic** of a control — its text, its name, its size, its colour, whether it can be seen — each with a value the Properties window shows. Changing a property changes what the control **is like** without changing what it **is**: the same button, captioned otherwise. Kuwait isolates the concept because properties are half the visual language: the form is assembled from controls, and finished by their properties.
 
-[Picture — Properties — what a control is like]
+In your mind's eye: properties — what a control is like.
 
 ## Sub lesson 2 — Design time and run time — and the set examples
 
 A property can be set at **design time** — in the Properties window while building, the value fixed before the program runs — or at **run time** — by **code** while the program runs, so the value can answer to events (the label turns red when the answer is wrong). The book's worked examples are the daily two: **centring a control** on its form (a position property set exactly), and the **colour property** — a control's colours set deliberately, since a program's colours are read as meaning before its words are.
 
-[Picture — Design time and run time — and the set examples]
+In your mind's eye: design time and run time — and the set examples.
 
 ## Say it to your companion
 

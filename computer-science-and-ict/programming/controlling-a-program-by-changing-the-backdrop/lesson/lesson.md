@@ -8,7 +8,7 @@ Your story moves to a new place — and in the new place, different characters s
 
 Events start scripts, and a backdrop change is an event. The block **when backdrop switches to …** tops a script and names one backdrop; the moment the stage switches to that backdrop, every script waiting on that change starts. This turns backdrop switching into **program control**: switch to the forest backdrop and the forest scripts wake — the forest animals appear, the forest sounds and actions begin — while scripts waiting on the beach backdrop stay asleep. A project with several scenes uses one switch per scene, so each place in the story runs its own part of the program exactly when the stage arrives there, with no flag click and no sprite click needed.
 
-[Picture — a picture of a stage switching from a room backdrop to a forest backdrop, with a script topped by a when-backdrop-switches-to-forest block waking up as the switch happens]
+In your mind's eye: a stage switching from a room backdrop to a forest backdrop, with a script topped by a when-backdrop-switches-to-forest block waking up as the switch happens.
 
 ## Say it to your companion
 

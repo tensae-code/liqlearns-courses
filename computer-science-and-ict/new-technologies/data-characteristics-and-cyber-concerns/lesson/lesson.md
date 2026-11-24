@@ -8,13 +8,13 @@ Before Jordan teaches how to secure data in the cloud, it teaches what data is l
 
 Data in cyberspace has characteristics that shape its whole security story: it is **copyable without loss** (a stolen copy leaves the original sitting still — theft without an empty shelf), **movable at light speed** (a file is abroad before an alarm rings), **persistent** (copies outlive intentions), and **searchable** (a million records answer a question in a second — for the owner and for the thief alike).
 
-[Picture — The characteristics of data]
+In your mind's eye: the characteristics of data.
 
 ## Sub lesson 2 — The concerns and the ethics
 
 The main **concerns** follow: **confidentiality** (who sees it), **integrity** (whether it was changed), **availability** (whether it is there when needed), and **privacy** (whether its use respects the people it describes). The **ethical issues** stand beside the technical ones: data collected for one purpose used for another, people profiled without knowing, owners who profit from data they did not create. Jordan's placement is deliberate — ethics is inside the security lesson, not an ornament after it.
 
-[Picture — The concerns and the ethics]
+In your mind's eye: the concerns and the ethics.
 
 ## Say it to your companion
 

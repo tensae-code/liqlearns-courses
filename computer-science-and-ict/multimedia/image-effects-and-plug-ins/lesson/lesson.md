@@ -8,13 +8,13 @@ Grade 7 met the Effects menu on drawings. Grade 9 returns to it as photo work �
 
 Applied to **photographs**, the **Effects menu** changes its meaning: artistic effects turn a photo toward painting for a poster; distortions bend it for a joke or a diagram; the adjustments' neighbours sharpen and soften. The Grade 9 judgement is the photo's purpose again — an effect on a photograph is a claim about it, and the pupil who effects a documentary photo without saying so has crossed the ethics line the course drew before. Effects are chosen, placed on their own layer, and owned.
 
-[Picture — The Effects menu — on photographs now]
+In your mind's eye: the Effects menu — on photographs now.
 
 ## Sub lesson 2 — Plug-ins — extending the editor, and the 3D text project
 
 A **plug-in** is an added module that gives the editor new powers: **installed** once — the plug-in file placed where Paint.NET reads its extensions and the program restarted — its effects join the menu as citizens. Mongolia's set project spends them on **3D text**: letters given depth, light and shadow by plug-in effects, for the titles photographs alone cannot make. The lesson's standing rule closes both halves: an editor is not a fixed shelf but a growing bench — what it cannot do today, a plug-in may teach it tomorrow, and the pupil is responsible for every tool on the bench.
 
-[Picture — Plug-ins — extending the editor, and the 3D text project]
+In your mind's eye: plug-ins — extending the editor, and the 3D text project.
 
 ## Say it to your companion
 

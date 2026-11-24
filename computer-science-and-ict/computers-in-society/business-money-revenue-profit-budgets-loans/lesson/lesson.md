@@ -8,13 +8,13 @@ Unit 9 §9.5 Financial Concepts for Business (§9.5.1 revenue and profit; expens
 
 This part of Pakistan (Punjab)'s book teaches **Financial Concepts for Business** — covering: Unit 9 §9.5 Financial Concepts for Business (§9.5.1 revenue and profit; expenses and budgeting — a Rawalpindi bakery's monthly budget; §9.5.2 investment and savings — gold as saving in Pakistan; §9.5.3 loans and interest). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Financial Concepts for Business]
+In your mind's eye: financial Concepts for Business.
 
 ## Sub lesson 2 — Doing it — Business Money Revenue Profit Budgets Loans in practice
 
 **Doing it — Business Money Revenue Profit Budgets Loans in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Business Money Revenue Profit Budgets Loans in practice]
+In your mind's eye: doing it — Business Money Revenue Profit Budgets Loans in practice.
 
 ## Say it to your companion
 

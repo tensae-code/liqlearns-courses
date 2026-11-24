@@ -8,13 +8,13 @@ Chapter 4. Programming 2D games, 4.1: PyGame library
 
 This part of Kazakhstan's book teaches **Programming 2D games, 4.1: PyGame library** — covering: Chapter 4. Programming 2D games, 4.1: PyGame library. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Programming 2D games, 4.1: PyGame library]
+In your mind's eye: programming 2D games, 4.1. PyGame library.
 
 ## Sub lesson 2 — Background image in PyGame
 
 This part of Kazakhstan's book teaches **Background image in PyGame** — covering: 4.2: Background image in PyGame. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Background image in PyGame]
+In your mind's eye: background image in PyGame.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Take one branching task: a question, two ways. Run it answering yes; run it answ
 
 Grade 4's first **"Знам и мога" (I know and I can)** check proves the **branching** strand: the **branching block in Scratch** (from Урок 7, stocked in the loops-and-conditions lesson) and the **branched algorithm** (Урок 8), exercised through the lesson's theme — **"Пътешествие из България" (A journey through Bulgaria)** — where decisions about a journey are the branching tasks. As always in this book, the tasks are done alone and checked against what the script actually does on **both** answers; a branch proved only on its yes-way is not proved. Anything not proved is named and practised again.
 
-[Picture — a picture of a picture of a map of a journey with one decision point, a checklist beside it with two boxes — "yes way proved" and "no way proved" — the second box still empty]
+In your mind's eye: a picture of a map of a journey with one decision point, a checklist beside it with two boxes — "yes way proved" and "no way proved". The second box still empty.
 
 ## Say it to your companion
 

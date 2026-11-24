@@ -8,13 +8,13 @@ A material gives a surface a colour; a texture gives it a world — bricks, fabr
 
 A **texture** is an image **wrapped onto** the object's surface: the flat picture is mapped across the mesh, so the object wears the picture's detail — a plane becomes a poster or a landscape skin; a **UV sphere** wears a wrapped map, its picture pinched at the poles the way every globe's map is. Wrapping is a fitting craft: the picture must land the right way up, at the right scale, with its seams where eyes forgive them.
 
-[Picture — Textures — wrapping a picture onto a surface]
+In your mind's eye: textures — wrapping a picture onto a surface.
 
 ## Sub lesson 2 — Lighting the scene — light objects and their power
 
 A 3D scene is dark until lit, and its lights are objects too: **light objects** are placed in the scene — their kind (point, sun, spot) deciding how their light spreads, their **power** how strongly it burns. Lighting is composition, not plumbing: Kuwait teaches the pupil to place light as photographers do — a key light to model the forms, softer light to lift the shadows — because the same model reads cheap or precious by its lighting alone.
 
-[Picture — Lighting the scene — light objects and their power]
+In your mind's eye: lighting the scene — light objects and their power.
 
 ## Say it to your companion
 

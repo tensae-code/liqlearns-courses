@@ -8,13 +8,13 @@ Kuwait's Grade 7 design course is taught in GIMP — free software, chosen delib
 
 **GIMP** is a free **image editor** — a program for making and changing pictures, pixel by pixel and layer by layer. Its **screen** gathers the working parts: the canvas where the image lives, the toolbox of instruments, and the panels where the current work is adjusted. Its **preferences** are the program's own settings — how it behaves and shows itself — and Kuwait has the pupil set them at the meeting, because a producer's tool should be arranged before the producing starts.
 
-[Picture — Meeting GIMP — screen and preferences]
+In your mind's eye: meeting GIMP — screen and preferences.
 
 ## Sub lesson 2 — Layers — the idea everything stands on
 
 A GIMP image is built in **layers**: transparent sheets stacked over each other, each carrying part of the picture — one the background, one a person, one the text — while the eye sees the stack as one image. Layers are why digital design is forgiving: a part can be moved, hidden, edited or removed **without touching the parts on other layers**. Every GIMP lesson after this one — blending, drawing, posters — is layers at work.
 
-[Picture — Layers — the idea everything stands on]
+In your mind's eye: layers — the idea everything stands on.
 
 ## Say it to your companion
 

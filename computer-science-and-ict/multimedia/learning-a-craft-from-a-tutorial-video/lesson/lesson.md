@@ -8,13 +8,13 @@ learning a craft from a tutorial video — watching a maker's video in steps, pa
 
 In Grade 5's track B, the teacher of a craft is a **tutorial video**: a maker shows, step by step, how a real thing is made — a paper craft, a household item. The learning way is not to watch it through like a story, but to **watch a step, pause, and do that step** with your own materials, then watch the next. Before starting, the class gathers **everything the video's maker lists** — materials and tools — because a craft stopped halfway by a missing piece teaches mostly frustration.
 
-[Picture — The video is the teacher — watch in steps, not all at once]
+In your mind's eye: the video is the teacher — watch in steps, not all at once.
 
 ## Sub lesson 2 — Hands follow eyes — checking, fixing, finishing
 
 Doing the step is its own skill: **compare** your piece with the video's piece at every pause — same fold, same join, same size? Where yours differs, **rewind and watch that step again** before going on; a small error carried forward becomes a big one. At the end stands a **finished, usable product** — and the track's real lesson beside the craft: a video can teach a pair of hands almost anything, if the hands work while the eyes watch.
 
-[Picture — Hands follow eyes — checking, fixing, finishing]
+In your mind's eye: hands follow eyes — checking, fixing, finishing.
 
 ## Say it to your companion
 

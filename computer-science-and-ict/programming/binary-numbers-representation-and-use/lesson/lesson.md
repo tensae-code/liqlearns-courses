@@ -8,13 +8,13 @@ You count in tens because you have ten fingers. A computer counts in twos becaus
 
 **Binary** uses two digits, **0 and 1**; each 1 or 0 is a **bit**. Places grow by doubling: from the right they are worth **1, 2, 4, 8, 16, 32…** — powers of two. To read a binary number, add the values of the places holding a 1: 1011 = 8 + 0 + 2 + 1 = **11**. Eight bits make a **byte**, the unit bigger quantities are counted in.
 
-[Picture — places worth powers of two]
+In your mind's eye: places worth powers of two.
 
 ## Sub lesson 2 — Why the machine counts this way
 
 A computer's circuits have exactly two reliable states — current flowing or not, switch **on or off** — so binary is the number system the hardware itself speaks. Numbers, and in time letters, pictures and sound too, are all stored as patterns of bits. The cost is length: binary numbers are long to write, which is why programmers also group bits (for example in hexadecimal) when they must read machine values.
 
-[Picture — why the machine counts this way]
+In your mind's eye: why the machine counts this way.
 
 ## Say it to your companion
 

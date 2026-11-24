@@ -8,13 +8,13 @@ A robot that only moves is mute. Kuwait's third robotics lesson gives the virtua
 
 The robot controller carries a small **display**, and blocks write **text onto it**: the robot can show its name, its mission step, a number it has measured, or a warning — the program's state made visible to the humans watching. Display text is the debugging window as well as the face: while a mission runs, what the display says tells the programmer what the robot thinks it is doing.
 
-[Picture — Showing text on the display]
+In your mind's eye: showing text on the display.
 
 ## Sub lesson 2 — Giving the robot sound
 
 **Sound** blocks give the robot a voice of effects: tones and sounds played at the program's chosen moments — a beep at a mission's start, a signal at its finish, an alarm at an obstacle. Expression is engineered, not decorated: display for what must be **read**, sound for what must be **noticed** without looking. Movement, then expression — the unit's arc from a machine that goes to a machine that communicates.
 
-[Picture — Giving the robot sound]
+In your mind's eye: giving the robot sound.
 
 ## Say it to your companion
 

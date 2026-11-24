@@ -8,13 +8,13 @@ Google+ was Google's social network: profiles and pages published posts to strea
 
 Google+ was Google's social network: profiles and pages published posts to streams, and its organising idea was the Circle — sorting the people you follow into groups The learner meets Google+ as the book presents it — its profiles and pages, its streams, and how it stood among the social networks of the book's time Because the book teaches social networks platform by platform, and Google+ shows a network organised around groups of people rather than one public list.
 
-[Picture — Google+]
+In your mind's eye: google+.
 
 ## Sub lesson 2 — Doing it — Google+ in practice
 
 Google+ — the Social Network is learned by doing: the learner meets Google+ as the book presents it — its profiles and pages, its streams, and how it stood among the social networks of the book's time The learner meets Google+ as the book presents it — its profiles and pages, its streams, and how it stood among the social networks of the book's time Because the book teaches social networks platform by platform, and Google+ shows a network organised around groups of people rather than one public list.
 
-[Picture — Doing it — Google+ in practice]
+In your mind's eye: doing it — Google+ in practice.
 
 ## Say it to your companion
 

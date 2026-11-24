@@ -8,13 +8,13 @@ Some words in a document are meant to be looked at, not just read: titles, poste
 
 **WordArt** is Word's decorative text: a short piece of writing turned into an **object** with a chosen style — shaped, coloured, outlined, shadowed. It is inserted like a picture, moved and resized like a picture, and edited by reopening its text. The Grade 6 book gives WordArt a full lesson between tables and formulas: decoration is a real document skill, with its own tool.
 
-[Picture — What WordArt is]
+In your mind's eye: what WordArt is.
 
 ## Sub lesson 2 — When decoration serves the document
 
 WordArt serves **titles and posters**: one short line, large, saying the document's name — never whole paragraphs, which become unreadable in decoration. The lesson's taste rule: if a reader must work to read it, it has failed; decoration carries the title and leaves the text plain. Grade 6 pupils practise on the cover of their own document from the course's earlier lessons.
 
-[Picture — When decoration serves the document]
+In your mind's eye: when decoration serves the document.
 
 ## Say it to your companion
 

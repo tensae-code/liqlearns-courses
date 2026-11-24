@@ -8,13 +8,13 @@ A film straight from a camera can be far too big to send or store. In this lesso
 
 A video file is **compressed** to make it **smaller**: a smaller file takes less storage and travels faster. Compression works by keeping less of the original picture and sound information — the encoder throws away detail the eye is least likely to miss, and a **codec** is the recipe that does the squeezing and the un-squeezing. Choosing a stronger compression gives a smaller file every time.
 
-[Picture — why compress, and how]
+In your mind's eye: why compress, and how.
 
 ## Sub lesson 2 — What compression costs — and the codec problem
 
 What is thrown away cannot come back: strong compression **lowers the quality** — pictures soften and block, sound thins. So the maker chooses a balance: small enough to share, clear enough to watch. And a compressed file needs its own **codec** to play: if the computer does not support the file's codec, the file will not play until that codec is available.
 
-[Picture — what compression costs — and the codec problem]
+In your mind's eye: what compression costs — and the codec problem.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ In Papua New Guinea typing is not 'computer class' filler — it is a benchmarke
 
 Typing speed is counted in **words per minute (wpm)** — how many words are typed in one minute. Papua New Guinea's benchmarks rise by grade: **20 wpm in Grade 9**, **30 wpm in Grade 10** and **40 wpm in Grade 11**. Speed grows from **regular practice starting at the home keys**, not from hunting for keys faster.
 
-[Picture — Speed — words per minute]
+In your mind's eye: speed — words per minute.
 
 ## Sub lesson 2 — Accuracy — typing without errors
 
 **Accuracy** is the share of the typing that is **correct**. The benchmarks pair it with speed every time: **80% accuracy in Grade 9**, **75–90% in Grade 10** and **85–100% in Grade 11**. Both are measured together because fast typing full of errors is not good typing; when you make an error in practice, correct it and keep the rhythm.
 
-[Picture — Accuracy — typing without errors]
+In your mind's eye: accuracy — typing without errors.
 
 ## Say it to your companion
 

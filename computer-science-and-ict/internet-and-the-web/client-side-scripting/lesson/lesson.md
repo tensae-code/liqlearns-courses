@@ -8,13 +8,13 @@ Some web pages sit still; others answer your clicks instantly, with no waiting f
 
 **Client-side** means **on the user's (client's) computer**. A client-side script runs **in the web browser** — a common client-side language is **JavaScript**. In client-side scripting the **server sends the page, and the script runs locally**, reacting to user actions like clicks.
 
-[Picture — Scripts that run in the browser]
+In your mind's eye: scripts that run in the browser.
 
 ## Sub lesson 2 — What client-side scripts do
 
 Client-side scripts make pages **interactive**. Form checking by a script happens **before the form is sent to the server**. A page changed by a script changes **in the browser, without a reload**. If scripting is off, the page loses its interactive behaviour. The GUI unit pairs scripting with interactive menus and controls.
 
-[Picture — What client-side scripts do]
+In your mind's eye: what client-side scripts do.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Bisection ignores the function's values; it only reads their signs. Grade 12's s
 
 Draw the **chord** — the straight segment joining the points (a, f(a)) and (b, f(b)). Where it crosses the x-axis, at **c = a − f(a)·(b − a) / (f(b) − f(a))**, stands the method's next estimate: the root as if the function were its chord. Test f(c) and **replace the end whose f has the same sign as f(c)** — the bracket narrows, always keeping opposite signs, but from the side the values accuse. The midpoint was democracy; the chord is cross-examination.
 
-[Picture — The chord's crossing — values, not only signs]
+In your mind's eye: the chord's crossing — values, not only signs.
 
 ## Sub lesson 2 — Speed and its condition — the honest slope
 
 When the function is **nearly straight** across the bracket, the chord's crossing lands almost on the root: convergence in a few steps where bisection needed dozens. The method's assumption is exactly that honesty: a **strongly curving** function can make one bracket end **stick** (its f always losing the comparison), narrowing from one side only — slower, but still bracketed, still certain, because the sign discipline is never surrendered. The stopping rule serves both methods: when the bracket (or the step |c_new − c_old|) is under the demanded precision, report c with its bound.
 
-[Picture — Speed and its condition — the honest slope]
+In your mind's eye: speed and its condition — the honest slope.
 
 ## Say it to your companion
 

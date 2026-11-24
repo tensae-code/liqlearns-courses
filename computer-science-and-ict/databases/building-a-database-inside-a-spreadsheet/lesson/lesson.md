@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **База данных. Создание базы данных в электронных таблицах** — covering: §11 База данных. Создание базы данных в электронных таблицах. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — База данных. Создание базы данных в электронных таблицах]
+In your mind's eye: база данных. Создание базы данных в электронных таблицах.
 
 ## Sub lesson 2 — Электрондық кестеде мәліметтер қорын құру
 
 This part of Kazakhstan's book teaches **Электрондық кестеде мәліметтер қорын құру** — covering: 3.2 Электрондық кестеде мәліметтер қорын құру. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Электрондық кестеде мәліметтер қорын құру]
+In your mind's eye: электрондық кестеде мәліметтер қорын құру.
 
 ## Say it to your companion
 

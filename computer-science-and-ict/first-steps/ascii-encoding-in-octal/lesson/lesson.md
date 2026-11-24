@@ -8,13 +8,13 @@ Every letter a computer holds is a number in disguise — its ASCII code. Malays
 
 **ASCII** gives every character — letters, digits, punctuation, space — its own **code value**: a decimal number agreed everywhere, such as A = 65, B = 66, a = 97, 0 (the digit character) = 48, space = 32. The character itself is never stored; the number is. Finding the value is a table job: the value is looked up, not worked out, and capital and small letters have different values.
 
-[Picture — A character's ASCII value]
+In your mind's eye: a character's ASCII value.
 
 ## Sub lesson 2 — The value, written in octal
 
 The ASCII value is then **converted to octal** by the divide-by-8 method: A = 65 → 65 ÷ 8 = 8 rem 1; 8 ÷ 8 = 1 rem 0; 1 ÷ 8 = 0 rem 1 → read upwards, **101₈**. So the character A is held as octal 101. Malaysia teaches the chain in this order — character, code value, octal — because each step has its own rule and mixing the steps is where errors enter.
 
-[Picture — The value, written in octal]
+In your mind's eye: the value, written in octal.
 
 ## Say it to your companion
 

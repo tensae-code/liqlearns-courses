@@ -8,13 +8,13 @@ Unit 3 §3.8 Using Rapid Typing Tutor; §3.8.2 Home Row position and finger plac
 
 This part of Pakistan (Punjab)'s book teaches **Using Rapid Typing Tutor; §3.8.2 Home Row position and finger placement** — covering: Unit 3 §3.8 Using Rapid Typing Tutor; §3.8.2 Home Row position and finger placement. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Using Rapid Typing Tutor; §3.8.2 Home Row position and finger placement]
+In your mind's eye: using Rapid Typing Tutor; §3.8.2 Home Row position and finger placement.
 
 ## Sub lesson 2 — Doing it — Learning to Type the Home Row Position in practice
 
 **Doing it — Learning to Type the Home Row Position in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Learning to Type the Home Row Position in practice]
+In your mind's eye: doing it — Learning to Type the Home Row Position in practice.
 
 ## Say it to your companion
 

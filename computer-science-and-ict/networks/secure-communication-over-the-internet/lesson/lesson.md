@@ -8,13 +8,13 @@ The internet is a public road: anyone may stand beside it and watch the carts pa
 
 Communication over the internet can be **overheard** (a stranger reads the message), **changed** (a stranger alters it on its way), or **impersonated** (a stranger pretends to be the sender or the bank). Jordan's Grade 7 networks unit names these dangers plainly before the cures, because each cure answers a named danger — there is no 'security' in general, only answers to specific attacks.
 
-[Picture — The dangers on a public road]
+In your mind's eye: the dangers on a public road.
 
 ## Sub lesson 2 — The cures — encryption, certificates, care
 
 The standing cures: **encryption** locks the message so watchers see noise (the locked cart — HTTPS on websites); **certificates and known addresses** prove who is really at the other end; **passwords and second factors** guard the accounts themselves; and **user care** — checking addresses, refusing strange links — guards the human end, where most attacks actually enter. Secure communication is all four together; the strongest lock fails if the user hands over the key.
 
-[Picture — The cures — encryption, certificates, care]
+In your mind's eye: the cures — encryption, certificates, care.
 
 ## Say it to your companion
 

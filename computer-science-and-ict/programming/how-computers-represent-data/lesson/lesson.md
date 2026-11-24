@@ -8,13 +8,13 @@ The computer never sees a letter or a song — it sees patterns of bits. This le
 
 The unit is the **bit** (0 or 1); eight bits make a **byte**, whose 256 possible patterns are enough for a letter, a small number or a piece of a bigger value. Bigger data simply uses more bytes in a row. Storage sizes climb in the familiar ladder — kilobyte, megabyte, gigabyte — each step roughly a thousand of the one before, and every file's size is a count of its bytes.
 
-[Picture — bits, bytes and patterns]
+In your mind's eye: bits, bytes and patterns.
 
 ## Sub lesson 2 — A scheme for every kind of data
 
 Each data kind has its **representation scheme**: numbers by binary place value, characters by a **character code** (each letter assigned a number, stored in binary), images by **pixels** with coded colours, sound by coded samples of the wave. The pattern alone is meaningless — the same byte can be a number, a letter or part of a picture; the **scheme the program expects** decides what it is.
 
-[Picture — a scheme for every kind of data]
+In your mind's eye: a scheme for every kind of data.
 
 ## Say it to your companion
 

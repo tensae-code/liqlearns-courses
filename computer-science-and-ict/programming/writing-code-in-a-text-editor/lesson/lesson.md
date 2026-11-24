@@ -8,13 +8,13 @@ Unit 1 §1.1.2 Text Editor (writing "Hello World" in the Code::Blocks editor; bu
 
 This part of Pakistan (Punjab)'s book teaches **Writing Code in a Text Editor** — covering: Unit 1 §1.1.2 Text Editor (writing "Hello World" in the Code::Blocks editor; build and run). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Writing Code in a Text Editor]
+In your mind's eye: writing Code in a Text Editor.
 
 ## Sub lesson 2 — Doing it — Writing Code in a Text Editor in practice
 
 **Doing it — Writing Code in a Text Editor in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Writing Code in a Text Editor in practice]
+In your mind's eye: doing it — Writing Code in a Text Editor in practice.
 
 ## Say it to your companion
 

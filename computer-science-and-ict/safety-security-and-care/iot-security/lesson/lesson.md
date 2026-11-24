@@ -8,13 +8,13 @@ Every smart thing is a computer, and every computer is a door. A million doors w
 
 IoT things are attacked because they are **many, similar and often weak**: shipped with **default passwords** never changed, software rarely updated, and too small — their owners think — to matter. Attackers gather thousands of such things into **botnets** and aim their combined strength at others; or enter through one weak thing — a camera, a toy — into the whole home or company network behind it.
 
-[Picture — Why IoT is attacked — weak things in vast numbers]
+In your mind's eye: why IoT is attacked — weak things in vast numbers.
 
 ## Sub lesson 2 — Defending — the standing measures
 
 The defences are the course's security craft applied to things: **change default passwords**, keep device software **updated**, give the IoT network its **own segment** apart from computers holding data, switch off features and services a device does not need, and buy from makers who publish updates. Jordan's lesson sits inside network design on purpose: security decided after the design is decoration; security inside the design is architecture.
 
-[Picture — Defending — the standing measures]
+In your mind's eye: defending — the standing measures.
 
 ## Say it to your companion
 

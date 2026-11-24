@@ -8,13 +8,13 @@ A simulation is not one kind of thing. Papua New Guinea's Grade 12 guide sorts m
 
 Inside a simulation, an **entity** is **a thing that moves through or sits in the system** — the customers in a shop simulation. A **process** is **what happens to entities over time** — those customers being served at the counter. A simulation model represents the entities and the processes together.
 
-[Picture — Models of entities and processes]
+In your mind's eye: models of entities and processes.
 
 ## Sub lesson 2 — Different types of models
 
 Models are grouped by **how they represent the system**. A **physical model** is a real, scaled copy you can touch. A **computer model** is a program that imitates the system. Different systems need different kinds of models, so the type is chosen by **what must be tested**.
 
-[Picture — Different types of models]
+In your mind's eye: different types of models.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ mind maps — organising ideas visually around a centre, with branches for main 
 
 A **mind map** (sơ đồ tư duy) organises ideas **visually**: the main topic sits in the **centre**, the main ideas grow out of it as **branches**, and details hang from the branches as **twigs**. One or two **keywords** ride each branch — the map is a picture of thinking, not sentences in disguise. Vietnam's Grade 6 book teaches it with **MindMaple Lite** named openly: draw the centre, add branches, and let the map grow as the ideas come — reordering branches is cheaper than rewriting notes.
 
-[Picture — Centre, branches, twigs — the shape of a mind map]
+In your mind's eye: centre, branches, twigs — the shape of a mind map.
 
 ## Sub lesson 2 — Using a mind map — planning, learning, presenting together
 
 The map earns its place three ways: **planning** (a project's parts seen whole before work starts), **learning** (a lesson's structure held in one picture, easier to remember than a page of lines), and **presenting together** — Grade 9's practical uses visual tools, mind maps among them, to present information in **exchange and collaboration**, where the map on the screen gives a group one shared picture to point at, question and improve.
 
-[Picture — Using a mind map — planning, learning, presenting together]
+In your mind's eye: using a mind map — planning, learning, presenting together.
 
 ## Say it to your companion
 

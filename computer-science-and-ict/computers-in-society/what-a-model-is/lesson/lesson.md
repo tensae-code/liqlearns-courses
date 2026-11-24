@@ -10,7 +10,7 @@ A **model** is a made thing that stands for a real thing.
 
 Look at a model car. It has wheels, windows and the shape of a real car — but you can hold it in one hand, and nobody can drive it. It shows you what a real car is like, smaller and simpler. That is a model's job: to show the real thing's shape and parts, in a size your eyes and hands can learn from.
 
-[Picture — a small model car beside a real car, the same shape in two sizes]
+In your mind's eye: a small model car beside a real car, the same shape in two sizes.
 
 A model is not the real thing. It leaves out what you do not need, and keeps what you are learning. Because it is small and safe, you can turn it over, look underneath, and make a new one if it breaks — things you cannot do with the real thing.
 
@@ -24,7 +24,7 @@ Some models are flat: a picture or a drawing that shows what a thing looks like.
 
 And some models copy how a real thing is made and dressed. The book's own examples include models of Turkmen clothing: a small made copy of the national dress shows its shape, its colours and its patterns, so a child can learn them closely without the real dress being worn.
 
-[Picture — a small model of Turkmen national dress, showing its shape, colours and patterns]
+In your mind's eye: a small model of Turkmen national dress, showing its shape, colours and patterns.
 
 Hold or flat, every model does the same job: it stands for a real thing and shows what that thing is like.
 

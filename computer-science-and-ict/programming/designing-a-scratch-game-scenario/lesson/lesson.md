@@ -8,13 +8,13 @@ Section 2, Lesson 9: The scenario of a game (genre, aim, rules, characters, plot
 
 This part of Kazakhstan's book teaches **, Lesson 9: The scenario of a game** — covering: Section 2, Lesson 9: The scenario of a game (genre, aim, rules, characters, plot). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , Lesson 9: The scenario of a game]
+In your mind's eye: , Lesson 9. The scenario of a game.
 
 ## Sub lesson 2 — Lesson 12: Practical work on the game
 
 This part of Kazakhstan's book teaches **Lesson 12: Practical work on the game** — covering: Lesson 12: Practical work on the game. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 12: Practical work on the game]
+In your mind's eye: lesson 12. Practical work on the game.
 
 ## Say it to your companion
 

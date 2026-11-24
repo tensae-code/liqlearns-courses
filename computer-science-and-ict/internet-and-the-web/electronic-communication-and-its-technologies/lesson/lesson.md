@@ -8,13 +8,13 @@ Grade 7's last unit changes the subject from the machine to each other. Mongolia
 
 **Electronic communication** is communication carried over networks between people who are not together: written, spoken or seen, it travels as data and arrives across any distance. Set against **face-to-face** talk, its trades are plain: it gains distance, speed and a kept record; it loses the face, the tone and the touch — and gains dangers the room never had, which the unit's ethics lesson will name. Naming the trade first is Mongolia's way: the technologies that follow are judged against the talk they replace.
 
-[Picture — E-communication against face-to-face]
+In your mind's eye: e-communication against face-to-face.
 
 ## Sub lesson 2 — The technology family — WWW, social networks, e-mail, chat, video conferences
 
 The carriers form one family, each with its own tempo. The **WWW** publishes pages for anyone to read. **Social networks** link people into ongoing shared spaces. **E-mail** sends letters that wait to be read. **Chat** talks live in short written turns. **Video conferences** restore face and voice across the distance. One family, five tempos — from the page that waits for the world to the call that happens now — and the unit walks them in that order: read, link, write, chat, meet.
 
-[Picture — The technology family — WWW, social networks, e-mail, chat, video conferences]
+In your mind's eye: the technology family — WWW, social networks, e-mail, chat, video conferences.
 
 ## Say it to your companion
 

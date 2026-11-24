@@ -8,13 +8,13 @@ Yesterday you saved a drawing and closed it. Today the screen is empty and the w
 
 A saved file lives in the **folder** where you saved it, under the **name** you gave it. Opening starts by finding it again: open the folder — the Documents folder or the folder your class uses — and look for the file's icon and name. Bhutan's Class IV book teaches opening right after creating and saving, because a file you cannot find again might as well not exist: save with a clear name, in a known folder, and the finding is easy.
 
-[Picture — Finding the file you saved]
+In your mind's eye: finding the file you saved.
 
 ## Sub lesson 2 — Opening it — double-click and the program returns
 
 **Double-click** the file and the program that made it opens with your work inside, exactly as you left it. A file can also be opened from inside its program: **File → Open**, choose the folder, choose the name, and confirm. What you must not do is start the work again from nothing — the saved copy is the work. When you finish, save again so the new changes join the old, and close the file when the lesson ends.
 
-[Picture — Opening it — double-click and the program returns]
+In your mind's eye: opening it — double-click and the program returns.
 
 ## Say it to your companion
 

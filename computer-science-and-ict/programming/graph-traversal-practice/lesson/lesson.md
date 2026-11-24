@@ -8,13 +8,13 @@ graph traversal practice — running depth-first and breadth-first traversal ove
 
 The specialist book closes its graph strand with a **synthesis practical**: take one graph and traverse it **both ways**. **Depth-first** dives along one path, so its order lists a deep chain first; **breadth-first** spreads ring by ring around the start, so its order lists the near vertices first. Same graph, same start — **two different visit orders**, both complete, both correct. The practical's first skill is mechanical honesty: run each walk with its own memory (stack for depth, queue for breadth) and never let the two orders blur.
 
-[Picture — One graph, two walks — the orders differ]
+In your mind's eye: one graph, two walks — the orders differ.
 
 ## Sub lesson 2 — Choosing the walk — what the problem asks decides
 
 The comparison's point is choice. **Breadth-first** answers 'nearest' questions — its rings are distances, so the first time it reaches a vertex is by the **fewest edges**. **Depth-first** answers 'reachable and structured' questions — connectedness, cycles, orderings — and uses memory only along one path. The practical ends with mixed problems: for each, name the walk **before** running it, and give the reason in the problem's own words — the traversal is chosen by the question, never by habit.
 
-[Picture — Choosing the walk — what the problem asks decides]
+In your mind's eye: choosing the walk — what the problem asks decides.
 
 ## Say it to your companion
 

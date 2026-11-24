@@ -8,7 +8,7 @@ Point to the way you want a character on the screen to go. Say the moves out lou
 
 After sequences, the book gives the steps a new form: **motion blocks**. A motion block is one movement written as a block — move forward, turn — and the hero (the character in the code.org Course 1 puzzles) does exactly the movement the block says. Blocks snap together in a row, and the hero follows the row from the first block to the last, just as it followed a spoken sequence. The number inside a move can matter: a longer move carries the hero further. Reading a row of motion blocks before running it — saying where the hero will end — is the habit this lesson builds: first read the blocks, then run them, then check whether the hero went where the blocks promised.
 
-[Picture — a picture of a picture of three motion blocks snapped in a row — move, turn, move — with the hero character following the same path on a small map beside them]
+In your mind's eye: a picture of three motion blocks snapped in a row — move, turn, move. With the hero character following the same path on a small map beside them.
 
 ## Say it to your companion
 

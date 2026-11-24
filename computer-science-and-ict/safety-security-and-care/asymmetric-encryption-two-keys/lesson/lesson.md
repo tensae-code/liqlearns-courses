@@ -10,7 +10,7 @@ In **asymmetric** encryption every person holds not one key but a **pair**, made
 
 Picture it as padlocks. Ana hands out open padlocks — copies of her public key — to the whole world and keeps the only opening key on her own chain. Ben puts his message in a box and snaps Ana's padlock shut. From that moment **nobody can open the box except Ana** — not a thief who steals it, not even Ben, who locked it. There was never a shared secret to intercept: the thing that travelled (the open padlock, the public key) is useless for opening.
 
-[Picture — asymmetric-padlocks: open padlocks handed out to a crowd, one box snapped shut, and the single opening key staying on its owner's chain]
+In your mind's eye: asymmetric-padlocks. Open padlocks handed out to a crowd, one box snapped shut, and the single opening key staying on its owner's chain.
 
 So: to write secretly **to** someone, encrypt with **their public key**. Only **their private key** — which never travelled — can read it. The direction is the whole lesson; get it the wrong way round and the system protects nothing.
 
@@ -18,7 +18,7 @@ So: to write secretly **to** someone, encrypt with **their public key**. Only **
 
 The key-distribution problem does not get a better courier here — it **dissolves**. Public keys may travel by any road, however watched, because they can only lock, never unlock. Private keys never travel at all. Two people who have never met can exchange secret messages the day one of them publishes a public key, which is why your browser can open a protected connection to a shop on another continent in under a second — the web's HTTPS begins exactly here.
 
-[Picture — asymmetric-handshake: a browser and a distant shop exchanging a public key openly, then a small symmetric key travelling inside the locked box]
+In your mind's eye: asymmetric-handshake. A browser and a distant shop exchanging a public key openly, then a small symmetric key travelling inside the locked box.
 
 The price is speed: asymmetric operations are heavy mathematics, far too slow to encrypt a film or a disk. So real systems **marry the pair of ideas**, as the last lesson promised: asymmetric encryption is used once, at the start, to carry a freshly made **symmetric key** safely to the other side; then symmetric encryption — fast — carries everything else. And the pair has a second trick, run in the reverse direction: what your **private** key locks, your **public** key can check — which is a signature, and is the next lesson.
 

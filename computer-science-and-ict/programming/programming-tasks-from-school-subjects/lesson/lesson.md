@@ -8,13 +8,13 @@ Astronomy, geography, biology, physics — each arrives carrying a task and a ru
 
 Each task in this practicum starts in **another subject**: a physics relationship to calculate, a geography quantity to compare, a biology or ecology count to model, an astronomy cycle to work out. The informatics part is the translation: the subject's rule becomes **formulas and steps** a program can run, its data becomes the program's input, and its expected results become the check. The subjects named are astronomy, geography, biology and ecology, and physics — the sciences whose school material is already rules and numbers.
 
-[Picture — four subject books — astronomy, geography, biology, physics — each handing a task card to one program in the middle]
+In your mind's eye: four subject books — astronomy, geography, biology, physics. Each handing a task card to one program in the middle.
 
 ## Sub lesson 2 — Solving and checking across subjects
 
 The solving order repeats the Grade 10 practicum's: understand the subject task first (what is asked, what rule governs it), plan the program, write it, and **test it on the subject's known cases** — values whose answers the subject itself supplies, in its textbook or from the teacher. A program that calculates a physics task wrong is not a programming success with a physics error; it is a wrong answer, and the fault can sit in either subject's part — the rule as translated, or the code as written — so both are checked. The practicum's claim is the course's claim: programming is a tool the other subjects can use.
 
-[Picture — a program's answer being checked against a subject textbook's known answer, with a tick and a cross as the two outcomes]
+In your mind's eye: a program's answer being checked against a subject textbook's known answer, with a tick and a cross as the two outcomes.
 
 ## Say it to your companion
 

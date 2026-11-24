@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Creating a logo** — covering: 5.2: Creating a logo. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Creating a logo]
+In your mind's eye: creating a logo.
 
 ## Sub lesson 2 — The process of creating a logo
 
 This part of Kazakhstan's book teaches **The process of creating a logo** — covering: 5.3: The process of creating a logo. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — The process of creating a logo]
+In your mind's eye: the process of creating a logo.
 
 ## Say it to your companion
 

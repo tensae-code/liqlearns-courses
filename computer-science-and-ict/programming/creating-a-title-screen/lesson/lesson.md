@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Создаем заставку** — covering: 5.3 Создаем заставку. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Создаем заставку]
+In your mind's eye: создаем заставку.
 
 ## Sub lesson 2 — Создаем заставку и улучшаем проект
 
 This part of Kazakhstan's book teaches **Создаем заставку и улучшаем проект** — covering: §24 Создаем заставку и улучшаем проект. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Создаем заставку и улучшаем проект]
+In your mind's eye: создаем заставку и улучшаем проект.
 
 ## Say it to your companion
 

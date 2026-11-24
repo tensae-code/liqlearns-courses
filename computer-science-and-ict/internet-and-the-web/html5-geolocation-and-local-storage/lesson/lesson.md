@@ -8,13 +8,13 @@ Pages used to forget you the moment you left and had no idea where you were. Thi
 
 **Geolocation** asks the browser for the device's position — **latitude and longitude** — gathered from GPS, Wi-Fi or network signals. The browser **always asks the user first**; refuse, and the page gets nothing. Pages use it for maps, local search and delivery estimates, and a careful page must still work for users who say no.
 
-[Picture — geolocation — with permission]
+In your mind's eye: geolocation — with permission.
 
 ## Sub lesson 2 — Local storage — the page remembers
 
 **Local storage** gives each website a small store **in the browser**: **key–value pairs** of text (a name for each value, like a labelled drawer) saved by the page's code and **still there** after the tab closes and the browser restarts — settings, drafts and preferences live there. Its cousin **session storage** forgets when the tab closes. Storage is per-site: one site cannot read another's drawers.
 
-[Picture — local storage — the page remembers]
+In your mind's eye: local storage — the page remembers.
 
 ## Say it to your companion
 

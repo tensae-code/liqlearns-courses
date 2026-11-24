@@ -8,13 +8,13 @@ Lesson 11: The windmill model — building a Lego Education WeDo 2.0 model (Smar
 
 This part of Kazakhstan's book teaches **Lesson 11: The windmill model** — covering: Lesson 11: The windmill model — building a Lego Education WeDo 2.0 model (Smart Hub, motor, sensors). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 11: The windmill model]
+In your mind's eye: lesson 11. The windmill model.
 
 ## Sub lesson 2 — Модель мельницы
 
 This part of Kazakhstan's book teaches **Модель мельницы** — covering: 11. Модель мельницы. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Модель мельницы]
+In your mind's eye: модель мельницы.
 
 ## Say it to your companion
 

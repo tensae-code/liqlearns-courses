@@ -8,7 +8,7 @@ Here is a friendship graph: seven pupils, an edge wherever two are friends. A is
 
 Measuring a graph starts with **distance**: between two nodes, count the edges on a **shortest path** joining them. To find all distances from one node, spread out in waves: the node itself is at distance 0; its neighbours at 1; their other neighbours at 2; and so on, each node labelled the first time the wave reaches it — the wave cannot arrive later by a shorter road, because it expands one edge at a time. On the Do it first graph, from B: A, C, D at 1; E and F at 2 (through C and D); G at 3. The largest of a node’s distances is its **eccentricity** — how far that node sits from the farthest corner of its world. B’s eccentricity is 3, set by distant G.
 
-[Picture — the seven-pupil graph with waves of colour spreading from B: distance 0, then 1, then 2, then 3 at G]
+In your mind's eye: the seven-pupil graph with waves of colour spreading from B. Distance 0, then 1, then 2, then 3 at G.
 
 ## Sub lesson 2 — Centre, radius and diameter — and small worlds
 
@@ -16,7 +16,7 @@ Now measure the whole graph. Every node has an eccentricity; the smallest of the
 
 Then the astonishment the SNT book ends with: real social graphs are vast yet their diameters are tiny. Milgram’s 1960s letter experiment suggested about **six degrees of separation** between strangers; measured on Facebook’s whole graph, the average distance came out at **4.74**. Hubs — the few nodes with enormous numbers of edges — shrink the world: almost everyone is a few handshakes from almost everyone else.
 
-[Picture — a huge crowd of dots joined by edges, with one short highlighted path of five edges joining two distant strangers]
+In your mind's eye: a huge crowd of dots joined by edges, with one short highlighted path of five edges joining two distant strangers.
 
 ## Say it to your companion
 

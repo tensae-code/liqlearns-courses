@@ -8,13 +8,13 @@ Open ArcMap and the screen is a workplace: a list on the left, a map in the midd
 
 The **ArcMap window** divides into named parts. The **map display** in the centre draws the layers. The **table of contents** at the left lists the layers in drawing order, each with its **tick box** (shown or hidden) and its **symbol**. Above sit the **menu bar** and **toolbars** — the standard tools for opening, saving and printing, and the tools toolbar for working on the map itself. Naming the parts first means every later instruction can point.
 
-[Picture — The parts of the ArcMap window]
+In your mind's eye: the parts of the ArcMap window.
 
 ## Sub lesson 2 — Table of contents — the map's control list
 
 The **table of contents** is more than a list: the **top layer draws last and sits on top**, so order is meaning — labels and towns above the land they name. Dragging a layer changes the drawing order; the tick box **switches a layer without removing it**; clicking a layer's name **selects** it so tools act on it. Rwanda's S1 walkthrough starts here because a learner who controls the table of contents controls the map.
 
-[Picture — Table of contents — the map's control list]
+In your mind's eye: table of contents — the map's control list.
 
 ## Say it to your companion
 

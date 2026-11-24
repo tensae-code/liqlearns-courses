@@ -8,7 +8,7 @@ Walk a square on the floor counting your steps: same steps each side, same corne
 
 **"Моят робот и фигурите" (My robot and the shapes)** gives the Blue-Bot a drawing job: drive the **shapes (фигури)**. A square is four equal **steps** and four equal **quarter-turns** — the robot-artist lesson and the pen-drawing lesson, now with wheels on a mat. A rectangle keeps the turns and changes two step-counts; a shape that will not close has a step or a turn that disagrees with its opposite — and the fix is found by **reading the program back**, comparing side with side, turn with turn. Planning happens in robot language before the robot moves: steps and turns written in order, the whole shape walked by a finger on the mat first. The pride of the lesson is exactness you can see: a closed shape, drawn by a machine, from a program you wrote.
 
-[Picture — a picture of a picture of the bee robot driving a square on a mat, the square's sides labelled with equal step counts and each corner marked with a quarter-turn arrow]
+In your mind's eye: a picture of the bee robot driving a square on a mat, the square's sides labelled with equal step counts and each corner marked with a quarter-turn arrow.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Not every sort compares neighbours. Malaysia's second sort scatters the values i
 
 **Bucket sort** begins with **buckets**: ranges that cover the values — for marks out of 100, buckets 0–9, 10–19, …, 90–100. Every value is **placed in the bucket its size belongs to** — 37 into the 30s bucket, 8 into the 0s bucket. No comparisons between values happen in this step; the value's own size names its bucket. Scattering works when the ranges are known in advance and the values spread across them — a list of ages, marks or prices fits; a list with no known range does not.
 
-[Picture — Scatter — values into their buckets]
+In your mind's eye: scatter — values into their buckets.
 
 ## Sub lesson 2 — Order each bucket, then gather
 
 Inside each bucket, the few values are put **in order** (by a simple sort — the buckets are small, so even bubble sort is quick there). Then the buckets are **gathered in bucket order** — all of the 0s bucket, then all of the 10s, and so on — and the gathered line is the sorted list. Malaysia pairs bucket sort with bubble sort to make the contrast explicit: bubble sort moves values by comparing neighbours; bucket sort moves them by knowing where values of each size belong.
 
-[Picture — Order each bucket, then gather]
+In your mind's eye: order each bucket, then gather.
 
 ## Say it to your companion
 

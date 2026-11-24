@@ -8,13 +8,13 @@ Two programs, identical words — one printed flush-left in a solid slab, one st
 
 **Indentation** is the practice of starting lines that live **inside** a block further right: the body of an if, the inside of a loop, the steps of a sub-program each take one step in. The séance (l'importance de l'indentation) shows Square CT programs with and without: same instructions, but only the indented one **shows its skeleton** — you can see what the condition governs and where the loop's body ends without reading a word.
 
-[Picture — Steps show belonging]
+In your mind's eye: steps show belonging.
 
 ## Sub lesson 2 — Indentation is meaning, kept honest
 
 Indentation is not decoration: in block representations and logigrammes it mirrors the **structure itself**, and in text languages the same steps keep humans (and some languages, the machine) certain about belonging. The séance's test is cruel and fair: scramble a program's indentation and watch readers misjudge its behaviour — then restore it and feel the certainty return. Programmers indent because programs are read a hundred times for every writing.
 
-[Picture — Indentation is meaning, kept honest]
+In your mind's eye: indentation is meaning, kept honest.
 
 ## Say it to your companion
 

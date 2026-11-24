@@ -8,13 +8,13 @@ A new building needs its lift tested before anyone rides it. Grade 9 simulates t
 
 The lift’s pieces are sprites with jobs: **floor-number sprites with several costumes** (one costume per floor number), **door sprites that glide open and closed**, **open/close buttons**, and **direction arrows** showing the lift’s travel. The stage becomes the lift shaft, drawn and working.
 
-[Picture — floors, doors, buttons, arrows]
+In your mind's eye: floors, doors, buttons, arrows.
 
 ## Sub lesson 2 — Current floor, new floor, direction — moving floor by floor
 
 Three variables steer: **current floor, new floor and direction**. The movement logic is careful logic — **repeat-until and wait-until with AND/OR** move the lift **floor by floor** towards the new floor, stop it on arrival, and only then glide the doors. A simulation must obey the real machine’s order: arrive first, doors after.
 
-[Picture — current floor, new floor, direction — moving floor by floor]
+In your mind's eye: current floor, new floor, direction — moving floor by floor.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Think of your grandparents' village or town when they were young. News travelled
 
 Human societies have changed their centre before. In an **agricultural society**, most people worked the land and food was the key resource. In an **industrial society**, factories and machines took the centre, and energy and manufactured goods became the key resources. The book's story is that we have moved once more.
 
-[Picture — three scenes side by side — fields and farmers, a factory with chimneys, and a city of screens and networks]
+In your mind's eye: three scenes side by side — fields and farmers, a factory with chimneys, and a city of screens and networks.
 
 As computers and networks spread in the second half of the twentieth century, more and more people stopped making things with their hands and started working with information itself — collecting it, processing it, storing it and passing it on. Scholars began to speak of a new kind of society growing out of the industrial one, and the name they gave it is the **information society**.
 
@@ -16,7 +16,7 @@ As computers and networks spread in the second half of the twentieth century, mo
 
 An **information society** is a society in which the creation, processing, storage and sharing of information is a central activity — information is treated as a key resource, the way land was in the agricultural age and energy in the industrial age.
 
-[Picture — a town webbed with glowing network lines joining a school, a hospital, a farm, a shop and homes]
+In your mind's eye: a town webbed with glowing network lines joining a school, a hospital, a farm, a shop and homes.
 
 Its basic features, as the book gives them, are these. **Information is a core resource** — organisations rise or fall by how well they use it. **Information technology runs through everything** — production, services, government, school and home all work through networks and information systems. **Information work grows** — more jobs are about data and knowledge than about making physical goods. And **information flows fast and far** — a message, a price or a lesson can cross the world in seconds, so distance matters less than it ever did.
 

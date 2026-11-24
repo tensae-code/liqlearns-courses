@@ -8,13 +8,13 @@ An array declared is an array empty. This lesson fills it properly, keeps count 
 
 Elements are **entered** one by one — typed in a **fill loop** (cin >> a[i]) or assigned from the program — while a counter **n** records **how many elements are live**. Capacity and count are different numbers: the array may hold 100 and contain 7. Every later walk uses **n**, not the capacity, as its limit.
 
-[Picture — entering elements with a live count]
+In your mind's eye: entering elements with a live count.
 
 ## Sub lesson 2 — Computations over the filled part
 
 With the array filled, **basic computations** walk the live elements: the **sum**, the **average** (sum divided by n — the live count, not the capacity), each element transformed (doubled into a second array, say). The classic fault is dividing by capacity or walking into the unfilled tail where garbage values wait; the live-count discipline prevents both.
 
-[Picture — computations over the filled part]
+In your mind's eye: computations over the filled part.
 
 ## Say it to your companion
 

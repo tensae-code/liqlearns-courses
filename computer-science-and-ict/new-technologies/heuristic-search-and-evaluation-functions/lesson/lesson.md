@@ -8,13 +8,13 @@ Blind search walks a dark library by rule. Heuristic search carries a lamp: a gu
 
 A **heuristic function h(n)** estimates the cost from a node n to the goal: straight-line distance for a route (whatever the roads do), tiles out of place for a puzzle. A good heuristic is **informed** (it uses the problem's own knowledge), **cheap to compute**, and ideally **admissible** — never overestimating the true cost, so the search it guides stays optimal. Heuristic search orders its frontier by promise, expanding the most hopeful node first.
 
-[Picture — The heuristic function — an estimate with a name]
+In your mind's eye: the heuristic function — an estimate with a name.
 
 ## Sub lesson 2 — Evaluation functions — judging a node whole
 
 An **evaluation function f(n)** scores a node for expanding: it may join the cost already spent, g(n), with the heuristic estimate, h(n) — f(n) = g(n) + h(n), the shape of the famous A* search — balancing 'how far I've come' against 'how far I seem to go'. Jordan's lesson closes with the craft's warning: a heuristic is a guess with consequences — a lying heuristic doesn't just slow the search, it can walk it confidently away from the goal.
 
-[Picture — Evaluation functions — judging a node whole]
+In your mind's eye: evaluation functions — judging a node whole.
 
 ## Say it to your companion
 

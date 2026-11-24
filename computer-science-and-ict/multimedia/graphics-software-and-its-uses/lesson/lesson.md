@@ -8,13 +8,13 @@ The guide's application tour ends with the family that works in pictures. Laos's
 
 **Graphics software** is the application family for **creating and editing images** on a computer. It divides by how the picture is held. **Painting programs** work on **bitmaps** — the picture as a grid of coloured dots — for photographs and painted images, where changing means changing dots. **Drawing programs** work on **vectors** — the picture as shapes described by lines and curves — for diagrams, logos and designs that must scale without going rough. The guide teaches the family by this division because the first question of any picture job is which kind of picture it is.
 
-[Picture — What graphics software is]
+In your mind's eye: what graphics software is.
 
 ## Sub lesson 2 — What graphics software is used for
 
 The uses fill the visible world: **editing photographs** (crop, correct, retouch), **drawing illustrations and diagrams** for books like the Laos textbooks themselves, **designing** posters, signs and publications, **technical drawing (CAD)** for buildings and parts that must be exact, and preparing **images for the web and for print**. Laos gives graphics two activities — the syllabus's largest closing share — because it is the application family whose product the learner can see, judge and show: a picture made well is proof of skill that needs no translation.
 
-[Picture — What graphics software is used for]
+In your mind's eye: what graphics software is used for.
 
 ## Say it to your companion
 

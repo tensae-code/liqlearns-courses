@@ -8,13 +8,13 @@ Unit 5, READ and DATA Statements
 
 This part of Pakistan (Punjab)'s book teaches **, READ and DATA Statements** — covering: Unit 5, READ and DATA Statements. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — , READ and DATA Statements]
+In your mind's eye: , READ and DATA Statements.
 
 ## Sub lesson 2 — Doing it — Read and Data Statements in practice
 
 **Doing it — Read and Data Statements in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Read and Data Statements in practice]
+In your mind's eye: doing it — Read and Data Statements in practice.
 
 ## Say it to your companion
 

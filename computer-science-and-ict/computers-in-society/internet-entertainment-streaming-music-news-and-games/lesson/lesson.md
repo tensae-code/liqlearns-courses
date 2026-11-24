@@ -8,13 +8,13 @@ Unit 5 §5.3.7 Uses of Internet in Entertainment
 
 This part of Pakistan (Punjab)'s book teaches **Uses of Internet in Entertainment** — covering: Unit 5 §5.3.7 Uses of Internet in Entertainment. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Uses of Internet in Entertainment]
+In your mind's eye: uses of Internet in Entertainment.
 
 ## Sub lesson 2 — Doing it — Internet Entertainment Streaming Music News and Games in practice
 
 **Doing it — Internet Entertainment Streaming Music News and Games in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Internet Entertainment Streaming Music News and Games in practice]
+In your mind's eye: doing it — Internet Entertainment Streaming Music News and Games in practice.
 
 ## Say it to your companion
 

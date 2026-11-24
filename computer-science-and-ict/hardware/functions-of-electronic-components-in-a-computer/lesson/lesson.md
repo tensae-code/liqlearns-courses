@@ -8,13 +8,13 @@ Open a computer and the board is covered in small parts, each doing one job. Pap
 
 Each electronic component has one main job. A **resistor** limits the flow of current. A **capacitor** stores electrical charge and releases it. A **diode** lets current flow in one direction only. A **transistor** works as a switch or an amplifier. A **light-emitting diode (LED)** gives out light when current passes through it.
 
-[Picture — What the main components do]
+In your mind's eye: what the main components do.
 
 ## Sub lesson 2 — Matching a component to its job in a circuit
 
 To choose a component, first **name the job**: protect a part from too much current — the resistor; hold charge for a steady supply — the capacitor; keep current moving one way — the diode; switch a signal on and off — the transistor, the part processors are built from. The component is chosen by its function, never by its look.
 
-[Picture — Matching a component to its job in a circuit]
+In your mind's eye: matching a component to its job in a circuit.
 
 ## Say it to your companion
 

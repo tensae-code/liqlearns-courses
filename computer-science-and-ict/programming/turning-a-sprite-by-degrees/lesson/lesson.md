@@ -8,13 +8,13 @@ Turn a bit. Turn more. In Scratch, a bit has a number. (teacher guide — eviden
 
 Turns are measured in **degrees**, from **0 to 360°** for the full circle. The landmarks: a **quarter turn is 90°**, a **half turn is 180°** (the sprite faces the way it came from), and a **full turn is 360°** (it faces exactly as it started). Between the landmarks, every amount of turn has its own number.
 
-[Picture — degrees — the measure of a turn]
+In your mind's eye: degrees — the measure of a turn.
 
 ## Sub lesson 2 — Turning exactly — the cat's 40°
 
 The **turn block** takes the **number of degrees** you type: turn **clockwise** (to the right) or the other way, by exactly that amount. The guide's cat **turns 40° clockwise and says "I am turning"** — a Move-and-Looks pair: the degree number makes the turn precise where "turn a little" could never be repeated.
 
-[Picture — turning exactly — the cat's 40°]
+In your mind's eye: turning exactly — the cat's 40°.
 
 ## Say it to your companion
 

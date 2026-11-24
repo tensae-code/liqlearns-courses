@@ -8,13 +8,13 @@ A sprite can sing its own tune — if someone writes it the notes. Palestine’s
 
 The composing blocks work in threes: **set instrument** chooses the voice, **play note for beats** sounds a chosen note for a chosen length, and **rest** holds silence for its beats. A melody is these blocks in order — notes and rests together make the rhythm.
 
-[Picture — set instrument, play note, rest]
+In your mind's eye: set instrument, play note, rest.
 
 ## Sub lesson 2 — Looping a tune
 
 A short composed sequence becomes a tune when it is **looped**: the same notes return, the listener recognises the pattern, and small changes between repeats can grow the tune. Composing is programming with the ears — every block is heard the moment the program runs.
 
-[Picture — looping a tune]
+In your mind's eye: looping a tune.
 
 ## Say it to your companion
 

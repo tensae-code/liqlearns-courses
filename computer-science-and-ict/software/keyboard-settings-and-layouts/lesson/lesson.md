@@ -8,13 +8,13 @@ Hold a key down and it types by itself; switch a setting and the same keys type 
 
 The keyboard has **settings** of its own, reached through the Control Panel. They govern behaviour such as the **repeat delay** — how long a key must be held before it starts repeating — and the **repeat rate** — how fast the repeated characters then come — and how fast the cursor blinks. These are set once, to suit the typist: a beginner wants a longer delay so an accidental hold does not fill the page, while a fast typist wants a short delay and a fast rate. Settings are the computer fitting itself to the person, not the person struggling with the computer.
 
-[Picture — the Keyboard settings window — repeat delay and repeat rate sliders and the cursor blink rate]
+In your mind's eye: the Keyboard settings window — repeat delay and repeat rate sliders and the cursor blink rate.
 
 ## Sub lesson 2 — Keyboard layouts — which letters the keys give
 
 The **layout** decides which character each key gives. A layout is the map of a language's letters onto the keys: the English layout puts the letters where the key tops show them, while the Dari layout the book added earlier puts Dari letters on the same keys in Dari's own arrangement. That is why adding a language changed what the keys type without changing any hardware — only the map changed. The lesson's rule: when the wrong letters appear, nothing is broken — check which layout is active on the language bar, and switch the map, not the keyboard.
 
-[Picture — two keyboard layout maps side by side — English letters and Dari letters on the same keys]
+In your mind's eye: two keyboard layout maps side by side — English letters and Dari letters on the same keys.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Chapter 3 §3.1 Overview (feasibility study, requirements analysis, project plan
 
 This part of Pakistan (Punjab)'s book teaches **Designing a Database Feasibility to Data Analysis** — covering: Chapter 3 §3.1 Overview (feasibility study, requirements analysis, project planning, data analysis — DFDs, decision tables, decision trees). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Designing a Database Feasibility to Data Analysis]
+In your mind's eye: designing a Database Feasibility to Data Analysis.
 
 ## Sub lesson 2 — Doing it — Designing a Database Feasibility to Data Analysis in practice
 
 **Doing it — Designing a Database Feasibility to Data Analysis in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Designing a Database Feasibility to Data Analysis in practice]
+In your mind's eye: doing it — Designing a Database Feasibility to Data Analysis in practice.
 
 ## Say it to your companion
 

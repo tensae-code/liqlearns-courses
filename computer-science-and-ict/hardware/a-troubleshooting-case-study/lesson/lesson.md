@@ -8,13 +8,13 @@ Papua New Guinea's Grade 9 guide teaches troubleshooting and then does something
 
 A **case study** of troubleshooting starts with **the fault as it was found**, then records **each check in the order it was made** — what was checked and what happened. Because the checks are in order, the reader can follow the cause step by step until **the fix that removed the fault** ends the case.
 
-[Picture — Reading a troubleshooting case]
+In your mind's eye: reading a troubleshooting case.
 
 ## Sub lesson 2 — Learning the method from the case
 
 The case teaches a method: **change one thing at a time**, so you know which change mattered; if a check changes nothing, **record it and move to the next check**; the cause is proved by the change after which the fault disappears. Writing the steps down means the same fault can be fixed faster next time. Guessing is not the method — checked steps are.
 
-[Picture — Learning the method from the case]
+In your mind's eye: learning the method from the case.
 
 ## Say it to your companion
 

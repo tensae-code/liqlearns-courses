@@ -10,7 +10,7 @@ Draw the Web the way a search engine sees it: every page is a point, every link 
 
 But two refinements make the idea work. First, a page **shares out** what it passes on: if X links to three pages, each of them receives a third of X's vote — a page that links to everything recommends nothing strongly. Second, votes are **weighted**: a link from an important page carries more than a link from a page nobody reads. That sounds circular — importance defined by importance — and it is: the circle is closed by computing all the scores together, which is the next part. In the drawing from Do it first, C receives from A, B and D — but A's vote is split between B and C, and D's vote, as we shall see, is worth very little, because nobody votes for D.
 
-[Picture — four pages as circles with arrows for links, the arrows thick or thin according to the share of importance they carry]
+In your mind's eye: four pages as circles with arrows for links, the arrows thick or thin according to the share of importance they carry.
 
 ## Sub lesson 2 — The random surfer and working PageRank out by iteration
 
@@ -18,7 +18,7 @@ Google's founders closed the circle with a story: the **random surfer**. Imagine
 
 To compute it, work in rounds. Give every page an equal starting score. In each round, every page hands its score out along its outgoing links, split evenly, and collects what the others hand to it — that collection is its new score. Round by round the numbers move, then settle: when a round changes nothing, you have the PageRank values. France's book has you run these rounds in a spreadsheet and watch them settle in a simulator, and the 2010 "reasonable surfer" refinement weights links by how likely a real reader is to click them — a link in the main text counts more than one buried in a footer.
 
-[Picture — a table of four pages whose scores change over five rounds and then stay still, the settled column highlighted]
+In your mind's eye: a table of four pages whose scores change over five rounds and then stay still, the settled column highlighted.
 
 ## Say it to your companion
 

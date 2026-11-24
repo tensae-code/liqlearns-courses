@@ -8,13 +8,13 @@ A taxi charges a starting price plus a price per kilometre. Asked the fare for 3
 
 Some problems carry their answer inside a **relationship**: the wanted quantity depends on the given quantities in a fixed way that can be written as a **formula**. An **analytic algorithm** finds that formula first — it analyses the problem until the relationship stands clear — and then obtains every answer by substitution and calculation. The thinking happens once, up front: model the problem (name the quantities, say how they relate), derive the formula, and the rest is arithmetic. Contrast it with trying cases one by one: analysis replaces searching with knowing.
 
-[Picture — the taxi meter problem drawn twice — on the left a long winding path of clicks and additions, on the right one straight arrow labelled with the fare formula]
+In your mind's eye: the taxi meter problem drawn twice — on the left a long winding path of clicks and additions, on the right one straight arrow labelled with the fare formula.
 
 ## Sub lesson 2 — The analytic way, worked
 
 The method runs in four moves. **Model**: read the problem, name what is given and what is wanted, and state in words how they relate. **Derive**: turn the relation into a formula with letters. **Compute**: put the given values in and calculate, keeping units honest. **Check**: test the formula on an easy case you can verify by hand — if it fails there, the model, not the arithmetic, is wrong. Worked on the taxi: model — fare grows by the per-kilometre price with distance, on top of a fixed start; derive — F = S + P × D; compute — S = 10, P = 2, D = 7 gives F = 24; check — D = 0 must give exactly the starting price, and it does.
 
-[Picture — the four moves as four stepping stones across a stream — Model, Derive, Compute, Check — with the taxi formula written on the Derive stone]
+In your mind's eye: the four moves as four stepping stones across a stream — Model, Derive, Compute, Check. With the taxi formula written on the Derive stone.
 
 ## Say it to your companion
 

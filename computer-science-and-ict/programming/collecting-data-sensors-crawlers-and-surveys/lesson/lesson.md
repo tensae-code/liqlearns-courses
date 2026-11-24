@@ -8,13 +8,13 @@ A weather station on the school roof knows the temperature every minute without 
 
 Some data is collected by **sensors**: devices that measure a physical quantity — temperature, light, motion, water level — and record it as data, automatically, as often as needed, in places people cannot stay. A weather station, a step counter and a river gauge all work this way: measure, convert to data (digitisation at work), store, repeat. Other data already exists in **records** — registers, receipts, past results — and collection there means gathering and copying what organisations already hold. The shared rule: decide from the question what to collect, how often, and in what units, *before* collecting — data gathered without a plan usually misses the one column the analysis later needs.
 
-[Picture — the school roof weather station with a dotted line of readings flowing down into a growing table on a notebook below]
+In your mind's eye: the school roof weather station with a dotted line of readings flowing down into a growing table on a notebook below.
 
 ## Sub lesson 2 — Collecting online — web crawlers and questionnaires
 
 Data that lives on web pages can be collected by a **web crawler**: a program that requests a page, reads its structure, extracts the items that match (with a library such as Python's **BeautifulSoup**, which parses the page's HTML into findable parts), stores them, and moves to the next page — doing in an hour what a person with a clipboard could not do in a month, provided the collection respects the site's rules and the data's owners. Data that lives in people's heads needs the third route: **questionnaires and online surveys** — carefully worded questions, sent to the right people, whose answers return already digital. A good survey question can be answered in one tap and means the same thing to everyone who reads it; a bad one collects noise that no later cleaning can remove.
 
-[Picture — a small spider-shaped program walking a web of pages, dropping each price tag it finds into a basket that becomes a neat table]
+In your mind's eye: a small spider-shaped program walking a web of pages, dropping each price tag it finds into a basket that becomes a neat table.
 
 ## Say it to your companion
 

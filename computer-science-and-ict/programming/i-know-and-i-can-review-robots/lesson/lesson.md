@@ -8,7 +8,7 @@ Plan one route and one shape from memory, in robot steps. If the plan comes easi
 
 After the screen is left behind, the book checks the new ground with a **"Знам и мога" (I know and I can)**: prove the **programmable device** idea, the **Blue-Bot** commands — forward, back, turns, clear, go — **route planning in robot steps**, the control environment, and **driving shapes** from the robot-and-shapes lesson. A robot review is proved where the robot works: on the mat. A route is proved when the bee arrives where the program said; a shape is proved when it closes. Paper plans are checked too, but no tick is given for a plan the robot cannot drive. Anything not proved is named — a forgotten clear, a stride-counted route — practised, and proved again on the mat.
 
-[Picture — a picture of a picture of the bee robot arriving exactly at a star on a mat, with a checklist beside it — "cleared", "entered in order", "arrived", "shape closed" — the last box being ticked]
+In your mind's eye: a picture of the bee robot arriving exactly at a star on a mat, with a checklist beside it — "cleared", "entered in order", "arrived", "shape closed". The last box being ticked.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Teaching blogging — safety issues in b
 
 This part of South Sudan's book teaches **Teaching blogging — safety issues in blogging** — covering: Teaching blogging — safety issues in blogging. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching blogging — safety issues in blogging. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching blogging — safety issues in blogging is part of that chain..
 
-[Picture — Teaching blogging — safety issues in blogging]
+In your mind's eye: teaching blogging — safety issues in blogging.
 
 ## Sub lesson 2 — Doing it — Teaching blogging — safety issues in blogging in practice
 
 This part of South Sudan's book teaches **Doing it — Teaching blogging — safety issues in blogging in practice** — covering: Teaching blogging — safety issues in blogging. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching blogging — safety issues in blogging. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Teaching blogging — safety issues in blogging in practice is part of that chain..
 
-[Picture — Doing it — Teaching blogging — safety issues in blogging in practice]
+In your mind's eye: doing it — Teaching blogging. Safety issues in blogging in practice.
 
 ## Say it to your companion
 

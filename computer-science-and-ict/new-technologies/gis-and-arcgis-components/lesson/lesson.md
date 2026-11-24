@@ -8,13 +8,13 @@ A map on paper shows where things are. A GIS map can also answer: which parcels 
 
 A **GIS (geographic information system)** is a computer system for **capturing, storing, checking and displaying data about places** — every fact it holds is tied to a **location** on the earth. Unlike a paper map, a GIS map is built of **layers** that can be shown, hidden and **queried**: ask which land parcels lie in one village, and the system picks them out. Rwanda's books return to GIS in S1, S2 and S3 — it is a strand, not a visit.
 
-[Picture — GIS — maps that answer questions]
+In your mind's eye: gIS — maps that answer questions.
 
 ## Sub lesson 2 — The components of ArcGIS
 
 **ArcGIS** is the GIS software family Rwanda's books use. Its working parts: **ArcMap**, where maps are made and queried; **ArcCatalog**, the filing cabinet that organises the geographic data; and the **data itself** — layers of places with their **attribute tables** of facts. ArcMap draws and asks; ArcCatalog keeps and finds. Together with the data they are the components every later GIS lesson in this course uses.
 
-[Picture — The components of ArcGIS]
+In your mind's eye: the components of ArcGIS.
 
 ## Say it to your companion
 

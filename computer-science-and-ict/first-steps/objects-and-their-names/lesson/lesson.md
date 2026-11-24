@@ -12,7 +12,7 @@ An object is a thing we can see, point to and name. The name tells us which thin
 
 Objects are everywhere: at home, at school and outside. A cup at home is an object. A desk at school is an object. A stone on the road is an object. Living things are objects too — a cat, a flower and a bird all have names.
 
-[Picture — a picture of a classroom with a book, a chair, a pencil, a bag and a window, each with its name written under it]
+In your mind's eye: a classroom with a book, a chair, a pencil, a bag and a window, each with its name written under it.
 
 ## Say it to your companion
 

@@ -12,7 +12,7 @@ First, look at what ICS **takes from** the other subjects. A computer works with
 
 Now look the other way, at what the other subjects **take from** ICS. Mathematics uses computers and spreadsheets to do long calculations quickly and without tired mistakes. Geography uses computers to draw maps and to store facts about places, rivers and weather. Science uses computers to record measurements and to keep experiment results safe. Business Studies uses computers to keep records of money, stock and sales. Art uses computers to draw, to design and to print. And every subject uses computers the same way: to store work, to find information, and to share it with other people.
 
-[Picture — a wheel with ICS in the middle and the school subjects around it, with arrows pointing both ways]
+In your mind's eye: a wheel with ICS in the middle and the school subjects around it, with arrows pointing both ways.
 
 So the relationship runs both ways. ICS borrows numbers, testing and words from the older subjects — and lends them a tool that calculates, stores, draws, records and shares. That is why the book teaches this lesson first, before any machine: when you know where ICS sits among your subjects, every lesson after it has somewhere to stand.
 

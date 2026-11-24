@@ -8,13 +8,13 @@ Two recordings of the same song can differ tenfold in size. One of the reasons s
 
 Recording turns sound into **samples** — measurements of the wave, taken thousands of times a second. **Bit depth** is how many **bits** each sample is kept in: 8 bits give 256 possible levels for the wave's height; 16 bits (CD quality) give 65,536 levels. More levels trace the wave more exactly — finer steps, cleaner sound, less hiss. Bit depth is the exactness of every single measurement the file holds.
 
-[Picture — Bit depth — how exact each sample is]
+In your mind's eye: bit depth — how exact each sample is.
 
 ## Sub lesson 2 — Bit depth in the size sum
 
 An uncompressed audio file's size is **sample rate × bit depth × channels × seconds** — bit depth is a straight multiplier. Doubling the bit depth from 8 to 16 bits **doubles the file** for the same recording; the same song at CD settings (44,100 × 16 × 2 channels) takes about 10 MB per minute. Malaysia's relation is the point: bit depth is bought with size, so it is set by purpose — voice notes can live at low depth; music worth keeping is recorded deep.
 
-[Picture — Bit depth in the size sum]
+In your mind's eye: bit depth in the size sum.
 
 ## Say it to your companion
 

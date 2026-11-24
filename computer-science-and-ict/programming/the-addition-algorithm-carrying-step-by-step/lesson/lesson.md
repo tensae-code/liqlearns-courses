@@ -8,13 +8,13 @@ Add 487 + 365 in your head, slowly, and catch yourself carrying. You just ran an
 
 The inquiry asks how to perform an addition **by means of an algorithm** — and the familiar column method steps forward as the specimen: work **column by column from the right**; in each column, **add the digits plus any carry**; **write** the units digit of the result; **carry** the tens digit to the next column; at the end, a final carry becomes a new first digit. Nothing is “just done”: every micro-act is named, ordered, and repeatable by anyone — or anything — that follows it.
 
-[Picture — Addition, written as an algorithm]
+In your mind's eye: addition, written as an algorithm.
 
 ## Sub lesson 2 — Drawn as a logigramme
 
 The inquiry's second step gives the algorithm its **logigramme** (flowchart): start, read the numbers, the column loop with its carry decision (“is the column sum ten or more?”), write, move left, and the stop when columns run out. Drawing it exposes what chanting the method hides: addition **loops**, addition **branches**, and the carry is a **variable** the algorithm carries through its iterations — school arithmetic revealed as the first program most humans ever run.
 
-[Picture — Drawn as a logigramme]
+In your mind's eye: drawn as a logigramme.
 
 ## Say it to your companion
 

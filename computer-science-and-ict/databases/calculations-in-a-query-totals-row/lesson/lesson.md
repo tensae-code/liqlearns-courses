@@ -8,13 +8,13 @@ Chapter 6 §6.9 Performing Calculation in a Query (Group By, Sum, Avg, Min, Max,
 
 This part of Pakistan (Punjab)'s book teaches **Performing Calculation in a Query** — covering: Chapter 6 §6.9 Performing Calculation in a Query (Group By, Sum, Avg, Min, Max, Count, StDev, Var, First, Last, Expression, Where). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Performing Calculation in a Query]
+In your mind's eye: performing Calculation in a Query.
 
 ## Sub lesson 2 — Doing it — Calculations in a Query Totals Row in practice
 
 **Doing it — Calculations in a Query Totals Row in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Calculations in a Query Totals Row in practice]
+In your mind's eye: doing it — Calculations in a Query Totals Row in practice.
 
 ## Say it to your companion
 

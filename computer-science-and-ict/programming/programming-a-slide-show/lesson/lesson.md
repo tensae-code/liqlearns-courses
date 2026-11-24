@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Программируем слайд-шоу** — covering: 7.7 Программируем слайд-шоу. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Программируем слайд-шоу]
+In your mind's eye: программируем слайд-шоу.
 
 ## Sub lesson 2 — Doing it — Programming a Slide Show in practice
 
 **Doing it — Programming a Slide Show in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Programming a Slide Show in practice]
+In your mind's eye: doing it — Programming a Slide Show in practice.
 
 ## Say it to your companion
 

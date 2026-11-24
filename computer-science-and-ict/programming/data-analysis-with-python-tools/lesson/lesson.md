@@ -8,13 +8,13 @@ The clean table from the last lesson sits in front of you: four hundred pupils, 
 
 Analysis is **questioning a table**. The standard questions recur everywhere: **totals and counts** (how much, how many), **averages** (the typical value), **grouping** (split the data by a column — by class, by subject, by month — and summarise each group), **comparison** (groups against each other, this year against last), and **patterns** (does a value rise, fall, or move with another?). Every finding is one of these questions answered. The craft is choosing the question that matches the decision at stake: 'results fell' is a complaint; 'results fell in mathematics, in Grade 9, in the second term' is a finding someone can act on.
 
-[Picture — a big table with five speech bubbles above it — 'how many in total?', 'what is typical?', 'split it by class', 'this year against last?', 'is it rising or falling?']
+In your mind's eye: a big table with five speech bubbles above it — 'how many in total?', 'what is typical?', 'split it by class', 'this year against last?', 'is it rising or falling?'.
 
 ## Sub lesson 2 — Doing it with Python tools
 
 Python's data tools (the lesson works with its table-handling libraries) follow a steady rhythm. **Load** the clean table into the program. **Select** the columns and rows the question needs. **Group** by the chosen column and **compute** the summaries — sum, count, average — for each group. **Sort** the results so the biggest fall or the highest group stands first. Then **read**: the output is still just numbers until the analyst states what they mean in words a decision-maker can use. The tool does the counting in seconds; the thinking — which question, which grouping, what the answer means — stays human, and garbage groupings give garbage findings as surely as dirty data did.
 
-[Picture — a table on a screen splitting into coloured groups by class, each group shrinking to its average, the groups lining up tallest to shortest]
+In your mind's eye: a table on a screen splitting into coloured groups by class, each group shrinking to its average, the groups lining up tallest to shortest.
 
 ## Say it to your companion
 

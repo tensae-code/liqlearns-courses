@@ -8,13 +8,13 @@ Unit 3 §3.6.3 Snipping tool
 
 This part of Pakistan (Punjab)'s book teaches **Snipping tool** — covering: Unit 3 §3.6.3 Snipping tool. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Snipping tool]
+In your mind's eye: snipping tool.
 
 ## Sub lesson 2 — Doing it — The Snipping Tool Capturing Part of the Screen in practice
 
 **Doing it — The Snipping Tool Capturing Part of the Screen in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — The Snipping Tool Capturing Part of the Screen in practice]
+In your mind's eye: doing it — The Snipping Tool Capturing Part of the Screen in practice.
 
 ## Say it to your companion
 

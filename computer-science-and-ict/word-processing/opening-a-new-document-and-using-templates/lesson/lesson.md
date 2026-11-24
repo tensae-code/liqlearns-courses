@@ -8,13 +8,13 @@ Unit 2 §2.1.2 Open a new Word Document
 
 This part of Pakistan (Punjab)'s book teaches **Open a new Word Document** — covering: Unit 2 §2.1.2 Open a new Word Document. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Open a new Word Document]
+In your mind's eye: open a new Word Document.
 
 ## Sub lesson 2 — Doing it — Opening a New Document and Using Templates in practice
 
 **Doing it — Opening a New Document and Using Templates in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Opening a New Document and Using Templates in practice]
+In your mind's eye: doing it — Opening a New Document and Using Templates in practice.
 
 ## Say it to your companion
 

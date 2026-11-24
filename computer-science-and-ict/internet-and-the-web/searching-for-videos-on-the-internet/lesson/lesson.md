@@ -8,13 +8,13 @@ You have searched the internet for words and for pictures. Some things are bette
 
 A **video search** starts like every search: the learner opens the **browser**, goes to a **search engine** or a video site, and **types words that name the video wanted** — the subject, and the word video where it helps. The results arrive as **pictures and titles of videos**; the learner **reads the titles and looks at the pictures** before choosing, then **opens the video and watches it** in the browser. Choosing before clicking is the skill: the title and picture are the promise, and the search words are how the promise is made to fit.
 
-[Picture — searching for a video]
+In your mind's eye: searching for a video.
 
 ## Sub lesson 2 — Searching for other videos — and bringing one home
 
 One found video leads to more: the guide's second séance searches for **other videos** on the same or a new subject, changing the **search words** to steer what comes back — a different word brings different videos. The annual plan adds the home step: a found video can be **downloaded — saved onto the computer** — so it can be watched again without searching again. Searching again with new words, and saving what is worth keeping, turn a single search into a way of gathering.
 
-[Picture — searching for other videos — and bringing one home]
+In your mind's eye: searching for other videos — and bringing one home.
 
 ## Say it to your companion
 

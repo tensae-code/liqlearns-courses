@@ -8,13 +8,13 @@ Arduino supporting components — the kit that surrounds the board: breadboard, 
 
 An Arduino board alone blinks nothing: its projects are built from **supporting components** (komponen penunjang). The **breadboard** is the solderless field where circuits are assembled and changed; the **battery** (or supply) gives the circuit its power away from the computer; **jumper cables** are the removable roads joining board, breadboard and components. Indonesia's Grade 12 chapter inventories the kit before the projects begin, because a builder who cannot name the parts cannot read a circuit diagram — the diagram is written in these parts.
 
-[Picture — The bench — breadboard, power and wires]
+In your mind's eye: the bench — breadboard, power and wires.
 
 ## Sub lesson 2 — Actors and senses — LEDs, buttons, motors, sensors
 
 The working parts divide by direction. **Outputs**: the **LED** (light, with its **resistor** partner that limits current and keeps it alive), the **piezo** buzzer (sound), **servo** and **stepper** motors (movement), and the **LCD** (text shown). **Inputs**: the **push button** (a finger's yes/no) and the **sensor modules** — light, sound, temperature and soil-moisture — through which the board perceives its world. Every Arduino project in the book is these parts in a new arrangement: sense something, decide, act.
 
-[Picture — Actors and senses — LEDs, buttons, motors, sensors]
+In your mind's eye: actors and senses — LEDs, buttons, motors, sensors.
 
 ## Say it to your companion
 

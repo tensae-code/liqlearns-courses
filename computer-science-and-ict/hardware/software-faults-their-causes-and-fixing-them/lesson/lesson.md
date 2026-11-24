@@ -8,13 +8,13 @@ The hardware is innocent; the program crashes, the system crawls, the file will 
 
 Software faults sort by their layer: **application faults** (a program crashes, freezes, misbehaves — corrupt files, bugs, a version at war with the system), **system faults** (slow starts, errors, instability — damaged system files, driver troubles, too much starting at once), **malware faults** (the security lessons' enemies at work), **capacity faults** (disks full, memory short — software starving), and **settings faults** (the wrong option, faithfully obeyed — the largest innocent family). Causes are named beside faults because software's symptom, like hardware's, has many parents, and the fix for a bug is not the fix for a full disk.
 
-[Picture — The faults and their causes]
+In your mind's eye: the faults and their causes.
 
 ## Sub lesson 2 — Fixing and maintenance procedures
 
 The procedures run in the safe order: **restart** (the honest first test — half of software's ghosts are states, not faults), **update** the program and system, **check capacity and settings**, **scan** for malware, **repair or reinstall** the failing part, and **restore** from backup or restore point when the fault survives. Around fixing stands **maintenance**: regular updates, disk cleaning, backup habits and removing what is unused — the procedures that make faults rarer, which Jordan's lesson counts as the senior half of troubleshooting: the best fix is the fault that never happens.
 
-[Picture — Fixing and maintenance procedures]
+In your mind's eye: fixing and maintenance procedures.
 
 ## Say it to your companion
 

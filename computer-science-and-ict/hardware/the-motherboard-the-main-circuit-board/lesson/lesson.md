@@ -8,13 +8,13 @@ Open a system unit and one part fills the floor of the box: a large board with e
 
 The **motherboard** — also called the **system board** or main board — is the computer's **main circuit board**: the large board inside the system unit to which **every other component connects**. The CPU sits in its socket, memory in its slots, storage and cards on its connectors and buses. Fiji's sentence carries the lesson: the motherboard is what makes separate parts one computer — remove it, and the parts are a box of unrelated electronics.
 
-[Picture — The main board — everything connects here]
+In your mind's eye: the main board — everything connects here.
 
 ## Sub lesson 2 — What lives on it — socket, slots, buses
 
 Three kinds of fitting live on the board. The **CPU socket** holds the microprocessor. **Slots** hold memory modules and expansion cards, so the machine can be grown. **Buses and connectors** — the board's printed pathways and ports — carry data, instructions and power between everything plugged in. When a technician asks whether a part 'fits this machine', they are asking about this board: its socket, its slots and its connectors decide what the computer can become.
 
-[Picture — What lives on it — socket, slots, buses]
+In your mind's eye: what lives on it — socket, slots, buses.
 
 ## Say it to your companion
 

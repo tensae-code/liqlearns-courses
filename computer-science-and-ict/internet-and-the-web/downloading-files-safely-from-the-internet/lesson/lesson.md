@@ -8,13 +8,13 @@ Two Mauritanian guides teach downloading — in Grade 7 as its own fiche, and in
 
 **Download** only from the source that has the right to give the file: the maker's own site, an official store, or a site your teacher names. A file offered free on a stranger's page when its maker sells it is both a legal wrong — it takes the owner's rights — and a common hiding place for harmful programs. Read the page before clicking: the real download button is usually quiet, while fake buttons shout, flash and open adverts.
 
-[Picture — choosing a safe, legal source]
+In your mind's eye: choosing a safe, legal source.
 
 ## Sub lesson 2 — After the download — check before opening
 
 A downloaded file is a stranger at the door until it is checked: let the **antivirus** scan it before opening, and be most careful with program files, which can change the computer itself. Keep downloads in the **Downloads folder**, give kept files clear names, and delete what you do not need so the folder stays a place you can trust. If a file behaves strangely after opening, stop, disconnect and tell a teacher or another adult.
 
-[Picture — after the download]
+In your mind's eye: after the download.
 
 ## Say it to your companion
 

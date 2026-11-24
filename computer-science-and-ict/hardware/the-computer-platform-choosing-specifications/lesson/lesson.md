@@ -8,13 +8,13 @@ You are buying a computer for your family and the shop offers three. Which one �
 
 Grade 8's hardware unit names the whole machine the **computer platform**: the **motherboard** at its centre, the **processor** that works on it, and the **ports** that connect everything else. Before any single part is studied, the book sets out the platform's **standard specifications** — the list of what a complete, working platform should have.
 
-[Picture — The computer platform]
+In your mind's eye: the computer platform.
 
 ## Sub lesson 2 — Choosing by specifications — and upgrading later
 
 Choosing a computer means **comparing specifications**: what processor, how much memory and storage, which ports — against the work the machine must do and the money there is. A platform that can be **upgraded** later — more memory, a bigger disk — serves longer than one that cannot, so **upgradeability** is itself one of the specifications to check before buying.
 
-[Picture — Choosing by specifications — and upgrading later]
+In your mind's eye: choosing by specifications — and upgrading later.
 
 ## Say it to your companion
 

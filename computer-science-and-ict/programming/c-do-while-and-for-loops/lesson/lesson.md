@@ -8,13 +8,13 @@ Chapter 12 §12.3 do-while Loop (test at the end, body runs at least once, ends 
 
 This part of Pakistan (Punjab)'s book teaches **Do-while Loop** — covering: Chapter 12 §12.3 do-while Loop (test at the end, body runs at least once, ends with a semicolon; Example 2: force a valid telephone-line state w or d; while vs do-while) and the for loop (initialization, test condition, increment/decrement; which parts may be omitted). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Do-while Loop]
+In your mind's eye: do-while Loop.
 
 ## Sub lesson 2 — Doing it — C Do While and for Loops in practice
 
 **Doing it — C Do While and for Loops in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — C Do While and for Loops in practice]
+In your mind's eye: doing it — C Do While and for Loops in practice.
 
 ## Say it to your companion
 

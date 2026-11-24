@@ -8,13 +8,13 @@ Before text can be copied, formatted or deleted, it must be chosen. In this less
 
 The **arrow keys** move the **caret** through the text: left and right by one letter, up and down by one line. For a **small text** this is the better way — every step is exact and nothing is skipped. The caret always shows where you are; the arrows are walking for short distances.
 
-[Picture — moving through text with the arrow keys]
+In your mind's eye: moving through text with the arrow keys.
 
 ## Sub lesson 2 — Selecting text — mouse or keyboard
 
 **Selecting** marks a piece of text so a command acts on the whole piece at once. Drag the **mouse** across the text, or hold Shift and extend with the **keyboard**. For a **large text** selecting is the better way: one marked sweep covers in a second what a hundred arrow steps would crawl through.
 
-[Picture — selecting text — mouse or keyboard]
+In your mind's eye: selecting text — mouse or keyboard.
 
 ## Say it to your companion
 

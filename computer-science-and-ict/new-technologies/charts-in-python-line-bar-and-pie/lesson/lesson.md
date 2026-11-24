@@ -8,13 +8,13 @@ A table persuades the patient. A chart persuades everyone else in three seconds 
 
 Each chart has its job. The **line chart** shows a measure **over time** — its slope is the story. The **bar chart** **compares kinds** — lengths side by side, honestly from zero. The **pie chart** shows **parts of one whole** — and only that: a pie of things that do not sum to a whole is a decorated lie. In Python each is a few commands on the loaded table (the plotting library does the drawing); the analyst's work is choosing the chart whose job matches the question.
 
-[Picture — The three charts and their jobs]
+In your mind's eye: the three charts and their jobs.
 
 ## Sub lesson 2 — Identifying patterns in charts
 
 Reading a chart means naming its **pattern**: a **trend** (steady rise or fall), a **season** (a rhythm that repeats), a **peak or dip** (and the event that explains it), a **gap** between groups, an **outlier** standing apart. Jordan's second placement under this slug is the reading, taught as a skill with a discipline: state the pattern in words, check it against the numbers, and ask what else could draw the same shape — a chart's pattern is a claim, and claims are checked.
 
-[Picture — Identifying patterns in charts]
+In your mind's eye: identifying patterns in charts.
 
 ## Say it to your companion
 

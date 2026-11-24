@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Assembling the educational robot model** — covering: §10: assembling the educational robot model (EV3 module, large motors, wheels, cables). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Assembling the educational robot model]
+In your mind's eye: assembling the educational robot model.
 
 ## Sub lesson 2 — Doing it — Building an EV3 Robot Model in practice
 
 **Doing it — Building an EV3 Robot Model in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Building an EV3 Robot Model in practice]
+In your mind's eye: doing it — Building an EV3 Robot Model in practice.
 
 ## Say it to your companion
 

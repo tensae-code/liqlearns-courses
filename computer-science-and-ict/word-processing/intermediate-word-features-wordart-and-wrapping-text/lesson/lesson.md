@@ -8,13 +8,13 @@ Plain typing makes a plain page. Fiji's Years 7–8 book marks the step up to in
 
 **WordArt** turns a short piece of text — a title, a name, a heading — into a styled **object**: shaped, coloured, outlined or shadowed, inserted and moved like a picture and edited by reopening its text. Fiji teaches it as an intermediate feature because the learner must think of the words as an object on the page, not as typing. The taste rule travels with it: WordArt is for one short line that carries the page's name — a paragraph set in WordArt cannot be read.
 
-[Picture — WordArt — words as a picture]
+In your mind's eye: wordArt — words as a picture.
 
 ## Sub lesson 2 — Wrapping text around a graphic
 
 When a picture is placed in a document, the text must decide how to treat it. **Text wrapping** is that decision: with **square wrapping** the text flows around the picture's box, leaving it a clear space; with **tight wrapping** the text hugs the picture's shape; a picture can also sit **in line with text**, moving along as one big character, or **behind/in front of** the text. Choosing the wrap is what makes a school newsletter page look arranged instead of accidental — Fiji's intermediate step from plain typing to laid-out pages.
 
-[Picture — Wrapping text around a graphic]
+In your mind's eye: wrapping text around a graphic.
 
 ## Say it to your companion
 

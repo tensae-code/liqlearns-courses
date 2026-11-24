@@ -8,13 +8,13 @@ Security begins by naming its enemies precisely. This lesson sorts the threats �
 
 Cyber threats arrive in families: **malware** (viruses, worms, ransomware — code that harms), **intrusion** (breaking into systems and accounts), **theft and espionage** (data taken quietly), **denial of service** (systems drowned in false traffic until real users cannot enter), **deception** (phishing and fraud — the human hacked), and **insider and physical threats** (the trusted person, the stolen machine). Each family aims at one or more of the CIA pillars the unit opened with — the threat lesson and the pillars lesson are one map read from two sides.
 
-[Picture — The threats — a sorted field]
+In your mind's eye: the threats — a sorted field.
 
 ## Sub lesson 2 — Attack against assault — the book's distinction
 
 Jordan distinguishes: an **electronic attack** is an attempt or act that **targets systems or data through electronic means** — probing, intruding, infecting; an **assault (اعتداء)** in its usage is the broader aggression — which may combine electronic with physical or human means, and carries the sense of a violation committed against a party. The distinction matters for response and for law: what was attempted, what was done, by what means, against whom — the four questions every incident report in the unit's later lessons must answer in this vocabulary.
 
-[Picture — Attack against assault — the book's distinction]
+In your mind's eye: attack against assault — the book's distinction.
 
 ## Say it to your companion
 

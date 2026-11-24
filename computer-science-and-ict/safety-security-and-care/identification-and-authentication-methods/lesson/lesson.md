@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **–8: Methods of identification** — covering: §7–8: Methods of identification. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — –8: Methods of identification]
+In your mind's eye: –8. Methods of identification.
 
 ## Sub lesson 2 — Methods of identifying a person
 
 This part of Kazakhstan's book teaches **Methods of identifying a person** — covering: §3: Methods of identifying a person. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Methods of identifying a person]
+In your mind's eye: methods of identifying a person.
 
 ## Say it to your companion
 

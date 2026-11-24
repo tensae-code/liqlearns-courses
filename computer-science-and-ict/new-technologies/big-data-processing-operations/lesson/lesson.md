@@ -8,13 +8,13 @@ Big data cannot be read; it must be reduced — carefully, so the reduction keep
 
 **Transformation** changes data's shape for use: formats unified, measures converted, text coded into numbers an algorithm can eat — the same values, a workable form. **Generalisation** climbs from details to kinds: exact ages become age bands, addresses become districts, a thousand purchases become segments. Generalised data is smaller, safer (less personal) and often clearer — bought with detail that can never be recovered, which is why the climb is a decision, not a default.
 
-[Picture — Transformation and generalisation]
+In your mind's eye: transformation and generalisation.
 
 ## Sub lesson 2 — Simplification and visual representation
 
 **Simplification** reduces the data itself: sampling (a fair part for the whole), aggregating (sums and averages standing for multitudes), selecting the fields that matter. **Visual representation** turns the reduced data into charts and maps the eye can judge. Jordan's four operations are a pipeline with an ethic: each operation must be **declared** — a chart that hides its generalisations is a claim hiding its evidence, and the analyst's duty is to keep the road from raw to shown walkable by a checker.
 
-[Picture — Simplification and visual representation]
+In your mind's eye: simplification and visual representation.
 
 ## Say it to your companion
 

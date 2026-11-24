@@ -8,13 +8,13 @@ The same recorded sound can be played as a squeak or as a giant's voice, from th
 
 The **pitch (speed) effect** changes how a sound plays: **raise it and the sound plays faster and higher** — a voice turns squeaky; **lower it and the sound plays slower and lower** — the voice turns deep. The effect is **set by number**, and it holds for the sounds played after it until it is changed again. It does not change the recording itself: the same sound file plays both ways, because the effect is applied **while it plays**, not to the file.
 
-[Picture — the speed effect — faster and higher, slower and lower]
+In your mind's eye: the speed effect — faster and higher, slower and lower.
 
 ## Sub lesson 2 — The pan effect — sound between the ears
 
 The **pan (stereo) effect** moves a sound **between the left and the right side**: set it one way and the sound plays **from the left**, the other way **from the right**, and in the middle it plays **from both sides together**. A project uses it to place sounds in space: footsteps cross from left to right as a character crosses the stage. Effects are cleared back to plain playing by the **clear sound effects** step — taught with stopping sounds in the next séance — so a sprite can return to its natural voice.
 
-[Picture — the pan effect — sound between the ears]
+In your mind's eye: the pan effect — sound between the ears.
 
 ## Say it to your companion
 

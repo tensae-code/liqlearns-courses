@@ -8,13 +8,13 @@ Kuwait's youngest programmers start block coding in ScratchJr. The Grade 4 book'
 
 ScratchJr programs are built on a **stage** — the screen where the story happens — with **sprites**, the characters the program moves, and **blocks**, the snap-together commands each sprite obeys. The review matters because every ScratchJr lesson after it speaks this language without stopping: a block is read by its colour family and joined, left to right, into the sprite's script.
 
-[Picture — The basics, reviewed — stage, sprite, blocks]
+In your mind's eye: the basics, reviewed — stage, sprite, blocks.
 
 ## Sub lesson 2 — The Wait block — a pause inside the action
 
 The **Wait block** makes a sprite **pause** for the count written in it before its next block runs. Waiting is how ScratchJr stories gain timing: a sprite crosses, waits, then speaks; two sprites act in turn instead of in a tangle. Read a script with Wait in it by acting it out at the sprite's speed — the pause is part of the program, not an accident in it.
 
-[Picture — The Wait block — a pause inside the action]
+In your mind's eye: the Wait block — a pause inside the action.
 
 ## Say it to your companion
 

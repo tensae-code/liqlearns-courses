@@ -8,13 +8,13 @@ The digital world speaks many languages, and a child can feel theirs is small th
 
 **Identity** is who you are and where you belong; **language** is identity's loudest voice. Kuwait teaches that **Arabic is a language of identity** for its pupils: the language of their home, their country and their history, and it belongs in the digital world at full strength — in messages, posts and schoolwork — not apologised for and not abandoned for a more fashionable tongue.
 
-[Picture — Arabic — a language of identity]
+In your mind's eye: arabic — a language of identity.
 
 ## Sub lesson 2 — Writing correct Arabic in digital communication
 
 Pride is practised in the writing: **correct Arabic** in digital communication — real words written properly, sentences that say what they mean, the language's letters and forms used with care even in a quick message. The lesson's claim is that sloppy writing is not modern and careful writing is not old-fashioned: every message a pupil sends in Arabic carries the language a little further into the digital world, exactly as well — or as badly — as it is written.
 
-[Picture — Writing correct Arabic in digital communication]
+In your mind's eye: writing correct Arabic in digital communication.
 
 ## Say it to your companion
 

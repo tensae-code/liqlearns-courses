@@ -8,13 +8,13 @@ This part of South Sudan's book teaches The Dreamweaver Interface — covering: 
 
 This part of South Sudan's book teaches **The Dreamweaver Interface** — covering: The Dreamweaver Interface; Panels. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: The Dreamweaver Interface; Panels. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — the Dreamweaver Interface is part of that chain..
 
-[Picture — The Dreamweaver Interface]
+In your mind's eye: the Dreamweaver Interface.
 
 ## Sub lesson 2 — Understanding the Adobe Dreamweaver Interface
 
 This part of South Sudan's book teaches **Understanding the Adobe Dreamweaver Interface** — covering: Understanding the Adobe Dreamweaver Interface. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Understanding the Adobe Dreamweaver Interface. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — understanding the Adobe Dreamweaver Interface is part of that chain..
 
-[Picture — Understanding the Adobe Dreamweaver Interface]
+In your mind's eye: understanding the Adobe Dreamweaver Interface.
 
 ## Say it to your companion
 

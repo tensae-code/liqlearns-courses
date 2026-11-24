@@ -8,13 +8,13 @@ A robot that can count can decide. In this lesson the blocks do arithmetic — a
 
 The **arithmetic blocks** perform the four operations: **addition, subtraction, multiplication and division**. A block takes two values and produces their result — the sum, the difference, the product, the quotient. Blocks can feed blocks, so a chain of operations builds a bigger calculation step by step.
 
-[Picture — the four arithmetic blocks]
+In your mind's eye: the four arithmetic blocks.
 
 ## Sub lesson 2 — Assigning results — and printing them
 
 A result that is not kept is lost: **assign the result to a variable** and the program holds it for later blocks — a total to drive by, a count to test. The **Print console** shows results as the program runs, so you can check the arithmetic with your own head before trusting it in the robot's behaviour.
 
-[Picture — assigning results — and printing them]
+In your mind's eye: assigning results — and printing them.
 
 ## Say it to your companion
 

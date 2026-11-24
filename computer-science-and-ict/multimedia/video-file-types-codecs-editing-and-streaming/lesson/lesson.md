@@ -8,13 +8,13 @@ Video is the hungriest medium — frames, sound and time in one file. The EPAL c
 
 A video **file type** is a container; its **codec** is the method that **codes and decodes** the frames inside it — compression being unavoidable, since raw video's size (the digitisation lesson's arithmetic) no machine or network can carry kindly. Codecs trade **quality against size and speed**: the same film kept near-perfect for the archive, squeezed hard for the phone. Choosing a type is choosing that trade for a named audience, never a matter of taste alone.
 
-[Picture — File types, codecs and compression]
+In your mind's eye: file types, codecs and compression.
 
 ## Sub lesson 2 — Editing, encoding and streaming
 
 **Video editing** assembles the film: **cut and order clips** on the timeline, join them with **transitions**, lay **sound** under them, add **titles**, and **encode (export)** the finished piece in the type and codec its audience needs — encoding, distribution and sending being one road with three names for its stages. Sent over the internet, video is **streamed**: played as it arrives, the network's speed setting the quality the player can honestly show — the chapter's closing link between the codec's arithmetic and the watcher's experience.
 
-[Picture — Editing, encoding and streaming]
+In your mind's eye: editing, encoding and streaming.
 
 ## Say it to your companion
 

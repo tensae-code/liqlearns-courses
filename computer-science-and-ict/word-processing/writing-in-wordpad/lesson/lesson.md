@@ -8,13 +8,13 @@ Not every computer has Word — but every Windows computer of the book's time ha
 
 **WordPad** is a **word processor** built into Windows itself, found under **Accessories** in the Start menu. It is smaller than Word: a simple window with a menu bar, one toolbar, a ruler and a big white page to type on. What it can do covers most everyday writing — type and correct text, make letters bigger or bold, line text up with the ruler, and change its colour. Afghanistan's book teaches WordPad just before Word itself, so the learner meets the ideas of word processing first in the simplest program that has them.
 
-[Picture — the WordPad window — menu bar, toolbar, ruler and a page with typed text]
+In your mind's eye: the WordPad window — menu bar, toolbar, ruler and a page with typed text.
 
 ## Sub lesson 2 — Writing, saving and printing in WordPad
 
 Type, and the text appears at the **insertion point**; select text by dragging over it to change how it looks. A document is kept with **File → Save**, given a name, and brought back with **File → Open**; **File → Print** sends it to the printer. WordPad's limit is also its lesson: it has no spell-checker, no tables and no page numbers — when a piece of writing needs those, it has outgrown WordPad and belongs in Word. Knowing which jobs the simple program can finish is part of knowing the program.
 
-[Picture — WordPad's File menu open — New, Open, Save and Print]
+In your mind's eye: wordPad's File menu open — New, Open, Save and Print.
 
 ## Say it to your companion
 

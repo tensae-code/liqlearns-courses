@@ -8,13 +8,13 @@ The parrot starts in the garden. Then, mid-story, it must be at the sea. The par
 
 Backgrounds are **inserted from the library**: the background is **the stage the action happens on**, so the choice is a storytelling choice — the book teaches **matching the background to the sprite**, a place that fits the character and the moment.
 
-[Picture — choosing a background from the library]
+In your mind's eye: choosing a background from the library.
 
 ## Sub lesson 2 — Moving between backgrounds — the travelling parrot
 
 The travelling parrot carries the second half: the project **switches background** as the parrot travels, **wait blocks** pace the journey, and the parrot’s flight is finished with **bounce at the edge** and the **left-right rotation style** so it turns without flipping upside down.
 
-[Picture — moving between backgrounds — the travelling parrot]
+In your mind's eye: moving between backgrounds — the travelling parrot.
 
 ## Say it to your companion
 

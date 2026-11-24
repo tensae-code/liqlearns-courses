@@ -8,7 +8,7 @@ Draw the letter H by saying its strokes aloud: down, down, across. Now draw it a
 
 Now the noticing becomes a block. A **loop** wraps a group of actions and a number: do these actions, this many times. The book's hero for the loop is the **robot artist (Робот художник)** — a drawing robot in code.org Course 1 that draws letters with straight strokes. A letter is a perfect loop job: the same stroke pattern repeats, and the loop draws it cleanly every time, where writing every stroke out would be long and easy to spoil. The lesson's reading skill matters as much as the writing one: given a loop, say how many times the inside actions will run, and what picture will come out, before anything is run.
 
-[Picture — a picture of a picture of a small robot artist drawing a letter on squared paper, with a loop block around the stroke actions and the number of repeats showing on the loop]
+In your mind's eye: a picture of a small robot artist drawing a letter on squared paper, with a loop block around the stroke actions and the number of repeats showing on the loop.
 
 ## Say it to your companion
 

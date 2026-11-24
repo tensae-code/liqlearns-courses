@@ -8,13 +8,13 @@ Deleting a parent is the dangerous mirror of updating one: the children still po
 
 **ON DELETE SET NULL** answers a parent's deletion by **emptying the children's foreign key**: the child rows **stay** — a student remains a student — but their link now points at **nothing (NULL)**, honestly unassigned until a new parent is given. It fits children whose existence does not depend on the parent: the record is real, only its belonging is ended.
 
-[Picture — SET NULL — the child stays, the pointing ends]
+In your mind's eye: sET NULL — the child stays, the pointing ends.
 
 ## Sub lesson 2 — CASCADE and the other alternatives — choosing the fate in advance
 
 **ON DELETE CASCADE** answers with the opposite mercy: the children are **deleted with the parent** — right where a child is meaningless alone (an order's lines without the order). The remaining alternatives refuse or restrict the deletion while children exist. The lesson's discipline is that the fate is **chosen when the table is created**, written into its FOREIGN KEY declaration — not improvised on the day a parent must go.
 
-[Picture — CASCADE and the other alternatives — choosing the fate in advance]
+In your mind's eye: cASCADE and the other alternatives — choosing the fate in advance.
 
 ## Say it to your companion
 

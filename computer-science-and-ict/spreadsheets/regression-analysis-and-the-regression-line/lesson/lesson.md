@@ -8,13 +8,13 @@ The last step of Egypt's Grade 10 analysis run: when two measures move together,
 
 **Regression** fits a straight line through a scatter of points so the line summarises the relationship: as x grows by one, y grows by about the line's **slope**. The book's method is **least squares** — among all possible lines, choose the one whose **squared distances** from the points to the line are smallest in total, the same squaring trick variance used, so no point can pull the line cheaply and big misses count heavily. In the spreadsheet the line is drawn through the scatter chart and its equation — slope and intercept — is displayed and used.
 
-[Picture — The regression line — the best summary of the climb]
+In your mind's eye: the regression line — the best summary of the climb.
 
 ## Sub lesson 2 — Using the line — estimation inside, caution outside
 
 With the equation in hand, the line **estimates**: put in an x the table never measured and read off the y the relationship predicts — a mark for six hours of revision from a line fitted on two to five. Estimates **inside** the measured range rest on evidence all around them; estimates **beyond** it — extrapolation — assume the climb continues unchanged, which real relationships rarely promise. Egypt closes its analysis chapters here because regression gathers the whole run: organised data, centre, spread, relationship, and now a model — with the standing honesty that a model summarises the past it was fitted on, and the future is allowed to differ.
 
-[Picture — Using the line — estimation inside, caution outside]
+In your mind's eye: using the line — estimation inside, caution outside.
 
 ## Say it to your companion
 

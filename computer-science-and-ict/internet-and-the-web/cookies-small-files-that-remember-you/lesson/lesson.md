@@ -10,7 +10,7 @@ A **cookie** is a small text file. When you visit a site, the site may ask your 
 
 Nothing about the cookie is a program; it cannot run, install anything, or read your files. It is a note the site wrote and your browser keeps — a cloakroom ticket, not a key to your house. But the note is powerful precisely because it is handed back faithfully, visit after visit.
 
-[Picture — cookies-cloakroom: a browser as a cloakroom, holding a row of small tickets, one for each site, and handing the right ticket back at each return]
+In your mind's eye: cookies-cloakroom. A browser as a cloakroom, holding a row of small tickets, one for each site, and handing the right ticket back at each return.
 
 ## Two faces — first-party and third-party
 

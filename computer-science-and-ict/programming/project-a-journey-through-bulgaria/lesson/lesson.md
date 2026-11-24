@@ -8,7 +8,7 @@ Plan a journey on a map: start here, visit three places, end there. At each plac
 
 Grade 4's second long project arc is **"Пътешествие из България" (A journey through Bulgaria)** — project work (Урок 29 and Урок 30–32, both stocked here) that builds a Scratch **journey across Bulgaria's places**. The journey is assembled from the year's toolbox: **backdrops** carry the traveller from place to place, **branching** decides the road at decision points, **sprites meet, speak and act together** with dialogue and synchronising, and movement is **controlled** by the traveller's driver where the plan calls for it. The project is planned as a journey first — the route, the places in order, what happens at each — then built place by place, each place run and checked before the road goes on. It closes the Scratch year by looking outward: the same skills, aimed at the learner's own country.
 
-[Picture — a picture of a picture of a map-like route with three place pins joined by a dotted road, beside a Scratch stage showing the first place as a backdrop with two sprites in dialogue]
+In your mind's eye: a picture of a map-like route with three place pins joined by a dotted road, beside a Scratch stage showing the first place as a backdrop with two sprites in dialogue.
 
 ## Say it to your companion
 

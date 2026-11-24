@@ -8,13 +8,13 @@ Uzbekistan's Grade 5 book spends not one but two lessons at the keyboard trainer
 
 A **keyboard trainer** is a program that teaches typing: it shows letters, words and lines, watches which keys you press, and counts speed and mistakes. The Grade 5 book meets the keyboard in one lesson and moves to the trainer in the next — first know the keys, then train the fingers on them, looking at the screen, not down at the hands.
 
-[Picture — What a keyboard trainer is]
+In your mind's eye: what a keyboard trainer is.
 
 ## Sub lesson 2 — The continuation — building the habit
 
 The book's second trainer lesson is marked simply *continuation* (продолжение): the same exercises, carried further — longer lines, steadier rhythm, fewer looks down. That is the lesson's own teaching: a skill like typing is not a fact to finish but a habit to build, and the trainer's score lets each pupil race only their own yesterday.
 
-[Picture — The continuation — building the habit]
+In your mind's eye: the continuation — building the habit.
 
 ## Say it to your companion
 

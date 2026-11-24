@@ -8,13 +8,13 @@ Unit 9 §9.4 Developing Effective Marketing and Sales Strategies (§9.4.1 unders
 
 This part of Pakistan (Punjab)'s book teaches **Developing Effective Marketing and Sales Strategies** — covering: Unit 9 §9.4 Developing Effective Marketing and Sales Strategies (§9.4.1 understanding your market — traditional clothing for Eid and weddings; §9.4.2 creating a marketing plan. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Developing Effective Marketing and Sales Strategies]
+In your mind's eye: developing Effective Marketing and Sales Strategies.
 
 ## Sub lesson 2 — Doing it — Marketing and Sales Strategies in practice
 
 **Doing it — Marketing and Sales Strategies in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Marketing and Sales Strategies in practice]
+In your mind's eye: doing it — Marketing and Sales Strategies in practice.
 
 ## Say it to your companion
 

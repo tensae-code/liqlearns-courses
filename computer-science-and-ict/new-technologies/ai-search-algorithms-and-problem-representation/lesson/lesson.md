@@ -8,13 +8,13 @@ Last lesson drew the tree. This one walks it — and asks first how the problem 
 
 **Problem representation** is the choosing of how states, actions and goals are written for a computer: what a state records (and what it leaves out), how actions are generated, how the goal is tested. A good representation keeps everything the solution depends on and nothing else — the city's map keeps roads and distances, drops the colour of the houses. Every search algorithm's speed is half-decided here, before any searching begins.
 
-[Picture — Representation — the problem in the machine's language]
+In your mind's eye: representation — the problem in the machine's language.
 
 ## Sub lesson 2 — Search algorithms — strategies for walking
 
 A **search algorithm** is a strategy for exploring the tree: which node to expand next, what to remember, when to stop. Algorithms are judged by four measures the book names: **completeness** (does it find a solution if one exists?), **optimality** (is the found solution the best?), **time** and **space** (what do they cost?). The next lessons meet the families — blind search, which walks without guidance, and heuristic search, which walks toward a guess of the goal.
 
-[Picture — Search algorithms — strategies for walking]
+In your mind's eye: search algorithms — strategies for walking.
 
 ## Say it to your companion
 

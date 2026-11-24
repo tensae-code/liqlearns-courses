@@ -8,13 +8,13 @@ A pile of good devices is not a network. Architecture is the difference — this
 
 An IoT **network architecture** arranges: the **things** at the edge (sensors and actuators), the **access network** that links them (short-range wireless, wired, cellular), **gateways** that gather and translate, the **core / cloud** where data is stored and processed, and the **applications** people use. Jordan's Grade 10 architecture is read from the edge inward: every reading travels the same road, and each stop on the road is a place where design choices — and failures — live.
 
-[Picture — The parts in their places]
+In your mind's eye: the parts in their places.
 
 ## Sub lesson 2 — Arrangements — star, mesh and hybrid
 
 The edge can be arranged as a **star** (every thing talks to one hub — simple, and the hub is a single point of failure), a **mesh** (things relay for each other — far-reaching and stubborn, harder to manage), or a **hybrid** mixing both. The architecture decision weighs range, power, cost and reliability for the actual ground the network must cover — a flat, a farm and a factory floor answer differently, and the book's applications lesson tests exactly that weighing.
 
-[Picture — Arrangements — star, mesh and hybrid]
+In your mind's eye: arrangements — star, mesh and hybrid.
 
 ## Say it to your companion
 

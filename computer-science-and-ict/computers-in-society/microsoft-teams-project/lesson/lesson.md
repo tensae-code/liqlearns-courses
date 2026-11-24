@@ -8,13 +8,13 @@ The Teams section ends the way Kuwait's units end: with a project. After the pla
 
 The **project** gathers the section's skills into one piece of work done **on the platform itself**: work inside a team, handle an assignment from viewing to submitting, take part in a meeting, and use posts and files as the class's conversation and shelves. Nothing in the project is new — that is its point. It proves the section's lessons were skills, not viewings, by demanding them together without a lesson title to hint which comes next.
 
-[Picture — The project — the platform used whole]
+In your mind's eye: the project — the platform used whole.
 
 ## Sub lesson 2 — Working the project — in the platform's own order
 
 The work follows the platform's own order: **enter** signed in as yourself; **find** your team and read its posts; **take** the assignment and its files; **do** the work and, where the project asks, meet and discuss; **submit** and leave the team's conversation with a closing post. Each stage is checked against the project brief before the next begins — the same discipline Kuwait's project lessons teach in every subject.
 
-[Picture — Working the project — in the platform's own order]
+In your mind's eye: working the project — in the platform's own order.
 
 ## Say it to your companion
 

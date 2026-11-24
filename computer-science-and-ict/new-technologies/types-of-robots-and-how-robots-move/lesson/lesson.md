@@ -8,13 +8,13 @@ A robot arm in a factory, a rover on Mars and a vacuum under your sofa are cousi
 
 Robots move as their ground demands: **wheeled** robots roll (fast on floors, stopped by stairs), **legged** robots walk (slow, but the ground can be rough), **tracked** robots crawl (grip on rubble and mud), **flying** robots (drones) take the air, and **swimming** robots take the water; **fixed** robots — the factory arm — move only their working end. The moving part is driven by motors and guided by the robot's sensors and program: movement is the body obeying the system's decisions.
 
-[Picture — How robots move]
+In your mind's eye: how robots move.
 
 ## Sub lesson 2 — Types and fields of use
 
 By their work, Jordan sorts robots into fields: **industrial** (welding, assembling, painting — tireless and exact), **medical** (surgery's steady hand, hospital couriers), **exploration** (space, deep sea, disaster ruins — where people cannot or must not go), **service and home** (cleaning, guidance, company), **agricultural** and **military** robots. Their **importance** repeats a pattern: robots take work that is **dull, dirty or dangerous**, and do precise work beyond a hand's steadiness — which is why each field adopts them at its own painful places first.
 
-[Picture — Types and fields of use]
+In your mind's eye: types and fields of use.
 
 ## Say it to your companion
 

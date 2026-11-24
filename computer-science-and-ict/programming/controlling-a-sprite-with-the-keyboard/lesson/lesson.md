@@ -8,13 +8,13 @@ Lesson 12: Controlling a sprite with the keyboard
 
 This part of Kazakhstan's book teaches **Lesson 12: Controlling a sprite with the keyboard** — covering: Lesson 12: Controlling a sprite with the keyboard. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lesson 12: Controlling a sprite with the keyboard]
+In your mind's eye: lesson 12. Controlling a sprite with the keyboard.
 
 ## Sub lesson 2 — Controlling a sprite from the keyboard
 
 This part of Kazakhstan's book teaches **Controlling a sprite from the keyboard** — covering: §9: controlling a sprite from the keyboard (Sensing "key pressed" blocks, arrow keys). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Controlling a sprite from the keyboard]
+In your mind's eye: controlling a sprite from the keyboard.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Properties Inspector — covering: Prope
 
 This part of South Sudan's book teaches **Properties Inspector** — covering: Properties Inspector. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Properties Inspector. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — properties Inspector is part of that chain..
 
-[Picture — Properties Inspector]
+In your mind's eye: properties Inspector.
 
 ## Sub lesson 2 — Doing it — Properties Inspector in practice
 
 This part of South Sudan's book teaches **Doing it — Properties Inspector in practice** — covering: Properties Inspector. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Properties Inspector. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Properties Inspector in practice is part of that chain..
 
-[Picture — Doing it — Properties Inspector in practice]
+In your mind's eye: doing it — Properties Inspector in practice.
 
 ## Say it to your companion
 

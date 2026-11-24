@@ -8,7 +8,7 @@ Think of everything you can now do in Scratch: move, draw, speak, change places 
 
 Twice in Grade 3 the book stops teaching new blocks and sets **project work (Работа по проект)**: build a Scratch project of your own. A project starts with an **idea and a short plan** — what happens, which sprites, which place, what is said — and is then built **step by step** from the skills already proved: positioning and movement, backdrops and costumes, say and think blocks, dialogues, loops and sound. Working in steps matters: build one part, run it, fix it, then add the next. A finished project is **shown** — run for others, who can say what happens in it. Both of the book's project blocks (Урок 24–25 and Урок 28–29) stock this one lesson: the second project goes further because the learner's toolbox is bigger by then, not because the work is a different thing.
 
-[Picture — a picture of a picture of a project plan on paper — idea, sprites, backdrop, lines — beside a Scratch stage where the same project is half built, with one part ticked as working]
+In your mind's eye: a picture of a project plan on paper — idea, sprites, backdrop, lines. Beside a Scratch stage where the same project is half built, with one part ticked as working.
 
 ## Say it to your companion
 

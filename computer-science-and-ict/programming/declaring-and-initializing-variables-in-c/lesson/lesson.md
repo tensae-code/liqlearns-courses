@@ -8,13 +8,13 @@ Unit 1 §1.3.5 Variable Declaration and §1.3.6 Variable Initialization
 
 This part of Pakistan (Punjab)'s book teaches **Variable Declaration and §1.3.6 Variable Initialization** — covering: Unit 1 §1.3.5 Variable Declaration and §1.3.6 Variable Initialization. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Variable Declaration and §1.3.6 Variable Initialization]
+In your mind's eye: variable Declaration and §1.3.6 Variable Initialization.
 
 ## Sub lesson 2 — Doing it — Declaring and Initializing Variables in C in practice
 
 **Doing it — Declaring and Initializing Variables in C in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Declaring and Initializing Variables in C in practice]
+In your mind's eye: doing it — Declaring and Initializing Variables in C in practice.
 
 ## Say it to your companion
 

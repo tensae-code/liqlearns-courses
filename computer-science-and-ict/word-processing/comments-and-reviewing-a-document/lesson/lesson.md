@@ -8,13 +8,13 @@ Cuba's Grade 7 chapter teaches commenting the text — *Comentando el texto* —
 
 A **comment** is pinned to a **word, sentence or place** in the document and shown **beside the text** — in the margin or a note area — with its author's name. The text itself is **not changed** by a comment: the note asks, doubts or proposes, and the writer still decides. Comments are how a second reader — a classmate, a teacher — works on a document without overwriting its author.
 
-[Picture — Comments — notes pinned to the text]
+In your mind's eye: comments — notes pinned to the text.
 
 ## Sub lesson 2 — Reviewing — reading a document through comments
 
 **Reviewing** is the whole job comments serve: read the document as its reader will, **comment wherever** it is unclear, wrong or weak, and hand it back; the writer then **answers each comment** — changing the text where the note is right, replying where it is not — until no open comment remains. A reviewed document is a finished document: Cuba places commenting right before printing in the Grade 7 chapter, because review is the last work before the page leaves the screen.
 
-[Picture — Reviewing — reading a document through comments]
+In your mind's eye: reviewing — reading a document through comments.
 
 ## Say it to your companion
 

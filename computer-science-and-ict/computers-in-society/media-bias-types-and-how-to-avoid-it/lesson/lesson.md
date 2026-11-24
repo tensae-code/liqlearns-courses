@@ -8,13 +8,13 @@ Unit 5 §5.7 Digital Media Bias (slant, spin, sensationalism, story choice, word
 
 This part of Pakistan (Punjab)'s book teaches **Digital Media Bias** — covering: Unit 5 §5.7 Digital Media Bias (slant, spin, sensationalism, story choice, word choice, omission), §5.8 Importance of Unbiased Media, and how to avoid media bias. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Digital Media Bias]
+In your mind's eye: digital Media Bias.
 
 ## Sub lesson 2 — Doing it — Media Bias Types and How to Avoid IT in practice
 
 **Doing it — Media Bias Types and How to Avoid IT in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Media Bias Types and How to Avoid IT in practice]
+In your mind's eye: doing it — Media Bias Types and How to Avoid IT in practice.
 
 ## Say it to your companion
 

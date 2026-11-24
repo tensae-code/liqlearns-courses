@@ -22,7 +22,7 @@ greet()
 
 Two calls, two greetings, one written block. That is the function's bargain: write once, call anywhere, and when the job must change, change it in **one place** and every call follows.
 
-[Picture — a picture of a Python function drawn as a labelled machine: the `def` line as its name plate, the indented body as the works inside, an arrow marked "call" going in and an arrow marked "return" coming out]
+In your mind's eye: a Python function drawn as a labelled machine. The `def` line as its name plate, the indented body as the works inside, an arrow marked "call" going in and an arrow marked "return" coming out.
 
 ## Sub lesson 2 — Values in, a result back — parameters and `return`
 
@@ -38,7 +38,7 @@ print(square(10))
 
 The word **`return`** hands a result back to the place that called the function. What comes back can be printed, as above, or stored — `area = square(5)` — and used in more work. Notice the difference from the first part: `print` *shows* a value and it is gone; `return` *hands it back* so the program can keep it. Same body, different arguments, different results: that is a function earning its name.
 
-[Picture — a picture of one function called three times with three different values going in, and three results coming back]
+In your mind's eye: one function called three times with three different values going in, and three results coming back.
 
 ## Say it to your companion
 

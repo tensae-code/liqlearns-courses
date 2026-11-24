@@ -8,7 +8,7 @@ Hold two numbers in your head: 7 and 5. Is 7 bigger? Yes. Is 7 bigger AND smalle
 
 Branching questions grow up in this lesson. **Comparison blocks** compare two values — **greater than, less than, equal to** — and answer true or false, which is exactly the shape a branching block needs for its question. **Logical operators** join those answers: **and** (both tests true), **or** (at least one true), **not** (flips true to false and false to true). With them a program can ask real questions: is the score greater than 10 **and** the time not over? The lesson teaches the reading order carefully — work out each small test first, then join the answers — because a compound question is only as trustworthy as its parts.
 
-[Picture — a picture of a picture of green comparison blocks — greater, less, equal — feeding an and block and an or block, with a small true/false table beside them showing each joined answer]
+In your mind's eye: a picture of green comparison blocks — greater, less, equal. Feeding an and block and an or block, with a small true/false table beside them showing each joined answer.
 
 ## Say it to your companion
 

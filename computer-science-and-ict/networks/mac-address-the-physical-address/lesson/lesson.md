@@ -8,13 +8,13 @@ Your school has an address — a street and a town. You also have a name, which 
 
 Every network card carries a **MAC address** — its **physical address**, fixed into the card when it was made. Where an IP address names a device's place on a network (and can change when the device moves), the MAC address names the **device itself**, wherever it goes. It is written as **six pairs of hexadecimal digits** separated by colons or dashes — long enough that every card in the world can carry a different one. Sudan's Grade 6 book teaches it beside the IP address, in the same lesson, because a network needs both names to deliver anything.
 
-[Picture — What a MAC address is]
+In your mind's eye: what a MAC address is.
 
 ## Sub lesson 2 — Two addresses, two jobs
 
 The two addresses work together: the **IP address** is the logical address — it routes data across networks to the right building; the **MAC address** is the physical address — it hands the data to the exact card inside that building. A device keeps its MAC for life but can be given a new IP on every network it joins. Confusing them is the beginner's mistake this lesson prevents: IP is where you are; MAC is who you are.
 
-[Picture — Two addresses, two jobs]
+In your mind's eye: two addresses, two jobs.
 
 ## Say it to your companion
 

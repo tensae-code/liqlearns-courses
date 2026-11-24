@@ -8,13 +8,13 @@ A data table is Excel's automatic what-if grid: it takes one or two changing inp
 
 A data table is Excel's automatic what-if grid: it takes one or two changing inputs and fills a whole table with the results the model gives for each value The learner lays out the input values in a row or column, links the result cell, and lets the Data Table command fill in every result at once Because trying twenty input values by hand is slow and error-prone; the data table does the repetition exactly.
 
-[Picture — Data Tables]
+In your mind's eye: data Tables.
 
 ## Sub lesson 2 — Doing it — Data Tables in practice
 
 What If Data Tables is learned by doing: the learner lays out the input values in a row or column, links the result cell, and lets the Data Table command fill in every result at once The learner lays out the input values in a row or column, links the result cell, and lets the Data Table command fill in every result at once Because trying twenty input values by hand is slow and error-prone; the data table does the repetition exactly.
 
-[Picture — Doing it — Data Tables in practice]
+In your mind's eye: doing it — Data Tables in practice.
 
 ## Say it to your companion
 

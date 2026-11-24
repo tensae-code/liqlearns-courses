@@ -8,13 +8,13 @@ Unit 3 §3.5 The Need for Addressing and §3.5.1 Importance of Addressing in Dat
 
 This part of Pakistan (Punjab)'s book teaches **The Need for Addressing and §3.5.1 Importance of Addressing in Data Communication** — covering: Unit 3 §3.5 The Need for Addressing and §3.5.1 Importance of Addressing in Data Communication. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — The Need for Addressing and §3.5.1 Importance of Addressing in Data Communication]
+In your mind's eye: the Need for Addressing and §3.5.1 Importance of Addressing in Data Communication.
 
 ## Sub lesson 2 — Doing it — Why Networks Need Addresses and Port Numbers in practice
 
 **Doing it — Why Networks Need Addresses and Port Numbers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Why Networks Need Addresses and Port Numbers in practice]
+In your mind's eye: doing it — Why Networks Need Addresses and Port Numbers in practice.
 
 ## Say it to your companion
 

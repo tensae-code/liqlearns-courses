@@ -8,13 +8,13 @@ Before any definition: name one place in Rwandan daily life where a computer or 
 
 Rwanda's book grounds ICT in the learner's own country first. **ICT in Rwanda** runs through **daily life**: phones carry **money and messages**, computers keep **school and office records**, and **radios, television and the internet** carry news and learning. The point of the unit is recognition — the learner lists the ICT already around them before any new machine is named. Rwanda's own way starts from home ground: the technology is not foreign equipment, it is the tools Rwandans already use every day.
 
-[Picture — ICT in Rwandan daily life]
+In your mind's eye: iCT in Rwandan daily life.
 
 ## Sub lesson 2 — ICT in services — money, health, farming and government
 
 The book's survey widens to **services**: **mobile money and banking** move funds without a branch visit; **health services** keep patient records and link clinics; **farmers** get prices and weather by phone; and **government services** reach citizens through computer systems instead of paper queues. Each field shows the same pattern — information that used to travel by foot and paper now travels **by signal**, faster and recorded as it goes.
 
-[Picture — ICT in services — money, health, farming and government]
+In your mind's eye: iCT in services — money, health, farming and government.
 
 ## Say it to your companion
 

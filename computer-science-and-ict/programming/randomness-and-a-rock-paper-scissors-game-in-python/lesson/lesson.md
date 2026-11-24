@@ -8,13 +8,13 @@ Every program so far did exactly what it was told, every time. A game against th
 
 A program gains **randomness** from a **random-choice tool**: Python's **random** work (the randint and choice the unit uses) hands the program a value **not fixed by the code** — within the range or list given, any value may come, and runs differ run to run. The book's motto over the section is the gambler's proverb, 'luck helps the bold': the program must be *built* for every value the random tool may hand it, because sooner or later it will hand all of them.
 
-[Picture — Randomness — chosen unpredictability]
+In your mind's eye: randomness — chosen unpredictability.
 
 ## Sub lesson 2 — Rock-paper-scissors — the game built whole
 
 The unit's game is the classic three: the player enters **rock, paper or scissors**; the computer **chooses randomly**; the **rules judge** (rock breaks scissors, scissors cut paper, paper wraps rock; equal choices draw); the round is **reported** and the game repeats. Small as it is, the program spends the whole Python the unit has taught — input, variables, selection over both choices, randomness — which is why the book places it as the unit's summit: a complete, honest game, unrigged because its opponent's heart is a random choice.
 
-[Picture — Rock-paper-scissors — the game built whole]
+In your mind's eye: rock-paper-scissors — the game built whole.
 
 ## Say it to your companion
 

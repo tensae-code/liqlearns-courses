@@ -8,13 +8,13 @@ Think of one advertisement you can sing, quote or picture exactly. You never cho
 
 An **advertisement (une publicité)** is a message made to persuade: to make you want, choose or remember a product, a place, a behaviour. It is not information that happens to be pretty — every part is chosen for effect: the smiling people, the music, the slogan short enough to stick, the product shown larger and brighter than life. Recognising an ad means first recognising its **intention**: someone paid for this message to change what I do.
 
-[Picture — What an advertisement is for]
+In your mind's eye: what an advertisement is for.
 
 ## Sub lesson 2 — The persuader's tools
 
 The parcours names the tools: **promise** (this will make you happy, strong, loved), **belonging** (everyone like you has one), **repetition** (the same message until it feels like your own idea), **image over words** (a feeling pictured beats a fact stated), and **hiding the ad** (inside a game, a video, a favourite person's recommendation). Naming a tool while it is used on you does not ruin the ad — it returns the choice to you.
 
-[Picture — The persuader's tools]
+In your mind's eye: the persuader's tools.
 
 ## Say it to your companion
 

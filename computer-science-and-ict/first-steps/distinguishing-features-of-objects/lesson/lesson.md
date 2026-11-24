@@ -12,7 +12,7 @@ Two pencils can both be long and yellow — but one is sharp and one is blunt. '
 
 When you must pick out one object from alike objects, look for its distinguishing feature — the one feature the others do not have. That is how you can ask for exactly the object you mean: 'the cup with the chip', 'the book with the torn cover'.
 
-[Picture — a picture of two alike yellow pencils, one sharp and one blunt, with the sharp point circled]
+In your mind's eye: two alike yellow pencils, one sharp and one blunt, with the sharp point circled.
 
 ## Say it to your companion
 

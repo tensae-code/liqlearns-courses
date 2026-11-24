@@ -8,13 +8,13 @@ Unit 5 §5.2 Ethics in Digital Environment (misuse of personal information, misi
 
 This part of Pakistan (Punjab)'s book teaches **Ethics in Digital Environment** — covering: Unit 5 §5.2 Ethics in Digital Environment (misuse of personal information, misinformation and deep fakes, lack of oversight). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Ethics in Digital Environment]
+In your mind's eye: ethics in Digital Environment.
 
 ## Sub lesson 2 — Doing it — Ethical Issues in the Digital Environment in practice
 
 **Doing it — Ethical Issues in the Digital Environment in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Ethical Issues in the Digital Environment in practice]
+In your mind's eye: doing it — Ethical Issues in the Digital Environment in practice.
 
 ## Say it to your companion
 

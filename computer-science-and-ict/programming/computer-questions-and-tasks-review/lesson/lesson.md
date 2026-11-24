@@ -14,7 +14,7 @@ This is the **review lesson** for the Computer unit — the book's own 'question
 
 **Task set 3 — Paint and Calculator.** Draw a picture in Paint and put text inside it. Work out short calculations in the Calculator program: number, sign, number, equals — clearing before each new one. If a task goes wrong, that task names the lesson to visit again.
 
-[Picture — a picture of a review desk with a computer, a WordPad page with bold and coloured words, a Paint drawing with a caption, and a Calculator showing an answer]
+In your mind's eye: a review desk with a computer, a WordPad page with bold and coloured words, a Paint drawing with a caption, and a Calculator showing an answer.
 
 ## Say it to your companion
 

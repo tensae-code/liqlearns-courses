@@ -8,13 +8,13 @@ Find the square root of 81 by hand — then imagine a program that must do it a 
 
 BASIC carries a toolbox of **built-in (reserved) functions**: named pieces of work the language itself performs. You give a function a value and it hands back a result — no program of yours defines how. The mathematical family comes first in Sudan's book: **SQR** gives a number's square root, **SIN** its sine, and their fellows give cosines, tangents, absolute values and whole parts. Writing `LET R = SQR(81)` stores 9 — the root was found by the language, not by your lines.
 
-[Picture — Built-in functions — work the language does for you]
+In your mind's eye: built-in functions — work the language does for you.
 
 ## Sub lesson 2 — String functions — LEFT$ and LEN
 
 The second family works on **strings** — text held in string variables. **LEN** counts a string's characters: `LEN("KHARTOUM")` is 8. **LEFT$** cuts from the left: `LEFT$("KHARTOUM", 4)` is "KHAR" — the first four characters. Their partners cut from the right and the middle. A built-in function is recognised the same way in both families: a reserved name, a value in brackets, a single result out. The next lesson turns the idea around — functions the programmer defines for herself.
 
-[Picture — String functions — LEFT$ and LEN]
+In your mind's eye: string functions — LEFT$ and LEN.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Open Excel and look before you click: rows, columns, a strip of tools across the
 
 The **main interface** of Excel is the window you work in: the **worksheet** of rows and columns in the middle, where the data goes, held inside the program's window with its title and controls. The unit's first lesson filled in what a spreadsheet is; this one names the parts of the screen it happens on.
 
-[Picture — The main interface of Microsoft Excel]
+In your mind's eye: the main interface of Microsoft Excel.
 
 ## Sub lesson 2 — The ribbon
 
 Across the top runs the **ribbon**: the strip of **tabs and tools** for working on the worksheet — formatting, inserting and laying out the page all live there in later lessons. Learning the ribbon's layout once means every later Excel lesson can simply say where a tool lives, and the pupil already knows the way.
 
-[Picture — The ribbon]
+In your mind's eye: the ribbon.
 
 ## Say it to your companion
 

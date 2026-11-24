@@ -8,13 +8,13 @@ Counting motor turns makes sloppy corners. Grade 8's next sensor measures the tu
 
 The **gyroscope sensor** measures the robot's **rotation**: how many degrees it has turned from where it started. With it, a turn stops being timed and hoped — the program turns **until the gyro reads the target angle**, then stops: 90 means 90, on any floor, with any battery. Precise turns are the first gift; the second is knowing the robot's heading at every moment, the fact straight driving needs.
 
-[Picture — The gyroscope — knowing the robot's angle]
+In your mind's eye: the gyroscope — knowing the robot's angle.
 
 ## Sub lesson 2 — Proportional control — correcting by the error, with Kp
 
 Driving straight is a fight against drift, and **proportional control** is the fair way to fight it: measure the **error** — how far the heading is from the target — and correct **in proportion** to it: a big error, a strong correction; a small error, a gentle one. The proportion is set by the constant **Kp**: too small and the robot wanders; too large and it twitches. Tuning Kp — trying, watching, adjusting — is the engineer's real work, and Kuwait teaches it by name in Grade 8.
 
-[Picture — Proportional control — correcting by the error, with Kp]
+In your mind's eye: proportional control — correcting by the error, with Kp.
 
 ## Say it to your companion
 

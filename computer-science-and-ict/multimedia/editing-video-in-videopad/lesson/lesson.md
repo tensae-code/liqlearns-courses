@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **The possibilities of the VideoPad editor** — covering: §17: The possibilities of the VideoPad editor (toolbar, adding objects, text, effects, transitions, recording). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — The possibilities of the VideoPad editor]
+In your mind's eye: the possibilities of the VideoPad editor.
 
 ## Sub lesson 2 — Reworking a video
 
 This part of Kazakhstan's book teaches **Reworking a video** — covering: §18: Reworking a video. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Reworking a video]
+In your mind's eye: reworking a video.
 
 ## Say it to your companion
 

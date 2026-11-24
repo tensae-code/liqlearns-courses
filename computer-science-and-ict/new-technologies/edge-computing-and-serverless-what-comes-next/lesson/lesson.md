@@ -8,13 +8,13 @@ Unit 6 §6.6 Future Trends and Innovations (§6.6.1.1 edge computing — autonom
 
 This part of Pakistan (Punjab)'s book teaches **Future Trends and Innovations** — covering: Unit 6 §6.6 Future Trends and Innovations (§6.6.1.1 edge computing — autonomous vehicles; §6.6.1.2 serverless architectures — AWS Lambda; Blockchain 2.0). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Future Trends and Innovations]
+In your mind's eye: future Trends and Innovations.
 
 ## Sub lesson 2 — Doing it — Edge Computing and Serverless What Comes Next in practice
 
 **Doing it — Edge Computing and Serverless What Comes Next in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Edge Computing and Serverless What Comes Next in practice]
+In your mind's eye: doing it — Edge Computing and Serverless What Comes Next in practice.
 
 ## Say it to your companion
 

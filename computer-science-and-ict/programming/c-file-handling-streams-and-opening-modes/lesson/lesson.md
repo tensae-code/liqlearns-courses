@@ -8,13 +8,13 @@ Chapter 14 §14.1 Overview (permanent storage in files), §14.2 The Stream (text
 
 This part of Pakistan (Punjab)'s book teaches **C File Handling Streams and Opening Modes** — covering: Chapter 14 §14.1 Overview (permanent storage in files), §14.2 The Stream (text stream vs binary stream), §14.3 Newline and EOF Marker, Opening a File (fopen; the NULL check) and §14.4.1 File Opening Modes (r, w, a, r+, w+, a+). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — C File Handling Streams and Opening Modes]
+In your mind's eye: c File Handling Streams and Opening Modes.
 
 ## Sub lesson 2 — Doing it — C File Handling Streams and Opening Modes in practice
 
 **Doing it — C File Handling Streams and Opening Modes in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — C File Handling Streams and Opening Modes in practice]
+In your mind's eye: doing it — C File Handling Streams and Opening Modes in practice.
 
 ## Say it to your companion
 

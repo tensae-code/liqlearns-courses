@@ -8,13 +8,13 @@ The data-analysis unit opens by slowing down on the word everyone uses and few d
 
 **Data** is raw recorded facts — numbers, words, measurements, marks — before they are organised into meaning. Data is the analysis unit's raw material: collected from the world, held in files and tables, and worked on by every later stage. Jordan's definition carries the standard warning inside it: data is not **information** — information is data processed, organised and given context, the form in which it can decide anything. Confusing the two is how heaps of numbers get mistaken for knowledge.
 
-[Picture — The concept of data]
+In your mind's eye: the concept of data.
 
 ## Sub lesson 2 — The types of data
 
 Data is typed on two great sorts. By **nature**: **quantitative** data (numbers — themselves split into discrete counts and continuous measures) and **qualitative** data (kinds and descriptions — names, colours, opinions). By **structure**: **structured** data (tables with fixed fields), **semi-structured** (tagged, loosely organised — web data), and **unstructured** (free text, images, sound). The type decides the tool: you cannot average a colour, and you cannot read a million free texts by eye — the sort comes before the method, every time.
 
-[Picture — The types of data]
+In your mind's eye: the types of data.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A program text is a stream of characters until separators cut it into pieces the
 
 **Separators** divide program text into its units: **blanks and line breaks** separate words; **commas** separate lists (parameters, values); **brackets** group; and the **semicolon** separates — in Pascal, instructions from each other; in C++, it **ends** each instruction as its terminator. The compiler reads separators before meaning: two programs with the same words and different separators are different programs, or one is no program at all. Whitespace beyond separation is free — indentation is written for people, paid for by nobody.
 
-[Picture — Cutting the text — what separators are]
+In your mind's eye: cutting the text — what separators are.
 
 ## Sub lesson 2 — One sign, two grammars — the semicolon's two jobs
 
 The semicolon is the pair's emblematic difference. In **Pascal**, because it separates, the last instruction before **end** needs none — and an extra one only plants an empty instruction. In **C++**, because it terminates, a missing semicolon is an immediate error, and an extra one is an **empty statement** with the same traps (the stray `if (x>0);`). Reading separators is reading grammar: the same text, cut differently by the two languages, means differently — the vocabulary chapter's last proof that syntax is real.
 
-[Picture — One sign, two grammars — the semicolon's two jobs]
+In your mind's eye: one sign, two grammars — the semicolon's two jobs.
 
 ## Say it to your companion
 

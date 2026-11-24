@@ -8,13 +8,13 @@ Unit 5 §5.11: depression and anxiety, FOMO (Fear of Missing Out), unrealistic e
 
 This part of Pakistan (Punjab)'s book teaches **Depression and anxiety, FOMO** — covering: Unit 5 §5.11: depression and anxiety, FOMO (Fear of Missing Out), unrealistic expectations, unhealthy sleep patterns. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Depression and anxiety, FOMO]
+In your mind's eye: depression and anxiety, FOMO.
 
 ## Sub lesson 2 — Doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice
 
 **Doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice]
+In your mind's eye: doing it — Online Dangers to Mind and Body FOMO Expectations and Sleep in practice.
 
 ## Say it to your companion
 

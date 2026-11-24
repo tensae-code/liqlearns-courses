@@ -8,13 +8,13 @@ Unit 1 §1.6 ICT Devices
 
 This part of Pakistan (Punjab)'s book teaches **ICT Devices Around Us** — covering: Unit 1 §1.6 ICT Devices. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — ICT Devices Around Us]
+In your mind's eye: iCT Devices Around Us.
 
 ## Sub lesson 2 — Doing it — ICT Devices Around Us in practice
 
 **Doing it — ICT Devices Around Us in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — ICT Devices Around Us in practice]
+In your mind's eye: doing it — ICT Devices Around Us in practice.
 
 ## Say it to your companion
 

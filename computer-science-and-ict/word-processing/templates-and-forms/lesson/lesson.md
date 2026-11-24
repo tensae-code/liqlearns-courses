@@ -8,13 +8,13 @@ Nobody designs a letterhead from a blank page every morning. This lesson is abou
 
 A **template** saves a document's **skeleton**: margins, styles, headings, logos, standard text. Creating a document **from** a template copies the skeleton; the new document is filled in and saved under its own name while the template stays untouched for next time. Word offers ready templates, and any document you design can be **saved as a template** of your own.
 
-[Picture — templates — start from a pattern]
+In your mind's eye: templates — start from a pattern.
 
 ## Sub lesson 2 — Forms — documents that ask questions
 
 A **form** fixes the questions and frees only the answers: **content controls** give the filler-in text fields, drop-down lists and checkboxes, and **protection** can lock everything except those fields. Schools, offices and clinics run on such forms — the designer's job is that the form cannot be accidentally broken by the person completing it.
 
-[Picture — forms — documents that ask questions]
+In your mind's eye: forms — documents that ask questions.
 
 ## Say it to your companion
 

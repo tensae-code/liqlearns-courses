@@ -8,13 +8,13 @@ Unit 9 §9.8 Innovation and Creativity (§9.8.1 innovation — mobile banking in
 
 This part of Pakistan (Punjab)'s book teaches **Innovation and Creativity** — covering: Unit 9 §9.8 Innovation and Creativity (§9.8.1 innovation — mobile banking in Pakistan; §9.8.2 creativity; §9.8.3 how to foster both — the first online Urdu dictionary). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Innovation and Creativity]
+In your mind's eye: innovation and Creativity.
 
 ## Sub lesson 2 — Doing it — Innovation and Creativity in Business in practice
 
 **Doing it — Innovation and Creativity in Business in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Innovation and Creativity in Business in practice]
+In your mind's eye: doing it — Innovation and Creativity in Business in practice.
 
 ## Say it to your companion
 

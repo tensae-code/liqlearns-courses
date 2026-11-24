@@ -8,13 +8,13 @@ The Scenario Manager stores named sets of input values — a best case, an expec
 
 The Scenario Manager stores named sets of input values — a best case, an expected case, a worst case — and applies each set to the same model in one step The learner creates scenarios by naming them and entering their input values, then shows each scenario and compares the results side by side Because a plan should be tested against more than one future, and scenarios keep those futures named, saved and comparable.
 
-[Picture — Scenario Manager]
+In your mind's eye: scenario Manager.
 
 ## Sub lesson 2 — Doing it — Scenario Manager in practice
 
 Scenario Manager in Excel is learned by doing: the learner creates scenarios by naming them and entering their input values, then shows each scenario and compares the results side by side The learner creates scenarios by naming them and entering their input values, then shows each scenario and compares the results side by side Because a plan should be tested against more than one future, and scenarios keep those futures named, saved and comparable.
 
-[Picture — Doing it — Scenario Manager in practice]
+In your mind's eye: doing it — Scenario Manager in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Unit 5 Lab Activities (average weight of five friends; desk area program; READ/D
 
 This part of Pakistan (Punjab)'s book teaches **Lab Activities** — covering: Unit 5 Lab Activities (average weight of five friends; desk area program; READ/DATA marks total; IF-THEN-ELSE bigger number; circle area with PIE = 3.1415). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Lab Activities]
+In your mind's eye: lab Activities.
 
 ## Sub lesson 2 — Doing it — GW BASIC Lab Write Five Programs in practice
 
 **Doing it — GW BASIC Lab Write Five Programs in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — GW BASIC Lab Write Five Programs in practice]
+In your mind's eye: doing it — GW BASIC Lab Write Five Programs in practice.
 
 ## Say it to your companion
 

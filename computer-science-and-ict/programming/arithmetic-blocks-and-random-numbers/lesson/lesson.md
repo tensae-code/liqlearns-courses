@@ -8,7 +8,7 @@ Ask a friend to pick a number between 1 and 10 without telling you. Chance just 
 
 Scratch's green **operator blocks** give programs a calculator inside them. The **arithmetic blocks** — add, subtract, multiply, divide — take two numbers and answer with the result, and that answer can go anywhere a number can go: into a move, a wait, a say. The **random block (случайни числа)** picks a number between two limits by chance, different every run — the block behind dice games, guessing games and surprises. The lesson joins them the way programs do: compute something, or chance something, then **use the answer** in the next block. Reading skill: given an arithmetic block with its numbers, say its answer before running; given a random block, say the range the answer must fall in, even though the exact number is chance.
 
-[Picture — a picture of a picture of green Scratch operator blocks — add, subtract, multiply, divide — feeding their answers into a move block, and a random block beside a dice showing its lowest and highest numbers]
+In your mind's eye: a picture of green Scratch operator blocks — add, subtract, multiply, divide. Feeding their answers into a move block, and a random block beside a dice showing its lowest and highest numbers.
 
 ## Say it to your companion
 

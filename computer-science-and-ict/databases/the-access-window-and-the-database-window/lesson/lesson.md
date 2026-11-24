@@ -8,13 +8,13 @@ Chapter 5 §5.2 MS-Access Application Window (title bar, menu bar, toolbars, scr
 
 This part of Pakistan (Punjab)'s book teaches **MS-Access Application Window** — covering: Chapter 5 §5.2 MS-Access Application Window (title bar, menu bar, toolbars, scroll bar, status bar) and §5.3 Database Window. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — MS-Access Application Window]
+In your mind's eye: mS-Access Application Window.
 
 ## Sub lesson 2 — Doing it — The Access Window and the Database Window in practice
 
 **Doing it — The Access Window and the Database Window in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — The Access Window and the Database Window in practice]
+In your mind's eye: doing it — The Access Window and the Database Window in practice.
 
 ## Say it to your companion
 

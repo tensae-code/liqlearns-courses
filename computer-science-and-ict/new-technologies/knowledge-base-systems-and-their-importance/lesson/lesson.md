@@ -8,13 +8,13 @@ A database stores facts and answers questions about them. A knowledge base store
 
 A **knowledge base system** holds knowledge — facts **and the rules that connect them** — together with a way of **reasoning**: drawing new conclusions from stored knowledge. Its classic shape is the expert system's: a knowledge base, an **inference engine** that applies the rules, and an interface for asking. Where a database answers 'what is stored?', a knowledge base answers 'what follows?' — the difference between a shelf and a mind at work.
 
-[Picture — What a knowledge base system is]
+In your mind's eye: what a knowledge base system is.
 
 ## Sub lesson 2 — Importance and types
 
 Their **importance**: scarce expertise becomes **shareable, permanent and tireless** — the expert retires, the system still advises; a hundred clinics ask at once. Jordan's types of knowledge-based systems include **expert systems** (advising like a specialist), **case-based systems** (reasoning from past cases), and systems built on **rules, frames or logic** as their knowledge's shape. The book places them at AI's door: they are AI's oldest working form, knowledge doing the work that data alone cannot.
 
-[Picture — Importance and types]
+In your mind's eye: importance and types.
 
 ## Say it to your companion
 

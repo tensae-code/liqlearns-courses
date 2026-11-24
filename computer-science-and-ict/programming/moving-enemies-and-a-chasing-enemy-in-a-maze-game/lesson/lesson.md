@@ -8,7 +8,7 @@ A maze with no enemies is a puzzle you can solve at walking pace, thinking as lo
 
 The first enemy is a **patrol**: it moves **between two points**, back and forth on a fixed path — dangerous where its path crosses yours, and beatable by timing, because its route never changes. The second enemy moves **to random places**: it turns up here, then there, with no pattern to learn, so the player must watch the whole maze, not memorise a route. The third is the **smart enemy**: it **chases the player sprite** — it steers toward wherever the player is, again and again, so distance keeps shrinking unless the player keeps moving. Patrol, random, chaser: the three together are a difficulty ladder inside one game — a good maze game introduces them in that order, and catching the player is their job: in the finished game, an enemy touching the player ends the game, like a wall does.
 
-[Picture — a picture of three maze enemies in a row — one pacing between two flags, one popping up at a question-marked random place, and one with an arrow always pointing at the player character]
+In your mind's eye: three maze enemies in a row — one pacing between two flags, one popping up at a question-marked random place, and one with an arrow always pointing at the player character.
 
 ## Say it to your companion
 

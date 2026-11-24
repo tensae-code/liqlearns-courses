@@ -8,13 +8,13 @@ Constants in Arduino programs — the fixed names the language gives you: TRUE a
 
 A **constant** is a name whose value is fixed before the program runs and never changes inside it. Arduino C hands the programmer a pocketful of them, and Indonesia's Grade 12 course names them as their own lesson because sketches are unreadable without them. The logic pair: **TRUE** and **FALSE** — the two answers of every test in the program, written as names instead of the numbers (1 and 0) they stand for, so a condition reads as it means.
 
-[Picture — Names that never change — TRUE and FALSE]
+In your mind's eye: names that never change — TRUE and FALSE.
 
 ## Sub lesson 2 — Levels and directions — HIGH/LOW, INPUT/OUTPUT
 
 The pin pairs complete the set. **HIGH** and **LOW** name a pin's two levels — the voltage present or absent — used with digitalWrite and returned by digitalRead. **INPUT** and **OUTPUT** name a pin's two directions, given to pinMode. Four names, and the whole conversation with the board is written in them: set this pin OUTPUT, write it HIGH, read that INPUT pin until it is TRUE-ly pressed. Constants are the language keeping its promises: HIGH means the same in every sketch ever written, which is why programs use the names and never the bare numbers.
 
-[Picture — Levels and directions — HIGH/LOW, INPUT/OUTPUT]
+In your mind's eye: levels and directions — HIGH/LOW, INPUT/OUTPUT.
 
 ## Say it to your companion
 

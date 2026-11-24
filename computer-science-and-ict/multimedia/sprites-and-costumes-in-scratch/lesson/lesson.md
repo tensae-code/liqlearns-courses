@@ -8,7 +8,7 @@ Think of an actor in a play who changes clothes between scenes: same actor, new 
 
 This double lesson builds the pair of ideas every Scratch story needs. A **sprite (герой)** is a character or thing that acts on the stage — it can move, speak and change. Its **costumes (костюми)** are its looks: the same sprite drawn differently — walking and standing, happy and surprised, wings up and wings down. One sprite holds **several costumes**, and a script can **switch costume** to change the look in a moment, which is also the seed of animation: switch looks fast, one after another, and the sprite seems to move its own body. The learner adds sprites, opens their costumes, adds and switches costumes, and names which costume a story moment needs.
 
-[Picture — a picture of a picture of one Scratch sprite shown three times in three costumes — standing, walking, surprised — with arrows showing the switch from one look to the next]
+In your mind's eye: a picture of one Scratch sprite shown three times in three costumes — standing, walking, surprised. With arrows showing the switch from one look to the next.
 
 ## Say it to your companion
 

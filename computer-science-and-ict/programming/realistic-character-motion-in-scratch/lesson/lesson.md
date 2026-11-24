@@ -8,13 +8,13 @@ A sprite that glides at one speed in a straight line looks like a sticker, not a
 
 Real movement **starts slow, hurries, and settles**: the unit builds that feel by keeping the sprite's speed in a **variable** and **changing the speed a little each step** — a small addition while a key is held (**acceleration**), a small subtraction when it is released (**slowing to rest**). The same blocks that moved the sprite before now move it by a *changing* amount, and the difference is visible at once: the character leans into its journey instead of teleporting politely along it.
 
-[Picture — Speed that changes — acceleration and easing]
+In your mind's eye: speed that changes — acceleration and easing.
 
 ## Sub lesson 2 — Falling and turning — gravity's feel in blocks
 
 The unit's second believability is **falling**: a jumping or dropped character's downward speed **grows** each step (gravity adds and adds) until it lands, where the growth must stop — a landing check is the difference between a jump and a disappearance through the floor. Turning likewise gains life when the **costume and direction answer the movement** (face the way you travel; change costume as you run). The lesson's rule collects them: believable motion is ordinary motion blocks **plus variables for the physics the eye expects**.
 
-[Picture — Falling and turning — gravity's feel in blocks]
+In your mind's eye: falling and turning — gravity's feel in blocks.
 
 ## Say it to your companion
 

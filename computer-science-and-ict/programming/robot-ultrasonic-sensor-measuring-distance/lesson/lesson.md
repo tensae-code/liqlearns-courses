@@ -8,13 +8,13 @@ Touch feels at zero distance. Grade 7's next sensor measures before arrival: the
 
 The **Ultrasonic sensor** sends out a pulse of sound too high to hear and **times its echo's** return from the nearest surface. Distance is the time halved and paced by sound's speed: a quick echo, a near wall; a slow echo, open space. The robot gains a number, not a bump — it can stop **before** the obstacle, keep a chosen distance from a wall, or report how wide a gateway is, all without touching anything.
 
-[Picture — Sound and time — the echo that measures]
+In your mind's eye: sound and time — the echo that measures.
 
 ## Sub lesson 2 — A tour of Kuwait's landmarks, by distance
 
 The book spends the new sense on home ground: a **robot tour of Kuwait landmarks** — the virtual robot travelling between the country's famous places in the simulation, its distances to each landmark's walls and gates measured ultrasonically as it goes. The lesson's pattern is the series' pattern: a real physical principle (echo timing), a sensor that embodies it, and a mission set in Kuwait itself.
 
-[Picture — A tour of Kuwait's landmarks, by distance]
+In your mind's eye: a tour of Kuwait's landmarks, by distance.
 
 ## Say it to your companion
 

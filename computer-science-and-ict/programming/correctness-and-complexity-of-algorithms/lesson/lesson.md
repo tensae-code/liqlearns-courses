@@ -8,13 +8,13 @@ An algorithm can be fast and wrong, or right and hopeless. The exam course judge
 
 An algorithm is **correct** when, for **every** input its statement allows, it **ends** and gives the answer the problem asks for. The book tests correctness the working way: trace the algorithm on chosen inputs — the smallest, the largest, the awkward middle — and check each answer against the problem, because one honest counterexample is worth more than a hundred easy successes. The chapter works correctness beside its named kinds of algorithm, so 'correct' always means correct *for this problem's statement*, not correct in the air.
 
-[Picture — Correctness — the right answer, for every honest input]
+In your mind's eye: correctness — the right answer, for every honest input.
 
 ## Sub lesson 2 — Complexity — cost counted as growth
 
 **Complexity (πολυπλοκότητα)** counts an algorithm's cost — steps, and the memory it holds — **as the input size grows**, not in seconds on one machine. The chapter measures its standing examples against each other: the **straight-exchange sort** grows far faster than **linear search**, whose work simply follows the list's length; that growth shape is the judgement that survives every faster machine. The workbook's analysis chapter reworks correctness and complexity together as graded examples and activities.
 
-[Picture — Complexity — cost counted as growth]
+In your mind's eye: complexity — cost counted as growth.
 
 ## Say it to your companion
 

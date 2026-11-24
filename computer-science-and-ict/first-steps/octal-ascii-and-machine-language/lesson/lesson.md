@@ -8,13 +8,13 @@ Why learn octal spellings of letter codes at all? Because inside the machine the
 
 A computer stores and sends **only numbers**: a text character is held as its **ASCII code value**, and that value, like every value in the machine, is held in **binary**. When Malaysia's book writes A as octal 101, that is the same holding as binary 1000001 — the code value 65 in two writings. Octal adds nothing new to store; it is a **shorter writing** of the machine's own numbers, three bits per digit.
 
-[Picture — Characters are numbers inside]
+In your mind's eye: characters are numbers inside.
 
 ## Sub lesson 2 — Machine language — the computer's own words
 
 **Machine language** is the computer's own language: instructions and data as binary patterns the processor acts on directly. People reading or writing those patterns group the bits — in threes for **octal**, in fours for hexadecimal — because a page of raw bits cannot be checked by eye. The relation Malaysia names is this chain: octal is how people write, ASCII is what characters mean, and machine language is what the machine holds — one value, three views.
 
-[Picture — Machine language — the computer's own words]
+In your mind's eye: machine language — the computer's own words.
 
 ## Say it to your companion
 

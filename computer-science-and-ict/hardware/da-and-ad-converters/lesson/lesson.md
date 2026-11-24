@@ -10,7 +10,7 @@ A **DA converter (DAC)** promises: give me a binary number, and I will give you 
 
 How is a number turned into a voltage? The book's construction is the **R–2R resistor ladder**, and its soul is the place-value table from the first lesson. Each input bit controls a switch. A set bit lets its current flow into a summing point; the ladder's resistors — only two values, R and 2R, repeated — arrange that the most significant bit contributes half of full scale, the next a quarter, the next an eighth: each bit contributing exactly its binary weight. Add the contributions of the set bits and the total *is* the number, as a voltage.
 
-[Picture — an R–2R ladder DAC: four bit switches feeding a ladder of R and 2R resistors into a summing point, with the contributions ½, ¼, ⅛, 1⁄16 of full scale labelled over the switches]
+In your mind's eye: an R–2R ladder DAC. Four bit switches feeding a ladder of R and 2R resistors into a summing point, with the contributions ½, ¼, ⅛, 1⁄16 of full scale labelled over the switches.
 
 Judge a DAC by its bits and its settling: more bits mean finer steps and a truer analogue copy (the quantisation lesson's ladder, now on the way out), and the converter must settle to its new voltage quickly when the input code changes, or fast-moving outputs smear. Every audio output, every screen brightness control, every motor drive that a digital system commands passes through this staircase.
 
@@ -22,7 +22,7 @@ The specification that matters first is **resolution**: an n-bit ADC divides its
 
 One honest way to picture a conversion is the **flash** arrangement: a ladder of resistors divides the reference into all the level boundaries at once; a row of **comparators** — one per boundary — each answers 'is the input above my boundary?'; and encoder logic (the encoders lesson, returning to work) turns the pattern of answers into the binary code of the highest boundary passed. All comparisons happen in a single instant, which makes flash ADCs extremely fast — paid for with a comparator per level, so they are built with few bits. Other constructions trade that speed for bits, converting step by step.
 
-[Picture — a flash ADC: a resistor ladder making the level boundaries, a column of comparators each comparing the input against one boundary, and encoder logic gathering their answers into the output code]
+In your mind's eye: a flash ADC. A resistor ladder making the level boundaries, a column of comparators each comparing the input against one boundary, and encoder logic gathering their answers into the output code.
 
 Choosing a converter is choosing a point on the trade: the signal's fastest change sets the needed conversion speed (think of the sampling theorem), and the smallest difference worth knowing sets the needed resolution. Temperature logging: slow signal, fine differences matter little — few bits, any speed. Music: fast signal, fine differences are the product — the CD numbers from the last lesson. That is the whole engineering of the border: DACs and ADCs matched to the signal they serve.
 

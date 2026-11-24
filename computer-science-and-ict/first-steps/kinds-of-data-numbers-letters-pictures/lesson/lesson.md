@@ -8,13 +8,13 @@ A mark in a register is a number. A name is letters. A photo on a phone is a pic
 
 **Numeric data** is made of numbers: a mark of 85, a price, a count of students — data the computer can calculate with. **Alphabetic data** is made of letters and words: a name, an address, a sentence — data the computer stores and shows, but does not add up. The two kinds are often mixed in one record — a student's name beside the student's mark — and a good user keeps them straight, because a number stored as letters cannot be calculated with.
 
-[Picture — a student record — the name in letters beside the mark in numbers]
+In your mind's eye: a student record — the name in letters beside the mark in numbers.
 
 ## Sub lesson 2 — Pictures — data you see
 
 **Picture data** — photographs, drawings, scanned pages — is a third kind: data you take in by seeing, not by reading symbols. The computer stores a picture as its own kind of data, in far more storage than a name or a number takes, and shows it back on the screen or in print. Sound and moving pictures stand beside still pictures as further kinds, but the book's first classification is these three: numbers, letters, pictures.
 
-[Picture — three kinds of data side by side — a number, a word, a picture]
+In your mind's eye: three kinds of data side by side — a number, a word, a picture.
 
 ## Say it to your companion
 

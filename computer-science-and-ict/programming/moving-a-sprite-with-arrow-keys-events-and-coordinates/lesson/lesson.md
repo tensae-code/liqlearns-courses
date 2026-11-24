@@ -8,13 +8,13 @@ Unit 4 §4.4.1 Combination of Programming Constructs: movement, choosing a sprit
 
 This part of Pakistan (Punjab)'s book teaches **Combination of Programming Constructs: movement, choosing a sprite, event listeners, four-direction scripts** — covering: Unit 4 §4.4.1 Combination of Programming Constructs: movement, choosing a sprite, event listeners, four-direction scripts. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Combination of Programming Constructs: movement, choosing a sprite, event listeners, four-direction scripts]
+In your mind's eye: combination of Programming Constructs. Movement, choosing a sprite, event listeners, four-direction scripts.
 
 ## Sub lesson 2 — Doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice
 
 **Doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice]
+In your mind's eye: doing it — Moving a Sprite with Arrow Keys Events and Coordinates in practice.
 
 ## Say it to your companion
 

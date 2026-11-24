@@ -8,13 +8,13 @@ A network that cannot share is a road with no doors. Mongolia's Grade 9 networks
 
 To **share a folder** is to offer it to the local network: the folder stays on its own computer, but other computers on the LAN can open it as if it were theirs. The sharing is switched on for a chosen folder, never for the whole disk by habit — share the folder the work needs. Once shared, the folder is reached by the **network path** through its owner's computer, and appears in the network places of the other machines in the room.
 
-[Picture — Sharing a folder — opening the door]
+In your mind's eye: sharing a folder — opening the door.
 
 ## Sub lesson 2 — Permissions and your address — governing the door
 
 Sharing without governing is giving the room your desk. **Sharing permissions** decide who may only **read** the folder and who may **change** it — the class reads the materials folder; only its owner writes there. To be reached, a computer is known by its **IP address**, and Mongolia teaches the finding of your own: the **ipconfig** command, typed at the command line, prints the machine's addresses. Permissions and address together are the lesson's pair: the door is opened, the door is governed, and the house has a number the visitors can use.
 
-[Picture — Permissions and your address — governing the door]
+In your mind's eye: permissions and your address — governing the door.
 
 ## Say it to your companion
 

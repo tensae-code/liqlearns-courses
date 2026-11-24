@@ -8,13 +8,13 @@ The software was compared; now it works. Mongolia's Grade 10 video strand is lea
 
 A MovieMaker production runs the workplace in order. Clips, pictures and music are **imported** to the shelf. On the **timeline** the clips are **cut** to their living moments and **joined** in the story's order, with **transitions** deciding how one shot hands over to the next. **Titles** open and close the film and name its places; the **sound** — narration and music — is laid under the pictures; and the finished work is **exported** in the format its audience's machines expect. No stage is glamorous and none is skippable: an unexported masterpiece screens for no one.
 
-[Picture — The production — shelf to export]
+In your mind's eye: the production — shelf to export.
 
 ## Sub lesson 2 — 'My Homeland' and 'Four Seasons' — the book's two films
 
 The book sets **two productions**, not one. **'My Homeland'** films the pupil's own aimag or town — the homeland tour of the integration chapter, shot instead of slid. **'Four Seasons'** films time itself: the same ground through the year's turn, teaching the patience of the long project — material gathered across months, one timeline at the end. Mongolia's pairing is the strand's philosophy: the first film proves the tool, the second proves the filmmaker — anyone can finish a film about a place; 'Four Seasons' can only be finished by someone who planned, waited and kept their material like a professional.
 
-[Picture — 'My Homeland' and 'Four Seasons' — the book's two films]
+In your mind's eye: 'My Homeland' and 'Four Seasons' — the book's two films.
 
 ## Say it to your companion
 

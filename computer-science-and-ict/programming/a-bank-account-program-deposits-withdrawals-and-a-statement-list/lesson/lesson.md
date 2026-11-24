@@ -8,13 +8,13 @@ Deposit, withdraw, and prove it. Grade 9 builds a working current account in Scr
 
 Four variables run the account: **amount, deposit, balance, choice**. The deposit adds; the withdrawal is guarded — it **first checks the balance covers it**, and if it does not, the program answers **“insufficient balance”** and pays nothing. The check comes before the money moves, as in a real bank.
 
-[Picture — amount, deposit, balance, choice — and the balance check]
+In your mind's eye: amount, deposit, balance, choice — and the balance check.
 
 ## Sub lesson 2 — The statement list
 
 **Every operation is recorded in a statement list**, **withdrawals as negative amounts**, deposits as positive — so the list reads as the account’s history in order. On request the program shows **an account statement**: the recorded operations, presented to the account holder.
 
-[Picture — the statement list]
+In your mind's eye: the statement list.
 
 ## Say it to your companion
 

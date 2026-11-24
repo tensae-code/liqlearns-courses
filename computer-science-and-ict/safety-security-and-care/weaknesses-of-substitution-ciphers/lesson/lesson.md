@@ -8,13 +8,13 @@ Unit 4 §4.3.5 Weaknesses and Security Flaws of Substitution Ciphers
 
 This part of Pakistan (Punjab)'s book teaches **Weaknesses and Security Flaws of Substitution Ciphers** — covering: Unit 4 §4.3.5 Weaknesses and Security Flaws of Substitution Ciphers. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Weaknesses and Security Flaws of Substitution Ciphers]
+In your mind's eye: weaknesses and Security Flaws of Substitution Ciphers.
 
 ## Sub lesson 2 — Doing it — Weaknesses of Substitution Ciphers in practice
 
 **Doing it — Weaknesses of Substitution Ciphers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Weaknesses of Substitution Ciphers in practice]
+In your mind's eye: doing it — Weaknesses of Substitution Ciphers in practice.
 
 ## Say it to your companion
 

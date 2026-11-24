@@ -8,13 +8,13 @@ You have the tools. Now the real job arrives: a whole page of names to turn into
 
 The earlier sections gave the pieces: **char** and codes, the **string** type, and the string **procedures and functions**. A **practical task** joins them into one job with an input and a required result — count the letters in a text, build initials from a full name, check how a word is made, rearrange parts of a sentence. The first step is not writing code: it is saying exactly what goes in, what must come out, and which tools from the kit do each part of the change.
 
-[Picture — a task card — input text on the left, required result on the right — with the string tools laid out between them]
+In your mind's eye: a task card — input text on the left, required result on the right. With the string tools laid out between them.
 
 ## Sub lesson 2 — Testing the finished program
 
 A program that works on one easy text may still be wrong. **Testing** means running it on chosen cases: an ordinary case, a short case (one word, one character), and an awkward case (an empty text, extra spaces, a piece that is not found). Each test compares the program's result with the result worked out by hand. When a test fails, the fault is hunted in the plan first — the wrong tool, a position off by one, an edge the plan forgot — and only then in the typing. A task is finished when its tests pass, not when its program merely runs.
 
-[Picture — three test cards labelled ordinary, short and awkward, each with a tick being checked against a hand-worked answer]
+In your mind's eye: three test cards labelled ordinary, short and awkward, each with a tick being checked against a hand-worked answer.
 
 ## Say it to your companion
 

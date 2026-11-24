@@ -8,13 +8,13 @@ A program that computes silently might as well not compute. This lesson is about
 
 **cout << "Total: " << total;** prints the quoted **text exactly**, then the **value** of total — no quotes, so the machine looks the name up. Leave the quotes on and the program prints the word total instead of its value: the classic first output bug. Items chain in one statement, in the order they are to appear.
 
-[Picture — text, values and results]
+In your mind's eye: text, values and results.
 
 ## Sub lesson 2 — Lines, spaces and layout
 
 Output runs together unless the program **separates** it: spaces inside the text, **endl** (or '\n') for a new line. A result table is just disciplined layout — label, value, new line, repeated. What the user sees is the program's whole reputation, so this book splits output into its own section (§3.16), right after assigning values and before expressions.
 
-[Picture — lines, spaces and layout]
+In your mind's eye: lines, spaces and layout.
 
 ## Say it to your companion
 

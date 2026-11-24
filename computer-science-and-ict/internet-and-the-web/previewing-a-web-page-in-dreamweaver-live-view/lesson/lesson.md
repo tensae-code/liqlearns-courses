@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Previewing the Web Page (Live View) — 
 
 This part of South Sudan's book teaches **Previewing the Web Page (Live View)** — covering: Previewing the Web Page (Live View). South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Previewing the Web Page (Live View). Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — previewing the Web Page (Live View) is part of that chain..
 
-[Picture — Previewing the Web Page (Live View)]
+In your mind's eye: previewing the Web Page (Live View).
 
 ## Sub lesson 2 — Doing it — Previewing the Web Page (Live View) in practice
 
 This part of South Sudan's book teaches **Doing it — Previewing the Web Page (Live View) in practice** — covering: Previewing the Web Page (Live View). South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Previewing the Web Page (Live View). Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Previewing the Web Page (Live View) in practice is part of that chain..
 
-[Picture — Doing it — Previewing the Web Page (Live View) in practice]
+In your mind's eye: doing it — Previewing the Web Page (Live View) in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Print a document and find the text running almost to the paper's edge — the wo
 
 The **Layout tab** holds **page setup**: how the document sits on its paper. Page setup decides the paper's **size** and whether the page stands tall (**portrait**) or lies wide (**landscape**) — choices to make before printing, not after.
 
-[Picture — The Layout tab and page setup]
+In your mind's eye: the Layout tab and page setup.
 
 ## Sub lesson 2 — Margins and paragraph spacing
 
 The **margins** are the blank borders between the text and the paper's edges; the Layout tab sets them for the whole document at once. The same tab carries **paragraph spacing** — the space before and after paragraphs — so the page's white space, outside the text and inside it, is governed from one place.
 
-[Picture — Margins and paragraph spacing]
+In your mind's eye: margins and paragraph spacing.
 
 ## Say it to your companion
 

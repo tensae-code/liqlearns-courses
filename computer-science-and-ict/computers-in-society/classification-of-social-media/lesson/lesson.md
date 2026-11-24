@@ -8,13 +8,13 @@ Social media can be classified — sorted into kinds by what they mainly do: sha
 
 Social media can be classified — sorted into kinds by what they mainly do: sharing with friends, publishing media, discussing, reviewing, or connecting for work The learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class Because a classification turns a crowd of brand names into a small map a learner can reason about — new platforms can be placed on it as they appear.
 
-[Picture — Classification of social media]
+In your mind's eye: classification of social media.
 
 ## Sub lesson 2 — Doing it — Classification of social media in practice
 
 Classification of Social Media is learned by doing: the learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class The learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class Because a classification turns a crowd of brand names into a small map a learner can reason about — new platforms can be placed on it as they appear.
 
-[Picture — Doing it — Classification of social media in practice]
+In your mind's eye: doing it — Classification of social media in practice.
 
 ## Say it to your companion
 

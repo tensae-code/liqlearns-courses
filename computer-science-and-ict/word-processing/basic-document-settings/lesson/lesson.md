@@ -8,13 +8,13 @@ Before the text, the page: two Uzbekistan books — Grade 6 and Grade 8 — teac
 
 A document's **basic settings** begin with the page: its **size**, its **margins** — the blank frame on all four sides — and its **orientation**, portrait (tall) or landscape (wide). These are set first because every later judgement — where a line ends, whether a table fits — depends on them. Both books place the parameters lesson at position four of the Word course, before creating and saving the document itself.
 
-[Picture — The page — size, margins, orientation]
+In your mind's eye: the page — size, margins, orientation.
 
 ## Sub lesson 2 — Text settings — font, size, spacing
 
 The other basic parameters belong to the text: the **font** and its **size**, **line spacing**, and paragraph **alignment**. Set as defaults at the start, they keep a whole document in one dress; changed mid-way, they make patches. The lesson's discipline is simple: decide the document's parameters once, at the beginning, and let the writing — not the settings — carry the rest of the work.
 
-[Picture — Text settings — font, size, spacing]
+In your mind's eye: text settings — font, size, spacing.
 
 ## Say it to your companion
 

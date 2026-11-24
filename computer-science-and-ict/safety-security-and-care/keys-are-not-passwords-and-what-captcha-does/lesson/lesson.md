@@ -8,13 +8,13 @@ Unit 4 §4.4 Encryption with Keys and Passwords: §4.4.1 Relationship between Cr
 
 This part of Pakistan (Punjab)'s book teaches **Encryption with Keys and Passwords: §4.4.1 Relationship between Cryptographic Keys and Passwords** — covering: Unit 4 §4.4 Encryption with Keys and Passwords: §4.4.1 Relationship between Cryptographic Keys and Passwords (and why CAPTCHA exists). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Encryption with Keys and Passwords: §4.4.1 Relationship between Cryptographic Keys and Passwords]
+In your mind's eye: encryption with Keys and Passwords. §4.4.1 Relationship between Cryptographic Keys and Passwords.
 
 ## Sub lesson 2 — Doing it — Keys Are Not Passwords and What Captcha Does in practice
 
 **Doing it — Keys Are Not Passwords and What Captcha Does in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Keys Are Not Passwords and What Captcha Does in practice]
+In your mind's eye: doing it — Keys Are Not Passwords and What Captcha Does in practice.
 
 ## Say it to your companion
 

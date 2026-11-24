@@ -8,13 +8,13 @@ Users say 'make it fast, make it simple'. Programmers cannot build words like th
 
 **User requirements** state **what the users need the system to do**, and they come **from the users or client**. A requirement is a need in the user's own words — it is not yet anything a builder can build from.
 
-[Picture — User requirements]
+In your mind's eye: user requirements.
 
 ## Sub lesson 2 — Technical specification
 
 **Translating** turns needs into a **technical specification**: **an exact written statement of what will be built**, from which the programmers and builders work. A user requirement like 'fast' becomes a **measured limit — for example, responding within a set time**. The specification is checked against the user requirements, because changing requirements after building costs more — so the translation is done first.
 
-[Picture — Technical specification]
+In your mind's eye: technical specification.
 
 ## Say it to your companion
 

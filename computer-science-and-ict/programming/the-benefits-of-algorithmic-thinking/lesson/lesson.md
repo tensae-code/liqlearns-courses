@@ -8,13 +8,13 @@ Unit 4 §4.4.1 Benefits of Algorithmic Thinking (decomposition, abstraction and 
 
 This part of Pakistan (Punjab)'s book teaches **Benefits of Algorithmic Thinking** — covering: Unit 4 §4.4.1 Benefits of Algorithmic Thinking (decomposition, abstraction and generalisation, pattern recognition, algorithmic design, confidence in decision making). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Benefits of Algorithmic Thinking]
+In your mind's eye: benefits of Algorithmic Thinking.
 
 ## Sub lesson 2 — Doing it — The Benefits of Algorithmic Thinking in practice
 
 **Doing it — The Benefits of Algorithmic Thinking in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — The Benefits of Algorithmic Thinking in practice]
+In your mind's eye: doing it — The Benefits of Algorithmic Thinking in practice.
 
 ## Say it to your companion
 

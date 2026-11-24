@@ -8,13 +8,13 @@ Enlarge a photo and it falls apart into squares; enlarge a logo and it stays cri
 
 A **raster (bitmap)** image stores a **colour for every pixel** in a grid; its detail is its **resolution** — the pixel count across and down. Photographs are raster, because the world is continuous tones. Enlarge a raster beyond its pixels and the squares show (**pixelation**); shrink-and-save loses detail forever. JPG and PNG are raster formats.
 
-[Picture — raster — a grid of pixels]
+In your mind's eye: raster — a grid of pixels.
 
 ## Sub lesson 2 — Vector — shapes by rules
 
 A **vector** image stores **instructions**: a circle is a centre, a radius and a fill, not thousands of pixels. Redrawing at any size recomputes the shapes, so edges stay **sharp at every scale** — the right form for logos, diagrams and type. The trade: vectors draw clean shapes poorly suited to photographic subtlety, so real work converts and combines the two kinds knowingly.
 
-[Picture — vector — shapes by rules]
+In your mind's eye: vector — shapes by rules.
 
 ## Say it to your companion
 

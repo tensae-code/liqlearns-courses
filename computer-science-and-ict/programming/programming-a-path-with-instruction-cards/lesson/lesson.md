@@ -8,13 +8,13 @@ Your character must cross the board: three steps, a turn, two steps, home. You m
 
 With **instruction cards (cartes-instructions)**, the program is a physical row: forward, forward, turn, forward — laid before anything moves. The séance d'entraînement (practice séance) is where sequential programming becomes a skill: plan the whole route in cards, predict the arrival, then run it — the character (lutin) moves step by step along the laid program, and any surprise means a card is wrong, missing, or out of order.
 
-[Picture — Cards make the program visible]
+In your mind's eye: cards make the program visible.
 
 ## Sub lesson 2 — Practice makes the sequence trustworthy
 
 The training runs the loop of all programming: **plan, run, compare, repair**. Longer paths add the crafts: counting squares exactly (the program counts in the board's steps, not yours), turning relative to the character — its left, not yours — and chaining instruction groups the class has named. Each repaired path raises the ambition of the next: further, with turns, with traps marked on the board.
 
-[Picture — Practice makes the sequence trustworthy]
+In your mind's eye: practice makes the sequence trustworthy.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Look at a short word written in big letters on a path, or a star at the end of a
 
 This double lesson puts motion blocks to work on two jobs. In **"Подреди дума" (Spell a word)** the hero travels along the letters of a word, so the path itself spells something — every turn must be planned, or the word comes out broken. In **"Открий път" (Find a path)** the hero must reach a goal through a puzzle, and a **dice game** version makes the planning playful: the dice throws up moves, and you judge which moves belong in the path and in what order. The skill underneath both jobs is the same: look at the whole route first, break it into moves, build it from motion blocks, run it, and when the hero misses, change the path — not the goal.
 
-[Picture — a picture of a picture of the hero on a path shaped like letters, with a star goal, a dice beside the path, and motion blocks below waiting to be snapped together]
+In your mind's eye: a picture of the hero on a path shaped like letters, with a star goal, a dice beside the path, and motion blocks below waiting to be snapped together.
 
 ## Say it to your companion
 

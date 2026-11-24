@@ -8,13 +8,13 @@ Papua New Guinea's Grade 12 GUI unit ends by building the surface users actually
 
 A **GUI — graphical user interface** — lets the user work by pointing at pictures instead of typing text commands. Its objects include the **icon**, a small picture representing something; the **cursor**, which shows where the pointer is; and the **button**, pressed to start an action.
 
-[Picture — GUI objects — icons, cursors, buttons]
+In your mind's eye: gUI objects — icons, cursors, buttons.
 
 ## Sub lesson 2 — Creating interactive menus
 
 A **menu** offers **a list of choices**, and it is **interactive — the system responds to the user**: choosing a menu item runs its action. Menus should be clear and easy to follow. The guide's GUI objects are icons, cursors and buttons, and an interactive menu is built from them.
 
-[Picture — Creating interactive menus]
+In your mind's eye: creating interactive menus.
 
 ## Say it to your companion
 

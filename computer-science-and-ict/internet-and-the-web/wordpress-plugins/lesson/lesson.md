@@ -8,13 +8,13 @@ This part of South Sudan's book teaches Plugins — covering: Plugins. South Sud
 
 This part of South Sudan's book teaches **Plugins** — covering: Plugins. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Plugins. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — plugins is part of that chain..
 
-[Picture — Plugins]
+In your mind's eye: plugins.
 
 ## Sub lesson 2 — Doing it — Plugins in practice
 
 This part of South Sudan's book teaches **Doing it — Plugins in practice** — covering: Plugins. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Plugins. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Plugins in practice is part of that chain..
 
-[Picture — Doing it — Plugins in practice]
+In your mind's eye: doing it — Plugins in practice.
 
 ## Say it to your companion
 

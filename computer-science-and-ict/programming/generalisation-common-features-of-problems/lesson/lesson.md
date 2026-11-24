@@ -8,13 +8,13 @@ You solved yesterday's problem. Today's looks new — but shares its bones with 
 
 **Generalisation** starts by comparing problems for their **common features** (ciri-ciri kesamaan): the same structure under different surfaces. Wrapping popia and wrapping spring rolls differ in filling and skin, but share the structure fill–wrap–seal. The comparison is exact work: list each problem's parts, line the lists up, and mark which parts **match in role** even when they differ in material. What matches across all of them is the family's skeleton.
 
-[Picture — The common features of problems]
+In your mind's eye: the common features of problems.
 
 ## Sub lesson 2 — Widening the solution to the family
 
 A solution written against the **skeleton** — with the differing parts left as **values to be supplied** — serves every problem in the family: one wrapping method, fed a filling and a skin each time. That widened solution is the generalisation. Malaysia's caution closes the technique: generalise only as far as the common features truly run — a problem that breaks the skeleton (a food that is poured, not wrapped) is **not** in the family, and forcing it in breaks the solution.
 
-[Picture — Widening the solution to the family]
+In your mind's eye: widening the solution to the family.
 
 ## Say it to your companion
 

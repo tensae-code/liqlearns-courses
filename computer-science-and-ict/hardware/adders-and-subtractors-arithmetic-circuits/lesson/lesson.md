@@ -10,7 +10,7 @@ The **half adder** is the smallest arithmetic circuit: two inputs, A and B (one 
 
 The **full adder** adds all three: A, B and **Cin** (carry-in), producing Sum and **Cout** (carry-out). Its construction is a lesson in building from parts: take two half adders and an OR gate. The first half adder adds A + B. The second half adder adds that result to Cin, giving the final Sum. Each half adder produces its own carry; the OR of those two carries is Cout — at most one of them can be 1 in a way that matters, so OR joins them safely.
 
-[Picture — a full adder drawn openly: two half-adder boxes, the first fed by A and B, the second adding Cin, an OR gate gathering the two carries into Cout]
+In your mind's eye: a full adder drawn openly. Two half-adder boxes, the first fed by A and B, the second adding Cin, an OR gate gathering the two carries into Cout.
 
 Now chain them: one full adder per bit of the word, each stage's Cout wired into the next stage's Cin, the first stage's Cin set to 0. Four full adders add two 4-bit words; eight add bytes; the carry *ripples* down the chain — the same word 'ripple' as the series counter, and the same small delay price. This **parallel adder** is the arithmetic heart the previous lesson promised: present two words, and the sum stands on the outputs faster than the eye can follow a single carry.
 
@@ -20,7 +20,7 @@ Subtraction can be wired the direct way first, to see its shape: a **half subtra
 
 So the practical arithmetic unit is one **adder/subtractor**, steered by a single control line named SUB. The B input does not go straight to the adders: each bit of B passes through an **XOR gate whose other input is SUB**. Remember XOR's two faces: X ⊕ 0 = X (pass unchanged) and X ⊕ 1 = X̄ (invert). So with SUB = 0, B flows in as itself, and the chain's first Cin is wired to SUB — 0 — and the unit **adds**: A + B. Flip SUB = 1: every XOR now inverts its bit of B, giving the ones' complement, and Cin = 1 delivers the missing +1 that turns it into two's complement — so the unit **subtracts**: A + (two's complement of B), discarding the final carry exactly as the pencil method did.
 
-[Picture — a 4-bit adder/subtractor: two registers feeding a chain of full adders, the B line passing through four XOR gates all steered by one SUB line, which also feeds the first carry-in]
+In your mind's eye: a 4-bit adder/subtractor. Two registers feeding a chain of full adders, the B line passing through four XOR gates all steered by one SUB line, which also feeds the first carry-in.
 
 One control bit chooses the operation; one set of gates does both jobs. This is the arithmetic circuit inside every processor's ALU, and it is nothing but the lessons of this climb stacked: complements from arithmetic, XOR from gates, chains from registers' patience with wiring.
 

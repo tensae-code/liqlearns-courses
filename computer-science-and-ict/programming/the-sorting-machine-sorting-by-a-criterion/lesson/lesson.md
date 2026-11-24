@@ -8,13 +8,13 @@ Drop a ball into a machine and it rolls — left for round, right for not-round 
 
 The **sorting machine (machine à trier)** is built in class: objects enter, travel chutes and gates, and land sorted **by a criterion** — size, shape, colour, material. The decision was made **at building time**: the builders chose the criterion and arranged the paths so the object's own properties steer it. Sorting, the machine teaches, is not magic at the exit; it is a rule embodied in a path.
 
-[Picture — A machine that sorts by a rule]
+In your mind's eye: a machine that sorts by a rule.
 
 ## Sub lesson 2 — Si… alors… — the rule inside the machine
 
 Each gate in the machine is a living **Si… alors… (if… then…)**: **if** the object is round, **then** it takes this chute; if not, that one. Machines with **2, 4 and 6 entries** sort finer and finer — more gates, more ifs, more classes at the bottom. The activity names the conditional inside the physical machine years before code: every sorting program ever written is this machine, flattened into text.
 
-[Picture — Si… alors… — the rule inside the machine]
+In your mind's eye: si… alors… — the rule inside the machine.
 
 ## Say it to your companion
 

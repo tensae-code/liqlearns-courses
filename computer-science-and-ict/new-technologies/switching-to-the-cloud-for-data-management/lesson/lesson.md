@@ -8,13 +8,13 @@ Knowing what the cloud is, is one thing; moving an organisation's data onto it i
 
 Switching to the cloud for **data management** means an organisation's stored files and records — the documents, the data its work runs on — stop living on **its own disks** and move to a **cloud storage service**, reached over the internet. Fiji teaches the move after its named services (Google Drive, Dropbox, SpiderOak) because the switch is concrete: accounts are made, folders are uploaded, and from that day the service's computers — not the school's — hold the only working copy of much of the data.
 
-[Picture — What moves — from our disks to their service]
+In your mind's eye: what moves — from our disks to their service.
 
 ## Sub lesson 2 — What changes — access anywhere, care of a new kind
 
 The gains are the chapter's own: data **reached from anywhere**, sharing by link instead of by carrying copies, and storage that **grows without buying disks**. The new cares are the switch's price: the data now depends on the **connection** and on the **provider** — their keeping of it, their charges, their rules — and the organisation must manage **accounts and permissions** as carefully as it once managed keys to the filing room. Fiji's verdict shape is balanced: switch for the reach, with eyes open about whose hands the data now rests in.
 
-[Picture — What changes — access anywhere, care of a new kind]
+In your mind's eye: what changes — access anywhere, care of a new kind.
 
 ## Say it to your companion
 

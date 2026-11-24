@@ -8,7 +8,7 @@ Build two blocks: move 10 steps and say hello. Click the blocks — they run. No
 
 An **event** is something that happens — a click, a key press — and Scratch has special blocks that wait for events. Put an event block at the very top of a script and join the action blocks under it. The script now waits, doing nothing, until its event happens; then it runs from top to bottom, once. The most used event is **when green flag clicked**: the green flag above the stage is the start button for the whole project, and every script that begins with that block starts together when the flag is clicked. The second event in this lesson is **when this sprite clicked**: that script runs when someone clicks the sprite itself on the stage — so different sprites can answer to being clicked in different ways. A script with no event at the top can only be run by clicking the blocks themselves, which is fine for testing, but a finished project starts with events.
 
-[Picture — a picture of a Scratch script topped by a when-green-flag-clicked block, with a second small script topped by a when-this-sprite-clicked block, and the green flag above the stage]
+In your mind's eye: a Scratch script topped by a when-green-flag-clicked block, with a second small script topped by a when-this-sprite-clicked block, and the green flag above the stage.
 
 ## Say it to your companion
 

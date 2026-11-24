@@ -8,13 +8,13 @@ A car steers with a wheel the driver turns. Kuwait's virtual robot has no such w
 
 The virtual robot steers by its **two drive motors**: driving both at the same speed goes straight; driving one **slower** bends the path toward it; stopping one and driving the other **spins** the robot on the spot. There is no steering wheel because the steering is in the speeds — the 'secret of smart motion' the book's title names. A programmer steers by numbers: the pair of speeds is the corner's sharpness.
 
-[Picture — Steering without a steering wheel — two motors, two speeds]
+In your mind's eye: steering without a steering wheel — two motors, two speeds.
 
 ## Sub lesson 2 — Smart repetition — Repeat
 
 Missions repeat their shapes — four sides, six laps, ten passes — and the **Repeat** block writes the repetition **once**: the motion blocks inside it run the counted number of times. Smart repetition is the square drawn as one side plus Repeat 4 instead of four copied sides: shorter to write, safer to change — mend the side once and every side mends. The lesson pairs the two teachings because missions need both: true steering, written briefly.
 
-[Picture — Smart repetition — Repeat]
+In your mind's eye: smart repetition — Repeat.
 
 ## Say it to your companion
 

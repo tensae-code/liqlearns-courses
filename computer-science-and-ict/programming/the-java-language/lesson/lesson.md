@@ -8,13 +8,13 @@ One language in the guide's tour was made to travel: write it once, and it runs 
 
 **Java** is a **general-purpose, high-level programming language** whose programs are built from **classes and objects** — the object way of organising a program, where each part carries its own data and its own actions. Java programs are **compiled not to one machine's code but to an in-between code (bytecode)**, and that choice is the language's whole character, explained in the next part. The guide names Java among the working languages a learner will meet in real systems — in the book's era, in phones, in business systems and on the web.
 
-[Picture — What Java is]
+In your mind's eye: what Java is.
 
 ## Sub lesson 2 — Write once, run anywhere — the virtual machine
 
 Bytecode runs on the **Java Virtual Machine (JVM)** — a program that pretends to be a standard computer, installed on real computers of every kind. The same Java program therefore runs **unchanged on any machine that carries a JVM**: written once, run anywhere. The price is a step of translation at run time; the prize is freedom from the machine. Laos teaches Java in the guide's language tour because it completes the tour's lesson: languages differ not only in their words, but in where their programs can live.
 
-[Picture — Write once, run anywhere — the virtual machine]
+In your mind's eye: write once, run anywhere — the virtual machine.
 
 ## Say it to your companion
 

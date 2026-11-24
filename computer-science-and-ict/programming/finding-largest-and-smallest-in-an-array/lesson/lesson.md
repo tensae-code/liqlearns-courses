@@ -8,13 +8,13 @@ This is the champion walk of the array theme, given its own lesson by the links-
 
 Set **max = a[0]**. For each remaining element, **if (a[i] > max) max = a[i];** — after the walk, max holds the **largest value**, because every element had its chance to beat it and only a bigger one could replace it. Starting from a[0] rather than 0 is what keeps all-negative arrays honest.
 
-[Picture — best-so-far — value]
+In your mind's eye: best-so-far — value.
 
 ## Sub lesson 2 — Smallest, and where it sits
 
 **min** mirrors max with **<**. Often the **position** matters as much as the value: keep **imax** beside max, updating both together, and the program can report 'largest is 9, at index 4'. Ties keep the **first** extreme position, because the strict comparison only replaces on a true beating — a detail the exercises test.
 
-[Picture — smallest, and where it sits]
+In your mind's eye: smallest, and where it sits.
 
 ## Say it to your companion
 

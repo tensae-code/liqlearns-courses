@@ -8,13 +8,13 @@ making a digital product with graphics software — planning and producing a fin
 
 Track A of Vietnam's Grade 5 applied theme turns graphics software to a **product**: not a practice picture, but a finished thing with a **purpose and a person it is for** — a greeting card for a grandmother, a poster for the class wall. Planning comes first: **what** the product says, **who** will see it, and a rough **sketch** of its layout. The software's tools — shapes, colours, text, pictures — are then chosen to serve the plan, not wandered through.
 
-[Picture — A product has a purpose — plan before you draw]
+In your mind's eye: a product has a purpose — plan before you draw.
 
 ## Sub lesson 2 — Make it, look at it, finish it
 
 Production follows the sketch: build the product piece by piece, **save as you go**, then stop and **look at the whole** — is the main thing biggest, can the words be read, do the colours fight? Fix the worst fault, then finish: save the product in its final form and **present it** — a product is not done when the maker stops, but when its person can receive it.
 
-[Picture — Make it, look at it, finish it]
+In your mind's eye: make it, look at it, finish it.
 
 ## Say it to your companion
 

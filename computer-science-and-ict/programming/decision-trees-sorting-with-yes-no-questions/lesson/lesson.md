@@ -8,13 +8,13 @@ Twenty houses of Square CT stand before you. You may only ask questions answered
 
 A **decision tree (arbre de décision)** sorts by questions: each **yes–no question** splits the remaining candidates into two piles, the answer chooses the branch, and the next question splits again — until each leaf holds one name. The complementary séance builds the tree for Square CT's houses: criteria become questions (roof colour? two floors? chimney?), and a good question is one that **splits the pile usefully** — near half and half beats a question that isolates one house and leaves nineteen.
 
-[Picture — Questions that split the world]
+In your mind's eye: questions that split the world.
 
 ## Sub lesson 2 — Trees are programs you can draw
 
 Read downward, a decision tree **is** a program: question = a test, branch = a path, leaf = an answer — the flowchart's family, grown as a tree. Identification games, fault-finding charts and classification keys in science are all this one shape. Building the tree teaches the deep economy of asking: with perfect splitting, twenty questions can name a million things — each answer doubling what you can distinguish.
 
-[Picture — Trees are programs you can draw]
+In your mind's eye: trees are programs you can draw.
 
 ## Say it to your companion
 

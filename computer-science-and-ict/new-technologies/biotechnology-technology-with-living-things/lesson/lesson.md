@@ -8,13 +8,13 @@ Technology is not only metal and code. Papua New Guinea's Grade 12 guide gives b
 
 **Biotechnology** is technology that **uses living organisms and cells** to make products — 'bio' relates to **life, living things**. It is old as well as new: **using yeast in fermentation** is an old biotechnology, while modern biotechnology can work with **genes and DNA** itself.
 
-[Picture — What biotechnology is]
+In your mind's eye: what biotechnology is.
 
 ## Sub lesson 2 — Where biotechnology is used
 
 Biotechnology serves **farming** — better and healthier crops and animals; **medicine** — drugs and vaccines; and the **food industry** — fermentation products such as yoghurt. Its products include medicines and improved crops, and it must be used safely and responsibly.
 
-[Picture — Where biotechnology is used]
+In your mind's eye: where biotechnology is used.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A modern application is met through its furniture before its engine: the menu ac
 
 A **menu** is the application's **organised offer of its commands**: a **menu bar** of named groups (File, Edit, Help), each opening a **list of items** the user chooses with click or key, the chosen item firing its command — the same commands, discoverable in the same places, in every application of the environment. A menu's honesty is completeness with order: everything the application can do stands somewhere in its menus, grouped as users think of the work, not as programmers wrote the code.
 
-[Picture — Menus — the application's offered commands]
+In your mind's eye: menus — the application's offered commands.
 
 ## Sub lesson 2 — Dialog boxes — the application asks and tells
 
 A **dialog box** is a **small window that interrupts for one exchange**: it **asks** (choose a file, set the options, confirm the deletion) or **tells** (the error message, the finished notice), and the application waits for its answer — its buttons (OK, Cancel, and their kin) — before continuing. Beside the elements, the chapter teaches applications **communicating with other applications** — handing work and data across — because the modern environment's applications are built as neighbours in one workshop, not islands.
 
-[Picture — Dialog boxes — the application asks and tells]
+In your mind's eye: dialog boxes — the application asks and tells.
 
 ## Say it to your companion
 

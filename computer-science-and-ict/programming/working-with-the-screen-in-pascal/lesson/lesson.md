@@ -8,13 +8,13 @@ Between input and drawing comes control of the text screen itself: clear it, pla
 
 The Crt unit's **ClrScr** clears the text screen; **GotoXY(x, y)** puts the cursor at a column and row, so the next write lands exactly there. With these two, output stops being a scroll and becomes a layout: headings at the top, results in their places. The lesson follows dialogue input in the book — first the program hears the user, now it arranges what the user sees.
 
-[Picture — ClrScr and GotoXY — clearing and placing]
+In your mind's eye: clrScr and GotoXY — clearing and placing.
 
 ## Sub lesson 2 — Text colours and the arranged screen
 
 **TextColor** and **TextBackground** set the colours of letters and the screen behind them. Restraint is the lesson's taste rule: one colour for headings, one for results, the rest plain — a screen is read, not decorated. The book repeats this lesson before linear programs, because every program after it is expected to present its work arranged, not spilled.
 
-[Picture — Text colours and the arranged screen]
+In your mind's eye: text colours and the arranged screen.
 
 ## Say it to your companion
 

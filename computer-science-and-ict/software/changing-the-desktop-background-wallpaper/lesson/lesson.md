@@ -8,13 +8,13 @@ Unit 3 §3.6.2 changing the desktop background through Personalize
 
 This part of Pakistan (Punjab)'s book teaches **Changing the desktop background through Personalize** — covering: Unit 3 §3.6.2 changing the desktop background through Personalize. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Changing the desktop background through Personalize]
+In your mind's eye: changing the desktop background through Personalize.
 
 ## Sub lesson 2 — Doing it — Changing the Desktop Background Wallpaper in practice
 
 **Doing it — Changing the Desktop Background Wallpaper in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Changing the Desktop Background Wallpaper in practice]
+In your mind's eye: doing it — Changing the Desktop Background Wallpaper in practice.
 
 ## Say it to your companion
 

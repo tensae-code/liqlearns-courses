@@ -10,7 +10,7 @@ Two pixels: (200, 60, 40) and (201, 60, 40). The reds differ by one part in 255.
 
 The scheme is then simple: take the message's bits one by one, and write them into the LSBs of the red, green and blue values, pixel after pixel, in an order both sides agree on. A photo of twelve million pixels offers thirty-six million hiding places — room for whole books — while looking, to any eye, exactly like the innocent original.
 
-[Picture — one colour byte drawn as eight bit boxes, the last box highlighted and being swapped for a message bit, the value changing from 200 to 200]
+In your mind's eye: one colour byte drawn as eight bit boxes, the last box highlighted and being swapped for a message bit, the value changing from 200 to 200.
 
 ## Sub lesson 2 — Coding and decoding a hidden message
 
@@ -18,7 +18,7 @@ To hide text, the letters must first become bits. The SNT book uses a **base-64 
 
 Two limits keep the art honest. Capacity and survival: recompressing, resizing or filtering the image destroys the message. And secrecy: steganography hides that a message exists, but anyone who suspects the scheme can read it — hiding is not encrypting, and the two are often combined: encrypt first, then hide.
 
-[Picture — the round trip drawn as a circle: a sentence, its 6-bit codes, an innocent-looking photo, the same sentence again]
+In your mind's eye: the round trip drawn as a circle. A sentence, its 6-bit codes, an innocent-looking photo, the same sentence again.
 
 ## Say it to your companion
 

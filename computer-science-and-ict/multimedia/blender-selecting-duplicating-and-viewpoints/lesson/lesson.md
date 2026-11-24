@@ -8,13 +8,13 @@ One object made is a start; a scene is many. The second modelling lesson multipl
 
 **Selecting several objects** gathers them for one treatment — moved, scaled or deleted as a company. **Duplicating** copies a selected object whole — the scene's way of making the second chair from the first, exactly equal, then placed. The **Rotate tool** turns an object around its axis by a chosen amount — the difference between an object placed and an object **aimed**. The book's **lithium atom** spends all three: its electrons are one sphere, selected, duplicated and placed around the nucleus.
 
-[Picture — Selecting many, duplicating, rotating]
+In your mind's eye: selecting many, duplicating, rotating.
 
 ## Sub lesson 2 — Perspective and Orthographic — and the origin point
 
 The Viewport shows the scene two ways. **Perspective** view is the eye's way: far things smaller, the view a photograph would take. **Orthographic** view is the draughtsman's: no shrinking with distance, measures true — the view to build by. And every object carries an **origin point** — its personal centre, the point it rotates and scales **from**: misplace the origin and the object turns around the wrong heart. Kuwait teaches views and origin together because precise placing is impossible until both are understood.
 
-[Picture — Perspective and Orthographic — and the origin point]
+In your mind's eye: perspective and Orthographic — and the origin point.
 
 ## Say it to your companion
 

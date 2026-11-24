@@ -8,13 +8,13 @@ Click the cat: you see the cat’s blocks. Click the dog: the screen changes —
 
 Grade 7’s rule: with **more than one sprite on the stage**, **selecting a sprite shows its own script area** — the blocks you see belong to the sprite you selected. **Each program starts with an event block**. Edit the wrong sprite and the story breaks in a confusing place, so checking the selection is the first debugging habit.
 
-[Picture — selecting a sprite shows its own script area]
+In your mind's eye: selecting a sprite shows its own script area.
 
 ## Sub lesson 2 — Stories and plays — many sprites, one flag
 
 Grade 8 builds plays on the rule: **several sprites on one stage, each with its own script area**; scripts can be **copied between sprites** when two characters share a move; **the green flag runs them all** together; and **sprite size** plays its part — bigger for near characters, smaller for far ones.
 
-[Picture — stories and plays — many sprites, one flag]
+In your mind's eye: stories and plays — many sprites, one flag.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **История и перспективы робототехники** — covering: 3.2 История и перспективы робототехники. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — История и перспективы робототехники]
+In your mind's eye: история и перспективы робототехники.
 
 ## Sub lesson 2 — История и перспективы робототехники
 
 This part of Kazakhstan's book teaches **История и перспективы робототехники** — covering: 3.2 История и перспективы робототехники. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — История и перспективы робототехники]
+In your mind's eye: история и перспективы робототехники.
 
 ## Say it to your companion
 

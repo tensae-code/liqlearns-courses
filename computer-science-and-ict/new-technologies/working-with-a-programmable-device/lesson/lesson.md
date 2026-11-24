@@ -8,7 +8,7 @@ Press the buttons of a toy that beeps and moves: you gave it instructions, and t
 
 Scratch sprites live on a screen. This lesson leaves the screen: a **programmable device (програмируемо устройство)** is a physical machine built to receive a **program of commands** and act on them in the real world — moving, turning, beeping, lighting. Working with one follows the same rhythm as all the programming before it, with real-world weight: plan the commands, enter them in order, run them, watch what the device **actually does**, and correct the program — not the device — when the action is wrong. The book treats this as the learner's first robotics ground: what such a device is, how a program gets into it, and how carefully commands must be given when a mistake moves a real object into a real chair leg.
 
-[Picture — a picture of a picture of a small programmable floor robot on a classroom mat with command buttons on its back, and a child reading back a row of entered commands before pressing go]
+In your mind's eye: a picture of a small programmable floor robot on a classroom mat with command buttons on its back, and a child reading back a row of entered commands before pressing go.
 
 ## Say it to your companion
 

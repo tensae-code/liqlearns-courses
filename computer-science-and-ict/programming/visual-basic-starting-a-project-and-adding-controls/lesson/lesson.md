@@ -8,13 +8,13 @@ With the environment met, the building begins — in the book's order, which is 
 
 Kuwait's building book opens with **planning**: what the program is **for**, what its window must **show**, and what its user will **do** — decided on paper before a project is created. The plan is short and it is first, because a form built without it collects controls the way a desk collects papers. The series' project discipline (goal, then plan, then build) is the same craft at this smaller scale: the stages of building a program begin with a stage that touches no computer.
 
-[Picture — Planning the program — before the project exists]
+In your mind's eye: planning the program — before the project exists.
 
 ## Sub lesson 2 — Creating the project and adding controls to the form
 
 The plan becomes a **new project** in the environment, and its **form** — the program's window — is populated by **adding controls**: each control taken from the toolbox and **placed** on the form, then positioned and sized where the plan wants it. Adding is the visual language's core verb: the interface is **assembled**, control by control, and the form on screen grows to look like the program it will be — before a line of code gives it behaviour.
 
-[Picture — Creating the project and adding controls to the form]
+In your mind's eye: creating the project and adding controls to the form.
 
 ## Say it to your companion
 

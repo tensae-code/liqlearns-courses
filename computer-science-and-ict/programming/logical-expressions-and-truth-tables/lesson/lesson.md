@@ -8,13 +8,13 @@ A program asks: is the mark above 50 AND has the pupil attended? Two small quest
 
 A **logical expression** joins conditions with logical words — **AND, OR and NOT** — so a program can test more than one thing at once. Each condition is **true or false**, and the whole expression is also true or false: AND needs both sides true, OR needs at least one side true, and NOT turns true into false and false into true.
 
-[Picture — Logical expressions]
+In your mind's eye: logical expressions.
 
 ## Sub lesson 2 — Truth tables
 
 A **truth table** lists **every possible combination** of the conditions' truth values and the expression's result for each row. With two conditions there are four rows — true/true, true/false, false/true, false/false — and filling the table proves exactly when the expression is true, before any program is written.
 
-[Picture — Truth tables]
+In your mind's eye: truth tables.
 
 ## Say it to your companion
 

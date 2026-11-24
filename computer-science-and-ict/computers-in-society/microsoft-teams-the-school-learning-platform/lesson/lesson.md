@@ -8,13 +8,13 @@ In Kuwait, the classroom has an address on the internet. The Grade 4 Digital Exp
 
 **Microsoft Teams** is installed like any trusted program: from the device's **app store**, by its real name and maker, then opened once so it is ready. Kuwait teaches the install itself as a school skill because the platform is not optional software — it is where the class meets, so a pupil who cannot install and open it is locked out of the classroom before any lesson begins.
 
-[Picture — Installing Teams — from the app store to the device]
+In your mind's eye: installing Teams — from the app store to the device.
 
 ## Sub lesson 2 — Launching Teams and signing in with the school account
 
 Teams is launched and the pupil **signs in with the school account** — the moe.edu.kw account the Ministry gives every learner. Signing in is what makes the platform personal: your teams, your classes and your assignments are the ones your account belongs to, and no one else's. The **digital learning platform** is the whole idea in one phrase: lessons, meetings, files and homework gathered in one signed-in place, reachable from school and from home.
 
-[Picture — Launching Teams and signing in with the school account]
+In your mind's eye: launching Teams and signing in with the school account.
 
 ## Say it to your companion
 

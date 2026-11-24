@@ -8,13 +8,13 @@ Close your eyes and walk to the door: your skin, ears and balance report the wor
 
 The Swiss **Thymio** robot feels its world through **sensors (capteurs)**: **proximity sensors** around its body report something near — a hand, a wall, an obstacle — by bouncing light off it and reading the return; **ground sensors** underneath read the surface below, telling dark line from light floor. Each sensor turns a piece of the world into a number or a yes/no the program can use: near or far, dark or bright. No sensor, no knowledge — the robot is blind to everything it cannot sense.
 
-[Picture — Thymio's senses]
+In your mind's eye: thymio's senses.
 
 ## Sub lesson 2 — Testing sensors honestly
 
 The Grade 6 inquiry asks the scientist's question: **are Thymio's sensors effective with all materials?** Pupils test surfaces and objects — shiny, dull, dark, transparent — and record where detection succeeds and fails. Sensors have edges: a surface that swallows the light or reflects it away can fool a proximity sensor. Knowing a sensor's failures is part of programming with it — the program must be written for the sensor the robot actually has, in the world it actually meets.
 
-[Picture — Testing sensors honestly]
+In your mind's eye: testing sensors honestly.
 
 ## Say it to your companion
 

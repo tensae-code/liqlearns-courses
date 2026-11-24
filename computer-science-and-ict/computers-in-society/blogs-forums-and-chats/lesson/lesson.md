@@ -8,13 +8,13 @@ Three rooms, three kinds of written talk: in one, an author speaks and visitors 
 
 A **blog** is an author's own page of dated entries — newest first — where the author publishes and readers answer in **comments** under each entry; the author's voice leads and the talk hangs on the entries. A **forum** belongs to no single author: members open **topics** (threads), others reply under them, and the discussion stays, sorted and searchable, for later readers. The forum's strength is that a question asked once keeps its answers where the next asker can find them.
 
-[Picture — three rooms side by side — an author's journal page with comments, a board of topic threads, and a fast-flowing chat window]
+In your mind's eye: three rooms side by side — an author's journal page with comments, a board of topic threads, and a fast-flowing chat window.
 
 ## Sub lesson 2 — Chats — live written talk
 
 A **chat** is written conversation in **real time**: participants are present together, messages appear as they are sent, and the talk flows past like speech — quick, informal, and soon gone or buried. The three forms divide the jobs of written community: publish and gather comments — a blog; ask, answer and keep — a forum; talk now — a chat. All three are public or semi-public writing: a message written in any of them can be copied, kept and read by people it was not written for, which is why the book teaches them together with the chapter's social networks, under one care rule — write as if the whole world may read it.
 
-[Picture — a forum topic opened like a folder, with the question on top and its kept answers underneath]
+In your mind's eye: a forum topic opened like a folder, with the question on top and its kept answers underneath.
 
 ## Say it to your companion
 

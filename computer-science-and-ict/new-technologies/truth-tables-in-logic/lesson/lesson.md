@@ -8,13 +8,13 @@ When a statement joins others with AND, OR and NOT, arguing about its truth in w
 
 A **truth table** lists **every combination** of the parts' truths — for n propositions, **2ⁿ rows** — and computes the joined statement's value in each row by the connectives' rules: AND true only when both are, OR false only when both are, NOT flipping its one input. Two propositions make four rows; three make eight. The table is logic's multiplication table: finite, checkable, and beyond dispute.
 
-[Picture — What a truth table is]
+In your mind's eye: what a truth table is.
 
 ## Sub lesson 2 — Reading tables — equivalence and validity
 
 Tables answer the logician's standing questions. Two statements with **identical columns** are **equivalent** — interchangeable everywhere. An argument whose premises-true rows **always** give a true conclusion is **valid**, proved by exhaustion. And a statement true in **every** row is a tautology — true by shape alone. Jordan's Grade 10 book teaches tables inside the AI unit because the machine's reasoning stands on exactly this: conclusions a table can certify.
 
-[Picture — Reading tables — equivalence and validity]
+In your mind's eye: reading tables — equivalence and validity.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ A teenager in Dhaka dances to a song from Seoul, eats food from Bangkok, and quo
 
 Through ICT, **cultural exchange** runs constantly: music, film, food, dress, festivals and ideas cross borders in seconds, and people meet each other's lives directly instead of through travellers' tales. Exchange enriches: a weaver finds buyers abroad, a language finds learners, a festival finds an audience of millions. The village's culture is a market where every stall is open to everyone — and in a market, the stalls with the biggest speakers are heard farthest.
 
-[Picture — Exchange — cultures meeting and borrowing]
+In your mind's eye: exchange — cultures meeting and borrowing.
 
 ## Sub lesson 2 — Protecting your own — staying yourself while open
 
 The book names the risk plainly: when foreign content floods in and local content is scarce, young people can come to know another culture better than their own — its songs by heart, their own grandmother's songs forgotten. **Protecting a culture** is not closing the gate; it is filling your own stall: making, uploading and celebrating your own language, music, stories and crafts so the exchange runs both ways. A culture survives online the way it survived everywhere — by being practised, recorded and passed on.
 
-[Picture — Protecting your own — staying yourself while open]
+In your mind's eye: protecting your own — staying yourself while open.
 
 ## Say it to your companion
 

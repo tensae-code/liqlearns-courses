@@ -8,13 +8,13 @@ Grade 2 ends the year by making something for other people: a poster (affiche) t
 
 A **poster** shows **one message** that can be read at a glance. The project's message is **protecting nature**: the group chooses the one thing its poster asks for — keep water clean, care for trees, do not drop litter — and plans **a picture that shows it** and **few, big words that say it**. Planning comes before Paint: what the picture shows, what the words say, and where each goes on the page are decided first, so the making is execution, not searching.
 
-[Picture — planning the poster — message first]
+In your mind's eye: planning the poster — message first.
 
 ## Sub lesson 2 — Making the poster in Paint
 
 The poster is made with the year's tools together: **shapes and the pencil** draw the nature picture, the **fill and chosen colours** make it clear and bright, and **text added to the picture** carries the words — big enough to read across a classroom. The finished poster is **saved as a file** and **printed or shown** to its readers: a poster is finished only when someone else can read its message without its makers explaining it.
 
-[Picture — making the poster in paint]
+In your mind's eye: making the poster in paint.
 
 ## Say it to your companion
 

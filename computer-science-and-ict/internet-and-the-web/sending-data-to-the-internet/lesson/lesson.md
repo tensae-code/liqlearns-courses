@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Интернетке деректер жіберу** — covering: §27 Интернетке деректер жіберу (sending data to the Internet). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Интернетке деректер жіберу]
+In your mind's eye: интернетке деректер жіберу.
 
 ## Sub lesson 2 — Интернетке деректер жіберу. Жоба құру
 
 This part of Kazakhstan's book teaches **Интернетке деректер жіберу. Жоба құру** — covering: §30 Интернетке деректер жіберу. Жоба құру (project). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Интернетке деректер жіберу. Жоба құру]
+In your mind's eye: интернетке деректер жіберу. Жоба құру.
 
 ## Say it to your companion
 

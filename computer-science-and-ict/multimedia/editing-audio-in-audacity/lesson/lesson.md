@@ -8,13 +8,13 @@ A recording is raw material: coughs, long silences, a false start, the good part
 
 Editing starts with **selection**: drag across the waveform to mark the part of the sound you mean — every Audacity edit applies to the selection and nothing else. **Cut** removes the selected part and holds it for pasting; **delete** removes it outright; **trim** does the opposite — keeps the selection and removes everything outside it. Undo stands behind every move, so an editor can try a cut and take it back.
 
-[Picture — Selecting and cutting — the editor's basic moves]
+In your mind's eye: selecting and cutting — the editor's basic moves.
 
 ## Sub lesson 2 — Joining and arranging — building the finished piece
 
 Pieces are **joined** by pasting and by placing clips along the track in order: the introduction first, then the body, then the close. Silence is edited as deliberately as sound — shortened where it drags, left where a pause gives weight. The finished edit is played through once, whole, before it is saved: editing is finished when the piece sounds intended from end to end.
 
-[Picture — Joining and arranging — building the finished piece]
+In your mind's eye: joining and arranging — building the finished piece.
 
 ## Say it to your companion
 

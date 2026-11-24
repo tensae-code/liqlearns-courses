@@ -10,7 +10,7 @@ A **digital signature** starts not with the whole message but with its **fingerp
 
 Checking runs the pair in reverse. The receiver computes the fingerprint of the message that arrived, and decrypts the signature with the sender's **public key**. If the two fingerprints match, two things are proven at once. **Authorship**: only the holder of the private key could have made a signature that this public key opens — so the named sender really sent it. **Integrity**: the fingerprint of what arrived matches the fingerprint of what was signed — so nothing was changed on the way, not one letter.
 
-[Picture — signature-check: a message, its fingerprint, the fingerprint locked by a private key, and the receiver comparing two fingerprints side by side]
+In your mind's eye: signature-check. A message, its fingerprint, the fingerprint locked by a private key, and the receiver comparing two fingerprints side by side.
 
 Notice what a signature does **not** do: it hides nothing. The message itself travels readable (unless it is also encrypted, which is a separate step with the keys in the other direction). Secrecy and proof are different jobs; this strand now holds the tool for each.
 
@@ -20,7 +20,7 @@ Every check in the last part leaned on one quiet assumption: that the public key
 
 A **certificate** is the fix: a small document holding a name and that name's public key, **signed by a certificate authority (CA)** — an organisation whose own job is checking, before signing, that the key truly belongs to that name (that the applicant controls the shop's domain, is the bank it claims, and so on). Your browser and phone carry the public keys of the established CAs built in. When a website presents its certificate, the device checks the CA's signature on it — the same fingerprint-and-key check as before, one level up — and only then trusts the key inside for the connection.
 
-[Picture — certificate-chain: a shop's certificate signed by a CA, and the browser checking the CA's signature before trusting the key]
+In your mind's eye: certificate-chain. A shop's certificate signed by a CA, and the browser checking the CA's signature before trusting the key.
 
 So the strand's ideas stack: fingerprints and private keys make signatures; signatures by authorities make certificates; certificates make the public keys of strangers trustworthy — and trustworthy public keys are what the last lesson's secret-writing to strangers stood on all along.
 

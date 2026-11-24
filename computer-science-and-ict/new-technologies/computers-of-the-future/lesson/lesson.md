@@ -8,13 +8,13 @@
 
 This part of Kazakhstan's book teaches **Computers of the future** — covering: §32: Computers of the future. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Computers of the future]
+In your mind's eye: computers of the future.
 
 ## Sub lesson 2 — Doing it — Computers of the Future in practice
 
 **Doing it — Computers of the Future in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Computers of the Future in practice]
+In your mind's eye: doing it — Computers of the Future in practice.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ The mouse must cross a corridor of six identical squares. Writing 'forward' six 
 
 A **repetition** is the same instruction carried out **again and again**: forward, forward, forward across the corridor; turn, turn, turn, turn around a square's corners. Repetition is everywhere in programs because the world's tasks repeat — fences have many posts, stairs have many steps, songs have choruses. Writing each repeated instruction out in full makes programs **long, slow to write and easy to mistype**: the sixth 'forward' is where errors hide. The book's answer is to count the repetitions and write the instruction once.
 
-[Picture — Repetition — the same instruction again and again]
+In your mind's eye: repetition — the same instruction again and again.
 
 ## Sub lesson 2 — The loop — say it once, with its count
 
 A **loop** is the program's form for repetition: the instruction (or block of instructions) is written **once**, with the **number of times** it must repeat — 'forward, 6 times'. The executor runs the instruction, **counts**, and runs it again until the count is reached, then moves to what follows the loop. Inside the loop stands the **body** — what repeats; the count stands guard over it. Loops shorten programs and, more importantly, make the repetition **exact**: the executor never loses count.
 
-[Picture — The loop — say it once, with its count]
+In your mind's eye: the loop. Say it once, with its count.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Slides live on a screen, but audiences go home with paper. Class VII teaches pri
 
 Printing begins with a **choice of form**: **full-page slides** for a record of each slide large; **handouts** with several slides to a page for the audience to keep; or **notes pages** with the speaker's notes under each slide. The **Print** command also chooses the printer, the slides to print — all, a range, or the current one — and the number of **copies**.
 
-[Picture — Choosing the print form — slides, handouts, notes]
+In your mind's eye: choosing the print form — slides, handouts, notes.
 
 ## Sub lesson 2 — Preview first — then print
 
 Before paper is spent, **Print Preview** shows the pages exactly as they will come out — the layout, the order, whether anything is cut or too small to read. The book's economy is the printer's rule everywhere in this course: preview, fix, then print — and print one test copy before a class set, so a mistake costs one sheet, not thirty.
 
-[Picture — Preview first — then print]
+In your mind's eye: preview first — then print.
 
 ## Say it to your companion
 

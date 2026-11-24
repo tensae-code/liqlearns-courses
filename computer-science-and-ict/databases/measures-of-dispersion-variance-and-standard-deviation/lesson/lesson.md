@@ -8,13 +8,13 @@ Unit 5 §5.1.2 Measures of Dispersion (§5.1.2.1 variance — Class A vs Class B
 
 This part of Pakistan (Punjab)'s book teaches **Measures of Dispersion** — covering: Unit 5 §5.1.2 Measures of Dispersion (§5.1.2.1 variance — Class A vs Class B worked example; §5.1.2.2 standard deviation). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
-[Picture — Measures of Dispersion]
+In your mind's eye: measures of Dispersion.
 
 ## Sub lesson 2 — Doing it — Measures of Dispersion Variance and Standard Deviation in practice
 
 **Doing it — Measures of Dispersion Variance and Standard Deviation in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
-[Picture — Doing it — Measures of Dispersion Variance and Standard Deviation in practice]
+In your mind's eye: doing it — Measures of Dispersion Variance and Standard Deviation in practice.
 
 ## Say it to your companion
 

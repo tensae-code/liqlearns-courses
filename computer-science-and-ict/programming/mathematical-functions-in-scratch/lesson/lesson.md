@@ -8,13 +8,13 @@ Scratch's operator menu hides a calculator's second drawer. Class VIII opens it:
 
 The **mathematical function block** is a single operator block with two choices inside it: a **number** goes in, and a **dropdown chooses the function** — **abs** (the value without its sign), **floor** and **ceiling** (rounding down and up), **sqrt** (square root), and the **trigonometric** functions — sin, cos and tan — among others. The block reports one answer, and like every reporter it can sit inside a say block, a set-variable block, or a bigger calculation.
 
-[Picture — The block — one input, one function, one answer]
+In your mind's eye: the block — one input, one function, one answer.
 
 ## Sub lesson 2 — Functions at work — mathematics inside programs
 
 The functions earn their place inside real builds: **sqrt** turns two squared distances into the true distance between sprites; **abs** measures how far apart two scores are, whichever is bigger; **floor** turns a decimal timer into whole seconds for a game display. Class VIII teaches them with the string functions as the operators' advanced family: text worked by one lesson, number worked by the other.
 
-[Picture — Functions at work — mathematics inside programs]
+In your mind's eye: functions at work — mathematics inside programs.
 
 ## Say it to your companion
 
