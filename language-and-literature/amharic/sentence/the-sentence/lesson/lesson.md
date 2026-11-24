@@ -195,7 +195,7 @@ Sub lesson 7 taught you the negative's wrap: **አል- … -ም** around the ver
 
 [Picture 9003 — affirmative to negative, grown]
 
-[GIF 9017 — an affirmative verb wrapped into its negative]
+In your mind's eye: an affirmative verb wrapped into its negative.
 
 Watch አል- and -ም close around the verb from both sides. That closing is the conversion.
 

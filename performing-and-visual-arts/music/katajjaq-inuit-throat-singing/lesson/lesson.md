@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Katajjaq** is Inuit throat singing: **two singers stand face to face** and make sounds with the **throat, mouth and nose**. Some katajjaq sounds copy nature — such as geese and the wind — and some katajjaq songs carry stories meant as gifts.
 
-[Picture — a picture of two katajjaq singers standing face to face, close, singing to each other]
+In your mind's eye: two katajjaq singers standing face to face, close, singing to each other.
 
 ## Sub lesson 2 — Nearly lost, and its return
 

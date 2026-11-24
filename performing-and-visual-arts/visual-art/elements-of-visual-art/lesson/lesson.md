@@ -42,7 +42,7 @@ Now organise everything on one real painting. The Grade 8 book's worked example 
 
 Look carefully at the portrait and the elements are seen **at work**: colour, space, texture, shape, line and the thing itself. The elements make the character identifiable and set down the painter's idea prominently. They answer the basic questions: What does the character look like — his clothes, body, hair? What movement and form does he have? In what feeling is he? The book's plates isolate them one by one: line in a painting (Fig. 2), colour (Fig. 3), texture (Fig. 4).
 
-[Picture — described only, not made in this fix build: the self-portrait's three study plates side by side — line, colour, texture — the student points to where each element works hardest.]
+In your mind's eye: described only, not made in this fix build: the self-portrait's three study plates side by side — line, colour, texture. The student points to where each element works hardest.
 
 ## Sub lesson 8 — Shape, form and space pictured — the painters' words (Grade 8)
 
@@ -60,7 +60,7 @@ The book's own name for the elements is the one to keep: line, colour, shape, sp
 2. **Unequal / asymmetrical balance** — unequal things placed so they receive equal view; harder, because the elements are not equal and identical (Fig. 11).
 3. **Radial balance** — all the elements' equal visual weight radiating from a centre (Fig. 12).
 
-[Picture — described only, not made in this fix build: three small compositions — mirror-equal, unequal-but-balanced, and spokes from a centre — the student names each balance type.]
+In your mind's eye: described only, not made in this fix build: three small compositions — mirror-equal, unequal-but-balanced, and spokes from a centre. Name each balance type.
 
 ## Sub lesson 10 — Proportion, rhythm, emphasis, movement, simplicity (Grade 8)
 

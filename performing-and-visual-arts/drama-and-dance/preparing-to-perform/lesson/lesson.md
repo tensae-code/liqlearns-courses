@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 When worry stops a performer, use the **stop-and-think routine**. First: **stop walking, take deep breaths in and out very slowly** until you feel calmer. In *Tuka's Big Dance*, Tuka — a young caribou dancing in the community talent show — loses his nerve when a friend laughs, and this routine is what he learns (story in summary only).
 
-[Picture — a picture of a young dancer backstage, stopped, breathing slowly, calming down before performing]
+In your mind's eye: a young dancer backstage, stopped, breathing slowly, calming down before performing.
 
 ## Sub lesson 2 — Stop and think: naming the feeling
 

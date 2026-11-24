@@ -51,7 +51,7 @@ A photograph must match the size and direction of its paper, and the Grade 4 boo
 - **Square** — an object design sits in a square format, as wide as it is tall (Fig. 1.16).
 - **Horizontal (landscape)** — the rural countryside (Fig. 1.17) and tourist-attraction places (Fig. 1.18) spread wide; a farming photograph (Fig. 1.19) carries a two-line farmers' poem with it, and a city-layout photograph (Fig. 1.20) shows a whole town's plan.
 
-[Picture — described only, not made in this fix build: the book's six photographs in a row — child portrait, square object study, countryside, tourist site, farm work with its poem, city view — the student names the frame of each.]
+In your mind's eye: described only, not made in this fix build: the book's six photographs in a row — child portrait, square object study, countryside, tourist site, farm work with its poem, city view. Name the frame of each.
 
 So before you press, ask three ways, not two: does my subject **stand** (portrait), **sit as one thing** (square), or **spread** (landscape)?
 

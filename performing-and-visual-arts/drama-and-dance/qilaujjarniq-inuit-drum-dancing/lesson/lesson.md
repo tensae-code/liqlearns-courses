@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Drum dancing** is an old custom: songs are sung while the **qilaut** (frame drum) is beaten with the **katuk** (drum stick). The qilaut was once also a shaman's tool, and disagreements between men could be settled by song through drum dancing instead of anger.
 
-[Picture — a picture of a drum dancer beating the qilaut frame drum with the katuk stick while singing]
+In your mind's eye: a drum dancer beating the qilaut frame drum with the katuk stick while singing.
 
 ## Sub lesson 2 — Two regional ways
 

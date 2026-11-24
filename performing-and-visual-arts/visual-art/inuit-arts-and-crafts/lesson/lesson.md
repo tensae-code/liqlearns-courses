@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Inuit-made artworks come in **many different forms** — beadwork, sewing, weaving, drawing, carving, clothing-making and tool-making — and **each is real art**. Canada's Level 11 reader walks through the forms one by one, in photographs of finished work and of the makers at work.
 
-[Picture — a picture of Inuit artworks side by side — beadwork, a sewn doll, a print, a stone carving, a sealskin parka and a silver pendant]
+In your mind's eye: inuit artworks side by side — beadwork, a sewn doll, a print, a stone carving, a sealskin parka and a silver pendant.
 
 ## Sub lesson 2 — ᓴᐸᖓᓕᕆᓂᖅ — beadwork
 

@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 When **Qallunaat (newcomers)** arrived in the Arctic, much changed — music included. They brought **their own songs from their own lands** and taught them to the people already there.
 
-[Picture — a picture of newcomers arriving in the Arctic with their own songs and instruments, meeting Inuit musicians]
+In your mind's eye: newcomers arriving in the Arctic with their own songs and instruments, meeting Inuit musicians.
 
 ## Sub lesson 2 — New kinds that stayed
 

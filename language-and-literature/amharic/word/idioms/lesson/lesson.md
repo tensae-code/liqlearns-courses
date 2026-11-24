@@ -24,7 +24,7 @@ Keep the chart near you. Four sayings live in this lesson — two built from the
 
 **እጅ አጠረው** — word by word: *his hand shortened*. Its real meaning: **he fell into difficulty**. His hand — the thing he works with, reaches with, holds with — could no longer reach. When life shrinks a person's reach like that, we say እጅ አጠረው: trouble has closed in on him.
 
-[GIF 9019 — ሆድና ጀርባ: the words join, two people stand divided]
+In your mind's eye: ሆድና ጀርባ. The words join, two people stand divided.
 
 Watch the two word-cards slide together and become one saying — and under it, two people with a crack between them. That crack is the meaning: not a belly, not a back, but a broken agreement.
 

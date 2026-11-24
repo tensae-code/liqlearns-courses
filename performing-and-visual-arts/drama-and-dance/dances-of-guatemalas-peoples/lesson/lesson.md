@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 4 experience “Mi cuerpo habla” (My Body Speaks) teaches that **dances have meanings**: a dance is the body speaking, and each people's dance says something of that people. Learning a dance begins with asking what it means — before asking how its steps go.
 
-[Picture — dancers of different peoples, each dance speaking in its own movement]
+In your mind's eye: dancers of different peoples, each dance speaking in its own movement.
 
 ## Sub lesson 2 — A first initiation into other peoples' dances
 

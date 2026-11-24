@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Songs are lovely to hear and are **heard everywhere in Nunavut** — on radio and computer, from grandparents and elders singing the old songs, and as dance music at feasts. The book's four forms are **katajjaq** (throat singing), **qilaujjarniq** (drum dancing), **pisiit** (personal songs) and the dance songs of **square dancing**.
 
-[Picture — a picture of Nunavut's music — two katajjaq singers face to face, a drum dancer with the qilaut, and dancers at a feast]
+In your mind's eye: nunavut's music — two katajjaq singers face to face, a drum dancer with the qilaut, and dancers at a feast.
 
 ## Sub lesson 2 — Closing — what music does
 

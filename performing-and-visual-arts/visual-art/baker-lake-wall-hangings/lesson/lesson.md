@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Wall hangings** are woven and embroidered from strips and cloth, made to hang on the wall. They are the art that **Qamani'tuaq (Baker Lake)** artists are known for.
 
-[Picture — a picture of a Baker Lake wall hanging — cloth worked with designs of Arctic animals and people]
+In your mind's eye: a Baker Lake wall hanging — cloth worked with designs of Arctic animals and people.
 
 ## Sub lesson 2 — Southern wool, Arctic designs
 

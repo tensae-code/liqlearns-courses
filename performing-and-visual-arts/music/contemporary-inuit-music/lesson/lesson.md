@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Traditional music is still important in Nunavut**, and today's musicians use **many different instruments**. The **internet changed Nunavut music** — Inuit can hear music from anywhere in the world.
 
-[Picture — a picture of today's Nunavut musicians — singers and players with many instruments, one mixing katajjaq with new styles]
+In your mind's eye: today's Nunavut musicians — singers and players with many instruments, one mixing katajjaq with new styles.
 
 ## Sub lesson 2 — New things on old songs
 

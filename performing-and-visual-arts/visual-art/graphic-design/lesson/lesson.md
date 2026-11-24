@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 6 experience “Publicarte” sets the class to **produce a magazine of their community's culture** — its **dances, folk music, crafts, typical food, celebrations, Maya languages and stories**. A magazine is graphic design with a job: type, image and layout carrying a community's culture to its readers.
 
-[Picture — a class magazine's designed cover, with its title, a drawing and a photograph arranged to speak at a glance]
+In your mind's eye: a class magazine's designed cover, with its title, a drawing and a photograph arranged to speak at a glance.
 
 ## Sub lesson 2 — Designing and presenting the magazine
 

@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Inuit art today keeps growing into new forms alongside the old** — the book's spread shows beaded sealskin bags, crocheted work, prints and silver in one spread.
 
-[Picture — a picture of today's Inuit art in one spread — a beaded sealskin bag, crocheted work, a print and silver jewellery]
+In your mind's eye: today's Inuit art in one spread — a beaded sealskin bag, crocheted work, a print and silver jewellery.
 
 ## Sub lesson 2 — Known around the world
 

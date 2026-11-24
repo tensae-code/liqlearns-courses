@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 6 experience “La vida es teatro” opens with the activity “Yo vengo a ofrecer mi corazón”: learners listen to a **recorded song** — Fito Páez's song of offering one's heart, placed here **in summary only** — **first without the words**. Without the lyrics, you hear the music itself: its feeling arrives before its meaning is explained.
 
-[Picture — a class listening to a recorded song — first the music alone, then the words]
+In your mind's eye: a class listening to a recorded song — first the music alone, then the words.
 
 ## Sub lesson 2 — Then with the words — and say what it means
 

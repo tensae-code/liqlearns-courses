@@ -37,7 +37,7 @@ Ancient paintings made with **indigenous knowledge** carry the community's histo
 
 The makers prepared parchment from animal hides, smoothed stone and wood, and mixed colours from soils, plants and crops in the Ethiopian painting manner. Named homes of ancient painting: Gorgora Debre Sina Mariam; Gondar Debre Berhan Selassie; Lake Tana's Kibraan Gebriel and Narga Selassie; Addis Ababa's Entoto Mariam and Raguel; Andercha Medhanialem in Kafa Zone; and Tigray's Aba Yemata and Abune Aron monasteries — with cave paintings at Dire Dawa's Lega Oda cave and the Gelma cave in Gedeo Zone.
 
-[Picture — described only, not made in this fix build: a church wall painting in the Ethiopian manner (Fig. 28) — the student says which content kind it belongs to and why.]
+In your mind's eye: described only, not made in this fix build: a church wall painting in the Ethiopian manner (Fig. 28). Say which content kind it belongs to and why.
 
 ## Sub lesson 7 — The Grade 5 chapter opens — traditional music, cave art and heritage (chapter opening — Grade 5)
 

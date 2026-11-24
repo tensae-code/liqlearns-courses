@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 The guide explains its own iconography — the pictures it uses are themselves cultural art. The **snail** carries three meanings at once: for the Maya it is **zero**; for the Garífuna it is a **food**; and the conch — the snail's great shell — is a **musical instrument of important ceremonies**. One picture, three peoples' knowledge held inside it.
 
-[Picture — the guide's three symbols — snail, sun and heart-planet]
+In your mind's eye: the guide's three symbols — snail, sun and heart-planet.
 
 ## Sub lesson 2 — The sun and the heart-planet
 

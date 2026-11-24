@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 The **Sila Rainbow Dance Competition** is held at the **community hall** in Nunavut. **Different teams perform dances** before the community — in *I Want to Dance!*, a brother and sister build their dance for this competition (story in summary only).
 
-[Picture — a picture of the Sila Rainbow Dance Competition in a Nunavut community hall — a team performing while judges and the community watch]
+In your mind's eye: the Sila Rainbow Dance Competition in a Nunavut community hall — a team performing while judges and the community watch.
 
 ## Sub lesson 2 — Judges decide
 

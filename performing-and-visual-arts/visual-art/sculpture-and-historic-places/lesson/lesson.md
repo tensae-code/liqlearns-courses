@@ -86,7 +86,7 @@ The Grade 4 book shows our heritage in pictures, plate by plate. **Painting and 
 
 **The rock church**: Fig. 3.8 shows the **Yemrehane Kristos** rock church of Lalibela — a church made inside the rock itself.
 
-[Picture — described only, not made in this fix build: the three plate groups in a row — manuscript and painting; obelisk, palace and hall; the rock church — the student names each heritage kind.]
+In your mind's eye: described only, not made in this fix build: the three plate groups in a row — manuscript and painting; obelisk, palace and hall; the rock church. Name each heritage kind.
 
 **Activity 3.1** — now answer the plates with your own hand: **draw and paint a traditional heritage object on paper.**
 

@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 4 Expresión Artística names, as one of its learning themes, the **artistic techniques of the Maya people** — a people's own ways of making art, carried as heritage. This lesson is honest about its evidence: the guide's opening page names the theme; the activity pages that teach it step by step are **not in this PARTIAL file**, so the lesson teaches the theme as named, and no steps the file does not hold.
 
-[Picture — a maker at work with the instruments of a traditional technique, following its procedure step by step]
+In your mind's eye: a maker at work with the instruments of a traditional technique, following its procedure step by step.
 
 ## Sub lesson 2 — Handling instruments and procedures
 

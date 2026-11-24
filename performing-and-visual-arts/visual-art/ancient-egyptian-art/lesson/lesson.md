@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Uganda's Senior One book closes its art history with **ancient Egypt**: examine the art forms of ancient Egypt and **evaluate their elements and principles**. First, the architecture — the **pyramids** — and the **sphinx**, the great carved guardian.
 
-[Picture — the pyramids and the sphinx, side by side]
+In your mind's eye: the pyramids and the sphinx, side by side.
 
 ## Sub lesson 2 — Egyptian paintings
 

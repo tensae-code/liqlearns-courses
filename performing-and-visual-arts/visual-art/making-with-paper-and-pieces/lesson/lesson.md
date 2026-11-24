@@ -39,7 +39,7 @@ Texture is the smoothness or roughness you feel by **touching** and by **seeing*
 - **Roughness** is made by **cross-hatching** — lines crossing lines — or by **repeated dots** (a pattern of points).
 - **Smoothness** is made by **smudging** the pencil softly, or by leaving the surface untouched.
 
-[Picture — described only, not made in this fix build: a bark patch built stroke by stroke from cross-hatched lines, beside a smooth smudged patch — the student says which technique made each.]
+In your mind's eye: described only, not made in this fix build: a bark patch built stroke by stroke from cross-hatched lines, beside a smooth smudged patch. Say which technique made each.
 
 Try it: draw one small square of bark with crossing lines, one of dots, and one smooth square smudged with a fingertip. Your fingers should be able to guess each one with your eyes shut — that is texture doing its work.
 

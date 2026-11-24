@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 4 experience “Las manos creadoras” (The Creator Hands) sets this theme: **the relationship between the human being and nature**, recreated **through artworks**. People live inside nature — it feeds, shelters and surrounds them — and art can show that relationship instead of only showing people or only showing land.
 
-[Picture — an artwork where people and nature meet — hands, land, trees and water in one scene]
+In your mind's eye: an artwork where people and nature meet — hands, land, trees and water in one scene.
 
 ## Sub lesson 2 — Recreating the relationship in an artwork
 

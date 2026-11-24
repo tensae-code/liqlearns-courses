@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Guatemala's Grade 5 experience “La palabra como arte” (The Word as Art) names, among its themes, the **instruments of Maya art** — the instruments that belong to the Maya people's own music-making, carried inside their art. A people's instruments are part of its art, not only its tools.
 
-[Picture — the instruments of Maya art gathered for a musical event]
+In your mind's eye: the instruments of Maya art gathered for a musical event.
 
 ## Sub lesson 2 — Organising musical events
 

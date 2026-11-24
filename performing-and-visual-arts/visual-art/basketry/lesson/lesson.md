@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 Uganda's Senior One book teaches **basketry** inside **Crafts from the Natural Environment**: basketry is a **fibre art** — woven articles made from the materials of your own surroundings, in your own cultural setting.
 
-[Picture — baskets of different weaves, with the grasses and reeds they were made from]
+In your mind's eye: baskets of different weaves, with the grasses and reeds they were made from.
 
 ## Sub lesson 2 — Four weaving techniques: coiling, plaiting, wicker and twining
 

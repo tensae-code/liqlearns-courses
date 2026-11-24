@@ -59,7 +59,7 @@ You have made plurals since the clothing lessons. Now the whole system is stated
 - A **singular noun carries no marker at all.** Nothing is added; the word stands bare — that bareness IS the singular.
 - A **plural noun is formed with one suffix: -ኦች.** One system, one piece.
 
-[GIF 9018 — the -ኦች suffix attaching to a noun]
+In your mind's eye: the -ኦች suffix attaching to a noun.
 
 Watch **ኦች** travel in and lock onto **ቀሚስ**: one dress, then **ቀሚሶች** — many dresses, and the ring count under the word goes from one to many at the moment the piece lands.
 

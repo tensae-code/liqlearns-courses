@@ -8,7 +8,7 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 **Square dancing came with the whalers**, who brought the dance tunes called **"jig" and "reel"**. People danced to the tunes for **10 to 20 hours, sometimes all night**, and Inuit learned instruments such as the **accordion**.
 
-[Picture — a picture of square dancers in a Nunavut community hall, dancing to accordion and fiddle tunes]
+In your mind's eye: square dancers in a Nunavut community hall, dancing to accordion and fiddle tunes.
 
 ## Sub lesson 2 — Square dancing today
 
