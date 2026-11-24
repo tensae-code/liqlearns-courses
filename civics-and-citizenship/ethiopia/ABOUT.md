@@ -499,3 +499,15 @@ recorded here, and in both lessons' sources.
 - **Period counts** in several guides do not reconcile with their
   own lesson sums; they are scheduling data, recorded in the
   placements, and no lesson content is built from them.
+
+## Moral Education now stands as its own course (2026-11-24)
+
+The Moral Education teaching in this course's opening levels
+(Levels 1–12) and its Level 13 civics strand now **also**
+stands as its own course — **Moral Education — Ethiopia** at
+`moral-education/ethiopia/` — built from the same Grades 1–6
+Moral Education teacher guides, in the guides' own
+grade-by-grade progression, under the owner's ruling that a
+subject with its own books gets its own course. This Civics
+course's opening levels **remain as built**; nothing here was
+changed by that build except this note.
