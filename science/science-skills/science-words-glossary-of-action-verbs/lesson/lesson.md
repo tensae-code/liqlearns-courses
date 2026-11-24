@@ -9,9 +9,9 @@ At the very end of the guide, after all the science topics, sits a **glossary of
 
 That placement is the lesson. The guide treats the instruction words as part of the science course: a learner can know the science and still miss the question if they do not know what the verb in it is asking for. The glossary is there so the verb is never a mystery — **the verb in the question tells you the job your answer must do**.
 
-[Picture — an open glossary page with the verb list down one side and short definitions beside each verb — the student points to the verb in a sample question, then to its definition]
+In your mind's eye: an open glossary page with the verb list down one side and short definitions beside each verb. The student points to the verb in a sample question, then to its definition.
 
-[GIF — a question's verb being underlined, then matched to its glossary definition — the student says the job the verb sets]
+In your mind's eye: a question's verb being underlined, then matched to its glossary definition. Say the job the verb sets.
 
 ## Sub lesson 2 — The seven verbs at work
 

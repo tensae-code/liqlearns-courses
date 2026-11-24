@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cloning and the hu
 ## The idea
 Genetics ends by copying life and reading it whole: Kenya's Form 4 book teaches cloning step by step through Dolly the sheep, plant tissue culture producing new pyrethrum and banana varieties — both Kenyan cash crops — and the human genome: gene mapping and sequencing, with eugenics and the ethical issues of genetic engineering.
 
-[Picture — two panels — on one side Dolly the sheep built step by step: a body cell's nucleus moved into an emptied egg, the egg dividing, the lamb born a copy of the nucleus donor — and on the other side rows of tissue-culture jars holding tiny banana and pyrethrum plantlets, beneath a long ribbon of sequenced DNA letters labelled as the human genome being read]
+In your mind's eye: two panels — on one side Dolly the sheep built step by step: a body cell's nucleus moved into an emptied egg, the egg dividing, the lamb born a copy of the nucleus donor. And on the other side rows of tissue-culture jars holding tiny banana and pyrethrum plantlets, beneath a long ribbon of sequenced DNA letters labelled as the human genome being read.
 
 ## The key facts
 **Cloning — Dolly step by step.** Dolly the sheep was made by cloning: the nucleus of a body cell from one sheep was placed into an emptied egg cell, and the lamb that developed was a genetic copy of the nucleus donor — taught step by step.

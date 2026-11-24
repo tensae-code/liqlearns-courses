@@ -12,9 +12,9 @@ A **trait** is a feature of a living thing — height, flower colour, the shape 
 
 A **gene** is a section of DNA carrying the instruction for one piece of the body. A gene shows itself by directing the making of a **protein**: if the protein works well, the trait appears in its full form — India's book's own example is plant height, where the gene directs an enzyme that makes a growth hormone, and a changed gene makes less of it, so the plant is short.
 
-[Picture — a parent plant and its young side by side, with the shared traits named — the student points to one inherited trait and one thing that could only be acquired]
+In your mind's eye: a parent plant and its young side by side, with the shared traits named. The student points to one inherited trait and one thing that could only be acquired.
 
-[GIF — a gene's instruction becoming a protein and the protein showing as a trait — the student says the three steps in order]
+In your mind's eye: a gene's instruction becoming a protein and the protein showing as a trait. Say the three steps in order.
 
 ## Sub lesson 2 — Mendel's crosses — dominant and recessive
 
@@ -24,9 +24,9 @@ So each trait comes in two forms, one from each parent. The form that shows when
 
 The same bookkeeping decides a child's sex in humans. Sex is carried on the **sex chromosomes**: a mother always gives an X; a father gives either an X (a daughter, XX) or a Y (a son, XY) — so it is the father's contribution that sets the child's sex.
 
-[Picture — the tall × short cross drawn as four boxes, TT, Tt, Tt, tt — the student counts the tall and the short before reading on]
+In your mind's eye: the tall × short cross drawn as four boxes, TT, Tt, Tt, tt. The student counts the tall and the short before reading on.
 
-[GIF — the hidden short form returning in the second generation, one plant in four — the student says which form is recessive and how the count proves it]
+In your mind's eye: the hidden short form returning in the second generation, one plant in four. Say which form is recessive and how the count proves it.
 
 ## Sub lesson 3 — Evolution — inherited change over generations
 
@@ -34,9 +34,9 @@ Young are never exact copies of their parents: **inherited variation** appears i
 
 Given enough generations, the kept changes build up until a population differs so much from its relatives that it can no longer breed with them — a new species has formed. That long, branching change of kinds, driven by inherited variation and selection, is **evolution**. It runs only on what is inherited: acquired traits, however useful in one life, are not passed on and so play no part in it.
 
-[Picture — one starting population splitting, over many generations, into two different kinds — the student names the two things that drive the split: inherited variation and selection]
+In your mind's eye: one starting population splitting, over many generations, into two different kinds. Name the two things that drive the split: inherited variation and selection.
 
-[GIF — generation after generation of a population, one helpful variation spreading through it — the student says why the variation spreads]
+In your mind's eye: generation after generation of a population, one helpful variation spreading through it. Say why the variation spreads.
 
 ## The key ideas
 

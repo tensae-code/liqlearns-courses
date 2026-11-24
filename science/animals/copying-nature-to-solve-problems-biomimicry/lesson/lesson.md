@@ -7,9 +7,9 @@ A burr sticks to a dog's fur and will not let go. Years later, a fastener of tin
 
 Plants and animals already solve hard problems with their **external parts**: hooks that catch and hold, coatings that shed water, shapes that grip, dig, glide or hide (Grade 2, 2.2.4, printed p. 68). Each part is a working solution, tested by survival itself. The lesson first reads those parts as solutions — what problem does this part solve, and how?
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Mimic the part to solve a human problem
 

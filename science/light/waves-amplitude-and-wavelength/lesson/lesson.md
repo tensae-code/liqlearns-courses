@@ -7,9 +7,9 @@ Shake a rope and a wave runs down it. Shake harder, and the wave looks different
 
 A **wave** is a **regular pattern** that travels: ripples crossing water, a shake running down a rope (Grade 4, 4.3.1, printed p. 110). The models matter — in water and in rope the pattern can be seen, repeated and compared, and it is the pattern, repeating the same shape again and again, that the lesson describes.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Amplitude — how big the wave is
 

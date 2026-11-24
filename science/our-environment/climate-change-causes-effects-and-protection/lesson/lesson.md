@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — climate change — what it is
 
 Papua New Guinea's Standards Based Grade 8 guide teaches climate change as its own topic, in its own order: first **what climate change is** — a lasting change in the Earth's climate, not one hot day or one storm — and its types, the different forms the change takes.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Causes — and effects on the Earth
 

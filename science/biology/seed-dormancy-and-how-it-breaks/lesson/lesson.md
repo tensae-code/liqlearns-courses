@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Seed dormancy and 
 ## The idea
 A living seed may refuse to grow — and the refusal is useful: Kenya's Form 3 book teaches dormancy's value, its causes (immature embryo, abscisic-acid inhibitors, hard seed coats in wattle), and how it breaks (maturation, gibberellins and cytokinins, light, scarification — in agriculture by boiling, roasting and cracking wattle seed).
 
-[Picture — a wattle seed drawn three ways — whole and sleeping behind its hard coat, split by a crack, and sprouting — with the three keys that wake it drawn beside it: a pot of boiling water, a flame for roasting, and a file for scarification — and a small clock behind the sleeping seed showing that waiting itself is one of its causes ending]
+In your mind's eye: a wattle seed drawn three ways — whole and sleeping behind its hard coat, split by a crack, and sprouting — with the three keys that wake it drawn beside it: a pot of boiling water, a flame for roasting, and a file for scarification. And a small clock behind the sleeping seed showing that waiting itself is one of its causes ending.
 
 ## The key facts
 **What dormancy is — and its value.** Dormancy is the seed's resting state: alive, viable, but not germinating even when conditions look right — and its value is timing, holding the seed back from sprouting into the wrong moment.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Ecological problem
 ## The idea
 Kazakhstan teaches its own ecological problems as a named topic — oil and mineral extraction and processing, invasive species such as ragweed and nutria, and pressure on its steppes, parks and waters — with their causes and consequences inside the country itself. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a map of Kazakhstan with its own cases pinned: an oil field, a mine, a ragweed plant marked invasive, and a national park shield, each with a small cause-and-consequence label]
+In your mind's eye: a map of Kazakhstan with its own cases pinned. An oil field, a mine, a ragweed plant marked invasive, and a national park shield, each with a small cause-and-consequence label.
 
 ## The key facts
 **11.5 Ecological problems of Kazakhstan.** the country's own environmental problems as a named §

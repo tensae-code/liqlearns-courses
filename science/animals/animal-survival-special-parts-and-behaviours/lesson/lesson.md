@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Grade 5 book opens its survival unit with **species survival (kemandirian spesies)**: animals stay alive through special body parts and behaviours. Against enemies it catalogues **sharp spines and poison (the pufferfish), shedding body parts (the lizard's tail, the octopus's arm), camouflage and warning colours**, and further special parts — **horns, shells, scales and quills** — each with its examples.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Weather, eggs and young — staying alive across the year
 

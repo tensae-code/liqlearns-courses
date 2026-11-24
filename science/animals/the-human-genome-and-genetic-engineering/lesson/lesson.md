@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — the human genome and ge
 
 Guía 4: can we read the code of life? the Human Genome Project (begun 1990) mapping every gene, gene therapy cases debated, and building a family tree (árbol genealógico) to trace an inherited trait or disease.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Genetic manipulation and modern genetics
 

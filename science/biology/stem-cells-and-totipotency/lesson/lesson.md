@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Stem cells and tot
 ## The idea
 A totipotent cell can make a whole organism, and stem cells carry that power at every scale: Steward's carrot grown from one cell (1958), Dolly and the cloned monkeys Zhongzhong and Huahua from a body cell's nucleus, haematopoietic stem cells rebuilding blood, and iPS cells — a patient's own cells reprogrammed in 2006 — promising the same without an embryo and without rejection, the tumour risk stated plainly. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a tree whose trunk is one cell: its branches end in a carrot plant, a sheep, two monkeys and a blood-cell family, each labelled with its year]
+In your mind's eye: a tree whose trunk is one cell. Its branches end in a carrot plant, a sheep, two monkeys and a blood-cell family, each labelled with its year.
 
 ## The key facts
 **Ch. 3 feature "The world's first somatic-cell cloned monkeys".** Zhongzhong and Huahua (2017), the first primate somatic-cell clones: the three technical hurdles that had blocked primates, and the text states China's ban on human cloning outright. (The same proposed lesson is exercised again from Ch. 6 §2 below.)

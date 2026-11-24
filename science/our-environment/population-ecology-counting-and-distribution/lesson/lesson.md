@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Additional Science Form 4 book teaches **population ecology**: counting populations by the **quadrat method** and the **capture-recapture method**, and describing **distribution patterns** — how the individuals of a population are spread across their ground. A population too large to count one by one is counted by sampling, and the sample is reasoned from.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Plastics: man-made polymers built by polymerisation, small monomer units joining into long chains; thermoplastics with linear chains that soften and can be reshaped again and again (polythene, PVC, polystyrene) against thermosetting plastics with cross-linked chains that set hard for good (Bakelite from phenol and formaldehyde, melamine); the uses table and the properties — light, cheap, waterproof, non-reactive, insulators of heat and electricity.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

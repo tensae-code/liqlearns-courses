@@ -7,9 +7,9 @@ Before you read: many homes keep chickens. What does a chicken keeper actually d
 
 Keeping begins with the chickens' home and their daily **care**: Rwanda's Primary 5 book opens the topic with **keeping chickens — housing and care**, because a chicken that is housed and cared for is the chicken that thrives.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Chicken breeds and how chickens reproduce
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene of breathi
 ## The idea
 Breathing is kept safe by hygiene of the airways, and when breathing stops in asphyxia — caused by dust, drowning or strangling — first aid and artificial respiration are the response. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a person giving artificial respiration to another person lying down, with the causes of asphyxia — dust, water, a blocked airway — shown as small labelled scenes]
+In your mind's eye: a person giving artificial respiration to another person lying down, with the causes of asphyxia — dust, water, a blocked airway. Shown as small labelled scenes.
 
 ## The key facts
 **4.5 Hygiene of breathing.** Moldova's Grade 7 book (4.5 Hygiene of breathing) teaches: asphyxia causes (dust, drowning, strangling) and first aid / artificial respiration. (printed p. 105).

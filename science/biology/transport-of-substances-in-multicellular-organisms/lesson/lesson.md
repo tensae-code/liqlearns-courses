@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Transport of subst
 ## The idea
 A multicellular organism is too big for diffusion alone, so substances must be carried: in plants through their conducting tissues and in animals through blood and lymph, from where a substance is taken in or made to every cell that needs it. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a plant and a small animal side by side, arrows carrying labelled loads — water and food in the plant's vessels, oxygen and food in the animal's blood — from source to farthest cell in each]
+In your mind's eye: a plant and a small animal side by side, arrows carrying labelled loads — water and food in the plant's vessels, oxygen and food in the animal's blood. From source to farthest cell in each.
 
 ## The key facts
 **§16 The importance of transport of substances for the life activity of living organisms.** §16 The importance of transport of substances for the life activity of living organisms

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The biogenetic law
 ## The idea
 Development is not random: an individual organism passes through its development (its ontogenesis) in an ordered way, and Uzbekistan's Grade 9 textbook teaches that this order carries a law. In Part IV, Chapter 10 §42 (printed p. 101), after the embryonic and postembryonic periods, the book states the general patterns of development as the biogenetic law: ontogeny recapitulates phylogeny. No lesson in this course taught the biogenetic law on its own before, so this lesson is built for it.
 
-[Picture — a row of embryos at matching early stages — fish, bird, mammal — drawn alike at first and diverging as they develop, with an arrow marked "ontogeny" over the row and "phylogeny" under it]
+In your mind's eye: a row of embryos at matching early stages — fish, bird, mammal. Drawn alike at first and diverging as they develop, with an arrow marked "ontogeny" over the row and "phylogeny" under it.
 
 ## The key facts
 **Ontogenesis (ontogeny) is one individual's development.** It runs from the fertilised egg through the embryonic period and the postembryonic period to the adult.

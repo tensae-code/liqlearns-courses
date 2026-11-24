@@ -7,9 +7,9 @@ Before you read: a family near you keeps rabbits. What do they keep them for? Wh
 
 Rabbit keeping starts with the animals themselves: there are different **breeds** of rabbits, and rabbits are kept for their **uses** — a keeper chooses and keeps rabbits knowing both which breed they are and what they are kept for.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Building a hutch
 

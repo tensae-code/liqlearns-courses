@@ -7,9 +7,9 @@ A volcano does not ask permission before it erupts, and a natural disaster does 
 
 Ecuador's Grade 5 book teaches the **volcanic eruption process in detail**: an eruption is the volcano's material breaking out at the surface. Knowing how an eruption unfolds — the process, step by step as the book details it — is the ground prevention stands on: a community prepares against the eruption it understands.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Prevention measures — before eruptions and natural disasters
 

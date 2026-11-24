@@ -7,9 +7,9 @@ A waterfall, a blowhole, a flat black lava flow with nothing growing on it yet. 
 
 First, the mapping: Samoa's special landscape features — **waterfalls, cliffs, caves, lava flows, the chain of volcanoes, blowholes, Sliding Rock, bays, lakes, pools, rivers and streams** — and its special environments — **rainforest, swamp forest, mangrove swamps and cloud forest**. People have added features of their own: **the National Park, Faleolo Airport, memorials, Apia township and the star mounds**. A landscape lesson starts by naming what is actually there, on the learner's own ground (printed pp. 89–92).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The field trip — evidence of forming and changing
 

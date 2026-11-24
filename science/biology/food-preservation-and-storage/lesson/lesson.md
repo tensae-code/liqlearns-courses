@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Food preservation 
 ## The idea
 A good harvest can still be lost after it leaves the farm. Chapter 9 of Nigeria's Senior Secondary Biology 1 names the causes of harvest wastage: incomplete and late harvesting, weather, pests, and poor storage — yams in barns are its storage picture. Then the preservation methods, each with its principle: heating, freezing, and salting and sugaring, which work by osmosis — drawing water out so spoilage organisms cannot live.
 
-[Picture — yams stacked in a traditional barn, beside preserved foods labelled with their principles: heated (sealed tin), frozen, salted fish, sugared preserve]
+In your mind's eye: yams stacked in a traditional barn, beside preserved foods labelled with their principles. Heated (sealed tin), frozen, salted fish, sugared preserve.
 
 ## The key facts
 **Why harvests are wasted.** The causes of wastage: incomplete harvesting, late harvesting, weather, pests, and poor storage — the harvest can be lost at every step after growing.

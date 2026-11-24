@@ -9,9 +9,9 @@ Pour **milk** into a shallow dish and let it settle. Put drops of **colour** on 
 
 The colours do not spread at once. They rest on the **surface film** of the milk — the skin-like top of the liquid — sitting where they were dropped, barely moving. The film is holding the surface together, and the colours sit on it.
 
-[Picture — a shallow dish of milk with drops of colour resting on its surface — the student points to the surface film the colours are sitting on]
+In your mind's eye: a shallow dish of milk with drops of colour resting on its surface. The student points to the surface film the colours are sitting on.
 
-[GIF — a touch of soap in the milk and the colours suddenly swirling and dancing — the student says what broke and what moved]
+In your mind's eye: a touch of soap in the milk and the colours suddenly swirling and dancing. Say what broke and what moved.
 
 ## Sub lesson 2 — Soap breaks the film
 

@@ -9,9 +9,9 @@ Some materials are **natural**: they are found in nature — wood, stone, the me
 
 **Plastics** are the book's first family: they are made mostly from **oil chemicals**, and they come in kinds matched to their uses — light and heat-resistant kinds for food packaging and dishes, hard kinds for furniture covers, flexible kinds for plastic bags and food film, and transparent kinds sometimes used instead of glass. One invented family, many jobs — because each kind is made with its job in mind.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Ceramics and alloys
 

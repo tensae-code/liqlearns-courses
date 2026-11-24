@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant and animal t
 ## The idea
 One cell can only do so much. Bodies are built when similar cells team up: a tissue. Unit 2 of Yemen's Grade 11 Biology and Earth Science book is the tissues unit, and it teaches the two kingdoms in one run — the animal tissues first: epithelial (printed p. 25), connective (p. 31), muscular (p. 39) and nervous (p. 42); then the plant tissues: permanent tissues (p. 45) and compound permanent (vascular) tissues (p. 49). Yemen's Grade 11 activities book turns the same unit into six microscope practicals — simple epithelial, compound epithelial, skeletal, muscle, meristematic and permanent tissues.
 
-[Picture — microscope views of the tissue kinds in a row: a flat epithelial sheet, connective tissue with long fibres, striped muscle tissue, a nerve cell with long fibres, and a cut plant stem showing vascular bundles]
+In your mind's eye: microscope views of the tissue kinds in a row. A flat epithelial sheet, connective tissue with long fibres, striped muscle tissue, a nerve cell with long fibres, and a cut plant stem showing vascular bundles.
 
 ## The key facts
 **What a tissue is.** A tissue is a group of similar cells, alike in build, doing one job together — the level of organisation between the cell and the organ.

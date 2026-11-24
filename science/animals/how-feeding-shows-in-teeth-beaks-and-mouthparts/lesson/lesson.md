@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — how feeding shows in teeth, b
 
 South Sudan's Primary 4 book reads an animal's feeding group off its **teeth**: grazers and browsers and ruminants by their grinding teeth — the guide's butcher's-head observation names the herbivore's **incisors, the toothless gap, molars and premolars** — and carnivores by their **canines and claws**. The teeth tell what the animal eats.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Birds' beaks tell their food
 

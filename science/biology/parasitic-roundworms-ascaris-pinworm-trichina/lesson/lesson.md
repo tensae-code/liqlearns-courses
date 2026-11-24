@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Parasitic roundwor
 ## The idea
 free-living roundworms as predators with grasping mouthparts; the phylum best known for species parasitic on their hosts (same proposed slug as in the Moldova filings)
 
-[Picture — a roundworm drawn with its smooth unsegmented body, beside a magnified view of a free-living roundworm's grasping mouthparts]
+In your mind's eye: a roundworm drawn with its smooth unsegmented body, beside a magnified view of a free-living roundworm's grasping mouthparts.
 
 ## The key facts
 **Free-living roundworms.** Kuwait's Grade 10 Term 2 student book (Unit 2, Lesson 2-1, printed pp. 36–37) opens the roundworms with their free-living members: predators with grasping mouthparts.

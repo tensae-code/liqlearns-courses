@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — obtaining substances in t
 
 Kazakhstan's books teach this as their own lesson — "How some substances are obtained in laboratory conditions". The learner works through the books' own presentation of how some substances are obtained in laboratory conditions — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how some substances are obtained in laboratory conditions as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how some substances are obtained in laboratory conditions as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Stomata — openin
 ## The idea
 A leaf exchanges gases with the air through tiny pores called stomata, and each pore is worked by two guard cells. This lesson teaches the mechanism itself — how water moving into and out of the guard cells by osmosis opens and closes the pore. No lesson in this course taught this on its own before, so this lesson is built for it — from South Sudan's Secondary 1 Biology book, which explains the opening and closing of stomata inside its water-relations section.
 
-[Picture — a stoma drawn twice — closed between two flaccid guard cells, and open between two swollen, turgid guard cells bulging outwards]
+In your mind's eye: a stoma drawn twice — closed between two flaccid guard cells, and open between two swollen, turgid guard cells bulging outwards.
 
-[GIF — guard cells swelling with water and bulging outwards so the pore between them opens, then losing water and shrinking so the pore closes]
+In your mind's eye: guard cells swelling with water and bulging outwards so the pore between them opens, then losing water and shrinking so the pore closes.
 
 ## The key facts
 **The stoma and its guard cells.** A stoma is a small pore in the leaf's surface. Two guard cells frame it, one on each side, and their shape decides whether the pore is open or shut.

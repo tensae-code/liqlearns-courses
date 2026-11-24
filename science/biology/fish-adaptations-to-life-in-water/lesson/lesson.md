@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Fish adaptations t
 ## The idea
 A fish's body shows how it is adapted to life in water: a streamlined shape for moving through water, fins for movement and balance, gills for taking oxygen from the water, a swim bladder for controlling depth, and the lateral line for sensing movement in the water around it. In Finland's materials this is the driving question of the whole fish lesson — “how does the fish's structure show it is adapted to water?” — posed BEFORE the dissection and answered after it.
 
-[Picture — a perch in side view, labelled with its adaptations to life in water — streamlined shape, fins, gills under the gill cover, swim bladder and the lateral line running along its side]
+In your mind's eye: a perch in side view, labelled with its adaptations to life in water — streamlined shape, fins, gills under the gill cover, swim bladder and the lateral line running along its side.
 
 ## The key facts
 **A streamlined shape.** A fish's smooth, tapered shape lets it move through water with little resistance — the first adaptation a pupil is asked to read off the fish's structure.

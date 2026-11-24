@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 When a soluble substance dissolves in a liquid, the result is a **solution**: one substance spread evenly through another, in pieces too small to see, so the whole liquid looks the same in every sip and every drop. Salt water and sweet tea are solutions — clear, even, and with nothing settling at the bottom.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The two names — solute and solvent
 

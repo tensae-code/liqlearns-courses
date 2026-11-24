@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — making a herbarium — a 
 
 The books teach this part as Making a herbarium by a five-step plan: gather in dry weather, take only a few leaves so the plant is not harmed, never pick Red Book plants, dry between clean paper, mount and label — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — making a herbarium — a pressed-plant collection as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: making a herbarium — a pressed-plant collection as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

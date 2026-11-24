@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — comparing plants and anim
 
 The books teach this part as 6: Venn-style comparison of plants and animals (appearance, feeding, growth, movement) and what animals need (water, air, light, heat, food); snow leopard (barys) fact box — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — comparing plants and animals as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: comparing plants and animals as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Plants and animals — how they are alike and different
 
 The books teach this part as both breathe, feed, grow, reproduce, develop; plants are still and grow all their life, animals move and grow for a set period; a puppy's growth series from 7 days to 3 years — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — plants and animals — how they are alike and different as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: plants and animals — how they are alike and different as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

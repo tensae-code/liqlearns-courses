@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — work and power in physics —
 
 Papua New Guinea's Standards Based Grade 8 guide opens its Work and Power lessons with the physics meaning of **work**: work is done when a force moves something through a distance — the relationship between **force, work and distance** is the lesson's core, and pushing without moving does no work in this sense, however tiring it feels.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Units of work — and calculating it
 

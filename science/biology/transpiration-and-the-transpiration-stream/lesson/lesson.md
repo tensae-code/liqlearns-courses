@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Transpiration and 
 ## The idea
 A plant standing in the sun is losing water all the time, and that loss does work. Samoa's Year 13 Learning Guide teaches transpiration as a key learning point of its plant unit (Unit 4, printed p. 35): transpiration and its roles — support, transport and cooling — with the factors that affect its rate investigated by the learner. No lesson in this course taught transpiration on its own before, so this lesson is built for it.
 
-[Picture — a leaf in sunlight with arrows showing water rising from the roots through the stem and water vapour leaving the leaf]
+In your mind's eye: a leaf in sunlight with arrows showing water rising from the roots through the stem and water vapour leaving the leaf.
 
 ## The key facts
 **Transpiration is water vapour leaving the plant.** Water evaporates from the plant — mainly from the leaves — into the air. That loss is transpiration.

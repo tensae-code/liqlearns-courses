@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — growing without soil — 
 
 alternative growing systems: hydroponics (roots in solid substrate fed by nutrient solutions in water), green roofs (organised on roofs, saving space and regulating temperature), hanging plants on walls, and vertical gardens (a green wall of diverse species)
 
-[Picture — alternative growing systems as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: alternative growing systems as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

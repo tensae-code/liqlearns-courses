@@ -7,9 +7,9 @@ A tsunami is crossing the ocean, hours from the coast. Nobody can see it from th
 
 Protection begins with **monitoring**: instruments and observers collect **data** on hazards continuously, so changes are caught as they start, not as they arrive (Grade 8, 8.4.5, printed p. 187). A hazard that is monitored is a hazard whose first signs are on record.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Prediction — from data to warning
 

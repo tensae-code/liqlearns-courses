@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 First word processing: opening Word, typing and saving a document, choosing fonts, cut, copy and paste, and building a table.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The guide's complete word-processing how-to
 

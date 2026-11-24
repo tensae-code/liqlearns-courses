@@ -9,9 +9,9 @@ An **adaptation** is a feature of a plant that fits it to the place where it liv
 
 The plant of each place is built differently, because each place asks a different question: in the desert, how to keep water; in the rain forest, how to reach light and shed water; in the swamp, how to live with roots in water.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — How adaptations assist survival
 
@@ -19,9 +19,9 @@ An adaptation is not decoration. It **assists survival**: a feature that helps t
 
 That is the syllabus's test for every example: name the place, name the feature, and say how the feature helps the plant survive there. A feature you cannot connect to survival in that place is not yet an adaptation you understand.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## The key ideas
 

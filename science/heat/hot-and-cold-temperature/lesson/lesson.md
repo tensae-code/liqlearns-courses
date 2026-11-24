@@ -7,19 +7,19 @@ Before you read: put one hand in the sun and one in the shade for a minute. Are 
 
 Iran's Grade 1 book opens the cold-and-hot world by asking where it is warmer, and sets a water-bottle figure in a freezer beside an ice figure and a snowman: cold and hot are not two boxes but a scale — a thing can be warmer than one thing and colder than another. Warmth has degrees, and the degrees can be compared.
 
-[Picture — hotter and colder — not everything is equally warm as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: hotter and colder — not everything is equally warm as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Feeling is not measuring
 
 When Sara tells her mother "I am very hot", her mother puts a hand on her forehead — Iran's Grade 4 book uses that moment to show the limit of touch: the sense of touch cannot say precisely which body is hotter than another. Feeling gives a rough answer; a number needs a thermometer (taught in its own lesson).
 
-[Picture — feeling is not measuring as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: feeling is not measuring as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — What a change of temperature does
 
 Change the temperature and the thing itself changes: ice figures melt as they warm, and water that freezes takes more room — Iran's Grade 5 book fills a plastic bottle with water and freezes it to show the force that, repeated in cracks, splits rocks apart over long years.
 
-[Picture — what a change of temperature does as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what a change of temperature does as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

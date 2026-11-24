@@ -9,9 +9,9 @@ Iraq's Grade 3 book teaches minerals — what a mineral is, its properties and i
 
 A mineral's properties and its uses decide the work around it: where minerals are got from, how they are judged by their properties, and how they are turned to their uses — each step is work, and the book files that work under jobs linked with science.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

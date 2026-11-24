@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — grouping plants by their part
 
 Papua New Guinea's Grade 3 textbook groups plants first by their **roots**: look at the root a plant has, and plants with the same kind of root go in one group. The root is underground, so the grouping starts by carefully looking at the whole plant, not only the part above the ground.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Grouping by stems
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Brain–computer i
 ## The idea
 A brain–computer interface reads the brain's signals and lets them control a machine directly — implanted arrays give stronger signals at the cost of surgery, while scalp EEG needs no surgery but reads weaker signals. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a person wearing an EEG cap whose brain signals travel as waves to a robotic arm lifting a cup, beside a second panel showing an implanted electrode array]
+In your mind's eye: a person wearing an EEG cap whose brain signals travel as waves to a robotic arm lifting a cup, beside a second panel showing an implanted electrode array.
 
 ## The key facts
 **Ch. 2 §5 feature "Brain–computer interfaces: tools that obey the mind".** implanted arrays (a rhesus monkey feeding itself with a robotic arm, 2017) against scalp EEG (weaker signals, no surgery), and China's entries: the 2014 "Shengong No. 1" brain-controlled rehabilitation robot, and its 2016 flight on Tiangong-2 for the first in-orbit brain–computer interaction experiment.

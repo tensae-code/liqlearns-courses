@@ -9,9 +9,9 @@ Iraq's Grade 6 book sets a reading on **modern technologies: the tools astronaut
 
 The book's frame is its own order: the reading stands among the book's later chapters, where energy and the wider world beyond Earth are taught — technology is read as part of the science, the instruments of the space age named for the people who use them.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

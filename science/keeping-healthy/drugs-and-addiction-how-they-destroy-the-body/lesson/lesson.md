@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — drugs and addiction — h
 
 drugs defined (natural or laboratory-made substances entering by mouth, inhalation, vein or skin, acting on the central nervous system) and classified legal vs illegal: legal — alcohol (ethanol from fermentation), tobacco (Nicotiana tabacum), glue (toluene), psychopharmaceuticals, coffee (caffeine); illegal — marijuana (Cannabis sativa), opium (Papaver somniferum, source of morphine and heroin), cocaine (Erythroxylon coca), ecstasy and crack.
 
-[Picture — drugs defined (natural or laboratory-made substances entering by mouth as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: drugs defined (natural or laboratory-made substances entering by mouth as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — The damage of each drug tabulated organ by organ (marijuana
 
 the damage of each drug tabulated organ by organ (marijuana: hallucinations, loss of time sense, damaged comprehension and memory; cocaine: raised blood pressure, damaged nose interior, lost appetite; opium: drowsiness then depression; glue: breathing difficulty, weakness, nausea)
 
-[Picture — the damage of each drug tabulated organ by organ (marijuana as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the damage of each drug tabulated organ by organ (marijuana as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — The addiction mechanism
 
 the addiction mechanism: psychoactive substances block or boost the brain's neurotransmitters, interfering with normal brain activity; dependence is biological and/or psychological, and the damage table is split physical (dilated pupils, lost motor coordination, deteriorated thought, death by overdose), psychological (dependence, addiction, hallucinations) and social (family problems, neglected studies, trouble with the law, rejection)
 
-[Picture — the addiction mechanism as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the addiction mechanism as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

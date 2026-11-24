@@ -9,9 +9,9 @@ Seeing works when the eye's lens focuses the image exactly on the **retina**. In
 
 Kuwait's Grade 9 book teaches the defects right after its Eye and Vision lesson, inside the physical-sciences unit but general in content: the eye is an optical instrument, and like any instrument it can be out of focus.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Lenses put the image back
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Effect of exercise
 ## The idea
 pulse counted at rest and after exercise and the change analysed
 
-[Picture — a pulse being counted at the wrist, beside a simple two-bar chart: heart rate at rest and heart rate after exercise]
+In your mind's eye: a pulse being counted at the wrist, beside a simple two-bar chart. Heart rate at rest and heart rate after exercise.
 
 ## The key facts
 **The measurement.** Kuwait's Grade 11 Term 2 applications workbook (Activity 10, printed p. 38) examines the effect of exercise on heart rate: the pulse is counted at rest and after exercise.

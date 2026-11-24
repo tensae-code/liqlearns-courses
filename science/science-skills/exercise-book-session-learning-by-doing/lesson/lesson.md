@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Bangladesh's Science Exercise Books are built differently from their Investigative Study companions: every unit is a set of sessions — things done, written and checked — not pages read. The book's own form is its first lesson, at printed p. 1.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Done, written, checked
 

@@ -7,9 +7,9 @@ Your heart works every minute of your life. What can go wrong with the circulati
 
 Sudan's book names the diseases that strike the circulation: **anaemia**, **narrowed arteries**, and **raised blood pressure**. Each is a fault in the blood, the vessels or the pressure the heart works against — the circulation the heart lesson teaches (the heart, the vessels and the double circulation) is the system these diseases strike.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The guard against them
 

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 severe weather, 2: the tornado, a spinning funnel less than 200 m across that rarely travels 10 km or lasts 15 minutes yet destroys like a giant vacuum cleaner; and the marine hurricane, which differs in lasting weeks, travelling thousands of kilometres and spanning up to 1000 km, born in low pressure over tropical oceans and dying over land — the chapter opens with the June 2007 cyclone Gonu that struck Oman from the Arabian Sea
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

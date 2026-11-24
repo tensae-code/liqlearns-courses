@@ -9,9 +9,9 @@ Two wet cloths are hung up on the same morning. By evening one is dry and the ot
 
 A puddle after rain does not need to boil to disappear: its water leaves from the surface as vapour and joins the air. That slow leaving is evaporation — the same step of the water cycle the cycle lesson (`our-environment/cycles-the-water-cycle`) names from the other side.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — What speeds evaporation up
 

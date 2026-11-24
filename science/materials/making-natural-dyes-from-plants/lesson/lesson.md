@@ -11,9 +11,9 @@ Not every plant, and not every part of a plant, gives a colour. So the unit's in
 
 A part that gives no colour is not a failed try. It is a finding, exactly like a part that does: the investigation is sorting the plant parts into colour-makers and non-colour-makers.
 
-[Picture — different plant parts laid out beside cups of water, some cups already coloured — the student points to the parts and the coloured water]
+In your mind's eye: different plant parts laid out beside cups of water, some cups already coloured. The student points to the parts and the coloured water.
 
-[GIF — a plant part being stirred in a cup of water, colour spreading from the part through the water — the student says where the colour came from and where it went]
+In your mind's eye: a plant part being stirred in a cup of water, colour spreading from the part through the water. Say where the colour came from and where it went.
 
 ## Sub lesson 2 — Colour dissolving in water
 

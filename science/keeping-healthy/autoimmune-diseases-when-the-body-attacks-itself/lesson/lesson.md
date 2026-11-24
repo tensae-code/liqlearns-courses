@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — autoimmune diseases — w
 
 autoimmunity: normally the immune system combats viruses, bacteria or any other infectious organism threatening health, but when a failure occurs the same system designed to protect the body can turn against it: when the immune system does not work adequately it cannot distinguish the body's own cells from foreign ones, and instead of fighting external antigens, the immune system's cells or the antibodies they produce can go against their own cells and tissues by error; the components involved in the offence are called autoreactive lymphocytes or autoantibodies (guide evidence)
 
-[Picture — autoimmunity as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: autoimmunity as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Examples named by the guide
 
 examples named by the guide: lupus, rheumatoid arthritis, myositis, coeliac disease (intolerance to gluten), dermatomyositis, type 1 diabetes and chronic thyroiditis; an autoimmune disease can occasion destruction of body tissue, abnormal growth of an organ and changes in the functioning of organs; the causes are still being investigated — probably several factors are implicated, including viruses and environmental factors, certain chemical compounds and some medicines, all able to damage or change the body's cells (guide evidence)
 
-[Picture — examples named by the guide as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: examples named by the guide as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — In many cases the first symptoms are fatigue, muscle
 
 in many cases the first symptoms are fatigue, muscle pains and fever, and the classic symptom of an autoimmune disease is inflammation, which can cause redness, heat, pain and swelling (guide evidence)
 
-[Picture — in many cases the first symptoms are fatigue, muscle as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: in many cases the first symptoms are fatigue, muscle as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Form 4 book teaches that **more than 30 countries use nuclear energy, mainly to generate electricity**, its benefits weighed against other sources. The energy is produced two ways: **nuclear fission** — a heavy nucleus bombarded and splitting into two smaller, more stable nuclei — and **nuclear fusion** — two light nuclei (deuterium and tritium) combining into a heavier nucleus, releasing energy.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Malaysia's reactor, the impacts, and the debate
 

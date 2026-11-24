@@ -7,9 +7,9 @@ Before you read: a bicycle or a motorcycle stops working and goes to the mechani
 
 The unit opens with the **names** of the mechanics tools. Rwanda's Primary 6 book names the mechanic's tools one by one, so each tool in the box can be recognised and asked for by name.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — What each mechanics tool is used for
 

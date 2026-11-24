@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Human population d
 ## The idea
 Human populations vary — in skin colour, blood groups, body build and a thousand inherited traits — but the variation runs within one single species and mostly inside every population, so biology finds no separate human races, only one variable kind. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a row of people from many regions with a gentle gradient of skin tones and a chart beneath showing most variation arrows inside each group rather than between groups]
+In your mind's eye: a row of people from many regions with a gentle gradient of skin tones and a chart beneath showing most variation arrows inside each group rather than between groups.
 
 ## The key facts
 **§3.4.7.** diversity in human populations: variation within one species, no separate races in the biological sense

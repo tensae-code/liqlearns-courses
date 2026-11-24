@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — nature's contributions 
 
 Nature's contributions to people (NCP): ecosystem functions that benefit humans, from photosynthesis giving oxygen to pollination and seed dispersal; about 40% of medicines from plants (WHO); contributions can also be negative.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The functions of the school green zone's ecosystem and what they do for the school
 

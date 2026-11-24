@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant somatic hybr
 ## The idea
 Plant somatic hybridisation fuses whole cells across species: walls removed by cellulase and pectinase, protoplasts fused by PEG, high-Ca²⁺/high-pH or an electric pulse, and the hybrid cell grown through callus into a plant — the tomato–potato that did neither job well told honestly among China's citrus successes. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — two wall-less plant cells of different colours merging into one cell with both colours inside, then a callus lump, then a small plant]
+In your mind's eye: two wall-less plant cells of different colours merging into one cell with both colours inside, then a callus lump, then a small plant.
 
 ## The key facts
 **Ch. 2 §1 Plant somatic hybridisation.** walls removed by cellulase and pectinase, protoplasts fused by PEG, high-Ca²⁺/high-pH or electric pulse, the hybrid cell grown through callus to a plant; the tomato–potato that disappointed (it did neither job well) told honestly; China's citrus somatic hybrids among the successes.

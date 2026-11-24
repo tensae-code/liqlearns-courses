@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Population charact
 ## The idea
 A population — living matter organised at its own level — is described by its characteristics, including its structure, and its sex structure is the ratio of females to males in it. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a population of animals in a field with its characteristics listed beside it — numbers, and the sex structure shown as a ratio of females to males]
+In your mind's eye: a population of animals in a field with its characteristics listed beside it — numbers, and the sex structure shown as a ratio of females to males.
 
 ## The key facts
 **4.2 Organisation of living matter: populations.** Moldova's Grade 12 book (4.2 Organisation of living matter: populations) teaches: life at successive levels; population characteristics numbered, including sex structure (ratio of females to males); primary consumers as phytophages feeding on plant tissues. (printed p. 130).

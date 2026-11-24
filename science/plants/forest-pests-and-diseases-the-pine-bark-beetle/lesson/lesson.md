@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — forest pests and diseases
 
 the pine bark beetle (gorgojo descortezador) has always existed in the pine forests, controlling pine populations like any organism in an ecosystem; the problem comes when climate conditions and forest fires boost its populations, attacking trees already weakened by fire or age; the ICF's functions: prevent, watch for, locate and combat fires, plagues and diseases (guide evidence)
 
-[Picture — the pine bark beetle (gorgojo descortezador) has always existed as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the pine bark beetle (gorgojo descortezador) has always existed as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

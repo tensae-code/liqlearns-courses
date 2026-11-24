@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 A plant takes water in at its **roots**, and that water must reach every leaf. It travels **upward through the stem** in the plant's own conducting paths: **transportation** is this inside movement, and without it the top of a tall plant would dry while its roots stood in water.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Transportation of food in plants
 

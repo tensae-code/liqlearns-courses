@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — cholesterol and blood lip
 
 cholesterol is made in the liver and is used to produce hormones, vitamin D and bile acids, but in excess it deposits in the arteries, obstructing blood flow — the guide calls it an enemy of the arteries and the heart (guide evidence)
 
-[Picture — cholesterol is made in the liver and is used as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: cholesterol is made in the liver and is used as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — homeostasis — the body's ke
 
 Eritrea's Grade 8 book closes its Human Systems unit with **homeostasis** (printed p. 34), after the digestive, respiratory, circulatory, reproductive and skeletal systems have each been taught. The word names the unit's closing idea: the body's inside is a place whose conditions — its temperature, its water, the things dissolved in its blood — must be held **steady**, inside narrow limits, while the world outside swings hot and cold, wet and dry. A system can do its own job and still fail the body if the inside it works in is allowed to drift.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Correcting a change — the body answers back
 

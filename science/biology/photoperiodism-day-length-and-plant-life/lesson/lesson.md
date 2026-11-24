@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Photoperiodism —
 ## The idea
 Plants measure the length of the day and the night — photoperiodism — and use it to time flowering and other seasonal steps, so a plant's calendar is set by light. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — one plant drawn twice: under long summer days flowering, under short winter days in leaves only, with a sun-and-moon day-length dial above each]
+In your mind's eye: one plant drawn twice. Under long summer days flowering, under short winter days in leaves only, with a sun-and-moon day-length dial above each.
 
 ## The key facts
 **§35 Photoperiodism in plants.** day-length responses given their own § (not in the NIS book)

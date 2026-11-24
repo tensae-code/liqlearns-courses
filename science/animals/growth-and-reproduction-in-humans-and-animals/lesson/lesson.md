@@ -9,9 +9,9 @@ Living things do not stay as they start. Iraq's Grade 1 book teaches that **huma
 
 And the new life is not random: **offspring resemble their parents**. The young of a kind look like the grown ones of that kind — that likeness is how we know whose offspring they are. The Grade 1 activity book works the same ground with the hands: observing growth and **ordering growth stages** — the change has an order, stage after stage.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Birth and eggs — two ways animals reproduce
 

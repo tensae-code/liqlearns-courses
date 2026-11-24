@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cytoskeleton, cili
 ## The idea
 A cell is not a still bag of parts. Italy's Grade 9 textbook, *La nuova biologia.blu PLUS — Le cellule e i viventi*, gives movement its own named lesson inside the chapter “Observing the cell”: A4.7 (printed p. A80) — cells move, and the structures that move them are the cytoskeleton, the cilia and the flagella. The organelles have been met; this lesson adds the cell's skeleton and its oars. No lesson in this course taught the cytoskeleton and cell movement on their own before, so this lesson is built for it.
 
-[Picture — one cell cut open to show the fibre framework of the cytoskeleton inside it, beside a second cell covered in short beating cilia and a third cell with one long whip-like flagellum]
+In your mind's eye: one cell cut open to show the fibre framework of the cytoskeleton inside it, beside a second cell covered in short beating cilia and a third cell with one long whip-like flagellum.
 
 ## The key facts
 **The cytoskeleton is the cell's inner framework.** A network of fibres runs through the cell's interior. It holds the cell's shape from inside, anchors the organelles, and serves as the tracks along which materials are moved within the cell — the skeleton the cell carries inside itself.

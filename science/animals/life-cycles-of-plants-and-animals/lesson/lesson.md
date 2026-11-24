@@ -21,9 +21,9 @@ The young animal that comes from the egg — the **larva** — does not look lik
 
 The **grasshopper** is the set's own special case: the book prints its stages as **egg, pupa, larva, grasshopper** — in that printed order. It is carried here exactly as the book prints it.
 
-[Picture — the butterfly's four stages in a row — egg on a leaf, larva, pupa, butterfly — the student points to each stage and names it before reading on]
+In your mind's eye: the butterfly's four stages in a row — egg on a leaf, larva, pupa, butterfly. The student points to each stage and names it before reading on.
 
-[GIF — a pupa opening and a butterfly coming out — the student says which stage ended and which stage began]
+In your mind's eye: a pupa opening and a butterfly coming out. Say which stage ended and which stage began.
 
 ## Sub lesson 2 — The simpler cycles — no pupa
 

@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Syria's Grade 6 book opens with a question from the farm: the farmer's cart is loaded and moving — who does the moving, the farmer or the horse? The lesson's title plays on the everyday word: "I am sincere in my 'work'" — and asks what work means when science uses the word.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Work — a force that moves a thing
 

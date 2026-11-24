@@ -9,9 +9,9 @@ The first way is **camouflage**: colours that match the surroundings, so the ani
 
 Bulgaria's book's examples: the **mantis**, green in the green growth, hidden where it sits; and the **squirrel**, whose **coat changes with the season**, matching the year's colours as they change. The hiding animal's rule: match the place, match the season, and be passed over.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Warning colours — the wasp and the salamander
 
@@ -19,9 +19,9 @@ The second way is the opposite: **warning colours** — bright, striking pattern
 
 The book's examples: the **wasp's warning stripes** and the **salamander's signal spots**. These animals are not hiding; they are signalling — the bright pattern warns hunters away, and a hunter that has learned the signal once leaves the pattern alone. Hiding and advertising are both **protective colouring**: one protects by not being seen, the other by being seen and remembered.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

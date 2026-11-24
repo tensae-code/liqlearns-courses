@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — habitats — where living thi
 
 A **habitat** is a place where living things are found — the place that gives a plant or an animal what it needs. South Sudan's Primary 2 book gives the definition in its own words: a habitat is a place where plants are found, and the Primary 1 book starts the same idea by grouping plants by where they grow.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Plants grouped by where they grow
 

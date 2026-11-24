@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Arid lands and des
 ## The idea
 Chapter 14 of Nigeria's Senior Secondary Biology 1 closes its habitats with the hardest: the arid lands. Arid means dry — rainfall too little and too unreliable for ordinary life. The lesson is the fit between land and life: how arid-land plants are fitted to the dryness — reducing water loss, storing or reaching for water — and how arid-land animals endure: their water economy and their behaviour in heat and drought. In Nigeria the arid lands are not an abstraction; they are the country's dry north, continuous with the Sahel.
 
-[Picture — an arid-land scene: a camel under a thorny acacia, a succulent plant with swollen water-storing stems, cracked dry ground and a distant dune]
+In your mind's eye: an arid-land scene. A camel under a thorny acacia, a succulent plant with swollen water-storing stems, cracked dry ground and a distant dune.
 
 ## The key facts
 **Lands of little water.** Arid lands are defined by scarcity: very low, unreliable rainfall — the condition every adaptation in this lesson answers.

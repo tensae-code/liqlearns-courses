@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Methods of human g
 ## The idea
 Human genetics cannot make breeding experiments on people, so it reads heredity by its own methods — the genealogical method of pedigree charts, the twin method comparing identical and fraternal twins, and population methods — to find how traits and diseases are inherited. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a pedigree chart of squares and circles over three generations beside a pair of identical twins and a pair of fraternal twins, each pair with its comparison label]
+In your mind's eye: a pedigree chart of squares and circles over three generations beside a pair of identical twins and a pair of fraternal twins, each pair with its comparison label.
 
 ## The key facts
 **§41 Human genetics and its research methods.** §41 Human genetics and its research methods

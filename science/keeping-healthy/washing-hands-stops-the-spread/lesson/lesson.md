@@ -9,9 +9,9 @@ Microbes reach our body on **dirty hands** — that is the true route the ficha 
 
 **Washing hands** breaks that route. Cleanliness — **aseo** in the ficha's Spanish — removes what the hands are carrying before the hands reach the mouth, the food, or another person. The spread is stopped at the hands, before the disease starts.
 
-[Picture — a child washing hands with soap, beside a second drawing of dirty hands reaching for food — the student points to which drawing shows the route broken]
+In your mind's eye: a child washing hands with soap, beside a second drawing of dirty hands reaching for food. The student points to which drawing shows the route broken.
 
-[GIF — hands being washed — wet, soap, scrub, rinse — the student says what was removed and where it can no longer travel]
+In your mind's eye: hands being washed — wet, soap, scrub, rinse. Say what was removed and where it can no longer travel.
 
 ## Sub lesson 2 — Good food, and explaining it from the drawings
 

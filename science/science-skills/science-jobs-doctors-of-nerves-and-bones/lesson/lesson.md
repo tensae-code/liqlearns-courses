@@ -9,9 +9,9 @@ Iraq's Grade 6 book teaches the body's systems — the nervous system, the skele
 
 Each system has its own doctor. The doctor of the nerves answers for the nervous system; the doctor of the bones answers for the skeleton. The reading's point is the match: the body is studied system by system, and its doctors specialise the same way.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

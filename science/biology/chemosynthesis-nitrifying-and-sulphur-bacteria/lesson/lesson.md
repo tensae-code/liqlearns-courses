@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Chemosynthesis —
 ## The idea
 Green plants make food with light. Nigeria's Senior Secondary Biology 1, in Chapter 4, sets beside them a second kind of autotroph: the chemosynthetic bacteria. They have no light to use, so they take energy from chemical reactions instead — oxidising ammonium compounds, nitrites or sulphur compounds — and use that energy to build food. Food-making without light is chemosynthesis.
 
-[Picture — soil bacteria around a root, with arrows showing ammonium compounds turning to nitrites and nitrites to nitrates, releasing the energy the bacteria live on]
+In your mind's eye: soil bacteria around a root, with arrows showing ammonium compounds turning to nitrites and nitrites to nitrates, releasing the energy the bacteria live on.
 
 ## The key facts
 **Food-making without light.** Chemosynthesis is autotrophic nutrition powered by chemical energy instead of light: the organism oxidises a chemical substance and uses the energy released to build food.

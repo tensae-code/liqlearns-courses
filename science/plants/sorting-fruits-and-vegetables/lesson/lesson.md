@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The activity begins with real things on the table: **fruits** and **vegetables** the children know from home and market. Cambodia's kindergarten core book puts classifying them in its science activity bank (activity 2.7) — the youngest learners' science starts with the things they can hold, name and compare.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sorting — the classifying act
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Measuring growth o
 ## The idea
 Plant growth is a process you can measure — elongation growth at the shoot and root tips and thickening growth of the stem — followed with marks, rulers and graphs over days and weeks. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a seedling marked with ink bands along its stem beside a ruler, a second drawing of the same plant taller a week later, and a rising growth graph pinned beside them]
+In your mind's eye: a seedling marked with ink bands along its stem beside a ruler, a second drawing of the same plant taller a week later, and a rising growth graph pinned beside them.
 
 ## The key facts
 **§59 Growth of plants.** plant growth as a measurable process

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 air pressure falls as we rise; heated air expands, thins and rises leaving low pressure, cooled air contracts and sinks making high pressure; humidity is the amount of water vapour in the air (warm air holds more), and the dew point is the temperature at which the air becomes saturated and condensation begins — with the chart showing vapour capacity roughly doubling every 10 °C
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Traditional healin
 ## The idea
 Every people has its own way of healing, and Samoa's Year 12 biology book teaches Samoa's way as biology, in a full section of its first unit (Unit 1: Use of Plants as Medicines, printed pp. 47–57). It sits in the same unit as micro-organisms, diseases, antiseptics, antibiotics and vaccination: Samoa teaches its traditional plant medicine and the clinic's medicine side by side, and this lesson teaches Samoa's way as it stands.
 
-[Picture — a Samoan medicinal garden — labelled plants including Matalafi and Moso'i beside a taulasea preparing a plant medicine]
+In your mind's eye: a Samoan medicinal garden — labelled plants including Matalafi and Moso'i beside a taulasea preparing a plant medicine.
 
 ## The key facts
 **Health is balance.** In Samoa's teaching, health is a balance between natural, social and supernatural elements of life. Sickness is a break in that balance, and healing is the work of restoring it — which is why Samoan healing treats more than the germ or the sore place alone.

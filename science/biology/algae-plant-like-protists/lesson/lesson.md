@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Algae — plant-li
 ## The idea
 Afghanistan's Grade 8 Biology book gives algae their own section, set between the protista and the fungi. This lesson teaches algae on their own: what makes a protist plant-like, the range from single cells to great seaweeds, and why algae matter to every food chain in water.
 
-[Picture — a picture of four algae side by side — a single Chlamydomonas cell with its flagella, a green Spirogyra filament, a diatom in its glassy shell, and a brown kelp with holdfast and blades — each labelled]
+In your mind's eye: four algae side by side — a single Chlamydomonas cell with its flagella, a green Spirogyra filament, a diatom in its glassy shell, and a brown kelp with holdfast and blades. Each labelled.
 
-[GIF — sunlight striking a pond's green water, the algae inside photosynthesise and bubbles of oxygen rise, and a small water animal grazes on the algae — the student says where the oxygen comes from and who eats first]
+In your mind's eye: sunlight striking a pond's green water, the algae inside photosynthesise and bubbles of oxygen rise, and a small water animal grazes on the algae. Say where the oxygen comes from and who eats first.
 
 ## The key facts
 **Plant-like protists.** Algae sit inside the protista because most are simple and many are single-celled, but they feed the plant way: their cells contain chlorophyll, so they make their own food by photosynthesis and release oxygen.

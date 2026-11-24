@@ -9,9 +9,9 @@ A **cloud forest** is the forest of the **mountaintops** — the high ground tha
 
 That height changes the ground itself: the soil up there is **thin** — there is little depth of earth over the mountain rock.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — Small trees, and mosses and ferns over everything
 

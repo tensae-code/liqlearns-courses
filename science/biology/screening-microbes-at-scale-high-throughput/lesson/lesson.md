@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Screening microbes
 ## The idea
 High-throughput screening searches the microbial kingdom at scale: thousands of mutagenised strains cultured in microplates and micro-bioreactors under automated handling and computer analysis — how industry searches a kingdom of which under 1% can yet be cultured. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a grid plate of hundreds of tiny wells in rows, a robot arm above it and a screen showing one well picked out in green]
+In your mind's eye: a grid plate of hundreds of tiny wells in rows, a robot arm above it and a screen showing one well picked out in green.
 
 ## The key facts
 **Ch. 1 §2 feature "High-throughput screening of microbial strains".** thousands of mutagenised strains cultured in microplates and micro-bioreactors under automated handling and computer analysis; China has built such screening models for microbial drugs and found candidate compounds: how industry searches a microbial kingdom of which under 1% can yet be cultured.

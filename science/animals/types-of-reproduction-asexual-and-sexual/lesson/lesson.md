@@ -9,9 +9,9 @@ In **asexual reproduction**, a single parent produces offspring without any join
 
 Kuwait's Grade 6 book teaches the two types as a pair with one test question for any example: how many parents? One parent, copies — asexual. The copies are fast and many, and every one fits the parent's home exactly as the parent did.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Sexual reproduction — two parents
 

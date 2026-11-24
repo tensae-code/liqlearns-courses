@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — First aid basics. 
 ## The idea
 Fiji's Year 11 Biology book closes its Social Biology chapter — human reproduction, family planning, personal health, disease and the immune system — with first aid: the biology learner is taught to be the first help when something goes wrong, before any doctor or nurse can arrive.
 
-[Picture — a picture of a first-aid scene in order — a helper kneeling by a hurt person, one hand pressing a cloth on a bleeding arm, the person lying still and covered warm, and a second person running for help — each step numbered]
+In your mind's eye: a first-aid scene in order — a helper kneeling by a hurt person, one hand pressing a cloth on a bleeding arm, the person lying still and covered warm, and a second person running for help. Each step numbered.
 
-[GIF — the first minutes in steps — the helper checks the scene is safe, checks the person answers and breathes, presses on the bleeding, covers the person warm and sends for help — the student says each step as it is done]
+In your mind's eye: the first minutes in steps — the helper checks the scene is safe, checks the person answers and breathes, presses on the bleeding, covers the person warm and sends for help. Say each step as it is done.
 
 ## The key facts
 **First help, given at once.** First aid is the help given first, on the spot, to a person who is injured or suddenly ill. Its work is to keep the person alive and stop the harm growing worse until medical help takes over — it does not replace the doctor; it bridges the time before the doctor.

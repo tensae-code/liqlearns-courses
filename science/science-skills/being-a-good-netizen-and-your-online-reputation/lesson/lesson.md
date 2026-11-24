@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Netizenship (guide evidence): a netizen is a person who actively uses the internet, and netizenship is the set of good practices for using it legally, safely, ethically and responsibly — polite language, respect for all, no posting another person's messages, photos or videos without consent, no character assassination, no unauthorised use of others' intellectual property; the world joined by phone, internet and social media named a global village.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Online reputation and how it is managed (guide evidence)
 

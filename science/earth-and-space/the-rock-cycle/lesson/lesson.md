@@ -7,9 +7,9 @@ A grain of sand on a beach was once part of a mountain. A hard black lava stone 
 
 Every rock belongs to one of three families, told by how it formed: **igneous** rock, born when melted rock cools and hardens; **sedimentary** rock, built from settled layers of material pressed together; **metamorphic** rock, an older rock remade by heat and pressure without melting (Grade 7, 7.2.1, printed p. 49). The families are the cycle's stations — the states rock matter can be in.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The cycle — energy flow and matter cycling
 

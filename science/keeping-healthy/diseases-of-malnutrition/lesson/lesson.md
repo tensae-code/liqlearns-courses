@@ -9,9 +9,9 @@ Mauritania's Grade 6 *Sciences Naturelles* book opens with **malnutrition**: the
 
 Malnutrition is not one missed meal. Like the harmful habits of the younger book, it is a pattern — a continuing failure of food — and its diseases grow out of that pattern.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Deficiency diseases — what is missing, named
 

@@ -9,9 +9,9 @@ Iraq's Grade 3 book names the skill **inferring**: using relations — how thing
 
 That is what makes a conclusion different from an opinion. An opinion can start anywhere; a conclusion must be reached from what is in front of you.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Analysing data and drawing conclusions
 

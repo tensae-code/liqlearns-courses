@@ -9,9 +9,9 @@ The air holds water as an invisible gas — water vapour. Cool that air and the 
 
 China's Grade 6 book teaches the pair together because they are the same thing in two places: fog is a cloud that forms where we stand. Both are the water cycle at work in the air itself — evaporation's water, returned to liquid by cooling.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Dew and frost
 

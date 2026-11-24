@@ -11,9 +11,9 @@ The tree's parts fit that home. Its **roots** spread through the mud and hold th
 
 That is the mangrove's trick, and the lesson keeps it whole: one tree, joined together — roots in salty mud below, green crown in the air above.
 
-[Picture — a mangrove tree at the coast, roots in the mud at low tide and branches and leaves above the water — the student names each part before reading on]
+In your mind's eye: a mangrove tree at the coast, roots in the mud at low tide and branches and leaves above the water. Name each part before reading on.
 
-[GIF — the tide coming in around a mangrove's roots, then going out again — the student says what changes for the tree and what stays the same]
+In your mind's eye: the tide coming in around a mangrove's roots, then going out again. Say what changes for the tree and what stays the same.
 
 ## Sub lesson 2 — Food, markets and the animals of the mangroves
 

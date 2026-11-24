@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — what a vacuum is — as place
 
 South Sudan's Primary 8 book teaches the **vacuum** as its own topic: a vacuum is **a space with no matter in it** — the guide's answers add the consequence: no life can be there, because there is nothing there to live on or breathe.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The vacuum at work — keeping heat in
 

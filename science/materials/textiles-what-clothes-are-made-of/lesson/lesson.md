@@ -7,9 +7,9 @@ Pick up the shirt or dress you are wearing. What is it made of? Where did that m
 
 Angola's Grade 1 book names the **textile materials** (Os materiais têxteis): the materials cloth is made from, before any cutting or sewing. Every piece of clothing begins as a material — fibres worked into thread, thread woven or knitted into cloth, cloth cut and sewn into clothes. The material is the first thing: it decides whether the cloth is soft or rough, warm or cool, strong or quick to tear.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Kinds of clothing and their fabrics
 

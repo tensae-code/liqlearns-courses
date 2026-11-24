@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Skeletons — hydr
 ## The idea
 Animals hold themselves up three ways: Kenya's Form 4 book compares the skeleton types — the hydrostatic skeleton of fluid under pressure, the exoskeleton of chitin outside the body (jointed, and shed in moulting/ecdysis), and the endoskeleton of living bone and cartilage inside — with a grasshopper, crab and millipede examination practical.
 
-[Picture — three animals in a row, each with its skeleton drawn showing through — a worm as a fluid-filled tube, its liquid drawn pressed tight in segments — a grasshopper in its chitin armour, the plates and joints picked out and a shed empty skin beside it — and a rabbit with its white bone skeleton drawn inside the body, the bones shaded as living tissue]
+In your mind's eye: three animals in a row, each with its skeleton drawn showing through — a worm as a fluid-filled tube, its liquid drawn pressed tight in segments — a grasshopper in its chitin armour, the plates and joints picked out and a shed empty skin beside it. And a rabbit with its white bone skeleton drawn inside the body, the bones shaded as living tissue.
 
 ## The key facts
 **The hydrostatic skeleton.** Support from fluid under pressure inside the body: the fluid resists compression, muscles squeeze against it, and the animal holds its shape and moves — a skeleton made of water.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Heart dissection �
 ## The idea
 a mammalian heart dissected following pictured steps; chambers and valves identified on a numbered diagram (parts 1–14) and the wall thicknesses compared
 
-[Picture — a mammalian heart cut open with its chambers and valves numbered 1 to 14 on a diagram beside it, the thick wall of the left ventricle visibly thicker than the right]
+In your mind's eye: a mammalian heart cut open with its chambers and valves numbered 1 to 14 on a diagram beside it, the thick wall of the left ventricle visibly thicker than the right.
 
 ## The key facts
 **The dissection.** Kuwait's Grade 11 Term 2 applications workbook (Activity 11, printed p. 40) dissects a mammalian heart following pictured steps.

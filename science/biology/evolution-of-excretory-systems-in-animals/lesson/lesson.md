@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Evolution of excre
 ## The idea
 Excretory systems evolve along the animal line — from contractile vacuoles and worm tubules to the vertebrate kidney — while the waste itself changes with habitat: ammonia where water is plentiful, urea, and uric acid where water must be saved. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a row of animals in evolutionary order — a single-celled organism, a flatworm, an earthworm, a fish and a bird — each with its excretory structure drawn enlarged and its waste labelled ammonia, urea or uric acid]
+In your mind's eye: a row of animals in evolutionary order — a single-celled organism, a flatworm, an earthworm, a fish and a bird. Each with its excretory structure drawn enlarged and its waste labelled ammonia, urea or uric acid.
 
 ## The key facts
 **§31 Evolution of the excretory system of animals.** excretory structures compared along the animal evolutionary line

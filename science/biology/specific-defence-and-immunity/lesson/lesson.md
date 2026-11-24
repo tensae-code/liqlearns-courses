@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Specific defence a
 ## The idea
 Specific defence is immunity proper: the body recognises an antigen as foreign and answers with antibodies and dedicated cells — active immunity made by the body itself, lasting with memory, and passive immunity borrowed ready-made, as from mother to baby. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a Y-shaped antibody locking onto a spiky antigen like a key in a lock, beside two shields labelled 'made by your body — lasts' and 'borrowed — brief']
+In your mind's eye: a Y-shaped antibody locking onto a spiky antigen like a key in a lock, beside two shields labelled 'made by your body — lasts' and 'borrowed. Brief'.
 
 ## The key facts
 **§1.3.2.** specific defence mechanisms — immunity: antigens, antibodies, active/passive immunity

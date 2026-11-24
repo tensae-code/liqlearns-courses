@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Flatworms — plan
 ## The idea
 Mozambique's animal module gives the flatworms, phylum Platyhelminthes, two lessons: the phylum's plan first, then its famous members. The planarian shows the free-living anatomy. The tapeworm's cycle is worked through to the human definitive host. And the liver fluke Fasciola is followed through sheep and snail hosts, with its symptoms and the prophylaxis — the everyday hygiene that breaks the cycle. This lesson teaches that whole package, as the module teaches it.
 
-[Picture — a flat planarian drawn from above with its flat oval body, beside two life-cycle circles: the tapeworm cycle ending in a human, and the liver fluke cycle turning between a sheep, water and a snail]
+In your mind's eye: a flat planarian drawn from above with its flat oval body, beside two life-cycle circles. The tapeworm cycle ending in a human, and the liver fluke cycle turning between a sheep, water and a snail.
 
 ## The key facts
 **The flatworm plan.** Flatworms are dorsoventrally flattened — pressed flat from back to belly — bilateral and acoelomate (no body cavity), with three germ layers. The gut has a single opening, and the worms are hermaphrodites: both sexes in one body.

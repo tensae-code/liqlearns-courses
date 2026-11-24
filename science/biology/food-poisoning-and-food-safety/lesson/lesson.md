@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Food poisoning and
 ## The idea
 Food can carry harm as well as nourishment. Vietnam's Grade 11 study topics close their food hygiene and safety topic with a lesson on food poisoning itself (Topic 3, Bài 10, printed p. 45). The lesson starts from the law — food poisoning as defined by Vietnam's 2010 Food Safety Law — sorts the causes into four groups, and names the agents one by one: bacteria and the toxins they leave in food, viruses carried by food, and parasites, among them the small liver fluke that reaches humans through raw fish salad (gỏi cá). No lesson in this course took food poisoning as its one thing before, so this lesson is built for it.
 
-[Picture — a market meal under a magnifying lens: a plate of raw fish salad with three labelled callouts — a bacterium with the toxin it leaves in food, a virus particle, and a small liver fluke — each with an arrow to the dish it can arrive in]
+In your mind's eye: a market meal under a magnifying lens: a plate of raw fish salad with three labelled callouts — a bacterium with the toxin it leaves in food, a virus particle, and a small liver fluke. Each with an arrow to the dish it can arrive in.
 
 ## The key facts
 **Defined by law.** Vietnam teaches food poisoning from its legal definition: the 2010 Food Safety Law is the lesson's starting point, and the causes are sorted into four groups.

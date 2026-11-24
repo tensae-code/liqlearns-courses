@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — water in three states —
 
 Water's three aggregate states — liquid, ice, vapour — with a burner experiment melting ice toward steam, and the named changes (melting, evaporation, cooling back), plus twin ice cubes proving melting speeds up with warmth Water's aggregate states — solid, liquid and gas — watched in a heated test tube and in a bottle of water left in the freezer: frozen to ice, melted back to liquid, heated away to vapour until the vessel is empty; in nature water is also met as snow, ice, hail, steam and cloud
 
-[Picture — water in three states — melting and evaporating as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: water in three states — melting and evaporating as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — The wonderful transformations of water
 
 Kazakhstan's books teach this as their own lesson — "The wonderful transformations of water". The learner works through the books' own presentation of the wonderful transformations of water — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the wonderful transformations of water as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the wonderful transformations of water as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How water can change
 
 Kazakhstan's books teach this as their own lesson — "How water can change". The learner works through the books' own presentation of how water can change — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how water can change as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how water can change as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

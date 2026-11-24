@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Specialised cells 
 ## The idea
 Most cells in a plant or an animal are not general-purpose. Each kind is specialised: built, by its shape and its parts, for one particular job. This lesson teaches specialisation itself — how specialised cells are recognised, how two of them are told apart, and why dividing work among them helps the whole organism. No lesson in this course taught this on its own before, so this lesson is built for it — from South Sudan's Secondary 1 Biology book, which teaches specialised cells inside its Cell unit.
 
-[Picture — two cells side by side as seen under a microscope — a flat cheek cell and a ciliated cell with a fringe of cilia and a layer of mucus above it]
+In your mind's eye: two cells side by side as seen under a microscope — a flat cheek cell and a ciliated cell with a fringe of cilia and a layer of mucus above it.
 
-[GIF — cilia beating in waves, sweeping a layer of mucus along the wall of the trachea]
+In your mind's eye: cilia beating in waves, sweeping a layer of mucus along the wall of the trachea.
 
 ## The key facts
 **Fitted to one job.** A specialised cell's shape and parts suit the single job it does. It is not a general-purpose cell that does a bit of everything.

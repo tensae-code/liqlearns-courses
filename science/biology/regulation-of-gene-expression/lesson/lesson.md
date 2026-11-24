@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Regulation of gene
 ## The idea
 Every cell of a body carries the same genes, yet a muscle cell and a nerve cell are nothing alike. The difference is regulation: which genes each cell expresses. Italy's Grade 11 Campbell, *Biologia: concetti e collegamenti, Secondo biennio*, gives that control its own whole unit — Unità 2, Regulation of gene expression (PDF p. 46) — straight after the molecular biology of the gene. No lesson in this course taught gene regulation on its own before, so this lesson is built for it.
 
-[Picture — one genome drawn as a long control board of gene switches — in one cell only the “muscle” switches are on, in another only the “nerve” switches, though the board itself is identical]
+In your mind's eye: one genome drawn as a long control board of gene switches — in one cell only the “muscle” switches are on, in another only the “nerve” switches, though the board itself is identical.
 
 ## The key facts
 **Gene expression is a gene in use.** A gene is expressed when the cell reads it and makes its product — the RNA and protein the gene specifies. A gene that is not being read is present but silent.

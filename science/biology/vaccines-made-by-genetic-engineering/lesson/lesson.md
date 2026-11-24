@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Vaccines made by g
 ## The idea
 Genetic engineering makes vaccines by moving a pathogen's antigen gene into a safe microbe, which then manufactures the antigen in bulk — the body learns the invader from that one part, without ever meeting the disease itself. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a yeast cell drawn producing many copies of one spiky antigen piece, the pieces travelling to a syringe labelled vaccine, with a shield forming in the body beyond]
+In your mind's eye: a yeast cell drawn producing many copies of one spiky antigen piece, the pieces travelling to a syringe labelled vaccine, with a shield forming in the body beyond.
 
 ## The key facts
 **Ch. 8.** vaccines (p. 125) and antibiotics (p. 126) in the medicine chapter

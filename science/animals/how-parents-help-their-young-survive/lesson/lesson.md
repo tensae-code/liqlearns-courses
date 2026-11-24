@@ -7,9 +7,9 @@ A chick in a nest opens its beak and chirps, loudly, again and again. A baby cri
 
 The young speak first, in the only way they can: **offspring signals** — a baby's **crying**, a chick's **chirping** (Grade 1, 1.2.4, printed p. 93). The signal is not noise; it is the young's survival tool, announcing a need — hunger, cold, danger — to the one who can meet it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Parent responses — feeding, comforting, protecting
 

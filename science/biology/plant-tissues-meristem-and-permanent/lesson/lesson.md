@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant tissues — 
 ## The idea
 Plant anatomy begins with its tissues — plant histology. North Macedonia's Biology II opens its plant histology and morphology theme with the two great tissue kinds: meristematic tissue and permanent tissues (Themes 3.1–3.2, printed pp. 180–184). No lesson in this course covered the plant tissue kinds as a set before, so this lesson is built for it.
 
-[Picture — a shoot tip and a root tip marked as the dividing zones, with arrows showing meristem cells becoming the finished tissues of stem and root behind them — dividing tissue in front, permanent tissue behind]
+In your mind's eye: a shoot tip and a root tip marked as the dividing zones, with arrows showing meristem cells becoming the finished tissues of stem and root behind them — dividing tissue in front, permanent tissue behind.
 
 ## The key facts
 **Histology starts with one question.** Plant histology is the study of plant tissues. The first sorting is by division: cells that still divide, and cells that have stopped. Everything else about plant tissues hangs on that one difference.

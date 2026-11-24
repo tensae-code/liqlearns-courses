@@ -9,9 +9,9 @@ The Dominican Republic shares one island — **Hispaniola** — and the Grade 5 
 
 A mountain system is more than one mountain: it is a whole family of peaks, ridges and valleys formed together and standing together. Naming the island's systems is the book's way of giving the learner a map of their own ground — where the high land runs, and how the island is put together.
 
-[Picture — the island of Hispaniola drawn with its mountain systems as long joined ridges across it — the student traces one whole system before reading on]
+In your mind's eye: the island of Hispaniola drawn with its mountain systems as long joined ridges across it. The student traces one whole system before reading on.
 
-[GIF — a flat surface slowly pushed up into a long mountain ridge — the student says what changed and what a whole system is]
+In your mind's eye: a flat surface slowly pushed up into a long mountain ridge. Say what changed and what a whole system is.
 
 ## Sub lesson 2 — Reading the island's landforms
 

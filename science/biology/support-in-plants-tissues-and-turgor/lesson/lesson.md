@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Support in plants 
 ## The idea
 A plant stands up with water pressure and built-in girders: Kenya's Form 4 book opens its support chapter with the arrangement of tissues in stems — parenchyma and turgor, collenchyma, sclerenchyma fibres, xylem vessels and tracheids — herbaceous against woody stems, twining stems and tendrils, and a wilting-observation practical.
 
-[Picture — a stem cut across and magnified — soft parenchyma cells drawn as water-filled balloons pressing outward, collenchyma with thickened corners, rope-like sclerenchyma fibres, and hollow xylem vessels standing like pipes — beside two whole plants: a soft herbaceous stem wilting as its cells lose water, and a woody stem standing with a tendril curled around a stick]
+In your mind's eye: a stem cut across and magnified — soft parenchyma cells drawn as water-filled balloons pressing outward, collenchyma with thickened corners, rope-like sclerenchyma fibres, and hollow xylem vessels standing like pipes. Beside two whole plants: a soft herbaceous stem wilting as its cells lose water, and a woody stem standing with a tendril curled around a stick.
 
 ## The key facts
 **Support by turgor.** Parenchyma cells filled with water press firmly against their walls — turgor — and a tissue of turgid cells holds a soft stem upright; lose the water and the stem wilts, as the wilting-observation practical (Irish potato, Sonchus, Solanum incanum, Mexican marigold) demonstrates.

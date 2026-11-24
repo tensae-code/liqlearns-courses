@@ -7,9 +7,9 @@ A heath is covered in little mounds, hummock after hummock, as if the ground its
 
 The mounds are **þúfur** (thufur): the little hummocks that cover Iceland's heath ground. They are a frost-made landform — the ground itself lifted into mounds, winter work written on the heath.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The freezer experiment — moist soil lifts as it freezes
 

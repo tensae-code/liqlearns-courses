@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Organisation of th
 ## The idea
 Genetic material is organised very differently across life: a prokaryote keeps one circular DNA molecule loose in the cytoplasm, while a eukaryote winds its DNA with proteins into chromosomes inside a nucleus — and viruses carry theirs as DNA or RNA in a protein coat. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — three panels: a bacterium with one circular DNA loop, a nucleus with wound chromosomes, and a virus particle with its short genetic strip inside a coat]
+In your mind's eye: three panels. A bacterium with one circular DNA loop, a nucleus with wound chromosomes, and a virus particle with its short genetic strip inside a coat.
 
 ## The key facts
 **Ch. 1.** prokaryotic single circular DNA vs complex eukaryotic organisation

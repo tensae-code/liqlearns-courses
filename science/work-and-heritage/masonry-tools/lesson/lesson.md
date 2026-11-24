@@ -7,9 +7,9 @@ Before you read: watch a wall being built in your mind. Which tools does the bui
 
 The lesson first gives **examples of masonry tools** — the tools of the builder named and recognised, so the learner can sort the builder's tools from every other trade's tools.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Using and maintaining masonry tools
 

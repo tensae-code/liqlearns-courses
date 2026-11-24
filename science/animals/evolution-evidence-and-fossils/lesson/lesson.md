@@ -7,9 +7,9 @@ Living things today are not exactly the living things of long ago. How could any
 
 **Biological evolution** is species **changing over time**: a kind of living thing today is not exactly what that kind was long ago. Ecuador's Grade 9 book teaches evolution as this change over time — the starting fact the rest of the lesson's evidence must explain.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Evidence and fossils — a window on the past
 

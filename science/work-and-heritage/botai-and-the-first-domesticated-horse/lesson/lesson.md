@@ -7,25 +7,25 @@ Before you read: think about this lesson's subject — botai — and the first d
 
 The books teach this part as the Botai settlement and the first domestication of the horse in Kazakhstan, guide's background text — worked through in the books' own presentation, at the printed pages named in Sources. The books teach this part as the first domestication of the horse — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — botai culture as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: botai culture as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Who first tamed the horse
 
 The books teach this part as the Botai culture and the first domesticated horse — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — who first tamed the horse as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: who first tamed the horse as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How our ancestors tamed horses (the Botai culture)
 
 Kazakhstan's books teach this as their own lesson — "How our ancestors tamed horses (the Botai culture)". The learner works through the books' own presentation of how our ancestors tamed horses (the Botai culture) — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how our ancestors tamed horses (the Botai culture) as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how our ancestors tamed horses (the Botai culture) as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — The Botai culture
 
 Kazakhstan's books teach this as their own lesson — "The Botai culture". The learner works through the books' own presentation of the Botai culture — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the Botai culture as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the Botai culture as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

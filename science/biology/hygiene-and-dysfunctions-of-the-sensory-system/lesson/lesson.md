@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene and dysfun
 ## The idea
 Every sensory analyser has its own hygiene and its own dysfunctions: risk factors are named analyser by analyser, and failures of sensation — anaesthesia as absence of cutaneous sensation, myopia — are studied as dysfunctions. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — the five sensory analysers of a human head and skin, each with a small hygiene card and a warning sign for its risk factors]
+In your mind's eye: the five sensory analysers of a human head and skin, each with a small hygiene card and a warning sign for its risk factors.
 
 ## The key facts
 **§15 Hygiene and dysfunctions of the human sensory system.** Moldova's Grade 11 book (§15 Hygiene and dysfunctions of the human sensory system) teaches: risk factors by analyser, anaesthesia as absence of cutaneous sensation, myopia discussed as a possible adaptation to near work in the computer era. (printed p. 48).

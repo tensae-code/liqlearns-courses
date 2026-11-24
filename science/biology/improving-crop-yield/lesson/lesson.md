@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Improving crop yie
 ## The idea
 Chapter 9 of Nigeria's Senior Secondary Biology 1 asks the practical question: how do we get more from the land? Its answers run from the soil outward. Conserve the soil — terracing, mulching, rotation, and no bush burning. Feed it — fertilisers and manure. Farm it better — sound cultural practices. Breed better plants — disease-resistant cassava and budded oranges are the book's improved varieties. And, simplest of all, put more land under cultivation.
 
-[Picture — a terraced hillside with mulched beds, a farmer adding manure, and two labelled plants: disease-resistant cassava and a budded orange tree]
+In your mind's eye: a terraced hillside with mulched beds, a farmer adding manure, and two labelled plants. Disease-resistant cassava and a budded orange tree.
 
 ## The key facts
 **Conserve the soil.** Soil conservation heads the list: terracing sloping land, mulching the surface, rotating crops, and not burning the bush — keeping the soil there and fertile.

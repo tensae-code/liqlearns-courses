@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — power — how fast work is do
 
 Eritrea's Grade 7 book closes its work-and-energy run with **power** (printed p. 71), after work (printed p. 57) and energy (printed p. 61) have been taught as their own topics. Power answers the question work alone cannot: not how much work is done, but **how fast** it is done. Two workers lift the same load to the same height — the same work — but the one who finishes sooner is the more powerful: the work is equal, the time is not, and power is exactly the measure that notices the difference.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Counting power — work divided by time
 

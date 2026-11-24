@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The parts of a digital communication system in order (guide evidence): source, input transducer, encoder, modulator, channel, demodulator, decoder, output transducer and output signal, taught by role-play with nine learners as the nine parts and by following a text from one mobile to another through the telecom towers; analogue against digital communication compared — coding possible only in digital, digital needing more bandwidth but suffering far less from outside disturbance.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Baseband and broadband transmission, and why digital wins (guide evidence)
 

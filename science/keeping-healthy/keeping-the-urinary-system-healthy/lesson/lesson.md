@@ -9,9 +9,9 @@ The urinary system — kidneys, ureters, bladder and urethra — filters the blo
 
 Kuwait's Grade 8 book follows its excretion lessons with this health lesson, in the same pattern as its circulatory and respiratory health lessons: structure, work, then care.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — What harms it
 

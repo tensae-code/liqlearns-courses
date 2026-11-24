@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Haploid and diploi
 ## The idea
 Chromosomes come in sets, and counting the sets explains how heredity survives reproduction. North Macedonia's Biology I gives the haploid and diploid nucleus a named lesson of its own (Theme 2.7, printed p. 66), inside the genetics theme between the chromosome and karyotype lessons and the cell cycle. No lesson in this course taught ploidy itself before, so this lesson is built for it.
 
-[Picture — a diploid cell with its chromosomes in matching pairs, one of each pair marked as from the mother and one from the father, beside a haploid gamete carrying only one of each kind, and the two gametes joining into a diploid zygote]
+In your mind's eye: a diploid cell with its chromosomes in matching pairs, one of each pair marked as from the mother and one from the father, beside a haploid gamete carrying only one of each kind, and the two gametes joining into a diploid zygote.
 
 ## The key facts
 **Chromosomes come in homologous pairs.** In a body cell, chromosomes exist as pairs: two chromosomes of the same kind, carrying genes for the same features in the same order — one member of each pair came from the mother, one from the father.

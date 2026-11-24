@@ -9,9 +9,9 @@ Bulgaria's Grade 4 book's Lesson 51, *Communities on land*, begins low: the **pl
 
 The plains community stands on **fertile soil** and open **meadows**. Its named animals are the **small mammals** of the open ground and the **partridge**, camouflaged against the ground it lives on — protection by matching, in the flat land where there is nowhere to hide but in plain sight.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Communities of the mountains
 
@@ -19,9 +19,9 @@ Then the book climbs: the **mountains**.
 
 The mountain community is layered by height: **broadleaf forest** below, **conifers** above it, and **alpine shrubs** higher still. Its named plants and animals are mountain kinds: the **edelweiss** among the high plants, **wild goats** on the slopes, and **eagles** over them. Same country, same lesson — and the community changed completely, because the land rose.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

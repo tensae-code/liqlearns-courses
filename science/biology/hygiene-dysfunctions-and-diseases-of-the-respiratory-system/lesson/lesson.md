@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene, dysfuncti
 ## The idea
 The respiratory system is protected by hygiene against its risk factors and diseases, and infectious patients cover mouth and nose and use strictly individual utensils, linen and objects so the disease does not spread. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a person covering mouth and nose when coughing, with separate labelled utensils, linen and personal objects kept apart from others']
+In your mind's eye: a person covering mouth and nose when coughing, with separate labelled utensils, linen and personal objects kept apart from others'.
 
 ## The key facts
 **§32 Hygiene, dysfunctions and diseases of the respiratory system.** Moldova's Grade 11 book (§32 Hygiene, dysfunctions and diseases of the respiratory system) teaches: risk factors; infectious patients covering mouth and nose and using strictly individual utensils, linen and objects. (printed p. 105).

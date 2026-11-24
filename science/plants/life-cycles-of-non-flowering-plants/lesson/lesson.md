@@ -9,9 +9,9 @@ Iraq's Grade 4 book gives **non-flowering plants** a life-cycle chapter of their
 
 That separateness is the book's own structure, and it is the lesson: cycle first, kind by kind. The flowering cycle is another lesson; this one keeps to the plants whose cycle runs flower-free.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The activity book's matching work
 

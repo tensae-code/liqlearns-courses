@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Classification by 
 ## The idea
 You already know that classification groups living things by what they share. This lesson asks what the grouping rests on. Palestine's Grade 10 Life Sciences book teaches modern classification in a single chapter — first classification itself, then the naming of living organisms, then the levels of classification — and in §4 it compares two bases for classifying: the form of the organism, and its genes.
 
-[Picture — two sorting tables side by side: on the first, organisms sorted by what they look like, their shape and structure; on the second, the same organisms sorted by a strip representing their genetic material]
+In your mind's eye: two sorting tables side by side. On the first, organisms sorted by what they look like, their shape and structure; on the second, the same organisms sorted by a strip representing their genetic material.
 
 ## The key facts
 **Morphological classification.** التصنيف الشكلي — classification by form: organisms are grouped by their morphology, their outward shape and structure — the characteristics that can be seen, compared and measured.

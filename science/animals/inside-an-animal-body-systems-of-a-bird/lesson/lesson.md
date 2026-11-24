@@ -7,9 +7,9 @@ You have seen a hen from outside — beak, feathers, wings, legs. What do you th
 
 Inside the hen is a **skeleton**: the frame of bones that holds the bird up and gives its muscles something to pull on. Angola's inside study begins with the frame, as the outside study began with the covering: bones of the body, wings and legs — a bird light-built for movement, standing on the same plan as other backboned animals: a frame inside, worked by muscles.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The hen's digestive and respiratory systems
 

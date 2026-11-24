@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Plants can be sorted by the kind of stem they grow on. A tree grows on one strong woody stem, a shrub grows several woody stems from low down, and an herb grows a soft green stem. Looking at the stem first gives a sort that can be seen on any plant, flowering or not.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Grouping by flowers — flowering or not
 

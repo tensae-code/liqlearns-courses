@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — rockets — what a rocket is 
 
 Eritrea's Grade 8 book opens its Space Travel unit with the atmosphere (printed p. 148), then teaches **rockets** (printed p. 151) as their own topic, before satellites and space exploration (printed p. 155). A rocket is the machine that makes space travel possible at all: unlike a car it needs no road and unlike a plane it needs no air to push against or to burn — it **carries everything it needs with it**, its fuel and the oxygen to burn it, so it can work even in the emptiness above the atmosphere where nothing outside can help it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — How a rocket flies — gases down, rocket up
 

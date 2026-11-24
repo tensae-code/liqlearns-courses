@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Blood and its comp
 ## The idea
 Afghanistan's Grade 9 Biology book opens its circulation chapter with blood and the components of blood, before it reaches the heart. This lesson teaches blood on its own: the plasma that carries everything, and the three kinds of blood cell, each fitted to its work.
 
-[Picture — a picture of a drop of blood under the microscope, labelled — many small red discs, one large white cell with its nucleus, tiny platelets between them, all in pale plasma]
+In your mind's eye: a drop of blood under the microscope, labelled — many small red discs, one large white cell with its nucleus, tiny platelets between them, all in pale plasma.
 
-[GIF — blood flowing through a vessel — red cells streaming past carrying oxygen, a white cell squeezing toward a germ, and at a small cut platelets gathering while fibrin threads net the cells into a clot — the student names each component as it works]
+In your mind's eye: blood flowing through a vessel — red cells streaming past carrying oxygen, a white cell squeezing toward a germ, and at a small cut platelets gathering while fibrin threads net the cells into a clot. Name each component as it works.
 
 ## The key facts
 **Plasma — the carrier.** A little over half of blood is plasma: water with dissolved sugars, amino acids, salts, hormones, vitamins and wastes like urea riding in it. Everything the blood delivers dissolved travels in the plasma; everything solid in blood is a cell or a cell fragment.

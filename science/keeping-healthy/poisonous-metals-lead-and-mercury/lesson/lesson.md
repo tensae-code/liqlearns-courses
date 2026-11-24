@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Two poisonous metals of daily life: lead (car batteries, paints, petrol products, lead crystal glass, radiation shielding) damaging nearly every organ, stored in bone, and hitting children hardest (headache, stomach pain, anaemia, stunted brain development); and mercury (thermometers, barometers, tube lights) whose poisoning (hydrargia, or mercurialism) can block blood vessels, damage brain, kidneys and lungs, and cross the placenta to harm the unborn child.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Lead (sisa), mercury (paro) and cobalt named in the guide as the poisonous metals that do
 

@@ -9,9 +9,9 @@ The **skin**, and above all the hands, are the organs of touch. By touching we d
 
 Kuwait's Grade 1 book teaches touch by feeling with eyes closed: the child reaches into a bag and names the thing — a stone, a sponge, a spoon — by touch alone.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — What harms the hand
 

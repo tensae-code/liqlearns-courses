@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 North Macedonia's Grade 4 book teaches animal senses through touch first. The **mole** lives in the dark underground, and its sense of **touch** does the work our eyes do for us: its touch receptors are far richer than ours — the book gives the measure plainly, **six times more touch receptors than a human hand**. The **crocodile** is the second touch example: its skin answers touch in the water and at its edge, so it senses what comes near even before it sees it. Touch, for these animals, is not a spare sense — it is the main way in.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hearing that picks out — the dog and the owl
 

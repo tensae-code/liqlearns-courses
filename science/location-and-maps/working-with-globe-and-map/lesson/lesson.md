@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — working with globe and ma
 
 Kazakhstan's books teach this as their own lesson — "Globe and map". The learner works through the books' own presentation of globe and map — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — globe and map as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: globe and map as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Working with the globe and the map
 
 Kazakhstan's books teach this as their own lesson — "Working with the globe and the map". The learner works through the books' own presentation of working with the globe and the map — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — working with the globe and the map as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: working with the globe and the map as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

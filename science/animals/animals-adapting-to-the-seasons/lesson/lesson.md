@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — animals adapting to the s
 
 8: hare's coat thickening and turning white, squirrels and mice storing food, migratory birds (nightingale, swallow, chaffinch, crane) vs wintering birds with strong beaks (woodpecker, tit, magpie, sparrow), hibernation of bear, badger and hedgehog, feeding birds in winter, deer moving down from the mountains
 
-[Picture — animals adapting to the seasons as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: animals adapting to the seasons as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — How the seasons affect animals
 
 The books teach this part as migration as key word; marmots hibernate six months; how forest animals prepare for winter — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — how the seasons affect animals as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how the seasons affect animals as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How animals prepare for the change of seasons
 
 moulting (linka) defined — skin, feathers, wool or fur is shed, thicker fur grows by autumn; hare grey in summer, white in winter; hibernation after heavy summer/autumn feeding; migratory birds; winter food stores (squirrel — nuts, cones, acorns, mushrooms; badger — roots and seeds; hamster — grain); the marmot's deep burrow with sleeping nest, store room and spare exits; 23 October is Snow Leopard Day, the irbis is in Kazakhstan's Red Book
 
-[Picture — how animals prepare for the change of seasons as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how animals prepare for the change of seasons as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -9,9 +9,9 @@ Bulgaria's Grade 4 book's Lesson 39 opens the **bean seed** and names its parts:
 
 Waking the seed is **germination**, and germination has conditions: the seed needs **warmth, moisture and air**. Give all three and the embryo grows out on its stored food; miss one and the seed waits.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Growth, flowering and new seeds — the circle closes
 
@@ -19,9 +19,9 @@ The germinated plant **grows**, then **flowers** — and the flowers make **new 
 
 That is why it is a **life cycle** and not a line: the annual plant's life ends by making the beginnings of the next round. Seed → germination → growth → flowering → new seeds → and round again.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

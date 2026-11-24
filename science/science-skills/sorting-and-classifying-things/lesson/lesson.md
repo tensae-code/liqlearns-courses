@@ -9,9 +9,9 @@ To **classify** is to group similar things together. Iraq's Grade 1 book opens t
 
 A group is made by likeness: the things in it share something — a shape, a material, a way of living — and that shared thing is the group's reason. Things that do not share it go in a different group.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Classifying materials — by magnet and by state
 

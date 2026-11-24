@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — poisons that grow stronge
 
 the DDT case answered: the phenomenon is denominated biomagnification (biomagnificación); the cause of the greatest increase of the DDT concentration is the use of DDT as insecticide in the crops; and the consequences that the accumulation of this contaminant can have: poisoning (envenenamiento), intoxication, congenital malformations and death (guide evidence)
 
-[Picture — the DDT case answered as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the DDT case answered as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

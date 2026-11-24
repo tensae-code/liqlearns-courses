@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Stigma, prejudice 
 ## The idea
 Mozambique's fourth PESD I module (2023) carries a lesson that many biology courses never teach: Lesson 15 (its number is skipped in the module's Índice, though the lesson stands in the body between 14 and 16) — stigma, prejudice and inclusion. It defines its terms like a science lesson: stigma in its individual and tribal forms, prejudice as judgement without critical analysis, intolerance, exclusion — and inclusion as the answer, framed in human rights. In a module about reproduction, HIV and disease, the lesson guards the people the diseases touch.
 
-[Picture — two panels: in the first, a person stands outside a closed circle of neighbours with labels above the scene — alcoholism, mental illness, race, religion — and arrows of judgement pointing at them; in the second, the circle is open and the same person stands inside it, labelled inclusion]
+In your mind's eye: two panels: in the first, a person stands outside a closed circle of neighbours with labels above the scene — alcoholism, mental illness, race, religion. And arrows of judgement pointing at them; in the second, the circle is open and the same person stands inside it, labelled inclusion.
 
 ## The key facts
 **Stigma — individual.** Stigma is a mark of disgrace that excludes. Its individual form fastens on a person — as around alcoholism, mental illness or homosexuality.

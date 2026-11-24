@@ -9,9 +9,9 @@ Living things **respond** to what is around them. A plant turns its leaves towar
 
 Kuwait's Grade 4 book teaches responding as the living world's answer to the environment's factors — light, temperature, water, gravity and touch — each factor named with the response it calls out.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Responses keep living things alive
 

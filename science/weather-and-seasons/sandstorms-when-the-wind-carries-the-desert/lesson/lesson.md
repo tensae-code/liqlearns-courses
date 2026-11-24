@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 the sandstorm: a storm in which the wind carries quantities of sand and dust that form a cloud over the ground; sandstorms happen in the Kingdom at different times of the year where dry land is not covered with plants, and they harm eyes, noses and breathing, bury plants, farms and roads, and cause road accidents because sight is blocked
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Volcanoes line up along certain coasts. Earthquakes cluster in the same belts. M
 
 The lesson works from **data analysed for patterns** (Grade 7, 7.2.5, printed p. 87): plot the volcanoes, the earthquakes, the mountains and the seafloor features, and they do not scatter — they **fall in lines and belts**. A pattern in four separate datasets, all agreeing, is evidence asking for one explanation.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Linking the patterns to the plates
 

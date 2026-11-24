@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Uric acid: the acid left when purines from our cells and food break down, normally cleared by the kidneys; when it builds up in the blood the joints ache deeply, redden and swell until walking is hard; bringing it down — drink plenty of water a little at a time, eat cherries (10 to 40 a day as printed, their anthocyanins easing the inflammation), and avoid fatty red meat, sea food and lentils.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Uric acid explained from both sides
 

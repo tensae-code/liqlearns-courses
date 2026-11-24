@@ -9,9 +9,9 @@ Laos’s Grade 2 book (Ch. 3, printed pp. 15–16) teaches the **first treatment
 
 The chapter places this beside its teaching on insect bites and stings (printed p. 14, stocked in the accidents lesson): the small bite and the dangerous bite are both met first by the people who are there, so both first treatments are learned before either is needed.
 
-[Picture — the lesson’s central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson’s central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — First treatment when bitten by a dog or cat
 

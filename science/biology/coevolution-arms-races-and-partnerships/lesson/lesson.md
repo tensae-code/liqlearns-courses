@@ -6,7 +6,7 @@ Before you read anything: think of two species locked together — a parasite an
 ## The idea
 Evolution is usually told as species adapting to their surroundings. Coevolution is the sharper version: species adapting to each other. When two species live in a close relationship, each one is part of the other's surroundings — so a change in one selects for a change in the other, generation after generation. Costa Rica's Grade 11 anthology teaches this as a named topic — Coevolución — inside Unit 1, its unit on ecological relationships, at printed p. 28.
 
-[Picture — two circles of arrows: in the first, a predator and its prey chase each other's improvements; in the second, a flower and its pollinator fit each other closer and closer]
+In your mind's eye: two circles of arrows. In the first, a predator and its prey chase each other's improvements; in the second, a flower and its pollinator fit each other closer and closer.
 
 ## The key facts
 **Where Costa Rica puts it.** In Biología Undécimo, coevolution does not wait for an evolution unit. It stands in Unit 1 among the relationships themselves: first the intraspecific and interspecific relationships (printed pp. 25–27), then the symbiotic relationships (printed p. 26), then Coevolución (printed p. 28) — and straight after it, the parasitology strand (printed pp. 29–33). The order is the teaching: relationships first, then what relationships do over time.

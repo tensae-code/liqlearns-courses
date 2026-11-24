@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Life-history strat
 ## The idea
 Organisms hold their place by two broad life strategies: r-strategists make many offspring with little care, and K-strategists make few offspring with much care — the ecological strategies of a species' viability. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — two panels: a fish releasing thousands of eggs labelled r-strategy, and an elephant guarding one calf labelled K-strategy, with a scale of offspring number against care beneath]
+In your mind's eye: two panels. A fish releasing thousands of eggs labelled r-strategy, and an elephant guarding one calf labelled K-strategy, with a scale of offspring number against care beneath.
 
 ## The key facts
 **11.4 Ecological strategies of organisms' viability.** 11.4 Ecological strategies of organisms' viability

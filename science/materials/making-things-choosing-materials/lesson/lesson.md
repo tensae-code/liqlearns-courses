@@ -7,19 +7,19 @@ Before you read: look at three things near you — a ruler, a cooking pot, a cha
 
 Every making starts with the thing itself, named first: Iran's Grade 1 book opens the making lesson by asking "what do I want to make?", and its Grade 2 book has pupils choose something to make by looking around them — the made thing comes first, the material second.
 
-[Picture — what do i want to make? as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what do i want to make? as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Choosing the material that fits the job
 
 A material is chosen because of what the thing must do. A ruler must be straight and stiff; a cooking pot must stand heat and not melt; a shelter must keep out weather and danger — for thousands of years humans used natural materials like wood and stone for shelter, as Iran's Grade 7 book tells it, and choosing still follows the job. Even a chocolate is shaped by choice: Iran's Grade 2 makers draw the shape they want and make a mould for it.
 
-[Picture — choosing the material that fits the job as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: choosing the material that fits the job as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Design it, build it, test it
 
 Iran's Grade 6 book runs the full maker's round in its "let us design and build" lesson: look at the kinds there are, decide what yours will do, build it, and watch how it goes. A design is a choosing plan; building tests the choices; what fails sends you back to choose again.
 
-[Picture — design it, build it, test it as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: design it, build it, test it as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

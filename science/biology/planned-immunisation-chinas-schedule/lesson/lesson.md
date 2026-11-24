@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Planned immunisati
 ## The idea
 Planned immunisation gives each vaccine at its set age on a national schedule — in China's, BCG and hepatitis B at birth — and the child's vaccination certificate is the document that holds the record, reproduced in the book from Beijing's two-page schedule. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a child's vaccination certificate opened to a schedule table, with a birth-day row marked BCG and hepatitis B]
+In your mind's eye: a child's vaccination certificate opened to a schedule table, with a birth-day row marked BCG and hepatitis B.
 
 ## The key facts
 **§2, planned immunisation.** vaccines as inactivated or weakened pathogens, then China's planned immunisation in practice: BCG and hepatitis B at birth, the child's vaccination certificate, and Beijing's two-page immunisation schedule reproduced in full. No existing lesson covers a national immunisation schedule as a document pupils actually hold.

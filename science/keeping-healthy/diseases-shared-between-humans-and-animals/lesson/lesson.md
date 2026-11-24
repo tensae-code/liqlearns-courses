@@ -9,9 +9,9 @@ Iraq's Grade 5 book opens with disease — how diseases happen, their kinds and 
 
 That sharing is the fact the investigation works on. A disease shared between humans and animals crosses the line between them — so the health of people and the health of the animals around them are not two separate subjects, but one, and the book teaches it that way: as a **skills investigation**, something to be inquired into, not only read.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

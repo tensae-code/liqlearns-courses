@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Tsetse fly, trypan
 ## The idea
 Some diseases are best fought at their carrier. Chapter 12 of Nigeria's Senior Secondary Biology 1 — towards better health — teaches the control of disease-causing microorganisms through their vectors: the mosquito programme first, then the tsetse fly in full. The tsetse carries the trypanosomes of sleeping sickness (in people) and nagana (in cattle). The book works the fly's life history, then builds control on it: clear the shade where it rests, spray vehicles and resting sites, breed nagana-resistant cattle, and treat sleeping sickness promptly — antelopes, which carry the parasite harmlessly as reservoirs, cannot simply be removed.
 
-[Picture — a tsetse fly with its life-cycle stages around it, beside a cleared riverbank strip labelled 'shade resting places cleared' and cattle marked 'nagana-resistant breed']
+In your mind's eye: a tsetse fly with its life-cycle stages around it, beside a cleared riverbank strip labelled 'shade resting places cleared' and cattle marked 'nagana-resistant breed'.
 
 ## The key facts
 **Control the vector.** Where a vector carries a disease, controlling the vector controls the disease — the chapter's principle, worked for the mosquito and then the tsetse fly.

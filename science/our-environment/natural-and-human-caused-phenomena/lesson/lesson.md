@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Nicaragua's Grade 3 book teaches changes in the environment from **natural phenomena — drought, volcanic eruptions, earthquakes** (Managua after a quake is its own example). The Grade 8 book lists the **natural agents** that transform our environment: **atmospheric, biological, hydrological, volcanic, seismic and tectonic** — set against human action, with the flooded street, the factory, the dump and Managua's 1972 earthquake as its pictures.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Human action, socio-natural phenomena and vulnerability
 

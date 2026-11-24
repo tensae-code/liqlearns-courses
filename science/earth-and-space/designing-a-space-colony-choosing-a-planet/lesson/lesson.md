@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 real-life inquiry closing the chapter: the space colony — choose a planet, study its surface conditions (solid or gas; hot or cold; a thick, thin or absent atmosphere), and design on paper a colony in which people could live on it, drawing every part and explaining how it keeps the colony alive
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

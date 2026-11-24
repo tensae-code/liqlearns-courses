@@ -9,9 +9,9 @@ Before you read: farmers rear chickens and cattle on land. Can fish be farmed to
 
 Aquaculture belongs in the farming lessons: it is agriculture done in water, standing beside the poultry and cattle rearing the same syllabus teaches for the land.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Advantages and disadvantages
 
@@ -19,9 +19,9 @@ The syllabus does not leave aquaculture as a marvel; it asks for its **advantage
 
 The learner's job is the weighing itself: name an advantage, name a disadvantage, and hold both.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## The key ideas
 

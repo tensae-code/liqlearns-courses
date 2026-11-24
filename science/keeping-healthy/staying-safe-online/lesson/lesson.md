@@ -7,9 +7,9 @@ Before you read: imagine a stranger online asks where you live and what your pas
 
 Online safety starts with what you do not share: do not share personal information online. Use strong passwords and keep them secret — a password shared is a password lost. And chat only with people you know: a friendly stranger online is still a stranger.
 
-[Picture — the lesson's central set-up for sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
-[GIF — the lesson's central change for sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
 
 ## Sub lesson 2 — Personal space online
 

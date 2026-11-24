@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gaseous exchange i
 ## The idea
 An insect breathes through a pipework of air tubes and a fish through feathery gills worked by pumping and counter-current flow: Kenya's Form 2 book teaches the two systems side by side, with a breathing-movement practical on a grasshopper, locust or cockroach and a gill dissection.
 
-[Picture — two animals side by side — a grasshopper opened to show silvery tracheal tubes branching from valved spiracles along its side, its abdomen pumping — and a fish head with the operculum lifted to show red gill filaments on their bars, arrows of water flowing one way across the filaments and blood the other way inside them]
+In your mind's eye: two animals side by side — a grasshopper opened to show silvery tracheal tubes branching from valved spiracles along its side, its abdomen pumping. And a fish head with the operculum lifted to show red gill filaments on their bars, arrows of water flowing one way across the filaments and blood the other way inside them.
 
 ## The key facts
 **The insect's tracheal system.** Insects exchange gases through a tracheal system: air enters through spiracles — openings with valves and hairs — into branching tracheae and tracheoles that carry air directly to the tissues, and abdominal pumping movements drive the flow.

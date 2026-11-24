@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Ecological ethics 
 ## The idea
 Ecological ethics asks who nature is for — anthropocentrism, the view that nature exists for humans, argued against its rivals — and China's wildlife reserves, railway culverts for antelope and village eco-compensation are that argument made practical. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a railway on high bridges crossing a plateau with antelope passing safely underneath through a wide culvert]
+In your mind's eye: a railway on high bridges crossing a plateau with antelope passing safely underneath through a wide culvert.
 
 ## The key facts
 **Ch. 4 §2 STS: ecological ethics.** anthropocentrism against its rivals, argued dialectically; China's cases: the white-headed langur of Guangxi (about 600 left in the early 1980s, over 1,000 after reserves plus village eco-compensation), the Qinghai–Tibet railway's wildlife culverts and no-horn rule for Tibetan antelope, and a sturgeon institute built because the Gezhouba dam blocked the Chinese sturgeon's spawning run.

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Home Science Form 5 book defines **ergonomics (from the Greek ergon + nomoi)**: fitting the workplace, equipment and movement to the worker, to protect safety, health and comfort — the work is shaped to the person, not the person forced to the work.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Safe lifting — judge the load, then lift with posture
 

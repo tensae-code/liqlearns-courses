@@ -7,17 +7,17 @@ A globe is not the Earth, a toy car is not a car, and a drawing of the Moon is n
 
 A **model** is a stand-in for something real, built to be studied in its place. It works by **similarity**: the model is like the original in the features that matter for the question at hand — and knowingly unlike it in the rest. A globe keeps the Earth's shape-relations and drops its size; choosing what to keep is the modeller's first skill.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Modelling — a method of cognition
 
 **Modelling** is using such stand-ins to know things: science models what is too big, too small, too far, too slow or too dangerous to study directly, and tests ideas on the model before trusting them about the real thing. Armenia's book files modelling among the forms of scientific cognition itself — not a drawing exercise, but one of the ways science knows.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

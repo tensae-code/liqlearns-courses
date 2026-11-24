@@ -7,9 +7,9 @@ Before you read: breathing is so steady we forget it — until it is blocked. Wh
 
 **Suffocation** is the state the unit closes with: breathing blocked or the air cut off, so the body cannot take in the air it needs. It is taught after the respiratory system itself, so the learner knows exactly which system is in trouble.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — What to do — first aid for suffocation
 

@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 11 Topic 5, "The cost of energy", teaches the electricity meter as a measuring instrument: read the meter, read it again a month later, and the difference is the units of electrical energy the house has used. Electricity is paid for by the unit, so the meter — not a guess — decides the bill.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The cost of a unit — and an appliance's power in watts
 

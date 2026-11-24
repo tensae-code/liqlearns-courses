@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 what happens when the ecosystem changes: some living things are given the ability to keep living when their system changes, changing their behaviour or their homes — that response is adaptation; after a forest fire destroys the grass, deer change their food to tree bark and other plants; others cannot cope and must move to a new place with food and water (the crow on city buildings, which are not the birds' natural system); and fires themselves sometimes benefit the forest and its remaining plants
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant tissues — 
 ## The idea
 Mozambique's plant-physiology module (Módulo 5) opens with histology — defined in the book itself as the study of tissues. The plant's tissues come in two ages: the meristems, still dividing, and the definitive tissues they produce, each with its finished job. The primary meristems work at the tips and lengthen the plant; the secondary meristems thicken root and stem. This lesson teaches that founding split and the four definitive tissues it produces.
 
-[Picture — a shoot tip and a root tip drawn with their small dividing meristem cells at the very ends, and arrows running back into the stem and root where the four finished tissues are labelled in a cut section — covering outside, parenchyma filling, support strands and vascular bundles]
+In your mind's eye: a shoot tip and a root tip drawn with their small dividing meristem cells at the very ends, and arrows running back into the stem and root where the four finished tissues are labelled in a cut section — covering outside, parenchyma filling, support strands and vascular bundles.
 
 ## The key facts
 **Histology — the study of tissues.** The module defines histology as the study of tissues, and plant histology begins with where tissues come from: the meristems.

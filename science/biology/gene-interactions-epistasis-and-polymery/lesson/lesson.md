@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gene interactions 
 ## The idea
 Genes at different loci do not always act alone — they interact: two genes together can produce a form neither makes by itself (the chicken's comb shape from the R and P genes), one gene can mask another gene's effect (epistasis — the masking gene is epistatic, the masked one hypostatic), and several genes can add their small effects together on one trait (polymery). No lesson in this course taught this on its own before, so this lesson is built for it — from Indonesia's Kurikulum Merdeka books, which teach it as a named topic.
 
-[Picture — four chicken combs — rose, pea, walnut and single — under the gene pairs that make them, beside a two-step pathway where one gene's product blocks the second gene's colour from showing]
+In your mind's eye: four chicken combs — rose, pea, walnut and single. Under the gene pairs that make them, beside a two-step pathway where one gene's product blocks the second gene's colour from showing.
 
 ## The key facts
 **Interaction, not independence.** Mendel's crosses treated each gene as acting on its own. Indonesia's Grade 12 book goes one step further: alleles at one locus can depend for their effect on alleles at another locus, so the offspring ratios change from the plain Mendelian ones.

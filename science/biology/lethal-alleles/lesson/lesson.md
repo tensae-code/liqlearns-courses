@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Lethal alleles. Wr
 ## The idea
 Some alleles are lethal: in two copies — or one, for a dominant lethal — they kill the organism, often before birth, which is why certain crosses give surviving offspring in a 2:1 ratio instead of Mendel's 3:1. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a Punnett square of a mouse coat cross with one of its four boxes crossed out and the surviving mice drawn beneath, counted 2:1]
+In your mind's eye: a Punnett square of a mouse coat cross with one of its four boxes crossed out and the surviving mice drawn beneath, counted 2:1.
 
 ## The key facts
 **Ch. 5.** lethal alleles

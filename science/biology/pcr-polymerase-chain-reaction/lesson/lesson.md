@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — PCR — polymerase
 ## The idea
 PCR copies one chosen piece of DNA over and over in a tube by cycling three temperature steps — denaturation at about 96°C, where the double strand separates; annealing at 55–65°C, where primers bind; and extension at 72°C, where Taq polymerase builds the new strands — so the number of copies doubles with every cycle. No lesson in this course taught this on its own before, so this lesson is built for it — from Indonesia's Kurikulum Merdeka books, which teach it as a named topic.
 
-[Picture — a tube in a thermal cycler shown at three stations in a circle — 96°C with the DNA ladder unzipping into two single strands, 55–65°C with two short primers binding, 72°C with Taq polymerase extending new strands — and below, 1 copy becoming 2, then 4, then 8]
+In your mind's eye: a tube in a thermal cycler shown at three stations in a circle — 96°C with the DNA ladder unzipping into two single strands, 55–65°C with two short primers binding, 72°C with Taq polymerase extending new strands. And below, 1 copy becoming 2, then 4, then 8.
 
 ## The key facts
 **A copying machine for DNA.** The polymerase chain reaction (PCR) makes many copies of one chosen DNA segment in a tube, without any living cell — the segment is picked out by the primers, short DNA pieces that match its two ends.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Public health — 
 ## The idea
 Health is not only the doctor's work. Chapter 12 of Nigeria's Senior Secondary Biology 1 teaches public health as a community duty. Refuse must be disposed of — by dustbin, incinerator or burial. Sewage likewise — pit latrines, bucket toilets, and the flush toilet with its septic tank, whose sludge is turned to fertiliser. Water and food must be protected, and the Ministry of Health inspects the places food is prepared and sold — abattoirs and eating places.
 
-[Picture — a neighbourhood health panel: a lidded dustbin, an incinerator, a pit latrine and a septic tank in cross-section, and an inspector checking a market food stall]
+In your mind's eye: a neighbourhood health panel. A lidded dustbin, an incinerator, a pit latrine and a septic tank in cross-section, and an inspector checking a market food stall.
 
 ## The key facts
 **A shared duty.** Public health is community health: the chapter teaches it as a duty everyone shares, not a service done to passive people.

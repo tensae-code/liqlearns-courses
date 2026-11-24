@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Protist algae — 
 ## The idea
 Mozambique's first PESD II module (Módulo 1) treats the protist algae inside the Protista lesson sequence, as their own lesson (Lesson 9) with their importance. Three phyla are the substance: Euglenophyta, Chrysophyta — with their silica walls, riding the marine plankton — and Pyrrophyta, the dinoflagellates. The dinoflagellates carry the lesson's unforgettable detail: their bioluminescence is seen as sparks on the crests of waves at night. And the lesson closes with why any of it matters: algae are the food base of the aquatic heterotrophs.
 
-[Picture — three protist algae drawn large side by side: an euglena with its single long flagellum, a diatom in its glassy silica box, and a dinoflagellate with its two flagella — above a night sea whose wave-crests sparkle with tiny lights]
+In your mind's eye: three protist algae drawn large side by side: an euglena with its single long flagellum, a diatom in its glassy silica box, and a dinoflagellate with its two flagella — above a night sea whose wave-crests sparkle with tiny lights.
 
 ## The key facts
 **Three phyla of protist algae.** The module names the algal phyla Euglenophyta, Chrysophyta and Pyrrophyta (the dinoflagellates) — the plant-like protists, sorted by their pigments, walls and flagella.

@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — World biomes. Writ
 ## The idea
 Afghanistan's Grade 11 Biology book closes with the biomes (بایوم‌ها) — the Earth's great life regions. This lesson teaches the world biomes on their own: what decides a biome, the main land biomes from tundra to tropical rainforest, and the rule that climate, not the map's borders, draws their edges.
 
-[Picture — a picture of a world strip from pole to equator with the biomes banded in order — tundra, taiga, deciduous forest, grassland, desert, savanna, rainforest — each band with its emblem plant drawn in it]
+In your mind's eye: a world strip from pole to equator with the biomes banded in order — tundra, taiga, deciduous forest, grassland, desert, savanna, rainforest. Each band with its emblem plant drawn in it.
 
-[GIF — a traveller's line moving from the pole to the equator across the banded strip — snow giving way to conifers, then broadleaf forest, grass, desert, and finally layered rainforest — the student names each biome as the line enters it]
+In your mind's eye: a traveller's line moving from the pole to the equator across the banded strip — snow giving way to conifers, then broadleaf forest, grass, desert, and finally layered rainforest. Name each biome as the line enters it.
 
 ## The key facts
 **Climate decides the biome.** A biome is named for its dominant plants — forest, grassland, desert — because plants, rooted in place, must fit the climate exactly. Change the rainfall or the temperature enough and the same ground carries a different biome.

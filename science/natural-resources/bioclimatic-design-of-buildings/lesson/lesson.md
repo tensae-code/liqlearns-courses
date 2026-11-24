@@ -7,9 +7,9 @@ A house can fight its climate — burning fuel to heat what the Sun would warm, 
 
 **Bioclimatic design** designs a building around its climate — and the first partner is the **Sun**. A house designed around the Sun takes the Sun's light and warmth into its plan, instead of shutting them out and paying fuel to replace them. The design comes first; the saving follows from it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Houses designed around water — technology meets the Sun and the water
 

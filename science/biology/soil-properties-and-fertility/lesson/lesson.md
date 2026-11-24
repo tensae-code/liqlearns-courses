@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Soil — propertie
 ## The idea
 Soil looks like one plain brown stuff, but it is a mixture — of mineral parts of different sizes, of dead and living matter, of water and air — and its make-up decides whether plants grow well in it or badly. Uganda's Senior Two home-study booklet, written for learners working alone at home, opens its biology with soil as a whole topic, and its first lesson (PDF pp. 7–10) is the physical and chemical properties of soil — taught through an experiment the learner does with a bottle, water and a ruler.
 
-[Picture — a clear bottle of shaken soil and water settling into visible layers, with a ruler beside it measuring each layer's height]
+In your mind's eye: a clear bottle of shaken soil and water settling into visible layers, with a ruler beside it measuring each layer's height.
 
 ## The key facts
 **Soil is a mixture that settles into layers.** Shake soil with water in a bottle and let it stand: the parts separate and settle by weight into layers — coarse heavy parts at the bottom, finer parts above, the lightest matter at the top. The settled layers show, visibly, what the soil is made of.

@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — the pinhole camera — a box 
 
 Eritrea's Grade 6 book (printed p. 68) teaches the **pin-hole camera** as its own topic, inside its light run — after eclipses and before reflection. The camera is the simplest picture-maker there is: a closed box, dark inside, with one tiny hole in one side and a screen — plain or translucent paper — facing the hole on the inside of the opposite side. Point the hole at a bright scene and the picture appears on the screen, made by light alone: no lens, no film, nothing between the scene and the screen but the hole and the dark.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The upside-down picture
 

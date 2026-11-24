@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Primary and second
 ## The idea
 A plant grows longer at its tips and thicker at its sides, by two different growths: Kenya's Form 3 book teaches primary growth (root and shoot apical meristems; zones of division, elongation and differentiation; an Indian-ink root-marking practical) and secondary growth (vascular and cork cambium, secondary xylem and phloem, bark, lenticels, annual rings and ageing a tree).
 
-[Picture — a young tree cut open as a diagram — at the shoot tip and root tip, magnified circles showing the three zones of division, elongation and differentiation, with ink marks spacing out along the root — and in the trunk a cross-section of rings: pale secondary xylem building the wood year by year, the cambium ring, secondary phloem, bark outside with a lenticel pore]
+In your mind's eye: a young tree cut open as a diagram — at the shoot tip and root tip, magnified circles showing the three zones of division, elongation and differentiation, with ink marks spacing out along the root. And in the trunk a cross-section of rings: pale secondary xylem building the wood year by year, the cambium ring, secondary phloem, bark outside with a lenticel pore.
 
 ## The key facts
 **Primary growth — length.** Primary growth happens at the root and shoot apical meristems and lengthens the plant; behind the tip lie the zones of division, elongation and differentiation, in that order.

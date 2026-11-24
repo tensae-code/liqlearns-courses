@@ -9,9 +9,9 @@ Mauritania's Grade 4 *Sciences Naturelles* book teaches **using household electr
 
 Using is a skill with an order: know the appliance, connect it rightly, work it for its job, and finish — disconnected and put away — properly. The lesson teaches the using itself, in the home where the appliances live.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The electric iron — its parts and safe handling
 

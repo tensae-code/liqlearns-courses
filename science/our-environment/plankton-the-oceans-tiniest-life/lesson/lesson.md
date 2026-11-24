@@ -11,9 +11,9 @@ The plankton are the sea's **tiniest life**. Among them are the **phytoplankton*
 
 The plankton do not swim against the sea. They **drift on the currents**, carried wherever the water carries them. Drifting is their way of travelling — the current is their road.
 
-[Picture — phytoplankton under a microscope, many tiny plant shapes in a drop of seawater — the student says what the microscope shows that the naked eye cannot]
+In your mind's eye: phytoplankton under a microscope, many tiny plant shapes in a drop of seawater. Say what the microscope shows that the naked eye cannot.
 
-[GIF — a tiny speck drifting across the water's surface as the current moves — the student says what carries the speck, and what that stands for]
+In your mind's eye: a tiny speck drifting across the water's surface as the current moves. Say what carries the speck, and what that stands for.
 
 ## Sub lesson 2 — The tiny plants that feed the sea and fill the air
 

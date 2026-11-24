@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gas-exchange organ
 ## The idea
 Animals exchange gases through organs fitted to where they live — skin in worms and frogs, feathery gills in water animals, branching tracheae opening at spiracles in insects, and lungs in land vertebrates — all of them thin, moist, wide-surfaced and well supplied. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — four animals in a row — earthworm, fish, grasshopper and rabbit — each with its breathing organ drawn enlarged beside it: skin, gills, tracheae, lungs]
+In your mind's eye: four animals in a row — earthworm, fish, grasshopper and rabbit. Each with its breathing organ drawn enlarged beside it: skin, gills, tracheae, lungs.
 
 ## The key facts
 **§4.3.** respiration across animal groups: skin, gills, tracheae and lungs compared

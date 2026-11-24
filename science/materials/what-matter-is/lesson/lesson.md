@@ -9,9 +9,9 @@ Before you read: What do you already know about this — what matter is — ever
 
 Kuwait's Grade 1 Term 2 book opens its Matter and Energy unit here: before states of matter or changes, the child first sorts the world into matter — the stuff everything is made of.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Matter and not-matter
 

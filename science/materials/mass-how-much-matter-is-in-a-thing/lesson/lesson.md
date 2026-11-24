@@ -9,9 +9,9 @@ Before you read: What do you already know about this — what mass is: the amoun
 
 Kuwait's Grade 2 book introduces mass beside volume in its Matter unit, with the child's own test: hold a full bottle and an empty one — same size, different mass — because the matter inside differs.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Mass is not size, and not weight
 

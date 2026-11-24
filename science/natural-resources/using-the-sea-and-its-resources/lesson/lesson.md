@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — the use of the sea — Papua 
 
 Papua New Guinea's Standards Based Grade 3 guide teaches natural resources through the country's own coast: **use of the sea** is one of its named lessons, beside uses of trees and uses of soil. For an island country, the sea is not scenery — it is a resource people live from.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Papua New Guinea's own coastal way
 

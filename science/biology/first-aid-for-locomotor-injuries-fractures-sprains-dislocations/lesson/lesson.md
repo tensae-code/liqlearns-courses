@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — First aid for loco
 ## The idea
 over-stretching or overloading a muscle beyond its capacity tears fibres (same proposed slug as in the Moldova filings)
 
-[Picture — an arm with a torn muscle fibre bundle highlighted, beside small labelled sketches of a sprained joint and a bandaged fracture splint]
+In your mind's eye: an arm with a torn muscle fibre bundle highlighted, beside small labelled sketches of a sprained joint and a bandaged fracture splint.
 
 ## The key facts
 **Muscle strain and tear.** Kuwait's new Grade 10 student book (Lesson 2-4, printed p. 136) teaches muscle strain and tear: over-stretching or overloading a muscle beyond its capacity tears its fibres.

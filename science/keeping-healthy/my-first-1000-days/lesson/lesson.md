@@ -9,9 +9,9 @@ The **first 1000 days** of a life — from the very start of life, through birth
 
 They are not a small beginning that the rest of life simply overwrites. How a child grows in those days is carried forward: the body built then is the body the adult lives in. That is why the book gives these days a lesson of their own, inside a book about food and health: what happens first matters for everything after.
 
-[Picture — a 1000-days line from the start of life to a small child, with the years of adult life stretching on after it — the student points to which stretch the lesson says shapes the other]
+In your mind's eye: a 1000-days line from the start of life to a small child, with the years of adult life stretching on after it. The student points to which stretch the lesson says shapes the other.
 
-[GIF — the short 1000-days stretch at the start of the line lighting up the long adult stretch after it — the student says what the picture claims]
+In your mind's eye: the short 1000-days stretch at the start of the line lighting up the long adult stretch after it. Say what the picture claims.
 
 ## Sub lesson 2 — Professor Barker's discovery: the Hertfordshire birth records
 

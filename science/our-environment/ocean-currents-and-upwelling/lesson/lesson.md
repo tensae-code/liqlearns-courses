@@ -7,9 +7,9 @@ Stand on a Samoan beach and look out. The water at your feet is warm; far below 
 
 The ocean is layered by temperature. Sun-warmed water floats at the top; below it the water is cold. Between the warm top and the cold deep lies the **thermocline** — the layer where the temperature drops quickly as you go down. Samoa's Year 10 Book 3 teaches the ocean environment of the islands in exactly these terms: warm and cold water, and the thermocline between them (printed pp. 27–31).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The trade winds, the currents and upwelling
 

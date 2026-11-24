@@ -7,9 +7,9 @@ A tower built from ten blocks comes down — and the same ten blocks become a br
 
 Start by seeing the **pieces**: many objects are **made of a small set of pieces** joined in one arrangement (Grade 2, 2.3.3, printed p. 98). The object is not one solid lump of stuff — it is pieces, plus the way they are put together. Name the pieces and you have the object's whole material.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Disassemble and reshape — a new object, a new function
 

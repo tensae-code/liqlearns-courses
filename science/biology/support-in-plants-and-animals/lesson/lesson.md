@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Support in plants 
 ## The idea
 A living thing cannot simply lie in a heap. A plant must hold itself up so its leaves reach the light; an animal must hold its body up so it can move, feed and escape. That holding-up is **support**. Sudan's Grade 10 biology book treats support as a subject in its own right: after its unit on movement in living organisms, it closes the book with a whole unit — Unit Five: Support in Living Organisms — on support in plants and support in animals (printed pp. 137–149).
 
-[Picture — a plant holding itself upright beside an animal standing on its legs, both labelled "support"]
+In your mind's eye: a plant holding itself upright beside an animal standing on its legs, both labelled "support".
 
 ## The key facts
 **Support in plants.** A plant is held up from inside its own body — its stems and other parts keep it upright, spread its leaves towards the light and hold its flowers and fruits in place. Without support the plant would flop to the ground and could not catch the light it needs.

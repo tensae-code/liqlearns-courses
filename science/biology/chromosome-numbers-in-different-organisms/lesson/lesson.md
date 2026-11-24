@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Chromosome numbers
 ## The idea
 Each species carries its own characteristic chromosome number, constant in every body cell and every generation — cattle 60, sheep 54, pig 38, chicken 78 — a fixed mark of the species. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a table of farm animals — cow, sheep, pig, chicken — each with a small nucleus beside it labelled with its chromosome number: 60, 54, 38, 78]
+In your mind's eye: a table of farm animals — cow, sheep, pig, chicken. Each with a small nucleus beside it labelled with its chromosome number: 60, 54, 38, 78.
 
 ## The key facts
 **§52 The number of chromosomes in different organisms.** §52 The number of chromosomes in different organisms

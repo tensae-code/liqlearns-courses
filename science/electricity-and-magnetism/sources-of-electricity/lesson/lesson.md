@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Some sources hold electricity ready inside them. A **cell** — the dry cell in a torch or a remote control — stores chemicals that can push electricity out when the cell is connected into a circuit. Join cells together and you have a **battery**, a stronger store. Stored sources can be carried anywhere, work without any supply from outside, and run out: when the store is spent, the torch dies until the cell is replaced or, for rechargeable cells, filled again from another source.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sources that make electricity — mains and generators
 

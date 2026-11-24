@@ -7,9 +7,9 @@ Before you read: think of a tool or a school material that was spoiled because i
 
 Rwanda's Primary 2 book teaches **keeping and maintaining home materials properly**, and then the same care for **school materials**: materials that are kept properly stay ready for their work and last; materials left carelessly are lost, broken or spoiled.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Maintaining and storing agricultural tools
 

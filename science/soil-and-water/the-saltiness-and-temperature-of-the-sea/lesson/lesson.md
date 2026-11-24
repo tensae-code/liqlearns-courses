@@ -7,9 +7,9 @@ A litre of seawater is not a litre of water. Something is dissolved in it — ho
 
 **Salinity** is the sea's dissolved load: the ocean is **96.5% water and 3.5% dissolved solids**, measured in **parts per thousand**, and the dissolved part is a mix of common **ions**. Salinity is not the same everywhere: **rainfall** freshens the surface and **evaporation** concentrates it, so salinity runs lower near the equator and off river coasts where rain and rivers dilute it. For the animals living in it, salinity changes the water itself — its **viscosity** and the **osmotic pressure** at their skins and gills (printed p. 114).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Ocean temperature — warm top, cold deep
 

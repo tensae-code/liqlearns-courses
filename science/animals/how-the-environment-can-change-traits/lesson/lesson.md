@@ -7,9 +7,9 @@ Two plants of the same kind, from the same seeds: one grows tall in rich, watere
 
 A living thing's **traits** — its size, shape, colouring, condition — come from its parents, but they are not sealed there. Utah's Grade 3 standard 3.2.3 (printed p. 62) states the lesson's one thing plainly: **the environment can affect the traits of living things**. Where a thing lives — its food, water, light, space — leaves marks on the traits it shows.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Explaining it from evidence
 

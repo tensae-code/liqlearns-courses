@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — the electroscope and elec
 
 Kazakhstan's books teach this as their own lesson — "What an electroscope is for". The learner works through the books' own presentation of what an electroscope is for — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what an electroscope is for as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what an electroscope is for as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

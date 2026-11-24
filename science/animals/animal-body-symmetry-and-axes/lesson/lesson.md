@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Nicaragua's Grade 7 Módulo Autoformativo names the invertebrate body symmetry types: **spherical** symmetry (the body matches along any plane through its centre, like a ball), **radial** symmetry (the body matches along planes through one central axis, like slices of a cake) and **bilateral** symmetry (one plane only divides the body into matching left and right halves — the symmetry of most animals, and of our own bodies). Naming an animal's symmetry is a first step in sorting the invertebrates, the animals without backbones.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

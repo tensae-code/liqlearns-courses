@@ -9,9 +9,9 @@ Bulgaria's Grade 4 book's Lesson 56 is a **project**: *In Defence of Bulgarian N
 
 The research has named objects: the territory's **species** — what lives there; its **rare inhabitants** — the uncommon living things the protection exists for; and **why the place matters** — what would be lost if it were not defended.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Knowing a place is the first defence
 
@@ -19,9 +19,9 @@ The project form is the teaching: a protected territory is defended first by bei
 
 Research first, defence second: the learner who has done this project holds the facts a defence is made of — which place, which species, which rare inhabitants, and what is at stake.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

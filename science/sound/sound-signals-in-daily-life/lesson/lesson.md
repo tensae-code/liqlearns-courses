@@ -7,13 +7,13 @@ Before you read: a whistle blows at a match, a bell rings at school, a siren pas
 
 Iran's Grade 2 book tells it as a historical note inside its sound lesson: at the shrine of Imam Reza, the naqqareh — great kettle drums — were sounded to announce sunrise and sunset to the pilgrims. The drumbeat was not music for its own sake: it was a signal, a message everyone in earshot understood — the day begins; the day ends.
 
-[Picture — drums that announce the hour as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: drums that announce the hour as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — The captain's signals
 
 The same book turns the class into a ship's crew: imagine you are a ship's captain, guiding and being guided by signals — a light seen, a sound heard, each with an agreed meaning. A signal works because sender and receiver agree the meaning beforehand: the sound or flash is short; the meaning is the whole message.
 
-[Picture — the captain's signals as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the captain's signals as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

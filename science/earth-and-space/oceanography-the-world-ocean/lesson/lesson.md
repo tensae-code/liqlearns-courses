@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Additional Science Form 5 book opens oceanography with **early ocean exploration and its purposes** — the earliest explorers named are **Ibn Battuta, Christopher Columbus and Vasco da Gama** — and sets out **the main oceans on the world map and the main seas of Southeast Asia**. The **ocean floor's structure** is sketched and tabulated zone by zone, and **mapping the ocean floor** is taught with what seafloor maps give science. Continental drift and plate tectonics are linked to how the ocean floor evolves.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Seawater — temperature, pressure, density — and ocean life
 

@@ -7,25 +7,25 @@ Picture a globe turning slowly. Two kinds of surface pass in front of you: land 
 
 The Earth's land is gathered into **continents**: the great land masses. Cuba's book teaches them first, as the frame of the world's land — every country, Cuba among them, stands on a continent (Cuba's own continental home, the Americas, is where its book reads the relations of nature in detail).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The oceans — the great waters
 
 Facing the continents stand the **oceans**: the great water masses that cover most of the Earth's surface. Lands and waters are not equally distributed on the planet — the Grade 6 book asks that question outright before naming the oceans — and the oceans are the larger share.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 3 — Islands and seas — between the great masses
 
 Between the great masses sit the smaller pieces: **islands** — land surrounded by water, Cuba itself among them — and **seas** — the waters at the continents' edges, smaller than oceans. Continents, oceans, islands and seas: the whole surface of the Earth, sorted from the greatest masses down.
 
-[Picture — the lesson's central object or set-up, from sub lesson 3 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 3 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

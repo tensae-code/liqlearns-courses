@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — how animals keep themselves c
 
 South Sudan's Primary 2 book teaches how animals clean themselves, starting with the dog: dogs **roll and bite their fur**; the guide's answers give the dog's full set — **licking, nibbling, body shaking and rolling on the ground** — done to prevent germs and pests.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Chickens — the dust bath
 

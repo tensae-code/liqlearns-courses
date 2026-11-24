@@ -7,9 +7,9 @@ Plot every earthquake and volcano on a world map. Would the dots scatter evenly,
 
 The data shows a pattern, not a scatter: **most earthquakes and volcanoes occur in bands along continent–ocean boundaries** (Grade 5, 5.1.1, printed p. 13). Where a continent meets an ocean, the Earth is active in a line; away from those boundaries, the map is quiet. The band is the fact the analysis finds.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Mountain chains — inside continents or near their edges
 

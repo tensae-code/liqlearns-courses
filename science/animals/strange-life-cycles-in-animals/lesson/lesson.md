@@ -9,9 +9,9 @@ Iraq's Grade 4 book teaches life cycles group by group — non-flowering plants,
 
 The reading's place is its point. After the plain patterns are learned, the strange ones can be seen for what they are: cycles that still run — young, growth, new young — but by routes that surprise: the young unlike the grown animal, stages in unexpected places, changes no plain cycle would predict. Strange does not mean broken: it means the cycle takes a road the plain pattern did not show.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Prions, viroids an
 ## The idea
 Jordan's Grade 10 course gives one unit to "Viruses, Viroids and Prions". The viruses have their own lessons in this course. This lesson teaches the other two: the infectious particles that are smaller and simpler than true viruses — and are not cells at all. A viroid is only a small circular RNA molecule, with no protein coat. A prion is only a protein — but a misfolded one, and infectious.
 
-[Picture — a diagram of the three acellular agents side by side, drawn to compare them — a virus particle with its coat, a tiny bare circle of RNA labelled viroid, and a normal protein beside its misfolded prion copy]
+In your mind's eye: a diagram of the three acellular agents side by side, drawn to compare them — a virus particle with its coat, a tiny bare circle of RNA labelled viroid, and a normal protein beside its misfolded prion copy.
 
 ## The key facts
 **Smaller and simpler than viruses.** The student book's Lesson 2, "Viroids and prions", defines its subject up front: infectious particles smaller and simpler than true viruses. Neither one is a cell, and neither one lives on its own — each can act only inside a living host.

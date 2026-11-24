@@ -7,9 +7,9 @@ A dead leaf falls in a wood. A dead branch lies beside it. A year later both are
 
 Dead matter in the forest does not pile up forever: it **rots** — it is broken down, piece by piece, until it becomes part of the soil again. The guide teaches rotting and digestion together in the forest floor: the forest's own recycling, returning dead things to the ground that feeds the living trees.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The rotting crew — fungi and many-legged soil animals
 

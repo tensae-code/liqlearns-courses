@@ -7,9 +7,9 @@ Is your body one thing, or many things working as one? And are you yourself part
 
 A **system** is a **set of structures, cycles and processes bound together and acting on each other**. The book's examples cross all of science: **the human body**, **the planets round the Sun**, and **the energy carried in a lightning bolt** — living, space and energy systems, all systems by the same definition.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Parts interact — and systems sit inside systems
 

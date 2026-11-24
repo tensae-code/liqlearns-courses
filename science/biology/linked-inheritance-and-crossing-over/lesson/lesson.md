@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Linked inheritance
 ## The idea
 a Punnett square built for the cross BbMm × bbmm and the expected offspring genotype ratios compared against what linkage actually gives (same proposed slug as in the Moldova filings)
 
-[Picture — two chromosomes drawn side by side carrying the gene pairs B/b and M/m together, beside a Punnett square for the cross BbMm × bbmm]
+In your mind's eye: two chromosomes drawn side by side carrying the gene pairs B/b and M/m together, beside a Punnett square for the cross BbMm × bbmm.
 
 ## The key facts
 **The cross.** Kuwait's Grade 11 Term 1 applications workbook (Activity 11, printed p. 40) builds a Punnett square for the cross BbMm × bbmm and writes down the expected offspring genotype ratios.

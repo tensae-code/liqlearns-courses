@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Lung volumes and c
 ## The idea
 Not all the air in the lungs moves with every breath: the air of breathing is measured in named volumes — the tidal volume of one quiet breath, the reserve volumes above and below it, and the residual volume that never leaves — and volumes added together make the lung capacities, of which vital capacity, the greatest breath you can force out after the deepest breath in, is the measure of a working lung. No lesson in this course taught this on its own before, so this lesson is built for it — from Bhutan's Class 9 book, which teaches it as a named topic.
 
-[Picture — a spirogram trace — a wavy line of breathing rising and falling, with brackets naming the tidal volume, the inspiratory and expiratory reserves, the residual volume and the tall bracket of the vital capacity]
+In your mind's eye: a spirogram trace — a wavy line of breathing rising and falling, with brackets naming the tidal volume, the inspiratory and expiratory reserves, the residual volume and the tall bracket of the vital capacity.
 
 ## The key facts
 **One quiet breath — the tidal volume.** Breathing at rest moves only a small part of the lung's air in and out. That amount, the air of one normal breath in or out, is the tidal volume.

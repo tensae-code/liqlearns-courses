@@ -9,9 +9,9 @@ The book's Cook Islands Māori name for it is **Oraanga e Pitoenua** — **healt
 
 Health and wellbeing is **wider than not being sick**. A person can have no disease and still not be well — tired, badly fed, unhappy, alone. Wellbeing covers the whole state of a person: body and life together. That is why the book builds its whole class research project on health and wellbeing: it is a big enough question to investigate properly.
 
-[Picture — a class opening its health project, with the words Oraanga e Pitoenua — Health and Wellbeing written as the project's title — the student reads the title aloud and says what the project is about]
+In your mind's eye: a class opening its health project, with the words Oraanga e Pitoenua — Health and Wellbeing written as the project's title. The student reads the title aloud and says what the project is about.
 
-[GIF — the words "not sick" widening into "well in body and in life" — the student says what was added]
+In your mind's eye: the words "not sick" widening into "well in body and in life". Say what was added.
 
 ## Sub lesson 2 — Opinions differ
 

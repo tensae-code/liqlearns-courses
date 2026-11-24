@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Respiration in pla
 ## The idea
 Plants respire as animals do — every living cell takes in oxygen and releases energy from food — but with no special breathing organs: air moves in through stomata, lenticels and root surfaces, day and night, even while photosynthesis runs the other way in the light. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a green plant with oxygen arrows entering at a leaf stoma, a stem lenticel and the roots, and a small furnace glow drawn inside one cell labelled respiration]
+In your mind's eye: a green plant with oxygen arrows entering at a leaf stoma, a stem lenticel and the roots, and a small furnace glow drawn inside one cell labelled respiration.
 
 ## The key facts
 **§25 Respiration of plants.** how plants take in oxygen without special organs

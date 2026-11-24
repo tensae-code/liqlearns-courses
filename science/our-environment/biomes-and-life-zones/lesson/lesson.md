@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — biomes and life zones. 
 
 Biogeography and biomes: large geographic zones sharing climate, soil and living beings; world biomes classified mainly by temperature and precipitation; ecosystems change over time (was this forest the same 100 years ago?).
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Succession after a fire (the area two years on, and ten), natural vs human-caused
 

@@ -7,31 +7,31 @@ Before you read: think about this lesson's subject — archimedes' law and buoya
 
 Kazakhstan's books teach this as their own lesson — "How Archimedes' law was discovered". The learner works through the books' own presentation of how Archimedes' law was discovered — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how Archimedes' law was discovered as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how Archimedes' law was discovered as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — What the buoyant force is
 
 Kazakhstan's books teach this as their own lesson — "What the buoyant force is". The learner works through the books' own presentation of what the buoyant force is — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what the buoyant force is as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what the buoyant force is as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How Archimedes' law acts in air
 
 Kazakhstan's books teach this as their own lesson — "How Archimedes' law acts in air". The learner works through the books' own presentation of how Archimedes' law acts in air — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how Archimedes' law acts in air as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how Archimedes' law acts in air as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — How Archimedes' law is applied
 
 Kazakhstan's books teach this as their own lesson — "How Archimedes' law is applied". The learner works through the books' own presentation of how Archimedes' law is applied — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how Archimedes' law is applied as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how Archimedes' law is applied as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 5 — What is buoyant force
 
 Kazakhstan's books teach this as their own lesson — "What is buoyant force". The learner works through the books' own presentation of what is buoyant force — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what is buoyant force as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what is buoyant force as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

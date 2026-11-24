@@ -9,9 +9,9 @@ Djibouti's Grade 3 guide puts the question at the head of the lesson: **do all a
 
 They do not. Look from one animal to another and the teeth change — in shape, in size, in what they are good for. That difference is the lesson's first fact, and it is found by looking, not by memorising: the guide's pupils compare animals and see for themselves that one set of teeth is not every animal's set.
 
-[Picture — the mouths of two different animals side by side, teeth showing — the student says how the two sets of teeth differ]
+In your mind's eye: the mouths of two different animals side by side, teeth showing. Say how the two sets of teeth differ.
 
-[GIF — one animal eating, its teeth at work on its food — the student says which teeth do the work]
+In your mind's eye: one animal eating, its teeth at work on its food. Say which teeth do the work.
 
 ## Sub lesson 2 — Teeth fit the food
 

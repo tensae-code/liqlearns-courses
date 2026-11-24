@@ -7,9 +7,9 @@ One small island holds lava fields, woods, wetlands, heaths, gravel plains, high
 
 Iceland is a **young volcanic island** with very varied landscapes. Its nature book, *Líf á landi* (Life on Land), does not teach its living things species by species in a list — it organises the living world **by habitat**: lava, forest, soil, grassland, wetland, heath, gravel plain, highland, human-made land and shore.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Each habitat known by its characteristic organism
 

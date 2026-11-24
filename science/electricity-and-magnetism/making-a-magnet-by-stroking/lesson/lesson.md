@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — making a magnet — an object
 
 Papua New Guinea's Grade 3 textbook teaches the surprising step after magnets attracting objects: an object that a magnet attracts — an iron or steel object, such as a nail or a needle — can itself **become a magnet**. The magnet does not only pull it; it can pass magnetism into it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Stroking — the making, and the test
 

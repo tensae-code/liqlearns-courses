@@ -9,9 +9,9 @@ Bulgaria's Grade 4 book's Lesson 54, *Observers — a school excursion*, begins 
 
 The kit is named: a **notebook** for recording and a **magnifier** for the small things. Preparation is not a delay of the fieldwork; in the book's teaching it is the first half of it — an excursion without questions is only a walk.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Carrying it out — observing and recording
 
@@ -19,9 +19,9 @@ On the ground, the observers work their questions: they **observe** the chosen c
 
 And the recording has one more named object: **the traces of human activity** in the community — the marks people leave where they pass and live. A field study records the community as it is, human traces included, and brings the notebook home as the study's result.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

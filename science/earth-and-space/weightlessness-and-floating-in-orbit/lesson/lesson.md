@@ -7,9 +7,9 @@ Before you read: think of the thing this lesson is about, from your own life. Sa
 
 Grade 7 first separates mass from weight (§12.2): mass is how much matter a thing has; weight is gravity's pull on it, felt because the ground, a chair or a floor pushes back and stops the fall. Stand still and you feel your weight in that push-back.
 
-[Picture — the lesson's central object or set-up — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
 
 ## Sub lesson 2 — Falling together — weightlessness
 

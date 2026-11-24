@@ -7,31 +7,31 @@ Before you read: think about this lesson's subject — how the continents and oc
 
 Kazakhstan's books teach this as their own lesson — "History of the mastering and study of the continents and parts of the world". The learner works through the books' own presentation of history of the mastering and study of the continents and parts of the world — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — history of the mastering and study of the continents and parts of the world as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: history of the mastering and study of the continents and parts of the world as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — History of the study of the oceans
 
 Kazakhstan's books teach this as their own lesson — "History of the study of the oceans". The learner works through the books' own presentation of history of the study of the oceans — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — history of the study of the oceans as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: history of the study of the oceans as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Exploration of the oceans
 
 The books teach this part as "Exploration of the oceans" (practical work: marking continents, oceans and mountain systems on an outline map) — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — exploration of the oceans as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: exploration of the oceans as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — How the modern map took shape
 
 The books teach this part as "How the modern map took shape" (the forming of the continents' outlines) — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — how the modern map took shape as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how the modern map took shape as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 5 — Who made the modern map?
 
 Kazakhstan's books teach this as their own lesson — "Who made the modern map?". The learner works through the books' own presentation of who made the modern map? — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — who made the modern map? as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: who made the modern map? as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

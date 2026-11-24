@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Pharming — prote
 ## The idea
 Pharming makes transgenic animals secrete human pharmaceutical proteins in their milk — a medicine factory on four legs — so the protein is harvested by milking, purified, and used to treat people. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a goat drawn with a labelled udder and a churn beside it holding a medicine bottle, the chain from gene to milk to medicine marked in three steps]
+In your mind's eye: a goat drawn with a labelled udder and a churn beside it holding a medicine bottle, the chain from gene to milk to medicine marked in three steps.
 
 ## The key facts
 **Ch. 9.** pharmaceutical proteins secreted in the milk of transgenic animals

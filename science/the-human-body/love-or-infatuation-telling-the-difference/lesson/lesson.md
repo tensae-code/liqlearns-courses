@@ -7,9 +7,9 @@ Before you read: two feelings can look alike from inside. What is the difference
 
 The book names the pair: **love** and **infatuation** — two feelings a young person can confuse, taught as a topic of the science book itself, beside puberty and responsible behaviour. Naming both is the first step of the lesson.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Telling the difference
 

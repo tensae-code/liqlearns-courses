@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The genetic code. 
 ## The idea
 The genetic code is the dictionary of life: bases are read in threes — codons — each codon naming one amino acid, with AUG as the start signal and three codons as stops; the code is nearly universal, the standing proof that all life shares one ancestry and one language. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a codon table drawn as a grid of small squares, one square lit showing AUG labelled START, and three squares darkened labelled STOP]
+In your mind's eye: a codon table drawn as a grid of small squares, one square lit showing AUG labelled START, and three squares darkened labelled STOP.
 
 ## The key facts
 **Unit 5, Act. 4 + Appendix.** the genetic code as a "musical code"; full code table in appendix (p. 87)

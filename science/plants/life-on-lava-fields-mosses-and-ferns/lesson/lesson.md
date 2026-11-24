@@ -7,9 +7,9 @@ A fresh lava field is black, bare rock where nothing grows. Years later it wears
 
 New lava is **colonised first by mosses and ferns**. The guide names the moss: **hraungambri, the woolly fringe-moss**, settling on the lava, with ferns beside it — small, seedless plants that can take hold where flowering plants cannot yet live. The seedless plants themselves (mosses, liverworts and ferns as kinds) are stocked in `plants/seedless-plants-mosses-and-ferns`; this lesson's one thing is their work as lava's first settlers.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Counting the capsules — the fern frond activity
 

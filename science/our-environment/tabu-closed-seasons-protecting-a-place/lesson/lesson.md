@@ -11,9 +11,9 @@ The place can be a garden, a piece of bush, a shore or a reef — anywhere peopl
 
 A tabu is put on a place because the place needs it — its plants have thinned, its animals or fish have grown few or small, because people have been taking from it without a break.
 
-[Picture — a garden corner marked off with sticks and a ribbon, with a hand-lettered closed sign — the student points to the marks that show the place is tabu]
+In your mind's eye: a garden corner marked off with sticks and a ribbon, with a hand-lettered closed sign. The student points to the marks that show the place is tabu.
 
-[GIF — hands tying a ribbon around a garden marker, then stepping back and leaving the garden alone — the student says what the ribbon means and what people must not do now]
+In your mind's eye: hands tying a ribbon around a garden marker, then stepping back and leaving the garden alone. Say what the ribbon means and what people must not do now.
 
 ## Sub lesson 2 — The closed time lets living things recover
 

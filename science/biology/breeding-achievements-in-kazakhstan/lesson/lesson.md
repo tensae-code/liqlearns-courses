@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Breeding achieveme
 ## The idea
 Kazakhstan has its own breeding record — plant varieties and animal breeds selected by its own breeders for its steppe conditions — which its Grade 8 book teaches as a named section of the selection chapter, beside Vavilov's centres of origin. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a Kazakh steppe farm with a bred wheat variety and a bred sheep breed in front, each with a label naming it as a Kazakhstan breeding achievement, and a research institute building behind]
+In your mind's eye: a Kazakh steppe farm with a bred wheat variety and a bred sheep breed in front, each with a label naming it as a Kazakhstan breeding achievement, and a research institute building behind.
 
 ## The key facts
 **§53 Selection achievements in Kazakhstan.** the country's own breeding record as a named §

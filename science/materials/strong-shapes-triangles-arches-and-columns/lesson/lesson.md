@@ -9,9 +9,9 @@ Push the side of a square frame and it **racks** — it leans into a diamond wit
 
 China's Grade 3 book tests the two frames against each other — triangle against square — because this is the first secret of steady building: where a structure must keep its shape, triangles do the holding. A square frame is steadied by adding a diagonal — which is only a way of dividing it into triangles.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Wide bases, columns and the arch
 

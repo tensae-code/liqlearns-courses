@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Photovoltaic cells of silicon joined in series; the solar lamp and street light (panel, battery, LED, controller); building a solar dryer (insulated box, sloped transparent cover, black interior, cold-air inlet low and hot-air outlet high); the solar water heater with evacuated tubes and thermosiphon circulation; and the solar cooker with its concave reflector and blackened pot.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Photovoltaic cells of silicon joined in series
 

@@ -9,9 +9,9 @@ Make **bilberry juice** — Finland's local berry, crushed so its dark juice run
 
 An adult prepares a cup of **warm water**. Put bilberry juice into the warm water and watch: the juice **changes colour** as it meets the warmth. Look closely and record the colour the juice shows in the warm cup — that record is half the experiment.
 
-[Picture — two cups side by side, warm water and cold water, with bilberry juice being dropped into each — the student points to which cup is warm and which is cold]
+In your mind's eye: two cups side by side, warm water and cold water, with bilberry juice being dropped into each. The student points to which cup is warm and which is cold.
 
-[GIF — bilberry juice spreading into warm water, then into cold water, showing a different colour in each — the student says what was the same and what was different]
+In your mind's eye: bilberry juice spreading into warm water, then into cold water, showing a different colour in each. Say what was the same and what was different.
 
 ## Sub lesson 2 — Bilberry juice in cold water
 

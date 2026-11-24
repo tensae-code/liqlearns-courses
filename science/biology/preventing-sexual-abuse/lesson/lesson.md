@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Preventing sexual 
 ## The idea
 North Macedonia's Grade 8 textbook ends its human reproduction and health theme with a lesson most biology books leave out: prevention of sexual abuse (Theme 3.12, printed p. 192), taught inside biology, after sexual and reproductive health, rights and care. The lesson rests on a simple ground: the body is one's own, some touching and some requests are never acceptable, and there are always things a person can do — refuse, leave, and tell. No lesson in this course taught this on its own before, so this lesson is built for it.
 
-[Picture — a young person standing firm with one hand raised in a clear 'stop', and beside them the trusted adults of their life — a parent, a teacher, a doctor — drawn as the people who can be told]
+In your mind's eye: a young person standing firm with one hand raised in a clear 'stop', and beside them the trusted adults of their life — a parent, a teacher, a doctor. Drawn as the people who can be told.
 
 ## The key facts
 **Your body belongs to you.** Nobody has the right to touch your body in a way that makes you uncomfortable, or to ask you to touch theirs or to keep such things secret. Your body is your own — in biology's terms, part of caring for your reproductive health and your rights.

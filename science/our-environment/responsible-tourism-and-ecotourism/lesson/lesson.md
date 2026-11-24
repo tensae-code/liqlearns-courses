@@ -7,19 +7,19 @@ Before you read: think of a beautiful place visitors love — a castle, a wetlan
 
 Iran's book defines tourism plainly: travel and activity done outside one's living place, for at least one day. Our country Iran has many places for touring, and tourism brings real benefits — to the traveller's own life and to the places visited. The book also reaches back: Iran has a long antiquity in tourism, and the Hajj stands in it as a symbol of religious travel.
 
-[Picture — tourism — travelling, and what it brings as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: tourism — travelling, and what it brings as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Ecotourism — travel that protects
 
 Against ordinary travel the book sets ecotourism: a responsible journey to natural areas that protects the environment — and it states the test sharply: any tourism in conflict with the environment's sustainability principles is not an instance of ecotourism. How visitors treat an attraction is the whole question; two approaches follow from it, one that uses a place up and one that keeps it.
 
-[Picture — ecotourism — travel that protects as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: ecotourism — travel that protects as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Protected places, and travel that fits
 
 Iran keeps protected areas — set aside by its Environment Protection Organisation since 1353 to preserve natural areas, with wildlife refuges among them — and the lesson closes with success: villages whose tourism fits their culture and customs, and the book's own counsel for the road — take your pack light and your steps slow.
 
-[Picture — protected places, and travel that fits as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: protected places, and travel that fits as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

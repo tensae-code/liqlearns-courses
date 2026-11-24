@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — environmental factors. Th
 
 Kazakhstan's books teach this as their own lesson — "Environmental factors and their influence on ecosystems". The learner works through the books' own presentation of environmental factors and their influence on ecosystems — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — environmental factors and their influence on ecosystems as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: environmental factors and their influence on ecosystems as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Factors influencing the life of an ecosystem
 
 The books teach this part as "Factors influencing the life of an ecosystem" (with the practical work on water conditions for seed germination) — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — factors influencing the life of an ecosystem as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: factors influencing the life of an ecosystem as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

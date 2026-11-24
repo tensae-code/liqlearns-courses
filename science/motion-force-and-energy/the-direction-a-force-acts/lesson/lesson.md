@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — the direction a force act
 
 Kazakhstan's books teach this as their own lesson — "How to determine the direction in which a force acts". The learner works through the books' own presentation of how to determine the direction in which a force acts — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how to determine the direction in which a force acts as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how to determine the direction in which a force acts as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

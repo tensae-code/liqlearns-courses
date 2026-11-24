@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — food additives in what we
 
 The books teach this part as additives that preserve, flavour and colour food — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — what food additives are as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what food additives are as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

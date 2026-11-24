@@ -7,9 +7,9 @@ Look around and name five things. Each one takes up space — but each is made o
 
 A **body** is anything that **takes up space**: the stone, the chair, the drop of water, the air in the balloon. Angola's Grade 5 book opens with this idea because all the nature science that follows studies bodies — their properties, their changes, their states. If a thing is there, taking up its place in the world, it is a body, whatever its size.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What a substance is
 

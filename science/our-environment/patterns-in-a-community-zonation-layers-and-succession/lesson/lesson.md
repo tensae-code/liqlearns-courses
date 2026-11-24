@@ -7,9 +7,9 @@ Walk from the sea's edge up a Samoan volcano, from splash zone to cloud forest. 
 
 **Zonation** is the banding of organisms across a place. Around the **Aleipata blowholes** the bands run: seaweeds, sponges and shellfish nearest the sea; then fewer shellfish; then periwinkles and crabs highest. The same pattern climbs a volcanic island: plant zonation rises from **coastal marsh** to **cloud forest**. Each band lives where its conditions — wetting, drying, light, cold — suit it (printed pp. 99–105).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Stratification — the layers of a forest
 

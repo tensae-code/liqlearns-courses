@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cytokinesis — di
 ## The idea
 Cell division is two acts, not one: the nucleus divides (karyokinesis), and then the cytoplasm divides — cytokinesis. North Macedonia's Biology I gives cytokinesis a separate lesson from nuclear division (Theme 2.11, printed p. 81), right after karyokinesis in its genetics theme. No lesson in this course separated cytokinesis out before, so this lesson is built for it.
 
-[Picture — an animal cell pinched in the middle by a deepening furrow until it parts in two, beside a plant cell with a new wall plate growing across its middle — both ending as two cells, each with its own nucleus]
+In your mind's eye: an animal cell pinched in the middle by a deepening furrow until it parts in two, beside a plant cell with a new wall plate growing across its middle — both ending as two cells, each with its own nucleus.
 
 ## The key facts
 **Division has two acts.** First the nucleus divides — karyokinesis, the mitosis of the earlier lessons. Then the cytoplasm divides — cytokinesis. Only when both are done has one cell become two cells.

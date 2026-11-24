@@ -9,9 +9,9 @@ Solids hold their own shape. A **fluid** does the opposite: it **flows** — it 
 
 The test is flowing, not wetness. If a material can flow and take its container's shape, it is a fluid — that is the Grade 6 book's sorting, placed right after the states of matter it builds on.
 
-[Picture — three vessels being tipped — water pouring, air shown flowing from a balloon, and a stone staying put — the student says which are fluids and why before reading on]
+In your mind's eye: three vessels being tipped — water pouring, air shown flowing from a balloon, and a stone staying put. Say which are fluids and why before reading on.
 
-[GIF — honey pouring slowly, then water pouring freely — the student says what drag does to each pour]
+In your mind's eye: honey pouring slowly, then water pouring freely. Say what drag does to each pour.
 
 ## Sub lesson 2 — Superfluids — flowing with no friction at all
 

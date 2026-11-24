@@ -9,9 +9,9 @@ A kind of living thing is **extinct** when every last one of it has died and non
 
 Kuwait's Grade 4 book sets extinction beside its warning form: a kind that still lives but is down to few, and falling, is **endangered** — in danger of extinction. The two words are a before-and-after: endangered is the last chance before extinct.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Why kinds disappear — and how they are saved
 

@@ -7,9 +7,9 @@ Before you read: light a candle in your mind. It gives light — hold your hand 
 
 The unit's closing topic is **the relationship between sources of light and sources of heat**: the two families are not separate — some sources give light, some give heat, and some, like the sun and the flame, give **both together**.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sorting the sources
 

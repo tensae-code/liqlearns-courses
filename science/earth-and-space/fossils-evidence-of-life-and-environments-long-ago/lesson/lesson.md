@@ -7,9 +7,9 @@ High in the cold Arctic, scientists find fossils of tropical plants. Seashells a
 
 A **fossil** is read as **evidence**: the book (4.1.3, printed p. 41) has pupils **analyse fossil data as evidence of organisms and environments from long ago** — its worked example is the **trilobites and their modern relatives**. Match a fossil to the living things it resembles, and the fossil tells you both what lived then and what its world was like: the organism and its environment are read together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Rock layers and their fossils — environments change over time
 

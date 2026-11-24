@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 If the universe's average density is below the critical density it is open and galaxies recede forever; if equal, flat, with expansion slowing to a stop; if above, closed, shrinking back to a point in a great contraction.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — If the universe's average density is below the critical density it is open and galaxies recede forever
 

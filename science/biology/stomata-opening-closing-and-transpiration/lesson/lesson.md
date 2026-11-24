@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Stomata — openin
 ## The idea
 Mozambique's plant-physiology module (Módulo 5) gives Lesson 4 to the stomata and the plastids. The stoma is a pore worked by two guard cells: water in, and the cells swell and pull the pore (the ostiole) open; water out, and it closes. The module quantifies what leaves through the open pores as transpiration. Beside it stand the plastids — organelles with a double membrane, found only in photosynthetic organisms — with the chloroplast's structure figured.
 
-[Picture — a leaf surface magnified, one stoma drawn twice — open between two swollen guard cells and closed between two slack ones — with water-vapour arrows leaving the open pore, and beside it a chloroplast drawn with its double membrane]
+In your mind's eye: a leaf surface magnified, one stoma drawn twice — open between two swollen guard cells and closed between two slack ones. With water-vapour arrows leaving the open pore, and beside it a chloroplast drawn with its double membrane.
 
 ## The key facts
 **Guard cells work the pore.** Each stoma (pore, ostiole) is flanked by two guard cells. When the guard cells gain water and become turgid, the stoma opens; when they lose water, it closes.

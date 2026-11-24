@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cholera and typhoi
 ## The idea
 Two killer diseases travel in water and food: Kenya's Form 3 book teaches cholera (Vibrio cholerae) and typhoid (Salmonella typhi) together as human bacterial diseases — symptoms, oral rehydration salts, deep pit latrines, vaccination and food-handler hygiene.
 
-[Picture — a village water point drawn as the meeting place of danger and defence — a contaminated water jar on one side with the two bacteria named beneath it, Vibrio cholerae and Salmonella typhi — and on the other side the defences: a cup of oral rehydration salts, a deep pit latrine, a vaccination syringe, and a food handler washing hands before serving]
+In your mind's eye: a village water point drawn as the meeting place of danger and defence — a contaminated water jar on one side with the two bacteria named beneath it, Vibrio cholerae and Salmonella typhi. And on the other side the defences: a cup of oral rehydration salts, a deep pit latrine, a vaccination syringe, and a food handler washing hands before serving.
 
 ## The key facts
 **Cholera.** Cholera is caused by the bacterium Vibrio cholerae; its symptoms are the body's violent loss of water, treated by oral rehydration salts that replace the water and salts lost.

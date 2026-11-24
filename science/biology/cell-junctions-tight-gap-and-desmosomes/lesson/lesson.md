@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cell junctions —
 ## The idea
 long-lived protein-fibre junctions between cells; learners complete a comparison table and label junction types on a digestive-tract diagram
 
-[Picture — two cells side by side with the three junction kinds drawn between them and labelled: a sealed tight junction, a gap junction channel, and a desmosome anchoring the two cells together]
+In your mind's eye: two cells side by side with the three junction kinds drawn between them and labelled. A sealed tight junction, a gap junction channel, and a desmosome anchoring the two cells together.
 
 ## The key facts
 **Junctions between cells.** Kuwait's new Grade 10 student book (Lesson 1-4, printed pp. 76–77) teaches cell junctions as long-lived protein-fibre junctions between cells.

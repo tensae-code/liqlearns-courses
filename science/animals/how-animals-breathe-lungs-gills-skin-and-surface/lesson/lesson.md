@@ -9,9 +9,9 @@ Bulgaria's Grade 4 book's Lesson 36 teaches **breathing as a life process**: org
 
 That purpose is the lesson's anchor. Breathing is not just air moving in and out — it is the taking-in that lets the energy stored in food be freed for living. Every breathing organ, however different, does that one job.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Lungs, gills, skin and surface — and plants breathe too
 
@@ -19,9 +19,9 @@ The organs differ by the animal and its home. Animals breathe with **lungs**, wi
 
 And the book closes the circle: **plants breathe too**. Breathing belongs to living things as such — not to one group, and not to one organ. Name the organism, and the question is always the same: with what does it take in oxygen?
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

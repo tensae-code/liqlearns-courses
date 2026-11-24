@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Intestinal parasit
 ## The idea
 Mozambique's second PESD I module (2023) closes its nutrition-and-health unit with food infections and parasitoses, and the parasitoses are worked one by one. Ascariasis first: the Ascaris infection that usually shows nothing, and what it can do when it does. Then the two tapeworms, each tied to its meat — Taenia solium to pork, T. saginata to beef — raw or undercooked. Then the pinworm-type transmission in its three forms, the most direct of which runs from anus to mouth after scratching. This lesson teaches the three parasites as the module lines them up.
 
-[Picture — three panels: a long pale Ascaris roundworm coiled in a gut outline; a tapeworm's flat ribbon body with a line to a pig for Taenia solium and to a cow for T. saginata; and a small pinworm beside a hand with an arrow marked "scratching — hand to mouth"]
+In your mind's eye: three panels: a long pale Ascaris roundworm coiled in a gut outline; a tapeworm's flat ribbon body with a line to a pig for Taenia solium and to a cow for T. saginata; and a small pinworm beside a hand with an arrow marked "scratching — hand to mouth".
 
 ## The key facts
 **Ascariasis — usually silent.** Infection with Ascaris is usually asymptomatic. When it does show: abdominal pain, loss of appetite and weight, nausea, diarrhoea — and, heavily, intestinal obstruction.

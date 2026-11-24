@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Endocrine disrupto
 ## The idea
 Hormones are the body's chemical messengers: they are released in one place, travel, and deliver instructions in another. France's Seconde SVT manual teaches that system in the chapter "Hormones et procréation humaine" (Hormones and human procreation) — and in the same chapter it teaches the substances that disturb the system: the "Perturbateurs endocriniens", the endocrine disruptors. This lesson is that part of the chapter.
 
-[Picture — a hormone signal drawn as a key travelling to its lock, with two outside substances beside it: one labelled bisphenol A with a small "banned in certain uses" tag, and one labelled DDT shown as a false key — the lure — slipping toward the lock]
+In your mind's eye: a hormone signal drawn as a key travelling to its lock, with two outside substances beside it: one labelled bisphenol A with a small "banned in certain uses" tag, and one labelled DDT shown as a false key — the lure. Slipping toward the lock.
 
 ## The key facts
 **What an endocrine disruptor is.** An endocrine disruptor is a substance that interferes with the endocrine system — the hormone system. It does not have to poison the body outright; it disturbs the signalling itself.

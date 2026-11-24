@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — sources of information fo
 
 The books teach this part as kinds of information sources and their strengths and weaknesses — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — sources of information as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: sources of information as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

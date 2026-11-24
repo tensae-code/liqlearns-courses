@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The brain's lympha
 ## The idea
 The brain was the one place the immune system was thought absent — until 2015, when lymphatic vessels were found in mouse meninges, and imaged in humans in 2017, hidden by hugging a great blood vessel through a region MRI reads badly: a lesson in how much anatomy can still be missed. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a brain wrapped in its membranes with a thin green vessel drawn running alongside a great red blood vessel in the membrane]
+In your mind's eye: a brain wrapped in its membranes with a thin green vessel drawn running alongside a great red blood vessel in the membrane.
 
 ## The key facts
 **Ch. 4 §1 feature "New discoveries about the immune system".** the brain was the one place the immune system was thought absent; in 2015 lymphatic vessels were found in mouse meninges, in 2017 imaged in humans — hidden, the discoverers say, by hugging a great blood vessel through a region MRI reads badly: a lesson in how much anatomy can still be missed.

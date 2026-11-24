@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — fresh air and sunlight 
 
 Zimbabwe's ECD A Science and Technology guide teaches **ventilation** as a health topic in its own right: a home needs fresh air moving through it, and the guide's youngest learners meet that idea at home level, before any science of gases.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sunlight in the home
 

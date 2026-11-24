@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Agrobacterium — 
 ## The idea
 The soil bacterium Agrobacterium naturally carries genes into plant cells on its plasmid, and genetic engineers use that same delivery system to give crop plants new genes. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a soil bacterium touching a plant cell, its small circular plasmid drawn travelling across into the plant cell's nucleus]
+In your mind's eye: a soil bacterium touching a plant cell, its small circular plasmid drawn travelling across into the plant cell's nucleus.
 
 ## The key facts
 **Ch. 9.** Agrobacterium can carry genes into plants

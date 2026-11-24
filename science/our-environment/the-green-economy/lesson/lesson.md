@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — the green economy. Then r
 
 Kazakhstan's books teach this as their own lesson — "'Green' economy — the future of Kazakhstan's development". The learner works through the books' own presentation of 'Green' economy — the future of Kazakhstan's development — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — 'Green' economy — the future of Kazakhstan's development as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: 'Green' economy — the future of Kazakhstan's development as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

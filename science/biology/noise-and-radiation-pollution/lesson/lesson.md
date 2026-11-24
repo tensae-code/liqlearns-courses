@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Noise and radiatio
 ## The idea
 Most pollution lessons stop at dirty air and dirty water. Unit 7 of Yemen's Grade 12 Biology and Earth Science book — The environment and its problems — goes further: after air pollutants and water pollution, it gives noise pollution (التلوث الضوضائي, printed p. 173) and radiation pollution (التلوث الإشعاعي, printed p. 176) headed sections of their own, before food pollutants (p. 178) and soil pollution (p. 180). Pollution, in Yemen's sorting, is any harmful thing let loose in the environment — including sound you cannot hold and rays you cannot see.
 
-[Picture — a busy city junction — loud traffic, horns and a road drill on one side — and a sealed radioactive source container with the trefoil warning sign being checked with a radiation meter on the other]
+In your mind's eye: a busy city junction — loud traffic, horns and a road drill on one side. And a sealed radioactive source container with the trefoil warning sign being checked with a radiation meter on the other.
 
 ## The key facts
 **Noise pollution.** Noise pollution (التلوث الضوضائي) is unwanted, harmful sound — Yemen's book teaches it under its own heading as a named kind of environmental pollution (printed p. 173).

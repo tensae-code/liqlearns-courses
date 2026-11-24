@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — speciation and reproduc
 
 Guía 13: where species come from; reproductive isolation mechanisms (including pollinator specificity in plants and second-generation sterility) and speciation models, beginning with geographic isolation.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The origin of species — when reproduction stops
 

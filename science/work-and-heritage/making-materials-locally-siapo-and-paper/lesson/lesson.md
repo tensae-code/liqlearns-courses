@@ -7,9 +7,9 @@ A siapo cloth was once the bark of a tree. A sheet of paper in your hand was onc
 
 Samoa makes many of its own materials: **siapo (tapa cloth)** from bark, **coconut cream**, **ice cream**, **bread**, **rope**, **beer** and **kofe powder**. The book's task is a maker's audit: for each local material, trace the steps of its making from the raw thing to the finished one (printed pp. 32–34).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hand-made paper — and naming every change
 

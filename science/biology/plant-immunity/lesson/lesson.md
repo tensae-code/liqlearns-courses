@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant immunity. A 
 ## The idea
 Egypt's Grade 12 Biology book teaches immunity twice — in plants first, then in man. This lesson is the plant half. A plant defends itself in two ways: with its structure — barriers and responses built from its tissues — and with its chemistry — substances that recognise, poison or break down the attacker. Egypt's book calls them structural immunity and biochemical immunity.
 
-[Picture — a plant stem in cross-section beside a leaf: the cutinised epidermis on the outside, a thorn, a xylem vessel blocked by a tylose, and a patch of gum on the bark of Acacia nilotica]
+In your mind's eye: a plant stem in cross-section beside a leaf. The cutinised epidermis on the outside, a thorn, a xylem vessel blocked by a tylose, and a patch of gum on the bark of Acacia nilotica.
 
 ## The key facts
 **Structural immunity — the barriers already there.** The plant's outside is armoured: a cutinised epidermis, hairs and thorns, and thickened cell walls keep pathogens out.

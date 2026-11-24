@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Movement in unicel
 ## The idea
 Single-celled organisms move with what they have: an amoeba flows by pseudopodia — temporary feet of streaming cytoplasm — while others row with many short cilia or lash one or two long flagella, each method fitted to life at microscopic size. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — three microscope circles side by side: an amoeba reaching out a blunt pseudopod, a slipper-shaped cell fringed with cilia, and a cell trailing one long flagellum]
+In your mind's eye: three microscope circles side by side. An amoeba reaching out a blunt pseudopod, a slipper-shaped cell fringed with cilia, and a cell trailing one long flagellum.
 
 ## The key facts
 **§5.1.** support and movement in unicellular organisms: pseudopodia/amoeboid movement, cilia and flagella

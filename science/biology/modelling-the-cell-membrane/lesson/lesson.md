@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Modelling the cell
 ## The idea
 building a membrane model from a glass dish of water, vegetable oil and fine sawdust, then stating what the water, the oil and the sawdust each represent in the real membrane's structure.
 
-[Picture — a glass dish of water with a film of vegetable oil on top and fine sawdust sprinkled on the oil, labelled part by part: water, oil and sawdust, with arrows to the parts of a real cell membrane each one stands for]
+In your mind's eye: a glass dish of water with a film of vegetable oil on top and fine sawdust sprinkled on the oil, labelled part by part. Water, oil and sawdust, with arrows to the parts of a real cell membrane each one stands for.
 
 ## The key facts
 **The model.** Kuwait's Grade 10 applications workbook (Activity 3, printed p. 20) has pupils design a sample — a model — for a cell membrane from a glass dish of water, vegetable oil and fine sawdust.

@@ -13,9 +13,9 @@ In Trinidad and Tobago's NCSE Integrated Science, **coursework counts in every f
 
 Form 2 carries the biggest coursework share — twice either of the others. Added together, the three coursework shares make **60%** of the final mark. Work done early counts: Form 1 coursework is already 15% of the mark you will finally receive, before Form 2 has even begun.
 
-[Picture — a 100-square bar with 15 squares coloured for Form 1, 30 for Form 2 and 15 for Form 3 — the student reads each share off the bar]
+In your mind's eye: a 100-square bar with 15 squares coloured for Form 1, 30 for Form 2 and 15 for Form 3. The student reads each share off the bar.
 
-[GIF — the bar filling in form by form, 15 then 30 then 15 squares colouring — the student says the running total after each form]
+In your mind's eye: the bar filling in form by form, 15 then 30 then 15 squares colouring. Say the running total after each form.
 
 ## Sub lesson 2 — Examinations and NCSE certification
 

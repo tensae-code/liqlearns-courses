@@ -7,9 +7,9 @@ The morning news says: rain by noon, and a storm tonight. You are leaving the ho
 
 A **forecast** is a statement of the weather that is expected — rain, storm, heat, cold — before it arrives. Its whole value is time: because the forecast comes first, people can act first. Utah's Kindergarten standard K.1.2 is the human reaction: use a forecast to decide how to prepare (printed p. 23).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Prepare — clothing and items to carry
 

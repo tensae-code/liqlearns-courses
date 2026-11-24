@@ -11,9 +11,9 @@ Before you read: what counts as technology? Name the three most technological th
 
 Each craft is a worked science of its material. The maker has to know what the material will do — where fibre is strong and where it snaps, how wood splits and how it holds — and that knowledge is tested every time the made thing is used, and handed down every time it is taught.
 
-[Picture — hands working a natural fibre into cord, with woven textile and a shaped wooden vessel beside — the student names each technology before reading on]
+In your mind's eye: hands working a natural fibre into cord, with woven textile and a shaped wooden vessel beside. Name each technology before reading on.
 
-[GIF — a woven textile growing row by row on a small frame — the student says what knowledge each row needs]
+In your mind's eye: a woven textile growing row by row on a small frame. Say what knowledge each row needs.
 
 ## Sub lesson 2 — Food preparation and preservation as technology
 

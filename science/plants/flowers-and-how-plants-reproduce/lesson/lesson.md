@@ -9,9 +9,9 @@ The **flower** is the plant's seed-making part, and it is built of parts with jo
 
 Outside sit the **petals**, the flower's coloured flags. Inside stand the **stamens**, which make the fine dust called **pollen**, and the **pistil**, in whose base the future seeds are held. Naming the parts — petal, stamen, pistil — is the first half of the lesson: reproduction has machinery, and the flower is it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — From pollen to seed
 

@@ -13,9 +13,9 @@ The pupil works **picture first**: they name the animal they see, and only then 
 
 That is what the support is *for*, as the placement files it: so that **pupils who cannot yet read can still name and work with the animals**. The science — naming, sorting, talking about the animals around us — does not have to wait for reading. The table is the bridge: picture and word side by side, until the word can stand on its own.
 
-[Picture — one row of the picture–word table: a bear, a frog and a pike, each with its name beside it — the student names each animal from its picture, then reads its name]
+In your mind's eye: one row of the picture–word table: a bear, a frog and a pike, each with its name beside it. Name each animal from its picture, then reads its name.
 
-[GIF — a name label being covered and uncovered beside an animal picture — the student names the animal while it is covered, then uncovers to check]
+In your mind's eye: a name label being covered and uncovered beside an animal picture. Name the animal while it is covered, then uncovers to check.
 
 ## The key ideas
 

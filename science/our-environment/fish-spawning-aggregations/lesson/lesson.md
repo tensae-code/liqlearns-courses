@@ -9,9 +9,9 @@ Many reef fish reproduce in the open water. The female fish releases her **eggs*
 
 There is no nest and no carrying: the parents' bodies do their part by the release itself, and the **water** is where the eggs are fertilised and the young fish start. Everything hangs on one thing — the eggs and the sperm must be in the same water, at the same time, close enough to meet.
 
-[Picture — reef fish above a reef, with clouds of tiny eggs drifting in the water around them — the student points to the fish and the eggs before reading on]
+In your mind's eye: reef fish above a reef, with clouds of tiny eggs drifting in the water around them. The student points to the fish and the eggs before reading on.
 
-[GIF — dots of eggs and sperm drifting together and mixing in the water — the student says what must meet for a new fish to begin]
+In your mind's eye: dots of eggs and sperm drifting together and mixing in the water. Say what must meet for a new fish to begin.
 
 ## Sub lesson 2 — The gathering — many fish, one place, one time
 

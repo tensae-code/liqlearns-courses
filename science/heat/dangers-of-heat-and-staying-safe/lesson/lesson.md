@@ -7,9 +7,9 @@ Before you read: heat cooks the food and warms the house — and heat can also h
 
 The book names the **harmful effects of heat** as their own topic: the same heat that serves can burn, scald, spoil and set alight — the harm is taught plainly, at the learner's own level, beside the heat they use every day.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Staying safe around heat
 

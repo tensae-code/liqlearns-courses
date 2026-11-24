@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cloning and plant 
 ## The idea
 A clone is a living copy: a new living thing whose heredity comes from one single donor, not from two parents. Nothing is fertilised and nothing is mixed — the copy carries the same heredity as the one it was copied from. Morocco teaches cloning at the end of its reproduction unit by comparison: two cloning techniques set side by side, then cloning set against natural reproduction, until the principle of cloning can be deduced from the comparisons themselves.
 
-[Picture — the two cloning techniques side by side: on one side an egg, on the other a specialised body cell taken from the mammary glands, each leading to a young animal that is a copy of a single donor]
+In your mind's eye: the two cloning techniques side by side. On one side an egg, on the other a specialised body cell taken from the mammary glands, each leading to a young animal that is a copy of a single donor.
 
 ## The key facts
 **What cloning is.** Cloning produces a new living thing that is a copy — its heredity is the heredity of one donor, carried whole, with no fertilisation and no mixing of two parents.

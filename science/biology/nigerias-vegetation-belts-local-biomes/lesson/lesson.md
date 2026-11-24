@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Nigeria's vegetati
 ## The idea
 A biome is usually taught from the other side of the world. Nigeria's Senior Secondary Biology 1 teaches local biomes from home: the country's own vegetation belts, running from the wet south to the dry north. Rain forest first; then the Southern and Northern Guinea savannah — with shea butter and locust bean trees and Isoberlinia doka named; and at the far north-east, the Sahel in Borno State near Lake Chad, worked with Maiduguri rainfall figures. Rainfall falling as you travel north is the thread that ties the belts together.
 
-[Picture — a map of Nigeria banded into its vegetation belts from south to north — rain forest, Southern Guinea savannah, Northern Guinea savannah, Sahel — with a shea tree and a locust bean tree drawn in the savannah band]
+In your mind's eye: a map of Nigeria banded into its vegetation belts from south to north — rain forest, Southern Guinea savannah, Northern Guinea savannah, Sahel. With a shea tree and a locust bean tree drawn in the savannah band.
 
 ## The key facts
 **Belts at home.** Nigeria's vegetation belts are the local biomes of Chapter 7 — the worldwide biome idea taught on the country's own ground.

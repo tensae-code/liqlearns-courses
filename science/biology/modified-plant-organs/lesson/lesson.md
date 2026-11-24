@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Modified plant org
 ## The idea
 Bulgaria's Grade 7 book gives modified plant organs a topic of their own (Topic 19, printed p. 42), taught as a discussion/project topic right after the plant organs themselves (Topics 17–18): once the learner knows the ordinary organs, the book asks what happens when an organ's form is changed for a special job.
 
-[Picture — three modified organs in a row: a curling tendril on a stick, a sharp thorn, and a swollen storage organ cut open]
+In your mind's eye: three modified organs in a row. A curling tendril on a stick, a sharp thorn, and a swollen storage organ cut open.
 
 ## The key facts
 **What a modification is.** A modified organ keeps its identity as a root, stem or leaf but its form is changed — flattened, sharpened, swollen or curled — so it can do a special job. The organ is recognised by where it grows and what it grows from, not by the job it now does.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Filter feeding and
 ## The idea
 Chapter 6 of Nigeria's Senior Secondary Biology 1 works through feeding mechanisms in holozoic organisms. Two of them catch food without a chase. Filter feeding strains fine particles from water: herrings and sardines sieve plankton through their gill rakers, and the blue whale sieves krill through baleen. Deposit feeding takes in the deposit itself — soil or sediment — and digests the organic matter out of it as it passes through.
 
-[Picture — a fish head with gill rakers straining plankton from water flowing through its gills, beside a blue whale's baleen plates and an animal eating its way through soil]
+In your mind's eye: a fish head with gill rakers straining plankton from water flowing through its gills, beside a blue whale's baleen plates and an animal eating its way through soil.
 
 ## The key facts
 **Filter feeding strains the water.** A filter feeder passes water across a straining surface and keeps the fine food particles — no hunting, the food comes with the current.

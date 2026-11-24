@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Civil defence and 
 ## The idea
 The last unit of Iraq's Grade 7 Biology book (Unit 4) is a safety unit inside a biology book: first aid first (Ch. 8), then civil defence (الدفاع المدني) as Chapter 9 (printed p. 87) — the organised, public side of protecting people in emergencies, set beside the individual help of first aid, and the book's final chapter review is the civil-defence review.
 
-[Picture — a civil-defence scene in simple shapes: a uniformed rescue worker directing people to safety while a first-aider helps one injured person — the organised protection and the individual help side by side]
+In your mind's eye: a civil-defence scene in simple shapes: a uniformed rescue worker directing people to safety while a first-aider helps one injured person — the organised protection and the individual help side by side.
 
 ## The key facts
 **What civil defence is.** Civil defence is the organised protection of the public in emergencies — the planned, collective work of keeping people safe when disaster or danger strikes a whole community, not only one patient.

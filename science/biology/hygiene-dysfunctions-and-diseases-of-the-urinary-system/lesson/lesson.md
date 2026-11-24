@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene, dysfuncti
 ## The idea
 The urinary system is kept healthy by hygiene, and its dysfunctions and diseases are recognised early — kidney-stone (calculi) pain is often confused with radiculitis, which delays treatment. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — the kidneys, ureters and bladder with a kidney stone marked, beside a person holding their back in pain]
+In your mind's eye: the kidneys, ureters and bladder with a kidney stone marked, beside a person holding their back in pain.
 
 ## The key facts
 **§40 Hygiene, dysfunctions and diseases of the urinary system.** Moldova's Grade 11 book (§40 Hygiene, dysfunctions and diseases of the urinary system) teaches: kidney-stone (calculi) pain often confused with radiculitis, delaying treatment. (printed p. 131).

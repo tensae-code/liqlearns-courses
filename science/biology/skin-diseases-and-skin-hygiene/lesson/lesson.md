@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Skin diseases and 
 ## The idea
 The skin has its own diseases — infectious, allergic and parasitic — and skin hygiene is their prevention: washing, individual towels and care of small wounds keep the body's cover healthy. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a skin cross-section with one healthy labelled panel and one panel showing a small infection entering through an untreated cut, beside a row of hygiene items — soap, water and a towel marked 'mine only']
+In your mind's eye: a skin cross-section with one healthy labelled panel and one panel showing a small infection entering through an untreated cut, beside a row of hygiene items — soap, water and a towel marked 'mine only'.
 
 ## The key facts
 **§30 Skin diseases and hygiene.** §30 Skin diseases and hygiene

@@ -9,9 +9,9 @@ A single cell does its work alone, but a living thing's bigger jobs are done by 
 
 The Grade 6 book defines tissues and then **classifies** them — sorts them into kinds. The first great sorting is by the living thing they belong to: **plant tissues** in plants, **animal tissues** in animals. Same idea — cells teamed for one job — in two different living worlds.
 
-[Picture — a leaf and a piece of muscle side by side, each magnified in a circle to show crowds of like cells joined together — the student says what the two circles have in common before reading on]
+In your mind's eye: a leaf and a piece of muscle side by side, each magnified in a circle to show crowds of like cells joined together. Say what the two circles have in common before reading on.
 
-[GIF — single cells gathering into a joined sheet, then the sheet folding into an organ — the student says what each step adds]
+In your mind's eye: single cells gathering into a joined sheet, then the sheet folding into an organ. Say what each step adds.
 
 ## Sub lesson 2 — Plant tissues and animal tissues
 

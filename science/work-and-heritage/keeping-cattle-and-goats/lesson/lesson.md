@@ -7,9 +7,9 @@ Before you read: picture a home that keeps cows, or goats, or both. Where do the
 
 Keeping starts with the animals' house: the **characteristics of a good cowshed or goat shelter** — what the shelter must be for the animals kept inside it to stay well.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Breeds of cattle and goats
 

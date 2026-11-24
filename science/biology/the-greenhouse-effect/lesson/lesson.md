@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The greenhouse eff
 ## The idea
 The greenhouse effect is the atmosphere's blanket: sunlight warms the Earth, the Earth radiates heat back, and greenhouse gases absorb part of that heat instead of letting it escape — Greece's Grade 11 laboratory guide detects it qualitatively and quantitatively in a model experiment with warmed, measured air. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — two glass jars on a bench under a lamp, one with extra carbon dioxide, each with a thermometer, the carbon-dioxide jar's thermometer reading higher]
+In your mind's eye: two glass jars on a bench under a lamp, one with extra carbon dioxide, each with a thermometer, the carbon-dioxide jar's thermometer reading higher.
 
 ## The key facts
 **Exercise 8.** qualitative and quantitative detection of the greenhouse effect (model experiment)

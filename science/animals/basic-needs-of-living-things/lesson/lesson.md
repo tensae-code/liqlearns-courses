@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — basic needs of living thi
 
 Lesson 1: the basic needs of living things — water, food, air, housing, light and heat — opened Honduras's way through the story of the duck guarding her eggs and feeding her ducklings.
 
-[Picture — lesson 1 as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: lesson 1 as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Lesson 1
 
 Lesson 1: basic needs (breathe air, drink water, eat, a physical space to live) against specific needs (home, clothing, recreation, education, affection); at birth the body is 75% water.
 
-[Picture — lesson 1 as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: lesson 1 as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

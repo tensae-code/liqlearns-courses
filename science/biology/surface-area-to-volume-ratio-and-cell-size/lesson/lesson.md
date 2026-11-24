@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Surface area to vo
 ## The idea
 cube models of cells (1 cm cubes built up), area = 6 × side × side, volume = length × width × height ("link with mathematics" box); predicting whether a cell is better growing larger or dividing and staying small, and which cube exchanges materials most efficiently.
 
-[Picture — three cubes of side 1 cm, 2 cm and 3 cm side by side, each labelled with its surface area, its volume and its surface-area-to-volume ratio, the smallest cube's ratio the biggest]
+In your mind's eye: three cubes of side 1 cm, 2 cm and 3 cm side by side, each labelled with its surface area, its volume and its surface-area-to-volume ratio, the smallest cube's ratio the biggest.
 
 ## The key facts
 **The two measures.** For a cube: surface area = 6 × side × side, and volume = length × width × height. Kuwait's Grade 10 workbook (Activity 6, printed p. 25) has pupils build cube models of cells from 1 cm cubes and work both measures out — a "link with mathematics" box in the activity.

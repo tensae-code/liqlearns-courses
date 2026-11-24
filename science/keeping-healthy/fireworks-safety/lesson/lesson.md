@@ -7,9 +7,9 @@ Picture a celebration night: bright bursts in the sky, loud bangs, a crowd watch
 
 **Fireworks** are made to burn and burst with light, colour and noise. That is what makes them celebration — and what makes them dangerous: the same fire that paints the sky can burn skin and harm eyes and ears at close range.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Handling fireworks safely — the chapter's own aim
 

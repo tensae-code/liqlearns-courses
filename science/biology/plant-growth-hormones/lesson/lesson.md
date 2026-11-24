@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant growth hormo
 ## The idea
 A plant has no nerves, but it still co-ordinates its growth — with hormones. Nigeria's Senior Secondary Biology 1, in Chapter 4, names the plant growth hormones: auxins, cytokinins, gibberellins, abscisic acid and ethylene. Auxin gets the worked example: it is made at the shoot tip and holds the side buds back — apical dominance. Cut the tip off, as a gardener cuts a hedge, and the side buds are released and the hedge grows bushy.
 
-[Picture — a hedge before and after cutting: the uncut hedge growing tall from its top bud, the cut hedge bushing out sideways from released side buds]
+In your mind's eye: a hedge before and after cutting. The uncut hedge growing tall from its top bud, the cut hedge bushing out sideways from released side buds.
 
 ## The key facts
 **Five hormone families.** The book names the plant growth hormones: auxins, cytokinins, gibberellins, abscisic acid and ethylene — chemical regulators made by the plant itself.

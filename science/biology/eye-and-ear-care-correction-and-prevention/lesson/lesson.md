@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Eye and ear care �
 ## The idea
 Armenia's Grade 8 "Biology. Human" book teaches the senses as analyzers — and then, in §14, turns to what happens when the analyzer is faulty: the disorders of vision and hearing, how lenses correct them, and how both senses are protected.
 
-[Picture — a picture in two halves — an eye with its correcting lens, showing short-sight and long-sight each bending light onto the retina, and an ear protected from loud sound, each part labelled]
+In your mind's eye: in two halves — an eye with its correcting lens, showing short-sight and long-sight each bending light onto the retina, and an ear protected from loud sound, each part labelled.
 
-[GIF — light entering a short-sighted eye and stopping short of the retina, then a lens is placed in front and the rays land exactly on the retina, and the blurred distant sign becomes clear — the student names the fault and the correction]
+In your mind's eye: light entering a short-sighted eye and stopping short of the retina, then a lens is placed in front and the rays land exactly on the retina, and the blurred distant sign becomes clear. Name the fault and the correction.
 
 ## The key facts
 **The analyzers can fail in their parts.** Armenia's Grade 8 "Biology. Human" book teaches each sense as an analyzer — receptor, conducting pathway and brain centre. The analyzers chapter does not end at structure: it closes with §14, the prevention and correction of vision and hearing disorders — what to do when the analyzer itself is faulty.

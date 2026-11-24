@@ -9,9 +9,9 @@ A **biological drawing** shows the specimen itself — the one real leaf, shell 
 
 Barbados's syllabus keeps the two apart on purpose (Appendix B). The drawing's job is evidence: someone who was not there should be able to study the specimen from your drawing alone.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Proportion, magnification and ruled label lines
 
@@ -19,9 +19,9 @@ Three rules make the drawing true. **Proportion** — the parts are drawn in the
 
 A drawing that keeps all three rules can be trusted and studied; a drawing that breaks them is only a picture.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## The key ideas
 

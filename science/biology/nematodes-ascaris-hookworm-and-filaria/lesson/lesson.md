@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Nematodes — Asca
 ## The idea
 Mozambique's animal module gives the nematode worms, phylum Nemathelminthes, three lessons: the phylum's plan, then its parasites. Unlike the flatworms, a nematode's gut is a complete tube. The cuticle lets parasites survive inside their hosts, and parasitic kinds run an anaerobic metabolism. Then the module works Ascaris, the hookworm and the filaria in turn — each with its own route into the human body. This lesson teaches the plan and the three parasites together, as the module does.
 
-[Picture — a cylindrical nematode drawn with its complete gut tube running mouth to anus, beside three labelled panels: Ascaris the big roundworm, the hookworm with its curved toothed head fastened to a gut wall, and a mosquito above a swollen leg for the filaria]
+In your mind's eye: a cylindrical nematode drawn with its complete gut tube running mouth to anus, beside three labelled panels. Ascaris the big roundworm, the hookworm with its curved toothed head fastened to a gut wall, and a mosquito above a swollen leg for the filaria.
 
 ## The key facts
 **The nematode plan.** Nematodes are cylindrical worms with a pseudocoelom (a false body cavity) and a complete gut with mouth and anus. A tough cuticle protects them — it is what lets the parasites survive inside a host — and parasitic nematodes run an anaerobic metabolism.

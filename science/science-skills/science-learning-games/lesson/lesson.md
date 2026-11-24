@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Part 3 of Cambodia's manual closes with **learning games** (Ch. 6). Its first games are recall played as contest: the **memory game**, matching what belongs together from memory; **Jeopardy**, answering in question-form against the clock of the game; and **last-winner** formats, where holding your knowledge longest wins. Each game makes the class rehearse the science in order to play — the playing is the revision.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Loop and domino games — chaining the ideas
 

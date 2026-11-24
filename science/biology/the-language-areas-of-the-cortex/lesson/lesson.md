@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The language areas
 ## The idea
 Language lives in four areas of the left cerebral cortex — W, V, H and S — each found by the deficit its damage leaves: the patient who understands but cannot speak, and the patient who speaks but cannot understand, map them before the map is shown. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a left-brain outline with four patches marked W, V, H and S, each patch joined by a line to a small speech bubble showing what its loss takes away]
+In your mind's eye: a left-brain outline with four patches marked W, V, H and S, each patch joined by a line to a small speech bubble showing what its loss takes away.
 
 ## The key facts
 **Ch. 2 §5 Language.** the four speech areas (W, V, H, S) derived from two lesion cases before the map is shown (the patient who understands but cannot speak; the patient who speaks but cannot understand), each area's deficit named, and the left hemisphere's dominance stated with its right-hemisphere counterpart in image thinking. No existing lesson holds the language areas.

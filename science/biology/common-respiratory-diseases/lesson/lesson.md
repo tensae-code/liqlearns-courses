@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Common respiratory
 ## The idea
 Afghanistan's Grade 9 Biology book closes its respiratory chapter with the common diseases of the respiratory system. This lesson teaches them on their own: which part of the air path each disease strikes, how they spread, and how they are prevented and treated.
 
-[Picture — a picture of the air path from nose to alveoli with the common diseases pinned to the part each one strikes — cold and flu at the nose and throat, bronchitis at the bronchi, pneumonia and tuberculosis in the lungs, asthma at the narrowed bronchus]
+In your mind's eye: the air path from nose to alveoli with the common diseases pinned to the part each one strikes — cold and flu at the nose and throat, bronchitis at the bronchi, pneumonia and tuberculosis in the lungs, asthma at the narrowed bronchus.
 
-[GIF — droplets from an uncovered cough drifting across a room toward another person, then the same cough covered and the room's window opened — the droplets stopped and thinned — the student names the two barriers]
+In your mind's eye: droplets from an uncovered cough drifting across a room toward another person, then the same cough covered and the room's window opened — the droplets stopped and thinned. Name the two barriers.
 
 ## The key facts
 **Colds and influenza.** A cold blocks the nose and throat for a few days; influenza (flu) is its heavier cousin, with fever, aching and exhaustion, and it can turn dangerous in the very young, the old and the weak. Both ride on the droplets of coughs and sneezes and on hands that touch the face afterwards.

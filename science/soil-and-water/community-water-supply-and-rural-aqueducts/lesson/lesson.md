@@ -9,9 +9,9 @@ A **rural aqueduct** is a water system that brings **drinking water** to a rural
 
 In Costa Rica these systems are run for the community by its own water association — an **ASADA** (Asociación Administradora de Sistemas de Acueductos y Alcantarillados Sanitarios), the community body that administers the local aqueduct. The supply is not a private tap for one house; it is a shared system that a whole community depends on together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Run under official rules — Costa Rica's own way
 

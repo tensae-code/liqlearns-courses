@@ -7,25 +7,25 @@ Before you read: think about this lesson's subject — how nature shapes how peo
 
 Kazakhstan's books teach this as their own lesson — "The significance of natural conditions in human life". The learner works through the books' own presentation of the significance of natural conditions in human life — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the significance of natural conditions in human life as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the significance of natural conditions in human life as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Nature and the economic activity of people
 
 Kazakhstan's books teach this as their own lesson — "Nature and the economic activity of people". The learner works through the books' own presentation of nature and the economic activity of people — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — nature and the economic activity of people as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: nature and the economic activity of people as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — The economic significance of natural objects
 
 Kazakhstan's books teach this as their own lesson — "The economic significance of natural objects". The learner works through the books' own presentation of the economic significance of natural objects — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the economic significance of natural objects as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the economic significance of natural objects as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — The natural conditions of the region where you live
 
 Kazakhstan's books teach this as their own lesson — "The natural conditions of the region where you live". The learner works through the books' own presentation of the natural conditions of the region where you live — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the natural conditions of the region where you live as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the natural conditions of the region where you live as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ The Moon circles the Earth and never falls in — and never flies away. A ball o
 
 **Gravity** pulls the orbiting object toward the body it circles (Grade 6, 6.1.2, printed p. 36). Left to gravity alone, the Moon would simply fall to Earth: the pull is always inward, always bending the object's path toward the centre. Gravity is the orbit's inward half.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Inertia — the onward carry
 

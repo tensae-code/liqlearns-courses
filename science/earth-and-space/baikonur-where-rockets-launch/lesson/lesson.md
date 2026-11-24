@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — baikonur — where rocket
 
 The books teach this part as Baikonur, Kazakhstan's own cosmodrome — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books also carry this part as their own titled lesson — "Where rockets are launched from" — at the printed pages named in Sources; the learner works through those lessons' own text, examples and tasks.
 
-[Picture — where rockets are launched from as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: where rockets are launched from as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Toktar Aubakirov — the first Kazakh cosmonaut
 
 The books teach this part as "Toktar Aubakirov — the first Kazakh cosmonaut" (his flight launched from Baikonur) — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — toktar Aubakirov — the first Kazakh cosmonaut as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: toktar Aubakirov — the first Kazakh cosmonaut as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

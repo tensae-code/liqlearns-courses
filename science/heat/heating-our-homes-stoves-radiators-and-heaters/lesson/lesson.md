@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — heating our homes — sto
 
 stoves, radiators and batteries give the house heat when days turn cold; comparing heating in apartment blocks and village houses; why radiators sit under windows; water's high heat capacity in radiators
 
-[Picture — heating devices as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: heating devices as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Heating appliances
 
 The books teach this part as radiators and other heaters as what we use to get heat; sorting pictured appliances into two groups — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — heating appliances as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: heating appliances as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Heating our homes — stoves, radiators and heaters
 
 The books teach this part as heaters part: heating appliances are artificial heat sources that give out heat; heat from burning wood, oil or gas warms us and cooks food — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — heating our homes — stoves, radiators and heaters as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: heating our homes — stoves, radiators and heaters as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

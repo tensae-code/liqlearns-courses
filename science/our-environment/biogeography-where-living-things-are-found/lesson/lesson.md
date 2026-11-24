@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — biogeography — where li
 
 Kazakhstan's books teach this as their own lesson — "Biogeography — where living things are found". The learner works through the books' own presentation of biogeography — where living things are found — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — biogeography — where living things are found as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: biogeography — where living things are found as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

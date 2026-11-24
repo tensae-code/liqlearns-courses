@@ -9,9 +9,9 @@ Iraq's Grade 4 book teaches **fossil fuel** by its making: its formation took **
 
 That slowness is the fact the whole subject stands on, and the book teaches it next to the fuels that finish: what took ages to form cannot be remade on any human timescale — formed once, over long ages, and used once.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sources and forms — the activity book's work
 

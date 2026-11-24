@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Bone formation and
 ## The idea
 Bones form by ossification — cartilage or membrane is gradually replaced by hard bone — and a long bone keeps growing in length at its growth plates until adulthood, while thickening and repair continue through life. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a long bone drawn in stages: a cartilage model, bone spreading from the centre, and the finished bone with its two pale growth plates near the ends]
+In your mind's eye: a long bone drawn in stages. A cartilage model, bone spreading from the centre, and the finished bone with its two pale growth plates near the ends.
 
 ## The key facts
 **Ch. 7.** formation and development of bones (ossification)

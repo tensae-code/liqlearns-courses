@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — posture — and a not-too
 
 Posture defined as the body's habitual position standing, sitting and walking; a child's soft bones bend easily, carrying a bag on one shoulder curves the spine, so the class weighs each textbook and the whole bag day by day against the norm, and tests posture against a wall (nape, shoulder blades, calves, buttocks, heels touching) Posture is the body's correct formation: sit and walk upright, back and shoulders straight, head raised, and spread a carried load evenly over both shoulders; desk-sitting rules are read off right/wrong pictures and posture exercises are pictured
 
-[Picture — posture — and a not-too-heavy schoolbag as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: posture — and a not-too-heavy schoolbag as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — dna structure and repli
 
 Guía 1: how so small a molecule identifies us; DNA as a double helix of nucleotides (nitrogen base, five-carbon sugar, phosphate group), Watson and Crick's rope-ladder model, and DNA replication from each strand as a template.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — DNA and RNA compared
 

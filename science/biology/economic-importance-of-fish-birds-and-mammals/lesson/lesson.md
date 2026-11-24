@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Economic importanc
 ## The idea
 Afghanistan's Grade 8 Biology book pairs its survey of the country's birds and mammals with their economic importance, fish included. This lesson teaches that account on its own: what each group gives people — food, materials, work, pest control and trade — and why over-using them destroys the very income they give.
 
-[Picture — a picture of a village economy in four panels — a fisher with his catch, hens and eggs in a yard, a sheep being shorn, and a donkey carrying a load on a mountain path — each panel labelled with what the animal gives]
+In your mind's eye: a village economy in four panels — a fisher with his catch, hens and eggs in a yard, a sheep being shorn, and a donkey carrying a load on a mountain path. Each panel labelled with what the animal gives.
 
-[GIF — a donkey train carrying goods up a mountain path while swallows sweep insects over the fields below and a fisher casts his net in the river — the student names one gain from each group as it appears]
+In your mind's eye: a donkey train carrying goods up a mountain path while swallows sweep insects over the fields below and a fisher casts his net in the river. Name one gain from each group as it appears.
 
 ## The key facts
 **Fish give food and income.** From rivers and lakes, fish bring protein to the table and money to the fisher. Fish farming adds a managed supply, and dried or sold fish carry the value far from the water where they were caught.

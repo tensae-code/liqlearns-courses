@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Embryonic developm
 ## The idea
 Mozambique's seventh PESD II module closes with ontogenesis — Lessons 14–15. Development is taught as one continuous process from the egg: multiplication, differentiation, morphogenesis. First the egg itself: it has polarity, an animal pole and a vegetative pole, and eggs are classified by their yolk. Then the three phases every embryo passes: segmentation, gastrulation and organogenesis. The module names what each germ layer becomes — the ectoderm gives the nervous system, the sense organs and the epidermis — and in mammals the chorion goes on to form the placenta.
 
-[Picture — an egg drawn with its two poles labelled and yolk at the vegetative end, then three panels in a row: a ball of dividing cells (segmentation), a cup-shaped embryo with layers moving in (gastrulation), and a small embryo with the first organs marked (organogenesis)]
+In your mind's eye: an egg drawn with its two poles labelled and yolk at the vegetative end, then three panels in a row. A ball of dividing cells (segmentation), a cup-shaped embryo with layers moving in (gastrulation), and a small embryo with the first organs marked (organogenesis).
 
 ## The key facts
 **The egg — poles and yolk.** The egg has polarity: an animal pole and a vegetative pole. Eggs are classified by their yolk — how much there is and how it is placed.

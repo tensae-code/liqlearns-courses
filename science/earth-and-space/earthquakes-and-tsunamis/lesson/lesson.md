@@ -11,9 +11,9 @@ The shaking travels out from the break as **seismic waves** — waves through th
 
 Because the waves can be felt and measured far from the break, scientists record them with an instrument called a **seismograph**, which draws the shaking as a wavy line. Reading that line tells them an earthquake has happened, how strong the shaking was, and where it came from. The Dominican Republic's Grade 5 book teaches the chain in that order: faults, seismic waves, seismographs.
 
-[Picture — an island coast with the sea floor cut open to show a fault slipping under the sea and a wave travelling toward the shore — the student names the fault, the waves and the tsunami before reading on]
+In your mind's eye: an island coast with the sea floor cut open to show a fault slipping under the sea and a wave travelling toward the shore. Name the fault, the waves and the tsunami before reading on.
 
-[GIF — the ground slipping along a fault and the shaking spreading out as rings — the student says what travels and what records it]
+In your mind's eye: the ground slipping along a fault and the shaking spreading out as rings. Say what travels and what records it.
 
 ## Sub lesson 2 — Tsunamis — the sea wave that follows
 

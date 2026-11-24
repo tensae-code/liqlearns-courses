@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Blood vessels — 
 ## The idea
 The blood travels in three kinds of vessel — arteries carrying it away from the heart in thick elastic walls, capillaries with walls one cell thick where exchange happens, and veins carrying it back with valves against the low pressure — each kind built for its part of the journey. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a blood vessel drawn three times and labelled: a thick-walled artery, a hair-thin capillary beside a body cell, and a vein with a pocket valve]
+In your mind's eye: a blood vessel drawn three times and labelled. A thick-walled artery, a hair-thin capillary beside a body cell, and a vein with a pocket valve.
 
 ## The key facts
 **Ch. 3.** blood vessels as their own section

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cancer and tumours
 ## The idea
 Every cell division you have met in this course — mitosis building new cells — runs under control: cells divide when the body needs new cells, and the division stops when the need is met. Azerbaijan's Grade 11 textbook closes its whole course with the pair: controlled and uncontrolled cell division. Its last part first finishes mitosis, then turns to what happens when the control itself fails: §46, uncontrolled division of cells — tumours; and §47, a section titled simply "Cancer" (Рак).
 
-[Picture — two cell families side by side: one dividing under control, each new cell stopping when the need is met; the other dividing without control, piling into a growing mass labelled tumour]
+In your mind's eye: two cell families side by side. One dividing under control, each new cell stopping when the need is met; the other dividing without control, piling into a growing mass labelled tumour.
 
 ## The key facts
 **Controlled division.** Normal division is controlled division: a cell divides when new cells are needed — for growth and repair — and stops when they are not. The control is part of the division, not an extra.

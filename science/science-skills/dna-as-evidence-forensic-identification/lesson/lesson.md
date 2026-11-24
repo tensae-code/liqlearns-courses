@@ -9,9 +9,9 @@ Inside the body's cells lies **DNA** — the long coded material that carries a 
 
 That difference is what makes DNA useful as evidence. A pattern that differs between people can be used to tell people apart — the same way a fingerprint can, but read from the body's own code, from traces too small to see.
 
-[Picture — two DNA code strips side by side with their patterns differing in a few marked places, and a third strip matching one of them — the student says which two match before reading on]
+In your mind's eye: two DNA code strips side by side with their patterns differing in a few marked places, and a third strip matching one of them. Say which two match before reading on.
 
-[GIF — a pattern strip sliding along another until every mark lines up — the student says what a full match means]
+In your mind's eye: a pattern strip sliding along another until every mark lines up. Say what a full match means.
 
 ## Sub lesson 2 — Matching DNA to identify — the forensic use
 

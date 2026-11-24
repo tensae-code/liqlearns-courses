@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Bryophytes — mos
 ## The idea
 Mozambique's plant module (Módulo 2) climbs the plant kingdom phylum by phylum, and the bryophytes are the first land plants it meets. The module's own name for them is the one to remember: the amphibians of the plant kingdom — half in the water world, half out of it. They have no vessels, they stay small, and their fertilisation still needs liquid water. The lesson then splits the phylum in two: the thalloid liverworts and the mosses, with Funaria as the worked example, and closes with the mosses' importance in ecosystems.
 
-[Picture — a flat lobed liverwort lying like a green ribbon on damp ground beside an upright Funaria moss with its rhizoids below, cauloid stem and phylloid leaves labelled, under a rain cloud with droplets — the water the plant still needs]
+In your mind's eye: a flat lobed liverwort lying like a green ribbon on damp ground beside an upright Funaria moss with its rhizoids below, cauloid stem and phylloid leaves labelled, under a rain cloud with droplets — the water the plant still needs.
 
 ## The key facts
 **Amphibians of the plant kingdom.** Bryophytes are avascular — they have no conducting vessels — and stay under about 30 cm tall. A cuticle protects them on land, but fertilisation still needs liquid water: that half-in, half-out life is why the module calls them the amphibians of the plant kingdom.

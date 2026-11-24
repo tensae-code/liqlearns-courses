@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Mollusca — snail
 ## The idea
 Mozambique's animal module gives Mollusca two lessons: the phylum's plan, then its classes worked in detail — the gastropods (the snails) and the bivalves. The mollusc body is soft and unsegmented, in three regions, and it carries a structure no other phylum has: the radula, a scraping tongue. The two classes then show the plan pulled in two directions — the snail keeps a clear head with eyes on tentacle tips; the bivalve has lost the distinct head altogether behind its two hinged shells.
 
-[Picture — a snail drawn with its spiral shell, head with eyes on tentacle tips and broad foot, beside an open bivalve showing two hinged valves and its axe-shaped foot, with a small magnified radula drawn as a toothed ribbon between them]
+In your mind's eye: a snail drawn with its spiral shell, head with eyes on tentacle tips and broad foot, beside an open bivalve showing two hinged valves and its axe-shaped foot, with a small magnified radula drawn as a toothed ribbon between them.
 
 ## The key facts
 **The mollusc plan.** A mollusc has a soft, unsegmented body in three regions — head, visceral mass and foot — a shell in most kinds, and the radula, a scraping tongue used in feeding.

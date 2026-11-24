@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Locomotion across 
 ## The idea
 Chapter 4 of Iraq's Grade 11 Biology book is the locomotion chapter. Its animal half (printed p. 112) starts with the smallest movers: movement in unicellular organisms — the amoeba's pseudopodia, worked by endoplasm streaming, and Euglena's flagellum — then climbs: muscle as the engine, the earthworm's hydrostatic movement, the grasshopper's leg muscles, and the vertebrates — swimming, crawling, and bird flight, the ordinary flapping flight of strong birds such as the duck.
 
-[Picture — a row of movers in order of size: an amoeba reaching out a pseudopodium, a Euglena with its flagellum, an earthworm stretching and gripping, a grasshopper's folded leg, a fish swimming, and a duck in flapping flight]
+In your mind's eye: a row of movers in order of size. An amoeba reaching out a pseudopodium, a Euglena with its flagellum, an earthworm stretching and gripping, a grasshopper's folded leg, a fish swimming, and a duck in flapping flight.
 
 ## The key facts
 **Movement without legs.** Unicellular organisms move without any limbs: the amoeba flows — its endoplasm streams into a pseudopodium that pulls the cell forward — and Euglena rows itself with a whip-like flagellum.

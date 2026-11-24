@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cell cycle checkpo
 ## The idea
 the G1/S and M checkpoints tabulated: what each verifies (growth factors, DNA doubling completed, chromosomes aligned on the metaphase plate) and the halt if a check fails
 
-[Picture — the cell cycle drawn as a circle with two stop gates marked on it, labelled G1/S checkpoint and M checkpoint, each gate with a short list of what it verifies]
+In your mind's eye: the cell cycle drawn as a circle with two stop gates marked on it, labelled G1/S checkpoint and M checkpoint, each gate with a short list of what it verifies.
 
 ## The key facts
 **Checkpoints.** Kuwait's new Grade 10 student book (Lesson 1-3, printed p. 52) tabulates the cell cycle's checkpoints: the G1/S checkpoint and the M checkpoint.

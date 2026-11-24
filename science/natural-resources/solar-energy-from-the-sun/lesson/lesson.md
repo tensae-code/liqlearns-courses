@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — solar energy — the en
 
 Zimbabwe's Grade 5 guide teaches **solar energy** as a named unit inside its energy run: the sun's energy, named and studied on its own before the fuels unit that follows.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — The sun as a source
 

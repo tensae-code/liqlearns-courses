@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — acute respiratory infecti
 
 acute respiratory infections (IRA) defined: infections of the respiratory system caused by viruses (the most prevalent), bacteria, parasites and fungi, favoured by climate, overcrowding, poor diet, absent or inadequate breastfeeding, vitamin deficiency and misuse of antibiotics.
 
-[Picture — acute respiratory infections (IRA) defined as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: acute respiratory infections (IRA) defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — How IRAs spread
 
 how IRAs spread: from person to person through sneezes and saliva micro-droplets when coughing, in poorly ventilated places, and by contact with contaminated surfaces such as door handles, bus handrails and desks.
 
-[Picture — how IRAs spread as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how IRAs spread as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — The IRA symptom set
 
 the IRA symptom set: nasal obstruction, cough, runny nose (rhinorrhoea), difficulty breathing and bone pain.
 
-[Picture — the IRA symptom set as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the IRA symptom set as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

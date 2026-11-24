@@ -9,9 +9,9 @@ Every animal's body is covered by something. Mammals are covered in **fur** or h
 
 Kuwait's Grade 1 book teaches the coverings first by looking: the child matches the animal to its covering — the sheep's woolly fur, the bird's feathers, the fish's shiny scales — before any harder words are used.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — What a covering does
 

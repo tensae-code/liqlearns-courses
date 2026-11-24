@@ -9,9 +9,9 @@ An **estuary** is where a river meets the sea: there the river's **fresh water a
 
 How salty a spot in the estuary is — its saltiness — **changes with the tide**, as the sea pushes in and falls back, **and with distance**: nearer the sea it is saltier, nearer the river fresher.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — A rich food supply
 

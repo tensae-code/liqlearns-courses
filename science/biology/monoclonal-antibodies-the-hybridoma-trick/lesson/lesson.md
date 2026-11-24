@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Monoclonal antibod
 ## The idea
 A monoclonal antibody is one antibody made in bulk by one clone: fuse the single B cell that makes it to an endlessly dividing myeloma cell, select and clone the hybridoma, and it makes that one antibody for as long as it lives — the trick behind pregnancy test kits and antibody medicines. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a B cell and a tumour cell merging into one hybridoma cell, which then divides into a crowd of identical cells all pouring out the same Y-shaped antibody]
+In your mind's eye: a B cell and a tumour cell merging into one hybridoma cell, which then divides into a crowd of identical cells all pouring out the same Y-shaped antibody.
 
 ## The key facts
 **Ch. 2 §2 Cell fusion and monoclonal antibodies.** fusion by PEG, electric pulse or inactivated virus; Milstein and Köhler's 1975 solution (fuse the one-antibody B cell to an endlessly dividing myeloma cell; Nobel Prize 1984); selection and cloning of hybridomas; and the products — pregnancy test kits reading at day 8, imaging diagnostics, five of the world's ten best-selling drugs in 2015, a ¥7.2 billion Chinese market that year, and antibody–drug conjugates that carry a toxin only to the tumour.

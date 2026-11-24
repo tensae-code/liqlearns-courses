@@ -7,9 +7,9 @@ A volcano remakes a hillside in a day. A river needs thousands of years to carve
 
 Some changes happen **quickly**: **volcanic eruptions** throwing up new land, **earthquakes** shaking and shifting the ground, **landslides** sending slopes down in minutes (Grade 2, 2.1.2, printed p. 26). A fast change can be witnessed in a single event, and the land before and after it is visibly different.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Slow changes — weathering and erosion
 

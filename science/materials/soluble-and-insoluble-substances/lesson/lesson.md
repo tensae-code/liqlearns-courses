@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Stir salt or sugar into water and the grains vanish. They have not gone — the water tastes of them. A substance that **dissolves** in a liquid like this is called **soluble**: it breaks into pieces too small to see and spreads evenly through the liquid. Salt and sugar are soluble in water.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Insoluble substances — they stay themselves however long you stir
 

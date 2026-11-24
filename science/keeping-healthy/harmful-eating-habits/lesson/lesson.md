@@ -9,9 +9,9 @@ Mauritania's Grade 3 *Sciences Naturelles* book teaches food in a run: where foo
 
 A habit is a thing done again and again, until it is done without thinking. A harmful eating habit is one whose repetition works against the body: the harm is not in one meal but in the pattern, repeated day after day. That is why the book teaches habits, not single meals — what a child does daily is what shapes the body.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Learning the harmful side by name
 

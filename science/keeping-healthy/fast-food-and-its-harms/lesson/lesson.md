@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 science reading: "Fast Food and Its Harms" — fast meals spread worldwide because they are quick to prepare, easy to reach and cheap, and are served in large amounts, especially to children; but they hold high levels of fats, sugars and salt, with low levels of the essential nutrients and dietary fibres; eating fast food and fizzy drinks continuously makes keeping a healthy diet hard, and fast food is linked to weight gain and diabetes — so rising fast-food consumption is a great danger to public health
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

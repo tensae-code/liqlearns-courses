@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — DNA in mitochondri
 ## The idea
 Mitochondria and chloroplasts carry their own small circular DNA — a leftover of their origin as free bacteria — so they make some of their own proteins and, in animals, are inherited through the egg alone. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a mitochondrion and a chloroplast drawn side by side, each with a small circular DNA loop glowing inside it]
+In your mind's eye: a mitochondrion and a chloroplast drawn side by side, each with a small circular DNA loop glowing inside it.
 
 ## The key facts
 **Ch. 1.** mitochondria and chloroplasts have their own genetic material

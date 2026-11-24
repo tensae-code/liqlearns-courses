@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Telling plants fro
 ## The idea
 Every living thing in this course belongs somewhere, and the first sorting Uganda's Senior One book asks for — the closing topic of its introduction chapter (Ch 1, printed p. 8) — is the oldest one in biology: is it a plant, or is it an animal? The two live in opposite ways. A plant stays rooted in one place and makes its own food; an animal moves about and eats. Learn to read those two ways of living and you can sort almost any living thing you meet.
 
-[Picture — a plant rooted in the ground with green leaves beside an animal walking past it; arrows show the plant making food from sunlight and the animal eating]
+In your mind's eye: a plant rooted in the ground with green leaves beside an animal walking past it; arrows show the plant making food from sunlight and the animal eating.
 
 ## The key facts
 **Making food vs eating.** A plant makes its own food: its green parts hold chlorophyll, the green substance that traps sunlight for photosynthesis. An animal has no chlorophyll and cannot make food — it must eat plants, or eat other animals that ate plants.

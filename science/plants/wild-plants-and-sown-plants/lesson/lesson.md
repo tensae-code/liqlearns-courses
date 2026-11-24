@@ -7,9 +7,9 @@ Think of a plant growing where nobody planted it, and a plant in a garden or fie
 
 **Wild plants** (plantas espontâneas — spontaneous plants) grow **by themselves**: no one sowed them. Their seeds arrived by wind, water or animals, and where the seed landed and found what it needed, the plant grew. The grass by the path, the tree in open land, the flowers of the field are wild in this sense — they belong to a place without being planted in it.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sown plants — planted by people
 

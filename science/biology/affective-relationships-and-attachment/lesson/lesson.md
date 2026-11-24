@@ -6,7 +6,7 @@ Before you read anything: think of the people you are closest to. There is somet
 ## The idea
 Relationships have a biology. Bolivia's Biología-Geografía book for the second year of secondary school (Segundo Año de Secundaria) teaches a named unit on exactly this: "Biología de las relaciones afectivas" — the biology of affective relationships. It sits in the book among the body's own topics — after fertilisation and embryonic development, before nutrition and the sense organs — because the book treats the bonds between people as part of the biology of being human.
 
-[Picture — two circles joined by a strong band labelled "attachment", beside a shield labelled "a life free of violence" — the two things the unit teaches]
+In your mind's eye: two circles joined by a strong band labelled "attachment", beside a shield labelled "a life free of violence" — the two things the unit teaches.
 
 ## The key facts
 **Attachment.** The first thing the unit teaches is attachment: the bond a person builds with the people close to them. Attachment is the tie your opening task asked you to name — the connection that holds a relationship together and shapes how the people in it treat each other.

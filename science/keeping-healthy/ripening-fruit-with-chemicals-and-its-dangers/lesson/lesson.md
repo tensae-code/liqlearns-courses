@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Ethylene is the natural ripening agent in fruit and vegetables, but traders use artificial ethylene and calcium carbide to meet market demand; about 1 ppm of ethylene is enough to ripen, while in practice up to about 1,000 ppm is used, which is very harmful to health, as printed.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Ethylene is the natural ripening agent in fruit and vegetables
 

@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 2 Topic 5, "Some gases in the air", prepares oxygen by heating potassium permanganate and collects the gas that burning things need. Air is a mixture, and its gases can be made, collected and tested one at a time — oxygen is the part of the air that keeps a flame alive.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Carbon dioxide — and charcoal from limited air
 

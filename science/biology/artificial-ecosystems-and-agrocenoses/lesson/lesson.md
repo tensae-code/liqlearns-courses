@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Artificial ecosyst
 ## The idea
 People build artificial ecosystems — fields and orchards, which are agrocenoses, and cities and oil fields — and unlike natural ecosystems they cannot hold themselves steady without constant human work, energy and materials. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — four artificial ecosystems in a row — a wheat field, an orchard, a city block and an oil field — each with a farmer or worker shown keeping it going, beside a self-holding steppe ecosystem with no one tending it]
+In your mind's eye: four artificial ecosystems in a row — a wheat field, an orchard, a city block and an oil field. Each with a farmer or worker shown keeping it going, beside a self-holding steppe ecosystem with no one tending it.
 
 ## The key facts
 **§4 Humans as part of the ecosystem.** from early human impact (aurochs, mammoths) to artificial ecosystems: fields, orchards, cities, oil fields

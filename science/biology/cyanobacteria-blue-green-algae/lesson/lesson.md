@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Cyanobacteria — 
 ## The idea
 Fiji's Year 13 Biology book surveys Kingdom Monera inside its diversity of life, and inside that survey it stops and gives the blue-green algae their own named section. They earn it: they look like algae, live like algae — and are bacteria through and through.
 
-[Picture — a picture of cyanobacteria two ways — a filament drawn as a chain of round cells with one larger specialised cell marked, beside a single cell opened to show it has no nucleus — and a pond edge coloured blue-green by their mats]
+In your mind's eye: cyanobacteria two ways — a filament drawn as a chain of round cells with one larger specialised cell marked, beside a single cell opened to show it has no nucleus. And a pond edge coloured blue-green by their mats.
 
-[GIF — a filament growing in steps — one cell divides, the chain lengthens cell by cell, and the larger nitrogen-fixing cell is pointed out as it appears — the student names each part as it forms]
+In your mind's eye: a filament growing in steps — one cell divides, the chain lengthens cell by cell, and the larger nitrogen-fixing cell is pointed out as it appears. Name each part as it forms.
 
 ## The key facts
 **Bacteria, not algae.** Cyanobacteria are true bacteria — prokaryotic cells of Kingdom Monera, with no nucleus and no membrane-bound organelles. Their old name, blue-green algae, records the mistake: they are green, they live in water and light, and they were classed with the algae until their cell structure showed what they are.

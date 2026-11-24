@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Diabetes mellitus 
 ## The idea
 Diabetes mellitus is what happens when insulin fails: Kenya's Form 2 book teaches it inside homeostasis — insulin deficiency, its symptoms (glucose in the urine, thirst, weight loss), and its control by insulin injections, diet and exercise.
 
-[Picture — a balance drawn out of true — a pancreas figure holding an almost empty insulin bottle, a blood vessel carrying too much glucose past a kidney that is spilling sugar into a urine jar — and on the other side the three controls restoring the balance: an insulin syringe, a measured plate of food, and a person exercising]
+In your mind's eye: a balance drawn out of true — a pancreas figure holding an almost empty insulin bottle, a blood vessel carrying too much glucose past a kidney that is spilling sugar into a urine jar. And on the other side the three controls restoring the balance: an insulin syringe, a measured plate of food, and a person exercising.
 
 ## The key facts
 **The cause — insulin deficiency.** Diabetes mellitus is caused by insulin deficiency: without enough insulin the body's control of blood glucose fails.

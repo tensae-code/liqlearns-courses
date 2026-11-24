@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Animal tissues —
 ## The idea
 An animal's cells are organised into four tissue kinds — epithelial tissue covering and lining, connective tissue joining and supporting, muscle tissue moving, and nervous tissue carrying messages — each kind built of cells fitted to its one job. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — four panels side by side: a sheet of covering cells, a connective sample of bone and blood, a striped muscle bundle, and a nerve cell with its long fibre]
+In your mind's eye: four panels side by side. A sheet of covering cells, a connective sample of bone and blood, a striped muscle bundle, and a nerve cell with its long fibre.
 
 ## The key facts
 **§1.3.** the kinds of animal tissues as their own topic

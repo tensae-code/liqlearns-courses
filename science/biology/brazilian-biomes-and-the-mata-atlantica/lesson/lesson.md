@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Brazilian biomes a
 ## The idea
 A biome is one of the Earth's great living regions — a wide land with its own climate, its own plants and its own animals, all fitting together. Brazil has biomes of its own, and Brazil's Paraná public textbook teaches them in its Biodiversity block. One of them, the Mata Atlântica — the Atlantic Forest, the forest of Brazil's Atlantic coast — gets a whole chapter to itself, because it is disappearing. The chapter does not open with a definition. It opens with a cry for help.
 
-[Picture — Brazil's Atlantic coast with a band of green forest running down it, most of the band faded or cut away and only small patches of green remaining]
+In your mind's eye: brazil's Atlantic coast with a band of green forest running down it, most of the band faded or cut away and only small patches of green remaining.
 
 ## The key facts
 **Brazil's own biomes.** The book's Biodiversity block first asks about biomes as a whole — Ch. 11, Biomas: "paraísos naturais ou recursos inesgotáveis?" (natural paradises or inexhaustible resources?). Brazil's own biomes are inside that question: a biome can be looked at as a paradise to protect, or as a store of resources to use — and the book makes the learner hold the question, not just the list.

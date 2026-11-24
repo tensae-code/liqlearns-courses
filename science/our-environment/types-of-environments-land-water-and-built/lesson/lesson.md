@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — types of environments — lan
 
 Papua New Guinea's Grade 3 textbook sorts the environment around us into types: environments on **land**, environments in **water**, and **built** surroundings — the places people have made. Every living thing lives in one of these types, and the type tells you what that place gives it and what it demands of it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Papua New Guinea's own natural environments
 

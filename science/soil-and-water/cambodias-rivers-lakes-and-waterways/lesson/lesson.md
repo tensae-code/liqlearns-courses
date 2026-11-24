@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Cambodia's Grade 7 book gives its own country a chapter of Earth science: the **waterway system** — the rivers and the lakes read together as one system, not as separate blue lines on a map. Water that falls on the land gathers, flows, and rests in the lakes; the rivers join the parts into a whole, and the whole is the lesson (Earth Ch. 3, Lesson 1).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The country's own geography as science
 

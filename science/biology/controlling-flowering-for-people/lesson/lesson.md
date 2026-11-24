@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Controlling flower
 ## The idea
 Flowering time can be shaped for people — by temperature, day length, growth regulators and cultivation — so flowers and fruit arrive on the festival day and their seasons spread across the market. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — chrysanthemums blooming out of season under lamps in a greenhouse, beside a calendar with a festival day circled and flowers arriving exactly on it]
+In your mind's eye: chrysanthemums blooming out of season under lamps in a greenhouse, beside a calendar with a festival day circled and flowers arriving exactly on it.
 
 ## The key facts
 **Ch. 5 §4 feature "Shaping flowering time to create a beautiful life".** chrysanthemums in every season, Beijing's roses held in continuous bloom through the 2008 summer Olympics, dragon fruit lit at night to flower early, fruit seasons shifted to spread the market: four levers (temperature, day length, regulators, cultivation) and the economics of a flower that arrives on the festival day.

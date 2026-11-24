@@ -9,9 +9,9 @@ Before you read: hold a dry seed in your hand — a bean is perfect. It is hard,
 
 The order matters, and the experiment proves it: dig up (gently) one seed a day from a row sown on the same day, and the story reads itself — coat split, root down, shoot up, leaves open. A seed that shows nothing above the soil is not doing nothing: the root is already at work below.
 
-[Picture — a bean seed at four moments: whole, coat split with the root out, shoot rising, first leaves open — the student puts the four moments in order before reading on]
+In your mind's eye: a bean seed at four moments: whole, coat split with the root out, shoot rising, first leaves open. The student puts the four moments in order before reading on.
 
-[GIF — a seed germinating over days, root first then shoot — the student says which part came first and how they know]
+In your mind's eye: a seed germinating over days, root first then shoot. Say which part came first and how they know.
 
 ## Sub lesson 2 — What each plant part does — found by experiment
 

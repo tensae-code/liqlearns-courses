@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Chromosome structu
 ## The idea
 A cell's long DNA is packaged with protein into chromosomes — DNA wound around histone proteins into nucleosomes, the string folded into chromatin that is loose (euchromatin) or dense (heterochromatin) — each chromosome's shape is named by where its centromere sits, and a karyotype is the individual's whole set of chromosomes photographed, cut out and arranged in order. No lesson in this course taught this on its own before, so this lesson is built for it — from Indonesia's Kurikulum Merdeka books, which teach it as a named topic.
 
-[Picture — a length of DNA winding twice around a cluster of histone beads to make a nucleosome, the beaded string coiling into a fibre and then into one X-shaped chromosome with its centromere pinched near the middle, beside a karyotype chart of chromosome pairs laid out in size order]
+In your mind's eye: a length of DNA winding twice around a cluster of histone beads to make a nucleosome, the beaded string coiling into a fibre and then into one X-shaped chromosome with its centromere pinched near the middle, beside a karyotype chart of chromosome pairs laid out in size order.
 
 ## The key facts
 **Packaging — nucleosomes.** DNA does not lie loose in the nucleus. It winds around histone proteins, forming bead-like units called nucleosomes, and the beaded string folds further until, at division, it is packed into the dense rod we call a chromosome. A chromosome is therefore a macromolecule of DNA plus protein.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene, dysfuncti
 ## The idea
 the system's common disorders, multiple sclerosis among them, and how the system is kept healthy (same proposed slug as in the Moldova filings)
 
-[Picture — a neuron with its myelin sheath shown damaged in patches, labelled multiple sclerosis, beside a short list of habits that keep the nervous system healthy]
+In your mind's eye: a neuron with its myelin sheath shown damaged in patches, labelled multiple sclerosis, beside a short list of habits that keep the nervous system healthy.
 
 ## The key facts
 **Nervous system health.** Kuwait's Grade 12 Term 1 student book (Lesson 5-1, printed p. 51) gives the nervous system a health lesson of its own: the system's common disorders, multiple sclerosis among them.

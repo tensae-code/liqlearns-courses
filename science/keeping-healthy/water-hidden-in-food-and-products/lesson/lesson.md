@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Water hidden in food and pr
 
 Water is not only in the tap, the river and the rain. It is **inside our food** too — even in the soup. Foods and products carry water as one of their ingredients, mixed in where we cannot always see it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Reading the label
 

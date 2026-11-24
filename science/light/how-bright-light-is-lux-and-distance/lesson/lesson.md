@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Light can be brighter or dimmer, and North Macedonia's Grade 5 book gives that brightness a measure: the **lux**, read with a **luxmeter**. Brightness stops being a feeling ('this seems bright') and becomes a number two people can agree on, because both can read the same meter in the same place.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Further from the source, dimmer
 

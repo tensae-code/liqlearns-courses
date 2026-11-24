@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Ground and mechani
 ## The idea
 Once meristem's cells finish, they take jobs. North Macedonia's Biology II teaches the permanent tissues in order, and after the meristem lesson it gives parenchyma and mechanical tissue a lesson pair of their own (Themes 3.3–3.4, printed pp. 190–194). No lesson in this course taught the ground and mechanical tissues as a pair before, so this lesson is built for it.
 
-[Picture — a cut stem in cross-section: soft thin-walled parenchyma filling the middle, strands of thick-walled mechanical tissue standing like pillars at the corners, each labelled with its job — filling and working, holding up]
+In your mind's eye: a cut stem in cross-section: soft thin-walled parenchyma filling the middle, strands of thick-walled mechanical tissue standing like pillars at the corners, each labelled with its job — filling and working, holding up.
 
 ## The key facts
 **Parenchyma is the ground tissue.** Parenchyma is the basic living tissue of the plant: thin-walled cells with large vacuoles, filling the soft parts — the pith and cortex of stems, the flesh of fruits, the inside of leaves. It is the plant's general-purpose tissue.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cell reactions —
 ## The idea
 A living cell is not passive. Nigeria's Senior Secondary Biology 1 closes Chapter 4 with cell reactions to the environment, through movement. When a whole cell or organism moves towards a stimulus or away from it, that is a tactic movement — the direction of the stimulus sets the direction of the move. The lesson sets tactic movements among the forms of movement in cells and organisms, including the nastic responses that do not depend on the stimulus's direction.
 
-[Picture — a single-celled organism swimming towards light and away from a harmful chemical, with arrows showing movement towards and away from each stimulus]
+In your mind's eye: a single-celled organism swimming towards light and away from a harmful chemical, with arrows showing movement towards and away from each stimulus.
 
 ## The key facts
 **Cells react by moving.** Movement is a reaction: cells and organisms respond to changes in their environment by moving — one of the cell reactions Chapter 4 teaches.

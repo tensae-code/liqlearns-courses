@@ -7,9 +7,9 @@ Milk becomes yoghurt without cooking, and a flat dough rises into bread. Nobody 
 
 Yoghurt is milk changed by **lactic-acid bacteria**, which turn the milk sugar **lactose** into **lactic acid**; the acid thickens and sours the milk. The making is a controlled chain: the milk is **heated** and **pasteurised** (harmful microbes killed), **homogenised** (the fat spread evenly), then **inoculated** — the starter bacteria, streptococci and lactobacilli, are stirred in — and **incubated at about 43°C**, the bacteria's best working temperature, until the milk **coagulates** into yoghurt. The same family of bacteria, kept working differently, gives **acidophilus milk** (printed pp. 69–73).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Yeast — in beer and in bread
 

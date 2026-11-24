@@ -9,9 +9,9 @@ Mauritania's Grade 4 *Sciences Naturelles* book teaches **desertification: how l
 
 Desertification is a change of the land itself, step by step — which is why the book teaches it inside the environment unit, among the ways the milieu is damaged and must be protected.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Fighting it — the green belt
 

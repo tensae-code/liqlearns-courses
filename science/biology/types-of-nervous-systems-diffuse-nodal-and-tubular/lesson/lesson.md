@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Types of nervous s
 ## The idea
 Animal nervous systems climb an evolutionary ladder: the diffuse nerve net of a hydra, the nodal system of nerve knots and chains in worms and insects, and the tubular system of vertebrates — a cord with a brain at its head end. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — three animals in a row — a hydra with a net of nerves spread through it, an earthworm with a knotted nerve chain, and a fish with a brain and spinal cord drawn as one tube — each system highlighted]
+In your mind's eye: three animals in a row — a hydra with a net of nerves spread through it, an earthworm with a knotted nerve chain, and a fish with a brain and spinal cord drawn as one tube. Each system highlighted.
 
 ## The key facts
 **§7.2 Types of nervous systems.** diffuse nerve net (hydra), nodal/ganglion system (worms, grasshopper), tubular system of vertebrates on p. 79, compared as an evolutionary ladder

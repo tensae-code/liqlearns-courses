@@ -9,9 +9,9 @@ A **patch reef** is a **solid reef island on the lagoon floor** — a stand of r
 
 Like every reef, it **grows toward the sunlight** — building upward from the lagoon floor toward the light its builders need.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hiding places for shallow-water animals
 

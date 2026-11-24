@@ -7,9 +7,9 @@ A sheep walks up to two bushes. One is soft and leafy; the other is covered in s
 
 Plants grown **with thorns are unpopular with grazers**: the thorn is a **defence** — a sharp guard that makes the plant costly to eat, so grazing animals pass it by for softer food. A plant cannot run; the thorn is how it stands its ground.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Few such wild species in Iceland
 

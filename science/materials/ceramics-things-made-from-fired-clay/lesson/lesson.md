@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Ceramics: shapes moulded from a special clay (kaolin for pure white ware), sun-dried and kiln-fired hard and porous, then glazed — salt dust, or a coating of tin oxide or lead oxide, melted on in the kiln — so the ware is non-porous, smooth and lasting; porcelain insulators, cups and plates, false teeth and bone joints, bricks and roof tiles.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

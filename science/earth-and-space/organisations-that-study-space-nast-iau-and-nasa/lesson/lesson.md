@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 NAST, Nepal's own Academy of Science and Technology (established BS 2039, its four objectives, and its planned National Space Research Centre); the IAU (founded 1919; the body that defined planet and dwarf planet and reclassified Pluto and Ceres in 2006); and NASA (founded 1958; the 1969 Moon landing, the space station, the Parker Solar Probe, the Perseverance rover, Hubble and the James Webb telescope)
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — NAST
 

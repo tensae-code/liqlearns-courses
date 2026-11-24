@@ -9,9 +9,9 @@ The way everyone knows first is the **seed**. A plant makes seeds, the seeds are
 
 The seed way is real, and Djibouti's guide teaches it. But the module's title is wider than the seed: it is about **the different ways to grow a new plant** — and the seed is only the first of them.
 
-[Picture — a seed, then the same kind of plant sprouting from soil — the student says where the new plant started]
+In your mind's eye: a seed, then the same kind of plant sprouting from soil. Say where the new plant started.
 
-[GIF — a seed swelling and splitting as its shoot comes out — the student says what started the new plant]
+In your mind's eye: a seed swelling and splitting as its shoot comes out. Say what started the new plant.
 
 ## Sub lesson 2 — Other ways — bulb and cutting
 

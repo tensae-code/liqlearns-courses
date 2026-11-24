@@ -11,9 +11,9 @@ Earth science asks the planet's own questions. What is the ground made of? Where
 
 That is why Ghana's curriculum places Earth science inside the **Cycles** strand: the Earth's story is a story of things going round — water rising and falling as rain, rock breaking down and building up again.
 
-[Picture — the Earth from space beside a cut hillside showing rock and soil layers — the student names what each part of the picture studies]
+In your mind's eye: the Earth from space beside a cut hillside showing rock and soil layers. Name what each part of the picture studies.
 
-[GIF — rain falling on a hill, running down to a river, and vapour rising again — the student traces the water's circle]
+In your mind's eye: rain falling on a hill, running down to a river, and vapour rising again. The student traces the water's circle.
 
 ## Sub lesson 2 — The Earth's materials
 

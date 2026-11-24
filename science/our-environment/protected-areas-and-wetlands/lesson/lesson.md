@@ -9,9 +9,9 @@ Mauritania's Grade 8 *Sciences de la Vie et de la Terre* book, in its ecosystems
 
 A protected area is an ecosystem given a guard. What it protects is not one species but the whole web in that place: habitat first, and every living thing the habitat carries.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Wetlands as ecosystems
 

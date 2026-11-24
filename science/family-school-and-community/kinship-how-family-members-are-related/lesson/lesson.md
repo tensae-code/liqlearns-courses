@@ -7,9 +7,9 @@ Name the people in your family. Now say how each one is related to you — not j
 
 **Kinship** is how the members of a family are related to one another. A family is not only a list of people: each person stands in a relation to the others — this one is a parent, that one a grandparent, another a brother or sister. Angola's Grade 2 book teaches these **kinship relations** (Relações de parentesco) as their own thing, right after the lesson that gathers my family and its other members.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The names of the relations
 

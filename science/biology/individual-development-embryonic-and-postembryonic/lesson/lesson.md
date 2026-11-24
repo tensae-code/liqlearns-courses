@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Individual develop
 ## The idea
 Bulgaria's Grade 10 book teaches individual development as a general topic of its own (Topic 22, printed p. 65) inside its reproduction-and-development section, and then gives the two periods their own topics (Topics 23–24, printed p. 67): the embryonic period and the post-embryonic period — the whole life of one organism, built in order, before the book narrows to the individual development of humans (Topics 25–26).
 
-[Picture — a two-part timeline of one life: an egg and forming embryo labelled 'embryonic period', then a hatched young creature growing into an adult labelled 'post-embryonic period']
+In your mind's eye: a two-part timeline of one life. An egg and forming embryo labelled 'embryonic period', then a hatched young creature growing into an adult labelled 'post-embryonic period'.
 
 ## The key facts
 **Individual development.** Individual development — ontogenesis — is the whole ordered building of one organism across its life: it begins with the fertilised egg and runs until the adult, and it is a basic property of organisms, taught in the book beside reproduction itself.

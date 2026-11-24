@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — karaundzh — an ancient 
 
 The books teach this part as Kazakh/Caucasus way: Karaundzh named the world's oldest observatory, its stone pillars with tube-like holes used to watch the sky — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — karaundzh — an ancient observatory as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: karaundzh — an ancient observatory as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

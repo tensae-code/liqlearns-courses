@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Food additives and
 ## The idea
 Foods carry additives — preservatives that stop microbes and spoilage, colours, flavours and others — each with its job and its code on the label, and reading the label is how a buyer knows what is in their plate, Greece's workbook's own cry: 'Help! A preservative in my plate'. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a food packet turned to show its ingredients label, a magnifier over the additive lines, and small icons for preservative, colour and flavour]
+In your mind's eye: a food packet turned to show its ingredients label, a magnifier over the additive lines, and small icons for preservative, colour and flavour.
 
 ## The key facts
 **Activity 2.7.** "Help! A preservative in my plate": reading labels, food additives and preservatives

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Variation — here
 ## The idea
 Organisms vary in two ways: hereditary variation, carried in their genes and passed to their offspring, and non-hereditary — modification — variation, shaped by living conditions and not inherited; telling the two apart is the first step of genetics. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — two plants of one kind side by side: one differing from its parent by an inherited mark passed to its seedlings, the other grown larger only by rich soil, its seedlings drawn ordinary]
+In your mind's eye: two plants of one kind side by side. One differing from its parent by an inherited mark passed to its seedlings, the other grown larger only by rich soil, its seedlings drawn ordinary.
 
 ## The key facts
 **§50 Hereditary and acquired traits.** telling inherited traits from acquired ones

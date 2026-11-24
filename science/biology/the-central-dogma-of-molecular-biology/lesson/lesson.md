@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The central dogma 
 ## The idea
 The central dogma states the flow of genetic information: DNA is transcribed into RNA and RNA is translated into protein, while DNA copies itself — information flows from the archive to the working copy to the machine — and Greece's Grade 12 volume opens its molecular genetics with it. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — three boxes in a row — DNA, RNA, protein — joined by arrows labelled transcription and translation, with a return arrow over the DNA box labelled replication]
+In your mind's eye: three boxes in a row — DNA, RNA, protein. Joined by arrows labelled transcription and translation, with a return arrow over the DNA box labelled replication.
 
 ## The key facts
 **§4.2.** molecular genetics opens with the central dogma

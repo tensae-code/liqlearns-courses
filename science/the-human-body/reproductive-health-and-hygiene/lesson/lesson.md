@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Every system of the body has its health, and the reproductive system is no exception. Cambodia's Grade 6 book builds to this lesson in order: first the reproductive organs (Lesson 6), then puberty, the body changing (Lesson 7), then preventing pregnancy and staying safe (Lesson 8) — and then **reproductive health** itself (Lesson 9): the state of a reproductive system that is working as it should, kept that way by care, cleanliness and staying safe.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hygiene — the daily care that keeps it healthy
 

@@ -9,9 +9,9 @@ Electricity is a servant with a dangerous side. Djibouti's Grade 4 guide gives t
 
 The danger is not a reason to fear electricity; it is a reason to respect it. The lesson names the danger first so that the protection that follows has something real to stand on.
 
-[Picture — a home scene with electricity at work — lamp, wires, socket — the student points to each place where care is needed]
+In your mind's eye: a home scene with electricity at work — lamp, wires, socket. The student points to each place where care is needed.
 
-[GIF — a lamp switching on, then the same scene with a warning pause at the socket — the student says what the danger is and where it sits]
+In your mind's eye: a lamp switching on, then the same scene with a warning pause at the socket. Say what the danger is and where it sits.
 
 ## Sub lesson 2 — How to protect yourself
 

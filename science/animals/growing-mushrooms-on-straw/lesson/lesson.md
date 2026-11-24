@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Cultivating mushrooms the book's way: chop straw to 1–2 inches, boil 15–20 minutes, dry a day, then layer it in plastic bags with spawn between the layers, press, pierce holes, keep a week in a dark room until white mycelium covers the straw, water, and harvest from about 25 days; kannye (oyster) grown in Kathmandu from Chaitra to Kartik and gobre in the hills.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why mushroom growers raise mushrooms on straw
 

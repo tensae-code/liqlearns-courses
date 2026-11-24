@@ -9,9 +9,9 @@ The respiratory system — nose, windpipe and lungs — works every minute of li
 
 Kuwait's Grade 8 book gives the system its own health lesson, after teaching its structure and how energy is released from food: first how it works, then how to keep it working.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — What harms it
 

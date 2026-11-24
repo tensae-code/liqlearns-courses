@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Some things, when they are thrown away or fall to the ground, do not stay as they are. Fruit peels, fallen leaves, food remains, paper and wood slowly **break down** — they rot, soften and crumble, helped by water, air and tiny living things in the soil, until they become part of the soil itself. Things that break down this way are called **degradable** (also called biodegradable). Nothing is wasted for long: what the soil takes back can feed new plants.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Non-degradable things — they stay and stay
 

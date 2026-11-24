@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 the balanced ecosystem: when all an ecosystem's factors work together it stays in balance, though it is always changing — a pond drying in drought drives out the frogs and insects that cannot move on, while land living things (trees, flowers, rats, earthworms) take its place
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Changes in Ecosystems
 

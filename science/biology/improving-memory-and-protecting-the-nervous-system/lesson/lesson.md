@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Improving memory a
 ## The idea
 Memory can be improved by named methods — repetition, association and a regular regime — while alcohol, nicotine and drugs harm the work of the nervous system, so training memory and protecting the system belong to one lesson. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a brain drawn with a training loop of arrows labelled repeat and associate on one side, and three crossed-out harm items — alcohol, cigarette, drugs — on the other]
+In your mind's eye: a brain drawn with a training loop of arrows labelled repeat and associate on one side, and three crossed-out harm items — alcohol, cigarette, drugs. On the other.
 
 ## The key facts
 **§47 Ways to improve memory. Influence of negative factors on the work of the nervous system.** memory-training methods and what harms the nervous system

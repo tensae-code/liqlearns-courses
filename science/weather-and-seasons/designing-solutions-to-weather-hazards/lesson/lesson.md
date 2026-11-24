@@ -7,9 +7,9 @@ A river floods the same street every year. The rain cannot be stopped. But must 
 
 A **weather-related hazard** is dangerous weather whose effects harm people and places (Grade 3, 3.1.3, printed p. 28) — the book's worked ground is flooding and its **flood barriers and similar** solutions. The design problem is stated exactly: the hazard will come; the **effects** are what a solution can reduce.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Design, test and optimise the solution
 

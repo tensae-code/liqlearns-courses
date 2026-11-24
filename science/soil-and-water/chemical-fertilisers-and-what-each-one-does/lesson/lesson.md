@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Chemical (inorganic) fertilisers by the nutrient they give: nitrogen fertilisers (urea, ammonium sulphate, ammonium nitrate — fast leafy growth; lack yellows the leaves and shrinks flower, fruit and seed), phosphatic fertilisers (ammonium phosphate, superphosphates — root growth and early, full grain; lack weakens roots and delays ripening), and potassic fertilisers (potassium chloride, sulphate, nitrate and carbonate, and ash — strong stems and roots and disease resistance; lack shrinks and sheds leaves), opening with the book's own story of a farmer whose maize failed until a soil test showed each part of his field lacked a different element.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Chemical fertilisers by nutrient
 

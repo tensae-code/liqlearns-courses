@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — climate change and living thi
 
 South Sudan's Primary 4 book teaches the effects of climate change on animals and plants as its own topic: plants **dry out and rot**, and the guide's answers add the other side — plants themselves **hold back climate change and raise biodiversity**.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What climate change does to animals
 

@@ -9,9 +9,9 @@ Bulgaria's Grade 3 book's Lesson 18, *Living organisms in the water*, reads the 
 
 The animals carry **fins** for moving, **shells** for protection, **tentacles** for feeling and catching, and **webbed feet** for swimming. And the book sets one trap and springs it: **the dolphin is not a fish** — living in water does not make an animal a fish; the fittings and the kind must be read together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Fitted for the land
 
@@ -19,9 +19,9 @@ Lesson 19, *Living organisms on land*, reads the land animals' fittings under fo
 
 For winter, animals **hibernate**, grow **thicker fur**, or **migrate** away. For defence, they carry **spines, shells, horns and a sting**. The test is the same as in the water: name the fitting, name the job it does in that home — a fitting you cannot connect to its job is not yet an adaptation you understand.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

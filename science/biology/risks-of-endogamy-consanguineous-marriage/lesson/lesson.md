@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Risks of endogamy 
 ## The idea
 what can follow when two related individuals marry, set out as its own section closing the heredity-in-humans lesson
 
-[Picture — a family pedigree of two related parents with the shared ancestors marked, and a Punnett-style sketch showing a recessive allele arriving from both sides]
+In your mind's eye: a family pedigree of two related parents with the shared ancestors marked, and a Punnett-style sketch showing a recessive allele arriving from both sides.
 
 ## The key facts
 **The section.** Kuwait's Grade 12 Term 2 student book (Section Two, printed p. 90) sets out the risks of endogamy as its own section closing the heredity-in-humans lesson: what can follow when two related individuals marry.

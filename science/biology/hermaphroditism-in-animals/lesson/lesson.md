@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hermaphroditism in
 ## The idea
 The reproduction chapter of Iraq's Grade 12 Biology book climbs the kinds of reproduction one by one — viruses, bacteria and protists, fungi, plants, animals — and after parthenogenetic reproduction (§10-3, printed p. 135) it closes with a section of its own on hermaphroditic reproduction (§11-3, printed p. 137): reproduction in animals where one individual carries both sexes.
 
-[Picture — a simple diagram of one animal body carrying both a male and a female reproductive organ, the two labelled side by side in the single body]
+In your mind's eye: a simple diagram of one animal body carrying both a male and a female reproductive organ, the two labelled side by side in the single body.
 
 ## The key facts
 **Both sexes, one body.** A hermaphrodite carries male and female reproductive organs in the same individual — one body holds both sets of gamete-making organs.

@@ -7,9 +7,9 @@ Everyone knows oil is burned as fuel. But look at a bottle of detergent: it bega
 
 Oil has two lives. The first is the fuel life of the earlier chapters. The second is the life of a **raw material**: oil is the starting stuff from which **products beyond fuels** are made. A raw material is not used up by burning — it is built into things, and oil serves as the building-stuff for a whole family of everyday products.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Detergents — the feature example
 

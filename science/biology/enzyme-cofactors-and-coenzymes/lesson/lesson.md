@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Enzyme cofactors a
 ## The idea
 Many enzymes work only with a helper: a cofactor — often a metal ion — or an organic coenzyme, many of them made from vitamins, sits with the enzyme and takes part in the reaction it speeds. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — an enzyme drawn with an empty helper socket, a small metal ion and a vitamin-shaped coenzyme clicking into place before the substrate fits]
+In your mind's eye: an enzyme drawn with an empty helper socket, a small metal ion and a vitamin-shaped coenzyme clicking into place before the substrate fits.
 
 ## The key facts
 **§3.2.** enzyme cofactors

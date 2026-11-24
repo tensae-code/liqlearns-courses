@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Comparing inverteb
 ## The idea
 Afghanistan's Grade 11 Biology book does something distinctive after classifying the invertebrates: a whole chapter comparing their body systems across the phyla. This lesson teaches that comparison on its own — system by system, phylum by phylum — the table a learner can use to place any invertebrate.
 
-[Picture — a picture of a comparison table drawn as five animals in a row — sponge, hydra, flatworm, earthworm, grasshopper — with one label under each naming how it digests, breathes, transports, controls and excretes]
+In your mind's eye: a comparison table drawn as five animals in a row — sponge, hydra, flatworm, earthworm, grasshopper. With one label under each naming how it digests, breathes, transports, controls and excretes.
 
-[GIF — the five animals appearing one by one as a gut is drawn inside each — no gut, sac gut, then a through tube — while the labels for the other systems fill in beneath — the student reads one row across and one column down]
+In your mind's eye: the five animals appearing one by one as a gut is drawn inside each — no gut, sac gut, then a through tube — while the labels for the other systems fill in beneath. The student reads one row across and one column down.
 
 ## The key facts
 **Feeding and digestion.** A one-way tube is the great advance: food enters at the mouth, is digested in specialised regions, absorbed, and wastes leave at the anus — so an earthworm or a grasshopper can eat and digest at the same time, while a hydra must finish one meal before the next.

@@ -7,9 +7,9 @@ Before you read: think of yesterday. Can you list everything you did, in the ord
 
 Being planned starts with seeing the day clearly: name what we do in a day, list the day's work, and put that work in order. A list in order turns a jumbled day into work that can actually be done, one piece after another.
 
-[Picture — the lesson's central set-up for sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
-[GIF — the lesson's central change for sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
 
 ## Sub lesson 2 — Keeping a daily plan for a week and reviewing it
 

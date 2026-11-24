@@ -9,9 +9,9 @@ Stars are not learned one by one. They are learned in **patterns**.
 
 A **constellation** is a group of stars that makes a pattern in the sky, with a name. When you know a constellation — its shape and its name — you can find that part of the sky again, night after night. The guide's lessons give the names of the constellations and look at the constellations up in the sky: naming the patterns is the first step to reading the sky at all.
 
-[Picture — a night-sky chart with one constellation's stars joined by lines and labelled with its name — the student traces the pattern and says its name]
+In your mind's eye: a night-sky chart with one constellation's stars joined by lines and labelled with its name. The student traces the pattern and says its name.
 
-[GIF — star dots appearing one by one until the joined lines of a constellation stand complete — the student says at which star the pattern became clear]
+In your mind's eye: star dots appearing one by one until the joined lines of a constellation stand complete. Say at which star the pattern became clear.
 
 ## Sub lesson 2 — The first stars — the Southern Cross, the Morning and Evening Stars, and Sirius
 

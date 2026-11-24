@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The Hardy–Weinbe
 ## The idea
 In a population that is not evolving — no selection, no mutation, no migration, mating at random, in large numbers — allele and genotype frequencies stay the same from generation to generation: that is the Hardy–Weinberg law, the balance point against which real, changing populations are measured, summed in p² + 2pq + q² = 1. No lesson in this course taught this on its own before, so this lesson is built for it — from Bhutan's Class 10 book, which teaches it as a named topic.
 
-[Picture — a Punnett-style grid for two alleles A and a with the three boxes labelled p², 2pq and q², beside a balance scale standing level across two generations]
+In your mind's eye: a Punnett-style grid for two alleles A and a with the three boxes labelled p², 2pq and q², beside a balance scale standing level across two generations.
 
 ## The key facts
 **Frequencies, not individuals.** Population genetics counts how common each allele is in a whole population — the allele frequency — and how common each genotype is. The Hardy–Weinberg law is a statement about those frequencies.

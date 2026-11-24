@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 An **analogy** teaches a new thing by setting it beside a known one: this is like that, in the ways that matter. Part 3 of Cambodia's manual trains teachers to build them deliberately — **Focus-Action-Reflection**, working an analogy through in stages, and **Synectics**, making the strange familiar and the familiar strange — and then to hand the making over: the chapter's own order ends with **learner-made analogies**, because an analogy a learner builds shows what the learner actually holds.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Models — stand-ins that can be handled
 

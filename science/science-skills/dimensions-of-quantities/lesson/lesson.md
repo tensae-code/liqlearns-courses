@@ -8,9 +8,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Every measured quantity — length, mass, time, and everything built from them — has a **dimension**: the kind of thing it is, underneath whatever unit it is measured in. A length is a length whether it is read in metres or in centimetres; the unit changes, the dimension does not. Indonesia's Grade 10 book introduces **quantities, units and dimensions** together (Bab 1, Pengukuran dalam Kerja Ilmiah — measurement in scientific work), because the three belong together from the start.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Working the dimension out from the unit
 

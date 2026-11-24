@@ -9,9 +9,9 @@ A **mortise-and-tenon** joint joins two pieces of wood with no nails and no scre
 
 Because both parts are wood, the joint can be made with the carpenter's own tools, taken apart and put together again, and it holds by shape, not by glue or iron.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Joinery in old Chinese buildings and bridges
 

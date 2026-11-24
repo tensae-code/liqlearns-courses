@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Growth and develop
 ## The idea
 Growth is an irreversible increase in size — more cells, bigger cells, more dry mass — while development is the whole change by which a living thing matures: cells differentiate, organs form and take up their work, and the organism becomes able to live and reproduce as an adult. Growth can be measured with a ruler and a balance; development is seen in what the living thing can now do. No lesson in this course taught this on its own before, so this lesson is built for it — from Pakistan (Punjab)'s Punjab Board books, which teach it as a named topic.
 
-[Picture — one organism shown in four stages in a row — a germinating seed, a young seedling, a leafy plant and the same plant in flower — with a ruler under the row for growth and a flower ringed at the end for development]
+In your mind's eye: one organism shown in four stages in a row — a germinating seed, a young seedling, a leafy plant and the same plant in flower. With a ruler under the row for growth and a flower ringed at the end for development.
 
 ## The key facts
 **Growth: getting bigger, for good.** Growth is increase in size and mass that is not reversed: new cells are made by division, cells enlarge, and material is laid down. A germinated seed does not shrink back into the seed — growth is one-way.

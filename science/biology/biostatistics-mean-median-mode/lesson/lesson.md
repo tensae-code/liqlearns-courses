@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Biostatistics — 
 ## The idea
 Biostatistics is the statistics a biologist uses on living data: a set of measurements is summed up by its mean (the values added and divided by how many there are), its median (the middle value when they are lined up in order) and its mode (the value that occurs most often) — and the set is shown at a glance in a bar chart. No lesson in this course taught this on its own before, so this lesson is built for it — from Pakistan (Punjab)'s Punjab Board books, which teach it as a named topic.
 
-[Picture — a row of seedlings of different heights with a ruler beside them, and next to it a simple bar chart of the same heights, with the middle seedling ringed as the median]
+In your mind's eye: a row of seedlings of different heights with a ruler beside them, and next to it a simple bar chart of the same heights, with the middle seedling ringed as the median.
 
 ## The key facts
 **Why a biologist needs numbers summed up.** Biology produces lists: the heights of twenty seedlings, the pulse rates of a class, the leaf counts of ten plants. A list alone says little; the mean, median and mode each squeeze the list into one honest number that can be compared with another set.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Genomic and cDNA l
 ## The idea
 A genomic library stores a whole genome as cloned DNA fragments in bacteria — every gene shelved — while a cDNA library is built from a cell's messenger RNA copied back into DNA, so it shelves only the genes that cell was using; a labelled probe finds the wanted clone by hybridisation. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — shelves of bacterial colonies drawn as library books, one shelf labelled 'whole genome' and a smaller one 'genes in use', with a glowing probe pulling one book out]
+In your mind's eye: shelves of bacterial colonies drawn as library books, one shelf labelled 'whole genome' and a smaller one 'genes in use', with a glowing probe pulling one book out.
 
 ## The key facts
 **Ch. 4.** a genomic library holds a whole genome (p. 61); cloning mRNA to build a cDNA library (p. 64); nucleic-acid hybridisation to detect clones (p. 64)

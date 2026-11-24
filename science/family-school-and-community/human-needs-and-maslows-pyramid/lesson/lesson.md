@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — human needs and Maslow's 
 
 Maslow's pyramid of needs in five levels: physiological (base: food, water, survival), safety (body, belongings, housing, work, health), belonging (acceptance, friendship, family), esteem (self-respect, success, confidence) and self-realisation at the top (goals, values, fulfilment)
 
-[Picture — maslow's pyramid of needs in five levels as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: maslow's pyramid of needs in five levels as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — A need (something required to live and develop) is
 
 a need (something required to live and develop) is not a desire (given importance by each person); conflicts arise when people's needs compete and are best solved by dialogue, with solidarity and respect as the values that hold a group together.
 
-[Picture — a need (something required to live and develop) is as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: a need (something required to live and develop) is as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Atkinson's theory
 
 Atkinson's theory: people's conduct depends on the motive, the expectation and the incentive; motivating states drive action (hunger is a motivating state that pushes us to seek food); Maslow's levels with contents — physiological (breathing, eating, sleep, homeostasis), security, affiliation (friendship, affection, communication), recognition (confidence, respect, prestige) and self-actualisation (morality, spontaneity, creativity, problem-solving) (guide evidence)
 
-[Picture — atkinson's theory as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: atkinson's theory as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

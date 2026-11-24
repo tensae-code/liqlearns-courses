@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Posture and muscul
 ## The idea
 Armenia's Grade 8 "Biology. Human" book closes its musculoskeletal chapter with §22 — the hygiene of the system: how a growing body should be held, carried and exercised so the skeleton grows straight.
 
-[Picture — a picture of three spines side by side — a straight spine in correct posture, a spine curving sideways from habitually sitting crooked, and a spine stooped from a badly carried load — beside a normal foot arch and a flat foot, each labelled]
+In your mind's eye: three spines side by side — a straight spine in correct posture, a spine curving sideways from habitually sitting crooked, and a spine stooped from a badly carried load. Beside a normal foot arch and a flat foot, each labelled.
 
-[GIF — a learner sitting slumped and crooked at a desk, then sitting straight — back against the chair, feet flat, book raised — and the spine in the see-through back straightens with the posture — the student names what changed]
+In your mind's eye: a learner sitting slumped and crooked at a desk, then sitting straight — back against the chair, feet flat, book raised — and the spine in the see-through back straightens with the posture. Name what changed.
 
 ## The key facts
 **Hygiene closes the system.** Armenia's Grade 8 "Biology. Human" book ends its musculoskeletal chapter the way it ends every system chapter: with hygiene. §22, the hygiene of the musculoskeletal system, is the closing section — the system's care is taught as part of the system itself.

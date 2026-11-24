@@ -11,9 +11,9 @@ Bulgaria's Grade 3 book groups animals by **what they eat**, and the grouping ha
 
 The book teaches the three groups inside its lesson on feeding and the food chain (Lesson 15), where plants are called **"green factories"** — the makers of food that every chain starts from. That placing is the point: the group an animal belongs to is read off its menu, and its menu is its place in the chain.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Reading the group off the animal
 
@@ -21,9 +21,9 @@ To place an animal, ask one question: **what does it eat?** Leaves, grass, fruit
 
 The group is not read off size, fierceness or where the animal lives. A big animal may eat only plants; a small one may hunt. The food decides — that is the whole test, and it works for every animal the learner can name.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

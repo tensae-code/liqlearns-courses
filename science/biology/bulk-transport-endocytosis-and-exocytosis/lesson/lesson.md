@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Bulk transport —
 ## The idea
 endocytosis for large particles; exocytosis drawn step by step: Golgi packs material into secretory vesicles that fuse with the plasma membrane (neurotransmitter release as the example)
 
-[Picture — a cell with two arrows: a large particle being wrapped by the membrane and taken in, labelled endocytosis, and a vesicle fusing with the membrane and releasing its contents outside, labelled exocytosis]
+In your mind's eye: a cell with two arrows. A large particle being wrapped by the membrane and taken in, labelled endocytosis, and a vesicle fusing with the membrane and releasing its contents outside, labelled exocytosis.
 
 ## The key facts
 **Endocytosis.** Kuwait's new Grade 10 student book (Lesson 1-4, printed pp. 72–73) teaches bulk transport for large particles: endocytosis takes large particles into the cell.

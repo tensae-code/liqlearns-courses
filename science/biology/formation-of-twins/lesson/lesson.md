@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Formation of twins
 ## The idea
 At the end of its reproduction chapter, Malaysia's Form 4 book teaches the formation of twins (printed p. 300) — and examines it by comparison: identical against fraternal, one egg against two.
 
-[Picture — two diagrams side by side: one fertilised egg splitting into two embryos labelled identical twins, and two separate eggs each fertilised, labelled fraternal twins]
+In your mind's eye: two diagrams side by side. One fertilised egg splitting into two embryos labelled identical twins, and two separate eggs each fertilised, labelled fraternal twins.
 
 ## The key facts
 **Identical (monozygotic) twins.** One egg is fertilised by one sperm, and the early embryo then splits into two. Both twins grow from the same fertilised egg, so they carry the same genes and are the same sex.

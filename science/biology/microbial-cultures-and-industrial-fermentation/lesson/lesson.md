@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Microbial cultures
 ## The idea
 Biotechnology's working tool is the microbial culture: microbes grown pure in the lab, then scaled up in great fermenters with food, air and stirring controlled, their products separated and purified — penicillin production stands as the milestone that proved the scale. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a chain growing left to right — a single colony dish, a flask, then a tall factory fermenter with pipes and gauges — ending in a medicine bottle labelled penicillin]
+In your mind's eye: a chain growing left to right — a single colony dish, a flask, then a tall factory fermenter with pipes and gauges. Ending in a medicine bottle labelled penicillin.
 
 ## The key facts
 **Ch. 7.** microbial cultures as biotechnology's tool; growth in lab and at industrial scale (p. 113), culture methods (p. 114), purifying fermentation products and penicillin production as a milestone (p. 115)

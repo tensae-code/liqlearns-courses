@@ -7,9 +7,9 @@ The Pacific Ocean has a normal pattern: winds blow one way, cold water rises in 
 
 Normally the trade winds blow west from South America and cold deep water wells up off the South American coast, so the east Pacific sits at about 20 °C while the west is about 30 °C (stocked in full in `weather-and-seasons/weather-and-climate`). El Niño is what happens when that pattern fails.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Every 3–7 years — the warming
 

@@ -7,9 +7,9 @@ A farmer has one well and a field of thirsty crops under a hot sun. Half the wat
 
 **Irrigation** is bringing water to crops. Egypt's Primary 6 book arrives here through soil and environmental change: how soil forms, changes and is lost, and how it is protected. Water spread openly over a field is shared with the sun and the wind — much evaporates or runs past the roots before a plant can drink. In a dry land, every lost bucket is a loss the farm and the aquifer both feel; saving water in farming is protecting soil and water together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — A new modern irrigation system — the project
 

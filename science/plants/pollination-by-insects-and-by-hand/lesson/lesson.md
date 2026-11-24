@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 6 Topic 3 defines pollination: pollen reaching the stigma of a flower. Insects do the carrying without knowing it — bees and moths visit flowers to collect nectar, and the pollen's hooked grains catch in their fur, ride to the next flower, and rub off on its stigma. The flower feeds the insect; the insect pollinates the flower.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Pollinating by hand
 

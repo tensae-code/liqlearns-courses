@@ -7,17 +7,17 @@ A river runs. A lake stands. But water has two slower forms still: ground so wet
 
 A **swamp** is land where water stands and soaks the ground for most or all of the year — neither open water like a lake nor dry land, but the wet ground between. Swamp plants and animals are fitted to that standing water, and the swamp holds water back, releasing it slowly — its standing is its work.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Glaciers — water held as ice, and what both mean
 
 A **glacier** is a great mass of ice on the land, built from snow pressed over long years, holding fresh water frozen in place and feeding rivers as it melts at its edges. Swamp and glacier are the land's two slow stores: one holds water **wet**, the other holds it **frozen** — and that holding is the significance of both for the waters around them.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

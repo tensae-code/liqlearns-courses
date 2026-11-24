@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — fossil fuels — what they ar
 
 Papua New Guinea's Standards Based Grade 10 guide opens its Minerals and Fossil Fuel topic with the definition: a **fossil fuel** is a fuel formed from the remains of living things long ago, dug or pumped from the ground and burned for energy — oil is the topic's worked example.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Oil production in Papua New Guinea
 

@@ -11,9 +11,9 @@ A **compound machine** is what you get when **two or more simple machines are jo
 
 Hold the test by counting: if you can find only one simple machine, it is simple. If you can find two or more joined, it is compound.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Compound machines around us
 

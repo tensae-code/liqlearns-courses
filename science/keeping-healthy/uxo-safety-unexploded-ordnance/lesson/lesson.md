@@ -9,9 +9,9 @@ Laos’s books open with the thing itself: bombs and unexploded ordnance (UXO) l
 
 Knowing what these things look like — their kinds, shapes and colours — and where they still lie is the first safety knowledge: a thing you can recognise is a thing you can keep away from. The Grade 3 book even practises the danger safely, bursting a flour/rice-filled balloon as a safe simulation of what a real bomb does — the lesson learned with no real bomb anywhere near.
 
-[Picture — the lesson’s central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson’s central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — How people get hurt
 

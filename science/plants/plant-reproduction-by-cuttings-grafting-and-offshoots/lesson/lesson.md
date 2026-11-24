@@ -9,9 +9,9 @@ After natural reproduction, Iraq's Grade 6 book teaches **artificial reproductio
 
 Both are artificial in the book's sense: a person does the placing. The cutting is planted by a hand; the graft is joined by a hand. The plant does the growing.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Offshoots — and reproduction by leaves
 

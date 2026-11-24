@@ -11,9 +11,9 @@ Some belong to the **forest**: the spruce and pine, the wood anemone and liverle
 
 This is not an accident of the picture. **A living thing lives where its needs are met.** The forest plant finds in the forest the light, space, soil and company it needs; the garden plant is planted and cared for where its needs are met in the garden. Put a plant where its needs are not met, and it does not thrive.
 
-[Picture — the two-page garden-and-forest scene, empty of its cut-out plants — the student points to the garden side and the forest side and says what belongs on each before reading on]
+In your mind's eye: the two-page garden-and-forest scene, empty of its cut-out plants. The student points to the garden side and the forest side and says what belongs on each before reading on.
 
-[GIF — a cut-out spruce being stuck down in the forest side of the scene — the student says which place it went to and what need that place meets]
+In your mind's eye: a cut-out spruce being stuck down in the forest side of the scene. Say which place it went to and what need that place meets.
 
 ## Sub lesson 2 — Placing the cut-outs — prove it by sorting
 

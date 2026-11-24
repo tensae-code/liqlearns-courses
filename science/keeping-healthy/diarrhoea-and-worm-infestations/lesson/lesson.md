@@ -9,9 +9,9 @@ Diarrhoea diseases have causes a child can name: **contaminated water and contam
 
 The booklet's home answer is **ORS/SSS** — the rehydration drink used at home. It is given **in amounts by age**: the amount for a small child is not the amount for an older one, and the booklet gives the amounts age by age. Home treatment starts at home, with the right amount for the child's age.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Worm infestations — threadworm and other worms
 

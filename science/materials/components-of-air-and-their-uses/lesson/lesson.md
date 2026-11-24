@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — components of air and their u
 
 South Sudan's Primary 6 book gives the composition of air by percentage: **nitrogen 78, oxygen 21, carbon dioxide 0.03, inert gases 0.97**. Air is not one gas — it is a mixture, and the percentages are the mixture's recipe.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Oxygen — the active part
 

@@ -7,9 +7,9 @@ Pour water into a glass, then into a bottle. What stayed the same about the wate
 
 Pure water has properties that name it anywhere: it is **colourless**, it has **no taste and no smell of its own**, and it is a **liquid** — it **flows** and **takes the shape of the vessel that holds it**, keeping its own amount while its shape changes. Angola's Grade 5 book teaches these **physical properties of water** (As propriedades físicas da água) as a set: the marks by which water is known as water.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Reading the properties in daily life
 

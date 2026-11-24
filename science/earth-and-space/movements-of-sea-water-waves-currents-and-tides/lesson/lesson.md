@@ -7,25 +7,25 @@ Picture the sea on the calmest day you can imagine. Is its water really still? W
 
 The sea's surface rises and falls in **waves**: the movement you can see. Waves travel across the surface and break at the shore, carrying the water's motion with them, up and down and onward.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Currents — the sea itself travels
 
 Below and beyond the waves, the sea water itself **travels in currents**: great movements of water through the ocean, carrying water — and what floats in it — from place to place across the sea.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 3 — Tides — the shore's rising and falling
 
 At the shore, the sea **rises and falls in tides**: the water line climbs the beach and then retreats, in a regular coming and going. Waves, currents and tides together are the sea's three movements — on the surface, through the body, and at the shore.
 
-[Picture — the lesson's central object or set-up, from sub lesson 3 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 3 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 13 Topic 2 studies the smallest habitat there is: a puddle. Its temperature is measured as it changes over forty minutes, and its surface area is measured with a chicken-wire grid — a habitat is explored by measuring it, not only by looking at it. The puddle's size and water change as you watch: a habitat is a living, changing place.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Investigating a habitat properly
 

@@ -7,17 +7,17 @@ Dig a hole at a riverbank and water seeps in — though nobody poured it there. 
 
 Rain does not all run away: part of it **soaks into the ground** and collects there, in the spaces of soil and rock, as **groundwater**. It is the land's hidden water store — out of sight, moving only very slowly, and feeding the surface waters from below.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Springs and artesian waters — where the hidden water comes out
 
 Where the ground's surface cuts into the groundwater, the water comes out by itself as a **spring**. And where groundwater lies held under pressure between layers, a well bored into it makes the water rise on its own — **artesian water**. Spring and artesian well are the two doors by which the hidden water reaches people and rivers.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -11,9 +11,9 @@ The Bahamas has its own indigenous **flowering plants** — plants known, as all
 
 The word does the work of this sub lesson: a plant found growing wild is not automatically indigenous (it may be an escape from someone's garden), and a loved garden plant is not indigenous however many yards grow it. Indigenous is about **belonging by nature**, not about being common or being liked.
 
-[Picture — a flowering plant growing wild in Bahamian ground, shore or pine land behind it — the student says what in the picture shows the plant is growing wild, not planted, before reading on]
+In your mind's eye: a flowering plant growing wild in Bahamian ground, shore or pine land behind it. Say what in the picture shows the plant is growing wild, not planted, before reading on.
 
-[GIF — the same flowering plant through its year: bud, open flower, fruit, seeds falling — the student names the stage at which a flowering plant can be identified most surely, and says why]
+In your mind's eye: the same flowering plant through its year: bud, open flower, fruit, seeds falling. Name the stage at which a flowering plant can be identified most surely, and says why.
 
 ## Sub lesson 2 — Identifying and describing them
 

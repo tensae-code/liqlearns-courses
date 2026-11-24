@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — transport in living organ
 
 Kazakhstan's books teach this as their own lesson — "How the transport of nutrients in living organisms takes place". The learner works through the books' own presentation of how the transport of nutrients in living organisms takes place — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how the transport of nutrients in living organisms takes place as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how the transport of nutrients in living organisms takes place as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Transport of nutrients in living organisms
 
 Kazakhstan's books teach this as their own lesson — "Transport of nutrients in living organisms". The learner works through the books' own presentation of transport of nutrients in living organisms — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — transport of nutrients in living organisms as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: transport of nutrients in living organisms as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Transport of nutrients
 
 Kazakhstan's books teach this as their own lesson — "Transport of nutrients". The learner works through the books' own presentation of transport of nutrients — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — transport of nutrients as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: transport of nutrients as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

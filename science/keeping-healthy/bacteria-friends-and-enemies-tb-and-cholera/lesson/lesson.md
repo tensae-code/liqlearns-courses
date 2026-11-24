@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 bacteria: found in the soil, the water of rivers and seas, the air and food, and inside the human body and on the skin — single-celled microscopic living things; among them useful bacteria (those in the digestive system, and the milk bacteria) and harmful ones, like those causing sore throat and pneumonia, tuberculosis (a chronic infectious disease settling in the lung) and cholera (spread by drinking polluted water, causing severe diarrhoea and dehydration)
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

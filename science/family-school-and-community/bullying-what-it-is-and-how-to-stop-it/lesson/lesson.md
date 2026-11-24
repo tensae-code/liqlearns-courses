@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — bullying — what it is a
 
 school bullying (acoso escolar) defined as physical or verbal harassment and mistreatment among peers; a victim does not feel safe, and schools should promote an agreeable atmosphere of respect inside and outside the classroom (guide evidence)
 
-[Picture — school bullying (acoso escolar) defined as physical or verbal as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: school bullying (acoso escolar) defined as physical or verbal as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

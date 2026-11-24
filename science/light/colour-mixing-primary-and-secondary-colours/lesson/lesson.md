@@ -15,9 +15,9 @@ Mix two primary colours together and you invent a **secondary colour**:
 
 That is the colour inventor's trick: three starting colours, and by mixing them two at a time you hold six colours — the three primaries you began with, and the three secondaries you invented.
 
-[Picture — three balls of primary-colour plasticine, red, yellow and blue, with the three mixed secondary colours beside them — orange, green, purple — the student names each primary and each colour it helped make before reading on]
+In your mind's eye: three balls of primary-colour plasticine, red, yellow and blue, with the three mixed secondary colours beside them — orange, green, purple. Name each primary and each colour it helped make before reading on.
 
-[GIF — two balls of plasticine, red and yellow, being kneaded together until the whole ball turns orange — the student says which two primaries went in and which secondary colour came out]
+In your mind's eye: two balls of plasticine, red and yellow, being kneaded together until the whole ball turns orange. Say which two primaries went in and which secondary colour came out.
 
 ## Sub lesson 2 — White lightens, black darkens — and no unmixing
 

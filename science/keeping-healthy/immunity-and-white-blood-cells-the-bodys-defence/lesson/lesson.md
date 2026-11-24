@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 how do we protect ourselves from disease? By strengthening our immunity — the body's ability to resist the causes of disease; natural or artificial. The immune system can recognise countless causes and so the white blood cells attack and destroy them; the skin is the body's first line of defence, and the body's secretions fight the causes too (tears, nose mucus, earwax, saliva and the digestive juice); and following healthy habits strengthens immunity and keeps our bodies sound
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Natural and artificial immunity
 

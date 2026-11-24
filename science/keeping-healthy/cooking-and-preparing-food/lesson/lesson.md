@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — cooking and preparing f
 
 Zimbabwe's Grade 1, Grade 3 and Grade 6 guides all teach **food preparation** as a named unit inside the food run: preparing food is a skill with its own teaching, not a thing picked up by watching.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Preparing food in the food run's order
 

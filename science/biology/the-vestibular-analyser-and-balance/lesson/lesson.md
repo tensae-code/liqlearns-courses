@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The vestibular ana
 ## The idea
 Balance is sensed by the vestibular analyser, which controls static and dynamic balance and carries its signals along the vestibular nerve — the system whose disturbance appears as motion sickness. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — the inner ear with the vestibular apparatus labelled, and the vestibular nerve path running to the brain, beside a person keeping balance standing and moving]
+In your mind's eye: the inner ear with the vestibular apparatus labelled, and the vestibular nerve path running to the brain, beside a person keeping balance standing and moving.
 
 ## The key facts
 **§11 The vestibular analyser.** Moldova's Grade 11 book (§11 The vestibular analyser) teaches: static and dynamic balance control, vestibular nerve pathway; case studies: otitis media, motion sickness ("rău de mișcare"). (printed p. 37).

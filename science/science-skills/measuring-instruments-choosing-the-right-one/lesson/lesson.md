@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — measuring instruments �
 
 Picking the instrument for the job: floor scale, food scale, two-pan balance; thermometers; the caliper (pie de rey) for small lengths.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Quantities on the labels at home (beans 908 g, sugar 500 g, oil 750 mL, a drink 2.5 L)
 

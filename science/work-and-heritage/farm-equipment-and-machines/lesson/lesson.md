@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — farm equipment and mach
 
 Zimbabwe's Grade 4 guide teaches **equipment and machinery** as a named unit inside its work topic: the farm's equipment and machines are named and studied as their own topic.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Machines and the work they do
 

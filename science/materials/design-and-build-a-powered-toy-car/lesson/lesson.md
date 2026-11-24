@@ -9,9 +9,9 @@ China's Grade 3 book closes its course with a design project: a **powered toy ca
 
 Power chosen, the materials are gathered and the car is built to the design: body, wheels, and the power device fitted so its push becomes the car's motion.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Testing and improving the powered car
 

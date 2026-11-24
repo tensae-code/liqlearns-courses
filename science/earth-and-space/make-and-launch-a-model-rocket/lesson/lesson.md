@@ -9,9 +9,9 @@ China's Grade 6 book closes its space unit with a build: **make a rocket**. The 
 
 Making the model teaches what the pictures cannot: a rocket is a designed thing, each part there for the flight — the pointed nose to part the air, the fins to keep it straight, the body to hold its power.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Launching it
 

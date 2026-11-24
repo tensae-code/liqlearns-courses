@@ -7,9 +7,9 @@ Imagine your town in thirty years: hotter summers, heavier storms, scarcer water
 
 Egypt's Primary 6 book reaches this project through its climate unit: weather against climate, the water cycle under heat, measuring climate change, and soil and living things adapting as environments change. A **city** gathers all of those pressures in one place — heat collects between buildings, rain runs off hard surfaces, water and soil are shared by millions. Designing for a changing climate starts from naming what is changing and what the city must still do: shelter people, move water safely, and keep life possible inside it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Building an environmentally friendly city — the project
 

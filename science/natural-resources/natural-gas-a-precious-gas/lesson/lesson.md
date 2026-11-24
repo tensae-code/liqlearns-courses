@@ -7,9 +7,9 @@ Oil is a liquid you can picture in a barrel. But some of what the ground gives f
 
 Natural gas lies hidden underground, like oil — so its story also begins with a **search**. The book names the gas **precious**: a gas worth searching for, worth the work of finding where it lies. First the searching, as with oil; the gas chapter follows the oil chapters, and the pattern is the same — what the ground keeps must first be found.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Pumping natural gas
 

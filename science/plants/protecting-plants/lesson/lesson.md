@@ -7,31 +7,31 @@ Before you read: think about this lesson's subject — protecting plants. Then r
 
 The books teach this part as why and how plants are protected — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books also carry this part as their own titled lesson — "Let's protect plants!" — at the printed pages named in Sources; the learner works through those lessons' own text, examples and tasks.
 
-[Picture — let's protect plants! as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: let's protect plants! as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — How to protect plants from disappearing
 
 Kazakhstan's books teach this as their own lesson — "How to protect plants from disappearing". The learner works through the books' own presentation of how to protect plants from disappearing — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how to protect plants from disappearing as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how to protect plants from disappearing as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How to preserve the world of plants
 
 Kazakhstan's books teach this as their own lesson — "How to preserve the world of plants". The learner works through the books' own presentation of how to preserve the world of plants — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how to preserve the world of plants as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how to preserve the world of plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — How to protect plants
 
 Kazakhstan's books teach this as their own lesson — "How to protect plants". The learner works through the books' own presentation of how to protect plants — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how to protect plants as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how to protect plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 5 — Why plants must be treated with care
 
 Kazakhstan's books teach this as their own lesson — "Why plants must be treated with care". The learner works through the books' own presentation of why plants must be treated with care — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — why plants must be treated with care as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: why plants must be treated with care as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

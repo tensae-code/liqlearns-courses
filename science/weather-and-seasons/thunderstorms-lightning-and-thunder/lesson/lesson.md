@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 severe weather, 1: thunderstorms grow in cumulonimbus, usually along cold fronts; and inside the cloud, charges separate (positive above, negative below, the ground positive) until the sudden discharge is lightning — its heat, five times the sun's surface temperature, expands the air faster than sound, and that explosion is thunder
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

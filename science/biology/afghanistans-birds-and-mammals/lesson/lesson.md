@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Afghanistan's bird
 ## The idea
 Afghanistan's Grade 8 Biology book finishes its animal classification with the birds and mammals of Afghanistan itself. This lesson teaches that national survey on its own: what marks a bird and what marks a mammal, and the members of each group an Afghan learner can meet in the country's mountains, plains, farms and skies.
 
-[Picture — a picture of an Afghan mountain scene labelled — a markhor on a crag, a snow leopard watching from above, and an eagle circling over both — each labelled bird or mammal with its group mark]
+In your mind's eye: an Afghan mountain scene labelled — a markhor on a crag, a snow leopard watching from above, and an eagle circling over both. Each labelled bird or mammal with its group mark.
 
-[GIF — an eagle riding a mountain updraft with wings still, then below it a markhor kid suckling from its mother — the student names the mark that makes each one a bird or a mammal]
+In your mind's eye: an eagle riding a mountain updraft with wings still, then below it a markhor kid suckling from its mother. Name the mark that makes each one a bird or a mammal.
 
 ## The key facts
 **Birds — the marks.** Feathers are the bird's own mark — no other animal has them. The forelimbs are wings, the mouth is a beak without teeth, the body stays warm from inside, and the young hatch from hard-shelled eggs the parents usually warm and guard.

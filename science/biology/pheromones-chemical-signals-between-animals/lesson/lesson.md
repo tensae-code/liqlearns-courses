@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Pheromones — che
 ## The idea
 Animals do not only signal with sound and sight. Vietnam's Sinh học 11 closes its animal-behaviour lesson (Bài 18, Tập tính) with a section of its own on pheromones (IV, printed p. 118): chemical signals that work between animals of one species. The silkworm moth (Bombyx mori) is the book's case, and pheromone applications stand among the lesson's required outcomes. Vietnam's Grade 12 study topics then meet pheromones again from the other side — as a tool: pheromone (chất dẫn dụ sinh học) mass-trapping of male pests is one of the physiological bases of biological control. No lesson in this course took pheromones as its one thing before, so this lesson is built for it.
 
-[Picture — a female silkworm moth releasing an invisible scent trail through the air, drawn as a dotted plume, with a male moth of the same species following the plume toward her; beside it, a field trap baited with pheromone, with male pest moths caught inside]
+In your mind's eye: a female silkworm moth releasing an invisible scent trail through the air, drawn as a dotted plume, with a male moth of the same species following the plume toward her; beside it, a field trap baited with pheromone, with male pest moths caught inside.
 
 ## The key facts
 **A signal in the air.** A pheromone is a chemical released by one animal that changes the behaviour of another animal of the same species — a message carried on scent, not on sound or sight.

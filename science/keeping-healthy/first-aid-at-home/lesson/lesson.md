@@ -9,9 +9,9 @@ Before you read: someone at home has just hurt themselves — a cut finger, a sm
 
 Stop and look: what happened? Is the place safe to help in? How hurt is the person? Then **call for help** — an adult, a neighbour, the health worker — because first aid is a bridge to real care, not a replacement for it. A calm helper who has looked and called does more good than a rushing helper who has done neither.
 
-[Picture — a child stopping and looking at a hurt companion, then calling an adult over — the student names the order: stop, look, call]
+In your mind's eye: a child stopping and looking at a hurt companion, then calling an adult over. Name the order: stop, look, call.
 
-[GIF — a helper kneeling beside a hurt person, looking, then waving an adult to come — the student says what changed and what it proves]
+In your mind's eye: a helper kneeling beside a hurt person, looking, then waving an adult to come. Say what changed and what it proves.
 
 ## Sub lesson 2 — The first gestures — comfort, clean water, pressure, rest
 

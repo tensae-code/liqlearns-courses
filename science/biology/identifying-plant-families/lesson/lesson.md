@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Identifying plant 
 ## The idea
 Plant families are recognised by the build of their flowers and inflorescences — the grass family, Gramineae, by its raceme, panicle and spike, and the Compositae by many small florets packed into one head — a working key taught on Kazakhstan's grassland plants. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — two plant heads side by side: a grass with three inflorescence kinds drawn — raceme, panicle, spike — and a composite flower head opened to show its many small florets]
+In your mind's eye: two plant heads side by side: a grass with three inflorescence kinds drawn — raceme, panicle, spike. And a composite flower head opened to show its many small florets.
 
 ## The key facts
 **Module 1: Identifying plant families — Family Gramineae by inflorescence (raceme, panicle, spike), then Family Compositae.** Kazakhstan's grassland agriculture as the teaching ground

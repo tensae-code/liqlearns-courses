@@ -11,9 +11,9 @@ That slow building is still at work. **Volcanism** — melted rock rising and er
 
 A land built by moving plates also moves suddenly. The same unit names the hazards plainly: **earthquakes**, when the stuck ground lets go; **tsunamis**, great sea waves raised by a quake under the ocean; **landslides**, slopes that give way; and **flooding**. So the unit does not end with the science — it ends with **preparedness**: knowing which hazards your plate-built land carries, and being ready for them before they come.
 
-[Picture — a cross-section of the coast, the ocean plate sliding under the land plate, a volcano above — the student names each part before reading on]
+In your mind's eye: a cross-section of the coast, the ocean plate sliding under the land plate, a volcano above. Name each part before reading on.
 
-[GIF — a slope giving way in a landslide after heavy rain — the student says what moved and why it matters for preparedness]
+In your mind's eye: a slope giving way in a landslide after heavy rain. Say what moved and why it matters for preparedness.
 
 ## Sub lesson 2 — Shaping the land by care — clam gardens, middens and burning
 

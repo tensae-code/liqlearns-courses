@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Modified leaves. W
 ## The idea
 An ordinary leaf is a flat green blade that makes food. But in many plants the leaf has been reshaped — modified — for a completely different job: climbing, trapping insects, storing food, defending the plant, or holding water. Uganda's Senior One book gathers these reshaped leaves into one sorting activity, Activity 5.6 of its flowering-plants chapter (printed pp. 81–82), and sorts them by the job each one does. That sorting is this lesson.
 
-[Picture — five leaves in a row, each reshaped differently: a curling tendril, an open trap, a fleshy onion scale, a sharp cactus spine, and a thick swollen leaf]
+In your mind's eye: five leaves in a row, each reshaped differently. A curling tendril, an open trap, a fleshy onion scale, a sharp cactus spine, and a thick swollen leaf.
 
 ## The key facts
 **Leaf tendrils — the climbing leaves.** In plants like watermelon and passion fruit, leaves (or parts of them) grow as thin, curling threads — tendrils — that coil around a support and pull the plant upward towards the light.

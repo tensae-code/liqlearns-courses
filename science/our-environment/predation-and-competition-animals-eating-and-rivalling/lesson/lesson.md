@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 relations between living things in the community: predation, the commonest of them (the ladybird eating plant aphids, the sparrow hunting insects), and competition, when two kinds seek the same food, water or space
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Competition: when a living thing takes a place in more than one chain of the web, competition follows — a struggle between living things over food, water, shelter and their other needs; plants compete too (small plants and forest flowers against tall trees for sunlight, water and nutrients), and competition happens inside one population, as sparrows compete over a plant's fruit and seeds
 

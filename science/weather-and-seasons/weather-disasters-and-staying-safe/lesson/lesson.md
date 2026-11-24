@@ -9,9 +9,9 @@ Weather is usually a daily companion, but at its extremes it becomes a **meteoro
 
 Each disaster is known by what it brings: the damage and danger that arrive with it. Learning the disasters means learning their faces — the weather signs that announce them and the harms they carry.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Knowing them is how we stay safe
 

@@ -7,9 +7,9 @@ Look at a map or a globe in your mind: the land is not flat and not one shape �
 
 The land's shapes are its **landforms**, and the book names its pattern through examples: **valleys**, low land between higher ground; **canyons**, deep cuts through the land; **floodplains**, the flat land beside rivers (Grade 2, 2.1.1, printed p. 13). A landform is not a single hill or dip — it is a kind of shape that repeats across the Earth, and the pattern is what a model must show.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Water on Earth — solid and liquid
 

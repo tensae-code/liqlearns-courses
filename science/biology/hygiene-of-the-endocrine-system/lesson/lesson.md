@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hygiene of the end
 ## The idea
 The endocrine glands are kept healthy by hygiene: the risk factors and gland disorders are set out as rules, including diet restrictions for endocrine health. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — the endocrine glands of a human figure with a set of hygiene rule cards beside them — food, rest and avoiding risk factors]
+In your mind's eye: the endocrine glands of a human figure with a set of hygiene rule cards beside them — food, rest and avoiding risk factors.
 
 ## The key facts
 **4.9 Hygiene of the endocrine system.** Moldova's Grade 8 book (4.9 Hygiene of the endocrine system) teaches: risk factors and gland disorders set out as rules, diet restrictions for endocrine health. (printed p. 62).

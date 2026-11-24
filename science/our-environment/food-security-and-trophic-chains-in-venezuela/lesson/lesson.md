@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Food security and trophic c
 
 Every meal stands at the end of a **trophic chain**: producers grow, consumers eat, and energy and matter pass along the chain. **Food security** — food reliably there for everyone — depends on those chains holding: break the chain in the field, and the table empties.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Who controls production and distribution?
 

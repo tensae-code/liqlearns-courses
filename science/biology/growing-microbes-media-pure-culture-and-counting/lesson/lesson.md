@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Growing microbes �
 ## The idea
 Microbes are grown on media built from a carbon source, a nitrogen source, salts and water, tuned for pH and oxygen, and a pure culture is won by streak plate or dilution spread plate — then counted by colonies on the 30–300 rule, knowing the count runs low because chained and clumped cells count once. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a streak plate with colonies thinning out along the streak lines until single colonies stand alone, beside a spread plate dotted with counted colonies]
+In your mind's eye: a streak plate with colonies thinning out along the streak lines until single colonies stand alone, beside a spread plate dotted with counted colonies.
 
 ## The key facts
 **Ch. 1 §2 Culturing microbes.** media built from carbon source, nitrogen source, salts and water, tuned for pH, vitamins and oxygen; pure culture by streak plate and dilution spread plate; selective media explained by the Yellowstone hot-spring bacterium that yielded Taq polymerase; viable counting on the 30–300 colony rule with its underestimate honestly stated; and the capstone practical — isolating and counting urea-decomposing bacteria from soil on a urea-only-nitrogen medium, with Congo-red screening of cellulose decomposers in the exercises.

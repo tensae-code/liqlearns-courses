@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Vietnam's Grade 4 *Khoa học 4* names the changes of water's state and diagrams them: **melting**, **freezing** (solidifying), **evaporating** and **condensing** — ice trays hardening in the freezer, and steam condensing on a plate held above boiling water. The same lesson applies the changes: fog is tiny water droplets (vapour condensed in the air), coastal people make sea salt by evaporation, and rain forms as vapour condenses high up and falls.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Changes at work in daily life
 

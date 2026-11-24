@@ -7,9 +7,9 @@ A lunch table stands in full sun all day. By noon it is too hot to use. You cann
 
 The problem is named first: **sunlight warms** the surfaces it falls on — the eating tables, the ground, a dog, a toy left in the sun (Kindergarten, K.1.4, printed p. 39). The warming is the thing to reduce, and it comes from the sunlight itself, so the solution must stand between the sunlight and the area.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Design and sketch or model a shade solution
 

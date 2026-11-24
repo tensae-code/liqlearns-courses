@@ -7,9 +7,9 @@ You cannot see air, yet it is not one single thing. If air were a mixture, what 
 
 Air is a **mixture of gases**. Its largest part is **nitrogen**; the part living things breathe and burning needs is **oxygen**; and in small parts it holds **carbon dioxide**, water vapour and other gases. Angola's Grade 5 book names these **components of air** (Os componentes do ar) as their own lesson: the invisible air around us has parts, and the parts can be named and told apart.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why the gases in air matter
 

@@ -9,9 +9,9 @@ Inside its elements and compounds unit, Iraq's Grade 5 book stops for a person: 
 
 The placing is the teaching. Chemistry is not only elements, compounds and their properties — it is also a human work with named scholars, and Jabir ibn Hayyan stands in the book as chemistry's named scholar: the job of the chemist has a history, and the history has a name.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

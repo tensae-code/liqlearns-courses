@@ -9,9 +9,9 @@ Iraq's Grade 5 book places **the seas and oceans** inside its unit on **the Eart
 
 Seas and oceans are the Earth's salt waters, the greater part of its water environments — the subject the younger books opened with fresh and salt. Here it stands as its own chapter: the seas and oceans as the Earth's own, in the book of the Earth and its resources.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The activity book's matching work
 

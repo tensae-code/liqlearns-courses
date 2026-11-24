@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The marsh habitat.
 ## The idea
 Chapter 14 of Nigeria's Senior Secondary Biology 1 works the terrestrial habitats, and it opens with the one that is not fully terrestrial at all: the marsh. A marsh is a border habitat — land that stays wet, waterlogged ground between open water and dry land. Everything living there must cope with the border condition: roots in waterlogged soil, a surface that floods and falls. The book studies the marsh's plants and animals and how each is adapted to the wet border.
 
-[Picture — a marsh scene: waterlogged ground with reeds and sedges, a frog at the water's edge, and birds feeding in the shallows, the dry land rising behind]
+In your mind's eye: a marsh scene. Waterlogged ground with reeds and sedges, a frog at the water's edge, and birds feeding in the shallows, the dry land rising behind.
 
 ## The key facts
 **A border habitat.** The marsh is a terrestrial-aquatic border habitat — ground that stays wet and waterlogged, between open water and dry land.

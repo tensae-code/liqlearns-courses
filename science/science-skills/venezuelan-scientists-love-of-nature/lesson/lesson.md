@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Venezuelan scientists — l
 
 The reading tells of **Francisco Tamayo**, a Venezuelan **botanist** — a scientist of plants. He **explored** the country's vegetation, travelling and observing the plants of Venezuela where they grow.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Classifying plants, seeking medicines
 

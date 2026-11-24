@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cell wall and extr
 ## The idea
 the cellulose cell wall of plants (and its presence in prokaryotes, some protists and fungi) and the extracellular matrix
 
-[Picture — a plant cell and an animal cell side by side: the plant cell wrapped in a thick labelled cellulose cell wall outside its membrane, the animal cell resting in a web labelled extracellular matrix]
+In your mind's eye: a plant cell and an animal cell side by side. The plant cell wrapped in a thick labelled cellulose cell wall outside its membrane, the animal cell resting in a web labelled extracellular matrix.
 
 ## The key facts
 **The cell wall.** Kuwait's new Grade 10 student book (Lesson 1-2, printed p. 45) teaches the structures outside the cell: the cellulose cell wall of plants — and its presence also in prokaryotes, some protists and fungi.

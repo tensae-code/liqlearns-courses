@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 precipitation falls when droplets or ice crystals grow too heavy for the cloud: rain, frozen rain or snow according to the air's temperature; hail grows inside towering cumulonimbus as strong updraughts carry ice crystals up again and again, adding a new ice layer each round until the stone is too heavy to stay up
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

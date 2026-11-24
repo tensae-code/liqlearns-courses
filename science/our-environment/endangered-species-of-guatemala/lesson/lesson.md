@@ -9,9 +9,9 @@ Individuals die; that is ordinary. **Extinction** is different: it is the **kind
 
 A species is **in danger of extinction** when its kind is at risk of disappearing altogether — when the numbers and the places it lives have shrunk so far that, without care, there will soon be none left anywhere. Once a kind is extinct, it does not come back.
 
-[Picture — a crowd of one kind of animal drawn thinning across three panels to a last few — the student says what is being lost in the last panel that was not lost in the first]
+In your mind's eye: a crowd of one kind of animal drawn thinning across three panels to a last few. Say what is being lost in the last panel that was not lost in the first.
 
-[GIF — the three panels animating: many, fewer, almost none — the student says at which panel the kind passes from safe to in danger, and why]
+In your mind's eye: the three panels animating: many, fewer, almost none. Say at which panel the kind passes from safe to in danger, and why.
 
 ## Sub lesson 2 — Guatemala's own endangered species
 

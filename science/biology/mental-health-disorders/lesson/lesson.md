@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Mental health diso
 ## The idea
 Biology is not only about the body. The human part of Azerbaijan's Grade 11 textbook — after embryonic development — turns to the psyche: the mind, with its feelings, thoughts and behaviour. The book first teaches the features of the development of the human psyche (§38), and then does something direct: it teaches the disorders of the psyche by name, one section each — anxiety disorders, depression, psychoses. Mental health stands inside human biology, named like any other part of it.
 
-[Picture — the human part of Azerbaijan's book as a road: embryonic development, then the developing psyche, then the three named disorders — anxiety disorders, depression, psychoses — then healthy family relations]
+In your mind's eye: the human part of Azerbaijan's book as a road: embryonic development, then the developing psyche, then the three named disorders — anxiety disorders, depression, psychoses. Then healthy family relations.
 
 ## The key facts
 **The developing psyche.** The psyche develops as the person grows — §38 teaches the features of the development of the human psyche, the mind that feels, thinks and acts, developing through life like the rest of the human organism.

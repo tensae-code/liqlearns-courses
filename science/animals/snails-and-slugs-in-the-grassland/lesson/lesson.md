@@ -7,9 +7,9 @@ A snail crosses a stone, slowly, in its shell house. It cannot fly, it cannot ru
 
 The grassland chapter's snail is the **brekkubobbi**, a grassland snail with a small, limited habitat (its fragile existence and habitat protection are stocked in `our-environment/biodiversity-keeping-the-variety-of-life`). This lesson's snail is the animal itself: a slow, shell-carrying grassland dweller.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — How did it get here — and how fast does it go?
 

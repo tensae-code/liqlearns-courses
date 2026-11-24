@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — parts of a seed — as placed
 
 South Sudan's Primary 4 book opens the seed and names its parts: **testa** (the coat), **micropyle**, **scar (hilum)**, and inside, the **embryo** — with its **plumule** and **radicle** — and the **cotyledons**, the seed's food store. The guide's word list carries the same names: dicotyledon, embryo, endosperm, hilum, micropyle, plumule, radicle.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Maize — and the one-against-two sort
 

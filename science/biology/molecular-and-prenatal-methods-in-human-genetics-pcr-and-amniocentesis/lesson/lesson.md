@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Molecular and pren
 ## The idea
 the Human Genome Project's goal and the NIH-led cooperation of advanced countries; a trigger-release sequencing technique pictured; prenatal screening — genetic testing not limited to adults (same proposed slug as in the Moldova filings)
 
-[Picture — a sequencing read-out strip beside a diagram of a prenatal test being taken, labelled as genetic testing before birth]
+In your mind's eye: a sequencing read-out strip beside a diagram of a prenatal test being taken, labelled as genetic testing before birth.
 
 ## The key facts
 **The Human Genome Project.** Kuwait's Grade 12 Term 2 student book (Section Two, printed p. 91) teaches human molecular genetics through the Human Genome Project's goal and the NIH-led cooperation of advanced countries that carried it out, with a trigger-release sequencing technique pictured.

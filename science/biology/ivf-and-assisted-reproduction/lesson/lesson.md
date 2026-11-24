@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — IVF and assisted r
 ## The idea
 Assisted reproduction helps where natural conception fails — artificial insemination, IVF and embryo transfer, sperm and egg banks — the technology that gave the world Louise Brown in 1978 and mainland China its first test-tube baby in 1988, held under China's management measures and technical norms so embryo gene testing cannot slide into customised babies. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a laboratory dish where a fine needle brings a sperm to an egg, drawn simply, beside a calendar line from 1978 to 1988]
+In your mind's eye: a laboratory dish where a fine needle brings a sperm to an egg, drawn simply, beside a calendar line from 1978 to 1988.
 
 ## The key facts
 **§2 scientist story "'Father of the test-tube baby' wins the Nobel Prize".** Edwards and Steptoe, Louise Brown in 1978, mainland China's first IVF baby at Peking University Third Hospital in 1988, and roughly four million IVF births by 2010. No existing lesson covers assisted reproduction.

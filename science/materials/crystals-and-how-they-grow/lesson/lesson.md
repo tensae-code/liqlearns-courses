@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — crystals and how they g
 
 Crystallogenesis: a crystal is born by nucleation and grows by steady addition of particles while matter and space allow; growing salt (halite) and blue copper-sulfate crystals on seed crystals hung in supersaturated solution; crystal habit (prismatic, columnar, acicular...); the unit cell, the seven crystal systems and the 14 Bravais lattices modelled in clay and sticks; glass is not a crystal but an amorphous solid.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

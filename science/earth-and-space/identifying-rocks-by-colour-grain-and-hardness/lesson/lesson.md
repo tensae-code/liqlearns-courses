@@ -9,9 +9,9 @@ A rock is identified the way a detective works: by its marks. China's Grade 3 bo
 
 Five rocks are the book's identification set: **granite, sandstone, shale, limestone and marble**. Each carries its own combination of marks, so careful looking already separates most of them.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The scratch test — hardness
 

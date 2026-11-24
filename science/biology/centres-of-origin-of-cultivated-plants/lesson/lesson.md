@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Centres of origin 
 ## The idea
 Vavilov showed that every cultivated plant comes from a centre of origin — a region where its wild relatives grow and its diversity is greatest — and the same mapping of centres was made for domestic animals. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a world map with Vavilov's centres of origin marked as glowing regions, a wheat ear, a potato and an apple each joined by a line to the centre it came from]
+In your mind's eye: a world map with Vavilov's centres of origin marked as glowing regions, a wheat ear, a potato and an apple each joined by a line to the centre it came from.
 
 ## The key facts
 **10.4 Centres of origin of cultivated plants.** Vavilov's centres as their own §

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — When the immune sy
 ## The idea
 The immune system itself can be the problem: allergies are its over-reaction to harmless things, autoimmune diseases its attack on the body's own tissues, and immunodeficiency its failure to defend at all — Greece's Grade 11 book gives the failures their own named section. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — three panels: a nose sneezing at pollen, a shield turning its sword toward the body's own joint, and a cracked shield lowered while germs walk past]
+In your mind's eye: three panels. A nose sneezing at pollen, a shield turning its sword toward the body's own joint, and a cracked shield lowered while germs walk past.
 
 ## The key facts
 **§1.3.3.** problems in the action of the immune system (allergies, autoimmunity, immunodeficiency)

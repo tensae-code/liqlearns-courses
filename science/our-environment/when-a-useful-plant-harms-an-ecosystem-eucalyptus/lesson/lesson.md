@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 science, technology and society: the eucalyptus — a fast-growing Australian tree planted worldwide for timber, paper pulp and insect oils, yet accused of drinking deep groundwater, poisoning the soil against native plants and spreading forest fires with its flammable oils; Saudi afforestation research on it continues at the Prince Sultan centre
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

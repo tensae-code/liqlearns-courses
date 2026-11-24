@@ -7,9 +7,9 @@ Before you read: think of the thing this lesson is about, from your own life. Sa
 
 Grade 5's §7.3 teaches the fuse and its uses: a fuse is placed in the circuit so that when the current grows too large, the fuse wire melts and breaks the circuit before the wires and appliances are harmed. Fuses carry ratings — the current they allow before they melt — so the guard must be chosen to fit the circuit it protects.
 
-[Picture — the lesson's central object or set-up — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
 
 ## Sub lesson 2 — The circuit breaker — the same job, switchable
 

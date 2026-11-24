@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — planning meals and a fo
 
 Zimbabwe's Grade 4 and Grade 5 guides both teach **meal planning** as a named unit: meals are planned ahead, not decided by chance at the cooking fire.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Budgeting for food
 

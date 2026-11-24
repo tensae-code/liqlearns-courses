@@ -7,17 +7,17 @@ The ground under you feels permanent. The book you are finishing says it is anyt
 
 Section 9 runs in order: the Big Bang (§9.1), the formation of galaxies and stars (§9.2), the formation of the Solar System (§9.3) — and then the Earth itself. The lesson's first point is its frame: **the Earth has a history**. It formed, and everything about it — its surface, its air, its waters — is the present state of a long change, not a fixed given.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The evolution of the Earth — the closing story
 
 **Evolution of the Earth** is that long change told as one story: from the newly formed planet to the Earth of today. Armenia's book places it last in the section deliberately — the Universe's vast story narrows, chapter by chapter, until it arrives at the one planet the learner stands on, and that planet, too, turns out to be a thing with a past.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

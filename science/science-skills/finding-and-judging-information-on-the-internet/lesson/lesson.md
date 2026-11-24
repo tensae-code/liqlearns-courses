@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The Google search operators (site:, inurl:, exact-phrase quotes, OR, AND, the minus sign, filetype:, maps:, weather:); judging whether a source can be trusted (official institution sites and .edu, .gov and .org addresses, publication and revision dates, readers' comments); and copyright — Google Books material is read-only, PhET simulations are free, and borrowed material must be cited.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The Google search operators
 

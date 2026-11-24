@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Factors that affec
 ## The idea
 The rate of photosynthesis is set by limiting factors — light intensity, carbon dioxide concentration and temperature — and whichever is scarcest caps the rate, so raising the others alone does nothing until the scarcest is raised. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — three rising-line graphs side by side for light, carbon dioxide and temperature, each flattening into a plateau labelled 'another factor now limits']
+In your mind's eye: three rising-line graphs side by side for light, carbon dioxide and temperature, each flattening into a plateau labelled 'another factor now limits'.
 
 ## The key facts
 **§3.3.** factors affecting photosynthesis yield

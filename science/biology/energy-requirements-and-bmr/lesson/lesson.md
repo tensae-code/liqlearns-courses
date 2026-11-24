@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Energy requirement
 ## The idea
 How much energy a person needs is not one number for everybody: Kenya's Form 1 book closes its nutrition chapter by working out what sets the requirement — basal metabolic rate, occupation, age, body size, sex, lactation and pregnancy — with a Kenyan labourer pulling a cart set against an office worker.
 
-[Picture — two Kenyans side by side — a labourer pulling a loaded cart and an office worker sitting at a desk — each with an energy bar beside them, the labourer's bar far taller, and beneath both a small resting figure marked as the basal rate, the energy a body uses doing nothing at all]
+In your mind's eye: two Kenyans side by side — a labourer pulling a loaded cart and an office worker sitting at a desk. Each with an energy bar beside them, the labourer's bar far taller, and beneath both a small resting figure marked as the basal rate, the energy a body uses doing nothing at all.
 
 ## The key facts
 **Basal metabolic rate — the floor.** The basal metabolic rate (BMR) is the energy the body uses at complete rest, just to stay alive — breathing, heartbeat, warmth. Every person's daily requirement starts from this floor.

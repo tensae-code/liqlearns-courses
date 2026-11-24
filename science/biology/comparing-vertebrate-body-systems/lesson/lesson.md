@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Comparing vertebra
 ## The idea
 Afghanistan's Grade 11 Biology book gives the vertebrates the same treatment as the invertebrates: classify them, then compare their systems in a chapter of its own. This lesson teaches that comparison — heart and circulation first, then breathing, temperature, reproduction and control — as the pattern that explains the five groups.
 
-[Picture — a picture of five hearts in a row — fish, frog, lizard, bird, mammal — each drawn with its chambers shaded so the climb from two to four can be counted at a glance]
+In your mind's eye: five hearts in a row — fish, frog, lizard, bird, mammal. Each drawn with its chambers shaded so the climb from two to four can be counted at a glance.
 
-[GIF — blood tracing the fish's single circuit once, then the mammal's double circuit twice through the heart — lung loop, then body loop — the student counts the heart's chambers and the circuits in each]
+In your mind's eye: blood tracing the fish's single circuit once, then the mammal's double circuit twice through the heart — lung loop, then body loop. The student counts the heart's chambers and the circuits in each.
 
 ## The key facts
 **The heart, group by group.** A fish's heart (one atrium, one ventricle) drives blood one way round. Amphibians and most reptiles mix some blood in a three-chambered heart (two atria, one ventricle). Four chambers — in crocodiles, birds and mammals — keep oxygen-rich and oxygen-poor blood fully apart.

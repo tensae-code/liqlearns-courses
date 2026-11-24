@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Bilateral symmetry
 ## The idea
 Bilateral symmetry — a body with two matching sides and a front end — is an evolutionary advance tied to active movement, and bilateral animals are graded by the body cavity they carry: acoelomate (no coelom), pseudocoelomate (a false cavity) or coelomate (a true, lined coelom). No lesson in this course taught this on its own before, so this lesson is built for it — from Cuba's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a bilateral animal drawn from above with a dashed midline dividing its left and right sides and its front end marked, beside three cross-sections of worm-like bodies labelled acoelomate (solid, no cavity), pseudocoelomate (a false cavity) and coelomate (a true lined coelom)]
+In your mind's eye: a bilateral animal drawn from above with a dashed midline dividing its left and right sides and its front end marked, beside three cross-sections of worm-like bodies labelled acoelomate (solid, no cavity), pseudocoelomate (a false cavity) and coelomate (a true lined coelom).
 
 ## The key facts
 **The programme's frame.** Cuba's Grade 8 programme (Unit 4) teaches bilateral symmetry as an adaptive and evolutionary advantage, together with the coelom and the pseudocoelom (printed p. 17, teacher programme — evidence)

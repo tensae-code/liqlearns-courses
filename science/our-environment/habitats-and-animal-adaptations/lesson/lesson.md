@@ -9,9 +9,9 @@ A **habitat** is the place where a living thing lives.
 
 Every living thing has its habitat: the fish's water, the bird's tree, the plant's patch of ground. The habitat is not just an address — it is the surroundings that living thing actually lives in, day by day.
 
-[Picture — one place shown three ways: water with a fish, a tree with a bird, soil with a plant — the student names each living thing and its habitat]
+In your mind's eye: one place shown three ways: water with a fish, a tree with a bird, soil with a plant. Name each living thing and its habitat.
 
-[GIF — the camera pulling back from one animal to the whole place it lives in — the student says where the animal ends and its habitat begins, and why that line is hard to draw]
+In your mind's eye: the camera pulling back from one animal to the whole place it lives in. Say where the animal ends and its habitat begins, and why that line is hard to draw.
 
 ## Sub lesson 2 — Our surroundings, a space for life
 

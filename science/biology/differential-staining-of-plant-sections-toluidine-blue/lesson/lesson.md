@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Differential stain
 ## The idea
 preparing toluidine blue stain, cutting thin hand sections of a plant stem (blade drawn at 45°), and reading the stain's multiple colours in different tissues
 
-[Picture — a hand section of a plant stem under a microscope, its tissues showing in several different stain colours, with the razor held at 45 degrees in a small inset sketch]
+In your mind's eye: a hand section of a plant stem under a microscope, its tissues showing in several different stain colours, with the razor held at 45 degrees in a small inset sketch.
 
 ## The key facts
 **Preparing the stain and the section.** Kuwait's Grade 11 Term 1 applications workbook (Activity 1, printed p. 17) teaches the differential staining technique: preparing toluidine blue stain, and cutting thin hand sections of a plant stem with the blade drawn at 45°.

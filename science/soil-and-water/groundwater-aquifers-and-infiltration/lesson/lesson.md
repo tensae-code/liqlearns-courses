@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — groundwater, aquifers a
 
 Groundwater: testing the school soil's infiltration capacity; the unsaturated zone (pores partly full) and saturated zone below; El Salvador's aquifers and the well water much of the country drinks; protecting a resource sensitive to overuse and contamination.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The infiltration race
 

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 habitat and ecological niche: the niche is the living thing's role (the pond snail that eats algae, keeps the water clean and releases oxygen), the habitat is the place it lives (the catfish at the pond's bottom; the Arabian oryx in the Arabian desert) — and one habitat, a single apple tree, is shared by kinds that live in it in different ways
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

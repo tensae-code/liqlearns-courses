@@ -7,9 +7,9 @@ Some islands are old and quiet. Iceland is not: it is an island still being buil
 
 Iceland is a **volcanic island**: an island raised and still shaped by volcanic eruptions, its ground made of lava. That is the country's first Earth fact about itself, and its book teaches it first — the home island before any other land.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The volcanic island's landscapes
 

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 the reference's other two tools: the camera helps watch and record the changes that happen during an experiment or a field study when they are too fast or too slow, so studying photographs lets us understand changes over a period of time (the chick photographs); the computer obtains information and writes reports and projects — and when connected to the information network, never give anyone your personal information
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

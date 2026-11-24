@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Grade 5 book teaches how plants **protect themselves from enemies: thorns, stinging hairs, poison, thick bark and bad smells**, each catalogued with examples. Plants also **adapt to climate and season change: waxy leaves (keladi), needle leaves and thick bark in cold climates, and water-storing stems**.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Seed and fruit dispersal — travelling to new ground
 

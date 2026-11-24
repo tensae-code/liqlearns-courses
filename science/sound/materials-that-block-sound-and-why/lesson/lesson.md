@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Sound travels from where it is made through the materials around it until it reaches our ears. North Macedonia's Grade 4 book asks the next question inside its Sound unit: what happens when a material stands in sound's way? Some materials let sound pass; others **stop it travelling** — and the difference can be heard, not just told.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Materials that stop sound
 

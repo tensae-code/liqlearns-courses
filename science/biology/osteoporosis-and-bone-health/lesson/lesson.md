@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Osteoporosis and b
 ## The idea
 bones losing mass and mineral salts such as calcium, rising fracture risk and spinal curvature
 
-[Picture — a healthy bone and an osteoporotic bone side by side in cross-section, the second with visibly thinner, sparser bone tissue, and a spine outline showing curvature]
+In your mind's eye: a healthy bone and an osteoporotic bone side by side in cross-section, the second with visibly thinner, sparser bone tissue, and a spine outline showing curvature.
 
 ## The key facts
 **Osteoporosis.** Kuwait's new Grade 10 student book (Lesson 2-3, printed p. 124) teaches osteoporosis by what is lost: bones losing mass and mineral salts such as calcium.

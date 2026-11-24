@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Savannah grassland
 ## The idea
 Chapter 14 of Nigeria's Senior Secondary Biology 1 teaches grassland widely first: its characteristics, and its names around the world — prairies, steppes, pampas, veldt. Then it comes home to Nigeria's savannah types. And it names a grassland found nowhere in nature's plan: derived savannah — grassland inside the rain-forest climate, kept open by people's farming and bush burning. Stop the pressure, and it reverts to forest: it is savannah by human maintenance, not by climate.
 
-[Picture — open savannah with scattered trees and tall grass, a farm plot and a line of bush fire at its edge, and behind them the rain forest the land would return to]
+In your mind's eye: open savannah with scattered trees and tall grass, a farm plot and a line of bush fire at its edge, and behind them the rain forest the land would return to.
 
 ## The key facts
 **One habitat, many names.** Grassland is known around the world by local names: prairies, steppes, pampas and veldt — the same open grass habitat on different continents.

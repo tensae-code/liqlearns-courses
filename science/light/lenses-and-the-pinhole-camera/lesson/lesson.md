@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — lenses — what a convex lens
 
 Papua New Guinea's Standards Based Grade 7 guide teaches the **convex lens** first by its properties and function: a lens thick in the middle, which gathers light passing through it and can form a picture of what stands before it. The lens's job is done by its shape.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The pinhole camera — a picture with no lens
 

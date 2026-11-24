@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Animal migration. 
 ## The idea
 Animals migrate — they travel between places as the seasons change — and the journeys have causes and set routes, from the “explosive” migration of lemmings to the migration schemes of salmon and eels. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a map with arrows showing migration routes: lemmings moving over land, a salmon swimming up a river and an eel crossing the sea]
+In your mind's eye: a map with arrows showing migration routes. Lemmings moving over land, a salmon swimming up a river and an eel crossing the sea.
 
 ## The key facts
 **5.2 Migrations in animals.** Moldova's Grade 7 book (5.2 Migrations in animals) teaches: migration causes, "explosive" migration of lemmings, salmon and eel migration schemes. (printed p. 139).

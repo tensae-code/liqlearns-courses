@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Reproduction in ea
 ## The idea
 Hermaphrodite does not mean self-sufficient. Chapter 15 of Nigeria's Senior Secondary Biology 1 pairs two hermaphrodites that still mate. Earthworms come together and exchange sperm at the clitellum; afterwards the clitellum's band slips off as a cocoon, and fertilisation happens inside it. Garden snails likewise exchange sperm with a partner, then lay batches of eggs in the soil. Two parents, even when each parent is both sexes — cross-fertilisation is the rule the chapter draws from both animals.
 
-[Picture — two earthworms joined at their clitella exchanging sperm, with a cocoon slipping off beside them; and two garden snails mating, with a batch of round eggs in the soil below]
+In your mind's eye: two earthworms joined at their clitella exchanging sperm, with a cocoon slipping off beside them; and two garden snails mating, with a batch of round eggs in the soil below.
 
 ## The key facts
 **Both sexes, still two parents.** Earthworm and garden snail are hermaphrodites — each carries male and female organs — yet both cross-fertilise with a partner rather than fertilising themselves.

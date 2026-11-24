@@ -7,9 +7,9 @@ Dive to the bottom of a deep pool and your ears feel it; a deep-sea fish lives i
 
 **Pressure** in water comes from the weight of the water above. The deeper a place is, the more water stands over it, and the harder that water presses from every side. Near the surface the press is light; far down it is enormous. Egypt's Integrated Science places this inside its aquatic-environments sequence — after dissolved gases and the effect of light and solar radiation — as one of the physical conditions that divide the water world into depth zones, each with its own pressure.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Living at different depths — adaptation to pressure
 

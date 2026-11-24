@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Medicines — safe
 ## The idea
 Mozambique's fourth PESD I module (2023) ends — Lesson 17, its closing lesson — with medicines: the care they need in an ordinary home. The rules are concrete: where medicines are kept matters, and they are stored away from bathrooms, sinks and cleaning materials. And the body can answer a medicine with allergy, so the lesson teaches the symptoms of an allergic reaction to medicines. Health literacy, taught as biology, at home scale.
 
-[Picture — a home medicine box on a dry shelf with a tick beside it, and crossed-out drawings of a bathroom cabinet, a kitchen sink and a shelf of cleaning bottles below — with a small panel showing a person checking their skin and breathing for signs of allergy]
+In your mind's eye: a home medicine box on a dry shelf with a tick beside it, and crossed-out drawings of a bathroom cabinet, a kitchen sink and a shelf of cleaning bottles below — with a small panel showing a person checking their skin and breathing for signs of allergy.
 
 ## The key facts
 **Where medicines are kept matters.** The module's storage rule is concrete: medicines are kept away from bathrooms, sinks and cleaning materials — away from the home's moisture and its chemicals.

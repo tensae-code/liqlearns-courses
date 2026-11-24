@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Agricultural class
 ## The idea
 Classification is not only for wild things. Chapter 9 of Nigeria's Senior Secondary Biology 1 — the relevance of Biology to agriculture — classifies plants twice over: botanically, and agriculturally, by product, useful part and economic importance. The agricultural sorting gives twelve groups: root, vegetable, cereal, legume, fibre, oil, latex, beverage, fruit, spice, forage and cash crops — with Nigerian examples throughout: cassava, yam, guinea corn, benniseed, kola and oil palm.
 
-[Picture — a market stall arrangement of Nigerian crops sorted into labelled groups: roots (cassava, yam), cereals (guinea corn), oil crops (oil palm), beverage (kola)]
+In your mind's eye: a market stall arrangement of Nigerian crops sorted into labelled groups. Roots (cassava, yam), cereals (guinea corn), oil crops (oil palm), beverage (kola).
 
 ## The key facts
 **Two classifications.** Plants are classified botanically, by relationship — and agriculturally, by product, useful part and economic importance. The farmer's sorting is a real classification too.

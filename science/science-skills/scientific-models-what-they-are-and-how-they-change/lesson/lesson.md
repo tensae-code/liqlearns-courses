@@ -7,9 +7,9 @@ A globe is not the Earth — so why do scientists trust it? And why did the mode
 
 A **scientific model** is a **representation of a thing or event that helps us understand the world**. The book sorts models into **three kinds: physical models, computer models and mental (conceptual) models** — a thing you can hold, a thing a computer runs, and a thing you hold in your mind.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Making models — more information, more accuracy
 

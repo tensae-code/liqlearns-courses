@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hormones in medici
 ## The idea
 Hormones are medicines as well as messengers: the same chemistry that lets the body regulate itself lets doctors replace a missing hormone (insulin for diabetes is the standing example) and lets hormones be used to treat and to prevent — and anabolic steroids, synthetic versions of the male hormone, show the other face of that power, building muscle when misused in sport while damaging the body that uses them without need. No lesson in this course taught this on its own before, so this lesson is built for it — from Bhutan's Class 10 book, which teaches it as a named topic.
 
-[Picture — an insulin pen beside a vial labelled hormone medicine, and a crossed-out syringe labelled anabolic steroids beside a sports kit bag]
+In your mind's eye: an insulin pen beside a vial labelled hormone medicine, and a crossed-out syringe labelled anabolic steroids beside a sports kit bag.
 
 ## The key facts
 **Replacement — giving what the body lacks.** Where a gland makes too little of its hormone, the hormone itself can be given as medicine: insulin for diabetes is the standing example — the missing hormone supplied from outside so blood sugar can be regulated again.

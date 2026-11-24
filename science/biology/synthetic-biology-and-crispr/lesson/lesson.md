@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Synthetic biology 
 ## The idea
 North Macedonia's Biology II closes with a biotechnology and genetic-engineering theme, and directly after its applied-biology opener it names synthetic biology and CRISPR technology as a lesson of their own (Theme 4.2, printed p. 247). No lesson in this course named CRISPR or synthetic biology before, so this lesson is built for it.
 
-[Picture — a strand of DNA with a marked gene, a guide molecule leading a cutting protein to exactly that mark, the cut made, and the strand repaired with a changed letter — editing drawn as find, cut, repair]
+In your mind's eye: a strand of DNA with a marked gene, a guide molecule leading a cutting protein to exactly that mark, the cut made, and the strand repaired with a changed letter — editing drawn as find, cut, repair.
 
 ## The key facts
 **Synthetic biology builds with life.** Synthetic biology treats living systems as engineerable: it designs and builds new biological parts, circuits and organisms — or redesigns existing ones — for chosen purposes, joining biology to engineering's design-and-test way of working.

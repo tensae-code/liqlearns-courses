@@ -7,9 +7,9 @@ Think of a torch that has sat dark in a drawer for a month. The moment you switc
 
 Energy is not always on the move. Very often it is **kept** — held in a **store** until the moment it is used. Greece's Grade 5 book names the stores plainly: **fuels** keep energy until they burn, **foods** keep energy until the body draws on them, and **batteries** and other stores keep energy until a machine calls for it. A store is a keeping-place: the energy sits there, unchanged in amount, waiting to be released into work, heat, light or movement.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Stored energy waiting to be released — the experiments
 

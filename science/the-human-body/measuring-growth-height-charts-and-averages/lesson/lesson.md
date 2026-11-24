@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 7 Topic 1, "Growing up", measures growth directly: the heights of ten pupils are measured, the average height is found from the ten measures, and the results are plotted as a bar chart of height against age. Growth, which is too slow to watch, becomes visible when it is turned into numbers and a chart.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Reading a height-against-age chart
 

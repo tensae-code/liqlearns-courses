@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Diurnal and noctur
 ## The idea
 Living things keep biological rhythms — some are active by day and some by night, and each is fitted to its time: flowers open and close at set hours, and nocturnal animals see in the dark with large eyes and a reflective eye layer. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a split day-and-night scene: on the day side a flower open in sunlight, on the night side the same flower closed and a nocturnal animal with large shining eyes awake under the moon]
+In your mind's eye: a split day-and-night scene. On the day side a flower open in sunlight, on the night side the same flower closed and a nocturnal animal with large shining eyes awake under the moon.
 
 ## The key facts
 **2.2 Diurnal and nocturnal organisms.** Moldova's Grade 6 book (2.2 Diurnal and nocturnal organisms) teaches: orientation in time / biological rhythms, flower opening-closing times table, nocturnal animals' reflective eye layer and large eyes (e.g. tarsier-like "maki"). (printed p. 16).

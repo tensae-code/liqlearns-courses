@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The kidney — ext
 ## The idea
 the kidney cut open and its external and internal structures identified
 
-[Picture — a sheep kidney whole beside the same kidney cut open lengthwise, the internal regions labelled as the dissection identifies them]
+In your mind's eye: a sheep kidney whole beside the same kidney cut open lengthwise, the internal regions labelled as the dissection identifies them.
 
 ## The key facts
 **The dissection.** Kuwait's Grade 11 Term 2 applications workbook (Activity 7, printed p. 30) dissects a sheep kidney: the kidney is cut open and its external and internal structures are identified.

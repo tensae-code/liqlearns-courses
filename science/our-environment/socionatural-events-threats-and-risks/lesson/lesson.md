@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Socionatural events — thr
 
 Some events are born where **nature and society meet**: **floods, landslides (slides) and earthquakes**. The book calls them **socionatural events** — natural in their force, social in where people live and build, and so in the harm they can do.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Threat, vulnerability, risk
 

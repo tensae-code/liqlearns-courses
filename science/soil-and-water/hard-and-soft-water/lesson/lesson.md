@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Not all water washes the same. **Soft water** gives a good lather with soap at once — the bubbles rise easily and the washing is quick. **Hard water** fights the soap: the lather comes slowly and poorly, soap is wasted, and a scum can form instead of bubbles. Water picks up its hardness on its way through the ground — from the rocks and soil it has passed through and dissolved a little of — so two places drawing water from different ground can have different water in their buckets.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Removing the hardness of water
 

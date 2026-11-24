@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Alternation of gen
 ## The idea
 Mozambique's plant module (Módulo 2) follows its bryophyte lesson with the full life cycle of Funaria, the example moss. The cycle is an alternation of generations with the balance tipped the moss way: the green plant you see is the haploid gametophyte, and the diploid sporophyte lives on it, dependent on it. Fertilisation still needs water — the antherozoids swim. The module also notes vegetative fragmentation as a second way the moss multiplies. This lesson teaches the cycle step by step, as the module works it.
 
-[Picture — the Funaria cycle drawn as a circle: the green gametophyte plant with antheridia and archegonia, a swimming antherozoid crossing a water drop, then the sporophyte rising from the gametophyte on a stalk with its capsule, and spores falling from the capsule back to the ground]
+In your mind's eye: the Funaria cycle drawn as a circle. The green gametophyte plant with antheridia and archegonia, a swimming antherozoid crossing a water drop, then the sporophyte rising from the gametophyte on a stalk with its capsule, and spores falling from the capsule back to the ground.
 
 ## The key facts
 **The gametophyte is the main plant.** The green moss plant is the haploid gametophyte — the dominant generation. It carries the sex organs: antheridia making antherozoids, archegonia holding the egg.

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 science reading "Simple Machines in Farming": humans have relied on simple machines for thousands of years — the plough drawn by donkeys or bulls to turn the soil and prepare it for sowing; the iron hand tools, the mattock (pick) and the axe/hoe; the sickle with its steel blade and wooden handle for harvesting crops and cutting grass and tree trunks; and drawing water from the wells with the bucket and rope, by hand or with the animals' help
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

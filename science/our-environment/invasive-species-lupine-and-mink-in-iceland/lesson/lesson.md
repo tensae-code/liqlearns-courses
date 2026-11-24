@@ -7,9 +7,9 @@ People bring a plant to heal bare land, and bring an animal for its fur. Years l
 
 The **lupine** — a relative of white clover — was brought in and **used to reclaim land**, Iceland's land-reclamation work (stocked in `soil-and-water/saving-the-soil-conservation-methods`). But a brought-in plant does not stay where it was put: the guide teaches the lupine **spreading** as the risk side of the same story.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The mink — an invasive predator at the top of its food web
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gene patents — a
 ## The idea
 A gene patent claims a discovered gene sequence as intellectual property, and Greece's Grade 12 bioethics chapter asks the hard question outright: can discovering a gene — finding what nature already made — fairly be owned, and what does owning it do to medicine and research. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a double-helix segment with a padlock and a price tag on one side and an open book and a hospital on the other, a balance scale between them]
+In your mind's eye: a double-helix segment with a padlock and a price tag on one side and an open book and a hospital on the other, a balance scale between them.
 
 ## The key facts
 **Ch. 12.** can discovering a gene be intellectual property?

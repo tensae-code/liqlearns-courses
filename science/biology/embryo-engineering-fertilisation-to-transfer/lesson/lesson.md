@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Embryo engineering
 ## The idea
 Embryo engineering works with the early embryo: sperm capacitation and fertilisation with its two blocks to polyspermy, cleavage to the morula and the blastocyst with its inner cell mass, then IVF, embryo transfer and embryo splitting to multiply valuable animals — and to save species down to their last females. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — an early embryo's journey in stages — fertilised egg, cleaving ball, morula, blastocyst with inner cell mass labelled — with a pipette transferring one embryo]
+In your mind's eye: an early embryo's journey in stages — fertilised egg, cleaving ball, morula, blastocyst with inner cell mass labelled. With a pipette transferring one embryo.
 
 ## The key facts
 **Ch. 2 §3 Embryo engineering.** the theory base in full (sperm capacitation, the egg's two blocks to polyspermy, male and female pronuclei, cleavage, morula, blastocyst with inner cell mass and trophoblast, gastrula); then IVF (China's work from the late 1980s, human and cattle technique at world level), embryo transfer (3–4 calves per flush, a dozen or more offspring per donor cow per year against four or five in a lifetime), and embryo splitting (halves best; China's split-embryo work across mouse, rabbit, sheep, goat and cattle); the northern white rhino — two females left in 2018, frozen sperm saved — as the closing problem.

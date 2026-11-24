@@ -13,9 +13,9 @@ Climate change is the long shift in the Earth's climate, driven by global warmin
 
 **Food and water.** Farms and fishing feel both sides — flood and drought, heat and storm — so the food an island grows and catches, and the fresh water it drinks, are among the first things climate change touches.
 
-[Picture — a Caribbean coastline with homes, a road and farmland close to the sea — the student points to the places a rising sea, a flood and a dry spell would each reach first]
+In your mind's eye: a Caribbean coastline with homes, a road and farmland close to the sea. The student points to the places a rising sea, a flood and a dry spell would each reach first.
 
-[GIF — sea water washing higher up a beach, then rain flooding a street — the student says which impact is shown in each half]
+In your mind's eye: sea water washing higher up a beach, then rain flooding a street. Say which impact is shown in each half.
 
 ## Sub lesson 2 — Adapting, and minimising the impact
 

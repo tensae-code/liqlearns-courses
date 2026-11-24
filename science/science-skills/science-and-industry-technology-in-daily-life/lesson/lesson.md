@@ -9,9 +9,9 @@ The things people make to do jobs are **technological products**. A bicycle carr
 
 Ghana's Basic 2 curriculum files this sub-strand as **technological products and their uses** — the two always travel together. A product is not understood until you can say its use: name the thing, then say what it does for the people who use it. A thing whose use nobody can name is a thing nobody needs.
 
-[Picture — a market stall of made things: bicycle, lamp, bucket, phone, tins of food — the student names each product and says its use]
+In your mind's eye: a market stall of made things: bicycle, lamp, bucket, phone, tins of food. Name each product and says its use.
 
-[GIF — one product after another being picked up and used for its job — the student says the use as each one appears]
+In your mind's eye: one product after another being picked up and used for its job. Say the use as each one appears.
 
 ## Sub lesson 2 — Science and industry — making and keeping things
 

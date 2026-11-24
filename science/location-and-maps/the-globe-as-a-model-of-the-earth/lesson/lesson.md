@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — the globe as a model of t
 
 The books teach this part as a globe is a model of the Earth; naming models of other objects and making a model yourself — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — how to use a globe as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how to use a globe as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Earth is a planet
 
 The books teach this part as the globe is a reduced model of the Earth; old pictures of a flat Earth (on a turtle) contrasted with the Sun and its circling planets; some planets, like Earth, have natural satellites — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — earth is a planet as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: earth is a planet as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — land use and its capabi
 
 Uses of the soil in El Salvador: actual use versus potential use (capacidad de uso), classified in capability classes I–VIII from intensive farming to protected areas; land-use change checked department by department on the VIGEA maps against 1974 data.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

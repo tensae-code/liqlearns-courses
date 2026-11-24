@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Ice melts at 0 °C / 32 °F / 273 K and water boils at 100 °C / 212 °F / 373 K; the healthy body's 98.6 °F is 37 °C; and converting between Celsius, Fahrenheit and Kelvin with the shared formula, worked step by step.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Ice melts at 0 °C / 32 °F / 273 K and water boils at 100 °C / 212 °F / 373 K
 

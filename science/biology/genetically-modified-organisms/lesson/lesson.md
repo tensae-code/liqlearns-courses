@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Genetically modifi
 ## The idea
 A genetically modified organism carries a gene deliberately moved into it — transgenic plants and animals made for production, which Greece's books teach as a named topic — with the new trait inherited by its offspring like any of its own genes. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a tomato plant with one glowing new gene segment marked in its DNA strip, and seedlings from its fruit carrying the same mark]
+In your mind's eye: a tomato plant with one glowing new gene segment marked in its DNA strip, and seedlings from its fruit carrying the same mark.
 
 ## The key facts
 **§6.2.** genetically modified organisms as a named topic

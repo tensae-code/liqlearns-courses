@@ -6,7 +6,7 @@ Before you read anything: a lion eats a zebra, a zebra eats grass, grass grows o
 ## The idea
 Most school biology teaches food chains first and leaves the physics out. Costa Rica's Grade 11 anthology does the opposite. Unit 2 of Biología Undécimo opens with the physics itself — Termodinámica de los ecosistemas; Leyes de la termodinámica; Fenómeno de entropía (the thermodynamics of ecosystems; the laws of thermodynamics; the phenomenon of entropy), printed pp. 66–67 — and only then teaches trophic levels, food chains and the food pyramid. The laws come first because the whole of ecosystem ecology is what those laws look like when living things obey them.
 
-[Picture — sunlight falling on grass; arrows carrying energy from grass to a grass-eater to a hunter, each arrow thinner than the one before, with wavy heat arrows leaving at every step]
+In your mind's eye: sunlight falling on grass; arrows carrying energy from grass to a grass-eater to a hunter, each arrow thinner than the one before, with wavy heat arrows leaving at every step.
 
 ## The key facts
 **The first law, in an ecosystem.** Energy is never created or destroyed — only transformed. The energy in a zebra's body was grass energy before that, and sunlight before that; none of it appeared from nothing, and none of it vanishes without going somewhere. An ecosystem's energy can always be accounted for.

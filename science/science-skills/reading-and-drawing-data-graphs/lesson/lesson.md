@@ -11,9 +11,9 @@ Collected data is **raw**: a pile of answers, measurements or counts in the orde
 
 Then **look for patterns** in the sorted data: What is most common? What is rare? Does one thing rise as another rises? The pattern is what the data is trying to say; a finding is a pattern you can point to in the counts.
 
-[Picture — thirty answer scraps being sorted into three labelled piles with counts written beside each pile — the student says which pile the pattern points to first]
+In your mind's eye: thirty answer scraps being sorted into three labelled piles with counts written beside each pile. Say which pile the pattern points to first.
 
-[GIF — unsorted scraps becoming a counted table, the biggest count lighting up — the student says what changed and what the pattern is]
+In your mind's eye: unsorted scraps becoming a counted table, the biggest count lighting up. Say what changed and what the pattern is.
 
 ## Sub lesson 2 — Presenting results as graphs
 

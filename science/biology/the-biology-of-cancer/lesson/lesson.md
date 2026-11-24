@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The biology of can
 ## The idea
 Most school books about the human body end with the last body system. Italy's Grade 11 textbook, *La nuova biologia.blu PLUS — Il corpo umano*, does something different: after its eleven chapters on the body's architecture and systems, it closes the whole volume with C12 (PDF p. 267) — The biology of cancer — a full chapter on cancer as a subject of biology in itself. No lesson in this course took cancer's own biology as its one thing before, so this lesson is built for it. (The course's lesson on cancer and tumours teaches uncontrolled cell division; this lesson teaches cancer as the closing subject of the human-body course.)
 
-[Picture — the human-body course as a row of system diagrams — heart, lungs, gut, nerves — with a final panel after them all, labelled “the biology of cancer”]
+In your mind's eye: the human-body course as a row of system diagrams — heart, lungs, gut, nerves. With a final panel after them all, labelled “the biology of cancer”.
 
 ## The key facts
 **Cancer is taught as a biology, not as an appendix.** The chapter is titled The biology of cancer: cancer is presented as something biology studies in its own right — a subject with its own place in the science, not a footnote inside one organ's chapter.

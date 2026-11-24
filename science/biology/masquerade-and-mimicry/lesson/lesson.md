@@ -6,7 +6,7 @@ Before you read anything: a bee can sting you, and most animals learn to leave b
 ## The idea
 Mimicry is imitation as survival: one species resembles another, and the resemblance itself protects it. Costa Rica's Grade 11 biology anthology, Biología Undécimo, is an ecology course in five units — and it does not open with a definition. It opens with a case. The first thing in the book, the "Lectura Reflexiva" (reflective reading) of Unit 1, is one animal: Eristalis tenax — "Un caso muy especial de mimetismo" (a very special case of mimicry).
 
-[Picture — a bee and the hoverfly Eristalis tenax side by side: the same yellow-and-dark banded body at a glance, the fly's big eyes and short antennae visible only when you look closely]
+In your mind's eye: a bee and the hoverfly Eristalis tenax side by side. The same yellow-and-dark banded body at a glance, the fly's big eyes and short antennae visible only when you look closely.
 
 ## The key facts
 **The case.** Eristalis tenax is a hoverfly — a true fly, not a bee. It has no sting and cannot defend itself the way a bee can. What it has is the bee's appearance: the banded, hairy body that predators have learned to respect.

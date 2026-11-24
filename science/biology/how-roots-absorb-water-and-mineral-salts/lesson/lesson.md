@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — How roots absorb w
 ## The idea
 A root does its absorbing through its zones — cap, division, growth, absorption and conduction — and in the absorption zone its root hairs take in water and mineral salts and pass them up into the plant. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a young root drawn long, its four zones labelled in bands — cap, division, growth, absorption with fine root hairs, conduction — with water and mineral arrows entering at the hairs and travelling upward]
+In your mind's eye: a young root drawn long, its four zones labelled in bands — cap, division, growth, absorption with fine root hairs, conduction. With water and mineral arrows entering at the hairs and travelling upward.
 
 ## The key facts
 **§18 Root zones.** root cap, division, growth, absorption and conduction zones

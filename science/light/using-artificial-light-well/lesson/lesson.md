@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — using artificial light we
 
 29: light for comfortable living, night life and road safety; reflectors on children's clothes and bags; the theatre lighting operator; desk lamp placed so light falls from the left (from the right for left-handers)
 
-[Picture — using artificial light well as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: using artificial light well as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Where light is needed
 
 The books teach this part as festive illuminations and sky lanterns; where light must be provided — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — where light is needed as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: where light is needed as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

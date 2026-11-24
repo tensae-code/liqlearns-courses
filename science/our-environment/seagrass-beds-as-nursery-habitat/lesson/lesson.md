@@ -11,9 +11,9 @@ Its leaves work like the leaves of any green plant — they **photosynthesise**,
 
 The beds grow wider mostly without seeds. Most of Palau's seagrasses **spread by their roots**, creeping outward under the sand, one plant joining to the next until a whole bed covers the shallow floor.
 
-[Picture — a seagrass bed in clear shallow water, sun rays reaching the leaves and roots creeping under the sand — the student points to the leaves, the sunlight and the roots before reading on]
+In your mind's eye: a seagrass bed in clear shallow water, sun rays reaching the leaves and roots creeping under the sand. The student points to the leaves, the sunlight and the roots before reading on.
 
-[GIF — sun rays brightening over a seagrass bed as the water clears — the student says why the bed cannot live in deep, dark water]
+In your mind's eye: sun rays brightening over a seagrass bed as the water clears. Say why the bed cannot live in deep, dark water.
 
 ## Sub lesson 2 — Enhalus and its moon-timed pollen
 

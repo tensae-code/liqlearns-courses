@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Briquettes: carbonised briquettes (material charred in low oxygen, powdered, bound with clay, rice-flour starch, molasses or taro starch, then moulded) against non-carbonised ones (the home dung cake; high-pressure piston, screw and roller presses); Khumaltar's 1986 rice-husk briquettes and Nepal Rastra Bank's briquettes made from worn-out banknotes as the country's own cases.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Water management — dams a
 
 A **reservoir** — an *embalse* — is water held back and stored behind a **dam**. The book names Venezuela's own dams: the country's great stores of water, held ready instead of running away to the sea.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Controlled discharge and distribution
 

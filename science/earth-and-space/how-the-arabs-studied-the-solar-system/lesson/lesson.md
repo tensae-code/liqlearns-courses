@@ -9,9 +9,9 @@ Iraq's Grade 4 book ends its solar-system run — the system and its planets, mo
 
 The placing teaches two things at once. The solar system was studied long before this book: Arab scholars took an interest in it — watched it, studied it, and wrote about it. And the form matters too: this is the book's **scientific writing** — the interest is carried as a written account, the way science keeps what it learns.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

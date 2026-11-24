@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cnidaria — polyp
 ## The idea
 Mozambique's animal module takes Cnidaria (Coelenterata) as its second phylum. These animals are built on radial symmetry — the body is arranged around a centre, like a wheel. The phylum has two body forms, and the module teaches them as one form turned over: the medusa is an inverted polyp. Digestion happens in one cavity, first outside the cells and then inside them, and the phylum's famous weapon is the stinging cell. The hydra's development is the worked example.
 
-[Picture — a polyp drawn upright on a rock with tentacles up, beside a medusa drawn as the same animal turned upside down like a swimming bell, with one tentacle magnified to show a stinging cell and its nematocyst thread]
+In your mind's eye: a polyp drawn upright on a rock with tentacles up, beside a medusa drawn as the same animal turned upside down like a swimming bell, with one tentacle magnified to show a stinging cell and its nematocyst thread.
 
 ## The key facts
 **Radial symmetry.** The cnidarian body is arranged radially — parts repeated around a central axis — unlike the two-sided (bilateral) plan of the worms that follow in the module.

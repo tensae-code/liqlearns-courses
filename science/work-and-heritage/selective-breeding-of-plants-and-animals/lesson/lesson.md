@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 **Selective breeding** is improvement by choosing. The farmer or breeder looks at the plants or animals they have, picks the ones with the wanted quality — the plant that yields most, the animal that grows strongest, resists disease, or gives most milk — and breeds from those, generation after generation. The unwanted quality is bred out by never choosing it as a parent; the wanted quality grows stronger in the stock because every generation's parents were chosen for it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Breeding plants and animals — the same choosing at work
 

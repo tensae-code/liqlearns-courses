@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The genetic basis 
 ## The idea
 Why does a cell that should stop dividing keep going? Italy's Grade 11 Campbell, *Biologia: concetti e collegamenti, Secondo biennio*, answers genetically: Unità 1, the molecular biology of the gene, closes with a full run on the genetic bases of cancer (printed pp. 48–50) — cancer depends on mutations in genes controlling cell division, many gene alterations contribute, and defective proteins interfere with signal transduction. No lesson in this course taught the genetic basis of cancer on its own before, so this lesson is built for it. (The course's lesson on the biology of cancer teaches Italy's other book, where cancer closes the human-body volume; this lesson teaches its genetics.)
 
-[Picture — a control panel for cell division — gene switches labelled “divide” and “stop”, one switch broken by a mutation, and a signal wire carrying a garbled message to the cell]
+In your mind's eye: a control panel for cell division — gene switches labelled “divide” and “stop”, one switch broken by a mutation, and a signal wire carrying a garbled message to the cell.
 
 ## The key facts
 **Cancer depends on mutations in division-control genes.** The genes that control cell division — when to divide, when to stop — are the genes whose mutation matters here: change the controller, and the division it controls changes with it.

@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — lower and higher plants. 
 
 Kazakhstan's books teach this as their own lesson — "What lower and higher plants are". The learner works through the books' own presentation of what lower and higher plants are — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what lower and higher plants are as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what lower and higher plants are as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — What are lower and higher plants
 
 Kazakhstan's books teach this as their own lesson — "What are lower and higher plants". The learner works through the books' own presentation of what are lower and higher plants — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what are lower and higher plants as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what are lower and higher plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

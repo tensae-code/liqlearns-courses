@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Pollen and embryo 
 ## The idea
 Malaysia's Form 5 book teaches the development of pollen grains and the embryo sac as its own subtopic (printed p. 116), before pollination: the making of the two gamete-carrying structures, anther-side and ovule-side.
 
-[Picture — an anther cut open showing pollen grains forming, beside an ovule cut open showing the embryo sac inside it with the egg cell marked]
+In your mind's eye: an anther cut open showing pollen grains forming, beside an ovule cut open showing the embryo sac inside it with the egg cell marked.
 
 ## The key facts
 **Pollen development.** In the anther, mother cells divide by meiosis to form pollen grains. Each pollen grain is the male gametophyte: it will produce the male gametes that fertilisation needs.

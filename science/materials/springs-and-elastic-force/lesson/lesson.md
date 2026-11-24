@@ -9,9 +9,9 @@ China's Grade 3 book opens the topic by taking a **ballpoint pen** apart: inside
 
 That return is the spring's nature: a spring pushed or pulled out of shape **pulls back** toward its first shape. The force of that pulling back is its **elastic force**.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hanging weights — the spring lengthens
 

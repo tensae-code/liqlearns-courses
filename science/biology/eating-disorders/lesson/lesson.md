@@ -6,7 +6,7 @@ Before you read anything: think of the things that can damage a person's health.
 ## The idea
 An eating disorder is a disordered way of eating that damages health. Ecuador's Grade 11 biology book, Biología — 1ro BGU, does not give eating disorders a chapter of their own. It teaches them inside Sección 6, Tema 2 — "Salud integral", integral health — the section that gathers the causes that damage a person's health and reads them together, in a cause→effect table.
 
-[Picture — a cause→effect table: on the left, five causes in a row — eating disorders, drugs, alcohol, sedentarism, pollution; on the right, the damage each one does to health, with an arrow from each cause to its effect]
+In your mind's eye: a cause→effect table: on the left, five causes in a row — eating disorders, drugs, alcohol, sedentarism, pollution; on the right, the damage each one does to health, with an arrow from each cause to its effect.
 
 ## The key facts
 **The two the book names.** The eating disorders Ecuador's book names are anorexia and bulimia. They stand in the book as causes of damaged health — not as habits, fashions or choices of appearance, but as health problems with effects, which is why they belong in a biology book's health section.

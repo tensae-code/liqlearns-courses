@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Endocrine dysfunct
 ## The idea
 disorders of under- and over-secretion distinguished, with an applied box on the side effects of steroids (same proposed slug as in the Moldova filings)
 
-[Picture — two glands side by side, one drawn shrunken and pale labelled under-secretion, one enlarged labelled over-secretion, with arrows to the opposite effects of too little and too much hormone]
+In your mind's eye: two glands side by side, one drawn shrunken and pale labelled under-secretion, one enlarged labelled over-secretion, with arrows to the opposite effects of too little and too much hormone.
 
 ## The key facts
 **Under and over.** Kuwait's Grade 12 Term 1 student book (Lesson 3-2, printed p. 75), "Health of the Endocrine Glands", distinguishes disorders of under-secretion from disorders of over-secretion.

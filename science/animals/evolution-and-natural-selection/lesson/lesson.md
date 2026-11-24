@@ -11,9 +11,9 @@ That is too long to feel, so the guide teaches it as a **timeline** — a line o
 
 The **diversity** of living things — the many different kinds, each fitted to its own place and way of living — is what that long time produced.
 
-[Picture — a long timeline strip: life appearing 3.8 billion years ago at the far end, today's living things at the near end — the student points to where life begins and where we stand]
+In your mind's eye: a long timeline strip: life appearing 3.8 billion years ago at the far end, today's living things at the near end. The student points to where life begins and where we stand.
 
-[GIF — the timeline strip unrolling further and further back while the human mark stays a tiny end-piece — the student says what changed and what it proves]
+In your mind's eye: the timeline strip unrolling further and further back while the human mark stays a tiny end-piece. Say what changed and what it proves.
 
 ## Sub lesson 2 — Living things change — evolution and natural selection
 

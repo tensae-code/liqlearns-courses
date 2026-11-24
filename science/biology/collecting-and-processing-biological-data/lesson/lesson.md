@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Collecting and pro
 ## The idea
 Before biology concludes anything, it gathers and tidies. North Macedonia's Biology II opens with a whole theme on the methods of biological research, and inside it, collecting and processing data and scientific presentation stand as their own lessons (Themes 1.4–1.5, printed pp. 22–25) — between the microscope lesson and the lesson on ethics and safety. No lesson in this course covered data handling and presentation as method before, so this lesson is built for it.
 
-[Picture — a field notebook page of tally marks and measurements becoming a neat table, the table becoming a bar graph, and the graph pinned on a board under a title — collection, processing, presentation in one row]
+In your mind's eye: a field notebook page of tally marks and measurements becoming a neat table, the table becoming a bar graph, and the graph pinned on a board under a title — collection, processing, presentation in one row.
 
 ## The key facts
 **Collect with a plan.** Data are collected by observation and measurement, planned before the work starts: what will be counted or measured, in what units, how often, and on how many individuals — planned collecting is what makes data comparable.

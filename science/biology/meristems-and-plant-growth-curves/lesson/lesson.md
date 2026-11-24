@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Meristems and plan
 ## The idea
 Malaysia's Form 5 book opens its plant theme with meristematic tissues and growth (printed p. 6): where a plant's new cells are made, and how growth is measured — as curves. Growth here is not a vague 'getting bigger' but a quantity that can be plotted.
 
-[Picture — a shoot tip and root tip with their meristem regions shaded, beside two graphs: a smooth S-shaped sigmoid growth curve and a stepped growth curve rising in stairs]
+In your mind's eye: a shoot tip and root tip with their meristem regions shaded, beside two graphs. A smooth S-shaped sigmoid growth curve and a stepped growth curve rising in stairs.
 
 ## The key facts
 **Meristems.** Meristematic tissue is the plant's growth tissue: cells that keep dividing. Apical meristems at shoot and root tips lengthen the plant (primary growth); lateral meristems thicken it (secondary growth).

@@ -11,9 +11,9 @@ It lights the lamps, runs the television and the refrigerator, charges the phone
 
 That surrounding presence is this lesson's one thing: electricity is met first as something already here, everywhere, before it is taken apart into circuits.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Meeting it before building with it
 

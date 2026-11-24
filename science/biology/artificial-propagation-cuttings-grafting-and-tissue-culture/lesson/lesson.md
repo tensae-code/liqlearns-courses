@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Artificial propaga
 ## The idea
 farmers propagating plants from cuttings and grafts, protoplast culture, and apomixis in flowering plants
 
-[Picture — three panels: a cutting with roots forming in soil, a graft union bound on a stem, and a laboratory dish of protoplast culture — each labelled with its method]
+In your mind's eye: three panels: a cutting with roots forming in soil, a graft union bound on a stem, and a laboratory dish of protoplast culture — each labelled with its method.
 
 ## The key facts
 **Cuttings and grafts.** Kuwait's Grade 11 Term 1 student book (Ch. 2, printed pp. 77–81) teaches artificial propagation as farmers practise it: propagating plants from cuttings and from grafts.

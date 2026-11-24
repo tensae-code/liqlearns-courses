@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Stress, sleep and 
 ## The idea
 Mental health is held by sleep, biological rhythms and a workable day: stress strains the nervous system, sleep restores work capacity, and the hygiene of sleep and work — regular hours, rest and routine — protects both. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a day-and-night circle drawn as a clock: work, food, rest and a sleeping figure in their places on the dial, with a stress storm cloud crossed by a calm sleep band]
+In your mind's eye: a day-and-night circle drawn as a clock. Work, food, rest and a sleeping figure in their places on the dial, with a stress storm cloud crossed by a calm sleep band.
 
 ## The key facts
 **§7.3 The guarantee of strong (mental) health.** mental health, stress factors and consequences, coping; why we sleep and improving memory on p. 81

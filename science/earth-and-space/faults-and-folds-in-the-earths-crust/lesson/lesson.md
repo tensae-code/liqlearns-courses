@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The chapter starts from the plates (Lesson 1): the Earth's crust is carried on moving plates, and where plates press, the rock layers caught between them are squeezed. Rock that is squeezed slowly **folds** — the layers bend into waves, up-folds and down-folds, without breaking. A fold is the crust answering pressure by bending.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Faults — rock layers broken and shifted
 

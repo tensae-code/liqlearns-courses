@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 7 Topic 10, "Plant leaves and water", opens the leaf: stomata are tiny holes in leaves through which plants "breathe" in air and lose water. The topic prepares a slide of stomata so the holes themselves are seen under the microscope — the leaf's surface is not solid, but pierced by openings the plant uses.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Transpiration — water leaving the leaf
 

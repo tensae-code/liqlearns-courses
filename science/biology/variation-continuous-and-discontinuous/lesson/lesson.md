@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Variation — cont
 ## The idea
 Malaysia's Form 5 book organises its variation chapter by the two kinds of variation (printed p. 256): types and factors of variation, with variation in humans as the working example — the organising frame is continuous against discontinuous.
 
-[Picture — two graphs side by side: a smooth bell curve of heights labelled continuous variation, and separate bars of blood groups labelled discontinuous variation]
+In your mind's eye: two graphs side by side. A smooth bell curve of heights labelled continuous variation, and separate bars of blood groups labelled discontinuous variation.
 
 ## The key facts
 **Continuous variation.** Height, mass and skin shade grade smoothly from one extreme to the other, with every step between; plotted, they draw a smooth bell-shaped curve. Such traits are usually built by many genes together, with the environment adding its effect.

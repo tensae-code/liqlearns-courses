@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Adult neurogenesis
 ## The idea
 New neurons are born in the adult brain — in the hippocampus and the olfactory bulb among other places — against the old dogma that brain cells only die, and running, experience and stress can raise or lower that birth rate. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — an adult brain in side view with two small bright regions marked — the hippocampus deep inside and the olfactory bulb at the front — each with tiny new neurons drawn growing there]
+In your mind's eye: an adult brain in side view with two small bright regions marked — the hippocampus deep inside and the olfactory bulb at the front. Each with tiny new neurons drawn growing there.
 
 ## The key facts
 **Ch. 2 §1 feature "Do brain cells really only die?".** adult neurogenesis against the old dogma: new neurons in the adult rat (1977) and the canary's song centre, running increasing hippocampal neurogenesis in mice, odour experience adding olfactory-bulb neurons, stress and a mother's prenatal anxiety suppressing it — and the prospect of growing neurons to repair injured brains. No existing lesson covers it.

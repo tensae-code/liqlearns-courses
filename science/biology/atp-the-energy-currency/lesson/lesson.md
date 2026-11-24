@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — ATP — the energy
 ## The idea
 ATP is the cell's energy currency: its terminal phosphate bond stores energy that is spent by transferring the phosphate onto the working protein itself, changing its shape — and the cell turns over a huge amount of ATP every day, about half a kilogram a minute in hard exercise. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — an ATP molecule drawn as A—P~P~P with the last phosphate group shown jumping onto a pump protein and bending it into a new shape]
+In your mind's eye: an ATP molecule drawn as A—P~P~P with the last phosphate group shown jumping onto a pump protein and bending it into a new shape.
 
 ## The key facts
 **Ch. 5 §2 ATP, the cell's energy "currency".** opened by Du Mu's Tang-dynasty firefly poem; the A—P~P~P structure with 30.54 kJ released per mole hydrolysed; half a kilogram of ATP turned over per minute in hard exercise; and the mechanism shown honestly — the terminal phosphate transferred onto the calcium pump itself, changing its shape (phosphorylation), which is how the "currency" is actually spent. No existing lesson is given to ATP.

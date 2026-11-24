@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Endosymbiosis: the
 ## The idea
 Every learner who meets the organelles asks, sooner or later, where mitochondria and chloroplasts came from — they look like cells inside the cell. Italy's Grade 9 Campbell, *Biologia: concetti e collegamenti PLUS, Primo biennio*, closes its cell unit (Unità 2) with the answer science gives: the endosymbiosis hypothesis — Lynn Margulis, 1967 — for the origin of mitochondria and chloroplasts, taught as an “ancient pact” (printed p. 62; PDF p. 70). No lesson in this course taught the endosymbiotic origin on its own before, so this lesson is built for it.
 
-[Picture — the ancient pact in three panels — a free-living bacterium beside a larger cell; the bacterium taken inside the cell; the bacterium become a mitochondrion, working inside the cell that hosts it]
+In your mind's eye: the ancient pact in three panels — a free-living bacterium beside a larger cell; the bacterium taken inside the cell; the bacterium become a mitochondrion, working inside the cell that hosts it.
 
 ## The key facts
 **The claim: organelles that were once bacteria.** The endosymbiosis hypothesis says mitochondria and chloroplasts did not begin as parts of the cell: they began as free-living bacteria, taken inside another cell, which stayed and lived there.

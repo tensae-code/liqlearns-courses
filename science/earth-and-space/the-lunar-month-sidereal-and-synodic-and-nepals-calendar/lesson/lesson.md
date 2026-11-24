@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The sidereal month of 27⅓ days, one true circuit of the Earth, against the synodic lunar month of 29.5 days from new moon to new moon; the bright fortnight (Shukla Paksha) and the dark fortnight (Krishna Paksha); the solar year of 365.25 days against the lunar year of 354.37 days, and the leap year; Adhik Maas, the doubled lunar month that falls about every three years (as in Asoj BS 2077), and Kshaya Maas, the lunar month that drops out, mostly between Kartik and Magh — the reckoning by which festivals are kept.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The sidereal month of 27⅓ days
 

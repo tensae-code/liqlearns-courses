@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Non-specific defen
 ## The idea
 The body's first defence is non-specific — it answers any invader the same way: skin and membranes as barriers, inflammation flooding an injured place with blood, fever raising the temperature, and phagocyte cells engulfing microbes whole. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a cut in skin drawn in cross-section with germs entering, the area reddening and swelling, and a large phagocyte cell swallowing a bacterium]
+In your mind's eye: a cut in skin drawn in cross-section with germs entering, the area reddening and swelling, and a large phagocyte cell swallowing a bacterium.
 
 ## The key facts
 **§1.3.1.** non-specific defence mechanisms as their own section (skin, inflammation, fever, phagocytes)

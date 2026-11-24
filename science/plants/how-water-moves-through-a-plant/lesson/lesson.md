@@ -9,9 +9,9 @@ A plant drinks through its **roots**: water in the soil enters the root and begi
 
 The journey is not a guess — the book's own tests show it: a plant standing in coloured water carries the colour up its stem, marking the water's road for the eye to follow.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Out through the leaves into the air
 

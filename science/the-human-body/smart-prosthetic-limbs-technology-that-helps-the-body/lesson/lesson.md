@@ -9,9 +9,9 @@ A **prosthetic limb** is a limb made by people to stand in for a missing limb, s
 
 That is why Jordan's book places this enrichment inside its human-body-and-health unit, and why its teacher's guide builds the lesson plan around **appreciating the role of science and technology**: the body lesson and the technology lesson meet in one made thing — a limb that is not grown, but designed, built and fitted to help a person.
 
-[Picture — a prosthetic limb in use — the student names the limb it stands in for and the job it helps with]
+In your mind's eye: a prosthetic limb in use. Name the limb it stands in for and the job it helps with.
 
-[GIF — a prosthetic limb in motion — the student says what movement the technology helps with]
+In your mind's eye: a prosthetic limb in motion. Say what movement the technology helps with.
 
 ## The key ideas
 

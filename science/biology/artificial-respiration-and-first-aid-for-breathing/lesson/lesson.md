@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Artificial respira
 ## The idea
 Artificial respiration is rescue breathing: when a person's own breathing has stopped, another person breathes air into their lungs in a steady rhythm to keep oxygen reaching the blood until help comes or their own breathing returns. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a trained helper kneeling beside a person lying flat with head tilted back, giving rescue breaths, with a steady rhythm marked beside them]
+In your mind's eye: a trained helper kneeling beside a person lying flat with head tilted back, giving rescue breaths, with a steady rhythm marked beside them.
 
 ## The key facts
 **Activity 4.12.** artificial respiration (rescue breathing) as a practical skill

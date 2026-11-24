@@ -9,9 +9,9 @@ On a low island there is no river and no wet valley. The wet ground is **under**
 
 So the taro farmer digs. A **taro pit** is a pit dug down through the dry sand until it reaches the wet ground — on the lowest islands, down to the freshwater lens itself. In that wet pit bottom, **giant swamp taro** can grow, its roots always in the water it needs. A field of such pits is a **taro patch**.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — The patch as a habitat
 

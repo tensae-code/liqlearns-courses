@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — The bryophyte life
 ## The idea
 A moss lives its life in two generations that grow out of one another. This lesson teaches that cycle whole — the gametophyte plant, its sex organs, fertilisation in water, and the sporophyte that rises from it and depends on it. No lesson in this course taught this on its own before, so this lesson is built for it — from South Sudan's Secondary 3 Biology book, which teaches the bryophyte life cycle inside its five-kingdoms survey of the plant kingdom.
 
-[Picture — a moss plant labelled as the book labels it — rhizoids below, the gametophyte body, and the sporophyte rising from it on its seta with the capsule at the top]
+In your mind's eye: a moss plant labelled as the book labels it — rhizoids below, the gametophyte body, and the sporophyte rising from it on its seta with the capsule at the top.
 
-[GIF — a spore landing and growing into a green moss gametophyte, then a sporophyte rising from it on a seta and its capsule opening to release spores]
+In your mind's eye: a spore landing and growing into a green moss gametophyte, then a sporophyte rising from it on a seta and its capsule opening to release spores.
 
 ## The key facts
 **Bryophytes.** Bryophytes are small, simple land plants without true roots, stems or leaves. The moss is the book's example.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Resistance — evo
 ## The idea
 Evolution you can watch within a lifetime: Kenya's Form 4 book teaches resistance — penicillin-breaking enzymes in bacteria, DDT-resistant mosquitoes, Plasmodium changing its coat antigens and resisting chloroquine, drug-resistant TB — as natural selection observed in action, in Kenyan health and agriculture.
 
-[Picture — a spray can and a medicine bottle aimed at three survivors drawn larger than their fallen fellows — a mosquito still flying through faded DDT mist, a bacterium splitting a penicillin ring with an enzyme drawn as scissors, and a malaria parasite changing its coat like a cloak — with a small timeline beneath showing the change taking years, not ages]
+In your mind's eye: a spray can and a medicine bottle aimed at three survivors drawn larger than their fallen fellows — a mosquito still flying through faded DDT mist, a bacterium splitting a penicillin ring with an enzyme drawn as scissors, and a malaria parasite changing its coat like a cloak. With a small timeline beneath showing the change taking years, not ages.
 
 ## The key facts
 **Resistance is selection, observed.** Resistance is natural selection in action: a drug or pesticide kills the susceptible, the rare resistant individuals survive and breed, and the population becomes resistant — evolution within years, not eras.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gender identity an
 ## The idea
 France's Seconde SVT manual teaches the human body and health in its Thème 3. Inside the chapter "Cerveau, plaisir et sexualité" (Brain, pleasure and sexuality) there is a part called "Identités et orientations" — Identities and orientations. That is where this lesson comes from: France teaches identity and orientation as part of the biology course, next to the brain and sexuality.
 
-[Picture — two panels and a timeline strip: on the left, stereotype expectations written as labels pinned on two figures; on the right, the Khasi society as a family line passing through the mother; under both, a strip marked "LGBT rights in France — evolving"]
+In your mind's eye: two panels and a timeline strip: on the left, stereotype expectations written as labels pinned on two figures; on the right, the Khasi society as a family line passing through the mother; under both, a strip marked "LGBT rights in France — evolving".
 
 ## The key facts
 **What gender is.** The manual opens the part by asking what gender is — a person's gender as its own question, taught before any stereotype is named.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Transpiration and 
 ## The idea
 Mozambique's first PESD I module (2023) teaches transpiration as a lesson of its own, with a startling number at its head: a plant loses about 99% of the water it absorbs. Transpiration is framed as the plant's biggest problem, with the adaptation mechanisms plants use against it — and it is taught by experiment: two branches, two bottles and a bell jar compare a leafy branch against a defoliated one. The lesson joins the loss to the plant's plumbing: raw sap rising root to leaves, driven partly by transpiration itself, and elaborated sap flowing from the leaves.
 
-[Picture — two bottles under a glass bell jar, one holding a leafy branch and one a bare defoliated branch, the leafy one's jar clouded with condensed droplets; beside it a plant with a blue arrow rising through the stem marked raw sap and a green arrow flowing down from the leaves marked elaborated sap]
+In your mind's eye: two bottles under a glass bell jar, one holding a leafy branch and one a bare defoliated branch, the leafy one's jar clouded with condensed droplets; beside it a plant with a blue arrow rising through the stem marked raw sap and a green arrow flowing down from the leaves marked elaborated sap.
 
 ## The key facts
 **99% is lost.** Plants lose about 99% of the water they absorb by transpiration. The module presents this as the plant's biggest problem — and teaches the adaptation mechanisms plants use to limit the loss.

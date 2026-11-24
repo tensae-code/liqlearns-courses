@@ -7,7 +7,7 @@ Before you read: think about this lesson's subject — metals and non-metals. Th
 
 Kazakhstan's books teach this as their own lesson — "What the differences between metals and non-metals consist in". The learner works through the books' own presentation of what the differences between metals and non-metals consist in — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — what the differences between metals and non-metals consist in as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what the differences between metals and non-metals consist in as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

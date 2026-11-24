@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Stem cells. Write 
 ## The idea
 Stem cells are cells that are not yet specialised: they can divide to make more cells like themselves, and they can turn into specialised cells of different kinds — the body's source of new specialised cells. No lesson in this course taught this on its own before, so this lesson is built for it — from Pakistan (Punjab)'s Punjab Board books, which teach it as a named topic.
 
-[Picture — a single round unspecialised cell in the middle dividing into two, with three arrows leading out to a muscle cell, a nerve cell and a blood cell it can become]
+In your mind's eye: a single round unspecialised cell in the middle dividing into two, with three arrows leading out to a muscle cell, a nerve cell and a blood cell it can become.
 
 ## The key facts
 **Not yet specialised.** Most cells in a body have one set job — a muscle cell contracts, a nerve cell carries signals. A stem cell has no such fixed job yet: it is unspecialised.

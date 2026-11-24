@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Glass: a transparent supercooled liquid made from silicates; silica glass, water glass that dissolves in water, ordinary soda-lime glass (the batch mixed 75 percent silica, 15 percent sodium carbonate, 10 percent calcium carbonate and 25 percent broken glass as printed, and annealed so it does not crack), hard potash-lime glass, borosilicate or Pyrex glass, and lead crystal; coloured glass from metal oxides — blue from cobalt oxide, green from chromium oxide, red from copper oxide, white from tin oxide.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

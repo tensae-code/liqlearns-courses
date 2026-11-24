@@ -7,31 +7,31 @@ Before you read: think about this lesson's subject — ecological problems of Ka
 
 Kazakhstan's books teach this as their own lesson — "Ecological problems of the Republic of Kazakhstan". The learner works through the books' own presentation of ecological problems of the Republic of Kazakhstan — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — ecological problems of the Republic of Kazakhstan as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: ecological problems of the Republic of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Ecological problems of Kazakhstan
 
 Kazakhstan's books teach this as their own lesson — "Ecological problems of Kazakhstan". The learner works through the books' own presentation of ecological problems of Kazakhstan — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — ecological problems of Kazakhstan as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: ecological problems of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Are there places in the country where it is unsafe to live?
 
 Kazakhstan's books teach this as their own lesson — "Are there places in the country where it is unsafe to live?". The learner works through the books' own presentation of are there places in the country where it is unsafe to live? — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — are there places in the country where it is unsafe to live? as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: are there places in the country where it is unsafe to live? as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — Causes of the ecological problems of Kazakhstan
 
 Kazakhstan's books teach this as their own lesson — "Causes of the ecological problems of Kazakhstan". The learner works through the books' own presentation of causes of the ecological problems of Kazakhstan — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — causes of the ecological problems of Kazakhstan as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: causes of the ecological problems of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 5 — Analysis of the ecological problems of one's own region
 
 The books teach this part as "Ecological problems of the home region" (with the practical work on measuring air dustiness) — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books also carry this part as their own titled lesson — "Analysis of the ecological problems of one's own region", "Ecological problems of the home region" — at the printed pages named in Sources; the learner works through those lessons' own text, examples and tasks.
 
-[Picture — analysis of the ecological problems of one's own region as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: analysis of the ecological problems of one's own region as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

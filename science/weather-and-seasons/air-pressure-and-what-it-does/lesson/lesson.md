@@ -7,17 +7,17 @@ You cannot see the air pressing, and you do not feel it. Yet a card under an ups
 
 Air has weight, and the whole depth of air above us **presses** on everything, in all directions: that pressing is **atmospheric pressure**. We do not notice it because it presses inside us too, balancing the outside press — but its consequences are everywhere, from drinking through a straw to the behaviour of the weather the next lessons study.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Proving it — experiments that show the pressure is real
 
 Armenia's book does not ask the learner to take pressure on trust: **Practical work 6** is a set of experiments proving atmospheric pressure exists — arrangements where water is held up, or a card stays fast, or air's press does what no other push could do. The proof pattern is the lesson: remove every other explanation, and the air's press is what remains.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

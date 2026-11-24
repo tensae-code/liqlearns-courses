@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Biomechanics of up
 ## The idea
 Upright walking is a physical balancing act: the spine's curves, the arched foot, the pelvis and the five phases of a step fit the human skeleton and muscles to moving steadily on two legs. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a walking figure drawn in the five phases of one step, with the spine's curves and the foot's arch marked and a vertical line from the centre of mass falling between the feet]
+In your mind's eye: a walking figure drawn in the five phases of one step, with the spine's curves and the foot's arch marked and a vertical line from the centre of mass falling between the feet.
 
 ## The key facts
 **§37 Biomechanical features of human movement connected with upright walking.** a "Movement. Biophysics" part: gait treated physically, unique to this book

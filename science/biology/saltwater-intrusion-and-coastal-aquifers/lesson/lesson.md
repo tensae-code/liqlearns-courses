@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Saltwater intrusio
 ## The idea
 Fiji's Year 12 Biology book teaches environmental issues from Fiji's own ground. Among the effects of the enhanced greenhouse effect it names one that only an island country teaches this way: the sea, rising, does not only wash over the land — it pushes underneath it, into the fresh water stored below the coast.
 
-[Picture — a picture of a coast cut open underground — the sea on one side, the land on the other, fresh groundwater drawn as a pale lens floating on darker salt water, the boundary line marked, a village well drawing from the fresh lens, and an arrow showing the salt water pushing inland as the sea rises]
+In your mind's eye: a coast cut open underground — the sea on one side, the land on the other, fresh groundwater drawn as a pale lens floating on darker salt water, the boundary line marked, a village well drawing from the fresh lens, and an arrow showing the salt water pushing inland as the sea rises.
 
-[GIF — the boundary moving in steps — the sea rises a little, the salt water pushes further under the land and up toward the well, and the well water turns brackish — the student says what moved and why]
+In your mind's eye: the boundary moving in steps — the sea rises a little, the salt water pushes further under the land and up toward the well, and the well water turns brackish. Say what moved and why.
 
 ## The key facts
 **Fresh water floats on salt water.** Rain that soaks into coastal ground gathers as groundwater in an aquifer. Salt water from the sea also sits in the ground below the coast, and because salt water is denser, the fresh water rests on top of it. The boundary between the two — the saltwater/freshwater interface — is a balance: fresh water pressing down and out to sea, salt water pressing in.

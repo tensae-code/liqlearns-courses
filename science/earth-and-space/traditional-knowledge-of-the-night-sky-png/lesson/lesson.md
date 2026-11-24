@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — traditional knowledge of the 
 
 Papua New Guinea's Standards Based Grade 6 guide gives the night sky a lesson of its own kind: **traditional knowledge of the night sky** (lesson 95), taught beside the constellations lessons. The guide treats the knowledge communities already hold about the stars — learned, named and passed down outside school — as science content in its own right.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Knowledge that stands beside the school lessons
 

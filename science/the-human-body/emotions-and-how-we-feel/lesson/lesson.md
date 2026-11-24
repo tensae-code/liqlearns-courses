@@ -7,9 +7,9 @@ Think of a day when you felt very happy, and a day when you felt sad. What was d
 
 An **emotion** is a feeling that rises in us — **joy** when something good comes, **sadness** when we lose or miss, **anger** when something strikes us as wrong, **fear** when something threatens. Angola's Grade 3 book teaches **my emotions** (As minhas emoções) as their own lesson: the feelings are mine, they are real, and each one has a name. Naming an emotion is the first skill — a feeling I can name is a feeling I can talk about.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Emotions show — and they change
 

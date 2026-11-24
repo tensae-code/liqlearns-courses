@@ -7,9 +7,9 @@ Two sailors, too far apart to shout, flash lights at each other in patterns — 
 
 A wave on its own just repeats; a **patterned** wave — flashes long and short, in an agreed order — can stand for letters and words: **light signals and codes** (Grade 4, 4.3.3, printed p. 126). The information is not in the light itself but in the pattern imposed on it, and the receiver who knows the code can read the message off the pattern.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Designing a solution to an information-transfer problem
 

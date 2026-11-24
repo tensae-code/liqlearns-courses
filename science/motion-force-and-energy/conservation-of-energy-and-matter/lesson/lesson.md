@@ -9,9 +9,9 @@ The **law of conservation of matter** says that in any change, matter is **not c
 
 That is why a careful weighing before and after a change balances: what seems to vanish has only changed its form or its place.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The law for energy — nothing is lost
 

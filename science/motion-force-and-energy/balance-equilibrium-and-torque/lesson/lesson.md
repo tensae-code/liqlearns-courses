@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — balance, equilibrium an
 
 Keeping the balance: a wooden paddle balanced on a finger with clothespins at both ends; an object is in equilibrium when all its forces cancel, and rotation produced by a force is torque — opposing torques give rotational equilibrium; the catapult contest (more force, farther throw) and projectile motion in basketball, baseball and football.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

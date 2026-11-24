@@ -9,9 +9,9 @@ A plant's life has **great stages**. It begins — from its seed or other beginn
 
 Stage is not a small word here: at each great stage the plant looks different, is a different size, and does a different job. Telling a plant's life means naming its stages in order.
 
-[Picture — one plant shown at its great stages, small to full-grown, in a row — the student names each stage in order]
+In your mind's eye: one plant shown at its great stages, small to full-grown, in a row. Name each stage in order.
 
-[GIF — a plant growing stage by stage, beginning to full form — the student says what changed at each stage]
+In your mind's eye: a plant growing stage by stage, beginning to full form. Say what changed at each stage.
 
 ## Sub lesson 2 — Compared with the stages of a human life
 

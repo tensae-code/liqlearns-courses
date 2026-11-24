@@ -9,9 +9,9 @@ The **tongue** is the organ of taste. With it we know the tastes of things: **sw
 
 Kuwait's Grade 1 book teaches taste together with smell, because the two work as a pair: much of what we call the taste of food is really its smell reaching the nose while we eat.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Taste is a warning
 

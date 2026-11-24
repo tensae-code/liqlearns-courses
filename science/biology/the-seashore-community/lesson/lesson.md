@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — The seashore commu
 ## The idea
 Fiji's Year 11 Biology book does not study ecology only in definitions. Inside its ecology chapter, after populations and community relationships, it takes one whole community — a Fijian seashore — and studies it as a whole: the shore walked zone by zone, and every living thing placed where it actually lives.
 
-[Picture — a picture of a Fijian seashore in three bands — the dry top shore, the middle shore the tide covers and uncovers, and the low shore by the water — with the living things of each band drawn in their band and labelled]
+In your mind's eye: a Fijian seashore in three bands — the dry top shore, the middle shore the tide covers and uncovers, and the low shore by the water. With the living things of each band drawn in their band and labelled.
 
-[GIF — a shore through one tide in steps — the sea rises and covers the low and middle shore, then falls and uncovers them again — the student names each zone as the water leaves it]
+In your mind's eye: a shore through one tide in steps — the sea rises and covers the low and middle shore, then falls and uncovers them again. Name each zone as the water leaves it.
 
 ## The key facts
 **A whole community, in its place.** A community is all the living things living together in one place. The seashore study takes one real community — the shore — and studies the whole of it together: not one animal or one plant alone, but every kind in its place, with the conditions of that place.

@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 In the Hòa Bình campaign (1951–1952), Vietnam's soldiers cooked in the field — but a cooking fire's smoke rises in one column and shows the enemy exactly where the kitchen is. The Hoàng Cầm stove answers that: a field kitchen built so its **smoke is scattered** as it leaves, spread out until no single plume betrays the cooks below.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Vietnam's fuel-saving heritage
 

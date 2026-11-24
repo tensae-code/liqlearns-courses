@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Algae — thallus 
 ## The idea
 Bulgaria's Grade 7 book builds the plant kingdom by body plan first (Topic 15, printed p. 33): after the Kingdom Plants overview (Topic 14) come the thallus plants — the algae — whose body is a thallus, and only after them the cormus plants (Topic 16), whose bodies are made of tissues and organs. The split between thallus and cormus is the book's own first fork inside the plant kingdom.
 
-[Picture — two plants side by side: a flat green alga labelled as one thallus body, and a flowering plant labelled root, stem and leaves]
+In your mind's eye: two plants side by side. A flat green alga labelled as one thallus body, and a flowering plant labelled root, stem and leaves.
 
 ## The key facts
 **The thallus.** A thallus is a plant body that is not divided into root, stem and leaves. The whole body does the work of living — taking in water and light and making food — without separate organs for each job.

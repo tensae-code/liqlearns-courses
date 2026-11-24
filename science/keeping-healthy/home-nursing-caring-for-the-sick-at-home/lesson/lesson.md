@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — home nursing — caring for t
 
 South Sudan's Primary 7 book teaches **home nursing** as its own topic in its health unit: the care of a sick person **at home**, by the people of the home — taught as a skill a primary learner should know, beside stress and depression and before the unit's nutrition topics.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The home nurse's work
 

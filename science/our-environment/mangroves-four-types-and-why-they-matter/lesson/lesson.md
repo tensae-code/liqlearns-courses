@@ -14,9 +14,9 @@ Before you read: picture a low island shore at low tide — mud, shallow water, 
 
 Learn the order and the signs together: prop roots at the edge, pencil roots in the mud, paler leaves further in, buttonwood at the back. Roots and place name the type before any book does.
 
-[Picture — a mangrove shore in cross-section: red mangrove on prop roots at the water, black mangrove with pencil roots, white mangrove, buttonwood at the back — the student names each type from its roots and place before reading on]
+In your mind's eye: a mangrove shore in cross-section: red mangrove on prop roots at the water, black mangrove with pencil roots, white mangrove, buttonwood at the back. Name each type from its roots and place before reading on.
 
-[GIF — the tide rising through a mangrove stand, covering the mud and the pencil roots, reaching the prop roots — the student says which type stands in the deepest water, and which stays driest]
+In your mind's eye: the tide rising through a mangrove stand, covering the mud and the pencil roots, reaching the prop roots. Say which type stands in the deepest water, and which stays driest.
 
 ## Sub lesson 2 — The mangrove world — its organisms, and why the islands need it
 

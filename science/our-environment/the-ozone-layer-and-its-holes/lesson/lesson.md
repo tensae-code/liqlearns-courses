@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 High in the atmosphere sits a covering of **ozone** that **shields Earth's surface from harmful ultraviolet rays** — the part of sunlight that harms living skin and growing plants. North Macedonia's Grade 6 book teaches it inside its Care for the environment theme: the shield is part of the conditions that make the surface fit for life, and it can be damaged.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Freon gases and the holes over the poles
 

@@ -9,9 +9,9 @@ An adult lights a **candle** and, when the flame is steady, puts a **glass over 
 
 Watch the flame. It does not stay as it was. Trapped under the glass, it changes — and then it **goes out**. Nothing blew on it. Nothing touched it. Only the air around it changed: the flame was left with the small store of air trapped under the glass, and no new air could get in.
 
-[Picture — a lit candle with a glass being lowered over it by an adult hand, a child watching from a safe distance — the student points to the air trapped inside the glass]
+In your mind's eye: a lit candle with a glass being lowered over it by an adult hand, a child watching from a safe distance. The student points to the air trapped inside the glass.
 
-[GIF — the candle flame under the glass growing smaller and going out — the student says what the flame used up]
+In your mind's eye: the candle flame under the glass growing smaller and going out. Say what the flame used up.
 
 ## Sub lesson 2 — Burning needs air
 

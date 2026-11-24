@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Structural adaptat
 ## The idea
 An animal's body structures are fitted to its habitat — the camel carries a water reserve for dry land, and the aquatic turtle's locomotory structures are built for swimming. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a camel in dry land and an aquatic turtle swimming, each labelled with the body structures that fit it to its habitat]
+In your mind's eye: a camel in dry land and an aquatic turtle swimming, each labelled with the body structures that fit it to its habitat.
 
 ## The key facts
 **5.3 Structural adaptations of animals.** Moldova's Grade 6 book (5.3 Structural adaptations of animals) teaches: body structures for different habitats, camel water reserve, locomotory-structure adaptations (aquatic turtle). (printed p. 76).

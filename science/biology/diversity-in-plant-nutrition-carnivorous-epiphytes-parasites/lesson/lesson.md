@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Diversity in plant
 ## The idea
 Malaysia's Form 5 book sets a whole subtopic on the diversity of plant nutrition (printed p. 68): beside the ordinary green plant stand three other ways of living — catching animals, perching on other plants, and stealing from a host.
 
-[Picture — three plants side by side: a pitcher plant trapping an insect, an orchid growing on a tree branch, and a parasitic plant with roots entering its host's stem]
+In your mind's eye: three plants side by side. A pitcher plant trapping an insect, an orchid growing on a tree branch, and a parasitic plant with roots entering its host's stem.
 
 ## The key facts
 **Carnivorous plants.** Pitcher plants and their kin grow where the soil is poor in minerals. They still photosynthesise, but they trap and digest insects to gain the nitrogen and minerals the soil lacks.

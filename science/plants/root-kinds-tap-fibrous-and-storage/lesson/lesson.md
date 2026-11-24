@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 4 Topics 3–4 sort plant roots into two great kinds. A tap root grows one main root downward with smaller roots branching from it; fibrous roots are many thin roots of about the same size, with no single main root. The kind goes with the plant's other parts: most monocots have narrow parallel-veined leaves and fibrous roots, and most dicots have wide net-veined leaves and tap roots.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Roots hold, support — and store
 

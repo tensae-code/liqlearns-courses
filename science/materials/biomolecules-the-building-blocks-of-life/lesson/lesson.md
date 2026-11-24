@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — biomolecules — the bu
 
 The chemical bases of life: building blocks → metabolic intermediates → macromolecules; testing foods for their components; vitamins as biomolecules the doctor prescribes for weakness.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The biomolecules survey
 

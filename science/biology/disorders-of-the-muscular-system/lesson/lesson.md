@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Disorders of the m
 ## The idea
 The muscular system has its own named disorders — strains and cramps from overuse and diseases that waste or weaken the muscle fibres themselves — taught in Greece's Grade 10 book as their own section, with care and prevention. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a runner holding a cramped calf muscle, beside a small panel of a weakened arm muscle, each with its plain label]
+In your mind's eye: a runner holding a cramped calf muscle, beside a small panel of a weakened arm muscle, each with its plain label.
 
 ## The key facts
 **Ch. 8.** disorders of the muscular system (named section)

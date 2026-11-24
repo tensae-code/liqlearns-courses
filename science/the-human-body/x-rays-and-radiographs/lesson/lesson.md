@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — x-rays and radiographs.
 
 X-rays as a form of energy used to detect bone fractures with a radiograph; community survey of fractures and X-rays.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

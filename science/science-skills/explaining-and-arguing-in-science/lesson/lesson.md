@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Part 1 of Cambodia's teacher-training manual builds the skills of science in order: reading and writing in science (Ch. 1), then **scientific explanation** (Ch. 2), then the scientific method (Ch. 3). Explanation is the middle skill: the learner says not only *what* happened but *how and why* — and the manual trains it with **agree/disagree circles** and **discussion formats** that make every learner take a position and give its reasons.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Arguing — odd-one-out and thought experiments
 

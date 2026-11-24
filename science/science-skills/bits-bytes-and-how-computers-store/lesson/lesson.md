@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 One binary digit is a bit, four bits a nibble, eight bits a byte, and 1024 bytes make a kilobyte, then megabyte, gigabyte, terabyte and petabyte; learners compare the storage of their own and their parents' phones.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — One binary digit is a bit
 

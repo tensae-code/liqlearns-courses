@@ -9,9 +9,9 @@ A **colloid** is a mixture in which tiny particles of one substance are spread e
 
 That puts a colloid between the two mixtures learners already know: in a **true solution** the dissolved substance disappears into single particles too small ever to be seen, while in a **suspension** the particles are big enough to be seen and to sink. A colloid's particles sit in between — spread through the whole mixture, held there, clouding it without settling. Milk is the everyday example this lesson starts from.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The Tyndall effect — light scattered by a colloid
 

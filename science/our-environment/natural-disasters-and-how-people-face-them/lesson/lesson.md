@@ -7,9 +7,9 @@ What happens to a town when a disaster strikes — and why is that the whole wor
 
 Sudan's Grade 12 book teaches **disasters (الـكـوارث) as a world problem**: a disaster strikes one place, but it belongs in the chapter of problems the whole world shares — beside pollution, the draining of resources and the care of forests and water. No country faces its disasters as a matter for itself alone.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — How people face them
 

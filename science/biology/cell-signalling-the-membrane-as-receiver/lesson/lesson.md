@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cell signalling �
 ## The idea
 The plasma membrane is also a receiver: it carries receptor proteins that catch message molecules from outside the cell and pass the signal inward, so the cell answers hormones and other signals without the messenger entering. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a cell surface with a receptor catching a round message molecule, and a chain of small arrows lighting up inside the cell in answer]
+In your mind's eye: a cell surface with a receptor catching a round message molecule, and a chain of small arrows lighting up inside the cell in answer.
 
 ## The key facts
 **§2.2.** the plasma membrane as a receiver of messages

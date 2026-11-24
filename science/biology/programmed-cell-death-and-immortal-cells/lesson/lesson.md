@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Programmed cell de
 ## The idea
 Cell division gets the chapters; cell death usually gets nothing. Italy's Grade 9 Campbell, *Biologia: concetti e collegamenti PLUS, Primo biennio*, closes its mitosis-and-meiosis unit (Unità 4) with a “Training for the future” section (printed p. 120; PDF p. 128) on exactly that: mortal and immortal cells, and programmed cell death — apoptosis. No lesson in this course taught apoptosis on its own before, so this lesson is built for it.
 
-[Picture — two cell lines side by side — one line ending as a cell takes itself apart piece by piece, labelled “programmed cell death (apoptosis)”; the other line dividing on and on without end, labelled “immortal cells”]
+In your mind's eye: two cell lines side by side — one line ending as a cell takes itself apart piece by piece, labelled “programmed cell death (apoptosis)”; the other line dividing on and on without end, labelled “immortal cells”.
 
 ## The key facts
 **Cells are mortal.** The cells of a body do not live for ever: they have a lifespan, they age, and they die. Mortality is the normal condition of a cell, part of the same life story as division.

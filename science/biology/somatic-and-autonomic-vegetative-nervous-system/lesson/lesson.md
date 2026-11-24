@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Somatic and autono
 ## The idea
 the somatic nervous system against the autonomic, whose sympathetic and parasympathetic divisions run two-neuron chains to their effectors (same proposed slug as in the Moldova filings)
 
-[Picture — a diagram of two pathways from the spinal cord: a single somatic neuron reaching a skeletal muscle, and an autonomic two-neuron chain reaching a gland, with the sympathetic and parasympathetic divisions drawn as two branches]
+In your mind's eye: a diagram of two pathways from the spinal cord. A single somatic neuron reaching a skeletal muscle, and an autonomic two-neuron chain reaching a gland, with the sympathetic and parasympathetic divisions drawn as two branches.
 
 ## The key facts
 **Somatic against autonomic.** Kuwait's Grade 12 Term 1 student book (Lesson 4-1, printed pp. 46–49) sets the somatic nervous system against the autonomic (vegetative) nervous system.

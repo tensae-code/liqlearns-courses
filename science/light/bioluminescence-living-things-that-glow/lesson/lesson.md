@@ -9,9 +9,9 @@ Every light has a source. Lamps are sources people make; the sun, moon and stars
 
 So the families of light sources grow by one. There are the sources **people make** — lamp, bulb, candle, torch. There are nature's sources that are **not alive** — sun, moon and stars. And there are nature's sources that **are alive** — the glowing living things of this enrichment. When you sort a light, ask two questions: who or what makes it — and is the maker alive?
 
-[Picture — a dark scene lit only by a glowing living thing — the student names the source of the light]
+In your mind's eye: a dark scene lit only by a glowing living thing. Name the source of the light.
 
-[GIF — the glow brightening and fading — the student says what changed]
+In your mind's eye: the glow brightening and fading. Say what changed.
 
 ## The key ideas
 

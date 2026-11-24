@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cloning — debate
 ## The idea
 Bulgaria's Grade 9 book closes its biotechnology section with cloning (Topic 32, printed p. 116), and it teaches cloning as a debate/project topic: the class does not only learn what the technique does, it argues the cases for and against using it. It comes after recombinant DNA technologies (Topic 29), genetically modified organisms (Topic 30, also a debate topic) and microorganisms in human benefit (Topic 31).
 
-[Picture — one parent plant and three exactly alike young copies joined by dotted arrows, with a tick speech bubble and a question-mark speech bubble above]
+In your mind's eye: one parent plant and three exactly alike young copies joined by dotted arrows, with a tick speech bubble and a question-mark speech bubble above.
 
 ## The key facts
 **What cloning is.** Cloning produces living things that carry the same hereditary material as one parent — genetic copies, not new combinations. The copy is made from the parent's own cells or body material, so no second parent's genes are mixed in.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Blood clotting mec
 ## The idea
 Malaysia's Form 4 book gives blood clotting its own mechanism inside the transport chapter (Ch.10, printed p. 183) — between the heartbeat and the blood groups. Clotting is taught as a process with steps, not as a single fact: a cut vessel is sealed by a clot built where the damage is.
 
-[Picture — a cut blood vessel in cross-section: platelets gathering at the break, fibrin threads forming a net across it, and red blood cells trapped in the net]
+In your mind's eye: a cut blood vessel in cross-section. Platelets gathering at the break, fibrin threads forming a net across it, and red blood cells trapped in the net.
 
 ## The key facts
 **Why blood must clot.** An open vessel would bleed without limit and let microbes in. The clot is the seal: it forms at the wound, stops the loss, and covers the break while the vessel repairs.

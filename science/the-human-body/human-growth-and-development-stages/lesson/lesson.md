@@ -14,9 +14,9 @@ Every human life passes through the same stages, in the same order:
 
 The stages cannot be swapped or skipped. An infant becomes a young child, the young child becomes a teenager, and the teenager becomes an adult. Naming the stage tells you roughly how big the body is — and, as the next sub lesson shows, what that body can do.
 
-[Picture — four people in a row, an infant, a young child, a teenager and an adult, in that order — the student names each stage before reading on]
+In your mind's eye: four people in a row, an infant, a young child, a teenager and an adult, in that order. Name each stage before reading on.
 
-[GIF — the row of four figures growing one into the next, infant to adult — the student says what stays the same (it is one human life) and what changes]
+In your mind's eye: the row of four figures growing one into the next, infant to adult. Say what stays the same (it is one human life) and what changes.
 
 ## Sub lesson 2 — What changes, stage by stage
 

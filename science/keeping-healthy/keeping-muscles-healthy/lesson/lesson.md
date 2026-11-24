@@ -7,9 +7,9 @@ Before you read: you keep your teeth clean and your body washed — but how do y
 
 The unit closes its knowledge with care: **hygiene of muscles** — the keeping of the muscles in health as a taught habit, in the same place where these books teach the hygiene of every system they open.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Prevention of muscle accidents
 

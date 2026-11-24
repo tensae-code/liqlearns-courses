@@ -11,9 +11,9 @@ The sand does not fall in one lump. It **pours**: grain slides over grain, the s
 
 That flowing is the thing to watch: how fast it runs, how the heap grows, and when it stops.
 
-[Picture — a cup tipping dry sand in a thin stream onto a tray, the heap growing below — the student points to the stream and the heap]
+In your mind's eye: a cup tipping dry sand in a thin stream onto a tray, the heap growing below. The student points to the stream and the heap.
 
-[GIF — dry sand pouring from a cup, the stream running and the heap spreading — the student says how the grains move together]
+In your mind's eye: dry sand pouring from a cup, the stream running and the heap spreading. Say how the grains move together.
 
 ## Sub lesson 2 — What changes the flow
 

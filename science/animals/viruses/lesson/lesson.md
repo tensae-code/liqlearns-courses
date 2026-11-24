@@ -9,9 +9,9 @@ A **virus** is a tiny particle, far smaller than a bacterium — so small that t
 
 Kuwait's books meet viruses twice: Grade 5 asks what they are beside the five kingdoms, and Grade 7 returns to them beside the monerans. Both times the same puzzle is set: a virus is filed next to the living kingdoms, yet it is not itself alive in the way they are.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Why a virus is not a living thing
 

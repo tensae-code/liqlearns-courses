@@ -9,9 +9,9 @@ A material that lets electricity flow through it is a **conductor**. The metals 
 
 Kuwait's Grade 3 book teaches conduction by testing: the child builds a simple circuit with a gap, puts different materials across the gap, and watches whether the lamp lights. The lamp is the judge: light means the material conducts.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Insulators stop the current
 

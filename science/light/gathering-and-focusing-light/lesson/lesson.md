@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — gathering light — what happ
 
 Papua New Guinea's Grade 3 textbook asks what happens when light is **gathered**: light that was spread out is brought together into a smaller place. The gathered light does not stay the same — concentrating it changes what it can do.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What gathered light does
 

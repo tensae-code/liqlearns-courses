@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Factors that affec
 ## The idea
 Human health is shaped by three families of factors together — the environment a person lives in, their lifestyle and habits, and the heredity they are born with — the frame Greece's Grade 11 book opens its health unit with. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a person in the centre with three rings of influence around them labelled environment, lifestyle and heredity, each ring holding small examples]
+In your mind's eye: a person in the centre with three rings of influence around them labelled environment, lifestyle and heredity, each ring holding small examples.
 
 ## The key facts
 **§1.1.** factors that influence human health (environment, lifestyle, heredity framing)

@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — trajectory — the trail 
 
 15: trajectory defined as the trail a moving body leaves; straight and curved trails (jet trails, boat wake, tyre tracks), some trajectories invisible; drawing your home-to-school route; Almaty–Astana transport comparison map task
 
-[Picture — trajectory — the trail a moving body leaves as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: trajectory — the trail a moving body leaves as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — What a movement trajectory is
 
 The books teach this part as a trajectory can sometimes be seen (jet trail, boat wake) and sometimes not (car on a highway) — worked through in the books' own presentation, at the printed pages named in Sources.
 
-[Picture — what a movement trajectory is as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what a movement trajectory is as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — What a trajectory is
 
 the line a body describes as it moves, straight (rectilinear) or curved (curvilinear); the path travelled is the length of the trajectory; toy-car path measured on flat and sloped surfaces; the marsh harrier's flight trajectory looks like a kite frozen in the air
 
-[Picture — what a trajectory is as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: what a trajectory is as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

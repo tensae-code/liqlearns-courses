@@ -7,17 +7,17 @@ Fill a bottle right to the brim with water, close it tight, and leave it in a fr
 
 Most things shrink as they cool and harden. Water does the opposite at the freezing point: **when water freezes, it expands — the ice takes more room than the water it came from**. This is water's **dilatation**: the same water, needing more space. That is why the brim-full closed bottle from the Do It First can crack in the freezer: the freezing water pushes outward as it grows into ice.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What the expansion does
 
 Because the ice takes more room, it is **lighter for its size than liquid water — so ice floats**, and a lake freezes from the top down, leaving liquid water below where living things survive the cold. And the same push that cracks the bottle works outdoors: water that seeps into cracks in rock and then freezes **pushes the crack wider**, one freezing at a time.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

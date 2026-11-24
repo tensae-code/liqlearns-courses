@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 science, technology and society: environment-friendly tools and the product life-cycle analysis — six stages (getting raw materials, manufacture, transport to shops and homes, use and reuse, recycling, and final disposal by burial or burning) by which a product's effect on the environment is judged; hand-made products pass the test easily, being of natural materials that decompose
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

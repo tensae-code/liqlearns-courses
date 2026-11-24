@@ -7,9 +7,9 @@ Think of a food your family keeps for many days without it spoiling. How is it k
 
 Food left as it is **spoils**: it changes, smells and tastes bad, and can make us ill. **Preserving food** — the conservation of foods (A conservação dos alimentos) — is the set of ways people hold that spoiling back, so food stays safe and good for longer than the day it was made or harvested. Angola teaches it first in Grade 2, inside the run of lessons about care with food.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Ways of preserving food
 

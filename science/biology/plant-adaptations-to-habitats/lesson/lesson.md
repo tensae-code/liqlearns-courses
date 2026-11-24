@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Plant adaptations 
 ## The idea
 Malaysia's Form 5 book surveys plant adaptations habitat by habitat (printed p. 134): the same problem — getting and keeping water, light and support — solved four different ways by four kinds of plant.
 
-[Picture — four habitats in one row: a cactus in desert sand, a water lily on a pond, a mangrove at a salty shore, and an orchid perched on a forest branch]
+In your mind's eye: four habitats in one row. A cactus in desert sand, a water lily on a pond, a mangrove at a salty shore, and an orchid perched on a forest branch.
 
 ## The key facts
 **Xerophytes — dry habitats.** Plants of dry places cut water loss and store water: thick cuticle, sunken or few stomata, leaves reduced to spines, fleshy water-storing stems, deep or widespread roots.

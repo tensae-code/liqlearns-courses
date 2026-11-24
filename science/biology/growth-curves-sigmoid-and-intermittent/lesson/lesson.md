@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Growth curves — 
 ## The idea
 Growth is not just getting bigger; it can be measured and graphed. Nigeria's Senior Secondary Biology 1, in Chapter 4, plots growth against time. Most organisms give a smooth S-shaped — sigmoid — curve. Insects give something different: a stepped curve, flat then suddenly rising, because the hard outer skeleton cannot stretch and the insect can only grow at each moult. The lesson also finds where growth is fastest in root and stem, by marking experiments, and lists the environmental factors growth needs.
 
-[Picture — two growth graphs side by side: a smooth S-shaped sigmoid curve, and a stepped staircase curve labelled with moults]
+In your mind's eye: two growth graphs side by side. A smooth S-shaped sigmoid curve, and a stepped staircase curve labelled with moults.
 
 ## The key facts
 **Growth drawn as a curve.** Measure size against time and growth becomes a curve. The common shape is the sigmoid — an S-curve: slow at first, fast in the middle, levelling off at full size.

@@ -7,9 +7,9 @@ A reef feeds a village, guards its beach and shelters its fish. The world report
 
 Oceans, lagoons and coral reefs stand under the Samoan way of life: fish and shellfish for food, sheltered lagoon water for travel and fishing, and the reef itself breaking the ocean's force before it reaches the shore. The lesson's writing task is the learner's own: the importance of the oceans, lagoons and reefs to the Samoan way of life, argued from what the learner knows (printed pp. 93–94, 98).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why the reefs are being lost
 

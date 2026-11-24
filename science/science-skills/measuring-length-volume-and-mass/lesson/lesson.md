@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 "How is matter measured?": length with the ruler and the metre tape (the metre is 100 centimetres); the volume of liquids with graduated vessels in litres (the litre is 1000 millilitres); and the volume of a solid by the displacement method — the rise in the water level in a graduated cup
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

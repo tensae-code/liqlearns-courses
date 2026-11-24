@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Polygenic inherita
 ## The idea
 Mendel's pea traits are each controlled by a single gene, and they come in neat kinds — tall or short, round or wrinkled. But many traits are not like that. Height in a crowd of people does not split into "tall" and "short" with nothing between; it grades through every step in between. Traits like that are controlled not by one gene but by **many genes acting together** — polygenes — and their inheritance is called **polygenic inheritance**, or multiple-gene inheritance. Sudan's Grade 12 book teaches polygenes as a named part of genetics: §5 of its genetics unit (Unit Two), printed p. 170.
 
-[Picture — a row of plants of the same kind standing at many different heights, from shortest to tallest in small steps]
+In your mind's eye: a row of plants of the same kind standing at many different heights, from shortest to tallest in small steps.
 
 ## The key facts
 **Many genes, one trait.** In polygenic inheritance, a single trait is controlled by several genes together. Each gene contributes a small part of the result, and the trait the organism shows is the sum of all those contributions.

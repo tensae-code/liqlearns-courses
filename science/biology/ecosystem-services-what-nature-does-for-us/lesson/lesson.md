@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Ecosystem services
 ## The idea
 Nature does work for people, for free — and that work has a name: ecosystem services. Finland's field pack groups them in three: provisioning services (food, timber), regulating and supporting services (pollination, water purification, nutrient cycling, carbon binding), and cultural services (recreation). The more diverse nature is, the better it adapts to climate change, disease and pests — so the services hold.
 
-[Picture — a Finnish landscape divided into three labelled scenes — a forest giving timber and food, bees pollinating a meadow while a stream is purified, and a family walking a nature trail — the three groups of ecosystem services]
+In your mind's eye: a Finnish landscape divided into three labelled scenes — a forest giving timber and food, bees pollinating a meadow while a stream is purified, and a family walking a nature trail. The three groups of ecosystem services.
 
 ## The key facts
 **Services, in three groups.** An ecosystem service is work nature does that people depend on. Finland's field pack teaches them in three groups, and the grouping is the lesson's frame.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Reptiles — the a
 ## The idea
 Mozambique's animal module works the tetrapod classes in turn, and the reptiles are the turning point: the first vertebrates fully at home on land. The module names what makes it possible — waterproof keratin-scale skin, internal fertilisation, direct development — and then teaches the key invention in detail: the amniotic egg and its four embryonic annexes, each with its own function. Their ectothermy, which ties them to warm regions, is taught beside it.
 
-[Picture — a reptile egg cut open with the small curled embryo in the middle, wrapped in its fluid sac, and the four membranes labelled around it — chorion outside, amnion around the embryo, allantois and the yolk sac beside it]
+In your mind's eye: a reptile egg cut open with the small curled embryo in the middle, wrapped in its fluid sac, and the four membranes labelled around it — chorion outside, amnion around the embryo, allantois and the yolk sac beside it.
 
 ## The key facts
 **Built for dry land.** The reptile skin is thick and waterproof, covered in keratin scales — it holds the body's water in. Reptiles are ectotherms: their body temperature follows the surroundings, which ties them to warm regions.

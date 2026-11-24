@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — cleaning tools and what each 
 
 South Sudan's Primary 2 book names the cleaning items themselves: **toothbrush and toothpaste, soap, towel, comb and handkerchief** — and which of them are **personal items never to be shared**. Each item has its own job on the body, and the lesson is learning which item does which job.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Tools for cleaning our surroundings
 

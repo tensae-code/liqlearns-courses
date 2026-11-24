@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — emotions and emotional in
 
 self-esteem is built from the trust, affection and care a child receives, and school bullying (acoso escolar) is named as an attack on it that the community must stop.
 
-[Picture — self-esteem is built from the trust, affection and care as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: self-esteem is built from the trust, affection and care as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Emotions are short physiological reactions to stimuli, while feelings
 
 emotions are short physiological reactions to stimuli, while feelings are their longer-lasting interpretation that shapes our mood — the book separates the two before teaching either.
 
-[Picture — emotions are short physiological reactions to stimuli, while feelings as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: emotions are short physiological reactions to stimuli, while feelings as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — When an emotion fires, the brain releases hormones into
 
 when an emotion fires, the brain releases hormones into the blood (oxytocin, dopamine, noradrenaline, adrenaline) that prepare the body's reaction; the face alone has 42 muscles that display emotions as non-verbal communication.
 
-[Picture — when an emotion fires, the brain releases hormones into as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: when an emotion fires, the brain releases hormones into as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

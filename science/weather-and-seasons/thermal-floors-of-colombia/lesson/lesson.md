@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — thermal floors of colom
 
 Colombia's thermal floors by altitude: cálido 0–1,000 m (>24 °C, 83% of land), templado 1,000–2,000 m (17 °C), frío 2,000–3,000 m, páramo 3,000–4,700 m (<12 °C), perpetual snows above 4,700 m (<1 °C).
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

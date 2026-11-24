@@ -7,9 +7,9 @@ A wet, boggy field looks empty and useless to a builder who wants dry land. Drai
 
 **Draining wetlands** badly shrank wader habitat in Iceland: the **water rail is nearly extinct** in Iceland and the **red-necked phalarope rare** — the cost of draining, counted in the birds that lost their wet ground. A wetland drained is a home removed.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Restoring — and peat bogs binding carbon
 

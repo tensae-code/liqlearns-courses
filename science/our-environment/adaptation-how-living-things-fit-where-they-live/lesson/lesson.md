@@ -9,9 +9,9 @@ Djibouti's Grade 4 guide opens its adaptation run with a question of place: **wh
 
 Because a living thing **fits** its environment. The animal of the water is built and behaves for the water; the animal of the dry land for the dry land. Put each in the other's place and the fit fails. That fit — between a living thing and the conditions of the place it lives — is what the whole run of lessons is about, and its name is **adaptation**.
 
-[Picture — two environments side by side, water and dry land, each with its own animals — the student says why each animal is in its own place and not the other]
+In your mind's eye: two environments side by side, water and dry land, each with its own animals. Say why each animal is in its own place and not the other.
 
-[GIF — one animal in its own environment, then the same animal pictured in the wrong environment — the student says what fails]
+In your mind's eye: one animal in its own environment, then the same animal pictured in the wrong environment. Say what fails.
 
 ## Sub lesson 2 — How animals adapt when conditions change
 

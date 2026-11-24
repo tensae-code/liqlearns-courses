@@ -7,13 +7,13 @@ Before you read: on some mornings the air looks clear and on others it hangs gre
 
 Iran's Grade 11 book puts the air quality index at the centre of its air lesson: human breathing and life are affected by air quality, so quality is graded and published as an index — a single scale that gathers the air's pollutants into a grade everyone can read, the way a thermometer gathers warmth into a number. A high index is a warning: the air itself has become a health matter for the whole city.
 
-[Picture — reading the air's grade as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: reading the air's grade as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Pollution you cannot see
 
 The same lesson reaches a pollution with no smoke and no smell: devices create stronger electromagnetic fields around themselves, and the book names the result electromagnetic pollution. The lesson of the index widens: what harms the air is not only what can be seen — some of it must be measured to be known at all.
 
-[Picture — pollution you cannot see as Iran's book shows it — the student names the part that carries the sub lesson's point]
+In your mind's eye: pollution you cannot see as Iran's book shows it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

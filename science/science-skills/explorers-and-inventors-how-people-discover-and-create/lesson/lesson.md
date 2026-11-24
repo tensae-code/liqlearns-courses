@@ -9,9 +9,9 @@ An **explorer** is a person who goes out to find what is not yet known. Explorer
 
 The lesson follows the named explorers: people whose expeditions added whole places and whole facts to what the world knows. Exploring is discovering — what the explorer finds was already there; the expedition makes it known.
 
-[Picture — the lesson's central set-up for sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
-[GIF — the lesson's central change for sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
 
 ## Sub lesson 2 — Inventors and scientists — and modern technologies
 

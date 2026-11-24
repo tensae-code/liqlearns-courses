@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Blood pressure: the push of blood on vessel walls; systolic pressure when the heart contracts (the book's adult range up to 120 mmHg as printed) and diastolic when it rests (about 80 mmHg), measured with a sphygmomanometer; the causes of high blood pressure — smoking, obesity, no exercise, too much salt, alcohol, age over forty, adrenal and thyroid disorders, heredity and stress — and escaping it: less fatty food, no smoking or alcohol, a balanced diet, plenty of exercise and regular checks.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Measuring blood pressure as a full protocol
 

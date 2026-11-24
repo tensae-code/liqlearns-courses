@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 This lesson stands on the one before it in Cambodia's Grade 7 book: **seasons and climate in Cambodia**, taught from Cambodia's own weather (Earth Ch. 2, Lesson 3). The book does not borrow another country's seasons — it reads the pattern of the year from the weather its own pupils live in, and only then asks what that pattern does.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What the climate does to people's activities
 

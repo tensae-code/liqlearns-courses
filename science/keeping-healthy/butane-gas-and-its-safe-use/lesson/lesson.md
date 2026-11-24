@@ -9,9 +9,9 @@ Mauritania's Grade 5 *Sciences Naturelles* book defines **butane** by its two ha
 
 Those two facts are the safety facts too: a gas you cannot see must be handled by knowledge, not by sight, and a gas stored as liquid under pressure lives in its bottle until its valve lets it out as gas.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Butane at work — and gas preferred over charcoal
 

@@ -11,9 +11,9 @@ Each polyp reaches out with **tentacles** into the water around it. Microscopic 
 
 Hold that picture: a tiny animal, fixed in its place, arms out, catching its dinner from the water that flows past.
 
-[Picture — one coral polyp close up, tentacles out, with microscopic floating animals drifting past — the student names the polyp and its tentacles before reading on]
+In your mind's eye: one coral polyp close up, tentacles out, with microscopic floating animals drifting past. Name the polyp and its tentacles before reading on.
 
-[GIF — a polyp's tentacles waving and closing on a drifting speck of food — the student says what the polyp caught and how]
+In your mind's eye: a polyp's tentacles waving and closing on a drifting speck of food. Say what the polyp caught and how.
 
 ## Sub lesson 2 — From polyps to reefs — and the kinds of reef
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Muscle fatigue and
 ## The idea
 A hard-working muscle tires: when it works beyond its oxygen supply it builds up lactic acid and its force falls — fatigue — and rest lets it recover, as hand-clenching and endurance tests show. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a hand squeezing a ball again and again above a falling force graph, with a muscle cross-section showing lactic acid building up and a rest symbol at the end]
+In your mind's eye: a hand squeezing a ball again and again above a falling force graph, with a muscle cross-section showing lactic acid building up and a rest symbol at the end.
 
 ## The key facts
 **§17 Muscle fatigue processes under anaerobic and aerobic load.** §17 Muscle fatigue processes under anaerobic and aerobic load

@@ -9,9 +9,9 @@ Iraq's Grade 2 book closes its water-environment unit with a job: the **marine b
 
 Tiny living things are easy to pass by, yet the sea's life hangs on them. Studying them is a real job, done by a named kind of scientist — that is the book's point in placing the job inside the science book.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

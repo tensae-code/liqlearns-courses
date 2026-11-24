@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — sources of water — wh
 
 Zimbabwe's ECD A guide and its Grade 3 guide both teach **sources of water** as a named topic: the water people and animals use comes from somewhere, and the sources can be named and visited.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — The sources around us
 

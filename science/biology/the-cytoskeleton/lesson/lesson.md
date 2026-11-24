@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The cytoskeleton. 
 ## The idea
 The cytoskeleton is the cell's inner scaffolding of protein fibres — microtubules, microfilaments and intermediate filaments — holding its shape, moving its organelles and pulling its chromosomes apart in division. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a cell drawn with three kinds of inner ropes in different colours — thick tubes, thin threads and tough cables — one tube shown pulling a chromosome]
+In your mind's eye: a cell drawn with three kinds of inner ropes in different colours — thick tubes, thin threads and tough cables. One tube shown pulling a chromosome.
 
 ## The key facts
 **§2.3.** the cytoskeleton

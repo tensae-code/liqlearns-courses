@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — specific heat capacity — ho
 
 Inside its Heat and Temperature unit, Eritrea's Grade 8 book teaches **specific heat** (printed p. 125) as its own topic, after heat's sources, heat's transfer and temperature itself. Its starting observation is one any kitchen shows: give the same heat to the same mass of different materials and they do **not** warm by the same amount. A metal pan is too hot to touch minutes before the water in it is even warm — the two took the same fire very differently. Materials differ in how much heat a temperature rise costs them.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Specific heat — the heat one kilogram needs for one degree
 

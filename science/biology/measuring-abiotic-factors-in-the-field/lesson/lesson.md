@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Measuring abiotic 
 ## The idea
 Ecology becomes science when the habitat's conditions are measured. Nigeria's Senior Secondary Biology 1 teaches each abiotic factor with the instrument that measures it: temperature; relative humidity with a wet-and-dry-bulb hygrometer; wind direction and speed with vane and anemometer; light intensity with a light meter; elevation with an aneroid barometer. Then it works them on Nigerian figures — the Jos mean monthly temperature table from the Federal Meteorological Service, Lagos, Nigerian day length (shortest in December, longest in July), and the short-day flowering of dry-season okro.
 
-[Picture — a field kit laid out and labelled: thermometer, wet-and-dry-bulb hygrometer, wind vane, anemometer, light meter and aneroid barometer]
+In your mind's eye: a field kit laid out and labelled. Thermometer, wet-and-dry-bulb hygrometer, wind vane, anemometer, light meter and aneroid barometer.
 
 ## The key facts
 **Every factor has its instrument.** Abiotic factors are measured, not guessed: each one — temperature, humidity, wind, light, elevation — has an instrument built for it.

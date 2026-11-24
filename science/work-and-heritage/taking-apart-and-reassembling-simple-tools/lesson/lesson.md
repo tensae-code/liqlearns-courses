@@ -9,9 +9,9 @@ Mauritania's Grade 4 *Sciences Naturelles* book teaches **dismantling and reasse
 
 A tool dismantled in order is a tool understood: nothing inside it stays a mystery, and a fault can be found where it lives instead of guessed at from outside.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Putting it back together — until it works
 

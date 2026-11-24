@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Birds — structur
 ## The idea
 shared bird characteristics and bird evolution; beaks matched to diet (short thick for grain, long thin for nectar, hooked for meat); flight adaptations including a highly efficient digestive system and no teeth; the unique respiratory system — air sacs driving air through the lungs in one efficient path; nitrogen waste converted to uric acid; long bones strong yet light with struts and air cavities; the hummingbird sipping nectar and carrying pollen between flowers (same proposed slug as in the Moldova filings)
 
-[Picture — a bird in flight with its adaptations labelled: beak, air sacs and lungs with the one-way air path drawn, and a cut long bone showing struts and air cavities inside]
+In your mind's eye: a bird in flight with its adaptations labelled. Beak, air sacs and lungs with the one-way air path drawn, and a cut long bone showing struts and air cavities inside.
 
 ## The key facts
 **Shared bird characteristics.** Kuwait's Grade 10 Term 2 student book (Unit 3, Lesson 2-2, printed p. 93) teaches the birds through their shared characteristics and their evolution.

@@ -7,9 +7,9 @@ Before you read: warm your hands in your mind — by the sun, by a fire, by rubb
 
 The book asks the plain question: **where the heat we feel comes from** — the sources of heat around us, named from the learner's own world, so heat is never a mystery but a thing with sources that can be pointed to.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why heat matters
 

@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — science and technology 
 
 Zimbabwe's ECD B guide already teaches **science and technology careers**, and the Grade 1 and Grade 2 guides carry a careers unit of the same name: the jobs are named from the earliest levels, not saved for the end of school.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — Career opportunities
 

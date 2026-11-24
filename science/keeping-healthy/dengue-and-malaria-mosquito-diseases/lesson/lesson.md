@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Some diseases travel from person to person through the air or through dirty hands. **Dengue fever** and **malaria** travel a different road: a **mosquito** carries them. The mosquito bites a person who has the disease, takes the sickness in with the blood, and passes it on when it bites the next person. Cambodia's Grade 4 book puts the two diseases in one lesson because the carrier is the same — stop the mosquito's road, and both diseases are stopped.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Stopping them — breaking the mosquito's road
 

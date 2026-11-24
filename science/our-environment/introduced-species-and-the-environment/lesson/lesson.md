@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Fiji's Year 6 book sorts living things by where they belong. **Endemic** species are the country's own — they live in Fiji by nature. **Introduced** species are **non-native**: people brought them in from elsewhere. The sort comes first, because the story of every introduced species starts with a bringing-in.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Introduced species in Fiji
 

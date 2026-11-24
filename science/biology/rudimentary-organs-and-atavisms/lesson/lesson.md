@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Rudimentary organs
 ## The idea
 Some structures make sense only as inheritances. North Macedonia's Biology I gives rudimentary organs and atavisms their own lesson (Theme 4.6, printed p. 165) inside its evolution-evidence theme, after fossils, transitional forms and comparative anatomy and embryology. No lesson in this course named vestigial structures before, so this lesson is built for it.
 
-[Picture — a human outline marking the appendix, the coccyx (tail bone) and wisdom teeth, beside the same structures shown working in an ancestor — a long gut appendix, a real tail, a full strong jaw]
+In your mind's eye: a human outline marking the appendix, the coccyx (tail bone) and wisdom teeth, beside the same structures shown working in an ancestor — a long gut appendix, a real tail, a full strong jaw.
 
 ## The key facts
 **Rudimentary organs are reduced leftovers.** A rudimentary (vestigial) organ is a structure that is smaller and simpler than the working organ in related kinds, and no longer does its old job — it persists because it was inherited, not because it is needed.

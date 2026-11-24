@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Epidemic curves an
 ## The idea
 When a sickness spreads through a place, you can draw it: how many cases (antal fall, in Swedish) there are, plotted against time (tid). The drawing makes a curve — and the shape of that curve decides whether hospitals can cope. Sweden teaches the whole idea as one touchable graph on a raised-line sheet, so the point is read off the picture: platta ut kurvan — flatten the curve.
 
-[Picture — the flatten-the-curve graph: cases against time, two curves — with protective measures (med skyddsåtgärder) and without (utan skyddsåtgärder) — and the horizontal line of healthcare capacity (sjukvårdens kapacitet) across the graph]
+In your mind's eye: the flatten-the-curve graph: cases against time, two curves — with protective measures (med skyddsåtgärder) and without (utan skyddsåtgärder). And the horizontal line of healthcare capacity (sjukvårdens kapacitet) across the graph.
 
 ## The key facts
 **The axes.** The graph plots cases against time: the number of sick people up the side, the days and weeks along the bottom.

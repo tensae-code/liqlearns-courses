@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Soil pollution and
 ## The idea
 The soil can be poisoned as surely as air and water: Kenya's Form 3 book gives soil pollution its own treatment — acid rain, aerosols with heavy metals, petroleum spills, inorganic fertilisers and solid waste — and its control, from compost pits to legislation, with radioactive emissions handled beside it.
 
-[Picture — a field cross-section in two halves — on one side the poisons arriving: acid rain falling, factory aerosol drifting down with heavy-metal specks, a split oil drum leaking petroleum, fertiliser sacks and dumped solid waste — and on the other side the controls at work: a compost pit, recycling bins, a pipeline carrying petroleum safely, and a sign of the law over the field]
+In your mind's eye: a field cross-section in two halves — on one side the poisons arriving: acid rain falling, factory aerosol drifting down with heavy-metal specks, a split oil drum leaking petroleum, fertiliser sacks and dumped solid waste. And on the other side the controls at work: a compost pit, recycling bins, a pipeline carrying petroleum safely, and a sign of the law over the field.
 
 ## The key facts
 **The sources.** Soil is polluted by acid rain, aerosols carrying heavy metals, petroleum spills, inorganic fertilisers and solid waste.

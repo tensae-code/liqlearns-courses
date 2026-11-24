@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Mineral nutrition 
 ## The idea
 A green plant does not live on light, air and water alone: it must take in mineral elements, and only some elements are essential — leave one out and the plant shows it as a deficiency symptom. India's Class XI book gives mineral nutrition its own chapter: the essential elements, the deficiency symptoms that name a shortage, hydroponics — growing plants in a measured mineral solution with no soil, the experiment that proves which elements a plant cannot do without — and nitrogen fixation, the turning of air's nitrogen into a form plants can use.
 
-[Picture — two seedlings of the same plant side by side — one grown with the full mineral solution, one grown with one essential element left out and showing its deficiency symptoms]
+In your mind's eye: two seedlings of the same plant side by side — one grown with the full mineral solution, one grown with one essential element left out and showing its deficiency symptoms.
 
 ## The key facts
 **Essential elements.** Photosynthesis builds the plant's food, but building the plant itself takes mineral elements, taken in through the roots from the soil or the water around them. An element is essential when the plant cannot grow and complete its life without it — India's chapter separates these essential elements from everything else a plant may happen to absorb.

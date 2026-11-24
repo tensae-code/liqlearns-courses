@@ -7,9 +7,9 @@ Some infections pass between people in one particular way — through sexual con
 
 **Sexually transmitted infections** (infecções sexualmente transmissíveis) are infections that pass from person to person **through sexual contact**. Angola's Grade 6 book gives them their own lesson and begins with the **notion** — what they are as a group: many different infections, one road of passing. Because the road is shared, what guards against one largely guards against all — which is why they are taught together.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Symptoms, prevention and treatment
 

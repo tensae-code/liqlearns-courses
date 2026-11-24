@@ -9,9 +9,9 @@ Pick up three different stones: one glassy and dark, one lying in flat layers, o
 
 Cooling is the making to hold: wherever rock was once molten and is now solid, an igneous rock stands.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sedimentary rocks — built from settled layers
 

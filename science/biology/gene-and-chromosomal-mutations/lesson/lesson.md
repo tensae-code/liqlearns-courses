@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gene and chromosom
 ## The idea
 fruit-fly wing forms as the visible face of mutation; chromosomal mutations: Robertsonian translocation between chromosomes 14 and 21, inversion, and numerical mutations causing congenital and mental abnormalities; gene mutations: deletion and insertion shifting the frame, and the single base substitution in the haemoglobin gene
 
-[Picture — a chromosome pair with a segment inverted, beside a DNA strip where one base is substituted and another strip where a base is inserted and every codon after it shifted]
+In your mind's eye: a chromosome pair with a segment inverted, beside a DNA strip where one base is substituted and another strip where a base is inserted and every codon after it shifted.
 
 ## The key facts
 **Chromosomal mutations.** Kuwait's Grade 12 Term 2 student book (Section One, printed p. 43) teaches chromosomal mutations: Robertsonian translocation between chromosomes 14 and 21, inversion, and numerical mutations causing congenital and mental abnormalities — with fruit-fly wing forms as the visible face of mutation.

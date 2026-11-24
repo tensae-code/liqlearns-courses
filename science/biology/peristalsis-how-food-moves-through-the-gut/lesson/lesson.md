@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Peristalsis — ho
 ## The idea
 the wave-like muscular movement that pushes food through the digestive canal, modelled and explained
 
-[Picture — a tube drawn with a bolus of food inside it and the muscular wall pinched behind the bolus and relaxed ahead of it, arrows showing the wave travelling along the tube]
+In your mind's eye: a tube drawn with a bolus of food inside it and the muscular wall pinched behind the bolus and relaxed ahead of it, arrows showing the wave travelling along the tube.
 
 ## The key facts
 **The wave.** Kuwait's Grade 11 Term 2 applications workbook (Activity 5, printed p. 26) asks "How does peristalsis work?" — the wave-like muscular movement that pushes food through the digestive canal, modelled and explained.

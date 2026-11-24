@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — minerals and mining in 
 
 El Salvador's own mineral wealth: the fingerite of Izalco volcano (Sonsonate), a vanadium–copper mineral so rare it dissolves in rain; non-metallic mining today is quarrying limestone rocks for cement and lime; the register of historic metal mines (San Sebastián, Divisadero, El Dorado, Potosí...) with their gold and silver output, and a class debate on the country's mining law, weighing jobs and raw materials against deforestation, erosion and pollution.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

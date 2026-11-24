@@ -9,9 +9,9 @@ A plant stays in one place, but it is not cut off from its surroundings.
 
 A plant **perceives** — it registers what is happening around it. When the surroundings change, the change **shows in the plant**: in how it grows, in what it does, in its state. Reading the plant is reading a record of its surroundings.
 
-[Picture — the same plant drawn in two different surroundings, its state clearly different in each — the student points to what the plant is showing]
+In your mind's eye: the same plant drawn in two different surroundings, its state clearly different in each. The student points to what the plant is showing.
 
-[GIF — light and weather changing over one plant while the plant's state changes with them — the student says what changed around the plant and what the plant showed]
+In your mind's eye: light and weather changing over one plant while the plant's state changes with them. Say what changed around the plant and what the plant showed.
 
 ## Sub lesson 2 — Plants answer the cycles of time
 

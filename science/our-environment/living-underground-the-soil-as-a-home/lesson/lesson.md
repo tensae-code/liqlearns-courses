@@ -9,9 +9,9 @@ A **living environment** is the place where a living thing lives — its home in
 
 The **underground living environment** is the home below the surface: the soil itself. The living things of the underground live their lives in the earth, out of sight under the ground we walk on. Their home is not on the soil — it is in it.
 
-[Picture — the lesson's central set-up for sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
-[GIF — the lesson's central change for sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
 
 ## Sub lesson 2 — One environment among the others
 

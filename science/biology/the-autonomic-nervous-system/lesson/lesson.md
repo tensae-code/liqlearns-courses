@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The autonomic nerv
 ## The idea
 The autonomic nervous system runs the body's automatic life — heartbeat, digestion, pupil size, sweating — through two opposing branches, sympathetic speeding and preparing for action, parasympathetic slowing and restoring, without any conscious command. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a human outline with the heart, gut and eye connected by two coloured nerve paths, one labelled 'speed up — action' and one 'slow down — rest']
+In your mind's eye: a human outline with the heart, gut and eye connected by two coloured nerve paths, one labelled 'speed up — action' and one 'slow down. Rest'.
 
 ## The key facts
 **Ch. 9.** autonomic nervous system as a named section

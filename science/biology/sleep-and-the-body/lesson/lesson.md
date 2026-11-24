@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Sleep and the body
 ## The idea
 Sleep is something the body does in stages — and it can be measured. Finland's wellbeing work cards have pupils measure their own sleep with a wearable: total sleep, deep sleep, REM sleep and awakenings through the night — and then learn what the stages do, because sleep drives next-day coping and concentration.
 
-[Picture — a pupil's sleep-tracker chart for one night, showing total sleep, deep sleep, REM sleep and the moments of waking, with the stages drawn as bands across the night]
+In your mind's eye: a pupil's sleep-tracker chart for one night, showing total sleep, deep sleep, REM sleep and the moments of waking, with the stages drawn as bands across the night.
 
 ## The key facts
 **Sleep can be measured.** On Finland's sleep card (Card 4 of the wellbeing pack), pupils measure their own sleep with a wearable tracker. The numbers it gives are the lesson's facts: how long the sleep was in total, and how it was divided.

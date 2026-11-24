@@ -7,9 +7,9 @@ Push your open hand quickly through the air. Now imagine pushing it through wate
 
 Anything moving through air must push the air aside, and the air pushes back. That push-back is **air resistance**: a force against the motion, met by everything that moves through air.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Water resistance — the water pushes back harder
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Limiting factors a
 ## The idea
 Photosynthesis needs several things at once — light, carbon dioxide, warmth — and its rate is set by whichever of them is in shortest supply: that is Blackman's law of limiting factors, which says the rate is governed by the factor nearest its minimum, so raising any other factor does nothing until the limiting one is raised. No lesson in this course taught this on its own before, so this lesson is built for it — from Bhutan's Class 10 book, which teaches it as a named topic.
 
-[Picture — a graph of photosynthesis rate against light intensity rising then flattening, beside the same rising line flattening earlier at a lower level, labelled as carbon dioxide becoming the limiting factor]
+In your mind's eye: a graph of photosynthesis rate against light intensity rising then flattening, beside the same rising line flattening earlier at a lower level, labelled as carbon dioxide becoming the limiting factor.
 
 ## The key facts
 **Several needs at once.** Photosynthesis runs on light intensity, carbon dioxide concentration and temperature together. Give a plant more of one and the rate may rise — but only so far.

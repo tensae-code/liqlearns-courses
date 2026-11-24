@@ -7,9 +7,9 @@ The Earth is billions of years old — but nobody was there, and no clock ran. S
 
 The evidence is in the ground: **rock strata** — the layered beds of rock, younger lying on older — and the **fossils** held inside each layer (Grade 7, 7.2.6, printed p. 98). A layer's fossils are the remains of the living world of that layer's time, so the stack of layers is a stack of times, each with its own life.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The time scale — Earth's age and history
 

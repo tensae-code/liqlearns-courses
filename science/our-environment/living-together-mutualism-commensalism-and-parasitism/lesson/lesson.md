@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 symbiosis in its three kinds: mutualism, where both gain (the bird that picks insects off the zebra's skin); commensalism, where one gains and the other is unaffected (birds nesting in trees); parasitism, where one gains at the other's expense (skin insects feeding on the zebra)
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The Friendship of the Insect and the Tree
 

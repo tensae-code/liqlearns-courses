@@ -13,9 +13,9 @@ That something has a name: **energy**.
 
 Energy is not a thing you can hold in your hand like a stone. You **notice it by what it does**: where something shines, warms, sounds or moves, energy is at work. That noticing — before any lists of kinds, before any measuring — is the first step, and it is the whole of this lesson.
 
-[Picture — a child standing outside at morning, sun on one side, a lamp, a drum and a rolling ball around — the student points to each one and says what it does]
+In your mind's eye: a child standing outside at morning, sun on one side, a lamp, a drum and a rolling ball around. The student points to each one and says what it does.
 
-[GIF — a ball rolling, a lamp switching on, hands clapping — the student names what changed in each one]
+In your mind's eye: a ball rolling, a lamp switching on, hands clapping. Name what changed in each one.
 
 ## Sub lesson 2 — Energy in the materials around us
 

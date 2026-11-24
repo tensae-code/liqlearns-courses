@@ -11,9 +11,9 @@ A **rock** is a natural solid mass of the Earth. A rock may be made of just one 
 
 So the comparison runs like this. **The same:** both rocks and minerals are natural solids of the Earth — nobody manufactures them; they are found in and on the ground. **Different:** a mineral is one stuff throughout; a rock is a joined mass of one or more minerals. That one difference is the key to this whole lesson.
 
-[Picture — a single clear mineral crystal beside a speckled rock whose different grains can be seen — the student says which is which, and why, before reading on]
+In your mind's eye: a single clear mineral crystal beside a speckled rock whose different grains can be seen. Say which is which, and why, before reading on.
 
-[GIF — a rock splitting open to show the different mineral grains inside it — the student names what the split reveals]
+In your mind's eye: a rock splitting open to show the different mineral grains inside it. Name what the split reveals.
 
 ## Sub lesson 2 — Sorting rocks and minerals, and what they are used for
 

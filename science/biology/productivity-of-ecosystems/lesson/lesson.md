@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Productivity of ec
 ## The idea
 An ecosystem's productivity is the rate at which it builds living matter: primary production by its plants — gross, before their own respiration is subtracted, and net, after — and secondary production by the animals that eat them, the measure that decides how much life a place can support. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a meadow drawn as a ledger: sunlight entering as income, a slice spent on the plants' own breathing, and the remaining pile labelled net production feeding a rabbit]
+In your mind's eye: a meadow drawn as a ledger. Sunlight entering as income, a slice spent on the plants' own breathing, and the remaining pile labelled net production feeding a rabbit.
 
 ## The key facts
 **§2.2.3.** the concept of productivity (primary/secondary production)

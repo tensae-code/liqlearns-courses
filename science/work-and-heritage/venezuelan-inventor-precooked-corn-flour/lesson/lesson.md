@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — The Venezuelan inventor of 
 
 The complementary reading tells of **Luis Caballero Mejías**, the Venezuelan who **invented precooked corn flour** — flour already cooked before it is sold, so the daily work of preparing corn dough is transformed: add water, and the dough is ready. An invention measured at every breakfast table in the country.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The periodic table of foods
 

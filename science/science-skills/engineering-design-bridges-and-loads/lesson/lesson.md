@@ -7,9 +7,9 @@ A stream cuts your path and there is no way round. You have boards, string and s
 
 Egypt's Primary 4 book sets the problem as a project: **design a bridge to get to the other side**. The designer starts from the crossing itself — how wide the gap is, what the bridge must carry, and what materials are at hand — and sketches a bridge shape that answers those needs before anything is built. The design step is the science: a bridge is a structure built to carry loads across a gap, and every choice in the drawing — where supports stand, how the deck is held — is a choice about how the load will travel through the structure to the ground.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Test the bridge under load
 

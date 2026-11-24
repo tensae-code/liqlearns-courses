@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Kidney failure and
 ## The idea
 Afghanistan's Grade 9 Biology book closes its excretory chapter with kidney problems and the new ways of treating them. This lesson teaches that close on its own: what goes wrong in kidney failure, why it is deadly, and how dialysis and kidney transplant — the treatments of the modern era — answer it.
 
-[Picture — a picture of a haemodialysis machine at work, labelled — blood leaving the patient's arm, passing through the dialyser (artificial kidney) where wastes cross the membrane, and the cleaned blood returning]
+In your mind's eye: a haemodialysis machine at work, labelled — blood leaving the patient's arm, passing through the dialyser (artificial kidney) where wastes cross the membrane, and the cleaned blood returning.
 
-[GIF — blood flowing from a patient's arm into a dialyser — dark with wastes going in, clean coming out — while waste fluid drains away below — the student says which kidney job the machine is doing]
+In your mind's eye: blood flowing from a patient's arm into a dialyser — dark with wastes going in, clean coming out — while waste fluid drains away below. Say which kidney job the machine is doing.
 
 ## The key facts
 **What failure means.** Healthy kidneys clear urea, balance salts and shed excess water without pause. As they fail, those jobs go undone — wastes poison the blood, water swells the body and lungs, and salts drift out of balance until the heart itself is threatened.

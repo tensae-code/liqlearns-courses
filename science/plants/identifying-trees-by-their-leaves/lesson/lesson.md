@@ -7,9 +7,9 @@ Two trees stand side by side in a wood. No flowers, no fruit — only leaves. Co
 
 On a **forest trip**, trees are named where they stand — not from a picture in a book, but from the living tree in front of you. The part the guide trusts for the naming is the **leaf**: leaf by leaf, the species gives itself away.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The tree key — Ég greini tré
 

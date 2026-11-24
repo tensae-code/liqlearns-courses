@@ -7,9 +7,9 @@ Is a scientific theory just a guess? And is a law the same thing as a theory? Sa
 
 A **scientific theory** is a **tried explanation of a pattern noticed again and again in the natural world**. It is **not a mere guess**: it rests on the pattern, tested — and it stays **open to change** when new information comes, like every answer of science in this unit.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Scientific laws — set against theories
 

@@ -7,9 +7,9 @@ Before you read: think of the strongest wind you have felt, and of a gentle bree
 
 Rwanda's Primary 2 book teaches the **effects of wind** as their own topic: wind is moving air, and its effects are felt everywhere — the lesson begins by naming what wind does around the learner.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
 
 ## Sub lesson 2 — The dangers of wind
 

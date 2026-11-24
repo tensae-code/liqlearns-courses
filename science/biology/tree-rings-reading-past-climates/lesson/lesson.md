@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Tree rings — rea
 ## The idea
 Jordan's Grade 11 student book closes its plant-response lesson with an enrichment on tree rings. A tree adds a ring of wood as it grows, and the ring is not the same every year: the year's climate is written into the ring's width. Read the widths in order and you are reading the climate history of the place the tree stood in — the science called dendrochronology.
 
-[Picture — the cut face of a tree trunk showing its rings — some rings wide and pale, some squeezed thin and dark — with one wide ring labelled “warm, wet year” and one thin ring labelled “cold, dry year”]
+In your mind's eye: the cut face of a tree trunk showing its rings — some rings wide and pale, some squeezed thin and dark. With one wide ring labelled “warm, wet year” and one thin ring labelled “cold, dry year”.
 
 ## The key facts
 **Rings record local climate.** Trees record the climate of their own place: each ring's growth answers the conditions of its year in that place.

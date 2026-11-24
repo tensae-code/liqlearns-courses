@@ -7,9 +7,9 @@ One country can hold several different natural worlds inside its own borders, ea
 
 Ecuador's Grade 5 book **locates the country's natural regions**: each region is placed — where it lies in the country — so the regions together make a map of Ecuador's natural worlds. Locating comes first: a region's life can only be named once the region itself is placed.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The flora and fauna most representative of each region
 

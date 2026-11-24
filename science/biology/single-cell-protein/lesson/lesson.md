@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Single-cell protei
 ## The idea
 Single-cell protein (SCP) is protein harvested from single-celled microorganisms — algae, yeasts, other fungi and bacteria grown in bulk on cheap feedstocks — dried and used as a protein-rich food or feed: protein grown in a tank instead of a field. No lesson in this course taught this on its own before, so this lesson is built for it — from Pakistan (Punjab)'s Punjab Board books, which teach it as a named topic.
 
-[Picture — a large glass tank of green culture with bubbles rising, a harvest of dried green powder being scooped from a tray beside it, and a small heap of the powder labelled as protein food]
+In your mind's eye: a large glass tank of green culture with bubbles rising, a harvest of dried green powder being scooped from a tray beside it, and a small heap of the powder labelled as protein food.
 
 ## The key facts
 **Protein from one-celled growers.** The microorganisms used — algae such as Spirulina, yeasts, other fungi and bacteria — are single-celled, grow extremely fast, and their cells are rich in protein. Grown in bulk and harvested, they become a protein food in their own right.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Secondary growth �
 ## The idea
 lateral meristems, the vascular cambium ring between xylem and phloem, and the formation of wood
 
-[Picture — a woody stem cross-section with the vascular cambium ring picked out between the xylem inside and the phloem outside, and annual rings drawn in the wood]
+In your mind's eye: a woody stem cross-section with the vascular cambium ring picked out between the xylem inside and the phloem outside, and annual rings drawn in the wood.
 
 ## The key facts
 **Lateral meristems.** Kuwait's Grade 11 Term 1 student book (Lesson 1-4, printed pp. 55–58) teaches secondary growth through the lateral meristems.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Porifera — spong
 ## The idea
 Mozambique's animal-kingdom module takes the phyla one by one, and it starts with the simplest of all: the sponges, phylum Porifera. A sponge has no true tissues and cannot move from place to place. Its whole feeding life is a water current: water enters through inhalant pores in its wall, and the flagellated choanocyte cells inside beat their flagella to drive the water through, until it leaves by the osculum. This lesson teaches that body plan and how it feeds the animal.
 
-[Picture — a vase-shaped sponge with many small pores in its wall, arrows showing water entering through the pores and leaving through the large opening at the top, and the flagellated choanocyte cells lining the inside drawn as small collars with whips]
+In your mind's eye: a vase-shaped sponge with many small pores in its wall, arrows showing water entering through the pores and leaving through the large opening at the top, and the flagellated choanocyte cells lining the inside drawn as small collars with whips.
 
 ## The key facts
 **The simplest animals.** Sponges are the simplest animals in the module's survey: they have no true tissues, and the adult is sessile — fixed in one place, not moving about.

@@ -7,9 +7,9 @@ A material can be rebuilt at a scale far too small to see — and come out stron
 
 **Nanotechnology** works with materials at the nanometer scale — **nanomaterials**, built and used at sizes far below what eyes can see, where materials can behave in new ways. Egypt's Integrated Science names its applications plainly: nanomaterials in **energy efficiency** — doing the same work with less energy — and in **drug delivery** — carrying medicine where the body needs it. The topic stands inside the book's biosphere unit, after energy flow, respiration, excretion and the nerve impulse: a human technology judged inside the living system it enters.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Nanotechnology and biosphere sustainability — the environmental dimensions
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Hibernation, dorma
 ## The idea
 Animals meet the cold season two ways — active life, or hibernation and torpor, in which the animal burns the fat it laid down in the warm season until conditions return. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a lesser horseshoe bat shown twice: active in summer and hibernating in winter, with its fat store marked]
+In your mind's eye: a lesser horseshoe bat shown twice. Active in summer and hibernating in winter, with its fat store marked.
 
 ## The key facts
 **5.1 Active life and hibernation.** Moldova's Grade 7 book (5.1 Active life and hibernation) teaches: hibernation burning fat laid down in the warm season, torpor ("amorțire"), lesser horseshoe bat summer/winter. (printed p. 136).

@@ -9,9 +9,9 @@ Where the sea meets the land, wind piles the sand into **dunes** — low hills o
 
 The dune and its plants are the coast's first ecosystem: a living strip that stands between the open sea and the land behind it.
 
-[Picture — a coast cut from shore to sea in three bands — dunes with plants, a green seagrass meadow in the shallows, and a coral bank with a humpback whale offshore — the student names each band before reading on]
+In your mind's eye: a coast cut from shore to sea in three bands — dunes with plants, a green seagrass meadow in the shallows, and a coral bank with a humpback whale offshore. Name each band before reading on.
 
-[GIF — a humpback whale rising and blowing above a coral bank — the student says which ecosystem the whale has come to and what grows below it]
+In your mind's eye: a humpback whale rising and blowing above a coral bank. Say which ecosystem the whale has come to and what grows below it.
 
 ## Sub lesson 2 — Seagrass meadows — the ocean's prairies
 

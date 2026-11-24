@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Adaptations to the
 ## The idea
 Living things are not built at random: each carries features that fit the place it lives. North Macedonia's Grade 8 textbook gives adaptation a whole theme of its own (Theme 4, printed pp. 202–219): adaptations of organisms to their environment, adaptations to abiotic factors, adaptations for life in water, and adaptations across different environments. In this course the existing lessons carry adaptation inside other topics — animal adaptations, plant adaptations to habitats — but no lesson taught adaptation itself as the one thing, so this lesson is built for it.
 
-[Picture — three panels side by side: a fish with gills and fins in water, a desert plant with a thick skin and deep roots under a hot sun, and a thick-furred animal in snow — each labelled with the feature that fits it to its place]
+In your mind's eye: three panels side by side: a fish with gills and fins in water, a desert plant with a thick skin and deep roots under a hot sun, and a thick-furred animal in snow — each labelled with the feature that fits it to its place.
 
 ## The key facts
 **An adaptation fits an organism to its environment.** An adaptation is any feature — of build, of working, or of behaviour — that helps an organism survive and reproduce where it lives. The feature and the environment are a pair: judge an adaptation by the place it answers.

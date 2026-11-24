@@ -7,25 +7,25 @@ Before you read: think about this lesson's subject — the Huns — and nomad li
 
 The books teach this part as nomad life, dwellings and livestock, guide's background text — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books also carry this part as their own titled lesson — "The way of life of the Huns" — at the printed pages named in Sources; the learner works through those lessons' own text, examples and tasks.
 
-[Picture — the way of life of the Huns as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the way of life of the Huns as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Who the Huns were
 
 Kazakhstan's books teach this as their own lesson — "Who the Huns were". The learner works through the books' own presentation of who the Huns were — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — who the Huns were as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: who the Huns were as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — How the Huns lived
 
 Kazakhstan's books teach this as their own lesson — "How the Huns lived". The learner works through the books' own presentation of how the Huns lived — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — how the Huns lived as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how the Huns lived as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 4 — The Huns — our ancestors
 
 Kazakhstan's books teach this as their own lesson — "The Huns — our ancestors". The learner works through the books' own presentation of the Huns — our ancestors — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
-[Picture — the Huns — our ancestors as Kazakhstan's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: the Huns — our ancestors as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

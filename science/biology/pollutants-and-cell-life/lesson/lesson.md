@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Pollutants and cel
 ## The idea
 Pollutants act at the level of the cell: Greece's Grade 11 laboratory guide tests their effects on living cells directly — growth, division and survival change with what the cells are exposed to — which is how the damage pollution does to whole organisms begins. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — two microscope views of the same cells: one field green and dividing evenly, one field with shrunken and stopped cells under a grey haze]
+In your mind's eye: two microscope views of the same cells. One field green and dividing evenly, one field with shrunken and stopped cells under a grey haze.
 
 ## The key facts
 **Exercise 6.** effects of pollutants on the life of cells

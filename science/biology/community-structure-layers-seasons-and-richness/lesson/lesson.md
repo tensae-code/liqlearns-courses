@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Community structur
 ## The idea
 A community has a structure: its species are layered vertically, patterned horizontally and changed with the seasons, and its species richness — how many species it holds — is its measure. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — a forest cut from the side showing canopy, understorey and floor layers, the same view in two seasons, and a ground-plan patchwork of different plant patches]
+In your mind's eye: a forest cut from the side showing canopy, understorey and floor layers, the same view in two seasons, and a ground-plan patchwork of different plant patches.
 
 ## The key facts
 **Ch. 2 §1 The structure of a community.** vertical layering, horizontal patterning and seasonal change (Poyang Lake's wintering birds) as the three faces of community structure, with species richness as its measure.

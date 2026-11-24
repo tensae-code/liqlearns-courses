@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Gaseous exchange i
 ## The idea
 A plant is exchanging gases all the time, in two directions at once: Kenya's Form 2 book teaches plant gaseous exchange as the day/night balance of photosynthesis and respiration, proved with a bicarbonate-indicator investigation and by collecting the gas a water plant gives off.
 
-[Picture — a green plant in a bell jar drawn twice — by day with arrows of carbon dioxide going in and oxygen coming out under a bright sun, and by night with the arrows reversed under a moon — beside a test tube of bicarbonate indicator changing colour and an upturned funnel collecting bubbles from a pondweed]
+In your mind's eye: a green plant in a bell jar drawn twice — by day with arrows of carbon dioxide going in and oxygen coming out under a bright sun, and by night with the arrows reversed under a moon. Beside a test tube of bicarbonate indicator changing colour and an upturned funnel collecting bubbles from a pondweed.
 
 ## The key facts
 **Two processes, opposite exchanges.** A plant carries on photosynthesis and respiration, and the gases move in opposite directions in the two: photosynthesis takes in carbon(IV) oxide and gives out oxygen; respiration takes in oxygen and gives out carbon(IV) oxide.

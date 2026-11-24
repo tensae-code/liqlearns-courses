@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Effects of agricul
 ## The idea
 Agriculture feeds people, but it also acts on the ecosystem. Chapter 9 of Nigeria's Senior Secondary Biology 1 turns from classifying crops to what farming does: land clearing strips the cover that protected the soil; the farming systems then work the cleared land in their own ways; and bush burning — the widespread practice — sweeps through with its own effects on soil, organisms and air. The effects are taught crop by crop and practice by practice, not as a slogan.
 
-[Picture — a hillside in three panels: forest being cleared, farmland under cultivation, and a bush fire burning through dry grass, with the soil exposed in each]
+In your mind's eye: a hillside in three panels. Forest being cleared, farmland under cultivation, and a bush fire burning through dry grass, with the soil exposed in each.
 
 ## The key facts
 **Farming acts on the ecosystem.** Every agricultural activity — clearing, cultivating, burning — changes the ecosystem: its soil, its water and the community of organisms living there.

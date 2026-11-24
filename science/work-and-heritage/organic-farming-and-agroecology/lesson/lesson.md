@@ -7,13 +7,13 @@ Before you read: think about this lesson's subject — organic farming and agroe
 
 organic crops defined: food produced by natural methods without chemical substances, genetic manipulation or the agrochemicals that degenerate soils, letting the soil regenerate (guide evidence)
 
-[Picture — organic crops defined as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: organic crops defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Traditional agriculture (indigenous practices developed over generations, aimed at
 
 traditional agriculture (indigenous practices developed over generations, aimed at conserving the environment and using resources sustainably) and agroecology (ecological principles applied to food production, weighing productivity, stability, sustainability and equity) (guide evidence)
 
-[Picture — traditional agriculture (indigenous practices developed over generations, aimed at as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: traditional agriculture (indigenous practices developed over generations, aimed at as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

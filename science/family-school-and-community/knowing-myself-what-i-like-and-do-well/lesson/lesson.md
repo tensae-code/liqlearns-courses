@@ -11,9 +11,9 @@ Its first lesson is called **Ik ben uniek** — **I am unique**. Unique means on
 
 That is why the book puts this lesson **first**. The two opening lessons of the book are a social-skills pair — first knowing yourself, then learning to say no — and together they start the year with the **self before the body**: who you are comes before what your eyes and ears do, before food, before plants and animals. Every later lesson is learned by a person, so the book first asks the person to know themselves.
 
-[Picture — a class of children, each holding up a different drawing of themselves — the student points to two drawings and says how they differ]
+In your mind's eye: a class of children, each holding up a different drawing of themselves. The student points to two drawings and says how they differ.
 
-[GIF — one child after another standing and saying one true thing about themselves — the student says what changed from child to child]
+In your mind's eye: one child after another standing and saying one true thing about themselves. Say what changed from child to child.
 
 ## Sub lesson 2 — My likes, my dislikes, and what I am good at
 

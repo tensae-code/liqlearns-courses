@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — comparing plants — here and
 
 South Sudan's Primary 1 book compares the plants of the local area with plants from other parts of the world: the two sets are looked at side by side for their **similarities** — the parts and ways of growing they share, wherever they grow.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What is different — and weather is the reason
 

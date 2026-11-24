@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Elements of life i
 ## The idea
 A living body is built from chemical elements — macroelements taken in bulk and microelements in traces — each with its own role in the life of organisms, from the carbon and oxygen of every molecule to the iron in blood. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a human figure with a pie chart beside it of the body's main elements — oxygen, carbon, hydrogen, nitrogen — and a small row of trace elements below, iron among them labelled for blood]
+In your mind's eye: a human figure with a pie chart beside it of the body's main elements — oxygen, carbon, hydrogen, nitrogen. And a small row of trace elements below, iron among them labelled for blood.
 
 ## The key facts
 **4.2 Chemical elements in human body.** the body's element composition as its own lesson

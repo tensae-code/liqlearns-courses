@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 1 Topic 8 teaches the gas (Bunsen) burner as a set of safe steps: light the burner in the taught order, open the air hole, and make a flame about 5 cm high. The size and kind of flame are controlled, not left to chance — the air hole open or closed changes the flame, and the pupil sets the flame the task needs.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Heating safely with the flame
 

@@ -9,9 +9,9 @@ Every living body begins as one cell, and it grows because that cell **divides**
 
 Kuwait's Grade 9 book places cell division at the head of its reproduction unit: before the human reproductive system, the learner must hold the engine underneath it — division is how a fertilised cell becomes a body, and how the cells that begin reproduction are made.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Why division matters
 

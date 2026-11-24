@@ -9,9 +9,9 @@ Mauritania's Grade 4 *Sciences Naturelles* book teaches food keeping step by ste
 
 The date is part of the food's keeping. Preserving stretches food's life; it does not stretch it forever, and the printed date is where the maker states the limit.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Read before you eat
 

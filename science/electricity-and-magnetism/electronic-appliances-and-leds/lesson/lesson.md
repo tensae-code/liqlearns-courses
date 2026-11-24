@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The appliances around us that run on electricity increasingly work through **electronic components** — small parts that control the current rather than only carrying it. Sri Lanka's Grade 6 book meets them where the learner lives: among the **electronic appliances used in daily life**, named as part of the electricity chapter's close.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Electronic components — the LED
 

@@ -9,9 +9,9 @@ Before you read: A small squeeze at one end of a filled tube arrives whole at th
 
 The deeper you go in a fluid, the greater the pressure, because the fluid above weighs down on the fluid below. That one fact — pressure growing with depth — is the ground both named principles stand on.
 
-[Picture — a diver going deeper in a lake with pressure arrows growing longer with depth, beside a floating block pushing water aside — the student says which picture shows which idea before reading on]
+In your mind's eye: a diver going deeper in a lake with pressure arrows growing longer with depth, beside a floating block pushing water aside. Say which picture shows which idea before reading on.
 
-[GIF — a closed tube of water being squeezed at one end and a bulb at the far end swelling — the student says how the push travelled]
+In your mind's eye: a closed tube of water being squeezed at one end and a bulb at the far end swelling. Say how the push travelled.
 
 ## Sub lesson 2 — Pascal's and Archimedes' principles
 

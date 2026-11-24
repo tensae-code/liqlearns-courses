@@ -9,9 +9,9 @@ Laos’s Grade 2 book (Ch. 25, printed pp. 103–104) teaches the dangers of **f
 
 The Grade 3 book (Ch. 1, printed pp. 5–8) widens the picture to **floods and landslides and their impacts**: flood water spreading over the land, and earth sliding where slopes are soaked — two dangers that heavy rain brings together.
 
-[Picture — the lesson’s central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson’s central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Preventing floods and landslides where we live
 

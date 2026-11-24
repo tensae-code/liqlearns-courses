@@ -9,9 +9,9 @@ Laos’s Grade 3 book (Ch. 3, printed pp. 13–16) opens its fire teaching with 
 
 The book teaches this as a named skill of the chapter — a thing to know before it is ever needed, because burning clothes give no time to work out what to do.
 
-[Picture — the lesson’s central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson’s central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Escaping from a fire — and the safe place
 

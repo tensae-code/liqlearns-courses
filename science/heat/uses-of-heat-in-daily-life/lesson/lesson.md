@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — uses of heat in daily life �
 
 South Sudan's Primary 4 book teaches the **uses of heat** as its own topic: **drying, warming, cooking and ironing**. The guide's answers give drying its reason: grains are dried to remove moisture and stop them going bad — and name the sun as the main source behind the uses.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Heat at work — and a warning
 

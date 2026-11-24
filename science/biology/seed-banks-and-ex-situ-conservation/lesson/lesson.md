@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Seed banks and ex-
 ## The idea
 Seed banks conserve species outside the place they live — ex-situ conservation: seeds are dried and frozen so they keep for decades, as the Svalbard Global Seed Bank stores the world's crop seeds in Arctic cold, as insurance against their loss in the wild. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a vault door set into an icy mountain, shelves of labelled seed packets inside stretching back in rows, with a wheat field in summer drawn outside the door]
+In your mind's eye: a vault door set into an icy mountain, shelves of labelled seed packets inside stretching back in rows, with a wheat field in summer drawn outside the door.
 
 ## The key facts
 **Module 10: The Svalbard Global Seed Bank.** Module 10: The Svalbard Global Seed Bank

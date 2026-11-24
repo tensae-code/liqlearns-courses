@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — bioenergy — biomass, bi
 
 bioenergy defined: energy produced from organic matter (biomass — everything living beings are made of, their products and their wastes), used by direct combustion or by transformation into solid, liquid and gaseous biofuels.
 
-[Picture — bioenergy defined as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: bioenergy defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Solid biofuels
 
 solid biofuels: firewood (cut wood not used as timber — the main solid biofuel in Honduras), agro-industrial residues (stalks, leaves, seeds and fruit husks left after harvest) and wood chips, made into compacted pellets and briquettes that substitute for firewood.
 
-[Picture — solid biofuels as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: solid biofuels as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Biodiesel
 
 biodiesel: made from oil plants (sunflower, soy, African palm, peanut, mustard) and from used cooking oils and fats; it is degradable, low in toxicity and produces fewer polluting gases, and powers cars and electric generators.
 
-[Picture — biodiesel as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: biodiesel as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

@@ -7,9 +7,9 @@ Before you read: this lesson teaches one thing — natural hazards — what they
 
 Papua New Guinea's Standards Based Grade 10 guide opens its Natural Hazards topic with the definition and the sorting: **what natural hazards are**, their **types**, their **sources**, and their **causes and effects** — the hazard named and classified before anything is done about it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Measuring and monitoring hazards
 

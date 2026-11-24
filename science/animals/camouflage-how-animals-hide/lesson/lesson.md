@@ -9,9 +9,9 @@ Before you read: an insect is sitting on a leaf in front of you — and you cann
 
 Barbados's syllabus teaches the idea through **insects** (Class 3): insects whose colours and shapes match the leaves, stems and ground they rest on, so a looking eye passes over them.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why camouflage matters
 
@@ -19,9 +19,9 @@ Camouflage matters because being seen is dangerous. An insect that blends into i
 
 So camouflage is a survival feature, like the plant adaptations in the plants lesson: name the animal, name its resting place, and say how matching that place helps it live.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## The key ideas
 

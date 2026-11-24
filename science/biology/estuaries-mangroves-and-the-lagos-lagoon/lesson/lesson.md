@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Estuaries, mangrov
 ## The idea
 Chapter 13 of Nigeria's Senior Secondary Biology 1 studies the estuarine habitat at home: the open mouths of the Ogun, Osun and Osse rivers, the Niger delta, and the Lagos lagoon system. An estuary's defining hardship is change — salinity varies with tide and season. Life answers by zoning itself: on red-mangrove stilt roots in the Lagos lagoons, observers found Mercierella where salinity stays high, the oyster Gryphaea where it is lower, and the barnacle Balanus where it falls lowest. The red mangrove itself (Rhizophora racemosa) is adapted to stand in the shifting, salty water.
 
-[Picture — red mangroves on stilt roots at the edge of the Lagos lagoon, with the root zones labelled: Mercierella high-salinity, oyster Gryphaea lower, barnacle Balanus lowest]
+In your mind's eye: red mangroves on stilt roots at the edge of the Lagos lagoon, with the root zones labelled. Mercierella high-salinity, oyster Gryphaea lower, barnacle Balanus lowest.
 
 ## The key facts
 **Where river meets sea.** An estuary is the habitat where a river's fresh water meets and mixes with the sea — the Ogun, Osun and Osse mouths, the Niger delta and the Lagos lagoons are Nigeria's examples.

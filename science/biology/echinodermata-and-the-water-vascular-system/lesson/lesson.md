@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Echinodermata and 
 ## The idea
 Mozambique's animal module reaches the echinoderms as the last invertebrate phylum before the chordates. These are sea animals built on a plan of five. Under the skin sits an internal skeleton of calcareous plates with spines — the 'echino' (spiny) in their name. And they run a system no other animals have: the water-vascular system, water-filled canals that work their tube feet. The module's solutions name the phylum's five classes.
 
-[Picture — a starfish drawn from above with its five arms around a centre, its spiny plated skin shown in a cut corner, and the water canals drawn as a ring with branches running into each arm and down to rows of small tube feet]
+In your mind's eye: a starfish drawn from above with its five arms around a centre, its spiny plated skin shown in a cut corner, and the water canals drawn as a ring with branches running into each arm and down to rows of small tube feet.
 
 ## The key facts
 **A plan of five.** Echinoderms are marine animals with pentaradial symmetry — the body arranged in five parts around a centre.

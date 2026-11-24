@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Tropical rainfores
 ## The idea
 Chapter 14 of Nigeria's Senior Secondary Biology 1 studies the forest practically: you go in and look. The rain forest stands in storeys — layers of vegetation from forest floor to canopy. Its plants show their adaptations plainly: drip tips that shed the constant water, buttress roots flaring to hold tall trunks in thin soil, cauliflory (flowers and fruit on the trunk), climbers that climb other plants to reach the light, and shade plants fitted to the dim floor. Arboreal animals are adapted to life in the trees, and the study closes by building forest food chains from the species actually found.
 
-[Picture — a rain-forest cross-section in storeys: buttress-rooted emergents, canopy, climbers, and shade plants on the floor, one leaf enlarged to show its drip tip]
+In your mind's eye: a rain-forest cross-section in storeys. Buttress-rooted emergents, canopy, climbers, and shade plants on the floor, one leaf enlarged to show its drip tip.
 
 ## The key facts
 **Built in storeys.** The rain forest grows in layers — storeys of vegetation from the shaded floor to the high canopy, each storey its own light and living conditions.

@@ -9,9 +9,9 @@ After its chapters on the atom, elements and compounds, and chemical reactions, 
 
 The placing is the frame: alloys and plastics are **made materials** — not dug up or grown as they are met, but made, by the chemistry the chapters have just taught. An alloy is made by mixing; plastics are made materials of the modern world. The reading gathers them as one subject: the materials people make, standing at the end of the book's matter run.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

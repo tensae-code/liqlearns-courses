@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Animal adaptations
 ## The idea
 Chapter 6 of Iraq's Grade 10 Biology book is the book's longest chapter — printed pp. 77–120 — and it is organised entirely by adaptation. It opens with animal adaptation to the environment in form, structure and ways of life (§1-6, printed p. 77), then takes the two great homes in turn: adaptation to life in water, then adaptation to life on land (§§2-6/3-6, printed p. 88), and closes with a direct comparison (§4-6, printed p. 110) — a water animal, the bony fish, set against a land animal, the pigeon.
 
-[Picture — a bony fish and a pigeon side by side, each labelled with the fittings that suit it to its home — the fish to water, the pigeon to land]
+In your mind's eye: a bony fish and a pigeon side by side, each labelled with the fittings that suit it to its home — the fish to water, the pigeon to land.
 
 ## The key facts
 **Adaptation in three registers.** An animal's adaptation is read in its form (its outward shape), its structure (how it is built inside) and its ways of life (how it feeds, moves and lives) — Iraq's chapter treats all three together, not shape alone.

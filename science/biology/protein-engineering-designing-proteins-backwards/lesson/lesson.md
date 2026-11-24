@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Protein engineerin
 ## The idea
 Protein engineering runs the central dogma in reverse: from the function wanted, design the protein's structure, read off the amino-acid sequence, then build the gene — the second-generation genetic engineering that made fast-acting insulin analogues and heat-proofed T4 lysozyme. No lesson in this course taught this on its own before, so this lesson is built for it — from China's People's Education Press biology textbooks, which teach it as a named topic.
 
-[Picture — an arrow running backwards along the dogma — wanted job, folded protein shape, amino-acid chain, gene — each step drawn under its arrow]
+In your mind's eye: an arrow running backwards along the dogma — wanted job, folded protein shape, amino-acid chain, gene. Each step drawn under its arrow.
 
 ## The key facts
 **Ch. 3 §4 Protein engineering.** the second-generation genetic engineering that runs the central dogma in reverse (wanted function → designed structure → amino-acid sequence → the gene to build); two single-residue changes raising maize lysine fivefold in leaves and twofold in seed; fast-acting insulin analogues (B28 proline swapped) that cannot clump; humanised mouse antibodies; a hundred-plus engineered subtilisins for detergents; and a heat-proofed T4 lysozyme held together by one designed disulfide bond.

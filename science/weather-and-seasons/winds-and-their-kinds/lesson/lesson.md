@@ -7,17 +7,17 @@ Stand outside on a still day, then on a windy one. The air did not change its na
 
 **Wind** is air in motion: where air moves, there is wind, and where it rests, calm. The weather lessons before this one measured wind's direction and strength; this lesson first fixes what the thing itself is — moving air — before sorting it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Kinds of wind
 
 Winds are not all one thing: Armenia's book sorts them into **kinds** — winds told apart by the way they blow: their direction, their steadiness, and their strength. Naming the kind is the first step to reading the weather a wind brings, which the following paragraphs on humidity, precipitation and weather itself build on.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

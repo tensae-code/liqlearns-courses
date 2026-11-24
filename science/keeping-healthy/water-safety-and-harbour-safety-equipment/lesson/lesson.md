@@ -7,9 +7,9 @@ Picture a pier: boats below, water all around the edges, people walking where a 
 
 A **pier** or **dock** is where boats come in and people work and walk — right at the edge of the water. That edge is the danger: a slip or a fall there is a fall into the sea, so harbour places are fitted with safety equipment on purpose.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The safety equipment — know it before you need it
 

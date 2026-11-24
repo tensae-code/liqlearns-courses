@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Yemen's Grade 9 Science book tells it through a neighbour's daughter who falls ill with Mediterranean anaemia because both her parents — who did not look related in their daily life — carried the same hidden gene from shared ancestors. Cousin marriage can also fix good traits; either way, a medical check before marriage is the safeguard.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Hereditary diseases, one by one
 

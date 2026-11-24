@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Fruits — types a
 ## The idea
 A fruit is classified by what it is built from and how its seeds were attached: Kenya's Form 3 book works seed and fruit development (gibberellin-driven growth, parthenocarpy in pineapple and banana), the fruit kinds — berry, drupe, legume, capsule, schizocarp, caryopsis, cypsela, nut — false fruits, and the five placentation types, with a fruit-classification practical.
 
-[Picture — a market stall of opened fruits, each cut to show its making — a tomato berry, a mango drupe with its stone, a bean pod legume, a cotton capsule sprung open, a maize grain caryopsis and a macadamia nut — and beneath them a row of ovary cross-sections showing the five ways ovules are attached, the placentation types]
+In your mind's eye: a market stall of opened fruits, each cut to show its making — a tomato berry, a mango drupe with its stone, a bean pod legume, a cotton capsule sprung open, a maize grain caryopsis and a macadamia nut. And beneath them a row of ovary cross-sections showing the five ways ovules are attached, the placentation types.
 
 ## The key facts
 **How a fruit develops.** After fertilisation the ovary grows into the fruit under gibberellin; in parthenocarpy — pineapple and banana — fruit forms without fertilisation, so it is seedless.

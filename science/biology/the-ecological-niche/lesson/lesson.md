@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The ecological nic
 ## The idea
 A habitat is an address; a niche is a job and a life. North Macedonia's Biology I gives the ecological niche a named lesson of its own (Theme 5.11, printed p. 224), in its closing ecology theme after the population lesson. No lesson in this course taught the niche concept itself before, so this lesson is built for it.
 
-[Picture — one tree drawn three ways: a bird hunting insects in the top branches, a bird feeding on the trunk, and a mouse eating fallen seeds under the tree — one address, three niches, marked with labels]
+In your mind's eye: one tree drawn three ways: a bird hunting insects in the top branches, a bird feeding on the trunk, and a mouse eating fallen seeds under the tree — one address, three niches, marked with labels.
 
 ## The key facts
 **The niche is the whole way of life.** An ecological niche is not just the place an organism lives. It is the place plus everything the organism does and needs there: its food, its enemies, its times of activity, its part in the community's web.

@@ -7,9 +7,9 @@ A robot offers to do your homework. Which parts could it really do — and which
 
 Egypt's Primary 6 book introduces robots through a story-project: **children design a homework robot**. Designing it forces the first real questions — what jobs would the robot do, what would it need to sense, and what instructions would it follow? A **robot** is a machine built to carry out tasks; what it can do is bounded by what it was designed and instructed to do. The design step teaches that boundary from the inside: every ability in the drawing was put there by a designer, on purpose.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — What computers and AI can and cannot do — the debate
 

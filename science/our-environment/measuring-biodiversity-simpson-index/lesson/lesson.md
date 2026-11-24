@@ -7,9 +7,9 @@ Before you read: think about this lesson's title — Measuring biodiversity — 
 
 To compare the biodiversity of two places, counting kinds is not enough — a place of many kinds held by few individuals each differs from a place ruled by one kind. The book measures a locality's biodiversity with an **index** — the **Simpson index** — one number that reads the variety and its balance together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Reading the index — the worked example
 

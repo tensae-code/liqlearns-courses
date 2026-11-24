@@ -9,9 +9,9 @@ A **habitat** is the place where a living thing lives and finds what it needs. T
 
 Barbados's syllabus sets the reef inside its Ecology strand (Class 4): not a rock display, but a living place, studied the way land habitats are studied — who lives there, and what each needs.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why the Caribbean needs its reefs — and how people destroy them
 
@@ -19,9 +19,9 @@ The reef matters to the **Caribbean** beyond the sea: it is part of island life 
 
 That pairing is the lesson's shape: a habitat this rich can still be wrecked by the people who live beside it, and naming the destruction is the first step of caring for the reef — the same reduce-and-protect habit the waste lessons teach on land.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -11,9 +11,9 @@ The next principles give that one ocean its jobs. The **ocean shapes the Earth**
 
 Hold those four together: one water, shaping the planet, driving its weather, and making it fit for life. That is the ocean as a system, not a scenery.
 
-[Picture — the world ocean shown as one connected water around the continents — the student traces the connections with a finger before reading on]
+In your mind's eye: the world ocean shown as one connected water around the continents. The student traces the connections with a finger before reading on.
 
-[GIF — clouds forming over the ocean and moving inland as rain — the student says which principle the GIF shows]
+In your mind's eye: clouds forming over the ocean and moving inland as rain. Say which principle the GIF shows.
 
 ## Sub lesson 2 — The ocean's diversity, our connection, and the unexplored
 

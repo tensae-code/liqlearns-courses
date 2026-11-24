@@ -7,9 +7,9 @@ The oil that comes out of the ground cannot go straight into a car or a heater. 
 
 Oil from the ground is **crude oil** — raw, unprocessed, not yet usable as it comes. The book's feature follows **a barrel with a history**: one barrel of this crude, with a past in the ground, on its way to being changed. Crude is the starting material; nothing in the home burns crude as it comes.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Processing crude oil — the refinery at work
 

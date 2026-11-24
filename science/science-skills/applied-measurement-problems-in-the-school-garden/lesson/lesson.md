@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 1 Project 1, "Using what we have learnt", sends pupils back into the school agriculture project with the measuring skills of the unit: finding the volume of a watering can, weighing a fruit without picking it, and working out how much water seed beds need. The problems are real ones from the garden, and each one is solved by choosing the right measure — length, weight, volume or time — and the right instrument for it.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Solving them with what you have learnt
 

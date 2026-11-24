@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — risk-and-resource maps 
 
 The risk-and-resource map: a sketch of where the community's dangers and resources lie for facing disasters; threats make phenomena dangerous, vulnerability is being exposed to them; "disasters are never natural".
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## The key ideas
 

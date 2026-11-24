@@ -9,9 +9,9 @@ An **earthquake** — a **sismo** — is a sudden shaking of the ground: rock be
 
 Costa Rica's book places earthquakes among the **phenomena that alter the geosphere**: they are not only felt, they change the Earth's solid shell itself, and that is why they are studied with the Earth's layers, in the geosphere unit.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Classifying earthquakes
 

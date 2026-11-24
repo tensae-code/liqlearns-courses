@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Biological waste a
 ## The idea
 Malaysia's Form 4 biology book treats what leaves the laboratory as examinable biology. Chapter 1, beside the safety equipment, teaches biological waste management: what may and may not go down the sink, the methods for disposing of biological waste, and the steps for managing an accident when one happens in the lab.
 
-[Picture — a biology laboratory bench with labelled biological-waste containers beside the sink, a crossed-out arrow showing cultures must not be poured away, and the eye wash and emergency shower marked on the wall]
+In your mind's eye: a biology laboratory bench with labelled biological-waste containers beside the sink, a crossed-out arrow showing cultures must not be poured away, and the eye wash and emergency shower marked on the wall.
 
 ## The key facts
 **What may not go down the sink.** Not everything from an experiment may be poured away. The book names what may and may not go down the sink — living material, cultures and contaminated waste are not sink waste.

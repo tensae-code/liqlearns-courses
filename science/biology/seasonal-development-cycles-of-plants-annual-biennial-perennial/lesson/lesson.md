@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Seasonal developme
 ## The idea
 A plant's seasonal development cycle is fitted to its lifespan: annual plants complete their life in one year, biennials in two years, and perennials live and develop over many years — biorhythms timed to the seasons. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — three plants in a row across the seasons: an annual completing its life in one year, a biennial over two years, and a perennial returning year after year]
+In your mind's eye: three plants in a row across the seasons. An annual completing its life in one year, a biennial over two years, and a perennial returning year after year.
 
 ## The key facts
 **5.3 Seasonal aspects of plant development cycles.** Moldova's Grade 7 book (5.3 Seasonal aspects of plant development cycles) teaches: annual, biennial and perennial plants, biorhythms. (printed p. 142).

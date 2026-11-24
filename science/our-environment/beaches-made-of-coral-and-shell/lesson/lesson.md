@@ -9,9 +9,9 @@ On Micronesia's low islands, beach **sand and rock are broken coral and shells**
 
 The high islands show the contrast: their beaches can be **dark volcanic sand**, from the island's own black rock — set against the **white coral-and-shell sand** of the reef islands. The colour of the sand tells you what the beach is made of, and where it came from.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — The beach as a habitat
 

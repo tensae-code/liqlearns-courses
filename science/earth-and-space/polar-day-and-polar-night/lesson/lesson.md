@@ -7,9 +7,9 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 Near the North Pole in its summer, the Earth turns and turns — and the Sun never goes below the horizon. It circles the sky, lower and higher, but it does not set: daylight lasts the whole turning, and at the pole itself the long day stretches for months. This is the **polar day** — sometimes called the midnight sun, because the Sun is still shining at midnight. It happens because the pole is tilted toward the Sun, so no part of its turning carries it into the Earth's shadow.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — The polar night — a night when the Sun never rises
 

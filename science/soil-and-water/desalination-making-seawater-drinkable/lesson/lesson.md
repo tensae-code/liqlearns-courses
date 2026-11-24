@@ -7,9 +7,9 @@ You live beside the sea. Water surrounds you — yet none of it can be drunk. Wh
 
 Sea water is full of **dissolved salt**. That salt is why a land beside the sea can still be short of drinking water: the water is there, but as it is, living things cannot use it the way they use fresh water. Egypt's Primary 5 book teaches water as a precious resource first — its sources, its uses, and why it must be protected and saved — and then asks the harder question for people who live by the sea: can the sea itself become a source?
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Desalination — taking the salt out
 

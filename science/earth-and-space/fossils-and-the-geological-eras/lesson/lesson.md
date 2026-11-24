@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — fossils and the geologica
 
 fossils defined: a fossil is the remains of a living being, or of its biological activity, that has been embedded in a rock — the marks the first living beings left of their passage.
 
-[Picture — fossils defined as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: fossils defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — How the Earth's age is known
 
 how the Earth's age is known: radioactivity is the proof — geologists calculate the age of rocks directly from their uranium and lead content, and the planet's age was estimated by lead-lead isotope dating on meteorites, including the Canyon Diablo meteorite, in work published in 1956.
 
-[Picture — how the Earth's age is known as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: how the Earth's age is known as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Geological time is divided by great changes
 
 geological time is divided by great changes — movement of the continental masses, climate changes, formation of mountain ranges and the predominant type of life — into eras of very different durations.
 
-[Picture — geological time is divided by great changes as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: geological time is divided by great changes as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

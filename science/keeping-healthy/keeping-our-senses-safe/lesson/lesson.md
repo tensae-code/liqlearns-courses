@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 Seychelles' Unit 12 Topic "Looking after your eyes" follows its topics on using the eyes, ears, skin and brain: the senses are how the body takes in the world, and they can be damaged by careless use. Eyes are protected from glare, strain and injury, and problems with sight are taken seriously early, while they can still be helped.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Care for the senses you learn through
 

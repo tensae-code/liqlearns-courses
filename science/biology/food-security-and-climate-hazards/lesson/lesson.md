@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Food security and 
 ## The idea
 Food is made by living things, so the question of whether people have enough of it belongs inside biology. Mongolia's Grade 9 textbook teaches it in exactly that place: in Chapter 2, in the nutrition sequence — after the human digestive system (§2.2.1), after detecting food composition by experiment (§2.2.2), and after enzymes as biocatalysts in digestion (§2.2.3) — §2.2.4 (printed p. 37) steps back from one body to the whole world: the world population's food supply, and the drought and flood hazards that threaten it. No lesson in this course taught food security against its climate hazards on its own before, so this lesson is built for it.
 
-[Picture — two fields side by side — one green and watered, one cracked and dry under drought, with a third strip showing flooded land]
+In your mind's eye: two fields side by side — one green and watered, one cracked and dry under drought, with a third strip showing flooded land.
 
 ## The key facts
 **Food security is a population having enough food, steadily.** The food supply of the world's population is the amount of food living things produce for people to eat — crops from plants, and food from the animals that eat those plants.

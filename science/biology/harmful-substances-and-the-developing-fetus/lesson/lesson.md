@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Harmful substances
 ## The idea
 The placenta feeds the fetus but does not seal it off: alcohol, nicotine and narcotic drugs pass through it and can harm the developing baby, which is why those substances are forbidden in pregnancy. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a mother and her womb drawn in outline, the placenta in the middle with three crossed-out items at its edge — a cigarette, an alcohol bottle and a drug packet — and arrows showing what the placenta passes]
+In your mind's eye: a mother and her womb drawn in outline, the placenta in the middle with three crossed-out items at its edge — a cigarette, an alcohol bottle and a drug packet. And arrows showing what the placenta passes.
 
 ## The key facts
 **10.4 The effect of harmful substances on the fetus.** 10.4 The effect of harmful substances on the fetus

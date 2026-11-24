@@ -11,9 +11,9 @@ Pull the bob to one side and let go. It does not fall straight down and stop. It
 
 One complete journey — from one side, across, and back to where it started — is **one swing** (one oscillation). The swing is the pendulum's own motion: the same road travelled again and again.
 
-[Picture — a pendulum: a string fixed at the top, a bob pulled to one side, with the swing's path drawn as an arc through the lowest point to the other side — the student points to the bob, the string and one full swing before reading on]
+In your mind's eye: a pendulum: a string fixed at the top, a bob pulled to one side, with the swing's path drawn as an arc through the lowest point to the other side. The student points to the bob, the string and one full swing before reading on.
 
-[GIF — a pendulum swinging back and forth, the swings slowly getting smaller — the student says what stays the same about each swing and what is shrinking]
+In your mind's eye: a pendulum swinging back and forth, the swings slowly getting smaller. Say what stays the same about each swing and what is shrinking.
 
 ## Sub lesson 2 — The pendulum experiment — swinging, counting, timing
 

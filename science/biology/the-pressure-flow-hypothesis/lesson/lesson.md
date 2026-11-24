@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The pressure-flow 
 ## The idea
 Food made in the leaves travels through the phloem by pressure flow: sugar is loaded into the phloem at a source (a leaf), water follows by osmosis and the pressure that builds pushes the sap along the tube to a sink (a root, fruit or growing tip), where sugar is unloaded and the pressure falls — a flow driven by pressure difference, not by the plant pumping. No lesson in this course taught this on its own before, so this lesson is built for it — from Bhutan's Class 10 book, which teaches it as a named topic.
 
-[Picture — a leaf labelled source, a phloem tube running down the stem with arrows flowing toward a fruit labelled sink, with water entering the tube at the leaf end and leaving at the fruit end]
+In your mind's eye: a leaf labelled source, a phloem tube running down the stem with arrows flowing toward a fruit labelled sink, with water entering the tube at the leaf end and leaving at the fruit end.
 
 ## The key facts
 **Sources and sinks.** Translocation moves food from where it is made or stored — a source, usually a leaf — to where it is used or stored — a sink: a growing tip, a fruit, a root. Any account of the mechanism must explain movement in either direction, up or down, as sources and sinks change.

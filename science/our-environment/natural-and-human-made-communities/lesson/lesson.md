@@ -9,9 +9,9 @@ A **community** is all the living things living together in one place, linked by
 
 These grow and hold together by themselves. Nobody planted the forest or stocked the sea; the community is the place's own, and it carries on whether people watch it or not.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Human-made communities — park, fishpond, field, garden
 
@@ -19,9 +19,9 @@ Against them the book sets the **artificial — human-made — communities**: th
 
 People make these and people keep them: the park is planted, the fishpond is stocked, the field is sown, the garden is weeded. Stop the keeping and the community changes — the field goes wild, the garden runs to weeds. The test for the two kinds is one question: **did people make this community, and must people keep it?**
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

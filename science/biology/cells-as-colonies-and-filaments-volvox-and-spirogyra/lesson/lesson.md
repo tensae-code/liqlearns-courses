@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Cells as colonies 
 ## The idea
 A single cell can live alone. A tissue is many cells depending on each other. Nigeria's Senior Secondary Biology 1 stops between those two and looks at the halfway steps, in Chapter 2: living cells as a colony, and living cells as a filament. Volvox shows the colony — a hollow ball of up to 20,000 cells living together. Spirogyra shows the filament — cells joined end to end in a green thread with a spiral chloroplast. These are the steps between one cell and a tissue.
 
-[Picture — a hollow Volvox ball made of many small cells beside a Spirogyra filament — a thread of cells, each with a spiral green chloroplast]
+In your mind's eye: a hollow Volvox ball made of many small cells beside a Spirogyra filament — a thread of cells, each with a spiral green chloroplast.
 
 ## The key facts
 **The colony — Volvox.** Volvox is a hollow ball — a coenobium — of up to 20,000 cells living together as one colony. The cells stay joined in a single sphere instead of separating after division.

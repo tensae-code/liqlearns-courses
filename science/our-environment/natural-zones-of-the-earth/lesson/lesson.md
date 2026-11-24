@@ -7,17 +7,17 @@ Picture the land near the equator, then land near the pole. Same planet — utte
 
 Across the Earth, climate changes from place to place — and with it the soil, the plants and the animals change too, in matching sets. A great stretch of the Earth where the living cover shares one character is a **natural zone**. The zones are nature's belts: not borders drawn by people, but sets of conditions and life that belong together.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — From zone to zone — the ordered change
 
 Travel far enough and you cross from one zone into another: the plants change, the animals change, the whole community changes — in an order set by the changing climate, above all by heat and water. Each zone's living things are fitted to its conditions, the adaptation the theme's earlier paragraphs taught — the zone is that fitting, read at the scale of the whole Earth.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

@@ -9,9 +9,9 @@ Mauritania's Grade 4 *Sciences Naturelles* book teaches **making ovens from clay
 
 That is why clay is the oven's material wherever this craft is kept: it is underfoot, it shapes by hand, and fired or dried hard it stands heat that would crack lesser building.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Building the oven by hand
 

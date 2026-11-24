@@ -6,9 +6,9 @@ Before you read anything: think about this lesson's title — Digestive system d
 ## The idea
 Afghanistan's Grade 9 Biology book closes its digestive-system chapter with that system's diseases and its hygiene. This lesson teaches the pair on their own: the disorders that strike the canal and its glands, how most of them enter, and the hygiene rules that stop them.
 
-[Picture — a picture of the hygiene chain in four panels — hands washed with soap, a covered pot of clean water, vegetables being washed, and food cooking thoroughly — each panel labelled with the barrier it makes]
+In your mind's eye: the hygiene chain in four panels — hands washed with soap, a covered pot of clean water, vegetables being washed, and food cooking thoroughly. Each panel labelled with the barrier it makes.
 
-[GIF — a fly walking from waste onto uncovered food, then the same food covered, washed and cooked, and hands washed before eating — the student names the barrier that stops the germs at each step]
+In your mind's eye: a fly walking from waste onto uncovered food, then the same food covered, washed and cooked, and hands washed before eating. Name the barrier that stops the germs at each step.
 
 ## The key facts
 **Disorders of the canal.** Diarrhoea and dysentery empty the body of water dangerously fast; constipation is the opposite failure of movement. Indigestion and acid pain follow overeating and spoiled or irritating food, and an ulcer is a sore in the stomach or intestine wall, worsened by acid.

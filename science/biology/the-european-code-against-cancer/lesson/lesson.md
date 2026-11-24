@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The European Code 
 ## The idea
 The European Code Against Cancer is a short public list of everyday rules — do not smoke, keep a healthy weight, move daily, eat well, limit alcohol, respect the sun, and take the offered screenings and vaccinations — reproduced in Greece's Grades 8–9 appendix as the Greek and European way of teaching cancer prevention. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a poster page with a row of simple rule icons — a crossed cigarette, a plate of vegetables, a walking figure, a sun with a hat — above a set of numbered rule lines]
+In your mind's eye: a poster page with a row of simple rule icons — a crossed cigarette, a plate of vegetables, a walking figure, a sun with a hat. Above a set of numbered rule lines.
 
 ## The key facts
 **Appendix.** European Code Against Cancer reproduced as a health appendix (Greek/EU way of teaching cancer prevention)

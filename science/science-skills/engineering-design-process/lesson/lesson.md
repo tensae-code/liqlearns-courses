@@ -7,9 +7,9 @@ A bridge of paper must carry a toy car, a shade must keep a lunch table cool, a 
 
 Engineering design begins by **defining the problem**: what must the solution do, and what limits it? The things a solution must achieve are its **criteria**; the limits it must work inside — materials, size, cost, safety — are its **constraints**. Utah's Kindergarten book opens the whole course with this step (printed p. 10): before any building, the problem, its criteria and its constraints are stated. A design that ignores them is not a solution to this problem at all.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Generate ideas — sketch and model the design
 

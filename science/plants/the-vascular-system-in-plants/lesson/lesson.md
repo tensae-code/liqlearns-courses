@@ -9,9 +9,9 @@ A plant has transport pipes inside it, and together they are its **vascular syst
 
 Kuwait's Grade 7 book teaches the vascular system as the plant's answer to a size problem: a tall plant's roots and leaves are metres apart, and diffusion alone could never join them. The pipes are the joining.
 
-[Picture — the lesson's central thing, as named in this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
-[GIF — the lesson's central change in 1–2 seconds — the student says what changed]
+In your mind's eye: the lesson's central change. Say what changed.
 
 ## Sub lesson 2 — Two pipes, two directions
 

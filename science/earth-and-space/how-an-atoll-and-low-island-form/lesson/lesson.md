@@ -9,9 +9,9 @@ A low island begins with a reef that grows in a **ring** — an **atoll**: a cir
 
 The ring is the island's foundation. Everything that becomes land on a low island is built on and from that reef ring.
 
-[Picture — the lesson's central set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change, shown in 1–2 seconds — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
 
 ## Sub lesson 2 — Sand piles grow into narrow, flat islands
 

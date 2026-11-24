@@ -7,9 +7,9 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 The chapter builds in order: first what pathogens are (Lesson 1), then **infectious diseases** — the ones that spread (Lesson 2) — and then this lesson: **non-infectious diseases** (Lesson 3), the diseases a person cannot catch from another person. They arise from the body's own working, from what a person takes in, and from the life a person lives — not from a pathogen passed hand to hand.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Why the difference matters
 

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Excretion and osmo
 ## The idea
 Plants have no kidneys and no single excretory system: they get rid of waste through several small mechanisms — excess water leaves by transpiration and guttation, and other wastes are stored away in leaves, bark and resins that are shed — and they keep their water balance by osmotic adjustments, changing the solute content of their cells so water moves the way the plant needs. No lesson in this course taught this on its own before, so this lesson is built for it — from Pakistan (Punjab)'s Punjab Board books, which teach it as a named topic.
 
-[Picture — a green plant with water droplets beading at a leaf tip at dawn, arrows of water vapour leaving the leaf, and a shaded inset of an old leaf and a piece of bark marked as stored waste the plant will shed]
+In your mind's eye: a green plant with water droplets beading at a leaf tip at dawn, arrows of water vapour leaving the leaf, and a shaded inset of an old leaf and a piece of bark marked as stored waste the plant will shed.
 
 ## The key facts
 **No special excretory organs.** An animal sends its waste to kidneys and a gut. A plant has nothing like them: excretion in plants is spread over the whole body, using structures that already exist for other jobs.

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Agroecosystems and
 ## The idea
 Agroecosystems are artificial ecosystems that began when sedentary life domesticated plants and animals, and sustainable agriculture keeps them productive with ecological technologies and rational crop rotation. No lesson in this course taught this on its own before, so this lesson is built for it — from Moldova's Ministry of Education biology textbooks, which teach it as a named topic.
 
-[Picture — a farm field laid out as an agroecosystem — crops, animals and farmer together — with a crop-rotation plan drawn beside it]
+In your mind's eye: a farm field laid out as an agroecosystem — crops, animals and farmer together. With a crop-rotation plan drawn beside it.
 
 ## The key facts
 **4.5 Artificial ecosystems: agroecosystems.** Moldova's Grade 12 book (4.5 Artificial ecosystems: agroecosystems) teaches: sedentary life and domestication as the origin of artificial ecosystems; sustainable agriculture needing ecological technologies and rational crop rotation. (printed p. 143).

@@ -7,9 +7,9 @@ A litter of puppies: all dogs like their mother, yet no two the same. Carrots fr
 
 The pattern opens the lesson: **young plants and animals resemble their parents**. Utah's Grade 1 book (1.2.3, printed p. 83) teaches it from carrots: grown carrots are orange and cone-shaped like the parent plants' carrots — the family likeness is real, and it is the first fact. The traits that make the likeness — colour, shape, kind — come from the parents.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — But not exactly like them
 

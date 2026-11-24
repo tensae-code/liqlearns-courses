@@ -7,9 +7,9 @@ Before you read: think about this lesson's one thing — food security and clima
 
 Food and nutritional security under climate change: longer droughts and floods damage crops and impoverish soil; land-use classes V and VI (land fit only for permanent vegetation/crops with protection); extensive vs other production in an overpopulated country with little territory; El Salvador's land-use mosaic of basic grains, pastures, coffee and forest relicts.
 
-[Picture — the lesson's central object or set-up, drawn from this sub lesson — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change shown moving, drawn from this sub lesson — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Food-production zones proposed by soil class
 

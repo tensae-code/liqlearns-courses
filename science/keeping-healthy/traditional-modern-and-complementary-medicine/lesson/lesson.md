@@ -7,9 +7,9 @@ Before you read: say, in one sentence, what you think this lesson's one thing is
 
 Malaysia's Form 4 book compares **three kinds of medicine: traditional, modern and complementary** — their criteria side by side; **modern medicine** as the combination of health sciences (clinical medicine, research, surgery). The medicines of each approach are named: modern medicines are classified (**analgesics, antibiotics** and more) and come in forms — **pills, capsules, suspensions**. The three approaches **complement one another**; their strengths and weaknesses are compared, with an activity on natural vs man-made vitamin C.
 
-[Picture — a picture of the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — a 1–2 second GIF of the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Health products — choosing carefully
 

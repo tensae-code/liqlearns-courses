@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Finland's Move! fi
 ## The idea
 Move! is Finland's national system for monitoring the physical functional capacity of school pupils. Pupils are measured with batteries of tests — endurance, strength and mobility — and their results are read against national reference values, so a pupil, a school and the whole country can see how young bodies are doing (oph.fi/move).
 
-[Picture — a school hall in Finland during Move! measurements — pupils doing an endurance run, a strength test and a mobility test, with a teacher recording results against a chart of national reference values]
+In your mind's eye: a school hall in Finland during Move! measurements — pupils doing an endurance run, a strength test and a mobility test, with a teacher recording results against a chart of national reference values.
 
 ## The key facts
 **A national system, not one school's idea.** Move! is Finland's national physical functional-capacity monitoring system for schools. The same measurements are made across the country, in the same way — that is what makes the results comparable.

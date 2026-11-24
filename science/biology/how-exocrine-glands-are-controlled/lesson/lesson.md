@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — How exocrine gland
 ## The idea
 Regulation does not end with the endocrine glands. North Macedonia's Grade 13 elective book closes its regulation chapter with the functioning of the exocrine glands as its own topic (Ch. 4.11, printed pp. 232–239) — the ducted glands, and how their secretion is controlled. No lesson in this course covered exocrine-gland control before, so this lesson is built for it.
 
-[Picture — a salivary gland with its duct opening into the mouth, arrows running to it from a nerve and from a blood vessel carrying a hormone — the two control routes arriving at one gland, and drops of saliva leaving by the duct]
+In your mind's eye: a salivary gland with its duct opening into the mouth, arrows running to it from a nerve and from a blood vessel carrying a hormone — the two control routes arriving at one gland, and drops of saliva leaving by the duct.
 
 ## The key facts
 **Exocrine means out through a duct.** An exocrine gland releases its product through a duct onto a surface or into a cavity: salivary glands into the mouth, sweat glands onto the skin, gastric and intestinal glands into the gut, the pancreas's digestive part into the intestine. (Endocrine glands, by contrast, release hormones into the blood, with no duct.)

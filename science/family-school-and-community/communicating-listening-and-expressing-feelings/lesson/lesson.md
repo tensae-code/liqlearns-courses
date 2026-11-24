@@ -7,9 +7,9 @@ Before you read: think of the last time someone interrupted you while you were s
 
 Good communication at school starts with listening: listen carefully, without interrupting, until the other person has finished. Then express your own feelings and thoughts clearly, in words — say what you feel and what you think, so the other person does not have to guess.
 
-[Picture — the lesson's central set-up for sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
-[GIF — the lesson's central change for sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
 
 ## Sub lesson 2 — Non-verbal messages
 

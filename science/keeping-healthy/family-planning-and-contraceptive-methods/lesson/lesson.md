@@ -7,19 +7,19 @@ Before you read: think about this lesson's subject — family planning and contr
 
 family planning defined as the mechanisms a couple uses to regulate how many children to have and the spacing between births.
 
-[Picture — family planning defined as the mechanisms a couple uses as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: family planning defined as the mechanisms a couple uses as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 2 — Natural contraceptive methods
 
 natural contraceptive methods: the rhythm/calendar method (needs a regular cycle), basal temperature (body temperature rises near the period; the fertile days are read from the temperature pattern) and the Billings mucus method (fertile mucus is wet and elastic)
 
-[Picture — natural contraceptive methods as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: natural contraceptive methods as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## Sub lesson 3 — Barrier methods
 
 barrier methods: the male condom, the female condom and the diaphragm placed over the cervix.
 
-[Picture — barrier methods as Honduras's books show it — the student names the part that carries the sub lesson's point]
+In your mind's eye: barrier methods as Honduras's books show it. Name the part that carries the sub lesson's point.
 
 ## The key ideas
 

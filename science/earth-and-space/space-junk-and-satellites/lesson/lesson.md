@@ -7,9 +7,9 @@ Look up at the night sky in your mind. Above the clouds, machines circle the Ear
 
 High above the Earth, **satellites** circle — machines people launched that travel round the Earth and keep working there. They are part of the modern picture of the sky: the space around the Earth is not empty, it is busy with things people made.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — The leftovers — space debris
 

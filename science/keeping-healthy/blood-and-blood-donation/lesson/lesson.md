@@ -7,17 +7,17 @@ Your heart beats and substances travel around your body — the circulation you 
 
 The book's order is the lesson's order: first circulation — **the heart distributes substances around the body through the blood** — and only then donation. Blood is the body's carrier: what it carries keeps every part alive, which is why losing much of it is dangerous, and why blood itself can be given.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Donating blood — Cuba's own way
 
 A healthy person can **give a part of their blood** — a **blood donation** — and the body replaces what was given. The given blood goes to people whose lives depend on receiving it. Cuba's book teaches this as an important act in its own right: in Cuba, donating blood is presented to Grade 6 learners as something that matters — a gift of the carrier itself, from one person's body to another's.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 

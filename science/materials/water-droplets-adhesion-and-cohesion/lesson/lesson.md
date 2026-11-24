@@ -7,9 +7,9 @@ Put one drop of water on a coin and one on a sheet of foil. They do not sit the 
 
 Water pulls on itself: **cohesive** forces hold water molecules to each other. Water also pulls on the surface it touches: **adhesive** forces hold water to other materials. Every drop is a contest between the two. The book proves the pair with bench sights: drops sitting on foil and on a coin, small drops running together into one bigger drop when they touch (cohesion winning inside the water), and two glass plates stuck fast together by a thin film of water between them (adhesion holding plate to water to plate) (printed pp. 51–52).
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
 
 ## Sub lesson 2 — Round or flat — and the detergent test
 

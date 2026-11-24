@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — The endomembrane s
 ## The idea
 The endomembrane system is the cell's inner production line: the endoplasmic reticulum makes proteins and lipids, vesicles carry them to the Golgi apparatus for finishing and addressing, and lysosomes digest — membranes flowing into one another as one working system. No lesson in this course taught this on its own before, so this lesson is built for it — from Greece's Gymnasio and Lykeio biology books, which teach it as a named topic.
 
-[Picture — a factory line inside a cell: a folded ER ribbon, small vesicle bubbles travelling, a stacked Golgi, and parcels leaving labelled for their destinations]
+In your mind's eye: a factory line inside a cell. A folded ER ribbon, small vesicle bubbles travelling, a stacked Golgi, and parcels leaving labelled for their destinations.
 
 ## The key facts
 **§2.3.** endomembrane system (ER, Golgi, lysosomes, vesicles)

@@ -6,7 +6,7 @@ Before you read anything: think about this lesson's title — Pesticides and the
 ## The idea
 Pesticides protect crops, but they persist in the environment and concentrate as they pass through food chains — bioaccumulation — harming wildlife and human health far beyond the field that was sprayed. No lesson in this course taught this on its own before, so this lesson is built for it — from Kazakhstan's Grade 7–9 biology books, which teach it as a named topic.
 
-[Picture — a sprayed field with a food chain rising from it — plant, insect, small bird, hawk — the pesticide dots growing denser at each step until the hawk carries the heaviest load]
+In your mind's eye: a sprayed field with a food chain rising from it — plant, insect, small bird, hawk. The pesticide dots growing denser at each step until the hawk carries the heaviest load.
 
 ## The key facts
 **§8 The effect of pesticides on the environment and human health.** §8 The effect of pesticides on the environment and human health

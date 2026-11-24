@@ -7,17 +7,17 @@ Think of everyone in your town falling sick on the same day. Who would care for 
 
 The book's closing claim is simple and whole: **in our country, the people's health is cared for**. Health is not left to each person alone: it is cared for as a public task, for the people as a whole — the lesson the whole human-body unit has been walking toward, from the cell to the body to the country that cares for its bodies.
 
-[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## Sub lesson 2 — Where this teaching stands in the book
 
 Cuba's book places this teaching **last in the unit** — after the skeleton, digestion, breathing, circulation, reproduction and adolescence, and after the hygiene lessons that close the body's own care. The order is the meaning: first how the body works, then how to keep it clean and well — and finally, who cares for the people's health when care is needed beyond the home: the country itself, as its own taught fact.
 
-[Picture — the lesson's central object or set-up, from sub lesson 2 — the student names its parts before reading on]
+In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
-[GIF — the lesson's central change or test result, from sub lesson 2 — the student says what changed and what it proves]
+In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
 
 ## The key ideas
 
