@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Inca state of the 
 
 The Inca state of the Andes is studied whole — space and time, economic/social/political organisation, cultural legacy and living descendants (Unidad II, Tema I: Sociedades azteca, maya e inca (Inca part))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

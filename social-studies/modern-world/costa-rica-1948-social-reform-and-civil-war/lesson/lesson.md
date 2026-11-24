@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1940s social refor
 
 The 1940s social reforms (social guarantees, labour code) end in the 1948 civil war, the founding rupture of modern Costa Rica (Unidad II, Tema 1-C: Reforma social y guerra civil de 1948)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Costa Rica en la década de 1940 y la Guerra Civil de 1948 (Porras y Gamboa)
 

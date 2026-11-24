@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: portuguese and Turks fought
 
 Portuguese and Turks fight over the Red Sea trade while Imam Ahmad Gragn's wars tear through the highlands, weakening the old order the Bahri Negestat held together.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Portuguese-Turkish rivalry and the Gragn wars as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Portuguese-Turkish rivalry and the Gragn wars as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

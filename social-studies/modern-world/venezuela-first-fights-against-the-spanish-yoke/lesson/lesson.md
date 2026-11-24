@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Zambo rebel José Leon
 
 Zambo rebel José Leonardo Chirino rises at Coro and the rebels take the city; the Gual and España conspiracy follows, and both are crushed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Conspiracy of Gual and España (1797)
 
 Gual and España conspire in La Guaira for a republic of equals and are betrayed and executed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

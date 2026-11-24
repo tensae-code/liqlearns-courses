@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kościuszko swears the
 
 Kościuszko swears the uprising in Kraków in March 1794, Jakub Jasiński raises Vilnius and the Belarusian towns, but a szlachta-led rising never becomes a people's war and falls
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

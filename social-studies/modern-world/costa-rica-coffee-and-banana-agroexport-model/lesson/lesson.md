@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Coffee becomes the mot
 
 Coffee becomes the motor of economic, social and cultural change, and banana production rises on the Caribbean coast — Costa Rica joins the world market as an agro-exporter (Unidad III, Tema 4: La inserción al mercado mundial)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

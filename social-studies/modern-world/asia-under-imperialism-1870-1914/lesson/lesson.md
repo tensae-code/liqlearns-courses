@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: Japan modernises and t
 
 Japan modernises and turns empire-builder while China and India are carved up and held down by the Western powers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Section 1, Part III, Lesson 8: Imperialist colonisation in Asia
 
 the empires partition Asia — India, China, Indochina and the rest are seized or subordinated one by one
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part II, Lesson 7 (world situation): Asia under imperialism
 
 Japan modernises to resist, China is carved up, India is held — Asia answers empire three ways
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part III, Lesson 8: Imperialist colonisation in Asia
 
 the empires partition Asia one country at a time
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the OSCE Minsk Group n
 
 the OSCE Minsk Group negotiates for decades without a settlement, the April 2016 clashes warn of fragility, and in September 2020 the 44-day war reverses the map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

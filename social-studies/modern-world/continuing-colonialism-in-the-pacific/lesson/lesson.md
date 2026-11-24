@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the book asks whether 
 
 the book asks whether colonialism really ended — Pacific states still depend on their former colonisers, and learners research the petition asking New Zealand to grant Sāmoans New Zealand citizenship, and why other Sāmoans objected
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

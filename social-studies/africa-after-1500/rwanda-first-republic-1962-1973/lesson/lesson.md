@@ -8,7 +8,7 @@ After the 1959 violence and the 1961 referendum abolishing the monarchy, Kayiban
 
 After the 1959 violence, a 1961 referendum abolishes the monarchy. The First Republic is therefore born from a vote that ends kingship — and from violence that already divides the new country.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Kayibanda's PARMEHUTU republic — one party, a quota, schools closed to Tutsi
 

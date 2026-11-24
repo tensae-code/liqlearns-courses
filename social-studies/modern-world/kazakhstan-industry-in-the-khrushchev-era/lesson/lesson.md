@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: sovnarkhozes and giant
 
 sovnarkhozes and giant combines — Karaganda steel and Temirtau grow
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§15–16. The state of Kazakhstan's industry in 1965–1985
 
 raw-materials appendage of the Union — extraction grows, processing lags
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §6 The raw-materials orientation of the Kazakh SSR's economy
 
 the republic is cast as the Union's quarry and granary
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §7 Socio-economic development of Kazakhstan in 1965–1985
 
 extraction grows while processing and consumer goods lag
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

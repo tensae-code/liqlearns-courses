@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: weddings, funerals and
 
 weddings, funerals and hospitality carry the nation's values
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §47 National games
 
 baiga races, kokpar and altybakan — the games that train riders and bind the aul
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lesson plans §§47–50: spiritual culture and family traditions; national games; oral literature and its writing-down
 
 games and epics move from performance to printed page inside the lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

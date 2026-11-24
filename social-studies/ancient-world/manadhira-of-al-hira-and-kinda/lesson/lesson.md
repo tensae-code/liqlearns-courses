@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: at al-Hira on the Euph
 
 at al-Hira on the Euphrates, 'Amr ibn Adi founds the Lakhmid emirate that serves Persia yet becomes a court of Arab poetry — al-Nabigha and the Mu'allaqat poets recite there — and a bridge carrying Persian culture to the Arabs, its Syriac-based script a root of Arabic writing; Persia's king, fearing al-Nu'man III's drive for Arab unity, lures and kills him, and the Arabs answer united at Dhu Qar in 610 CE; inland, Kinda — its capital Qaryat al-Faw a market city with its own coinage, writing in Yemen's Musnad script — tries under Hujr and al-Harith to unite the whole Peninsula and perishes in the attempt, leaving the poet Imru' al-Qays to avenge his father
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

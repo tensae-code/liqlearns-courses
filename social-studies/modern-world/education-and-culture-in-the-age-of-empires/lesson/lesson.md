@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: schooling spreads but 
 
 schooling spreads but bends to nationalism and racism — segregated American schools answer with Uncle Tom's Cabin — while Nietzsche's Zarathustra, Freud's psychoanalysis and the Impressionists (Manet, Monet, Pissarro, then Cézanne, Gauguin and Van Gogh) teach Europe to see the inner world, and China's Ren Bonian and the sculptor Rodin join the same story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Russia and the Porte f
 
 Russia and the Porte fight over the Danubian Principalities; Kutuzov first plans to annex both, and the 1812 Peace of Bucharest takes Bessarabia instead
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §24: Anul 1812 în istoria românilor. Anexarea Basarabiei
 
 Napoleon and Alexander agree at Tilsit; Russia offers to cede only Hotin, talks fail, and the Bucharest treaty's Article 4 makes the Prut the border — the Bessarabian question is born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

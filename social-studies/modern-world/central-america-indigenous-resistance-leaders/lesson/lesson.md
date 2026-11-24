@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Tecún Umán in Guatem
 
 Tecún Umán in Guatemala, Atlacatl in El Salvador, Lempira, Copán Galel, Entepica, Toreba and Cicumba in Honduras, Nicarao in Nicaragua, Garabito in Costa Rica and Urracá in Panama resist to the death; the Crown answers with the Audiencia de los Confines (1542), seated for a time at Gracias
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lempira and the Honduran resistance
 
 Lempira stands out with Copán Galel and Cicumba among the leaders who organised resistance; Honduras's peoples, hardened by their own wars, made the conquest long and cruel
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

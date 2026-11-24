@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the second Britis
 
 Rashid Ali al-Gaylani's 1941 government was crushed by a second British occupation; the Baghdad Pact of 1955 and the Hashemite Union followed, then the revolution of 14 July 1958 made Iraq a republic; after al-Bakr and Saddam Hussein came the war with Iran (1980–1988), the invasion of Kuwait in 1990, the siege, and the American occupation of 2003 on a pretext the lesson says proved false, ending with the withdrawal of late 2011 — the same lesson tells of Arab Ahwaz (Arabistan), annexed by Reza Shah in 1925 and Persianised.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

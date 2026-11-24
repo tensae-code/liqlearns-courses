@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in 1945 the victors fo
 
 in 1945 the victors found the UN so war cannot return; in 1946 it creates UNICEF because Europe's war orphans are starving — the peace is organised, not just wished for
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

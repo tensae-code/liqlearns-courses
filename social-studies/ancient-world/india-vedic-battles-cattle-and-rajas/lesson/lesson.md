@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Vedic prayers beg for 
 
 Prayers beg for cattle, sons and horses; battles are fought for herds, pasture, water and captives; the spoils feed great fire-sacrifices, and assemblies of men choose brave warriors as rajas — chiefs with no capitals, palaces, armies or taxes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: on the Nile, Tigris–
 
 on the Nile, Tigris–Euphrates, Indus and Ganges, farming villages of 5,000–6,000 years ago swell into cities — Uruk with 40,000–50,000 people, Babylon, Memphis, Mohenjo-daro — each civilisation's administrative, military and trading heart, rising and falling with it; Greek and Roman cities grow instead from harbours, mines and trade, Athens's Piraeus the ancient world's greatest port
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

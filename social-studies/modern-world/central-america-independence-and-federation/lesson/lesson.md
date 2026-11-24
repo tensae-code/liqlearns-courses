@@ -8,43 +8,43 @@ Before you read on, hold this lesson's one thing in mind: internal grievances an
 
 internal grievances and external revolutions converge; independence is the end of a long process, not a single day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Movimientos populares de 1811 en Centroamérica
 
 in 1811 popular movements rise in San Salvador, León and Granada a decade before independence is won
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Proclamación de la Independencia de Centroamérica
 
 on 15 September 1821 the Act is signed in Guatemala and the isthmus leaves Spain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Próceres de la Independencia de Centroamérica
 
 the próceres earn the title by ending colonial rule — among them priest Tomás Ruiz of Chinandega, tortured and held nearly seven years in irons for the Belén conspiracy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Centroamérica ante la anexión a México
 
 the new provinces are annexed to Mexico and must fight again, this time to be free of an American empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — La Federación Centroamericana
 
 the five provinces try to stay one country in a federation, the isthmus's great failed union
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Independencia de México (Nueva España) y Centroamérica
 
 Hidalgo's Grito is crushed, but when the Cádiz Constitution threatens criollo interests, Iturbide and Guerrero join in the Plan de Iguala of 24 February 1821
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

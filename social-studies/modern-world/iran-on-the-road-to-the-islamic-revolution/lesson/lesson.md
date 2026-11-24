@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 1978 — strikes, mour
 
 1978 — strikes, mourning-cycle protests and millions in the street; each funeral makes the next demonstration bigger (Iran on the path of the Islamic Revolution)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

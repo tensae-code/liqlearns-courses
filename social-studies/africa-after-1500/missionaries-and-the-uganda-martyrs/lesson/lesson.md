@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: CMS Protestants come f
 
 CMS Protestants come first, Verona Fathers reach the north in 1910, Apollo Kivebulaya becomes "apostle to the pygmies" — and at Namugongo on 3 June 1886 Kizito and his fellow pages are burned, the Uganda Martyrs whose shrine still marks the walk to death
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

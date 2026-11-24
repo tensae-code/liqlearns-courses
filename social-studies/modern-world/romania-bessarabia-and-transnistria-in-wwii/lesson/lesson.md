@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Carol II falls, the Na
 
 Carol II falls, the National-Legionary state is proclaimed in September 1940, Romania enters the war in 1941, and the Iași–Chișinău offensive of 20 August 1944 joins two Soviet fronts at Leușeni
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 25: Participarea României în cel de-Al Doilea Război Mondial
 
 democratic Romania of 1918–38 is drawn into war; American B-24s raid Ploiești on 1 August 1943, Soviet troops enter Bucharest on 31 August 1944, and Romania joins the United Nations coalition
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Tema 26: Basarabia și Transnistria în perioada celui de-Al Doilea Război Mondial
 
 the Romanian administration organises the Transnistria Governorate between the rivers while whole urban quarters of Bessarabia's towns are destroyed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

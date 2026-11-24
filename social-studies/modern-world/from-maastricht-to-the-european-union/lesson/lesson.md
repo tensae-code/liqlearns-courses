@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Maastricht turns the C
 
 Maastricht turns the Community into a Union with a single currency project (the chapter's maps of members and candidates); Tulli's Storiografia (unit) weighs the Euro-Atlantic relations that frame it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 14 §§8–9 Dalla Cee all'Unione europea; Il difficile cammino dell'Unione allargata
 
 Maastricht builds the Union and enlargement carries it east; European citizenship (the module's Civica box) is the promise the difficult road must keep
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

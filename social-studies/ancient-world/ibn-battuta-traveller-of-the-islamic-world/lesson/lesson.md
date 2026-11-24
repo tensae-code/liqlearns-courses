@@ -16,7 +16,7 @@ Ibn Battuta travelled for twenty-seven years. He crossed the lands on camels and
 
 The book names the road in order: he passed through Algeria, Egypt and Bahrain, and travelled on to India. And everywhere he went, he did the thing that makes his story last: he wrote down the customs and traditions of the peoples he saw. He was not only passing through the world; he was recording it.
 
-[Picture slot — a picture of Ibn Battuta's journey line on a map, from Morocco through Algeria, Egypt and Bahrain to India: follow the line with a finger and name the lands in order.]
+In your mind's eye: ibn Battuta's journey line on a map, from Morocco through Algeria, Egypt and Bahrain to India. Follow the line with a finger and name the lands in order.
 
 ## Sub lesson 3 — The book and the title
 

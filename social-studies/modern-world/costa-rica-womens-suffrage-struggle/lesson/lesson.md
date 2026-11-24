@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Women's work and the l
 
 Women's work and the long fight for the vote (Unidad 2, B: La situación social y laboral de la mujer; las luchas de las mujeres por el sufragio)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

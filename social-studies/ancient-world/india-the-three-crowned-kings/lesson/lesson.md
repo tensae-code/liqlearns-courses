@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The three crowned king
 
 The muvendar — Chola, Chera and Pandya chiefs — hold an inland and a coastal capital each (Puhar, Madurai), take gifts and tribute instead of regular taxes, and reward praise-poets with gold, horses and elephants; 200 years later the Satavahanas rise in the west, Gautamiputra Shri Satakarni styling himself lord of the dakshinapatha and marching to three coasts.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

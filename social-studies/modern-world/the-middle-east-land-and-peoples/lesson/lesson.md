@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Baghdad's land between
 
 Baghdad's land between two seas; nine states and a population growing from 66.2 million (1937) to 75.5 million (1960) — the region Cambodia's final history chapter maps before its empires (History Ch. 3 Lesson 1, The Middle East)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

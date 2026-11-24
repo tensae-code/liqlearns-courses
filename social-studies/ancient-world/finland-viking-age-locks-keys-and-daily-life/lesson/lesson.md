@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: For the first time val
 
 For the first time valuables are kept behind locks, and an iron key is needed to open them.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Esine 6: Lukkoja ja avaimia (Iron Age / Viking Age locks and a padlock from Hämeenlinna, c. 800–1050)
 
 Padlocks with loops for chains guard Viking Age stores, security becoming a thing you carry.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Esine 5: Korvalusikka (ear spoon, Viking Age c. 800–1050)
 
 A 59 mm, 7-gram spoon for cleaning ears shows Iron Age daily hygiene, its wax later prized in folk medicine.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

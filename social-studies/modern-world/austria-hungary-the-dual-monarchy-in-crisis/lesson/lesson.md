@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Vienna's great banks a
 
 Vienna's great banks and German capital run a multinational empire whose workers answer with the Austrian Social Democratic Party (1889) and a programme of universal secret ballot — nationalities and classes pull the Dual Monarchy apart at once
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

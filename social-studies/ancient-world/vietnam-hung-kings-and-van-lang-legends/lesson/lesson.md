@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: dragon lord Lạc Long
 
 dragon lord Lạc Long Quân and fairy Âu Cơ have 100 children; the eldest becomes Hùng Vương and founds Văn Lang at Phong Châu; later prince Lang Liêu wins the throne with humble rice cakes, bánh chưng and bánh giầy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 5, the legend of Sơn Tinh and Thuỷ Tinh
 
 the 18th Hùng King sets Mountain God and Water God a bride-price race for his daughter Mỵ Nương; the loser raises the rivers every year in revenge, explaining Vietnam's annual floods
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Chuyên đề 1 Ancestor worship scaled to a nation: the family cult of the dead widens to clan, village and country until the Hùng Kings stand as the whole people's common ancestors — a state rite already under Lê Thánh Tông, fixed to the 10th day of the third lunar month by Khải Định in 1917, given a officials' holiday by Hồ Chí Minh's decree of February 1946, and a paid public holiday from 2007; Phạm Văn Đồng in 1969 calls it the nation's unique folk belief
 
 one altar logic runs from a peasant family's shelf to the national festival at Đền Hùng
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

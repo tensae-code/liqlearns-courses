@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Van Riebeeck's 1652 re
 
 Van Riebeeck's 1652 refreshment station grows into a settler colony. Its trekboers fight a century of frontier wars with the Xhosa over land and cattle.
 
-[Picture slot — a picture of the Cape refreshment station in 1652 growing into farms, with Xhosa frontier country beyond and British settler ships arriving in 1820 — the student tells the Dutch and British parts in order.]
+In your mind's eye: the Cape refreshment station in 1652 growing into farms, with Xhosa frontier country beyond and British settler ships arriving in 1820. The student tells the Dutch and British parts in order.
 
 ## Sub lesson 2 — Britain takes the Cape — the reforms to 1835
 

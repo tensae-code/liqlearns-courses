@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Europeans seize the is
 
 Europeans seize the island, clear it and rebuild it as sugar and coffee plantations worked by africans — a chronology told through local remains (Séance 1, De la conquête et de la colonisation européennes à l'économie de plantation)
 
-[Picture slot — a picture of a Saint-Domingue sugar plantation — mill, boiling house and quarters — the student names the three places and says what each one proves]
+In your mind's eye: a Saint-Domingue sugar plantation — mill, boiling house and quarters. Name the three places and says what each one proves.
 
 ## Sub lesson 2 — Archaeology of a domination
 

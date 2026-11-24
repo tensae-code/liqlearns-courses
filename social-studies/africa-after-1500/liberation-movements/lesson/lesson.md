@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Resistance grows into 
 
 resistance grows into organised liberation movements (UA6 Les mouvements de libération)
 
-[Picture slot — a picture of an organised liberation movement — people meeting, organising and marching toward independence — the student says what the movement aims at]
+In your mind's eye: an organised liberation movement — people meeting, organising and marching toward independence. Say what the movement aims at.
 
 ## Sub lesson 2 — Aiming at independence
 

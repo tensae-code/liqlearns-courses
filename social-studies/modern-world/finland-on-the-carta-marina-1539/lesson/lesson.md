@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Finland, then part of 
 
 Finland, then part of Sweden, appears as Finlandia on late-medieval maps; exiled churchman Olaus Magnus spends 12 years drawing the North and finishes Carta Marina in 1539, the first northern map rich in place names and pictures, used for a hundred years until Anders Bure's better map replaces it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History lesson: reading the 1572 Carta Marina together
 
 Pupils hunt the map for Finland, Sweden and Iceland, match old names to today's towns, and read its animals, vehicles and everyday scenes as evidence of 1500s life.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: socialist states refor
 
 socialist states reform and stall, and the Eastern European changes and Soviet collapse of 1989–91 end the socialist camp in Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Socialist countries develop and change
 
 reforms in the USSR and Eastern Europe fail to save the system, and in 1991 the Soviet Union dissolves
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

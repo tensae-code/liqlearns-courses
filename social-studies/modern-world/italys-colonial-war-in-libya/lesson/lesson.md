@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Libyan war (1911�
 
 the Libyan war (1911–12) is debated in the chapter's own documents, Giolitti is mocked in satire (image study), and nationalism — fed by the war — begins to dissolve the liberal system that launched it — Labanca's Storiografia closes the question
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

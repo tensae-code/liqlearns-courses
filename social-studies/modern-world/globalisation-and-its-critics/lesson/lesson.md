@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: supply chains planet-w
 
 supply chains planet-wide lift Asia's new protagonists and transform Latin America, while Stiglitz's book (the chapter's study) and Beck's Document indict globalism's errors — Mandela's inauguration speech (unit Document) opens the same decades from the South
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 15 §§3–5 Economia globale e finanza internazionale; Il governo dell'economia mondiale e la tutela dell'ambiente; I nuovi lavori: flessibilità e delocalizzazione
 
 Seattle's battle (Eventi) names the opposition; multinationals (keyword), post-Fordism (Focus) and delocalised work remake the economy while its government lags
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

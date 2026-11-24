@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Wałęsa's Solidarity 
 
 Wałęsa's Solidarity makes Poland first, Havel's Velvet Revolution changes Czechoslovakia without a shot, Romania shoots its dictator after a show trial, the two Germanys unite in 1990, Czechoslovakia later divides in peace — while Yugoslavia breaks apart in blood, in the diary of twelve-year-old Zlata Filipović writing through Sarajevo's siege
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

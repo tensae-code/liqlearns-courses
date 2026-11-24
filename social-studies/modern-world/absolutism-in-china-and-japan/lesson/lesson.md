@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Ming emperors and Toku
 
 Ming emperors and Tokugawa shoguns centralise two Asian empires
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §20 Features of monarchy in China and Japan
 
 emperors and shoguns centralise Asia's great states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 7.2 Was Eastern rulers' power as absolute as Louis XIV's and Peter's?
 
 Ottoman, Persian, Chinese and Japanese rulers test the absolutism label
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §22–23 Features of absolutism in the East: China, Japan, the Ottoman Empire
 
 shoguns, emperors and sultans show eastern centralisation's faces
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §22 Features of the political system in China and Japan
 
 Ming-Qing emperors and Tokugawa shoguns centralise the East
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

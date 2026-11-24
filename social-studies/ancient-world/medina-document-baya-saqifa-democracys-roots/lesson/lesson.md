@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: four firsts are lined 
 
 four firsts are lined up as the seeds of modern institutions: the Medina Document as the first written constitution in history, the bay'a as the first election — Abu Bakr's opening sermon making obedience conditional on his own obedience to God — Saqifat Bani Sa'ida as the first parliament, a free platform of opinion and voting, and Umar's covenant to Jerusalem's Christians, preserving their churches and property, as the charter of coexistence between religions that held until the Crusader invasion shattered it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the earliest iTaukei r
 
 The earliest iTaukei rely on their chiefs' decision-making; once the British colony begins, courts replace the chief's word, and the unit traces that handover as the root of Fiji's modern legal order.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Carbonari in Naples, l
 
 Carbonari in Naples, liberals in Spain and juntas in Latin America rise as the Congress system tries to freeze 1815 forever
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §11 The revolutionary waves of 1830 and 1848 in Europe
 
 Paris barricades in 1830 give Belgium and a citizen-king; 1848 shakes every throne and fails almost everywhere
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

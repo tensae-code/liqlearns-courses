@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: artisans form Democrat
 
 Late-1800s artisans form Democratic Societies against free trade; river, tramway, oil and banana workers follow, their early strikes are violently repressed, and María Cano of Medellín — a woman and no worker herself — commits her reading-formed ideas to the workers' struggle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Guía 14: Workers unite to defend their rights
 
 After a disaster no union groupings arise in Colombia until after the First World War, and politicians' incursion into the unions then blocks their free development
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Tema 16: Popular movements and social reform in Colombia
 
 María Cano leads from the century's start; on 12 November 1928 the great banana strike explodes and on 5 December the strikers are massacred; rural movements follow, Lleras Restrepo tries to associate the peasants, and Ley 200 de 1936 anchors the reform
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

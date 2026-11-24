@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Arab Nabataeans build 
 
 Arab Nabataeans build a kingdom (from c.587 BC) at Petra where the Iraq–Yemen–Syria–Egypt caravan roads meet, trading as far as Rhodes, Delos and Rome, and carve theatre, monastery and the Daughter's Palace
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ Turkey's Grade 9 book gives the Turks a whole unit of their own, and it starts w
 
 Then the book reads the life out of the land. The horse gives speed and milk and war-power; the felt tent gives a house that packs up and moves with the herds; the herds themselves are wealth that walks. Horse, felt tent and herds are not customs chosen at random — they are answers to the grassland. The book's beat: the geography of the steppe writes the Turks' whole way of life.
 
-[Picture slot — a picture of a steppe camp — felt tents in a ring, herds of horses and sheep grazing to the horizon, a rider watching over them — the student points to the tent and the herds and says how each one answers the grassland.]
+In your mind's eye: a steppe camp — felt tents in a ring, herds of horses and sheep grazing to the horizon, a rider watching over them. The student points to the tent and the herds and says how each one answers the grassland.
 
 ## Say it to your companion
 

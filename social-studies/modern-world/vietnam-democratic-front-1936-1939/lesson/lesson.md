@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after the Comintern's 
 
 after the Comintern's Seventh Congress (July 1935) and France's Popular Front victory, the Indochinese Communist Party founds the Indochinese Democratic Front (July 1936); the Indochina Congress movement petitions openly, crowds greet the Goda mission and Governor-General Brévié (1937), railwaymen strike at Trường Thi, 25,000 rally in Hanoi on 1 May 1938, and a legal press flourishes — a rehearsal, the book judges, for the August Revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

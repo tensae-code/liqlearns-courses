@@ -8,7 +8,7 @@ The republic survived its birth. Now it had to survive its arguments — and, in
 
 Two visions of the republic collided: Federalists and Democratic-Republicans fought over the republic's soul — how strong the centre should be, and whose republic it would be.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Parties are born in the fighting
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In the Second World Wa
 
 in the Second World War (1939–1945) American farms and factories empty as men leave for the troops; under "The Contract" Bahamian men and women leave home to work those farms and factories and send their earnings back to their families (The Contract: Bahamians go to work in wartime America)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

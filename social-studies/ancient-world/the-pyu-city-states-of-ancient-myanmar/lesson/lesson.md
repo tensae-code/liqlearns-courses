@@ -8,7 +8,7 @@ Before you read on, think of Myanmar's long story as the guide tells it in two a
 
 Farming skill and craft knowledge gather people behind walls: the development of knowledge, capability and technology creates Myanmar's first cities — the ancient city-states.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — The Pyu cities, one by one
 

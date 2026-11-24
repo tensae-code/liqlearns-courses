@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Isatay Taimanov and th
 
 Isatay Taimanov and the poet Makhambet Utemisov rise against Khan Zhangir's land seizures and are crushed at Akbulak
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§25–26 The uprising of the Kazakhs of the Bukey Horde in 1836–1838
 
 Isatay and Makhambet rise against Zhangir Khan's land grants to his favourites
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.4 What common idea united Isatay Taimanov and Makhambet Utemisuly?
 
 the batyr and the poet — sword and word in one uprising
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

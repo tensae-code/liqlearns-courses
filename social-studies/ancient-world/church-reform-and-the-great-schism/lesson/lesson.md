@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Cluniac monks and refo
 
 Cluniac monks and reforming popes fight simony and clerical marriage; in 1054 Rome and Constantinople split, dividing Western and Eastern Christianity for good
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

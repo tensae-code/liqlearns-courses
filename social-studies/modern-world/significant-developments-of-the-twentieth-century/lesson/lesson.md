@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: WWII, the Cold War, Sp
 
 WWII, the Cold War, Sputnik and the internet named as the century's hinges; students investigate a global event properly — questions and hypotheses, sources located and interrogated, even visiting the ground where it happened
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

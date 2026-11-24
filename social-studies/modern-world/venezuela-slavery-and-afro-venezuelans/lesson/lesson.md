@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Africans brought in ch
 
 Africans brought in chains and their descendants build the country while "gossip" fragments show how slavery lived inside everyday speech
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Maroon settlements and cumbes of the enslaved
 
 The enslaved flee and found cimarroneras and cumbes — free African towns inside the colony that enslaved them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

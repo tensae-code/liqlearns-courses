@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Batista flees on 1 Jan
 
 Batista flees on 1 January 1959; a general strike defeats the last junta and the Caravan of Freedom carries the rebels to Havana
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 8.6–8.10 Struggle in the cities; consolidation; advance of the Rebel Army; triumph of the Revolution; culture in the neocolonial Republic
 
 llano and sierra converge; the 1958 invasions, Santa Clara and the January strike complete the victory the book has been building since Hatuey
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 5.4 The revolutionary situation in 1958
 
 failed April strike, summer offensive defeated, invasions west: by December 1958 the dictatorship is a shell
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

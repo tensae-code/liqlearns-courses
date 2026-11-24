@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tehran fixes the May 1
 
 Tehran fixes the May 1944 landing in northern France with a supporting Soviet offensive; Potsdam's Truman, Churchill then Attlee agree a permanent UN with a Security Council
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

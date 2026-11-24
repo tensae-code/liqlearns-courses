@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: For the longest stretc
 
 For the longest stretch of the human story people live by gathering and hunting, then in a blink they farm, build and settle.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch.II §2: How people lived in the Metal Age
 
 A softer, shinier stone that melts changes what hands can make and what armies can take.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

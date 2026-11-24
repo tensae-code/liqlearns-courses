@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: with Avars at the wall
 
 with Avars at the walls, Heraclius rebuilds the state into soldier-farmer themes and Greek replaces Latin; three centuries later the Macedonian dynasty brings a Byzantine renaissance — Basil I, a peasant from the theme of Macedonia, seizes the throne, and Basil II extends the empire again
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2: Byzantium survives and renews itself
 
 Heraclius answers siege and collapse with soldier-farmer themes; the empire tears itself over icons, splits from Rome for good in 1054, flowers again under the Macedonian dynasty — then eats its own strength by granting pronoia lands to magnates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

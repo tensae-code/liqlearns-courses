@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: education becomes an i
 
 education becomes an instrument of ideology under censorship, yet the Ablov chemistry school wins world fame and the "Joc" dance ensemble, founded in 1945, carries Moldavian dance abroad; Emil Loteanu films the national values
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 37: Politica conducerii sovietice din RSSM în domeniul culturii şi ştiinţei
 
 the doctrine of a separate Moldavian people and language returns; Russian becomes the lingua franca, Romanian-speaking teachers are lacking so courses run in Russian, and of 14 exhibitions in 1952–53 only five show authentic local artists
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

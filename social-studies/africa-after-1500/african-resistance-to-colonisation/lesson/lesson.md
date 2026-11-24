@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: African peoples fight 
 
 African peoples fight the conquest from the first treaties onward (UA6 Les mouvements de résistance africains face à la conquête)
 
-[Picture slot — a picture of African peoples resisting the conquest — leaders and communities refusing the treaties and fighting back — the student says when resistance began]
+In your mind's eye: african peoples resisting the conquest — leaders and communities refusing the treaties and fighting back. Say when resistance began.
 
 ## Sub lesson 2 — Fighting the conquest
 

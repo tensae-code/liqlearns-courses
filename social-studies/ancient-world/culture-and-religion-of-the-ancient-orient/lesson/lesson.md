@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Marduk, Inanna and Hea
 
 Marduk, Inanna and Heaven itself rule men's explanations; the Orient gives zodiac, star maps of 2,500 stars, calligraphy and the statues of Gudea
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

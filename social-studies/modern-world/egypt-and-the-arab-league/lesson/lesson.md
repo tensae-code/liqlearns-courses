@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Shared language, histo
 
 Colonialism drives its wedges — Zaydi against Sunni, Maronite against Muslim, republic against throne, French and Italian forced on Arab schoolchildren — yet language, history and a shared war pull the Arabs together: Taif in 1934, the Iraq–Saudi treaty of 1936, Egypt's own treaty with Saudi Arabia the same year; Nahhas Pasha's call of March 1943 opens the Cairo consultations, the Alexandria Protocol of 1944 fixes the League's rules — equality of members, no force between them, respect for existing borders — and the Arab League is born.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

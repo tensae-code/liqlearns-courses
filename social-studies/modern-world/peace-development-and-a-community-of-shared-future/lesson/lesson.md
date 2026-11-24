@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the book closes by arg
 
 the book closes by arguing humanity's shared problems — war, poverty, climate — admit only shared answers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Look out at the world, build a community of shared future for mankind
 
 pupils research one global problem and present China's proposed road — from classroom inquiry to world citizenship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

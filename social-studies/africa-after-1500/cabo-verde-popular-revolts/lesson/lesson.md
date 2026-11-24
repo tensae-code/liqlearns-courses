@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 The poor of the islands rise again and again — Ribeira Grande 1811, the Engenhos 1822, Monte Agarro 1835, Achada Falcão 1841, Casa Martins 1847 — against taxes, hunger and abuse.
 
-[Picture slot — a picture of a timeline with six flags planted on it — 1811, 1822, 1835, 1841, 1847, 1910 — the student reads the flags in order and says what the people rose against.]
+In your mind's eye: a timeline with six flags planted on it — 1811, 1822, 1835, 1841, 1847, 1910. The student reads the flags in order and says what the people rose against.
 
 
 ## Sub lesson 2 — Ribeirão Manuel, 1910

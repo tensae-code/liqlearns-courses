@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Spanish conquest overw
 
 Spanish conquest overwhelms the indigenous societies of America, Costa Rica's included, by war, disease and alliance (Unidad II, Tema 1: La conquista española en el continente americano)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

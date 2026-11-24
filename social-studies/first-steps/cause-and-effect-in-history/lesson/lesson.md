@@ -10,7 +10,7 @@ The Saudi Arabia Grade 4 book teaches it plainly, in its Unit 2 lesson on cause 
 
 A cause is what pushed an event into happening. It comes before the event. If you want to understand why something in the past happened at all, you do not start with the event — you start by looking behind it, for what led to it.
 
-[Picture slot — a picture of a row of three falling dominoes on a timeline, the first labelled "cause", the middle one "event" and the last "result" — the student points to the middle domino and says what pushed it and what it pushes.]
+In your mind's eye: a row of three falling dominoes on a timeline, the first labelled "cause", the middle one "event" and the last "result". The student points to the middle domino and says what pushed it and what it pushes.
 
 ## Sub lesson 2 — Every event has results
 

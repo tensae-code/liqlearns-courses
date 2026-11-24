@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: kings consolidated and
 
 kings consolidated and distanced themselves from the Church, European universities were founded (an experience the Muslim world already had), trades and commerce flowered, a free bourgeoisie of merchants and artisans organised itself, and Gutenberg's press spread the new learning
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

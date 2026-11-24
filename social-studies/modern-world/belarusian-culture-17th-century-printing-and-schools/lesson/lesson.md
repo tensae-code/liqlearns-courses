@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Jesuit Vilnius Academy
 
 Jesuit Vilnius Academy and collegiums, Orthodox brotherhood schools and Uniate, Protestant and Jewish presses compete for minds; Smotrytsky's Grammar and Sobal's Primer teach the children
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

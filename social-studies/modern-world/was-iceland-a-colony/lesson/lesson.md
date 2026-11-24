@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: After studying empire,
 
 after studying empire, pupils turn the definition of "colony" on their own country under Denmark (Verkefnablað 24: Var Ísland nýlenda?)
 
-[Picture slot — a picture of a classroom debate, with a map of Iceland and Denmark on the wall — the student says what question the class is weighing]
+In your mind's eye: a classroom debate, with a map of Iceland and Denmark on the wall. Say what question the class is weighing.
 
 ## Sub lesson 2 — Weighing Iceland under Denmark
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sulayman inherits Dawu
 
 Sulayman inherits Dawud's prophethood and kingdom and asks for a kingdom no one after him will have — the wind runs at his command like a transport fleet, a spring of molten copper feeds his industries, jinn dive for pearls and raise buildings and cauldrons too heavy to move, and he understands the speech of birds and ants; he dies leaning on his staff and the jinn labour on, not knowing, until a termite eats the staff through — and after him his kingdom splits into Judah and Israel
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

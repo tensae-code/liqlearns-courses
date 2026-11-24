@@ -16,7 +16,7 @@ The Etruscans bury their dead in painted tomb-houses full of feasting and dancin
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a painted Etruscan tomb-house with feasting and dancing inside — the student points to what the living put around their dead.]
+In your mind's eye: a painted Etruscan tomb-house with feasting and dancing inside. The student points to what the living put around their dead.
 
 ## Sub lesson 3 — Rome's teachers
 

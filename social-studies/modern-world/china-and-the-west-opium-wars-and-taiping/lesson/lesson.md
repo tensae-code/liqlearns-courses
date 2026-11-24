@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: opium and gunboats for
 
 opium and gunboats force China's doors (1839–60) while the Taiping civil war kills millions — the old empire's deepest crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

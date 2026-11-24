@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Iran votes to take its
 
 Iran votes to take its own oil back from the British company; Mosaddegh becomes the movement's face and Britain blockades Abadan (The movement to nationalise the oil industry)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The movement to nationalise Iran's oil industry
 
 the Humanities version deepens the same story — nationalisation as law, movement and international crisis ending in coup (The movement to nationalise Iran's oil industry)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

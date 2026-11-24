@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: America steps into Fra
 
 America steps into France's place; the Pathet Lao wins a coalition seat in 1957 and is then pushed out
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 15: I — Resisting America; the first coalition
 
 America steps into France's place; a coalition is won in 1957 and then undone
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

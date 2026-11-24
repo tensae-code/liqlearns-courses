@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: M. C. Siddhi Lebbe (18
 
 M. C. Siddhi Lebbe (1832–1898) founds Muslim schools and journals, Sir Ponnambalam Ramanathan champions Tamil and Hindu education, and a Sinhala press born in 1860 teaches a colonised people to argue in print
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

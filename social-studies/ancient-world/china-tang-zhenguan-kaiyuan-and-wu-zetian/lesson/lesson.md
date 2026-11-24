@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Taizong learns from Su
 
 Taizong learns from Sui's fall, keeps Wei Zheng as his 'mirror' through 200 remonstrances; Wu Zetian deposes her own sons to become China's only woman emperor and still grows the realm; Xuanzong's Kaiyuan reign makes Tang the strongest state on earth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Flourishing Tang
 
 curved ploughs and tube wheels, Shu silk, Tang sancai pottery and Chang'an in flower season — a century of farm, craft and city prosperity and warm ethnic relations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — From Sui-Tang prosperity to the Five Dynasties
 
 reunification in 589, the Zhenguan and Kaiyuan heights, then An Lushan's wreckage and a half-century of ten squabbling kingdoms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

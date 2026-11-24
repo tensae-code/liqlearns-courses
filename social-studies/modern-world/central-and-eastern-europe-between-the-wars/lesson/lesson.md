@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Piłsudski's Poland is
 
 Piłsudski's Poland is reborn on 11 November 1918, Masaryk's Czechoslovakia is built from Paris exile, Horthy's Hungary stays authoritarian behind a parliament, and land reform leaves half a million Yugoslav peasants landless
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

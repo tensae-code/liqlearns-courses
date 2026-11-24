@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: united zhuz armies str
 
 united zhuz armies strike back at Bulanty and Anyrakai, and batyrs like Bogenbai and Kabanbai become the people's heroes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §5 The Anyrakai battle and its historical significance
 
 the united Kazakh army crushes the Dzhungars at Anyrakai in 1730 and turns the war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §6 Famous khans, biys and batyrs who distinguished themselves against the Dzhungars
 
 Abylai the young warrior, Bogenbai, Kabanbai and the biy judges become the war's remembered names
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §1.2 Why did Ordabasy become a symbol of national unity?
 
 at the Ordabasy gathering the three zhuzes bury their quarrels and unite for the war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §1.3 Why is the Anyrakai battle considered the turning point of the Kazakh-Dzhungar war?
 
 pupils weigh the 1730 victory's claim to be the war's hinge
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Lesson plans §§3–6: organising the resistance; the people's militia; Anyrakai; the heroes
 
 Karakum and Ordabasy gatherings, Bulanty/"Kalmak Kyrylgan" and Anyrakai are sequenced into one story of unity winning
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

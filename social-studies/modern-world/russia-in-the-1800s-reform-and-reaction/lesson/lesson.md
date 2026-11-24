@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the largest empire of 
 
 the largest empire of the century frees its serfs yet clings to autocracy, reforming from above to avoid revolution from below
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

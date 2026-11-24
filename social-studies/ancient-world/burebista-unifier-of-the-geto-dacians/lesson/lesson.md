@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Burebista gathers the 
 
 Burebista gathers the scattered Geto-Dacian tribes into one kingdom, the first unification in the ancestors' story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unitatea IV, Lecția 4: Dacia pe timpul lui Burebista
 
 Burebista unifies the quarrelling tribes by war and diplomacy, treats with Pompey against Caesar, and escapes punishment only by Caesar's assassination
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unitatea VI, Lecția 1: Dacia de la Burebista la Decebal
 
 Burebista's unified state shatters at his death into small kingdoms, and a century of fragmentation follows until Decebal gathers Dacia again
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Ottonian emperors 
 
 the Ottonian emperors rebuild imperial power in Germany while the weak Capetians hold a small French royal domain and Norman adventurers carve kingdoms from England to southern Italy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Il quadro europeo e l'universalismo cattolico; L'Impero; I regni; I normanni in Italia
 
 Ottonian emperors invest bishop-counts to hold Germany and Italy (the body text follows Otto I to Otto III's Roman dream), weak kings share Europe with new regna, and Normans take the South
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

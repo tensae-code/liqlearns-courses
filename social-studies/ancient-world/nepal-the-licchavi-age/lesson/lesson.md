@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Licchavis rule the
 
 the Licchavis rule the valley for centuries from their inscriptions — Manadeva's victories, Amshuvarma's statecraft between Tibet and India, temples, coinage and a golden age of art and administration recorded on stone pillars
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

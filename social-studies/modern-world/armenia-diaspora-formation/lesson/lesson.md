@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from medieval merchant
 
 from medieval merchant colonies to the genocide survivors' settlements in Lebanon, France and America, dispersion becomes a second Armenian homeland
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 7: the Armenian diaspora, from formation to our days
 
 the guide treats the diaspora as half the nation — formed by trade and genocide, bound to the homeland after 1991
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

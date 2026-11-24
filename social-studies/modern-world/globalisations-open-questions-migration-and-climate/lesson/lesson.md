@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the 2000s' migration f
 
 the 2000s' migration flows (the chapter's maps), frontiers that harden (Storie di frontiera) and the climate bill come due together — globalisation's promises meet their price
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

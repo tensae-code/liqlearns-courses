@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: After 1945 development
 
 After 1945 development aid arrives — Marshall-era thinking, the Welvaartsfonds and its projects, and a Planbureau to plan them (Ontwikkelingshulp aan ons land)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Sociale ontwikkeling
 
 The plans also target living and working conditions — development planning is explained step by step, with Plan Wageningen's mechanised agriculture among the projects (Sociale ontwikkeling)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

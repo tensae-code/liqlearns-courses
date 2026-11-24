@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in fifty years the Spa
 
 In fifty years the Spanish conquer by contract and dispute; three routes — Caribbean coast, south-west and centre — push inland, and Gonzalo Jiménez de Quesada leaves Santa Marta with 600 foot soldiers and over 100 horsemen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

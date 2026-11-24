@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: steam replaces oxen in
 
 steam replaces oxen in the ingenios from 1817; in 1837 the Havana–Bejucal railway makes Cuba the seventh country in the world with a railway, ahead of Spain itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

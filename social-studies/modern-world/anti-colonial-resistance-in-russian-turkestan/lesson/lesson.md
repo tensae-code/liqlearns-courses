@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from the 1892 cholera 
 
 from the 1892 cholera riot to the 1916 uprising against the labour draft, Turkestan answers colonial rule with revolts the empire drowns in blood
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 3 §§20–21 The national-liberation movement in the Turkestan krai at the end of the 19th century
 
 the 1892 Tashkent 'cholera riot' and Dukchi Ishan's Andijan rising (1898) — desperate, local, and answered with gallows
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

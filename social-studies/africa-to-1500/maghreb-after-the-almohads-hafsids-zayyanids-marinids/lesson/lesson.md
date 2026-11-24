@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: When the Almohads fade
 
 When the Almohads fade, Hafsids take Ifriqiya, Zayyanids Tlemcen and Marinids Morocco, and the Maghreb settles into three rival kingdoms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Maghreb and al-Andalus from Baghdad's fall to the Ottomans
 
 The western lands drift between Hafsid, Zayyanid and Marinid rulers and a shrinking Granada while the east waits for a new unifier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: African peoples build 
 
 African peoples build kingdoms and empires, organise them politically, administratively, socially and economically, and hold them together (UA3 Royaumes, empires et autres formations: création, organisation politique, administrative, sociale et économique)
 
-[Picture slot — a picture of an African royal court — a ruler, officials, traders and scholars together — the student says how the state is organised and what its culture produces]
+In your mind's eye: an African royal court — a ruler, officials, traders and scholars together. Say how the state is organised and what its culture produces.
 
 ## Sub lesson 2 — Learning and art at court
 

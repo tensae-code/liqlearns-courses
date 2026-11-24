@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a republic born of def
 
 a republic born of defeat survives Boulanger; Britain widens the vote; the eastern empires answer nationalism with reaction — the alliance system's pieces settle into place
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 6, Cap. 17 §§5–7 The Republic in France; Liberalism in Great Britain; Russian autocracy
 
 the Third Republic survives its birth in defeat, Victoria's Britain (Personaggi: the Queen) reforms by instalments, and Russia's autocrats refuse every instalment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

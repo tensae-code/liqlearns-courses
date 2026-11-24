@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A secular prince repla
 
 A secular prince replaces the prince-bishops, and a battlefield victory makes the powers draw Montenegro's borders.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch.4.2 Montenegro 1876–1905
 
 A murder in a border town lights the war that finally makes Montenegro an internationally recognised state.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

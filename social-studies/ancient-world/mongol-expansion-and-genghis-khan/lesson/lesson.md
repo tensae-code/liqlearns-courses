@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Temujin rises as Gengh
 
 Temujin rises as Genghis Khan; the Mongol army of conquest, the law of the Mongol lands, Yuan China, Marco Polo at the khan's court, and the empire's defeat and legacy (Depth Study 6a: Mongol Expansion)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

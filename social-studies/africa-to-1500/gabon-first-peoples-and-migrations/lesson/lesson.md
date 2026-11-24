@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gabon has been inhabit
 
 Gabon has been inhabited for thousands of years; first peoples settle, then other populations arrive and mix (Leçon 19 Le peuplement du Gabon, les migrations)
 
-[Picture slot — a picture of Gabon's first peoples settling in the forest, and later arrivals meeting and mixing with them — the student says who was in Gabon first]
+In your mind's eye: gabon's first peoples settling in the forest, and later arrivals meeting and mixing with them. Say who was in Gabon first.
 
 ## Sub lesson 2 — How Gabon got its name
 

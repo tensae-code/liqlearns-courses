@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a Bavarian teenage kin
 
 a Bavarian teenage king, foreign regents and loans; Athenians and the army force a constitution in 1843
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — From the 3rd of September 1843 to Otto's expulsion (1862)
 
 party politics tied to foreign embassies, the Crimean humiliation, and a king finally sent home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

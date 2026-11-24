@@ -8,49 +8,49 @@ Before you read on, hold this lesson's one thing in mind: Ögödei builds Karako
 
 Ögödei builds Karakorum's walls, extends the yam and the law, and sends the armies that take Rus' and Hungary
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 4.2.2 The empire under Güyük and Möngke Khans
 
 regencies and succession struggles end with Möngke, whose census, religious tolerance and world-embracing court make the empire a single system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 4.2.3 The Great Yuan state
 
 Khubilai moves the capital to Khanbaliq (Beijing), takes the Chinese dynastic name Yuan in 1271 and completes the conquest of the Song
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 4.2.4 The Mongols' Golden Horde state
 
 Batu's ulus on the Volga rules the Russian principalities for two centuries — the "Mongol yoke" of Russian history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. 4.2.5 The Mongols' Chagatai state
 
 Chinggis's second son's ulus holds Central Asia's oases and steppe, astride the Silk Road
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. 4.2.6 The Mongols' Ilkhanate state
 
 Hülegü takes Baghdad in 1258 and founds the Ilkhanate; his heirs adopt Islam and Persian culture
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Ch. 3.4 The Mongol Empire after Chinggis Khan
 
 Ögödei, Güyük, Möngke and Khubilai extend and administer the largest land empire ever — and its succession quarrels begin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Ch. 3.5 The empire's breakup: Yuan, Golden Horde, Chagatai and Ilkhanate
 
 one empire becomes four khanates, each going its own way — Yuan in China, the Horde on the Volga, Chagatai in Central Asia, the Ilkhans in Persia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

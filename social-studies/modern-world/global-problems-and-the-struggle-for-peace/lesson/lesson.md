@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the survey closes in t
 
 the survey closes in the child's own century — ecology, terror and war as problems no country solves alone, and peace as something that must be fought for
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

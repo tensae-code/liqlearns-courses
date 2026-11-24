@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The great union breaks
 
 The great union breaks and Venezuela walks out to be its own republic in 1830 — the founding separation of the modern country
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The destruction of Colombia
 
 Gran Colombia tears itself apart and is destroyed by 1830, leaving Venezuela separate as Bolívar dies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

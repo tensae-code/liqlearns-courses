@@ -10,7 +10,7 @@ Turkey's Grade 9 book asks how the state itself was born. It begins with the tri
 
 Then the group grows beyond kin. Settled farming, surplus food and towns full of strangers cannot be ruled by custom and memory alone. Authority hardens into office: a king above the chiefs, written law above the spoken word, officials, taxes and soldiers to make the law hold. The book's beat for the whole change: a chief's word becomes a king's law, and the state is born — rule that binds people who share no blood at all.
 
-[Picture slot — a picture of a tribal gathering becoming a court — a chief seated before his kin while, behind him, the first officials, soldiers and a storehouse rise — the student points to what is new and says what makes it a state, not a tribe.]
+In your mind's eye: a tribal gathering becoming a court — a chief seated before his kin while, behind him, the first officials, soldiers and a storehouse rise. The student points to what is new and says what makes it a state, not a tribe.
 
 ## Say it to your companion
 

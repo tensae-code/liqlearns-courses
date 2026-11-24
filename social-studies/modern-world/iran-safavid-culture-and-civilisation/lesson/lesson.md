@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Isfahan becomes half t
 
 Isfahan becomes half the world — mosques, squares, carpets and a court culture that brands Iran's identity to this day (Culture and civilisation in the Safavid era)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Social, economic, scientific and cultural conditions of Iran in the Safavid era
 
 the united state at work — bazaars, silk, scholars and Isfahan's building boom (Social, economic, scientific and cultural conditions of Iran in the Safavid era)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Isfahan, half the world
 
 a class trip in words — the Safavid capital's square, mosques and bridges earn their proverb: Isfahan is half the world (Isfahan, half the world)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Why did culture and art flourish in the Safavid period?
 
 peace, wealth and royal patronage are the child's first causal chain — a united rich state buys beauty, and beauty survives it (Why did culture and art flourish in the Safavid period?)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

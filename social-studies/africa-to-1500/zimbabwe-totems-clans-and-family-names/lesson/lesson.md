@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In Zimbabwe's teaching
 
 The totem a child was teased for not knowing in the first school years becomes, at Grade 3, a system. Clan names tell who may marry whom, who must be respected, and where a family comes from — the totem is a whole social map, carried in a single name.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

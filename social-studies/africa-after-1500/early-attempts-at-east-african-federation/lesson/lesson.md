@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Lugard tries to merge 
 
 Lugard tries to merge Kenya and Uganda in 1896, Johnston in 1900, Eliot in 1905 — all fail; the Baganda, fearing for their privileged position under the 1900 Agreement, oppose under Muteesa, and Tanganyika's governor opposes too
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

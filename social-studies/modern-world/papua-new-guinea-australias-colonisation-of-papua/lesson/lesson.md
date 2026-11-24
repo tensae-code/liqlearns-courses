@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fearing other powers a
 
 Fearing other powers and wanting gold and sugar labour, Australia takes Papua under the Papuan Act; Hubert Murray rules three decades — 99-year land leases, the 1907 labour indenture system, hospitals for TB and leprosy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

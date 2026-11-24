@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: a timeline runs from C
 
 a timeline runs from Cyrus's clay cylinder (539 BC) through Magna Carta (1215) to America's 1776 and France's 1789 declarations and the UN's 1948 charter — with Armenia's own Shahamir Shahamirian printing his «Vorogayt Parats» constitution draft in Madras in 1773
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson plan for §6.3, the history of human rights
 
 teachers are advised to present rights as a long struggle won step by step, not a gift handed down
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §2.1 The components and generations of human rights
 
 rights arrive in generations — civil and political rights won in the age of revolutions, social rights in the industrial age, collective rights after 1945
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

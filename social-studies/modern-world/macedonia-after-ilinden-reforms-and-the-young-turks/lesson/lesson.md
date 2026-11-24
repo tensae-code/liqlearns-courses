@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a crushed uprising bri
 
 a crushed uprising brings European reform officers, and with them the neighbours' armed bands
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 5: Macedonia in the Young Turk coup and regime — Macedonia is the centre of the 1908 coup, pluralism blooms, then the regime hardens after the counter-coup attempt
 
 Macedonian revolutionaries help restore the constitution, then watch the Young Turks turn nationalist
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

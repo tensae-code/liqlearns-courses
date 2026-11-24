@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: two literary schools d
 
 two literary schools divide the Slavic world — Preslav, where the simpler Cyrillic alphabet is devised under Simeon and Chernorizets Hrabar defends the Slavic letters in "On the Letters", and Ohrid, faithful to Glagolitic; around them rise Samuil's fortress, Skopje's Kale and the mosaic basilicas of the south
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

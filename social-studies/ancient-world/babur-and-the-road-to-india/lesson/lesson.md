@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Temur's heir Babur los
 
 Temur's heir Babur loses Samarkand three times, takes Kabul, and at Panipat (1526) founds the Mughal empire in India, writing his Baburnama on the way
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. I §4 Zahiriddin Muhammad Babur — a great statesman and thinker
 
 the Fergana prince who lost Samarkand to Shaybani three times becomes the book's model ruler-writer; his road leads through Kabul to India and the Baburnama
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

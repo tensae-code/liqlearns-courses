@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Venice walls and gover
 
 Venice walls and governs Candia for four centuries; the great Ottoman siege of 1648–1669, the longest of its age, ends Venetian Crete
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

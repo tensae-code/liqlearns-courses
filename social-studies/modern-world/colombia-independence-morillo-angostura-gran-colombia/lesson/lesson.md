@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: New Granada wins indep
 
 The early acts still name Fernando VII while demanding criollo power; Pablo Morillo besieges Cartagena from 18 August 1815 in the Spanish reconquest; on 17 December 1819 the Congress of Angostura proclaims the Republic of Colombia, with Santander vice-president of Cundinamarca, Bolívar's union dream fails at the Congress of Panama, and bolivarianos and santanderistas split
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Módulo 2 / Guía 4: Why did we become independent?
 
 The causes of New Granada's independence are built from sources — Captain Antonio Baraya's company guards the council houses as the movement opens, and a merchant lover of liberty asks whether Europe will let an old serpent devour the fairest part of the globe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Unidad 4 / Tema 19: Formation of the Colombian State, 1819–1849
 
 Nariño's authority is disowned and war declared on Santafé; Bolívar's arrival forces Viceroy Sámano to flee; Gran Colombia forms, Quito separates in May 1830, haciendas harden social relations, and the Guerra de los Supremos follows
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

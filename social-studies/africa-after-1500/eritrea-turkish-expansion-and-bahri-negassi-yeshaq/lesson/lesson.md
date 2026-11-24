@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: ozdemir Pasha took Massawa 
 
 Ozdemir Pasha takes Massawa in 1557 and pushes for the highlands; Bahri Negassi Yeshaq first bars him, then allies with the Turks against Abyssinia's King Minas, and is killed fighting King Sertse-Dengel in 1578 — after which Turkish rule shrinks back to the coast and the Naibs.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Turkish expansion and Bahri Negassi Yeshaq as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Turkish expansion and Bahri Negassi Yeshaq as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

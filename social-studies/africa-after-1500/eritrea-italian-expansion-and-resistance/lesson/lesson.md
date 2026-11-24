@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: italy bought Assab in 1869,
 
 Italy buys Assab in 1869, takes Massawa, and in 1890 names the colony Eritrea — but Dejazmach Bahta Hagos rises against the land seizures in 1894.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Italian expansion and resistance as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Italian expansion and resistance as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Italian rule 1882–1941
 

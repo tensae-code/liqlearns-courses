@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Saladin restores Jerus
 
 Hattin restores Jerusalem and lifts Muslim hearts; Richard's crusade ends in the peace of 1192 and Saladin dies the next year; his brother al-Adil sees that the Crusaders now aim at Egypt herself — the Fifth Crusade takes Damietta, but al-Kamil floods the Delta plain and the invaders, cut off from their base, evacuate Egypt in 1221 for nothing; a generation later Louis IX lands for the Seventh Crusade, al-Salih Ayyub dies mid-crisis, and his widow Shajar al-Durr hides the death, holds the state together and sees Louis captured at al-Mansura.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

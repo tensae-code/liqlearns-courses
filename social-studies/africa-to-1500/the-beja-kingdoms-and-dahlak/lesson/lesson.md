@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: across the Red Sea the fait
 
 Christianity reaches Eritrea across the Red Sea about 350 CE, and in 615 CE the first Muslims find refuge in Dahlak, planting Islam on the islands and coast.
 
-[Picture slot — a picture of the key place or moment of The Beja kingdoms and Dahlak as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of The Beja kingdoms and Dahlak as the book shows it. Point to it and say what it shows.
 
 ## Sub lesson 2 — Eritrea in the Medieval Age
 

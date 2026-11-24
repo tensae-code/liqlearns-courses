@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: kings claim power from
 
 kings claim power from God alone — Richelieu breaks France's rivals for Louis XIII, Louis XIV reigns as the Sun King, and Tudor England and Habsburg Spain show other faces of the same system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §3 Political changes in Europe: absolute monarchies
 
 kings gather every thread of power into one hand and rule as the state itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

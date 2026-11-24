@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The new separate repub
 
 The new separate republic lives off its farms and herds, and its society keeps the old orders under new flags
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Venezuela at the start of our republican life
 
 In 1830 the new republic is exhausted by war, farms and herds ruined, population fallen, and foreign commercial houses move in to control its markets
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

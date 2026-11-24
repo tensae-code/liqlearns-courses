@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ashoka conquered Kalin
 
 Ashoka, first king to speak to his people through inscriptions in Prakrit and Brahmi, conquers coastal Kalinga — then reads his own casualty figures (a lakh and a half captured, more than a lakh killed) and, horrified, renounces war: the only king in world history to give up conquest after winning.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

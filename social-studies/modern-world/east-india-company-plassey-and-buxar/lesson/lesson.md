@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: A trading company turn
 
 After the failed rising of 1857 the East India Company's rule passes to the Crown; the book closes the chapter with the challenges the Muslims of the Subcontinent then faced — political eclipse, economic ruin and an education gap.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Plassey and Buxar — a company becomes a ruler
 
 A trading company turns political, Clive's bargain with Mir Jafar hands it Bengal, and Buxar makes it master of northern India.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Doctrine of Lapse
 
 A legal rule becomes a land-grab, Indian rulers learn adoption no longer protects their thrones, and resentment builds toward 1857.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

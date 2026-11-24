@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The armed struggle for
 
 The armed struggle forces the Lusaka Accords and a transition government; on 25 June 1975 independence is proclaimed and the People's Republic is born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

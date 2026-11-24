@@ -16,7 +16,7 @@ Poland's first stone churches and cathedral doors rise in the same styles as the
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of one of Poland's first stone churches and its carved cathedral doors — the student points to the stone joining Poland to Europe's story.]
+In your mind's eye: one of Poland's first stone churches and its carved cathedral doors. The student points to the stone joining Poland to Europe's story.
 
 ## Sub lesson 3 — Europe's story, in Polish stone
 

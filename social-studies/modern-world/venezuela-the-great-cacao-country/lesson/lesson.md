@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Cacao plantation owner
 
 Cacao plantation owners are rich in land and power, and their crop makes colonial Venezuela's fortune and its ruling class
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The colonial economy
 
 Cacao, and the colony's other products, organise work, trade and wealth for Spain's benefit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

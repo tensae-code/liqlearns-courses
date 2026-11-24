@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Uganda is ruled 1888�
 
 Uganda is ruled 1888–1894 by a company, IBEACO, personified by Captain Frederick Lugard (in Uganda Dec 1890–May 1892); commissioners follow, Coryndon forms LEGCO in 1921 and Archer opens Makerere
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Kunaev is replaced by 
 
 Kunaev is replaced by an outsider; students fill the square; troops clear it — the first crack in the Union
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §32. Punitive measures against participants in the December 1986 events
 
 trials, expulsions and ruined careers follow the square
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §14 The December events of 1986 in Kazakhstan
 
 an outsider replaces Kunaev; students fill the square; troops clear it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

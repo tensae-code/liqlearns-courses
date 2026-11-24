@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: resistance comrades be
 
 resistance comrades become enemies; three years of civil war end in 1949 and leave a divided, policed democracy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Civil War (1946–1949)
 
 the wartime split hardens into three years of war in the mountains
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Cold War's effects on Greece and the Civil War
 
 Greece becomes the Cold War's first battlefield; government and communist armies fight to 1949 and the country enters the Western camp scarred
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Matteotti, the e
 
 after Matteotti, the exceptional laws dissolve opposition and free press; Gramsci's Document reads fascism's associative crimes as the regime's true constitution, and the Storia culturale pauses on the very word "totalitarianism"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 6 §§1–2 Lo Stato fascista; Il totalitarismo italiano e i suoi limiti
 
 De Felice and Gentile (Fare storia) argue over fascism's nature — myth and organisation — while the narrative weighs how totalitarian Italy really was against Germany's and Russia's models
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

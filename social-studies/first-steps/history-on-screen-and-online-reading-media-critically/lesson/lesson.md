@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: documentaries colouris
 
 documentaries colourise the trenches, social networks let anyone publish "history", and polished lies outrun footnoted truths — Hitler escaping to Argentina, Napoleon shrunk to 150 cm by a units mix-up and British mockery; meanwhile nations argue over Confederate statues and over how German, British and French textbooks tell empire — the pupil's defence is critical reading
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

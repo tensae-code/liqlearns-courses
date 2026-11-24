@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: For thirty-one years o
 
 For thirty-one years one man owns the country and crushes every right.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 2 La dictadura de Trujillo: surgimiento y consolidación
 
 The occupation's constabulary chief seizes the state in 1930 and builds a personal regime.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 2 Modernización contradictoria y oposición al régimen
 
 Roads and monuments rise while opponents are jailed, exiled or killed.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unidad 2 Crisis y muerte de Trujillo
 
 Isolated and sanctioned, the regime ends with Trujillo's assassination in 1961.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

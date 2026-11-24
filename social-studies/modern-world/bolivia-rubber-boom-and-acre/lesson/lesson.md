@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The rubber boom enrich
 
 The rubber boom enriches the east; rubber barons twice attempt secession — the Acre "revolutions" and an "independent state" — pulling Bolivia toward losing the Acre (El auge de la goma y el Acre)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ Turkey's Grade 12 book ends its eight units on a threshold. The Cold War's end d
 
 The republic's answer, as the book leaves it, is a renegotiation: Turkey after 1990 must find its place again between Europe and its region, no longer as a flank of someone else's alliance but as a country deciding for itself. The book's closing beat: the wall falls, the neighbourhood catches fire, and the republic renegotiates its place between Europe and its region.
 
-[Picture slot — a picture of the threshold years — the fallen Berlin Wall's painted fragments in the foreground, and behind it a map of Turkey between Europe and the Middle East redrawn in new colours — the student points to Turkey on the map and says what has changed around it.]
+In your mind's eye: the threshold years — the fallen Berlin Wall's painted fragments in the foreground, and behind it a map of Turkey between Europe and the Middle East redrawn in new colours. The student points to Turkey on the map and says what has changed around it.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: John Williams brings t
 
 John Williams brings the LMS in 1830 and by 1834 Sāmoan is a written language; Peter Turner returns in 1835 at the request of Sāmoans and Tonga's King George Tupou I, planting the Wesleyan Lotu Toga; French Catholic priests follow in 1845 (Lotu Pope), and shipwrecked Mormon elders land in 1899; villages still mark the landing places
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

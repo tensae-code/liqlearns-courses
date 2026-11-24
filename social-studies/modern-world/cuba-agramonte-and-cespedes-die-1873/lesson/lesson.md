@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ignacio Agramonte fall
 
 Ignacio Agramonte falls at Jimaguayú in 1873 and Céspedes, deposed by the Chamber, dies alone at San Lorenzo in 1874; the war loses its two great chiefs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

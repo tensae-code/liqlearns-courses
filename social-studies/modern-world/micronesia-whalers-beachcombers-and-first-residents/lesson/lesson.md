@@ -8,7 +8,7 @@ The first foreigners who stay are not governors or priests — they are sailors 
 
 The chapter is called Early Guests Who Stayed. Whaling ships and traders hunting beche-de-mer — sea cucumber for the China market — crowded into the eastern Carolines. The islands now had regular foreign visitors with goods, guns and demands, long before any foreign flag ruled them.
 
-[Picture slot — a picture of a whaling ship anchored off an eastern Caroline island, with traders on the beach and a lone sailor walking inland toward a chief's house — the student points to the sailor and says who he is and under whose law he will live.]
+In your mind's eye: a whaling ship anchored off an eastern Caroline island, with traders on the beach and a lone sailor walking inland toward a chief's house. The student points to the sailor and says who he is and under whose law he will live.
 
 ## Sub lesson 2 — Beachcombers: deserters living under chiefs
 

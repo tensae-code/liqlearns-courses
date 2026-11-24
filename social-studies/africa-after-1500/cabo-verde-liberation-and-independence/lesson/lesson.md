@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 After remote roots of resistance, the PAIGC under Amílcar Cabral first tries negotiation with Portugal, then, refused, launches the armed struggle in Guinea.
 
-[Picture slot — a picture of a flag being raised on 5 July 1975 while a crowd watches — the student says whose struggle brought this day and in unity with which country it was proclaimed.]
+In your mind's eye: a flag being raised on 5 July 1975 while a crowd watches. Say whose struggle brought this day and in unity with which country it was proclaimed.
 
 
 ## Sub lesson 2 — The Proclamation of Independence

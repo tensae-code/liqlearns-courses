@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 Beaten as a conventional army, the resistance does not end — it reorganises. Falintil, its armed force, rebuilds as guerrillas, and the resistance learns to work on three fronts at once, so that no single defeat can finish it.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — The 1983 ceasefire — Kontaktu Dame
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Once the Arab state se
 
 Once the Arab state settles, farming expands — more land, more water, better-off peasants — and agricultural science flourishes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

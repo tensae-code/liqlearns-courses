@@ -16,7 +16,7 @@ The same year, 1935, the Copperbelt struck. The copper mines were the colony's w
 
 Organisation became politics. In 1948 the Northern Rhodesia African Congress was formed; in 1951 it became the ANC. When Britain moved to join Northern Rhodesia into a Federation in 1953, the fight went to London itself: a delegation travelled there in 1952 to oppose it. The Federation was imposed anyway — and resistance answered with election boycotts and the burning of passes, the documents that controlled African movement.
 
-[Picture slot — a picture of the Zambian places and people named in this lesson, as the book tells it: name one person or place and say what happened there.]
+In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
 The final push came from UNIP. Its Cha Cha Cha campaign of 1961 turned protest into a nationwide campaign of defiance. Faced with a country that would no longer be governed on the old terms, the colonial government conceded. In 1964 Northern Rhodesia won independence — and became Zambia.
 

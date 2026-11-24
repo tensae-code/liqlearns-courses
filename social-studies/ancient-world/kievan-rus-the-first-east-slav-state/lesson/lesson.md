@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: East Slav tribes invit
 
 East Slav tribes invite Varangian princes, Oleg takes Kyiv in 882, Sviatoslav smashes the Khazars, Vladimir baptises Rus' in 988, and Yaroslav the Wise gives it laws before princes split it apart
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

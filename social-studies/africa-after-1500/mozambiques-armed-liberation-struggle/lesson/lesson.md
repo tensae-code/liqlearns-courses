@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Refused a peaceful pat
 
 Refused a peaceful path, Mozambicans take up arms on 25 September 1964; the liberation war begins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The launch of the armed struggle
 
 Faced with Lisbon's refusal to negotiate, the united front launches the armed liberation struggle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: long before Persia, El
 
 long before Persia, Elam and the plateau's early cities farm, build and write — Iranian civilisation has a dawn far older than its empires (Dawn of Iranian civilisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The oldest settlements of Iran
 
 the first Iranian farmers settle, build and bury their dead in the plateau's oldest sites, thousands of years before any king (The oldest settlements of Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — How did the first cities come into being?
 
 villages grow walls, markets and rulers, and the city appears on the Iranian plateau (How did the first cities come into being?)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

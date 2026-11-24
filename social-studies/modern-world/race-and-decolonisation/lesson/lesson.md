@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fanon's Wretched of th
 
 Fanon's Wretched of the Earth (book study) theorises colonial violence, Nkrumah's "new African" (Document) answers it with dignity, and the Hutu-Tutsi Storia culturale shows how colonialism invented the races it ruled by
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

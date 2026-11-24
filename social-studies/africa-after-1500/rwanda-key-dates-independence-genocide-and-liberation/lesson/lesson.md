@@ -8,7 +8,7 @@ Three dates carry modern Rwanda on a child's timeline: 1962, when the country ga
 
 In 1962 Rwanda gains independence. On the P3 timeline this is the first of the country's own marked years: the year Rwanda stops being ruled from outside and becomes its own country.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — 1994 — genocide, then Liberation on 4 July
 

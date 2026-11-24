@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Haiduti in the mountai
 
 Haiduti in the mountains and rising after rising — resistance never fully sleeps (Lesson 43: The resistance of the Bulgarians against Ottoman power)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 22: The anti-Ottoman resistance of the Bulgarians
 
 Early risings at Tarnovo and Chiprovtsi answer Ottoman rule with arms (Lesson 22: The anti-Ottoman resistance of the Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

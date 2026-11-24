@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: party politics begins 
 
 Party politics begins in the 1960s before independence; the Alliance wins the 1972 election (52 seats) and the split, multi-party 1977 elections, and pupils research how the 2006 Alternative Voting system worked and what changed after it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

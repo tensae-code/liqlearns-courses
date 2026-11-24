@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Rain falls in Caracas 
 
 Rain falls in Caracas the day Simón is born; the patio house is happy until death breaks the childhood, and the enslaved Hipólita and Matea raise the child
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — A Liberator is born
 
 The birth of the child who will liberate is told as a door opening — birds leave the cage as the liberator enters the world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

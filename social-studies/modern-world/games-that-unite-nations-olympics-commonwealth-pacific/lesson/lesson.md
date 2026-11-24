@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the modern Olympics re
 
 The modern Olympics revive Olympia's ancient games through Coubertin's IOC (1894); the Empire Games begin in 1930 and become the Commonwealth Games; the South Pacific Games begin in Suva, Fiji, in 1963.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

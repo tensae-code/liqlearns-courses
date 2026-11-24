@@ -10,7 +10,7 @@ A new ruler builds towns, schools and industries on your island — and your own
 
 In practice Japan transformed them: towns, industries and a cash economy grew — and immigration grew faster, until islanders became a minority in their own land.
 
-[Picture slot — a picture of a Japanese-era island town with a school, a phosphate pier and island children in kogakko uniform — the student points to the school and the pier and says how each tied the island to the empire.]
+In your mind's eye: a Japanese-era island town with a school, a phosphate pier and island children in kogakko uniform. The student points to the school and the pier and says how each tied the island to the empire.
 
 ## Sub lesson 2 — Schools, immigrants and island work
 

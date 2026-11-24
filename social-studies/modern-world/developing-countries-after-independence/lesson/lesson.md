@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: newly independent nati
 
 newly independent nations build industries and regional blocs and demand a fairer world economic order
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The colonial system collapses, emerging countries develop
 
 1960, the 'Year of Africa', breaks the colonial map; new states build the Non-Aligned Movement and demand a new economic order
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mussolini's San Sepolc
 
 Mussolini's San Sepolcro programme (Document) mutates into the landowners' squads; urban and agrarian squadrismo (the chapter's document) burn the unions' chambers while the state looks away — Corner's Storiografia maps the movement's fragments
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 3 §§3–4 Lo squadrismo fascista; Mussolini alla conquista del potere
 
 the squads (the module's keyword) burn the leagues' chambers province by province — Tasca's Fare storia anatomy of squadrismo — until the March on Rome (Eventi) turns violence into government; Mussolini is the module's Personaggi study
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

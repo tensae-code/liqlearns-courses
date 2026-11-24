@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after 'Ad perish, surv
 
 after 'Ad perish, survivors flee drought and creeping desert to the wadis of springs — Marib, al-Jawf, Sanaa, Hadramawt, Shabwa, Tihama — where the ancestors of Ma'in, Saba, Hadramawt and Himyar settle into farming villages with terraces and small dams, trade frankincense before any kingdom exists, and send the first Yemeni migrations north, among them Jurhum, who will one day host Hajar and Ismail at Mecca
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

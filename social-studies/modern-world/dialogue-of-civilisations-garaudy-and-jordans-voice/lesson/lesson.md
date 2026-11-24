@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a civilisation is ever
 
 a civilisation is everything humans make, in science, art, building and rule; the French Muslim thinker Roger Garaudy coins "dialogue of civilisations" for peaceful rivalry and bridge-building instead of clash; Jordan carries the idea through Prince Hassan's Arab Thought Forum and the Royal Institute for Inter-Faith Studies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

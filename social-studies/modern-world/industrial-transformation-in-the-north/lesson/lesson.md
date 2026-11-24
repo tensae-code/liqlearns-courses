@@ -8,7 +8,7 @@ Mills rose, banks multiplied, canals and rails stitched a continent — and work
 
 Mills rose in the Northeast — factories gathering workers under one roof to make cloth and goods by machine and water power. Making things stopped being only a household craft.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — A capitalist republic of banks and markets
 

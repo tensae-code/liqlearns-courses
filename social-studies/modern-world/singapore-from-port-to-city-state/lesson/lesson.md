@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: 647 square kilometres 
 
 647 square kilometres and nearly five million people (2008) — Lee Kuan Yew's generation turns a colonial port into a city-state where Chinese, Malays and Indians trade with the world (Ch. 3 Lesson 3, Singapore)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History Ch. 3 Lesson 3, Singapore
 
 expelled from Malaysia in September 1965, a 646 km² island of 3 million (1998) — Chinese 76.6%, Malays 14% — is driven by Lee Kuan Yew's government to first-world wealth in one generation (History Ch. 3 Lesson 3, Singapore)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

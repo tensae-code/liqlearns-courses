@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the defeated Ottoman E
 
 the defeated Ottoman Empire is occupied and partitioned, and Turkish patriots take up arms rather than accept the carve-up
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §10 The fall of the sultan's regime and the struggle against foreign intervention in the former Ottoman Empire
 
 occupied and partitioned, Turkish patriots refuse the carve-up and take up arms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

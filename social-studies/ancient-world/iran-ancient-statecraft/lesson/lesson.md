@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: how did kings hold so 
 
 how did kings hold so vast a land? Satraps, inspectors, roads and the king's justice — the machinery of ruling is the lesson, not the battles (The art of statecraft (آیین کشورداری))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — How did the empires of ancient Iran administer the country?
 
 the child's first statecraft question — satrapies, roads, taxes and the king's law as the answer to governing a continent (How did the empires of ancient Iran administer the country?)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

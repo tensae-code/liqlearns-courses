@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: king and prime ministe
 
 king and prime minister split the country in two — two governments, two armies — until the Allies force unity on Allied terms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The National Schism in Greece
 
 Venizelos and King Constantine pull Greece apart over joining the war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Greece in the First World War
 
 the National Schism splits Greece into two states; the Thessaloniki government joins the Allies and the Macedonian front ends the war in the Balkans
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Theme 2 D: The National Schism (1915–1922)
 
 the Venizelos–Constantine clash splits parties, state and army into two Greeces whose feud outlives the war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

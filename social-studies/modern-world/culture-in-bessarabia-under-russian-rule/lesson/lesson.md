@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: annexed Bessarabia get
 
 annexed Bessarabia gets a new cultural ambience — imperial schools under university districts, enlightenment authors in public office, and Chișinău rebuilt after 1812 in its upper town
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §52: Cultura în Basarabia sub dominaţia ţaristă (1812–1918)
 
 annexed Bessarabia keeps its own culture on a secularising path; religious books and folklore lead, Bănulescu-Bodoni builds its church life, and Bessarabians feed the empire's science
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

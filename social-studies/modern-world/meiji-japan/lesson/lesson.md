@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Meiji state abolis
 
 the Meiji state abolishes the feudal domains, frees the land market and builds 1,300 factories, then sells them cheap to the houses that become Mitsui and Mitsubishi — the first Eastern country to take Europe's industrial technique ready-made, its monopoly capitalism still woven with feudal leftovers and a landlord-bourgeois monarchy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

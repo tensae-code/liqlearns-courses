@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sher Ali refuses a Bri
 
 Sher Ali refuses a British mission and the Second Anglo-Afghan War follows; the Gandamak treaty (1879) costs Kabul its foreign policy, the Kabul residency is stormed, and Abdur Rahman keeps a guarded internal independence — Britain leaves Kandahar beaten by Afghan resistance at Maiwand (1880)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

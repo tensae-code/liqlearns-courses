@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A runner's road from M
 
 When Persia lands at Marathon in 490 BCE, Pheidippides runs the road to Athens with the news and gives every later marathon its name and distance; and at Olympia the Greeks' games of 776 BCE sleep for fifteen centuries and wake again in 1896 as the modern Olympics.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Pheidippides and the timeline of the games
 
 The book's fact-box gives Pheidippides his run — 240 kilometres to Sparta in two days to beg help against Persia — and its timeline runs the Greek story from the first Olympic Games of 776 BCE to the modern revival of 1896.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

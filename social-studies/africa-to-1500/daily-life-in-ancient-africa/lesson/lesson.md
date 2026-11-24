@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ancient Africans build
 
 ancient Africans build homes and towns, and the town changes how people live together (UA2 Habitat et urbanisation dans l'Afrique ancienne)
 
-[Picture slot — a picture of an ancient African town — homes, a family at work, food being prepared and people in dress and ornaments — the student names the four parts of daily life]
+In your mind's eye: an ancient African town — homes, a family at work, food being prepared and people in dress and ornaments. Name the four parts of daily life.
 
 ## Sub lesson 2 — The family
 

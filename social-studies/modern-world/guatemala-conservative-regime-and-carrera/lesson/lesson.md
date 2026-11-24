@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Rafael Carrera, the mou
 
 Out of the Federation's wreck, Guatemala's Grade 4 book gives Rafael Carrera centre stage. The mountain caudillo founds the Republic of Guatemala in 1847, crushes the Los Altos separatists who would split the country, and sends troops to expel William Walker's filibusters from Nicaragua. His conservative regime — the thirty years — orders Guatemala around church, tradition and the caudillo's own power.
 
-[Picture slot — a picture of Carrera leading mountain troops, with the new Republic of Guatemala's flag of 1847 and a map showing Los Altos and Nicaragua — the student names Carrera and the year 1847.]
+In your mind's eye: carrera leading mountain troops, with the new Republic of Guatemala's flag of 1847 and a map showing Los Altos and Nicaragua. Name Carrera and the year 1847.
 
 ## Say it to your companion
 

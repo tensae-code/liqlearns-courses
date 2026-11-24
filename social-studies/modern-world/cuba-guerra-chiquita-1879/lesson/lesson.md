@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Calixto García's litt
 
 Calixto García's little war of 1879–80 fails for lack of unity and timing, teaching the next generation what to fix
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 2.2 The turbulent repose or fertile truce (1878–1895)
 
 between wars Cuba abolishes slavery (1886), builds parties and sugar centralisation, and Martí converts the truce into preparation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

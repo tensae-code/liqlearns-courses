@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Amorites, Canaanites a
 
 Amorites, Canaanites and Aramaeans build rival kingdoms and city-states across Syria and Palestine, trading and fighting between Egypt and Mesopotamia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The ancient peoples of the Levant
 
 Amorites build Mari on the Euphrates; Canaanites raise walled city-kingdoms — Jericho, Megiddo, Jerusalem — each with its own king, until Assyria and Babylon swallow them all
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: the US occupation gove
 
 the US occupation government dissolves the Liberation Army and the Revolutionary Party, pays off the mambises, and rules through interventors until a republic it can control is ready
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 5.6–5.7 US occupation of Cuba; political mechanisms to assure imperialist intervention
 
 occupation governors, the Platt Amendment and the electoral law build intervention into the republic's foundations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 3.1 Cuba 1899–1902: US policy and Cuban attitudes
 
 occupation is analysed as policy — sanitation, orders, the Constitutional Convention and Platt — against Cuban resistance and accommodation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Stalin's five-year pla
 
 Stalin's five-year plans force factories up and peasants into collective farms at a terrible human cost
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §21 Stalin and totalitarianism in the USSR; industrialisation; collectivisation
 
 five-year plans and forced collectivisation at a terrible human cost
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §6.1 How did the Stalinist political regime change the country?
 
 one party, one leader, terror as routine government
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §6.2 How did the USSR's economy develop in the 1920s–30s?
 
 from NEP markets to command plans and collective farms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §6.3 "Engineers of human souls": how did art serve power?
 
 socialist realism conscripts writers and painters into the plan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

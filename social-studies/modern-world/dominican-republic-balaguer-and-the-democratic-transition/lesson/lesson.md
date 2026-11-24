@@ -8,43 +8,43 @@ Before you read on, hold this lesson's one thing in mind: Balaguer rules twelve 
 
 Balaguer rules twelve hard years between authoritarianism and development.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 8 Alternativas democráticas 1978–1996
 
 Elections finally change governments, and democracy survives its tests.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 8 Gobierno de Leonel Fernández (1996–2000) y transformaciones económicas, educativas y tecnológicas
 
 A new president promises modernisation as the century closes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unidad 4 Fase neo-autoritaria (1966–1978): el proceso político y el auge económico
 
 Balaguer's twelve years mix growth, repression and controlled politics.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Unidad 4 Contradicciones estructurales y políticas
 
 The model's own contradictions — inequality, dependence, unrest — pile up beneath the order.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Unidad 5 Transición al actual orden democrático (1978–1996): el cambio y los Diez Años
 
 In 1978 voters choose change; a decade of alternation tests the new democracy.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Unidad 5 Transición a la economía de servicios y balance estructural de fin de siglo
 
 Tourism and services replace sugar as the century — and the old order — ends.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

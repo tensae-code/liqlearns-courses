@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Italian city-dwellers 
 
 Italian city-dwellers swear collective oaths and govern themselves through consuls and podestà, raising tower-houses and writing their own statutes while bishops and emperors look on
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — L'Europa dei comuni; Lo scontro tra l'imperatore e i comuni italiani; Il giuramento di Pontida
 
 the communes swear their oath at Pontida (1167) and beat Barbarossa's empire at Legnano; canon law grows in the same cities as their other constitution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

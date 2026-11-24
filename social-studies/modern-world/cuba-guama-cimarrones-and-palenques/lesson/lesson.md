@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: cacique Guamá holds t
 
 cacique Guamá holds the Baracoa mountains 1522–1533 and burns the town; runaway cimarrones build fenced palenques in the wilds and choose a hard free life over slavery
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

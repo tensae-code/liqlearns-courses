@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a poor Havana boy who 
 
 a poor Havana boy who at sixteen is sent to the quarries for a letter, is exiled, and grows into the writer who will unite Cuba
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

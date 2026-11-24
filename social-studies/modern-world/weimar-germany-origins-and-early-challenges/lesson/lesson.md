@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: The Weimar Republic is
 
 The Kaiser abdicates, revolution spreads from the Kiel mutiny and Ebert's new government signs the Armistice; the republic is born from defeat and inherits the blame for it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 1.2 The setting up of the Weimar Republic
 
 Elections in January 1919 and a constitution finalised at Weimar give women the vote at 20 and the world's most democratic frame — yet proportional representation and the president's Article 48 emergency powers plant its instability.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 2.2 Challenges to the Republic from the left and right
 
 Spartacists under Luxemburg and Liebknecht rise in Berlin and are crushed by the Freikorps Ebert calls in; the Kapp Putsch then marches from the right and is stopped only by a general strike.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 2.3 The challenges of 1923
 
 France occupies the Ruhr over unpaid reparations, passive resistance shuts the mines, and hyperinflation wipes out savings until Stresemann calls off resistance and issues the Rentenmark.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

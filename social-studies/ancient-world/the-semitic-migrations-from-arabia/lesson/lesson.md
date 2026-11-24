@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Arabia slowly dries, a
 
 Arabia slowly dries, and from about 3500 BCE Semitic tribes wave out toward Palestine, Sinai, the Nile Delta and North Africa, mixing with the peoples they find
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

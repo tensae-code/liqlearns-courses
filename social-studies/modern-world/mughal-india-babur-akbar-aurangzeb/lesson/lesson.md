@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Babur (1526–1530), A
 
 Babur (1526–1530), Akbar (1556–1605) and Aurangzeb (1685–1707) (portraits and empire map, p. 187) build and overstretch Muslim rule over Hindu India (History Ch. 3 Lesson 4, Mughal India)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

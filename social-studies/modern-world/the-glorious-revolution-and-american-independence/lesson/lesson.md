@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Magna Carta in 1215 fi
 
 Magna Carta in 1215 first binds a king, Charles I's tyranny ends in the Glorious Revolution of 1688, and in 1776 America declares that governments rule by consent
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kartosuwiryo's Darul I
 
 Kartosuwiryo's Darul Islam/TII proclaims an Islamic state, and Sumatra's PRRI with Sulawesi's Permesta rise against Jakarta — the unitary state fights for its map.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

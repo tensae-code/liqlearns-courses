@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: movable type multiplie
 
 movable type multiplies books beyond the copyists' reach, and literacy — and with it modern society — starts to spread
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson plan for §2.2, the invention of printing
 
 the guide times the lesson to literacy's worldwide rise once books could be printed rather than copied
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

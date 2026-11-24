@@ -16,7 +16,7 @@ Whiplash lines and plant forms swallow architecture, furniture, posters and jewe
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of an Art Nouveau building, poster and piece of jewellery sharing the same whiplash line — the student traces the one style through all three.]
+In your mind's eye: an Art Nouveau building, poster and piece of jewellery sharing the same whiplash line. The student traces the one style through all three.
 
 ## Sub lesson 3 — Klimt's gold, a last total style
 

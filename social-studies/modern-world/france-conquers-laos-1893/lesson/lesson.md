@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Laos, already weakened
 
 Laos, already weakened under Siamese rule, is invaded and cut up by France in 1893
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 10: France intervenes and invades Laos
 
 gunboats on the Mekong; in 1893 Siam yields Laos to France
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: At the Second Youth Co
 
 At the Second Youth Congress in Jakarta in 1928, young delegates from rival regional associations pledge one motherland, one nation, one language — Indonesia.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab 3.C.1-3 Menuju Sumpah Pemuda / Bangkitnya Nasionalisme Modern / Perjuangan di Volksraad
 
 The road runs to the 1928 Youth Pledge, a modern nationalism that fights on two fronts at once — mass organisation outside and speeches inside the colonial Volksraad — until the colonial government's final years.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Between 1500 and 1900 
 
 between 1500 and 1900 African societies keep changing, forming great new sociopolitical formations (UA5 Les grandes formations sociopolitiques de l'Afrique du 16e au 19e siècle)
 
-[Picture slot — a picture of African societies changing between 1500 and 1900 — new states forming and old ones reshaping from inside — the student names one internal cause of change]
+In your mind's eye: african societies changing between 1500 and 1900 — new states forming and old ones reshaping from inside. Name one internal cause of change.
 
 ## Sub lesson 2 — Africa's own causes
 

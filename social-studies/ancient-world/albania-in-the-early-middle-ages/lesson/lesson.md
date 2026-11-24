@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Goths, Huns, Avars and
 
 Goths, Huns, Avars and Slavs sweep the Illyrians' Romanised descendants into coastal cities and high mountains; Byzantium organises the land into the themes of Dyrrachion and Nikopolis, with Durrës guarding the start of the Via Egnatia; Bulgaria and Samuil's empire take turns ruling it, the people rise under Tihomir in 1040, and Norman invaders close the period
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

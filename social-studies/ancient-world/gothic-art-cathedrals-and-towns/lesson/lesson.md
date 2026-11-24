@@ -16,7 +16,7 @@ Towns grow rich and build town halls beside the bishops' churches.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Gothic cathedral rising on pointed arches and coloured glass, with a town hall beside it — the student follows the building upward.]
+In your mind's eye: a Gothic cathedral rising on pointed arches and coloured glass, with a town hall beside it. The student follows the building upward.
 
 ## Sub lesson 3 — The Middle Ages hand over
 

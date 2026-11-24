@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: War and peace, the fig
 
 War and peace, the fight for rights and freedoms, and a developing world — Australia's post-war frame in one overview (Overview 2: Australia after 1945 (OV2.2–OV2.5))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

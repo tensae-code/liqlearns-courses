@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: after the 1930s world 
 
 after the 1930s world crisis, caudillismo hardens into military dictatorships backed by oligarchies, and popular struggle answers them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — El papel de las organizaciones populares y de la mujer en la lucha centroamericana
 
 unions, peasant and student organisations — and women inside them — carry the long fight against the dictatorships
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Cambios políticos y la lucha por la democracia
 
 integration's stability leaves Guatemala's indigenous majority outside every programme and Nicaragua under a pseudo-democracy whose real power is the Guardia Nacional
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

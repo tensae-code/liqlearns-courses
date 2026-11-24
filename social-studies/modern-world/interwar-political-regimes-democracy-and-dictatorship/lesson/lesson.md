@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the USA stays a presid
 
 the USA stays a presidential republic while Hitler's Mein Kampf programmes the "new man" devoted to the state; Spain's Second Republic becomes the target of both radical left and right
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

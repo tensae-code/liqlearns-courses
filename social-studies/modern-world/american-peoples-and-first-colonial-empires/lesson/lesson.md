@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Aztec and Inca worlds 
 
 Aztec and Inca worlds meet conquistadors and colonial empire begins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §26 Peoples of America in the 15th c.; the first colonial empires (Portugal, Spain)
 
 Aztec and Inca civilisations fall to small bands of conquistadors
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §26 American peoples in the 15th c.; the first colonial empires (Portugal, Spain)
 
 Maya, Aztec and Inca worlds are overrun and colonies planted
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

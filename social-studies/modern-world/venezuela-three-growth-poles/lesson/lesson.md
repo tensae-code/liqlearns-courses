@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Caracas, the oil west 
 
 Caracas, the oil west and Guayana grow as three poles; ports are rebuilt for oil, Judibana rises as a garden-city camp, and a journey crosses the oil basins east to west
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Caracas in oil times: "Caracas, there it is..."
 
 The capital grows explosively on oil rent into a metropolis, the visible pole of the oil country's new geography
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

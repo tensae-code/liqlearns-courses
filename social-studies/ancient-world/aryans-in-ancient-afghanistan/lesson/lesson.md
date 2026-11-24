@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: around 2500 BCE the Ar
 
 around 2500 BCE the Aryans enter the land that will bear their name (Ariana), calling themselves noble and of good conduct, their earlier homeland unknown
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Chapter 1 (The Aryans), Lesson 1: The civilisation of Ariana
 
 the Aryan settlement gives the land its first name and civilisation, the frame for everything the course will tell
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

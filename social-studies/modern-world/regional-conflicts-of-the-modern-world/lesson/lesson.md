@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the world's frozen and
 
 the world's frozen and burning regional conflicts — their roots in borders, peoples and resources — are mapped and compared
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Programme Theme 2: Conflict
 
 regional, economic, environmental and religious-ideological conflicts, with ingenuity (հնարամտություն) taught as the alternative to fighting
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

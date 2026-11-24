@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a word born in the 196
 
 a word born in the 1960s takes off in the 1980s as transport and communication costs fall, finance and technology circle the planet, and bodies like the WTO bind national economies together (Ch. 1 Lesson 12, The evolution of globalisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

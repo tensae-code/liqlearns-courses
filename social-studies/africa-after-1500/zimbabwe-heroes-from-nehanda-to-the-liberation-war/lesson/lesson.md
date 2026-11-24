@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Zimbabwe's heroes run 
 
 Heroes shrink from the national acre to the district — the brave people of the child's own place — then grow back through three faces: Mbuya Nehanda, the brave woman who fought for freedom, Joshua Nkomo, and Josiah Tongogara. Children draw them proud and brave for the classroom wall.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Spirit mediums and heroes of the First Chimurenga (Grade 6)
 
 The war of 1896–97 is mobilised by the spirits. Mbuya Nehanda, Sekuru Kaguvi and Mukwati predict battles, protect fighters and urge the people on — and Nehanda and Kaguvi are executed for it. In Zimbabwe's telling, the mediums are not background to the war; they are among its leaders.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

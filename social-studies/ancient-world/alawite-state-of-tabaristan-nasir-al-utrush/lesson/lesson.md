@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: al-Hasan bin Ali al-Ut
 
 al-Hasan bin Ali al-Utrush, born in Medina in 230 AH and schooled there and in Iraq, carries the call to Tabaristan south of the Caspian, takes it in 301 AH and enters Amul, its capital, at the head of his army, and rules Tabaristan, Gilan and Daylam on the same principles as the Zaydi states of Yemen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Portuguese conquer
 
 The Portuguese come to the East African coast looking for ports on the sea route to India. They demand tribute from the coastal cities and plunder Mombasa, Zanzibar and Pemba.
 
-[Picture slot — a picture of Portuguese sailing ships anchored off a Swahili coastal city, with tribute being demanded on the shore — the student says why the Portuguese came and which cities were plundered.]
+In your mind's eye: portuguese sailing ships anchored off a Swahili coastal city, with tribute being demanded on the shore. Say why the Portuguese came and which cities were plundered.
 
 ## Sub lesson 2 — One province — until Oman drives them out
 

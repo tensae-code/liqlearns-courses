@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Zionism organises at B
 
 Zionism organises at Basel in 1897; Britain plants settlements and arms the newcomers, and Palestine answers with the revolts of 1920, al-Buraq 1929 and the Great Revolt of 1936–39; Sharif Hussein refuses to sign Palestine away ("I do not accept…"); Amir Abdullah protests Balfour to Churchill in Jerusalem in 1921 and demands Palestine's and Transjordan's unity and Britain's wartime promises kept; the Peel map of 1937 proposes partition; 1948 brings war, the armistices of 1949, the West Bank under Jordan and Gaza under Egypt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

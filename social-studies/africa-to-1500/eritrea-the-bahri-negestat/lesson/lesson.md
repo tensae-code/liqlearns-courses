@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: from the 1300s a 'Lord of t
 
 In the medieval highlands the Bahri Negassi rules Medri Bahri from Debarwa while Gragn's wars of 1541 shake the whole region.
 
-[Picture slot — a picture of the key place or moment of Eritrea — the Bahri Negestat as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — the Bahri Negestat as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Rise of the Bahri Negestat
 

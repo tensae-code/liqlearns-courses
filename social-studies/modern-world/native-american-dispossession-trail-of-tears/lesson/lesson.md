@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: America's Indigenous p
 
 America's Indigenous peoples are dispossessed along the Trail of Tears, with the Lewis and Clark expedition blogged as the research project — the comparison that frames Australia's own contact history (Depth Study 6d: America's Trail of Tears (6d.5, 6d.11))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gupta splendour gives 
 
 Gupta splendour gives way to regional kingdoms and then the Delhi Sultanate, while Hindu and Muslim cultures meet on the subcontinent
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

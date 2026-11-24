@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: Hitler turns a fringe 
 
 A failed Austrian art student is radicalised in Vienna and Munich, finds his voice as an army informant after the war and is sent to spy on a tiny workers' party he ends up leading.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 5.2 The early growth of the Nazi Party
 
 Drexler's DAP becomes the NSDAP with a 25-point programme; Hitler's speeches, the SA and the party newspaper turn a Munich fringe group into a movement.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 5.3 The Munich Putsch
 
 In November 1923 Hitler bursts into a beer hall to seize Bavaria and march on Berlin; police fire stops it, but the trial gives him a national platform and prison time to write Mein Kampf.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 5.4 The lean years, 1924–28
 
 Banned then refounded, the party reorganises into a national machine with Goebbels' propaganda, yet recovery-era voters ignore it — 12 seats in 1928.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — 6.2 Growth in support for the Nazis
 
 Fear of communism, Goebbels' posters and rallies, SA spectacle and Hitler's flights across Germany turn the Nazis into the party of the desperate and the frightened alike.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — 6.3 Political developments in 1932
 
 Brüning falls, von Papen and Schleicher intrigue, the Nazis become the largest party in July 1932, and Hindenburg — who detests Hitler — is talked into appointing him Chancellor on 30 January 1933.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

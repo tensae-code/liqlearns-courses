@@ -8,157 +8,157 @@ Before you read on, hold this lesson's one thing in mind: pupils explain the Rev
 
 pupils explain the Revolution's importance and name its heroes and martyrs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Efemérides: birth of Comandante Carlos Fonseca Amador
 
 Fonseca, a teacher born 23 June, becomes founder and commander-in-chief of the Sandinista Revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Héroes de la Patria: Carlos Fonseca Amador
 
 Fonseca founds the Frente Sandinista and is named Father of the Sandinista Popular Revolution, a life shown as proof ordinary people can change the country
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Héroes de la Patria: Julio Buitrago Urroz
 
 Buitrago, a hardworking boy who loved work from childhood, becomes Father of the Urban Resistance, with a house-museum keeping his story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Héroes de la Patria: Arlen Siu
 
 four years before the Revolution triumphs, young Arlen Siu gives her life; a song, "El cenzontle pregunta por Arlen Siu", asks after the girl who never came back
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Héroes de la Patria: Bertha Calderón
 
 Calderón, a reader inspired by Fidel's books, is killed a month before the Revolution's triumph and is remembered as a heroine of that final push
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Efemérides: anniversary of Comandante Carlos Fonseca Amador's passing
 
 the year closes by returning to Fonseca's mausoleum and death anniversary, the founder remembered at the moment he fell
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Aniversario de la Revolución Popular Sandinista
 
 the Revolution's anniversary is celebrated as the department's living historical feast, linking 1856's defence of sovereignty to 1979
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — La acción heroica de Rigoberto López Pérez
 
 poet Rigoberto López Pérez decides to end the Somoza dictatorship at its root and shoots the dictator, an act the book calls heroic sacrifice
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 10 — Legado histórico de Carlos Fonseca Amador
 
 Fonseca's legacy is founding the FSLN and giving the later Revolution its ideas and organisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 11 — Personajes históricos: Arlen Siu
 
 Arlen Siu, "la chinita de Jinotepe", joins the guerrilla and dies young; her story closes the department's hero gallery
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 12 — Surgimiento y desarrollo del FSLN; participación de las mujeres
 
 Fonseca and others found the FSLN; its combats grow over two decades and women fight throughout, not at the margins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 13 — Insurrección popular de 1978-1979 y ofensiva final
 
 whole towns rise in 1978-79; the people's participation in the final offensive brings the dynasty down on 19 July 1979
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 14 — La Revolución Popular Sandinista: gobierno, logros y dificultades; la mujer en la Revolución
 
 the Junta and Council of State replace Somoza's institutions, the Guardia becomes the Ejército Popular Sandinista, gains come in health, education and land — alongside real difficulties and women's central role
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 15 — Triunfo de la Revolución Popular Sandinista
 
 on 19 July 1979 the Revolution overthrows the Somoza dictatorship after an insurrection that costs some 50,000 lives, most of them young
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 16 — El gobierno sandinista: características
 
 a mixed economy, single health system, free compulsory education and labour protections define the revolutionary government's programme
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 17 — Logros de la Revolución: reforma agraria y proyectos
 
 agrarian reform delivers 4 million manzanas to 120,000 families and organises 3,151 cooperatives, while African palm, textile and cardboard projects rebuild production
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 18 — La acción de Rigoberto López Pérez, 1956
 
 López Pérez shoots Somoza García at León's Casa del Obrero on 21 September 1956, proving the dictatorship is not invincible; guerrilla movements, including old Sandinista Ramón Raudales, rise after him
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 19 — Fundación del Frente Sandinista de Liberación Nacional
 
 the FSLN is built to give the popular struggle the political-military organisation it lacked; early guerrillas fall at Raití and Bocay in 1963, the 22 January 1967 massacre breaks conservative hegemony, and Pancasán relaunches the armed struggle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 20 — La ofensiva sandinista de 1974-1978
 
 after the 1972 Managua earthquake exposes the regime's theft of aid, the Juan José Quezada commando seizes the Chema Castillo house on 27 December 1974 and the dictatorship answers with savage rural repression
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 21 — Carlos Fonseca, Padre de la Revolución Popular Sandinista
 
 Fonseca's life is told whole — Moscow and Kiev congresses, arrests and deportations, founding the Movimiento Nueva Nicaragua in 1961 and publishing Sandino's Ideario — the founder as the Revolution's father
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 22 — Derrocamiento del régimen somocista: la insurrección de 1978
 
 Monimbó and Subtiava rise, and on 22 August 1978 a Sandinista commando seizes the National Palace with the Congress hostage, forcing Somoza to free political prisoners on live television
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 23 — Triunfo de la Revolución Popular Sandinista
 
 the tactical retreat to Masaya, the Junta's first proclamation on 18 June and the final siege close in; Somoza Debayle flees on 17 July 1979 and revolutionary forces enter Managua
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 24 — Nicaragua durante la Revolución: forma de gobierno
 
 the five-member Junta de Gobierno de Reconstrucción Nacional replaces the Somocista state and proclaims a Fundamental Statute of rights on the road to a new constitution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 25 — Transformaciones socio-económicas de la Revolución
 
 Somoza-family property is expropriated, banking and foreign trade nationalised, and an agrarian reform creates People's Property Areas and cooperatives inside a mixed economy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 26 — La lucha en Nicaragua: del somocismo al triunfo de 1979
 
 the FSLN learns from its Bocay-Raití defeat, builds among peasants and city masses, unites its three tendencies and launches the final offensive; Washington itself asks Somoza to resign, he flees on 17 July and the FSLN enters Managua on 19 July 1979
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

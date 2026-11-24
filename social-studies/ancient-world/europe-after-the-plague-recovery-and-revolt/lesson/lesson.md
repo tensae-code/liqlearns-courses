@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: survivors inherit land
 
 survivors inherit land and demand wages; Florentine wool-workers rise in the Ciompi revolt (1378), banks crash, and a new image of death haunts art and faith
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Le rivolte (with Eventi: La rivolta dei Ciompi)
 
 Florence's wool-workers seize the city in 1378; across Europe the poor, taxed for wars, turn revolt into the crisis century's second language
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

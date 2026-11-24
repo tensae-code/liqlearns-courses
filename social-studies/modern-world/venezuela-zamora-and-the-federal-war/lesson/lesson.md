@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Ezequiel Zamora's fede
 
 Ezequiel Zamora's federal struggle fills the countryside with war, and peace, when it comes, must be argued for at a neighbour's table
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Federal War was a popular insurrection
 
 The Federal War is taught not as generals' quarrels but as the people themselves rising — an insurrection from below
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Federal War (1858–1863)
 
 Zamora's federal insurrection turns the countryside into a five-year war for land and equality, ended by the Treaty of Coche
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

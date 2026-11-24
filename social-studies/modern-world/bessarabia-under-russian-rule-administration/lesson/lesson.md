@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: tsarism rushes to inte
 
 tsarism rushes to integrate the annexed province for its Balkan strategy; Bessarabia is folded into Novorossiya and in 1873 made a plain gubernia with no self-rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §25: Lichidarea autonomiei Basarabiei
 
 Governor Vorontsov presses integration from 1823; colonists found 24 new localities by the early 1840s, Capodistria and Scarlat Sturdza frame the province's first order, and the native peasants' lot is the hardest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

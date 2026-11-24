@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: departments are born a
 
 departments are born after independence from Spain (1821): Herrera creates the first seven, the Bay Islands belong to England until 1860, and Gracias a Dios, the last, is founded in 1957 to make 18
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 26: hechos históricos de los departamentos
 
 Ocotepeque is destroyed by the Marchala flood in 1934 and refounded as Nueva Ocotepeque in 1935; Amapala is named capital in 1876 for Soto's provisional government; Santa Bárbara (1825) is divided to create Cortés in 1893
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 33 Creación de mi departamento
 
 the first departmental division is set on 28 June 1825 with seven departments; Congress creates the rest one by one until there are 18 departments, 298 municipalities and thousands of villages
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: colonial life sorts so
 
 colonial life sorts society by birth and mixes cultures under Spanish dominance — church, caste and town
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Consecuencias de la dominación europea; mestizaje y diferenciación social
 
 European domination's consequences are counted, and mestizaje creates a mixed society still divided by rank
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

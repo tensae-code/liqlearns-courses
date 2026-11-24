@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The indigenous tribute
 
 The indigenous tribute is framed as a right of conquest, the repartimiento of merchandise breaks captive community economies, the alcabala taxes trade, and Potosí's macuquina coins carry the story into Bolivian numismatics (Tributo indigenal, repartimiento y numismática)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Otras instituciones económicas de la colonia
 
 Tribute, reducciones, obrajes and the commercial monopoly complete the colony's economic machinery (Año 2: Otras instituciones económicas de la colonia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

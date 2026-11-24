@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: from 30 June 1920 the 
 
 from 30 June 1920 the rebels take Abu Sukhayr, Shamiyya, Diwaniyah, Karbala and Najaf, fight the fierce battle of Rumaytha under Sheikh Shaalan Abu al-Jun, and rise in Kurdistan too; the revolt forces Britain to found an Iraqi state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — The 1920 Revolt and its settlement
 
 the revolt that forced a state is given its full course inside the war chapter
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: At Maysalun on 24 July
 
 The Syrian Congress rejected the Faisal–Clemenceau agreement and San Remo put Syria under French mandate; General Gouraud's ultimatum of 14 July 1920 demanded the army's dissolution, and though Faisal accepted, France marched; War Minister Yusuf al-Azma led the volunteers to Maysalun and was martyred there on 24 July 1920, and the French entered Damascus and ended the Arab government.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Great Syrian Revolt, 1925–1927
 
 France split Syria into small statelets and looted it, and the revolts answered — Saleh al-Ali on the coast, Ibrahim Hananu in the north, Hawran in 1920, the Golan ambush of Gouraud's convoy in 1921 — until the Great Syrian Revolt of 1925–1927 under Sultan al-Atrash: al-Kafr, the siege of Suwayda, al-Mazraa where the French lost thousands, then the Ghouta and Damascus itself, which France bombarded and burned (the al-Hariqa quarter).
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

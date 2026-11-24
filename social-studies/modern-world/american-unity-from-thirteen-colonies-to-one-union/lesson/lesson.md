@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: thirteen self-governin
 
 thirteen self-governing colonies learn union by steps — the first Philadelphia Congress of 1774 protests and boycotts, the second creates one army under Washington, independence follows in 1776, the 1787 constitution binds them into one republic, and the union is finally sealed in blood when the North wins the Civil War of 1861–1865 and slavery is abolished
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

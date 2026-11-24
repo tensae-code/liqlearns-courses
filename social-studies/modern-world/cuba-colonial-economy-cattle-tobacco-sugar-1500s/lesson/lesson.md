@@ -8,27 +8,27 @@ Before you read on, hold this lesson's one thing in mind: gold runs out and Span
 
 gold runs out and Spaniards leave for Mexico and Peru; those who stay turn to cattle hatos and corrales, tobacco and early sugar, worked by Indians, slaves and free men
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Ch.3–4 activities: colonial exploitation 16th–18th c. and Cuba to 1867, incl. a document fragment on US designs on Cuba
 
 exercises move from hatos and tobacco monopoly to steam, railways and the question of who else wanted the island
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 2.3 Evolution of the colony during the 17th c.
 
 with gold gone, cattle, contraband and corsairs define a poor but stubborn colony
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — 1.1 Colonial society 16th–18th c.; formation of the Cuban people
 
 three centuries of colony forge a people out of Spaniards, Africans and surviving Indians — nationality as a slow product, not a starting point
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 5 — Unit 1 suggestions: the road toward Cuban nationality and nationhood (colonial centuries)
 
 guidance shows how to teach creole identity emerging inside the slave colony — the nation before the nation-state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

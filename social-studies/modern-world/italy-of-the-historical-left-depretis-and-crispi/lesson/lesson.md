@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: united Italy stays agr
 
 united Italy stays agrarian — great estates, tiny peasant plots, a debt of 8.3 billion lire — while railways, the Mont Cenis and Gotthard tunnels and Crispi-era joint-stock companies (Montecatini, Pirelli, Fiat, 1906) build its industrial north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

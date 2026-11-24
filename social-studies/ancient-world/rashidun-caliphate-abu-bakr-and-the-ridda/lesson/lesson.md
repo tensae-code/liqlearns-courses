@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: When the Prophet died,
 
 The prophet dies and the community nearly splits at the saqifa before pledging abu bakr; tribes then apostatise and withhold zakat in the ridda, and abu bakr's wars pull arabia back into one state that begins to expand.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

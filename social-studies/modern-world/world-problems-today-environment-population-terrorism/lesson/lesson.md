@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the century closes wit
 
 the century closes with shared dangers no state can solve alone — pollution and climate damage, population growth, foreign debt and international terrorism (Ch. 1 Lesson 11, Problems in the world)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

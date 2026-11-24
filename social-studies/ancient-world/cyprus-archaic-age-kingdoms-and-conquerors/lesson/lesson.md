@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: cyprus's Archaic kingdoms l
 
 Cyprus is split into kingdoms, each with its walled city, king, farmers and craftspeople living under foreign shadows.
 
-[Picture slot — a picture of the key place or moment of Cyprus Archaic Age — kingdoms and conquerors as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Cyprus Archaic Age — kingdoms and conquerors as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Conquerors in Cyprus
 

@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Why colonised peoples 
 
 Why colonised peoples everywhere rose at once after 1945
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 4: The causes of the liberation movements
 
 The shared causes that set Africa and Asia moving against empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 5: The causes of the liberation movements in Africa and Asia
 
 The shared roots of the anti-colonial wave
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

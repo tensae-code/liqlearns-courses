@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a small state between 
 
 A small state between Russia and Europe declares a multi-vector policy — UN activism, integration with Russia, and energy and investment diplomacy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

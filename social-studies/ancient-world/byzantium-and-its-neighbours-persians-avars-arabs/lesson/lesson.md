@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Persians, Avars, Slavs
 
 Persians, Avars, Slavs, Arabs, Bulgars and Rus ring the empire — every border has a different enemy and a different answer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 18 The Persians and Avars ally against Byzantium
 
 while Heraclius campaigns in Persia, Avars and Persians meet under Constantinople's walls in 626 — and the city holds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 17 Neighbours exercises
 
 pupils locate every people ringing Byzantium on the student book's map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit 18 Persians and Avars exercises
 
 exercises retell the 626 siege, when two enemies met under the walls
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Revision of Units 17–22 (with the reception of ambassadors)
 
 pupils imagine themselves foreign envoys received at the palace — diplomacy felt from inside
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

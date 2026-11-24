@@ -10,7 +10,7 @@ Turkey's Grade 12 book takes the republic's foreign policy from the 1960s as a s
 
 The beat the book gives the foreign story is the island's: one island crisis that ends in 1974 defines the age abroad.
 
-[Picture slot — a picture of the changing Turkey of these decades — villagers with bundles boarding a bus for the city, new apartment blocks rising behind them — the student points to the bus and the blocks and says what quiet remaking is happening under the crises.]
+In your mind's eye: the changing Turkey of these decades — villagers with bundles boarding a bus for the city, new apartment blocks rising behind them. The student points to the bus and the blocks and says what quiet remaking is happening under the crises.
 
 ## Sub lesson 2 — Turkey 1960–1990 — the country remade
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: When petitions fail, T
 
 When petitions fail, Tilak's generation demands swaraj, Bengal's partition is answered by boycotting British goods and burning foreign cloth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

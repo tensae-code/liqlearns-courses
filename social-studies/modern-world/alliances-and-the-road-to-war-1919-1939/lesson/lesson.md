@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Little Entente tre
 
 the Little Entente treaties of 1920–21 face the Anti-Comintern Pact; the Rome–Berlin–Tokyo Axis forms in 1937 as Japan opens its decisive offensive in China
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 12: Sistemul de tratate în perioada interbelică. Politica conciliatoristă
 
 Berlin's refusal to pay brings France into the Ruhr on 11 January 1923; the two revisionist states, Germany and Italy, form the Rome–Berlin Axis on 25 October 1936 and Japan adheres
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1803 invasion star
 
 The 1803 invasion starves in the hills, the interpreter John D'Oyly builds a web of Kandyan contacts, and in 1815 the chiefs themselves depose Sri Vikrama Rajasinghe and sign the kingdom away
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

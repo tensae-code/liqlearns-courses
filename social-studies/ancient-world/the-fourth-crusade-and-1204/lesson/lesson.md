@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the Fourth Crusade, di
 
 the Fourth Crusade, diverted by Venice and debt, storms the Christian capital in 1204 and parcels the empire among Latins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 30 Fourth Crusade and the Frankish capture exercises
 
 ordering the Crusade's diversion ends at the storming of a Christian capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 4.II.1 The Crusades and the first capture of the City
 
 crusading armies pass, quarrel and finally in 1204 storm Constantinople itself for Venice's debt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

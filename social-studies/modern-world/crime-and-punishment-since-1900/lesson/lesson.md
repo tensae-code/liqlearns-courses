@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Since 1900, definition
 
 Changing attitudes, above all in the 1960s, decriminalise acts such as homosexuality (1967) while new technology keeps creating new crimes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 4.2 Law enforcement, c1900–present
 
 200 separate local forces with no shared records give way to fingerprint branches (1901), the 999 number, forensic science and community policing.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 4.3 Changes in punishment, c1900–present
 
 Execution shrinks to murder and treason, separate treatment for young offenders begins (Children's Act 1908), and punishment turns toward rehabilitation on the road to abolition.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 4.4 Case study: conscientious objectors in the First and Second World Wars
 
 Conscription (1916) makes refusing to fight a crime for the first time; objectors are sorted, imprisoned or given front-line non-combat work, and treated differently again in 1939–45.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — 4.5 Case study: the Derek Bentley case and the abolition of capital punishment
 
 Derek Bentley is hanged despite doubts and a plea from 200 MPs; the scandal drives the 1957 Homicide Act's diminished-responsibility defence and the abolition campaign.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

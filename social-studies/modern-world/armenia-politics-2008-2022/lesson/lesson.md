@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Serzh Sargsyan's decad
 
 Serzh Sargsyan's decade ends in the 2018 Velvet Revolution that carries Nikol Pashinyan to power, then the 2020 war defeat shakes the new government
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 6: the Republic of Armenia 1992–2022
 
 three decades of presidents, disputed elections, the Velvet Revolution and the 2020 defeat are set out as one continuous post-independence story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

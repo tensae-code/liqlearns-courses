@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The empires carve up t
 
 The empires carved up the Somali lands — Djibouti to France, the north to Britain, the south and Eritrea to Italy — and banned Arabic and plundered the resources; Sayyid Muhammad ibn Abd Allah Hassan's revolt held out against Britain from 1899 to 1920, the Somali Youth League carried the struggle from 1943, and north and south united as the Somali Republic in 1960; Eritrea's armed struggle from 1961 won independence in 1993, Djibouti in 1977, and the Comoros — French since 1892 — declared independence in 1975.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

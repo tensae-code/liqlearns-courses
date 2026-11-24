@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: one American in five o
 
 one American in five owns a car in the boom; the crash brings Roosevelt's 1933 laws — farm surpluses destroyed for payment, banks helped, industry rebuilt by code
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

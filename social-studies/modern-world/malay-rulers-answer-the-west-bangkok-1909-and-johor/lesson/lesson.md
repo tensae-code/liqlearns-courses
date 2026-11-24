@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Bangkok Treaty of 
 
 The Bangkok Treaty of 1909 splits the northern Malay states between Siam and Britain; Terengganu's sultan, ulama and chiefs reject it outright, and Kelantan's Sultan Muhammad IV hears the news from the British officer J.S. Mason; Johor answers differently — Sultan Abu Bakar, with a capable and loyal Majlis Jemaah Menteri, continues Temenggong Daeng Ibrahim's modernisation of administration, finance and law precisely to leave Britain no opening to intervene (Bab 8: the rulers' wisdom)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

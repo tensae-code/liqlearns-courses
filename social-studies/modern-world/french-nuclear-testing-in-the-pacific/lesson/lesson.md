@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 2 July 1966, Mururoa a
 
 2 July 1966, Mururoa atoll — France, having lost Algeria, moves its bomb tests to its remote Pacific territory; the lagoon boils, coconut palms bend, and a radioactive cloud rises over Fangataufa and Mururoa
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

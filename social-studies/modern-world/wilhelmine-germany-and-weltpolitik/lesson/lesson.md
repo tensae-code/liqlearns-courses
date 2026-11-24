@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bismarck's portrait of
 
 Bismarck's portrait of the young Kaiser (Document) opens the reign that drops the pilot, builds a battle fleet and demands a world policy — Stürmer's Storiografia asks what Weltpolitik really was
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

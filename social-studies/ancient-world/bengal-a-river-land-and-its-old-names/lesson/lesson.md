@@ -8,7 +8,7 @@ Before there were maps of Bangladesh, there was a land of rivers. The same land 
 
 Bangladesh's Grade 6 book begins Bengal's story with the land itself. Bengal is a region ringed by the Himalayas, by hills, and by the Bay of Bengal — a river land whose natural shape stayed the same even while the states drawn on it kept changing. Across time the land was known by many names: Banga, Pundra, Gauda, Radha, Samatata and Harikela. The book's point is plain: the shifting borders of states never matched the land's natural borders, so to know Bengal you start with its rivers and its old names, not with any one kingdom.
 
-[Picture slot — a picture of the Bengal delta from above — the Ganges, Padma, Brahmaputra and Meghna rivers braiding through green flood-fed fields to the Bay of Bengal, with the Himalayas on the horizon — the student names the four great rivers and the sea.]
+In your mind's eye: the Bengal delta from above — the Ganges, Padma, Brahmaputra and Meghna rivers braiding through green flood-fed fields to the Bay of Bengal, with the Himalayas on the horizon. Name the four great rivers and the sea.
 
 ## Sub lesson 2 — Landforms shape settlement — living with the rivers
 

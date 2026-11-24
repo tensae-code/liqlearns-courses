@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Pupils weigh the forei
 
 Pupils weigh the foreigners' positive and negative contributions themselves — new farming methods and tools against overused resources, undermined culture and new divisions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Positive and negative contributions of explorers, missionaries and colonialists
 
 The foreigners' ledger is balanced at home — new products and schools against over-exploited minerals and diseases like smallpox — and the elders are the witnesses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

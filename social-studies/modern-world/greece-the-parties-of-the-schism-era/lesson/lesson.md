@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: royalist and old-party
 
 royalist and old-party politicians gather against Venizelos and become a camp of their own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

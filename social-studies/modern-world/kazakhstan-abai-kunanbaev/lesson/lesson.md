@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Abai's poems and Words
 
 Abai's poems and Words of Edification call his people to learning, work and honesty
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§58–59 The greatness of Abai Kunanbaev
 
 Abai's poetry and prose judge and teach his own people
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §6.6 Why is Abai Kunanbaiuly called "Khakim Abai" (Abai the Sage)?
 
 the title "sage" is earned through the Words of Edification
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

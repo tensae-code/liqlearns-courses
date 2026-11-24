@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Arab kingdoms grow fat
 
 Arab kingdoms grow fat in the space between two empires, and Petra's rock palaces outlive them all
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

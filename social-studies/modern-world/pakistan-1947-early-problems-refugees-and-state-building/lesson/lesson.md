@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: A state born in partit
 
 A state born in partition must house, feed and govern millions before it has offices, money or staff.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Objectives Resolution, 1949
 
 Before any constitution, the founding assembly agrees sovereignty belongs to Allah and power is a trust from the people.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Three constitutions — 1956, 1962 and 1973
 
 It takes three constitutions and twenty-six years for Pakistan to settle the rules its founders argued over.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the unifier codifies a
 
 the unifier codifies a distinct Bhutanese Drukpa Kagyu order, national dress and driglam namzha, laws, taxes and the great dzongs, then in 1651 sets up the Chhoe-sid dual system — Je Khenpo for religion, Desi for temporal rule — that outlives his death that same year (Chapter 5.2 Zhabdrung's contributions)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chapter Two, Home away from Home / Chapter Three, dzongs under the Zhabdrung
 
 in his new home the exile builds the nation state Palden Druk, raising fortified dzongs region by region as joint seats of monk body and administration under the dual system (Chapter Two, Home away from Home / Chapter Three, dzongs under the Zhabdrung)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Chapter One, The Dual System of Governance: Chhoe-sid Nyiden
 
 proclaimed supreme ruler around 1627, the Zhabdrung pairs the spiritual law 'like a silken knot' that tightens with bad deeds with the secular law 'like a golden yoke' that grows heavier with wrongs, and in 1651 publishes the Kathrim code — Je Khenpo for religion, Desi for politics, three Ponlops and a Lhengye Tshog council below (Chapter One, The Dual System of Governance: Chhoe-sid Nyiden)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

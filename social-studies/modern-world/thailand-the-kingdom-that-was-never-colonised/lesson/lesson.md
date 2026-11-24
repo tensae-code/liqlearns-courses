@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Siam survives the 19th
 
 Siam survives the 19th century uncolonised, a buffer between British Burma and French Indochina, by reforming its state under the Chakri kings and trading land for sovereignty (Ch. 3 Lesson 3, Thailand)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History Ch. 3 Lesson 4, Thailand
 
 Sukhothai (1238–1350), Ayutthaya (1350–1767), Thonburi (1767–1800), Bangkok (1800– ) — and on 24 June 1932 seven centuries of absolute monarchy end in a single morning's revolution (History Ch. 3 Lesson 4, Thailand)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

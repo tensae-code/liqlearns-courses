@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Vatican II opens the C
 
 Vatican II opens the Church's windows while youth counterculture (Storia culturale), Angela Davis' autobiography (book study) and the Black Panthers' programme (Document) contest the affluent society from inside
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 11 §9 La Chiesa e il Concilio
 
 Vatican II and secularisation (Menozzi), Don Milani's duty not to obey, Populorum Progressio and Boff's liberation theology (Fare storia pieces) — the Church argues with modernity from inside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

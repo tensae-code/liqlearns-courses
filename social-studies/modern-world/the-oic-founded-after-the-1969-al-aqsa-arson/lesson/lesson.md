@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Organisation of Is
 
 The Organisation of Islamic Cooperation is founded on 25 September 1969 at the first Islamic summit in Rabat, Morocco, in direct response to the Zionist attack on al-Aqsa Mosque; Malaysia takes its seat among what becomes 57 member states (Bab 9.8: Malaysia in the OIC)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Recall referendums fol
 
 Recall referendums follow the 2008 autonomist conflicts; after the crisis of 2019, the elections of 18 October 2020 restore Bolivia's democratic state (Referéndums, autonomías y recuperación democrática)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

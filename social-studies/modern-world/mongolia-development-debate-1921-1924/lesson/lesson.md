@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bodoo's, Danzan's and 
 
 Bodoo's, Danzan's and Sükhbaatar's rival roads — national-democratic renewal, trade-led growth, or the Comintern's socialist line; the argument decides Mongolia's century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

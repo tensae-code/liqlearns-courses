@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ethiopia before Theodo
 
 Highland and lowland peoples fill Ethiopia's lands. Aksum's Christianity and the arrival of Islam shape the country's faiths over long centuries.
 
-[Picture slot — a picture of Ethiopia's highlands with an old stone church and a mosque in a lowland town — the student names Aksum's Christianity, Islam's arrival and the Gondar emperors.]
+In your mind's eye: ethiopia's highlands with an old stone church and a mosque in a lowland town. Name Aksum's Christianity, Islam's arrival and the Gondar emperors.
 
 ## Sub lesson 2 — The Gondar emperors — a country never colonised
 

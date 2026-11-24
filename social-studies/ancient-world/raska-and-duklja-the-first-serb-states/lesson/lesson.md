@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Serb tribes organised 
 
 Serb tribes organised in župe build two first states — Raška around the fortress of Ras, where Knez Vlastimir unites the districts and holds off Bulgaria; and coastal Duklja, where the love story of captured prince Jovan Vladimir and Samuil's daughter Kosara softens an empire, Stefan Vojislav wins independence, and Mihailo receives a royal crown from the pope in 1077
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

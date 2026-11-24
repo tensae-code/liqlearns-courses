@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: After two falls, the t
 
 After two falls, the third republic is the one that stands — the turning point from war of independence to a lasting state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

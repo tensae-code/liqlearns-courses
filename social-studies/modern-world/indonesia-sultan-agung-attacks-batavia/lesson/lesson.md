@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mataram's Sultan Agung
 
 Mataram's Sultan Agung twice besieges VOC Batavia against Jan Pieterszoon Coen, a war Sudjojono later reconstructs on canvas from the archives.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab 2.A.3 Sultan Agung Versus J.P. Coen
 
 Mataram's king measures himself directly against the VOC's founder-governor in the sieges of Batavia.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

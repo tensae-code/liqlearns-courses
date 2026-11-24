@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in 2006 China abolishe
 
 in 2006 China abolishes the agricultural tax outright — ending a levy older than the empire itself — while income tax, born in Britain in 1799, arrives only in 1980
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

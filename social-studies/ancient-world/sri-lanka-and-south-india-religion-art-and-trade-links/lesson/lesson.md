@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mahayana Buddhism and 
 
 Mahayana Buddhism and Hindu worship arrive with traders, Amaravati-style statues are carved, invaders carry off 12,000 prisoners, and Karikala builds a Kaveri dam with their labour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

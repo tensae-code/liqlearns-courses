@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: with no state, the fre
 
 with no state, the free village commune (obștea) governs the Romanians for centuries; dukes like Menumorut of Bihor answer Árpád's envoys with gifts and defiance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

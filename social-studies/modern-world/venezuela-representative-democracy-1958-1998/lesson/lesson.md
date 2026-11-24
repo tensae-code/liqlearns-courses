@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: The Punto Fijo pact tr
 
 The Punto Fijo pact trades dictatorship for party democracy, the 1960 agrarian reform promises land, and "shoot first, ask later" betrays the model's violence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Representative democracy returns with a political pact
 
 The Punto Fijo pact refounds democracy by agreement among parties, setting the rules of the next forty years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Governments of Betancourt and Leoni (1959–1969)
 
 Punto Fijo democracy opens under guerrilla challenge, founds OPEC diplomacy and hands power peacefully to the opposition
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

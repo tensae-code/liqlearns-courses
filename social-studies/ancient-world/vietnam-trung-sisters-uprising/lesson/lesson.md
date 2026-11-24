@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: governor Tô Định k
 
 governor Tô Định kills Thi Sách, so his widow Trưng Trắc and her sister Trưng Nhị raise the banner "to repay the country's debt and avenge the house", sweep through Mê Linh, Cổ Loa and Luy Lâu, and Trưng Trắc reigns as queen, 40–43
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 16, the Trưng sisters' uprising in detail
 
 Trưng Trắc swears her oath at Mê Linh ("avenge the country, restore the Hùng line"); in spring AD 40 Hát Môn rises, 65 citadels join, Luy Lâu falls and Tô Định flees; she reigns as queen until Mã Viện crushes the rising in 43
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: At Marj Dabiq in 1516 
 
 Three powers collide over the Islamic world — a Mamluk state ruined by the Cape of Good Hope route of 1498, the fleet's destruction at Diu in 1509 and its own infighting; Safavid Persia; and Selim's Ottomans, fresh from Chaldiran in 1514; at Marj Dabiq in 1516 and al-Raydaniyya in 1517 the Mamluks fall, Egypt becomes an Ottoman province and the caliphate's seat moves to the Ottoman state — four stagnant centuries follow, broken only by Ali Bey al-Kabir's bid for independence in 1768.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

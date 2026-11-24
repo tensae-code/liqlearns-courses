@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: German plantation comp
 
 German plantation companies, finding Sāmoans unwilling, ship in Melanesians as young as fourteen from Bougainville, Malaita and the Bismarcks on three-year contracts, and from March 1903 the DHPG lands 289 Chinese — 2,184 by 1914; New Zealand repatriates 1,254 in 1915–19, restarts the system, then forces married men home away from their Sāmoan families, yet almost 200 settle for good
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

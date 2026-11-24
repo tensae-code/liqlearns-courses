@@ -8,7 +8,7 @@ In 1971 a young reporter hid in a Dhaka hotel while every other foreign journali
 
 Bangladesh's Grade 7 book honours the foreigners who helped in 1971 — and starts with a reporter. On 25 March 1971 foreign reporters are expelled from Dhaka; 26-year-old Simon Dring hides in the Hotel Intercontinental instead, and cables the massacre to The Daily Telegraph. After him, the BBC and Akashvani carry the war to the world. The book's point: a war the world cannot see can be denied; the journalists made denial impossible.
 
-[Picture slot — a picture of a 1971 refugee camp on India's border — long lines of families with bundles, aid workers and tents stretching to the horizon — the student points to the scale of the camp and says how many refugees the book counts.]
+In your mind's eye: a 1971 refugee camp on India's border — long lines of families with bundles, aid workers and tents stretching to the horizon. The student points to the scale of the camp and says how many refugees the book counts.
 
 ## Sub lesson 2 — Refugees, diplomacy and song
 

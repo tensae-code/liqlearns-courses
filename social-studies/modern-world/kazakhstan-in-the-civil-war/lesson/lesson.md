@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Reds, Whites, Alash Or
 
 Reds, Whites, Alash Orda troops and peasant revolts fight over the steppe as fronts roll through its towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §15 The process of establishing Soviet power in Kazakhstan
 
 soviets seize the towns while the steppe waits and watches
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§17–18 Military actions in Kazakhstan during the Civil War and foreign intervention (1918–1920)
 
 Kolchak's and Dutov's fronts, the Cherkassk defence and the Aktobe front decide the steppe's fate
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§10–11 Kazakhstan in the years of civil confrontation, 1918–1920
 
 Reds, Whites and Alash troops fight over the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Section 2 "The establishment of Soviet power in Kazakhstan" (its civil-war inquiries)
 
 Reds, Whites and Alash troops fight over the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

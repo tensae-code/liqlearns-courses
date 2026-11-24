@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a tafa'ifā holds all 
 
 a tafa'ifā holds all four pāpā titles and is made by the districts, not inherited — so when foreigners push a centralised government and a "king" in 1854, Malietoa Laupepa, Malietoa Talavou, Mataafa and Tupua Tamasese all have genealogical claims, and Britain, America and Germany arm their favourites
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

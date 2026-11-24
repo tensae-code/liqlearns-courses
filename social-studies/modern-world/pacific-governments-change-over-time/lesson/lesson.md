@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Governments mutate —
 
 Governments mutate — traditional systems, colonial rule, then reorganised participation: Samoa's Legislative Council majority in 1947, French territories' autonomy in 1956, Western Samoa first to independence in 1962; elections every five years now make and unmake Pacific governments, with coups in Fiji and crises in Vanuatu and Solomon Islands as the exceptions that test the rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

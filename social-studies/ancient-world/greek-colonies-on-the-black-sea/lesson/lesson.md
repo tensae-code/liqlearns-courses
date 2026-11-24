@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Milesian sailors plant
 
 Milesian sailors plant Sinope, Trapezus and a chain of trading cities on the Black Sea's south shore and live between Greeks and local peoples
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

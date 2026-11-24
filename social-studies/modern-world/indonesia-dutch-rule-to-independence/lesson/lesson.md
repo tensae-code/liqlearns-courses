@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: three centuries from V
 
 three centuries from VOC traders to the Dutch East Indies (1799) and the Cultivation System; the 1908 awakening, the 1926–27 revolts and the 1928 Youth Pledge forge a nation before Sukarno proclaims it (Ch. 3 Lesson 1, Indonesia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History Ch. 3 Lesson 1, Indonesia
 
 17,508 islands and 300 peoples (185 million in 1990) were ruled as one colony from the VOC's 17th-century factories to the Dutch East Indies — the largest country of the region made by empire (History Ch. 3 Lesson 1, Indonesia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

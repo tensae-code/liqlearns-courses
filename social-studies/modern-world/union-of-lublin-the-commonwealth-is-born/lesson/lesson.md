@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pressed by the Livonia
 
 Pressed by the Livonian War, Sigismund II Augustus signs the Union of Lublin on 1 July 1569 and Poland and the Grand Duchy become one state, with southern GDL lands cut away to Poland
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

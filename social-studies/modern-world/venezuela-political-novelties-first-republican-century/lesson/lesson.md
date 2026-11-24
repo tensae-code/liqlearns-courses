@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Parties, constitutions
 
 Parties, constitutions and new political habits appear one after another as the young republic experiments with ruling itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

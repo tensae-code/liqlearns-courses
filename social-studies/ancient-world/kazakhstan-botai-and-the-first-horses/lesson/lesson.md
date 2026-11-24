@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: at Botai the horse is 
 
 at Botai the horse is tamed and milked — the steppe's defining partnership begins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §10 Did the Botai people first tame the horse?
 
 at Botai the horse is domesticated — the steppe's future is decided
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 1.4 The Botai culture (lesson plans)
 
 the teacher stages the horse-taming story of Botai as an inquiry lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

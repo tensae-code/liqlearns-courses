@@ -8,7 +8,7 @@
 
 Homesteaders chased free land across the plains, farming where rain was uncertain. Gold strikes and the cattle trade built boom economies — towns that exploded overnight and emptied as fast.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Chinese immigrants and Hispanic citizens pushed to the margins
 

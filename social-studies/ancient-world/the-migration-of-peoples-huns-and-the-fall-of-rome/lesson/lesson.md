@@ -10,7 +10,7 @@ Turkey's Grade 9 book closes its Turkish unit with a migration that changed two 
 
 The chain ends at Rome itself. An empire already strained cannot hold borders that whole peoples are crossing, and the western Roman world gives way. The book's beat: a steppe people's migration crosses two continents and closes the ancient world in Europe — the Kavimler Göçü, the Migration of Peoples.
 
-[Picture slot — a picture of the great migration in motion — Hun horsemen driving westward while Germanic peoples with carts and families stream toward Rome's frontiers — the student traces the push with a finger and says where it ends.]
+In your mind's eye: the great migration in motion — Hun horsemen driving westward while Germanic peoples with carts and families stream toward Rome's frontiers. The student traces the push with a finger and says where it ends.
 
 ## Say it to your companion
 

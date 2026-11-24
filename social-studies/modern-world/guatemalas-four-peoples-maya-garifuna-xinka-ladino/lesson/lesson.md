@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: four peoples share one 
 
 Guatemala's Grade 4 book frames the whole country as four peoples. The Maya are rooted before the conquest. The Garífuna descend from Africans brought as slaves. The Xinka are traders of the south coast. The Ladino people were born of colonial mixing. The Peace Accords recognise them all — four peoples, one shared country, many languages and cosmovisions.
 
-[Picture slot — a picture of four neighbours in one Guatemalan town — Maya, Garífuna, Xinka and Ladino families sharing a market and a classroom with word cards in many Mayan languages — the student names the four peoples.]
+In your mind's eye: four neighbours in one Guatemalan town — Maya, Garífuna, Xinka and Ladino families sharing a market and a classroom with word cards in many Mayan languages. Name the four peoples.
 
 ## Sub lesson 2 — Four ways of knowing — the peoples' learning (teacher guide — evidence)
 

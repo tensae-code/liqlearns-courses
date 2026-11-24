@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pahang, Perak, Terengg
 
 Four more sultanates carry Melaka's inheritance — its law above all: Hukum Kanun Melaka fathers Hukum Kanun Pahang and Perak's Undang-Undang 99; Perak's 15th sultan, Iskandar Dzulkarnain (1752–1765), tightens the state's administration, and Selangor's Sultan Ala'iddin Suleiman Shah (1898–1938) builds roads and railways across Kuala Lumpur and Klang and is honoured with a Golden Jubilee at Klang (Bab 7: Pahang, Perak, Terengganu and Selangor)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

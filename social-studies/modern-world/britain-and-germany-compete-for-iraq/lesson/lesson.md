@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Britain surveys Iraq's
 
 Britain surveys Iraq's rivers from 1834 and corners its trade; Germany answers with archaeology and the railway race toward Baghdad and the Gulf
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tax revolts such as th
 
 Tax revolts and Parisian poverty show an old regime cracking under its own weight — the revolt of the Va-nu-pieds and the rich and poor of Paris are the manual's witnesses.
 
-[Picture slot — a picture of a tax revolt and poor and rich Parisians on one side and an eighteenth-century salon in debate on the other — the student says what each scene shows about the old regime]
+In your mind's eye: a tax revolt and poor and rich Parisians on one side and an eighteenth-century salon in debate on the other. Say what each scene shows about the old regime.
 
 ## Sub lesson 2 — A salon argues about everything
 

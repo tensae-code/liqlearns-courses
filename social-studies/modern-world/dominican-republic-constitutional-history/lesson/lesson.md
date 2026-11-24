@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The republic is born w
 
 The republic is born writing constitutions, starting with November 1844.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 7 Desarrollos ulteriores: autocracia "democrática" bajo Trujillo y la Constitución de 2015
 
 Constitutions are rewritten by dictators and democrats alike, down to 2015.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

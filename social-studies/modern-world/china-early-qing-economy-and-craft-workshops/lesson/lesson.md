@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: maize and sweet potato
 
 maize and sweet potato conquer the hills until 'when Huguang ripens, the world is fed'; Jiangning weavers own 500 looms each and Foshan's cotton workshops employ 50,000
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The economy to mid-Qing
 
 new-world crops climb the hills, merchant guilds span the empire, and silver flows in through Canton
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

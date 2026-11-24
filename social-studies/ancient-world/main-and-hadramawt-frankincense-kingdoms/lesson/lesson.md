@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Ma'in rises in al-Jawf
 
 Ma'in rises in al-Jawf in 1400 BCE with its capital at Qarnaw and Hadramawt in 1020 BCE with its capital at Shabwa, and the frankincense land grows rich on dams, irrigation, incense and myrrh caravans, ruled by a king (mukarrib) advised by a council
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — States of the ancient Yemeni civilisations (Ma'in, Qataban, Hadramawt, Awsan)
 
 Ma'in at Qarnaw in al-Jawf minds trade above all and plants stations up the road to north Arabia, Qataban at Timna organises the land caravans, Hadramawt at Shabwa holds the frankincense groves themselves and reaches Socotra and Zafar in Oman, and Awsan in Wadi Markha breaks from Qataban before being folded into Himyar
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

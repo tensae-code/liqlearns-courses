@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ashoka's dhamma needed
 
 Dhamma needs no god or sacrifice — gentleness to servants, respect for elders, compassion to creatures, and respect for other religions ("praising your own while criticising another's harms your own"); dhamma mahamattas tour teaching it, messengers carry it to Syria, Egypt, Greece and Sri Lanka, and the emperor plants roads, wells, rest houses and medical care for people and animals.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

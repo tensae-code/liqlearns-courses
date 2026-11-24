@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: an empire stretched fr
 
 An empire stretched from India's edge to the Atlantic outgrows its caliphs' grip; palace luxury, army interference, sectarian revolts and separatist governors hollow it out from the second Abbasid era, provinces slip into nominal loyalty, and al-Andalus is the first region to break away (Unit 4 Lesson 1: internal factors weakening the Islamic state in the Abbasid period)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

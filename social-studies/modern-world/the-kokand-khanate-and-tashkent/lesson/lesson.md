@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ming shahs of Fergana 
 
 Ming shahs of Fergana found Kokand (c. 1709) and absorb Tashkent, the region's trading gate to the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

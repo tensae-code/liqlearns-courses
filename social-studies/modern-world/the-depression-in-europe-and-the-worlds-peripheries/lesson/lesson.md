@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Europe answers with de
 
 Europe answers with deflation, protectionism and dictatorship; in the peripheries the crash breeds Latin American populisms (Zanatta's Storiografia) and Gandhi's salt march (Document) turns India's answer into a march
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 4 §4 Le conseguenze in Europa
 
 deflation, unemployment and collapsing democracies — the crisis crosses the Atlantic and becomes the dictatorships' recruiting sergeant
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

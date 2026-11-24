@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Egyptian kings once ca
 
 Ancient Egyptian kings carry standards into battle to mark their districts, and in modern times Egypt's flag changes shape with each great political turn until it settles as today's tricolour with the Eagle of Saladin.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

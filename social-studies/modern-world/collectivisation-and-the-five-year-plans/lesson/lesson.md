@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Stalin forces farming 
 
 Stalin forces peasants into collective farms, liquidates the kulaks and seizes the grain; Ukraine and other regions starve while the state exports food.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 4.2 Changes in industry
 
 The Five-Year Plans (from 1928/29) set heroic targets for coal, steel and tractors; managers and workers are driven to meet them and a backward country industrialises at breakneck, brutal speed.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

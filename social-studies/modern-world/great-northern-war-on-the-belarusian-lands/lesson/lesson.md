@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Charles XII's Swedes t
 
 Charles XII's Swedes take Vilnius, Grodno and Warsaw, Peter I crushes them at Poltava in 1709, and the Commonwealth slides under Russian, Prussian and Austrian tutelage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

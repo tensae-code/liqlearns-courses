@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Gropius founds the Bau
 
 Gropius founds the Bauhaus to reunite art and industry; Dessau, Meyer and Mies carry it until the Nazis close it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Units 17–18: The Bauhaus school; Bauhaus, graphic design and industrial design
 
 Bauhaus typography throws away ornament and capitals alike and designs the modern page
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

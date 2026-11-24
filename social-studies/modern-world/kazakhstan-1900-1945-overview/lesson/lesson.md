@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: the book frames half a
 
 the book frames half a century in which Kazakhstan loses an empire, tries its own state, and is remade by revolution, famine and war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Introduction
 
 half a century is framed — colony, revolution, autonomy, famine, terror and war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Introduction
 
 half a century framed — empire lost, statehood tried, revolution, famine and war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Introduction
 
 the course frames the half-century of empire's fall, revolution, famine and war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

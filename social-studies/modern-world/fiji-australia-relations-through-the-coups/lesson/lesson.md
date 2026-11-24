@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Australia recognises F
 
 Australia recognises Fiji at independence in 1970; the two 1987 coups take Canberra by surprise; Australian newspaper cartoons of the 2000 coup and hostage crisis, the Great Council of Chiefs and the tourism collapse are interrogated as sources for Australia's opinion of Fiji.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

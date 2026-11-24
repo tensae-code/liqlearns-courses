@@ -10,7 +10,7 @@ Turkey's Grade 12 book tells the National Struggle's preparation as a chain of a
 
 The chain ends in two opposite papers. In Ankara, the Grand National Assembly opens — a second state standing up inside the occupied empire. In Paris, the Treaty of Sèvres is laid before the capital — the empire's death warrant, partitioning the homeland. The book's beat holds both: an occupied, disarmed empire's officers and towns organise a second state in Anatolia while the capital signs its death warrant.
 
-[Picture slot — a picture of the Erzurum congress — delegates gathered in a plain hall in eastern Anatolia, maps of the occupied homeland on the wall — the student points to the delegates and says what they are building while the capital is occupied.]
+In your mind's eye: the Erzurum congress — delegates gathered in a plain hall in eastern Anatolia, maps of the occupied homeland on the wall. The student points to the delegates and says what they are building while the capital is occupied.
 
 ## Say it to your companion
 

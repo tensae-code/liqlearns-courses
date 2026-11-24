@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Between 1890 and 1914 
 
 Between 1890 and 1914 Africa's political map is redrawn at lightning speed — the lesson measures the violence inside that transformation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: one superpower remains
 
 one superpower remains and the Gulf war (the chapter's maps) announces its policing; the search for an order to replace bipolarity begins in victory and hubris
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 14 §7 Gli Stati Uniti: la difficile gestione di una vittoria
 
 the victor finds victory unmanageable — interventions, hubris and the first doubts about the unipolar moment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

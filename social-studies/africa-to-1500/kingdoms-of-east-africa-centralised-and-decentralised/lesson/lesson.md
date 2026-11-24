@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Peoples ruled by kings
 
 Peoples ruled by kings live under centralised monarchy, those under chiefs under a decentralised system; every kingdom has one hereditary king, special regalia, classes, and royal tombs for its dead kings
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — State Formation in East Africa
 
 The decentralised peoples — Maasai, Chagga, Kikuyu, Nyamwezi, Acholi — move youths through age grades by initiation at about 18, while the Nyamwezi ntemi rules through gunguli leaders who collect tribute, farm his fields and raise his armies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — State Formation in East Africa
 
 The guide frames the whole chapter as two forms of society, centralised and non-centralised, whose organisational features the learner must be able to explain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Balkh, "Mother of Citi
 
 Balkh, "Mother of Cities", Herat, Bamiyan, Kabul, Kapisa, Bust, Ghor and Ghazni are named as the homeland's ancient cities, and the Silk Road through them once tied China and India to Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

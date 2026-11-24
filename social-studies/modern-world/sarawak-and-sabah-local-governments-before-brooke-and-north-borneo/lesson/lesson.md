@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before Brooke and the 
 
 Brunei's sultanate rises and draws Sarawak's trade to itself while the Sulu Sultanate (15th century) lifts north Sabah's trade in sea and forest produce — bird's nests for China; government runs through the wakil raja system inherited from Majapahit and Sambas and used by Brunei, and in Sabah through free chiefs (ketua bebas) like Syarif Osman at Marudu and Datu Kurunding at Tungku; the bumiputera peoples — Orang Ulu (Kayan, Kenyah, Kelabit, Penan, Punan), Bidayuh, Melanau, Kadazandusun, Bajau, Suluk and the Murut, "hill people" in Brunei's naming — order their lives by the rivers (Bab 10: Sarawak and Sabah)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

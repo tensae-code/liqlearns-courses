@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: recognition by China (
 
 recognition by China (1949), the Sino-Soviet split weathered on Moscow's side, CMEA membership (1962), the UN seat won in 1961, and US relations only in 1987 — diplomacy inside one camp
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

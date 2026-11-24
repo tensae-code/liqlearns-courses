@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Cultuurstelsel (Ta
 
 The Cultuurstelsel forces Javanese villages to grow sugar, coffee and tobacco for export, and the book weighs its exploitative weight against the plantation towns, like Deli Serdang and Malang, that grow up around it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab I.C.3 Dominasi Pemerintahan Kolonial Belanda
 
 Restored Dutch dominance rests on the Tanam Paksa cultivation system, whose burdens on Javanese villages the chapter documents as the colonial state's engine.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Emancipation reaches B
 
 news of emancipation reaches Bahamian slaves in 1835; freed people build settlements at Adelaide, Gambier and Fox Hill, some win land from former owners, but whites control business, the vote needs property, schools stop at elementary level — so Government High School is founded to give Black Bahamians more (Africans Freeds: emancipation and the freed villages)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bahamian History Prior to Independence 1973 Part 2: the slave-built communities
 
 the enslaved who worked and lived in The Bahamas establish some of its oldest communities — Adelaide, Fox Hill and Bain Town — and freed slaves from America choose the islands as their new home (Bahamian History Prior to Independence 1973 Part 2: the slave-built communities)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in June 1925 Nguyễn 
 
 in June 1925 Nguyễn Ái Quốc founds the Revolutionary Youth League in Canton and publishes Đường Kách mệnh (1927); its "proletarianisation" drive roots bases in all three kì by May 1929; the Tân Việt party turns toward the proletarian road, while the VNQDĐ of Nguyễn Thái Học (December 1927) answers the Bazin assassination (February 1929) with the Yên Bái uprising of 9–10 February 1930 — crushed at once, proving the bourgeois road impotent
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

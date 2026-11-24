@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: the Mongols drown the 
 
 the Mongols drown the country in blood and soil, the Kartids still manage a state in Herat under their shadow, and the Timurids rule Afghanistan in their turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 11: The Mongols and the Kart dynasty
 
 the Mongol deluge, and the Kartids of Herat keeping a state alive inside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 12: Timur Gurkani and his successors
 
 Timur rebuilds an empire over the ruins and his successors hold it from Herat and Samarkand
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 13: Economy and culture in Mongol and Timurid times
 
 the same centuries are read a second time for their economies and their brilliant Timurid culture
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

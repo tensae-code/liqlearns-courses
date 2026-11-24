@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: the Tayrona and Muisca
 
 The Tayrona and Muisca built great villages and complex cultures; Muisca descendants still live on the Cundiboyacense high plain and Tayrona descendants in the Sierra Nevada de Santa Marta
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Módulo 2 / Guía 6: Goldwork of the millenary peoples
 
 America's ancient peoples work metals into sacred art, thanking Mother Earth for the materials, a craft Colombia's own ancient peoples carried to mastery
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Tema 16: The Taironas and their agricultural techniques
 
 The Tairona culture of the Sierra Nevada de Santa Marta and the Caribbean plain farms its steep land with its own techniques
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Guía 8: How other cultures related to the environment
 
 In Kogi mythology the elder brothers hold the centre of humanity, the Tairona build artificial terraces to farm, and the Wayúu hold La Guajira at South America's northern tip
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mysore's father-and-so
 
 Mysore's father-and-son rulers are the last great hurdle, and Tipu's fall removes the final obstacle to British supremacy.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a trading crossroads t
 
 a trading crossroads that welcomed Arab and Indian merchants for centuries outgrows colonial rule, Singapore's separation and the 1997 Asian crisis by diversifying — cars, electronics, steel, textiles; Mahathir Mohamad, doctor and prime minister, sets a thirty-year plan (1990–2020) to stand level with the West on world-class education and social justice, planned by a committee of national and foreign experts; Jordan and Malaysia exchange embassies from 1965, Malaysia's first in Amman in 1994
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

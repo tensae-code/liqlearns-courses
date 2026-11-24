@@ -10,7 +10,7 @@ Turkey's Grade 12 book gives the revolution its doctrine first: Atatürkism in s
 
 Then the political remaking, in swift order: the sultanate abolished on 1 November 1922; the republic proclaimed; the caliphate abolished after it. A revolution explains itself in six words, the book teaches, then rebuilds the state to match — sovereignty moves from a dynasty to the nation, and the state's form follows its principles.
 
-[Picture slot — a picture of the new republic's everyday revolution — a classroom learning the new alphabet from a blackboard, a wall clock and calendar in the new style beside it — the student points to the letters and the clock and says what has changed in one ordinary room.]
+In your mind's eye: the new republic's everyday revolution — a classroom learning the new alphabet from a blackboard, a wall clock and calendar in the new style beside it. The student points to the letters and the clock and says what has changed in one ordinary room.
 
 ## Sub lesson 2 — Education, letters, clocks and names — the social revolution
 

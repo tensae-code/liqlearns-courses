@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1931 constitution 
 
 The 1931 constitution abolishes communal seats, gives every adult the vote — a first in Asia — and runs the island through a State Council of executive committees
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

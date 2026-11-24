@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: al-Mansur's palace lib
 
 al-Mansur's palace library grows under Harun al-Rashid and al-Ma'mun into the House of Wisdom, where Christian Yuhanna ibn Masawayh and Persian al-Fadl ibn Nawbakht lead teams translating the world's books into Arabic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

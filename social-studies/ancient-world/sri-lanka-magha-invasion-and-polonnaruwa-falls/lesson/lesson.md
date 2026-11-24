@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Magha lands in 1215 wi
 
 Magha lands in 1215 with 24,000 men, blinds King Parakrama Pandya, burns books and tanks, and the ruined kingdom can never be rebuilt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Magha and the move to Dambadeniya
 
 Kalinga Magha's 1215 invasion breaks Polonnaruwa for good, and the kingdom's centre of gravity slides south-west to Dambadeniya
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

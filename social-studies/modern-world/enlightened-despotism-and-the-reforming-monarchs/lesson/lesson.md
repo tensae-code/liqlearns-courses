@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Frederick II, Maria Th
 
 Frederick II, Maria Theresa, Joseph II and Catherine rule by reason from above; in Italy Beccaria's On Crimes and Punishments (1764) rewrites Europe's idea of justice
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 3 §§8–9 Enlightened absolutism; Reformism in Italy
 
 monarchs borrow the philosophes to strengthen the state; Beccaria's utility of punishments (Fare storia) shows Italy exporting reform ideas to all Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

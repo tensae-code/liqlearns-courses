@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: plague and famine retr
 
 plague and famine retreat, Europe's population climbs past 145 million by 1750, yet society stays frozen in orders — a world growing inside an old shell
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 2 The society and the economy of the '700 (demography, social mobility and hierarchies, family, feudalism and the peasants, the agricultural revolution, rural industry)
 
 late marriage, enclosures (Fare storia: Moore on the enclosures) and the 'industrious revolution' inside households — the old order changing from below before it falls from above
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

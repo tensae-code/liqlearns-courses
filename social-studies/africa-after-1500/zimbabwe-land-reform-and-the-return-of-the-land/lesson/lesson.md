@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The war's central grie
 
 The war's central grievance outlives the war. After independence the land stays in settler hands under willing-buyer-willing-seller; Britain's funding promises fail — the guide says Britain backtracked. Then, in 2000, fast-track reform under Robert Mugabe redistributes the land to black Zimbabweans. The guide's settled verdict names the benefits: empowerment, food production and cultural restoration.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

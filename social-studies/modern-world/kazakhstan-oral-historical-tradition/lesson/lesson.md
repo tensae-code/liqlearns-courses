@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: shezhire genealogies a
 
 shezhire genealogies and epic singers hand the past down by memory as print begins to take over
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §48 Oral folk art in the 19th century
 
 epic singers carry Koblandy and Er Targyn to new audiences
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §49 Prominent representatives of oral folk literature of the 19th–early 20th centuries
 
 the great zhyraus and akyns are named one by one
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

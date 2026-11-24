@@ -10,7 +10,7 @@ Turkey's Grade 12 book turns, in its seventh unit, to the world of Turkey's sout
 
 Through all of it runs oil: the region's wealth under the ground redraws its weight in the world, pulling great powers into every quarrel. The book's beat is the neighbour's view: Turkey's southern neighbours fight three generations of wars while oil redraws their weight in the world — and Turkey, bordering the storm on two sides, must live as its watchful neighbour.
 
-[Picture slot — a picture of the region in the war years — a map-like view of the Middle East with Israel and its Arab neighbours, and the Iraq-Iran front to the east — the student points to Turkey at the map's top and says what it means to watch wars on two of your borders.]
+In your mind's eye: the region in the war years — a map-like view of the Middle East with Israel and its Arab neighbours, and the Iraq-Iran front to the east. The student points to Turkey at the map's top and says what it means to watch wars on two of your borders.
 
 ## Say it to your companion
 

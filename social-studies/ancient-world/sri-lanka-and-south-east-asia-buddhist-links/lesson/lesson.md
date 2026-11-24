@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Theravada Buddhism roo
 
 Theravada Buddhism roots itself in Burma, Thailand, Java and Cambodia — Angkor Wat rises — and island monks sail both ways, carrying higher ordination between Sri Lanka and Siam in 1753
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

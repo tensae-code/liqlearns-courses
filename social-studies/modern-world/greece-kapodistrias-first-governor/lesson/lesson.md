@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: one man builds a state
 
 one man builds a state from ruins — schools, army, coinage — until an assassin's bullets in Nafplio end the experiment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Kapodistrias as governor of Greece (1828–1831); the revolution completed (1829)
 
 a Corfiot diplomat returns to govern a ruined, tiny state, builds schools and an army — and is assassinated
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Kapodistrias governs the state
 
 the first governor builds an administration from nothing and is murdered by the feuds he tried to end
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

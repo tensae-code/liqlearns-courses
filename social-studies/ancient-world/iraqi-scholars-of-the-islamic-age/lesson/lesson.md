@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Abu al-Aswad invents A
 
 Abu al-Aswad invents Arabic grammar in Basra; Jabir ibn Hayyan founds chemistry on experiment; the Mandaean al-Sabi writes on the astrolabe; al-Masudi travels and writes Meadows of Gold; Basra-born Ibn al-Haytham explains the eye and the rainbow; Shuhda of Baghdad teaches hadith to men and women
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

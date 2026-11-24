@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: plantation monoculture
 
 plantation monocultures (Bengal jute, Assam tea, Bombay cotton) and more than twenty famines killing 18 million mark the Raj's economy; Victoria is proclaimed Empress (1877) while press and arms acts gag the Indian voice, and a slow native capitalism — a million factory workers by 1910 — grows inside the colony
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

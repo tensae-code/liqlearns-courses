@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Molotov's ultimatum de
 
 Molotov's ultimatum demands Bessarabia back "at any price"; the Crown Council, meeting at 3 a.m. under threat of invasion, accepts the Vienna "arbitration" — a dictat — to save the state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 24: Anul 1940 în istoria românilor
 
 six Crown Council members — Ciobanu, Dragomir, Iamandi, Iorga, Pop, Urdăreanu — vote to accept the Soviet conditions and save the state; Carol II, his authority broken, hands power to General Antonescu
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

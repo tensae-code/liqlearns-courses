@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Power also sits outsid
 
 Power also sits outside parliaments — Bainimarama returning Fiji to the Pacific Islands Forum after ten years, and Tonga's monarchy, the Pacific's last, with chiefs still steering national development inside modern states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Promoters and sustainers of change in the Pacific Region
 
 Queen Emma Forsyth's copra plantations reshape the New Guinea Islands under German rule and the plantation economy outlives her by a century; in Fiji, Sitiveni Rabuka becomes the Pacific's first coup leader
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

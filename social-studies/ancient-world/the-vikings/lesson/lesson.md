@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Vikings are studie
 
 The Vikings are studied as a whole depth study — their land, raids, voyages, everyday life and legacy (contents, printed p. 214) (Depth Study 4a: The Vikings)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

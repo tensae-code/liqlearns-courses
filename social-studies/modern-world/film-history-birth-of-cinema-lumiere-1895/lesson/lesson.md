@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Lumière brothers 
 
 The Lumière brothers light their cinematograph in a Paris café on 28 Dec 1895, workers leave the factory, a train seems to rush at the audience, and framing is born.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

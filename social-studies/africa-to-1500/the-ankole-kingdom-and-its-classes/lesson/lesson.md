@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ruhinda, grandson of W
 
 Ruhinda, grandson of Wamala, founds Ankole; its king is the Omugabe, and its people stand in two classes — Bairu cultivators below Bahima pastoralists
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

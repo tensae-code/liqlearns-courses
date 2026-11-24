@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Ureche, Costin, Cantem
 
 Ureche, Costin, Cantemir and Cantacuzino found Romanian historiography; primers are printed, and in 1835 Iași inaugurates its Academy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §50: Evoluţia culturii Ţărilor Române în secolele XVII–XVIII
 
 over 300 printed titles appear in 18th-century Moldavia and Wallachia; boyars hire foreign tutors for Greek, French and German, and Cantemir's learning wins European renown
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

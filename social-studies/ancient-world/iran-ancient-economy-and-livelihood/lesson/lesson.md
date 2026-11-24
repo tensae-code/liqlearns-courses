@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: qanats carry water, ca
 
 qanats carry water, caravans carry goods, taxes carry the state — how ancient Iranians made a living is told as one connected system (Economy and livelihood)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The economic conditions of ancient Iran
 
 farming, herding, craft and trade — how the ancient Iranian world fed and enriched itself (The economic conditions of ancient Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

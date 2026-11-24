@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The book closes by rea
 
 The book closes by reading Chávez's first speeches, the country's crisis and his Bolívar-named project from Yare onward as an inheritance students must judge
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Towards cultural sovereignty; the legacy the Bolivarian leader left the homeland
 
 The book closes weighing Chávez's legacy and the push for cultural and technological sovereignty, Venesat-1 included
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

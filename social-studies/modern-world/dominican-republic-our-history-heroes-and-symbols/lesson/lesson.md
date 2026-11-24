@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: The great events of th
 
 The great events of the Dominican past are handed to children as a treasure they inherit.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 5 Heroínas y héroes nacionales: legado de honor
 
 The nation's heroines and heroes leave an example the children are asked to honour.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 5 Los símbolos patrios en la identidad
 
 Flag, shield and anthem tell every Dominican child who they are.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unidad 5 Personajes populares: personajes destacados de mi país
 
 Beloved popular figures carry the country's culture in music, sport and story.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

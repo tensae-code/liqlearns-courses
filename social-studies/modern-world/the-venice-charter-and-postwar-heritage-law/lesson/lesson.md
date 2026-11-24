@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Hague Convention (
 
 the Hague Convention (1954) protects culture in armed conflict, New Delhi (1956) guides excavations, and the Venice Charter (1964) becomes conservation's constitution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

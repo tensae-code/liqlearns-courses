@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Rashid Ali al-Gaylani'
 
 with France fallen, Rashid Ali al-Gaylani's National Defence government forms after the Regent flees to Basra; Britain lands troops at Basra and from Jordan and wins the May 1941 war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Ch.5 Iraq from the Second World War to 1958: the 1941 uprising
 
 the National Defence Government, the May 1941 rising and Britain's second occupation open the final Iraq chapter
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

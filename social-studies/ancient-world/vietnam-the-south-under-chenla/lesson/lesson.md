@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after Phù Nam falls, 
 
 after Phù Nam falls, the South belongs on paper to Chenla — Lục Chân Lạp ruled directly, Thuỷ Chân Lạp, today's Vietnamese South, left to Phù Nam's royal descendants; climate change salts the fields, people stay sparse into the 14th century, and only centuries later do Viet settlers reclaim the land and found the first villages at Mô Xoài and Đồng Nai
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

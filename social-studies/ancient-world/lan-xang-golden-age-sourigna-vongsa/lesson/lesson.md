@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: Sourigna Vongsa reform
 
 Sourigna Vongsa reforms the administration, grows the economy and opens relations abroad in Lan Xang's second flourishing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part IV, Lesson 14: 1638–1695 — Lan Xang flourishing, 1638–1695
 
 Sourigna Vongsa's long reign is the golden age — ordered laws, rich trade, embassies from Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part II, Lesson 9: Lan Xang's golden era
 
 Sourigna Vongsa reforms administration, grows the economy and opens foreign relations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part IV, Lesson 14: . 1638–1695 — Lan Xang's flourishing era
 
 Sourigna Vongsa's long peace — law, trade and embassies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

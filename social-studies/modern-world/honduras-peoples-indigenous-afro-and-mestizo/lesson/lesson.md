@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: ten peoples and eight 
 
 ten peoples and eight mother tongues make one nation — Indigenous, Afro-Honduran and mestizo — and difference itself becomes the lesson in respect
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 25: los pueblos de hoy
 
 the Maya's living heirs, the Chortí, share today's Honduras with Lenca, Tolupán, Pech, Tawahka, Miskito, Nahua, Garífuna (arrived from St Vincent) and English-speaking Black communities, each keeping its own way of life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 36 Diversidad cultural
 
 each ethnic people's food, dance, music, language, sayings, legends and games enrich the national patrimony, and Lenca women of Marcala who pushed coffee exports to Europe show peoples still making history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Lección 33 Un país multicultural
 
 mestizos speak Spanish while Miskito, Garífuna, Tol, Chortí and Tawahka tongues survive; punta, tzolkin ceremonies and chilateadas, coconut foods against maize foods — on 3 August 1994 President Reina formally recognises Honduras as multicultural and multiethnic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Lección 36 Honduras multiétnica
 
 nine named groups — Maya Chortí, Miskito, Tawahka, Garífuna, Pech, English-speaking Black, Lenca, mestizo, Tolupán — spread over fifteen departments, each group's history, customs and beliefs a recognition of the country's past and present
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

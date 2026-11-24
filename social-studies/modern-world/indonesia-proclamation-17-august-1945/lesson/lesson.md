@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: On 17 August 1945 Suka
 
 On 17 August 1945 Sukarno reads the short text, the red-and-white sewn by Fatmawati rises, IPPHOS photographers fix the moment, and the Domei news agency carries the words to the world.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

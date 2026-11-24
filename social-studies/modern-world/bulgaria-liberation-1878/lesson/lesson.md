@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Russia's war with the 
 
 Russia's war with the Ottomans ends in Bulgaria's liberation and a new state on the map (Lesson 12: The Russo-Turkish War (1877–1878) and the Liberation of Bulgaria)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 37: The Russo-Turkish War (1877–1878) and the Liberation of Bulgaria
 
 Shipka and Pleven decide the war; San Stefano and Berlin draw the new Bulgaria (Lesson 37: The Russo-Turkish War (1877–1878) and the Liberation of Bulgaria)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

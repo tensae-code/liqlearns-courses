@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Rigas of Velestino dra
 
 Rigas of Velestino drafts a revolutionary constitution for a Balkan republic and is strangled by the Austrians' handover; Korais in Paris edits the classics to teach Greeks who they were
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

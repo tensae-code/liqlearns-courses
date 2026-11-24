@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Villages and towns cha
 
 Villages and towns change between the wars while Bulgarian culture reaches toward Europe (Lessons 27–29: Socio-economic changes between the wars; the cultural horizons of the Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 55–57: Socio-economic changes between the wars; the wide horizon of education; Bulgarian culture and modern Europe
 
 Cooperatives, schools for all, and a culture reaching into modern Europe (Lessons 55–57: Socio-economic changes between the wars; the wide horizon of education; Bulgarian culture and modern Europe)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

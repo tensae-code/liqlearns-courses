@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: the Iron Amir binds ev
 
 the Iron Amir binds every official to his personal command, crushes every collective and individual resistance without mercy, and builds a regular army of more than ninety thousand
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 13: The consolidation of central power (1880–1901)
 
 Abdur Rahman binds the whole country to Kabul's command and builds the regular army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 14: The conclusion of treaties
 
 the Amir's treaties with Britain and Russia fix the borders the country still lives with
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

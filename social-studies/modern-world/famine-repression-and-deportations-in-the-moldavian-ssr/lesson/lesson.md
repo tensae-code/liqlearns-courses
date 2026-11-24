@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: drought-year 1945 deli
 
 drought-year 1945 deliveries are raised to 272,000 tonnes of grain; the 1949 deportation order confiscates vines, orchards, cattle and houses, and in 1951 Jehovah's Witnesses are deported to Tomsk and Irkutsk
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 35: Reinstaurarea regimului comunist în RSSM. Colectivizarea forțată, foametea și deportările
 
 "divide et impera" sows discord between Romanians and Ukrainians; the party letter of 17 March 1949 opens the final assault on the village, and Operation "South" of 6 July 1949 becomes the peak of mass terror between Prut and Nistru
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

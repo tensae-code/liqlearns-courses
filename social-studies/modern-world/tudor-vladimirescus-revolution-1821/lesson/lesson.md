@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Tudor, a small boyar f
 
 Tudor, a small boyar from Oltenia, raises the pandurs and addresses memoranda to sultan and emperors to block foreign intervention; in spring 1821 Chișinău fills with refugees from the Eterist rising
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §16: Răscoala de la 1821 de sub conducerea lui Tudor Vladimirescu
 
 Tudor expects Russia to back the Eteria and the Greeks to help the Romanians; Ypsilanti instead means to use the Principalities, Tudor reaches Colentina outside Bucharest, and the rising is crushed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the 1940 constitution,
 
 the 1940 constitution, five-year plans from 1948, the railway, Darkhan and Erdenet, negdel collectivisation completed by 1959 — and the stagnation of the 1980s
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. III.8 Changes in the MPR's society and economy
 
 1956's reckoning with the personality cult, the Atar virgin-lands campaign, the Academy of Sciences (1961) and a cosmonaut in 1981 — a modern society inside an authoritarian frame
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

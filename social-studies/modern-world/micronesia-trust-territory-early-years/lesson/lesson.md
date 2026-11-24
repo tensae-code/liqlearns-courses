@@ -10,7 +10,7 @@ The war ends — and a new foreign ruler arrives promising trust, not colony. Be
 
 In 1947 the arrangement was given a legal name: the United Nations Trust Territory, thirty more years of foreign rule — but a new kind, with municipalities, magistrates and district congresses giving islanders elected local office.
 
-[Picture slot — a picture of a small island council house in the 1950s, with a magistrate, chiefs and villagers meeting under an American flag and a UN notice on the wall — the student points to the chiefs and the council seats and says what double demand the meeting had to meet.]
+In your mind's eye: a small island council house in the 1950s, with a magistrate, chiefs and villagers meeting under an American flag and a UN notice on the wall. The student points to the chiefs and the council seats and says what double demand the meeting had to meet.
 
 ## Sub lesson 2 — From municipalities to the Congress of Micronesia
 

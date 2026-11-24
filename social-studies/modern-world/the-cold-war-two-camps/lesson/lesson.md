@@ -8,27 +8,27 @@ Before you read on, hold this lesson's one thing in mind: The victors split into
 
 The victors split into two camps and fight without fighting
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 2: The formation of the two blocs
 
 The wartime allies sort themselves into an Eastern and a Western camp
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 3: The Cold War
 
 The two camps confront each other across a divided world without a direct war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 2: The ideological patterns and the world's division into two camps
 
 Capitalism and communism divide the world between them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 5 — Lesson 3: The Cold War
 
 The camps' long confrontation — its crises and its rules
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

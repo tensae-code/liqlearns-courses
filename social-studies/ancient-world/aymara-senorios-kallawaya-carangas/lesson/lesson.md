@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: After Tiwanaku the Aym
 
 After Tiwanaku the Aymara lordships rule the Altiplano; the Kallawaya healers keep their Machaj Juyay language, and Carangas declines only with the Spanish arrival in the 16th century (Los señoríos aymaras, Kallawaya y Carangas)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 1: Los Aymaras
 
 The Aymara people and their lordships carry the story from Tiwanaku toward the Inca (Año 1: Los Aymaras)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

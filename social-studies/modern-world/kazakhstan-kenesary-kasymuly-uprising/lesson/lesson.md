@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Kenesary, elected khan
 
 Kenesary, elected khan, fights a ten-year all-nation war to restore the khanate before falling in the Kyrgyz mountains
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§27–28 The national-liberation movement led by Kenesary Kasymov
 
 Kenesary restores the khan's court and taxes, and fights Russia for a decade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.5 Why did the national-liberation struggle led by Kenesary Khan take an all-national character?
 
 all three zhuzes answer Kenesary's call — the last khan's war becomes everyone's war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

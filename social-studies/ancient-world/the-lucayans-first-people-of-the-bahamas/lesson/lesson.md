@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: The Lucayans, a peacef
 
 a peaceful Arawak-speaking people sail from South America, settle by the sea, fish and farm cassava, sweet potato and corn, live in branch-and-grass huts and sleep in hammocks (Bahamian History: the Lucayans, first people of the islands)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lucayans and Eleutheran Adventurers: the Lucayans
 
 the peaceful Lucayans, skilled sailors and fishermen who live in huts, sleep in hammocks and live off the land, leave a legacy the whole world still uses — the hammock (Lucayans and Eleutheran Adventurers: the Lucayans)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Early Settlers: the Lucayans, first people to come to the islands
 
 the first arrivals are peaceful sailors and fishermen who live in huts, sleep in hammocks and live off the land in harmony with nature (Early Settlers: the Lucayans, first people to come to the islands)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Bahamian History Prior to Independence 1973 Part 1: the timeline of peoples
 
 after Columbus, group after group finds refuge on the islands — Eleutheran Adventurers (1684 in this telling), pirates, Loyalists, slaves — each changing the islands for better or worse; with Woodes Rogers an organised society begins that leads, idea by idea, to independence (Bahamian History Prior to Independence 1973 Part 1: the timeline of peoples)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

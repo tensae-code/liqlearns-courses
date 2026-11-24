@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: independent India (194
 
 Independent India (1947) at first does not press Britain over Fiji; Ratu Mara woos India, his private talks with A.D. Patel open confidential Suva talks, and the agreement for an independence constitution follows; Indira Gandhi visits in 1981 and the Girmit Centre rises at Lautoka.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

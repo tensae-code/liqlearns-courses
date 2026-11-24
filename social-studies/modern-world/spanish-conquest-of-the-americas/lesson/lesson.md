@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Spanish journey, t
 
 The Spanish journey, the quest for gold and glory, the conquest of the Aztec empire, La Malinche — "mother of Mexico?" — and colonial control (Depth Study 6c: The Spanish Conquest of the Americas (6c.5–6c.9))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

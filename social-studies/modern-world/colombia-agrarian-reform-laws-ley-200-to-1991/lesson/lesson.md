@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a law-by-law table run
 
 A law-by-law table runs the agrarian reforms — Ley 200 meant to give land to those who work it — down to articles 64, 65 and 311 of the Political Constitution, and learners compare what was proposed with what was executed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

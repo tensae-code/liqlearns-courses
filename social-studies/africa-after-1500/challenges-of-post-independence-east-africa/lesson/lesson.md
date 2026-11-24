@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The new states inherit
 
 The new states inherit illiteracy, poor transport, civil wars, coups and human-rights violations — the independence generation's unfinished work
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Road to Independence
 
 After independence the region's economies stall — little to export, low income, poverty and poor living standards are the inheritance the lessons name
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: separatists backed by 
 
 separatists backed by the 14th Army and Cossacks block the Nistru bridges; fighting flares at Tighina, Cocieri and Coșnița, and the 1999 Istanbul summit obliges Russia to withdraw its troops
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 49: Războiul pentru Apărarea Independenței și Integrității Teritoriale ale Republicii Moldova
 
 the Balta–Tiraspol autonomous entity of 1924 becomes the separatist base; Chișinău fights with almost no international support, and Transnistrian separatism cuts deep into the national economy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

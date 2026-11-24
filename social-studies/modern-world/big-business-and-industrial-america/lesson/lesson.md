@@ -8,7 +8,7 @@ Edison lit the age. Inventions became corporations, corporations rode on labour'
 
 Inventors like Edison lit the age — literally, with electric light — and invention itself became a business, laboratories turning ideas into products on an industrial rhythm.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Inventions become industries and corporations
 

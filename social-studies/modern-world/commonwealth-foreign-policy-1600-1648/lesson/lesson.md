@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sigismund III's Swedis
 
 Sigismund III's Swedish claim drags the state into thirty years of wars, its troops hold Moscow in 1610–1612, and the Deulino and Polyanovka settlements fix the eastern gains
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

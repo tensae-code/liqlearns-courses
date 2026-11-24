@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: mambises take Bayamo a
 
 mambises take Bayamo and Perucho Figueredo's hymn is sung there; rather than surrender it, Bayamo's people burn their own city in January 1869
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 3.3 Main events at the war's start
 
 Bayamo taken and burned, the hymn composed, the war's first martyrs — the rising becomes a nation in arms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Neagoe Basarab backs t
 
 Neagoe Basarab backs the merchants and writes his Teachings; Petru Rareș fights Poland over Pocuția and joins the Holy League before Suleiman's 1538 campaign changes everything
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

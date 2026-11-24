@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Committees and revolut
 
 Committees and revolutionaries — the "apostles of Bulgarian freedom" — organise the rising against Ottoman rule (Lessons 9–10 + Historical Laboratory: The organised liberation movement and the Bulgarian liberation revolution (1869–1875))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 34–35: The paths of the Bulgarian revolution; the Bulgarian liberation revolution (1869–1875)
 
 Rakovski, Levski and Botev — ideas and political projects for liberation (Lessons 34–35: The paths of the Bulgarian revolution; the Bulgarian liberation revolution (1869–1875))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

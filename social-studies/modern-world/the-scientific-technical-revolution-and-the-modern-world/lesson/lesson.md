@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: spaceflight, computers
 
 spaceflight, computers and the internet remake work, war and daily life within one lifetime
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 5, Lessons 63–64: the civilisational achievements of the newest period
 
 computers, space flight and the internet remake work, war and daily life within one generation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Theme 6 §27: science and scientific-technical progress
 
 from splitting the atom to the internet, science in the newest period advances faster than society can absorb it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

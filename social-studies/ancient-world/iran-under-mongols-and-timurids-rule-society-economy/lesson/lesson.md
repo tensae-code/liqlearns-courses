@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: conquest empties citie
 
 conquest empties cities and qanats, then Ilkhanid and Timurid rulers rebuild an administration and economy on the ruins (Government, society and economy in the Mongol–Timurid era)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Rebuilding the ruins
 
 after the killing, the rebuilding — under rulers like Ghazan Khan, farms, cities and learning are restored (Rebuilding the ruins)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after France's collaps
 
 after France's collapse in the Franco-Prussian war, the bourgeois government signs a humiliating peace while Paris's people resolve to defend the fatherland; on 18 March 1871 National Guard battalions and the people seize the capital — the first proletarian revolution in the world; the elected Commune dissolves the old army and police, separates church from state and bans religious teaching in schools, hands the factories of owners who fled Paris to their workers, and forbids wage fines — it lives only 72 days, to 28 May 1871, but stands as the image of a new kind of state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

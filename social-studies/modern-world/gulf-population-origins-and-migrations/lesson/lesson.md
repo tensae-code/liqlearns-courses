@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Gulf's peoples wer
 
 Learners untangle stock, migration, internal and external migration, then trace arab tribes moving into the gulf until the coast fills with new communities.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Why tribes moved — the causes of internal migration
 
 Drought, thin rain, quarrels and hard trade push tribe after tribe toward arabia's east coast, where the moves knit into new political bodies.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

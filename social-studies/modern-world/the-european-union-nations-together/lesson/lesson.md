@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: free European nations 
 
 free European nations pool their future in the EU — parliament at Strasbourg, motto "Unity in diversity" proposed by Europe's young people in 2002
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 40: Integrarea Europeană. Uniunea Europeană la începutul mileniului III
 
 integration begins in 1951 as the answer to war's crisis; Nice (2001) brings majority voting, and on 1 June 2023 Europe's leaders summit at Bulboaca in Moldova itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Tema 40: Integrarea economică europeană. Crearea și evoluția Uniunii Europene
 
 Schuman's 9 May 1950 declaration makes war between France and Germany "materially impossible" through shared coal and steel; the 1985 Single European Act promises a space without internal frontiers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

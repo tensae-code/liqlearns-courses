@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In Ajanta's dark rock-
 
 In Ajanta's dark rock-cut monasteries, unknown artists paint vivid scenes by torchlight in colours ground from plants and minerals that still glow after 1500 years.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

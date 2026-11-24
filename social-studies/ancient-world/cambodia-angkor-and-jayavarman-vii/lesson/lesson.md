@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: exam questions reach b
 
 exam questions reach back to Angkor Wat's builder and to Jayavarman VII, the king who raised hospitals, roads and the Bayon — the medieval empire the modern state claims as its root (Section, History of Cambodia (review questions))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Rwanda's P6 pupils compare genocides side by side: Rwanda's 100 days, stopped by
 
 Hitler's killing of over 6 million Jews is the comparison's first case. Rwanda's book sets its own genocide beside the Holocaust so pupils learn that this crime has a wider, terrible history.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Cambodia and Bosnia
 

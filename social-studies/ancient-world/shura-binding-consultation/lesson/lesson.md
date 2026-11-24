@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: shura is set against m
 
 shura is set against mere consultation: advice a ruler may ignore is istishara, but shura binds; it stands only on its conditions — freedom, bindingness, solidarity, morality, consensus, persuasion, correctness and strength — and is staffed by qualified ahl al-hall wa-l-'aqd representing all society; the book argues binding shura simply is democracy, older than the name by fourteen centuries, and asks pupils to name the councils that embody shura and democracy in the Yemeni Republic and how Yemen can develop its experience of both
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

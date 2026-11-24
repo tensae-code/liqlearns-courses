@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the First Emperor wall
 
 the First Emperor walls the north (215–214 BCE, photo p. 183); the Han dynasty that follows gives China its lasting name, script and bronze art (History Ch. 3 Lesson 3, China: Qin and Han)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ Van Gogh burns feeling into swirling colour — and sells almost nothing.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of four different post-Impressionist works side by side — the student points to how each one breaks a different way.]
+In your mind's eye: four different post-Impressionist works side by side. The student points to how each one breaks a different way.
 
 ## Sub lesson 3 — Toulouse-Lautrec takes art to the poster
 

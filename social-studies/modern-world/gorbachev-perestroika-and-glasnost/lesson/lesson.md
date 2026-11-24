@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: glasnost's posters (im
 
 glasnost's posters (image study) promise open speech and perestroika a rebuilt socialism; the reform meant to save the USSR becomes the solvent of its bloc
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 12 §3 L'Unione Sovietica: da Breznev a Gorbačëv
 
 stagnation, Afghanistan and dissent in the East (Focus) hollow the bloc; Gorbachev and Reagan (the joint Personaggi study) become the pair who end it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

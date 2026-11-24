@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: every spring the Weste
 
 every spring the Western Zhou king ploughs and prays at the Altar of Land and Grain — sheji — until the altar's name becomes the word for the state itself; agriculture-first, family and harmony are read out of such rites
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

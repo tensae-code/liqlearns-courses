@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: one river wins three w
 
 one river wins three wars across 350 years, and a diplomat wins a fourth with a sentence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 9 Lessons of the Fatherland-protection wars, 1945 to today: keep patriotism alight in every generation (Hồ Chí Minh's image of patriotism as a treasure sometimes displayed, sometimes hidden in a chest, which leaders must bring out into action); consolidate the great national unity bloc; combine national strength with the strength of the age while fusing the two strategic tasks, building and defending; and keep developing people's-war art into an all-people national defence that protects the country "early, from afar"
 
 eighty years of wars are distilled into four transferable lessons for a peacetime generation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

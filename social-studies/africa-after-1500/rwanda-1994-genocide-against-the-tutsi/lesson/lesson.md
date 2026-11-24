@@ -8,7 +8,7 @@ Colonial rule turns social classes into ethnic groups with identity cards; divis
 
 Colonial rule turns social classes into ethnic groups with identity cards. Divisionism, poor leadership, impunity, the Akazu, Hutu Power, Kangura and RTLM then build the hatred that explodes in April 1994.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Planning and execution — and how it was stopped
 

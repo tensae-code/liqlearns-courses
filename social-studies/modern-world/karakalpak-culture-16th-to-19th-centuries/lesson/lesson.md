@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: epic dastans, zhyrau s
 
 epic dastans, zhyrau singers and applied arts carry a small people's memory without a state of its own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

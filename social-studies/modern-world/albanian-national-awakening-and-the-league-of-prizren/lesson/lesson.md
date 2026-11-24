@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: before Albanians have 
 
 before Albanians have a state, teachers give them an alphabet and books of their own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2: the League of Prizren (1878) and the rise of the Albanian liberation movement — Abdyl Frashëri and the League demand one united Albanian vilayet with wide autonomy and plead the Albanian case in Europe's capitals
 
 faced with partition among neighbours, Albanian beys and teachers form a league to keep Albanian lands together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Theme 4: Albania on the road to independence — no single alphabet, contacts with the Young Turks, and Ismail Qemali proclaiming independence at Vlora (1912) before Wilhelm of Wied arrives as prince
 
 thirty-four years after Prizren, the declaration is finally raised over Vlora
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Theme 4: the League of Prizren
 
 when Berlin starts handing Albanian-inhabited lands to the neighbours, Albanian leaders gather at Prizren in June 1878 to stop the partition — at first backed by the sultan, dissolved by his soldiers in 1881 when it dares demand autonomy; the road from Prizren leads to the Albanian state of 1912
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

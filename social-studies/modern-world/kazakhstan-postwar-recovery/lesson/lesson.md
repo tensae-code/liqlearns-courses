@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a ruined republic rebu
 
 a ruined republic rebuilds — geologists open new deposits and factories rise on the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §1 The Kazakh SSR's socio-economic development in the post-war years
 
 a ruined republic rebuilds its farms, mines and factories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

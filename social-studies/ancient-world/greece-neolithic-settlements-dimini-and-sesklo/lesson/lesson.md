@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a child of Neolithic D
 
 a child of Neolithic Dimini tells a day in his walled village while archaeologists' finds at Dimini and Sesklo show how Greece's first farmers lived
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 7, ch. 3 Neolithic Greece exercises
 
 matching finds to Dimini and Sesklo fixes Greece's first villages in place and object
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

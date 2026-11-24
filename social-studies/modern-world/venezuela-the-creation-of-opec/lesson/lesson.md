@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Venezuela helps found 
 
 Venezuela helps found OPEC so oil countries stop facing the companies alone, a rare turn where the dependent country organises the producers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

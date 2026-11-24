@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Cyril and Methodius in
 
 Cyril and Methodius invent an alphabet for the Slavs and bring them Orthodoxy and letters from Thessaloniki
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 21 Christianising the Slavs exercises
 
 class discussion weighs what an alphabet did for the Slav peoples
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 3.I.4 The spread of Christianity among the Moravians and Bulgarians
 
 Cyril and Methodius carry an alphabet and a liturgy to Moravia, and Boris's Bulgaria chooses Constantinople over Rome
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Outside the Roman world: the Christianisation of the Slavs
 
 Cyril and Methodios invent an alphabet to give the Slavs the Gospel in their own tongue, and a new Christian world is born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

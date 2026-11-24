@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: in the 1950s–70s fam
 
 in the 1950s–70s families buy grain, cloth and bicycles only with ration coupons; the 'three big items' change from sewing machine, bicycle and watch to TV, fridge and washer, then to house, car and insurance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Social life changes
 
 wardrobes turn from blue-grey uniformity to fashion, ration coupons become museum pieces, and trains give way to high-speed rail and mobile payment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

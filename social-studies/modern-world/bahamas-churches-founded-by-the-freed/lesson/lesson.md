@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Prince William, a free
 
 Prince William, a freed slave, founds the Baptist church in The Bahamas; freed Black people break ground for Bethel Baptist on 1 August 1790; St. Matthew's (1800–1802) and Scottish St. Andrew's Kirk (1798–1810) rise nearby; centuries later Rastafarianism grows after a Bob Marley concert in the late 1970s and Islam arrives in the early 1970s (Establishment of Religions: Prince William and the old churches)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

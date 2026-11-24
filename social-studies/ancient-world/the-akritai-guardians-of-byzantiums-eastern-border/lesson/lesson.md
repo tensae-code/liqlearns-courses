@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: frontier soldier-farme
 
 frontier soldier-farmers, the Akritai, hold the Taurus passes for generations and become the heroes of epic song like Digenes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 20 Akritai exercises
 
 border-guard songs and maps place the Akritai on the empire's eastern edge
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

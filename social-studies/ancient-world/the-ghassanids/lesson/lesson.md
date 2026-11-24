@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Azd tribes flee Yemen 
 
 Azd tribes flee Yemen after the Marib dam breaks and, as Byzantium's Arab allies against Persia and the desert raiders, build the White Palace, al-Mushatta and al-Qastal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

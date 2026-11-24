@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: under 104 years of Ran
 
 under 104 years of Rana rule Shukraraj, Gangalal, Dharmabhakta and Dasharath Chand are killed for opposing it; martyrs fall again under the 30-year Panchayat and in the Second People's Movement of 2062–63 BS, which restores people's rights as Loktantra
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Search of Martyrs and Respect
 
 at a Magh 16 programme Shanti garlands Sagar Singh, martyred in Lalitpur in 2046 BS; Lakhan Thapa is named Nepal's first martyr, Shahid Gate in Kathmandu honours the four, and pupils must research martyrs of their own district from newspapers and elders
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Our Brave Martyrs — Introduction and Contribution
 
 the guide builds the martyrs' lives and contributions with pictures, charts and documentary film — Lakhan Thapa, first martyr, and the four of 1997 BS, Shukraraj Shastri, Dharmabhakta Mathema, Gangalal Shrestha and Dasharath Chand, executed for opposing the Ranas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

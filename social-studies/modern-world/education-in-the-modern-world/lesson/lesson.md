@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: universal literacy and
 
 universal literacy and schooling spread across the planet in the newest period, making education itself a world-historical force
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

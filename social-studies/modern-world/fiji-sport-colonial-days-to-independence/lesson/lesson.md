@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: athletics, cricket (te
 
 Athletics, cricket (teams photographed in 1895 and 1948) and rugby (the 1952 Fiji team to Australia) grow under colonial rules; the sail-only Royal Suva Yacht Club holds its first race on 22 October 1932 for a two-shilling entry.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Sport and recreation from independence: unifying a nation
 
 From 1970 sport takes up the role of unifying players and spectators across communities — Fiji stages world amateur golf in 1979, and Waisale Serevi dedicates the 2005 Rugby World Cup Sevens win to a nation cheering as one.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

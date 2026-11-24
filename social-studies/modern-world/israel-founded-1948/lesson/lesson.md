@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in 1947 Britain hands 
 
 in 1947 Britain hands Palestine to the UN; the land is partitioned, Israel is proclaimed, and the Arab-Israeli wars begin — a small state of eight million at the centre of a long conflict (Ch. 3 Lesson 5, Israel)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

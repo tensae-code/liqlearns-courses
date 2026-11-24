@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: the orphaned Temüjin 
 
 the orphaned Temüjin of the Secret History — his family captured, his wife abducted and rescued — becomes the man who will unite the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 4.1.2 Chinggis Khan founds the Great Mongol State
 
 in 1206 the Onon kurultai proclaims Chinggis Khan over all the felt-walled tribes; the Great Mongol State (Yeke Mongγol Ulus) is born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 4.1.3 Chinggis Khan consolidates his state
 
 the Yassa law code, the decimal army, the Uyghur-derived script and the yam relay bind the new state together before the conquests begin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 4.1.5 Chinggis Khan, founder of the Great Mongol nation
 
 the book weighs his legacy — one people, one script, one law and a state tradition every later Mongol age claims descent from
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. 3.2 The Great Mongol State
 
 1206's kurultai, the conquests of Jin, Khwarezm and Rus', the Yassa, the script and the yam — the state Chinggis built, studied through its sources
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. 3.3 Chinggis Khan's role in history
 
 conqueror or state-founder? The chapter weighs his destruction against the Pax Mongolica, the relay roads and the single Eurasian world he opened
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ Thick walls, round arches and carved portals preach the Bible to people who cann
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Romanesque church with thick walls, round arches and a carved portal — the student points to each feature and says what it did.]
+In your mind's eye: a Romanesque church with thick walls, round arches and a carved portal. The student points to each feature and says what it did.
 
 ## Sub lesson 3 — Pilgrims' roads and monasteries
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: After the Second World
 
 The second world war ends in 1945, the world judges the league of nations (1920) a failure, and builds the un instead; kuwait joins in 1963 and its foreign minister sheikh sabah al ahmad al jaber al sabah raises kuwait's flag at the organisation.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The United Nations organisation
 
 Out of the second war's ruin the victors build the united nations to keep the peace their league had failed to keep.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

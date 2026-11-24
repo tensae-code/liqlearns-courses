@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pupils shade where the
 
 Pupils shade where the 1861 rules, the "local provisions" for Belarus and Lithuania, and the 1867 compulsory-buyout law each applied
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: independence is shaken 
 
 Guatemala's Grade 4 book divides independence's causes in two. From outside: US independence, the French Revolution's liberty-equality-fraternity, and Napoleon's seizure of Spain shake the empire. From inside: criollo exclusion, trade monopoly and war taxes rot it. An empire weakened on both sides cannot hold.
 
-[Picture slot — a picture of the signing on 15 September 1821, with newspapers of liberals and conservatives on the table and José Cecilio del Valle drafting the Act — the student names the date and the drafter.]
+In your mind's eye: the signing on 15 September 1821, with newspapers of liberals and conservatives on the table and José Cecilio del Valle drafting the Act. Name the date and the drafter.
 
 ## Sub lesson 2 — 15 September 1821 — Central America declares
 

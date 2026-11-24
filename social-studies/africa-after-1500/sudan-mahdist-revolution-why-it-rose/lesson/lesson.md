@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Muhammad Ahmad, born 1
 
 Muhammad Ahmad, born 1843 on Labab Island and formed by the Sufi orders, proclaims the Mahdiyya from Aba Island; heavy taxes beaten out of people, conquest violence and favouritism make Sudan ready, and the revolt runs in two acts — revolution 1881–1885, state 1885–1898
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

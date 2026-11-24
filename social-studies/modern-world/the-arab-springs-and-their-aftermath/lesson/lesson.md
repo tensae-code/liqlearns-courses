@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: squares fill with dema
 
 squares fill with demands for democracy (the chapter's videomap) and meet repression, civil war and Daesh's territories (the maps of 2015–18) — hope and catastrophe in one decade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 19 §§5–6 Le "primavere arabe"; Le divisioni del mondo islamico
 
 Tahrir Square (Eventi) raises democracy's banner; the springs divide into transitions, restorations and civil wars, and Islam's internal divisions (Kepel's Fare storia piece on the war for Islam's control) decide their fates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: forced sedentarisation
 
 forced sedentarisation and grain and livestock seizures bring the Asharshylyk famine of 1931–1933, which kills a vast share of the Kazakh people and scatters the rest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§32–33 The policy of forced collectivisation in agriculture and its economic consequences
 
 livestock is seized, nomads are settled by force, and the herds that feed the nation vanish
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§34–35 The famine of 1931–1933 — the tragedy of the Kazakh people in the 20th century; the demographic consequences of collectivisation
 
 the Asharshylyk kills and exiles millions; the Kazakhs become a minority in their own republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§18–19 Collectivisation in Kazakhstan
 
 forced sedentarisation brings the Asharshylyk famine of 1931–1933
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Section 3 "Kazakhstan under the pressure of the totalitarian system" (its collectivisation inquiries)
 
 forced collectivisation and sedentarisation bring the famine
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

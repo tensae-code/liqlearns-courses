@@ -16,7 +16,7 @@ They paint stone-breakers, funerals in provincial towns and peasants at work.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of stone-breakers or peasants at work painted on a big canvas — the student points to ordinary life given a hero's size.]
+In your mind's eye: stone-breakers or peasants at work painted on a big canvas. The student points to ordinary life given a hero's size.
 
 ## Sub lesson 3 — A scandal and a claim
 

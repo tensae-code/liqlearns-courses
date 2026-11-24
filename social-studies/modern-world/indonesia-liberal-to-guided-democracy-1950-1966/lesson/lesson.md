@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Between 1950 and 1966 
 
 Indonesia inside the new Cold War constellation polarises by party and identity, centre-region imbalance spawns DI/TII, PRRI/Permesta and the RMS, and the dominoes run to the 30 September 1965 event.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

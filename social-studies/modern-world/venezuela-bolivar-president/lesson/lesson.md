@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The liberator of armie
 
 The liberator of armies becomes a president who must govern, and the story follows the sword turned into an office
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — A president on liberating campaigns
 
 Bolívar governs from the saddle, campaigning and presiding at once, so the republic is born already shaped by war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

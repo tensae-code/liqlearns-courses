@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Indians wash river gol
 
 Indians wash river gold from dawn to dusk under the whip in encomiendas; Las Casas gives up his own encomienda and becomes Protector of the Indians, yet by 1553 only some 3,000 of 300,000 remain; African slavery is authorised from 1512
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

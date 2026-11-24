@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: on 18 September 1938 M
 
 on 18 September 1938 Mussolini announces the racial laws at Trieste (the unit's video); Sarfatti's and De Felice's Storiografie argue over Italian racial policy's roots — persecution written into law by the state itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 6 §§6–7 La stretta totalitaria e le leggi razziali; L'opposizione al fascismo
 
 the racial laws (Fare storia Document) turn persecution into statute; against the squeeze stand the fuorusciti — Garosci's and Rosselli's Fare storia pieces, "liberty as means and end" — and Togliatti's rival reading of fascism as class dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

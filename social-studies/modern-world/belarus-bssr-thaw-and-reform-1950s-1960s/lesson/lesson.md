@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: after Stalin's death t
 
 After Stalin's death the "Thaw" opens under Mazurov; MAZ and BelAZ trucks, MTZ tractors, Soligorsk potash and Minsk electronics turn the republic industrial
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Social and political life in the Thaw
 
 Khrushchev's Thaw loosens fear and denounces the cult of personality, but the party's monopoly survives untouched
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Social and economic development in the Thaw
 
 The scientific-technical revolution reaches Belarus as sovnarkhoz managers and new chemical, radio and machine plants reshape work
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ Rodin remakes sculpture from the inside.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture in the spirit of Munch's Scream — a figure holding modern anxiety in one image — the student points to feeling replacing the visible world.]
+In your mind's eye: in the spirit of Munch's Scream — a figure holding modern anxiety in one image. The student points to feeling replacing the visible world.
 
 ## Sub lesson 3 — Munch's Scream
 

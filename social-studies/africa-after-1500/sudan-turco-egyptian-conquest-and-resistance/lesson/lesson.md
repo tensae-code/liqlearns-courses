@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: an empire marches a th
 
 an empire marches a thousand miles up the Nile in one season, and spends sixty years being resisted
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Turco-Egyptian Invasion of Sudan
 
 a divided land of sultanates meets a modern army, and in one campaigning season Sudan has a foreign master
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Turco-Egyptian Rule in Sudan (3)
 
 sixty years of refusal, in arms, in flight and in mutiny, until refusal becomes a revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

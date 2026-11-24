@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Messages once travelle
 
 Messages once travelled by garamut slit-gong, conch shell and kundu drum, and work by dugout canoe, salt-making and stone tools; modern communication and technology arrive and the class weighs what was gained and what was lost
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

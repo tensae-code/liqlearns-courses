@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The coin's story runs 
 
 The coin's story runs from colonial pieces to the long wait for oil-age Venezuela to give the country its own modern money
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

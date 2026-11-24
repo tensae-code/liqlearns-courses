@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bhanubhakta translates
 
 Bhanubhakta translates the Ramayana into easy Nepali and becomes the pioneer poet, Motiram Bhatta publishes him and brings the printing press, Falgunanda ends animal sacrifice among the Kirat, and Pasang Lhamu Sherpa becomes the first Nepali woman on Everest in 2050 BS and dies on the mountain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

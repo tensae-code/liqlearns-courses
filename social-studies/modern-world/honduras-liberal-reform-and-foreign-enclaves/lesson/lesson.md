@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Marco Aurelio Soto and
 
 Marco Aurelio Soto and Ramón Rosa (1876–1883) set out to modernise the colonial inheritance — secular free compulsory education, church separated from State, land and tax measures for farming, foreign capital invited in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 27: logros y enclaves
 
 the Rosario Mining Company opens San Juancito (the mining enclave) and banana enclaves follow; new codes, the southern road, telegraph, National Post, National Library and Archive, La Gaceta and the repaired National Railway mark the reform's reach
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 28: logros en Honduras
 
 Honduras's reform yields harmonised codes, secular education, trained teachers, schools and libraries — the National Library Juan Ramón Molina founded 27 August 1880 under Soto
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Soto and Rosa build the modern state
 
 from Isla del Tigre in 1876, Marco Aurelio Soto and Ramón Rosa decreed free, secular, compulsory primary education, separated church and state and founded the national archive — but concessions of free land, timber and tax exemptions handed the economy to foreign capital and the enclave
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

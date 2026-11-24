@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: denied self-determination, 
 
 The ELM organises in secret from 1958, workers strike, and in 1960 the ELF is founded in Cairo — the road from peaceful protest to arms.
 
-[Picture slot — a picture of the key place or moment of Eritrea — the armed struggle: the ELF as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — the armed struggle: the ELF as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — The Eritrean Liberation Front
 

@@ -16,7 +16,7 @@ Versailles rises as a machine for displaying absolute power, and French classici
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of Versailles as a great ordered palace and garden — the student points to how every part displays the king's power.]
+In your mind's eye: versailles as a great ordered palace and garden. The student points to how every part displays the king's power.
 
 ## Sub lesson 3 — England answers
 

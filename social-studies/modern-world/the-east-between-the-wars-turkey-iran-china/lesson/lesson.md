@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Atatürk remakes Turke
 
 Atatürk remakes Turkey, Reza Shah drives Iran to modernise, and China tears itself between nationalists and communists
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2, Lessons 27–30: the traditional societies of the East in the 1920s–1930s
 
 from Turkey to Japan and China, eastern societies wrestle with whether to copy the West or defend their own ways as empires press in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

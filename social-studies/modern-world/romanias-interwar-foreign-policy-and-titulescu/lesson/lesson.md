@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Romania is a founding 
 
 Romania is a founding member of the League; Titulescu builds Balkan security pacts and reciprocal frontier guarantees while Europe's relations sour in 1936–38
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

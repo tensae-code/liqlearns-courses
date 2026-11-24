@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The industrial revolut
 
 the industrial revolution arrives late to Iceland, through fish (Síðbúin atvinnubylting á Íslandi, student book pp. 54–63)
 
-[Picture slot — a picture of a steam trawler landing fish in a growing Icelandic harbour town — the student says what arrived late and what it changed]
+In your mind's eye: a steam trawler landing fish in a growing Icelandic harbour town. Say what arrived late and what it changed.
 
 ## Sub lesson 2 — Steam trawlers and new towns
 

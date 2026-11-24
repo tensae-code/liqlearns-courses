@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: every military phase h
 
 every military phase has its paper twin, and the war is finally ended at a conference table in Switzerland
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 13 Diplomacy in the anti-American resistance, 1954–1975: Hanoi demands the Geneva elections through the International Control Commission, balances USSR and China while mobilising socialist aid, fights and talks at once — publishing the evidence of America's unjust war, winning world opinion, campaigning for recognition of the Liberation Front — until at Paris the four-party fight over the very shape of the table (rectangle, divided circle, or one big round table) ends with the big round table and the 27-1-1973 Agreement committing the US to respect Vietnam's independence, sovereignty, unity and territorial integrity
 
 the last battle of the war is over furniture, because the table's shape is the war's verdict in miniature
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after Bạch Đằng h
 
 after Bạch Đằng he drops the Tiết độ sứ title, proclaims himself King and rules from Cổ Loa with civil and military officials and generals holding the provinces; the Trần-era historian Lê Văn Hưu judges that with him "the orthodox line of our country's kingship was restored"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

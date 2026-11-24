@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before any state, powe
 
 Before any state, power sits with Big Men in patrilineal societies and chiefs in the matrilineal island societies where women hold wealth — and colonisation's "each for himself" teaching corrodes the old duty of care toward minorities
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

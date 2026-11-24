@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: five thousand years ag
 
 five thousand years ago islanders of the Cyclades sail, fish and trade obsidian across the Aegean from small coastal settlements
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 8, ch. 2 The art of the Cycladians
 
 Cycladic craftsmen carve the famous marble figurines and paint frescoes like the Thera fishermen and boxing boys
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 8, ch. 1 Life of the Cycladians exercises
 
 exercises open the Bronze Age part of the book with the islanders' sea life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit 8, ch. 2 Art of the Cycladians exercises
 
 close picture-reading of Cycladic figurines and frescoes as evidence of island life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. B2 The Cycladic Civilisation
 
 Bronze Age islanders carve marble figures and sail obsidian across the Aegean centuries before the palaces
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Colonial landowners, m
 
 Colonial landowners, miners and officials cross into the republic; the indigenous tribute and servitude are consolidated instead of abolished, Sucre moves against the Church's economic power, and Peru's invasion ends in the Treaty of Piquiza (La república temprana)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

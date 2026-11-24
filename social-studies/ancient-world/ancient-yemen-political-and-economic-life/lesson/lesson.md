@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: kingship passes father
 
 kingship passes father to son inside one family on a tribal base, yet the king rules with advisory councils of notables and tribal chiefs, while below him an economy of dams, cisterns and terraces grows coffee, grain and fruit, Yemeni caravans and ships command the incense road, and Socotra's dragon's-blood tree feeds a trade the old world calls the Island of Happiness
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: to end the unrest Rotu
 
 To end the unrest Rotumans cede their island to Britain in 1881, Governor Gordon sending Lt Commander Bower to receive it (the cession instrument and Motusa memorial survive); in 1942-45 Rotuman bearer troops serve with distinction in the Solomons, Sergeant Josefa Rigamoto winning the Military Medal.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

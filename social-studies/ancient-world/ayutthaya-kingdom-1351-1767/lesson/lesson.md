@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ramathibodi founds Ayu
 
 Ramathibodi founds Ayutthaya on the Chao Phraya in 1351; the lesson traces Siam from the "Syam" named in Angkor's 12th-century inscriptions to the power that will sack Angkor (History Ch. 3 Lesson 3, The Ayutthaya state (1351–1767))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

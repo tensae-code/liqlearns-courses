@@ -10,7 +10,7 @@ Turkey's Grade 12 book gives the post-war turn two faces, and dates them close. 
 
 Abroad, the same years anchor Turkey to the West: the Council of Europe in 1949, the Turkish brigade fighting in Korea, and NATO membership sealing the choice. The book's beat holds the two faces together: the republic votes its founders' party out, and anchors itself to the West in the same five years — democracy at home and alliance abroad as one turn, into the Turkey of the 1950s.
 
-[Picture slot — a picture of 1950s Turkey at the crossroads — voters queueing at a ballot box in a village square while, beyond, Turkish soldiers board a ship for Korea under the UN flag — the student points to the ballot box and the ship and says what single turn joins them.]
+In your mind's eye: 1950s Turkey at the crossroads — voters queueing at a ballot box in a village square while, beyond, Turkish soldiers board a ship for Korea under the UN flag. The student points to the ballot box and the ship and says what single turn joins them.
 
 ## Say it to your companion
 

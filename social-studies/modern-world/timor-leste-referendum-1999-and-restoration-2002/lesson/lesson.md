@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 In 1998, political change in Indonesia opens a door that 24 years of resistance had pushed against. Timor-Leste's resistance unites in the CNRT, and on 30 August 1999 the people finally vote. They choose independence by a landslide. The book works this through a class timeline, 1984–1999, so children place the vote at the end of the long years they have studied.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Scorched earth, then the flag again — 20 May 2002
 

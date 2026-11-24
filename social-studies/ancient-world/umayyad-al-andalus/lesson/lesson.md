@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: One Umayyad survivor r
 
 One Umayyad survivor refounds his dynasty at the far end of the Islamic world, and al-Andalus rises and fragments
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 8: The Umayyad state in al-Andalus
 
 The far-western Umayyad state and its civilisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: in the 19th century Abyssin
 
 Abyssinian rulers raid and tax the highlands in the 19th century, and Eritreans remember both the exactions and the famine years of 1888–1892 that followed.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Abyssinian expansion and highland resistance as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Abyssinian expansion and highland resistance as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Abyssinian Expansion and Eritrean Resistance
 

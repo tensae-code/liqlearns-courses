@@ -8,7 +8,7 @@ Three different empires built three different Americas. This lesson watches Spai
 
 Spain built a ranked colonial society in America — an ordered ladder of peoples, with Spanish rulers at the top and Native peoples and enslaved Africans pressed below. The colony was a new social order, deliberately built.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The Dutch and French chase furs and empire
 

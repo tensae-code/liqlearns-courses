@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Taika reforms copy
 
 the Taika reforms copy China's state, the Fujiwara rule behind emperors, Minamoto Yoritomo takes real power as shogun in 1192, and Tokugawa Ieyasu closes the story in 1603
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sudanisation and the 1
 
 Sudanisation and the 1954 elections bring al-Azhari's government and independence on 1 January 1956; party strife invites Abboud's army rule (1958), the October 1964 revolution — sparked at Khartoum University, sealed by student Ahmad al-Qurashi's death — restores civilians, and Nimeiri's May 1969 regime closes the period
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

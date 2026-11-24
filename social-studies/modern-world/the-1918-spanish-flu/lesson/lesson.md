@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1918 the Spanish fl
 
 in 1918 the Spanish flu reaches Iceland (Verkefnablað 29: Spænska veikin)
 
-[Picture slot — a picture of Reykjavík in 1918, quiet streets in flu time — the student says what arrived and how fast it killed]
+In your mind's eye: reykjavík in 1918, quiet streets in flu time. Say what arrived and how fast it killed.
 
 ## Sub lesson 2 — Killing in weeks
 

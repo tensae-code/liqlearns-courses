@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Mon (Talaing) buil
 
 the Mon (Talaing) build Dvaravati and Thaton between the Khmer and the Burmans (map, p. 146); their language and Buddhism shape all their neighbours, then fade — by the 20th century the Mon are a small people keeping an old tongue (History Ch. 3 Lesson 4, The Mon state)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

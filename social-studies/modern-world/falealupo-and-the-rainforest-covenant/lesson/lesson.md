@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Falealupo village, nee
 
 Falealupo village, needing a school it must fund itself, painfully votes to log its rainforest; former missionary Dr Paul Cox raises the school money overseas instead, and in 1990 the chiefs covenant to protect 50,000 acres for fifty years; matai Fuiono Senio runs six miles to stand before the bulldozers, survives two cyclones without selling, and shares the 1997 Goldman Prize with Cox before his death that year
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

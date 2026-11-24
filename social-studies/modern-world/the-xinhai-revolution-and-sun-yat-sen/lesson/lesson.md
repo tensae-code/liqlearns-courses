@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sun Yat-sen's Tongmeng
 
 Sun Yat-sen's Tongmenghui (1905) programmes the republic — down with the Qing, equal land rights, a people's livelihood; in December 1911 he returns, Nanjing proclaims the Republic with him as provisional president, but the revolution stalls into dual power with Yuan Shikai's Beiyang north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

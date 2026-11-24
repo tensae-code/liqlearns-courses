@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: population dips, harve
 
 population dips, harvests shrink in a colder century and Mediterranean Europe stagnates while the North Sea economies quietly grow
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — L'Italia dopo Cateau-Cambrésis; Industria e commercio nel '600; Il settore agricolo; Le rivolte
 
 Spanish Italy stagnates, revolts shake Naples and the provinces, and the peninsula's primacy passes north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

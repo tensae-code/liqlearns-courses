@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In India's villages, i
 
 Kings tax farmers, farmers demand surer crops, irrigation follows — a chain the chapter makes pupils complete; in Tamil villages vellalar landowners, uzhavar ploughmen and landless kadaisiyar and adimai labourers stack the social order, while in the north the hereditary grama bhojaka is landlord, tax-collector, judge and policeman in one.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

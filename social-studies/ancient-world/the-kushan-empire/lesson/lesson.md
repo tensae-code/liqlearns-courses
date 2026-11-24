@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Yuezhi become the 
 
 the Yuezhi become the Kushans; under Kanishka an empire joins Central Asia to India, carries Buddhism east and mints gold the world trusts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

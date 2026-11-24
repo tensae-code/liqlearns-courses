@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mukden 1931, Shanghai 
 
 Mukden 1931, Shanghai 1932, Lugou Bridge 1937 — piecemeal resistance hardens into a united national front
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The whole nation fights and wins
 
 Taierzhuang, Pingxingguan, the Hundred Regiments, Burma roads and Chongqing under bombs — eight years until Japan surrenders in 1945 and Taiwan returns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

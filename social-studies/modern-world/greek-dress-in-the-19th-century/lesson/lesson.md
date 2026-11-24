@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Athens and the towns t
 
 Athens and the towns take European fashion while the countryside keeps its woven, embroidered costumes — two Greeces dressed side by side
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Dholavira and Lothal s
 
 Dholavira splits into three walled parts and displays giant letters of the script in white stone; Lothal's great tank may be a dockyard, its warehouse full of seals and clay sealings that proved a goods-bag had arrived untampered.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

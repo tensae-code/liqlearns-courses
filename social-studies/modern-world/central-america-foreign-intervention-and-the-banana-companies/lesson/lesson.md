@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: cash-poor republics pay
 
 Guatemala's Grade 4 book teaches foreign intervention through one fruit. Cash-poor republics pay a US railway builder in land; the Soto-Keith contract becomes the model deal. Following it, the United Fruit Company ends up holding Izabal and Tiquisate — Guatemalan land in a foreign company's hands. Intervention here wears no uniform: it arrives as a railway contract and a banana plantation.
 
-[Picture slot — a picture of a railway running from banana plantations to a Caribbean port, with land contracts changing hands — the student names United Fruit and the two places it held.]
+In your mind's eye: a railway running from banana plantations to a Caribbean port, with land contracts changing hands. Name United Fruit and the two places it held.
 
 ## Say it to your companion
 

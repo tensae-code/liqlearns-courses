@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the first treatie
 
 From the first treaties, people around King Denis's court and beyond refuse French domination (Leçon 41 La résistance à la colonisation)
 
-[Picture slot — a picture of Gabonese leaders and communities refusing French domination — the student names one Gabonese resister]
+In your mind's eye: gabonese leaders and communities refusing French domination. Name one Gabonese resister.
 
 ## Sub lesson 2 — Gabon's resisters rise against French rule
 

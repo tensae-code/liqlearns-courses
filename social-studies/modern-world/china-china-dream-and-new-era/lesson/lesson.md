@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the newest generation 
 
 the newest generation inherits the story — national rejuvenation as a relay from 1840's humiliation to today's new era
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

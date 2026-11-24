@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Zheng Chenggong besieg
 
 Zheng Chenggong besieges the Dutch for eight months and in 1662 recovers Taiwan after 38 years, then settles soldiers to farm it and teaches highland peoples new farming — Qing binds Taiwan, Tibet and the northwest into one state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Early-mid Qing — height and crisis
 
 Kangxi, Yongzheng and Qianlong fix China's modern map from Taiwan to Xinjiang and Tibet at the dynasty's dazzling height
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: two Arab caravan kingd
 
 two Arab caravan kingdoms grow rich as middlemen of the desert — the Nabataeans carve Petra out of living rock, run their monarchy with the people's shura, mint coins and work copper and iron until Rome diverts the trade to the Red Sea and seizes them in 106 CE; then Palmyra, neutral between Persia and Rome, takes Petra's place, its merchants speaking Aramaic and Greek and trading to Gaul and the China Sea, until Queen Zenobia's ambition to build an Arab empire brings Aurelian down on the city — she is captured and Palmyra falls in 274 CE
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

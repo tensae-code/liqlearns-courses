@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the continent is mappe
 
 the continent is mapped into cultural areas — North American, Caribbean, Mesoamerican, Intermediate (Chibcha, Chorotega), Amazonian, Andean and South-Andean — with two nuclear areas, Mesoamerica and the Andes, whose "mother cultures", Olmec and Chavín, modelled urban civilisations for the rest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

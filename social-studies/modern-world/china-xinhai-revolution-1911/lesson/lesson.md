@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Qing sells the rai
 
 the Qing sells the railways, Sichuan rises to protect them, an accidental bomb in Wuchang starts the revolution on 10 October 1911, 14 provinces secede in two months, and Sun Yat-sen takes office on New Year's Day 1912 — but the fruits fall to Yuan Shikai
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

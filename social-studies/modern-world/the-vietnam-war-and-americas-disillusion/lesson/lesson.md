@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: escalation in Vietnam 
 
 escalation in Vietnam (the chapter's interactive map) breaks the American consensus at home; King's Dream (unit Document) and the war's televised failure remake the republic's self-image
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 9 §10 Nuove tensioni nei due blocchi: guerra del Vietnam e crisi cecoslovacca
 
 1968 strikes both blocs — America's war in Vietnam (Apocalypse Now is the module's film) and the tanks in Prague; the two empires' legitimacy cracks in the same year
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

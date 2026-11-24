@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: free speech, free reli
 
 free speech, free religion and free travel return; monasteries reopen and a new, plural society argues with itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 4.7 The change in Mongolia's foreign policy
 
 the "third neighbour" policy reaches beyond Russia and China to the US, Japan, Korea and the EU
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. IV.4 Revolutionary change in the sphere of thought
 
 free press and free faith return; Chinggis is honoured again, the Secret History's 750th anniversary fills Naadam 1990, the repressed are rehabilitated and 10 September becomes their memorial day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. IV.5 Mongolia's foreign relations expand and develop
 
 the third-neighbour policy, nuclear-weapon-free status, peacekeepers abroad, the 2004 Russian debt settlement, and ties with 180 states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Lenin retreats from wa
 
 Lenin retreats from war communism to the NEP's mixed economy, and the Soviet republics are bound into one USSR in 1922
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §9 From war communism to the NEP; the formation of the USSR
 
 Lenin's retreat to a mixed economy, then the republics are bound into the USSR
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

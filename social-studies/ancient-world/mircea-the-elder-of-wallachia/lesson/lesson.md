@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mircea strengthens Wal
 
 Mircea strengthens Wallachia and joins the western crusade, which ends in disaster at Nicopolis on 25 September 1396
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

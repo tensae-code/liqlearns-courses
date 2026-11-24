@@ -8,49 +8,49 @@ Before you read on, hold this lesson's one thing in mind: Spain and Portugal div
 
 Spain and Portugal divide the new continent first, Britain and France follow; each empire rules differently — viceroyalties, sugar plantations worked by enslaved Africans, family farms in the Thirteen Colonies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Consecuencias de la dominación colonial europea
 
 the bill is counted in four columns — economic dependence, lost sovereignty, an indigenous population crashed by epidemics, and mestizaje under an imposed culture and religion
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Conquista de América y la Resistencia Indígena: las Antillas y México
 
 conquest is defined by massacre, cruelty and greed; after the Antilles are exhausted, Cortés sails from Cuba in 1519 with 700 men after Aztec gold
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Conquista española en América del Sur
 
 Pizarro exploits the Inca civil war between Huáscar and Atahualpa; German bankers' agents conquer Venezuela brutally on Spain's debts, and Tordesillas hands Brazil to Portugal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — La Dominación Colonial Europea: colonización española
 
 three centuries of rule through viceroys, encomiendas and tribute; the Church evangelises by liquidating indigenous belief while some friars defend the indigenous against the encomenderos' abuses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Colonización portuguesa en América
 
 Brazil-wood dye and then sugar pull Portugal into Brazil; Souza founds San Vicente in 1532 and fights off French corsairs for the coast
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Colonización inglesa: causas y características
 
 England's thirteen colonies grow by private initiative and Crown together, a heterogeneous European population under royal governors and elected assemblies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — El Colonialismo y los Nuevos Estados Europeos
 
 Spain and Portugal absorb indigenous populations into mixed settlements while Britain and France displace them; Britain's strategic colonies from Gibraltar to Hong Kong make it mistress of the sea routes, with India as the prize
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

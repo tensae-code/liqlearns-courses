@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the empire that was th
 
 the empire that was the world's largest before 1914 shrinks after 1945 into a 224,046 km² island state of 58 million (2006), its politics rebuilt around parties, welfare and Europe (Ch. 1 Lesson 2, The British Empire)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

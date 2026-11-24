@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: British resettlement p
 
 British resettlement policy and a European-dominated economy shape how Fijians, Indians and Europeans meet between 1875 and 1970; between them sit the 7,800 kailoma (part-Europeans) counted in 1961, belonging fully to neither side.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

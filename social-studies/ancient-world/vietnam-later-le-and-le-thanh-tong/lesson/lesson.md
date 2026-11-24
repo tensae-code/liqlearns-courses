@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Lê Lợi founds the d
 
 Lê Lợi founds the dynasty in 1428 at Đông Kinh; under Lê Thánh Tông (1460–1497) come reforms, the Hồng Đức map, the national criminal code, regular examinations and stelae at the Văn Miếu — and a warning that not one inch of the founder's land may be given away
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 12, story of Trạng Lường Lương Thế Vinh
 
 the maths prodigy weighs a Ming envoy's elephant by marking a boat's waterline and swapping the elephant for stones, then writes the Đại thành toán pháp, the age's great maths book
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

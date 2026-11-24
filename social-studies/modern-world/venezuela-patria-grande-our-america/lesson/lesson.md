@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: The small homeland ope
 
 The small homeland opens into Bolívar's Patria Grande, with Neruda's Chilean voice singing the continent as one home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — "For us the Homeland is America"
 
 Bolívar's own sentence opens the republic unit — the homeland to be built is a continent, not a province
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Amphictyonic Congress of Panama
 
 Bolívar summons America's new republics to Panama in 1826 to unite — the Patria Grande attempted in diplomacy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

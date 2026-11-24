@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: realists and romantics
 
 realists and romantics put the poor and oppressed on the page and canvas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 11.2 How does Émile Zola's article 'J'accuse' show us the power of the word?
 
 one open letter shakes the French Republic in the Dreyfus affair
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Writing, law, astronom
 
 Writing, law, astronomy, farming, building and sea trade — the ancient Arab world's peoples hand civilisation its basic tools, and the book closes by counting them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — What the ancient Arab civilisations shared
 
 One family of faiths from Babylon to Yemen — Marduk, Amun, Baal, Hadad, Ishtar in every land, the sun-moon-Venus triad, Osiris echoed in Adonis — and everywhere a belief in life after death
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

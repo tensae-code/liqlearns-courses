@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: from Bethune's 1838 ha
 
 from Bethune's 1838 harbour-dues treaty and the first consuls (Pritchard 1847, Weber 1861) through Steinberger's 1873 peace that makes Laupepa king under a European-model constitution, the Apia Municipality of 1879 and the Berlin Treaty of 1889, to the 1899 settlement that annuls it and partitions Sāmoa between Germany (west) and America (east)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

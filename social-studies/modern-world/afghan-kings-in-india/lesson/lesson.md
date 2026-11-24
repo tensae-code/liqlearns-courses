@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Arab Muslims reach Sin
 
 Arab Muslims reach Sindh in 90 AH/712 CE after King Dahir's seizure of their ship, and the lesson follows Islam's first Indian state and even an Afghan woman's part in governing Hindustan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

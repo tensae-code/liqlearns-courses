@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The anthem praises mar
 
 The anthem praises martyrs whose blood cemented the nation, and the flag's white stripes mark the 1972 Addis Ababa and 2005 Naivasha peace, red the blood, blue the Nile, yellow the guiding star, green the land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Importance of national symbols on the daily lives of South Sudan people
 
 Symbols promote unity and peace, and only in peace do roads and trade develop and people work together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

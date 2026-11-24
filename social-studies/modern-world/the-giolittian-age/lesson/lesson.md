@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Giolitti (Personaggi) 
 
 Giolitti (Personaggi) opens to unions and suffrage (1912), industry booms in the northern triangle, emigration drains the South (Fare storia: Volpe), and the Libyan war (1911) arms the nationalism that will end his system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unità 1, Cap. 3 §3 Giolitti's domestic policy
 
 Giolitti's pragmatism (the chapter's document) opens the state to unions and strikes, widens the suffrage (1912) and tries to govern the mass age instead of repressing it — Marrocu's Storiografia weighs the electoral reform
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unità 1, Cap. 3 §4 The take-off of industry and the Southern question
 
 steel (the ILVA story from Elba's iron), electricity and the railway network industrialise the North while Salvemini's Document indicts the South's abandonment, and Pascoli's Italy sings the emigrants leaving it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

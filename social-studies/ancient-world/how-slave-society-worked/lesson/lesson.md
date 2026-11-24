@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: when farming first produced
 
 Surplus and private property split people into classes for the first time; debtors and prisoners of war become slaves with no rights, owned by slave-owners alongside free farmers and craftsmen.
 
-[Picture slot — a picture of the key place or moment of How slave society worked as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of How slave society worked as the book shows it. Point to it and say what it shows.
 
 ## Say it to your companion
 

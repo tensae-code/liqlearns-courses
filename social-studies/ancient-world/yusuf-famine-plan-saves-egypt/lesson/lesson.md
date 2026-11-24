@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yusuf reads the king's
 
 Yusuf reads the king's dream — seven fat cows, seven lean — and lays down a whole economic plan: plant the fat years to the limit, store the wheat in its ears, ration the lean years; cleared of the Aziz's wife's charge by her own confession, he becomes Egypt's minister, the famine drives his own brothers down from Canaan, and after the test of Benjamin the family is reunited, Yaqub's sight returns at the scent of Yusuf's shirt, and the dream of the stars is fulfilled on the throne of Egypt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

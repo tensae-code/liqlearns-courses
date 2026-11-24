@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: One generation of gian
 
 One generation of giants — Hitler hunting lebensraum through Austria, Czechoslovakia and Poland, Stalin, Mussolini, Churchill, Wilson, Roosevelt, Truman and Martin Luther King — each studied in depth for how a single person bends politics, society and belief
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Folio
 
 Ten politically significant lives from WWII to the present, at least one Papua New Guinean, profiled and judged — early life, beliefs, rise, achievements good and bad, and the legacy each left
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Influence of individuals on systems of power, authority and governance
 
 Weber's charisma — authority legitimised by a leader's exceptional qualities, a relationship between leader and followers that challenges every settled order and is "often seen as revolutionary"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Impact of powerful individuals and groups on society
 
 1 September 1969 — young officers led by Gaddafi overthrow King Idris in a bloodless coup; the Revolutionary Command Council abolishes the monarchy, makes education and medical care free, and per-capita income climbs — students explain why such leaders and governments are removed from power
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

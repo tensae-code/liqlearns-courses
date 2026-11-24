@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fa Ngum, a Lao prince 
 
 Fa Ngum, a Lao prince raised at the Angkor court and married to a Khmer princess, carries Buddhism home and unites the Lao valleys as Lan Xang, the kingdom of a million elephants (1353) (History Ch. 3 Lesson 4, The Lan Xang state)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

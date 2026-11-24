@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: early rice and the yan
 
 early rice and the yangma transplanting horse push rice to first place — 'when Su and Hu ripen, the world is fed' — cotton spreads north, and southern silk, porcelain and shipbuilding outstrip the north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Liao-Song-Xia-Jin-Yuan economy and society
 
 paper money, sea-going junks, coal and iron at medieval heights, and cities whose night markets outshine Europe's
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

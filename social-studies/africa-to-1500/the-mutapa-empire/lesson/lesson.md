@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: As Zimbabwe fades, the
 
 As Zimbabwe fades, the Mwene Mutapa empire rises in the Zambezi valley, ruling through gold trade and a sacred kingship until it too declines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Mwenemutapa state
 
 As Zimbabwe declines, the Mwenemutapa state rises north of its ruins in the mid-15th century, stretching from the Kalahari to the Indian Ocean on the Shona-Karanga gold trade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

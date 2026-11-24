@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: schools, universities 
 
 Schools, universities and the Academy of Sciences are rebuilt from ruins and a new educated generation rises
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Literature and art
 
 A writers' union shrunk to 47 members by war regrows around Melezh, Shamyakin and Bryl, but a 1947 party decree orders literature back into line
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

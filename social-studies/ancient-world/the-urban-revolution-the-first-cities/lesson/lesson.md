@@ -8,7 +8,7 @@ First people learned to farm. Then something bigger happened: the city. Before y
 
 Bangladesh's Grade 6 book gives the world's first cities a name borrowed from Gordon Childe: the Urban Revolution — his second revolution, after the farming revolution. Farming's surplus raised something new: cities with writing, science and art. The chapter then tours the city worlds that rivers and seas made possible — the Indus, Egyptian, Mesopotamian, Chinese and Greek worlds — each one a farming land that grew walls, scripts and learning. The lesson's thread: no river, no surplus; no surplus, no city.
 
-[Picture slot — a picture of an early river-valley city — walls, a temple tower, scribes writing, boats on the river and fields beyond — the student points to the writing and says why writing is a city thing.]
+In your mind's eye: an early river-valley city — walls, a temple tower, scribes writing, boats on the river and fields beyond. The student points to the writing and says why writing is a city thing.
 
 ## Say it to your companion
 

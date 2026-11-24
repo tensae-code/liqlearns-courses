@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: cinema, radio and the 
 
 cinema, radio and the press create a mass culture while churches lose their old grip on public life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §29 Features of culture's development; mass culture; religion's changing role
 
 cinema, radio and press make a mass culture as churches lose their grip
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

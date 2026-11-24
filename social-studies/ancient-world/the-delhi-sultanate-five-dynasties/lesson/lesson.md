@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Five dynasties rule De
 
 Mahmood of Ghazni raids India seventeen times (1000–1027), but Shahab-ud-Din Ghori plants rule — Tarain 1192 — and his slave-general Qutb-ud-Din Aibak founds the Sultanate in 1206; five dynasties follow — Mamluk (Iltutmish the real organiser, Razia the queen, Balban), Khilji (Ala-ud-Din's market reforms and Mongol-proof armies), Tughlaq (Firoz Shah's canals and employment bureau), Sayyid, and Lodhi, until Babar ends it at Panipat.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

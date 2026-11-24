@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: under cover of war the
 
 under cover of war the Young Turk government arrests Constantinople's Armenian leaders on 24 April 1915, then deports and kills the Ottoman Armenians, while Van and Musa Dagh resist
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 1: the Armenian people at the start of the 20th century; the Armenian Genocide (lessons 1–18 of the thematic plan, keyed to student chapters 1.1–1.4)
 
 the guide walks teachers through the Hamidian massacres, the wartime genocide and its condemnation as the course's opening national catastrophe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

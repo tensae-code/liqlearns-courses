@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in February 2007 the n
 
 in February 2007 the new King makes India his first foreign visit and signs the revised friendship treaty, replacing the 1949 treaty's guidance clause with mutual cooperation between equals (Chapter Four, Bhutan-India Friendship Treaty 2007)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

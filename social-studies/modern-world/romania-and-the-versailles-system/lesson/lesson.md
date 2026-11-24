@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the great powers infor
 
 the great powers inform the small allies of the Austrian treaty's terms rather than negotiate them; Article 59 disposes of Bukovina, and the Bessarabian question poisons Romanian-Soviet relations until 28 June 1940
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

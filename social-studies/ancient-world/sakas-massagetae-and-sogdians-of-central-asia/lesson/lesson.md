@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the mounted Saks, the 
 
 the mounted Saks, the river Massagetae and the farming-trading Sogdians are presented as the ancient peoples of the homeland itself, ancestors before empires arrive
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

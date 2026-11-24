@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Tahirids, Saffarids, S
 
 Tahirids, Saffarids, Samanids, Buyids and the Alavids of Tabaristan rule Iran in the caliph's name or against him, and Persian language and learning flower again under their courts (The rise and spread of Iranian-Islamic civilisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The golden age of Iranian-Islamic culture and civilisation
 
 conquered Iran conquers back with culture — Persian administrators, scientists and poets make the Islamic golden age substantially Iranian (The golden age of Iranian-Islamic culture and civilisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Muslim Iranians form governments
 
 within two centuries of the conquest, Iranians are ruling Iran again under Islam — Tahirid, Saffarid and Samanid governments rise (Muslim Iranians form governments)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

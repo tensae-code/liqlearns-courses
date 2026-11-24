@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1896–97 Shona and
 
 The grievances pile up: land and cattle taken, labour forced, taxes imposed — and then drought and cattle disease on top. In 1896–97 the Shona and the Ndebele, old rivals, rise together against the British South Africa Company. They are beaten by superior guns — but the rising has a name that never dies: the First Chimurenga.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

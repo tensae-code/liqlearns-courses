@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: three centuries of col
 
 three centuries of colony sort people by skin — peninsulares on top, criollos without political power, Indigenous as the labour base, mestizos born of the mixing, Black Africans brought for the heaviest work — a new world built from the three peoples
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 24: mujeres, Iglesia y enfermedad
 
 the Church teaches reading, Spanish and submission; Indigenous and African women are subjected and the mestizo people is born; epidemics the natives cannot resist (smallpox, measles, plague) shrink the population, so from 1545 Black slaves are imported for the mines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 25: el impacto demográfico
 
 conquest and colonisation cost some 90% of the Indigenous population (smallpox, measles, flu, tuberculosis, harsh treatment, slave traffic, mestizaje); the 1778 census counts 811,675 in the Kingdom of Guatemala, and lost labour feeds the African slave traffic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — colonial government of Honduras
 
 the Audiencia de los Confines (1542, first seated at Gracias) governed Honduras, moving to Guatemala in 1566; the Alcaldía Mayor de Tegucigalpa (1578) was created to control mining, and from 1609 Honduras joined the Captaincy General of Guatemala
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

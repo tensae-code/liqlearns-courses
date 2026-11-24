@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Otto I, crowned empero
 
 Otto I, crowned emperor in 962, binds the Church to his crown; two centuries of empire-versus-papacy explode when Gregory VII and Henry IV fight over who appoints bishops, and the emperor stands barefoot in the snow at Canossa begging pardon — yet by the Golden Bull of 1356 the empire is a league of near-independent princes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

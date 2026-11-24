@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Katari's rebellion spr
 
 Katari's rebellion spreads community to community; Túpac Amaru II is recognised as libertador and executed with his family on 18 May 1781; the siege of La Paz follows in the chronological table (Las grandes rebeliones indígenas de 1780–1781)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Las grandes rebeliones indígenas de 1780–1781
 
 Teacher-compendium unit, same arc as the student text (Año 2: Las grandes rebeliones indígenas de 1780–1781)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

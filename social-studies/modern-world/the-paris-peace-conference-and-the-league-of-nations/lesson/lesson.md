@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Big Four and 28 st
 
 the Big Four and 28 states remake the world in 1919–20 without Soviet Russia; Romania signs Versailles on 28 June 1919 then walks out, and every treaty carries the League of Nations in its preamble
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 9: Sistemul Versailles–Washington și noua ordine internaţională
 
 separate treaties are signed with Germany's allies too; Austria-Hungary is dismantled and Austria, Hungary, Czechoslovakia and Yugoslavia are constituted
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

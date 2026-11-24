@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Rome and Parthia settl
 
 Rome and Parthia settle Armenia's crown on Tiridates I in the treaty of Rhandeia (62–63), founding a dynasty that lasts four centuries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 4.2 The Arshakuni kingdom at its height (same chapter, political part)
 
 strong Arshakuni kings hold the buffer kingdom together while Rome and Persia watch each other across it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 4.3 The division and fall of Arshakuni Armenia
 
 Rome and Persia partition Armenia in 387, the last Arshakuni king is deposed in 428, and the kingdom ends — but not the nation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 4.4 The socio-economic and cultural life of Arshakuni Armenia
 
 nakharar houses, cities and church schools structure a feudal Christian kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

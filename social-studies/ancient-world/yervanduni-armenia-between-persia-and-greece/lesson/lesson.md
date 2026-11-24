@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: after Van falls, Yerva
 
 after Van falls, Yervanduni kings rule a satrapy of Persia, Armenia joins the great revolt of 522–521 BCE recorded at Behistun, and Tigran Yervanduni hosts Xenophon's Greeks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 2.2 Yervanduni Armenia, Alexander's empire and the Seleucids
 
 Alexander's conquest reshuffles the East, and Yervanduni kings keep Armenia together between Macedonian successors
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 2.3 The socio-economic and cultural life of Yervanduni Armenia
 
 trade routes cross the Highland, cities grow, and Greek and Iranian cultures meet in Armenian temples and coinage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

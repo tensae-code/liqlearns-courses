@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Gálvez, Villeda
 
 after Gálvez, Villeda Morales, military rulers and a Junta, the 1980 Constituent Assembly writes the still-current constitution and continuous democracy begins in 1982; in 2009 President Zelaya is deposed and Micheletti installed, and new parties (PAC, Libre, FAPER, APH) are born of the crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — the long 20th century
 
 Carías ruled 16 years, Gálvez continued his roads and coffee support, the 1949–1963 reformismo modernised, and after military hegemony Suazo Córdova's 1981 election victory opened the democratic era in 1982
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: NATO (2004) and EU (20
 
 NATO (2004) and EU (2007) membership anchor Bulgaria in the Euro-Atlantic family (Lessons 38–39: Bulgaria — part of the Euro-Atlantic family; the Bulgarian citizen in the modern world)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 67–68: Bulgaria — part of the Euro-Atlantic community; Bulgarian society and European values
 
 NATO and EU accession close the transition; Bulgarian society measures itself against European values (Lessons 67–68: Bulgaria — part of the Euro-Atlantic community; Bulgarian society and European values)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

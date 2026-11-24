@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: on the ancestors' own 
 
 on the ancestors' own land, the Cucuteni-Tripolie farmers raise one of Europe's earliest civilisations, with painted pottery and goddess figurines from the Carpathians to the Dnieper
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

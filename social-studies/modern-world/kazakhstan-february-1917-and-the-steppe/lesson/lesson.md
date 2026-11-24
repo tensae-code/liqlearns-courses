@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: the Tsar falls, and in
 
 the Tsar falls, and in the steppe Kazakh congresses rush to claim the freedom Petrograd has proclaimed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§10–11 Kazakhstan in the period of the 1917 revolution
 
 two revolutions in one year reach the steppe and every camp races to organise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§4–5 The February revolution of 1917 in Russia and its influence on Kazakhstan
 
 the Tsar falls and Kazakh congresses rush to claim the proclaimed freedom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §1.6 Kazakhstan in 1917
 
 the Tsar falls and Kazakh congresses claim the new freedom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

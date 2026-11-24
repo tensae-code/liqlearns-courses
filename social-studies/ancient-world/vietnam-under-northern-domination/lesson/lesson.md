@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Triệu Đà annexes t
 
 Triệu Đà annexes the country in 179 BC; châu, quận and huyện replace its order, Han officials rule down to district level after AD 43, land is seized into estates, taxes and tribute (pearls, ivory, spices) flow north, and iron and salt are monopolised
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 15, how Âu Lạc changed under a thousand years of rule
 
 dykes and great rice regions spread, crafts grow (paper-making learned from China, glass, fine pottery at Luy Lâu), some Han officials are Vietnamised, local hào trưởng become an aristocracy — and the contradiction between people and regime sharpens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

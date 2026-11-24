@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Capitalist and sociali
 
 Capitalist and socialist economic models organise rival societies and everyday life during the Cold War (Unidad 2, Tema I-D: Modelos económicos y sociedad durante la guerra fría)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

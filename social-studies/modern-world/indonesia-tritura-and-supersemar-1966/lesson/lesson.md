@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Students raise Tritura
 
 Students raise Tritura on 10 January 1966 (dissolve the PKI, purge the cabinet, lower prices), the 11 March 1966 Supersemar order — whose original text remains controversial — empowers Suharto, and a dualism of two presidents follows.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

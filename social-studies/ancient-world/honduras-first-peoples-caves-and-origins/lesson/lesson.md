@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: bone tools and stone a
 
 bone tools and stone artefacts in the Cueva del Gigante (Marcala) date Honduras's origins to millennia before Christ; Yarumela and the Talgua Caves, where ancestors buried bones at the entrance to another world, complete the evidence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — the peopling theories debated
 
 three rival theories for America's first peoples — Ameghino's autochthonous origin, the Polynesian Pacific crossing (judged unlikely), and the Bering Strait route — are weighed with their evidence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

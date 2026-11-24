@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Tangentopoli Ita
 
 after Tangentopoli Italy rewrites its party system without settling it; the chapter's document is an augury for the new millennium's Italy — a transition that becomes a condition
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 18 §§1–2 Una difficile transizione; La "rivoluzione maggioritaria"
 
 Tangentopoli (Focus) clears the old parties; Berlusconi's "discesa in campo" (Fare storia Document), Pasquino on the majoritarian revolution and Orsina defining "berlusconismo" argue what replaced them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

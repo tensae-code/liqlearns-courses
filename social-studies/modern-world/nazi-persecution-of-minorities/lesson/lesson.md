@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Nazi racial beliefs tu
 
 A ladder of races with 'Aryans' on top and Jews at the bottom turns prejudice into state doctrine and marks whole peoples for exclusion.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 13.2 The persecution of the Jews
 
 Boycott (1933), the Nuremberg Laws stripping citizenship (1935) and Kristallnacht's smashed shops and synagogues (1938) drive Jews from German life step by legal step.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 13.3 The treatment of minorities
 
 Roma, gay men, disabled people and the 'asocial' are registered, sterilised, camped or killed as 'burdens on the community' unfit for the Volksgemeinschaft.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

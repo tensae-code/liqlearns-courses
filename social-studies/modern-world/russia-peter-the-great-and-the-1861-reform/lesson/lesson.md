@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Peter the Great works 
 
 Peter the Great works incognito in foreign shipyards, builds a new army and a new capital on the Baltic he wins from Sweden, then a later tsar frees the serfs in 1861 to push Russia toward industry
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

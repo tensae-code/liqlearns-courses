@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: sultans lose their pri
 
 sultans lose their privileges, biys judge under Russian oversight, and new classes of workers and traders appear
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §39 Changes in traditional Kazakh society
 
 clan and zhuz ties loosen as money, towns and Russian law reshape society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: popes rule central Ita
 
 popes rule central Italy as princes and Aragonese kings hold the South; after 1454 the Peace of Lodi and Lorenzo de' Medici's balancing keep Italy's five states from war for a generation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

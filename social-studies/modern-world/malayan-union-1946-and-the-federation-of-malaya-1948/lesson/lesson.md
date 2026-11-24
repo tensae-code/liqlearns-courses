@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The British Malayan Un
 
 After the British Military Administration, Sir Harold MacMichael is sent to extract the sultans' signatures for the Malayan Union (H.C. Willan scouting ahead); Malays rise in protest — 10,000 rally at Kota Bharu on 15 December 1945 as he arrives, thousands more in Kedah on 19 January 1946; the same years, Sarawak and Sabah are ceded to the British Crown, and Sarawak's anti-cession youths found the secret Rukun 13 at Sibu (20 August 1948) under Awang Rambli, Morshidi Sidek and Bujang Suntong (Bab 4: the Malayan Union fight and the cessions)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Federation of Malaya 1948
 
 The rejected Malayan Union of 1946 is replaced by the Federation of Malaya, drafted by a Working Committee into the Federation Agreement — while another camp proposes its own alternative, the Perlembagaan Rakyat (People's Constitution) (Bab 5: the Federation of Malaya 1948)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

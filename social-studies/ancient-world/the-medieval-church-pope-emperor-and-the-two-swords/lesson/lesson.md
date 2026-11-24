@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: five patriarchs, seven
 
 five patriarchs, seven councils and one tithe make the Church Europe's greatest landowner and kingmaker; Gregory VII makes Henry IV stand barefoot in the snow at Canossa, yet two centuries later a French king humiliates a pope and drags the papacy to Avignon — all while monks copy out the ancient world by hand
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

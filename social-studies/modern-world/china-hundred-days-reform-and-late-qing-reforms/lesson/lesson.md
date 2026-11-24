@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: reformers around the y
 
 reformers around the young Guangxu emperor try in 1898 to remake schools, offices and the army in a hundred days, and the court later abolishes the thousand-year keju examinations themselves
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The struggle to save the nation (1) — 1898
 
 Kang Youwei and the Guangxu emperor issue a hundred days of reform edicts until Cixi's coup locks the emperor on an island and executes six reformers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

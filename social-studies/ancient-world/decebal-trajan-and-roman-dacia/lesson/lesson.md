@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Decebal hides Dacia's 
 
 Decebal hides Dacia's treasure by diverting a river, Trajan conquers Dacia anyway, and from Romans and Dacians together the Romanian people and language are born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unitatea VI, Lecția 2: Dacia pe timpul lui Decebal. Războaiele daco-romane
 
 Decebal reunifies and reforms Dacia, fights Trajan in 101–102, breaks the peace in Rome's telling, and falls in 105–106 when Rome comes for him and his capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

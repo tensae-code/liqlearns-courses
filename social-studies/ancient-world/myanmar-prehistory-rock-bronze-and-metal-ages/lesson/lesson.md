@@ -8,7 +8,7 @@ Before you read on, think of Myanmar's long story as the guide tells it in two a
 
 Myanmar's first people knap stone: they chip rock into tools, and stone is their power over nature — cutting, scraping and hunting with what the land itself gives them.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Bronze, then iron — the Metal Ages
 

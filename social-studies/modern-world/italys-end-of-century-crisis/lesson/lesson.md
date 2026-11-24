@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Banca Romana scand
 
 the Banca Romana scandal fells Giolitti, Adwa (1896) fells Crispi, and Bava Beccaris' cannon fire on Milan's crowds (1898) marks the liberal state's darkest hour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unità 1, Cap. 3 §§1–2 The end-of-century crisis and the start of a new political course; Socialists and Catholics, new protagonists of Italian political life
 
 after Adwa and the Milan cannonades the liberal state changes course; Turati's socialists and the Catholic movement enter politics as mass forces the old trasformismo cannot digest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

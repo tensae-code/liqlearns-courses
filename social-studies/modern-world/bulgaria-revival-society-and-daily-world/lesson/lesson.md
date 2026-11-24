@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Towns, families, dress
 
 Towns, families, dress and daily life change as a new Bulgarian society takes shape (Lessons 3–4: Revival society and the world of the Revival Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 29–30: Revival society; the world of the Revival Bulgarians
 
 Chorbaджии, teachers and merchants remake Bulgarian society and its daily world (Lessons 29–30: Revival society; the world of the Revival Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

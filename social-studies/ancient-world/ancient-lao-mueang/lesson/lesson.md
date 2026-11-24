@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: before any kingdom, La
 
 before any kingdom, Lao towns — mueang — govern themselves along the Mekong and its valleys
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 10: The ancient Lao mueang
 
 river-valley principalities trade, intermarry and fight before any kingdom unites them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

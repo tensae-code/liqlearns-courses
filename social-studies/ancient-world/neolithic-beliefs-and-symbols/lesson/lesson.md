@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: neolithic people left no wo
 
 Figurines, burials under house floors and decorated pots hint at beliefs the makers never explained.
 
-[Picture slot — a picture of the key place or moment of Neolithic beliefs and symbols as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Neolithic beliefs and symbols as the book shows it. Point to it and say what it shows.
 
 ## Say it to your companion
 

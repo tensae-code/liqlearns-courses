@@ -10,7 +10,7 @@ A new faith arrives, and the chief does not simply say yes or no — he weighs i
 
 And islanders became the carriers: islander missionaries took the faith on to the Marshalls, the Mortlocks and Chuuk. Christianity spread across Micronesia largely in Micronesian hands.
 
-[Picture slot — a picture of a small mission school on Pohnpei, with islander children at wooden desks and an islander teacher at the front — the student points to the teacher and says who trained her and why that mattered.]
+In your mind's eye: a small mission school on Pohnpei, with islander children at wooden desks and an islander teacher at the front. The student points to the teacher and says who trained her and why that mattered.
 
 ## Sub lesson 2 — Mission schools and the language of school
 

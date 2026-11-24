@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In the independence fe
 
 In the independence ferment of the Sociedad Patriótica the anthem is born, and the Liberator himself becomes a symbol beside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

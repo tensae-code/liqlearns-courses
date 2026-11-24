@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: Before Europeans, Sout
 
 Before Europeans, South Sudan's main kingdoms were Azande, Otuho, Chollo (Shilluk) and Anyuak, while Moru-Madi, Luo and Atker had no kings but chiefs, clan heads and family heads
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Features of kingdoms in South Sudan
 
 A king heads the kingdom, warriors defend it, a council of elders advises, subjects obey, and each kingdom keeps its own artwork and economic life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Kingdoms of South Sudan: Shilluk
 
 The Shilluk kingdom on the White Nile, capital Fashoda, was founded in the mid-fifteenth century by its first ruler, the demi-god Nyikang, and its people sing of the Reth and their titles
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Shilluk Kingdom (1490-1865)
 
 Nyikang quarrels with his relatives, migrates and founds a sacred monarchy on the White Nile at Fashoda; every reth embodies Nyikang's spirit, wins his throne in a mock battle against the effigy's army, rules Gar and Lak through chiefs, and the kingdom declines under Ottoman attacks and British colonisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — The Azande Kingdom
 
 The Vungara dynasty's fierce warriors conquer much land; dead kings' sons fight for the seat and losers found new kingdoms east and north; the Zande work iron, farm millet and sorghum, and order justice through belief in mangu, witchcraft in the belly, as Evans-Pritchard recorded in 1937
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — The Anyuak (Anywaa) Kingdom
 
 A federation of river villages along the Sobat, Baro and Akobo, each with its Nyiya king, feuds over the Ocwok royal throne and bead until the British make Agada Akway king of kings; his line reaches the 23rd king, Adongo Agada, and the people farm, fish, smith iron and pan gold for demuy beads
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

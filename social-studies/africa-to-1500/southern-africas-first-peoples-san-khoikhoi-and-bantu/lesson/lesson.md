@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Click-speaking San hun
 
 Click-speaking San hunter-gatherers and Khoikhoi herders hold the land for centuries — the earlier peoples of Southern Africa.
 
-[Picture slot — a picture of San hunters and Khoikhoi herders on open land, with Bantu farming villages appearing in the distance — the student names each people and how they lived.]
+In your mind's eye: san hunters and Khoikhoi herders on open land, with Bantu farming villages appearing in the distance. Name each people and how they lived.
 
 ## Sub lesson 2 — Bantu farming chiefdoms spread
 

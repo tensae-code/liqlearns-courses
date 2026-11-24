@@ -17,7 +17,7 @@ That is the first way Guyana's book gives a six-year-old the nation's story: not
 A new country needs a face — signs that say "this is us" wherever they are seen or heard. Ron and Sue learn some of Guyana's national symbols: the flag, the coat of arms, and the national bird.
 
 Two of the symbols are not drawn but performed. The children learn the National Anthem — the nation's own song, sung standing together — and the National Pledge — the nation's promise words, said together. A flag can be drawn in a copybook; an anthem and a pledge live in the children's own voices. Together, the symbols give the new nation a face its children can draw and sing.
-[Picture slot — a picture of Guyana's flag as the book shows it: point to the flag and say what a flag stands for.]
+In your mind's eye: guyana's flag as the book shows it. Point to the flag and say what a flag stands for.
 
 ## Sub lesson 3 — Celebrations that remember
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Bourbon reforms re
 
 The Bourbon reforms restructure the colonial system — new captaincies such as Venezuela, tighter royal control, and growing creole resentment (Reformas borbónicas)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Reformas borbónicas
 
 Teacher-compendium unit, same arc as the student text (Año 2: Reformas borbónicas)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

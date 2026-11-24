@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: weeping settlers take 
 
 weeping settlers take the sacred fire from home and found the rich cities of Magna Graecia, which soon mint their own silver coins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. D1 Colonial expansion
 
 land hunger and trade send apoikiai from the Black Sea to Spain, planting Greek cities round two seas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: court, foreign embassi
 
 court, foreign embassies and a split national movement pull in opposite directions, and the ground is prepared coup by coup (The grounds of the 28 Mordad coup)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The coup of 28 Mordad (19 August 1953)
 
 a first coup fails and the shah flees; a second, foreign-backed attempt succeeds, Mosaddegh falls, and the shah returns on American terms (The coup of 28 Mordad (19 August 1953))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

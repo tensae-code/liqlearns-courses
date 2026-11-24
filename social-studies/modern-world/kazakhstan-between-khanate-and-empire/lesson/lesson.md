@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the course opens where
 
 the course opens where the medieval course ended — a Kazakh Khanate about to face Dzhungars, Russia and a century of lost independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Introduction
 
 the course frames two centuries in which the khanate fights for survival and is absorbed by an empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

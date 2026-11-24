@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Nigeria may hold 339 m
 
 Nigeria may hold 339 million people by 2050 and Ethiopia 213 million; the Syrian refugee crisis from 2011 and the Ukrainian one teach what drives people from their homes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

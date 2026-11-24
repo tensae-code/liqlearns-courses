@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: An Islamic reform move
 
 An Islamic reform movement among the Sanhaja becomes an empire spanning the western Sahara, the Maghreb and al-Andalus, then falls as its sultans turn to pleasure, its army falters and the Almohad movement rises
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Dossier 6: The Almoravids
 
 Which tribes founded the Almoravid state is the dossier's test question — the desert tribes united by a religious call become an empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 9: The Almoravid state — rise, expansion, causes of fall
 
 The empire born in Mauritania's desert is retold at secondary depth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

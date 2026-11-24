@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: from exile Martí foun
 
 from exile Martí founds the Cuban Revolutionary Party (1892) and knits emigrants, tobacco workers' cents and veteran chiefs into one war plan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Treatment of Martí's (and Fidel's) thought from the History of Cuba class
 
 Martí's own words are threaded through every unit so the hero teaches the class in his own voice, not only as its subject
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 4.4 Martí prepares a new stage of struggle
 
 the Party, Patria newspaper and the emigrant clubs: Martí builds the war's political machinery before its army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

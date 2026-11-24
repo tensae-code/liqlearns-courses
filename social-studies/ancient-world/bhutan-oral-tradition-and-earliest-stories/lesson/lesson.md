@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: exiled Prince Drimed K
 
 exiled Prince Drimed Kunden gives his eye to a blind man and his children to strangers on the road through Trongsa, and the place-names Changra and Bubja still carry the tale, while the monk Tonpa's 5th-century journey hints Buddhism reached Bhutan before Tibet (Chapter One, Oral Culture)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

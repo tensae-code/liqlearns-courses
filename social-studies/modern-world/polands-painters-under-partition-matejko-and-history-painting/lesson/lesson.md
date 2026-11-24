@@ -16,7 +16,7 @@ Matejko's enormous canvases of Grunwald and the old Commonwealth's triumphs and 
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of one of Matejko's enormous history canvases hanging in Kraków — the student points to a whole nation's memory held in one painting.]
+In your mind's eye: one of Matejko's enormous history canvases hanging in Kraków. The student points to a whole nation's memory held in one painting.
 
 ## Sub lesson 3 — A substitute parliament
 

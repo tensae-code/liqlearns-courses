@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: proclamations and trib
 
 proclamations and tribal alliances gather the Ansar; at Aba Island in August 1881 the government's landing force is ambushed and its rifles captured, Rashid Bey's and al-Shallali's expeditions are destroyed in turn, and the Mahdi withdraws to Jebel Qadeer to prepare
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

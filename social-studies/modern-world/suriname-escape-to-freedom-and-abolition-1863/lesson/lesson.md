@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1833 the enslaved P
 
 In 1833 the enslaved Philip and his Coronie helpers seize the sailing ship Clyde, bind Captain Sander and sail seven days to free Berbice in Guyana; Suriname's own abolition comes only thirty years later, 1 July 1863 (Varen naar de vrijheid)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

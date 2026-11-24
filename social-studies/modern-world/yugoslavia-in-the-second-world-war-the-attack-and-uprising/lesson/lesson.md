@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: A coup against joining
 
 A coup against joining the Axis brings the Luftwaffe over Belgrade within days.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch.4.3 The liberation war and revolution in Yugoslavia 1941–1945
 
 A guerrilla army survives seven offensives and turns a liberation war into a revolution.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch.4.5 The characteristics of the war in Yugoslavia 1941–1945
 
 Yugoslavia's war is three wars at once — against the occupier, among its peoples, and for a new state.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Martí teaches a repub
 
 Martí teaches a republic "with all and for the good of all", warns against the northern giant he has lived inside, and makes dignity the Patria's law
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Ch.6 activities: Martí and preparation of the necessary war
 
 short Martí texts are read and their essential idea underlined, turning the Apostle's prose into the lesson itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 4.5 Martí: the most radical thought of his time
 
 Martí's anti-imperialism and social thought are presented as ahead of every contemporary in the Americas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

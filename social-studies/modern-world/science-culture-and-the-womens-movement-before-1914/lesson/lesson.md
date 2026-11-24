@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: laboratories and art s
 
 laboratories and art studios change how people see disease, the world and the picture of it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 3: the struggle for women's rights becomes one of the era's great movements
 
 women organise to demand the education and the vote the new century promised everyone else
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

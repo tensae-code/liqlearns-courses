@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: villagers flee to the 
 
 villagers flee to the burg and become burghers; trading towns band into the Lombard, Rhenish and Hanseatic leagues, and crafts flourish in Moldavia, Wallachia and Transylvania
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

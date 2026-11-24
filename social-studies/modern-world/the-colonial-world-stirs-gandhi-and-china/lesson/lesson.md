@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Gandhi's Satyagraha (t
 
 Gandhi's Satyagraha (the chapter's document) teaches India to resist without violence, Du Bois' first Pan-African Congress (Document) claims a people's place in the peace, and China's May Fourth generation rises — the empires' subjects enter world politics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 7 §4 Il movimento indipendentista in India
 
 Gandhi (Personaggi) turns non-violence (the module's keyword) into a mass weapon — salt, cloth and prison as politics; his principles are a Fare storia Document of the decolonisation dossier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

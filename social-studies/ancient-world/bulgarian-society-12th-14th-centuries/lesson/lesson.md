@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Two neighbouring socie
 
 Two neighbouring societies — imperial and Bulgarian — in the empire's last centuries (Lesson 32: Societies in Byzantium and Bulgaria in the 12th–14th centuries)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 18: The economic life of the Bulgarians
 
 Fields, crafts and trade sustain the Second Empire's towns and villages (Lesson 18: The economic life of the Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

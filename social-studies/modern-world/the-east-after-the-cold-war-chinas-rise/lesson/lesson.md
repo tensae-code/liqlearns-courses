@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: China's reforms make i
 
 China's reforms make it the world's workshop while Japan stagnates and the Asian tigers roar and stumble
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 4, Lessons 56–57: the countries of the East in the post-Cold War years
 
 China's rise, Japan's stagnation and the Asian tigers redraw the world's economic map eastward
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

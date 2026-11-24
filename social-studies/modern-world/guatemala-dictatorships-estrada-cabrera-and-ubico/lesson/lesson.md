@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Manuel Estrada Cabrera 
 
 Guatemala's Grade 4 book pairs two long dictatorships. Manuel Estrada Cabrera (1898–1920) rules as self-styled protector of studious youth amid eruption, earthquakes and flu, until the Assembly declares him insane. Jorge Ubico Castañeda (1931–1944) builds palaces and roads on forced labour — until June 1944 street protests bring him down, opening the road to revolution. Two styles of dictatorship, the book shows, and two falls.
 
-[Picture slot — a picture of two dictators' Guatemala side by side — Estrada Cabrera's school festivals under a volcano's ash, and Ubico's new palace built by forced labour gangs — the student names both men and how each fell.]
+In your mind's eye: two dictators' Guatemala side by side — Estrada Cabrera's school festivals under a volcano's ash, and Ubico's new palace built by forced labour gangs. Name both men and how each fell.
 
 ## Say it to your companion
 

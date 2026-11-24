@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Habsburg power alarms 
 
 Habsburg power alarms Europe into thirty years of war; France's victory at Rocroi in 1643 breaks the myth of Spanish invincibility, and the Peace of Westphalia (24 October 1648) redraws the map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ The Saudi Arabia Grade 4 book's second peninsula lesson (Unit 7, Lesson 26) pain
 
 Older peoples had already vanished: the book names the lost peoples Tasm and Jadis. The land the lesson describes is a tribal land with no single state — tribes and towns, each its own power, with wars between tribes and towns. There is no king of Arabia, no one law over it.
 
-[Picture slot — a picture of a camel caravan arriving at Makkah at sunset, merchants unloading goods while tents and low houses spread around the town — the student points to the caravan and says where it has come from and where its goods travel next.]
+In your mind's eye: a camel caravan arriving at Makkah at sunset, merchants unloading goods while tents and low houses spread around the town. The student points to the caravan and says where it has come from and where its goods travel next.
 
 ## Sub lesson 2 — The values of the tribes
 

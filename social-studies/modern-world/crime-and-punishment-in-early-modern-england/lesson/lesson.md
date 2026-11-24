@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Between 1500 and 1700,
 
 After Luther's 1517 protest splits Europe's religion, heresy, treason, vagabondage and witchcraft are newly criminalised and 1650s laws ban traditional entertainments.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 2.2 Law enforcement and punishment, c1500–c1700
 
 Growing towns outgrow the hue and cry, so town constables and the night watch appear, the death penalty spreads and transportation is introduced.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 2.3 Case study: the crimes and punishment of the Gunpowder Plotters, 1605
 
 Guy Fawkes and fellow Catholic conspirators plot to blow up James I and Parliament on 5 November 1605; caught, they are executed with exemplary harshness as a warning.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 2.4 Witchcraft and the law, c1500–c1700
 
 A whole society believes witches pact with the devil; in the 1640s Matthew Hopkins hunts them, then belief fades and witchcraft stops being prosecuted as a serious crime by c1700.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

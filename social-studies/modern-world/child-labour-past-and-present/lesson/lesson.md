@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Work that steals child
 
 Work that steals childhood, potential and dignity — from debt bondage and serfdom to the worst forms named and outlawed; students examine the laws against it and how economic needs drive it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

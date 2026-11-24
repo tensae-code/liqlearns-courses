@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A thousand-year capita
 
 A thousand-year capital weakens under weak kings, Rajaraja I invades in 993, Mahinda V flees to Ruhuna, and the Cholas rename Polonnaruwa their own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Chola conquest and liberation
 
 Rajaraja invades in 993, Rajendra carries King Mahinda V captive to India in 1017 and rules from Polonnaruwa, until Vijayabahu I drives the Cholas out in 1070
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

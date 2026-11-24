@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Beside the kingdoms st
 
 Beside the kingdoms stand the chiefdoms — Iteso, Kikuyu, Basoga, Acholi, Kamba, Masai, Chagga — each ruled by a chief, and below them the clan, headed by a clan leader who keeps the records
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

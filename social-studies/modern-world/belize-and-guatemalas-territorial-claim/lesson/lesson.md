@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: English logwood cutters
 
 Guatemala's Grade 4 book teaches Belize as an unfinished dispute. English logwood cutters spread over Belize while Guatemala claims the territory as its own. Belize wins independence from Britain in 1981 — without settling the claim. In 2008 both sides accept taking the dispute to a court: a colonial-era claim carried, unresolved, into the present, to be settled by judges rather than armies.
 
-[Picture slot — a picture of a map showing Belize on the Caribbean coast with logwood cutters' camps, Guatemala's claim shaded, and the year 1981 and a courthouse marked 2008 — the student names the claim and the court decision.]
+In your mind's eye: a map showing Belize on the Caribbean coast with logwood cutters' camps, Guatemala's claim shaded, and the year 1981 and a courthouse marked 2008. Name the claim and the court decision.
 
 ## Say it to your companion
 

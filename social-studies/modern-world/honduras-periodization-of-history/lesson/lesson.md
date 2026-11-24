@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: two world schemes (tra
 
 two world schemes (traditional ages vs materialist modes of production) frame Muñoz Lara's Honduras: Prehispanic (20,000 BCE–1492), Colonial (1502–1821), Contemporary (1821–today), with rival schemes by Mejía, Quiñónez, Becerra, Euraque and Argueta compared
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

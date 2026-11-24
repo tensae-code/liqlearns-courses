@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: welcomed by Boris I an
 
 welcomed by Boris I and sent to the Kutmichevica region, Clement founds the Ohrid Literary School — called the first Slavic university — teaching some 3,500 pupils letters, farming and crafts, and becomes the first Slavic bishop in 893; Naum succeeds him at the school and builds his monastery on Lake Ohrid's southern shore, where the folk still say his heart beats in his tomb
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

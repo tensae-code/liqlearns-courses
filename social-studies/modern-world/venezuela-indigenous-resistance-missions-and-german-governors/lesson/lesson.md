@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Missions subdue less p
 
 Missions subdue less peacefully than was said, Margarita has a girl governor, German governors out of Coro hunt gold, and guarura shells sound in the Caracas valley
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Conquest-colonisation with sword and cross; conquest of our present territory
 
 Sword and cross together take the territory against indigenous resistance, town by town
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The missions, an option for settlement
 
 Mission towns gather indigenous people under the friars — settlement by conversion, softer in name than the sword and just as binding
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

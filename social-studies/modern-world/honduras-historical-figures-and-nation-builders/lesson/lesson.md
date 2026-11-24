@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the próceres are join
 
 the próceres are joined by nation-builders in every field — Reyes founding the university, scientist Salvador Moncada, painter José Antonio Velásquez, musician Guillermo Anderson, women's-rights defender Visitación Padilla, novelist Lucila Gamero de Medina, rector Julieta Castellanos
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — biographies of outstanding Hondurans
 
 writers Rafael Heliodoro Valle, Clementina Suárez ("la mujer nueva") and Alfonso Guillén Zelaya, painters, singer Guillermo Anderson and activist Berta Cáceres are paraded as proof Honduras produces talent in every field
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

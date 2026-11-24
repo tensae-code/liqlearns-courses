@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: with no central state 
 
 with no central state after the 6th century BCE, the land is dealt among Darius and Xerxes' Persia, Alexander of Macedon and Chandragupta's Mauryas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 7: Ancient Afghanistan and the Achaemenids
 
 the land enters the Persian empire of Darius and Xerxes as its eastern satrapies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 8: Ancient Afghanistan and the Greeks
 
 Alexander's conquest and the Greek presence remake the land's cities and coinage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 9: Ancient Afghanistan and the Mauryans
 
 Chandragupta's Mauryan empire takes the eastern provinces, the third great foreign power of the age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

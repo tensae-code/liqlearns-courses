@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Yugoslavia dissolves i
 
 Yugoslavia dissolves into Europe's first wars since 1945 — the "war on civilians" in Bosnia (La storia allo specchio), Dayton's map, Srebrenica (Pirjevec's Document on the UN's responsibilities) and Kosovo's roots (Malcolm)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 14 §5 La crisi jugoslava
 
 ethnic cleansing (the module's keyword) returns to Europe; Pirjevec's Fare storia piece on Srebrenica and Romano's on the Europe of nationalisms frame the federation's bloody dissolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: foreigners — Dominic
 
 foreigners — Dominicans like Máximo Gómez and others from many lands — take up Cuba's cause as their own and rise to lead its army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

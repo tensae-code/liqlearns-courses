@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kanchipuram's Pallavas
 
 Kanchipuram's Pallavas and Aihole's Chalukyas raid each other's rich capitals for generations; Ravikirti's praise-poem boasts Pulakeshin II checked Harsha ("after this defeat, Harsha was no longer Harsha — happiness") and drove the Pallava king behind his walls — yet both dynasties soon give way to Rashtrakutas and Cholas.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

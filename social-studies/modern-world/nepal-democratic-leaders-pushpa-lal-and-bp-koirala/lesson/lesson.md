@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pushpa Lal Shrestha, e
 
 Pushpa Lal Shrestha, expelled and exiled, founds the Nepal Communist Party in 2006 BS and spends his life organising against Rana and Panchayat rule until his death in New Delhi in 2035 BS; B. P. Koirala, jailed by the Ranas, becomes Nepal's first elected prime minister in 2016 BS, is imprisoned again by King Mahendra, and returns from exile in 2033 BS to preach national reconciliation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

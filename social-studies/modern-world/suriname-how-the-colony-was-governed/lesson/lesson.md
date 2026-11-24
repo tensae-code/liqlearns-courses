@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Europeans replace Indi
 
 Europeans replace Indigenous self-rule with foreign governors; in 1683 the Chartered Society of Suriname takes the colony's government, and governor and Political Council often clash (De gouverneur en de Politieke Raad)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Invoering van kiesrecht
 
 After 1863 and state supervision the country is divided into districts under district commissioners, and the long road to voting rights and representation begins (Invoering van kiesrecht)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

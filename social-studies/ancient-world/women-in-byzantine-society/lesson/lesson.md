@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from empresses like Th
 
 from empresses like Theodora and Irene to nuns, mothers and workers, women hold a Byzantine world that rarely writes their names
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 39 Women exercises
 
 an acrostic of the Byzantine woman opens her hidden history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

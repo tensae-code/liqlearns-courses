@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the 1993 elections res
 
 the 1993 elections restore the monarchy; Hun Sen's win-win policy ends the war, and Preah Vihear's World Heritage listing becomes a national triumph (Lesson 6, the Second Kingdom of Cambodia (1993–today))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

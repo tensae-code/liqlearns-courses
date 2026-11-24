@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after 1054 pope and pa
 
 after 1054 pope and patriarch head rival churches; Innocent III teaches that royal power borrows light from papal power as the moon from the sun; crusading breeds monk-knights — Templars, Hospitallers, Teutons — and preaching friars, Franciscans and Dominicans; against heretics like the Cathars, heirs of Bogomil ideas, the Church answers with crusade and the Inquisition's courts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

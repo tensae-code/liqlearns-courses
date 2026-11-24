@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Cyrus takes the homela
 
 Cyrus takes the homeland and dies fighting Tomaris; Darius fixes its satrapies — Central Asia inside the Persian empire, told from the conquered side
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

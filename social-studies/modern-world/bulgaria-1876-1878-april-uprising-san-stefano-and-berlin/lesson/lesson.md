@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the April Uprising is 
 
 the April Uprising is drowned in blood and the Batak massacre shocks Europe's newspapers; Russia declares war in 1877 and the Treaty of San Stefano draws a great Bulgaria — which frightens London and Vienna into the Congress of Berlin, cutting it into a tributary principality and an autonomous Eastern Rumelia still under the sultan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

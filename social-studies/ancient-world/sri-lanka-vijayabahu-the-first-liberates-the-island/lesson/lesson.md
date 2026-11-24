@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A prince raised in hid
 
 A prince raised in hiding gathers Ruhuna, survives defeat in 1065, and in 1070 is crowned king of the whole island at Anuradhapura
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Political history 1017–1270: liberation
 
 From a Chola-ruled island, Vijayabahu I fights his way back and is crowned at Anuradhapura in 1070, then rules from Polonnaruwa
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

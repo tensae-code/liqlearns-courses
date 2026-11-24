@@ -10,7 +10,7 @@ A government builds roads and plants crops — and calls it development. The peo
 
 From district offices on Saipan, Yap and Pohnpei, Germany pushed development: roads, cash crops, and land and labour reforms that reached into how islanders held land and owed work.
 
-[Picture slot — a picture of a new German road being built on Pohnpei, with island workers, a district officer, and the Sokehs peninsula across the water — the student points to the road and the peninsula and says what each came to mean.]
+In your mind's eye: a new German road being built on Pohnpei, with island workers, a district officer, and the Sokehs peninsula across the water. The student points to the road and the peninsula and says what each came to mean.
 
 ## Sub lesson 2 — The Sokehs Rebellion and stormy weather
 

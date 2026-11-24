@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Simoncito is presented
 
 Simoncito is presented first as a mischievous, playful boy like the reader, whose body and mind grow toward the man he will become
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

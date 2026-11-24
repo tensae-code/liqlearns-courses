@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Venice holds Crete, th
 
 Venice holds Crete, the islands and Cyprus against the Ottomans until one by one they fall
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The end of Latin rule
 
 Napoleon hands Venice's Ionian islands away in 1797 and the last Latin chapter in Greece closes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

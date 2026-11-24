@@ -10,7 +10,7 @@ The Grade 9 history, *Over Seas and Time*, begins Micronesia's settlement as a s
 
 They were not the first peoples in the wider region: older peoples had already crossed the Sunda and Sahul land bridges when the seas were lower. The Austronesian movement was a second, seagoing wave — settlement by canoe, not by land.
 
-[Picture slot — a picture of an outrigger canoe under a night sky of bright stars, sailing toward a small green island — the student points to the canoe and names two things the voyagers carried to live on a new island.]
+In your mind's eye: an outrigger canoe under a night sky of bright stars, sailing toward a small green island. The student points to the canoe and names two things the voyagers carried to live on a new island.
 
 ## Sub lesson 2 — Traveling beyond the horizon: the outrigger, star songs and the tool kit
 

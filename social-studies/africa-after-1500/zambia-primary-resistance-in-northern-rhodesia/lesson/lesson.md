@@ -16,7 +16,7 @@ The second demand was labour. Colonial rule drafted men for forced labour, away 
 
 Some refusals were armed. In 1897 the Ngoni under Mpezeni I resisted with arms. In the Luapula Valley, Mwata Kazembe resisted too. These were chief-led stands, fought by peoples defending their own country.
 
-[Picture slot — a picture of the Zambian places and people named in this lesson, as the book tells it: name one person or place and say what happened there.]
+In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
 And what they defended was wider than land alone, though land was at the heart of it. They defended the authority of their chiefs against a power that wanted to rule over them. They defended chitemene, their own way of farming the land. And they defended independent churches — worship led by their own people, free of the mission and the administration.
 

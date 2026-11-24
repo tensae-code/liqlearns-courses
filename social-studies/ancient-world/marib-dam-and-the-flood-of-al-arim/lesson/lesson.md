@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Saba throws a dam acro
 
 Saba throws a dam across Wadi Adhana between the two Balaq mountains in the 7th or 8th century BCE, kings restore it for centuries, and it gathers the rains, waters the two gardens and makes the kingdom feed itself — until Saba turns from God's path and the Flood of al-Arim bursts the dam, the gardens die, and the tribes scatter north in the famous scattering of Saba
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

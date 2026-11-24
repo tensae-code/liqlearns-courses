@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: welfare states, state-
 
 welfare states, state-guided economies and the first steps of European integration soften and stabilise the West
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Capitalist countries' new changes
 
 golden-age growth, the welfare state, the third industrial (information) revolution and Europe uniting from coal and steel to union
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

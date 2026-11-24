@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: writing, law, calendar
 
 writing, law, calendars and building pass from the first civilisations into today's world, and pupils trace what still survives
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Thematic plan, Theme 1: History and I
 
 the year's opening theme makes pupils place themselves inside history and trace what the first civilisations still give the modern world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

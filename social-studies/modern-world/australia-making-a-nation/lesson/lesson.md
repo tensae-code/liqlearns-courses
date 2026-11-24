@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Settlement expands, li
 
 Settlement expands, living and working conditions are fought over, self-government and democracy are won, and social legislation builds the new Australian nation (Depth Study 2a: Making a nation (2a.2, 2a.5–2a.8))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Depth Study 2a: Indigenous contact and non-European experiences (2a.3–2a.4, 2a.7)
 
 Indigenous contact experiences and non-European migrants' experiences stand inside nation-making, closing with Indigenous and women's rights (Depth Study 2a: Indigenous contact and non-European experiences (2a.3–2a.4, 2a.7))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

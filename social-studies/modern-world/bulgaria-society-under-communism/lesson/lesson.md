@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Everyday life, work an
 
 Everyday life, work and culture under the regime — control, shortage and quiet adaptation (Lessons 34–35: Bulgarian society (1944–1989) and culture in the second half of the 20th century)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 63: Spiritual life during the totalitarian regime
 
 Writers and believers navigate censorship and control of the spirit (Lesson 63: Spiritual life during the totalitarian regime)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a Faleata matai's peni
 
 a Faleata matai's peninsula by Apia harbour becomes Samoa's gathering ground in the mid-1800s wars, hosts the first Parliament House of the 1873 attempt at a Samoan central government, and stays the seat of parliament through the 1981 independence celebrations pictured
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: flag, shield, anthem, 
 
 flag, shield, anthem, pine, orchid, macaw and deer are introduced one by one, each standing for a piece of the country, and the class asks what is celebrated on 15 September
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 28 Nos identificamos y así es nuestra historia
 
 the symbols themselves tell the story — the National Anthem narrates what happened from the arrival of the Spanish to independence, and the class is sent to find where the anthem speaks of Lempira
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 9 Símbolos patrios y hombres ilustres: los símbolos
 
 the flag's five stars are the five Central American countries, the anthem (words by Augusto C. Coello, music by Carlos Hartling) narrates historical events, and the shield has changed several times through time
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Lección 9 Identidad Nacional: los símbolos
 
 greater symbols (flag, shield, anthem) and lesser symbols (orchid, scarlet macaw, white-tailed deer, pine, official map) are classified, each representing the country's history, culture and natural wealth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Lección 30 El patriotismo de América Central
 
 the seven countries' shields, flags and flowers are set side by side, and 15 September is kept by five of them as the shared independence feast
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

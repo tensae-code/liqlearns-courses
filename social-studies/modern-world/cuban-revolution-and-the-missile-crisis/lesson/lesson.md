@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Discontent with US imp
 
 Discontent with US imperialism fuels the Cuban Revolution, and the 1962 nuclear missile crisis brings the superpowers to the brink (La Revolución Cubana y la crisis de los misiles)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

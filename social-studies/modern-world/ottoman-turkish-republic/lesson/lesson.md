@@ -10,7 +10,7 @@ Turkey's Grade 12 book closes the National Struggle with two signatures. The Mud
 
 The Treaty of Lausanne, 24 July 1923, wins the peace and the world's recognition: the partition is buried, and the state born in Anatolia takes its seat among nations as an equal. The book's beat is the pairing it wants remembered: what the sword won at Sakarya, the pen keeps at Lausanne.
 
-[Picture slot — a picture of the Lausanne conference table in 1923 — the Turkish delegation facing the powers across the long table, the treaty document between them — the student points to the document and says what its signatures recognise.]
+In your mind's eye: the Lausanne conference table in 1923 — the Turkish delegation facing the powers across the long table, the treaty document between them. The student points to the document and says what its signatures recognise.
 
 ## Say it to your companion
 

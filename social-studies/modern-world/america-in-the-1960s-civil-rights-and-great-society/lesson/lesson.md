@@ -8,7 +8,7 @@ Sit-ins at lunch counters, freedom rides, Birmingham, a march on Washington — 
 
 Kennedy's promise opened the decade — a young president calling the nation forward. Johnson answered with the Great Society: a programme to end poverty and racial injustice and rebuild American life through federal power.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The civil rights movement marches on
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Britain attacks in fou
 
 Britain attacks in four columns in November 1864 and takes the eighteen Duars, but Jigme Namgyal cuts the water at Dewathang and captures two howitzers before superior British rifles retake the forts and force a settlement (Chapter Six, The Duar War)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

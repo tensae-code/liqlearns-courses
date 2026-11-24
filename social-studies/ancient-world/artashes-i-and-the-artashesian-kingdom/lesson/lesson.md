@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Artashes (189–160 BC
 
 Artashes (189–160 BCE) reunites Armenian lands, founds Artashat on Hannibal's advice in the story Plutarch tells, and reforms land and army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 3.4 Artavasdes II and the last Artashesians
 
 Artavasdes II plays Rome against Parthia, is seized by Mark Antony, and the dynasty fades as foreign kings are imposed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 3.5 The socio-economic and cultural life of Artashesian Armenia
 
 Hellenistic cities, theatres and trade flourish, and Artavasdes II himself writes Greek tragedies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

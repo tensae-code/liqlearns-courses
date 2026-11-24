@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Abu Bakr holds Arabia 
 
 Abu Bakr holds Arabia together through the Ridda wars and sends the armies out; Umar organises the growing state with diwans, garrison cities and a calendar
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Uthman and Ali
 
 Uthman unifies the Quran's text and the fleets take to the sea; Ali's caliphate is torn by the first civil wars that split the community
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Rashidun Caliphs
 
 Abu Bakr crushes the apostasy wars, kills the false prophet Musaylima and orders the Quran gathered into one book; Umar wins at Yarmouk, receives Jerusalem, breaks Persia at al-Qadisiyya in 635 and sends Amr ibn al-As to take Egypt and found Fustat
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

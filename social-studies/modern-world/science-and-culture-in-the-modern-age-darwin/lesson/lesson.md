@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: classicism yields to t
 
 classicism yields to the modern novel; Darwin founds a new biology, and the case study asks who answers for human creation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

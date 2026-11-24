@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: succession is disputed
 
 succession is disputed from the first day; within fifty years Husayn is killed at Karbala, and the martyrdom becomes the axis of Shi'a memory (From the Prophet's death to the uprising of Karbala (Nineveh))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Journey to Karbala (1) and (2)
 
 a pilgrimage trip frames the Karbala story itself — Husayn's stand and martyrdom retold for ten-year-olds at the shrine's door (Journey to Karbala (1) and (2))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

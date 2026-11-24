@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The hacienda grows bes
 
 The hacienda grows beside the surviving ayllu and marka; yanaconas stay on usurped ayllu land, and the latifundio expands at the community's expense (La hacienda y el ayllu)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: La hacienda y el Ayllu
 
 Teacher-compendium unit, same arc as the student text (Año 2: La hacienda y el Ayllu)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

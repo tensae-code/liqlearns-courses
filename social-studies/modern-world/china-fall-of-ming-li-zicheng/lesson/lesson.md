@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: shepherd boy turned so
 
 shepherd boy turned soldier Li Zicheng promises 'equal land, no grain tax', keeps strict discipline, feeds the poor, and marches a million men into Xi'an to found Dashun in 1644 as drought and the three surtaxes empty the villages
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ming falls
 
 eunuchs and land-grabbing lords hollow out late Ming until drought-starved Shaanxi rises; the folk song runs 'kill the cattle and sheep, open the gates, welcome King Chuang — when King Chuang comes, no grain tax'
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 1644
 
 the Chongzhen emperor hangs himself on Coal Hill as rebels and Qing armies divide his empire between them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

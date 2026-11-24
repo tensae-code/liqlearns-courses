@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in December 1991 Moldo
 
 in December 1991 Moldova seeks observer status; European integration is declared the priority while stalled reforms slow it, and the 2011–13 institution-building programme prepares the administration
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

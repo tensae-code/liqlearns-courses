@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: quarrelling regions me
 
 quarrelling regions meet at Guáimaro and agree one Republic in Arms, a constitution and a single flag — unity is proclaimed even as rivalries remain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 3.4 The Assembly of Guáimaro
 
 delegates argue civil vs military power and leave with a constitution and a republic that exists first on paper
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

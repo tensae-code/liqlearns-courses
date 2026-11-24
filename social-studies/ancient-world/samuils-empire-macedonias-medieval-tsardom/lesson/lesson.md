@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: when Byzantium devours
 
 when Byzantium devours Bulgaria in 971, the four Komitopuli brothers raise Macedonia in revolt; Samuil alone survives to build an empire from Prespa and then Ohrid, humbles Basil II at Trajan's Gate in 986 and takes a tsar's crown with Rome's blessing — until at Belasica in 1014 his army is trapped and, the chronicler says, 15,000 prisoners are blinded; Samuil dies of grief within days, and by 1018 his empire is gone
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

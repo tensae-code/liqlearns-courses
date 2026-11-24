@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Debt crises and stalle
 
 Debt crises and stalled development push millions of Latin Americans to migrate, remaking both the homes left and the countries reached (Sección 4 Tema 2: Crisis, migración y desarrollo)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

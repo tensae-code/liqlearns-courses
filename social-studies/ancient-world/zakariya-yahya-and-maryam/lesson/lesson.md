@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in a Levant ground bet
 
 in a Levant ground between Roman occupation and a distorted religion, Hannah vows her unborn child to the service of al-Aqsa and bears a girl, Maryam, who is raised in seclusion in the sanctuary under her uncle Zakariya's care, fed with out-of-season fruit; seeing her devotion, the aged Zakariya prays in that very place for a child and is given Yahya, who takes the Book firmly from childhood — the first reformer of his age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

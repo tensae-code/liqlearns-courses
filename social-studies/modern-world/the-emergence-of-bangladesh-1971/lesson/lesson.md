@@ -8,7 +8,7 @@ Bangladesh is young — born in 1971. But its books insist its story is thousand
 
 Bangladesh's Grade 6 book closes with the whole arc in one sweep. From the ancient janapadas, Bengal passes through Pala, Sena, Muslim and Mughal rulers; then British extraction and indigo; then the 1947 partition, which made East Pakistan a colony of the West; and finally Bangabandhu Sheikh Mujibur Rahman's movement and independence in 1971. The book's claim is its title: independent Bangladesh emerges after a journey of millennia — 1971 is the end of a very long road, not a sudden beginning.
 
-[Picture slot — a picture of a long timeline ribbon unrolling from ancient Bengal janapadas through sultans and Mughals to a green-and-red flag rising in 1971 — the student traces the ribbon and names three stops on the way.]
+In your mind's eye: a long timeline ribbon unrolling from ancient Bengal janapadas through sultans and Mughals to a green-and-red flag rising in 1971. The student traces the ribbon and names three stops on the way.
 
 ## Sub lesson 2 — The long arc — janapada to 1971, told through economics
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: beneath the throne, cl
 
 beneath the throne, classes, households and women and children live the empire — the lesson descends from palace to home (Society and family)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The social conditions of ancient Iran
 
 classes and households of the ancient world — who worked, who ruled, who prayed (The social conditions of ancient Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

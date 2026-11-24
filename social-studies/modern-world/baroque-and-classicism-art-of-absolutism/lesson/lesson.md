@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: classicism disciplines
 
 classicism disciplines imagination on antique models in Louis XIV's France; Rembrandt's expressive painting crowns Dutch art, and Versailles becomes royal architecture itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §49: Stilurile artistice: baroc şi clasicism
 
 baroque is born as the Counter-Reformation's art in Catholic lands — Borromini and Maderno raise Rome — while Boileau's classicism binds theatre to the rule of the three unities and David founds French neoclassicism
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

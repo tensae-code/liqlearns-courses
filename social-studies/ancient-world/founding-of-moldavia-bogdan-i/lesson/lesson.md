@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Dragoș's first 
 
 after Dragoș's first voivodate, Bogdan I crosses from Maramureș in 1359 and founds an independent Moldavia, with Baia as its first capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unitatea II, Lecția 4: Formarea statelor medievale româneşti — Țara Moldovei
 
 Bogdan rebels against Maramureș's lost autonomy, crosses the Carpathians in 1359, defeats Balc and becomes voivode of an independent Moldavia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

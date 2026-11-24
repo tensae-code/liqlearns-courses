@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Nanny, an escaped slav
 
 Nanny, an escaped slave of African royal descent, frees others, founds mountain-top Nanny Town in British Jamaica, camouflages her Maroons as trees to ambush soldiers, and holds out until hunger — not British guns — tests her people (Sección 1 reading: Nanny de los Cimarrones (Favilli & Cavallo retelling, plot summary only))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

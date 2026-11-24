@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Zimbabwe's year is re-
 
 On 18 April the country marks the 1980 break from colonial rule — Independence Day. And on Heroes Day it names those who died for that freedom: Josiah Tongogara, Herbert Chitepo, John Nkomo, Sally Mugabe, Ruth Chinamano — buried at the National Heroes Acre, where the class goes on an educational tour.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — National events — the district joins in (Grade 3)
 
 The national calendar returns at Grade 3 with the district added. The country's milestones are now also the town's own days of remembrance — the national story lands on local ground.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The five holidays of the settlement (Grade 6)
 
 The year is re-founded in holidays: Independence Day, Heroes Day, Defence Forces Day, Unity Day — 22 December 1987 — and Workers Day. Each one is a chapter of the national story, retold annually so no chapter is forgotten.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

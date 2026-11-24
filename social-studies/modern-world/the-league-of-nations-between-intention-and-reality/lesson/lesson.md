@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the League's covenant 
 
 the League's covenant is adopted on 28 April 1919; its real achievements include the Nansen passport for refugees (1922–38) and the fight against the opium trade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

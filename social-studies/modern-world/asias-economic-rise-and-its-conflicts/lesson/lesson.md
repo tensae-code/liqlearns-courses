@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Since the 1960s Asia g
 
 Since the 1960s Asia grows richer faster than any region — East Asian extreme poverty falls from 56% to 12% — yet subnational conflicts multiply against the theory that prosperity brings peace; China's turn from export industrialisation remakes its economy and its environment, and millions migrate for work
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Asia's development: past and present / Regional and global development influences
 
 The four Asian Tigers industrialise between the 1960s and 1990s; China and India's rise shifts world power from West to East and raises the fear of a clash with US dominance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Governments and change in Asia and the world / Impact of different governments' actions / Government reactions and contributions to change / Sustainability or change policies and plans of Asian governments (incl. investigating China's Belt and Road)
 
 Asian governments bet on western capitalism and win — agricultural exporters become industrial powers in twenty years; Malaysia and Singapore steer with industrial policy, Deng Xiaoping blends Marx with markets as "capitalism with Chinese characteristics", and a 56%-middle-class Asia plans its next stage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit 12.2 global-issues essay task
 
 Students collect media evidence and write on the influence of China or India in the 21st century — the region's new giants weighed from PNG's side of the fence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

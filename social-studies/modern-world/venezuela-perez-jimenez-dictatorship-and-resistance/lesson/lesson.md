@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A decade of clandestin
 
 A decade of clandestine resistance, strikes and exile ends with the dictatorship falling in January 1958
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Decade of dictatorship (1948–1958)
 
 The junta hardens into Pérez Jiménez's dictatorship of works and prisons, resisted clandestinely for ten years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bhimsen Thapa, first P
 
 Bhimsen Thapa, first Prime Minister, plans to drive the British from Asia and signs Sugauli after defeat; Gorkha king Ram Shah makes his kingdom a centre of justice with standard measures; King Tribhuvan sides with the people and the Rana regime ends on 7 Falgun 2007 BS
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

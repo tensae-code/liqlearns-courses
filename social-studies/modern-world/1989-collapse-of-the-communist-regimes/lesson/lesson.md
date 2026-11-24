@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Wałęsa's Solidarity 
 
 Wałęsa's Solidarity leads the workers against the workers' state; Charter 77's Czechoslovakia splits peacefully on 1 January 1993, and the "velvet and un-velvet" revolutions of 1989 sweep the region
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 45: Căderea regimurilor comuniste în Europa
 
 Poland votes freely in June 1989; the Ceaușescus are captured at Târgoviște, Czechoslovakia's "velvet divorce" makes Havel and Kováč presidents in 1993, and even Albania accepts multiparty politics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ French kings build Loire châteaux, and German masters like Dürer marry Italian
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Loire château, a Dürer work and a Netherlandish panel of a merchant's world — the student points to the Italian spark in each northern work.]
+In your mind's eye: a Loire château, a Dürer work and a Netherlandish panel of a merchant's world. The student points to the Italian spark in each northern work.
 
 ## Sub lesson 3 — The Netherlands, Spain and Prague
 

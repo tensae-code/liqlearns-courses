@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bacon's method, the dy
 
 Bacon's method, the dynamo, Morse's telegraph, Bell's telephone and Marconi's wireless remake life; the 20th century adds the atomic arms race, the space race, the internet — and the greenhouse effect and green parties answering it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

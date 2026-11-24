@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after MacMahon's monar
 
 after MacMahon's monarchist bid fails, the republicans win for good; the 1875 Constitution builds the Third Republic — a seven-year president, two chambers, the Marseillaise as anthem and 14 July as the national day, but still no vote for women
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Simeon makes Bulgaria 
 
 Simeon makes Bulgaria an empire in arms and letters, knocking at Constantinople's gates (Lesson 11: The rule of Tsar Simeon the Great)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 10: Bulgaria under Tsar Simeon the Great (893–927)
 
 Simeon's wars and court make Bulgaria the Balkans' greatest power (Lesson 10: Bulgaria under Tsar Simeon the Great (893–927))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

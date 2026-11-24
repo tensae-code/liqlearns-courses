@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kimberley diamonds and
 
 Kimberley diamonds and Witwatersrand gold pull in Gujarati traders and Gandhi. Mineral wealth transforms the country the trekkers founded.
 
-[Picture slot — a picture of diamond diggings at Kimberley and gold mines on the Witwatersrand, with a road running on to a united South Africa in 1902 — the student names each mineral, its place and the road's end.]
+In your mind's eye: diamond diggings at Kimberley and gold mines on the Witwatersrand, with a road running on to a united South Africa in 1902. Name each mineral, its place and the road's end.
 
 ## Sub lesson 2 — Two Boer wars — surrender and union
 

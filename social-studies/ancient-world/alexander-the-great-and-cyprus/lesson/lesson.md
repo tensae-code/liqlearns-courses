@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: when Alexander the Great ma
 
 Cypriot kings bring their fleets to Alexander at Tyre, trading Persian masters for a Macedonian conqueror marching to India.
 
-[Picture slot — a picture of the key place or moment of Alexander the Great and Cyprus as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Alexander the Great and Cyprus as the book shows it. Point to it and say what it shows.
 
 ## Say it to your companion
 

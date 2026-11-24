@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Banten tears itself ap
 
 Banten tears itself apart in the 1682-84 war between Sultan Ageng and his son Sultan Haji, and Haji's treaty with the VOC on 17 April 1684 hands the company the kingdom.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab 2.A.4 Perlawanan Banten
 
 Banten resists company encroachment until succession war and treaty deliver it to the VOC.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

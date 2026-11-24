@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 In Portugal, a dictatorship falls in the Carnation Revolution. The book teaches that moment through a song: Zeca Afonso's Grândola Vila Morena, the song-signal of the revolution. For a small colony far away, that fall in Lisbon is the door opening — decolonisation, long denied, suddenly becomes possible.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Nine days of freedom in Dili
 

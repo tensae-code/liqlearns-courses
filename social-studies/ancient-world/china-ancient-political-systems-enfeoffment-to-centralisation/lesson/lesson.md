@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: at a birthday banquet 
 
 at a birthday banquet in 213 BCE a guest praises the First Emperor for replacing lords with commanderies; another begs him to restore the old enfeoffments — Li Si wins the argument, and centralised government is fixed for two thousand years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

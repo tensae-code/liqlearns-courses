@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the UN and the UD
 
 From the UN and the UDHR (with Doc Evatt) through early Aboriginal activism and the Stolen Generations, Charles Perkins and the 1965 Freedom Ride, land rights and Mabo, Bringing Them Home and the Apology (Depth Study 4: Rights and freedoms (4.2–4.11))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

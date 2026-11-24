@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: novelists put factory 
 
 novelists put factory children, debtors and the poor at the centre of the story and indict their societies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §11.1 How did the movements of art and the literature of the 19th century depict social injustice?
 
 painters and novelists make the poor visible and put their societies on trial
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

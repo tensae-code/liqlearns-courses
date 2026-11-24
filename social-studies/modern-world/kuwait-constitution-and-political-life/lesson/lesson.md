@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1962 Sheikh Abdulla
 
 The father of the constitution, sheikh abdullah al salem, proclaims the 1962 constitution, and learners meet sovereignty, democracy, human rights and kuwaiti women's political rights.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

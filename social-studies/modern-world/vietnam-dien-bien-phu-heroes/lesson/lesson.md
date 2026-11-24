@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tày soldier Bế Văn
 
 Tày soldier Bế Văn Đàn kneels and takes a machine gun on his own shoulders — "Fire now!" — and dies still holding it; Phan Đình Giót, wounded again and again, throws his body across a bunker's firing slit at Him Lam
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

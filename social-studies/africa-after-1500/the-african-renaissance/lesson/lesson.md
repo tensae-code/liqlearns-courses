@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A call for Africa to r
 
 the African Renaissance is founded on Africa's own heritage (UA8 La Renaissance africaine: fondements, défis et enjeux)
 
-[Picture slot — a picture of renewal in Africa — young people building on African heritage with confidence — the student says what the Renaissance calls Africa to do]
+In your mind's eye: renewal in Africa — young people building on African heritage with confidence. Say what the Renaissance calls Africa to do.
 
 ## Sub lesson 2 — Challenges and stakes
 

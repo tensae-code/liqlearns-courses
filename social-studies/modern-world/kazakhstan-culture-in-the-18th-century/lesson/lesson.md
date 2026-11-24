@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: the zhyrau poets chron
 
 the zhyrau poets chronicle the calamity and the heroes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §16 Traditional spiritual culture
 
 beliefs, rituals and oral law carry Kazakh identity
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §17 Features of Kazakh national applied art
 
 silverwork, weaving and felt show the nomad aesthetic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §18 The Kazakh people's national dress
 
 costume marks zhuz, age and status across the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §§13–14 Kazakh oral literature of the 18th century
 
 zhyrau poetry preserves the calamity's memory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — §§15–16 The Kazakhs' material culture in the 18th century
 
 yurt, craft and costume sustain steppe life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

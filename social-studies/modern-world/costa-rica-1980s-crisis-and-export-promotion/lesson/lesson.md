@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1980s economic cri
 
 The 1980s economic crisis breaks the welfare model; Costa Rica turns to export promotion and trade opening (Unidad III, Tema 1-A: La crisis de la década de 1980)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Costa Rica desde la crisis de los años 80 (Porras y Gamboa)
 

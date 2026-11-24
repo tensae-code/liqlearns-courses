@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 In December 1975, Indonesia — the giant neighbour — invades the newly proclaimed republic. Fretilin organises the war against it, at first as positional war: holding ground and defending positions, as a regular army would.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Encirclement and annihilation
 

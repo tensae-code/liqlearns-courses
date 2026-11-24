@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Third Republic sur
 
 the Third Republic survives its shaky birth and builds the second colonial empire — into Indochina by the Tientsin treaty of 1885 and the union of 1887, the empire that also held Cambodia (Ch. 1 Lesson 5, The French Republic (1871–1914))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

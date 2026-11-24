@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the book pauses the na
 
 the book pauses the narrative to audit the revolution against its own promises — independence, freedom and Islamic government as the stated ideals (The ideals and achievements of the Islamic Revolution of Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

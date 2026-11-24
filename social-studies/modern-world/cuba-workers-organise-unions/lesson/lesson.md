@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: tobacco workers, railw
 
 tobacco workers, railwaymen and sugar hands build unions and a national labour confederation out of mutual-aid societies, striking against mill owners
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 6.5–6.7 Forms of confronting the Republic's situation in its first quarter-century; struggle against corruption and for institutional reform; toward a higher stage of the Cuban revolutionary movement
 
 university reform, Julio Antonio Mella, the first Communist Party (1925) and the CNOC lift protest into organisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From 1950 to 1980 Cost
 
 From 1950 to 1980 Costa Rica diversifies production and industrialises by substituting imports (Unidad II, Tema 2-A: Diversificación productiva y sustitución de importaciones)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — El modelo de sustitución de importaciones (Porras y Gamboa)
 

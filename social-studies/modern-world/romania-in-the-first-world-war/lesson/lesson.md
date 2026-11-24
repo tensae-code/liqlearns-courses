@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: bound by a secret 1883
 
 bound by a secret 1883 alliance to the Central Powers, Romania waits neutral until 1916, then is crushed by a stronger enemy, retreats, and endures hunger, epidemics and industrial collapse
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 5: România în Primul Război Mondial
 
 Romania argues its 1883 treaty was defensive only, hesitates, enters, is encircled, and signs the separate peace of 7 May 1918
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

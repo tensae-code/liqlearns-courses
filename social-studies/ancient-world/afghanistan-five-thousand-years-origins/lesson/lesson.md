@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the claim of 5,000 yea
 
 the claim of 5,000 years is tested against the country's prehistoric remains and earliest settlements, the evidence on which the national timeline stands
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

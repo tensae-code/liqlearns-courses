@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Alongside conquest, th
 
 Alongside conquest, the colonial administration is installed; unable to exploit the colony itself, the colonial state exists to serve international capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

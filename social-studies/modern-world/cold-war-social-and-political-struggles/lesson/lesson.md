@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Inside the Cold War fr
 
 Inside the Cold War frame, peoples fight their own battles — social and political demands movements press claims the blocs try to capture (a long section, printed pp. 84–125) (Unidad 2, Tema I-C: Luchas y reivindicaciones sociales y políticas en la guerra fría)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

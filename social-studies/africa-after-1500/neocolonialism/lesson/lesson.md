@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The flag changes but f
 
 neocolonialism is defined: foreign control continuing after independence, in new forms (UA7 Le néocolonialisme: définition, pratiques, conséquences)
 
-[Picture slot — a picture of a newly independent African capital — a new flag flying while foreign companies and advisers still hold the levers — the student defines neocolonialism]
+In your mind's eye: a newly independent African capital — a new flag flying while foreign companies and advisers still hold the levers. The student defines neocolonialism.
 
 ## Sub lesson 2 — Practices and consequences
 

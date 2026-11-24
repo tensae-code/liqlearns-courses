@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Gil González Dávila 
 
 Gil González Dávila comes for gold, Cortés sends Cristóbal de Olid, who founds Triunfo de la Cruz, captures Dávila, betrays Cortés and is condemned to die for treason; Cortés restores order, stays a year and leaves Hernando de Saavedra as governor
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 23: la colonización y sus consecuencias
 
 mining cities rise (Trujillo, Comayagua, Tegucigalpa, Yuscarán) inside the Captaincy of Guatemala under New Spain; Indigenous people lose land, are forced to labour, resist and rebel, while Catholicism, Spanish, new classes, mestizaje and African slavery remake the land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — the prolonged conquest of Honduras
 
 unlike the Aztec and Inca empires that fell with their chiefs, Central America's many dispersed peoples resisted from 1502 to 1573; in Honduras the zones of Trujillo-Aguán, the east, the west-centre and the Ulúa-Sula valley held out, and whole populations were decimated by mita and encomienda
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — colonisation: cities, encomienda and mestizaje
 
 grid-plan cities rose around the plaza mayor; encomienda, repartimiento, mita and slavery powered mining and farming, and the meeting of Europeans, Indigenous peoples and Africans made Honduras a crucible — today 90% mestizo
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

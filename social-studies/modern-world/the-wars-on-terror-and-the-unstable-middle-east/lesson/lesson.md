@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Afghanistan and Iraq a
 
 Afghanistan and Iraq are invaded to stabilise a region and destabilise it instead — the wars on terror end without the order they promised
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: US independence, the F
 
 US independence, the French Revolution, Napoleon in Spain and South American wars press from outside; criollo–peninsular rivalry and high taxes press from inside; on 15 September 1821 the five provinces proclaim independence, Valle drafts the Acta, and the Pliegos reach Comayagua on 28 September
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 25: rebeliones previas y legado
 
 before 1821 come risings — Delgado in El Salvador, León and Granada in Nicaragua, Tegucigalpa's Plaza Mayor in 1812; the criollo-led process frees Indigenous, criollo, mestizo and Black people from three centuries of subjection
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — the two actas
 
 Honduras has TWO independence acts: 15 September 1821, a transfer of power among Spanish-descended groups "to prevent the people proclaiming it themselves", and the stronger 1 July 1823 act breaking with Spain AND Mexico after Iturbide's fall
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

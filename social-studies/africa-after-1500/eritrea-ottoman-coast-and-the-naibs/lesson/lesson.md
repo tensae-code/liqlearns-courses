@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: from 1557 the Turks held Er
 
 From 1557 the Turks hold the Red Sea coast for some 300 years, ruling through the Naib family while the highlands stay out of their grip.
 
-[Picture slot — a picture of the key place or moment of Eritrea — the Ottoman coast and the Naibs as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — the Ottoman coast and the Naibs as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Modern history: the Turks
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Altynsarin opens schoo
 
 Altynsarin opens schools for Kazakh children, writes their first textbooks and trains their first teachers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §57 The innovation of Ibrai Altynsarin
 
 Altynsarin builds schools, textbooks and a Kazakh alphabet for print
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §6.5 Where does Y. Altynsarin's innovation in the enlightenment field show?
 
 schools for girls, a Kazakh reader, teacher training — the innovations are listed and judged
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

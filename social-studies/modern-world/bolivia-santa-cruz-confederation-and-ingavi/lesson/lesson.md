@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Santa Cruz lays the le
 
 Santa Cruz lays the legal bases of the state and builds the Peru-Bolivian Confederation; Chile attacks it, and after its fall the Battle of Ingavi (1841) secures Bolivia's independence (Santa Cruz y la Confederación Perú-Boliviana)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 4: La Confederación Perú Boliviana
 
 Teacher-compendium unit, same arc as the student text (Año 4: La Confederación Perú Boliviana)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

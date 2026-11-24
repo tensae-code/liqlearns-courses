@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Europe enters the New 
 
 Europe enters the New Time while the Bulgarians live under Ottoman rule — the starting point of the Revival (Lesson 1: The New Time, the Ottoman Empire and the Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 27: The New Time, the Ottoman Empire and the Bulgarians
 
 Europe modernises while the Bulgarians enter their Revival inside a weakening empire (Lesson 27: The New Time, the Ottoman Empire and the Bulgarians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

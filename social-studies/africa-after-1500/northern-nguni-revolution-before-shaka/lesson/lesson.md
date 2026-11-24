@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before Shaka, Dingiswa
 
 Dingiswayo of the Mthethwa and Zwide of the Ndwandwe build confederations and age-regiment armies in the northern Nguni area, c. 1790–1818.
 
-[Picture slot — a picture of two rival Nguni confederations with age regiments drilling, Dingiswayo and Zwide facing each other — the student names each leader, his people and the year 1817.]
+In your mind's eye: two rival Nguni confederations with age regiments drilling, Dingiswayo and Zwide facing each other. Name each leader, his people and the year 1817.
 
 ## Sub lesson 2 — Zwide kills Dingiswayo — the stage set for Shaka
 

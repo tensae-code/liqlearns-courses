@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Buddhists, who had no 
 
 Buddhists, who had no press of their own, raise funds for one in 1862, and Migettuwatte Gunananda Thero defeats the missionaries in the Five Great Debates, above all at Panadura in 1873
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Religious and cultural revival (competency level 3.1, 8 periods)
 
 Pupils draw lots bearing the names Olcott, Dharmapala, Sumangala, Gunananda, Navalar and Siddhi Lebbe and must speak for three minutes as that revival leader in a musical-hat game
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Matavanu erupts on Sav
 
 Matavanu erupts on Savai'i in 1905 and buries Salaeula and Lealatele; German administrators, Catholic priests and Methodist pastors move the homeless to Upolu, founding Le'auva'a (1908) and Salamumu (1909) — villages that still vote in Savai'i constituencies today
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

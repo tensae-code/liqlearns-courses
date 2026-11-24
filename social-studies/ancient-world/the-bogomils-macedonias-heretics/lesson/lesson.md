@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in a 10th-century Mace
 
 in a 10th-century Macedonia squeezed by war taxes and rich monasteries, priest Bogomil of the village Bogomila preaches a dualist faith — the visible world is the Devil's work, so reject cross, icons, marriage and masters; presbyter Kozma writes against them, Byzantium burns their leader Basil, yet the teaching travels — to Bosnia's Patarenes and France's Cathars
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

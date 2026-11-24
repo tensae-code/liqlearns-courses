@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in Vietnam America int
 
 in Vietnam America intervenes massively from 1965 to hold the South and loses — Saigon falls and the country unites under the communists; in Afghanistan the USSR bleeds for a decade against mujahideen armed by its enemies and withdraws in 1989 — its own Vietnam
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: For two centuries afte
 
 For two centuries Egypt is a province governed from abroad — under the Umayyads Abd al-Aziz ibn Marwan, the best and justest of her governors, builds the Nilometer of the year 69 AH and makes Helwan his seat; under the Abbasids the governors change so fast, farmed out to Turkish amirs and their deputies, that Egypt learns to dream of ruling herself.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

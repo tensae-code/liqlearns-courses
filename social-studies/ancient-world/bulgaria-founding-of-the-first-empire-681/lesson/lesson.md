@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Asparuh's Bulgars cros
 
 Asparuh's Bulgars cross the Danube and found a state (681) that Byzantium must recognise (Lesson 6: The creation and strengthening of the Bulgarian state on the Balkan Peninsula)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 6: The birth of Danubian Bulgaria
 
 Kubrat's son Asparuh founds Danubian Bulgaria south of the river (681) (Lesson 6: The birth of Danubian Bulgaria)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

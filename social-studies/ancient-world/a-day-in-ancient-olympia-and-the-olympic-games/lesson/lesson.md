@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: pupil groups walk the 
 
 pupil groups walk the sanctuary of Olympia — gymnasium, stadium for 50,000, temples and metopes — and report back what each ruin was
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 42 A day in ancient Olympia exercises
 
 the children's visit to Olympia becomes exercises on stadium, temples and games
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

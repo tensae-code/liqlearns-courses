@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: the ELF began the armed str
 
 The ELF begins the armed struggle under Hamid Idris Awate in 1961, the EPLF carries it through thirty years of war, and Eritrea is liberated on 24 May 1991.
 
-[Picture slot — a picture of the key place or moment of Eritrea — the armed struggle: the EPLF and liberation as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — the armed struggle: the EPLF and liberation as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — The Armed Struggle 1961–1991
 

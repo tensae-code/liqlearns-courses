@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: shrinking water, land 
 
 shrinking water, land and forests turn neighbours into rivals, and nature itself becomes a cause of war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

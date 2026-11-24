@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: Sparta's alliance vote
 
 Sparta's alliance votes for war against the Athenian empire, and Greek begins killing Greek in a war Thucydides calls the greatest ever
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 26 The main phases of the war
 
 plague, civil strife and the Sicilian disaster bleed Athens until Lysander's fleet starves her into surrender on harsh Spartan terms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 25 Causes of the war exercises
 
 pupils separate the deep causes from the sparks of the Peloponnesian War
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 26 Phases of the war exercises
 
 ordering sentences, then retelling aloud, walks the war from plague to surrender
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. F1 Causes and occasions of the Peloponnesian War — the Archidamian War (431–421)
 
 fear of Athens's growth drives Sparta to invade Attica yearly while plague, not battle, breaks Athens's strength
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. F2 The Sicilian expedition (415–413) — the Decelean War (413–404)
 
 Athens throws an armada at Sicily and loses it whole; Sparta, funded by Persia, starves Athens into surrender
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Moldavian National
 
 the Moldavian National Party of Stroescu, Gore, Halippa and Pelivan leads the movement; Ukraine's Rada claims Bessarabia, and Romanians east of the Nistru send their first deputies to the Sfatul Țării
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 7: Basarabia în anii 1917–1918
 
 national consciousness wakes in a land "torn away abusively in 1812"; Bessarabia's return to the Romanian state proceeds in stages through the Sfatul Țării
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

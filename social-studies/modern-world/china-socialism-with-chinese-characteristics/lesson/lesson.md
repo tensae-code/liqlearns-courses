@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Deng's 1992 Southern T
 
 Deng's 1992 Southern Tour talks relaunch reform, and successive leaderships carry the theory from Deng Xiaoping Theory through to the new era
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The road develops
 
 from Deng Xiaoping Theory to the new era's thought, each generation of leaders re-answers what socialism with Chinese characteristics means
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

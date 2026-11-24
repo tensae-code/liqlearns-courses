@@ -8,7 +8,7 @@ Veterans came home to suburbs and televisions — the American Dream at full shi
 
 Veterans came home to the American Dream of suburbs and televisions — houses, cars, appliances and babies, prosperity as a national promise. For those let inside it, the postwar years glittered.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The Cold War freezes policy; McCarthyism hunts at home
 

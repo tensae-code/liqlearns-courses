@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the minister feigns il
 
 the minister feigns illness to dodge a French summons, then strikes the French posts by night on 5 July 1885 and carries young King Hàm Nghi to the mountains to keep resisting
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

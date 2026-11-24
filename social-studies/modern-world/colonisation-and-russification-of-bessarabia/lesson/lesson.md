@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: peasants are 85–90% 
 
 peasants are 85–90% of the people and limited in rights; russification aims first at the native nobility, and the 1897 census counts the province's remade national composition
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: great fairs like Koyan
 
 great fairs like Koyandy and Karkaraly link nomad producers to Russian and Central Asian merchants
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §43 The development of trade relations in Kazakhstan
 
 caravan routes and great fairs bind the steppe to Russian and Asian markets
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §5.5 What service did fairs perform in the development of trade relations?
 
 the great fairs are shown as the steppe's banks, markets and news exchanges
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

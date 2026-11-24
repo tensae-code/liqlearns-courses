@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Indigenous work create
 
 Indigenous work creates Venezuela's first lived spaces; the Timotocuica people's farming is the most advanced, and their stone-and-bahareque building orders the land before any Spaniard
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Indigenous peoples before the invaders of 1498
 
 Before 1498 indigenous peoples live by collective work in balance with nature; the European arrival breaks that dynamic and introduces new ways of exploiting the land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

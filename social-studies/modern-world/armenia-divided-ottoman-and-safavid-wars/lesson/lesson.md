@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: two empires fight over
 
 two empires fight over Armenia for a century; Shah Abbas deports Julfa's Armenians to Persia, and the land is split east–west
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §5.1 Armenia's internal and external situation, late 1600s–early 1700s
 
 melik principalities in Karabakh and Syunik keep a half-free Armenian life alive between the empires
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

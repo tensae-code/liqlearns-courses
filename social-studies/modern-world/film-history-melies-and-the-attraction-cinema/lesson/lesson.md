@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Stage magician Georges
 
 Stage magician Georges Méliès turns the camera into a magic box, a jammed film gives him the stop trick, and he sails to the Moon in 1902.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

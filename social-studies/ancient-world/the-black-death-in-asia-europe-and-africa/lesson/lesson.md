@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before the plague: med
 
 Before the plague: medieval medicine; then the Black Death spreads through Asia, Europe and Africa — impact, responses and effects (Depth Study 6b: The Black Death)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

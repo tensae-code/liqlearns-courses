@@ -8,7 +8,7 @@ For centuries, emperors far away ruled Bengal. Then a Bengali king ruled Bengal 
 
 Bangladesh's Grade 9 book traces Bengal's political path from empire to independence. First the great empires reach in: Maurya and Gupta emperors extend their power into Bengal — Samudra Gupta captures Banga and Pundra. Then, as Gupta power fades, the story turns: Shashanka of Karnasubarna becomes Bengal's first great independent king, ruling Bengal from Bengal. After him follows the Pala dynasty. The book's arc is the one Bengal will repeat for a thousand years: ruled from outside, then ruling itself.
 
-[Picture slot — a picture of Shashanka's court at Karnasubarna — a Bengali king on his throne with the river lands of Bengal mapped on a cloth before him — the student points to the king and says why he matters as Bengal's first great independent king.]
+In your mind's eye: shashanka's court at Karnasubarna — a Bengali king on his throne with the river lands of Bengal mapped on a cloth before him. The student points to the king and says why he matters as Bengal's first great independent king.
 
 ## Say it to your companion
 

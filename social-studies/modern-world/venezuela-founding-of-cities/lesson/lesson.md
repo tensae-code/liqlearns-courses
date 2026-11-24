@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Spanish-founded cities
 
 Spanish-founded cities, Caracas and the capitals among them, plant a new kind of country over the indigenous world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Cities are born, grow and can also die
 
 Founded on a grid in the sixteenth century, cities grow with their people's needs — and a city, like a living thing, can also die
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Coro, a curious founding; El Tocuyo, mother city
 
 Coro is founded in a curious bargain with a cacique, and El Tocuyo becomes the mother city from which other towns are seeded
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

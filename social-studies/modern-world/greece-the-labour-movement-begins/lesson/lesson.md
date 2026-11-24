@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: miners, tobacco worker
 
 miners, tobacco workers and seamen organise the first unions and strikes and demand a labour law
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2 D: The left and socialist parties
 
 wartime hardship births the Socialist Labour Party (SEKE) in 1918 and a left enters Greek politics for good
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

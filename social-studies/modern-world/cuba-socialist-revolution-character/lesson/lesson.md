@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the book closes by dec
 
 the book closes by declaring the socialist character of the Revolution and Cuba's solidarity with other peoples as its defining turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 6.1–6.4 From democratic-popular, agrarian, anti-imperialist Revolution to socialism; socialist development 1962–75; consolidation of the socialist state 1975–89; the Revolution during the Special Period, first years
 
 the survey ends in the pupils' own lifetime: Girón and the socialist declaration, institutionalisation in 1976, then the USSR's fall and the Special Period's hard years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

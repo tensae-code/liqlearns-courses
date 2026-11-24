@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the prince is supreme 
 
 the prince is supreme landowner, army chief and treaty-maker; Transylvania is run through counties and Saxon and Szekler seats, and Moldavia's fortresses — Suceava, Neamț, Soroca, Hotin, Cetatea Albă — form its shield
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

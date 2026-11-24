@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In ancient Syria stone
 
 Stone, bone, wood and clay are shaped into the first tools and pots, and raw nature becomes craft.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

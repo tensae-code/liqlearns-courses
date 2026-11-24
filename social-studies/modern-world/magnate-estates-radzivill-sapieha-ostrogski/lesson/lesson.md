@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Radziwiłłs, Sapi
 
 The Radziwiłłs, Sapiehas, Pacs and Lubomirskis hold latifundia like states within the state and fight each other for first place all century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

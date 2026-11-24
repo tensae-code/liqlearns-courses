@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the 652 AD Baqt, 
 
 From the 652 AD Baqt, under which Christian Nubia traded 360 slaves a year, through Funj slave armies and Muhammad Ali's raids described by Samuel Baker, to Simon Deng, abducted at nine, carried up the Nile, who escapes, regains his Shilluk scars and becomes an abolitionist
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

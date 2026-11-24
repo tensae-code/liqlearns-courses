@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kassa, the outlawed sh
 
 Kassa, the outlawed shifta whose widowed mother hawked medicine in Gondar, fights his way to the throne and ends the Era of the Princes.
 
-[Picture slot — a picture of Kassa rising from outlaw to emperor, crowned over a reunited Ethiopia, with Maqdala's mountain fortress in the distance — the student tells his rise, his reforms and his death.]
+In your mind's eye: kassa rising from outlaw to emperor, crowned over a reunited Ethiopia, with Maqdala's mountain fortress in the distance. The student tells his rise, his reforms and his death.
 
 ## Sub lesson 2 — Reforms — and death at Maqdala
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Bulgarian khans besieg
 
 Bulgarian khans besiege and marry into the empire by turns, while Rus fleets attack and then trade and convert
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 22 Bulgarians and Rus exercises
 
 exercises sort wars, treaties and baptisms in Byzantium's northern relations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 3.I.6 The founding, development and Christianisation of the Russian state
 
 Varangian Rus found Kiev, raid Constantinople, then take baptism from it under Vladimir
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

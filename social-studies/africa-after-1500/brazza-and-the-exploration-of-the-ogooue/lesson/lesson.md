@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Brazza ascends the Ogo
 
 Brazza ascends the Ogooué and explores the river into Gabon's interior (Leçon 24 De Brazza et l'exploration de l'Ogooué)
 
-[Picture slot — a picture of Brazza travelling up the Ogooué river by canoe through the forest — the student says which river Brazza explored]
+In your mind's eye: brazza travelling up the Ogooué river by canoe through the forest. Say which river Brazza explored.
 
 ## Sub lesson 2 — The treaties that open Gabon and Congo to France
 

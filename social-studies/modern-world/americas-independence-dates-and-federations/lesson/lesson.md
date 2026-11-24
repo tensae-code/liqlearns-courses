@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a dated table runs 177
 
 a dated table runs 1776 (USA) to 1982 (Belize); Bolívar defends federal union as the best form, most new states choose federation, and Central America's federation even adds a sixth state, Los Altos, in 1838
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — where the movements centred
 
 the great independence movements centred on Mexico, Caracas and Buenos Aires — rich, populous, trading captaincies and viceroyalties — while Central America's independence, unlike South America's junta-led wars, was NOT won by armed struggle, its 1811 risings (Delgado, Argüello) having failed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

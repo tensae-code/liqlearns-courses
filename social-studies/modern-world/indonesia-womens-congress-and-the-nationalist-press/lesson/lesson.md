@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The First Indonesian W
 
 The First Indonesian Women's Congress meets in Yogyakarta, 22-25 December 1928, while Ruhana Kuddus edits Soenting Melayoe, Tirto Adhi Soerjo invents the native press, Rasuna Said rises toward parliament, and Max Havelaar still indicts the system.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

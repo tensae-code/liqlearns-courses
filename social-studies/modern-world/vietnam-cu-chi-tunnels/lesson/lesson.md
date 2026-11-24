@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: some 250 km of tunnels
 
 some 250 km of tunnels on three levels, 3–12 m deep, hide meeting rooms, stores, wells and the smokeless Hoàng Cầm kitchen invented in the earlier war against France
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 26, digging the tunnels and the war underground
 
 teams dig toward the tapping sounds of the team opposite, hide the soil in the river, disguise entrances as termite mounds, and hold out against US sweeps, bombs and poison — "land of steel, wall of bronze"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

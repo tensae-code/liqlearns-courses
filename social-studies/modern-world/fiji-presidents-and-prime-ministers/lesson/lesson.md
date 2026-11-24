@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: children research Fiji
 
 Children research Fiji's Presidents (Ganilau, Mara, Iloilo, Nailatikau) and Prime Ministers (Mara, Bavadra, Rabuka, Chaudhry, Qarase) — where each came from, his traditional title, and his years in office.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 2.2 Continuity and Change: leaders of the Pacific / Fiji's prime ministers list
 
 A dated table of Fiji's leaders runs through Qarase (2001-2006), Senilagakali and Bainimarama, teaching leadership change as continuity-and-change.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

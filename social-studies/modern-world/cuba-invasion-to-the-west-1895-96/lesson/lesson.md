@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Gómez and Maceo carry
 
 Gómez and Maceo carry the war the length of the island from Mangos de Baraguá to Mantua in 90 days, burning cane and breaking Spain's trocha lines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 3.6 The Invasion to the West (Ten Years' War attempt)
 
 the 1868 war's own westward invasion stalls short of its goal — the lesson Gómez and Maceo will redeem in 1895
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 5.3 Invasion to the West
 
 the invading column crosses the trochas to Mantua; Spain's cordons cannot hold a moving army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

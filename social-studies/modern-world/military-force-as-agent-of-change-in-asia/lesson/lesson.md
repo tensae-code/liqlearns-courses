@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Armies as history-make
 
 Armies as history-makers — students investigate when soldiers, not voters, changed Asian states, and present the evidence as portfolios
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

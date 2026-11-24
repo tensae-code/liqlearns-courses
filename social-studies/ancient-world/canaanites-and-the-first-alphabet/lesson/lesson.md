@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: about 4,000 years ago 
 
 About 4,000 years ago the Canaanites of Palestine invent alphabetic writing, borrowing signs from their own world — the ox-head for the first letter — and the alphabet travels from them to the whole world (Unit 5 Lesson 3: the Canaanites invent the alphabetic script)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

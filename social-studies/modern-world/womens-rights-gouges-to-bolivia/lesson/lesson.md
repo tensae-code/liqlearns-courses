@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the Declaration o
 
 From the Declaration of the Rights of Woman and the Female Citizen against patriarchal colonialism, through important women in politics, education, literature and economics, to women's participation in Bolivian democracy (Las mujeres en la historia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: revolts flare across t
 
 revolts flare across the steppe — Zhankozha, Eset and others — as colonisation tightens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §4.6 What was the role of the batyrs Eset and Zhankozha in the national-liberation struggle?
 
 two regional heroes hold the Syr Darya and the Aral steppe against Khiva and Russia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

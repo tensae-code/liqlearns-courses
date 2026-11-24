@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Britain legislates the
 
 Britain legislates the gold standard in the 1820s, the world follows, two wars break it, and Bretton Woods crowns the dollar in 1944
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

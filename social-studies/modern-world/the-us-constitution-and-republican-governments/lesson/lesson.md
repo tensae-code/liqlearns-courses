@@ -8,7 +8,7 @@ First a pamphlet killed a king in print. Then thirteen arguing states tried to b
 
 Paine's Common Sense attacked the very idea of kingship in plain language any reader could follow. Before independence was declared, it was argued — and the argument killed the king in print.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The states experiment with democracy
 

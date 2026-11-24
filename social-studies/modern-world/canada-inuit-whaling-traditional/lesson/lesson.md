@@ -13,7 +13,7 @@ Inuit hunters have taken whales since long ago, because one whale fed and suppli
 The bones became tools and sleds — the hard frame of everyday life. The oil burned in lamps, giving light and warmth through the dark season. The skin and blubber — maktaq — were food, eaten and shared.
 
 That is why the whale stands at the centre of the old Arctic story: not as a trophy, but as a gift that fed, lit and equipped everyone.
-[Picture slot — a picture of a bowhead whale beside an Inuit camp: point to the whale and name one thing it gave the community.]
+In your mind's eye: a bowhead whale beside an Inuit camp. Point to the whale and name one thing it gave the community.
 
 ## Sub lesson 2 — Whaling the old way
 

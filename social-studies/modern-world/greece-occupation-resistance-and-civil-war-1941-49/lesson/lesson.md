@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: resistance movements f
 
 resistance movements free mountains and sabotage the occupier, liberation slides into civil war, and the decade closes only in 1949
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §48 Occupation, Resistance and Liberation
 
 famine winters, EAM's mountain state, Gorgopotamos, and a liberation already shadowed by December 1944
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §54a The Civil War and the main problems of post-civil-war Greece (1944–1963)
 
 Dekemvriana, the mountain war of 1946–49, and a wounded, policed democracy that follows
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tin makes the west-coa
 
 Tin makes the west-coast states rich — Larut's mines from the 1840s and Chinese miners raise Perak, Selangor and Negeri Sembilan into world tin leaders; Britain binds the rulers by treaty, beginning with the Pangkor Treaty of 1874 in Perak, installs Residents whose "advice" must be followed, and federates Perak, Selangor, Negeri Sembilan and Pahang (Bab 3: the Federated Malay States)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

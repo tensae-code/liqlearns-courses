@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: perestroika's storms, 
 
 perestroika's storms, the Fergana and other tragedies, then on 31 August 1991 Uzbekistan declares the independence its heroes had been denied in 1917
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

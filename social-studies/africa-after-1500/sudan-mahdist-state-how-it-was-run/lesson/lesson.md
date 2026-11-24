@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Mahdi rules throug
 
 the Mahdi rules through four khalifas modelled on the Prophet's, with Abdullahi al-Taishi first among them; the Bayt al-Mal treasury, Sharia courts, provincial amirs and a banner-divided army hold the new state together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

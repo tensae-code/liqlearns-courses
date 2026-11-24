@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: The Bachwezi build an 
 
 The Bachwezi build an empire on iron — strong tools to cultivate, strong weapons to expand — and lose it, the book says, because it grew too large to hold
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Political organisation of ethnic groups
 
 The Bachwezi's gifts are listed like a king's inventory — salt mining at Lake Katwe, iron smelting, long-horned cattle, coffee, bark cloth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Economic contributions of the Bachwezi
 
 Coffee, iron working, pottery and the salt mines of Lake Katwe — the Bachwezi are remembered as teachers of crafts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Bachwezi Dynasty
 
 The Batembuzi, gods come from heaven, found Bunyoro; the Chwezi who follow prize long-horned cattle, grow coffee, beans and millet, make pottery, and play omweso in grass-thatched huts smeared with cow dung
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

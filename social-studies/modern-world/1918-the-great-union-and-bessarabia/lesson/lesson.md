@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: in 1918 the Sfatul Ț�
 
 in 1918 the Sfatul Țării under Ion Inculeț votes Bessarabia's union with Romania, completing the Great Union of all Romanians
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 4: Formarea Statului Național Unitar Român. Recunoașterea Marii Uniri
 
 1918, Romania's astral hour — Bessarabia, Bukovina under Iancu Flondor's Cernăuți assembly, and Transylvania with its national councils and guards unite with the Old Kingdom as two empires vanish
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Tema 8: Marea Unire din 1918
 
 on 4 October 1918 deputy Isopescu-Grecul demands wide autonomy for Austria-Hungary's 4 million Romanians; within weeks the unitary national state is formed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

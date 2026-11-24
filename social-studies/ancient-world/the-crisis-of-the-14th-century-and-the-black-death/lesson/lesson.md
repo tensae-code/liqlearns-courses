@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: harvests fail, famine 
 
 harvests fail, famine and war thin the population, then in 1347 the plague Boccaccio describes kills a third of Europe and changes the price of everything, above all labour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La crisi del '300 (module: causes, plague, epidemics and social control)
 
 famine, plague and war strike together; cities answer with health boards and quarantines — an early machinery of social control is born of the epidemic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

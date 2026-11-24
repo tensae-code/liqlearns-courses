@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: fridges (Paris' Storio
 
 fridges (Paris' Storiografia makes one the boom's symbol), televisions (Alfieri) and internal migrations from South to North remake Italy in a decade; Barbagallo's Cassa per il Mezzogiorno (unit Storiografia) measures the South's half-share
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 13 §6 Il «miracolo economico»
 
 motorways, mass media and the robotic factory (Focus boxes) remake Italy; the miracle's geography — North industrialising, South emigrating — is its permanent question
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

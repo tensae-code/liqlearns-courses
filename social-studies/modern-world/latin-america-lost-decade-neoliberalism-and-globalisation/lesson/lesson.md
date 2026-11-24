@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: debt from the 1960s br
 
 debt from the 1960s breaks in 1981 — the lost decade; from 1980 Honduras applies the neoliberal model (minimal State, open capital, no price controls, private enterprise) prescribed to pay the external debt, inside a globalisation critics say favours the developed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Honduras in the regional crisis
 
 the 1980s brought militarisation, foreign interference, debt and rights violations to Honduras while Nicaragua and El Salvador burned, until the Esquipulas peace accords silenced the guns in 1992
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — the Washington Consensus turn
 
 the welfare state's crisis from 1974 became Latin America's acute 1982 crisis; the region answered with liberalising structural reforms — the "Washington Consensus" of market opening and deregulation, with claimed gains in growth and investment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

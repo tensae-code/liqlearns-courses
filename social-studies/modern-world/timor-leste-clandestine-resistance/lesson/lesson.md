@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 The resistance does not live only in the mountains. Inside the towns, secret — clandestine — networks carry letters to Falintil in the bush, and carry food and medicine too. The couriers are often schoolchildren and students: young people moving messages under the occupier's nose, at real risk, as organisers of a hidden war.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Renetil and Solidamor — resistance inside Indonesia
 

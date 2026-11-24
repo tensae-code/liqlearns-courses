@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Edward III's claim ope
 
 Edward III's claim opens a war in 1337, English longbows win at Crécy and Agincourt, Joan of Arc turns the tide in 1429, and by 1453 France emerges as Europe's strongest kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

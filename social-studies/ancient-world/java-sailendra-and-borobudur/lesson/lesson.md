@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: on the island south of
 
 on the island south of Borneo (map, p. 142) a Hindu-Buddhist kingdom of Java builds Borobudur and trades across the archipelago — the southern mirror of Angkor (History Ch. 3 Lesson 3, The Java state)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

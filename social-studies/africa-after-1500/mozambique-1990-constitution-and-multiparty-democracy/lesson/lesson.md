@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mozambique abandons th
 
 Mozambique abandons the one-party system; the 1990 Constitution opens multiparty politics and electoral processes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The importance of the 1990 Constitution
 
 The 1990 Constitution reshapes the daily life of Mozambicans and their institutions — rights and rules rewritten for a democratic state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,49 +8,49 @@ Before you read on, hold this lesson's one thing in mind: Homer's epics and the 
 
 Homer's epics and the Olympian gods give scattered Greeks one language of story and worship, with hospitality to strangers as a sacred duty
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 4 Art and writing
 
 Greeks borrow the Phoenician alphabet, add vowels, and paint geometric vases whose shapes serve every use of daily life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 9 Letters
 
 archaic Greece fills with poets and wise sayings — literature becomes the Greeks' shared school
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 3 Poetry and religion exercises
 
 pupils find Olympian gods' names hidden in today's everyday words
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. 4 Art and writing exercises
 
 close observation of a geometric vase turns decoration into evidence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. 9 Letters exercises
 
 an acrostic spells out the great poet — archaic literature learned by wordplay
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Ch. C2 The cultural rebirth
 
 the alphabet returns, Homer's epics are written down, and the first Olympic Games date the Greek revival
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Ch. D9 Letters (Archaic)
 
 lyric poets, the first philosophers and early historians turn the borrowed alphabet into Greek literature
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Soviet answer to t
 
 the Soviet answer to the West, COMECON (1949), organises the socialist economies; after the financial crises of the 1990s the G7 fathers the G20 (1999), nineteen states plus the EU; the World Bank in Washington lends against poverty; and when the oil companies cut posted prices in 1959 without asking, Saudi Arabia, Iraq, Kuwait, Iran and Venezuela found OPEC in 1960 — while the Arab exporters' own OAPEC struggles to match its weight
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

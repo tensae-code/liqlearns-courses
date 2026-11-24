@@ -8,7 +8,7 @@ Before you read on, think of Myanmar's long story as the guide tells it in two a
 
 Early, middle and late Rock Age hunters develop weapons and tools and master fire: bands of hunters learn to shape stone and tame fire, the first technologies of the human story.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — First farmers — agriculture and country life
 

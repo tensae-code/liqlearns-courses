@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Greeks flee massacres 
 
 Greeks flee massacres in Asia Minor, Constantinople, Cyprus, Chios and Crete into the free state, and Kapodistrias's government and the Fourth National Assembly argue over their care
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 3 C: Refugee rehabilitation under Otto's monarchy (1833–1862)
 
 the Bavarian state settles war refugees while 'autochthones' and 'heterochthones' fight over jobs and rights
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

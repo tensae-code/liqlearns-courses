@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Đinh king and his
 
 the Đinh king and his heir are assassinated, a six-year-old succeeds, and the Song strike by land and water; regent Lê Hoàn is raised to the throne, fights at Đại La, the Lục Đầu river, Bạch Đằng and Tây Kết, and the Song commander Hầu Nhân Bảo is killed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

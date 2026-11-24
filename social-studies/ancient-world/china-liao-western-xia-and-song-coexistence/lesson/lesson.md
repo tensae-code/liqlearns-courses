@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Khitan nomads build Li
 
 Khitan nomads build Liao, the Tangut Yuanhao proclaims Western Xia in 1038 with its own script, coinage and law, and three states share the map with Song
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Liao, Xia, Jin and Yuan rule (1)
 
 Khitan, Tangut and Jurchen build full Chinese-style states beside Song, each with its own script and law
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: victory in 1945 leaves
 
 Victory in 1945 leaves every third Belarusian dead and the land in ruins, yet the republic co-founds the UN and throws itself into the Fourth Five-Year Plan of rebuilding
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Overcoming the war's consequences in the economy
 
 Women and teenagers sow the first liberated fields while workers raise factories, railways and power stations past pre-war levels by 1950
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Results of the recovery period
 
 Pupils weigh the recovery's ledger — industry restored, land question settled by force in the west, society exhausted but industrialising
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

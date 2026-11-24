@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: 1910 brings the first 
 
 1910 brings the first elected member, the communities unite in the 1919 National Congress, and the Manning constitutions of 1920 and 1924 give elected majorities on paper while the Governor keeps the real power
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The national movement organises
 
 James Peiris's 1908 memorandum demands reform, the 1910 change lets Ramanathan become the first elected Ceylonese member, and temperance halls become the movement's recruiting grounds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

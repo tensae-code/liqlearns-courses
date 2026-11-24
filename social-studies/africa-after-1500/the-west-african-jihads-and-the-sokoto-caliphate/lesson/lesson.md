@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Uthman dan Fodio, Fula
 
 Uthman dan Fodio, Fulani preacher and scholar, leads the first jihad in Hausa land against unfair courts and impure practice; his successor Mohammed Bello builds the Sokoto Caliphate's Quranic schools and mosques
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

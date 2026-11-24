@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kruger, president of t
 
 Kruger, president of the Transvaal for four terms, fights Africans and then the British in 1880–81 and 1899–1900 before fleeing — a life lived, the book says, in love and defence of his people
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

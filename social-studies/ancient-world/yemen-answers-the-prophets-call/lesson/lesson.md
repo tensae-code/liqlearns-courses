@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yemen answers the call
 
 Yemen answers the call faster than anywhere — the family of Yasir are among Islam's first martyrs, Yemeni delegations crowd to Medina and are praised, Ali is sent to Yemen in 8 AH and Hamdan embraces Islam in a single day, Mu'adh ibn Jabal follows as teacher, and the Prophet's word stands over the lesson: faith is Yemeni and wisdom is Yemeni
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

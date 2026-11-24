@@ -8,7 +8,7 @@ Before any European ship crossed the Atlantic, three worlds were already full of
 
 Long before 1492 the Americas held many different Native societies — farming peoples, city builders, hunters and traders, each with its own way of life. The book opens here to make one point clear: the Americas were not empty land waiting to be found; they were lived-in worlds with histories of their own.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — A Europe on the brink of change
 

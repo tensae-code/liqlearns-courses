@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Craft and merchant gui
 
 Potters fire mirror-black Northern Black Polished Ware, Varanasi and Madurai weave famous cloth, and craft and merchant shrenis train workers, buy raw material — and bank deposits whose interest endows monasteries; the Arthashastra's workshop rules show widows and retired temple women spinning for wages under a superintendent forbidden even to talk to them of anything but work.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

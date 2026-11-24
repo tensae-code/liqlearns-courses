@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after the Duar War and
 
 after the Duar War and Sinchula reopen relations, Desi Jigme Namgyel steadies ties, Ugyen Wangchuck meets Younghusband at Chumbi in 1904, and Charles Bell's mission produces the 1910 Treaty of Punakha, raising the subsidy and binding Bhutan's external relations to British guidance (Chapter Two, Bhutan and British India (closing sections))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

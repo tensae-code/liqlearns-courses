@@ -12,7 +12,7 @@ Those peoples had lived on their lands long before the Argentine state existed, 
 
 So the map of the new Argentina was completed not only by railways and laws, but also by an army — and the price was paid by the peoples who were already there.
 
-[Picture slot — a picture of the two faces of Argentina's progress in this period — indigenous lands in the south and the Chaco, and a crowded conventillo courtyard in the city: name who lost out in each half of the picture.]
+In your mind's eye: the two faces of Argentina's progress in this period — indigenous lands in the south and the Chaco, and a crowded conventillo courtyard in the city: name who lost out in each half of the picture.
 
 ## Sub lesson 2 — "Progress" does not reach everyone
 

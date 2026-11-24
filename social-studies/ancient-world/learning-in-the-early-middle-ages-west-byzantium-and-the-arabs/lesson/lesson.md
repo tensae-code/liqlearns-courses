@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: three worlds keep lear
 
 three worlds keep learning alive differently — western monks copy manuscripts in scriptoria and Charlemagne's court revives letters; Byzantium's Magnaura school teaches emperors' children, and its engineers wield Greek fire; the Arabs, freer of dogma, found algebra and trigonometry, adopt Indian numerals and zero, print Avicenna's Canon of medicine and carry paper and gunpowder from China toward Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

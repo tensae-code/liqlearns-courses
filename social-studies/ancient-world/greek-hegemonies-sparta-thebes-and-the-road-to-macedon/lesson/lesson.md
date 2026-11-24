@@ -8,49 +8,49 @@ Before you read on, hold this lesson's one thing in mind: victorious Sparta rule
 
 victorious Sparta rules Greece harshly yet Agesilaus shows mercy to the conquered, and the cities soon combine against her
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 28 Thebes and the Boeotian League
 
 Thebes builds a Boeotian federation with its own coinage and rises to challenge Sparta's hold on Greece
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 29 The hegemony of Thebes
 
 Epaminondas's slanting phalanx and the Sacred Band smash Sparta at Leuctra and free Messenia, making Thebes briefly first in Greece
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 27 Hegemony of Sparta exercises
 
 names sorted into columns place victors and victims of Sparta's harsh decade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. 28 Thebes and the Boeotian League exercises
 
 exercises build Thebes's federation as Sparta's challenger
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. 29 Hegemony of Thebes exercises
 
 marking tasks follow Epaminondas's Leuctra revolution in tactics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Ch. F3 The hegemony of Sparta: a contested dominion
 
 Sparta's harmosts and garrisons make her empire hated within a decade of winning it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Ch. F4 The dominion of Thebes in Greece
 
 Pelopidas and Epaminondas free Thebes, shatter Sparta at Leuctra and Mantinea, and die leaving no successor system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

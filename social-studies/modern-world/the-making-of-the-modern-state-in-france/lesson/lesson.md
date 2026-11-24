@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: François Ier's Ordina
 
 François Ier's ordinance imposes French in law and the modern state takes shape — one language for the law is one state speaking with one voice.
 
-[Picture slot — a picture of a royal ordinance being proclaimed in French on one side and Colbert inspecting a factory and a fleet on the other — the student says what each man did to build one state]
+In your mind's eye: a royal ordinance being proclaimed in French on one side and Colbert inspecting a factory and a fleet on the other. Say what each man did to build one state.
 
 ## Sub lesson 2 — Colbert's state machine
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Painted cave walls and
 
 Painted cave walls and carved figures appear — the first images humans made of their world, and a fight to preserve them (Séance 3, Un art préhistorique (1) ?)
 
-[Picture slot — a picture of a painted cave wall from prehistory — the student says why these first images matter and why they must be preserved]
+In your mind's eye: a painted cave wall from prehistory. Say why these first images matter and why they must be preserved.
 
 ## Sub lesson 2 — The imagination of the first villagers
 

@@ -10,7 +10,7 @@ Turkey's Grade 9 book names the Islamic world's scientific flowering plainly: Bi
 
 Baghdad in the east and Cordoba in the west become, in the book's beat, the world's classrooms: translation, algebra, medicine and observatories make them so. A civilisation is measured here not by its armies but by its questions.
 
-[Picture slot — a picture of a Baghdad observatory and library in the golden age — scholars with an astrolabe under the dome, translators at desks below — the student points to the instruments and the books and says what work joins them.]
+In your mind's eye: a Baghdad observatory and library in the golden age — scholars with an astrolabe under the dome, translators at desks below. The student points to the instruments and the books and says what work joins them.
 
 ## Say it to your companion
 

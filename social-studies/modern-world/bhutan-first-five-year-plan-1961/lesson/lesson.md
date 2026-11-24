@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: road-building from Phu
 
 road-building from Phuentsholing to Paro starts in 1960 and in 1961 Bhutan launches its first Five-Year Plan, fully supported by India at 1,747 lakh rupees, with over 1,000 km of roads following (Chapter Three, planned development)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

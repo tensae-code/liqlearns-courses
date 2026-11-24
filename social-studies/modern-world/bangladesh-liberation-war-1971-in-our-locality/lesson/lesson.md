@@ -8,7 +8,7 @@ In one Bengal village there is a field children cross on the way to school. In 1
 
 Bangladesh's Grade 6 book meets the Liberation War of 1971 not in a capital but in the pupils' own village. The class finds its killing field — the place where 46 local men and women were killed in 1971. And they hear of Azad, a young man captured by the Pakistani forces, whose mother never stopped waiting for him. The book's way is deliberate: Azad is one martyr standing for thousands unknown, and the war becomes real when it has a field you can walk to and a mother you can picture.
 
-[Picture slot — a picture of a quiet village field in Bangladesh with a small memorial — schoolchildren standing respectfully before it as an elder tells the story — the student points to the memorial and says whose story it keeps.]
+In your mind's eye: a quiet village field in Bangladesh with a small memorial — schoolchildren standing respectfully before it as an elder tells the story. The student points to the memorial and says whose story it keeps.
 
 ## Say it to your companion
 

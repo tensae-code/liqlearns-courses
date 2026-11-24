@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: After the Federal War 
 
 After the Federal War the 1864 constitution gives the country a new name and the long search begins for a national profile that Guzmán Blanco's governments finally fix
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: thrown from a whites-o
 
 thrown from a whites-only carriage as a young lawyer, Gandhi turns the insult into non-violent non-cooperation — boycotts in 1920, and in 1930 a walk to the sea to make salt against the salt laws
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — National democratic movements surge
 
 after WWI the surge rolls on — Gandhi's India, Egypt's Wafd, Turkey's Kemal, Mexico's revolution's children
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

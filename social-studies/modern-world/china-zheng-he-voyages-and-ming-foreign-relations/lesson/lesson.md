@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from 1405 to 1433 Zhen
 
 from 1405 to 1433 Zheng He's fleets — 200 ships, 27,000 men, treasure ships carrying a thousand — visit 30 countries to East Africa and the Red Sea, signalling by flags by day and lanterns by night, trading silk and porcelain and bringing 16 nations' envoys home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Zheng He and Columbus compared
 
 pupils set Zheng He's great treasure fleets of 1405 beside Columbus's three small ships of 1492 and ask why the two voyages led to such different worlds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Coro, first capital of
 
 Coro, first capital of the province of Venezuela, answers "present!" again in the independence struggles and carries both pasts into the twentieth century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

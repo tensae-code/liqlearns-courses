@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Reformed Church an
 
 The Reformed Church and its schools spread for 138 years, the first printing press arrives in 1739, and Dutch words for cupboards and lawyers, new foods and the Burgher community remain in the island's life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

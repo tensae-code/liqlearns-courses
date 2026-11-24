@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Trongsa Ponlop who
 
 the Trongsa Ponlop who mediates between the Younghusband expedition and Tibet wins the 7 September 1904 treaty at the Potala and a British knighthood (KCIE) the next year, and uses John Claude White's visit to open talk of modern development (Chapter Five, Becoming of Sir Ugyen Wangchuck)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

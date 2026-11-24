@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Arab armies end Sasani
 
 Arab armies end Sasanian rule, but Iran converts gradually and on its own terms, preparing a civilisation that will be both Islamic and Iranian (Islam in Iran; the grounds for the rise of Iranian-Islamic civilisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The entry of Islam into Iran
 
 Sasanian Iran, exhausted and divided, falls to Arab armies battle by battle, and a new era opens (The entry of Islam into Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

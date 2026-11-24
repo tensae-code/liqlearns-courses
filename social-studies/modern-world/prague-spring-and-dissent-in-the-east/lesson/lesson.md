@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Dubček's dream meets 
 
 Dubček's dream meets Moscow's iron fist (Document) in Prague; Tlatelolco's massacre (Storiografia) and China's Cultural Revolution (Sabattini–Santangelo) show 1968 was a world event, not a Western one
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

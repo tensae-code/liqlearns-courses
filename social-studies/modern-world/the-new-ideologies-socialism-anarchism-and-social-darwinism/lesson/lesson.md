@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Marxism organises into
 
 Marxism organises into parties and internationals, anarchism and syndicalism compete for the workers, and social Darwinism (Document: its 'true father') lends racism a scientific mask
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

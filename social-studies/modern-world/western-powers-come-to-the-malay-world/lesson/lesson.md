@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The West comes to a pr
 
 The book first shows a prosperous country — strategic ports trading its minerals, fertile soil and sea produce to the world, with a flourishing intellectual life — then the pressure builds: Britain's Industrial Revolution (and by the 1870s Germany's and France's) demands markets and raw materials, the Suez Canal and the steamship shorten the road east, and the Western powers race one another with different strategies of trade, treaty and force (Bab 1 Kedatangan Kuasa Barat: why the West came)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

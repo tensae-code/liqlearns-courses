@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A dry land is made fer
 
 A dry land is made fertile by one linked system — dam, tank, canal, field — and when invasions and neglect break the system, the whole civilisation drains away with its water
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

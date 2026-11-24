@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Under French coloniali
 
 Hassan asks why the population keeps growing and the teacher tells the story: under French colonialism Syria's people were no more than three million, suffering poverty, disease and few hospitals, and many of its youths were martyred defending the homeland; after independence from French colonialism in 1946 the state spread schools and hospitals, deaths fell, and the people grew past 23 million by 2010.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

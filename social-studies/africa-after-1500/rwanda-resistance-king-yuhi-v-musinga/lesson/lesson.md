@@ -8,7 +8,7 @@ King Yuhi V Musinga refuses Belgian direct rule and the loss of his power; the B
 
 King Yuhi V Musinga refuses Belgian direct rule and the loss of his power. Where other rulers were made to serve the coloniser, Rwanda's king says no — and that refusal is the resistance this lesson remembers.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Exile — Kamembe, then Moba, 1931
 

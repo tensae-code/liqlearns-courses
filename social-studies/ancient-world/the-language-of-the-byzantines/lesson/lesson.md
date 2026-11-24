@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the empire speaks Gree
 
 the empire speaks Greek that slowly changes from the classics toward the language the children themselves speak
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 42 Language exercises
 
 pupils compare spoken Greek today with written Greek then — their own tongue as a source
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

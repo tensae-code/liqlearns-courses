@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: republic, coups and re
 
 republic, coups and restoration follow each other until Metaxas, with the king's consent, imposes dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Greece in the interwar period: the political situation
 
 republic and monarchy alternate amid coups until the 1936 dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Greece in the critical decade 1930–1940
 
 default, the failed 1935 Venizelist coup, the restored king and Metaxas's 4th of August dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Theme 2 E: Modernisation and interventions (1923–1936)
 
 after the Asia Minor disaster the parties govern a republic through coups and restorations until Metaxas ends party rule in 1936
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

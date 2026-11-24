@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: from bamboo slips and 
 
 from bamboo slips and movable type to the museum and the archive — what survives depends on what can carry it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

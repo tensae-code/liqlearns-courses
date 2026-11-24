@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Đại Cổ Việt of 
 
 Đại Cổ Việt of the Viet, the Mon kingdoms Sri Ksetra and Dvaravati, Burmese Pagan, Khmer Chenla, Malay Srivijaya — the "Golden Island" of gold, silver and glass — and Indonesian Kalinga take shape
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 12, their economies: rice kingdoms and the spice route
 
 mainland kingdoms farm while Srivijaya, Kalinga and Mataram live by the sea; an Arab geographer's praise of Srivijaya's aromatics and a 10th-century price — a measure of turmeric for a horse, of ginger for a cow — show the pull of Southeast Asian spice
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

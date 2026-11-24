@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Khan Kubrat unites the
 
 Khan Kubrat unites the Bulgars north of the Caucasus in Old Great Bulgaria (Lesson 5: The Bulgars and Old Great Bulgaria)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

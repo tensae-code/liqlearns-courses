@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Hasdeu writes history 
 
 Hasdeu writes history and drama, Cantacuzino founds Romanian immunology and the anti-cholera vaccine, Aurel Vlaicu builds his glider in 1909, and the Romanian press multiplies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

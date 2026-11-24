@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Puranas and the gr
 
 The Puranas retell gods, creation and kings in simple Sanskrit verse meant to be heard by everyone — women and shudras included, though barred from the Vedas; the Mahabharata's cousin-war for Hastinapura (with the Gita inside it) and the Ramayana's exiled Rama, abducted Sita and victorious return are written down in the forms we know about 1500 years ago.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

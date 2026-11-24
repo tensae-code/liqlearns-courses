@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From Muhammad Ali's pr
 
 Muhammad Ali's campaigns made the Sudan an Egyptian province, and its misrule raised the Mahdist revolution of 1881 under Muhammad Ahmad al-Mahdi; Britain returned with Kitchener's campaign and the Condominium agreement of 1899 made Britain the real ruler, sealing the south off by the closed-districts law; resistance ran from 1903 to the Military College students of 1924 and the parties, until the 1953 self-government agreement and independence in 1956 — and the lesson closes with the coups, the civil wars and the South's secession in 2011.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

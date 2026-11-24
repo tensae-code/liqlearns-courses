@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Elected Staten members
 
 Elected Staten members represent the Surinamese people while the Dutch-appointed governor guards Dutch interests; their conflicts drive the demand to be boss in one's own house (Baas in eigen huis!)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

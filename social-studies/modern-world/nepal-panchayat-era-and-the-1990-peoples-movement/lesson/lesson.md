@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mahendra's 2017 BS cou
 
 Mahendra's 2017 BS coup bans parties and installs the partyless Panchayat for thirty years; the lesson follows the long resistance — referendum of 2036 BS, movements and repression — up to the 2046 BS People's Movement that restores multiparty democracy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

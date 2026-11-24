@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Abylai holds the khana
 
 Abylai holds the khanate together by balancing Russia and China, freeing captives and refusing to be either empire's pawn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §12 Abylai Khan's rise as a strong political figure
 
 the captive who charmed the Dzhungar court returns to become the khanate's central figure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §13 Abylai Khan and the strengthening of the united Kazakh Khanate
 
 Abylai is proclaimed khan of all three zhuzes and rebuilds one state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §14 Abylai Khan's domestic and foreign policy
 
 Abylai balances Russia and Qing China, trades with both, submits to neither fully
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §2.4 What was Abylai Khan's role in keeping an independent Kazakh state alive?
 
 Abylai's balancing act is judged as statecraft under two empires
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

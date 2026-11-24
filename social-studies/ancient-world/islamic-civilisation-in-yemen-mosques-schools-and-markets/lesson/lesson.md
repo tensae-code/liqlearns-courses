@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yemen builds in three 
 
 Yemen builds in three kinds — civil palaces and baths, mountain castles and walls, mosques and schools — in brick on the coast, stone in the mountains, mud at Saada and Hadramawt; its mosques become schools, its "madrasa" appears in the 4th Hijri century, its ports Aden, al-Shihr and al-Makha bind East and West through Bab el-Mandeb, and its tribesmen and women carry the society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

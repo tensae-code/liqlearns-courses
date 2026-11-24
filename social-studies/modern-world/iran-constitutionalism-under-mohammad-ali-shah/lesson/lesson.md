@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the new shah shells th
 
 the new shah shells the parliament he inherited; constitutionalists fight a civil war and retake Tehran — the constitution survives its king (The Constitutional period in the era of Mohammad Ali Shah)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

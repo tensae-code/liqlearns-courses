@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Plekhanov's Marxists, 
 
 Plekhanov's Marxists, the RSDLP and Lenin's Bolsheviks organise while the tsar concedes nothing; on 9 January 1905 troops fire on workers marching peacefully to petition him, and the revolution that follows forces the Duma into being — Jadidism is named as Central Asia's own answer in the same pages
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

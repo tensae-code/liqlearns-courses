@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: the linguist who refor
 
 the linguist who reformed the Kazakh alphabet and edited its first newspaper is honoured in life and destroyed by the regime he outlived
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§39–40 A. Baitursynov's contribution to the development of Kazakh linguistics
 
 the alphabet reformer gives Kazakh a scientific grammar — and is shot as an "enemy of the people"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §22 A. Baitursynuly — "teacher of the nation"
 
 the alphabet reformer honoured in life, destroyed by the regime
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §1.1 Why is A. Baitursynov called "teacher of the nation"?
 
 the alphabet reformer and newspaper editor earns his title
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §4.1 The Baitursynov inquiries of Section 4 "Kazakhstan's culture, education and science"
 
 the teacher of the nation is revisited as scholar and alphabet-maker
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

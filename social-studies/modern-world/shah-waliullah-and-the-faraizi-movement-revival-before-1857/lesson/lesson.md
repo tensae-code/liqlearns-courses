@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: As Mughal power fades,
 
 As Mughal power fades, renewal comes from scholars — Shah Waliullah (1703–1762) translates the Quran into Persian and Urdu and writes fifty-one books to revive Muslim society; in Bengal, Haji Shariatullah's Faraizi Movement (1781–1840) calls peasants back to the faraiz, the core duties of the faith.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

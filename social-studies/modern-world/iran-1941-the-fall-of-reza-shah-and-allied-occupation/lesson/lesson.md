@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Allies demand the 
 
 the Allies demand the Germans leave; Reza Shah refuses, Britain and the USSR invade in 1941, and the shah is shipped into exile (The fall of Reza Shah)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The occupation of Iran by the Allies and its effects
 
 occupied Iran becomes the Persian Corridor to the USSR while famine, inflation and foreign armies press on ordinary people (The occupation of Iran by the Allies and its effects)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

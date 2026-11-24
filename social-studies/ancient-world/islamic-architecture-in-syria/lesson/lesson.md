@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Syria's builders blend
 
 Arab builders blend simplicity and splendour, learning from every land their state embraced and then surpassing it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Castles, the Umayyad Mosque and the palaces
 
 Castles built for war in places enemies could hardly reach — Salah al-Din's castle, freed from the Franks by the hero Salah al-Din, Aleppo's citadel, the Krak and al-Marqab — the Umayyad Mosque in Damascus built by the caliph al-Walid ibn Abd al-Malik, the church of St Simeon near Aleppo, and the palaces: al-Azem in Damascus, Harun al-Rashid's in Raqqa, al-Hayr East and West near Palmyra.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

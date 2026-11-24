@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Two Tanzanian strongme
 
 Two Tanzanian strongmen build states on the trade routes — Mirambo's power leaks away to local chiefs after him, and Nyungu ya Mawe, "pot of stones", rules from Kiwele
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Nyamwezi chiefdoms
 
 The Ntemi are supreme rulers who lead prayers, make sacrifices and keep the royal drum; Chief Mirambo is named among their famous leaders
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The rise of Military States
 
 Strong leadership and new military tactics raise military states in East Africa, the Nyamwezi foremost in the lesson's tasks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

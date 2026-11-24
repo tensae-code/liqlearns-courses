@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Britain's Balfour prom
 
 Britain's Balfour promise of 1917 — "a promise from one who does not own, to one who does not deserve" — is carried out through the San Remo mandate of 1920, and the lesson follows the question through the 1948 war and the June 1967 defeat.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chapter 7: Egypt and the issues of the contemporary Arab world — the Palestine conferences
 
 The Arab states learn to act together first over Palestine — the Bludan conference of 1937 gathers delegates from every Arab land against the Zionist project, and London's Round Table of 1939 seats the independent Arab states as parties to the question.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

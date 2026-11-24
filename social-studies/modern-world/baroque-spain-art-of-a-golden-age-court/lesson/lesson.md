@@ -16,7 +16,7 @@ The court fills its palaces and monasteries with grave, intense painting.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a grave, intense Spanish Baroque painting in a palace or monastery setting — the student points to the pride and the melancholy in it.]
+In your mind's eye: a grave, intense Spanish Baroque painting in a palace or monastery setting. The student points to the pride and the melancholy in it.
 
 ## Sub lesson 3 — Pride and melancholy
 

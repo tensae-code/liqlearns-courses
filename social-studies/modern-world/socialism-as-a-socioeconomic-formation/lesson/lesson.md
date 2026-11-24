@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: born in Russia at the 
 
 born in Russia at the start of the 20th century and spread after the Second World War, socialism makes the means of production society's property under collective planning — and is replanned for the 21st century against poverty, hunger and exploitation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

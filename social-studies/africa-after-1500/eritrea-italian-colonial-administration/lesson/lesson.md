@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: italy ran Eritrea for the c
 
 Separate schools for Eritrean and Italian children, Fascist propaganda posters, forced labour on roads and the great Massawa–Asmara cableway — a colony run for the coloniser.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Italian colonial administration as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Italian colonial administration as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Italian colonial administration and the Racial Laws
 

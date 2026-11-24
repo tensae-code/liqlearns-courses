@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the first attempt at a
 
 the first attempt at a world parliament keeps small peace but cannot stop Japan, Italy or Germany
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2, Lessons 19–20: the League of Nations
 
 the world's first league for peace meets in Geneva without the United States in it, settles small disputes and fails before the big aggressors
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

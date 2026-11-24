@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Buganda, the strongest
 
 Forty totemic clans under one Kabaka build the strongest state on Lake Victoria. No one may marry inside their own or their mother's clan — except the king.
 
-[Picture slot — a picture of the Kabaka's court on Lake Victoria, with clan elders gathered and Arab traders arriving with cloth and guns — the student names the clans, the Kabaka and what the traders brought.]
+In your mind's eye: the Kabaka's court on Lake Victoria, with clan elders gathered and Arab traders arriving with cloth and guns. Name the clans, the Kabaka and what the traders brought.
 
 ## Sub lesson 2 — The Zanzibari Arabs reach Buganda
 

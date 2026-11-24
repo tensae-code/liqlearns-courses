@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Strand, Ruttmann and V
 
 Strand, Ruttmann and Vertov film Manhattan, Berlin and a man with a movie camera as visual music, the city itself becoming the hero.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

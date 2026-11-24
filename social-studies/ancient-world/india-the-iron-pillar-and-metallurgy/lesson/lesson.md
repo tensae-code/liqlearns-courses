@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Delhi's Mehrauli iron 
 
 Delhi's Mehrauli iron pillar — 7.2 m, over 3 tonnes, raised about 1500 years ago for a Gupta king Chandra — has not rusted in fifteen centuries, a standing riddle from the heirs of Harappan bronze-masters.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

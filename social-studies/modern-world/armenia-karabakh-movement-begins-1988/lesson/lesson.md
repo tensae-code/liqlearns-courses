@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: on 20 February 1988 Ka
 
 on 20 February 1988 Karabakh's soviet votes to join Armenia, Yerevan fills with a million marchers, and the Sumgait pogrom a week later turns a petition into a national movement
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 4: the Karabakh movement; winning independence
 
 the movement of 1988, the earthquake and the 1991 referendum are taught as the hinge between Soviet Armenia and the third republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

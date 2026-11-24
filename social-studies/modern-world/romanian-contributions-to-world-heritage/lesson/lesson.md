@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Rădulescu-Motru philo
 
 Rădulescu-Motru philosophises the Romanian people's psychology, Pârvan, Arghezi and Stănescu write, and Ion Mincu's neo-Romanian style and Horia Creangă's modernism build
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

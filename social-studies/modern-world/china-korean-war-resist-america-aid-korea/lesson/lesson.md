@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mao argues 'if we let 
 
 Mao argues 'if we let the enemy press to the Yalu, not fighting harms us more'; on the night of 19 October 1950 the Volunteers cross secretly, win their first battle on 25 October, and in five campaigns drive MacArthur — who promised his men home by Christmas — back to the 38th parallel
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

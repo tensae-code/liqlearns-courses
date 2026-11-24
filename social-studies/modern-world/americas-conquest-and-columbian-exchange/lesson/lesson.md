@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the two worlds swap th
 
 the two worlds swap their pantries and their plagues — wheat, horses and cattle sail west; potatoes, maize, tomatoes, cacao and tobacco sail east; and the book names the frame that justified it all: Eurocentrism, the belief that Europe was the world's centre and measure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Society, religion, lit
 
 Society, religion, literature and the arts of the Anuradhapura centuries, each written by a different professor — how people lived inside the history the kings made
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

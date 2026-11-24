@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In Gabon, houses, trad
 
 The traditional house of planks and beaten earth gives way, in town, to villas and apartment blocks (Leçon 39 L'évolution des modes de vie (1): l'habitat)
 
-[Picture slot — a picture of a traditional Gabonese house of planks and beaten earth beside a modern town villa, with a canoe and a road vehicle — the student says one thing that changed]
+In your mind's eye: a traditional Gabonese house of planks and beaten earth beside a modern town villa, with a canoe and a road vehicle. Say one thing that changed.
 
 ## Sub lesson 2 — Trade changes — from barter to money and markets
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: disease, encomienda an
 
 disease, encomienda and the mines empty the Indies; Las Casas' Brevissima (in the Documents) accuses Spain before Europe, and the colonial system takes shape
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La conquista del Nuovo Mondo; Personaggi: Montezuma; L'impero coloniale spagnolo; L'impero coloniale portoghese; La politica delle conversioni
 
 Cortés meets Montezuma and an empire falls to steel, horses and smallpox; Spain and Portugal build colonial empires and argue over the souls and rights of the conquered
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

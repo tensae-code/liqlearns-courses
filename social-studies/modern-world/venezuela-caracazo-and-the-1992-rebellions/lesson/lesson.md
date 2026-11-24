@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Austerity sparks the C
 
 Austerity sparks the Caracazo explosion, and the economic wreckage behind the 1992 military rebellions is laid out as the old model's end
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — A conflictive period: Pérez's second Presidency
 
 Austerity, the Caracazo and two 1992 military rebellions break the old system's calm in Pérez's second term
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Second governments of Pérez and Caldera (1989–1999)
 
 The Caracazo, two coup attempts, a president impeached and Caldera's return close the Punto Fijo age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

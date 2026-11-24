@@ -10,7 +10,7 @@ Turkey's Grade 9 book turns from the Umayyads to their successors, the Abbasids,
 
 The caliphs draw Turkish soldiers from the steppe into their service — guards and troops valued for the very skills the grassland taught them. Soldier by soldier, commander by commander, Turks rise inside the Abbasid state. The book's beat is pointed: the empire that will convert the Turks first hires them — the meeting of steppe and Islam begins not with a battle, but with a payroll.
 
-[Picture slot — a picture of Baghdad in its glory — the round city's walls and markets, Turkish guards in the caliph's service at the palace gate — the student points to the guards and says where they came from and what they are doing in Baghdad.]
+In your mind's eye: baghdad in its glory — the round city's walls and markets, Turkish guards in the caliph's service at the palace gate. The student points to the guards and says where they came from and what they are doing in Baghdad.
 
 ## Say it to your companion
 

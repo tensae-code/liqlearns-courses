@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Plantation-born Jan Er
 
 Plantation-born Jan Ernst, who hated school but loved screws and wire, works in his father's workshop, sails to North America and invents the shoe-lasting machine that changes shoe factories worldwide (Een gewone jongen wordt een uitvinder)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

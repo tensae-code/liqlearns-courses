@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: before letters there a
 
 before letters there are signs, pictures and marks — humans invent ways to send a message across distance and time
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

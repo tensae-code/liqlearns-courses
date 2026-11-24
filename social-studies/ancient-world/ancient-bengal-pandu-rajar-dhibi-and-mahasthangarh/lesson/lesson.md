@@ -8,7 +8,7 @@ Under two grassy mounds in Bengal lie the beginnings of its cities — and a gra
 
 Bangladesh's Grade 6 book proves Bengal's antiquity with two places. Pandu Rajar Dhibi is a copper-and-stone-age mound — a settlement from the age when people worked copper alongside stone. Mahasthangarh, the ancient Pundranagar on the Karatoya river, is bigger: a walled city holding Bengal's oldest Brahmi stone inscription, from about 300 BCE. Together the two sites show the book's story in the ground itself: villages growing, over centuries, into Bengal's first city.
 
-[Picture slot — a picture of the walled ruins of Mahasthangarh on the Karatoya river — grass-covered ramparts and an inscribed stone — the student points to the wall and says why a wall makes a settlement a city.]
+In your mind's eye: the walled ruins of Mahasthangarh on the Karatoya river — grass-covered ramparts and an inscribed stone. The student points to the wall and says why a wall makes a settlement a city.
 
 ## Sub lesson 2 — The agricultural economy — rice, inscriptions and copper-plate grants
 

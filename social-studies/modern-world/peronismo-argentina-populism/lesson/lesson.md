@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Argentina's cereal-and
 
 Argentina's cereal-and-beef oligarchy lost power in the early 1900s to bourgeoisie and proletariat; nationalist economics and labour laws followed, and in 1946 Perón reached the presidency
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

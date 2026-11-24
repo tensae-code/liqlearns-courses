@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: herding life goes on u
 
 herding life goes on under the khans; Erdene Zuu rises on Karakorum's ruins, Zanabazar casts his Buddhas, and in 1662 Sagan Setsen writes the Erdeniin Tovch chronicle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. I.4: Life of the Mongols in the 18th–early 20th c.
 
 taxes, corvée and debt to Chinese firms grind the herders while the banner princes and monasteries hold the land and herds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. I.5: Mongolian culture in the 18th–early 20th c.
 
 chronicles, medicine, printing and temple art keep a national culture alive under foreign rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 4.3 Culture and economy (14th–17th c.)
 
 Buddhism's second coming, Altan Khan and the Dalai Lama title, Erdene Zuu's founding — faith remakes Mongol culture before the Qing remakes its politics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. I.4 Mongolian society and culture in the Manchu domination era
 
 khoshuu banners freeze herders to their lords' land; alba taxes, Chinese merchant debt and great monasteries reshape life, while learning, law codes and chronicles quietly flourish
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

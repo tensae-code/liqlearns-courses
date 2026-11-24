@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: in the 4th century the Syri
 
 Aksumite coins change their symbols as Christianity comes in the 4th century through Frumentius, and the first Muslims reach Dahlak in 610–614 CE.
 
-[Picture slot — a picture of the key place or moment of Ancient Eritrea — Christianity and Geez writing as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Ancient Eritrea — Christianity and Geez writing as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Religion, language and writing
 

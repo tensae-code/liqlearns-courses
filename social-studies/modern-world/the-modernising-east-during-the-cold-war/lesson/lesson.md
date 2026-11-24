@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Japan, China and India
 
 Japan, China and India choose different roads out of poverty while the superpowers court them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 3, Lessons 42–45: the countries of the East in the Cold War years — the modernising East
 
 Japan rebuilds into an economic giant, China turns communist then reforms, and Asian states modernise while the superpowers court and fight over them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,43 +8,43 @@ Before you read on, hold this lesson's one thing in mind: young Theseus lifts th
 
 young Theseus lifts the rock, takes his father Aegeus's sword and sandals, and chooses the dangerous land road to Athens over the safe sea
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 3, ch. 2 The exploits of Theseus / Theseus kills the Minotaur
 
 Theseus clears the road of robbers, then sails to Crete, enters the Labyrinth with Ariadne's thread and kills the Minotaur, freeing Athens from its tribute of youths
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 3, ch. 3 Theseus returns to Athens
 
 the returning ship forgets to change its black sail, Aegeus throws himself into the sea that takes his name, and Theseus becomes king
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit 3, reading: Daedalus and Icarus
 
 imprisoned Daedalus builds wings of feathers and wax, Icarus flies too near the sun despite the warning, and falls into the sea
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Unit 3, ch. 1 Theseus of Troezen exercises
 
 reading Aethra's and Theseus's thoughts in the picture at the lifting of the rock
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Unit 3, ch. 2 Theseus kills the Minotaur exercises
 
 pupils draw Theseus's route through the Labyrinth — the thread made into a mapping task
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Unit 3, ch. 3 Return to Athens exercises
 
 class discussion on human effort and forgetfulness around the black sail and Aegeus's death
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

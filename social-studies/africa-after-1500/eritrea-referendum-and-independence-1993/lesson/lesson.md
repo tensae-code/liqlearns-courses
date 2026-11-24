@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: in April 1993 Eritreans vot
 
 In April 1993 Eritreans vote under international observation and 99.8 percent choose independence, declared on 24 May 1993.
 
-[Picture slot — a picture of the key place or moment of Eritrea — referendum and independence, 1993 as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — referendum and independence, 1993 as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Referendum and independence
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after the 1945 referen
 
 after the 1945 referendum confirms independence and China recognises it, Mongolia's long-blocked UN application finally succeeds in 1961
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. III.6 (second part) Independence confirmed, 1945
 
 Yalta's status-quo promise, the 20 October 1945 referendum (98.4% for independence), and China's recognition in 1946 make Mongolia's sovereignty de jure at last
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

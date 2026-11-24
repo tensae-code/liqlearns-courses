@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in the first family on
 
 in the first family on earth the two brothers offer sacrifices, Habil the shepherd his best animal and Qabil the farmer his crops, fire takes Habil's offering and not Qabil's — not for the gift but for the giver's lack of God-consciousness — envy turns to a threat, Habil refuses to raise his hand, Qabil kills his brother in his sleep, and a crow scratching the earth teaches the first murderer how to bury a body
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

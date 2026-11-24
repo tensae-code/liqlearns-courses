@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Punta del Este cha
 
 the Punta del Este charter folds dictatorial Nicaragua into a US counter-revolutionary strategy; the Alliance brings Common Market integration, TIAR and CONDECA armies against the new FSLN
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Sistema de Integración Centroamericana
 
 the Central American Common Market is presented as a facade of development inside the Alliance for Progress, a US strategy to stop the Cuban example, complete with CONDECA armies trained by marines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

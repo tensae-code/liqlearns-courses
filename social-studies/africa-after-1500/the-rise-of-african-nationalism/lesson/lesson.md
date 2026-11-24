@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The ex-servicemen of t
 
 The ex-servicemen of the Second World War come home having seen that "even the white man cries and can die"; Ethiopia's defeat of Italy in 1935–41 inspires the continent, and the OAU backs the last liberations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

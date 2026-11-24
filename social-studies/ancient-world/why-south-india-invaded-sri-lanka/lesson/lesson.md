@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Some came to snatch a 
 
 Some came to snatch a throne (Sena-Guttika, Ellalan), some to plunder (Sri Mara Sri Vallabha), and some to plant supremacy (Parantaka, before whom Udaya IV fled)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

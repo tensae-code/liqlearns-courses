@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: five powers now rule E
 
 five powers now rule Europe's balance; Joseph II's tolerance and serfdom patents are rolled back by Leopold II, Peter I and Catherine II build Russia's might, and Poland-Lithuania is carved up in three partitions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §14: Absolutismul luminat în Europa în secolul al XVIII-lea
 
 Joseph II issues the Patent abolishing serfdom, Catherine II preaches citizens' equality under the same laws, and Peter I's reforms are the case study of modernisation from the throne
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

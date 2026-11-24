@@ -16,7 +16,7 @@ Highland cottages become a national style, and stained glass and drama fuse in W
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Zakopane highland cottage in the national style and a Wyspiański stained-glass vision — the student points to a country existing in culture first.]
+In your mind's eye: a Zakopane highland cottage in the national style and a Wyspiański stained-glass vision. The student points to a country existing in culture first.
 
 ## Sub lesson 3 — A country in culture before the map
 

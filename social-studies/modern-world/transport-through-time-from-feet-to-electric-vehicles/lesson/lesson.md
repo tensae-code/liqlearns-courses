@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: people walk, ride hors
 
 people walk, ride horses and camels, pull carts, then drive fuel cars, trains, ships and planes, and now electric vehicles
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 4 Lesson 1: transport development strand
 
 developing transport solves the distance problem between countries and opens and lights Jordan's roads
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

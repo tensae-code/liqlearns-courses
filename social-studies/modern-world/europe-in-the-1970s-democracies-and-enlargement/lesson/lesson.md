@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Greece, Spain and Port
 
 Greece, Spain and Portugal exit dictatorship — Panagulis' fight for Greek democracy is the chapter's document — and knock on the Community's door; enlargement becomes democratisation's reward
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 12 §§4–6 I negoziati sul disarmo; Mutamenti politici in Europa occidentale; Integrazione europea e nuove democrazie
 
 disarmament talks run beside democratisation — Greece, Spain and Portugal join the West's club and the Community enlarges to receive them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

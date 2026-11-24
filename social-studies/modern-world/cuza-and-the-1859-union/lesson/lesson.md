@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Cuza is elected in bot
 
 Cuza is elected in both Moldavia and Wallachia in 1859 and unites them into one state — but Bessarabia, taken by Russia in 1812, is left outside
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §32: Unirea Principatelor Române
 
 the ad-hoc assemblies show Europe the Romanians' will to unite; the sultan dissolves them by firman, the double election defeats the firman, and even Bessarabia's nobles draft an address on the union
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

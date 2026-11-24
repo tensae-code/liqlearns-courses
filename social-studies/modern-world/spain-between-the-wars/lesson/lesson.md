@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Spain swings from mona
 
 Spain swings from monarchy to republic and then into a civil war that becomes Europe's rehearsal for 1939
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §24 Spain in the interwar period
 
 monarchy, republic, civil war — Spain becomes Europe's rehearsal for 1939
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §7.4 (Spain part) How did the "Popular Front" resist in Spain?
 
 Spain's Popular Front victory triggers the generals' revolt and civil war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

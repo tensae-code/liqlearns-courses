@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: vase-painters grow ric
 
 vase-painters grow rich painting myth and daily life, children included, as black-figure gives way to red-figure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 8 Archaic art exercises
 
 picture study follows archaic painters from myth scenes to daily life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. D10 Art (Archaic)
 
 kouroi smile, temples rise in stone, and vase-painting moves from pattern to people
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

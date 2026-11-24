@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Siddhartha Gautama lef
 
 Siddhartha Gautama, a kshatriya of the small Sakya gana, leaves home comfort, debates other thinkers for years, then meditates under a peepal tree at Bodh Gaya until enlightenment makes him the Buddha; he teaches first at Sarnath and walks and teaches until his death at Kusinara.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

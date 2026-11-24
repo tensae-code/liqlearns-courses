@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From 1948 the MCP's ar
 
 The MCP's delegates attend the Calcutta conferences of February–March 1948 and the party turns to armed struggle; the state answers with Emergency laws, national registration, the Briggs Plan's resettlement, amnesty offers, curfews, psychological warfare and the Baling Talks, and raises the Senoi Praaq (1956) — Orang Asli Senoi, Semai and Temuan trackers, the "Silent Killers" — to hunt in the deep jungle (Bab 6: the communist threat and the Emergency)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

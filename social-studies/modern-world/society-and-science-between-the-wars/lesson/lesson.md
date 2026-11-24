@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: cars, radio and Lindbe
 
 cars, radio and Lindbergh's flight (Focus boxes) remake middle-class life while science faces its own dilemmas — progress's image cracks before the politics does
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

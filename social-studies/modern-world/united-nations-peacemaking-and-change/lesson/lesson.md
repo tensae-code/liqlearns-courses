@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Six decades of peaceke
 
 Six decades of peacekeeping and observer missions, and since the 1990s wars ended by UN mediation — Sierra Leone, Liberia, Burundi, Sudan's north-south conflict and Nepal named as the proof
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

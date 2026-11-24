@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: on the homeland's own 
 
 on the homeland's own soil, settlements like Sapallitepa and Jarkutan grow toward civilisation as iron spreads — the world story measured against home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

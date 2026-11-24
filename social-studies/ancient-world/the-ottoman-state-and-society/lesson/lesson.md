@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Sultan, timars and mil
 
 Sultan, timars and millets — how the Ottoman state organised the lands it ruled (Lessons 39–40: The structure of the Ottoman state; economic and social relations in the Ottoman Empire)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 23–24: Economic and social life; Bulgarian society in the 15th–17th centuries
 
 Guilds, markets and village communes organise life under the timar system (Lessons 23–24: Economic and social life; Bulgarian society in the 15th–17th centuries)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

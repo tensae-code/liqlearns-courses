@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Phanariotes fall, 
 
 the Phanariotes fall, native princes return, and the Organic Regulations of 1831–32 — confirmed by Russia only in 1833 — open the road to the modern Romanian state after Adrianople (1829) restores the Danube fortresses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §17: Principatele Române (1822–1848). Suzeranitatea otomană şi protectoratul rusesc
 
 between suzerainty and protectorate, General Kiseleff presides over the divans and backs the Organic Regulations to win the boyars and strengthen Russia's hold
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

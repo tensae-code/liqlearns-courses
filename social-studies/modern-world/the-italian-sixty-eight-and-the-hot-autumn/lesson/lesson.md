@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: students occupy, then 
 
 students occupy, then workers' Hot Autumn wins the Statute of Workers; Flores' Storiografia links the season to secularisation — Italy's 1968 lasts a decade, not a spring
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

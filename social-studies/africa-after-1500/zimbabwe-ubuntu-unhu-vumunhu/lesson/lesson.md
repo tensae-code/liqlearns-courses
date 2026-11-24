@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Ubuntu — Unhu in Sho
 
 The heritage topics close by naming the value that carries them. A person is a person through other people — so respect, sharing and care for elders stop being extras and become the rules the community lives by.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The attributes of unhu (Grade 2)
 
 A year on, unhu is unpacked into its attributes. The value stops being one big word and becomes a checklist a child can use: how a good person treats others, item by item, day by day.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

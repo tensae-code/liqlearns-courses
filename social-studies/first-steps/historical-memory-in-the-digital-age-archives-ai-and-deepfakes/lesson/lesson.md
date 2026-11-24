@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: manuscripts and French
 
 manuscripts and French-Revolution newspapers go online, VR walks you through Pompeii and Machu Picchu, AI translates damaged texts — and also invents facts and fake images; paper survives centuries while unmaintained data rots in years, Chernobyl teaches why hidden information kills, Fukushima answers faster because history was remembered, and multiperspectivity becomes the citizen's core skill
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: French ships and treat
 
 French ships and treaties turn into a permanent settlement on the estuary (Leçon 29 Les débuts de l'installation française au Gabon)
 
-[Picture slot — a picture of French ships on the Gabon estuary and the first settlement that becomes Libreville — the student says how Libreville began]
+In your mind's eye: french ships on the Gabon estuary and the first settlement that becomes Libreville. Say how Libreville began.
 
 ## Sub lesson 2 — The story of Libreville
 

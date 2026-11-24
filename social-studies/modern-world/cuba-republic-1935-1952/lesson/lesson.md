@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: the 1940 Constitution 
 
 the 1940 Constitution promises rights the authentic and liberal governments betray amid gangsterismo and corruption, ending in Batista's 1952 coup
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 7.1–7.5 Permanent crisis of Cuban society; change in repressive policy; crisis of bourgeois reformism; establishment of a military dictatorship; internal policy of the dictatorship
 
 the 1940 Constitution's promises rot into gangsterismo and corruption until Batista's 1952 coup ends the constitutional game
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 4.2 Stabilisation, reformism and crisis (1940–1952)
 
 the 1940 Constitution, Auténtico corruption and the Ortodoxo hope rise and rot together toward 1952
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Unit 4 suggestions: Cuban society 1935–1952, readjustments of the neocolonial domination model
 
 the unit is taught as a model adjusting to survive — constitution, parties, then barracks — until it cannot
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

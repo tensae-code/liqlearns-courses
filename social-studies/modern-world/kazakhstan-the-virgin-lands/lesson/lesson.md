@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: millions rush to ploug
 
 millions rush to plough the steppe; the grain gamble remakes the republic's people and soil
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §11. Economic, ecological and demographic consequences of the virgin-lands development
 
 dust, erosion and a shifted ethnic balance — the bill for the ploughed steppe arrives
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §5 Kazakhstan in the era of the virgin-lands development
 
 the ploughing of the steppe remakes the republic's people and soil
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

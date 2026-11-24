@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: English settlers reach
 
 English settlers reach Eleuthera in 1648 and bring enslaved Africans to work plantations; much later Africans freed on the way to Cuba choose to settle in The Bahamas instead, carrying Junkanoo, asue, cooking ways and the Anansi and Brer Bookie and Rabbie stories with them (Bahamian History: Eleuthera settlers, enslaved Africans and the freed Africans who chose The Bahamas)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lucayans and Eleutheran Adventurers: the Adventurers settle Eleuthera and New Providence
 
 the Eleutheran Adventurers name Eleuthera, struggle to farm, trade wood and salvage wrecks; Captain Sayle moves on to the island that becomes New Providence, and settlements grow on both islands (Lucayans and Eleutheran Adventurers: the Adventurers settle Eleuthera and New Providence)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Slavery: how enslaved and free Africans reached The Bahamas
 
 Bahamian slaves arrive by different routes — direct from Africa, with the Loyalists from America, freed in America and settling, or freed by shipwreck — and bring new peoples and traditions with them (Slavery: how enslaved and free Africans reached The Bahamas)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Early Settlers: Adventurers, Loyalists and the enslaved
 
 the Eleutheran Adventurers settle Eleuthera and Captain Sayle moves to New Providence; 1700s Loyalists plant cotton on the Family Islands with enslaved Africans, who win freedom in 1834 — emancipation (Early Settlers: Adventurers, Loyalists and the enslaved)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

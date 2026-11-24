@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: The peninsula on the e
 
 The peninsula on the eve of Islam — its peoples, states and faiths — is the doorway into the next unit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 1: The state of the Arabian Peninsula before Islam
 
 Arabia's peoples, states and beliefs on the eve of the Prophet
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

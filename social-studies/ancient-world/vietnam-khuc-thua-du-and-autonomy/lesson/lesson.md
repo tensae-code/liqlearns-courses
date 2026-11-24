@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as the Tang fade, Khú
 
 as the Tang fade, Khúc Thừa Dụ takes Đại La in 905; his son Khúc Hạo reforms taxes, registers and corvée under the motto of a lenient, simple government; in 931 Dương Đình Nghệ drives out the Southern Han and keeps the autonomy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

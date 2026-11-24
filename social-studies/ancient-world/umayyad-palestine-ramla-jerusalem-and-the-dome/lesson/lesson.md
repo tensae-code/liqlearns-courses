@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Muawiya restores Jerus
 
 Muawiya restores Jerusalem's walls, the Umayyads rebuild Ascalon, expand Caesarea and Acre, and raise the Dome of the Rock; Sulayman ibn Abd al-Malik founds Ramla, the only city Muslims built from nothing in Palestine, and Jerusalem's wall gets its last rebuilding under the Ottoman sultan (Unit 2 Lesson 3: architectural achievements in Palestine)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

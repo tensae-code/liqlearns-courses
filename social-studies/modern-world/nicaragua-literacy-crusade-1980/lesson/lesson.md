@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the 1980 literacy crus
 
 the 1980 literacy crusade "Heroes and Martyrs for the Liberation of Nicaragua" teaches the country to read, closing officially 23 August
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Logros sociales: alfabetización y salud
 
 adult education reaches 140,000 newly literate people a year, Río San Juan is declared free of illiteracy in 1987 winning the Krupskaya medal, and the school milk programme feeds 200,000 children
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Logros de la Revolución: la Cruzada Nacional de Alfabetización
 
 over 100,000 mostly young literacy volunteers cut illiteracy from 50.3 percent to 12.9 percent in five months of 1980, teaching also in the Caribbean coast's own languages
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

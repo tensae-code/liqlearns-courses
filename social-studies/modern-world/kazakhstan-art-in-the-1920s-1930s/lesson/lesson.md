@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Kasteev's canvases, th
 
 Kasteev's canvases, the first Kazakh theatre and opera give the republic a professional art of its own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §49 The art of Soviet Kazakhstan in the 1920s–30s
 
 Kasteev paints the steppe's new life; theatre and cinema are born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§27–28 The development of Kazakh art in the 1920s–30s
 
 Kasteev, the first theatre and opera give the republic its own professional art
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§5.2–5.3 The fine-art and Kazakh art inquiries
 
 painting, theatre and opera give the republic its own professional art
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

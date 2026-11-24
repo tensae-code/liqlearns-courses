@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: India's first farmers 
 
 Surplus grain forces invention — clay pots, woven baskets, storage pits; tended animals become a living store of milk and meat; burnt grain and animal bones are how scientists identify the first farming sites.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Towards a settled life
 
 At Burzahom in Kashmir people dig pit-houses with steps and cook indoors or out by the weather; polished Neolithic tools, mortars for grinding, cooking pots and woven cotton cloth mark the settled turn.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — A closer look — Living and dying in Mehrgarh
 
 In one of the earliest villages, by the Bolan Pass route to Iran, square houses store the barley and wheat people first grew here; a dead person is buried with goats — food, the mourners believed, for the next world.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

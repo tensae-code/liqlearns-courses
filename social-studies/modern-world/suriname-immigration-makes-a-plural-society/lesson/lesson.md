@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: From a plantation colo
 
 From a plantation colony in 1651 the population is remade group by group — including Portuguese Jews arriving to empty promises of houses, land and tools — until Suriname holds many peoples (Onze samenleving verandert)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Hoe wij hier ook samenkwamen
 
 Taking its title from the anthem, the lesson recounts how each population group came to Suriname, building one multicultural society (Hoe wij hier ook samenkwamen)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ons land, een smeltkroes van culturen
 
 Suriname as melting pot: cultural exchange, respect and national unity across the groups, voiced by poet Robin Ravales (Dobru) (Ons land, een smeltkroes van culturen)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

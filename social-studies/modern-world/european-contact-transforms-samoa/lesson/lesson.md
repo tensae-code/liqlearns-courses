@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: consuls arrive in the 
 
 consuls arrive in the 1840s, settlers build their own courts and administrations, rival Malietoa governments fight for a kingship the foreigners feed with guns — and customary land is sold to pay for the weapons; Apia grows into a port town of hotels and shops while Godeffroy's plantations export copra to Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

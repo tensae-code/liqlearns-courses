@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: phoenician traders settled 
 
 Phoenician traders settle on the island, build colonies and temples, and change Cypriot life while taking copper and goods east.
 
-[Picture slot — a picture of the key place or moment of Phoenicians in Cyprus as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Phoenicians in Cyprus as the book shows it. Point to it and say what it shows.
 
 ## Say it to your companion
 

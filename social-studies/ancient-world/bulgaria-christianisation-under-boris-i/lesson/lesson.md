@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Boris I baptises Bulga
 
 Boris I baptises Bulgaria (864/865) and bargains between Rome and Constantinople for his church (Lesson 10: The Christianisation of the Bulgarian state)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 8: The Christianisation of the Bulgarians and the struggle for an independent Bulgarian church
 
 Boris I accepts baptism and fights Rome and Constantinople for a church of Bulgaria's own (Lesson 8: The Christianisation of the Bulgarians and the struggle for an independent Bulgarian church)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

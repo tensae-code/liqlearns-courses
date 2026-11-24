@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Concessions start with
 
 Concessions start with asphalt and the Bermúdez company before crude takes over, and by 1954 Shell is already preaching the "Venezolanisation" of the industry
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

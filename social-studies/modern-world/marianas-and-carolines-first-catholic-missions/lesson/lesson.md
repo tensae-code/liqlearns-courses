@@ -8,7 +8,7 @@ A priest steps ashore asking only to teach and baptise — and soldiers step ash
 
 The first Catholic mission in these islands was planted on Guam by Fr. Sanvitores. A mission meant a church, a priest who stayed, and teaching and baptism offered to the islanders — a permanent Spanish presence of a new kind: not a passing ship, but a settlement of faith.
 
-[Picture slot — a picture of a small mission church on Guam's shore, with a priest, islanders and Spanish soldiers all in view — the student points to each group and says what it came for.]
+In your mind's eye: a small mission church on Guam's shore, with a priest, islanders and Spanish soldiers all in view. The student points to each group and says what it came for.
 
 ## Sub lesson 2 — The Ladrones renamed the Marianas — welcome turns to conflict
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Kohl unifies Germany �
 
 Kohl unifies Germany — economic union on 1 July 1990, proclamation on 3 October; Christian-Democrat Italy industrialises unevenly north and south, and Japan bets on robotics, electronics and research
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 31: Fenomenul miracolului economic: Germania şi Japonia
 
 West Germany's "social market economy" refuses direct regulation; Japan's ruined cities rise on kaisha foundations until the Nissan Sunny becomes the 1960s middle-class symbol
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

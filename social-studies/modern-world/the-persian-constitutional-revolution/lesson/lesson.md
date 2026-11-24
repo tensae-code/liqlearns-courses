@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Persians take bast in 
 
 Persians take bast in mosques and cemeteries where no punishment can touch them, demanding a "House of Justice"; the shah concedes a constitution and the first Majlis (1906) takes the budget and foreign loans into its own hands — then a new shah fights the revolution his father signed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

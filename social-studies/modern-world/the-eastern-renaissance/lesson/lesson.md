@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Timurid Samarkand and 
 
 Timurid Samarkand and Herat flower with Ulugh Beg's astronomy and Navoi's poetry
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §27 The Eastern Renaissance
 
 Samarkand's Ulugh Beg and Herat's artists flower in the East's own renaissance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §29 Medieval culture of the East
 
 the Timurid and Ottoman East flowers in science, poetry and tile
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §29 The East's medieval culture
 
 the Islamic and Timurid East's science and poetry reach their height
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

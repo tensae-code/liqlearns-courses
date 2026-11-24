@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Ignatius' Jesuits carr
 
 Ignatius' Jesuits carry schools and missions from Europe to South America while the Roman Inquisition, the Index and the witch-hunts police belief at home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Inquisizione e censura
 
 the Roman Inquisition, the Index of forbidden books and censorship police the printed word the press had set free
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

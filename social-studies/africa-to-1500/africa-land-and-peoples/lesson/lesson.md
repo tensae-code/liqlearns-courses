@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the lesson starts by t
 
 the lesson starts by telling African children that Africa is not the edge of the story but its beginning
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Inhabitants of the African Continent
 
 one continent, hundreds of peoples, and every one of them with a past
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — An Introduction to the History of Africa before Islam
 
 Africa's past does not begin with Islam or with Europe; the chapter insists on the long before
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

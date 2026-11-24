@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Convicts (the research
 
 Convicts (the research project follows female convicts) and free settlers build Australia while European settlement devastates Aboriginal people (Depth Study 1b: Convicts, settlers and Aboriginal people (1b.5–1b.9))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

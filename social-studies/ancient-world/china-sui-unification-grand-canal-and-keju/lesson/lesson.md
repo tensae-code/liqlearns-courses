@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yang Jian reunifies Ch
 
 Yang Jian reunifies China in 589 after centuries of division; the Grand Canal links five river systems over 2,700 km and the keju examinations open office to talent, but Yangdi's palaces, dragon boats and three Goguryeo campaigns drive people to cut off their own hands to escape service, and he is killed in 618
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

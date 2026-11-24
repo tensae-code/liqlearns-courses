@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Bhuvanekabahu I builds
 
 Bhuvanekabahu I builds a rock fortress at Yapahuwa and trades with Egypt, Parakramabahu IV makes Kurunegala a seat of learning, and at Gampola the Lankatilaka and Gadaladeniya temples rise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The south-western kingdoms and their culture
 
 After Magha, capitals hop south-west — Dambadeniya's Parakramabahu II makes a golden age of literature, Yapahuwa guards the Tooth Relic, and Gampola's Bhuvanaikabahu IV rules a shrinking but cultured kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

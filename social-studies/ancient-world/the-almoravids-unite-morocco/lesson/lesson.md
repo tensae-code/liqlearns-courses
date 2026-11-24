@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 Veiled Saharan reformers ride north, take Morocco and unify the country; the guide follows the extension of their state — founding Marrakech and pushing into Spain.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Monument study — the Almoravid Dome
 

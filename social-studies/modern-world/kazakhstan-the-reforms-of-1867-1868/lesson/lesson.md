@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: the 1867–1868 statut
 
 the 1867–1868 statutes carve the steppe into oblasts and uezds under governor-generals, finishing the colonial administration
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§33–34 The tsarist reforms in Kazakhstan in the second half of the 19th century
 
 the 1867–1868 statutes impose oblasts, uezds and the kibitka tax
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §42 Administrative-territorial reforms of the 1880s–90s
 
 the Steppe and Turkestan statutes finish the colonial map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §5.1 Was the tsarist government's "divide and rule" principle fully realised?
 
 the 1867–1868 map is tested against its own slogan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §5.4 Why was the "New Regulation" of 1886–1891 adopted?
 
 the Steppe and Turkestan statutes tighten the colonial grip a generation on
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Lesson plans §§42–44: the administrative-territorial reforms of the 1880s–90s; trade; social-political thought
 
 the late-century statutes and ideas are taught as the empire's second tightening
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

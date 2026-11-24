@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the chancellor fights 
 
 the chancellor fights Catholics (Kulturkampf) and socialists (Document: the 1878 laws) at home while weaving alliances to isolate France abroad
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

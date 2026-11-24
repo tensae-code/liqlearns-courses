@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: the Republic is born i
 
 the Republic is born in 1902 with the Platt Amendment in its constitution; presidents come and go under Washington's eye while sugar wealth flows north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 6.1–6.4 Formation of the neocolonial Republic; confronting its evils; native oligarchy's struggle for power; corrupt, surrendering governments to 1925
 
 parties of the oligarchy rotate in office while US capital buys the island's sugar, railways and mines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 3.2 Cuba 1902–1925: social and political movements against the neocolonial order
 
 veterans, workers, feminists and students contest the republic's terms in its first quarter-century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Unit 3 suggestions: social and national-liberation struggles against neocolonial dependence 1899–1935
 
 teachers frame the republic's protests as a national-liberation struggle continuing by other means
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

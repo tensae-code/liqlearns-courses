@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Bismarck the puppeteer
 
 Bismarck the puppeteer works the three emperors; the Triple Alliance of 1882 faces the Franco-Russian treaty of 1893, and the Hague conventions try to cage the new weapons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 3: Rivalitatea Marilor Puteri și amenințarea păcii
 
 the Berlin Congress of 1878 opens the rivalry; the Entente Cordiale of 1904 settles Egypt and Morocco between France and Britain and the blocs harden
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

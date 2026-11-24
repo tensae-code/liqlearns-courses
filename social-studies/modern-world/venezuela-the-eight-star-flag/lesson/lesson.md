@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Children meet the nati
 
 Children meet the national flag star by star and sing how Caracas set the example the provinces followed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The national flag has a history full of Homeland
 
 The flag's own biography, from Miranda's banner to the eight stars, is told as a story of the homeland itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

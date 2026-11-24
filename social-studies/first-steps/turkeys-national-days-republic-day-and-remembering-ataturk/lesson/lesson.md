@@ -12,7 +12,7 @@ The Republic Day poem tells how "the season was autumn, the calendars showed 29 
 
 And every school day begins inside this memory: the Student Oath (Andımız) is printed at the front of the book, so a seven-year-old recites the nation's story before the lessons even start.
 
-[Picture slot — a picture of a Turkish schoolyard on Republic Day, red flags with the white crescent and star hanging from every window, children in their best clothes holding small flags — the student points to the flags and says which day the school is celebrating.]
+In your mind's eye: a Turkish schoolyard on Republic Day, red flags with the white crescent and star hanging from every window, children in their best clothes holding small flags. The student points to the flags and says which day the school is celebrating.
 
 ## Say it to your companion
 

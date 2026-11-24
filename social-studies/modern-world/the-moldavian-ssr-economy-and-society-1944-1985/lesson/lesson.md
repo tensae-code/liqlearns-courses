@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the party controls eve
 
 the party controls every institution; peasants who miss obligatory deliveries are jailed and stripped, Bodiul's "Moldavian experiment" builds agro-industrial giants, and by 1985 the republic counts 565 enterprises whose goods people still cannot afford
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 36: Politica „Centrului" în RSSM: economie, societate şi mod de viaţă
 
 between 1944 and 1952 the state collects the village's produce through famine and deportation; grain combines rise from 3,400 to 4,500 by 1985, wages climb from 81 roubles (1970) to 171 (1988), and Moscow's cadres hold 70% of leading posts by 1984
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

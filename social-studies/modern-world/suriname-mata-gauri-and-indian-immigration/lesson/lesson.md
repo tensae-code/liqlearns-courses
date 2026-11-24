@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gauri, born in India i
 
 Gauri, born in India in 1863, is recruited, sails three months to Suriname, works six years on a Commewijne sugar plantation, then saves, buys land at Kwattaweg, funds a school in her Indian village and at 100 gives land for the Mata Gauri cultural building (Mata Gauri)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

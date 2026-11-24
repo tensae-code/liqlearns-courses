@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the village grows from
 
 The village grows from stone mountain houses to cement streets, then in 1948 the occupation destroys more than 500 villages, commits massacres such as Deir Yassin, and expels their people into exile as refugees (Unit 4 Lesson 4: the Palestinian village and its destruction in 1948)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 2 Lesson 1: migration and the displacement of the Palestinians
 
 After defining migration, the lesson turns to the Nakba: the 1948 war drives about a million Palestinians from their homes into camps in Jordan, Syria and Lebanon, and pupils are asked for a just solution to the refugee question (Unit 2 Lesson 1: migration and the displacement of the Palestinians)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

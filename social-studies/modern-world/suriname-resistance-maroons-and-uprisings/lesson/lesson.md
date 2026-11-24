@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Indigenous fighters (K
 
 Indigenous fighters (Kaikoesie), enslaved rebels and Maroons resist in turn; the Cottica Maroons under Baron, Boni and Joli Coeur hold swamp Fort Buku until betrayal reveals its underwater path, and Boni fights on until 1792; later contract workers rise at Zoelen, Alliance and Mariënburg under leaders like Ramdjanee (Onderdrukking en verzet)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Het verzet van slaafgemaakten
 
 Resistance runs from stories and songs through sabotage of work to open joint revolt on the plantation and flight to camps in the forest (Het verzet van slaafgemaakten)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Strijden voor de vrijheid
 
 Maroon villages deep inland organise well-planned attacks on plantations to free people and seize supplies, while forest patrols hunt the escapees — the Tempati uprising is studied for its consequences (Strijden voor de vrijheid)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — De strijd gaat door
 
 Peace with the Ndyuka (10 October 1760) and two more Maroon groups follows, but the Boni wars go on around Fort Boekoe and the Cordonpad under Governor Nepveu's counter-measures (De strijd gaat door)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Het verzet van de contractarbeiders
 
 Cheated of the free housing and fair treatment their contracts promised, contract workers resist; in 1902 the great Mariënburg uprising sees a plantation director killed (Het verzet van de contractarbeiders)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

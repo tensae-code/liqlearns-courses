@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the 1973 oil crisis (P
 
 the 1973 oil crisis (Petrini's Storiografia on its causes) ends the golden age; Toyotism (Storia culturale) and Deng's opening (Vogel's Storiografia) announce the productive world that replaces Fordism
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 11 §§10–11 La fine dell'«età dell'oro»: la crisi petrolifera; L'emergere del problema ambientale
 
 the 1973 oil shock ends the golden age as Chernobyl (Eventi) and the Limits to Growth (Fare storia Document) announce the ecological bill — ecology is the module's keyword
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

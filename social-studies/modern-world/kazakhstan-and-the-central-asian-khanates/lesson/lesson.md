@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Kokand and Khiva tax a
 
 Kokand and Khiva tax and raid the southern Kazakhs while Russia advances from the north — a people caught between two colonisers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§29–30 Kazakh uprisings against the invasions of the Central Asian khans
 
 the south resists Kokand's and Khiva's tax collectors and fortress-builders too
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

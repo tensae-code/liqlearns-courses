@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from the Escorial Phil
 
 from the Escorial Philip rules a world empire, fights the Dutch revolt and the Ottomans at Lepanto, and launches the Armada against England
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — L'Impero di Filippo II; La battaglia di Lepanto (Eventi); La guerra nei Paesi Bassi
 
 Philip's Spain wins Lepanto (1571) against the Ottomans and loses the northern Netherlands to revolt — one empire, two seas, opposite fates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: two allies pull down t
 
 two allies pull down the last Christian capital and raise a Muslim sultanate on the Blue Nile that lasts three centuries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Islamic Sultanates in Sudan (2)
 
 in the far west, mountain farmers build a sultanate of their own that outlasts empires around it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — the Funj and Fur sultanates that Islam's spread brings forth
 
 conversion ripens into states — Sennar and Darfur rule Muslim Sudan for three centuries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

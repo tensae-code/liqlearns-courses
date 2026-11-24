@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the soldier-statesman'
 
 the soldier-statesman's climb ends at the top of the dual system itself, as Jigme Namgyal becomes the 51st Druk Desi, temporal head of the state his son will inherit (Chapter Four, Becoming 51st Druk Desi)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

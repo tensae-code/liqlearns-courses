@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1809 an adventurer,
 
 in 1809 an adventurer seizes Iceland and proclaims it independent (Verkefnablað 8: Valdarán Jørgens Jørgensens)
 
-[Picture slot — a picture of Jørgen Jørgensen arriving in Reykjavík in 1809 — the student says what he seized and what he proclaimed]
+In your mind's eye: jørgen Jørgensen arriving in Reykjavík in 1809. Say what he seized and what he proclaimed.
 
 ## Sub lesson 2 — Removed within months
 

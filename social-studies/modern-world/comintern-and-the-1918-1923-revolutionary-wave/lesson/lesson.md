@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: on 9 November 1918 a B
 
 on 9 November 1918 a Berlin general strike becomes an armed rising and the German monarchy falls; England counts 6.5 million strikers (1919–21), France a general strike of over a million (1 May 1920), Italy 1,600 strikes in 1919 and Red Guards in 1920; communist parties spring up (Hungary 1918, France and England 1920, Italy 1921) and in March 1919 the Comintern is founded in Moscow — its 1920 Theses on the national and colonial questions are the very text in which Nguyễn Ái Quốc finds his road; the Comintern is dissolved in 1943
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

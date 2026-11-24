@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: 1945–1960 the empire
 
 1945–1960 the empires let go, each colony its own way — peaceful and orderly in some, revolution in Indonesia and India, long civil war in French Indo-China — while the new UN and the Cold War pull the newborn states in opposite directions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Decolonisation and Independence
 
 WWII breaks the empires; students map Africa, Asia and the Pacific with independence dates, interrogate USA and UN involvement, and build five case studies — colonisation, the strategy that won freedom, the key people, and progress since
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Factors involved in systems of power and authority globally
 
 Why the empires fell after 1945 — the Depression starved the colonies, Japan conquered Europe's Asia and broke its prestige, the exhausted Europeans could no longer afford empire, and nationalism rose like a tide
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

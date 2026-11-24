@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: After years inside Fre
 
 After years inside French rule, Gabon raises its own flag in 1960 (Leçon 32 L'indépendance du Gabon)
 
-[Picture slot — a picture of Gabon's flag being raised at independence in 1960 — the student says the date Gabon became independent]
+In your mind's eye: gabon's flag being raised at independence in 1960. Say the date Gabon became independent.
 
 ## Sub lesson 2 — Decolonisation — the colony unwinds
 

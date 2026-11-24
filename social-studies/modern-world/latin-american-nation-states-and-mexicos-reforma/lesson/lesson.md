@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Juárez's liberals bre
 
 Juárez's liberals break the Church's and army's privileges and defeat a French-imposed emperor — a second independence inside the first
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after 1985 elected gov
 
 after 1985 elected governments return across the region, peace coming through negotiated accords — and the Contadora group of Mexico, Colombia, Venezuela and Panama seeking a Central American settlement
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Democratización en América del Sur: Argentina y Chile
 
 Argentina's junta leaves thousands dead and disappeared before elections return in 1983; in Chile the 1988 plebiscite votes Pinochet out and free elections follow in 1989
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

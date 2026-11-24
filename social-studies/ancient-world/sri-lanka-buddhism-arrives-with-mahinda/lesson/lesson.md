@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ashoka sends his own s
 
 Ashoka sends his own son Mahinda, who meets King Devanampiyatissa hunting on Mihintale, preaches, and stays — and the king who hosted Asoka's envoys for five months at Pataliputra gives the new faith a kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after 1945 states buil
 
 after 1945 states build the UN, then the EU, the African Union and the OAS; Armenia joins the UN and pupils debate whether such bodies have a future
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Programme Theme 1: Cooperation
 
 the guide's outcome list requires pupils to explain cooperation in every sphere of society and find it at work in their own community
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

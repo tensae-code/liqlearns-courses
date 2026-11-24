@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 The guide teaches the Idrisid state's founding and extent, and the spread of Islam in Morocco — and the city of Fez in Idrisid times, founded by the refugee descendant of the Prophet who founded the state.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Monument study — the Qarawiyyin Mosque-University
 

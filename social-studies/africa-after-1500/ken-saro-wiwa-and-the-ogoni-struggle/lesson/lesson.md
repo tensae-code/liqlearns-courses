@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: writer Ken Saro-Wiwa c
 
 writer Ken Saro-Wiwa champions the Ogoni, whose oil-rich Niger Delta land is polluted while they stay poor; after Abacha's 1993 seizure of power he is jailed repeatedly and hanged on 10 November 1995 after an unfair trial
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

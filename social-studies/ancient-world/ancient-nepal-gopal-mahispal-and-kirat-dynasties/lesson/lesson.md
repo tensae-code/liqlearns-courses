@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Kathmandu Valley l
 
 the Kathmandu Valley lake drains, cow-herding Gopals from Mathura rule 500 years from Bhumi Gupta to Yaksha Gupta, buffalo-herding Mahispals follow for 150 years, then Kirat kings rule over 1,000 years from Yalambar at Gokarna until the Lichchhavis defeat them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ancient Nepal — Economic and Social Condition
 
 the guide compares the ancient dynasties' world with today — Mahispal, Gopal and Kirat kings named first and last, a society of farming, cattle, iron and copper work, temples and ancestor worship, set in a table against present-day economic life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

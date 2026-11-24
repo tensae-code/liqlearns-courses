@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: State, elections and s
 
 State, elections and social movements from the 1980s to the present close the national story (Unidad III, Tema 1-B: Estado, sistema electoral y movimientos sociales desde los 80)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — El papel del Estado y los movimientos sociales desde 1980 (Porras y Gamboa)
 

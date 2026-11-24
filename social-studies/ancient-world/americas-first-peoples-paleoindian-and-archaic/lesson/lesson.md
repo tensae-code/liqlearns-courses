@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: the first peoples of th
 
 Guatemala's Grade 4 book opens its deep past with two periods. In the Paleoindian period, hunters cross the ice-covered Bering Strait chasing mammoth and mastodon. In the Archaic period that follows, people settle down: they plant maize, beans and chile, build villages and begin to trade. The lesson's arc is the great change itself — from following animals to farming a home place.
 
-[Picture slot — a picture of hunters crossing an ice plain after a mammoth, then the same land greener, with small villages, maize fields and traders carrying goods between them — the student names the change from hunting to farming.]
+In your mind's eye: hunters crossing an ice plain after a mammoth, then the same land greener, with small villages, maize fields and traders carrying goods between them. Name the change from hunting to farming.
 
 ## Say it to your companion
 

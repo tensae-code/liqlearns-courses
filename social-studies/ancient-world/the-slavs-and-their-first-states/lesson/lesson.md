@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Slavs settle easte
 
 The Slavs settle eastern Europe and raise their first states (Lesson 8: The Slavs and the emergence of their states)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 4: The Slavs and the Great Migration of the peoples
 
 The Slavs pour south in the Great Migration and settle the Balkans (Lesson 4: The Slavs and the Great Migration of the peoples)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

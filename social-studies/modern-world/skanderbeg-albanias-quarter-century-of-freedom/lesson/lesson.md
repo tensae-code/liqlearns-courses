@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gjergj Kastrioti, a ho
 
 Gjergj Kastrioti, a hostage prince raised at Edirne and named Iskender for Alexander, deserts the Ottoman army in 1443, tricks his way into Krujë with a forged letter, and binds Albania's feudal families in the League of Lezhë (1444); for twenty-five years his mountain war defeats sultans in person — Murad II dies before Krujë's walls — the pope names him Athleta Christi, and only his death in 1468 ends it; Durrës, the last Venetian holdout, falls in 1501
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

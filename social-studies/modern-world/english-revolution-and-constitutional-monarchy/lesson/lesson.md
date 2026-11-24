@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Charles I storms Parli
 
 Charles I storms Parliament to arrest its leaders and starts a civil war; Cromwell wins it, Charles is executed in 1649, and after the bloodless Glorious Revolution of 1688 the Bill of Rights makes Parliament supreme — the world's first constitutional monarchy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bourgeois revolutions — England
 
 Parliament executes a king, survives Cromwell and a restoration, and in 1688–89 settles power in Parliament for good
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

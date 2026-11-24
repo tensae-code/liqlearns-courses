@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: France's 1946 Fourth R
 
 France's 1946 Fourth Republic constitution gives colonials citizenship on paper but not their interests; the French territories push on toward independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ Turkey's Grade 9 book follows the rise of Islam with the state it became. Under 
 
 The empire the dynasty rules is vast, and Damascus governs it as a hereditary monarchy in all but name. The book's beat is the change itself: rule by election gives way to rule by inheritance — and every later Islamic state inherits the question the Umayyads first posed: is the caliph chosen, or born?
 
-[Picture slot — a picture of Damascus as the Umayyad capital — the great mosque's courtyard, officials and messengers setting out for the provinces of a wide empire — the student points to the capital and says from where the empire is now ruled.]
+In your mind's eye: damascus as the Umayyad capital — the great mosque's courtyard, officials and messengers setting out for the provinces of a wide empire. The student points to the capital and says from where the empire is now ruled.
 
 ## Say it to your companion
 

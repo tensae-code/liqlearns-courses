@@ -8,7 +8,7 @@ Nearly a hundred years of foreign flags — Spanish, German, Japanese, American 
 
 *Over Seas and Time* ends its national story here: An Independent Nation of Islands. In 1979, President Nakayama was inaugurated as the first president of the Federated States of Micronesia — ending nearly a century of foreign rule that had run Spain, Germany, Japan and America in turn.
 
-[Picture slot — a picture of an inauguration in 1979 on Pohnpei, with the new FSM flag rising as four older flags — Spanish, German, Japanese, American — are shown folded below — the student points to the new flag and names the president being inaugurated.]
+In your mind's eye: an inauguration in 1979 on Pohnpei, with the new FSM flag rising as four older flags — Spanish, German, Japanese, American — are shown folded below. The student points to the new flag and names the president being inaugurated.
 
 ## Sub lesson 2 — The Compact, the UN and Independence Day
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 1945–1950 is state-f
 
 The guide frames 1945-1950 as state-forming under fire — a government built in weeks, early-revolution upheavals, diplomacy and guerrilla war side by side (Bandung Lautan Api, the Linggarjati talks foreign journalists cover in November 1946), and the road from RIS back to the unitary NKRI.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

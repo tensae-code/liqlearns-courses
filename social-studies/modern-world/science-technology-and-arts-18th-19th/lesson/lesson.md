@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fulton's steamship (18
 
 Fulton's steamship (1807) and more than 500 steamers in English ports by 1836, the blast furnace and new steel and aluminium, electricity's motors, telephone and radio, the internal combustion engine behind cars and aircraft; literature gives Balzac's Human Comedy, Hugo's Les Misérables (1862, "a hymn to love" for the utterly poor), Tolstoy's War and Peace, Pushkin, Goethe, Dickens; music runs from Bach and Mozart to the romantic storm of Beethoven, Chopin and Tchaikovsky, painting from David and Delacroix to Goya, Levitan and Van Gogh — an art that, the book says, condemns the age's injustices and wakes the poor to fight for a free and happy life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

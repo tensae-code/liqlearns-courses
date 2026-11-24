@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Cuba breaks the domina
 
 Cuba breaks the domination system in 1959; a generation fights on — Che falls in Bolivia, Allende dies in La Moneda, Sandinistas triumph, dictatorships and invasions answer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 5.2 Stage II: evolution 1939–1959
 
 wartime boom, populisms and dictatorships end with a guerrilla victory in Cuba that changes the continent's stage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

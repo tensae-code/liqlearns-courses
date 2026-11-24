@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Khomeini is arrested a
 
 Khomeini is arrested after denouncing the shah; cities rise, the rising is shot down, and 15 Khordad becomes the revolution's founding date (The uprising of 15 Khordad (June 1963))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

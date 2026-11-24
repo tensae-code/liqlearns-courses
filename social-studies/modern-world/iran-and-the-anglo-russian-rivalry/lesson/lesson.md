@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a weakening Qajar Iran
 
 a weakening Qajar Iran becomes the chessboard of the British-Russian "Great Game"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §5.1 How similar were the interests of Russia and Great Britain in Persia (Iran)?
 
 two empires' ambassadors and officers compete over the same Persian chessboard
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

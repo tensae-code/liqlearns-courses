@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fa Xian and Xuan Zang 
 
 Fa Xian, caught in a 13-day storm on the voyage home, throws his belongings overboard but clings to his books and Buddha statues, taking 90 days to Java; Xuan Zang loses 50 manuscripts when his Indus boat capsizes yet hauls 600 texts home on 20 horses and spends his life translating them; both study at Nalanda, where the gatekeeper's hard questions turn away seven or eight of every ten hopefuls.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

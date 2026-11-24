@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Surabaya's electric tr
 
 Surabaya's OJS electric tramway, built 1911-1924, quietly moves the city's economic centre and beats the steam tram, a case study in how technology rewrites urban life.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

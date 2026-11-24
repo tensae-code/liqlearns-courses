@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Le Bon's crowd psychol
 
 Le Bon's crowd psychology and Mosse's new political style (Fare storia) describe a politics of masses that parties, unions and states all learn to organise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

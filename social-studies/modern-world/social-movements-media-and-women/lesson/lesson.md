@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Movements, media and w
 
 Movements, media and women's organising become engines that push societies to change (Sección 2 Tema 5: Dinámicas socioculturales)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

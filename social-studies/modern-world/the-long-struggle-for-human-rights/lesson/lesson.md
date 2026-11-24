@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pupils complete the ti
 
 pupils complete the timeline themselves — Hammurabi's code (c. 1750 BC), Confucius's golden rule, the English Bill of Rights (1689), America's Declaration (1776) — rights are won document by document
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

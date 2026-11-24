@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Poniatowski's reforms 
 
 Poniatowski's reforms and the Constitution of 3 May 1791 come too late; Russia, Prussia and Austria partition the state in 1772, 1793 and 1795 and Belarus passes to Russia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

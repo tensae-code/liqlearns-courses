@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: freed Black Americans 
 
 freed Black Americans get segregation instead of equality and Native peoples get reservations; against the trusts and the Colorado shootings of strikers (1914) rises the "progressive era" — Theodore Roosevelt's Square Deal makes the president referee between capital and labour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

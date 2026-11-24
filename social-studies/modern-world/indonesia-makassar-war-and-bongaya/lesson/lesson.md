@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Sultan Hasanuddin's Ma
 
 Sultan Hasanuddin's Makassar defends Fort Samba Opu against the VOC until 1669, and the imposed Treaty of Bongaya opens South Sulawesi to company rule.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab 2.A.5 Perlawanan Goa
 
 Gowa's Makassarese sailors and sultans fight the company for the eastern trade until defeat is sealed at Bongaya.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

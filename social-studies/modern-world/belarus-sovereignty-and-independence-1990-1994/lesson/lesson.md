@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the 1990 sovereignty d
 
 The 1990 sovereignty declaration, the USSR's end in December 1991, a new name and symbols, the 1994 Constitution and the first presidential election remake the state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Establishing state sovereignty
 
 Sovereignty is spelled out in symbols, citizenship and law as Belarus decides what an independent state must hold
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

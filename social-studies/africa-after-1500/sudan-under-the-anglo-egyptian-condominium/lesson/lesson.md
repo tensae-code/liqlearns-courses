@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: neither colony nor ind
 
 neither colony nor independence: a legal fiction governs Sudan for half a century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Development of Constitutional Institutions in the Condominium Period
 
 the Sudanese are given chairs in the room, then demand the room
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Economic and Social Developments in the Condominium Period
 
 cotton pays for the state that politics is learning to claim
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

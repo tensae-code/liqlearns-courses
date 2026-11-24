@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Awsan in Wadi Markha a
 
 Awsan in Wadi Markha and Qataban in Wadi Bayhan give way to Himyar at Zafar, which unites all Yemen under Shammar Yuhar'ish, king of Saba and Dhu Raydan and Hadramawt and Yamnat, down to Abu Karib As'ad and the last king, Sayf bin Dhi Yazan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — States of the ancient Yemeni civilisations (the Himyarite age)
 
 in the second Sabaean age, the Himyarite kings of Saba and Dhu Raydan unite Yemen from their capital Zafar — Dhamar Ali Watar annexes Raydan, Shammar Yuhar'ish adds Hadramawt and most of Yemen, Abu Karib As'ad al-Kamil stretches rule the length and breadth of Arabia — until the last king, Yusuf As'ar Yath'ar, called Dhu Nuwas, turns to Judaism, massacres the people of Najran, and brings the Abyssinians down on Yemen with Byzantine ships
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: great estates swallow 
 
 great estates swallow free villages while towns and trade revive — the two motions that will tear Byzantine society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 3.II.2 The legislation of the Macedonian dynasty and its clash with the "dynatoi"
 
 emperors legislate again and again to stop the powerful buying up the poor soldiers' farms — and keep losing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Axis 1: Rich and poor in Byzantium
 
 aristocratic households and labouring poor are set side by side in city and countryside through sources on dress, food, houses and work
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Axis 2: The penetes, the dynatoi, the State
 
 emperors legislate to protect poor soldiers' farms from the powerful, lose, legislate again — the folder makes pupils judge who the state really served
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

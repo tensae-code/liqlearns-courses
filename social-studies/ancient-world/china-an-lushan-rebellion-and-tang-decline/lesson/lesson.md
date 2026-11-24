@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: eight years of rebelli
 
 eight years of rebellion leave the north 'empty for a thousand li' in Du Fu's poem; warlords carve the empire into fanzhen, Huang Chao's rebels take Chang'an, and Zhu Wen ends Tang in 907
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tang falls apart
 
 after 755 the court's writ shrinks to the capital's shadow while warlords keep the taxes and the armies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

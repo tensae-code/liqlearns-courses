@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: alabaster, marble and 
 
 alabaster, marble and granite raise the cities — old Sanaa, Sirwah, Marib, Qarnaw, Shabwa, Timna, Zafar — and the palaces, Salhin at Marib, twenty-storey Ghumdan at Sanaa, Shaqir at Shabwa, Raydan at Zafar, while dams at Marib, Saada, Lahj and Yarim and carved ibex and lion reliefs show an engineering and art of their own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Zimbabwe was colonised
 
 Lobengula signs friendship with Moffat in 1888 — then is misled into the Rudd Concession: 1,000 guns and £100 a month, for his kingdom's minerals. Two years later, in 1890, the Pioneer Column marches in on the strength of that paper and raises the Union Jack at Fort Salisbury. The kingdom is taken first by signature, then by marching feet.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Zheng He's fleet lands
 
 Zheng He's fleet lands in 1405 and again in 1411, the minister Alagakkonara defies him, and the admiral carries the chief off to China before sending him home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

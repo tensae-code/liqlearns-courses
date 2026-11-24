@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Britain settles Austra
 
 Britain settles Australia in 1788 and the invasion spreads — whalers, then competition for spice, sandalwood, pearl shell and bêche-de-mer; students analyse the social, economic, political and cultural impacts and visit Queen Emma's plantation at Rabaul
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Colonizers' cultures in the Pacific
 
 Colonisers bring a whole way of life — administration and mission stations, schools, new clothes for "naked" natives, ancestral worship branded pagan, and a new language, Tok Pisin, born from the contact itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Economic factors and colonization
 
 The coloniser's shopping list — raw materials, gold, silver, land, spices, captive markets and cheap labour — and the bill: a widening economic gap between coloniser and colony that outlives the flags
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

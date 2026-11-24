@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Benedict XV begs the p
 
 Benedict XV begs the powers to stop the "horrendous carnage" (Document) while Italy bleeds on the Isonzo and the Carso; Gilbert's Storiografia follows Germany's unrestricted submarine war widening the conflict
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 1 §4 L'Italia dalla neutralità all'intervento
 
 a neutral country argues itself into war — interventionists against Giolitti's "quite a lot", the secret London Pact (in the Fare storia documents) buys Italy with other peoples' lands
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

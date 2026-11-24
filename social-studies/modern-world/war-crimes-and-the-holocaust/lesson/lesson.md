@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Kristallnacht th
 
 after Kristallnacht the persecution spreads; some 135,000 Romanian Jews perish in northern Transylvania, Roma nomads are deported in summer 1942, and Polish officers are shot in the back of the head and buried in common graves
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 28: Crime împotriva umanităţii: Gulag, Holocaust, Katyn
 
 the Gulag deports whole peoples — 1,209,000 Soviet Germans, 479,000 Chechens and Ingush, 191,014 Crimean Tatars; the Holocaust's victim table is estimated, and Tokyo's tribunal judges Japan's war criminals from May 1946
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

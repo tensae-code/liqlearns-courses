@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: after collapse and migratio
 
 After collapse and migration, settlers found Cyprus's city-kingdoms, and myth and history together explain where each kingdom came from.
 
-[Picture slot — a picture of the key place or moment of Cyprus Geometric Age — the city-kingdoms are founded as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Cyprus Geometric Age — the city-kingdoms are founded as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — The life of the people
 

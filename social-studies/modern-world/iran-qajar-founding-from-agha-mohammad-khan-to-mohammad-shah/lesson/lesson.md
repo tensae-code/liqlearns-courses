@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Agha Mohammad Khan reu
 
 Agha Mohammad Khan reunites a broken Iran by the sword and founds the Qajar dynasty, and his successors immediately face Britain, Russia and France competing over the country (Qajar rule from Agha Mohammad Khan to Mohammad Shah)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Politics and government in the Qajar era (to the end of Naser al-Din Shah's reign)
 
 the Qajar state is anatomised — court, ministers and foreign legations — across its first century of rule (Politics and government in the Qajar era (to the end of Naser al-Din Shah's reign))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

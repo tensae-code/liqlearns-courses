@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: collapse, tenge, oil c
 
 collapse, tenge, oil contracts — the economy bottoms out and turns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §49. Results of the Republic of Kazakhstan's economic development: achievements and problems
 
 growth returns on oil — and dependence deepens with it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §20 Economic development of Kazakhstan in the first years of independence
 
 shock, tenge, privatisation — the economy bottoms out
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §23 Economic development of Kazakhstan from 1997
 
 oil growth returns; the National Fund is created
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

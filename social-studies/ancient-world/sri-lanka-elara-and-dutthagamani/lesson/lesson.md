@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Horse traders Sena and
 
 Horse traders Sena and Guttika seize the throne, the just Tamil king Elara rules 44 years, Dutthagamani defeats him in 161 BCE, seven more Tamil chiefs follow, and Dhatusena at last restores the line
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: victors draw a new wor
 
 victors draw a new world map of blocs, alliances and the United Nations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part II, Lesson 4: II — The new world order after WWII
 
 Yalta's map, two blocs, one world organisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

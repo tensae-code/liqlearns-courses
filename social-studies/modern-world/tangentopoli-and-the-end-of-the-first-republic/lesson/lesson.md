@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Falcone's book on Cosa
 
 Falcone's book on Cosa Nostra (the unit's book study) and the mafia's war on the state meet Mani Pulite; Craxi's own Document admits illicit party financing as the system built in 1948 dissolves in 1992–93
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 13 §§10–11 Gli anni '80; La crisi del sistema politico
 
 qualunquismo and mafia are the module's keywords; the eighties' shine ends in the political system's crisis — the First Republic dies of the corruption its parties normalised
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

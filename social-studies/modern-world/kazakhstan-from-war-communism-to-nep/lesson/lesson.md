@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: requisitioning gives w
 
 requisitioning gives way to the tax in kind and revived markets, and the steppe breathes again
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§25–26 The NEP in Kazakhstan (1921–1925)
 
 the tax in kind replaces seizure and bazaars reopen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§14–15 The transition from "war communism" to the NEP
 
 requisitioning gives way to the tax in kind and revived markets
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

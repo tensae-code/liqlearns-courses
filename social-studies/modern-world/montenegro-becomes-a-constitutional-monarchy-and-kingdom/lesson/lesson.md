@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The last absolute rule
 
 The last absolute ruler in Europe gives his people a constitution because he refuses to be last.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

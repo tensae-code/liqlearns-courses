@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Rigveda's thousand
 
 The Rigveda's thousand-plus hymns to Agni, Indra and Soma are composed by sages about 3500 years ago and memorised syllable by syllable for centuries — heard and recited long before they were ever written or printed.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

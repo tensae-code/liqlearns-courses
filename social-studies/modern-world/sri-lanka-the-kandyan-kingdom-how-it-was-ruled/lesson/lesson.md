@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The king consults his 
 
 The king consults his great council before deciding, the land is run in rata divisions under disavas, villages govern themselves, and temple lands answer to their own officers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Kandyan kingdom 1789–1815
 
 After Rajadhi Rajasinghe dies in 1798 the young Sri Vikrama takes a throne ringed by mighty chiefs, the first Adigar Pilima Talauwa pulls the strings, and a kingdom run by hereditary officials waits for its crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

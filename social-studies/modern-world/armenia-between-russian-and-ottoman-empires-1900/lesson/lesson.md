@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: one people lives split
 
 one people lives split between two empires, taxed, conscripted and schooled differently on each side of the Araxes, while national parties organise on both
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

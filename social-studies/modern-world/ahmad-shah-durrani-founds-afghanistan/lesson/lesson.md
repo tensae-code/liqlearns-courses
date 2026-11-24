@@ -8,27 +8,27 @@ Before you read on, hold this lesson's one thing in mind: Ahmad Shah gathers the
 
 Ahmad Shah gathers the divided country into one state again, and pupils debate the role of Sabir Shah Kabuli beside the founder's own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 5: What were Ahmad Shah Baba's administrative reforms and military activities?
 
 the founder orders the new state's administration and leads its armies across the region
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 6: What do you know of Ahmad Shah Baba's qualities?
 
 the founder's character is summed up as the model of the national hero
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 2: Ahmad Shah Baba and the consolidation of the central state
 
 the founder gathers the tribes into one central state in 1747
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 5 — Lesson 3: Ahmad Shah Baba's military campaigns
 
 the founder's armies carry the new state to its greatest extent, India included
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

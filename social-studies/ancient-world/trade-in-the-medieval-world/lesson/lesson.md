@@ -10,7 +10,7 @@ Turkey's Grade 9 book builds the medieval economy from the ground up. It starts 
 
 Then the book lifts its eyes to the great trade routes: caravans crossing the steppe and desert, ships linking the ports, carrying goods between worlds that are otherwise enemies. Its beat reverses the chronicles: caravans and ships stitch the medieval world together richer than its wars divide it.
 
-[Picture slot — a picture of a medieval caravan reaching a walled market town, bales unloaded while guild craftsmen work at open workshops nearby — the student points to the goods and says where they might have come from and who made the town's own goods.]
+In your mind's eye: a medieval caravan reaching a walled market town, bales unloaded while guild craftsmen work at open workshops nearby. The student points to the goods and says where they might have come from and who made the town's own goods.
 
 ## Say it to your companion
 

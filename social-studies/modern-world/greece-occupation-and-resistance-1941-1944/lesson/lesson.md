@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: famine winters, a mass
 
 famine winters, a mass resistance movement in mountains and cities, and liberation in 1944 shadowed by coming civil conflict
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Occupation and National Resistance
 
 famine, collaboration, and a resistance that liberates much of the countryside before Athens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Occupation and the National Resistance
 
 famine, the great resistance organisations of town and mountain, and liberation shadowed by the first clashes of Greeks with Greeks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

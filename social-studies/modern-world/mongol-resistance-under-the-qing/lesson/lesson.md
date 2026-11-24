@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Amarsanaa and Chingün
 
 Amarsanaa and Chingünjav's great rising of 1755-58, Luvsandanzan's Khökhnuur defiance, Togtokh Taij's guerrillas and the 19th century's duguyilang circles — two centuries of refusal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

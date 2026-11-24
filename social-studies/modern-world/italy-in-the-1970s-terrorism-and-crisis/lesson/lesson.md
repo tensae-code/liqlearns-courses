@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: bombs and bullets shad
 
 bombs and bullets shadow a society divorcing (the divorce-law battle, Storia culturale), listening to free radios and absorbing the oil shock — the republic's hardest decade opens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: French kings, once lit
 
 French kings, once little more than lords of Paris, use the Hundred Years' War to gather their kingdom, and Louis XI finishes the nobles; in Spain the marriage of Ferdinand and Isabella in 1469 joins Aragon and Castile into one crown
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

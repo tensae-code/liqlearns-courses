@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Civil-service recruitm
 
 Civil-service recruitment opens, state institutions are reformed, labour law tilts toward workers, regional autonomy devolves power, parties multiply, presidents are directly elected, and a free press with citizen journalism replaces the licensed press.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

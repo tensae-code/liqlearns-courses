@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: as Qing collapses, Kha
 
 as Qing collapses, Khalkha nobles and lamas send a secret delegation to Russia, then on 29 December 1911 proclaim independence and enthrone the Eighth Bogd as khan of Mongolia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 2.2 Independent Mongolia
 
 the Bogd Khanate builds ministries, an army and a parliament of two chambers, and wins the 1915 Kyakhta treaty — autonomy under Chinese suzerainty, less than the full independence proclaimed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. II.1 The victory and significance of the 1911 revolution
 
 on 29 December 1911 the Bogd is enthroned and independence declared; the book weighs 1911 as the national revolution that restarted Mongolian statehood
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. II.2 The beginning of Mongolia's restored rise, 1911–1920
 
 a two-chamber khural, an army, schools, a bank and 370 enterprises — the Bogd Khanate builds a modern state inside the limits Kyakhta allowed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

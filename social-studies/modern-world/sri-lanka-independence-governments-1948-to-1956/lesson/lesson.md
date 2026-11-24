@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: D. S. Senanayake leads
 
 D. S. Senanayake leads the UNP into independence, Dudley follows, the 1953 hartal topples him, and in 1956 Bandaranaike's MEP, carried by the five great forces, wins and makes Sinhala the official language
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Sri Lanka since independence (competency level 6.1, 10 periods)
 
 Pupils chart every election since 1970 themselves, then compare the 1972 and 1978 constitutions column by column
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

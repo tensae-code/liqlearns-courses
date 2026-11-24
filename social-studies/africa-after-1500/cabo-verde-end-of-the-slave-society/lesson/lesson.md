@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 Slavery is abolished — the slave-owning society ends.
 
-[Picture slot — a picture of broken chains laid on a table beside farming tools and a school book — the student says what ended and what had to be remade.]
+In your mind's eye: broken chains laid on a table beside farming tools and a school book. Say what ended and what had to be remade.
 
 
 ## Sub lesson 2 — Society remade without slavery

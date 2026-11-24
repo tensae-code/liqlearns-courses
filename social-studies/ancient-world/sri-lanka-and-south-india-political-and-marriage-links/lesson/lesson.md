@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Exiled princes like Il
 
 Exiled princes like Ilanaga and Moggallana sail to India for armies, Manavamma wins his throne with Pallava help, and royal marriages bind the two shores
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

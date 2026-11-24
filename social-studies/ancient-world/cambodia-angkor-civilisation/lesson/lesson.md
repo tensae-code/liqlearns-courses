@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: how Angkorian society 
 
 how Angkorian society was named, ranked and fed; its inscriptions (Sdok Kok Thom, photo p. 160) and the Khmer script's growth from Pallava letters — the civilisation read through its own stones (History Ch. 2 Lesson 5, Angkor civilisation)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: the Funj Kingdom of Sennar 
 
 Funj agent Ali Abu Gassim marries into the Belaw royal line and is killed by them; his posthumous son returns with an army, defeats the Belaw and unites some 21 tribes under the Diglal, with nabtab rulers, serfs and slaves in three castes.
 
-[Picture slot — a picture of the key place or moment of Eritrea — the Beni Amir federation and the Funj as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — the Beni Amir federation and the Funj as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From signal fires on m
 
 People once signalled with loud sounds, fire lit on mountain tops and castles by night and smoke by day, carrier pigeons and lighthouse signals for coastal cities; in the Umayyad age Muawiya ibn Abi Sufyan founded the Diwan al-Barid, a state bureau in Damascus to carry the post and the news across the state.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

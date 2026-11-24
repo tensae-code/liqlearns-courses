@@ -16,7 +16,7 @@ The szlachta's Sarmatian culture shows in coffin portraits, oriental dress and c
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Polish Baroque church and a szlachta coffin portrait in oriental dress — the student points to what is Polish and nowhere else.]
+In your mind's eye: a Polish Baroque church and a szlachta coffin portrait in oriental dress. The student points to what is Polish and nowhere else.
 
 ## Sub lesson 3 — A face found nowhere else
 

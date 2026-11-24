@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: From about 3000 years 
 
 From about 3000 years ago, big-stone burials spread across the Deccan, the south, the north-east and Kashmir, the dead laid with Black and Red Ware pots, iron tools and horse gear — Brahmagiri's one grave with 33 gold beads beside others with a few pots betrays rich and poor, chiefs and followers.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — A special burial at Inamgaon; occupations at Inamgaon
 
 A man is buried cross-legged in a huge four-legged clay jar in the courtyard of the settlement's largest, five-roomed house with its own granary — likely a chief; seeds and cut-marked bones reconstruct the whole village's work, from farming and herding to hunting and fishing.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

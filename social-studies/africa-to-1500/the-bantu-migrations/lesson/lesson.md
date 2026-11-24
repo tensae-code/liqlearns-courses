@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bantu-speaking peoples
 
 Bantu newcomers meet Gabon's first peoples and the two worlds negotiate, trade and intermarry (Leçon 22 Les relations entre les premiers peuples du Gabon et les Bantous)
 
-[Picture slot — a picture of Bantu-speaking families moving across central Africa with farming tools and iron, meeting forest peoples — the student says what the Bantu carried with them]
+In your mind's eye: bantu-speaking families moving across central Africa with farming tools and iron, meeting forest peoples. Say what the Bantu carried with them.
 
 ## Sub lesson 2 — The Bantu spread across central Africa
 

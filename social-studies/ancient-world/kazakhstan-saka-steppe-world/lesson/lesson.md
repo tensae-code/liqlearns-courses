@@ -8,235 +8,235 @@ Before you read on, hold this lesson's one thing in mind: iron weapons and horse
 
 iron weapons and horse gear hand the steppe to mounted warrior tribes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §22–23 The Sakas in written sources
 
 Persian and Greek writers describe the Sakas from outside while their kurgans speak from inside
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §24 Steppe tribal unions and their settlement
 
 Saka tribes unite and divide the steppe into their territories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §25–26 Cattle-breeders of Northern and Eastern Kazakhstan
 
 northern and eastern herders live by herds, bronze and burial mounds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §27–28 Sakas of Southern and Central Kazakhstan
 
 southern Sakas raise the great royal kurgans, Issyk among them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — §29–30 Sauromatians and Massagetae
 
 Sauromatian warrior women and the Massagetae who defeated Cyrus people the western steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — 2.1 Mastering iron in Kazakhstan
 
 iron tools and weapons spread and the early-Iron-Age world opens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — 3.1 Historical information about the Sakas
 
 Persian inscriptions and Greek writers introduce the pointed-hat Sakas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — 3.2 The "Golden Man" archaeological find
 
 the Issyk kurgan yields a warrior in gold — Kazakhstan's emblem is dug out of the earth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 10 — 3.3 Shilikty and Besshatyr royal kurgans
 
 royal burial mounds the size of hills guard Saka kings and their treasure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 11 — 3.4 The Berel kurgans
 
 frozen Berel graves keep horses and art intact for two thousand years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 12 — 3.5 The Tasmola archaeological culture
 
 Tasmola's moustache-shaped stone ridges mark a distinct Saka world in the centre
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 13 — 3.6 Saka queen Tomiris
 
 Queen Tomiris defeats Cyrus of Persia and avenges her son on the battlefield
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 14 — 3.7 Shirak's feat
 
 the shepherd Shirak mutilates himself to lead the Persian army into a waterless trap
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 15 — §19 Periodising the Iron Age and its features
 
 iron arrives and the age of mounted tribal states opens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 16 — §20 Mastering iron and its place in early nomads' life
 
 iron tools and weapons arm the first nomads for the open steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 17 — §27 Sakas on Kazakhstan's territory
 
 the Saka tribes take the whole steppe from Altai to the Aral
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 18 — §28 Ancient Greek and Persian information about the Sakas
 
 Herodotus and Persian inscriptions introduce the Sakas to written history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 19 — §29 Archaeological information about the Sakas
 
 kurgan excavations let the Sakas speak without written words
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 20 — §30 The Issyk kurgan: the Golden Man
 
 a young warrior in golden armour rises from the Issyk mound as the nation's symbol
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 21 — §31 Royal kurgans of the Shilikty valley
 
 giant royal mounds guard Saka kings in the Shilikty valley
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 22 — §32 Besshatyr — a sacred, revered place
 
 five great kurgans ringed with menhirs form a Saka sanctuary
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 23 — §33 Berel — relics kept in 'eternal ice'
 
 frozen Berel graves preserve horses, wood and felt for two millennia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 24 — §34 Saka applied art: the animal style
 
 gold beasts twist and fight in the famous Scythian-Saka animal style
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 25 — §35 Saka religious beliefs and rites
 
 sun and fire cults and funeral feasts order Saka spiritual life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 26 — §36 Tasmola culture: the secret of the 'moustached kurgans'
 
 stone ridges stream from Tasmola mounds like moustaches across the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 27 — §37 The Sakas' communal structure
 
 clans and tribal unions hold Saka society together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 28 — §38 Queen Tomiris (Tumar)
 
 Tomiris defeats Cyrus and ends the Persian king's life at the river battle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 29 — §39 The Sakas' social structure
 
 kings, warriors, herders and slaves take their places in Saka order
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 30 — §40 Shirak's feat
 
 the shepherd Shirak cripples himself to doom the Persian army in the desert
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 31 — §41 Saka tribes' relations with neighbouring countries
 
 Sakas trade, raid and treat with Persia, Bactria and China
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 32 — 2.1 Mastering iron in Kazakhstan (lesson plans)
 
 iron's arrival is taught as the turn into the nomad age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 33 — 3.1 Historical information about the Sakas (lesson plans)
 
 Persian and Greek texts are read against the Saka map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 34 — 3.2 The Golden Man find (lesson plans)
 
 the Issyk discovery is staged as an archaeology detective lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 35 — 3.3 Shilikty and Besshatyr royal kurgans (lesson plans)
 
 royal mounds are measured and compared as royal power in earth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 36 — 3.4 The Berel kurgans (lesson plans)
 
 the frozen graves lesson shows preservation as a gift of the ice lens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 37 — 3.5 The Tasmola archaeological culture (lesson plans)
 
 moustached kurgans teach how archaeologists name a culture
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 38 — 3.6 Saka queen Tomiris (lesson plans)
 
 Tomiris's victory over Cyrus is read as history and as legend
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 39 — 3.7 Shirak's feat (lesson plans)
 
 the shepherd's self-sacrifice anchors a lesson on sources and heroism
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

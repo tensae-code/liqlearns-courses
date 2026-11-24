@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Henri IV grants France
 
 Henri IV grants Protestants peace in 1598 — the Edict of Nantes ends the wars by giving the minority a protected place.
 
-[Picture slot — a picture of Henri IV signing the Edict of Nantes in 1598 on one side and Louis XIV revoking it in 1685 on the other — the student says what was granted and what was taken back]
+In your mind's eye: henri IV signing the Edict of Nantes in 1598 on one side and Louis XIV revoking it in 1685 on the other. Say what was granted and what was taken back.
 
 ## Sub lesson 2 — 1685 — Louis XIV tears it up
 

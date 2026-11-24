@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sandesa poems carried 
 
 Sandesa poems carried by birds, chronicles and medical texts, Gal Vihara's stone Buddhas — the culture the medieval kingdoms left behind
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

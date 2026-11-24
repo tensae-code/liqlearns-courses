@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Moy Ba Ling, also call
 
 Moy Ba Ling, also called Houng Lee, sails from Australia in the 1850s, settles at Levuka, fetches relatives, and Chinese merchants open Fiji's first rural shops chasing gold, sandalwood and beche-de-mer.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

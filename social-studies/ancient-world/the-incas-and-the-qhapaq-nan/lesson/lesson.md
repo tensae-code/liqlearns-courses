@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Incas bind the And
 
 The Incas bind the Andes with the Qhapaq Ñan road network, terraced farms and a tightly ranked empire run without writing or money (Sección 3 Tema 1: los Incas)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: Constantine founds a N
 
 Constantine founds a New Rome on the Bosporus, where Europe meets Asia and the sea lanes cross
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 7 Constantinople is fortified and adorned with works of art
 
 Theodosian walls ring the city while forums, columns and churches dress the new capital as an empress
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 6 New capital exercises
 
 pupils match other refounded capitals to Constantinople's story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit 7 Fortified and adorned Constantinople exercises
 
 picture work reads the walls and monuments as the city's armour and crown
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. J5 Constantine: the great turn
 
 Constantine wins under the cross, tolerates and favours Christianity, and founds Constantinople — antiquity turns toward Byzantium
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Ch. 1.I.1 From Rome to the New Rome
 
 Constantine moves the empire's heart east and the Roman state begins its thousand-year Greek transformation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

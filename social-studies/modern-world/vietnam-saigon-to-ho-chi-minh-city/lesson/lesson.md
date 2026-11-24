@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: one city carries each 
 
 one city carries each era in its name, from Gia Định to the 1976 renaming
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 17 "Living forever" at home: the Mausoleum and the Hồ Chí Minh Museum with fourteen branches, people's own temples to him nationwide, the statue communist prisoners smuggled out of Côn Đảo prison (returned by the prison director's son in 2019), the supply routes land and sea that bore his name, the study-and-follow campaigns of 2006 and 2016 — and in 1976 the National Assembly renames Saigon as Ho Chi Minh City, recording that its people "always have boundless reverence for President Hồ Chí Minh and ardently want the city to bear his name"
 
 the state builds the mausoleum, but the book's evidence for immortality is what prisoners, porters and a renamed city did unasked
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

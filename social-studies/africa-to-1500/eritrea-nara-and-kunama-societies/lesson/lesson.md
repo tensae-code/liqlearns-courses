@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: the Nara and the Kunama of 
 
 The Nara and the Kunama of the Gash-Setit lowlands order life by kinship and ancestor worship — the Kunama know a person through the mother line and believe in the creator Anna.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Nara and Kunama societies as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Nara and Kunama societies as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

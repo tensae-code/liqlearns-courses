@@ -8,7 +8,7 @@ Lewis and Clark crossed a continent. Then Texas broke away, war took half of Mex
 
 Lewis and Clark crossed the continent on their famous expedition — mapping, naming and claiming a West the young republic had only just bought and barely knew. The nation's eyes turned west for good.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Missouri cracks the balance; Texas breaks from Mexico
 

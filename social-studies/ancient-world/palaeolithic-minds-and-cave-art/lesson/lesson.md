@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: palaeolithic people thought
 
 Burials, images and objects are the only voice left by people who thought deeply but wrote nothing.
 
-[Picture slot — a picture of the key place or moment of Palaeolithic minds and cave art as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Palaeolithic minds and cave art as the book shows it. Point to it and say what it shows.
 
 ## Say it to your companion
 

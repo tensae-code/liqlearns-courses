@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Moscow builds a Moldav
 
 Moscow builds a Moldavian ASSR on the Nistru's left bank as a claim on Bessarabia; collectivisation reaches 96.6% by 1937, the "kulaks" are destroyed, and the Latin script is banned as a Romanianising danger
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 18: Constituirea RASSM: politici și impact
 
 the memorandum of 4 February 1924 sets up the Moldavian ASSR; agriculture expands, then the liquidation of the "chiaburi" catalogues over 3,200 peasant households for destruction
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

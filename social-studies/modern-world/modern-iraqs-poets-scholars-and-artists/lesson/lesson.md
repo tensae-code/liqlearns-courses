@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: al-Jawahiri sings to t
 
 al-Jawahiri sings to the Tigris from exile; al-Sayyab, Nazik al-Malaika, Sargon Boulus and the Kurdish poet Goran voice their homeland; Mandaean physicist Abdul Jabbar Abdullah becomes Baghdad University's first president after 1958; sculptor Jawad Saleem raises the Freedom Monument in Tahrir Square
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

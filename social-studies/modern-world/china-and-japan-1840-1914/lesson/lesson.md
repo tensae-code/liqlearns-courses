@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Qing China (1642–191
 
 Qing China (1642–1912), rich and self-satisfied, is forced open by foreign powers, while Japan studies the same West and modernises instead of submitting (Ch. 1 Lesson 2, China and Japan (1840–1914))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

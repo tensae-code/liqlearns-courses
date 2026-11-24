@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pupils watch a documen
 
 pupils watch a documentary on Sinja, Jumla, capital of the Khas kingdom founded by Nagaraj from Tibet's Ngari; kings Nagraj, Krachalla, Ashok Challa (builder of Kankre Bihar, Surkhet), Jitari and Ripu Malla extend it until it breaks apart around 1450 BS into the Baise and Chaubise states — and from its Khas speech grows the Nepali language, whose first inscription stands at Dullu
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

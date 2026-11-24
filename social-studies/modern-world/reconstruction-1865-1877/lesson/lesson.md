@@ -8,7 +8,7 @@ The war destroyed slavery. Reconstruction tried to build freedom's meaning — a
 
 Lincoln's lenient restoration would have brought the South back quickly and softly. Congress answered with its own remaking of the South — Radical Reconstruction, imposed on the defeated states with federal power behind it.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Amendments and Black officeholders
 

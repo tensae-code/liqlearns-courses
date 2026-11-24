@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the national past is d
 
 the national past is divided into pre-Columbian, colonial (1502-1821), state-formation (1821-1893) and modern (1893-1979) periods, each summed up by its defining change
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

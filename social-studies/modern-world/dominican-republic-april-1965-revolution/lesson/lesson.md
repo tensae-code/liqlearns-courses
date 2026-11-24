@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Constitutionalist sold
 
 Constitutionalist soldiers and civilians rise to restore Bosch, and the United States intervenes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 3 La Revolución Constitucionalista
 
 In April 1965 constitutionalists take up arms to restore the 1963 constitution and Bosch.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 3 Intervención militar estadounidense y negociaciones
 
 US troops land again, and the revolution is negotiated into elections.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

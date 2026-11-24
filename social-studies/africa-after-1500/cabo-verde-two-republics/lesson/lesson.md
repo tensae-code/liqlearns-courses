@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 The First Republic rules one-party under the PAIGC/PAICV with its first leaders and symbols.
 
-[Picture slot — a picture of two ballot scenes: one with a single party's banner, and one in 1991 with many parties' banners over a polling station — the student says which Republic each scene belongs to.]
+In your mind's eye: two ballot scenes: one with a single party's banner, and one in 1991 with many parties' banners over a polling station. Say which Republic each scene belongs to.
 
 
 ## Sub lesson 2 — The Second Republic, 1991

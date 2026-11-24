@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: After Lenin's death, S
 
 Lenin dies leaving a Testament that warns against Stalin; Stalin poses as Lenin's loyal disciple, outmanoeuvres Trotsky and the party wings in turn, and ends the NEP.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 3.2 The use of terror in the 1930s
 
 The NKVD works to arrest quotas, so people are seized for a scribble on Stalin's photograph or for nothing at all; purges, show trials and the gulag follow.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 3.3 Propaganda and censorship
 
 Socialist realism conscripts art, novels and music — 'Woman, get on the locomotive!' — as Stalin's 'engineers of souls' set out to manufacture a new kind of person.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 3.4 The cult of Stalin
 
 Posters, paintings, poems and songs rewrite the past itself, showing Stalin as Lenin's intimate friend and October's planner — roles that were not his.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

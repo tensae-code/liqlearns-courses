@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the old Yemenis write 
 
 the old Yemenis write in the Musnad and Zabur scripts on stone, bronze and wood, keep a library in the Awwam temple at Marib, practise medicine from teeth and eyes to fractures and embalming, read the stars for farming seasons and sailing, count for trade and state, and refine copper and bronze into coins, jewellery, weapons and statues of kings
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

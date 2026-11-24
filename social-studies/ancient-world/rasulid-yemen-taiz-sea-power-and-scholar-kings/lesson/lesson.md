@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Nur al-Din Umar ibn Al
 
 Nur al-Din Umar ibn Ali ibn Rasul, appointed over Yemen by the Ayyubids, declares himself king, builds a fleet at Aden and fortifies the coast to Dhofar; his scholar-kings endow schools like al-Mu'tabiyya at Zabid, introduce rice to Yemen, send Baybars 500 knights against the Tatars, strike gold and silver coins, and themselves write books on farming and guidance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Craxi's decisionismo (
 
 Craxi's decisionismo (Lanaro's Storiografia) and the Milan-to-drink years project confidence while Berlinguer's Document denounces the parties' degeneration — the moral question is posed before the judges pose it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

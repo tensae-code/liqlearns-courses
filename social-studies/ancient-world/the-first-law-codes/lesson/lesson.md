@@ -10,7 +10,7 @@ Turkey's Grade 9 book ends its first-age unit with the birth of written law. The
 
 The change the book stresses is not any single rule but the fact of the stone itself. While law lives only in a ruler's mouth, justice is the strong man's mood. Written and published, the same law binds the judge as well as the judged: a poor man can point at the stone. Justice stops being the strong man's mood and becomes a stone everyone can read — and that, for the book, is laws being born.
 
-[Picture slot — a picture of Hammurabi's tall stone stele in a public square, a crowd gathered while a reader reads the carved laws aloud — the student points to the stone and says why the laws were put where everyone could reach them.]
+In your mind's eye: hammurabi's tall stone stele in a public square, a crowd gathered while a reader reads the carved laws aloud. The student points to the stone and says why the laws were put where everyone could reach them.
 
 ## Say it to your companion
 

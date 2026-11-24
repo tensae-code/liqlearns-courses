@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: the Grand Council's mi
 
 the Grand Council's ministers may only copy the emperor's words, never add their own; under Kangxi, Yongzheng and Qianlong the literary inquisition kills 70 people over a history book's dating and a poet over one ambiguous line
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Imperial power grows, crisis nears
 
 ever-stronger emperors and a closed, self-satisfied court carry feudal China toward its modern-eve crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The crisis inside Qianlong's prosperity
 
 pupils interrogate the most prosperous reign of all and find the rot — population pressure, corruption and closure — already inside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The crisis inside the height
 
 population trebles, corruption festers, the White Lotus rises and the sea stays closed while Britain industrialises next door
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

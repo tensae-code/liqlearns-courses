@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Allidina Visram opens 
 
 Allidina Visram opens Kampala's first shop, Indian coolies build the Kenya–Uganda railway, rupees become currency and Banyan moneylenders finance the new economy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Indians in East Africa
 
 The testing exercises ask why Indian coolies were brought to Uganda and which Indians became the money lenders — labour first, then the dukas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Asians in East Africa
 
 Besides the Europeans, the Asians take an interest in East Africa — the chapter plants them inside the colonisation story, not after it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Uganda Railway
 
 Britain wants Uganda as the Nile's source and for its cotton, richer than Kenya's; the line planned from 1892 kills those who refuse it passage — the Nandi leader Koitale among them — and grows towns on European and Indian businesses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: gold, titles, marriage
 
 gold, titles, marriages and ceremony at the palace reception disarm enemies the army cannot beat
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 38 Diplomacy exercises
 
 class discussion starts from the word "diplomacy" in today's phrases and works back to the palace
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

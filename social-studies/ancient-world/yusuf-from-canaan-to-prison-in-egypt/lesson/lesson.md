@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yusuf, eleventh of Yaq
 
 Yusuf, eleventh of Yaqub's twelve sons in Canaan, dreams of eleven stars and the sun and moon bowing to him, his jealous brothers throw him into a well, a trade caravan fishes him out and sells him in Egypt to the Aziz, whose wife he refuses at the price of prison — and in prison the servant of God becomes a teacher, reading the dreams of the cupbearer and the baker
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

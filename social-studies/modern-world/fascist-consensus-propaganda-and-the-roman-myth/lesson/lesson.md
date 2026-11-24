@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: radio, cinema, sport �
 
 radio, cinema, sport — even women's football, tolerated then banned (image study) — and the myth of romanità manufacture consent; de Grazia's Storiografia weighs women's assigned place inside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 6 §3 Scuola, cultura, informazione
 
 consensus (the module's keyword) is manufactured in classrooms and newsrooms — the press directives (Fare storia Document) show the leash in writing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

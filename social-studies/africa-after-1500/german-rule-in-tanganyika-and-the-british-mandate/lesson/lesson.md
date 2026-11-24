@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: German rule is hated f
 
 German rule is hated for cruelty and forced plantation labour; after the war the British expel German settlers, replace Jumbes and Akidas with traditional chiefs, and rename the country Tanganyika
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Colonial Administration in Tanganyika (Direct Rule)
 
 The Germans rule directly — by force, an 1891 railway to the coast, and missionaries whose "beautiful" preaching softens hearts — because, having tasted Tanganyikan resistance, they dare not rule indirectly
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

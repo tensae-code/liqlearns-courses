@@ -8,7 +8,7 @@ One source boasts; one source counts. A British magazine in 1911 praised British
 
 Bangladesh's Grade 8 book teaches British rule by setting two verdicts face to face. The first is a boast: a 1911 British weekly praises the peace and security British rule gave to India. The second is a count: economist Angus Maddison reckons India's share of world wealth collapsed to about 3 percent by the time the British left. The lesson is a history lesson and a source lesson at once: the rulers' own magazine and the numbers cannot both be the whole truth, and the learner is left to judge which verdict the evidence carries.
 
-[Picture slot — a picture of two facing pages — on one, a proud 1911 magazine page praising peace and security; on the other, a falling chart of India's share of world wealth down to about 3 percent — the student points to each page and says whose verdict it is.]
+In your mind's eye: two facing pages — on one, a proud 1911 magazine page praising peace and security; on the other, a falling chart of India's share of world wealth down to about 3 percent. The student points to each page and says whose verdict it is.
 
 ## Say it to your companion
 

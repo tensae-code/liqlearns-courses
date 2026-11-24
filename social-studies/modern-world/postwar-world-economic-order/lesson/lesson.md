@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Six nations sign the E
 
 Six nations sign the European Common Market into being in 1957, UNCTAD speaks for the poor countries from 1964, and in January 1995 the WTO takes over world trade's rulebook
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

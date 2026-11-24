@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From the first insurre
 
 Free people of colour demand their rights and the enslaved begin to rise — the colony cracks before the great august night (Séance 2, Les premières insurrections)
 
-[Picture slot — a picture of the Battle of Vertières in 1803 — the student says who won, and what was declared weeks later]
+In your mind's eye: the Battle of Vertières in 1803. Say who won, and what was declared weeks later.
 
 ## Sub lesson 2 — The insurrection of summer 1791 — Bois Caïman
 

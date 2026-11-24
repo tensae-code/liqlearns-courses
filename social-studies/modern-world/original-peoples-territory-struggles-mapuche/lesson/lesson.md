@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Mapuche, people of
 
 The Mapuche, "people of the land," resist the Chilean state over their territory, as Jewish and Palestinian claims collide over one land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

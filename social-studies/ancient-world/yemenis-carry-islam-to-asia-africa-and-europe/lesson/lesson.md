@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yemeni soldiers, merch
 
 Yemeni soldiers, merchants and callers carry Islam on every road — Yemeni blocs fight at Yarmouk and al-Qadisiyya and plan Damascus, Homs, Basra and Kufa; Yemeni traders settle Gujarat and the Malabar coast, sail to Canton and the Indonesian islands, cross Bab el-Mandeb into the Horn and down to Sofala, march with Amr into Egypt and with Musa ibn Nusayr through the Maghreb into Spain, where Tarif's landing names Tarifa and al-Ghafiqi falls at Tours
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

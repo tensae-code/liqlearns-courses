@@ -16,7 +16,7 @@ And the module insists on the women. Julia Mulenga Nsofwa, known across the coun
 
 Behind the famous names, the module names the others — and first among them a man every Zambian has seen. John Zanco Mpundu Mutembo is the man on the Freedom Statue, breaking his chains, and his figure appears on the currency too.
 
-[Picture slot — a picture of the Zambian places and people named in this lesson, as the book tells it: name one person or place and say what happened there.]
+In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
 With him stand Moses Chinyama Luneta, Lewis Changufu, Nalumino Mundia, Reuben Kamanga, Sikota Wina, Justin Chimba, Grey Zulu and Aaron Milner — youth militants and union men of the struggle. And the module remembers even the boys: the Mposa Mabwe stone throwers of Kitwe, whose stone-throwing, arrests and courage sped the British toward the exit. The lesson the names teach together is that independence was not one man's gift — it was carried by leaders, organisers, fighters and children alike.
 

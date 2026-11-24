@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Masaryk's republic is 
 
 Masaryk's republic is born from the First World War (1918), governed with Beneš, dismembered at Munich in 1938, and remade after 1945 as a people's democracy of 15 million (Ch. 1 Lesson 8, Czechoslovakia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

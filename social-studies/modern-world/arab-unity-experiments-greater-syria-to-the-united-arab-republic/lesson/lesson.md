@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Abdullah's Greater Syr
 
 Abdullah's Greater Syria and Nuri al-Said's Fertile Crescent both fail on their neighbours' refusal; the Arab League is born at Alexandria in 1944–45 with Yemen a founding signatory; the Hashemite Arab Union of 1958 dies in Iraq's July revolution; and the United Arab Republic of Egypt and Syria, proclaimed to popular joy in February 1958, is undone by Syrian officers' secession of 28 September 1961, which Nasser refuses to crush by force
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

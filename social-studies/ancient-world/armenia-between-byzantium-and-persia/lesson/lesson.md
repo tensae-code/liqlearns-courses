@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: two empires carve Arme
 
 two empires carve Armenia between wars and treaties, and Armenians serve, resist and survive inside both
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 5.3 The Arab Caliphate's domination in Armenia
 
 Arab armies take the country in the 7th century, and Armenia lives under caliphs through tribute, revolts and uneasy treaties
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

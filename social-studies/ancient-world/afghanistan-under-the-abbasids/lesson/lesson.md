@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the Abbasids reach the
 
 the Abbasids reach the caliphate with the support of Afghanistan's own people, and the map of lands loosening from Baghdad begins at the eastern edge
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 5: Afghanistan in the Abbasid era
 
 the eastern provinces live under Baghdad's caliphate and loosen from it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

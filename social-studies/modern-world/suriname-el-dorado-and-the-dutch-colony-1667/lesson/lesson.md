@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Spaniards chase the go
 
 Spaniards chase the golden king El Dorado by Lake Parima and leave the "Wild Coast" disappointed; around 1650 Willoughby's English plant tobacco and sugar and build Fort Willoughby, until Abraham Crijnssen's Zeeland fleet takes Suriname in 1667 and the fort becomes Fort Zeelandia (El Dorado, Willoughby and Crijnssen)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Europeanen in de Guyana's
 
 Columbus coasts Venezuela on his third voyage but never lands in Suriname; later Spaniards pushing up the Amazon are shot at with poisoned arrows and chase golden legends along the Wild Coast (Europeanen in de Guyana's)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Engelsen koloniseren ons land
 
 In the first half of the 1600s English settlers lay out some 60 plantations shipping tobacco and sugar to England, making Suriname an English plantation colony (Engelsen koloniseren ons land)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ons land wordt een Nederlandse kolonie
 
 In the Second Anglo-Dutch War Crijnssen takes Suriname (1667); the West India Company rules it, and in 1683 Cornelis van Aerssen van Sommelsdijck becomes governor (Ons land wordt een Nederlandse kolonie)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

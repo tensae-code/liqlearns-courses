@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: on the rising's eve th
 
 on the rising's eve the homeland is divided among Mughal India, Safavid Iran and the Uzbeks; the people of Kandahar under Haji Mirwais Khan Hotak free their land from Safavid rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 17: The Kandahar uprising led by Haji Mirwais Nikah
 
 Mirwais Hotak frees Kandahar from Safavid rule in 1709
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

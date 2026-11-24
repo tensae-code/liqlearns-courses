@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: After Ali's martyrdom 
 
 After Ali's martyrdom a new age opens — the Umayyad state rules for about ninety-one years, the conquests widen, government and administration develop, and building and learning flourish — until the causes of its fall gather and the caliphate passes on.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Islamic conquests in the Umayyad age
 
 Under the Umayyads the paused movement of conquest rolls again to the state's widest reach.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

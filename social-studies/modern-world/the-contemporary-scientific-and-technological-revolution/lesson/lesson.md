@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: human work passes from
 
 human work passes from hand to machine to the age of space, biology and information networks; the revolution is fast, cumulative and double-edged — new energy, cloning and remote sensing beside widening gaps between advanced and developing worlds — and the book closes by asking what the Arabs must build to root research and invention in their own homeland
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

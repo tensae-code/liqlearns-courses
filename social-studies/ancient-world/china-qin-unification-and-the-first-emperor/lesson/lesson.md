@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Li Si's memorial stops
 
 Li Si's memorial stops the expulsion of foreign advisers, Ying Zheng conquers the six states by 221 BCE, and the First Emperor standardises script, coinage, weights and axle-widths and rules through commanderies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Burning books, burying scholars, and Qin's fall
 
 on Li Si's advice the First Emperor burns the histories of the other states and buries scholars alive; within four years of his death peasant rebels and Xiang Yu and Liu Bang tear the empire down
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

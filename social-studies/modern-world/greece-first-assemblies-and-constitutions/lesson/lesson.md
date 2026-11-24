@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: while fighting, the Gr
 
 while fighting, the Greeks hold national assemblies and vote constitutions among the most liberal in Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Rivalries over the exercise of power
 
 captains, islanders and politicians fall into civil wars even while the enemy is at the gates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The revolutionaries build a state; Kapodistrias and the settlement
 
 assemblies vote constitutions mid-war, civil conflict follows, and Kapodistrias governs a recognised but tiny kingdom-in-waiting
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

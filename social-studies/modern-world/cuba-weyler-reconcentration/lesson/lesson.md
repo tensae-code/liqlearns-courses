@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: General Weyler empties
 
 General Weyler empties the countryside into reconcentration camps where civilians starve by the thousand, meaning to drain the sea the mambí fish swim in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 5.4 Development of the war 1896–1897
 
 Maceo falls, Weyler reconcentrates the peasantry, and the war becomes a contest of endurance the empire is losing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

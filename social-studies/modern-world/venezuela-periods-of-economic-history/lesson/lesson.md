@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: By the fifteenth centu
 
 By the fifteenth century the story opens, and Venezuela's economy is divided into named periods children must learn to tell apart
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Cacao, coffee, oil and population
 
 Three export products in a row remake where Venezuelans live and how many they are — each crop, then oil, redraws the population map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

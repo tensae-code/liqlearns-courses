@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Africans scattered by 
 
 Africans scattered by slavery, migration and exile form diasporas — ancient, modern and contemporary (UA9 Diasporas anciennes, modernes et contemporaines)
 
-[Picture slot — a picture of the African diaspora across the world — communities abroad still tied to Africa — the student names one contribution of the diasporas]
+In your mind's eye: the African diaspora across the world — communities abroad still tied to Africa. Name one contribution of the diasporas.
 
 ## Sub lesson 2 — Brain drain and contributions
 

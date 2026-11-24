@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sangam literature — 
 
 Poems composed around 2300 years ago are gathered in assemblies — sangams — of poets at Madurai, preserving the Tamil words for the village's people and becoming a historian's source in verse.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

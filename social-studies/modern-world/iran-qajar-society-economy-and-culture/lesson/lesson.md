@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: beneath the court, tri
 
 beneath the court, tribes, peasants, bazaar merchants and the first schools and newspapers — a society quietly changing under an unchanging throne (Social, economic and cultural conditions of the Qajar era)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

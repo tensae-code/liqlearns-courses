@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Islamic-era sites surv
 
 Islamic-era sites survive inside kuwait, and the state answers by founding the dar al-athar al-islamiyyah to collect and guard islamic heritage.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Gorbachev's "common Eu
 
 Gorbachev's "common European home" (Document) meets republics walking out; Darnton's Document stands at the fallen Berlin Wall — the USSR dissolves without the war everyone feared
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 14 §§1–4 Un impero in crisi; Il crollo del Muro di Berlino e la riunificazione tedesca; La fine delle "democrazie popolari"; La dissoluzione dell'Urss
 
 9 November 1989 (Eventi) opens the Wall; Bongiovanni, Darnton at the Wall and Maier on reunification (Fare storia pieces) argue the causes — an empire ends by implosion, not invasion
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

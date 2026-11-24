@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mongolia gives horses,
 
 Mongolia gives horses, meat, wool and a tank column to the Soviet war effort, then in August 1945 declares war on Japan and marches into Inner Mongolia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. III.6 The MPR in the Second World War; the consolidation of independence
 
 Khalkhin Gol 1939, the total war economy, the "Revolutionary Mongolia" tank column, and the August 1945 campaign against Japan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

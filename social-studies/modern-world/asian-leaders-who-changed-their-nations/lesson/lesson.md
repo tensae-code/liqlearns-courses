@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Aung San Suu Kyi holds
 
 Aung San Suu Kyi holds her convictions through years of house arrest; Gandhi, the "political giant" who was really a social activist, breaks an empire with nonviolent disobedience — beside Mao Zedong, Hirohito, Chiang Kai-shek and Indira Gandhi
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Individuals and groups as agents of change
 
 The long line of Asia's changemakers — Genghis Khan and Kublai Khan, Emperor Meiji, the Tokugawa Shogunate, the Qin, the Kuomintang, and the Chinese Communist Party ruling since Mao and remaking China into the world's second economy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

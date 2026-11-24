@@ -10,7 +10,7 @@ The United Arab Emirates Grade 1 book opens its country's story with a journey a
 
 Inside that story sits a map: the map of the seven emirates. Seven emirates, side by side, together make one country — the United Arab Emirates. That is the first fact of the nation's history as the book teaches it to six-year-olds: the country is a union, a joining-together, and the museum is where its birth is kept and shown.
 
-[Picture slot — a picture of the map of the seven emirates as the book shows it: count the emirates on the map and say that together they make one country.]
+In your mind's eye: the map of the seven emirates as the book shows it. Count the emirates on the map and say that together they make one country.
 
 ## Sub lesson 2 — Landmarks old and new, and "Zayed taught me"
 

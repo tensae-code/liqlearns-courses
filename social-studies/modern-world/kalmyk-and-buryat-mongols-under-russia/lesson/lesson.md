@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Torghuts who migrated 
 
 Torghuts who migrated to the Volga become Russia's Kalmyks (and in 1771 half perish returning); Buryats are cut off by the 1689 and 1727 treaties — Mongols under a second empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

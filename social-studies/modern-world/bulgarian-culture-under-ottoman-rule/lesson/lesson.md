@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Damaskins, frescoes an
 
 Damaskins, frescoes and monastery schools keep Bulgarian letters alive without a state (Lesson 26: The cultural face of the Bulgarian lands in the 15th–17th centuries)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

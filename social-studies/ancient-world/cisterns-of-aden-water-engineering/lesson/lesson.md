@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Aden, the port bridgin
 
 Aden, the port bridging east-west trade, solves its thirst with giant cisterns cut into Wadi al-Tawila on the slopes of Jabal Shamsan under the Himyarite kings — a cascading chain of tanks some 229 metres long that cleans the water as it falls, holding some 14 million litres and shielding the crater city from the floods; of 55 cisterns, 18 still stand in good repair after the British occupation destroyed many
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

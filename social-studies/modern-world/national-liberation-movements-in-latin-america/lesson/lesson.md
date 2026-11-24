@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: workers, students and 
 
 workers, students and intellectuals answer repression with liberation movements in the 1960s-80s, while South America's debt crisis instead pushes dictatorships back toward elected governments
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Movimientos centroamericanos: FMLN, Cinchoneros y FSLN
 
 El Salvador's FMLN (1980), Honduras's Cinchoneros and Nicaragua's FSLN (1961) fight for land, wages and an end to military rule; the Sandinista triumph inspires the region
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

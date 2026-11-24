@@ -10,7 +10,7 @@ Turkey's Grade 12 book sorts the Ottoman war into three kinds of front. The offe
 
 Above them all stands Gallipoli, the empire's one immortal victory of the war — won under the colonel who will found the republic, Mustafa Kemal. The book's beat joins the map to the man: the empire fights on more fronts than any ally, and its one immortal victory is won by the colonel who will found the republic.
 
-[Picture slot — a picture of the Gallipoli peninsula — trenches on the ridges above the straits, warships held off in the water below — the student points to the straits and says why holding them mattered to the whole empire.]
+In your mind's eye: the Gallipoli peninsula — trenches on the ridges above the straits, warships held off in the water below. The student points to the straits and says why holding them mattered to the whole empire.
 
 ## Say it to your companion
 

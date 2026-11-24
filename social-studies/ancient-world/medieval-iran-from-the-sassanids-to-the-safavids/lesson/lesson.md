@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ardashir and Shapur re
 
 Ardashir and Shapur revive Persia under the Sassanids, Arab conquerors bring Islam, Seljuks and Mongols and Timur follow, and Shah Ismail's Safavids make Iran a Shi'a empire that Shah Abbas raises to its height
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

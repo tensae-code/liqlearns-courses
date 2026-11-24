@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: perestroika loosens th
 
 perestroika loosens the union until it dissolves in 1991, and fifteen new states — Armenia among them — start over
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 4, Lessons 53–55: the collapse of the USSR; the post-Soviet countries
 
 Gorbachev's reforms loosen the union until it breaks apart in 1991, and fifteen new states, Armenia among them, start independent life in hardship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

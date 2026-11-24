@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Persians take Jerusale
 
 Persians take Jerusalem and the True Cross; Heraclius wins it back, then Arab armies take Syria and Egypt in his old age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The reign of Heraclius (610–641): decisive struggles and reforms
 
 Heraclius beats Persia in a war of survival, reorganises the army into themes — and lives to see the Arabs take Syria and Egypt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

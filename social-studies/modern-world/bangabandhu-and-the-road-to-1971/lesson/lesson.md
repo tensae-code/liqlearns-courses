@@ -8,7 +8,7 @@ Bangladesh's books give their founder a road, not just a statue: student protest
 
 The Grade 7 book's Bangabandhu is a traveller before he is a statue: Mujib journeyed Bengal's waterways to reach its people, village by village. The road then runs through dates every Bangladeshi learner knows: he leads the 6-Point movement of 1966, the mass uprising of 1969, and the 1970 election victory — and on 7 March he declares that 'the struggle this time is the struggle for our emancipation'. The book files the declaration as a plot beat in the road, the moment the movement's demand becomes independence's call. (Filed as plot summary only, in the course's own words apart from the book's own short quoted line.)
 
-[Picture slot — a picture of Sheikh Mujibur Rahman addressing a vast crowd in Dhaka in 1971, one hand raised — students and ordinary people filling the ground before him — the student points to the crowd and says who made the road with him.]
+In your mind's eye: sheikh Mujibur Rahman addressing a vast crowd in Dhaka in 1971, one hand raised — students and ordinary people filling the ground before him. The student points to the crowd and says who made the road with him.
 
 ## Sub lesson 2 — Mujib's early struggle — Urdu-only, jail and the hunger strike of 1952
 

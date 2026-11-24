@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Three lives carry the 
 
 Three lives carry the founding — Muhammad Ali Jinnah, born in Karachi in 1876, who joins the Muslim League in 1913, presides over the 1940 Lahore session and becomes the new state's first Governor-General before his death in 1948; Allama Iqbal, born in Sialkot in 1877, whose 1930 Allahabad address first dreams the separate homeland aloud; and Fatima Jinnah, the Quaid's sister, a dentist who stands beside the movement and is remembered as Madar-e-Millat, Mother of the Nation.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

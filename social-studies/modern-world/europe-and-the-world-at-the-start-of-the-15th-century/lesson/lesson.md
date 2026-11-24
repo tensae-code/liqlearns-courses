@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Feudal Europe begins t
 
 Feudal Europe begins to crack; new economic and social forces push the continent from the feudal regime toward a capitalist world system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

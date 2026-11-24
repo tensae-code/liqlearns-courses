@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gandhi returns in 1915
 
 Gandhi returns in 1915, answers the Rowlatt Act and repression with satyagraha, launches Quit India in 1942, and on 15 August 1947 India is free — but cut in two, as Jinnah's Pakistan is born beside it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

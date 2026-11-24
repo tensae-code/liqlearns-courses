@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 Under occupation, the Catholic Church becomes a shelter for the people — a place of protection when little else can protect them. Its power shows in one great scene the book teaches: the Pope's mass at Tasi-Tolu, where a religious gathering becomes, in the same moment, a demonstration — a whole people visible to the world.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Diplomats carry the cause to the world
 

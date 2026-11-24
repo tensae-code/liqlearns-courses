@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: sculptors and builders
 
 sculptors and builders seek perfect proportion and theatres turn myth into public drama
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §27 Culture of ancient Greece
 
 temples, statues and tragedies make Greek culture the ancient world's model
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §26 What Greek art was like (lesson plan)
 
 sculpture and temples teach proportion and the human image
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

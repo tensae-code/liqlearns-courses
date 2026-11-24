@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: one homeland mid-old-w
 
 one homeland mid-old-world, commanding land and sea trade routes, with varied climate, rivers, rains and fertile soil, lifts six sister civilisations at once: Yemen on its dams, terraces and incense; Mesopotamia between the two rivers; the Levant as bridge of nations; Egypt, the gift of the Nile; the Maghreb facing Europe across the sea; and the Gulf, where Dilmun gathers pearls and trade, Failaka re-exports to Iraq and India, and Magan ships copper and builds boats
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

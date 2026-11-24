@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: Abulkhair's oath of 17
 
 Abulkhair's oath of 1731, taken under Dzhungar pressure, opens the long road from alliance to annexation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §9 The causes and consequences of Abulkhair's acceptance of Russian subjecthood
 
 Abulkhair swears the oath of 1731 seeking Russian guns against the Dzhungars — and opens the door to empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §10 The Russian Empire's policy in Kazakhstan in the 1730s–40s
 
 Orenburg is founded and the empire turns a defensive alliance into administration
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §2.2 What were the reasons for Abulkhair Khan's letter to Empress Anna Ioannovna?
 
 one letter of 1730 is cross-examined — plea for help, or surrender of sovereignty?
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §2.3 How did the Middle Zhuz join Russia?
 
 the Middle Zhuz's oaths and embassies follow a different road to the same empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Lesson plans §§9–14: Abulkhair's oath; Russia's policy in the 1730s–50s; Abylai's rise and policy
 
 the oath is analysed for causes and aims, then Abylai is built up lesson by lesson as the khanate's restorer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

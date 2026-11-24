@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pak Saleh carves twent
 
 Pak Saleh carves twenty leather wayang puppets and performs wayang kulit behind a screen, singing a story that teaches the audience to plant trees (Pak Saleh laat de poppen bewegen)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

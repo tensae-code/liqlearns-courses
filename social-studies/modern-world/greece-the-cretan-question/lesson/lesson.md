@@ -8,55 +8,55 @@ Before you read on, hold this lesson's one thing in mind: Crete rises in 1821, 1
 
 Crete rises in 1821, 1866, 1878 and 1897, wins autonomy under Prince George, and waits for union
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Cretan question (1821–1905)
 
 Crete rises again and again against Ottoman rule, wins autonomy under Prince George, and waits for union with Greece
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Worksheet 4: Toward the end of Ottoman rule (19th century)
 
 Tanzimat reforms and the Halepa charter of 1878 loosen the old order; Christian townspeople rise as the Muslim landowning class declines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Cretan Question
 
 Crete's repeated risings force Europe to grant autonomy while union with Greece waits
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Theme 4 A: The struggle of the national uprising in Crete (1821–1830)
 
 Crete rises with the mainland in 1821, is crushed by Egyptian troops, and is left outside the first Greek state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Theme 4 B: The period 1830–1866
 
 a decade of Egyptian rule, the failed 1841 revolt and quiet conspiracies keep the union demand alive
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — Theme 4 C: The Great Cretan Revolution (1866–1869)
 
 the Arkadi explosion shakes Europe; three years of war end not in union but in an Organic Law conceding self-government
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Theme 4 D: The Cretan question in the last period of Turkish rule (1869–1898)
 
 the Halepa Pact of 1878, new revolts in 1889 and 1895–96, the disastrous 1897 war and the Heraklion massacre force the powers to impose autonomy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — Theme 4 E: The period of autonomy and the union of Crete with Greece
 
 Prince George and then Zaimis govern the Cretan State, Venizelos rebels at Theriso for union, and in 1913 the island finally joins Greece
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Triệu Đà tak
 
 after Triệu Đà takes Âu Lạc in 179 BC, rising follows rising — 40, 248, 542, 713, 766, 905 — until Ngô Quyền's Bạch Đằng victory of 938 ends domination and opens lasting independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 8 A thousand years of uprisings under northern rule: the Trưng sisters (40–43), Bà Triệu (248), Lý Bí founding Vạn Xuân (542–544) with Triệu Quang Phục's guerrilla victory, Phùng Hưng at Đường Lâm (late 700s), until Khúc Thừa Dụ and Ngô Quyền's 938 Bạch Đằng end the domination
 
 empire after empire must re-conquer the same small country, until the river battle of 938 closes the account
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

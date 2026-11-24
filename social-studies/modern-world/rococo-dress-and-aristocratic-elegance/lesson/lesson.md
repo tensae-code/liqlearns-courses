@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pastel silk, panniers 
 
 pastel silk, panniers and towering hair carry aristocratic elegance to its extreme just before the Revolution sweeps it away
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

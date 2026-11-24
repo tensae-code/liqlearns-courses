@@ -10,7 +10,7 @@ The Saudi Arabia Grade 4 book tells this story inside Unit 2, as a story activit
 
 The story stands on what King Abdulaziz had already done: he had secured the roads and unified the country. The kingdom exists. Its towns are one country now, under one king.
 
-[Picture slot — a picture of a desert road between two Saudi towns at dusk, a single courier on horseback carrying a sealed letter, watchers hidden far off among the rocks — the student points to the courier and says what he carries and why it must arrive.]
+In your mind's eye: a desert road between two Saudi towns at dusk, a single courier on horseback carrying a sealed letter, watchers hidden far off among the rocks. The student points to the courier and says what he carries and why it must arrive.
 
 ## Sub lesson 2 — The secret letter
 

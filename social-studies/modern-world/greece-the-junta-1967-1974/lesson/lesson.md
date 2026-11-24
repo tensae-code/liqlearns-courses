@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: unstable governments, 
 
 unstable governments, a murdered deputy, then colonels' tanks at dawn; seven years of junta end with the Cyprus catastrophe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Postwar Greece: hopes, disappointment and the military dictatorship (1945–1974)
 
 reconstruction and growth under a guarded democracy, then the colonels' coup of 1967
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Greece up to 1974
 
 post-civil-war growth under a watched democracy, the Cyprus crisis of 1963–64, and the colonels' junta of 1967–1974
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

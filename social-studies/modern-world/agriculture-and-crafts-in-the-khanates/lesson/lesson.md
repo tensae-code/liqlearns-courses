@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: aryks and water-master
 
 aryks and water-masters, cotton and karakul, guild crafts in the old cities — an economy rich in skill and poor in machines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

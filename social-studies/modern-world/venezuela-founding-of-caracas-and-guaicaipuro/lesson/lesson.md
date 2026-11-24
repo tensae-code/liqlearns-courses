@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Tocanai falls and Para
 
 Tocanai falls and Paramaconi retreats; weakened resistance and land watered with indigenous warriors' blood precede the city, and cacique Guaicaipuro is killed resisting
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Capital of the Republic
 
 Even a Caracas district, Catia, carries cacique Catia's name — the capital's map is an indigenous-and-colonial palimpsest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

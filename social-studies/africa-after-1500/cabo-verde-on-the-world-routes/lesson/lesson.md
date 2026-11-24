@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 The islands become a strategic Atlantic stopping point.
 
-[Picture slot — a picture of sailing ships anchored below the town of Ribeira Grande on Santiago, with goods being loaded for the West African coast — the student says why ships stopped here.]
+In your mind's eye: sailing ships anchored below the town of Ribeira Grande on Santiago, with goods being loaded for the West African coast. Say why ships stopped here.
 
 
 ## Sub lesson 2 — Ribeira Grande rises

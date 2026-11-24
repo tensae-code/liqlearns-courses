@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 23 July 1952 Revol
 
 The revolution abolishes feudalism — agrarian reform from September 1952 caps ownership at fifty feddans — makes education free at every stage, builds the High Dam and Helwan's steelworks and gives women the vote in 1956; abroad it backs the independence of Sudan and Algeria and the rights of Palestine, breaks the arms monopoly with the Czech deal, co-founds the Non-Aligned Movement at Bandung in 1955, and unites with Syria in 1958.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Marx, watching industr
 
 Marx, watching industrial Britain's rich-poor gap from London exile, casts history as class warfare — capitalists against proletariat — ending in revolution, a transitional socialism, and a classless communism where the state withers away; Lenin, whose brother was executed for plotting against the Tsar, turns the theory into a disciplined Bolshevik party
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

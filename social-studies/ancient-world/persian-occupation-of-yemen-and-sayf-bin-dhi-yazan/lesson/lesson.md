@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Sayf bin Dhi Yazan beg
 
 Sayf bin Dhi Yazan begs Khosrow of Persia for an army, Wahrez leads it and drives the Abyssinians out, but Sayf rules only by paying tribute and is assassinated, Wahrez takes Yemen for Persia, and Persian rule lasts until the governor Badhan's time, when Yemenis answer Muhammad's call and Yemen joins the Islamic state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Yemen's condition before Islam: Persian influence and the entry of Islam
 
 Sayf's victory turns to tutelage — Abyssinian servants assassinate him in his palace, Khosrow sends Wahriz back in vengeance, and Persian rule begins, shrinking under Yemeni revolts until it holds only Sanaa, Aden and their surroundings under the governor Badhan; then Islam arrives, Badhan's Persians enter it, and Yemen passes freely into the new Arab-Islamic state, Islam uniting the Yemenis under one banner and carrying their civilisation to every corner of the world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

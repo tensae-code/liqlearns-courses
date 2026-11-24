@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Bulgaria joins the Axi
 
 Bulgaria joins the Axis yet its Jews are saved from Hitler's grasp — the laboratory lesson tells how (Lesson 26 + Historical Laboratory: The Kingdom of Bulgaria in the Second World War; The Saved)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 54 + Historical Laboratory: The Kingdom of Bulgaria in the years of the Second World War; the fate of the Bulgarian Jews
 
 Alliance with Germany, regained Southern Dobruja — and the rescue that saved Bulgaria's Jews (Lesson 54 + Historical Laboratory: The Kingdom of Bulgaria in the years of the Second World War; the fate of the Bulgarian Jews)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: A new century and a de
 
 A new century and a decolonising world pull the Americas into global change.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 6 Estados Unidos en el siglo XX: la gran transformación
 
 The United States becomes an industrial and world power within one lifetime.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 6 El desarrollo canadiense: Canadá en el siglo XX
 
 Canada grows quietly into a modern northern nation.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

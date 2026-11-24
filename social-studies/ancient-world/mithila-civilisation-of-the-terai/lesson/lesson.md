@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in the Terai, King Nim
 
 in the Terai, King Nimi's son Mithi gives Mithila its name and Janakpur its capital; over some 5,000 years (c. 12th century BCE to 8th century CE) the Maithili language, folk art painted with local materials, and festivals like Chhath and Jitiya grow up around the Ramayana memory of Janak and Sita
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The state built to out
 
 The state built to outlive its founder cannot agree on what it is, and Montenegro's road leads back to the independence it lost in 1918.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

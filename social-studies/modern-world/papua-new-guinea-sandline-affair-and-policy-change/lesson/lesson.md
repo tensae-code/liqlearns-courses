@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 1999 — Prime Ministe
 
 1999 — Prime Minister Sir Julius Chan hires a British mercenary company to end the Bougainville conflict; the decision backfires and Chan is forced to step down — beside it, the Tuition Fee Free policy's mixed harvest in PNG's schools
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

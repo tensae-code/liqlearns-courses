@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Khrushchev is removed 
 
 Khrushchev is removed in 1964, reform cools into stability, and Masherov's long rule keeps Belarus orderly while freedoms stay frozen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The republic's social and economic situation
 
 The 1965 economic reform fades by the early 1970s, extensive growth slows and the first signs of a braking mechanism and stagnation appear
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Results of the BSSR's development as an industrial society
 
 The audit closes — a peasant republic became an industrial one, at the price of a system that could no longer reform itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

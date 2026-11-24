@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the Xinhai Revolution 
 
 the Xinhai Revolution topples the Qing emperor, and Sun Yat-sen becomes provisional president of a republic that warlords soon fragment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §12 China's position after the First World War; the Xinhai Revolution; Sun Yat-sen
 
 the Qing fall and Sun's republic fragments among warlords
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.2 (Sun Yat-sen part) What influence did Sun Yat-sen have on China's development?
 
 the Three Principles outlive their author and steer both Chinas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

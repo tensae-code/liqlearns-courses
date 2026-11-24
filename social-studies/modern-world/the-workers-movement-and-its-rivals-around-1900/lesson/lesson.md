@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: socialist parties, uni
 
 socialist parties, unions and Catholic interclassism compete for the new masses; Taylor's scientific organisation (Document) and Kuliscioff on the woman worker state the factory age's two answers, under Pellizza's Fourth Estate
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Calvin builds a discip
 
 Calvin builds a disciplined Geneva, Anabaptists pay for Münster with their lives, and Henry VIII's Act of Supremacy makes a national church for a king's divorce
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ginevra e Calvino; L'Europa riformata; Personaggi: Enrico VIII
 
 Calvin's Geneva disciplines a city into a model church, Anabaptists radicalise the message, and Henry VIII nationalises it — three different Reformation futures
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

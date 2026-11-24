@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the book asks why the 
 
 the book asks why the USA is the surviving superpower — natural resources, a skilled workforce, stable capitalist democracy, military might and the "American Dream" — and prints Roosevelt's Four Freedoms address (6 January 1941) and Arsenal of Democracy argument: send the democracies "ships, planes, tanks, and guns" now, or fight the dictators later
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Kuwait's land has draw
 
 Potters and grain-grinders settle at subiya in ubaid times (5500–4500 bce), then greeks settle well-watered failaka, call it ikaros, and leave coins and dilmun seals behind.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The land of Kuwait — civilisational roots
 
 Before any state, kuwait's land gathers civilisations on its coast and islands, the deep roots the modern country claims as its own.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

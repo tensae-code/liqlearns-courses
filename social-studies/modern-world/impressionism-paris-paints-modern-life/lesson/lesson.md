@@ -16,7 +16,7 @@ Monet and his friends take painting outdoors to catch light itself — railways,
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of an Impressionist scene outdoors — a boulevard, a regatta or haystacks in changing light — the student points to light itself as the subject.]
+In your mind's eye: an Impressionist scene outdoors — a boulevard, a regatta or haystacks in changing light. The student points to light itself as the subject.
 
 ## Sub lesson 3 — The rejects build their own market
 

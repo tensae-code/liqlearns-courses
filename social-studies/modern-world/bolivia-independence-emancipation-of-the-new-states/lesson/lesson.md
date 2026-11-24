@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The final campaigns em
 
 The final campaigns emancipate the new American states and Bolivia is born (Año 3: Tercera etapa — la guerra por la emancipación de los nuevos estados)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

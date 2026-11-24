@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Two brothers invent an
 
 Two brothers invent an alphabet for the Slavs; their disciples carry it to Bulgaria (Lesson 22: The work of SS Cyril and Methodius and their disciples)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 9: The holy brothers Cyril and Methodius — apostles and enlighteners of the Slavic world
 
 The brothers give the Slavs letters, and Bulgaria shelters their disciples (Lesson 9: The holy brothers Cyril and Methodius — apostles and enlighteners of the Slavic world)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

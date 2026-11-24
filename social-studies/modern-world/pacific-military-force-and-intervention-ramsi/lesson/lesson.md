@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Guadalcanal and Malait
 
 Guadalcanal and Malaita tensions explode in 1998; the Malaita Eagle Force seizes the Prime Minister in 2000, parliament elects a new one aboard an Australian warship, the Townsville peace follows — and in 2003 RAMSI lands 2,200 soldiers and police from eight Pacific nations to disarm the militias
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Foreign intervention
 
 Intervention against isolationism — sanctions, embargoes, blockades and armies; the Iraq wars' cost to the US is the worked example of what intervening does to the intervener
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

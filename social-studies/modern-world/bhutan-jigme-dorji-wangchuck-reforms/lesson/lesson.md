@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Father of Modern B
 
 the Father of Modern Bhutan establishes the National Assembly (Tshogdu) in 1953, abolishes serfdom in 1956, adopts the Thrimzhung Chenmo supreme law in 1959, and completes the court ladder with the High Court and the Bank of Bhutan in 1968 (Chapter Three, governance and social reforms)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

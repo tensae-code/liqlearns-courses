@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Nguyễn Hoàng takes 
 
 Nguyễn Hoàng takes up the government of Thuận Hoá in 1558 — the Nguyễn chronicle praises a lord "lenient with his soldiers, gathering heroes, loved and obeyed by the people", from whom "the imperial enterprise was built"; by the late 16th century Thuận–Quảng counts some 1,226 villages, and the milestones run on: Phú Yên prefecture in 1611, Thái Khang in 1653, Thuận Thành in 1693, Gia Định prefecture in 1698 — when Nguyễn Hữu Cảnh formally organises the far south — and by 1757 the Nguyễn administration covers a Nam Bộ roughly as it is today
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 6, what the southern opening achieved
 
 by the late 18th century the Nguyễn lords hold everything from south of the Hoành Sơn range to Cape Cà Mau, islands included; the book's meaning is twofold — a wasteland becomes an inseparable part of Đại Việt and a new centre of production and trade where Viet settlers and the peoples already there live together — and, in the quoted judgement of Phan Huy Lê, a land "awakened and revived after centuries of near-forgetting" within little more than a hundred years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

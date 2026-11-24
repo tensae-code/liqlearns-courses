@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Fort Jesus guards Momb
 
 Fort Jesus guards Mombasa, Olduvai's remains reach back 1.9 million years, Gedi flourishes on the Kenyan coast from the 13th to the 17th century, and the Nyero rock paintings mark Uganda's own deep past
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

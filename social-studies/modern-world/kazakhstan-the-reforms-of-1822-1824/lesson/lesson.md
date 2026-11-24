@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Speransky's and the Or
 
 Speransky's and the Orenburg statutes abolish khan rule in the Middle and Junior zhuzes and replace it with Russian districts and taxes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §23 The reforms of 1822–1824 and Kazakh society
 
 the statutes abolish the khanates and Kazakh society is re-sorted into Russian districts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.3 Why were administrative reforms carried out in Kazakhstan in the 1820s?
 
 the 1822–1824 statutes are explained from the empire's side and judged from the steppe's
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

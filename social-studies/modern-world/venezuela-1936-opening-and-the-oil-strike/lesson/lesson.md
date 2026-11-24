@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: After Gómez dies, Ló
 
 After Gómez dies, López Contreras promises calm, Alberto Adriani urges "sembrar el petróleo", the Ley Lara represses, and oil workers strike in 1936 before the 1938 Triennial Plan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Children of the strike (complementary reading)
 
 The oil strike is retold through the children who lived it, waiting on fathers who had downed tools
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Between 1936 and 1945 democracy peeks out timidly
 
 After Gómez dies, López Contreras acts as a bridge, parties and unions appear, and democracy advances shyly to 1945
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Government of López Contreras
 
 After Gómez, López Contreras opens a cautious transition — February Programme, parties tolerated, oil strike faced
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

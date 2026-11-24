@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: from Roman Florus and 
 
 from Roman Florus and Grotius on free trade to the IMF, the World Bank, GATT and the WTO — states learn that breaking trade breaks the unity of mankind
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

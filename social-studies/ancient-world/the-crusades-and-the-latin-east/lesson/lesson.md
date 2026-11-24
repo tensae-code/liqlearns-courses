@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bernard of Clairvaux p
 
 Bernard preaches a crusade and knights sail east to found fragile Latin states — France's chapter names Bernard de Clairvaux as the voice that sends them.
 
-[Picture slot — a picture of Bernard preaching to kneeling knights, with ships waiting to sail east — the student says who preached, who sailed and what they founded]
+In your mind's eye: bernard preaching to kneeling knights, with ships waiting to sail east. Say who preached, who sailed and what they founded.
 
 ## Sub lesson 2 — Fragile Latin states in the East
 

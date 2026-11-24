@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: As plantations decline
 
 As plantations decline, freed and immigrant small farmers, balata bleeders, timber workers and gold seekers make new livings; bauxite mining (from the late 1910s) and the Brokopondo dam project later transform the economy (De opkomst van nieuwe middelen van bestaan)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Werken om te leven
 
 After supervision ends the freed choose work — town trades, small farming, or the hard gamble of gold-seeking in the interior (Werken om te leven)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

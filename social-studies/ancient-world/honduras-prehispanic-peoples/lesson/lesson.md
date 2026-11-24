@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: gatherers, hunters and
 
 gatherers, hunters and fishers discover farming and maize; the numerous Lenca practise the Guancasco, Tolupán live in the Yoro mountains, Pech along the Aguán–Coco, Chorotega round the Gulf of Fonseca, and the Maya invent zero and watch the stars
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — first evidence and cultural areas
 
 human footprints in lava deposits (~10,000 BCE), rock art at Ayasta and Oropolí, and the ancient sites of Playa de los Muertos, Los Naranjos and Yarumela show Honduras peopled long before the Maya, between Mesoamerica and the Intermediate Area
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Honduras between two areas
 
 Honduras's pre-Hispanic peoples shared traits with both Mesoamerica and the Intermediate Area, living as chiefdoms and tribes on farming, hunting and fishing, each with its own language
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

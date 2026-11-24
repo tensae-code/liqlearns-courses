@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The military dictators
 
 The military dictatorship hands the oil companies their most secure decade, entrenching Standard, Shell and the other five sisters over Venezuelan crude
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

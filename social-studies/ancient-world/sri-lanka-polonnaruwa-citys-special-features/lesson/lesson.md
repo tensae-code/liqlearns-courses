@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Great kings, high stat
 
 Great kings, high status for women, Shiva temples beside viharas, moonstones without the bull, and a planned royal city of palaces and lotus ponds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

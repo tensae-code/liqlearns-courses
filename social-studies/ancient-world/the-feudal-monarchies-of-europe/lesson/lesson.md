@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: kings slowly turn feud
 
 kings slowly turn feudal overlordship into states — Philip Augustus takes Normandy, Henry II's heirs sign Magna Carta (in the Documents), Iberian and northern kingdoms consolidate
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La monarchia francese: dall'ascesa allo scontro con il papato; La monarchia inglese; I regni nella Penisola iberica
 
 Philip IV humiliates Boniface VIII at Anagni, England's barons extract Magna Carta (DOC), and Iberia's kingdoms grow on the Reconquista frontier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

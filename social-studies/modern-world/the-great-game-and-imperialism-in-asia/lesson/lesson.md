@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Russia and Britain spy
 
 Russia and Britain spy and scheme across Central Asia in the Great Game (Storiografia: Hopkirk), France invents Indochina and the US takes the Philippines — Asia is partitioned without a single Berlin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

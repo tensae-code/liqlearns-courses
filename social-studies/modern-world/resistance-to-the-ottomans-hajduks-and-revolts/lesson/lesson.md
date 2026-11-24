@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as the empire weakens 
 
 as the empire weakens after Lepanto (1571) and taxes climb, resistance runs from the passive — fleeing the tax collector, shunning Ottoman courts, keeping the faith in song — to the armed: hajduk bands of twenty or thirty under an arambasha, sheltered by jatak helpers, gathering at St George's Day and dispersing at St Demetrius', led sometimes by women like Sirma and Rumena vojvoda; and open revolts like the thousand peasants of Prilep-Mariovo
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

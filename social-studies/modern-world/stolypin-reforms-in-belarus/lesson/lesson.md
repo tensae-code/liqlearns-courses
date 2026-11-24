@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pupils mark the govern
 
 Pupils mark the governor-generalships' abolition dates and shade the districts where 35–65% of farms left the commune for khutors in 1907–1915
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

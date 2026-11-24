@@ -8,7 +8,7 @@ Two thousand years ago, ships loaded cloth in Bengal's ports that buyers across 
 
 Bangladesh's Grade 7 book gives ancient and medieval Bengal two great industries. The first is cloth: Bengal's fine textiles were famed far beyond its rivers — praised by the 9th-century Arab merchant Sulaiman, and still coveted by Europeans into the 1600s. The second is boats: a river land needs vessels, and Bengal's boatbuilding industry, forged by its rivers, built them. Together the two industries clothe and carry a trading people: the looms made what the boats carried.
 
-[Picture slot — a picture of a Bengal river port 2,000 years ago — weavers' fine cloth being loaded onto wooden boats at a ghat, sacks and coin pouches changing hands — the student points to the cloth and the boats and says what Bengal sold and what carried it.]
+In your mind's eye: a Bengal river port 2,000 years ago — weavers' fine cloth being loaded onto wooden boats at a ghat, sacks and coin pouches changing hands. The student points to the cloth and the boats and says what Bengal sold and what carried it.
 
 ## Sub lesson 2 — Trade, commerce and money — coins and ports
 

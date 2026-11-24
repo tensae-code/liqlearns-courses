@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Tiwanaku builds the Ak
 
 Tiwanaku builds the Akapana pyramid and the Puerta del Sol and trades camelid textiles, meat and wool across long-distance networks (La cultura Tiahuanaco)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 1: La civilización Tiwanakota
 
 The Tiwanaku civilisation is given its own unit as the Altiplano's great state (Año 1: La civilización Tiwanakota)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

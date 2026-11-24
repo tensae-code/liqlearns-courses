@@ -10,7 +10,7 @@ Turkey's Grade 9 book opens its medieval unit by surveying how the middle age wa
 
 In the West, empire dissolves into feudalism: kings weak at the centre, lords ruling their own lands and men. And beyond both worlds, the steppe powers raise khans whose horsemen can humble emperors. One chapter holds a dozen kinds of rule, from emperor to feudal lord — the book's map of a world with no single centre.
 
-[Picture slot — a picture of the medieval world in one view — Constantinople's walls, a Persian court, a feudal lord's castle and steppe horsemen on the horizon — the student points to each kind of rule and names it.]
+In your mind's eye: the medieval world in one view — Constantinople's walls, a Persian court, a feudal lord's castle and steppe horsemen on the horizon. The student points to each kind of rule and names it.
 
 ## Sub lesson 2 — The army in the Middle Ages
 

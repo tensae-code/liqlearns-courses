@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Peasant farming declin
 
 Peasant farming declines as land and labour flow to the estates, until restored tanks, an irrigation department and cooperatives try to lift it again
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

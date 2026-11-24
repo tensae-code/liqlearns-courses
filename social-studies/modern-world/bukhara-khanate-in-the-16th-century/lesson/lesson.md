@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: under Abdullah Khan II
 
 under Abdullah Khan II Bukhara reaches its greatest extent, mints money, builds caravanserais and treats with Iran, India and Muscovy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

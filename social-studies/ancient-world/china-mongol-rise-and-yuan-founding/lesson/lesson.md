@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Temujin unites the ste
 
 Temujin unites the steppe in 1206 as Genghis Khan, dies at Liupan Mountain leaving orders to borrow Song's road against Jin; Mongke falls at Hezhou, yet in 1234 Jin falls and a 40-year war with Southern Song begins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Islamic civilisation b
 
 Caliphate, ministry, diwans, provinces and police take shape as a working state, with ali ibn abi talib's police chief, the sahib al-shurta, keeping the streets.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Economic manifestations — markets, crafts, farming and trade
 
 Markets, crafts, farming and trade fill the islamic world's purse, the wealth that pays for its cities and schools.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Economic manifestations continued, and urban manifestations
 
 The money story runs on into streets, mosques and houses as islamic cities rise in planned stone.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

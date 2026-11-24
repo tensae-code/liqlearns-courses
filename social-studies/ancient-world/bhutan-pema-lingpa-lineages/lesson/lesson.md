@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the tertön who reveal
 
 the tertön who revealed thirty-two treasures leaves more than texts — his Peling lineages, from Sumthrang Choeje to the Dungkar Choeje family, supply Bhutan's later rulers, linking the 15th-century treasure revealer directly to Jigme Namgyal and the Wangchuck kings (Chapter Five, Pema Lingpa / Political influence of Peling Lineages)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

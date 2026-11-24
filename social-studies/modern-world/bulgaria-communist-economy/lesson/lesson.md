@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Collectivisation takes
 
 Collectivisation takes the land and forced industrialisation remakes village and town (Lesson 32: Economic changes in village and town)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 61 + Historical Laboratory: Economic and social changes; the woman in socialist society
 
 Planned industry and the socialist woman — "tears in the eyes, stars in the hair" (Lesson 61 + Historical Laboratory: Economic and social changes; the woman in socialist society)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

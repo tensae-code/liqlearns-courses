@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Belgium stays inflexib
 
 Belgium stays inflexible before the nationalist movement, making armed struggle the price of Congolese independence; Belgian domination is dissected
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lumumba and the Congo
 
 Patrice Lumumba's action carries the Congo to independence in the 1950s surge, even as conflicts split the nationalist movement itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

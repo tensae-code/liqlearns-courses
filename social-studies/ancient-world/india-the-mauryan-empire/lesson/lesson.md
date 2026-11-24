@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Chandragupta Maurya fo
 
 Chandragupta Maurya founds the empire more than 2300 years ago, advised by the wise Chanakya whose ideas fill the Arthashastra; the Maurya dynasty runs Chandragupta, Bindusara, Ashoka — and an empire, unlike a kingdom, needs bigger armies and more tax-collecting officials.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ruling the empire
 
 Around Pataliputra the emperor rules directly through salaried officials, messengers and spies; provinces answer from Taxila and Ujjain under royal princes; between the centres, roads and rivers are gripped for tax and tribute — blankets from the north-west, gold from the south — while forest peoples stay near-independent, sending elephants, timber, honey and wax.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

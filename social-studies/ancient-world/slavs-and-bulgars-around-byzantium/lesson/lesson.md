@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Slav tribes settle the
 
 Slav tribes settle the Balkans to the Peloponnese and slowly become the empire's Christian neighbours
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 2.I.2 The Bulgarians and their relations with Byzantium
 
 a Turkic Bulgar state on the Danube becomes Byzantium's most dangerous northern rival — and its pupil
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Slavs and Bulgars
 
 Slav settlers fill the Balkan countryside and the Bulgars build a rival empire that Constantinople fights for centuries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

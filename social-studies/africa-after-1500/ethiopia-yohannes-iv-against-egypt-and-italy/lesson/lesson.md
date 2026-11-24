@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yohannes IV wins Menel
 
 Yohannes wins Menelik's submission by accord not war. He crushes Khedive Ismail's Egyptian invasions at Gundet and Gura.
 
-[Picture slot — a picture of Emperor Yohannes IV receiving Menelik's submission by agreement, with the battlefields of Gundet and Gura marked on a map — the student names the accord, the battles and his death.]
+In your mind's eye: emperor Yohannes IV receiving Menelik's submission by agreement, with the battlefields of Gundet and Gura marked on a map. Name the accord, the battles and his death.
 
 ## Sub lesson 2 — Italy takes Eritrea — death against the Mahdists
 

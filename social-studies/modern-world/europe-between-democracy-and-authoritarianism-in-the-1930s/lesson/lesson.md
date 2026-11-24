@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the chapter's map coun
 
 the chapter's map counts the democracies left standing; Otto Bauer's Document anatomises Austria's authoritarian regime — a continent sliding from parliament to dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 5 §1 Democrazie in crisi e fascismi
 
 the module's Anteprima frames the decade — democracy's eclipse, authoritarianism against totalitarianism, Stalinism as modernisation, the ideological war and the planned extermination to come
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

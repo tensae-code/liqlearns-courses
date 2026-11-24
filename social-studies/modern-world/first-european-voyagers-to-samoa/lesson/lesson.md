@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Roggeveen sights the M
 
 Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

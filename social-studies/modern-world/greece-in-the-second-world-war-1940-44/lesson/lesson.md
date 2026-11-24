@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Greece says "Ochi" to 
 
 Greece says "Ochi" to Mussolini's ultimatum on 28 October 1940 and throws the Italian invasion back into Albania
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit E, ch. 8 The German attack and the Second World War
 
 Germany crushes what Italy could not; Crete falls after its famous battle, and occupation, famine and resistance begin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §47 Greece's participation in the Second World War
 
 the Albanian epic of 1940, the German invasion, Crete's battle and a government in exile
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

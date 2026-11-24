@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: at Talas in 751 Arabs,
 
 at Talas in 751 Arabs, Turks and Chinese collide and paper travels west
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

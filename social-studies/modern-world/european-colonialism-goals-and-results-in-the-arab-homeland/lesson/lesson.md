@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: colonialism is defined
 
 colonialism is defined as a strong state draining weaker lands, and its goals are listed — markets, raw materials and oil, strategic coasts, missionaries; its results in the Arab homeland are aborted independence, aborted development and a dependence that becomes the new colonialism, while Africa gets geometric borders, client states and a debt trap
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

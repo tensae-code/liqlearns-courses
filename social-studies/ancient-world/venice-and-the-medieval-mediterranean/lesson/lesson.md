@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Venice, a city built o
 
 A city built on water grows rich commanding the sea's trade routes — that is Venice in France's medieval Mediterranean chapter.
 
-[Picture slot — a picture of Venice rising from the water, with trading ships loading goods at its quays — the student says how a city on water could grow rich]
+In your mind's eye: venice rising from the water, with trading ships loading goods at its quays. Say how a city on water could grow rich.
 
 ## Sub lesson 2 — Rich on the sea's trade
 

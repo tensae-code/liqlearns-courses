@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1215 England's baro
 
 In 1215 England's barons corner King John and make him sign the Great Charter — for the first time a king's power is written down as less than the law, a seed from which parliaments grow.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

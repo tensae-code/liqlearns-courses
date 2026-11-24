@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the personality cult (
 
 the personality cult (Benvenuti's Storiografia, the propaganda image study), the Gulag system (Di Sante) and the 1936 Constitution (Document) that proclaims rights the terror denies; Trotsky's Document calls it the revolution betrayed, Pons traces the 1930s foreign-policy turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

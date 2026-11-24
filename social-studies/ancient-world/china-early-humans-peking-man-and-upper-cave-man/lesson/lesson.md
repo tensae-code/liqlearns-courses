@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: at Zhoukoudian, Peking
 
 at Zhoukoudian, Peking Man chips stone tools, hunts and gathers in groups and masters fire in a cave of ash and burnt bone, while Upper Cave Man, 30,000 years later, learns to make fire himself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Origins of Chinese civilisation
 
 in May 1965 geologists dig two shovel-shaped incisor fossils from a Yunnan hillside — Yuanmou Man, 1.7 million years old — opening a map of hundreds of sites from Peking Man to Upper Cave Man
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

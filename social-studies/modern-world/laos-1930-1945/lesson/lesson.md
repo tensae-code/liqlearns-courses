@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: depression, the Indoch
 
 depression, the Indochinese Communist Party's first cells, and Japan's wartime seizure set the stage for 1945
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part II, Lesson 7: 1930–1941 — The founding of the Indochinese Communist Party and Laos, 1930–1941
 
 in 1930 a communist party is founded for all Indochina, and Laos's modern resistance gains its organiser
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part II, Lesson 7: 1930–1941 — The Indochinese Communist Party founded; Laos 1930–1941
 
 a communist party for all Indochina gives Laos's resistance its organiser
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part VI, Lesson 19: 1930–1941 — Laos, 1930–1941
 
 depression, the Party's first cells, and Japan's approach set the stage for 1945
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

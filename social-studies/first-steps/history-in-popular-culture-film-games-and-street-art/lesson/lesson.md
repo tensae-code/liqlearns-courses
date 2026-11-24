@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Braveheart's kilts nev
 
 Braveheart's kilts never existed, Gladiator invents its emperor, Assassin's Creed rebuilds cities stone-perfect and invents the story inside them; Maus tells the Holocaust in mice and cats, Budapest's iron Shoes on the Danube say it without words — pop culture is a fine doorway into history and a dangerous place to stop
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

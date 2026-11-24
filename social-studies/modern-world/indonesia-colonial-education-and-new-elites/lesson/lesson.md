@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Colonial schools — S
 
 Colonial schools — STOVIA's medical students, the Kartini schools, Padang Panjang's Madrasah Diniyah Putri — are built to serve the colony, and instead produce the educated generation that will end it; the Volksraad opens in Batavia as a limited council.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

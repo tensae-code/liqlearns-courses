@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In Ethiopia's Era of t
 
 Ethiopia's society, economy and government to 1855 slide into the Era of the Princes: emperors become puppets while regional lords rule in pieces.
 
-[Picture slot — a picture of a puppet emperor on a throne while regional lords rule their own districts on a map behind him — the student explains who really ruled and whom the people waited for.]
+In your mind's eye: a puppet emperor on a throne while regional lords rule their own districts on a map behind him. The student explains who really ruled and whom the people waited for.
 
 ## Sub lesson 2 — Waiting for a prophesied Theodore
 

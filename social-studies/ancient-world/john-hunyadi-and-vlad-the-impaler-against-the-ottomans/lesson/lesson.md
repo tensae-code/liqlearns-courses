@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Hunyadi smashes the Ot
 
 Hunyadi smashes the Ottomans on the Ialomița in 1442 and leads the Long Campaign; Constantinople falls in 1453, and Vlad Țepeș takes up the same war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

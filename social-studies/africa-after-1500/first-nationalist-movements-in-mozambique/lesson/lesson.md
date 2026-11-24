@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Africans resist coloni
 
 Africans resist colonisation in defence of sovereignty; cultural associations become the seedbed of Mozambique's first nationalist manifestations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The first nationalist formulations
 
 Out of the colonial order's own contradictions, the first nationalist formulations appear in Mozambique — the idea of the nation takes shape
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

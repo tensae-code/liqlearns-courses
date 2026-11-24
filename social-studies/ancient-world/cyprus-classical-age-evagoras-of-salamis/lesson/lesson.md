@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: evagoras of Salamis rebuilt
 
 Sea power decides Cyprus's fate, and the trireme, rowed by free crews, becomes the weapon every king must have.
 
-[Picture slot — a picture of the key place or moment of Cyprus Classical Age — Evagoras of Salamis as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Cyprus Classical Age — Evagoras of Salamis as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Evagoras and his plans for Cyprus; Evagoras's war against the Persians
 

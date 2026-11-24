@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: likbez literacy campai
 
 likbez literacy campaigns, new universities and institutes grow even as ideology tightens its grip
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§41–42 Public education
 
 likbez points, schools and teacher courses fight illiteracy across the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§45–46 Kazakhstan's scholars and their scientific achievements
 
 a first generation of Kazakh scientists publishes, maps and excavates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§23–24 Science and the education system in the 1920s–30s
 
 likbez campaigns and new universities grow under tightening ideology
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §4.4 The scholarly achievements inquiries
 
 institutes and universities grow under ideology's tightening grip
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

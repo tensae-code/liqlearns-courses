@@ -8,37 +8,37 @@ Before you read on, hold this lesson's one thing in mind: The 1900 Buganda Agree
 
 The 1900 Buganda Agreement settles land, governance and gun and hut taxes; the 1901 Ankole Agreement enlarges Ankole, and Uganda's borders are trimmed piece by piece — the north-east to Kenya in 1914, the Lake Albert shore to Belgian Congo in 1910
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — How Uganda became a nation
 
 Before the treaties, the British form the Imperial British East Africa Company; then agreements are signed with the kings of Buganda, Ankole, Bunyoro and Toro, one kingdom at a time
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The agreements
 
 The 1900 Buganda Agreement is signed by Johnston and Apollo Kaggwa while Kabaka Mwanga sits exiled in the Seychelles; Bunyoro's follows in 1933, Ankole's dates to 1901
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Methods of colonisation
 
 Where it is peaceful, the treaty does the work — Buganda 1900, Toro 1900, Ankole 1901 — signed with promises of protection from Bunyoro
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — The 1900 Buganda Agreement, case study of the peaceful method
 
 Johnston signs with the three regents of the child Kabaka Daudi Chwa II — Kagwa, Mugwanya, Kisingiri; Buganda expects British guns against Bunyoro and Egypt, and the Kabaka keeps his throne as "His Highness" — under close British supervision
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — The Buganda Agreement
 
 The agreement exists in two versions, English and Luganda — and where they conflict, the English one rules; it is also signed to settle Buganda's boundary quarrel with Bunyoro after Kabalega's rebellion
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

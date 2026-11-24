@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: beside the great river
 
 beside the great rivers people settle for good, raise the first towns, and divide work between farmer, herder, craftworker and ruler
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 3.2 How did civilisation develop?
 
 writing, the wheel, irrigation and laws appear; a settled people's inventions become the pattern every later civilisation inherits
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

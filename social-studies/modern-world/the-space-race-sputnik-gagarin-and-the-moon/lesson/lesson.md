@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the superpowers race o
 
 the superpowers race off the planet — Sputnik beeps first (1957), Gagarin orbits first (1961), Tereshkova follows (1963), and Apollo 11 lands on the Moon in 1969 — before the rivals start docking together in the 1970s
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

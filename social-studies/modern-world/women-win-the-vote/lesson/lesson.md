@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The class debates, in 
 
 the class debates whether women may vote and hold office (Verkefnablað 30: Eiga konur að fá að gegna embættum? — role-play)
 
-[Picture slot — a picture of a period debate, women and men arguing whether women may vote — the student says what question is being debated]
+In your mind's eye: a period debate, women and men arguing whether women may vote. Say what question is being debated.
 
 ## Sub lesson 2 — Argued in period voices
 

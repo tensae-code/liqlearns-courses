@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A fortress rises in th
 
 A fortress rises in the marshes, Parakramabahu VI takes Jaffna in 1450 through his adopted son Sapumal Kumaraya, and rules a united island for the last time
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Political history 1271–1509: the later kingdoms
 
 Yapahuwa's rock fortress, Kurunegala, Gampola, and at last Kotte, where Parakramabahu VI rules a reunified island and receives Zheng He's challenge
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

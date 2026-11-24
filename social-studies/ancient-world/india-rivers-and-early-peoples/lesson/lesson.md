@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: People lived along the
 
 Gatherers live along the Narmada for hundreds of thousands of years; wheat and barley are first grown in the Sulaiman–Kirthar hills about 8000 years ago; cities rise on the Indus about 4700 years ago and on the Ganga about 2500 years ago, where Magadha's rulers grow powerful.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

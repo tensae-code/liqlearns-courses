@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: He joins tank to tank 
 
 He joins tank to tank into the Parakrama Samudra vowing no drop of rain reach the sea unused, unites the Sangha, then strikes Burma in 1164 and restores a Pandya king in 1169
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

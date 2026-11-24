@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Medieval Cairo shelter
 
 Cairo shelters the caliphate after Baghdad falls; African kings seek Mamluk recognition and Egyptian weapon-craft; Ethiopia's church receives its bishop from Alexandria; al-Azhar houses African students in their own riwaqs with stipends; and Sahara caravans make Egypt the middleman of the continent's trade.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

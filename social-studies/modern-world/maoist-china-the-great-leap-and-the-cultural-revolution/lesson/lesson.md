@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Little Red Book (F
 
 the Little Red Book (Fare storia Document) arms a revolution against its own party; the Great Leap and the Cultural Revolution make China the communist world's second, rival centre
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

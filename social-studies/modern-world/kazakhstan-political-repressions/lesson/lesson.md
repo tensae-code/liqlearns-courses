@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: the Alash generation i
 
 the Alash generation is arrested and shot in the Great Terror, and camps like Karlag and ALZHIR fill the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §36 Socio-political processes in Kazakhstan in the 1920s–30s; the Stalinist repressions
 
 case after case is fabricated against the Alash generation and ordinary people alike
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§20–21 Political repressions of the 1920s–30s
 
 the Alash generation is shot; Karlag and ALZHIR fill the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§3.9–3.12 The Stalin regime inquiries
 
 why the regime is judged totalitarian — terror as government
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

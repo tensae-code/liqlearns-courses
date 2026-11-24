@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: through a thousand yea
 
 through a thousand years the Vietnamese language passes mouth to ear, ancestors and nature gods are worshipped, hair is bunned, teeth blackened, betel chewed; a Yuan-era account (An Nam chí lược) still records these very customs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 17, taking Chinese culture selectively
 
 paper and glass techniques, Han script, New Year and Mid-Autumn festivals and Buddhism are taken in and bent to Vietnamese life — Buddhism so rooted that Viet monks lecture the Tang emperor
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

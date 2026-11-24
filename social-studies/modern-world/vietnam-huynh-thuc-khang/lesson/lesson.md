@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: he tops the royal exam
 
 he tops the royal exams in 1904 but refuses office to lead the Duy Tân movement, spends 13 years exiled on Côn Đảo, and in 1946 serves as acting head of state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

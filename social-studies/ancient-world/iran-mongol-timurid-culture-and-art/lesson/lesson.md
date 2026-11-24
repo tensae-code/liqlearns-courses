@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: out of catastrophe, a 
 
 out of catastrophe, a golden age — miniature painting, astronomy and Timurid architecture make Herat and Samarkand the wonder of the age (Culture and art in the Mongol–Timurid era)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Victory of culture over the sword
 
 the chapter's title is the verdict — Persian culture, language and art absorb the conquerors until the conquerors' courts speak Persian (Victory of culture over the sword)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

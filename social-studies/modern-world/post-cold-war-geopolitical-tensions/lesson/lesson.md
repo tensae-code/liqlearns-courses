@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Today's geopolitical t
 
 Today's geopolitical tensions are read against their Cold War background — old rivalries in new forms (Unidad 2, Tema II-B: Tensiones geopolíticas con trasfondo de la guerra fría)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

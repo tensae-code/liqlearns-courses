@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bahlul Lodi, son of Pu
 
 Bahlul Lodi, son of Punjab's governor Malik Kala Khan, takes Delhi's sultanate (his line given as 858–868 AH) as the Khizr Khanid state decays, and the Afghan Suris follow him
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

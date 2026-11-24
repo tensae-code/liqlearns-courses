@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Li Shizhen's Compendiu
 
 Li Shizhen's Compendium of Materia Medica records 1,800 drugs and 11,000 prescriptions and travels the world in translation, while Song Yingxing's Tiangong Kaiwu pictures 18 trades at work
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ming-Qing culture develops
 
 the Ming-Qing cultural flowering — science, novels and art of a society rich in goods but ruled ever more tightly
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ming to mid-Qing economy and culture
 
 sprouts of capitalism in Jiangnan workshops, the great novels, Xu Guangqi's science with Ricci, and evidential scholarship under the inquisition's shadow
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

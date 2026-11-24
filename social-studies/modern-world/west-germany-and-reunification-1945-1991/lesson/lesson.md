@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a defeated Germany is 
 
 a defeated Germany is split at Potsdam, blockaded at Berlin, and governed as two states for forty years until the Wall falls and the two become one again in 1990–91 (Ch. 1 Lesson 4, The Federal Republic of Germany (1945–1991))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

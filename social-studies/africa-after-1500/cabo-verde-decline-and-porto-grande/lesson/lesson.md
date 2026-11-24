@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 As the old routes fade, Ribeira Grande decays and the islands are neglected.
 
-[Picture slot — a picture of two harbours side by side: an old quiet harbour with empty warehouses, and a busy steamship taking on coal — the student says which is Ribeira Grande and which is Porto Grande.]
+In your mind's eye: two harbours side by side: an old quiet harbour with empty warehouses, and a busy steamship taking on coal. Say which is Ribeira Grande and which is Porto Grande.
 
 
 ## Sub lesson 2 — In the time of Porto Grande

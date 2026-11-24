@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Stalin's last years br
 
 Stalin's last years bring collectivisation, famine and terror; growth slides from 5.2% to 2%, Chernobyl explodes on 26 April 1986 and glasnost wakes the national movements
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 33: URSS în perioada postbelică
 
 in the MSSR alone, 1946–47 terror plans "educate" the population while forced requisitions feed exports; Khrushchev condemns Stalin yet drowns Hungary's 1956 revolution in blood, Prague 1968 restores the authoritarian grip, and Gorbachev's last troops leave Afghanistan on 15 February 1989
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

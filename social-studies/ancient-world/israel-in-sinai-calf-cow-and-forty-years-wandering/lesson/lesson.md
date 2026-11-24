@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: saved through the sea,
 
 saved through the sea, Israel at once asks Musa for a visible god, demands to see God and is struck down and revived, worships al-Samiri's lowing calf while Musa is on the mountain, argues over the cow they are ordered to slaughter until the murdered man, struck with a piece of it, sits up and names his killer — then refuses to enter the holy land, "go, you and your Lord, and fight", and is sentenced to forty years of wandering in Sinai, fed on manna and quails and water from the rock, until Harun and Musa themselves die and a new generation under Yusha bin Nun goes in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

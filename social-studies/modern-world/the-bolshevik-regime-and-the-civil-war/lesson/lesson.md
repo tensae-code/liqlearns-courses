@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the first revolutionar
 
 the first revolutionary decrees and the literacy posters ("knowledge makes you free") build a new order while civil war consumes the old empire — Ekaterinburg, where the tsar's family is shot, is its last frontier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 1 §10 Guerra civile e dittatura
 
 the Anteprima's essay follows the experiment's turn — a movement announcing liberty and equality breaks with civil society over the collectivist project and hardens into a pitilessly authoritarian regime that still fascinates revolutionaries worldwide
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

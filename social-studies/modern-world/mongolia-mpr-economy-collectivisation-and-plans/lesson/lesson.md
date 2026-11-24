@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: cooperatives, the firs
 
 cooperatives, the first collectivisation drive and its collapse, then state farms, negdels and five-year plans remake herding Mongolia
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 3.4 Changes in the MPR's economic policy
 
 war economy, post-war rebuilding and industrialisation — Ulaanbaatar's factories, Darkhan and Erdenet rise on Soviet-backed plans
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

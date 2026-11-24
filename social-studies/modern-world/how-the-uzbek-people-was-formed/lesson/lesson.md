@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kipchak tribes settle 
 
 Kipchak tribes settle among the older Sogdian-Turkic population and the name 'Uzbek' passes from a horde to a people
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

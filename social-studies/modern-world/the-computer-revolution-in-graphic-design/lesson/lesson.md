@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the desktop computer s
 
 the desktop computer swallows the typesetter, the darkroom and the drawing board in one decade
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

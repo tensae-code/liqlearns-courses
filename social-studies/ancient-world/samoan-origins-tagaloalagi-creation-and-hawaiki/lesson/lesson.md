@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sāmoan oral tradition
 
 Sāmoan oral tradition answers the scientists from inside — the god Tagaloalagi created the Sāmoan people in Sāmoa itself and organised them into districts and villages, with genealogies placing him about 2600 BC; other Polynesian traditions name a homeland, Hawaiki, or descent from the gods
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

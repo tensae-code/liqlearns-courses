@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: syndicates like Prodme
 
 syndicates like Prodmet and Produgol rule Russian industry, French capital owns a quarter of it, grain is half of all exports — yet over 100 peoples live under Russification, their conquered lands turned into raw-material appendages of the empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

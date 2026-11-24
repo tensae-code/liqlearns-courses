@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after the theocratic c
 
 after the theocratic centuries, 17 December 1907 crowns Gongsar Ugyen Wangchuck as the first hereditary Druk Gyalpo, and the date becomes Bhutan's National Day (Chapter 6.1 National Symbols, National Day)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chapter Five, Institution of Hereditary Monarchy
 
 with the last Druk Desi stepped down in 1906 and the theocratic system plainly failing, the state council accepts Ugyen Dorji's proposal and on 17 December 1907 seals the genja oath enthroning Ugyen Wangchuck as first Druk Gyalpo; the 1910 Punakha treaty doubles his subsidy and he opens Bhutan's first modern schools (Chapter Five, Institution of Hereditary Monarchy)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

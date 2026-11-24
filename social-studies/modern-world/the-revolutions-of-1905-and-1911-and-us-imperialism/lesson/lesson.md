@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tsushima (Eventi) humi
 
 Tsushima (Eventi) humiliates Russia and ignites 1905; Sun's republic ends China's empire; Roosevelt's America takes an empire and Mexico makes the century's first social revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

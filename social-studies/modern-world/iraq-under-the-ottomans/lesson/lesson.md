@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Suleiman the Magnifice
 
 Suleiman the Magnificent takes Baghdad in 1534; four centuries of Ottoman rule settle into stagnation, stirred late by Tanzimat reforms, steam navigation, the telegraph and foreign archaeology missions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Baghdad rises against its governors
 
 the city's intellectuals and quarters join repeated uprisings, among them the 1832 rising led by the mufti Abd al-Ghani Al Jamil against Wali Ali Rida
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Ch.1 Iraq in the Ottoman age
 
 political, social and economic life under four centuries of Ottoman rule is examined in depth, the full version of the Grade 9 sketch
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ Turkey's Grade 12 book fights the War of Independence front by front. In the eas
 
 The decisive war is in the west. The İnönü battles stop the advance; Kütahya-Eskişehir forces a retreat that the nation answers with the Tekâlif-i Milliye levies, taking a share of every home's goods for the army; Sakarya is the turning stand on the river. Then, in August 1922, the Great Offensive — the Commander-in-Chief's battle of 30 August — breaks the front, and a hundred-mile offensive ends the war in a fortnight. The book's beat: three fronts, one regular army built from nothing.
 
-[Picture slot — a picture of the Western Front in 1922 — the regular army advancing across the Anatolian plain in the Great Offensive, dust rising over the columns — the student points to the advance and says which way the war is moving, and why.]
+In your mind's eye: the Western Front in 1922 — the regular army advancing across the Anatolian plain in the Great Offensive, dust rising over the columns. The student points to the advance and says which way the war is moving, and why.
 
 ## Say it to your companion
 

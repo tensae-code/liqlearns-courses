@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a young republic grows
 
 a young republic grows westward and warns Europe to keep out of the Americas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §10.1 How did westward expansion shape the forming of American national self-awareness?
 
 pioneers, trails and annexations forge a continental identity
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

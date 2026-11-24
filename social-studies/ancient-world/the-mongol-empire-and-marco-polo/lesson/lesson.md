@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Genghis Khan's horseme
 
 Genghis Khan's horsemen build the largest land empire in history, the Pax Mongolica reopens the roads to China and the Venetian Marco Polo rides home with its wonders
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — L'epoca dei mongoli; La via della seta e Marco Polo; Il Giappone
 
 the Mongol peace joins Europe to China; Marco Polo walks it home, and Japan's separate feudal path closes the Asian survey
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

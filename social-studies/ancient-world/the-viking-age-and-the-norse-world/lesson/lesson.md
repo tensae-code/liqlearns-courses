@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Between 800 and 1050 N
 
 a seafaring people builds ever better ships, and the ships open the world — the Norse people's origins and the development of their ships (Uppruni, student book pp. 8–13)
 
-[Picture slot — a picture of a Norse ship under sail, a turf hall and the open field at Þingvellir — the student names the ship, the hall and the assembly field]
+In your mind's eye: a Norse ship under sail, a turf hall and the open field at Þingvellir. Name the ship, the hall and the assembly field.
 
 ## Sub lesson 2 — What a Viking was, 800–1050
 

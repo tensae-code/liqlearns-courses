@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Einstein remakes physi
 
 Einstein remakes physics, Filatov founds new ophthalmology, Kandinsky and Mondrian abstract painting, and every state learns to use sport as propaganda
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

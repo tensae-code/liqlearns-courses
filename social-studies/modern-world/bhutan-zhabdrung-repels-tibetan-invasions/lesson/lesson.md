@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tibet invades five tim
 
 Tibet invades five times, the third in 1639, each time with local allies inside Bhutan, and the new state survives its maker — whose death is concealed while the invasions and intrigues continue (Chapter One, Tibetan Attacks during Zhabdrung's Era)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

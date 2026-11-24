@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as the Timurids fade, 
 
 as the Timurids fade, Shaybani's nomadic Uzbeks ride out of the Kipchak steppe, take Bukhara and Samarkand (1500–01) and found a new order on the ruins
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

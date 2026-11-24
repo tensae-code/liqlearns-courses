@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Abbasids inherit t
 
 The Abbasid age carries the same story forward — caliphs patronising the sciences, cities rising in an urban renaissance, and an empire whose own weaknesses finally bring it down.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Islamic conquests in the Abbasid age
 
 The Abbasid age inherits the conquests' frontier and holds it — the expansion story's last chapter in this unit.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

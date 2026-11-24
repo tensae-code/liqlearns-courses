@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: emperors ban and smash
 
 emperors ban and smash the icons, monks and people resist, and for over a century Byzantium argues with itself over a picture
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 24 Iconoclasm exercises
 
 pupils sort Leo III's acts between war, reform and the war on icons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. 3.I.2 The transitional age: the quarrels over the veneration of icons
 
 emperors and monks fight over the icons for a century while the empire argues what an image is
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The battle for the icon between Gospel and political power
 
 emperors ban the icons, monks and empresses defend them; a century of struggle ends with the Triumph of Orthodoxy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Iconoclasm
 
 emperors smash the icons blaming them for defeats; monks resist; the empire argues about images for over a century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

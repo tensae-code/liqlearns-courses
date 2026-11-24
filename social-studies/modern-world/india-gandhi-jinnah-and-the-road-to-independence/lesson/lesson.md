@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Gandhi leads mass non-
 
 Gandhi leads mass non-violent resistance to British rule while Jinnah argues the Muslims need a state of their own
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §16 India after the First World War; Gandhi's and Jinnah's views on winning independence
 
 Gandhi's non-violence against the Raj; Jinnah's separate-state argument
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.2 (Gandhi part) What is "Gandhi's path"?
 
 salt marches and spinning wheels — non-violence as a weapon
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §4.3 How did nationalist ideas influence the growth of national self-consciousness in India?
 
 a colonised people begins to imagine itself a nation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

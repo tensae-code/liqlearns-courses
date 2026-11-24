@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Ong Keo and Ong Kommad
 
 Ong Keo and Ong Kommadam raise the Bolaven and the centre against the French and hold out for years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 12: Resistance in central and southern Laos
 
 Ong Keo and Ong Kommadam lead the Bolaven and the south in years of revolt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

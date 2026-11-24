@@ -8,7 +8,7 @@ A war that spiralled and divided a nation. A break-in that brought down a presid
 
 Identity politics fractured the old coalitions — the great voting blocs that had held since the New Deal cracked along lines of race, region, gender and generation. Politics rearranged itself around the fractures.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Vietnam spirals down and divides the nation
 

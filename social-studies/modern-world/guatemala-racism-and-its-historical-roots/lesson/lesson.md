@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: racism is taught as a r
 
 The Grade 8 teacher guide teaches racism through one case. In 2002, Dr Irma Alicia Velásquez Nimatuj, a Maya K'iche' anthropologist in gala traditional dress, is turned away from a Guatemala City restaurant while her ladina companions are let in. Her case becomes a landmark in the national fight against racism. This part stands on teacher-guide evidence only.
 
-[Picture slot — a picture of a Guatemala City restaurant door in 2002 turned against a Maya K'iche' scholar in traditional dress, and a classroom chart naming everyday racist phrases — the student names Dr Velásquez Nimatuj and the case.]
+In your mind's eye: a Guatemala City restaurant door in 2002 turned against a Maya K'iche' scholar in traditional dress, and a classroom chart naming everyday racist phrases. Name Dr Velásquez Nimatuj and the case.
 
 ## Sub lesson 2 — El racismo escolar — racism defined (teacher guide — evidence)
 

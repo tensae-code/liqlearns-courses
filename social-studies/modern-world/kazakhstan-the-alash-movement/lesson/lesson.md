@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Bukeikhanov, Baitursyn
 
 Bukeikhanov, Baitursynuly and Dulatov build a party and a programme — Alash — to give the Kazakhs their own state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §12 The creation of the "Alash" party
 
 the July 1917 congress founds a national party with a published programme
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §§6–7 The Alash movement and the Kazakh national idea
 
 Bukeikhanov, Baitursynuly and Dulatov build a party to give the Kazakhs their own state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sicilian Fasci, strike
 
 Sicilian Fasci, strikes and bread riots shake liberal Italy; in 1892 the workers found their own party at Genoa
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

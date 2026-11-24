@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Himalaya, plateaus, st
 
 Himalaya, plateaus, steppes and seas set the stage — geographic determinism, first argued from the Roman Empire's fate, is tested against Asia's civilisations and China's case
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Geographic systems of Asia and the Pacific / Role of geographical systems on development and relationships in Asia / Impact of industries in Asia
 
 Mountains raise cultures in heavy clothing at altitude while river valleys fill with people; Southeast Asia's volcanic soils feed millions as logging and colonisation projects clear the forests and turn shifting agriculture into farms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

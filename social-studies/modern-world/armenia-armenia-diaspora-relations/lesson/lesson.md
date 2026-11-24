@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after 1991 the diaspor
 
 after 1991 the diaspora funds, lobbies and resettles, and homeland and diaspora argue and cooperate over recognition, Karabakh and identity
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

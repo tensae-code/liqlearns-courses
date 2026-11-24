@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The great capitalist p
 
 The great capitalist powers race ahead unevenly at the turn of the century, and their contradictions sharpen toward confrontation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Israel's proclamation 
 
 Israel's proclamation in 1948 opens a chain of wars the Arabs fight unprepared — the Nakba of 1948, the tripartite attack on Egypt in 1956 after Nasser nationalises the Canal, the six days of June 1967 that cost Sinai, Gaza, the West Bank and the Golan, the Karama battle of 1968 that restores Arab confidence, the war of attrition, the crossing of October 1973, and Israel's invasion of Lebanon in 1982
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

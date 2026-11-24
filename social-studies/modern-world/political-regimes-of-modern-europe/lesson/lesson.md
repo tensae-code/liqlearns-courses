@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: most states stay monar
 
 most states stay monarchies until 1914, but the liberal society of money and schooling is carried by the middle class, and after 1848 liberalism imposes itself across most of Europe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Assyrian and Persian k
 
 Assyrian and Persian kings bind conquered peoples with armies, roads and tribute
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §12 Empires of South-West Asia
 
 Assyria and Persia swallow the Near East into the first great empires
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §12 Why Near Eastern empires were mighty (lesson plan)
 
 Assyria and Persia are compared as empire machines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: bishoprics at Polotsk 
 
 Bishoprics at Polotsk and Turov, St Sophia's cathedral and Euphrosyne of Polotsk's cross carry the new faith and book culture into the towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Christianity in Eastern Europe
 
 The faith spreads slowly against pagan resistance and splits in 1054 into Orthodox East and Catholic West, with Belarus on the seam
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

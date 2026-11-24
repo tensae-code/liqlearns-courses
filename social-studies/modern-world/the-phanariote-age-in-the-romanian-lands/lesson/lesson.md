@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Porte appoints Gre
 
 the Porte appoints Greek Phanariote princes for three-year terms, confirmed yearly and deposed at whim — a political fix that becomes an age of burden
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §15: Organizarea politică a Principatelor Române în secolele XVII–XVIII
 
 the Mavrocordats, a Greek family from Chios, supply princes; the case study follows the grand vizier's messenger the moment a Moldavian prince dies and a Phanariote is named
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

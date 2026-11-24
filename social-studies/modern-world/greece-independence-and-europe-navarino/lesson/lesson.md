@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the secret Filiki Eter
 
 the secret Filiki Eteria lights the rising of 1821; Europe's poets and publics — Byron among them — take Greece's side, and the British, French and Russian fleets sink the Ottoman-Egyptian fleet at Navarino (1827); Greece is recognised independent in 1830, the Balkans' first fully free Christian state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

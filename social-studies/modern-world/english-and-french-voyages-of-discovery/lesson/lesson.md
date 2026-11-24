@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: England and France fol
 
 England and france follow late into the race, planting flags and claims across north america and the seas portugal and spain opened.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Discovery voyages to the North and South Poles
 
 The race for new lands ends at the earth's frozen ends, the last blank spaces on the map.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

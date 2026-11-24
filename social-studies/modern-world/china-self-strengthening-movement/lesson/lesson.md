@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: beaten officials learn
 
 beaten officials learn Western arms and machines, founding arsenals, shipyards and China's first modern national industries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Seeking a way out (2) — Self-Strengthening and the wars
 
 arsenals and the Beiyang fleet rise even as France and then Japan strip away Vietnam and Taiwan and smash the fleet at Weihaiwei
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

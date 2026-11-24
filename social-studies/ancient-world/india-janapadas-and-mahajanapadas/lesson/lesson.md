@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Rajas of peoples becam
 
 Rajas of peoples become rajas of lands where "the jana set its foot"; excavated settlements at Purana Qila, Hastinapura and Atranjikhera yield huts, cattle and fine Painted Grey Ware for special feasts; the greatest janapadas ring their capitals with massive fortification walls.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Armies, taxes and changes in agriculture
 
 Kings who build forts and keep salaried, year-round armies must tax — bhaga, a sixth of the crop, labour from craftsmen, animals from herders; iron ploughshares bite heavy clay and transplanted paddy multiplies the harvest, on the bent backs of dasas and landless kammakaras.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

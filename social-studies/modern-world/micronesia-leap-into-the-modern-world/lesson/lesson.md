@@ -8,7 +8,7 @@ Within one childhood, your island gains radios, an airfield, a hospital and mone
 
 *Over Seas and Time* calls the chapter A Leap into the Modern World — a leap, not a stroll. In the 1960s–70s, American spending poured into the Trust Territory: money wages, radios in the villages, new schools and hospitals changed daily life within a few years.
 
-[Picture slot — a picture of a 1960s island village with a new radio mast, a school, a small hospital and a dirt airfield beyond the houses — the student points to two arrivals and says what each changed in daily life.]
+In your mind's eye: a 1960s island village with a new radio mast, a school, a small hospital and a dirt airfield beyond the houses. The student points to two arrivals and says what each changed in daily life.
 
 ## Sub lesson 2 — Roads, airfields, Peace Corps and Civic Action Teams
 

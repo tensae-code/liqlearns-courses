@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: England tries its king
 
 England tries its king, then binds the crown with habeas corpus and a bill of rights — power is fenced in by law instead of resting in one person.
 
-[Picture slot — a picture of an English courtroom and parliament on one side and Voltaire writing about England on the other — the student says what bound the crown and why Voltaire praised England]
+In your mind's eye: an English courtroom and parliament on one side and Voltaire writing about England on the other. Say what bound the crown and why Voltaire praised England.
 
 ## Sub lesson 2 — Voltaire and the English model
 

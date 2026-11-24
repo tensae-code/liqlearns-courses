@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Britain asks New Zeala
 
 Britain asks New Zealand to seize German Samoa at the start of the First World War; troops land unresisted at Apia in August 1914; Samoa passes through League of Nations mandate (1919) and UN trusteeship (1945), with New Zealand charged to prepare it for self-government, until in 1962 Samoa becomes the first Pacific island country to win independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 1, Activity 6 "Samoa's National Identity"
 
 learners return to the Year 10 Book 1 history timeline (printed pp. 46–47 of that book) and choose which events on it — takeover, influenza, Mau, independence — did the work of forming Samoa's national identity
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 1, Topic 2 key-words box, "Discrimination" example
 
 when the First World War begins, New Zealand takes Samoa from Germany and tears German men from their Samoan wives and families, imprisoning them until the war ends
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

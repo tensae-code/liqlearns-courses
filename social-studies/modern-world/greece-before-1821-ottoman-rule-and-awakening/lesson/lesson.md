@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Greeks under Ottoman r
 
 Greeks under Ottoman rule grow rich on trade and shipping, schools and printing spread the Enlightenment, and a nation wakes up
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Cultural relations between Europe and the Greeks under foreign rule
 
 Greek merchants and scholars carry the Enlightenment home in books, schools and ships
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Greek intellectual and artistic creation under Ottoman rule
 
 folk songs, church painting, diaspora schools and printers prepare a national revival
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

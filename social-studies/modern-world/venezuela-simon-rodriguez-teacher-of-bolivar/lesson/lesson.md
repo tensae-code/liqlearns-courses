@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Bolívar's teacher for
 
 Bolívar's teacher forms his heart "for liberty, for justice, for what is great and beautiful", and the pupil's letter thanks the master who made him
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Builders of the dream of the Simons
 
 Simón Rodríguez, who taught Bolívar to learn, and Bolívar himself set the dream of an educated, free homeland that students are called to finish building
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

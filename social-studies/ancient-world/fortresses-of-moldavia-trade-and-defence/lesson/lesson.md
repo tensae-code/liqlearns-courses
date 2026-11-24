@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: fortresses like Cetate
 
 fortresses like Cetatea Albă at the Dniester's mouth guard the land and grow rich as trade centres; at Saharna a Dacian fort's stone-and-timber walls still surface
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

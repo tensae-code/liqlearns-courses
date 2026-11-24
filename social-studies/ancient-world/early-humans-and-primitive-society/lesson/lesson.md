@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the first people learn
 
 the first people learn fire, tools and speech, and the lone family grows into clan and tribe — the long childhood of humankind before any state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §2 The early stages of the earliest man and §3 Clan society
 
 from the first tool-makers to settled clan communities with elders, custom and shared work — how society exists before kings
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

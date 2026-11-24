@@ -18,7 +18,7 @@ How did one community hold together across so much water? By travelling on it. I
 
 Regularly matters. This was not one brave trip, long ago. Voyaging was the ordinary way the community stayed a community — boats crossing, again and again, between homes that the sea joined instead of dividing.
 
-[Picture slot — a picture of the named islands on a Pacific map joined by voyaging lines: follow the lines with a finger and name the islands in the exchange community.]
+In your mind's eye: the named islands on a Pacific map joined by voyaging lines. Follow the lines with a finger and name the islands in the exchange community.
 
 ## Sub lesson 3 — What travelled
 

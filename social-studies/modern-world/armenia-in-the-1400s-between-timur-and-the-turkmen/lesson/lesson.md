@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Timur's invasions and 
 
 Timur's invasions and the Qara Qoyunlu and Aq Qoyunlu turkmen confederations rule a land whose church becomes its only national institution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

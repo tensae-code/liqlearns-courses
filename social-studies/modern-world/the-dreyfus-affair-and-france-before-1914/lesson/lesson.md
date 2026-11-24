@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Captain Dreyfus is fra
 
 Captain Dreyfus is framed on forged papers and sent to lifelong exile (1894); Zola's published letter forces the real spy Esterhazy into the open, and France splits for a decade before Dreyfus is fully cleared (1906) — while iron output quadruples and the Eiffel Tower rises over the republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

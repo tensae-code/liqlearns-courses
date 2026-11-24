@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a revolution must beco
 
 a revolution must become a state, and the Khalifa's iron rule is the price
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Mahdist State's Foreign Policy, and Its System of Government and Administration
 
 Omdurman behaves like a capital: it taxes, judges, negotiates and makes war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

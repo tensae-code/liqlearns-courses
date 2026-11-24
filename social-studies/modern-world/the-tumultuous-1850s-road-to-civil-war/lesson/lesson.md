@@ -8,7 +8,7 @@ A compromise that only paused the quarrel. A bleeding territory, a court ruling 
 
 The Compromise of 1850 only paused the quarrel over slavery's spread. The Kansas-Nebraska Act then tore the pause open: Kansas bled as pro- and anti-slavery settlers fought — and the fighting birthed the Republican Party, built to stop slavery's expansion.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Dred Scott — and John Brown's raid
 

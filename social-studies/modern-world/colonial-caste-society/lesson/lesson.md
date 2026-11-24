@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A caste pyramid disgre
 
 A caste pyramid disgregates society — peninsulares, criollos, then the indigenous strata of curacas, comunarios, agregados and yanaconas, with African communities as labour force (La estructura social impuesta por la colonia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Estructura social impuesta por la Colonia
 
 Teacher-compendium unit, same arc as the student text (Año 2: Estructura social impuesta por la Colonia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

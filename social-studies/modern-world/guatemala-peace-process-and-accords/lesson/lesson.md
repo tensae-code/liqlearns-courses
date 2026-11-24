@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Cerezo opens Esquipulas
 
 The peace, in Guatemala's Grade 4 book, is built step by step. Cerezo opens the Esquipulas process. Serrano's 1993 autogolpe — a self-coup — collapses under civil pressure. De León Carpio signs the human-rights, resettlement and indigenous-rights accords. And on 29 December 1996 the Firm and Lasting Peace ends the war: thirty-six years of conflict closed by signatures, not by a final battle.
 
-[Picture slot — a picture of the signing on 29 December 1996, pens over the Firm and Lasting Peace accord, with earlier accord covers — human rights, resettlement, indigenous rights — fanned beside it — the student names the date and two accords.]
+In your mind's eye: the signing on 29 December 1996, pens over the Firm and Lasting Peace accord, with earlier accord covers — human rights, resettlement, indigenous rights — fanned beside it. Name the date and two accords.
 
 ## Say it to your companion
 

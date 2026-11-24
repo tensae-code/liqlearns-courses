@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: populists, then Marxis
 
 populists, then Marxist social democrats, organise in secret against the Tsar
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §8.1 Why did Tsar Alexander II become a victim of "Narodnaya Volya"?
 
 the tsar who freed the serfs is hunted and killed by the revolutionary terrorists of the People's Will
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

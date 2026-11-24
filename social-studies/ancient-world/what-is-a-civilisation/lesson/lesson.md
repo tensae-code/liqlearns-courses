@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A civilisation rises w
 
 Rivers that force cooperation, meeting-places of continents, minerals in the hills, safety from invasion, and man's struggle with his environment — with Egypt, owner of the oldest of the ancient world's civilisations, taken as the model, and Jamal Hamdan's "genius of place" as its motto.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

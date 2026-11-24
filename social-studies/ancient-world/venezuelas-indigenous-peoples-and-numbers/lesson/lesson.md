@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The books say the firs
 
 The books say the first peoples counted with their own systems, and children test fingers against written numerals to feel the invention
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Process of changes in indigenous life; cultures of our indigenous past
 
 Hunting-gathering gives way to farming and settled cultures in what will become Venezuela, each culture leaving its own traces
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

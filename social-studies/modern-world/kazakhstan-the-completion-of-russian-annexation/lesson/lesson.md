@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Russian columns take T
 
 Russian columns take Turkestan, Shymkent and Tashkent's approaches, joining the Orenburg and Siberian lines and ending the annexation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§31–32 The joining of Kazakhstan's southern regions to the Russian Empire
 
 Cherniaev's columns take Shymkent and Aulie-Ata and the south is annexed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4.7 What are the features of the joining of Kazakhstan's southern regions to the Russian Empire?
 
 the south is taken by storm from Kokand, not by oath — a different annexation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

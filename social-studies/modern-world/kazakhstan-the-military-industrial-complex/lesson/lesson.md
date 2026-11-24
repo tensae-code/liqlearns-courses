@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: secret plants and test
 
 secret plants and test sites make the republic part of the Soviet war machine
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §14. The military-industrial complex in Kazakhstan; the Baikonur cosmodrome
 
 rockets rise from the steppe — Gagarin's launch site is Kazakh soil leased to a secret programme
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §2 The military-industrial complex in Kazakhstan
 
 secret plants and test sites bind the republic to the Soviet war machine
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

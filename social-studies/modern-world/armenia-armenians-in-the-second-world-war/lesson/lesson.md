@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: over 300,000 Armenians
 
 over 300,000 Armenians from the republic and more from the diaspora fight in Soviet ranks; divisions from Armenia reach Berlin, and the home front feeds and arms them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

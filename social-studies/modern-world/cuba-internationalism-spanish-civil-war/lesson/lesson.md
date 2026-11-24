@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Cuban volunteers, amon
 
 Cuban volunteers, among them Pablo de la Torriente Brau, cross the Atlantic to fight fascism in Spain and fall there for another people's freedom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

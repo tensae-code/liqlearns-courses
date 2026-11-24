@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Lenin renounces Bessar
 
 Lenin renounces Bessarabia he cannot hold; the 1924 Vienna conference fails, and the Romanian Treasure, evacuated to allied Russia in 1916, becomes the hostage of the whole relationship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 14: Relațiile româno-sovietice în perioada interbelică
 
 Soviet press campaigns discredit Romania; the Tatarbunary rising of September 1924 is the local explosion, and in August 1939 Moscow negotiates with Berlin while the western military delegations are still in town
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

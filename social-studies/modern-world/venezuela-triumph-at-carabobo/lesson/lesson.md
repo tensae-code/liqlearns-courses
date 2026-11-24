@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The heroes of Carabobo
 
 The heroes of Carabobo win the battle that seals Venezuela's independence on the field
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Battles that sealed the independence of the Bolivarian countries
 
 Carabobo and the sister battles seal independence country by country across the Bolivarian north
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

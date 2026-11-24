@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Governor Solf (1900) a
 
 Governor Solf (1900) abolishes the Tupu, installs Mataafa as Ali'i Sili, rewrites the fa'alupega to honour the Kaiser, and blocks the Sāmoan-owned Oloa copra company; orator Lauaki Mamoe petitions for a Sāmoan voice, and Solf exiles him and his supporters' families to Saipan — Lauaki dies at sea in 1915 on the ship finally bringing him home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

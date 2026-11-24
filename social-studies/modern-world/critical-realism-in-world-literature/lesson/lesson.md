@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Dostoevsky, Tolstoy an
 
 Dostoevsky, Tolstoy and Chekhov open realism's new possibilities; Maupassant, Zola, Shaw, Mark Twain, Dreiser's financier Cowperwood, Tagore, Lu Xun and Jack London's Iron Heel expose the bourgeois world's greed and lies — literature becomes the epoch's court of judgement
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

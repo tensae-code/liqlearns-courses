@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: on Kazakhstan's own st
 
 on Kazakhstan's own steppe frontier, Central Asian powers rise on horses and trade routes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §13 Ancient states of Central Asia
 
 Bactria, Sogdiana and Khwarezm flourish on Kazakhstan's southern doorstep
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §13 How mighty were Central Asia's empires (lesson plan)
 
 Central Asian powers are mapped from Kazakhstan's doorstep
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

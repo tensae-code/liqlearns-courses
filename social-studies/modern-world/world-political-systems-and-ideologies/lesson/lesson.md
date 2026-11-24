@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Power, authority and l
 
 Power, authority and legitimacy defined and sorted — monarchs, feudal units and every system by which a society's collective decisions get made, enforced and reproduced
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ideology and hegemony
 
 Doctrine against domination — political and epistemological ideologies sorted, and hegemony named as one group's authority over a society or one nation's over others, and how it works on the less powerful
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

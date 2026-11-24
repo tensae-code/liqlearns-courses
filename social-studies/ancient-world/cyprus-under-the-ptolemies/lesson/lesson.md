@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: under the Ptolemies Cyprus 
 
 Alexander's successors abolish Cyprus's kings, and Ptolemaic governors rule the island as one province of an Egyptian empire.
 
-[Picture slot — a picture of the key place or moment of Cyprus under the Ptolemies as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Cyprus under the Ptolemies as the book shows it. Point to it and say what it shows.
 
 ## Sub lesson 2 — The importance of Cyprus for the Ptolemaic kingdom — the Kyrenia ship
 

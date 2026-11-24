@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: world trade spreads ne
 
 world trade spreads new goods and tastes; in the Principalities oriental furniture gives way to European style in towns while village boyar houses stay rustic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §8: Mod de viaţă şi de gândire în Europa Occidentală şi în Ţările Române
 
 European expansion spreads new goods and a new public sphere — coffee houses and gathering places where people read, argue and form opinion
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

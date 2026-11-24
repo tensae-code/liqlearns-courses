@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: a peasant girl raises 
 
 a peasant girl raises the siege of Orléans and turns France's war around
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §16 Joan of Arc; France's victory in the Hundred Years War
 
 Joan's banner turns the war and France emerges united
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 6.3 What does Joan of Arc symbolise for the French people?
 
 the Maid becomes France's enduring emblem of resistance and faith
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §18 Joan of Arc
 
 the Maid of Orléans lifts her king and her country's spirit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

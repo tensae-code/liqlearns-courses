@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 Bones and tools found in Moroccan soil show prehistoric Moroccan man — the first Moroccans — long before any state, city or writing.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — A way of life — hunting, sheltering, surviving
 

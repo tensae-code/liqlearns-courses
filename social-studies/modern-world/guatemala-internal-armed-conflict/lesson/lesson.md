@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: born of injustice, raci
 
 Guatemala's Grade 4 book names the war's roots plainly: injustice, racism and exclusion. The war runs from the FAR in the east to the four guerrilla groups united as URNG in 1982. Ríos Montt's scorched-earth offensive wipes out whole villages. Some 13,000 die in the first phase alone — the book counts the cost in villages and lives, not only in battles.
 
-[Picture slot — a picture of a Guatemalan village in the war years, empty fields and a memorial wall of names — the student names the war's causes as the book gives them and the year URNG united.]
+In your mind's eye: a Guatemalan village in the war years, empty fields and a memorial wall of names. Name the war's causes as the book gives them and the year URNG united.
 
 ## Say it to your companion
 

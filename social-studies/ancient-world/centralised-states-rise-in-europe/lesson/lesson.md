@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: kings tame their baron
 
 kings tame their barons and France, England and Spain become single states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §17 Centralised states form in Europe
 
 kings gather taxes, armies and courts into single states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §18–19 Centralised states form in Europe
 
 standing armies and royal courts end feudal fragmentation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §19 Centralised states form in Europe
 
 France, England and Spain gather into single monarchies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A free Black state, fe
 
 A free black state, fearing the slave powers would return, rings itself with forts — fort jacques, the citadelle, fort décidé — whose faces still stare out from haiti's banknotes (Study object: Fort Jacques and Haiti's defensive forts)
 
-[Picture slot — a picture of Fort Jacques above Port-au-Prince, one of the forts Haiti built to defend its independence — the student names one fort and says why it was built]
+In your mind's eye: fort Jacques above Port-au-Prince, one of the forts Haiti built to defend its independence. Name one fort and says why it was built.
 
 ## Say it to your companion
 

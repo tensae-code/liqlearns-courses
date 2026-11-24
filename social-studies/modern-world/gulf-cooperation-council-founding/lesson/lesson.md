@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The six Gulf states jo
 
 The six gulf states join in one council to act together, the founding act that the unit's cooperation lessons then unpack.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

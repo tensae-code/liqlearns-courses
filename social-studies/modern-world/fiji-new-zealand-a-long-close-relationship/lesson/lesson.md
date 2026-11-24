@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Bank of New Zealan
 
 The Bank of New Zealand opens in Levuka in 1877; in WWI Fijians travel to join the Māori Battalion and Sukuna's schooling links the two peoples; the RNZAF builds at Laucala Bay, and in November 1941 the US agrees to finance two 7,000-foot runways at Nadi, built by a New Zealand firm — the origin of Nadi Airport.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 2 Topic E: Fijian rugby's New Zealand origins
 
 A Bauan learns rugby in New Zealand and returns to teach it; a Fiji Times report has the Naililili side singing "We licked them on their own ground", and Robert Dewey's research is set against the myth of Fiji rugby's origins.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

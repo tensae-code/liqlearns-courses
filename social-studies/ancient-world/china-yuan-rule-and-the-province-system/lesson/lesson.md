@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Kublai builds the larg
 
 Kublai builds the largest territory in Chinese history; peoples move and mix until Persian and Arab settlers merge into the new Hui people, and the temporary 'branch secretariats' harden into the province system China still uses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Yuan unifies
 
 in 1279 the Mongols complete the greatest unification since Han and Tang and govern it through the new provinces
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

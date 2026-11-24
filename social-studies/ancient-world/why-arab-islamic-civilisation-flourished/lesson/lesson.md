@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the civilisation flowe
 
 the civilisation flowers because it refuses to close in on itself: it takes trade, dams, irrigation and poetry from the old Arab civilisations, administration and architecture from Persia, mathematics and medicine from India, philosophy from Greece, law and road-building from Rome, absorbs the conquered lands' sciences, criticises them and adds its own creations — and lets Muslim, Christian and Jew live and create side by side in tolerance and coexistence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

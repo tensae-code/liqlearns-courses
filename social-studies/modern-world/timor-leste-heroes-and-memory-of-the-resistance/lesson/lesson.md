@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 The annex gives children names to inherit. Its biographies tell of Rosa 'Muki' Bonaparte and Maria Goretti Joaquim — women of the resistance's first generation — and of Taur Matan Ruak and Rui Maria de Araújo, who carried the struggle into the restored republic's leadership. A young republic writes down who its heroes were, so the next generation inherits names, not silence. These lives are filed here as summaries only, never transcribed.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Writing down what was done — Soibada, the Nobel Prize and CHEGA!
 

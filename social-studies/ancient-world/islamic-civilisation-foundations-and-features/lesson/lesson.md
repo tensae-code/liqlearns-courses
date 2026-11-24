@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Kuwait's Grade 8 book 
 
 Learners weigh the great civilisations against each other and argue why the islamic one, joining faith, knowledge and building, stands first for them.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The concept of Islamic civilisation and the bases it rose on
 
 Learners rebuild the definition from its pieces — values, ethics, inventions and works — and sort its material and spiritual sides.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Characteristics of Islamic civilisation
 
 The civilisation's marks are drawn out one by one so learners can spot them in any city, book or building it left behind.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

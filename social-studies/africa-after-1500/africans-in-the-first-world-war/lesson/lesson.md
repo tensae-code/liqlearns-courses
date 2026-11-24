@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A European war reaches
 
 A European war reaches into Africa — Africans are drawn in as soldiers, carriers and victims on their own soil
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The First World War and the crisis of the 1920s in Mozambique
 
 The First World War worsens living conditions in Mozambique, and the economic and social crisis of the 1920s follows the war home
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

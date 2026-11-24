@@ -16,7 +16,7 @@ Pilgrimage churches and palaces rise across the German lands, Austria and Bohemi
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a central European pilgrimage church and palace — the student points to Rome and Versailles speaking in a local accent.]
+In your mind's eye: a central European pilgrimage church and palace. The student points to Rome and Versailles speaking in a local accent.
 
 ## Sub lesson 3 — Each place translates
 

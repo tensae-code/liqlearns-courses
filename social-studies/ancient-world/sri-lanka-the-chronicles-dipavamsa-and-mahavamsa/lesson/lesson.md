@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Dipavamsa comes fi
 
 The Dipavamsa comes first, then the monk Mahanama shapes the Mahavamsa in the 5th–6th century — 37 chapters ending with Mahasena — and later hands continue it as the Culavamsa, while Wilhelm Geiger's edition lets the world read them critically
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

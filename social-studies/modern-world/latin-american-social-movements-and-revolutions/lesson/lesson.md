@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From Indigenous resist
 
 From Indigenous resistance to modern equality struggles, Latin Americans repeatedly rise against the orders imposed on them (Sección 4 Tema 1: movimientos sociales y revoluciones en Latinoamérica)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

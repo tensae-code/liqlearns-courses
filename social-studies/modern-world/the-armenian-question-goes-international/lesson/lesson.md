@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: reform promises for Ot
 
 reform promises for Ottoman Armenians become a European diplomatic question at Berlin in 1878 — and remain promises
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Teaching guidance for Chs. 4–6, from the Ottoman–Safavid division to the 1800s
 
 teachers trace how liberation plans, Russian annexation and European diplomacy made Armenia's fate an international question
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

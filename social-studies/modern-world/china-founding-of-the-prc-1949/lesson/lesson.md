@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: in September 1949 the 
 
 in September 1949 the CPPCC elects Mao Zedong chairman, renames Beiping Beijing, adopts the March of the Volunteers as anthem and the five-star flag, and on 1 October the new state is proclaimed at Tiananmen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The PRC founded
 
 the CPPCC, the Common Programme and 1 October 1949 open the new state, and land reform and the Korean War secure it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

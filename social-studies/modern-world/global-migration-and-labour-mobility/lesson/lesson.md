@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Migration touches ever
 
 Migration touches every state in a globalising world — people cross borders for work and safety, origin and destination countries both transformed, and working overseas becomes a career strategy weighed cost against benefit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Intercultural migration
 
 Migrants remake the developed world — east-to-west flows inside Europe, Middle East conflict and African poverty pushing outward, the US, Argentina and Brazil built on immigrants, and Germany asking how long before a newcomer belongs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

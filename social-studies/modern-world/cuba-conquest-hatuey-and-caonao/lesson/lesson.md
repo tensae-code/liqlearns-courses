@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: Ocampo sails round the
 
 Ocampo sails round the island (bojeo); Velázquez lands in 1510; cacique Hatuey, fled from La Española, warns Cuba and is burned alive refusing heaven with Spaniards in it; at Caonao a feast turns into a massacre
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Ch.2 activities: arrival of the Spaniards and occupation exercises
 
 pupils retrace the conquest chapter's route — Ocampo, Velázquez, Hatuey — through map, ordering and writing tasks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 2.1 Clash of two cultures with unequal development
 
 two worlds at different stages collide in 1492; the book names the inequality itself as the conquest's first cause
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

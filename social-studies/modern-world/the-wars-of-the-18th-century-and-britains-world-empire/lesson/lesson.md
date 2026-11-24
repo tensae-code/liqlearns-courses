@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: succession wars from S
 
 succession wars from Spain to Austria end at Utrecht and Aachen; the Seven Years' War makes Britain mistress of Canada and India and Prussia a great power
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 1 §§5–8 The reasons for the wars; The rise of Prussia; Russia from Peter the Great to Catherine II; The results of a hundred years of wars
 
 Rossbach (Eventi) announces Prussia, Russia becomes a European power, and a century of dynastic war quietly builds the modern state system
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

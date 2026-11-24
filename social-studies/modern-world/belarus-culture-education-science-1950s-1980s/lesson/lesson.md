@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: schooling, universitie
 
 Schooling, universities and research institutes expand across the republic and Belarusian cosmonauts carry its name into orbit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Belarusian literature, late 1950s — 1980s
 
 The Thaw rehabilitates repressed writers, and Vasil Bykau's war prose turns the village and the front into questions of conscience
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Theatre, music and visual art, late 1950s — 1980s
 
 Theatres, composers and painters work inside socialist realism's frame while quietly widening what can be said
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

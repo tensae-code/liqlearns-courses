@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The VOC is founded in 
 
 The VOC is founded in 1602, Spilbergen lands at Batticaloa, Sebald de Weert is killed after insulting Vimaladharmasuriya I, yet Rajasinghe II signs the 1638 treaty and the Dutch take the Portuguese forts but refuse to hand them back
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Establishment of Dutch power and Kandyan relations (competency level 1.1, 10 periods)
 
 Teachers stage the story of a king who invites the Dutch in to expel one enemy and gains another, from the VOC's charter to the broken promise over the forts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

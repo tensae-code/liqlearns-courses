@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: amid blockade, blackou
 
 amid blockade, blackout winters and war, the new state adopts a constitution (1995), a currency and an army
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

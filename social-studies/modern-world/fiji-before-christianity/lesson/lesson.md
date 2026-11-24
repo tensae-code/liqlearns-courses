@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: before missionaries, F
 
 Before missionaries, Fijian religion is animist; the bete priest in the burekalou foretells the future and directs worship of ancestral gods, and war and cannibalism end only when converted chiefs lead their people to Christianity.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 4.2 Ancient religion in Fiji (with R.A. Derrick, A History of Fiji, 1946, extract)
 
 Before Christianity, Fiji's ancient religions centre on gods such as Ravuyalo and Rakola; the bete priest serves them in the bure kalou, and pupils interrogate Derrick's 1946 history as a source.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

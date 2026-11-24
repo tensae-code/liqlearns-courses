@@ -10,7 +10,7 @@ Turkey's Grade 12 book runs the interwar years on two tracks. At home: the early
 
 Then the pacts that arm peace with signatures: the Balkan Entente of 1934, the Montreux Convention of 1936 restoring the Straits, the Sadabad Pact of 1937 — and Hatay joining the homeland. The age closes on 10 November 1938, with Atatürk's death. The book's beat: 'peace at home, peace in the world' is practised border by border while the founder's chair empties.
 
-[Picture slot — a picture of Ankara in the 1930s — the new capital's broad avenue, flags of a Balkan Entente conference flying — the student points to the flags and says what policy they stand for.]
+In your mind's eye: ankara in the 1930s — the new capital's broad avenue, flags of a Balkan Entente conference flying. The student points to the flags and says what policy they stand for.
 
 ## Say it to your companion
 

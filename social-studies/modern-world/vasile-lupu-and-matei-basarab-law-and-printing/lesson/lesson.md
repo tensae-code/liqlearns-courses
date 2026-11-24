@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: two rival princes outd
 
 two rival princes outdo each other in good works — Vasile Lupu's Pravila of 1646 is Moldavia's first printed law code, moving the land from custom to written law
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unitatea III, Lecția 5: Țările Române în prima jumătate a sec. al XVII-lea
 
 Matei Basarab allies with Transylvania's Rákóczi but clashes with Moldavia's Vasile Lupu; in Transylvania Gabriel Bethlen's harsh rule provokes general resistance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

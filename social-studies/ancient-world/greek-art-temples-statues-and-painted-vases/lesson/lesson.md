@@ -16,7 +16,7 @@ Temples are tuned like music, and statues step out of stiffness into living bala
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Greek temple, a statue in living balance and a black-and-red painted vase — the student points to the proportion in each.]
+In your mind's eye: a Greek temple, a statue in living balance and a black-and-red painted vase. The student points to the proportion in each.
 
 ## Sub lesson 3 — Vases carry the story home
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Mesrop Mashtots create
 
 Mesrop Mashtots creates the Armenian alphabet in 405, the Bible is translated, and Khorenatsi and other fathers write the nation's first histories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 6.2 Natural sciences and art in the 5th–9th centuries
 
 Anania Shirakatsi maps the cosmos, physicians and architects raise a learning culture that outlives the kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ An empire claims your islands on paper for centuries — then one day its offici
 
 Real rule was resisted at once: Pohnpeians attacked only three months in, and Spain fought to hold its new colony. Paper claims were old; governing was new, and it began in conflict.
 
-[Picture slot — a picture of a Spanish administration building on Pohnpei with a flag above it, and far away a tiny atoll with a single distant flag — the student points to each and says how Spanish rule felt different in the two places.]
+In your mind's eye: a Spanish administration building on Pohnpei with a flag above it, and far away a tiny atoll with a single distant flag. The student points to each and says how Spanish rule felt different in the two places.
 
 ## Sub lesson 2 — Quarrels with the missionaries: Reverend Doane
 

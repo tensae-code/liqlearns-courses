@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: American black ships f
 
 American black ships force Japan open, and the Meiji leaders answer by modernising at speed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §10.3 Why did the USA send warships to Japan?
 
 Perry's black ships anchor off Japan to force trade, and a closed country is opened at cannon-mouth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 In the age of European expansion, Portuguese sailors find the uninhabited islands; the book asks who really "discovered" land no one lived on.
 
-[Picture slot — a picture of a sailing ship approaching a dry, empty island shore, with no houses or people on the land — the student says who found the islands and why the book asks who really "discovered" land no one lived on.]
+In your mind's eye: a sailing ship approaching a dry, empty island shore, with no houses or people on the land. Say who found the islands and why the book asks who really "discovered" land no one lived on.
 
 
 ## Sub lesson 2 — Occupation and peopling of the islands

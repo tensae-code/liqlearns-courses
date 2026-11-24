@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In 1550 Spain debates 
 
 In 1550 Spain debates whether the peoples of America have souls and rights — a whole empire stops to argue about the people it is conquering.
 
-[Picture slot — a picture of two men arguing before Spanish judges at Valladolid in 1550, with a map of America behind them — the student says what question was being debated and who argued each side]
+In your mind's eye: two men arguing before Spanish judges at Valladolid in 1550, with a map of America behind them. Say what question was being debated and who argued each side.
 
 ## Sub lesson 2 — Las Casas against Sepúlveda
 

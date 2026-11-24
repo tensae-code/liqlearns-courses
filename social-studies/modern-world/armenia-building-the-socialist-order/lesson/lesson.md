@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: NEP gives way to colle
 
 NEP gives way to collectivisation and crash industrialisation; peasants lose their land as factories and canals rise across the small republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 3: Soviet Armenia 1920–1991
 
 the guide frames seventy Soviet years as both modernisation and subordination — federation, borders fixed against Armenia, repression, war service and everyday life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

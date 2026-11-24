@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Envoys swap gifts in 1
 
 Envoys swap gifts in 1602, 1656, 1688 and 1721, Vimaladharmasuriya II keeps the peace and wins back monks from Burma, but Kirti Sri's Kandy is invaded in 1765 and the 1766 treaty strips the kingdom of its coast
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

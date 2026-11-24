@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: In December 1885 Allan
 
 In December 1885 Allan Hume gathers India's movements in Bombay, W. C. Bonnerjee presides, and the Congress grows from petitions into the engine of a freedom struggle lasting to 1947
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Indian Nationalist Movement (competency level 4.1, 10 periods)
 
 The guide holds India up as the mirror — Sepoy mutiny, Congress, Muslim League, Gandhi — and asks what unity across communities won there
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

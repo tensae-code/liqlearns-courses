@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Cambodia sits inside A
 
 Cambodia sits inside ASEAN's ten nations and a globalising world of food insecurity, migration and terrorism; the EU is held up as the model of regional union (Section, Regional and World History)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History Ch. 1 Lesson 5, ASEAN
 
 five nations found ASEAN at Bangkok on 8 August 1967; Brunei (1984), Vietnam (1995), Laos and Myanmar (1997) follow, and Cambodia completes the ten on 30 April 1999 (History Ch. 1 Lesson 5, ASEAN)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Punch-marked coins cir
 
 Punch-marked coins, stamped with symbols and uninscribed, circulate for 500 years across the subcontinent — while a Sangam poem's salt merchants still cart white paddy to swap for coastal salt, whole families travelling roads "through sands white as moonlight".
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Jahangir rules through
 
 Jahangir (1605–1627) rules through art and justice while his queen Noor Jahan (1577–1645) — poet, patron and power behind the throne — shapes the court; his son Shah Jahan turns the empire's wealth into marble: the Taj Mahal, Delhi's Jama Masjid, Lahore Fort and the Shalimar Gardens.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

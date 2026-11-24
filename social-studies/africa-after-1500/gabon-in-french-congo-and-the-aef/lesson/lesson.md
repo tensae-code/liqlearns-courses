@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Gabon is folded into F
 
 Gabon is folded into a larger French colony and ruled from outside its own borders (Leçon 36 Le Gabon dans le Congo français)
 
-[Picture slot — a picture of a map of French Equatorial Africa showing Gabon as one territory among four — the student says how many territories the AÉF had]
+In your mind's eye: a map of French Equatorial Africa showing Gabon as one territory among four. Say how many territories the AÉF had.
 
 ## Sub lesson 2 — From French Congo to French Equatorial Africa
 

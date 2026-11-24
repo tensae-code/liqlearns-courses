@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Budapest pulls down St
 
 Budapest pulls down Stalin's statue in 1956 and Soviet tanks answer; Prague's "socialism with a human face" in 1968 is ended the same way — the bloc holds, but everyone has seen it can crack
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

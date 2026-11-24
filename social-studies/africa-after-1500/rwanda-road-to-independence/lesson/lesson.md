@@ -8,7 +8,7 @@ Berlin hands Rwanda to Germany, which rules through the king; King Rudahigwa ref
 
 The Berlin Conference of 1884–85 hands Rwanda to Germany, which rules through the king. Rwanda's road to independence therefore starts from indirect rule: the king stays, but under a foreign power.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Rudahigwa — reforms and the demand for independence
 

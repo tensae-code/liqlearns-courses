@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 1898 opens the imperia
 
 1898 opens the imperial century: Cuba, Puerto Rico, Panama, interventions and the first anti-imperialist answers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

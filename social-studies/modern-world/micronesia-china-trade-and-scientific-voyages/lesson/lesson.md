@@ -8,7 +8,7 @@ For 150 years, almost no foreign ship comes. Then, suddenly, the sea roads fill 
 
 *Over Seas and Time* calls this chapter The Return of Europeans. After some 150 quiet years, ships came back — because of trade with China. The sea road to China ran past Micronesia, and the islands became a crossroads again: a place ships stopped, traded and took on supplies.
 
-[Picture slot — a picture of a sailing ship on a sea road with a chart of small islands unrolled beside it — the student points to the chart and says what the scientific voyages did to the islands on paper.]
+In your mind's eye: a sailing ship on a sea road with a chart of small islands unrolled beside it. The student points to the chart and says what the scientific voyages did to the islands on paper.
 
 ## Sub lesson 2 — Scientific voyages: Lütke in Kosrae and the Mortlocks
 

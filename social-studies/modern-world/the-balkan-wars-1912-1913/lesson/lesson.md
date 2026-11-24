@@ -8,43 +8,43 @@ Before you read on, hold this lesson's one thing in mind: Greece, Serbia, Bulgar
 
 Greece, Serbia, Bulgaria and Montenegro strip Turkey of Europe; the Greek army and navy take Thessaloniki and the Aegean islands, then beat Bulgaria — the kingdom doubles
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §29 The Balkan Wars (1912–1913)
 
 Elassona, Giannitsa, Thessaloniki taken a day before the Bulgarians, Bizani, the Aegean fleet — then a second war against Bulgaria
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §30 Greece and the Balkans immediately after the Balkan Wars
 
 the treaties of London and Bucharest double Greece and sow the next war's grievances
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Balkan Wars (1912–1913)
 
 the Balkan allies crush the Ottomans, then fight each other over Macedonia; Greece nearly doubles its territory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Greece and the Balkans right after the Balkan Wars
 
 new borders, refugees already moving, and every capital arming for the next round
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — Balkan relations at the start of the 20th century and the Balkan Wars
 
 allies against the Ottomans in 1912 become enemies in 1913; the map is redrawn in blood
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — The Balkan Wars (1912–1913)
 
 the Balkan League frees Macedonia and Thrace, then Bulgaria attacks its allies and loses; Greece takes Thessaloniki, Ioannina and the islands
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

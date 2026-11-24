@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: When America wins inde
 
 when America wins independence in the 1780s, Loyalists who stayed loyal to the English king flee to still-British Bahamas, plant cotton with enslaved labour, rake salt in the off-season, and build Christ Church Cathedral and St. Matthew's, start schools, and John Wells starts a newspaper (Loyalists: the king's men who remade the islands)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Early Connections: the Loyalists build the colony's institutions
 
 Loyalists from the United States build Christ Church Cathedral, establish the first newspaper, the Gazette, and organise law and order in the community (Early Connections: the Loyalists build the colony's institutions)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

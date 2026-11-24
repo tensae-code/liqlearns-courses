@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Felipe II consolidates
 
 Felipe II consolidates absolutism on American gold and silver, and Louis XIV makes divine right its maximum expression, while mercantilist protection guards the colonial empires' wealth
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

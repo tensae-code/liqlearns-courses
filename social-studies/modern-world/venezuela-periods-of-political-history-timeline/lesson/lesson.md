@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A single timeline cuts
 
 A single timeline cuts 1830–1908 into named periods — Páez, Monagas, Federal War, Federation, Yellow Liberalism, Castro — teaching periodisation itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Britain and the United
 
 Britain and the United States circle the isthmus for trade routes and a canal, treating its republics as a corridor
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Intervenciones militares de Estados Unidos en América Latina, siglos XIX y XX
 
 US military interventions repeat across Latin America for two centuries, a pattern each republic meets in turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Tratado Clayton-Bulwer
 
 in 1850 the US and Britain sign over Central America's head, agreeing neither will exclusively control an isthmian canal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Pretensiones extranjeras en Nicaragua
 
 coveted since colonial times for its lake-and-river canal route, Nicaragua becomes urgent after California gold in 1848, with Tehuantepec, Nicaragua and Panama competing as transit routes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Pretensiones extranjeras en Nicaragua
 
 California gold makes a canal urgent; the Monroe Doctrine warns Europe off while the US and Britain sign the Clayton-Bulwer Treaty of 1850 over Nicaragua's head, ignoring its sovereignty
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

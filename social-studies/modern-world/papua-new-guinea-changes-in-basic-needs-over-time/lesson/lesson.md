@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Explorers bring canned
 
 Explorers bring canned beef and rice; native sugarcane, banana and pandanus give ground — for taste, for saved garden time, for prestige, and because town life leaves no land to grow — and shelter and clothing (the meri blouse beside bark cloth) change the same way
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

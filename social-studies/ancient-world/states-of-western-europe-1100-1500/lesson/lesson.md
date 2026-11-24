@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: France centralises thr
 
 France centralises through the Estates General of 1302 while Germany and Italy stay fragmented; England's Wars of the Roses end when Henry Tudor marries Elizabeth of York and joins the two houses
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

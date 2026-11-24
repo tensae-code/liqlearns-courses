@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: with three Islamic pow
 
 with three Islamic powers — Ottoman, Safavid and Mamluk — contesting the leadership of the Muslim world and the Portuguese loose in the Indian Ocean, Selim strikes: Marj Dabiq in 1516 gives him Syria, the Ridaniya in 1517 ends the Mamluk state in Egypt, Iraq is wrestled from the Safavids by 1538, the Sharif of the Hijaz sends him the keys of the Kaaba, Yemen's Mamluks hand over Aden in 1538 and Sanaa in 1547, and Qatif and al-Ahsa plant an Ottoman spearhead against the Portuguese in the Gulf
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

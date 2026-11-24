@@ -20,7 +20,7 @@ In one generation, Buenos Aires and the pampas were transformed. Ports grew wher
 
 That is why the book teaches this period through images as well as words: the change was so fast that people who lived through it could see their own world becoming a different one.
 
-[Picture slot — a picture of Buenos Aires and the pampas changing in one generation, as the book's photographs and accounts show it: name three changes the picture shows — ports, trains, new towns.]
+In your mind's eye: buenos Aires and the pampas changing in one generation, as the book's photographs and accounts show it: name three changes the picture shows — ports, trains, new towns.
 
 ## Sub lesson 3 — The state and foreign investment
 

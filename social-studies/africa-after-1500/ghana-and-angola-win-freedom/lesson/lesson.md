@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Ghana wins freedom at 
 
 Ghana wins freedom at the ballot and leads the continent; Angola wins it by a long armed struggle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 9: Liberation movements in sub-Saharan Africa
 
 South of the Sahara the empires let go, peacefully and by war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

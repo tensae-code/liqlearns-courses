@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Sarduri I raises Tushp
 
 Sarduri I raises Tushpa-Van, Ishpuini and Menua organise the kingdom, and Argishti I plants Erebuni in 782 BCE
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 1.5 The fall of the Van kingdom and independence
 
 Sarduri II clashes with Tiglath-Pileser III, Rusa I fights Assyria and Cimmerians, and by the early 6th century BCE the kingdom is gone — but its lands pass to Armenian rulers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 1.6 The socio-economic and cultural life of the Van kingdom
 
 canals still water fields today, bronze and iron workshops arm the kingdom, and cuneiform inscriptions — read as a class source — speak for its kings
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Teaching guidance for Theme 1, the Highland's first civilisations and Urartu
 
 lesson designs turn inscriptions, the Lchashen wagon and satellite maps into evidence pupils argue from
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

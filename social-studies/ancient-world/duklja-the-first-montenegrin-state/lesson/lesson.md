@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: On Rome's old frontier
 
 On Rome's old frontier the Slavs of Duklja build the first state Montenegrins claim as their own.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch.2.2 Zeta in the age of the Vojislavljevići: Stefan Vojislav's line holds Zeta; Prince Mihailo (1046–1081) inherits, and the 1054 division of the Christian Church into Orthodox and Catholic shapes his politics between Byzantium and Rome
 
 A small coastal kingdom plays two empires and two churches against each other to stay a kingdom.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

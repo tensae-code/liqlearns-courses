@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Cyprus's Greeks strugg
 
 Cyprus's Greeks struggle for enosis through EOKA's campaign, win a fragile independence in 1960, and face invasion and division in 1974
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §54b The Cyprus struggle (1955–1960)
 
 EOKA's campaign against Britain ends in Zurich-London independence — a republic neither enosis nor partition intended
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Cypriot struggle (1955–1960)
 
 Greek Cypriots fight British rule for enosis and settle for an independence nobody designed to last
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Cyprus Problem
 
 the EOKA struggle, the 1960 republic, intercommunal collapse, and the 1974 coup and Turkish invasion that divide the island to this day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

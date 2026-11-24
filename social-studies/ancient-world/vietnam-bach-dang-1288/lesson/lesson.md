@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Trần Quốc Tuấn h
 
 Trần Quốc Tuấn hides a stake field at the river mouth, feigns retreat at high tide, and the Yuan fleet impales itself as the tide falls; commander Ô Mã Nhi is captured alive
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

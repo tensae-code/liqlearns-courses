@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 The guide reads the Amazigh system of rule from a text and a diagram: before any foreigner landed, the Amazigh governed themselves in their own order.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Daily life and the Amazigh script
 

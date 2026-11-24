@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Young Ottomans win
 
 the Young Ottomans win a constitution (1876), Abdulhamid II dissolves the parliament and rules by terror for thirty years; the officers' Union and Progress society — the Young Turks — rises in the army, and in July 1908 the Monastir garrison's revolt forces the constitution back to life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

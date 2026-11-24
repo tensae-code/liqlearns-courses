@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: fearing another warlor
 
 fearing another warlord age, Song Taizu invites his generals to wine and persuades them to trade their armies for estates — 'a cup of wine releases military power' — then splits command so generals never own their troops
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Song politics and military
 
 Song's founders trade military glory for civil rule — strong trunk, weak branches — gaining order and losing armies that can win
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

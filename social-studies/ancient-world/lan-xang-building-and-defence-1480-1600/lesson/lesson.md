@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: kings build temples an
 
 kings build temples and laws at home while Setthathirath moves the capital to Vientiane and faces Burma
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part IV, Lesson 13: Building and defending Lan Xang
 
 Photisarath and Setthathirath build Vientiane and face Burma's invasions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

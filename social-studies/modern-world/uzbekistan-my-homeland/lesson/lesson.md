@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the book opens not wit
 
 the book opens not with the past but with home — the land between the Syr Darya and Amu Darya, its deserts, mountains and the ancestors who lived there, framed by Abdulla Aripov's poem for the Independence lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

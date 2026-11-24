@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Chandragupta I unites 
 
 Chandragupta I unites the Ganges plain in the early 4th century; iron tools, irrigation and trade enrich the realm, and the Chinese monk Faxian's record praises its lenient laws, charity houses and hospitals — its iron pillar still does not rust
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 5, the Delhi Sultanate and Akbar's Mughal empire
 
 Turkic Muslims found the Delhi Sultanate in 1206 and drive south; two centuries on, the Mughal Akbar (1556–1605) rebuilds India with 15 provinces, surveyed land, fair taxes, new crops and a policy of harmony among peoples and faiths
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Bài 5, the culture of feudal India
 
 Brahmanism ripens into Hinduism, Buddhism divides and travels abroad, Islam arrives with Delhi; Sanskrit is perfected, Kalidasa writes Shakuntala (praised by Goethe), and three faiths raise Khajuraho's temples and the 31 rock caves of Ajanta
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

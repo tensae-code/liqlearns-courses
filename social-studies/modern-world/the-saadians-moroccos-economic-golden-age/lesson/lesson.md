@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 Sharifs from the south reunite Morocco; the guide teaches the Saadian state's founding and stages and studies its ambitious economic project in depth — above all the sugar industry, at the Chichaoua works.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Monument study — El Badi Palace
 

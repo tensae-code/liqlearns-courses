@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: salamis was Cyprus's riches
 
 Salamis grows rich and powerful, strikes its own coins and buries its kings with horses and chariots in royal tombs.
 
-[Picture slot — a picture of the key place or moment of Salamis of Cyprus and King Onesilos as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Salamis of Cyprus and King Onesilos as the book shows it. Point to it and say what it shows.
 
 ## Sub lesson 2 — The Cypriot revolt against the Persians; the battle and death of Onesilos
 

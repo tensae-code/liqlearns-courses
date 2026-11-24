@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Lac Viet of the Va
 
 the Lac Viet of the Van Lang legend throw off a thousand years of Chinese rule in 938 and build Dai Viet along the Red River — a state 1,650 km long that Angkor must reckon with (History Ch. 3 Lesson 2, The Dai Viet state (11th–13th centuries))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The UN trusteeship rep
 
 The UN trusteeship replaces the mandate; Australia's "New Deal" abolishes indenture and compensates war damage; the 1962 Foot mission pushes native advancement against planter resistance, and Somare turns the development plans into the Eight Point Plan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

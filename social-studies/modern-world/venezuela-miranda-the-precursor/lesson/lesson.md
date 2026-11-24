@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Miranda crosses the wo
 
 Miranda crosses the world seeking support, organises his expedition in Haiti and sails for America to free it before anyone else dares
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Miranda's expeditions that announced the storm
 
 Miranda's 1806 expeditions fail on the coast but announce the tempest of independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

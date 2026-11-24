@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Agrarian rule, coups a
 
 Agrarian rule, coups and royal authoritarianism swing Bulgaria between dictatorship and democracy between the wars (Lessons 24–25: Between dictatorship and democracy (1919–1939); Bulgaria in the uneasy European peace)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lessons 51–52: Between dictatorship and democracy (1919–1931); from constitutional to authoritarian regime (1931–1939)
 
 Stamboliyski, the 1923 and 1934 coups, and the Tsar's authoritarian turn (Lessons 51–52: Between dictatorship and democracy (1919–1931); from constitutional to authoritarian regime (1931–1939))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

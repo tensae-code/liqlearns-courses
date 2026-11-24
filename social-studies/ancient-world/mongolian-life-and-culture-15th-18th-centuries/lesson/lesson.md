@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: felt gers, herds, sham
 
 felt gers, herds, shamanist rites and the first Mongol scripts — the daily world the Secret History will later describe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 4.1.4 The Mongols' life and culture (13th c.)
 
 herding, hunting, felt and milk foods, Tengri and shaman rites — the ordinary world inside the empire's camps and at Karakorum
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ A chief's son holds power — but not for the old reasons. Before you read on, d
 
 The Grade 11 book's fifth chapter turns from the three leadership models to their fate. Foreign contact ended warfare between island groups — one old ground of chiefly power — and population collapse shook the communities the chiefs led. The old order's foundations were moving.
 
-[Picture slot — a picture of Henry Nanpei standing between a chief's meetinghouse and a church, holding a land paper — the student points to the three things in the scene and says which gave him rank, and which gave him power.]
+In your mind's eye: henry Nanpei standing between a chief's meetinghouse and a church, holding a land paper. The student points to the three things in the scene and says which gave him rank, and which gave him power.
 
 ## Sub lesson 2 — Churches and German land reforms move authority
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: On the ruins of Saint-
 
 On the ruins of saint-domingue, black and mixed-race leaders proclaim a free state no one in 1804 thought possible — and argue over what it should be (Séance 1, L'État, la société et la déclaration d'indépendance (1er janvier 1804))
 
-[Picture slot — a picture of Henri Christophe's kingdom in the north beside Pétion's republic in the west and south — the student says how the two states bet differently]
+In your mind's eye: henri Christophe's kingdom in the north beside Pétion's republic in the west and south. Say how the two states bet differently.
 
 ## Sub lesson 2 — An authoritarian state — the Dessalinian empire
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Egypt stands among the
 
 Egypt stands among the founders of the Organisation of African Unity in 1963 and of its successor, the African Union of 2002 seated in Addis Ababa, and works through Africa's regional blocs, COMESA among them, for the continent's peace, security and development.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

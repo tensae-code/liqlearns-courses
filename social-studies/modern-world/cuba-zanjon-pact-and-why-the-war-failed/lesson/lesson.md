@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: exhausted and divided,
 
 exhausted and divided, most chiefs sign the Pact of Zanjón (1878) without independence or abolition; Maceo's Protest of Baraguá refuses it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 3.7 End of the Ten Years' War
 
 Zanjón ends the war without its aims; regionalism, caudillismo and exhaustion are named as the internal causes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

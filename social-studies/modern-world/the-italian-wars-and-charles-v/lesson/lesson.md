@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Charles VIII's descent
 
 Charles VIII's descent (1494) turns Italy into Europe's battlefield; Charles V inherits half the world, fights France, the Ottomans and the Lutherans, sacks Rome (1527) and leaves Italy to Spain at Cateau-Cambrésis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La guerra in Italia; Il Sacco di Roma (Eventi); La rinuncia di Carlo V
 
 Italy pays for Charles V's empire with the Sack of Rome (1527); in 1555–56 the exhausted emperor divides his world and retires
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

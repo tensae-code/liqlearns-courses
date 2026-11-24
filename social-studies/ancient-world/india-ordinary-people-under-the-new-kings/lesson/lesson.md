@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Under the new kings, o
 
 In Kalidasa's play a poor fisherman who returns the king's ring found in a fish is accused of theft by the gatekeepers, then rewarded — and the officials demand a cut; Fa Xian records untouchables striking wood to warn others away in markets; Banabhatta's royal army on the march swallows the world in dust, trampling villagers' huts as it passes.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

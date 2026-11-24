@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From Abdullah's emirat
 
 Abdullah ibn Hussein reached Ma'an in 1920 and agreed with Churchill in 1921 on an emirate east of the Jordan under British supervision; the national movement rejected the 1928 treaty and Balfour's promise; the 1946 treaty ended the mandate and Abdullah became king; Jordan fought in 1948 and joined the West Bank and Jerusalem to the kingdom, lost them in June 1967, and signed the Wadi Araba treaty in 1994.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

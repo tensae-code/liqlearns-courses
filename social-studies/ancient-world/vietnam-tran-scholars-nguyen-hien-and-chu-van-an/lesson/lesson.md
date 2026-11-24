@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Nguyễn Hiền become
 
 Nguyễn Hiền becomes Vietnam's youngest trạng nguyên at 13 and out-verses a Yuan envoy; teacher Chu Văn An resigns after his "memorial of seven beheadings" against corrupt officials is ignored, and is worshipped at the Văn Miếu
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

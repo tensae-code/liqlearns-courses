@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The 1945 coup opens a 
 
 The 1945 coup opens a democratic triennium, a 1948 coup ends it, and juntas carry the country toward dictatorship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Civic-military Junta and government of Gallegos
 
 The 1945 junta brings universal suffrage, writer-president Rómulo Gallegos wins the first free election — and a 1948 coup cuts him down
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

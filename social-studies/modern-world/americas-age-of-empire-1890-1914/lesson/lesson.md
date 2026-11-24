@@ -8,7 +8,7 @@ The frontier closed, a sea-power prophet preached fleets — and in 1898 the Uni
 
 Turner's frontier thesis argued the frontier had made America — and was now closing. Mahan's sea-power writings argued nations rose on navies and trade. Together they argued America outward: the nation's future lay beyond its shores.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The Spanish-American War wins an overseas empire
 

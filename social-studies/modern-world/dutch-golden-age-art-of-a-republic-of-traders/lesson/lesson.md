@@ -16,7 +16,7 @@ Flanders paints big and sensuous for church and court with Rubens, while the Dut
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a small Dutch painting of a home, a ship and a face beside a big Flemish canvas — the student points to the two different worlds buying art.]
+In your mind's eye: a small Dutch painting of a home, a ship and a face beside a big Flemish canvas. The student points to the two different worlds buying art.
 
 ## Sub lesson 3 — Rembrandt turns light inward
 

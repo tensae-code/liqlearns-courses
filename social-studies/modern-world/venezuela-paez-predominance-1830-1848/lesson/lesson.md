@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Caudillo José Antonio
 
 Caudillo José Antonio Páez dominates the young republic, faces regional caudillos and the 1838–40 economic crisis and its usury law
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

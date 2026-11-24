@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the two victors of 194
 
 the two victors of 1945 are compared as systems — markets and parties against plan and single party — each claiming the future
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 3, Lessons 40–41: the bipolar world — the USA and the USSR
 
 two superpowers, two alliances and two ways of life divide the planet, and every local conflict is read as East against West
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

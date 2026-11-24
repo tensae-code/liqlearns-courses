@@ -10,7 +10,7 @@ The Grade 11 book opens the independence story inside the meetinghouse. In 1965,
 
 It is self-rule explained in island words: what foreign rule had cut apart was not dead, only waiting. The story gave the Congress's work a meaning every islander could hold.
 
-[Picture slot — a picture of a meetinghouse where a speaker tells the octopus story to the Congress of Micronesia, with an octopus carved on the beam above — the student points to the carving and retells what the story claims about independence.]
+In your mind's eye: a meetinghouse where a speaker tells the octopus story to the Congress of Micronesia, with an octopus carved on the beam above. The student points to the carving and retells what the story claims about independence.
 
 ## Sub lesson 2 — Negotiations — and the Marshalls and Palau go their own way
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: France offers recognit
 
 France offers recognition at a price — the 1825 ordinance turns independence itself into a bill haiti must pay (Séance 7, Reconnaissance internationale et dette (developed in the companion debt sequence))
 
-[Picture slot — a picture of French warships anchored off Port-au-Prince in 1825 — the student says what France offered and what it demanded in return]
+In your mind's eye: french warships anchored off Port-au-Prince in 1825. Say what France offered and what it demanded in return.
 
 ## Sub lesson 2 — The debt and Haiti's development — a contemporary debate
 

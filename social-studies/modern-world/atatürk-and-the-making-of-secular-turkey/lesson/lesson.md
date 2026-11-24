@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Mustafa Kemal wins the
 
 Mustafa Kemal wins the independence war, abolishes the sultanate and rebuilds Turkey as a secular republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §11 The fall of the sultanate; Mustafa Kemal's historical role in creating a secular state in Turkey
 
 Kemal wins the war, abolishes the sultanate and rebuilds Turkey as a secular republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §23 The evolution of Kemalism in the second half of the 20th century
 
 Atatürk's secular republic survives coups and evolves toward a new century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §4.1 Why was Mustafa Kemal called "Atatürk"?
 
 the father-of-the-Turks title crowns the republic's founder
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

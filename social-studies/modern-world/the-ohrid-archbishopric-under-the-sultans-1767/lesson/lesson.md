@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the sultans keep the A
 
 the sultans keep the Archbishopric as a loyal, privileged church — its flock grows to Bulgaria, Wallachia, Moldavia and even Orthodox communities in Italy — but favour shifts to Constantinople's patriarchate; St Sophia and St Pantelejmon become mosques and the seat moves to Perivlepta; Archbishop Athanasius I tours Europe begging for an uprising that never comes; squeezed by debt and Phanariot intrigue, the last archbishop, Arsenij, is forced to resign on 16 January 1767, and the sultan abolishes the Archbishopric — the story Grigor Prlićev later sings in "1762 leto"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

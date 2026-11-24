@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Wartime cooperation ea
 
 Wartime cooperation earns trust, Lord Soulbury's 1947 constitution creates a cabinet and two chambers, the Governor-General replaces the Governor, and in 1948 Ceylon is independent
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ballot boxes are count
 
 The women's movement organises, ballot boxes are counted into the night in Kemayoran on 29 September 1955 in Indonesia's first election, and Sukarno answers the fragmentation with Nasakom — nationalism, religion and communism in one formula.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

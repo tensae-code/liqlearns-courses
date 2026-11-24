@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: parties, press and ele
 
 parties, press and elections flourish in a starving republic while a Bolshevik rising in May 1920 and cross-border raids test the young state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

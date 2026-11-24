@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: The arrivals put PNG o
 
 The arrivals put PNG on the world record but changed local lives for good and ill — the class appraises what explorers, missionaries, miners and traders each did to the people already there
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Cultural influence
 
 Cultures change by contact and diffusion; western schooling, phones and Christianity spread through PNG until people rarely call on ancestors for help — old skills are lost as new ones are learnt, faster in some places than others
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit 11.2 responses to imperialism
 
 First contact is role-played, then judged — how colonial powers imposed and held control, what imperialism did to indigenous societies, and how reactions differed from Africa to the Asia-Pacific
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

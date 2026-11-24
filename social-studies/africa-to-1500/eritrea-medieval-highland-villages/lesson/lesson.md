@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: medieval Eritrea's highland
 
 Self-sufficient medieval highland villages grow wheat, barley, teff and sorghum around Debarwa, while churches and monasteries such as Debre Bizen hold land worked by tenants.
 
-[Picture slot — a picture of the key place or moment of Eritrea — medieval highland villages as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — medieval highland villages as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

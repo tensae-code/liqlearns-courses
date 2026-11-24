@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ahmad ibn Tulun gather
 
 Ahmad ibn Tulun, the Turkish officer who came as a deputy in 868, gathers Egypt's reins, wins her people's love with justice and generosity, and stretches his state into the Levant as its shield; his son Khumarawayh defeats the caliphate's armies and wins a thirty-year grant of Egypt and the Levant — the first independent Egyptian state of the Islamic age, followed by Muhammad ibn Tughj al-Ikhshid's.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

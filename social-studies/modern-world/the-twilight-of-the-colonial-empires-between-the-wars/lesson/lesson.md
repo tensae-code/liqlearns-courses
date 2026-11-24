@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the empires look etern
 
 the empires look eternal on the map and are already hollow — mandates, nationalist parties and the first independence movements crack the colonial order between the wars
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

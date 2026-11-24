@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Moscow orders "acceler
 
 Moscow orders "acceleration" of a stalling economy, but speed without change of system only deepens the crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Perestroika in the BSSR and its results
 
 Gorbachev's perestroika brings contested elections, abolition of the party's constitutional monopoly and the first multiparty stirrings in Belarus
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

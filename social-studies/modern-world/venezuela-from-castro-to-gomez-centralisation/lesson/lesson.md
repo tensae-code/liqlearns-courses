@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Gómez turns Castro's 
 
 Gómez turns Castro's restoration into a long centralised rule, unifying the National Treasury from 1918 and remaking the army and the state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Gomecismo
 
 Gómez rules 1908–1935, centralises the state, pays the foreign debt and hands out the oil concessions that change the country
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

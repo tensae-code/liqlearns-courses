@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Louis XIV moves the co
 
 Louis XIV moves the court to Versailles and rules France from one palace — the whole court, and with it the kingdom's attention, gathers where the king is.
 
-[Picture slot — a picture of the palace of Versailles with the court gathered around Louis XIV — the student says where the court moved and how the king governed]
+In your mind's eye: the palace of Versailles with the court gathered around Louis XIV. Say where the court moved and how the king governed.
 
 ## Sub lesson 2 — The king governs by himself
 

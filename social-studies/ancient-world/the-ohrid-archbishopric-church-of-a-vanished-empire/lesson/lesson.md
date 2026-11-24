@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: conquering Samuil's em
 
 conquering Samuil's empire in 1018, Basil II keeps its church alive as an autocephalous archbishopric seated at Ohrid, first under the Slav Jovan of Debar; for centuries it crowns Balkan rulers — Demetrios Chomatenos crowns an Epirote despot emperor — and guards Slavic letters while empires come and go around it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

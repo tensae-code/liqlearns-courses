@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A divided Arab state i
 
 A divided Arab state is invaded — Europeans come as Crusaders and others from the east — and a civilisation of thousands of years is put to the sword.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

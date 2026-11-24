@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Faisal I dies and his 
 
 Faisal I dies and his son Ghazi takes the throne, then Ghazi's own sudden death is announced — two successions shake the young kingdom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

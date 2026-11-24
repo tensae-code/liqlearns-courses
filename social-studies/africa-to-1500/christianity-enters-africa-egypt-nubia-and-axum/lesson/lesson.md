@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: St Mark brings the fai
 
 St Mark brings the faith to Egypt in the first century, trade carries it to Abyssinia where King Ezana makes it his state's religion, and Nubia's kingdoms receive it too
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Entry of Christianity into Africa
 
 a persecuted faith survives in the desert, then rides back down the Nile as the religion of kings
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

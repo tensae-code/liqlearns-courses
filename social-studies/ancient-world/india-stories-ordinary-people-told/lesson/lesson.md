@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Jataka and Panchat
 
 Jataka and Panchatantra tales are written down and carved on stupa railings — a monkey king of 80,000 followers makes his own body the last span of a branch-bridge over the Ganga so his troop escapes a human king, who, watching him die, mourns and honours him.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

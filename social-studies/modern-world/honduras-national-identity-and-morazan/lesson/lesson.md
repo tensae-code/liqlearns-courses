@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: a child learns that be
 
 a child learns that being born in Honduras makes them Honduran, that heroes and próceres did great deeds for everyone, and meets Francisco Morazán, named the country's greatest prócer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 9: los próceres y el héroe
 
 Morazán, Valle, Herrera, Cabañas and Reyes are named founders of the Patria, men of flesh and blood with virtues and defects, beside national hero Cacique Lempira and a painting of the Battle of La Trinidad
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 9: el legado de los próceres
 
 Valle drafted the Act of Independence, Herrera decreed the first constitution in 1825 as first Head of State, Morazán presided over the Federation and left the unionist ideal, and Lempira gave his life defending the land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — identity as a historical construction
 
 Honduran identity is the product of a long history — flag, shield, national flower and tree, archaeological parks and letters — built day by day on family and personal identity, in a pluricultural, multilingual society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Oppression breeds cont
 
 Oppression breeds contestation — strikes, revolts and other struggles by students, peasants and workers; after WWII nationalism speaks through associations, press and poetry
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Nationalist organisations — MJDM and NESAM
 
 After the war, nationalist organisations multiply — the MJDM youth movement and the NESAM secondary students' nucleus among them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

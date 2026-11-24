@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Hunter-gatherers settl
 
 Hunter-gatherers settle, farm and raise chiefdoms (señoríos) across coast, sierra and Amazonia, trading and allying long before any empire arrives (Sección 1 Tema 1: Raíces de la sociedad)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

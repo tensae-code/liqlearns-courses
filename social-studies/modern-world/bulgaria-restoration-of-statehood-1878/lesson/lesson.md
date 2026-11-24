@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: After five centuries, 
 
 After five centuries, Bulgarian statehood is restored — a principality under Ottoman suzerainty and Eastern Rumelia apart (Lesson 13: The restoration of Bulgarian statehood)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 39: The restoration of the Bulgarian state tradition
 
 The state tradition is restored after 1878 — prince, assembly and a nation to rebuild (Lesson 39: The restoration of the Bulgarian state tradition)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

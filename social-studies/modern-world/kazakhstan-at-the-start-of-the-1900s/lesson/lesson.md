@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: a colonial steppe of n
 
 a colonial steppe of nomads, settlers, mines and bazaars enters the new century with land hunger growing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §§1–2 Socio-political processes in Kazakhstan at the start of the 20th century
 
 parties, petitions and the first workers' strikes stir a colonial steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §3 Kazakhstan's economic development at the start of the 20th century
 
 railways, fairs and mines tie the steppe to Russian capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §§1–2 The socio-economic situation in Kazakhstan at the start of the 20th century
 
 a colonial steppe of nomads, settlers and mines enters the century with land hunger growing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Section 1 "Kazakhstan at the start of the 20th century" (its socio-economic and political inquiries)
 
 a colonial steppe enters the century — land, settlers, parties and press
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

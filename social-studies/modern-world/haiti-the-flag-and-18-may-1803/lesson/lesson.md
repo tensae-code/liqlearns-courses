@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: At Arcahaie in May 180
 
 At arcahaie in may 1803 the independence leaders tear the white from the french flag and sew a new one; the date becomes flag day, retold every year (Study object: the date 18 May)
 
-[Picture slot — a picture of the first Haitian flag being sewn at Arcahaie in May 1803 — the student says what was torn away and what the new flag meant]
+In your mind's eye: the first Haitian flag being sewn at Arcahaie in May 1803. Say what was torn away and what the new flag meant.
 
 ## Say it to your companion
 

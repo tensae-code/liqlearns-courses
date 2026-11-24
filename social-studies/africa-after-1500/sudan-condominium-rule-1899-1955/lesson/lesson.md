@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Britain invades for ra
 
 Britain invades for raw materials, markets and Egypt's southern border — and to avenge Gordon and bar France at Fashoda; Karari (September 1898) destroys the Mahdist state, and the invented "Condominium" of the 1899 agreement leaves Britain ruling through a Governor-General while Egyptians fill the lower posts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 1, Lesson 7: التطورات الاقتصادية والاجتماعية في العهد الثنائي — التطورات الاقتصادية والاجتماعية في العهد الثنائي
 
 land laws make unregistered land the government's (1925), railways and Port Sudan open the country, the Sennar Dam feeds the Gezira cotton scheme, and Gordon College and the medical services remake the towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

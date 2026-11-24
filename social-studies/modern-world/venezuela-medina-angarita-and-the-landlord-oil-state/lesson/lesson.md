@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Medina's government is
 
 Medina's government is judged through Picón Salas's and Uslar Pietri's eyes as oil income grows and the state settles into renting its subsoil to the companies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Government of Medina Angarita
 
 Medina legalises the parties, passes the 1943 Hydrocarbons Law and is overthrown in 1945 just as democracy widens
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

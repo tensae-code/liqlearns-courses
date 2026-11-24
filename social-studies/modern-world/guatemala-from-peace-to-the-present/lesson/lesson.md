@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Arzú signs the peace a
 
 Guatemala's Grade 4 book closes its national story in the present. Arzú signs the peace and privatises state firms. Each successor — Portillo, Berger, Colom, Pérez Molina — is measured against two things: hurricanes Mitch, Stan and Agatha, and the still-unfinished promises of 1996. The book's last lesson is a standard, not just a list: judge every government since the peace by what the peace promised.
 
-[Picture slot — a picture of Guatemala after 1996 — a president signing, storm clouds of hurricanes Mitch, Stan and Agatha over rebuilt villages, and the 1996 accord held up as a measure — the student names Arzú and one hurricane.]
+In your mind's eye: guatemala after 1996 — a president signing, storm clouds of hurricanes Mitch, Stan and Agatha over rebuilt villages, and the 1996 accord held up as a measure. Name Arzú and one hurricane.
 
 ## Say it to your companion
 

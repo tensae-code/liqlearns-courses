@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Krum crushes an empero
 
 Krum crushes an emperor at Pliska and Omurtag rebuilds — Bulgaria grows into a Balkan power (Lesson 7: Bulgaria in the first half of the 9th century)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 7: Wars, laws and reforms in the first half of the 9th century
 
 Krum's laws and victories, Omurtag's building — pagan Bulgaria at its strongest (Lesson 7: Wars, laws and reforms in the first half of the 9th century)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

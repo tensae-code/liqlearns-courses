@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: unions and socialist p
 
 unions and socialist parties grow across Europe and America as industry swallows the old world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Section 1, Part IV, Lesson 11: The workers' movement in Europe and America
 
 mass parties and unions force the vote, the eight-hour day and social laws onto the agenda
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part II, Lesson 7: XIX — Labour movements, late 19th century
 
 unions and parties grow on both sides of the Atlantic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part IV, Lesson 11: The workers' movement in Europe and America
 
 mass parties and unions force the vote and the eight-hour day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

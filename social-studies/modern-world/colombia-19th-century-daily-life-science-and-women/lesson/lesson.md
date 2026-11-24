@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: washerwomen, naturalis
 
 Washerwomen work outside Bogotá in 1830, naturalists catalogue over 20,000 plant and 7,000 animal species, modernismo arrives in literature, market days end in the chicherías, and women — 10% of the country then, near 40% of the workforce now — measure the century's change
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In Zimbabwe's first le
 
 A small child wants something from an elder. She learns to swap a blunt demand for polite words, and in that swap she learns something big: language itself is the way respect is handed down — and respect is culture, carried in the words we choose.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: crowned in 1974 before
 
 crowned in 1974 before the world's dignitaries, the fourth King declares Gross National Happiness more important than Gross National Product (1979), builds it on four pillars, writes it into Article 9 of the Constitution, and takes it to the United Nations (Chapter Three, The Fourth Druk Gyalpo Jigme Singye Wangchuck / Architect of Gross National Happiness)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

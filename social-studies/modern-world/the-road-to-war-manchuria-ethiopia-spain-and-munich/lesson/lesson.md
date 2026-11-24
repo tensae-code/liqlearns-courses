@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the League watches Jap
 
 the League watches Japan seize Manchuria (1931) and Italy swallow Ethiopia (1935) and does nothing that matters; Spain's civil war becomes the dictators' rehearsal, Hitler takes the Rhineland, Austria and — with London and Paris signing at Munich — the Sudetenland, then signs his pact with Stalin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

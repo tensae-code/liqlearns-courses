@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: railways, an army, unv
 
 railways, an army, unveiled women and crushed tribes — forced modernisation from above, judged in the lesson as dictatorship dressed as progress (The features of Reza Shah's government)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Iran in the period of Reza Shah's rule
 
 the Humanities telling weighs the same reign — state-building and modernisation against dictatorship and foreign dependence (Iran in the period of Reza Shah's rule)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

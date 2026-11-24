@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: pupils sign the craft 
 
 Pupils sign the craft and manufactory towns, the tobacco, match, shipbuilding and paper works, and the towns of the 1876–1900 strikes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Industry and towns at the beginning of the 20th century
 
 Pupils date the railway lines decade by decade and circle the towns over 100,000 people and the great paper factories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

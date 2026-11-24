@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: plague empties village
 
 plague empties villages, then the Jacquerie and Wat Tyler's rebels rise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 6.1 Causes of the Black Death's rapid spread
 
 rats, fleas and trade roads carry plague across a continent in five years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — 6.2 How did the Black Death change Europe?
 
 labour scarcity breaks serfdom and shakes faith and art
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §16 The Black Death; peasant uprisings in France and England
 
 plague and revolt together break the old feudal order
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

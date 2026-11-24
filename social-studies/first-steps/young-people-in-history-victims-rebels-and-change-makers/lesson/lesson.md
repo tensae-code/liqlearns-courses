@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the young are used —
 
 the young are used — Hitler Youth drilled for a regime, child workers consumed by factories — and the young resist: pupils in the civil-rights struggle, hippies against a war, a generation inventing Woodstock; pupils role-play factory children, 1960s students and festival organisers and argue whether today's youth hold more power than any before them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: 10 November 1989 ends 
 
 10 November 1989 ends the regime, and a hard transition to democracy begins (Lessons 36–37: The end of the communist regime; the Bulgarian transition to democracy)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 64: The end of the communist regime
 
 Zhivkov falls on 10 November 1989 and the regime ends (Lesson 64: The end of the communist regime)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lesson 65 + Historical Laboratory: The Bulgarian transition to democracy; the Constitution of the Republic of Bulgaria
 
 Round tables, first free elections and the 1991 Constitution — democracy's foundation and pillar (Lesson 65 + Historical Laboratory: The Bulgarian transition to democracy; the Constitution of the Republic of Bulgaria)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

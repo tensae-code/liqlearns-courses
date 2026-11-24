@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Perlis, Kedah, Kelanta
 
 Perlis, Kedah, Kelantan and Terengganu live first under Siam's shadow before British influence reaches them, and Johor follows its own path; kept outside the federation, these five sultanates retain more of their rulers' hand in administration (Bab 4: the Unfederated Malay States)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

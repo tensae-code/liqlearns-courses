@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the valley begins as t
 
 the valley begins as the Nagdaha lake; the sage plants the lotus, Manjushree cuts the Chobhar gorge and drains it, Gopal, Mahispal and Kirat dynasties follow, and pupils chart the valley's ancient social condition against its condition now
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

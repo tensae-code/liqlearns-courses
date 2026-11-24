@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Elders' stories tell w
 
 Elders' stories tell where each people began — Kintu and Nambi in Buganda, Mundu and Sera in Bugisu, Gipir and Labong in Acholi — and the legends carry each tribe's culture
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

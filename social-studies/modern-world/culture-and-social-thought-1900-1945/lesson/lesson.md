@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: artists, writers and t
 
 artists, writers and thinkers answer two wars and mass society with new styles and new ideologies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §4 The development of culture and social thought in the first half of the 20th century
 
 artists and thinkers answer mass society and war with new styles and ideologies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §2.3 How did Western society change after the First World War?
 
 women vote, hemlines rise, jazz plays — and a lost generation doubts everything
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §9.1 Which historical events of the first half of the 20th century formed the main directions in art and philosophy?
 
 war and revolution paint modernism's broken forms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

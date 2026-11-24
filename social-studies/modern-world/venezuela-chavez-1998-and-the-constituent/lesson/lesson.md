@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Amid economic collapse
 
 Amid economic collapse Hugo Chávez wins in 1998, takes office in February 1999 and a Constituent Assembly refounds the republic in the headlines of that year
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chávez: a new model of government
 
 Chávez wins in 1998 promising refoundation, and a constituent process opens a participatory model
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The 1999 constituent process: meeting of dreams and knowledge
 
 A consultative referendum, election of the Constituent Assembly and a final referendum approve the 1999 Constitution — the people as constitution-maker
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Government of Hugo Rafael Chávez (1999–2012)
 
 Chávez refounds the republic in 1999, survives coup and oil strike, and governs through missions and a new oil policy to 2012
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

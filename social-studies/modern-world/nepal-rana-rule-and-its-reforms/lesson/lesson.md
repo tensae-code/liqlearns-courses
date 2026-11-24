@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Jung Bahadur seizes po
 
 Jung Bahadur seizes power in 1903 BS and makes the premiership hereditary for 104 years; the book weighs the rule's dark side (no rights, caste evils, sati and slavery, luxury imports) against its reforms (Muluki Ain, Bir Hospital and library, Chandra Shumsher abolishing sati 1977 BS and slavery 1981 BS, Trichandra College 1975 BS)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Rise of Rana Rule and the Causes of Its End; Rana Rule's Economic and Social Effects
 
 Jang Bahadur seizes power in the Kot massacre and founds a hereditary prime-ministership that lasts 104 years; the lessons trace its rigid class order, its few reforms and heavy extraction, and the causes — education, martyrs, parties and the 2007 BS revolution — that ended it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — State Power after Unification
 
 after the unifier, power passes through Shah kings, Bhimsen Thapa's long prime-ministership and the court struggles that end in Jang Bahadur's Kot massacre and hereditary Rana rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Modern Period — Economy, Law, Culture and Art Skill
 
 the modern centuries are surveyed whole — an agrarian economy and its slow change, the Muluki Ain legal code, and the culture and art of the Shah and Rana centuries
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

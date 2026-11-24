@@ -8,7 +8,7 @@ Before you read on, think of a country whose whole modern story fits inside one 
 
 On 12 November 1991, young mourners march to the Santa Cruz cemetery. Soldiers open fire on them there, among the graves. The book names this for what it was: a massacre — the Santa Cruz massacre — and teaches it as a turning point children must know by its date.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — The tape that turned the world's eyes
 

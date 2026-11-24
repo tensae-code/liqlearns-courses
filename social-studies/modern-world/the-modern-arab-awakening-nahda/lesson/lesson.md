@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: stuck between Ottoman 
 
 stuck between Ottoman stagnation and European colonialism, the Arabs wake first in print — Urabi's revolt, modern schools, newspapers and secret societies — then in four directions: the return-to-Islam call of the Wahhabis, Sanusiyya and Mahdiyya, al-Kawakibi's Arab caliphate in Mecca, the nationalists who rouse the Arabs by their past, and Mustafa Kamil's Egypt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

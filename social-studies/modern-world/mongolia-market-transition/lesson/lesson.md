@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: price liberalisation, 
 
 price liberalisation, privatisation vouchers and the shock of the 1990s — herds are privatised, factories stall, and a market economy is born in hardship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. IV.3 The reform of the socio-economic system
 
 price liberalisation (Jan 1991), voucher privatisation (the pink and blue coupons), herds and flats into private hands, land law — and the pain: inflation, unemployment, poverty
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

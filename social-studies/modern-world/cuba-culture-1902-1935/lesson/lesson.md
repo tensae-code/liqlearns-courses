@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the republic's first d
 
 the republic's first decades produce vanguard art, the Grupo Minorista and a national culture arguing with dependence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

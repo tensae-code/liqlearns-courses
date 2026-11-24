@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the battle for grain, 
 
 the battle for grain, reclamation and the corporate state — corporativism's long genealogy is the Storia culturale's theme — promise an economy beyond classes while wages and freedoms shrink
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 6 §4 Economia e ideologia
 
 autarky and the corporate state promise a third way; the economy's real masters and the ideology's real function are the section's question
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

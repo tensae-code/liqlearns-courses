@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Hugh Capet begins in 9
 
 Hugh Capet begins in 987 with little more than Paris; Philip II Augustus and Saint Louis build a real kingdom; when the Capetian line fails, England's king claims the throne and the Hundred Years War (1337–1453) begins — English longbowmen win the early battles, French cannon the last, and France emerges a great power (the book sets Joan of Arc as the pupils' own research)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

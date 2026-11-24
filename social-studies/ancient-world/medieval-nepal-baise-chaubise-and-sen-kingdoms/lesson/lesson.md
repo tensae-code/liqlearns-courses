@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: pupil groups research 
 
 pupil groups research and present: the Baise states west of the Kali Gandaki and the Chaubise in the Gandak region, born as the Sinja and valley kingdoms weakened and local chiefs declared themselves kings (Kaski's Sinja chiefs ruling some 300 years); and the Sen kingdom, founded when the Muslim-invasion refugee Jog Sen's line under Rudra Sen made Palpa a state in 1550 BS, split by Mukunda Sen among his sons and later broken into Makwanpur, Chaudandi and Vijaypur
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Rise and Fall of the Small Kingdoms in the Medieval Period
 
 beyond the valley, the Baise and Chaubise principalities and the Sen kingdoms of the hills and Terai rise, compete and weaken — the divided map that unification would later gather into one Nepal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: presidents come and go
 
 presidents come and go, the "theft of the billion" (13.3 billion lei) scars the economy, direct presidential election returns in 2016, and after Russia's 2022 invasion of Ukraine Moldova moves toward the EU
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 47: Democratizarea vieții politice. Constituția Republicii Moldova
 
 within months some 20 parties and organisations form; the name "Romanian language" survives in 1995, communist-era governments subordinate the press, and the 5 April 2009 elections open a new crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Tema 48: Viața social-economică în Republica Moldova
 
 the land code starts agrarian reform and private land ownership; later stages bring banking growth and foreign banks, and the sixth stage opens with the mixed-system elections of 24 February 2019
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

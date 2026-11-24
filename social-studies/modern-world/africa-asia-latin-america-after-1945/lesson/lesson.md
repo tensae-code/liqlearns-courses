@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: colony after colony wi
 
 colony after colony wins independence and the three continents fight to develop on their own terms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part II, Lesson 7: , 1945 — Africa, Latin America and Asia from 1945
 
 decolonisation redraws the world map within one generation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part I, Lesson 3: , 1945 — Africa, Latin America and Asia from 1945
 
 empire after empire lets go; new states take their seats at the UN
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part II, Lesson 7: , 1945 — Africa, Latin America and Asia from 1945
 
 decolonisation redraws the world map in one generation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

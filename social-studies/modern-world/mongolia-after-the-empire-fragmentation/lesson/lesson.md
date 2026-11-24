@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: after the empire break
 
 after the empire breaks, khans rise and fall in quick succession and the aimags pull apart while Ming China presses from the south
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. I.2: The struggle to restore united power
 
 the seven-year-old Dayan Khan is raised on Chinggis's throne before the Eight White Gers and reunites the Mongols; a century later Altan Khan founds Khökh Khot and in 1577 receives the title Dalai Lama from Sonam Gyatso
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. I.4: Mongolia's foreign environment in the 15th–18th c.
 
 a divided Mongolia is squeezed from three sides — Ming China, the rising Manchu, and Russia pushing across Siberia to Lake Baikal
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. 4.1 Mongolia centred on its homeland
 
 after Yuan falls in 1368 the khans return to the steppe; the Northern Yuan fights Ming and itself in turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Ch. 4.2 The Mongolian khanate states
 
 Dayan Khan's reunification and his sons' appanages — Khalkha, Chakhar, Ordos, Tümed — set the map the Manchu will conquer piece by piece
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

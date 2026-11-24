@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Young Turks' destr
 
 the Young Turks' destruction of the Armenians in 1915 — the Mets Yeghern — becomes the case from which Raphael Lemkin builds the very word "genocide" and the 1948 UN Convention, yet Rwanda and Darfur show prevention still failing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Programme Theme 4: Problems of all mankind
 
 genocide heads the theme's content list, ahead of terrorism, trafficking, cybercrime and environmental problems
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

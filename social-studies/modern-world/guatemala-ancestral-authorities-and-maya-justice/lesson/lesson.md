@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: where the state court p
 
 The Grade 6 learning experience in Guatemala's primary teacher guide studies the Maya peoples' ancestral ways of resolving conflicts. Where the state court punishes, the ancestral authorities gather the community to repair the harm and restore balance — restorative justice against punitive justice. The guide insists plainly: violence or lynching is not Maya justice. This lesson stands on teacher-guide evidence only.
 
-[Picture slot — a picture of ancestral authorities seated in a circle with a community gathered, talking through a harm to repair it — the student names the difference between restorative and punitive justice.]
+In your mind's eye: ancestral authorities seated in a circle with a community gathered, talking through a harm to repair it. Name the difference between restorative and punitive justice.
 
 ## Say it to your companion
 

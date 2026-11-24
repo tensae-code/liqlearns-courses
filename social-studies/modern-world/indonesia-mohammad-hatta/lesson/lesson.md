@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mohammad Hatta, born i
 
 Born in Bukittinggi on 12 August 1902, Hatta rises to Vice-President and, offered state money as ex-vice-president, hands it back — a life used to teach integrity in public office.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

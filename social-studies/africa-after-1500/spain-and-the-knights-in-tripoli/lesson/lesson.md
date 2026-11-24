@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: After the Almohads fal
 
 After the Almohads fall in 1269 the Maghreb fragments and Spain strikes the coast: 120 ships bombard Tripoli in July 1510, two thousand are killed and the mosques looted — an occupation that lasts until the Ottomans come in 1551
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

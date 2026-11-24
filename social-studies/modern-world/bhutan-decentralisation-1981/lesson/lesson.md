@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: beginning with the Dzo
 
 beginning with the Dzongkhag Yargay Tshogdu, the fourth King formalises decentralisation in 1981, appointing dzongdags and pushing planning down to districts and gewogs as the training ground for democracy (Chapter Three, Decentralisation – The Devolution of Power and Responsibility)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

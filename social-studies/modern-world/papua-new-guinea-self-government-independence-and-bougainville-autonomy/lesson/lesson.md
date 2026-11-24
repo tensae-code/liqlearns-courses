@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Three different ending
 
 Three different endings to colonial rule are weighed side by side — PNG governs itself (Somare, Tei Abal, Julius Chan, Peter Lus, Josephine Abaijah in the pre-Independence government), then full Independence, and Bougainville's separate road to autonomous government
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Causes and effects of historical events in PNG
 
 One dated chain — protectorate and annexation 1884, mandate 1921, joint administration 1949, elections 1961, House of Assembly 1964, self-government 1973, the kina and full Independence in 1975 — each event's causes and effects traced forward
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

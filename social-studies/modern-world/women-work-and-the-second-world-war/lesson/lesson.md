@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in the USA, Britain, N
 
 in the USA, Britain, New Zealand and Australia married women rarely worked for money until the Second World War emptied men's jobs; women fill them, refuse to hand them all back, and by the 1980s are training as accountants, doctors, engineers, lawyers, mechanics, police and pilots
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

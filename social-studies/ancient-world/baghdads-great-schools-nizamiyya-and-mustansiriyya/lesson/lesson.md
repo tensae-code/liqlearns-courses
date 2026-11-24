@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Seljuk vizier Niza
 
 the Seljuk vizier Nizam al-Mulk's Nizamiyya (finished 459 AH) boards and feeds its students free; al-Mustansir's Mustansiriyya (631 AH) adds four colleges, a teaching hospital and an 80,000-book library — the first specialised Islamic university
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

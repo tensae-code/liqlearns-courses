@@ -16,7 +16,7 @@ A rock and a tree need no permission and no hall. They belonged to everyone who 
 
 In the townships, the struggle's places were ordinary houses, remembered now by their numbers. In Lusaka, Chilenje House No. 394 was Kenneth Kaunda's home from 1960 to 1962. Freedom House and Matero House No. 3144B in Lusaka held the movement's organising. At Kabwe, Bwacha House No. E1376 is remembered for one dated moment: on 8 March 1958, Kaunda was elected president of ZANC there.
 
-[Picture slot — a picture of the Zambian places and people named in this lesson, as the book tells it: name one person or place and say what happened there.]
+In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
 Two further places carry the memory in public. The Freedom Statue stands as the struggle's memorial — its chained figure belongs to the next lesson's freedom fighters. And Isa ya Mwaamba at Choma is named among the key places of the liberation struggle. Together, rock, tree, houses, statue and shrine form what the module calls the places key in the liberation struggle: a map of freedom a learner can walk.
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A raja became a great 
 
 A raja lets a sacrificial horse wander a year under guard; kings who stop it must fight, kings who let it pass admit his power and come bearing gifts to the ashvamedha, where he sits enthroned while his charioteer sings his glory.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

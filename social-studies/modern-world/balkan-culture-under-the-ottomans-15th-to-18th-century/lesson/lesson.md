@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: monasteries at Lesnovo
 
 monasteries at Lesnovo, Treskavec and Slepče keep Slavic letters alive in scriptoria; damaskini retell saints' lives in near-vernacular; printing happens abroad — Jakov of Kamena Reka in Venice, Žefarović's Stemmatographia (Vienna 1741) with its Macedonian coat of arms, Buzuku's Albanian Meshari (1555); cell schools and medreses (Skopje's Isa-beg) teach the two faiths; hidden cave churches ring Lake Ohrid while Ottoman towns take their lasting shape — čaršija and mahala, türbe, hamam, han and bezisten
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: Alash Orda and the Tur
 
 Alash Orda and the Turkestan (Kokand) autonomy try two different Kazakh statehoods and both are extinguished by the Bolsheviks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §19 The activity of the national autonomies in Kazakhstan
 
 Alash Orda governs from Semey while Soviet power grows around it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §20 Relations between the organs of Soviet power and the government of Alash Orda
 
 negotiation, ultimatum and amnesty end the Kazakh government without a last battle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §12 National autonomies in Kazakhstan
 
 Alash Orda and the Kokand autonomy try two statehoods; both are extinguished
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §§2.3–2.4 The Alash Orda government and the Turkestan (Kokand) autonomy
 
 two Kazakh statehoods are proclaimed and extinguished
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

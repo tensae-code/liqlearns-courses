@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a minor lord from Kesh
 
 a minor lord from Kesh fights his way up through Transoxiana's chaos, takes Samarkand and by 1370 wears the crown as Sahibkiran, lord of the fortunate conjunction
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

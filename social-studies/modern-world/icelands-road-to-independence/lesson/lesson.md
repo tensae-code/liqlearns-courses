@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Jón Sigurðsson leads
 
 Jón Sigurðsson leads Iceland's peaceful independence struggle, and the Fjallkona becomes the nation's face (Verkefnablöð 19–20: Var Jón Sigurðsson frelsishetja?; Fjallkonan as national symbol)
 
-[Picture slot — a picture of the republic proclaimed at Þingvellir in 1944, crowds on the old assembly field — the student says what was proclaimed and where]
+In your mind's eye: the republic proclaimed at Þingvellir in 1944, crowds on the old assembly field. Say what was proclaimed and where.
 
 ## Sub lesson 2 — Home rule and sovereignty in 1918
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: survivors rebuild from
 
 survivors rebuild from zero; the Paris Agreements of 23 October 1991 and UNTAC bring elections, and Angkor joins the World Heritage List in 1992 (Lesson 5, People's Republic of Kampuchea and State of Cambodia (1979–1993))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1993)
 
 cadres who fled the purges (Heng Samrin, photo) found a salvation front on 2 December 1978; victory on 7 January 1979 starts the rebuilding that ends with the Paris Agreements and UNTAC (Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1993))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — History Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1991) and the Kingdom of Cambodia 1993
 
 survivors of the purges (Heng Samrin, photo) build the resistance that wins on 7 January 1979; the lesson runs through war and embargo to the Paris Agreements and the restored kingdom (History Ch. 2 Lesson 5, The People's Republic of Kampuchea and the State of Cambodia (1979–1991) and the Kingdom of Cambodia 1993)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

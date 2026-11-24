@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Luo speakers migrate f
 
 Luo speakers migrate from Bahr-el-Ghazal in South Sudan to the lakes, bringing millet, sorghum and sweet potatoes, founding the Luo-Biito dynasty — and displacing those they find
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The River-Lake Nilotes
 
 The Luo speakers leave Bahr-el-Ghazal in South Sudan and settle by the lakes and rivers that name them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Luo
 
 The River-Lake Nilotes come from Bahr el Gazel in Southern Sudan, pastoralists whose family fills the map — Dinka, Alur, Luo, Shilluk, Bor, Anuak, Acholi
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

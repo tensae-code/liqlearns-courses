@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: India's hunter-gathere
 
 People who eat up one place's plants, follow migrating herds, chase seasonal fruit and dry-season water can never settle; their surviving stone tools cut meat, scraped hides and tipped spears and arrows.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Choosing a place to live in; rock paintings; finding out about fire
 
 Bands shelter in Bhimbetka's caves near the Narmada and paint wild animals on the walls with skill; ash in the Kurnool caves proves they had tamed fire for light, roasting and scaring beasts.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

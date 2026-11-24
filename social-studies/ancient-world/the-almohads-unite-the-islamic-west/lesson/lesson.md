@@ -8,7 +8,7 @@ Before you read on, think of Morocco's long story as one line: first Moroccans, 
 
 The guide teaches the Almohad state's founding and stages: a mountain preacher's movement swallows the Almoravids' empire and forms an empire across the Maghreb, ruling from Tripoli to Seville under one creed.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Almohad architecture
 

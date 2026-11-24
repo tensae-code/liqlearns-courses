@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Eloy Alfaro's Liberal 
 
 Eloy Alfaro's Liberal Revolution wins and Alfaro is dragged to his death in 1912, plutocracy and the 1925 Juliana revolution follow, Velasco Ibarra returns again and again, war with Peru strikes in 1941, and the banana boom remakes the coast (Sección 3 Tema 2: República del Ecuador II)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

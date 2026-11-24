@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: a people's myths are their 
 
 Myths are read as a people's memory and imagination, tested against what the finds actually show.
 
-[Picture slot — a picture of the key place or moment of Bronze Age — myth and history as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Bronze Age — myth and history as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

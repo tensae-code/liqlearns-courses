@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: towns need educated me
 
 towns need educated men, so Bologna opens Europe's first university in the late 11th century, Barbarossa's charter of 1158 frees scholars from every other power, and Paris, Oxford and Cambridge follow — 80 universities by 1500; beside them, knighthood sings itself in the Song of Roland, the Nibelungenlied, Arthur's legends and the troubadours' love poetry
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

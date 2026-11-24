@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Inuit seal-hunters, po
 
 Inuit seal-hunters, politically advanced Iroquois whose women choose leaders, and Chile's Araucanians who resist Spain fill out the continent; today 50 million indigenous people, a tenth of Latin America, still live marginalised
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

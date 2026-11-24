@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Spitamenes' guerrilla 
 
 Spitamenes' guerrilla war ties Alexander down for two years in Sogdiana — the conqueror of Persia nearly beaten by the homeland's horsemen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

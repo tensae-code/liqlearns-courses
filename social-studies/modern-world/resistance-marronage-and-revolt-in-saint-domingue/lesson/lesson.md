@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: From everyday resistan
 
 Starting from albert mangonès' statue of the unknown maroon, pupils trace everyday resistance and flight — the maroon who runs becomes a whole hidden counter-society (Séance 1, Résister et marronner)
 
-[Picture slot — a picture of Albert Mangonès' statue of the Unknown Maroon in Port-au-Prince — the student says what marronage was and why the statue honours it]
+In your mind's eye: albert Mangonès' statue of the Unknown Maroon in Port-au-Prince. Say what marronage was and why the statue honours it.
 
 ## Sub lesson 2 — From the masters' vision to the historians' analysis
 

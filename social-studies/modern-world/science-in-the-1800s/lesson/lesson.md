@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Darwin, Pasteur, Farad
 
 Darwin, Pasteur, Faraday and their peers rebuild the picture of nature and life
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §12.1 Which scientific discovery of the 19th century had the greatest influence on people's lives?
 
 Nobel's dynamite fortune becomes peace prizes, Daguerre fixes the image, Darwin rewrites life's story — pupils argue for the most life-changing discovery
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

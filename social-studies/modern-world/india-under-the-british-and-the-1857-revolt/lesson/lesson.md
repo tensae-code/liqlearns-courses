@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Da Gama's 1498 landing
 
 Da Gama's 1498 landing opens the door, the Mughals fade, Britain rules by mid-1800s, and in 1857 the sepoys rise — the mutiny that makes India a Crown colony
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

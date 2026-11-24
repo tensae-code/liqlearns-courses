@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Chiripa, on Lake Titic
 
 Chiripa, on Lake Titicaca's shore, is one of the Altiplano's first civilisations, with its sunken temple and early farming villages (Culturas altiplánicas tempranas: Chiripa)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 1: Las primeras culturas en el territorio que hoy es Bolivia
 
 The first cultures of today's Bolivian territory, Chiripa among them, open the national deep past (Año 1: Las primeras culturas en el territorio que hoy es Bolivia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

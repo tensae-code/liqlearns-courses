@@ -16,7 +16,7 @@ Historicism spreads across Britain, France, the German lands and the Polish land
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a neo-Gothic parliament beside an iron-and-glass station — the student points to the old costume and the iron skeleton underneath.]
+In your mind's eye: a neo-Gothic parliament beside an iron-and-glass station. The student points to the old costume and the iron skeleton underneath.
 
 ## Sub lesson 3 — The iron skeleton underneath
 

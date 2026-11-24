@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the March on Rome (ima
 
 the March on Rome (image study: Mussolini and the quadrumvirs) is a bluff the king ratifies; Matteotti's Document denounces the electoral fraud, Gramsci's the socialists' paralysis — and Mussolini's own speech claims responsibility for it all
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 3 §§5–7 Verso il regime; La dittatura a viso aperto; Il contagio autoritario
 
 the "leggi fascistissime" (Fare storia Document) dismantle the liberal state from inside its own laws, and the authoritarian contagion spreads across Europe — the Anteprima insists it was no fatal outcome: opponents' errors made it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

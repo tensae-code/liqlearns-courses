@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Shang Yang leaves Wei 
 
 Shang Yang leaves Wei for Qin in 356 BCE preaching 'Tang and Wu did not follow the ancients and became kings'; his reforms reward farming and war and make Qin rich and feared — and Qin executes him anyway, but keeps his laws
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Hundred Schools
 
 amid the chaos Confucius, Laozi, Mozi, Han Fei and the rest argue rival answers to one question — how shall the world be ordered again?
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Reforms through Chinese history (1)
 
 Shang Yang's Qin reforms open a two-thousand-year procession — every strong dynasty reforms or declines
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

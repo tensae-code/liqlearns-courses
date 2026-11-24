@@ -8,7 +8,7 @@ The great battles are in other lessons. This one is smaller: a rusted cannon on 
 
 *Over Seas and Time* closes its war chapter not with fleets and generals but with memory. The war in island memory begins with elders' stories: what grandparents saw and did, told at home, is how most island children first meet the Second World War.
 
-[Picture slot — a picture of a rusted cannon on a green island hill, with an elder telling its story to two children — the student points to the cannon and the elder and names the two kinds of evidence in the scene.]
+In your mind's eye: a rusted cannon on a green island hill, with an elder telling its story to two children. The student points to the cannon and the elder and names the two kinds of evidence in the scene.
 
 ## Sub lesson 2 — Rusted cannons and mountain bunkers
 

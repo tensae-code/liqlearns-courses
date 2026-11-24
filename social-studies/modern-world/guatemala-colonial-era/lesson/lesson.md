@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Santiago de Guatemala i
 
 The colonial capital would not stay still. Founded at Iximche' in 1524, Santiago flees Kaqchikel revolt to Almolonga; in 1541 Volcán de Agua mud drowns it; rebuilt at Panchoy, it stands 230 years — until the Santa Marta earthquakes of 1773 drive it to the Ermita valley as Nueva Guatemala. Guatemala's Grade 4 book teaches the colony through its moving capital.
 
-[Picture slot — a picture of Santiago's four homes on a map — Iximche', Almolonga under Volcán de Agua, Panchoy, and the Ermita valley — with cacao beans used as coins beside a 1733 mint coin — the student names two of the capitals.]
+In your mind's eye: santiago's four homes on a map — Iximche', Almolonga under Volcán de Agua, Panchoy, and the Ermita valley — with cacao beans used as coins beside a 1733 mint coin. Name two of the capitals.
 
 ## Sub lesson 2 — Colonial society — slavery, encomienda, repartimiento
 

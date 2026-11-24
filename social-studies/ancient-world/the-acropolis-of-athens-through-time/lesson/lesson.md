@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: from Mycenaean citadel
 
 from Mycenaean citadel to Pericles's temples to church, mosque and powder magazine blown up in 1687, one rock keeps being re-read by every age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Teaching hour 2: What the art, sculpture and architecture of the Acropolis reveal about their makers
 
 the Parthenon frieze's procession becomes an argument — scholars dispute what it shows, and pupils build their own comic from the stones
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Teaching hour 3: Deepening — heritage, restoration and the marbles
 
 restoration scaffolds, Stuart and Revett's 1765 drawings, du Moncel's 1845 watercolour and the demand for the Parthenon marbles' return ask who the monument belongs to
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

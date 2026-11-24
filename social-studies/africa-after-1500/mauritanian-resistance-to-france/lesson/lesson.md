@@ -8,27 +8,27 @@ Before you read on, hold this lesson's one thing in mind: Why did armed resistan
 
 Why did armed resistance not stop when its greatest heroes fell, martyr or prisoner, before 1912 — and who succeeded them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 11: The resistance in Mauritania
 
 Mauritanians take up arms against the occupation rather than submit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 12: The battles and heroes of the resistance
 
 Named battles and named heroes carry the resistance story
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 3: Colonialism and resistance in Mauritania — the resistance
 
 The resistance the conquest provokes is taught in the same lesson as the conquest itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 5 — Lesson 9: Colonialism and resistance in Mauritania — the resistance
 
 The armed answer to the occupation, taught with it
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

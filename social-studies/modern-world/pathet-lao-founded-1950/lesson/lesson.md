@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the resistance reorgan
 
 the resistance reorganises as the Pathet Lao with its own government and liberated zones
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 11: The struggle under the Lao Issara Front
 
 the resistance reorganises as the Pathet Lao with liberated zones
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

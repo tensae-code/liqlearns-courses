@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The Code Noir's articl
 
 The code noir's articles are read line by line — the law that called people property, and the gap between its paper protections and plantation reality (Séance 4, Travail servile et conditions de vie des esclaves dans les plantations, le Code noir (2))
 
-[Picture slot — a picture of the Code Noir being read article by article — the student gives one thing the law said and one way plantation reality differed]
+In your mind's eye: the Code Noir being read article by article. The student gives one thing the law said and one way plantation reality differed.
 
 ## Say it to your companion
 

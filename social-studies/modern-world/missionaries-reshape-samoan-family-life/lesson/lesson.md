@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: missionaries ban polyg
 
 missionaries ban polygamy and the polula night dances, push the nuclear family against the aiga, take the priestly role from the matai (the pastor inherits the chiefly address "susuga"), and bring both new diseases and the first modern health care — until the independent nation's motto reads "Sāmoa is founded on God"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

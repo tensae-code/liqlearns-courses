@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Opposition is crushed,
 
 Opposition is crushed, the constitution replaced, and a totalitarian regime is imposed (Lesson 31: The imposition of the totalitarian regime)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lesson 59 + Historical Laboratory: Building the totalitarian state; between propaganda and political repression
 
 Show trials, camps and propaganda build the totalitarian state (Lesson 59 + Historical Laboratory: Building the totalitarian state; between propaganda and political repression)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

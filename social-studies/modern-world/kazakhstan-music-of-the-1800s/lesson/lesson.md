@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: the kuishi composers t
 
 the kuishi composers turn the dombra into the steppe's orchestra
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §51 Song art of Kazakhstan in the 19th century
 
 Birzhan-sal and Akan-seri make the singing poet a public figure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §52 The Kazakh people's national musical instruments
 
 dombra, kobyz and sybyzgy — each instrument with its legend
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §6.2 Why is the 19th century considered the flourishing age of the Kazakhs' traditional music art?
 
 Kurmangazy, Tattimbet and Birzhan-sal make the century a golden age of kui and song
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Lesson plans §§51–53: kui art; song art; national instruments
 
 the dombra kui is played and read as a historical text
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

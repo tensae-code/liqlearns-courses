@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Potosí's vicuña–va
 
 Potosí's vicuña–vascongado war opens the conflicts; in 1781 Oruro rises with all the oppressed castes taking part (Conflictos sociales en la colonia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Conflictos sociales en la Colonia
 
 Teacher-compendium unit, same arc as the student text (Año 2: Conflictos sociales en la Colonia)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

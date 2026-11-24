@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: flag, anthem and the y
 
 flag, anthem and the year's sacred days — Nowruz, revolution and defence anniversaries — bind the child to the national story (Our national symbols; Important days)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

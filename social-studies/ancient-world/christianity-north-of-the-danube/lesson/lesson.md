@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: north of the Danube, C
 
 north of the Danube, Christianity becomes a badge of Roman identity — Romanian keeps the Latin basilica for "church", a word almost no other Romance language kept
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -10,7 +10,7 @@ The Saudi Arabia Grade 4 book opens its Unit 7 history of the peninsula with a c
 
 The book gives the peninsula three honours. It is a bridge between Egypt and Iraq, the two great river civilisations on either side of it. It is the birthplace of the Arabic language. And it is a land where civilisation did not arrive from elsewhere — it grew here, early.
 
-[Picture slot — a picture of a desert valley in the Arabian Peninsula with carved rock inscriptions in the foreground and caravan routes stretching toward Egypt on one side and Iraq on the other — the student points to the carved rock and says what it is and why it matters.]
+In your mind's eye: a desert valley in the Arabian Peninsula with carved rock inscriptions in the foreground and caravan routes stretching toward Egypt on one side and Iraq on the other. The student points to the carved rock and says what it is and why it matters.
 
 ## Sub lesson 2 — Kingdoms of the peninsula
 

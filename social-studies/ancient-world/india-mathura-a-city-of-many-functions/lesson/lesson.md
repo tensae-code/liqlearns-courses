@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Mathura, at the crossr
 
 At the crossroads of the north-west–east and north–south routes, walled Mathura feeds itself from its hinterland, carves superb sculpture, becomes the Kushanas' second capital, and hosts Buddhist monasteries, Jaina shrines and Krishna worship; its gift-inscriptions name the city's goldsmiths, weavers, basket makers and perfumers.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

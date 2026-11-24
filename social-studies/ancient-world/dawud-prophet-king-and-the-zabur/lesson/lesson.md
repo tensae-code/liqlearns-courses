@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Dawud unites the tribe
 
 Dawud unites the tribes under one rule, founds the kingdom and takes Jerusalem as its capital, receives the Zabur, and rules as prophet, king and judge — startled by two litigants over the wall (angels, with their parable of the ninety-nine ewes and the one), he judges too fast, knows it was a test and repents, while in the case of the sheep in the crop his young son Sulayman's ruling improves on his own; mountains and birds join his praise, and iron softens in his hands into coats of mail
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

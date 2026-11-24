@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Iliescu's gradual "sma
 
 Iliescu's gradual "small steps" reform, the Snagov strategy, and Romania's path to become the first ex-Warsaw-Pact state to sign partnership documents with the West
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

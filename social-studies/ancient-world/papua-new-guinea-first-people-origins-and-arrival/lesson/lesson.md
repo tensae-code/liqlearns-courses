@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Where did the first Pa
 
 Where did the first Papua New Guineans come from? Children trace and name their origins on a map and a timeline, using basic research skills
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Prehistoric migration
 
 Where did our ancestors originate, how did they cross the sea, what did the sea throw at them, and why did they settle here — in PNG the answers decide identity and customary land rights today
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Papua New Guinea's Early History
 
 Students write the settlement story themselves — how the early ancestors reached PNG and the techniques they used to feed and clothe themselves — and build timelines from prehistoric times to 1800
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

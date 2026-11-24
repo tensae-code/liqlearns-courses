@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the Americas hold ever
 
 the Americas hold everything from bands to empires at once; pupils must explain why development was so uneven
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 1.2 Unequal development of American aboriginal communities
 
 at 1492 the Americas hold bands, chiefdoms and empires side by side; the book asks why the ladder's rungs are so uneven
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

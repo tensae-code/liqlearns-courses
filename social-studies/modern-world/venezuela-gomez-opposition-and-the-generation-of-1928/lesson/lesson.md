@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Opposition to the long
 
 Opposition to the long dictatorship changes form — students, workers and exiles find new ways to resist Gómez
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — When youth took the reins of anti-Gomecismo: the Generation of 1928
 
 Caracas students rise in Carnival week 1928 against Gómez; jailed and exiled, they become the founders of the modern parties
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

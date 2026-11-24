@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Stephen the Great rule
 
 Stephen the Great rules 47 years, wins battle after battle against the Ottomans and raises a church after each victory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unitatea II, Lecția 10: Țara Moldovei în timpul domniei lui Ştefan cel Mare
 
 caught between Hungary, Poland and the Ottomans, Stephen wins at Vaslui in 1475, calls Moldavia "the gate of Christendom" and begs Europe's monarchs for help that barely comes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

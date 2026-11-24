@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Zoroaster's choice bet
 
 Zoroaster's choice between truth and the lie shapes an empire's faith, with Mazdak's later movement shaking the Sasanian order from within (Religion and beliefs)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Beliefs and lifestyle of the people of ancient Iran
 
 Zoroastrian faith and daily custom together — what ancient Iranians believed shaped how they lived (Beliefs and lifestyle of the people of ancient Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

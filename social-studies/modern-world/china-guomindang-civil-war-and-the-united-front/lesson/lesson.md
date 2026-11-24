@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Chiang Kai-shek's Guom
 
 Chiang Kai-shek's Guomindang turns on the Communists, civil war follows, and Japanese attack forces the rivals back into a united front
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §13 The Guomindang's work; the Civil War; Chiang Kai-shek's policy; the united-front problem
 
 Chiang turns on the Communists; Japan's attack forces a second united front
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

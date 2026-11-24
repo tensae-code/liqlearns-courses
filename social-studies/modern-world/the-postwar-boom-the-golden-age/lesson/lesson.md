@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: thirty years of growth
 
 thirty years of growth, full employment and mass consumption — Packard's Document unmasks the consumer's hypnotists while Bouissou's explains Japan's social conditions for growth — the boom and its discontents in one chapter
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 11 §§1–3 La crescita demografica; Il boom economico; Consumi e Welfare
 
 baby boom, washing machines and the welfare state — Van der Wee on the demand imperative, Packard's hidden persuaders and McLuhan's medium (Fare storia pieces) describe affluence and its salesmen in one dossier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

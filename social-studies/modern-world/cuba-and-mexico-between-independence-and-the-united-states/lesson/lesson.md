@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: José Martí's Cuba ri
 
 José Martí's Cuba rises (1895), the USA crushes Spain in 1898 and takes Cuba as a protectorate in all but name; in Mexico Porfirio Díaz's dictatorship sells the country to foreign monopolies until Zapata's "Land and Freedom" and Madero's call for real elections open the revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

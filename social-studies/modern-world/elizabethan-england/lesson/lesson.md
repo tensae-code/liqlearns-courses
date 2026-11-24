@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Elizabeth holds a divi
 
 Elizabeth holds a divided kingdom together for 45 years, defeats the Armada (1588) and presides over Shakespeare's stage and the buccaneer sea-dogs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Elisabetta I regina d'Inghilterra; La sconfitta dell'Invincibile Armata
 
 Elizabeth (Personaggi) holds England Protestant and beats the Armada; female monarchy itself is put on trial by the age
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

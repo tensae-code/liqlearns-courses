@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Zahir-ud-Din Babar, he
 
 Zahir-ud-Din Babar (1483–1530), heir of Timur and Genghis Khan, loses Samarkand and Ferghana and turns to India; at Panipat in 1526 his small organised army, cannon and tulughma tactics destroy Ibrahim Lodhi's host; Khanwa (1527) breaks the Rajputs; his Babarnama remains the empire's founding diary.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

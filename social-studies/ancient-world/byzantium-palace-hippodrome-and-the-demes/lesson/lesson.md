@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: emperor, people and th
 
 emperor, people and the Blue and Green factions meet in the Hippodrome, where races can turn into politics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit 10 Palace, Hippodrome, Demes exercises
 
 word-matching rebuilds the Hippodrome world of Blues, Greens and emperors
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

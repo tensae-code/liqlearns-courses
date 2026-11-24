@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Toussaint Louverture i
 
 Toussaint Louverture is captured but Jean Dessalines expels the French in 1804 — Haiti, first independent Latin American republic and first Black republic in world history; Brazil's court flees Napoleon to Rio, and Prince Pedro's Cry of Ipiranga (7 September 1822) makes a peaceful empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — the first independences and Brazil's
 
 the United States (4 July 1776, Jefferson's act) and Haiti were America's first independences; Brazil's came when the exiled Portuguese court in Rio met Napoleon's wars — Pedro proclaimed independence on 7 September 1822 after Lisbon declared him a traitor
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

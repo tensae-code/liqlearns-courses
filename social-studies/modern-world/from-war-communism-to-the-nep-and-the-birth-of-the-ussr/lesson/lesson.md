@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: famine and revolt forc
 
 famine and revolt force the NEP retreat (Graziosi's Storiografia calls it the only alternative to a new civil war); the USSR is founded as a federation — Stalin's Document argues its limits — and Lenin's death opens the succession
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 2 §§7–8 La Russia comunista; L'Urss da Lenin a Stalin
 
 the Comintern's 21 Points (Fare storia) export the model while the USSR consolidates at home; Lenin (Personaggi) dies and Stalin inherits — the succession that decides the century's other totalitarianism
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Socialists enter gover
 
 Socialists enter government, electricity is nationalised and the middle school unified; Merlin's inquiry on the Vajont (unit Document) shows the miracle's other face — progress with a body count
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 13 §7 Il centro-sinistra
 
 the Socialists enter government and the reform season opens — divorce and the Vajont (Focus) mark its social advances and its disasters
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

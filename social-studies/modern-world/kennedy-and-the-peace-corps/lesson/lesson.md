@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: campaigning at the Uni
 
 campaigning at the University of Michigan at 2 a.m. on 14 October 1960, John F. Kennedy challenges 10,000 students to serve in the developing world; the Peace Corps is set up on 1 March 1961, reaches Samoa in 1967, and sends more than 1,700 volunteers there
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

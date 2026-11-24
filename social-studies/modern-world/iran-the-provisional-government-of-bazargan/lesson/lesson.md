@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: revolution must become
 
 revolution must become a government — Bazargan's provisional cabinet struggles between revolutionary councils and the embassy hostage crisis, then resigns (The provisional government of Engineer Mehdi Bazargan)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

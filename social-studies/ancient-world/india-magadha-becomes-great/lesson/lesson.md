@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Rivers, elephant fores
 
 Rivers for transport and fertility, forests full of war-elephants and timber, iron mines for weapons: Bimbisara and Ajatasattu conquer janapada after janapada from Rajagriha, Mahapadma Nanda pushes to the north-west, the capital moves to Pataliputra — and far away Alexander, reaching the Beas, turns back because his soldiers fear India's vast armies of foot, chariots and elephants.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: in 1723 the Dzhungar o
 
 in 1723 the Dzhungar onslaught drives whole peoples fleeing barefoot across the steppe — the Aktaban Shubyryndy, remembered in song as the nation's great calamity
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §3 The years of "Great Disaster" — "Aktaban Shubyryndy"
 
 the 1723 invasion drives the Kazakh clans fleeing west in hunger and disorder
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §4 The organisation of a united people's militia
 
 at Ordabasy the three zhuzes unite under one banner and one command
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §1.1 Why did the song "Elim-ai" become a song of the whole people?
 
 one lament for the Dzhungar invasion years is sung by every aul until it becomes the nation's memory of the disaster
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Lesson plan §2: the age of "Aktaban Shubyryndy, Alkakol Sulama"
 
 the 1723 catastrophe is taught through Kozhabergen zhyrau's song "Elim-ai" as a historical source
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

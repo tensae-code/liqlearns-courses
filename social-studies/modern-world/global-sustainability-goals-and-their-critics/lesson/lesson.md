@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: 2015 — the UN Genera
 
 2015 — the UN General Assembly sets 17 goals for 2030, from no poverty to clean water; Grade 12 students critique whether the intended outcomes can actually happen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

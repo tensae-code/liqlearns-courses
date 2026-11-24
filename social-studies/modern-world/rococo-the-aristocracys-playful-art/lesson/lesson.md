@@ -16,7 +16,7 @@ Rooms shrink to salons, and curves turn to shells and scrolls.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Rococo salon with shell and scroll curves and a garden party in silk — the student points to the pleasure replacing glory.]
+In your mind's eye: a Rococo salon with shell and scroll curves and a garden party in silk. The student points to the pleasure replacing glory.
 
 ## Sub lesson 3 — A party on the eve of revolution
 

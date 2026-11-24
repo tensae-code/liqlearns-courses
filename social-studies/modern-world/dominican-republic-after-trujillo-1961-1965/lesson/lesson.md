@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: The tyrant falls and a
 
 The tyrant falls and a council tries to steer the country to elections.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 7 Constitución de 1963: auge y caída de Juan Bosch
 
 Juan Bosch wins, writes a democratic constitution, and is overthrown within months.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 3 Luchas democráticas y revolucionarias (1961–1965): transición fallida y orden golpista
 
 Democracy's first attempt collapses into coups and a triumvirate.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

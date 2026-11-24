@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: drought, corruption, p
 
 drought, corruption, party strife and a sidelined king prepare the monarchy's fall
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 28: The coup of 26 Saratan (1352 SH / 1973)
 
 Daoud Khan's bloodless coup ends two and a half centuries of Durrani monarchy and proclaims the republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

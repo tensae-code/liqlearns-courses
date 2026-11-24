@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: identity is also built
 
 identity is also built against an enemy — Nazi posters draw Slavs as Untermenschen and the image prepares the crime; against that, Belgian pupils learn how Flemish and Walloon identities grew inside one shared history, and German textbooks teach two Germanys' different pasts inside one state — history builds bridges or walls depending on how it is told
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

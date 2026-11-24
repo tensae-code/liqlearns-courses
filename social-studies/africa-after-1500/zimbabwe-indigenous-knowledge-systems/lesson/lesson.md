@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The knowledge that kep
 
 The knowledge that kept communities alive — healing, farming, weather and craft, all learned without books — is named as a system in its own right. It is worthy of the classroom: not leftovers of the past, but a working body of knowledge with its own name, IKS.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Preserving food — the old ways beside the new (Grade 7)
 
 The old food-keeping knowledge — drying, smoking, storing — is set beside today's methods and judged on its own merits. IKS appears here as living technology: the question is not whether it is old, but whether it works.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

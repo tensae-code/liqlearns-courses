@@ -8,7 +8,7 @@ First a store opens on your island. Then a warship anchors offshore to 'protect'
 
 Trades rise and fall. In this chapter of *Over Seas and Time*, whale oil and beche-de-mer fade, and the coconut takes over: dried coconut flesh — copra — becomes the islands' great export, the good every trader wants and every island can grow.
 
-[Picture slot — a picture of a trader's store on a Pohnpei beach with sacks of copra stacked outside and a foreign warship anchored beyond the reef — the student points to the store, then the warship, and says which arrived first and which followed.]
+In your mind's eye: a trader's store on a Pohnpei beach with sacks of copra stacked outside and a foreign warship anchored beyond the reef. The student points to the store, then the warship, and says which arrived first and which followed.
 
 ## Sub lesson 2 — Companies, resident traders and stores
 

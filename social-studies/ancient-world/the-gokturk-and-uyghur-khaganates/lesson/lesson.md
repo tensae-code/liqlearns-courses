@@ -10,7 +10,7 @@ Turkey's Grade 9 book follows the steppe clans as they become states: the Gökt�
 
 The book proves the idea from the Turks' own voices. Mete Han's letter to the Chinese emperor speaks as a ruler Heaven has raised, not a chief begging leave. And Bilge Kağan's words, carved on the Orhun stones in the Turks' own alphabet, warn his people from the stone itself. The beat: the steppe clans become an empire that writes its own story in stone, in its own alphabet.
 
-[Picture slot — a picture of the Orhun standing stones on the open steppe, carved rows of the old Turkish runic alphabet, a khagan's camp in the distance — the student points to the carved rows and says whose words they carry.]
+In your mind's eye: the Orhun standing stones on the open steppe, carved rows of the old Turkish runic alphabet, a khagan's camp in the distance. The student points to the carved rows and says whose words they carry.
 
 ## Say it to your companion
 

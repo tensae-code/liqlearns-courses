@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: romanticism to realism
 
 romanticism to realism — Millet's gleaners and Dostoevsky's murderer — art turns to face industrial society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Arts and letters in the 19th-century world
 
 romanticism, realism and impressionism follow the century's hopes and disappointments onto canvas and page
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Letters and arts of the new age
 
 novels, romantic music and impressionist canvases chronicle the bourgeois century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Art of the 19th century: from Romanticism to Impressionism
 
 David and Goya, romantic revolt, realism, Manet and the impressionists break painting free of the academy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

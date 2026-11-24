@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: hunting a trade road t
 
 hunting a trade road to Tibet, Britain sends Bogle (1774, who plants potatoes at Tashichhodzong), Hamilton, Turner (1783, whose sketches show Bhutan to the world), Kishan Kant Bose, Pemberton (1838, rejected) and finally Ashley Eden (1864), whose humiliation lights the fuse of war (Chapter Six, The Bilateral Missions)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

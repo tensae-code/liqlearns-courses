@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Dictators borrow and d
 
 Dictators borrow and default until the United States steps in, first with customs, then with marines.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 7 Historia dominicana (1916–1963): Ocupación norteamericana (1916–1924)
 
 US marines occupy the country for eight years and build the constabulary that will produce Trujillo.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unidad 1 Ocupación estadounidense: causas iniciales, planes y acciones, apogeo azucarero
 
 In 1916 the marines land, claiming to end caudillo chaos, while sugar booms under occupation.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unidad 1 Resistencia a la Ocupación y hacia la Desocupación
 
 Dominican patriots fight at La Barranquita and resist until the occupation winds down in 1924.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

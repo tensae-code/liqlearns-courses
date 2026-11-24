@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Levant, bridge of 
 
 the Levant, bridge of three continents and caravan road between Yemen, Mesopotamia and Egypt, fills with city kingdoms built largely by migrants from south Arabia — Canaanites founding Jaffa, Gaza, Jericho and Jerusalem, Amorites, Phoenicians who master the sea trade and give the world a 22-letter alphabet from which Greek, Roman and European letters descend, and Arameans at Damascus — until great-power greed from Assyria, Babylon and Persia, and, in the book's main verdict, their turning from the prophets, bring them down
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

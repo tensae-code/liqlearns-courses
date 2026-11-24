@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: A northern Tamil kingd
 
 A northern Tamil kingdom, listed from Vijayakulanga to Sangili, taxes the south at times, grows strong on South Indian and Vijayanagara ties, and lasts until the Portuguese take it in 1619
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Jaffna kingdom
 
 The Aryachakravarti line rules the north for centuries, twelve kings keep a Tamil court with its own coinage, temples and laws while the south fragments
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Jaffna regional state
 
 The north stands as its own Aryachakravarti state through these centuries, treated here as a regional power beside the southern kingdoms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

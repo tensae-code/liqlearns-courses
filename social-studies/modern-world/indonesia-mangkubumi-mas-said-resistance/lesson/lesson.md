@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Insulted by VOC interf
 
 Insulted by VOC interference at the Surakarta court, Prince Mangkubumi and his son-in-law Mas Said raise 13,000 men from Sukowati and fight the company and the Sunan together.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

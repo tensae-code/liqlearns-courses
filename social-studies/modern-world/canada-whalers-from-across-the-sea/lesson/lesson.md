@@ -13,7 +13,7 @@ Then foreign commercial whaling ships arrived in Arctic waters. These whalers ha
 Inuit life was changed by what followed. The ships brought trade — new goods, new dealings, a new presence in Inuit waters and Inuit life. And the hunt at that scale brought depletion: with so many whales taken, the whales grew few. A people whose food, light and tools had always come from the whale now faced a sea with far fewer whales in it.
 
 That is the turn in the story: the whale did not change, and the Inuit did not change their need of it — what changed was who else was hunting, how many they took, and what the taking left behind.
-[Picture slot — a picture of a tall commercial whaling ship in Arctic waters: point to the ship and say how it differs from an open hunting boat.]
+In your mind's eye: a tall commercial whaling ship in Arctic waters. Point to the ship and say how it differs from an open hunting boat.
 
 ## Say it to your companion
 

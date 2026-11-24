@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: after Stalin, camps em
 
 after Stalin, camps empty and voices soften — but the system endures
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §4 Socio-political development of Kazakhstan in the "Khrushchev thaw" period
 
 Stalin dies; camps empty; voices soften
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 30 September 1965 
 
 The 30 September 1965 Movement murders six generals, the book lays out the competing accounts of the 'Percobaan Kup G30S/PKI', and the dominoes fall toward a transfer of power.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

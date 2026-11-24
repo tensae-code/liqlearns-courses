@@ -16,7 +16,7 @@ Artists stretch bodies, twist poses and choose elegant unease over balance.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Mannerist figure, stretched and twisted in an elegant, uneasy pose — the student points to where balance has been deliberately broken.]
+In your mind's eye: a Mannerist figure, stretched and twisted in an elegant, uneasy pose. The student points to where balance has been deliberately broken.
 
 ## Sub lesson 3 — An invaded Italy
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Governor Arthur Gordon
 
 Governor Arthur Gordon, needing plantation labour iTaukei would not supply, has Solomon Islanders blackbirded and, from the Leonidas in 1879 to 1916, Indian girmit labourers brought from Calcutta — most stay after indenture ends and become farmers and businessmen.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Early Sugar Industry: indentured labourers in Fiji
 
 Girmit life is marked by a broken 40-women-per-100-men quota, jealousy and fighting, and no schooling for children, until C.F. Andrews and W.W. Pearson investigate in 1915 and their report brings the system down.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Indians in Fiji
 
 In 1879 Fiji changes again as Indians arrive, most enticed by honeyed promises and deceptions to sign an indenture contract — the girmitiya, not slaves, work the plantations under a pass system, and many make Fiji home.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

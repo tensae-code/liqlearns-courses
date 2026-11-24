@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: Athenian children lear
 
 Athenian children learn letters, music and wrestling, women run the household, and games fill the courtyards of the golden-age city
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 22 Daily life and education exercises
 
 vase scenes are mined for how Athenian children were schooled and played
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Ch. E4 The composition of society — daily life
 
 citizens, metics, slaves and women live four different Athens inside one city
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Ch. E5 The process of education — the Athenian and work — Athens celebrates
 
 school, palaestra and festivals shape the Athenian from boyhood to the Panathenaea
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

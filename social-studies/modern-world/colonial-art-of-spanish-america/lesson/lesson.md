@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Indigenous and mestizo
 
 Indigenous and mestizo artists fill colonial churches with a baroque art that mixes European forms with American hands and symbols (Sección 3 Tema 4: La herencia artística de Hispanoamérica)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

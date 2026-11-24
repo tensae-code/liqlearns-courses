@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Spain's richest provin
 
 Spain's richest provinces rebel against Philip II's taxes and Inquisition, the Duke of Alba's terror hardens resistance under William of Orange, and the Union of Utrecht (1579) births a republic that Amsterdam's trade makes golden
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the New Silk Road (the
 
 the New Silk Road (the chapter's maps) draws China's reach; growth shifts the world's centre while the West debates whether its liberal order is ending
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 16 §§1–2 Le nuove gerarchie della ricchezza; Il boom della Cina
 
 wealth's map is redrawn — Stiglitz on the Washington Consensus in East Asia and Rampini's "Chinese century" (Fare storia pieces) argue how China rose inside globalisation's rules
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Modulo 19 §3 Russia e Cina
 
 an authoritarian Russia and a state-capitalist China offer rival models to the liberal order — the present's scenarios are drawn as a contest of systems
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

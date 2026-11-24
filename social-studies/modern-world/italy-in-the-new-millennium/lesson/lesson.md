@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the volume closes at h
 
 the volume closes at home — Obama's invitation to collaboration and Bhutto on fundamentalism's roots (unit Documents), Carrère d'Encausse on Russia and Zamagni on the 2008 crisis, and a Laboratorio on Russia's war in Ukraine — the present as history's open file
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 18 §§3–5 Il centro-sinistra e la scelta europea; Le trasformazioni sociali; La stagione del centro-destra
 
 the euro choice, a society transformed and the long centre-right season; Amato and Graziosi's Fare storia verdict — "the last illusion: the choice not to choose and its costs"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Modulo 19 §§7–8 L'Italia: crisi economica e nuovi equilibri politici; L'Italia: verso la Terza Repubblica?
 
 Diamanti on the League's roots and Caracciolo on the political system's crisis (Fare storia pieces) close the volume where it began — Italy's republic still being remade, its name (Second? Third?) an open question
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

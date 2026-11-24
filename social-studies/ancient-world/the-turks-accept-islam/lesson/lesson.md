@@ -10,7 +10,7 @@ Turkey's Grade 9 book opens its last unit with the meeting its whole course has 
 
 The book's beat gives the meeting its scale: a battle beside a river in 751 starts a thousand-year meeting of steppe and Islam.
 
-[Picture slot — a picture of the meeting of steppe and Islam — a Turkish khagan's camp beside a growing Muslim city, tents and domes in one view, the Talas river beyond — the student points to the tents and the domes and says what each side brings.]
+In your mind's eye: the meeting of steppe and Islam — a Turkish khagan's camp beside a growing Muslim city, tents and domes in one view, the Talas river beyond. The student points to the tents and the domes and says what each side brings.
 
 ## Sub lesson 2 — Islam's effect on Turkish state and society
 

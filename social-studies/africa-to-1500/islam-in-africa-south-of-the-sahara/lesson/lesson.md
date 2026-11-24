@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Islam crosses into Afr
 
 Islam crosses into Africa by Sinai, the Red Sea and the ocean roads — by preachers, by honest traders whose markets become centres like Kano and Timbuktu, by intermarriage and by migrations from the Companions' flight to Abyssinia onward; Amr ibn al-As takes Egypt, Barqa and Tripoli, Ibn Abi al-Sarh wins at Sbeitla, and Uqba and Musa complete the Maghreb.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

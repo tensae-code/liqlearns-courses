@@ -13,7 +13,7 @@ First, the whales are now protected and counted. After the years of depletion, t
 Second, Inuit whaling continues today. It did not vanish with the old days. It goes on as a small, community-run hunt, under shared rules — the community itself runs it, and the rules are the community's shared agreement about how it is done. The Elders' knowledge and the crew's teamwork that carried the old hunt carry this one too — now inside limits that protect the whales.
 
 That is the balance the story ends on: protection for the whales, counting to prove they are safe, and the community's own hunt carried on — small, shared and ruled — into the present day.
-[Picture slot — a picture of people counting whales from the shore: point to the counters and say why the whales are counted.]
+In your mind's eye: people counting whales from the shore. Point to the counters and say why the whales are counted.
 
 ## Say it to your companion
 

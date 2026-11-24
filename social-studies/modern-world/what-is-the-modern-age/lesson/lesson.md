@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: humanists free the per
 
 humanists free the person from superstition, science and the great discoveries open a new age, and Rousseau warns that to give up freedom is to give up being human
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

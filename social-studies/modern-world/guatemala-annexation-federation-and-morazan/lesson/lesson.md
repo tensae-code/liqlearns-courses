@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: annexed to Iturbide's M
 
 Independence did not settle Central America's shape. Annexed to Iturbide's Mexico in 1822, it declares absolute independence when he falls, loses Chiapas and Soconusco, and abolishes slavery in 1824. As the Federal Republic, it pushes liberal reforms under Morazán and Gálvez — until cholera and Rafael Carrera's Montaña rebellion break the Federation in 1838. Guatemala's Grade 4 book teaches the Federation as a union made and unmade in sixteen years.
 
-[Picture slot — a picture of the Federal Republic's map joining the Central American states, with Morazán on horseback and Carrera's Montaña rebels in the hills — the student names the Federation and the year it broke.]
+In your mind's eye: the Federal Republic's map joining the Central American states, with Morazán on horseback and Carrera's Montaña rebels in the hills. Name the Federation and the year it broke.
 
 ## Say it to your companion
 

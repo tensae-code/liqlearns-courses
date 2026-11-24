@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Abd al-Krim's Rif Repu
 
 The European powers settled their rivalry at Algeciras in 1906; France occupied Fez in 1911 and imposed the protectorate by the Treaty of Fez in 1912; Abd al-Krim al-Khattabi's Rif revolt destroyed the Spanish army at Annual in 1921 and proclaimed the Republic of the Rif before the joint Franco-Spanish assault exiled him in 1926; the Berber Dahir of 1930 woke the national movement, the Istiqlal Party demanded independence in 1943, France exiled Sultan Muhammad V to Madagascar in 1953, and the armed struggle forced his return in 1955 and independence in 1956.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

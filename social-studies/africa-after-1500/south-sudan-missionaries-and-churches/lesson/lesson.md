@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Comboni Missionaries f
 
 Comboni Missionaries founded by Daniel Comboni at Verona, the Anglican Church Missionary Society and others enter South Sudan to convert, teach and heal, face disease and resistance, and leave schools and churches whose problems and positive impact pupils weigh
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

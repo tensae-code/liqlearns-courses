@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the shah leaves, Khome
 
 the shah leaves, Khomeini returns to millions, the army declares neutrality, and on 22 Bahman (11 February 1979) the Pahlavi state collapses (The victory of the Islamic Revolution of Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Islamic Revolution
 
 causes, coalition and collapse — the revolution analysed as a whole, not just chronicled (The Islamic Revolution)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Islamic Revolution of Iran
 
 the monarchy falls to a united popular movement, told at survey speed (The Islamic Revolution of Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

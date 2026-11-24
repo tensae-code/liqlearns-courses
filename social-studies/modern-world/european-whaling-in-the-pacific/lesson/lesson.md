@@ -12,7 +12,7 @@ And in life, Pacific people used only stranded whales — whales that had come a
 
 No living whale in the open sea was hunted. That is the first half of the story: for centuries, the islands lived beside the whales, took only what the sea stranded, and the whales lived on.
 
-[Picture slot — a picture of a whale swimming beside a Pacific island, with a chief's necklace of whale teeth beside it: point to the necklace and say what part of the whale it came from and how that whale was obtained.]
+In your mind's eye: a whale swimming beside a Pacific island, with a chief's necklace of whale teeth beside it. Point to the necklace and say what part of the whale it came from and how that whale was obtained.
 
 ## Sub lesson 2 — The whaling fleets come
 

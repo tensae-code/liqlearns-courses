@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Arumuga Navalar answer
 
 Arumuga Navalar answers the missionaries with Tamil prose and Hindu schools in Jaffna, while M. C. Siddhi Lebbe, aided by the exiled Arabi Pasha, builds Muslim education
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Navalar and Siddhi Lebbe
 
 Arumuga Navalar (1822–1879) answers mission schools with Hindu schools — Jaffna's Hindu College rises in 1871 — while M. C. Siddhi Lebbe (1832–1898) founds Muslim journals and Colombo's Zahira College
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

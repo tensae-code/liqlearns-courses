@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a royal Kasho of 4 Sep
 
 a royal Kasho of 4 September 2001 orders a written constitution, the drafting committee delivers its first draft on 9 December 2002, the King tours the country discussing it, abdicates in 2006, National Council elections follow in December 2007, and the Constitution is signed on 18 July 2008 (Chapter Three, Drafting of the Constitution / Chapter Four, elections and signing)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

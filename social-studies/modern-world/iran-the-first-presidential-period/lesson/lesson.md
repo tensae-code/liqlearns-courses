@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the republic's first p
 
 the republic's first president, Banisadr, rises and falls amid war and factional struggle — the new system's shape is fought out (The first presidential period in Iran)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

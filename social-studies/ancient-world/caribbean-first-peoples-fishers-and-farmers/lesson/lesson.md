@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In the Antilles, sea-g
 
 In the antilles, sea-going fisher-gatherers and pottery-making farming villagers meet — their ceramics carry the evidence of two worlds touching (Séance 6, Le monde antillais des pêcheurs-cueilleurs et des agriculteurs-éleveurs)
 
-[Picture slot — a picture of an Antillean fisher-gatherer camp beside a farming village — the student says what evidence shows the two worlds met]
+In your mind's eye: an Antillean fisher-gatherer camp beside a farming village. Say what evidence shows the two worlds met.
 
 ## Say it to your companion
 

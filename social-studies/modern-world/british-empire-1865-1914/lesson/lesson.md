@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Victoria's Britain (18
 
 Victoria's Britain (1837–1901) rules the world's greatest colonial empire with India as its jewel, Whigs and Tories alternating at home while it rivals Russia in Asia and Germany at sea (Ch. 1 Lesson 3, The British Empire (1865–1914))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

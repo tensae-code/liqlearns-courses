@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before the colony, Zim
 
 Three kingdoms, three answers. Nyatsimba Mutota founds Mutapa on gold and trade with the Portuguese. Changamire Dombo's Rozvi hold power by the spear. Mzilikazi builds the Ndebele state in ranks. The class lays them side by side and asks: how is a kingdom made?
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

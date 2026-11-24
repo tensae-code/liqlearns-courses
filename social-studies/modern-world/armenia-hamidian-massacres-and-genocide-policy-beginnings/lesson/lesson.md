@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sultan Abdul Hamid II 
 
 Sultan Abdul Hamid II answers the Armenian Question with violence instead of the promised reforms — his Hamidiye regiments and the 1894–96 massacres at Sasun, Zeitun and Constantinople open the road to extermination
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

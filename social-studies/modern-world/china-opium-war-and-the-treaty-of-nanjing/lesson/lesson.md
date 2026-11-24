@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Lin Zexu vows 'if opiu
 
 Lin Zexu vows 'if opium is not ended for one day, I do not return for one day'; Britain attacks in 1840, Guan Tianpei dies at his guns, Sanyuanli villagers surround the British in the rain with hoes and knives, and the Treaty of Nanjing cedes Hong Kong, 21 million silver dollars and five treaty ports — China's first unequal treaty
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The two Opium Wars
 
 a British writer admits the opium seller 'corrupts, debases and destroys' his victims; 40 warships come in 1840 anyway, the Arrow incident is manufactured in 1856, and the treaties of Nanjing and Beijing open, cede and indemnify China — the start of modern Chinese history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

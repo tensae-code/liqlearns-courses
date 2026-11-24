@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: parties form in the 19
 
 Parties form in the 1960s to contest the road to independence; Brij Lal's Broken Waves cartoon and text anchor a study of the 1966 election, and leader portraits (Jai Ram Reddy; Vanuatu's Father Walter Lini as a Pacific comparison) show who built them.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Past elections table and the 2006 election
 
 A seats table runs across Fiji's elections to the 6-13 May 2006 result (SDL/United Fiji 36 seats), taking in the election that made Mahendra Chaudhry, of the Fiji Labour Party, Fiji's first Indian prime minister.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

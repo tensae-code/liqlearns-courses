@@ -16,7 +16,7 @@ The capital fills with theatres, palaces and Łazienki park.
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of classicist Warsaw — a theatre, a palace and Łazienki park — the student points to a capital flowering while the state is destroyed.]
+In your mind's eye: classicist Warsaw — a theatre, a palace and Łazienki park. The student points to a capital flowering while the state is destroyed.
 
 ## Sub lesson 3 — Flowering in the shadow
 

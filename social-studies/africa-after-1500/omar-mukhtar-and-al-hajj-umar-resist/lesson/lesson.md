@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Two resisters frame th
 
 Two resisters frame the lesson — Mukhtar holds Libya's desert against Italy for twenty years; al-Hajj Umar's Toucouleur empire fights France in the Senegal country
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

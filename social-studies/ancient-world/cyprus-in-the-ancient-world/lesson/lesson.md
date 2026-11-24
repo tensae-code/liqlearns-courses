@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: copper-rich Cyprus pas
 
 copper-rich Cyprus passes between Egypt, Persia and the Greek kings, its city-kingdoms keeping Greek speech through every master
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

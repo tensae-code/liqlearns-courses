@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: egypt pushed from the Sudan
 
 Egypt pushes from the Sudan — Kassala 1840, Massawa 1846, Keren 1874 — until its highland invasion breaks in 1875–76.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Egyptian expansion and resistance as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Egyptian expansion and resistance as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — Egyptian Expansion and Eritrean Resistance
 

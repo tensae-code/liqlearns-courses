@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pictured leaders are n
 
 Pictured leaders are named as the people who fought to bring the change now seen, and children add other change-making leaders they know
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

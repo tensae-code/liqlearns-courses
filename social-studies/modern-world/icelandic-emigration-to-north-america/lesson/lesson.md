@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sigurður, born 1853 t
 
 Sigurður, born 1853 to poor tenant parents in Skagafjörður, weighs leaving Iceland (Verkefnablað 11: Af hverju vill Sigurður flytja til Kanada?)
 
-[Picture slot — a picture of a young Icelander at a harbour with a packed box, looking at a ship for Canada — the student says who he is and what he must decide]
+In your mind's eye: a young Icelander at a harbour with a packed box, looking at a ship for Canada. Say who he is and what he must decide.
 
 ## Sub lesson 2 — Leaving for Canada forever
 

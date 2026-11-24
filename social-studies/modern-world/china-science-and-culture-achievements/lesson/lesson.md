@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Yuan Longping's hybrid
 
 Yuan Longping's hybrid rice feeds millions more, Tu Youyou's artemisinin saves malaria patients worldwide, and Shenzhou spacecraft carry Chinese astronauts into orbit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Great achievements since reform and opening
 
 from the 1984 Los Angeles golds to high-speed rail, the Hong Kong-Zhuhai bridge and poverty's elimination — the showcase lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

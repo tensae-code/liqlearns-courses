@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: in 1971 Qiao Guanhua l
 
 in 1971 Qiao Guanhua laughs as China's UN seat is restored, Nixon lands in Beijing in 1972, and China steps onto the world's main stage
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

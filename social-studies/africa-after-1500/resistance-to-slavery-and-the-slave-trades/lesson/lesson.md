@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The enslaved resist at
 
 the enslaved resist at every step of slavery and the slave trades (UA4 Les résistances à l'esclavage et aux traites)
 
-[Picture slot — a picture of enslaved Africans resisting — refusing, escaping and fighting back along the trade routes — the student names one form of resistance]
+In your mind's eye: enslaved Africans resisting — refusing, escaping and fighting back along the trade routes. Name one form of resistance.
 
 ## Sub lesson 2 — A crime against humanity
 

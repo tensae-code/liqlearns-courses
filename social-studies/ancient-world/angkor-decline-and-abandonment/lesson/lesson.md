@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Jayavarman VIII's long
 
 Jayavarman VIII's long reign strains the empire; Cham wars (1262) and Mongol-Yuan pressure (embassies of the 1280s) close in — the causes of decline are weighed one by one (History Ch. 2 Lesson 6, The weakening of the Angkor empire)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — History Ch. 2 Lesson 7, The last kings and the leaving of Angkor
 
 Jayavarman VIII (1243–1296), Indravarman III (1295–1307, Zhou Daguan's host), the last inscription kings to Jayavarman IX (1327–1336) — then the court's slow road away from Angkor (History Ch. 2 Lesson 7, The last kings and the leaving of Angkor)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

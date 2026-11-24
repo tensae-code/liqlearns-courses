@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Georgia, Azerbaijan an
 
 Georgia, Azerbaijan and Armenia, all newborn in 1918, quarrel over Lori, Karabakh and Nakhichevan even as bigger empires close in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

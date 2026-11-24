@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Who lived in this plac
 
 Who lived in this place first, how they lived, and how the community came to be — the class collects the settlement story from past records and stories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Life of early settlers in PNG / Why was life like that?
 
 Houses, dress, transport, work and leisure of PNG's early settlers are rebuilt from photographs and books, then explained — why clothes, shelters and work took the shape they did
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lifestyle of the First People / Food / Shelter / Clothing
 
 The first people survive by what they grow, build and wear, each fitted to its environment — houses against sickness, enemies and wild animals; children draw the foods, shelters and clothes and compare them with today's
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

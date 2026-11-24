@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: In West Sumatra the Pa
 
 In West Sumatra the Padri movement's religious war becomes a war against the Dutch, drawn by the Dutch officer-illustrator Justus Pieter de Veer who fought in it.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab 2.B.3 Perang Padri
 
 West Sumatra's religious civil war draws the Dutch in, and Imam Bonjol's Padris end fighting the colonial army instead.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

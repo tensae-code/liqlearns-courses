@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: taxes, corvée labour 
 
 taxes, corvée labour and monopolies — the machinery France builds to hold and drain Laos for fifty years
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Section 2, Part VI, Lesson 17: 1893–1930 — Laos under French rule, 1893–1930
 
 France takes Laos from Siam and rules it as part of Indochina — taxes, monopolies and forced labour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part III, Lesson 11: 1893–1945 — French colonial policy in Laos
 
 taxes, opium and salt monopolies, corvée labour — how the colony was squeezed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part VI, Lesson 17: Laos under French rule
 
 France rules Laos as part of Indochina — taxes, monopolies, forced labour
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

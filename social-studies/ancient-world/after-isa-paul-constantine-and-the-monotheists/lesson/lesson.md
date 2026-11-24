@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as this book tells it,
 
 as this book tells it, the Jew Sha'ul, a persecutor of Isa's followers, re-emerges as Paul claiming a vision and rebuilds the message around Trinity, divinity and the cancelling of the law, writing some fourteen letters; the followers split — a Pauline majority and monotheists who are hunted, some fleeing to the mountains as monks (among their descendants Bahira, who will recognise Muhammad), some hiding their faith for generations as the People of the Cave — Rome besieges and storms Jerusalem in 70 CE, and in the early 4th century Constantine makes the Pauline version the empire's official religion and burns the monotheists' gospels, while the Torah and Gospel still carry the foretelling of Muhammad from the seed of Ismail at Mount Faran
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

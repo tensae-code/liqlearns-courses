@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: colonised peoples ever
 
 colonised peoples everywhere begin to organise, rise and demand their countries back
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part II, Lesson 11: National liberation movements and the Third World group
 
 liberated peoples band together as a Third World and bargain between the blocs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part III, Lesson 10: National liberation movements
 
 colonised peoples organise and demand their countries back
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part II, Lesson 11: National liberation and the Third World
 
 liberated peoples band together and bargain between the blocs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

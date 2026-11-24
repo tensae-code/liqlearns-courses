@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the north-western neig
 
 the north-western neighbour closes the ring of six surveys around Afghanistan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 34: Turkmenistan
 
 once part of Transoxiana and an Achaemenid then Parthian land astride the Silk Road, Turkmenistan is now among the world's great gas exporters, its people's lineage and culture traced
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

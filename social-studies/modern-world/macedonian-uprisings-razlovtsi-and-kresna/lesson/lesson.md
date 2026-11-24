@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a teacher turns rebel,
 
 a teacher turns rebel, raises a village, and pays for it in ash
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 2: the Macedonian (Kresna) Uprising (1878) — insurgents organise their own uprising government, and Ǵorgija Pulevski's letters argue the Macedonian cause
 
 as the great powers redraw the map at Berlin, Macedonians rise to say they are a people too
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

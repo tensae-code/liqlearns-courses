@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Nixon goes to Beijing 
 
 Nixon goes to Beijing and Moscow (the joint communiqué is a unit Document), SALT caps the missiles, and Helsinki promises rights the East signs and shelves — détente as management, not friendship
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 12 §2 Gli Stati Uniti: da Nixon a Reagan
 
 Watergate to Reagan — Testi's Fare storia piece reads Reagan as "return to the future"; monetarism (the module's keyword) replaces Keynes in the hegemon's house
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

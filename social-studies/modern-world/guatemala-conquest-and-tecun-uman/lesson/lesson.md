@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: Pedro de Alvarado's arm
 
 Guatemala's Grade 4 book tells the conquest in two stages. Warned by Moctezuma's envoys, the highland lords still fail to unite. Pedro de Alvarado's army advances — and smallpox advances with it. Tecún Umán falls at El Pinar, Q'umarkaj burns, and Santiago is founded at Iximche'. Division, disease and Spanish arms together break the highland kingdoms.
 
-[Picture slot — a picture of the highland road to Q'umarkaj in 1524, with the Lienzo de Quauhquechollan cloth painting unrolled beside it showing the campaign — the student names Tecún Umán and the Lienzo.]
+In your mind's eye: the highland road to Q'umarkaj in 1524, with the Lienzo de Quauhquechollan cloth painting unrolled beside it showing the campaign. Name Tecún Umán and the Lienzo.
 
 ## Sub lesson 2 — Second stage — the Kaqchikel rise and the Lienzo
 

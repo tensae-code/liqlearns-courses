@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the PLA grows from 'mi
 
 the PLA grows from 'millet plus rifles' to missiles, carriers and peacekeeping blue helmets
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

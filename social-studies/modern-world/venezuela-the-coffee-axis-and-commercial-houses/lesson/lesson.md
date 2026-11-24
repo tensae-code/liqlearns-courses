@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Coffee ties Venezuela 
 
 Coffee ties Venezuela to the world market, but English, German, Italian and US houses finance, ship and profit from the crop while the country stays a mono-producer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — When coffee lit up our history
 
 Coffee becomes the light by which the nineteenth-century republic is seen — its money, its ports and its politics all run on the bean
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

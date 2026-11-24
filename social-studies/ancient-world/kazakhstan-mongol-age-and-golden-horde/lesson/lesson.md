@@ -8,301 +8,301 @@ Before you read on, hold this lesson's one thing in mind: Temujin unites the Mon
 
 Temujin unites the Mongols in 1206 and turns them outward
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §31–32 Turko-Mongol campaigns into Central Asia and Kazakhstan; the defence of Otrar
 
 Otrar's governor resists, the city is destroyed, and the steppe is conquered
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §33 Chinggis Khan's empire: the uluses
 
 the empire is divided among Chinggis's sons into ulus appanages
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §34 Creation of the Golden Horde (Ulus of Jochi)
 
 Batu builds the Jochid state that will rule the western steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — §35 The Golden Horde in flower
 
 Sarai's wealth, Islam under Uzbek Khan and steppe-wide trade mark the peak
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — §36 Crisis and break-up of the Golden Horde
 
 plague, Timur's blows and rival khans shatter the Horde
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — §37 Creation of the Ak Orda (White Horde) state
 
 the eastern Jochid lands form their own White Horde state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — §38 Political history of the Ak Orda
 
 Ak Orda khans fight Timur and the Uzbeks for the Syr Darya cities
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — §39 The Nogai Horde
 
 the Nogai mirzas build a nomad power west of the Volga
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 10 — §40 The Khanate of Abulkhair
 
 Abulkhair's Uzbek khanate gathers the Desht-i Kipchak — and cracks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 11 — §41 Creation of Moghulistan: territory and ethnic composition
 
 the Chagatai east becomes Moghulistan in Semirechye and Kashgaria
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 12 — §42 Emir Timur and the struggle against his conquests
 
 Timur smashes Tokhtamysh and the steppe states resist his empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 13 — §43 Socio-economic relations and state order in 14th–15th c. Kazakhstan
 
 uluses, taxes and cities organise post-Horde society
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 14 — §44 Art and literature of the 13th–15th centuries
 
 epics and chronicles flower in the Horde's successor states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 15 — §45 Features of traditional cattle-breeding
 
 the four-kind herd and its seasonal round are perfected
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 16 — §46 Nomads' applied art develops, 13th–15th c.
 
 felt, silver and leather crafts reach new refinement
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 17 — §30 Chinggis Khan and the Mongol state's creation (lesson plan)
 
 Temujin's unification is staged as state-building under pressure
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 18 — §31–32 Turko-Mongol campaigns; the defence of Otrar (lesson plan)
 
 Otrar's siege is told from defenders' and conquerors' sides
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 19 — §33 Chinggis Khan's empire: the uluses (lesson plan)
 
 the ulus division is mapped as an inheritance puzzle
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 20 — §34 Creation of the Golden Horde, Ulus of Jochi (lesson plan)
 
 Batu's western state takes shape in the lesson sequence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 21 — §35 The Golden Horde in flower (lesson plan)
 
 Sarai's markets and Uzbek Khan's Islam mark the peak lessons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 22 — §36 Crisis and break-up of the Golden Horde (lesson plan)
 
 plague and Timur's campaigns dismantle the Horde in class analysis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 23 — §37 Creation of the Ak Orda state (lesson plan)
 
 the White Horde emerges as the east's own Jochid state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 24 — §38 Political history of the Ak Orda (lesson plan)
 
 Ak Orda's wars for the Syr Darya cities fill the lessons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 25 — §39 The Nogai Horde (lesson plan)
 
 Nogai mirzas and their herds people the western steppe lessons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 26 — §40 The Khanate of Abulkhair (lesson plan)
 
 Abulkhair's rise and fracture set up the Kazakh founding
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 27 — §41 Creation of Moghulistan: territory, ethnic composition (lesson plan)
 
 Moghulistan's peoples and lands are assembled on the map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 28 — §42 Emir Timur and the struggle against his conquests (lesson plan)
 
 Tokhtamysh's resistance to Timur is weighed in debate
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 29 — §43 Moghulistan in the 15th century (lesson plan)
 
 Moghulistan's khans and the Kazakh secession close its arc
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 30 — §44 Socio-economic relations and state order, 14th–15th c. (lesson plan)
 
 ulus administration and taxes are diagrammed
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 31 — §45 Art and literature of the 13th–15th centuries (lesson plan)
 
 Horde-age epics and chronicles are read as literature and source
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 32 — §46 Features of traditional cattle-breeding (lesson plan)
 
 the four-kind herd's year is charted in the economy lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 33 — §47 Nomad applied art achievements, 13th–15th c. (lesson plan)
 
 felt and silver masterpieces evidence craft at its peak
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 34 — §26–27 The Mongols conquer Kazakhstan's territory
 
 resistance city by city ends in the steppe's incorporation into an empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 35 — §28–29 Kazakhstan inside the Mongol Empire
 
 ulus rule, taxes and the yam post organise conquered Kazakhstan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 36 — §30 Eastern Desht-i Kipchak separates politically: the Ak Orda
 
 the White Horde becomes the east's own state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 37 — §31 Moghulistan (mid 14th–early 16th c.)
 
 the Chagatai east holds Semirechye as Moghulistan
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 38 — §32 The state of Amir Timur and his descendants
 
 Timur's empire and his heirs press on the steppe's south
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 39 — §33 The Abulkhair Khanate (1428–1468)
 
 Abulkhair's Uzbek state gathers — then loses — the Desht
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 40 — §34 The Nogai Horde; the Siberian Khanate
 
 Nogai and Siberian khanates flank the Kazakh lands
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 41 — §35 Social and political structure of the 13th–first-half-15th c. states
 
 ulus order and khanly courts are compared across successor states
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 42 — §36 The states' economy, 13th–first half 15th c.
 
 herds, cities and caravan taxes feed the post-Horde world
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 43 — §37 Spiritual culture develops, 13th–first half 15th c.
 
 epic singers and chroniclers keep the Horde age's memory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 44 — 3.1 How did the Mongols reach the level of statehood?
 
 Chinggis's reforms turn tribes into an organised empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 45 — 3.2 How much resistance did the local population show the Mongol invasion?
 
 Otrar's six-month defence becomes the invasion's emblem
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 46 — 3.3 Who changed Central Asia more — the Kipchaks or the Mongols?
 
 two steppe peoples' legacies are weighed against each other
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 47 — 3.4 What changes came to the political map from the Mongol uluses' formation?
 
 Jochi's and Chagatai's uluses partition the steppe
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 48 — 3.5 What was the Ak Orda's role in the formation of Kazakh statehood?
 
 the White Horde's order becomes the khanate's foundation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 49 — 3.6 What political changes did events in the Abulkhair and Moghulistan states bring?
 
 rival khanates set the stage for a Kazakh breakaway
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 50 — 3.7 Why did Edige's and Koshim Khan's attempts to strengthen their states fail?
 
 the Nogai mirza and Siberian khan cannot hold their unions together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Shaka's wars — the M
 
 Shaka's wars scatter peoples across Southern Africa. This scattering is the Mfecane, and its impact reaches far beyond Zululand.
 
-[Picture slot — a picture of peoples scattering from Zululand in many directions, founding new kingdoms marked Lesotho, Ndebele, Gaza and Ngoni — the student traces each new state to its builder.]
+In your mind's eye: peoples scattering from Zululand in many directions, founding new kingdoms marked Lesotho, Ndebele, Gaza and Ngoni. The student traces each new state to its builder.
 
 ## Sub lesson 2 — New kingdoms — and emptied land
 

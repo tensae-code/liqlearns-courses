@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A company with soverei
 
 A company with sovereign rights runs Manica and Sofala for Portugal and international capital from 1892 to 1942 — the clearest face of the alliance
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

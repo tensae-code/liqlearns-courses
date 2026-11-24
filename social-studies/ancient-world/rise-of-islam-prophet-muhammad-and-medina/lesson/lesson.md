@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: The Prophet's call beg
 
 The Prophet's upbringing and mission in Mecca, and the hardships he and his followers face as Quraysh turns on the new call — the ground the next lesson's escape is built on.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Hijra and the universality of the call
 
 Persecution drives the Muslims to leave their wealth and homes behind; Quraysh's leaders plot in Dar al-Nadwa to kill the Prophet, but the escape is planned like a campaign — Abu Bakr readies two camels, the two men hide three days in the cave of Thawr and take a desert guide down a road nobody uses; Yathrib receives them with joy, and there the first Islamic state is built on the Medina Charter before the call is carried to the whole world.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The appearance of Islam
 
 The call begins in Mecca and a new community forms around the Prophet — the second unit's story opens here.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Pillars of building the Islamic state, and the dangers it faced in Medina
 
 In Medina the state is built on firm pillars — and at once beset by dangers from inside and outside, which the young state survives.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

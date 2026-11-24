@@ -16,7 +16,7 @@ Borromini bends walls like waves, and Caravaggio drags saints into tavern light 
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of St Peter's Square embracing a crowd and a ceiling painting opening onto heaven — the student points to how the art reaches out to move the viewer.]
+In your mind's eye: st Peter's Square embracing a crowd and a ceiling painting opening onto heaven. The student points to how the art reaches out to move the viewer.
 
 ## Sub lesson 3 — Ceilings open onto heaven
 

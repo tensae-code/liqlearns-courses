@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: colonial brotherhoods �
 
 Guatemala's Grade 4 book closes its colonial story with living tradition. Colonial brotherhoods — cofradías — keep saints' feasts alive across the centuries. Around them grow traditional dances, ladino festivities, carnival, jaripeo, the mengalas of Amatitlán and the Guatemalan corrido, the sung ballad that carries news and memory. Each people, the book shows, turns its history into dance, costume and song — tradition as history still being performed.
 
-[Picture slot — a picture of a saints' feast procession led by a cofradía, dancers in traditional costume, and a singer with a guitar singing a corrido — the student names the cofradía and one dance or festival.]
+In your mind's eye: a saints' feast procession led by a cofradía, dancers in traditional costume, and a singer with a guitar singing a corrido. Name the cofradía and one dance or festival.
 
 ## Say it to your companion
 

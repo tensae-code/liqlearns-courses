@@ -12,7 +12,7 @@ Then the signs sharpen into scripts. In Mesopotamia, a reed pressed into clay le
 
 The book's beat is simple and huge: history proper begins the day a Sumerian presses a reed into clay — because from that day, the past can speak for itself.
 
-[Picture slot — a picture of a Sumerian scribe pressing a reed stylus into a wet clay tablet, wedge-shaped marks in neat rows, a basket of counted goods beside him — the student points to the marks and says what the tablet is remembering.]
+In your mind's eye: a Sumerian scribe pressing a reed stylus into a wet clay tablet, wedge-shaped marks in neat rows, a basket of counted goods beside him. The student points to the marks and says what the tablet is remembering.
 
 ## Say it to your companion
 

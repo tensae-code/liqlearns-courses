@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Imams, jurists and poe
 
 Imams, jurists and poets sow the seeds of political awareness before the parties take up the fight
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 13: The political struggle in Mauritania
 
 After the armed phase, parties and petitions take over the fight
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

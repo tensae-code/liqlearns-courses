@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: As Britain withdrew, S
 
 Gulf peoples press for freedom as britain withdraws, and sheikh abdullah al salem — father of independence — leads kuwait to independence on 19 june 1961, with the other gulf states following.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

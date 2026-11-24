@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a poor Emirate founds 
 
 a poor Emirate founds an agricultural bank in 1922 and a Supreme Economic Committee in 1924, living on Ghawr and plateau grain, hand mills and olive presses until independence (1946) brings factories — textiles, mills, metals, paper; 1948 floods the country with refugees and closes Palestine's ports, so Jordan builds Aqaba's port and digs the East Ghawr (King Abdullah) Canal from Adasiya to South Shuna, raises the Central Bank in 1964 and a Tourism Authority in 1960 (a ministry by 1967); the dinar halves amid military spending and subsidy cuts, the 1990–91 Gulf crisis sends the expatriates home — then the US free-trade agreement (2001), the Aqaba Special Economic Zone, the Abdali project and the Investment Commission (2014, a ministry by 2021) carry the story to the economic-modernisation vision
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

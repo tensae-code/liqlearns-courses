@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Three origin stories s
 
 Three origin stories sit side by side for judgement — the culture's own traditions, Adam fashioned from dust in Eden, and Darwin's evolution — and the learner must weigh their advantages and disadvantages in a table
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Origin of Man (guide)
 
 The guide adds the scientists' universe — Newton's theory and the Big Bang — beside Adam and Eve, then names Darwin's the most reliable of the scientific theories and sets a classroom debate: creation versus evolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

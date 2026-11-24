@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the Patriarchate survi
 
 the Patriarchate survives under the sultans as the flock's government, keeping faith and Greek learning alive until the modern age tests both
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The East under Ottoman domination
 
 the Patriarchate heads a millet; Greeks live, trade and keep their faith under the sultans
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

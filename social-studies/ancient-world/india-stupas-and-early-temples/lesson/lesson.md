@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A stupa grows around a
 
 A stupa grows around a relic casket — earth, brick, carved stone slabs, a railed pradakshina path devotees walk clockwise; Sanchi's brick core is Ashokan, its gateways later gifts; early temples centre on the garbhagriha under a shikhara tower with a mandapa hall, and at Mahabalipuram whole temples are cut top-down from single rocks.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — How were stupas and temples built?
 
 Find and quarry good stone, haul it, shape pillars and panels, set them exactly — paid for by kings and queens, and decorated by gifts from devotees: an association of ivory workers pays for a whole Sanchi gateway, and hundreds of donors survive only as names carved on railings.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

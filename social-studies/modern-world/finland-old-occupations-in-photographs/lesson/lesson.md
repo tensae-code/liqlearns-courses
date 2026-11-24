@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Lift girls at Stockman
 
 Lift girls at Stockmann in 1930, a gas-lamp cleaner up his ladder in 1912, a shoeblack boy at the station in Olympic 1952 and log-floaters on the Vantaa river show trades that have vanished or changed beyond recognition.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

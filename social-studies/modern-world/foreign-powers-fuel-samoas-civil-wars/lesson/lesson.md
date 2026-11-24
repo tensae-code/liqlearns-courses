@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the book's verdict in 
 
 the book's verdict in table form — the three powers fuelled the wars with arms, naval backing and chiefs of their own, each putting its interests (plantations, Pago Pago harbour) before Sāmoans, and only partly eased them with treaties and the central government they wanted for their land claims
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

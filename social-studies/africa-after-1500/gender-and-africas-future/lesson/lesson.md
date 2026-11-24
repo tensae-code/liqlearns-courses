@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The continent cannot u
 
 the guide raises the question of gender as a question for the whole continent (UA8 La question du genre et l'unité du continent)
 
-[Picture slot — a picture of African women and men learning and leading together — the student says why unity needs everyone]
+In your mind's eye: african women and men learning and leading together. Say why unity needs everyone.
 
 ## Sub lesson 2 — Unity needs everyone
 

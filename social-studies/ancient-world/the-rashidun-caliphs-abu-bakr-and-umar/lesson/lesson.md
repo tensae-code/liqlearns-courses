@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: After Abu Bakr and Uma
 
 After Abu Bakr and Umar are studied, the lesson itself asks who the two caliphs after them were — the pair who held the community together and then stretched it across Persia and the Levant
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 4: The rightly-guided caliphs
 
 The four caliphs who ruled by consultation after the Prophet carry the young community through its first crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 4: The Rashidun caliphate — Abu Bakr and Umar
 
 The first two caliphs hold and expand the community
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

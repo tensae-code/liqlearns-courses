@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A grim roll of massacr
 
 A grim roll of massacres marks the representative democracy's underside, closing with the coup of 11 April 2002 told by the defence minister of the day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

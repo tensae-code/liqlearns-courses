@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: beside today's Dongola
 
 beside today's Dongola the Nubians build an independent kingdom (2500–1500 BCE) reaching Aswan, with a palace-and-temple city of mud and burnt brick and royal tombs at the Deffufa
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Kerma Civilisation
 
 Africa's first great kingdom south of Egypt builds palaces and temples of brick and defies the pharaohs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Sudan in the Era of the Cultural Groups
 
 entire nations survive as pottery in graves, and science gives them letters because their names are lost
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Kerma Civilisation (Grade  book, part 2)
 
 the lettered peoples give way to a named kingdom with a capital of brick
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

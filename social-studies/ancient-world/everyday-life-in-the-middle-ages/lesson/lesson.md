@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: nobles feast, play che
 
 nobles feast, play chess and joust in castle tournaments while peasants live by the sun and the church calendar and crowd to fairs on feast days; towns are filthy and plague kills a third of Europe in the 14th century; and women — subordinate in law — still leave marks as the poetess Kassia, the historian Anna Komnina, Christine de Pizan and Empresses Theodora and Irene
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

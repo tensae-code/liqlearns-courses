@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Michael the Brave brin
 
 Michael the Brave brings Wallachia, Transylvania and Moldavia under one rule in 1600; his seal joins the eagle, the aurochs head and the Transylvanian lions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bucuria lecturii: Oastea Unirii
 
 orphan boy Patrașcu marches with Michael's army over the Carpathians and rests in a village on the Oituz, seeing the union as a soldier's road
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unitatea III, Lecția 4: Războiul antiotoman sub conducerea lui Mihai Viteazul. Unirea Țărilor Române
 
 Michael buys his throne from the Turks, turns on them, and enters Alba Iulia on 1 November 1599 to hold Wallachia, Transylvania and Moldavia under one rule
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

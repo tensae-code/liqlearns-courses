@@ -8,7 +8,7 @@ One machine made cotton pay — and made slavery pay harder. This lesson follows
 
 The cotton gin made cleaning cotton fast — and made slavery more profitable than ever. Demand for enslaved labour grew with every bale. The book begins with the economics: cotton was king, and the king ruled through slavery.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The lives of enslaved and free African Americans
 

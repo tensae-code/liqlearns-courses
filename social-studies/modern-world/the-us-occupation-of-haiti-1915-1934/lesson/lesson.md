@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: US Marines land in 191
 
 Presidents fall one after another, debts press in, and president vilbrun guillaume sam is assassinated on 28 july 1915 — us marines land the same day (Séance 1, Le contexte externe et interne ou les préludes à l'occupation)
 
-[Picture slot — a picture of Charlemagne Péralte and the Caco resistance in the hills — the student names one way Haitians resisted the occupation]
+In your mind's eye: charlemagne Péralte and the Caco resistance in the hills. Name one way Haitians resisted the occupation.
 
 ## Sub lesson 2 — The Haitian state placed under tutelage
 

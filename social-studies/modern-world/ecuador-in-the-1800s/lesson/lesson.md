@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Flores and Rocafuerte 
 
 Flores and Rocafuerte contend, the 1845 Marcista revolution rises, García Moreno modernises with an iron hand, and Daquilema's Indigenous rising shakes the sierra (Sección 3 Tema 1: República del Ecuador I)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

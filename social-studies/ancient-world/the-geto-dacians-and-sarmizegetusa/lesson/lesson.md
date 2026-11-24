@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the northern Thracians
 
 the northern Thracians become the Geto-Dacians — Greeks and Romans' name for one people — with tribes from the Carpathians to the Black Sea and their holy capital in the mountains
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

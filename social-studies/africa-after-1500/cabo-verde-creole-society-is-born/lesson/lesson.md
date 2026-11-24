@@ -8,7 +8,7 @@ Before you read on, think of islands with no people on them at all — then peop
 
 Peoples and cultures from Europe and Africa meet on the islands and a new society is born — creole in language, food, music and custom, ordered in a strict social structure.
 
-[Picture slot — a picture of an island market where European and African foods, instruments and cloth are laid out side by side becoming one stall — the student names three things that became creole.]
+In your mind's eye: an island market where European and African foods, instruments and cloth are laid out side by side becoming one stall. Name three things that became creole.
 
 
 ## Sub lesson 2 — Cabo Verdean culture

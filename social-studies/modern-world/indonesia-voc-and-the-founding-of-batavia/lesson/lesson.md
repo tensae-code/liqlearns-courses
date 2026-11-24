@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The VOC grows from spi
 
 Cornelis de Houtman reaches Banten in 1596, the Treaty of Tordesillas logic divides the world, Admiral Keumalahayati fights the Dutch at Aceh, and the VOC builds Batavia into its Asian capital while crushing Banda, whose Fort Nassau ruins still stand.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bab I.B Menganalisis Kemaharajaan VOC / Keserakahan Kongsi Dagang
 
 The chartered company grows from spice trader into a territorial empire whose greed, monopolies and violence the chapter puts on trial.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

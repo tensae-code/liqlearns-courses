@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: border quarrels over B
 
 border quarrels over Butwal and Sheoraj and the Nawab's pressure push Nepal into war with the East India Company in 1814; the lesson weighs why Nepal fought, how the fronts went, and what the Treaty of Sugauli cost — a third of the land — and what it saved
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

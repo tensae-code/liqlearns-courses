@@ -8,61 +8,61 @@ Before you read on, hold this lesson's one thing in mind: pope, knights and pilg
 
 pope, knights and pilgrims converge on a holy war for Jerusalem
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §11 Europe and the Muslim world after the Crusades
 
 two centuries of war end in trade, translation and wary coexistence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §10 The Crusades: causes, course, consequences
 
 two centuries of holy war for Jerusalem change both worlds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — §11 Christian Europe and the Muslim world after the Crusades
 
 enemies become trading partners and translators of each other's books
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — 4.1 Why did Catholic Christians organise Crusades against Islamic lands?
 
 pope, knights and faith combine into the crusading call
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — 4.2 How did the Crusades change Christian Europe and the Muslim world?
 
 trade, taxes and tolerance all shift after two centuries of war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — §10 The Crusades: causes, course, consequences
 
 crusader states rise and fall on the Levant coast
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — §11 Christian Europe and the Muslim world after the Crusades
 
 war gives way to trade, translation and borrowed technologies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — §10 The Crusades: causes, course and consequences
 
 crusader kingdoms rise in the Levant and fall two centuries later
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 10 — §11 Christian Europe and the Muslim world after the Crusades
 
 former enemies exchange goods, words and technologies
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

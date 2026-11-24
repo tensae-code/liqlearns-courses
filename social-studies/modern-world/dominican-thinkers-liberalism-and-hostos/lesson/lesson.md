@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Dominican thinkers arg
 
 Dominican thinkers argue for a century over what their nation is — conservative order against liberal reform.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unidad 6 Hostos y el positivismo
 
 Eugenio María de Hostos brings positivism and a schoolmaster's faith in education to remake the republic.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Yuan's monarchy farce,
 
 Yuan's monarchy farce, his death, and a decade of cliques at war while national industry enjoys its brief golden age and new culture stirs
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

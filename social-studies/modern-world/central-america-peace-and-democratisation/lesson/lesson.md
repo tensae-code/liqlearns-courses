@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the presidents' summit
 
 the presidents' summits and the Esquipulas II accords end the isthmus's wars by negotiation and open democratisation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Esquipulas II y los acuerdos de paz centroamericanos
 
 at Esquipulas in 1987 the five presidents adopt Óscar Arias's plan for firm and lasting peace; Guatemala and El Salvador then negotiate their own wars to an end by 1992
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Contadora y Esquipulas: el camino a la paz
 
 the Contadora group mediates from 1983 without result; Óscar Arias's 1987 presidential conference opens the talks that end the Contra war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

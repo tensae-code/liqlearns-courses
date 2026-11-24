@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: sultans try to save a 
 
 sultans try to save a shrinking empire by importing European law, armies and schools
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §5.2 Did the Tanzimat policy help to strengthen the Ottoman Empire?
 
 Ottoman reform edicts are weighed against the empire's continued shrinking
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

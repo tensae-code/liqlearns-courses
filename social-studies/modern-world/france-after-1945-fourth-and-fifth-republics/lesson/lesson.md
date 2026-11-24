@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: France emerges from Vi
 
 France emerges from Vichy and de Gaulle's 18 June 1940 appeal, then fights to hold Indochina and Algeria while Germany is divided and the Cold War begins (Barbarossa, 22 June 1941; Pearl Harbor, 7 December 1941) (Ch. 1 Lesson 3, The French Republic)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

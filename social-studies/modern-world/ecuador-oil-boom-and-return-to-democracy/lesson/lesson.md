@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1964 agrarian refo
 
 The 1964 agrarian reform bans the huasipungo, oil money booms in the 1970s, democracy returns in 1979, then debt crisis, mass migration and Indigenous movements challenge the neoliberal republic (Sección 4 Tema 1: República del Ecuador III)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

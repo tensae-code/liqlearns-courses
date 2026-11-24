@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In a factory role-play
 
 pupils play factory hands at the century's start (Verkefnablöð 12 & 15: factory role-play)
 
-[Picture slot — a picture of factory hands at the century's start debating together — the student says what they must decide]
+In your mind's eye: factory hands at the century's start debating together. Say what they must decide.
 
 ## Sub lesson 2 — Found a union and strike?
 

@@ -8,17 +8,17 @@ Before you read on, hold this lesson's one thing in mind: young attackers assaul
 
 young attackers assault the Moncada and Bayamo barracks at carnival dawn; the attack fails militarily, prisoners are murdered, but a programme and a movement are born
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — 8.1–8.3 Preparation of the political vanguard; assault on the Moncada and Carlos Manuel de Céspedes barracks; trial of the 26 July survivors
 
 the Ortodoxo youth become a vanguard, attack at dawn, and turn the courtroom into a tribune
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — 5.1–5.2 The new revolutionary vanguard; organisation of revolutionary forces and popular mobilisation
 
 the Moncada generation becomes a movement: 26th of July, civic resistance and the Frank País network organise a people for war
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

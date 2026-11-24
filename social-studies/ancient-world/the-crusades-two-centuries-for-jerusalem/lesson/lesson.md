@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: For two centuries Euro
 
 After Manzikert, Byzantium begs the West for help and Pope Urban II answers with holy war — the First Crusade (1095–1099) storms Jerusalem; Nuruddin Zengi and then Salahuddin unite the Muslims; the Third Crusade pits Salahuddin against Richard; the Fourth (1202–1204) shames itself by sacking Christian Constantinople; two centuries of war end by teaching Europe geography, trade and tolerance of a stronger neighbour.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

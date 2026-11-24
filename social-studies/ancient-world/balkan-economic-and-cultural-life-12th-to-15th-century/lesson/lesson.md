@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: peasants work the thre
 
 peasants work the three-field system, Vlach shepherds drive flocks between mountain and plain, and mines at Zletovo, Sase and Novo Brdo feed the mints; new capitals raise literary schools at Skopje, Tarnovo and Hilandar, chronicles and the Alexander romance circulate, ktitor portraits stare from frescoed walls at Dečani and Marko's Monastery, and folk song begins the making of King Marko's legend
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

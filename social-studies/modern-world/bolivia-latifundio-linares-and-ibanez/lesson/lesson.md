@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The latifundist hacien
 
 The latifundist hacienda drives an "original accumulation" against the ayllu; Linares rules as a civilian dictator, and Andrés Ibáñez raises an egalitarian revolution in Santa Cruz (Hacienda, dictadura civil e igualitarismo)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: referendum, constituti
 
 referendum, constitution, hostage crisis and purges — how a revolution hardens into a system (The establishment and consolidation of the Islamic Republic system)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Iran in the period after the victory of the Islamic Revolution
 
 new system, imposed war and reconstruction — the republic's first decades as the course's closing chapter (Iran in the period after the victory of the Islamic Revolution)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

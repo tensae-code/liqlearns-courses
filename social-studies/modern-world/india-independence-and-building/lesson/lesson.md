@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Congress-led struggle 
 
 Congress-led struggle forces the Mountbatten Plan of 1947 and partition into Hindu India and Muslim Pakistan; the struggle continues to full independence and the Republic is proclaimed on 26 January 1950; non-aligned abroad, India builds heavy industry including nuclear power at home, wins food self-sufficiency through the Green Revolution, and by the 1980s stands among the world's top ten industrial producers, with an atomic bomb in 1974 and a satellite in 1975
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: starving villagers rai
 
 starving villagers raid the grain stores; a leaflet "Truth for the people" earns its author seven years in Mordovia in 1964, and Mihai Moroșanu fights to save Stephen the Great's monument
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 43: Rezistența anticomunistă în RSSM
 
 110 people are arrested for anti-Soviet resistance organisations; in October 1955 the Academy's own scientific conference recognises the "Romanian-Moldavian" linguistic identity the regime denied
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

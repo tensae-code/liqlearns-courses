@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Aguda's Jurchen destro
 
 Aguda's Jurchen destroy Liao in 1125, then turn on their Song allies; two Song emperors are carried off, Kaifeng falls in 1127, and a Jin general marvels that a few thousand men on the Yellow River bank could have stopped him
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Liao, Xia, Jin and Yuan rule (2)
 
 Jin destroys Liao and Northern Song, then the Mongols destroy Jin, Xia and Southern Song in turn
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

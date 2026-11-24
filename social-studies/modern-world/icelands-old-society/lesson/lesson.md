@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In old Iceland most pe
 
 in old Iceland most people own nothing; the vistarband ties servants to farms (Gamla samfélagið, student book pp. 4–9)
 
-[Picture slot — a picture of a tenant farm in old Iceland, with the farmer's family and servants, and a census writer at the door — the student says who owns the farm and who is counted]
+In your mind's eye: a tenant farm in old Iceland, with the farmer's family and servants, and a census writer at the door. Say who owns the farm and who is counted.
 
 ## Sub lesson 2 — The 1703 census counts them all
 

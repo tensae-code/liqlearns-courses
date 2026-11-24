@@ -8,7 +8,7 @@ Cities swelled faster than they could govern themselves. Migrants and immigrants
 
 Cities swelled faster than they could govern themselves — housing, water, disease and corruption all outrunning city hall. The book calls them growing pains: the pain was real, and so was the growth.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — The Great Migration and new immigration remake the cities
 

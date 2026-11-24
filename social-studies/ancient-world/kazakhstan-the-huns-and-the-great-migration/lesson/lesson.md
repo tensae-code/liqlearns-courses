@@ -8,103 +8,103 @@ Before you read on, hold this lesson's one thing in mind: Chinese chronicles rec
 
 Chinese chronicles record the Hunnu empire pressing on China's wall
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §47 Hunnu economy, social and state order
 
 the shanyu rules a confederation of herder-warriors from a mobile court
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — §48–49 The Great Migration of peoples
 
 Hun horsemen roll west and push whole peoples across Eurasia, redrawing its map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — 5.1 The unification of the Hun tribes
 
 Mode Shanyu welds the Hun tribes into one empire north of China
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — 5.2 The Huns and neighbouring states
 
 the Hun empire treats, trades and wars with China and its steppe neighbours
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — 5.3 The Huns' migration to the West
 
 Hun bands roll west across Kazakhstan toward Europe, moving peoples before them
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — 5.4 Attila and his conquests
 
 Attila's horde terrifies two Roman empires from his wooden capital
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — §51 Who were the Huns?
 
 the Huns ride out of the eastern steppe into world history
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — §52 Mode Tengrikut's state policy
 
 Mode builds the Hun empire with decimal army order and hard diplomacy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 10 — §53 The Huns and the Great Wall of China
 
 China walls itself against the Hun horsemen it cannot defeat
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 11 — §54 The Hun state's structure, economy and culture
 
 a shanyu, tribal wings and rich graves define the Hun state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 12 — §55 The Huns and the 'Great Migration of Peoples'
 
 Hun pressure sets Europe's peoples moving like dominoes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 13 — §56 Attila (Edil) and his campaigns to the West
 
 Attila extorts two empires and shakes Gaul and Italy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 14 — 5.1 The unification of the Hun tribes (lesson plans)
 
 Mode Shanyu's unification is staged as state-building
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 15 — 5.2 Huns' relations with neighbouring states (lesson plans)
 
 treaties, marriages and wars with China structure the lessons
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 16 — 5.3 The Huns' resettlement to the West (lesson plans)
 
 the westward migration is traced as the Great Migration's trigger
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 17 — 5.4 Attila and his conquests (lesson plans)
 
 Attila's campaigns close the Hun chapter at Europe's gates
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

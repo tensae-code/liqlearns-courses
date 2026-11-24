@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the EU, formed by trea
 
 The EU, formed by treaty on the Rewa Bridge's plaque as in Suva, becomes Fiji's sugar patron — then, after the December 2006 military coup, the European Commission axes $43 million of sugar support and opens Article 96 consultations.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

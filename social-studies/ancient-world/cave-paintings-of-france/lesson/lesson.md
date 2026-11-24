@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In a French cave paint
 
 Four schoolchildren stumble on a French cave painted 20,000–10,000 years ago with horses, aurochs and bison in mineral colours — perhaps for rituals before the hunt.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

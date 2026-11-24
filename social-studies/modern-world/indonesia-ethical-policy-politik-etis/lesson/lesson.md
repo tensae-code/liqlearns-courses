@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Shamed by the poverty 
 
 Shamed by the poverty colonialism created, the Netherlands proclaims an Ethical Policy of irrigation, emigration and education — and the schools it funds breed its own opposition.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

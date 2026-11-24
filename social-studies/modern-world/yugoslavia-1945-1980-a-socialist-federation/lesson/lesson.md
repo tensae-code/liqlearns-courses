@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Partisans' wartime
 
 The Partisans' wartime parliament becomes a socialist federation of six republics.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch.5.2 Yugoslavia 1961–1980
 
 A socialist state borrows from the West to build a consumer society of its own.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

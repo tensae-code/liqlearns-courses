@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: travellers leave poems
 
 travellers leave poems carved on Mount Tai, Song-Yuan silk and porcelain sail from Quanzhou port while spices and jewels sail in, and culture rides trade, migration and schooling down to today's media
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

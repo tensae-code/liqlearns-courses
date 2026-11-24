@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pachacuti's Inca bind 
 
 Pachacuti's Inca bind the Andes with roads and storehouses, keeping accounts on knotted cords and farming terraces no European has seen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

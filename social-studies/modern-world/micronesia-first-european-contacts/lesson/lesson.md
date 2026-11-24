@@ -10,7 +10,7 @@ In *Over Seas and Time*, first contact is not one event but many small ones. Sto
 
 And welcomes could turn hostile: in Chuuk Lagoon and Pulap, meetings soured as ships demanded provisions, and musket fire enters the islands' story. First contact, the book teaches, was face to face, island by island — wonder, trade and violence close together.
 
-[Picture slot — a picture of a tall sailing ship anchored off a small atoll, with islanders paddling out in a canoe to meet it — the student points to the two sides and says what each side wanted from the meeting.]
+In your mind's eye: a tall sailing ship anchored off a small atoll, with islanders paddling out in a canoe to meet it. The student points to the two sides and says what each side wanted from the meeting.
 
 ## Sub lesson 2 — Kapingamarangi: the first outsiders, one by one
 

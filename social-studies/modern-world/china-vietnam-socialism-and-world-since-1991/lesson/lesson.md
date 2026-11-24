@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: China and Vietnam reno
 
 China and Vietnam renovate socialism and rise, while the post-1991 world finds new tensions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part II, Lesson 12: , . 1991 — China, Vietnam and the world since 1991
 
 China and Vietnam renovate socialism and rise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

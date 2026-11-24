@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Greece says Ochi to It
 
 Greece says Ochi to Italy, beats its army in Albania, then faces Germany too and is overrun in spring 1941
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Greece in the war: the Greco-Italian war and the German invasion
 
 Ochi and the Albanian front win Greece glory; the Wehrmacht's spring invasion wins it occupation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Greece's participation in the Second World War
 
 the Ochi of 28 October 1940, victory over Italy in the Albanian mountains, then the German invasion of April 1941
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

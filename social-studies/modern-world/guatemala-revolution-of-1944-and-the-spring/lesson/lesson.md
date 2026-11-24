@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: students, teachers and 
 
 On 20 October 1944, students, teachers and young officers overthrow Ubico's successor. Then comes the spring: Arévalo builds schools, a labour code and social security; Arbenz's Decree 900 land reform touches United Fruit land — and in 1954 the army, backed by the United States, overthrows him. Guatemala's Grade 4 book teaches 1945–1954 as a democratic spring cut short.
 
-[Picture slot — a picture of 20 October 1944 crowds in Guatemala City, then Arévalo's new schools and Arbenz handing land deeds to farmers under Decree 900 — the student names the date and Decree 900.]
+In your mind's eye: 20 October 1944 crowds in Guatemala City, then Arévalo's new schools and Arbenz handing land deeds to farmers under Decree 900. Name the date and Decree 900.
 
 ## Sub lesson 2 — After the spring — Castillo Armas and Ydígoras
 

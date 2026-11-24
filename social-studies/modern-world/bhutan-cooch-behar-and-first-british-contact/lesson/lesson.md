@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Bhutan's capture of Co
 
 Bhutan's capture of Cooch Behar's raja in 1772 brings Captain John Jones's British troops south, Bhutan loses the foothill lands, exiled Desi Zhidar flees to Tibet, and the Ten Points Treaty of 25 April 1774 turns enemies into trading friends (Chapter Six, Battle of Cooch Behar and the Anglo-Bhutanese Treaty 1774)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chapter Two, Bhutan and British India (opening sections)
 
 told again at Class X depth, the Cooch Behar intervention and first clash with the East India Company end in the 1774 friendship treaty that abolishes duties on Bhutanese traders in Rangpur and opens exclusive trade (Chapter Two, Bhutan and British India (opening sections))
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ Europe dresses revolution and empire alike in Roman virtue — temples for banks
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a classicist building with Roman columns raised for a bank or parliament — the student points to Rome being used as clothing for a new age.]
+In your mind's eye: a classicist building with Roman columns raised for a bank or parliament. The student points to Rome being used as clothing for a new age.
 
 ## Sub lesson 3 — An empire style for a new Caesar
 

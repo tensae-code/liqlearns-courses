@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: three empires are comp
 
 three empires are compared side by side — Tenochtitlan, the Maya city-states and Cuzco — alike in stone building and many gods, different in language, rule and writing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Legado de las civilizaciones Mayas, Aztecas e Incas
 
 Maya calendars and glyphs, Aztec codices and Tenochtitlan itself, Inca Machu Picchu and Quechua survive as the three civilisations' living legacy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Civilizaciones indígenas de América
 
 only three peoples reach the highest, postclassic level — Maya, Aztec and Inca — and the unit studies them in turn as America's great civilisations
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

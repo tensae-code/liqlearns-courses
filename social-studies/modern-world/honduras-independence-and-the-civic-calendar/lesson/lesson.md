@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: the civic calendar gat
 
 the civic calendar gathers the births of Morazán and Valle, Independence Day and Labour Day, and a picture of the signing of the Act of Independence asks what event it shows
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 27 Nos identificamos y así celebramos
 
 1 September Flag Day, 15 September independence of Central America, 28 September arrival of the Pliegos de la Independencia, 20 July Lempira Day and 12 October arrival of the Spanish are celebrated as feasts that changed laws and authorities
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 30 Elementos de identidad nacional: fechas cívicas
 
 a dated civic year runs Honduran Women's Day (25 January), Suyapa (3 February), Afro-Honduran Day (12 April), Day of the Americas (14 April), Spanish Language Day (23 April) and the September independence feasts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -16,7 +16,7 @@ Official salons, state prizes and polished mythological and historical canvases 
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of an official salon hung with polished mythological and historical canvases — the student points to the establishment the rebels will define themselves against.]
+In your mind's eye: an official salon hung with polished mythological and historical canvases. The student points to the establishment the rebels will define themselves against.
 
 ## Sub lesson 3 — The establishment to rebel against
 

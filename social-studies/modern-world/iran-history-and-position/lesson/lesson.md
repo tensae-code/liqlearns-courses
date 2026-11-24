@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: the western neighbour 
 
 the western neighbour is surveyed as the modern Islamic Republic
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 30: The Islamic Republic of Iran
 
 the western neighbour surveyed after its revolution
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

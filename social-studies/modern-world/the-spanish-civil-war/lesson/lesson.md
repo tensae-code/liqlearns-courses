@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: a military rising beco
 
 a military rising becomes Europe's rehearsal war — Capa's falling soldier (image study), the women of the war (Storia culturale), Rosselli's Document for Italian antifascism in Spain, and the Caudillo's dictatorship (Pallottini) as its long result
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 5 §9 La guerra civile in Spagna
 
 Spain becomes Europe's ideological battlefield in arms — the rehearsal whose outcome (a forty-year dictatorship) the democracies' non-intervention helps decide
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,47 +8,47 @@ Before you read on, hold this lesson's one thing in mind: the founder's son hold
 
 the founder's son holds the empire for two decades and moves the seat of rule toward Kabul
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Lesson 8: Do you know Shah Zaman's reign programmes?
 
 Shah Zaman plans to hold the empire together as its provinces begin to pull away
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Lesson 9: How did Shah Mahmud first come to power?
 
 the Durrani princes' rivalries open the throne to Mahmud's first rise
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Lesson 10: The course of Shah Shuja's first reign
 
 Shuja's first reign plays out amid the princes' contest for the Durrani throne
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 5 — Lesson 11: The course of Shah Mahmud's second reign
 
 Mahmud returns to a throne the empire can no longer hold together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 6 — Lesson 4: Ahmad Shah Baba's successors — the reign of Timur Shah (with Shah Zaman 1793–1801 and Shah Mahmud Abdali 1801–1804)
 
 the empire passes to Timur Shah for twenty years, then to Zaman and the first Mahmud as the princes' rivalries begin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 7 — Lesson 5: The first reign of Shah Shuja (1804–1809) and the second reign of Shah Mahmud (1809–1818)
 
 Shuja and Mahmud trade the throne while the empire breaks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 8 — Lesson 6: The renewal of rivalries and disputes
 
 Durrani and Barakzai contenders multiply and the state's centre cannot hold
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 9 — Lesson 7: Transfer of power and interventions (1818–1834)
 
 power shifts among the Barakzai brothers as Persia and Britain begin their interventions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

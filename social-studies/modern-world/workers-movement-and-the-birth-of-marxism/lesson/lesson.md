@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: factory workers organi
 
 factory workers organise and strike for their rights, and Marx and Engels give their struggle a theory and a programme
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Marxism is born and spreads
 
 Marx and Engels publish the Communist Manifesto in 1848, the First International and the Paris Commune carry the workers' cause forward
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

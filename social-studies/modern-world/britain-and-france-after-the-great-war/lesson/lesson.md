@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: two victors discover v
 
 two victors discover victory's price — Britain's empire strains (Guazzaloca's Storiografia) and France rebuilds in fear of Germany — the winners' peace is already a crisis
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 1, Cap. 2 §6 Il dopoguerra dei vincitori
 
 the victors' own postwar — debts, strikes and empires to police on credit — winning proves almost as destabilising as losing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

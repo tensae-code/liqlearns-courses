@@ -8,55 +8,55 @@ Before you read on, hold this lesson's one thing in mind: Bavarian teenager Otto
 
 Bavarian teenager Otto arrives as king, Athens becomes capital, and Kolettis's Great Idea points the little kingdom at all the unredeemed Greeks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Unit D, ch. 2 The reign of George I — Charilaos Trikoupis
 
 a Danish prince takes the throne, the Ionian Islands are gained, and Trikoupis modernises with railways, the Corinth Canal and chronic debt
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Unit D, ch. 3 Revolutionary movements in Macedonia and Crete
 
 Cretans rise again and again for union, and Macedonia's Greeks arm as the Balkan nations circle the dying empire
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Unit D, ch. 4 Greece at the end of the 19th century
 
 Thessaly gained, then bankruptcy in 1893 — a small, poor, proud state of schools, emigrants and irredentist dreams
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Unit D exercise dossier (Greece in the 19th century)
 
 events sorted between the 1844 and 1864 constitutions and the Ionian union, cities matched to their cultural institutions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — §18 From Otto's arrival (1833) to 3 September 1843
 
 a Bavarian court rules without a constitution until soldiers and people in the square demand one
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — §19 From 3 September 1843 to Otto's expulsion (1862)
 
 constitutional monarchy, the Crimean humiliation at Piraeus, and a dynasty that never learns Greek politics
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — §20 From Otto's expulsion (1862) to the Goudi movement (1909)
 
 George I, the Ionian and Thessalian gains, Trikoupis's modernisation, bankruptcy and the 1897 disaster
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 9 — §23 Greek economy and society in the 19th century
 
 currant booms and busts, emigration to America, and a peasant country slowly building towns and schools
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

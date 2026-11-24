@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Cloak fasteners shaped
 
 Cloak fasteners shaped like spectacles are cast in the age's new luxury metal, bronze, and can span 20 cm.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Esine 2: Soikea tuluskivi (oval strike-a-light, older Iron Age, found at Lapua and Kangasala)
 
 An oval stone struck for fire-making sparks, believed to guard harvest and fertility in ritual hands.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Esine 3: Pronssikattila (bronze cauldron from the Levänluhta water burial, made in the Roman world, Merovingian c. 550–800)
 
 A precious Roman-made cauldron ends up in an Ostrobothnian pond used as a burial place, one of only three known in the area.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

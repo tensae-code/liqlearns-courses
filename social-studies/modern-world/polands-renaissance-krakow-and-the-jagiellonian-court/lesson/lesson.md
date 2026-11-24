@@ -16,7 +16,7 @@ Italian architects rebuild Wawel with an arcaded courtyard, and the Sigismund Ch
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of Wawel's arcaded courtyard and the Sigismund Chapel — the student points to the Italian forms standing in Kraków.]
+In your mind's eye: wawel's arcaded courtyard and the Sigismund Chapel. The student points to the Italian forms standing in Kraków.
 
 ## Sub lesson 3 — The style spreads through Poland
 

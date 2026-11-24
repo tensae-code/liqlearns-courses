@@ -8,22 +8,22 @@ Before you read on, hold this lesson's one thing in mind: stone-age and metal-ag
 
 stone-age and metal-age traces lead to the first Lao mueang — Sikhottabong, Vientiane and the other old towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Part III, Lesson 9: Archaeological traces in Laos
 
 stone tools, bronze and the Plain of Jars prove people have made history on Lao soil since deep prehistory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 3 — Part II, Lesson 5: Archaeological traces and ancient Lao towns
 
 stone-age and metal-age finds lead to the first Lao mueang — Sikhottabong, Vientiane and the other old towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 4 — Part III, Lesson 9: Archaeological traces in Laos
 
 Laos's deep past in stone, bronze and jar
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: criollo–peninsular c
 
 criollo–peninsular conflict inside; outside, US independence, the French Revolution, Spain's 1820 liberal revolution and the Plan de Iguala pushed the Captaincy toward 15 September 1821
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — the Bourbon Reforms and criollo exclusion
 
 Spain's Bourbon Reforms tried to recover the colonies while criollos stayed politically marginalised despite their wealth and Spanish blood — the grievance that turned colonies toward independence
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

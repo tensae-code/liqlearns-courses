@@ -8,25 +8,25 @@ Before you read on, hold this lesson's one thing in mind: As a Dutch colony Suri
 
 As a Dutch colony Suriname is at war; Germans are interned, the German ship Goslar is scuttled in the Suriname river, defences and a militia are organised, imports fail, and bauxite earnings leave the colony able to pay its own way (De Tweede Wereldoorlog in Suriname)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Oorlog met Duitsland
 
 The book defines world war, sets out 1939–45, and brings the war home: as a Dutch colony Suriname is at war with Germany (Oorlog met Duitsland)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — De veiligheid in ons land
 
 Governor Kielstra orders blackout from 7pm to 7am, dark curtains and air-raid shelters against a German attack that never comes (De veiligheid in ons land)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — De bauxietindustrie in ons land
 
 War cuts imports and queues lengthen in Paramaribo, yet scarcity sparks local production — small farmers, shoemakers, tailors, lemonade factories — while bauxite booms for the Allied war effort (De bauxietindustrie in ons land)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

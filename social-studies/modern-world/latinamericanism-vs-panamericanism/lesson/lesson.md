@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Bolívar's and Martí'
 
 Bolívar's and Martí's unity-from-below is set against Washington's unity-from-above; two projects for one continent fight through the century
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

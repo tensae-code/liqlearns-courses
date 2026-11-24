@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Where people live is i
 
 Where people live is itself a history. Settlements grow — village to town to city — each stage laid over the last. The pattern on today's map is not an accident; it is the deposit of everything that came before, and reading it is reading Zimbabwe's past.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

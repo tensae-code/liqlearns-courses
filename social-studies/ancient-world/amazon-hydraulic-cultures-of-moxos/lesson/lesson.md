@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: In the Llanos de Moxos
 
 In the Llanos de Moxos a hydraulic culture of raised fields and lomas settles from the 4th c. BC to the 13th c. AD — Moxos, Baures, Casarabes, Takanas, Mosetenes and Tsimanes purify water with the tapore plant (Culturas hidráulicas amazónicas)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Culturas hidráulicas amazónicas
 
 Teacher-compendium unit on the Moxos hydraulic cultures, same arc as the student text (Año 2: Culturas hidráulicas amazónicas)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

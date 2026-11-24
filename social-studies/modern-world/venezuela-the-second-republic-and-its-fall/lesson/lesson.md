@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The patriots win a sec
 
 The patriots win a second republic and lose it again — victory and collapse teach that proclaiming is not the same as holding
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Second Republic; the war continues for the Republic's restoration
 
 Bolívar's Admirable Campaign wins a second republic, Boves's llanero war destroys it, and the fight goes on from exile and the east
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

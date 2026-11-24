@@ -8,7 +8,7 @@ A revival fired a generation. Out of its fire came communes, temperance pledges,
 
 The Second Great Awakening's revival preaching fired a generation of reformers. If souls could be perfected, why not society? Reform became a religious duty carried into every corner of American life.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Communes, temperance and health reform
 

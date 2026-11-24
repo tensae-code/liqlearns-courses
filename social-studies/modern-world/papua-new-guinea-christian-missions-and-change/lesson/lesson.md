@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Missions arriving from
 
 Missions arriving from the mid-1800s settle region by region until whole provinces belong to the first church that came; commentators say the missions changed marriage, dress, schooling and belief more deeply than the government ever did
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Religion and change in the Pacific
 
 Region-wide, the missions' handwriting is everywhere — a church in every settlement, church schools and health services, and Christian practice woven into marriage, childrearing, dress, art, government and farming
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

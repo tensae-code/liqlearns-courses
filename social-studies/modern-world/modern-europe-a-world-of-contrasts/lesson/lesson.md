@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: synthesis — most Eur
 
 synthesis — most European states trace their present structures to this age of contrasts; Millet's gleaners and O'Connor's evening London close the book's two worlds
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

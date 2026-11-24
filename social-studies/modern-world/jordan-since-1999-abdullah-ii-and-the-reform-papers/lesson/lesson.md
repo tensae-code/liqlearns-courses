@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Abdullah II takes the 
 
 Abdullah II takes the oath on 7 February 1999; the 14th parliament (2003–2007) seats the first women's quota of six; the National Centre for Human Rights opens in 2002 and the National Agenda launches in 2005; the king's Discussion Papers invite the nation to argue its democratic road; after the royal committee of 26 April 2011 the constitution gains a Constitutional Court and an Independent Election Commission, and the 2015 Decentralisation Law elects governorate councils
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

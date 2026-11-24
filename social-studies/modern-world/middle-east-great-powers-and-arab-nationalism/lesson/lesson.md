@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Great Powers carve
 
 The Great Powers carve up the post-Ottoman Middle East after 1918, fight over it again in the Second World War, and European imperialism's end leaves the Middle East conflict
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Rise of Arab nationalism in the 20th century
 
 Arab nationalism rises against foreign tutelage and becomes the region's driving political force
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Chinese general Xu Shu
 
 Chinese general Xu Shuzheng abolishes Mongolia's autonomy in 1919; then Baron Ungern's White troops take Urga in 1921 — occupation answers occupation
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. II.3 The fate of Mongolia's independence
 
 Chen Yi's 64 demands and Xu Shuzheng's troops abolish autonomy in 1919; Mongolia's leaders split over submission while the secret circles form
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

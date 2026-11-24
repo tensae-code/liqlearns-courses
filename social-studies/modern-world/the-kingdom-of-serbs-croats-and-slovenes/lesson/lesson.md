@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: A new South Slav kingd
 
 A new South Slav kingdom is assembled from a victorious Serbia and the ruins of two empires.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

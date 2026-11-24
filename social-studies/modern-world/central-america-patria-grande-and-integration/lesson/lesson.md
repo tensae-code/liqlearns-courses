@@ -8,31 +8,31 @@ Before you read on, hold this lesson's one thing in mind: every integration atte
 
 every integration attempt tries to revive Morazán's Federation dream and has failed as union, yet Esquipulas (Cerezo, Azcona) births SICA and the Central American Parliament as regional institutions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 14 América Central, mi patria grande
 
 Centroamérica is a historical term — the five Federation countries — while América Central is the geographic isthmus of seven, Panama once part of Colombia; the distinction itself is a history lesson
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Lección 32 La integración de América Central
 
 SICA summits of heads of state pursue a region of peace, liberty, democracy and development — integration as a present-day political project with a Federation past
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — Lección 31 Bloques de integración en América
 
 NAFTA, SICA, CARICOM, MERCOSUR and CAN map a continent organising into blocs for trade, technology and bargaining power
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — the integration blocs
 
 the 20th century answered fragmentation with blocs — the Central American Common Market (planned since 1951), the Andean Community (1969) and Mercosur (1991) — while US modernisation arrived as the Alliance for Progress
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

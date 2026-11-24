@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: against taxes, forced 
 
 against taxes, forced labour and abuse, resistance runs from daily refusal to armed rising; Túpac Amaru, Cuauhtémoc and Nicaragua's own Diriangén lead it, and Las Casas denounces the abuses to the Crown
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La Resistencia Indígena
 
 Enriquillo and Hatuey in the Antilles, Urracá in Panama, Tecum Umán among the Maya and Tenochtitlan's three-month siege symbolise a resistance that never accepted conquest
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

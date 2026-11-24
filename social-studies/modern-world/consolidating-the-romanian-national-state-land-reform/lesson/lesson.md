@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the agrarian reform co
 
 the agrarian reform confiscates 66.1% of estates over 100 ha and gives land to 1.4 million peasant families; Halippa's Peasant Party carries Bessarabia's politics into the united state
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

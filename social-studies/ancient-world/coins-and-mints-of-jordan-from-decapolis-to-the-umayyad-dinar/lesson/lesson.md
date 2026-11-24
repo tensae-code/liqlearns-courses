@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: from barter to numisma
 
 from barter to numismatics — Rome lets the Decapolis cities strike their own copper and bronze, stamped with the city's name and Latin values; the first Muslims keep Byzantium's gold dinar and Persia's silver dirham, then arabise them step by step (Umar adds "alhamdulillah", Uthman "Allahu akbar", Mu'awiya writes his name even in Pahlavi); Abd al-Malik puts his own image where the emperor's stood, then strikes the pure Islamic dinar in 77 AH/696; the little copper fals (from Latin follis, "money-bag") serves daily trade, and Amman and Jerash work as mints
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

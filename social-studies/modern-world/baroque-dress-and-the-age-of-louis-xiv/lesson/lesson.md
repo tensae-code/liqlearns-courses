@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: lace, ribbons and high
 
 lace, ribbons and high heels at the court of the Sun King turn clothing into an instrument of absolute monarchy
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

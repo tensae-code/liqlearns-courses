@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the peoples of the gre
 
 the peoples of the great empires enter national rebirth, form parties, and road-building and science remake economy and daily life together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

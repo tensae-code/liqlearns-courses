@@ -10,7 +10,7 @@ Turkey's Grade 9 book closes with the first great Turkish-Islamic empire. The Se
 
 The book's beat keeps the scale honest: a clan of Oghuz Turks defeats the Ghaznavids and inherits the caliphate's protection — the steppe's grandchildren now hold Islam's centre.
 
-[Picture slot — a picture of the Seljuk world — a sultan's court with his vizier, and a Nizamiyya madrasa where students gather under its arches — the student points to the madrasa and says what an empire gains by building schools.]
+In your mind's eye: the Seljuk world — a sultan's court with his vizier, and a Nizamiyya madrasa where students gather under its arches. The student points to the madrasa and says what an empire gains by building schools.
 
 ## Sub lesson 2 — Government and society — sultan, vizier, iqta and the Nizamiyya madrasas
 

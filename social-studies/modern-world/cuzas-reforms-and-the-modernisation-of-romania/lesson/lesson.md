@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Cuza's coup clears the
 
 Cuza's coup clears the way for the August 1864 rural law that makes the clăcași full owners; folklore remembers a prince who "walked just like us"
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

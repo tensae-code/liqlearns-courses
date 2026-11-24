@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The coffee-and-banana 
 
 The coffee-and-banana agro-export model that built the nation-state enters repeated crisis in the first half of the 20th century (Unidad II, Tema 1-A: Las crisis del modelo agroexportador)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Sub lesson 2 — La crisis del modelo agroexportador (Porras y Gamboa)
 

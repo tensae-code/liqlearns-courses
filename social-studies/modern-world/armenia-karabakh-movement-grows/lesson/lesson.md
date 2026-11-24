@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Karabakh Committee
 
 the Karabakh Committee leads strikes and rallies, Moscow arrests its members, and the December 1988 earthquake strikes a society already in upheaval
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

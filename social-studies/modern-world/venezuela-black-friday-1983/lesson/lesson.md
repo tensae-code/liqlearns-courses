@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The bolívar's 1983 co
 
 The bolívar's 1983 collapse ends the rich-Venezuela story and Lusinchi inherits a debt he refinances on the creditors' terms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Governments of Herrera Campíns and Lusinchi (1979–1989)
 
 Spending, debt and Black Friday 1983 break the rich-Venezuela story inside the democratic period itself
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

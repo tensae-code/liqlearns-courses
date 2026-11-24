@@ -8,7 +8,7 @@ Cars, radio and movies mass-produced a new way of life. A young generation flout
 
 Prosperity mass-produced cars, radio and movies — the same songs, films and advertisements reaching a whole nation at once. The 1920s invented mass culture while Republican ascendancy governed the boom.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — A new generation flouts the old rules
 

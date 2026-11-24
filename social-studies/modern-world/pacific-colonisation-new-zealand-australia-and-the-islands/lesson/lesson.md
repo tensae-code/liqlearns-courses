@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Māori and British sig
 
 Māori and British sign Waitangi in 1840 making New Zealand a colony; Aboriginal Australia is taken with Cook's 1770 landing and the 1788 convict fleet to Botany Bay; Fiji and Kiribati are ruled by Britain, Samoa by Britain and New Zealand — children weigh colonisation's positive and negative effects country by country.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Communal indigenous la
 
 Communal indigenous lands gain foreign owners, enslaved people rebel, colonists bring cattle, Spain imposes mercantilism and pirates raid the coasts
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — When private property appeared in Our America; the encomienda
 
 Communal land becomes private property and the encomienda turns indigenous labour into a grant — a new way to exploit the worker
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Alexander's generals c
 
 Alexander's generals carve his empire into Seleucid, Ptolemaic and other kingdoms, and Alexandria's Museum, Library and Lighthouse make it the world's classroom
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Sample lesson: Lesson 22, the Hellenistic world
 
 the guide's model lesson tells Alexander's ten-year conquest, then turns it home — Armenia freed from Persia, Greek language in Armenian official writing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Theme 3 §3: Hellenism as the merging of Greek and Eastern civilisations
 
 Alexander's conquests fuse Greek language and art with Egypt and Persia, and Alexandria becomes the ancient world's brain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

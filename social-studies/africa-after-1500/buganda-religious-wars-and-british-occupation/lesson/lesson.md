@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Kabaka Mwanga's Bugand
 
 Mwanga kills Bishop Hannington and tries to balance Muslims and Christians. The parties fight three civil wars, and Lugard's company army settles who rules.
 
-[Picture slot — a picture of Buganda's court divided into rival parties, with a company officer arriving — the student names the parties, the wars and Lugard's role.]
+In your mind's eye: buganda's court divided into rival parties, with a company officer arriving. Name the parties, the wars and Lugard's role.
 
 ## Sub lesson 2 — The Baganda as agents of occupation
 

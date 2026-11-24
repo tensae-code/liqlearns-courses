@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Three exile movements 
 
 Three exile movements merge into one front — FRELIMO — so a united Mozambican people can fight Portuguese colonialism together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The exile movements — UDENAMO, UNAMI and MANU
 
 Beyond the PIDE's reach, Mozambican workers in neighbouring countries build the first exile movements — UDENAMO (1960), UNAMI (1961) and MANU (1961) — whose seed becomes FRELIMO
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The creation of FRELIMO
 
 The nationalist peak is unification — the diverse forces of the early 1960s merge into a single movement, FRELIMO
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

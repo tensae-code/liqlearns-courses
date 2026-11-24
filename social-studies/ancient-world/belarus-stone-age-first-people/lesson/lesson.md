@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Neanderthals and then 
 
 Neanderthals and then Cro-Magnons hunt reindeer and mammoth at the glacier's edge, leaving flint scrapers at Berdyzh and Yurovichi
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Settlement after the ice — the post-glacial period
 
 As the ice retreats ~10,000 years ago, hunters and fishers follow the rivers north and settle the whole land
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Hajj pilgrims, Nawawi 
 
 Hajj pilgrims in batik sarongs, Nawawi al-Bantani's Qur'an commentary written in Mecca, Gandhi, Sun Yat-sen and Rizal, and Indonesian students founding Perhimpunan Indonesia in the Netherlands wire the archipelago into Asia's anti-colonial awakening.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

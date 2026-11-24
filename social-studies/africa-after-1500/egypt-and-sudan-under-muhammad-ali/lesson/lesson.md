@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Muhammad Ali drives in
 
 Muhammad Ali drives into Sudan to widen Egypt's borders, crush the Mamluks who fled there and recruit soldiers; Ismail Pasha takes Sennar in 1821, his father inspects the gold country in 1838, and Salim Bey sails the White Nile toward the equatorial lakes; Khartoum rises as a capital with shipyard, hospital and factories and Sudanese students come to al-Azhar — until the Treaty of London in 1840 and the firman of 1841 fence the expansion in.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Egypt's role under Muhammad Ali's successors
 
 Khedive Ismail pushes the Egyptian flag to Lakes Albert and Victoria and the Somali coast, maps the continent in the Khedivial map of 1877, and builds schools, railways, telegraph lines and the Khartoum post office — but debt, crisis and foreign officials such as Gordon hollow the project out and open the road to Britain.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

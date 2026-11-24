@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Greek philosophy, thea
 
 Greek philosophy, theatre, sport and building pass through Rome into the foundations of the West
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

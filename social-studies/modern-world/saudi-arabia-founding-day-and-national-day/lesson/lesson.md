@@ -10,7 +10,7 @@ The Saudi Arabia Grade 4 book teaches the national days inside Unit 1, the Citiz
 
 Founding Day remembers the beginning: Imam Muhammad bin Saud founds the Saudi state in 1727 — 1139هـ in the Hijri count the book gives beside it. The book stresses the depth of it: roots more than 300 years deep. The state a Saudi child belongs to did not begin with the modern kingdom; it began in 1727.
 
-[Picture slot — a picture of two flags flying over a Saudi town, one above an old mud-brick street dated 1727 and one above a modern city dated 1932 — the student points to each flag and says which day it stands for and what happened in that year.]
+In your mind's eye: two flags flying over a Saudi town, one above an old mud-brick street dated 1727 and one above a modern city dated 1932. The student points to each flag and says which day it stands for and what happened in that year.
 
 ## Sub lesson 2 — National Day, 1932
 

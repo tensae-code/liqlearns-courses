@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: secret societies and C
 
 secret societies and Carbonari rise in Spain, Naples and Piedmont; Greece wins independence, Paris raises barricades again in 1830 and Belgium and Poland follow
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Modulo 4, Cap. 11 §§4–7 The revolutionary movements of 1820–21; Greek independence; The revolutionary movements of 1830–31; Liberalism and authoritarianism
 
 Carbonari, Greek freedom and the July days — Billington's secret societies (Fare storia) wire the conspiracies together
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

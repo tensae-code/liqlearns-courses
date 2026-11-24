@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: from the 11th to the 1
 
 from the 11th to the 17th century, with no central authority to stop them, Tibetan masters of Nyingma, Kagyu, Sakya and Geluk offshoots settle valley by valley, until Nyingma and Drukpa Kagyu absorb or outlast the rest and Drukpa Kagyu becomes the state religion (Chapter One, Arrival of Buddhist Traditions in Bhutan)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Cross and Cargill are 
 
 Cross and Cargill are received at Lakeba in 1835, Hunt and Lythe follow, four Wesleyan stations stand by 1840, and conversion works through chiefs; explorer Wilkes meanwhile wins Tanoa of Bau's promise to protect foreign ships and crews.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — 4.3 Emergence of religious groups in Fiji
 
 After the Battle of Kaba in 1854 Cakobau's conversion secures Methodism's advance, cession follows in 1874, Catholic missionaries arrive, and Hinduism and Islam come with the girmitiya — Hindus and Muslims cooperating at festivals despite prejudice.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

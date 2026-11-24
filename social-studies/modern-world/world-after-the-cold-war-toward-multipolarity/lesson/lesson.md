@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: one superpower remains
 
 one superpower remains, but Europe, Japan, China and others pull the world toward many poles amid regional wars
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Multipolarity and economic globalisation
 
 after 1991 many centres grow at once while globalisation binds production, trade and finance into one web — with backlashes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

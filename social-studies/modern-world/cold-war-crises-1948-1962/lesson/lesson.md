@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Berlin blockade is
 
 the Berlin blockade is beaten by an airlift of coal and candy; Korea splits at the 38th parallel in a war that never formally ends; the Wall goes up in 1961; and in October 1962 Soviet missiles in Cuba bring Kennedy and Khrushchev — and the world — to the edge, before the quiet bargain over Turkey steps it back
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

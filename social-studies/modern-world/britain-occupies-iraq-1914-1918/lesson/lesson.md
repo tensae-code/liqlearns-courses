@@ -8,12 +8,12 @@ Before you read on, hold this lesson's one thing in mind: Indian forces land bel
 
 Indian forces land below Abadan in 1914, are besieged at Kut, then take Baghdad and finally Mosul as the Mudros armistice is announced on 31 October 1918
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 ## Sub lesson 2 — Ch.3 Iraq during and after the First World War
 
 British interests, invasion, occupation and the mandate settlement are retold at full length
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

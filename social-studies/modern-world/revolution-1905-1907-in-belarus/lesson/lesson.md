@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: pupils flag the Octobe
 
 Pupils flag the October and December all-Russian political strikes, the towns where demonstrators were shot, the illegal teachers' congress and the towns hit by pogroms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

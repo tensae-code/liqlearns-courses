@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Blaga and Noica philos
 
 Blaga and Noica philosophise, Brâncuși sculpts, Băncilă paints the 1907 revolt, and the first Romanian animation, Haplea, reaches the screen
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

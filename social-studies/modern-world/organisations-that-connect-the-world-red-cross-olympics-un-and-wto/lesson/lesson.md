@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: a knitted world needs 
 
 a knitted world needs referees — the Red Cross (1863) for war's wounded, the revived Olympics (1896) for peaceful rivalry, then the UN, UNESCO, UNICEF and the WTO for a planet that trades and argues in minutes
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

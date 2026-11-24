@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: European fleets blocka
 
 European fleets blockade the ports to collect debts by force; the Drago Doctrine answers that public debt can never justify armed intervention, settled at Washington in 1903
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — A December of cannon fire: 1902
 
 In December 1902 foreign warships blockade Venezuela violently over its debts, and a child of the time hears the guns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The blockade of Venezuelan coasts, 1902
 
 British, German and Italian warships blockade the coasts to collect debts by force, the crisis that produces the Drago answer
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

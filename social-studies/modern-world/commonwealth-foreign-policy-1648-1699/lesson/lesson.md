@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Pereyaslav in 1654 bri
 
 Pereyaslav in 1654 brings Moscow's war and the Swedish Deluge, Andrusovo in 1667 splits Ukraine, and Sobieski's Vienna victory in 1683 makes him Europe's shield
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

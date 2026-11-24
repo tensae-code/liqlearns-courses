@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the 'wonder of the wor
 
 the 'wonder of the world' rules a modern state from Palermo and fights popes and communes; after his death his heirs fall at Benevento and Tagliacozzo and Angevin Frenchmen take the South
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — L'impero e il Mezzogiorno d'Italia dopo la morte di Federico II; Il Vespro siciliano (Eventi)
 
 Frederick's Liber Augustalis (DOC) orders the South; a generation later the Sicilian Vespers (1282) throw out the Angevins and split the island from Naples
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

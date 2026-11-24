@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Provinces hang from th
 
 Provinces hang from the Real Audiencia until the 1786 Real Audiencia de Caracas unifies them — one territory is assembled by royal paperwork
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Political-territorial organisation of Our America
 
 Captaincies, audiencias and provinces draw the colonial map whose lines the republics will inherit
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

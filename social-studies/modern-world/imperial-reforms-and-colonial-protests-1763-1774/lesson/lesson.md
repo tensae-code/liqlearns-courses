@@ -8,7 +8,7 @@ Britain won its war and sent the colonies the bill. Eleven years of taxes, boyco
 
 Britain's war debt brought new imperial reforms — above all the Stamp Act, a tax laid directly on the colonies. Colonists who had cheered the victory now faced paying for it, without a voice in the Parliament that taxed them.
 
-[Picture slot — a picture of the world of this lesson as the book shows it: point to the picture and say what changed in this part of the story.]
+In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
 ## Sub lesson 2 — Boycotts, the Townshend Acts and the Boston Tea Party
 

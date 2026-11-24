@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The Guaraní seek Ivy 
 
 The Guaraní seek Ivy Marei, the Land Without Evil; their tenta communities are led by a Mburuvicha, and the Tenta Guasu by the Mburuvicha guasu, under the law of freedom (yeyora) (Los Guaraníes)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Año 2: Los Guaraníes
 
 Teacher-compendium unit on the Guaraní, same arc as the student text (Año 2: Los Guaraníes)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

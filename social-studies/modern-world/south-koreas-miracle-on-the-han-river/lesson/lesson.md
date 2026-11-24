@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Cold War splits Ko
 
 the Cold War splits Korea in 1945; the North invades in 1950; from the ashes — and from 80% illiteracy in 1945, after Japanese rule forbade Koreans their own Hangul letters — Seoul plans, borrows and builds for three decades into the "Miracle on the Han River"; Jordan's ties date to 1962, a Korean embassy opens in Amman in 1975, and King Abdullah II's 2015 visit seals more than twenty-four agreements
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

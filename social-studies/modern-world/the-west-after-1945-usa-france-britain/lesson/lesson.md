@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: America fights in Kore
 
 America fights in Korea and Vietnam, signs peace in 1973 and is shaken by Watergate; Mitterrand nationalises and shortens the week, Thatcher breaks the miners and accepts mass unemployment
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Tema 30: State democratice în perioada postbelică
 
 Truman inherits Roosevelt's course and launches containment; de Gaulle returns on the Algerian war and proposes the 1958 constitution; women win legal ground against job discrimination yet rarely reach the top — Japan has never had a woman prime minister
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

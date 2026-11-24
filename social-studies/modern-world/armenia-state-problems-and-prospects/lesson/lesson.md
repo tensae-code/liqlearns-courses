@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: security after 2020, d
 
 security after 2020, demographics, corruption and the unfinished Karabakh question — pupils close by debating the state's development vision
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 8: history and the future; the vision of the state's development
 
 the course closes by turning pupils from the past to the state's present problems and its possible futures
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

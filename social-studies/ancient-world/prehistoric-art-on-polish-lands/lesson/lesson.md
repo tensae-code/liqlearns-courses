@@ -16,7 +16,7 @@ The caves, amber-working and early settlements of the Polish lands carry the ear
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a cave wall, worked amber and an early settlement on Polish land — the student points to each and says which turn in the story it shows.]
+In your mind's eye: a cave wall, worked amber and an early settlement on Polish land. The student points to each and says which turn in the story it shows.
 
 ## Sub lesson 3 — The same turns, in our own ground
 

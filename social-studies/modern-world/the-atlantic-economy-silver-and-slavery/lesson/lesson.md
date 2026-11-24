@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: American silver floods
 
 American silver floods Europe while enslaved Africans are shipped to mine and plant — the gold and silver of the Americas build a developing economy-world across the Atlantic.
 
-[Picture slot — a picture of a ship unloading silver in Europe on one side and enslaved Africans being shipped to the Americas on the other, with the French ports of Nantes and Bordeaux marked — the student says what flowed each way and who paid the human cost]
+In your mind's eye: a ship unloading silver in Europe on one side and enslaved Africans being shipped to the Americas on the other, with the French ports of Nantes and Bordeaux marked. Say what flowed each way and who paid the human cost.
 
 ## Sub lesson 2 — The French ports grow rich
 

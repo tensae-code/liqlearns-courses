@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Before the colony, mot
 
 Before the colony, motherhood and fatherhood carried their own honoured roles. The lesson restores the pre-colonial family as a world that worked — not a broken thing waiting to be fixed, but a family order with its own values, in which mother and father each held a place of honour.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

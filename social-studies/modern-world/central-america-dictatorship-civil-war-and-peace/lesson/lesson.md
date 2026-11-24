@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the 1929 crash breaks 
 
 the 1929 crash breaks the banana-and-coffee economies and dictators rise — Ubico (1931–1944) in Guatemala, Hernández Martínez in El Salvador, whose answer to a rising is La Matanza of 10,000–30,000 including Farabundo Martí, Carías in Honduras, Somoza in Nicaragua — all keeping power by armies, rewritten laws and US companies' support
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Lección 27: los acuerdos de paz
 
 Costa Rica, army-free since 1949, leads the way out — Esquipulas (1987), Chapultepec for El Salvador (1992), Guatemala's final peace (1996); guerrillas (FSLN, FMLN, URNG) disarm and become legal parties that later win power
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

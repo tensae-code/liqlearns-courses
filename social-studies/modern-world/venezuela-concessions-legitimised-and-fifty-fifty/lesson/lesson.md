@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A famous gusher announ
 
 A famous gusher announces Venezuela's wealth to the world, the 1943 Hydrocarbons Law orders the giveaway, and the 1948 fifty-fifty split is exposed as a white elephant
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — When our black gold gained commercial importance
 
 Under Gómez the concessions expand, the state lives off oil rent, and Venezuela becomes an oil country in fact
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

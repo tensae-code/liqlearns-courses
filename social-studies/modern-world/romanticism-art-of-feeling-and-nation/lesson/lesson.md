@@ -16,7 +16,7 @@ Goya paints war's madness and monsters of sleep, and French romantics fill canva
 
 This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
 
-[Picture slot — a picture of a Romantic canvas of a shipwreck or a revolution — the student points to the feeling carrying the picture, not calm reason.]
+In your mind's eye: a Romantic canvas of a shipwreck or a revolution. The student points to the feeling carrying the picture, not calm reason.
 
 ## Sub lesson 3 — The voice of nations
 

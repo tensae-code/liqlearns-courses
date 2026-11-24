@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: britain defeated Italy at K
 
 Britain defeats Italy in 1941 and rules Eritrea as an occupied territory for eleven years while Eritreans organise for their own future.
 
-[Picture slot — a picture of the key place or moment of Eritrea — British military administration as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — British military administration as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — British Colonial Administration (Occupation)
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: abroad, the Tâm Tâm 
 
 abroad, the Tâm Tâm Xã society in Canton (1923) attempts to assassinate Governor-General Merlin at Sa Điền (1924) while Phan Châu Trinh works through the Association of Patriotic Vietnamese in France (1919); at home the Constitutional Party (1923) campaigns in Saigon, crowds boycott monopolies and demand "Vietnamese use Vietnamese goods" (1919), and mass movements demand freedom for Phan Bội Châu (1925) and Nguyễn An Ninh (1926) and fill the streets for Phan Châu Trinh's funeral (1926)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Bài 5, the workers enter the struggle
 
 Hải Phòng's Sác-nô sailors strike in 1919 and 600 Saigon–Chợ Lớn dyers in 1920; then, in August 1925, over a thousand Ba Son shipyard workers under Tôn Đức Thắng strike and stop a French warship carrying troops against the Chinese revolution — the milestone, quoted from historian Đinh Xuân Lâm, where Vietnamese workers enter organised struggle with a clear political purpose; from 1926 organised strikes spread to Mạo Khê, Trường Thi and Phú Riềng
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: An island people sprea
 
 An island people spread across an archipelago — villages, ball courts and sea paths link quisqueya's communities long before any european sail appears (Séance 2, Un territoire et une société « archipéliques »)
 
-[Picture slot — a picture of a Taïno village on Quisqueya with its ball court — the student names two things that linked the island's communities]
+In your mind's eye: a Taïno village on Quisqueya with its ball court. Name two things that linked the island's communities.
 
 ## Sub lesson 2 — The Taïno and the caciquat
 

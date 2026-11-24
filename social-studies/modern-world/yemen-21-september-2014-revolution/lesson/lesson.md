@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as taught in this book
 
 as taught in this book, crowds backed by scholars, tribal men, soldiers and students rise on 21 September 2014 to correct the path of the earlier revolutions after the 11 February 2011 revolution is, in the book's telling, hijacked and the Gulf Initiative deepens Yemenis' suffering
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

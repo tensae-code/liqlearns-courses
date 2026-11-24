@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Ottoman collapse l
 
 the Ottoman collapse leaves a Turkish republic (from 1919) that seeks Europe's door for seventy years; Iran's oil and revolution make it the region's other pivot (Ch. 3 Lesson 4, Problems of the countries of East Asia (Turkey and Iran))
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

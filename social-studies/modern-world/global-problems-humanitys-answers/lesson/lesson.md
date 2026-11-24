@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: "we do not inherit the
 
 "we do not inherit the Earth from our ancestors"; UNEP is founded to protect the environment for future generations, yet some 800 million people still suffer malnutrition
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

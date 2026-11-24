@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Tank civilisation fade
 
 Tank civilisation fades as capitals chase safety, paddy gives ground to cinnamon, pepper and arecanut for export, and caste and family life carry on in new towns
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

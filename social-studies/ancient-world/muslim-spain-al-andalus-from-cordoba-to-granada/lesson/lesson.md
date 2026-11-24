@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A refugee Umayyad prin
 
 A refugee Umayyad prince refounds his dynasty at Cordoba, the caliphate shatters into taifa kingdoms, and Granada survives alone as the last Muslim state in Spain
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The fall of Granada and the expulsion of the Muslims from al-Andalus
 
 In 1492 Granada surrenders, eight centuries of Muslim Spain end, and its people are expelled across the sea to North Africa
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

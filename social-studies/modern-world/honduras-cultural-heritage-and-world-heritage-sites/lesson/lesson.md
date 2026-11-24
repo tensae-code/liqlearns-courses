@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the 1984 Heritage Law 
 
 the 1984 Heritage Law (Decree 81-84) protects colonial monuments and movable goods, and three Honduran sites hold UNESCO World Heritage status: Copán Ruins (1980), the Río Plátano Biosphere (1982) and San Marcos de Colón (2017)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

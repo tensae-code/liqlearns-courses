@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Britain skips revoluti
 
 Britain skips revolution and reforms instead — the workshop of the world at its confident height, with Mill and Taylor's Subjection of Women (book study) questioning its own order
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: In the Vajji gana, tho
 
 In the Vajji gana, thousands of rajas rule together by assembly, discussion and debate; when Ajatasattu sends his minister to ask the Buddha how to conquer them, the Buddha answers they will prosper while they meet fully and often, act together, honour elders and protect their women and shrines — the sanghas outlast kingdoms until the Guptas finally absorb them.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: cut off from the Roman
 
 cut off from the Romanian market, Bessarabia exports livestock, wine and tobacco through Noua Suliță; Russian colonisation doubles its population by 1850 and remakes its ethnic map
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — §26: Economia Basarabiei (1812–1914)
 
 an agrarian province of vines, orchards and cattle; the state leases out the Danube mouths and southern lakes, and the Heers' Sărata farm-machinery factory shows industry's first sparks
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

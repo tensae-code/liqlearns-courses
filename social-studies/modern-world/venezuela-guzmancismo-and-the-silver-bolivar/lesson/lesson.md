@@ -8,19 +8,19 @@ Before you read on, hold this lesson's one thing in mind: Guzmán Blanco builds 
 
 Guzmán Blanco builds the contemporary state on coffee money, and the fight over minting a silver bolívar shows imperial demands pressing on the new coin
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — An authoritarian, modernising president
 
 One strong president drags the country toward modernity by decree — progress and authoritarianism arrive in the same person (Guzmán Blanco)
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — Yellow Liberalism (1870–1899)
 
 Guzmán Blanco's Liberalismo Amarillo modernises by decree — order, works and a cult of the chief — for three decades
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

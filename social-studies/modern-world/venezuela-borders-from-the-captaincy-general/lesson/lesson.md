@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: The king of Spain drew
 
 The king of Spain drew the Captaincy General of Venezuela's limits, and today's land and sea borders descend from that colonial line
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Border controversies and international conflicts
 
 The young republic argues its inherited colonial borders with neighbours and empires, losing and defending territory on paper and in the field
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

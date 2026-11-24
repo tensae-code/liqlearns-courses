@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: France makes Napoleon 
 
 France makes Napoleon III; Austria-Hungary's peoples rise until the Russian tsar's army crushes them in 1849; Prussia's king dodges the constitution his people demand
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

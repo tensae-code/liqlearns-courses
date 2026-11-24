@@ -8,7 +8,7 @@ Kings leave battles; ordinary people leave festivals, food and temples. Before y
 
 Bangladesh's Grade 8 book follows Bengal's culture the way it follows a river — by its changes. Harvest festivals with dance and music mark the farming year. Temples rise over villages as faith takes built form. And century by century, food, dress, ritual and sculpture all change — each change a footprint of new peoples, new faiths and new ideas entering Bengal. Social and cultural history reads those footprints: not who ruled, but how people celebrated, worshipped, ate, dressed and built.
 
-[Picture slot — a picture of a Bengal harvest festival in an old village — dancers and musicians, a temple rising behind the houses, people in festival dress sharing food — the student points to the festival, the temple and the food and says what each shows about the people's life.]
+In your mind's eye: a Bengal harvest festival in an old village — dancers and musicians, a temple rising behind the houses, people in festival dress sharing food. The student points to the festival, the temple and the food and says what each shows about the people's life.
 
 ## Say it to your companion
 

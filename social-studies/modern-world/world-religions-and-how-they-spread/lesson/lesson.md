@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Buddhism, Christianity
 
 Buddhism, Christianity and Islam are compared as world-shaping faiths — how each arose, spread and organised its believers
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Teaching guidance for Theme 4, world religions and ideologies
 
 the guide has teachers compare the great faiths and the great "isms" as rival answers to the same question — how should people live together?
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, think about this lesson's one thing: after the Classic colla
 
 After the great Classic cities fall, Guatemala's Grade 4 book turns to the Postclassic highlands. Kingdoms rise — the K'iche' at Q'umarkaj, the Kaqchikel at Iximche', Saqulew and others, alongside Itza', Lacandón, Mam, Poqomam, Poqomchi', Q'eqchi', Tz'utujil and Lenca peoples. They fight and ally; the Kaqchikel break from the K'iche' confederation. And they write: the Popol Wuj, the Anales de los Kaqchikeles and the Rabinal Achí carry their own account of creation and kings — history in the peoples' own books, not only in conquerors' letters.
 
-[Picture slot — a picture of highland kingdom towns in the mountains, with scribes holding folded books — the student names Q'umarkaj and Iximche' and one of the books.]
+In your mind's eye: highland kingdom towns in the mountains, with scribes holding folded books. Name Q'umarkaj and Iximche' and one of the books.
 
 ## Say it to your companion
 

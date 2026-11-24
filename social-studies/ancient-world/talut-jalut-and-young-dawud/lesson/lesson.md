@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: humbled in the Levant 
 
 humbled in the Levant and robbed of the Ark, the Israelites beg their prophet for a king, then recoil when fighting is actually decreed and again when the chosen king, Talut, is a nobody without wealth; his sign is the Ark returning on angels' wings, his test is the river — drink more than a handful and fall away — and the little band that is left faces Jalut's giant army, prays, and watches the youth Dawud kill Jalut and turn the day
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

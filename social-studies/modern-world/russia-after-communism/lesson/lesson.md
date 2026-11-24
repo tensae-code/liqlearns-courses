@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: shock therapy and coll
 
 shock therapy and collapsed living standards — Medvedev's Fare storia piece counts vodka and life expectancy; Furet's book study asks what the communist idea itself left behind
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

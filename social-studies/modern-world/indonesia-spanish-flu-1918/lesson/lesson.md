@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 1918 Spanish flu s
 
 The 1918 Spanish flu sweeps the Indies along the shipping routes, and the colonial state answers with pamphlets, newspaper campaigns against pandemic hoaxes, and mass cholera vaccination on the rubber estates.
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

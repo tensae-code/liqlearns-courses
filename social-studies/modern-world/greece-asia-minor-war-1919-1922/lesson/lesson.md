@@ -8,49 +8,49 @@ Before you read on, hold this lesson's one thing in mind: the victors carve up t
 
 the victors carve up the Ottoman lands; Greece lands at Smyrna in 1919 with Allied blessing
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Greeks of western Asia Minor and Pontus
 
 ancient Greek communities of the coast and Pontus, prosperous under late Ottoman rule, are caught between two nationalisms
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 3 — The Turkish national movement
 
 Mustafa Kemal rejects the Sèvres treaty, builds an army in Anatolia and fights Greeks, French and Armenians
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 4 — The Asia Minor war (1919–1922)
 
 Greece advances to the Sakarya, stalls, and in August 1922 its front collapses; Smyrna burns and a million refugees cross the Aegean
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 5 — Greece and Turkey after the Asia Minor war
 
 the Lausanne treaty and the compulsory exchange of populations close the story; a republic is proclaimed in Greece after the king falls
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 6 — The Asia Minor war (1918–1923) and the Treaty of Lausanne
 
 from the Smyrna landing and diplomatic triumph to the 1922 collapse and the population exchange
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 7 — The Asia Minor War (1919–1922)
 
 the Greek advance to Ankara breaks at the Sakarya; the 1922 catastrophe, the burning of Smyrna and the Lausanne exchange end the Great Idea
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 8 — Theme 3 B: The Asia Minor Catastrophe — the exodus
 
 the front collapses in August 1922 and hundreds of thousands flee burning Smyrna and the interior by any boat that floats
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

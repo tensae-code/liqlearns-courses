@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Ford's assembly line s
 
 Ford's assembly line sets one cadence for every operation; NEP Russia leases state firms and licenses small private enterprise while the trusts keep the commanding heights
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Chinese porcelain and 
 
 Chinese porcelain and coins turn up in island soil, Ibn Battuta visits in 1344, Zheng He's fleet leaves a trilingual stone in 1409, and elephants, pearls and gems sail out as cloth and pottery sail in
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

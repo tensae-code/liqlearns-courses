@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: Congress declares Inde
 
 Congress declares Independence and the national flag is introduced as the daughter of the one Miranda brought
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — The Congress of 1811; a short-lived First Republic
 
 Congress declares independence in 1811, and the First Republic falls within a year to war and earthquake
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

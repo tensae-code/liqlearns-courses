@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: as empires falter, str
 
 as empires falter, strongmen seize rock fortresses — Dobromir Hrs at Prosek above the Vardar, who ambushes Emperor Alexios III's army by night and marries his way to peace; Strez, who holds Prosek after him and is murdered in his tent in 1214 (folk said Saint Sava's prayers killed him); and Alexiy Slav at Melnik, who survives twenty years by marrying into the Latin emperor's family, then switching to Epirus
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

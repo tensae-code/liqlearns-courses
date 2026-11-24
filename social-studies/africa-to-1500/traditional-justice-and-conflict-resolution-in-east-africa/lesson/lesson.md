@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Two feuding clans cut 
 
 Two feuding clans cut a sheep and a goat in half and exchange the halves, then drink the bitter herb Oput together to "wash away bitterness" — justice as a shared drink, not a verdict
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

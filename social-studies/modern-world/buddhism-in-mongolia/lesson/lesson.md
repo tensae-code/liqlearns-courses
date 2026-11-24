@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: monasteries multiply a
 
 monasteries multiply across Khalkha, the Bogd Jebtsundamba's Ikh Khüree becomes a city of temples, and a large share of men live as lamas
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Ch. 3.8 Buddhism and socialism
 
 the socialist state first taxes and restricts the monasteries, then moves to destroy them; a living church of hundreds of temples is reduced to almost none
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: six factors compound: 
 
 six factors compound: a religion whose first revealed word commands reading and makes scholars heirs of the prophets; the Arabic language, spread by Uthman's gathering of the Qur'an and Abd al-Malik's Arabising of the diwans; stable rule and competing caliphs; a vast, varied geography whose culture centres — Mecca, Alexandria, Baghdad, Sanaa, Cordoba, Jundishapur — fall inside one abode; merchant wealth and the waqf endowing schools; and inherited civilisations, Greek translation, paper and observatories
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

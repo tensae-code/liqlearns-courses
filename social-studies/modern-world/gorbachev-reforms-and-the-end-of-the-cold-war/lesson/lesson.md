@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: glasnost and perestroi
 
 glasnost and perestroika are meant to save the system and instead dissolve it — the Baltic republics walk first, a coup against Gorbachev fails in August 1991, and by Christmas the Soviet flag comes down and fifteen new states stand in its place
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

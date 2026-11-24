@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: A prince fostered at h
 
 A prince fostered at his uncle's court takes Dakkinadesa, beats Gajabahu II, survives his mother Sugala's revolt, and in 1153 rules one island
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Parakramabahu I and his successors
 
 The great unifier rebuilds a war-torn kingdom, Nissanka Malla boasts in stone, and the line weakens toward invasion
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

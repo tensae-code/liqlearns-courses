@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: The 2000 dollarisation
 
 The 2000 dollarisation follows a banking collapse and mass emigration, and a transformed Ecuador argues over oil, rights and its new constitution (Sección 4 Tema 3: Ecuador en el siglo XXI)
 
-[Picture slot — a picture of the place and people of this lesson's story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
 ## Say it to your companion
 

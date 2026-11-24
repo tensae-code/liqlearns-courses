@@ -8,7 +8,7 @@ Before you read on, think of Myanmar's long story as the guide tells it in two a
 
 From the Pyu world a new power gathers the Irrawaddy plain into Myanmar's first great empire: how the Bagan Empire emerged and became powerful.
 
-[Picture slot — a picture of the key scene of this lesson as the book teaches it: name the people and the place in the picture and say what happened there.]
+In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
 ## Sub lesson 2 — Bagan's economy, society, literature and architecture
 

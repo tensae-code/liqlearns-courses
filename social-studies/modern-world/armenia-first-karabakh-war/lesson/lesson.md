@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: from local clashes the
 
 from local clashes the conflict becomes full war; Shushi and Lachin are taken in 1992, and the 1994 Bishkek ceasefire freezes an Armenian victory
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Appendix theme guide 5: the Nagorno-Karabakh Republic between war and status quo
 
 teachers handle the 1992–94 war, the unrecognised state and the return to war in 2020 as living history pupils' families remember
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: the Đường Lâm hà
 
 the Đường Lâm hào trưởng, a strongman who could wrestle buffalo and tiger, masters his region, besieges and takes Tống Bình and rules nine years; the people later honour him as Bố Cái Đại Vương
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

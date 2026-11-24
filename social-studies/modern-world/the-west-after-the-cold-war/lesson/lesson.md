@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the victors of 1991 in
 
 the victors of 1991 integrate Europe, globalise markets and meet terrorism and financial crisis as the new century's tests
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Theme 4, Lessons 51–52: the countries of the West in the post-Cold War period
 
 with the Soviet rival gone, the Western states face unification in Europe, new wars at its edges and the question of what their victory means
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

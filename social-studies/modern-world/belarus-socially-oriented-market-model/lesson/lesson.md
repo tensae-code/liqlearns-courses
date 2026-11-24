@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: after the 1990s crisis
 
 After the 1990s crisis the "Belarusian model" of a socially oriented market economy claims falling poverty and industrial survival through state-guided gradual reform
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

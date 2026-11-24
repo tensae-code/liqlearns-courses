@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: the Saho and Afar of the ea
 
 Saho and Afar tribes, with no master-serf relations, govern themselves through elected councils of elders — until Samhar passes under the Naib family of Belau origin.
 
-[Picture slot — a picture of the key place or moment of Eritrea — Samhar, Saho, Afar and the Naibs as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Eritrea — Samhar, Saho, Afar and the Naibs as the book shows it: point to it and say what it shows.
 
 ## Say it to your companion
 

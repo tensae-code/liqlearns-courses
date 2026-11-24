@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Palestinians reject th
 
 Palestinians reject the Balfour promise and the mandate in demonstrations and strikes; al-Qassam's men open the 1936 revolt from Jaffa's general strike; America throws its weight behind Zionism, the question goes to the UN, and the PLO is founded in 1964 to lead the armed factions
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

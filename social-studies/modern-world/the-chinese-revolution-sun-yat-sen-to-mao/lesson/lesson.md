@@ -8,7 +8,7 @@ Before you read on, hold this lesson's one thing in mind: Sun Yat-sen's republic
 
 Sun Yat-sen's republic collapses into civil war; the communists, crushed in the south, survive the Long March under Mao; Japan's invasion exhausts the Nationalists while the communists win the farmers with land; in 1949 Mao proclaims the People's Republic, Chiang flees to Taiwan, and the Great Leap and the Cultural Revolution follow before the 1970 turn to reform
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

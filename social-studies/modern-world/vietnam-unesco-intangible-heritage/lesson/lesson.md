@@ -8,13 +8,13 @@ Before you read on, hold this lesson's one thing in mind: the book's timeline ru
 
 the book's timeline runs from Nhã nhạc, Huế court music, in 2003 through the Central Highlands gong culture (2005), Quan họ folk songs and Ca trù (2009), the Gióng festival (2010), Hùng Kings worship (2012), Đờn ca tài tử (2013), Ví Giặm songs (2014), tug-of-war rituals (2015), the Tam phủ Mother Goddess practice (2016), Bài chòi and Hát Xoan (2017), Then practice (2019), Xoè Thái dance (2021) and Chăm pottery (2022) to the Bà Chúa Xứ festival (2024); Hát Xoan of Phú Thọ is the rescue story — in 2017 UNESCO moves it off the urgent-safeguarding list onto the Representative List after ancient songs are collected, more than 30 Xoan clubs founded, and artists over 80 keep performing and teaching the young; the case studies go deep: Nhã nhạc, present from the Lý–Trần age, systematised under the Lê and refined under the Nguyễn (Phạm Quỳnh's awestruck account of a Huế performance is quoted); Quan họ, the antiphonal singing of the Kinh Bắc villages, whose age scholars dispute between the 11th and 17th centuries; and Đờn ca tài tử, born in the late 19th century among the settlers of the southern frontier
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Sub lesson 2 — Chuyên đề 1 Mother Goddess worship: the agricultural people's goddess cult, layered with Chinese Daoism into the Tam phủ and Tứ phủ systems — Liễu Hạnh and Mẫu Thượng Ngàn in the North, Thiên Y A Na in the Centre, Bà Chúa Xứ in the South — inscribed by UNESCO in 2016 as a Representative Intangible Heritage of humanity
 
 the rice farmer's mother-goddess ends up on the world's heritage list
 
-[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
 ## Say it to your companion
 

@@ -8,7 +8,7 @@ Before you read on, hold this question in your mind: farming pinned people to on
 
 Farming pins people to one place; in Cyprus they raise the round-house village of Choirokoitia (Khirokitia).
 
-[Picture slot — a picture of the key place or moment of Cyprus Neolithic — Choirokoitia and the first villages as the book shows it: point to it and say what it shows.]
+In your mind's eye: the key place or moment of Cyprus Neolithic — Choirokoitia and the first villages as the book shows it: point to it and say what it shows.
 
 ## Sub lesson 2 — How Neolithic people built their houses
 
