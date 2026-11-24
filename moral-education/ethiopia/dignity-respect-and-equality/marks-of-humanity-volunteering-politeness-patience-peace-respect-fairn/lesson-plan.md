@@ -1,0 +1,43 @@
+# Lesson plan — Marks of humanity — volunteering, politeness, patience, peace, respect, fairness
+
+**Course:** Moral Education — Ethiopia · **Level folder:** Level 5 — Human Dignity, Respect and Equality · **Lesson:** Marks of humanity — volunteering, politeness, patience, peace, respect, fairness
+**Place in the curriculum:** Level 5 — Human Dignity, Respect and Equality (CURRICULUM.md).
+**The one thing this lesson teaches:** The rest of the lesson's list, each defined: volunteering — serving others' benefit with your time and skill expecting no payment (pupils exchange experiences such as the Green Legacy planting, cleaning the surroundings and giving blood); politeness/gentleness (ጨዋነት) — showing respect to others, caring for a person's identity, wishes and belief without degrading them, of which humility and good behaviour are marks, and serving others with humility; brotherhood and sisterhood — groups of men, and of women, formed on shared goals and interests, including people who work or learn in the same place; patience — bearing things calmly without complaint; peace — in general social friendship and unity, the absence of suffering and of rights violations, commonly the absence of conflict or war, with inner peace (peace of mind) distinguished from outer peace between people, groups and at national level — one activity has pupils show the COVID-19-era greeting and separate peace from greeting; respect — the ability to honour and value another person, in word or deed; and fairness — reasonable and just treatment of people and applying accepted laws and principles, under which all people must be seen equally.
+**This lesson's own level:** Level 5 — Human Dignity, Respect and Equality (recommended, never forced).
+**Strand:** manners/morals — the strand the Grade 3 teacher guide itself gives this teaching (manners/morals, or constitution/civics where the guide teaches rights, law or the state inside Moral Education).
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The lesson teaches through its text first: every picture's and GIF's teaching is also in the text, so the lesson is fully learnable by listening to its text read aloud.
+
+## Sub lessons
+This lesson has distinct sequential parts, one per part below; the parts run in order inside the one lesson, with no break between steps on the lesson page.
+- The basic marks of humanity II
+- Volunteering, politeness, brotherhood, patience, peace, respect, fairness
+
+## Before this lesson
+- The levels before this one in CURRICULUM.md are recommended first — a soft hint, never a forced gate. A learner who lands here directly can start here.
+
+## What the learner can do when it ends
+1. State the lesson's one thing in their own words: The rest of the lesson's list, each defined: volunteering — serving others' benefit with your time and skill expecting no payment (pupils exchange experiences such as the Green Legacy planting, cleaning the surroundings and giving blood); politeness/gentleness (ጨዋነት) — showing respect to others, caring for a person's identity, wishes and belief without degrading them, of which humility and good behaviour are marks, and serving others with humility; brotherhood and sisterhood — groups of men, and of women, formed on shared goals and interests, including people who work or learn in the same place; patience — bearing things calmly without complaint; peace — in general social friendship and unity, the absence of suffering and of rights violations, commonly the absence of conflict or war, with inner peace (peace of mind) distinguished from outer peace between people, groups and at national level — one activity has pupils show the COVID-19-era greeting and separate peace from greeting; respect — the ability to honour and value another person, in word or deed; and fairness — reasonable and just treatment of people and applying accepted laws and principles, under which all people must be seen equally.
+2. Do the lesson's closing act (Do It Yourself, below) in a real situation.
+3. Answer the lesson's questions from the lesson, without looking back.
+
+## What you need
+Nothing but yourself — and, for the discussion and role-play acts, a companion or a small group. Nothing else.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening act of lesson/lesson.md before any explanation.
+2. **The explanation** — the lesson's parts in order (lesson/lesson.md).
+3. **Say it to your companion** — the learner explains the lesson's one thing and gives a real example (lesson/lesson.md).
+4. **Questions** — from questions/: multiple-choice, true-or-false, short-answer, fill-in-the-blank, matching — served at the learner's level (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of seven small icons matching the seven marks → the student studies the picture and names what it shows, part by part, in the lesson's own words.
+- GIF — a COVID-era elbow greeting exchanged — yes, the book's own activity → the student watches, then describes the movement in words and does the act themselves.
+
+## If the learner is stuck
+- Go back to the one thing: The rest of the lesson's list, each defined: volunteering — serving others' benefit with your time and skill expecting no payment (pupils exchange experiences such as the Green Legacy planting, cleaning the surroundings and giving blood); politeness/gentleness (ጨዋነት) — showing respect to others, caring for a person's identity, wishes and belief without degrading them, of which humility and good behaviour are marks, and serving others with humility; brotherhood and sisterhood — groups of men, and of women, formed on shared goals and interests, including people who work or learn in the same place; patience — bearing things calmly without complaint; peace — in general social friendship and unity, the absence of suffering and of rights violations, commonly the absence of conflict or war, with inner peace (peace of mind) distinguished from outer peace between people, groups and at national level — one activity has pupils show the COVID-19-era greeting and separate peace from greeting; respect — the ability to honour and value another person, in word or deed; and fairness — reasonable and just treatment of people and applying accepted laws and principles, under which all people must be seen equally. Work the Do it first act again, slowly, saying each step aloud.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to the Grade 3 teacher guide and its printed pages in lesson/sources.md. This lesson stands on a teacher guide alone — no Moral Education student book is in hand for any grade — and its sources say so plainly. Where the guide defers to the student book (a story's text, a picture, an activity's exact wording), the lesson teaches only what the guide itself carries and says so. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

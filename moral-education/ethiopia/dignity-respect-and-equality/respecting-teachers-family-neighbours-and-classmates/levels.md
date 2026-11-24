@@ -1,0 +1,5 @@
+# Respecting teachers, family, neighbours and classmates — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The remaining named respects, each with its own small-group activity (2.8–2.11): respecting teachers — pupils express appreciation for teachers they see as good examples; respecting family — with exchange of experiences and the importance stated; respecting neighbours — for example showing respect in greeting, with class discussion of its importance and of building peaceful mutual interaction; and respecting classmates/friends — pupils show in practice, inside and outside the classroom, how much they respect each other, with the message that mutual respect shrinks disagreements between them. — shown in the learner's own words and in the lesson's closing act done in a real situation.

@@ -1,0 +1,5 @@
+# Living with diversity — respect, not just tolerance — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The ways are listed in full: recognise multiculturalism; remove the tendency to count your own culture superior or inferior; respect difference; remove counting an individual's or group's way of life as backward; recognise the correctness and contributions of different cultural expressions; value what other cultures give; be ready to admire other cultures; encourage different groups' contributions; encourage people, freed from partiality, to develop their potential for themselves and others; and — the list's own climax — to bring unity in diversity, respect differences rather than merely tolerating them. — shown in the learner's own words and in the lesson's closing act done in a real situation.

@@ -1,0 +1,5 @@
+# Marks of humanity — love, compassion, empathy, charity — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The chapter's long third lesson defines the basic characteristics of humanity one by one, the first group being: love — the strongest feeling for a person or thing, holding attachment, commitment, closeness and desire, and pupils distinguish self-love, family love, a friend's love, love of work and love of country; compassion (ርኅራሄ) — deeply understanding another's harm and wishing it eased, wanting to help even when help is not practical; empathy (ሀዘኔታ) — sharing others' feelings, entering their problem and seeking its solution; and charity/good-doing (በጎ አድራጊነት) — called the highest expression of love, also the organisation that gathers and gives money to help the disabled, the poor and the sick. — shown in the learner's own words and in the lesson's closing act done in a real situation.

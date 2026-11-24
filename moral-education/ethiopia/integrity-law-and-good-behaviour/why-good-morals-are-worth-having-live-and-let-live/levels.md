@@ -1,0 +1,5 @@
+# Why good morals are worth having — live and let live — depth
+
+This lesson's parts are distinct and sequential, so they stand as its sub lessons (2026-11-09 ruling: sub lessons only where a lesson genuinely has distinct sequential parts). Practice is tied to the learner's skill number. The questions live in the type files.
+
+Pass mark: The value of wearing good behaviour, taught through the strategies that build it — developing self-control, accepting and strengthening moral values and principles, being loyal to the law — and through the follow-up question "live and let live": wanting for others the life you want for yourself, because people need each other. (Book error flagged: the session's body largely teaches the *ways* of developing good morals — session 4's theme — under this benefit title, and its process header is misnumbered; the placement follows the session's title and stated competencies, and the ways themselves are placed in placement 13.) — shown in the learner's own words and in the lesson's closing act done in a real situation.

@@ -1,0 +1,13 @@
+# Why teams win — shared strength, shared ideas — multiple choice
+
+Pick the one right answer.
+
+**1.** What does this lesson teach?
+a) The closing answers list the importance: it helps share experience, knowledge, skill and strength among the group's members; it makes people from different backgrounds and experiences work together and support each other; it introduces and grows peer relationships and interactions; and it helps pupils discuss and understand difficult concepts.  b) A topic from a different level of this course  c) The syllabus of the teacher guide  d) none of these
+**Answer: a)** — That is what this lesson teaches.
+
+**2.** Which of these belongs to this lesson?
+a) Why cooperation and teamwork matter  b) a topic from another course  c) today's weather  d) none of these
+**Answer: a)** — That is this lesson's first part.
+
+Difficulty: 1 = recall of the lesson's one thing; 2 = telling this lesson's parts from other lessons' parts.
