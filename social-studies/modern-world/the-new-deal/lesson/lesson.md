@@ -10,6 +10,8 @@ Roosevelt's First New Deal attacked the collapse head-on: banks stabilised, jobs
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40078 — newdeal]
+
 ## Sub lesson 2 — The Second New Deal goes further
 
 The Second New Deal went further: Social Security for old age and unemployment, labour rights for unions, and great works programmes. Relief became structure — protections built into the nation's frame.

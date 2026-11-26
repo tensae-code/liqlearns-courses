@@ -10,6 +10,8 @@ Baghdad's land between two seas; nine states and a population growing from 66.2 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40093 — twoseas]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 3 Lesson 1, The Middle East — Baghdad's land between two seas; nine states and a population growing from 66.2 million (1937) to 75.5 million (1960) — the region Cambodia's final history chapter maps before its empires. Then let your companion ask you one hard question about it — answer from the lesson.

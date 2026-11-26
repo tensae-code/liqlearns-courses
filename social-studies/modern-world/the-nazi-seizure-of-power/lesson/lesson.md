@@ -10,6 +10,8 @@ depression and a paralysed republic lift Hitler; Mein Kampf (book study), Hoffma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40080 — marketeddictatorship]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 10 §1 The crisis of the Weimar Republic and the rise of Nazism — depression and a paralysed republic lift Hitler; Mein Kampf (book study), Hoffmann's staged photographs (image study) and ordinary people's testimonies (Document) show a dictatorship being marketed before it is imposed. Then let your companion ask you one hard question about it — answer from the lesson.

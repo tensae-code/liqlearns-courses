@@ -10,6 +10,8 @@ the Kippur war (the chapter's maps) triggers the oil weapon; Resolution 242's am
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40094 — oilweapon242]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 17 §2 The Middle East in the seventies: local conflicts, global repercussions — the Kippur war (the chapter's maps) triggers the oil weapon; Resolution 242's ambiguities and the Palestinian National Convention (Documents) frame a conflict every superpower must price in. Then let your companion ask you one hard question about it — answer from the lesson.

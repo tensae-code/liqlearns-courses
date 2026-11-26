@@ -10,11 +10,15 @@ Japan, China and India choose different roads out of poverty while the superpowe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40090 — threeroads]
+
 ## Sub lesson 2 — Theme 3, Lessons 42–45: the countries of the East in the Cold War years — the modernising East
 
 Japan rebuilds into an economic giant, China turns communist then reforms, and Asian states modernise while the superpowers court and fight over them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40089 — eastmodernises]
 
 ## Say it to your companion
 

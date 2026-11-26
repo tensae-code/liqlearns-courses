@@ -12,6 +12,8 @@ Through all of it runs oil: the region's wealth under the ground redraws its wei
 
 In your mind's eye: the region in the war years — a map-like view of the Middle East with Israel and its Arab neighbours, and the Iraq-Iran front to the east. The student points to Turkey at the map's top and says what it means to watch wars on two of your borders.
 
+[Picture 40092 — warscandles]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The Arab-Israeli wars and the Iran-Iraq War. Then let your companion ask you one hard question about it — answer from the lesson.

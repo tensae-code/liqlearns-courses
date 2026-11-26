@@ -10,6 +10,8 @@ Díaz's export dictatorship provokes the century's first great social revolution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40097 — mexico1910]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 2 §10 Latin America and the Mexican Revolution — Díaz's export dictatorship provokes the century's first great social revolution in Mexico (1910), while the rest of the continent lives between oligarchies and the northern giant. Then let your companion ask you one hard question about it — answer from the lesson.

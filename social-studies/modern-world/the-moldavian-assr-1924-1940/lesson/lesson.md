@@ -10,11 +10,15 @@ Moscow builds a Moldavian ASSR on the Nistru's left bank as a claim on Bessarabi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40088 — nistruclaim]
+
 ## Sub lesson 2 — Tema 18: Constituirea RASSM: politici și impact
 
 the memorandum of 4 February 1924 sets up the Moldavian ASSR; agriculture expands, then the liquidation of the "chiaburi" catalogues over 3,200 peasant households for destruction
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40087 — catalogue1924]
 
 ## Say it to your companion
 

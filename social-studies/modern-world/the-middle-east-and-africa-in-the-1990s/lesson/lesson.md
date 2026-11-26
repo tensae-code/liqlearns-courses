@@ -10,6 +10,8 @@ Oslo's accords (the chapter's document) raise a peace that disappoints; the Arab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40096 — oslodisappoints]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 6, Cap. 21 §3 Instability and conflicts between the Middle East and Africa — Oslo's accords (the chapter's document) raise a peace that disappoints; the Arab-Israeli conflict's figures 1947–2023 (La storia in cifre) and Africa's wars fill the unipolar decade's other front. Then let your companion ask you one hard question about it — answer from the lesson.

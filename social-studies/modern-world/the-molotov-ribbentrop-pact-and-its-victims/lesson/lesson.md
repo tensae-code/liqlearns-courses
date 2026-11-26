@@ -10,11 +10,15 @@ the secret additional protocol is the pact's core — Stalin and Hitler redraw E
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40084 — twopens]
+
 ## Sub lesson 2 — Tema 15: Pactul Ribbentrop–Molotov și impactul lui asupra destinului popoarelor din Europa
 
 the secret protocol divides Europe; Finland cedes Hangö for thirty years, and within days of the Winter War's end Bessarabia, northern Bukovina and Herța are occupied
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40083 — secretline]
 
 ## Say it to your companion
 

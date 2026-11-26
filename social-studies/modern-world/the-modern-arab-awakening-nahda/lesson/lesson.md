@@ -10,6 +10,8 @@ stuck between Ottoman stagnation and European colonialism, the Arabs wake first 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40091 — nahdaprint]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Attempts of the modern Arab awakening (Unit 1 Lesson 4) — stuck between Ottoman stagnation and European colonialism, the Arabs wake first in print — Urabi's revolt, modern schools, newspapers and secret societies — then in four directions: the return-to-Islam call of the Wahhabis, Sanusiyya and Mahdiyya, al-Kawakibi's Arab caliphate in Mecca, the nationalists who rouse the Arabs by their past, and Mustafa Kamil's Egypt. Then let your companion ask you one hard question about it — answer from the lesson.

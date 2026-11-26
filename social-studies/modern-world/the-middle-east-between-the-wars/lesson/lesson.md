@@ -10,6 +10,8 @@ Britain and France divide the mandates, oil raises the stakes, and the Balfour p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40095 — balfourknot]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 7 §3 Il nodo del Medio Oriente — Britain and France divide the mandates, oil raises the stakes, and the Balfour promise knots Palestine — the knot the rest of the century will pull at. Then let your companion ask you one hard question about it — answer from the lesson.

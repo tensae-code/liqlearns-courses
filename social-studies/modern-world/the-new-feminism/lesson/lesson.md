@@ -10,6 +10,8 @@ Mitchell on American feminism, Grasso on Italy's movements and Ribero on the sel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40077 — feminismcircle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 11 §8 Il nuovo femminismo — Mitchell on American feminism, Grasso on Italy's movements and Ribero on the self-consciousness groups (Fare storia pieces) — the personal becomes political, in documents written by the movement itself. Then let your companion ask you one hard question about it — answer from the lesson.

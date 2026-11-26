@@ -10,6 +10,8 @@ steam presses and cheap paper put daily news in everyone's hands and create the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40074 — massreader]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 13: The newspaper and the periodical press — steam presses and cheap paper put daily news in everyone's hands and create the mass reader. Then let your companion ask you one hard question about it — answer from the lesson.
