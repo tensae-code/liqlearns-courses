@@ -10,17 +10,23 @@ after the 1930s world crisis, caudillismo hardens into military dictatorships ba
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62564 — struggle answers]
+
 ## Sub lesson 2 — El papel de las organizaciones populares y de la mujer en la lucha centroamericana
 
 unions, peasant and student organisations — and women inside them — carry the long fight against the dictatorships
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62565 — women carry the fight]
+
 ## Sub lesson 3 — Cambios políticos y la lucha por la democracia
 
 integration's stability leaves Guatemala's indigenous majority outside every programme and Nicaragua under a pseudo-democracy whose real power is the Guardia Nacional
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62566 — left outside]
 
 ## Say it to your companion
 

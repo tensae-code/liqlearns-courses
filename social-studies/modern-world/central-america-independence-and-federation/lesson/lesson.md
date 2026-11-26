@@ -10,17 +10,23 @@ internal grievances and external revolutions converge; independence is the end o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62571 — a long process]
+
 ## Sub lesson 2 — Movimientos populares de 1811 en Centroamérica
 
 in 1811 popular movements rise in San Salvador, León and Granada a decade before independence is won
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62572 — the risings of 1811]
+
 ## Sub lesson 3 — Proclamación de la Independencia de Centroamérica
 
 on 15 September 1821 the Act is signed in Guatemala and the isthmus leaves Spain
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62573 — 15 september 1821]
 
 ## Sub lesson 4 — Próceres de la Independencia de Centroamérica
 

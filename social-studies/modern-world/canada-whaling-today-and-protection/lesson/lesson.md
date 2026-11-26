@@ -15,6 +15,8 @@ Second, Inuit whaling continues today. It did not vanish with the old days. It g
 That is the balance the story ends on: protection for the whales, counting to prove they are safe, and the community's own hunt carried on — small, shared and ruled — into the present day.
 In your mind's eye: people counting whales from the shore. Point to the counters and say why the whales are counted.
 
+[Picture 62552 — protected and still hunted]
+
 ## Say it to your companion
 
 Tell your companion the ending in order: whales are now protected and counted; Inuit whaling continues today as a small, community-run hunt under shared rules. Then let your companion ask you one hard question about it — answer from the lesson.

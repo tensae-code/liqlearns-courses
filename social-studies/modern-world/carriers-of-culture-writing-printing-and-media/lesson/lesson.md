@@ -10,6 +10,8 @@ from bamboo slips and movable type to the museum and the archive — what surviv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62553 — what can carry it survives]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The many carriers of cultural transmission and their development — from bamboo slips and movable type to the museum and the archive — what survives depends on what can carry it. Then let your companion ask you one hard question about it — answer from the lesson.

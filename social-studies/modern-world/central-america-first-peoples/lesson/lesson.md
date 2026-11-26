@@ -10,6 +10,8 @@ the isthmus's geography channels its first settlers; where they live shapes what
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62567 — geography shapes cultures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ubicación e influencia del medio geográfico de los primeros pobladores de Centroamérica — the isthmus's geography channels its first settlers; where they live shapes what their cultures become. Then let your companion ask you one hard question about it — answer from the lesson.

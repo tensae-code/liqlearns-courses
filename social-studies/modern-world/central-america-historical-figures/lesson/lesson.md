@@ -10,11 +10,15 @@ Asturias wins the 1967 Nobel for a literature built on Indigenous heritage and i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62569 — letters and rights]
+
 ## Sub lesson 2 — Lección 28: Carrasco y los Nobel de la Paz
 
 Francisca Carrasco, a peasant who taught herself to read, marches with Costa Rica's troops against William Walker in 1856, fights at Rivas, nurses cholera victims on the walk home and is buried with a general's honours; Óscar Arias (1987) and Rigoberta Menchú (1992) take Nobel Peace Prizes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62570 — carrasco and the nobels]
 
 ## Say it to your companion
 

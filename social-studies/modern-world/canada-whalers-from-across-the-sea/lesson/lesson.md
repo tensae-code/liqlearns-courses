@@ -15,6 +15,8 @@ Inuit life was changed by what followed. The ships brought trade — new goods, 
 That is the turn in the story: the whale did not change, and the Inuit did not change their need of it — what changed was who else was hunting, how many they took, and what the taking left behind.
 In your mind's eye: a tall commercial whaling ship in Arctic waters. Point to the ship and say how it differs from an open hunting boat.
 
+[Picture 62551 — whalers from across the sea]
+
 ## Say it to your companion
 
 Tell your companion the story in order: foreign ships arrive in Arctic waters; they hunt whales in large numbers for oil and baleen; Inuit life is changed by the trade — and by the depletion, as the whales grow few. Then let your companion ask you one hard question about it — answer from the lesson.

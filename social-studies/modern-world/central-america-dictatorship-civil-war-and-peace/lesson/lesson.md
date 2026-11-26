@@ -10,11 +10,15 @@ the 1929 crash breaks the banana-and-coffee economies and dictators rise — Ubi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62562 — the dictators rise]
+
 ## Sub lesson 2 — Lección 27: los acuerdos de paz
 
 Costa Rica, army-free since 1949, leads the way out — Esquipulas (1987), Chapultepec for El Salvador (1992), Guatemala's final peace (1996); guerrillas (FSLN, FMLN, URNG) disarm and become legal parties that later win power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62563 — the peace accords]
 
 ## Say it to your companion
 

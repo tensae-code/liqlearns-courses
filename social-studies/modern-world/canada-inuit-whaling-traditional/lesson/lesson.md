@@ -15,6 +15,8 @@ The bones became tools and sleds — the hard frame of everyday life. The oil bu
 That is why the whale stands at the centre of the old Arctic story: not as a trophy, but as a gift that fed, lit and equipped everyone.
 In your mind's eye: a bowhead whale beside an Inuit camp. Point to the whale and name one thing it gave the community.
 
+[Picture 62550 — what the whale gave]
+
 ## Sub lesson 2 — Whaling the old way
 
 How do you catch an animal that big with no engine, no steel ship, no machines? The old way rested on knowledge and teamwork.

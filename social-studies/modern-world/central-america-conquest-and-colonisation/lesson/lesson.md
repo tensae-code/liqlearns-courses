@@ -10,11 +10,15 @@ Spanish captains conquer the isthmus province by province and colonisation repla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62558 — province by province]
+
 ## Sub lesson 2 — Invasión colonial española en Centroamérica
 
 the invasion brings extermination, new diseases — syphilis, measles, typhoid — and forced labour to the original peoples
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62559 — disease and forced labour]
 
 ## Sub lesson 3 — Primeras ciudades fundadas por los españoles en Centroamérica
 
@@ -22,11 +26,15 @@ León, Granada and the other first Spanish cities are planted as instruments of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62560 — cities as instruments of rule]
+
 ## Sub lesson 4 — Conquista de Centroamérica
 
 scattered peoples without political unity, who nevertheless fight bravely, force the Spaniards into repeated expeditions across the isthmus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62561 — repeated expeditions]
 
 ## Say it to your companion
 

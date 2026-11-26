@@ -10,6 +10,8 @@ Guatemala's Grade 4 book teaches foreign intervention through one fruit. Cash-po
 
 In your mind's eye: a railway running from banana plantations to a Caribbean port, with land contracts changing hands. Name United Fruit and the two places it held.
 
+[Picture 62568 — land for a railway]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): El banano — railways, land and United Fruit. Then let your companion ask you one hard question about it — answer from the lesson.

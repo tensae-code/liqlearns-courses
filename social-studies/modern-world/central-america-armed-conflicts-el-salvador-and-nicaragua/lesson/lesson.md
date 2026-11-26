@@ -10,6 +10,8 @@ Guatemala's Grade 4 book sets its own war beside its neighbours'. El Salvador's 
 
 In your mind's eye: two peace moments — the Chapultepec signing of 1992 and Violeta Chamorro's 1990 election in Nicaragua. Name Chapultepec and the Sandinistas.
 
+[Picture 62555 — ended by a vote]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Two neighbours' wars — Chapultepec and the ballot box. Then let your companion ask you one hard question about it — answer from the lesson.
