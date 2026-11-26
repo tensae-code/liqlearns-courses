@@ -10,11 +10,15 @@ from 1909 the US intervenes directly, imposing governments; the Dawson Pacts han
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40858 — governmentsimposed1909]
+
 ## Sub lesson 2 — La gesta de Benjamín Zeledón
 
 Zeledón refuses to surrender to the marines in 1912 and dies fighting; his body is paraded to frighten others — and instead inspires Sandino
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40857 — meanttofrighten]
 
 ## Sub lesson 3 — Situación antes de 1924 y el Lomazo de Emiliano Chamorro
 
@@ -22,11 +26,15 @@ Chamorro's 1925 Lomazo coup seizes the Loma fortress and restarts civil conflict
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40856 — lomaseized1925]
+
 ## Sub lesson 4 — La Guerra Constitucionalista de 1926
 
 Sacasa's constitutionalists rise against the coup regime, and their war brings the marines back in force
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40855 — marinesreturn]
 
 ## Sub lesson 5 — Intervenciones norteamericanas 1909-1933
 
@@ -34,11 +42,15 @@ Taft's Big Stick continues the Monroe Doctrine; US control is tabulated sector b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40854 — hundredpercent]
+
 ## Sub lesson 6 — Los Pactos Dawson
 
 US recognition is bought with pacts that script Nicaragua's politics — a constituent assembly, Estrada president, Díaz vice-president, Zelayistas excluded
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40853 — politicsscripted]
 
 ## Sub lesson 7 — Tratado Bryan-Chamorro (1914)
 
@@ -46,11 +58,15 @@ Nicaragua grants the US perpetual exclusive rights to an interoceanic canal by t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40852 — canalrights1914]
+
 ## Sub lesson 8 — Pacto del Espino Negro (1927)
 
 under a black-thorn tree at Tipitapa on 4 May 1927, Stimson makes Moncada lay down his nearly victorious constitutionalist army — one general refuses, and his refusal becomes Sandino's war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40851 — onerefuses]
 
 ## Sub lesson 9 — La gesta heroica de Benjamín Zeledón
 
@@ -58,11 +74,15 @@ ordered to surrender in 1912, Zeledón answers that he wants no cowardly peace f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40850 — nocowardlypeace]
+
 ## Sub lesson 10 — La Guerra Constitucionalista (1926)
 
 a violated constitution drives liberals to war in 1926; US intervention decides the outcome and prepares the Espino Negro settlement
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40849 — tornconstitution]
 
 ## Sub lesson 11 — Las intervenciones norteamericanas 1909-1933
 
@@ -70,11 +90,15 @@ marines land in 1912 to guard the imposed government of Díaz and Chamorro, occu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40848 — landed1912gone1933]
+
 ## Sub lesson 12 — La gesta de Benjamín Zeledón, 1912
 
 Zeledón's 800 artisans, professionals and peasants, badly armed and some barefoot, refuse the marines' offers of gold and honours; he signs his own death sentence rather than surrender at Coyotepe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40847 — goldrefused1912]
 
 ## Sub lesson 13 — Los intereses norteamericanos en Nicaragua
 
@@ -82,17 +106,23 @@ with Panama's canal built, Washington still holds Nicaragua militarily so no riv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40846 — onecanalforbidden]
+
 ## Sub lesson 14 — El Lomazo y la Guerra Constitucionalista
 
 Chamorro's 1925 Lomazo coup makes President Solórzano his puppet; the constitutionalist war that answers it brings workers and peasants led by Sandino into national politics for the first time
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40845 — puppetpresident]
+
 ## Sub lesson 15 — El Pacto del Espino Negro, 1927
 
 under a black-thorn tree at Tipitapa on 4 May 1927, Stimson makes Moncada's nearly victorious liberals surrender unconditionally to the US-imposed order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40844 — blackthornsurrender]
 
 ## Say it to your companion
 

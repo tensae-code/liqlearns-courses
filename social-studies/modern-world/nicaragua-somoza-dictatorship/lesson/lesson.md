@@ -22,11 +22,15 @@ at a party in León's Casa del Obrero on 21 Sept 1956, Rigoberto López Pérez s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40865 — shotinleon]
+
 ## Sub lesson 4 — La sociedad nicaragüense entre 1936-1979
 
 growth booms on cotton and the 1960 Central American Common Market, yet cotton expansion strips thousands of peasants of land and culture is kept under the dynasty's thumb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40864 — cottonbooms]
 
 ## Sub lesson 5 — Ascenso y consolidación de la dinastía somocista
 
@@ -34,11 +38,15 @@ Sacasa resigns into exile on 6 June 1936; Somoza García takes the presidency in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40863 — exiledandcrowned]
+
 ## Sub lesson 6 — La fortuna somocista y la modernización económica
 
 by 1979 the family owns a fifth of Nicaragua's cultivable land and a fortune of 500-600 million dollars built on forced sales, commissions and monopolies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40862 — fifthoftheland]
 
 ## Sub lesson 7 — La sociedad nicaragüense entre 1936 y 1979
 
@@ -46,17 +54,23 @@ population doubles and half the country moves to the cities by 1979, migration f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40861 — villagetocity]
+
 ## Sub lesson 8 — Características de la dictadura somocista: bases del poder
 
 the departing marines leave West Point-trained Somoza García commanding the Guardia Nacional — the first step to owning the country
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40860 — holdsthekeys]
+
 ## Sub lesson 9 — Ascenso y consolidación de la dinastía somocista
 
 Somoza has Sandino murdered in 1934, takes the presidency in 1937 and starts a forty-year dynasty; the 1950 Pact of the Generals buys conservative collaboration
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40859 — murdercrownfortyyears]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Tehran, Kabul, Managua and Thatcher's London in a single year reverse the sevent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40843 — yearworldturned]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 18 §1 1979–1989, a decade of turning — Tehran, Kabul, Managua and Thatcher's London in a single year reverse the seventies' direction; neoliberalism (the chapter's videomap) becomes the new common sense. Then let your companion ask you one hard question about it — answer from the lesson.

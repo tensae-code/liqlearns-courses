@@ -10,6 +10,8 @@ students and workers shake Paris, Berlin, Rome and Berkeley in one season; Fried
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40842 — fourseasonscities]
+
 ## Sub lesson 2 — Modulo 11 §7 Critica del consumismo e contestazione giovanile
 
 Kurlansky's "1968: the epicentre of a turning" and the occupied faculties' own document (Fare storia) — the affluent society's children indict it in its own universities
