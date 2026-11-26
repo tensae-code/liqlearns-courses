@@ -10,11 +10,15 @@ a colonial steppe of nomads, settlers, mines and bazaars enters the new century 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64012 — land hunger growing]
+
 ## Sub lesson 2 — §§1–2 Socio-political processes in Kazakhstan at the start of the 20th century
 
 parties, petitions and the first workers' strikes stir a colonial steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64013 — parties petitions strikes]
 
 ## Sub lesson 3 — §3 Kazakhstan's economic development at the start of the 20th century
 

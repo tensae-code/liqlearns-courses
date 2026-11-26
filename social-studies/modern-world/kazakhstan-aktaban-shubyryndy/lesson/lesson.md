@@ -10,11 +10,15 @@ in 1723 the Dzhungar onslaught drives whole peoples fleeing barefoot across the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63997 — fleeing barefoot 1723]
+
 ## Sub lesson 2 — §3 The years of "Great Disaster" — "Aktaban Shubyryndy"
 
 the 1723 invasion drives the Kazakh clans fleeing west in hunger and disorder
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63998 — hunger and disorder]
 
 ## Sub lesson 3 — §4 The organisation of a united people's militia
 
@@ -22,17 +26,23 @@ at Ordabasy the three zhuzes unite under one banner and one command
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63999 — three zhuzes one banner]
+
 ## Sub lesson 4 — §1.1 Why did the song "Elim-ai" become a song of the whole people?
 
 one lament for the Dzhungar invasion years is sung by every aul until it becomes the nation's memory of the disaster
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64000 — elim ai the nations memory]
+
 ## Sub lesson 5 — Lesson plan §2: the age of "Aktaban Shubyryndy, Alkakol Sulama"
 
 the 1723 catastrophe is taught through Kozhabergen zhyrau's song "Elim-ai" as a historical source
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64001 — a song as a source]
 
 ## Say it to your companion
 

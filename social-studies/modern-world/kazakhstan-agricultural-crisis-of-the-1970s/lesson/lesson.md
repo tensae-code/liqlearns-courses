@@ -10,6 +10,8 @@ meat scandals and empty shelves — the farm system stalls
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63990 — meat scandals empty shelves]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§17–18. The roots of the crisis in Kazakhstan's agriculture in the 1970s–80s — meat scandals and empty shelves — the farm system stalls. Then let your companion ask you one hard question about it — answer from the lesson.

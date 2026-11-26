@@ -10,11 +10,15 @@ the linguist who reformed the Kazakh alphabet and edited its first newspaper is 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63992 — teacher of the nation destroyed]
+
 ## Sub lesson 2 — §§39–40 A. Baitursynov's contribution to the development of Kazakh linguistics
 
 the alphabet reformer gives Kazakh a scientific grammar — and is shot as an "enemy of the people"
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63993 — a scientific grammar a shot scholar]
 
 ## Sub lesson 3 — §22 A. Baitursynuly — "teacher of the nation"
 
@@ -22,17 +26,23 @@ the alphabet reformer honoured in life, destroyed by the regime
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63994 — honoured in life destroyed]
+
 ## Sub lesson 4 — §1.1 Why is A. Baitursynov called "teacher of the nation"?
 
 the alphabet reformer and newspaper editor earns his title
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63995 — the title earned]
+
 ## Sub lesson 5 — §4.1 The Baitursynov inquiries of Section 4 "Kazakhstan's culture, education and science"
 
 the teacher of the nation is revisited as scholar and alphabet-maker
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63996 — scholar and alphabet maker]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ collective farms recover slowly while the state demands more grain and cotton
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63991 — recovery under demands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §3. Development of the Kazakh SSR's agriculture — collective farms recover slowly while the state demands more grain and cotton. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ evacuated factories, Karaganda coal and steppe farms feed and arm the front whil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64004 — arsenal of the front]
+
 ## Sub lesson 2 — §§57–58 The shock work of Kazakhstanis in the war years
 
 miners, collective farmers and children out-produce the plan for the front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64005 — out producing the plan]
 
 ## Sub lesson 3 — §§31–32 Kazakhstan — arsenal of the front
 
@@ -22,11 +26,15 @@ evacuated factories and steppe farms arm and feed the front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64006 — factories and farms feed the front]
+
 ## Sub lesson 4 — §6.4 "Everything for the front, everything for victory": how was the slogan realised?
 
 evacuated factories and steppe farms arm and feed the front
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64007 — everything for the front]
 
 ## Say it to your companion
 
