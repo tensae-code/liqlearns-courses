@@ -10824,3 +10824,11 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45768 | pictures/45768.webp | a drawn rehearsing slide over a Rehearsal 01:35 toolbar, beside a Keep the new timings prompt with YES pressed | ICT — Presentations — Rehearsing and Setting Slide Timings |
 | 45769 | pictures/45769.webp | a drawn navy My Talk deck fanning into four form cards — PPTX, PDF, VIDEO, IMAGES | ICT — Presentations — Saving a Presentation in Other Formats |
 | 45770 | pictures/45770.webp | three drawn reader rows — teacher will edit it to PPTX, friend has no PowerPoint to PDF, class will only watch to VIDEO | ICT — Presentations — Saving a Presentation in Other Formats |
+| 45771 | pictures/45771.webp | a drawn slide over a tan notes pane being typed — Say the river gives us water and fish, Ask what else — the audience never sees it | ICT — Presentations — Speaker Notes — Helping You Present |
+| 45772 | pictures/45772.webp | two drawn screens — the audience's slide-only screen, and the presenter's with next slide, timer 04:12 and notes | ICT — Presentations — Speaker Notes — Helping You Present |
+| 45773 | pictures/45773.webp | a drawn PowerPoint Normal view window — slide thumbnails rail, the Volcanoes slide, and the speaker's text area underneath it | ICT — Presentations — Speaker Notes Under the Slide |
+| 45774 | pictures/45774.webp | a drawn printed notes page — the small Volcanoes slide at the top, four lines of the speaker's script below | ICT — Presentations — Speaker Notes Under the Slide |
+| 45775 | pictures/45775.webp | a drawn Document Inspector dialog with comments, personal information and hidden slides ticked, and an Inspect button | ICT — Presentations — The Document Inspector |
+| 45776 | pictures/45776.webp | drawn inspector results — personal information FOUND and hidden slides FOUND with Remove All buttons, comments none, re-inspect clean | ICT — Presentations — The Document Inspector |
+| 45777 | pictures/45777.webp | a drawn slide holding one gold point badge over three benefit chips — POINT, FOCUS, VISUALS | ICT — Presentations — Why Presentations Work — Point, Focus, Visuals, Resources |
+| 45778 | pictures/45778.webp | a drawn dam slide — lake, wall, stream — before four audience heads, beside a RESOURCES READY checklist | ICT — Presentations — Why Presentations Work — Point, Focus, Visuals, Resources |

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Explain the importance of a pres
 
 In your mind's eye: explain the importance of a presentation tool.
 
+[Picture 45777 — explain the importance of a presentation tool]
+
 ## Sub lesson 2 — Doing it — Why Presentations Work Point Focus Visuals Resources in practice
 
 **Doing it — Why Presentations Work Point Focus Visuals Resources in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Why Presentations Work Point Focus Visuals Resources in practice.
+
+[Picture 45778 — doing it — Why Presentations Work Point Focus Visuals Resources in practice]
 
 ## Say it to your companion
 

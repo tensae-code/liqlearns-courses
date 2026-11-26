@@ -10,11 +10,15 @@ Under every PowerPoint slide is a **notes area** — a place for text the **audi
 
 In your mind's eye: powerPoint's Normal view — a slide with its notes area underneath, holding the speaker's text.
 
+[Picture 45773 — powerPoint's Normal view — a slide with its notes area underneath, holding the speaker's text]
+
 ## Sub lesson 2 — Using notes while presenting
 
 When the show runs, the audience sees the clean slide; the presenter can see the notes on their own screen or on a printed **notes page** — one slide small at the top, its notes beneath. Writing good notes is its own skill: write **what you will say, in the order you will say it**, short enough to glance at, complete enough that a lost place is one look away from being found. Notes also save a presentation when someone else must give it: slides plus notes hand over not just the pictures but the talk. The lesson's test: cover the slides and read only the notes — if the presentation still makes sense, the notes are doing their job.
 
 In your mind's eye: a printed notes page — the slide small at the top, the speaker's notes below it.
+
+[Picture 45774 — a printed notes page — the slide small at the top, the speaker's notes below it]
 
 ## Say it to your companion
 
