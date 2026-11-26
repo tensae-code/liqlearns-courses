@@ -10,11 +10,15 @@ Windows 10's **Administrative Tools** gather the system's management consoles: *
 
 In your mind's eye: the management shelf.
 
+[Picture 45312 — the management shelf]
+
 ## Sub lesson 2 — Administration — power with procedure
 
 Administrative tools differ from ordinary ones by **reach**: they change the system for **every user**, persist beyond a session, and can break as grandly as they fix. So administration is taught with its **procedure**: work under an administrator account only when administering, **record** what was changed (the change log is the next troubleshooter's diary), **test** on one machine before the lab, and keep a **way back** (restore points, backups). Jordan closes the maintenance unit here: the pupil who began by dusting a case ends entrusted with the system's levers — and the lesson's last word is that the levers are lent, not owned.
 
 In your mind's eye: administration — power with procedure.
+
+[Picture 45313 — administration - power with procedure]
 
 ## Say it to your companion
 

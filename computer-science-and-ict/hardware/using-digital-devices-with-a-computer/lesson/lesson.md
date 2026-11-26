@@ -10,11 +10,15 @@ A **digital device** captures information in digital form: a **digital camera** 
 
 In your mind's eye: a digital camera, a phone and a webcam standing in a row beside a computer, each with an arrow carrying a photograph into the computer screen.
 
+[Picture 45302 — devices feeding photographs into the computer]
+
 ## Sub lesson 2 — Connecting and using them together
 
 To use a device with the computer, the two are **connected** — most often by a cable to the computer, or without wires — and the computer must be able to speak to the device, through the driver and program that came for it. Then the joint work follows one order: capture on the device, transfer to the computer, check what arrived, process it (crop the photograph, trim the recording), and save the result as a file with a name you will find again. A webcam works the other way round in time: it sends its pictures to the computer *while* you use it, for example in a video call, instead of storing them first.
 
 In your mind's eye: the joint-work order as five boxes in a row — capture, transfer, check, process, save. With a photograph moving along them.
+
+[Picture 45303 — the joint-work order - capture, transfer, check, process, save]
 
 ## Say it to your companion
 

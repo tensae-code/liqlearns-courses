@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Memory and Data Storage: §2.3.1
 
 In your mind's eye: memory and Data Storage. §2.3.1 Memory.
 
+[Picture 45304 — volatile and non-volatile memory]
+
 ## Sub lesson 2 — Doing it — Volatile and Non Volatile Memory in practice
 
 **Doing it — Volatile and Non Volatile Memory in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Volatile and Non Volatile Memory in practice.
+
+[Picture 45305 — doing it - volatile and non-volatile memory in practice]
 
 ## Say it to your companion
 

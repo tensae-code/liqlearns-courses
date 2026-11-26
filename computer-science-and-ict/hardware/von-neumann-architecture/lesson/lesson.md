@@ -10,11 +10,15 @@ In the **von Neumann architecture** the computer keeps **both** in the **same me
 
 In your mind's eye: one memory for program and data.
 
+[Picture 45306 — one memory for program and data]
+
 ## Sub lesson 2 — The processor at work — fetch, decode, execute
 
 The **central processing unit (CPU)** works in a steady cycle: **fetch** the next instruction from memory, **decode** it (work out what it asks for), then **execute** it — with the **control unit** directing the traffic and the **arithmetic-logic unit (ALU)** doing the sums and comparisons. Registers hold the instruction being carried out and the values in play. The single shared path between processor and memory is the design's famous narrow point — the von Neumann bottleneck.
 
 In your mind's eye: the processor at work — fetch, decode, execute.
+
+[Picture 45307 — the processor at work - fetch, decode, execute]
 
 ## Say it to your companion
 

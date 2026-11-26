@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Webcams for Pictures Calls and S
 
 In your mind's eye: webcams for Pictures Calls and Streaming.
 
+[Picture 45308 — webcams for pictures, calls and streaming]
+
 ## Sub lesson 2 — Doing it — Webcams for Pictures Calls and Streaming in practice
 
 **Doing it — Webcams for Pictures Calls and Streaming in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Webcams for Pictures Calls and Streaming in practice.
+
+[Picture 45309 — doing it - webcams in practice]
 
 ## Say it to your companion
 
