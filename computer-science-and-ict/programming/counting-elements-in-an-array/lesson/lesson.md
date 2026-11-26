@@ -10,11 +10,15 @@ The shape: **count = 0;** then for each element, **if (test) count++;**. Nothing
 
 In your mind's eye: test every element, count the passes.
 
+[Picture 46947 — test every element, count the passes]
+
 ## Sub lesson 2 — Edges and two-pass questions
 
 Boundary words decide counts: 'above 10' excludes 10 itself, 'at least 10' includes it — an off-by-one in the **condition**, not the loop. Some questions need **two passes**: the count of elements **above the average** cannot start until the average exists, so the program totals first, then walks again to count. Recognising a two-pass question is the section's real skill.
 
 In your mind's eye: edges and two-pass questions.
+
+[Picture 46948 — edges and two-pass questions]
 
 ## Say it to your companion
 

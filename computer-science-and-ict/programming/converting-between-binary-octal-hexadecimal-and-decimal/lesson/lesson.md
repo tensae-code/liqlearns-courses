@@ -10,11 +10,15 @@ The four systems convert by two master methods and one shortcut. **Into decimal*
 
 In your mind's eye: whole numbers — every pair of bases.
 
+[Picture 46937 — whole numbers — every pair of bases]
+
 ## Sub lesson 2 — Fractions — the point travels too
 
 A fraction converts by the mirror method: **multiply repeatedly by the new base**, taking the whole part that pops out as the next digit after the point, until the fraction is spent or the digits suffice. So 0.625 in decimal: ×2 = 1.25 → digit 1; ×2 = 0.5 → 0; ×2 = 1.0 → 1: **0.101 in binary**. Some fractions never finish in the new base — 0.1 in decimal is an endless binary pattern — and the honest converter says so and states the precision kept, rather than pretending the road ended.
 
 In your mind's eye: fractions — the point travels too.
+
+[Picture 46938 — fractions — the point travels too]
 
 ## Say it to your companion
 

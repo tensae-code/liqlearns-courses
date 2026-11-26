@@ -10,11 +10,15 @@ An **external device** is a device **outside the computer box, connected to it**
 
 In your mind's eye: connecting a device to the computer.
 
+[Picture 46934 — connecting a device to the computer]
+
 ## Sub lesson 2 — Writing the program that controls it
 
 The device does what **the program's instructions** tell it — switching a device such as a **motor-driven device** on and off, or moving it. The control is **tested in small steps** so faults are found where they happen, and after testing, the program — or the connection — is adjusted. Before running the case, the person in charge checks safety.
 
 In your mind's eye: writing the program that controls it.
+
+[Picture 46935 — writing the program that controls it]
 
 ## Say it to your companion
 

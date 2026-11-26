@@ -10,11 +10,15 @@ Three tools walk the text: **letter number of** reads the letter at one position
 
 In your mind's eye: letter by letter — position, length, counter.
 
+[Picture 46949 — letter by letter — position, length, counter]
+
 ## Sub lesson 2 — The Dome of the Rock sentence — and the projects
 
 The worked example counts a letter in the sentence **“The Dome of the Rock stands in Jerusalem”**. The projects widen the same walk: **counting the vowel letters in an English sentence**, **checking an email address contains @**, and **finding a whole word** in a text.
 
 In your mind's eye: the Dome of the Rock sentence — and the projects.
+
+[Picture 46950 — the Dome of the Rock sentence — and the projects]
 
 ## Say it to your companion
 

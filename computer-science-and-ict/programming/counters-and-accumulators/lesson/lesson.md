@@ -10,11 +10,15 @@ A **counter** starts at an opening value — usually **zero** — and every time
 
 In your mind's eye: counters — one more, each time.
 
+[Picture 46945 — counters — one more, each time]
+
 ## Sub lesson 2 — Accumulators — a running total
 
 An **accumulator** also starts opened — usually at **zero** — but it grows by **the value that arrives**: total = total + new value. It answers not how many, but **how much altogether**: the sum of marks, the cost of the shopping, the litres used. Counter and accumulator usually work side by side in one loop — the counter counts the values while the accumulator totals them — and together they give the average: total ÷ count. Cuba pairs them in one section because real programs so rarely use one without the other.
 
 In your mind's eye: accumulators — a running total.
+
+[Picture 46946 — accumulators — a running total]
 
 ## Say it to your companion
 

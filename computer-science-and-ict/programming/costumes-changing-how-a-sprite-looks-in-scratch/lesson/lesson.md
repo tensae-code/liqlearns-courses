@@ -10,11 +10,15 @@ A sprite holds **more than one costume** — the same character in different pos
 
 In your mind's eye: costumes and next-costume — walking animation.
 
+[Picture 46943 — costumes and next-costume — walking animation]
+
 ## Sub lesson 2 — Switching to a named costume — and timing the animation
 
 Grade 8 adds the deliberate switch: **switch to a named costume** picks exactly the look the moment needs, and the animation’s life is its timing — a **repeat-forever** switching costumes with the right waits makes a character that walks, flaps or dances for as long as the program runs.
 
 In your mind's eye: switching to a named costume — and timing the animation.
+
+[Picture 46944 — switching to a named costume — and timing the animation]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Until now, scripts ran and sprites obeyed the script. This lesson hands over the
 
 In your mind's eye: a picture of a Scratch sprite with four arrows around it, each arrow joined to a small script that starts with its key being pressed.
 
+[Picture 46936 — a picture of a Scratch sprite with four arrows around it, each arrow joined to a small script that starts with its key being pressed]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Controlling movement means the user drives the sprite: keys or clicks give the commands, and the sprite moves when and where the user says — the sprite obeys a driver, not only a script. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

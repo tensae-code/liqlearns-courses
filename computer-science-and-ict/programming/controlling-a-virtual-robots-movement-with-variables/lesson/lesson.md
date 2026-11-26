@@ -10,11 +10,15 @@ In VEXcode VR, the robot's movement blocks can take their **speed from a variabl
 
 In your mind's eye: a speed variable drives the robot.
 
+[Picture 46932 — a speed variable drives the robot]
+
 ## Sub lesson 2 — Watching values in the Monitor console
 
 The **Monitor console** shows the program's variables **while it runs**: watch the speed variable's **value change** as blocks assign and use it. The Monitor turns an invisible thing visible — when the robot misbehaves, the watched values tell you whether the variable held what you thought it held.
 
 In your mind's eye: watching values in the monitor console.
+
+[Picture 46933 — watching values in the monitor console]
 
 ## Say it to your companion
 
