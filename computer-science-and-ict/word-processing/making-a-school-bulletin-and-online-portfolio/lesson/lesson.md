@@ -10,11 +10,15 @@ A **bulletin** is a publication of short, current pieces — notices, results, s
 
 In your mind's eye: the bulletin — created and launched.
 
+[Picture 45514 — the bulletin — created and launched]
+
 ## Sub lesson 2 — The online portfolio — your work, standing ready
 
 The **online portfolio** is the learner's own publication of one: a kept collection of their **best work** — documents, designs, programs, certificates — organised, captioned (what it is, when, what it proves) and shareable by a link. Its purposes are the working world's: the application, the interview, the client who asks 'show me'. The portfolio's discipline is selection — everything is not a portfolio; the best, honestly captioned, is — and maintenance: a portfolio is a garden, weeded and planted each term, or it becomes evidence of a learner who stopped.
 
 In your mind's eye: the online portfolio — your work, standing ready.
+
+[Picture 45515 — the online portfolio — your work, standing ready]
 
 ## Say it to your companion
 

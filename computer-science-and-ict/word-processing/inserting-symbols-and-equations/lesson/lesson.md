@@ -10,11 +10,15 @@ The **Insert Symbol** gallery holds the characters the keyboard lacks: mathemati
 
 In your mind's eye: insert Symbol — the signs beyond the keyboard.
 
+[Picture 45502 — insert Symbol — the signs beyond the keyboard]
+
 ## Sub lesson 2 — The Equation editor — formulas built, not typed
 
 Formulas are not lines of text but **structures** — fractions with floors, roots with contents, powers raised — and Word builds them with the **Equation editor**: choose the structure (fraction, root, power, sum), then fill its boxes with numbers, letters and nested structures. Mongolia's pupils build the formulas of their other subjects — maths, physics and chemistry — as document objects that sit in the text, resize with its font, and can be re-opened and corrected. The distinction is the lesson: symbols are characters; equations are constructions.
 
 In your mind's eye: the Equation editor — formulas built, not typed.
+
+[Picture 45503 — the Equation editor — formulas built, not typed]
 
 ## Say it to your companion
 

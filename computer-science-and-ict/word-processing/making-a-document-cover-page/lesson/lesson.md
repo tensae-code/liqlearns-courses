@@ -10,11 +10,15 @@ Word ships **built-in cover-page templates**: ready first pages with the title, 
 
 In your mind's eye: built-in cover pages — the template's face.
 
+[Picture 45512 — built-in cover pages — the template's face]
+
 ## Sub lesson 2 — Designing your own — WordArt and shapes
 
 Where the cover must be the work's own, it is **designed**: a title set in **WordArt** — decorative lettering, filled, outlined and shaped — over a ground of **shapes** that carry the design's structure. The design rules are the strand's standing ones: one strong idea, the title unmissable, nothing on the cover that the document cannot honour inside. Mongolia's pupils design covers for their own projects — the face is theirs because the work is: template when borrowing serves, design when the work deserves its own face.
 
 In your mind's eye: designing your own — WordArt and shapes.
+
+[Picture 45513 — designing your own — WordArt and shapes]
 
 ## Say it to your companion
 

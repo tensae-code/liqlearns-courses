@@ -10,11 +10,15 @@ The magazine begins as **writing**: each team **reports** — observes, intervie
 
 In your mind's eye: writing for the magazine — reports and credit.
 
+[Picture 45516 — writing for the magazine — reports and credit]
+
 ## Sub lesson 2 — Producing the magazine — the word processor at work
 
 Then **production**: the reports are typed and formatted in the word processor — headings, columns of text, pictures placed and captioned, the cover designed, pages ordered into a contents list — and the magazine is printed or shared digitally for its real readers. The roles are a publisher's: writers, editors who check facts and credit, designers who keep the pages consistent, and a final reader who hunts errors in the proof. The finished magazine on the school shelf is the experience's evidence: skills, law and teamwork, bound together.
 
 In your mind's eye: producing the magazine — the word processor at work.
+
+[Picture 45517 — producing the magazine — the word processor at work]
 
 ## Say it to your companion
 

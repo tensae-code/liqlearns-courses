@@ -10,11 +10,15 @@ Real work does not live in one application: the figures are computed in the **sp
 
 In your mind's eye: one work, several apps — why integrate.
 
+[Picture 45504 — one work, several apps — why integrate]
+
 ## Sub lesson 2 — Paste, embed, link — the three joinings
 
 Content crosses between apps in three strengths. **Paste** carries a copy — simple, and dead: it never learns the original changed. **Embedding** places a working object of the other app inside the document — the chart in the report can still be edited as a chart. **Linking** shows the original through a window: the document displays the sheet's own current values, so one correction in the sheet heals every report that links it — at the price of the link breaking when files move. The integrator's skill is choosing the strength each joining deserves: a final report may freeze its figures; a monthly one must link them.
 
 In your mind's eye: paste, embed, link — the three joinings.
+
+[Picture 45505 — paste, embed, link — the three joinings]
 
 ## Say it to your companion
 

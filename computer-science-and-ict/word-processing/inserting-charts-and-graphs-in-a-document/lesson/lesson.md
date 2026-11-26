@@ -10,11 +10,15 @@ A **chart** (диаграмма) in a document is built from numbers: select the
 
 In your mind's eye: from table to chart.
 
+[Picture 45498 — from table to chart]
+
 ## Sub lesson 2 — Placing a chart in the text
 
 An inserted chart must be **placed like evidence**: beside the paragraph that speaks of it, with a caption naming what it shows, small enough to read at the page's size. Grade 8 puts charts last in its document chapter — after pictures, tables and shapes — as the document's most demanding object: data, drawing and text agreeing on one page.
 
 In your mind's eye: placing a chart in the text.
+
+[Picture 45499 — placing a chart in the text]
 
 ## Say it to your companion
 

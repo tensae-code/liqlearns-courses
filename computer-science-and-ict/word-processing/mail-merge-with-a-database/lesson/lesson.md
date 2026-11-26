@@ -10,11 +10,15 @@ A merge has exactly **two parts**: the **main document** (the letter's fixed tex
 
 In your mind's eye: two parts — document and data.
 
+[Picture 45510 — two parts — document and data]
+
 ## Sub lesson 2 — Running the merge
 
 Connect the document to the source, place the fields, **preview** a few records to catch layout faults, then **finish the merge** — to a new document, to the printer, or to labels/envelopes. One mis-typed field name breaks the match, so field names in the letter must equal the source's column names exactly. The book teaches merge as the meeting point of its Word and database themes.
 
 In your mind's eye: running the merge.
+
+[Picture 45511 — running the merge]
 
 ## Say it to your companion
 

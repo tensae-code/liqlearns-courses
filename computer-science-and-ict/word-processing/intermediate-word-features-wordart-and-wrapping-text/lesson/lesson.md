@@ -10,11 +10,15 @@ Plain typing makes a plain page. Fiji's Years 7–8 book marks the step up to in
 
 In your mind's eye: wordArt — words as a picture.
 
+[Picture 45506 — wordArt — words as a picture]
+
 ## Sub lesson 2 — Wrapping text around a graphic
 
 When a picture is placed in a document, the text must decide how to treat it. **Text wrapping** is that decision: with **square wrapping** the text flows around the picture's box, leaving it a clear space; with **tight wrapping** the text hugs the picture's shape; a picture can also sit **in line with text**, moving along as one big character, or **behind/in front of** the text. Choosing the wrap is what makes a school newsletter page look arranged instead of accidental — Fiji's intermediate step from plain typing to laid-out pages.
 
 In your mind's eye: wrapping text around a graphic.
+
+[Picture 45507 — wrapping text around a graphic]
 
 ## Say it to your companion
 

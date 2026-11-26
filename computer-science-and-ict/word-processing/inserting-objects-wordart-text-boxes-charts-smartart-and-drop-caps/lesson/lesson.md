@@ -10,11 +10,15 @@ The Grade 8 leaflet project needs more than paragraphs: it needs display. Mongol
 
 In your mind's eye: wordArt and text boxes — words set free.
 
+[Picture 45500 — wordArt and text boxes — words set free]
+
 ## Sub lesson 2 — Charts, SmartArt and drop caps — data, relations, ceremony
 
 A **chart** inserted in the document is built from numbers the document owns — the book's leaflet charts **air-pollution sources**, the bars rising from the data table itself. **SmartArt** draws relations — lists, cycles, hierarchies — as ready diagrams that take the writer's words into their nodes. The **drop cap** is ceremony: the first letter of a text enlarged to span lines, opening the page as books have opened for centuries. Mongolia's five together are the designed document's toolkit: display (WordArt), placement (text boxes), evidence (charts), structure (SmartArt), and honour (the drop cap).
 
 In your mind's eye: charts, SmartArt and drop caps — data, relations, ceremony.
+
+[Picture 45501 — charts, SmartArt and drop caps — data, relations, ceremony]
 
 ## Say it to your companion
 
