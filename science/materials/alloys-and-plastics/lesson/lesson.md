@@ -11,7 +11,11 @@ The placing is the frame: alloys and plastics are **made materials** — not dug
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36967 — made materials — an alloy, made by mixing metals; plastics, made materials of the modern world]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 36968 — two metals pour in, mix, and are made into an alloy]
 
 ## The key ideas
 

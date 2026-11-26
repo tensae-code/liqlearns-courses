@@ -11,7 +11,11 @@ Some materials are **natural**: they are found in nature — wood, stone, the me
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36969 — natural materials, found in nature — and human-made materials, invented by people]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36970 — plastics matched to their jobs — light kinds for food packaging, hard kinds for furniture covers, flexible kinds for bags and film, clear kinds instead of glass]
 
 ## Sub lesson 2 — Ceramics and alloys
 

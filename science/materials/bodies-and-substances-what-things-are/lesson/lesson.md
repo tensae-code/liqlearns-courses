@@ -9,7 +9,11 @@ A **body** is anything that **takes up space**: the stone, the chair, the drop o
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36973 — bodies — a stone, a chair, a drop of water, air in a balloon: anything that takes up space]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36974 — more air in the balloon — more space taken: the air is a body too]
 
 ## Sub lesson 2 — What a substance is
 

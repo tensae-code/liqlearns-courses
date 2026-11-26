@@ -9,7 +9,11 @@ The chemical bases of life: building blocks → metabolic intermediates → macr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36971 — the chemical bases of life — building blocks, then metabolic intermediates, then macromolecules]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 36972 — building blocks join, and a macromolecule grows]
 
 ## Sub lesson 2 — The biomolecules survey
 

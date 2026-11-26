@@ -11,7 +11,11 @@ On an electronic scale the proof is read in numbers: more air in, more mass show
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36965 — the set-up — an uninflated ball balanced against sand]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36966 — the ball inflated needs soybeans added to balance — more air in, the ball grew heavier]
 
 ## Sub lesson 2 — Galileo's bottle — the first proof
 
