@@ -9,7 +9,11 @@ New lava is **colonised first by mosses and ferns**. The guide names the moss: *
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37314 — the first settlers on new lava]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37315 — count the capsules on one frond]
 
 ## Sub lesson 2 — Counting the capsules — the fern frond activity
 

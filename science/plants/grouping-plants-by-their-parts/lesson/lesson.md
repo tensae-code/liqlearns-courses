@@ -9,7 +9,11 @@ Papua New Guinea's Grade 3 textbook groups plants first by their **roots**: look
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37291 — three root kinds]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37292 — grouped by stems]
 
 ## Sub lesson 2 — Grouping by stems
 

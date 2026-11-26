@@ -9,7 +9,11 @@ Nicaragua's Grade 9 book teaches the flower's **four whorls**: the **calyx of se
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37367 — the flower: four whorls]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37368 — the fruit in many kinds]
 
 ## Sub lesson 2 — The fruit and the seed — the transformed ripe ovary
 

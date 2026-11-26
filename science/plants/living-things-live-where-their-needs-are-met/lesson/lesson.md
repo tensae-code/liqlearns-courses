@@ -13,7 +13,11 @@ This is not an accident of the picture. **A living thing lives where its needs a
 
 In your mind's eye: the two-page garden-and-forest scene, empty of its cut-out plants. The student points to the garden side and the forest side and says what belongs on each before reading on.
 
+[Picture 37318 — each plant in its place]
+
 In your mind's eye: a cut-out spruce being stuck down in the forest side of the scene. Say which place it went to and what need that place meets.
+
+[Picture 37319 — needs met, each at home]
 
 ## Sub lesson 2 — Placing the cut-outs — prove it by sorting
 

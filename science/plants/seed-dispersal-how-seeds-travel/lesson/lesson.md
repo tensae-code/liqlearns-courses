@@ -11,7 +11,11 @@ A seed that simply drops lands in its parent's shade, competing with the parent 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37357 — seeds travel by their shape]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[GIF 37358 — dandelion seeds blow away]
 
 ## Sub lesson 2 — Shapes fit ways of travelling — and the paper flyers
 

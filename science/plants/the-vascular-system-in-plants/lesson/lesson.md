@@ -11,7 +11,11 @@ Kuwait's Grade 7 book teaches the vascular system as the plant's answer to a siz
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37371 — two pipes inside the plant]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37372 — water up, food out]
 
 ## Sub lesson 2 — Two pipes, two directions
 

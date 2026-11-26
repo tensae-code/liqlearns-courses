@@ -9,7 +9,11 @@ A flower opens — and later there is a fruit full of seeds. What happened in be
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37339 — pollen reaches the stigma]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37340 — the joining inside]
 
 ## Sub lesson 2 — Fertilisation — the pollen grain joins the ovule
 

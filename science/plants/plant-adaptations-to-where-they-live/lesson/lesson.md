@@ -11,7 +11,11 @@ The plant of each place is built differently, because each place asks a differen
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37327 — fitted to dry, wet and swampy]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37328 — the cactus in a drought]
 
 ## Sub lesson 2 — How adaptations assist survival
 
@@ -21,7 +25,11 @@ That is the syllabus's test for every example: name the place, name the feature,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37329 — a feature that fits its place]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37330 — fitted here, failing there]
 
 ## The key ideas
 

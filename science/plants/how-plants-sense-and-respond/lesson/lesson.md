@@ -11,7 +11,11 @@ A plant **perceives** — it registers what is happening around it. When the sur
 
 In your mind's eye: the same plant drawn in two different surroundings, its state clearly different in each. The student points to what the plant is showing.
 
+[Picture 37298 — light and the cycles of time]
+
 In your mind's eye: light and weather changing over one plant while the plant's state changes with them. Say what changed around the plant and what the plant showed.
+
+[GIF 37299 — the sunflower follows the sun]
 
 ## Sub lesson 2 — Plants answer the cycles of time
 

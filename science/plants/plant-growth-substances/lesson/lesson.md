@@ -9,7 +9,11 @@ A plant has no nerves, yet its growth is directed: **plant growth substances** �
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37333 — hormones give the orders]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37334 — watch the effect]
 
 ## Sub lesson 2 — What growth substances do
 

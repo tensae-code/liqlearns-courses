@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "What lower and higher pla
 
 In your mind's eye: what lower and higher plants are as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37320 — lower plants: simpler bodies]
+
 ## Sub lesson 2 — What are lower and higher plants
 
 Kazakhstan's books teach this as their own lesson — "What are lower and higher plants". The learner works through the books' own presentation of what are lower and higher plants — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: what are lower and higher plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37321 — higher plants: every part present]
 
 ## The key ideas
 

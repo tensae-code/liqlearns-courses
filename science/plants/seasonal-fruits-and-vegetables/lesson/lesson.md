@@ -9,7 +9,11 @@ Not every fruit and vegetable grows all year. Each one has its season — the pa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37355 — food has seasons]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37356 — the market stall through the year]
 
 ## Sub lesson 2 — Bangladesh's fruits and vegetables by season
 

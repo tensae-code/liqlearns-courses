@@ -13,7 +13,11 @@ The covering is not decoration. It guards the seeds while they ripen.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37289 — seeds inside the fruit]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37290 — the seed, packed for travel]
 
 ## Sub lesson 2 — The seed — the next plant packed
 

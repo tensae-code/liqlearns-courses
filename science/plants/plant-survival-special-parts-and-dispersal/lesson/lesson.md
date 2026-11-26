@@ -9,7 +9,11 @@ Malaysia's Grade 5 book teaches how plants **protect themselves from enemies: th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37337 — defences and climate fits]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37338 — four ways seeds travel]
 
 ## Sub lesson 2 — Seed and fruit dispersal — travelling to new ground
 

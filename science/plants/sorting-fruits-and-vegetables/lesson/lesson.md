@@ -9,7 +9,11 @@ The activity begins with real things on the table: **fruits** and **vegetables**
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37361 — two kinds on the table]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37362 — sorted, and saying why]
 
 ## Sub lesson 2 — Sorting — the classifying act
 

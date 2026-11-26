@@ -11,7 +11,11 @@ Both are artificial in the book's sense: a person does the placing. The cutting 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37335 — cuttings and grafting]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37336 — offshoots and leaves]
 
 ## Sub lesson 2 — Offshoots — and reproduction by leaves
 

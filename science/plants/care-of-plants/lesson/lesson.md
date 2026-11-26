@@ -9,7 +9,11 @@ Care of plants.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37280 — the pictured ways of care]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37281 — safe inside the fence]
 
 ## Sub lesson 2 — Caring for plants
 

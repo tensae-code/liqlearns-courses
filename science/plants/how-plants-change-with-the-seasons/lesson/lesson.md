@@ -9,7 +9,11 @@ A plant does not look the same all year. As the seasons turn, the plant changes 
 
 In your mind's eye: the same plant in two different seasons from this part. Name what has changed before reading on.
 
+[Picture 37294 — one tree, four seasons]
+
 In your mind's eye: a plant's seasonal change from this part. Say what changed and what it proves.
+
+[GIF 37295 — the tree through the seasons]
 
 ## Sub lesson 2 — The changes through the seasons, part 1
 

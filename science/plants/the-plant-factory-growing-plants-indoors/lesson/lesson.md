@@ -11,7 +11,11 @@ The factory is the plant-needs lesson turned into a building: what a plant needs
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37369 — farming indoors, in layers]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37370 — every need has a supplier]
 
 ## Sub lesson 2 — Designing and building your own plant factory
 

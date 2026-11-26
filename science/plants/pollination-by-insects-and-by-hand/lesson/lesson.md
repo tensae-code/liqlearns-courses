@@ -9,7 +9,11 @@ Seychelles' Unit 6 Topic 3 defines pollination: pollen reaching the stigma of a 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37341 — hand pollination with a brush]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[GIF 37342 — the bee carries pollen]
 
 ## Sub lesson 2 — Pollinating by hand
 

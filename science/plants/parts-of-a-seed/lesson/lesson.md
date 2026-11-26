@@ -9,7 +9,11 @@ South Sudan's Primary 4 book opens the seed and names its parts: **testa** (the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37325 — inside a bean seed]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37326 — where the food sits]
 
 ## Sub lesson 2 — Maize — and the one-against-two sort
 

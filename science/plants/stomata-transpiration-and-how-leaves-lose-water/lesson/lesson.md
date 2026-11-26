@@ -9,7 +9,11 @@ Seychelles' Unit 7 Topic 10, "Plant leaves and water", opens the leaf: stomata a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37363 — the leaf's tiny holes]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37364 — cut off from water, it wilts]
 
 ## Sub lesson 2 — Transpiration — water leaving the leaf
 

@@ -11,7 +11,11 @@ The reading teaches the eye before the word: look at the flower, find the middle
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37365 — symmetry in a flower]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37366 — symmetry in a butterfly]
 
 ## Sub lesson 2 — Symmetry in animal shapes
 

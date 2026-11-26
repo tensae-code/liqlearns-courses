@@ -11,7 +11,11 @@ The seed way is real, and Djibouti's guide teaches it. But the module's title is
 
 In your mind's eye: a seed, then the same kind of plant sprouting from soil. Say where the new plant started.
 
+[Picture 37348 — the seed way]
+
 In your mind's eye: a seed swelling and splitting as its shoot comes out. Say what started the new plant.
+
+[Picture 37349 — new plants without a seed]
 
 ## Sub lesson 2 — Other ways — bulb and cutting
 

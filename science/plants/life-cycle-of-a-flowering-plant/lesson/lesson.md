@@ -11,7 +11,11 @@ Waking the seed is **germination**, and germination has conditions: the seed nee
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37308 — the seed and its waking]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[GIF 37309 — root first, then shoot]
 
 ## Sub lesson 2 — Growth, flowering and new seeds — the circle closes
 
@@ -21,7 +25,11 @@ That is why it is a **life cycle** and not a line: the annual plant's life ends 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37310 — it grows, then it flowers]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37311 — the circle closes]
 
 ## The key ideas
 

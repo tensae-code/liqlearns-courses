@@ -11,7 +11,11 @@ The order matters, and the experiment proves it: dig up (gently) one seed a day 
 
 In your mind's eye: a bean seed at four moments: whole, coat split with the root out, shoot rising, first leaves open. The student puts the four moments in order before reading on.
 
+[Picture 37359 — the seed wakes up]
+
 In your mind's eye: a seed germinating over days, root first then shoot. Say which part came first and how they know.
+
+[Picture 37360 — root first, then the shoot]
 
 ## Sub lesson 2 — What each plant part does — found by experiment
 

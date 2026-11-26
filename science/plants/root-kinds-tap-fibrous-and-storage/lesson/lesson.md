@@ -9,7 +9,11 @@ Seychelles' Unit 4 Topics 3–4 sort plant roots into two great kinds. A tap roo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37350 — tap roots and fibrous roots]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37351 — roots hold, roots store]
 
 ## Sub lesson 2 — Roots hold, support — and store
 

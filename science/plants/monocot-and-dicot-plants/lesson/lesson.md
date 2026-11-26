@@ -9,7 +9,11 @@ Monocot and dicot plants: flowering plants told apart by their seeds, roots and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37323 — one cotyledon, or two]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37324 — maize against bean]
 
 ## Sub lesson 2 — Flowering plants sorted into monocots and dicots
 

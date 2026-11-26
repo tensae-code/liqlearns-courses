@@ -11,7 +11,11 @@ Stage is not a small word here: at each great stage the plant looks different, i
 
 In your mind's eye: one plant shown at its great stages, small to full-grown, in a row. Name each stage in order.
 
+[Picture 37316 — the plant's stages and your own]
+
 In your mind's eye: a plant growing stage by stage, beginning to full form. Say what changed at each stage.
+
+[Picture 37317 — small to full grown, then seeds]
 
 ## Sub lesson 2 — Compared with the stages of a human life
 

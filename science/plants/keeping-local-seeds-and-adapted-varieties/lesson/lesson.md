@@ -9,11 +9,15 @@ Lesson 22: seed kinds — traditional seed selected and saved by farmers each ye
 
 In your mind's eye: lesson 22 as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37306 — the seed shelf]
+
 ## Sub lesson 2 — Why save creole (criolla) seeds
 
 Why save creole (criolla) seeds: bought or gathered once, self-sufficiency, strong resistant plants selected year by year, stronger flavour, and endless diversity of size, shape and colour — Honduras's dry-corridor trial of Brazilian heat-resistant vegetable seed in Choluteca, Valle and Comayagua opens the lesson.
 
 In your mind's eye: why save creole (criolla) seeds as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37307 — saved seed and bought seed]
 
 ## The key ideas
 

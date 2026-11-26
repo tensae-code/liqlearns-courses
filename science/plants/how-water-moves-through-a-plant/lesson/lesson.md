@@ -11,7 +11,11 @@ The journey is not a guess — the book's own tests show it: a plant standing in
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37300 — in at the roots, up the stem]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[GIF 37301 — dyed water climbs the stem]
 
 ## Sub lesson 2 — Out through the leaves into the air
 

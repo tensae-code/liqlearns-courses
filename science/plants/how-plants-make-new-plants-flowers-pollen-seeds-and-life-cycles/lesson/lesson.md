@@ -9,7 +9,11 @@ Unit 1, Ch.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37296 — the peanut: flower above, fruit below]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37297 — pollen rides four ways]
 
 ## Sub lesson 2 — Plants Produce New Plants
 

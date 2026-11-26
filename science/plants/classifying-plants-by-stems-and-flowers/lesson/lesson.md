@@ -9,7 +9,11 @@ Plants can be sorted by the kind of stem they grow on. A tree grows on one stron
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37282 — tree, shrub and herb]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37283 — with flowers, and without]
 
 ## Sub lesson 2 — Grouping by flowers — flowering or not
 

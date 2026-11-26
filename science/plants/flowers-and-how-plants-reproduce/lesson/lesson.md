@@ -11,7 +11,11 @@ Outside sit the **petals**, the flower's coloured flags. Inside stand the **stam
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37286 — the flower's parts named]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37287 — pollen travels on the bee]
 
 ## Sub lesson 2 — From pollen to seed
 

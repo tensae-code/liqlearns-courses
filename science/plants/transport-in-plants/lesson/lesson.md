@@ -9,7 +9,11 @@ A plant takes water in at its **roots**, and that water must reach every leaf. I
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37373 — dyed water climbs — watch]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37374 — food travels from the leaves]
 
 ## Sub lesson 2 — Transportation of food in plants
 

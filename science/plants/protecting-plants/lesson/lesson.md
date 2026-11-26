@@ -9,11 +9,15 @@ The books teach this part as why and how plants are protected — worked through
 
 In your mind's eye: let's protect plants! as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37343 — a fence and a keep-safe sign]
+
 ## Sub lesson 2 — How to protect plants from disappearing
 
 Kazakhstan's books teach this as their own lesson — "How to protect plants from disappearing". The learner works through the books' own presentation of how to protect plants from disappearing — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: how to protect plants from disappearing as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37344 — do not pick — let them live]
 
 ## Sub lesson 3 — How to preserve the world of plants
 
@@ -21,17 +25,23 @@ Kazakhstan's books teach this as their own lesson — "How to preserve the world
 
 In your mind's eye: how to preserve the world of plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37345 — a seed bank and a garden]
+
 ## Sub lesson 4 — How to protect plants
 
 Kazakhstan's books teach this as their own lesson — "How to protect plants". The learner works through the books' own presentation of how to protect plants — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: how to protect plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37346 — hands that shelter]
+
 ## Sub lesson 5 — Why plants must be treated with care
 
 Kazakhstan's books teach this as their own lesson — "Why plants must be treated with care". The learner works through the books' own presentation of why plants must be treated with care — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: why plants must be treated with care as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37347 — treated with care, plants live]
 
 ## The key ideas
 

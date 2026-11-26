@@ -9,7 +9,11 @@ Think of a plant growing where nobody planted it, and a plant in a garden or fie
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37377 — wild plants grow by themselves]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37378 — sown plants, tended by people]
 
 ## Sub lesson 2 — Sown plants — planted by people
 

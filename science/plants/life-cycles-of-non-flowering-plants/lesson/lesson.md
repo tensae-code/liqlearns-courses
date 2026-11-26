@@ -11,7 +11,11 @@ That separateness is the book's own structure, and it is the lesson: cycle first
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37312 — a life cycle without flowers]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37313 — spores do the work]
 
 ## Sub lesson 2 — The activity book's matching work
 

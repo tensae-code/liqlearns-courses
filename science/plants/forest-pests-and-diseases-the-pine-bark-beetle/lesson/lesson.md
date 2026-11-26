@@ -9,6 +9,8 @@ the pine bark beetle (gorgojo descortezador) has always existed in the pine fore
 
 In your mind's eye: the pine bark beetle (gorgojo descortezador) has always existed as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37288 — the beetle under the bark]
+
 ## The key ideas
 
 - the pine bark beetle (gorgojo descortezador) has always existed in the pine forests, controlling pine populations like any organism in an ecosystem; the problem comes when climate conditions and forest fires boost its populations, attacking trees already weakened by fire or age; the ICF's functions: prevent, watch for, locate and combat fires, plagues and diseases (guide evidence)

@@ -9,7 +9,11 @@ On a **forest trip**, trees are named where they stand — not from a picture in
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37302 — leaf in one hand, key in the other]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37303 — each answer narrows it down]
 
 ## Sub lesson 2 — The tree key — Ég greini tré
 

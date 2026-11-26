@@ -9,7 +9,11 @@ South Sudan's Primary 1 book compares the plants of the local area with plants f
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37284 — wet place, dry place]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37285 — the weather shapes the plant]
 
 ## Sub lesson 2 — What is different — and weather is the reason
 

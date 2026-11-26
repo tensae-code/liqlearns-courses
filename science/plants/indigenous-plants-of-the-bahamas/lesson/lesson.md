@@ -13,7 +13,11 @@ The word does the work of this sub lesson: a plant found growing wild is not aut
 
 In your mind's eye: a flowering plant growing wild in Bahamian ground, shore or pine land behind it. Say what in the picture shows the plant is growing wild, not planted, before reading on.
 
+[Picture 37304 — the plants that belong]
+
 In your mind's eye: the same flowering plant through its year: bud, open flower, fruit, seeds falling. Name the stage at which a flowering plant can be identified most surely, and says why.
+
+[Picture 37305 — name it by what can be checked]
 
 ## Sub lesson 2 — Identifying and describing them
 

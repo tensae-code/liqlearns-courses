@@ -9,6 +9,8 @@ alternative growing systems: hydroponics (roots in solid substrate fed by nutrie
 
 In your mind's eye: alternative growing systems as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37293 — roots in water, plants on walls]
+
 ## The key ideas
 
 - alternative growing systems: hydroponics (roots in solid substrate fed by nutrient solutions in water), green roofs (organised on roofs, saving space and regulating temperature), hanging plants on walls, and vertical gardens (a green wall of diverse species)

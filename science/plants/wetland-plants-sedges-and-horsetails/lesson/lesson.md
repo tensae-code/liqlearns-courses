@@ -9,7 +9,11 @@ At a wetland's edge stand grasses, sedges and horsetails, all green, all upright
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37375 — sedges have edges]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37376 — the horsetail: joints and a spike]
 
 ## Sub lesson 2 — Horsetails — and vetrarkvíðastör
 
