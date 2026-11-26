@@ -10,11 +10,15 @@ Nyasaland and the two Rhodesias travel Britain's road to independence, each with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39153 — three flags along one road]
+
 ## Sub lesson 2 — Southern Rhodesia
 
 Southern Rhodesia's settlers refuse London's neocolonial proposal and entrench their own regime against the nationalist tide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39154 — a settler at his desk, London's letter crossed out]
 
 ## Say it to your companion
 

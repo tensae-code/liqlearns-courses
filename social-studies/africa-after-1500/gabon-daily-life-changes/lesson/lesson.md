@@ -10,6 +10,8 @@ The traditional house of planks and beaten earth gives way, in town, to villas a
 
 In your mind's eye: a traditional Gabonese house of planks and beaten earth beside a modern town villa, with a canoe and a road vehicle. Say one thing that changed.
 
+[Picture 39139 — a plank house beside a villa and flats]
+
 ## Sub lesson 2 — Trade changes — from barter to money and markets
 
 From barter between villages to money and markets, Gabonese trade keeps changing shape (Leçon 42 L'évolution des échanges et du commerce)

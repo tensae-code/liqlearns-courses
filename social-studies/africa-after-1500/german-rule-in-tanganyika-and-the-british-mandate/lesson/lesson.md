@@ -10,11 +10,15 @@ German rule is hated for cruelty and forced plantation labour; after the war the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39144 — a crossed-out flag and a new name panel]
+
 ## Sub lesson 2 — Colonial Administration in Tanganyika (Direct Rule)
 
 The Germans rule directly — by force, an 1891 railway to the coast, and missionaries whose "beautiful" preaching softens hearts — because, having tasted Tanganyikan resistance, they dare not rule indirectly
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39145 — an officer, a railway climbing to the coast, a mission]
 
 ## Say it to your companion
 

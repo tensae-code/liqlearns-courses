@@ -10,6 +10,8 @@ resistance grows into organised liberation movements (UA6 Les mouvements de lib�
 
 In your mind's eye: an organised liberation movement — people meeting, organising and marching toward independence. Say what the movement aims at.
 
+[Picture 39161 — a meeting under a tree becoming a march]
+
 ## Sub lesson 2 — Aiming at independence
 
 the liberation movements aim at independence for their peoples (UA6 Les mouvements de libération)

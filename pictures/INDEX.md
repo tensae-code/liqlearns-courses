@@ -9359,3 +9359,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45311 | pictures/45311.webp | a drawn upgrade - a small grey memory stick of 4 replaced by a long green stick of 16: the same job with room to breathe | ICT — Hardware — Why We Install and Upgrade Hardware and Software |
 | 45312 | pictures/45312.webp | a drawn management shelf holding five labelled tool boxes - users, disks, services, security, back-up - each with its job underneath | ICT — Hardware — Windows Administrative Tools |
 | 45313 | pictures/45313.webp | a drawn administrator with a gold key beside an open procedure book ticked in order - know why, one change at a time, write it down, check afterwards | ICT — Hardware — Windows Administrative Tools |
+| 39138 | pictures/39138.webp | A chief signs the paper at a table while troops with a flag march in behind the arrow | Social Studies — Africa after 1500 — From treaties to military conquest |
+| 39139 | pictures/39139.webp | A traditional plank-and-earth house beside a town villa and apartment block, a truck nearby | Social Studies — Africa after 1500 — Gabon — daily life changes |
+| 39140 | pictures/39140.webp | A map of French Equatorial Africa in four blocks, Gabon highlighted among them | Social Studies — Africa after 1500 — Gabon in French Congo and the AÉF |
+| 39141 | pictures/39141.webp | Gabon's green-yellow-blue flag rises on its pole as people watch, 17 August 1960 | Social Studies — Africa after 1500 — Gabon — independence, 1960 |
+| 39142 | pictures/39142.webp | Crowned King Denis raises a hand to refuse the officer's treaty, his people behind him | Social Studies — Africa after 1500 — Gabon — resistance to colonisation |
+| 39143 | pictures/39143.webp | Women and men stand together before the continent's outline, learning and leading | Social Studies — Africa after 1500 — Gender and Africa's future |
+| 39144 | pictures/39144.webp | Two panels: the German flag crossed out, then a flag beside the name TANGANYIKA | Social Studies — Africa after 1500 — German rule in Tanganyika and the British mandate |
+| 39145 | pictures/39145.webp | A German officer stands over a railway running to the coast, a mission church beyond | Social Studies — Africa after 1500 — German rule in Tanganyika and the British mandate |
+| 39146 | pictures/39146.webp | Two panels: Ghana's ballot box with its flag, Angola's fighters with theirs | Social Studies — Africa after 1500 — Ghana and Angola win freedom |
+| 39147 | pictures/39147.webp | Two panels: a peaceful handover handshake, and a fighter beside the scar of war | Social Studies — Africa after 1500 — Ghana and Angola win freedom |
+| 39148 | pictures/39148.webp | Gordon stands by a struck-through slave chain, the palace at Khartoum across the Nile | Social Studies — Africa after 1500 — Gordon in Sudan — and the road to the Mahdiyya |
+| 39149 | pictures/39149.webp | Two map panels compared: Sanhaja huts before, Arab arrows and a camel after | Social Studies — Africa after 1500 — The Hassaniya Arabs enter Mauritania |
+| 39150 | pictures/39150.webp | The old economy in one row: cattle, a gum tree, stacked salt slabs and a caravan camel | Social Studies — Africa after 1500 — The Hassaniya Arabs enter Mauritania |
+| 39151 | pictures/39151.webp | An emir's great tent rises among village huts, a well and a caravan camel | Social Studies — Africa after 1500 — The Hassaniya Arabs enter Mauritania |
+| 39152 | pictures/39152.webp | A three-camel caravan crosses the dunes under red direction arrows, the 1200s | Social Studies — Africa after 1500 — The Hassaniya Arabs enter Mauritania |
+| 39153 | pictures/39153.webp | Three flags stand along one road: Nyasaland, Northern Rhodesia, Southern Rhodesia | Social Studies — Africa after 1500 — Independence in British Central Africa |
+| 39154 | pictures/39154.webp | A settler premier at his desk refuses London's crowned letter, a fence rising beside him | Social Studies — Africa after 1500 — Independence in British Central Africa |
+| 39155 | pictures/39155.webp | The continent's outline ringed by five rising flags under the year 1960 | Social Studies — Africa after 1500 — Independent Africa and its challenges |
+| 39156 | pictures/39156.webp | Kampala's duka with its awning, silver rupee coins and the railway behind | Social Studies — Africa after 1500 — Indians and the Uganda Railway |
+| 39157 | pictures/39157.webp | Turbaned workers lay the track with hand tools, the duka they later open beyond | Social Studies — Africa after 1500 — Indians and the Uganda Railway |
+| 39158 | pictures/39158.webp | An Asian dhow unloads goods bales on the shore, a trader before the European fort | Social Studies — Africa after 1500 — Indians and the Uganda Railway |
+| 39159 | pictures/39159.webp | The railway line climbs from Mombasa's coast to Lake Victoria, a little train on it | Social Studies — Africa after 1500 — Indians and the Uganda Railway |
+| 39160 | pictures/39160.webp | A writer holds his manuscript before an oil derrick on dark polluted water | Social Studies — Africa after 1500 — Ken Saro-Wiwa and the Ogoni struggle |
+| 39161 | pictures/39161.webp | A meeting under a tree turns, by a red arrow, into a march under an INDEPENDENCE banner | Social Studies — Africa after 1500 — Liberation movements |

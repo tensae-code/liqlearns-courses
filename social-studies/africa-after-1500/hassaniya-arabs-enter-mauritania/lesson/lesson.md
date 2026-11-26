@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: Two maps are compared 
 Two maps are compared to deduce when the Arab Hassaniya tribes entered Mauritania and remade its society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39149 — two map panels — huts, then arrows and a camel]
 ## Sub lesson 2 — Dossier 9: Mauritania before the occupation — the economy
 
 On what did the Mauritanian economy rest before the French came — herding, gum, salt and the caravan trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39150 — a cow, a gum tree, salt slabs and a camel]
 ## Sub lesson 3 — Lesson 8: Mauritania before the French occupation
 
 The country the French will invade is first shown whole — its tribes, emirates and desert trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39151 — an emir's great tent among huts and a well]
 ## Sub lesson 4 — Lesson 1: The Hassaniya migration to Mauritania in the 13th century
 
 Arab Hassaniya tribes migrate into the western Sahara in the 1200s and slowly Arabise the Sanhaja country
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39152 — a camel caravan crossing dunes under arrows]
 
 ## Say it to your companion
 

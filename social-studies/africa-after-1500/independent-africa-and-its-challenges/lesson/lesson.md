@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 1960 is the crucial ye
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39155 — the continent ringed by rising flags, 1960]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Independent Africa and its challenges — 1960 is the crucial year of the decolonisation wave; independence opens a new phase of enormous challenges still unmet today. Then let your companion ask you one hard question about it — answer from the lesson.

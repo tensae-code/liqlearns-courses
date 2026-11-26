@@ -10,6 +10,8 @@ the anti-slavery crusade is the last, most hated face of the old order, and it l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39148 — Gordon, a struck-through chain, the Khartoum palace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Gordon's Hukmdariyya in Sudan (1877–1879) — the anti-slavery crusade is the last, most hated face of the old order, and it leaves the stage set for the Mahdi. Then let your companion ask you one hard question about it — answer from the lesson.

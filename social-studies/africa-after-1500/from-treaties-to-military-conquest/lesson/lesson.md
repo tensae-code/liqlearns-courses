@@ -10,6 +10,8 @@ African chiefs sign what they think are trade treaties, then watch European troo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39138 — a chief signing, then troops marching in]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: From treaties to military conquest — African chiefs sign what they think are trade treaties, then watch European troops move in — the paper road from treaty to military conquest. Then let your companion ask you one hard question about it — answer from the lesson.

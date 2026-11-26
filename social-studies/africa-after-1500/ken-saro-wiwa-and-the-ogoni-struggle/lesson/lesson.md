@@ -10,6 +10,8 @@ writer Ken Saro-Wiwa champions the Ogoni, whose oil-rich Niger Delta land is pol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39160 — a writer with his manuscript before an oil derrick]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 2, Case Study 3 "Fair And Equal Treatment For All" — writer Ken Saro-Wiwa champions the Ogoni, whose oil-rich Niger Delta land is polluted while they stay poor; after Abacha's 1993 seizure of power he is jailed repeatedly and hanged on 10 November 1995 after an unfair trial. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the guide raises the question of gender as a question for the whole continent (U
 
 In your mind's eye: african women and men learning and leading together. Say why unity needs everyone.
 
+[Picture 39143 — women and men in a row before Africa]
+
 ## Sub lesson 2 — Unity needs everyone
 
 the guide argues the continent cannot unite while half its people are held back (UA8 La question du genre et l'unité du continent)

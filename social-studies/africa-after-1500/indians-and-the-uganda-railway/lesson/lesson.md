@@ -10,11 +10,15 @@ Allidina Visram opens Kampala's first shop, Indian coolies build the Kenya–Uga
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39156 — a duka, rupee coins and a railway]
+
 ## Sub lesson 2 — The Indians in East Africa
 
 The testing exercises ask why Indian coolies were brought to Uganda and which Indians became the money lenders — labour first, then the dukas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39157 — turbaned workers laying track, a duka beyond]
 
 ## Sub lesson 3 — Asians in East Africa
 
@@ -22,11 +26,15 @@ Besides the Europeans, the Asians take an interest in East Africa — the chapte
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39158 — a dhow, goods bales and a European fort]
+
 ## Sub lesson 4 — The Uganda Railway
 
 Britain wants Uganda as the Nile's source and for its cotton, richer than Kenya's; the line planned from 1892 kills those who refuse it passage — the Nandi leader Koitale among them — and grows towns on European and Indian businesses
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39159 — a railway climbing from Mombasa to the Lake]
 
 ## Say it to your companion
 

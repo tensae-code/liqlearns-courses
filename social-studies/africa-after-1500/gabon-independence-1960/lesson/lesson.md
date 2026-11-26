@@ -10,6 +10,8 @@ After years inside French rule, Gabon raises its own flag in 1960 (Leçon 32 L'i
 
 In your mind's eye: gabon's flag being raised at independence in 1960. Say the date Gabon became independent.
 
+[Picture 39141 — Gabon's tricolour rising on a pole]
+
 ## Sub lesson 2 — Decolonisation — the colony unwinds
 
 Step by step the colony unwinds toward the independence of 1960 (Leçon 45 La décolonisation)

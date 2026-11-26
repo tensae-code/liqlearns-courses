@@ -10,6 +10,8 @@ From the first treaties, people around King Denis's court and beyond refuse Fren
 
 In your mind's eye: gabonese leaders and communities refusing French domination. Name one Gabonese resister.
 
+[Picture 39142 — King Denis raising a hand in refusal]
+
 ## Sub lesson 2 — Gabon's resisters rise against French rule
 
 Emane Ntole, Nyonda Makita (Mavurulu), Mbombè and the Binzima movement rise against French rule (Leçon 31 La résistance à la colonisation au Gabon)

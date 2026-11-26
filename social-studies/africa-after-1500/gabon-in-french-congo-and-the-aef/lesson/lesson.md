@@ -10,6 +10,8 @@ Gabon is folded into a larger French colony and ruled from outside its own borde
 
 In your mind's eye: a map of French Equatorial Africa showing Gabon as one territory among four. Say how many territories the AÉF had.
 
+[Picture 39140 — a four-territory map with Gabon lit green]
+
 ## Sub lesson 2 — From French Congo to French Equatorial Africa
 
 The colonies are regrouped as French Equatorial Africa, with Gabon one territory among four (Leçon 37 Du Congo français à l'Afrique équatoriale française)
