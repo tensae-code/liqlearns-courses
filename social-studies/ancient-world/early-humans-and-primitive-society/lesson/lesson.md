@@ -10,11 +10,15 @@ the first people learn fire, tools and speech, and the lone family grows into cl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60590 — fire, tools and speech]
+
 ## Sub lesson 2 — §2 The early stages of the earliest man and §3 Clan society
 
 from the first tool-makers to settled clan communities with elders, custom and shared work — how society exists before kings
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60591 — clan life before kings]
 
 ## Say it to your companion
 

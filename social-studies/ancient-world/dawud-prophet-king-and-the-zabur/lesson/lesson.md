@@ -10,6 +10,8 @@ Dawud unites the tribes under one rule, founds the kingdom and takes Jerusalem a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60582 — Dawud, prophet-king and judge]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Civilisation of the prophet Dawud — dawud unites the tribes under one rule, founds the kingdom and takes Jerusalem as its capital, receives the Zabur, and rules as prophet, king and judge — startled by two litigants over the wall (angels, with their parable of the ninety-nine ewes and the one), he judges too fast, knows it was a test and repents, while in the case of the sheep in the crop his young son Sulayman's ruling improves on his own; mountains and birds join his praise, and iron softens in his hands into coats of mail. Then let your companion ask you one hard question about it — answer from the lesson.

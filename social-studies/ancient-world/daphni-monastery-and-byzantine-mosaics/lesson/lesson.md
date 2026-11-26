@@ -10,6 +10,8 @@ an 11th-century monastery on the Sacred Way guards some of Byzantium's finest go
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60581 — Daphni's gold mosaics]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 6.8: The Daphni Monastery — an 11th-century monastery on the Sacred Way guards some of Byzantium's finest gold mosaics through earthquakes and restorations. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Farming pins people to one place; in Cyprus they raise the round-house village o
 
 In your mind's eye: the key place or moment of Cyprus Neolithic — Choirokoitia and the first villages as the book shows it: point to it and say what it shows.
 
+[Picture 60571 — Choirokoitia's round houses]
+
 ## Sub lesson 2 — How Neolithic people built their houses
 
 Stone, mud and timber become round houses at Choirokoitia, whose disputed roof shape shows evidence changing minds.

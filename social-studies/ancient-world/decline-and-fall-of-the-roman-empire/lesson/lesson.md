@@ -10,6 +10,8 @@ crisis, Constantine's new capital and new faith, then the western empire falls (
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60585 — 476 — the West falls, the East stands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §54 The decline and fall of the Roman Empire — crisis, Constantine's new capital and new faith, then the western empire falls (476) while Constantinople carries Rome's name east. Then let your companion ask you one hard question about it — answer from the lesson.

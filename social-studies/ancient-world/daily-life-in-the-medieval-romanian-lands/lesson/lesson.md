@@ -10,6 +10,8 @@ bread and millet mămăliga for all, meat mostly at nobles' tables and great fea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60580 — bread for all, meat at feasts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 7: Viața cotidiană în Evul Mediu — bread and millet mămăliga for all, meat mostly at nobles' tables and great feasts; a bride's dowry follows her rank — and in Moldavia even sons could receive one. Then let your companion ask you one hard question about it — answer from the lesson.

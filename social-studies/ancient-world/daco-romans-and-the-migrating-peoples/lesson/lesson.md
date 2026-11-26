@@ -10,6 +10,8 @@ after Aurelian withdraws, wave after wave — Sarmatians, then others — crosse
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60575 — waves cross, locals absorb them]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea VI, Lecția 5: Daco-romanii și migratorii — after Aurelian withdraws, wave after wave — Sarmatians, then others — crosses the Daco-Romans' land, and the more numerous, more Romanised locals absorb the newcomers. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Alexander's successors abolish Cyprus's kings, and Ptolemaic governors rule the 
 
 In your mind's eye: the key place or moment of Cyprus under the Ptolemies as the book shows it. Point to it and say what it shows.
 
+[Picture 60572 — one province, no kings]
+
 ## Sub lesson 2 — The importance of Cyprus for the Ptolemaic kingdom — the Kyrenia ship
 
 Cypriot copper, timber, wine and harbours feed Ptolemaic power, and a merchant ship sunk off Kyrenia still tells the trade story.

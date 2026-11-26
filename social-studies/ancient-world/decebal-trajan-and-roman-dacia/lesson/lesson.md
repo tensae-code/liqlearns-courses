@@ -10,11 +10,15 @@ Decebal hides Dacia's treasure by diverting a river, Trajan conquers Dacia anywa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60583 — the river hides the treasure]
+
 ## Sub lesson 2 — Unitatea VI, Lecția 2: Dacia pe timpul lui Decebal. Războaiele daco-romane
 
 Decebal reunifies and reforms Dacia, fights Trajan in 101–102, breaks the peace in Rome's telling, and falls in 105–106 when Rome comes for him and his capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60584 — Decebal's last stand]
 
 ## Say it to your companion
 

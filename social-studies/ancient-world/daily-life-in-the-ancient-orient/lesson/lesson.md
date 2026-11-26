@@ -10,6 +10,8 @@ inside the ancient eastern home — food, dress, family and the New Year feast o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60579 — the eastern home and its feast]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 2: Modul de viață în Orientul Antic — inside the ancient eastern home — food, dress, family and the New Year feast of the Nile flood in Egypt and of Babylon. Then let your companion ask you one hard question about it — answer from the lesson.

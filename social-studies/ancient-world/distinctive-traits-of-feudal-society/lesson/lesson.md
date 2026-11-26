@@ -10,6 +10,8 @@ pupils summarise lord, vassal, serf and Church into the feudal pattern before le
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60586 — the feudal pattern summed up]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.8 Distinctive traits of feudal society (synthesis) — pupils summarise lord, vassal, serf and Church into the feudal pattern before leaving Europe. Then let your companion ask you one hard question about it — answer from the lesson.

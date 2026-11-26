@@ -10,11 +10,15 @@ Two brothers invent an alphabet for the Slavs; their disciples carry it to Bulga
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60573 — the brothers invent the alphabet]
+
 ## Sub lesson 2 — Lesson 9: The holy brothers Cyril and Methodius — apostles and enlighteners of the Slavic world
 
 The brothers give the Slavs letters, and Bulgaria shelters their disciples (Lesson 9: The holy brothers Cyril and Methodius — apostles and enlighteners of the Slavic world)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60574 — Bulgaria shelters the disciples]
 
 ## Say it to your companion
 
