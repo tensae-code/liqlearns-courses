@@ -10,6 +10,8 @@ War and peace, the fight for rights and freedoms, and a developing world — Aus
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62228 — australia after 1945]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Overview 2: Australia after 1945 (OV2.2–OV2.5) — War and peace, the fight for rights and freedoms, and a developing world — Australia's post-war frame in one overview. Then let your companion ask you one hard question about it — answer from the lesson.

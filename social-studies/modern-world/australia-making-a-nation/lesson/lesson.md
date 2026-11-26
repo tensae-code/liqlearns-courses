@@ -10,11 +10,15 @@ Settlement expands, living and working conditions are fought over, self-governme
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62234 — making a nation]
+
 ## Sub lesson 2 — Depth Study 2a: Indigenous contact and non-European experiences (2a.3–2a.4, 2a.7)
 
 Indigenous contact experiences and non-European migrants' experiences stand inside nation-making, closing with Indigenous and women's rights (Depth Study 2a: Indigenous contact and non-European experiences (2a.3–2a.4, 2a.7))
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62235 — inside nation making]
 
 ## Say it to your companion
 

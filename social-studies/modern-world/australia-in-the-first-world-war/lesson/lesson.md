@@ -10,6 +10,8 @@ Gallipoli and the Western Front, prisoners of war, the home front, the conscript
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62231 — the anzac legend]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 3a: Australia in World War I (3a.3–3a.12) — Gallipoli and the Western Front, prisoners of war, the home front, the conscription referendums that divide the nation, commemoration and the making of the Anzac legend. Then let your companion ask you one hard question about it — answer from the lesson.

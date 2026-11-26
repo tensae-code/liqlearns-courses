@@ -10,6 +10,8 @@ the Turkish republic rewrites its 1924 constitution by 1939 in work, education, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62220 — forced modernisation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Turkey remade — the Turkish republic rewrites its 1924 constitution by 1939 in work, education, belief and personal freedom — the pupil's nearest example of forced modernisation. Then let your companion ask you one hard question about it — answer from the lesson.

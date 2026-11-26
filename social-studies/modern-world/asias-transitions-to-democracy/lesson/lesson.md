@@ -10,6 +10,8 @@ The closing decades of the 20th century flip Asia's regimes — crowds topple Ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62217 — regimes flip]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The election process in Commonwealth countries and Asia — the closing decades of the 20th century flip Asia's regimes — crowds topple Marcos in 1986, Korea and Taiwan negotiate out of military rule in 1987, the UN intervenes in Cambodia in 1993, Suharto falls in 1998, East Timor is rehabilitated in 2001. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The home front, women's changing roles, and the research project: why did the go
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62232 — the home front]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 3b: Australia's home front (3b.10–3b.14) — The home front, women's changing roles, and the research project: why did the government withhold details about the bombing of Darwin?. Then let your companion ask you one hard question about it — answer from the lesson.

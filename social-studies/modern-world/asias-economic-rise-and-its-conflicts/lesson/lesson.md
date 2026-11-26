@@ -18,17 +18,23 @@ The four Asian Tigers industrialise between the 1960s and 1990s; China and India
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62214 — power shifts east]
+
 ## Sub lesson 3 — Governments and change in Asia and the world / Impact of different governments' actions / Government reactions and contributions to change / Sustainability or change policies and plans of Asian governments (incl. investigating China's Belt and Road)
 
 Asian governments bet on western capitalism and win — agricultural exporters become industrial powers in twenty years; Malaysia and Singapore steer with industrial policy, Deng Xiaoping blends Marx with markets as "capitalism with Chinese characteristics", and a 56%-middle-class Asia plans its next stage
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62215 — a bet that won]
+
 ## Sub lesson 4 — Unit 12.2 global-issues essay task
 
 Students collect media evidence and write on the influence of China or India in the 21st century — the region's new giants weighed from PNG's side of the fence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62216 — china or india]
 
 ## Say it to your companion
 

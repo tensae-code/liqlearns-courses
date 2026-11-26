@@ -10,6 +10,8 @@ Aurangzeb stretches the empire to its greatest size and breaks it doing so — e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62226 — stretched until it broke]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Aurangzeb, the Marathas and the long Mughal decline. Then let your companion ask you one hard question about it — answer from the lesson.

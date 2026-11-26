@@ -10,6 +10,8 @@ Post-war migration — government policies and patterns, hardship and hostels, w
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62237 — new arrivals new lives]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 5c: Migration experiences — Post-war migration — government policies and patterns, hardship and hostels, world events driving arrivals, and the migrant contribution to Australia. Then let your companion ask you one hard question about it — answer from the lesson.

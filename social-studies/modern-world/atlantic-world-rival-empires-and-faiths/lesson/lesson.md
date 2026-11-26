@@ -10,6 +10,8 @@ The Reformation split Europe's churches into rival camps. Religion was no longer
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62225 — one faith becomes rival camps]
+
 ## Sub lesson 2 — The split crosses the ocean
 
 Dutch, French and English challengers carried the contest across the Atlantic. They raided Spanish treasure, traded where Spain forbade trade, and planted colonies in the world Spain claimed alone.

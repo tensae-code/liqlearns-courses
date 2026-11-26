@@ -10,6 +10,8 @@ Crushing communists at home, fighting in Vietnam, a nation divided over the war,
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62233 — a nation divided]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 6b: Australia in the Vietnam War era — Crushing communists at home, fighting in Vietnam, a nation divided over the war, its lasting impact — and the research project on nuclear testing at Maralinga. Then let your companion ask you one hard question about it — answer from the lesson.

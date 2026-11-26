@@ -10,6 +10,8 @@ Post-war popular culture — US and British influence, television's arrival, spo
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62236 — television arrives]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 5a: Popular culture — Post-war popular culture — US and British influence, television's arrival, sport, music and film — changes Australian beliefs and values. Then let your companion ask you one hard question about it — answer from the lesson.

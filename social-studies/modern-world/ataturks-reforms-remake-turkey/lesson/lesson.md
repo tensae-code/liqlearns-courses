@@ -12,6 +12,8 @@ Then the political remaking, in swift order: the sultanate abolished on 1 Novemb
 
 In your mind's eye: the new republic's everyday revolution — a classroom learning the new alphabet from a blackboard, a wall clock and calendar in the new style beside it. The student points to the letters and the clock and says what has changed in one ordinary room.
 
+[Picture 62219 — six arrows]
+
 ## Sub lesson 2 — Education, letters, clocks and names — the social revolution
 
 The revolution's second wave reaches daily life. Education is unified under one system; the alphabet and language reforms give the nation new letters to read itself in; the calendar, the clock and the measures are changed to the world's common reckoning. The Surname Law of 21 June 1934 gives every citizen a family name — and the founder his: Atatürk, father of the Turks. And rights are given to women that remake their place in public life, up to the ballot.
