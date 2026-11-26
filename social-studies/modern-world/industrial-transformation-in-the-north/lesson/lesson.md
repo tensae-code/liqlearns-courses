@@ -10,6 +10,8 @@ Mills rose in the Northeast — factories gathering workers under one roof to ma
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 63749 — mills rise in the northeast]
+
 ## Sub lesson 2 — A capitalist republic of banks and markets
 
 A vibrant capitalist republic of banks and markets followed the mills: credit, buying and selling, and fortunes made in trade and manufacture. Money organised the new North.

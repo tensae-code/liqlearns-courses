@@ -10,6 +10,8 @@ Students raise Tritura on 10 January 1966 (dissolve the PKI, purge the cabinet, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63742 — tritura and supersemar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 3.A Masa Transisi Menuju Orde Baru. Then let your companion ask you one hard question about it — answer from the lesson.

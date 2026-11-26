@@ -10,6 +10,8 @@ Reformasi-era governments build transport infrastructure to the border regions a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63729 — building and disaster]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 4.E-F Reformasi Ekonomi dan Pembangunan Infrastruktur / Bencana dan Penanganannya. Then let your companion ask you one hard question about it — answer from the lesson.

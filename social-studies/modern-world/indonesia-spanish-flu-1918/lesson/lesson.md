@@ -10,6 +10,8 @@ The 1918 Spanish flu sweeps the Indies along the shipping routes, and the coloni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63736 — flu along the shipping routes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab II.C Akhir Masa Kolonial Belanda. Then let your companion ask you one hard question about it — answer from the lesson.

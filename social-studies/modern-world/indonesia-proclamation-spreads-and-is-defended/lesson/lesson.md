@@ -10,6 +10,8 @@ Printed proclamations travel to the regions, crowds fill Jakarta's Ikada field f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63726 — the word travels]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab IV.D Sambutan terhadap Proklamasi Kemerdekaan. Then let your companion ask you one hard question about it — answer from the lesson.

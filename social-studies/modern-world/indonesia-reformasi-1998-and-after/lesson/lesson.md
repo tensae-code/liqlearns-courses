@@ -10,11 +10,15 @@ Reformasi opens politics and expression, reforms the bureaucracy and state enter
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63727 — reformasi opens]
+
 ## Sub lesson 2 — Bab 4.A Reformasi: Awal Demokrasi Politik yang Terbuka
 
 The book first asks what separates revolution from reform, then replays the seconds before B.J. Habibie is sworn in as president and the open democratic era begins.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63728 — reform not revolution]
 
 ## Say it to your companion
 

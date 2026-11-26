@@ -10,6 +10,8 @@ The Minahasa people of Tondano fight the colonial state in North Sulawesi's long
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63741 — a long little told war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.B.1 Perang Tondano. Then let your companion ask you one hard question about it — answer from the lesson.

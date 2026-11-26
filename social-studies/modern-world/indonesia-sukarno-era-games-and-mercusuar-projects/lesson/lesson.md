@@ -10,6 +10,8 @@ Sukarno builds prestige in concrete and sport — the 1962 Asian Games, his riva
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63737 — prestige in concrete and sport]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.D Perkembangan Sosial, Ekonomi, dan Budaya Masyarakat pada masa Sukarno. Then let your companion ask you one hard question about it — answer from the lesson.

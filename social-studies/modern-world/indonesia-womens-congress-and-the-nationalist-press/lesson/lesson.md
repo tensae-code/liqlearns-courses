@@ -10,6 +10,8 @@ The First Indonesian Women's Congress meets in Yogyakarta, 22-25 December 1928, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63746 — december 1928]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab II.B. Then let your companion ask you one hard question about it — answer from the lesson.

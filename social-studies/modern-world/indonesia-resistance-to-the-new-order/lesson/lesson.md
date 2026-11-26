@@ -10,6 +10,8 @@ Petitions, student movements and opposition figures answer three decades of Suha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63731 — three decades answered]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 3.C Respons dan Resistensi terhadap Kebijakan Ekonomi dan Politik Pemerintahan Soeharto. Then let your companion ask you one hard question about it — answer from the lesson.

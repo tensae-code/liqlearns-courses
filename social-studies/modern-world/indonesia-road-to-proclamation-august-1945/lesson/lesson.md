@@ -10,6 +10,8 @@ Japan's defeats mount, Hiroshima lies in ruins, Tokyo permits the Indonesian fla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63735 — the vacuum opens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab IV.A-B Kekalahan-Kekalahan Jepang / Menuju Proklamasi. Then let your companion ask you one hard question about it — answer from the lesson.

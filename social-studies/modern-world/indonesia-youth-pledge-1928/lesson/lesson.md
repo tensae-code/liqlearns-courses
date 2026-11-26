@@ -10,11 +10,15 @@ At the Second Youth Congress in Jakarta in 1928, young delegates from rival regi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63747 — one motherland one nation one language]
+
 ## Sub lesson 2 — Bab 3.C.1-3 Menuju Sumpah Pemuda / Bangkitnya Nasionalisme Modern / Perjuangan di Volksraad
 
 The road runs to the 1928 Youth Pledge, a modern nationalism that fights on two fronts at once — mass organisation outside and speeches inside the colonial Volksraad — until the colonial government's final years.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63748 — two fronts at once]
 
 ## Say it to your companion
 

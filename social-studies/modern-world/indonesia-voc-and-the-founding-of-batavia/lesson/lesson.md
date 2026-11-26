@@ -10,11 +10,15 @@ Cornelis de Houtman reaches Banten in 1596, the Treaty of Tordesillas logic divi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63744 — batavia the asian capital]
+
 ## Sub lesson 2 — Bab I.B Menganalisis Kemaharajaan VOC / Keserakahan Kongsi Dagang
 
 The chartered company grows from spice trader into a territorial empire whose greed, monopolies and violence the chapter puts on trial.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63745 — a company on trial]
 
 ## Say it to your companion
 
