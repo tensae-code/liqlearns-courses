@@ -10,6 +10,8 @@ Brazza ascends the Ogooué and explores the river into Gabon's interior (Leçon 
 
 In your mind's eye: brazza travelling up the Ogooué river by canoe through the forest. Say which river Brazza explored.
 
+[Picture 39056 — Brazza poling a canoe up the Ogooué]
+
 ## Sub lesson 2 — The treaties that open Gabon and Congo to France
 
 Brazza signs the treaties that open Gabon and Congo to France (Leçon 24 De Brazza et l'exploration de l'Ogooué)

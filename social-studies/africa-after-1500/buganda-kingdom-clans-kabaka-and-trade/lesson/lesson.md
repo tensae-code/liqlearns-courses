@@ -10,6 +10,8 @@ Forty totemic clans under one Kabaka build the strongest state on Lake Victoria.
 
 In your mind's eye: the Kabaka's court on Lake Victoria, with clan elders gathered and Arab traders arriving with cloth and guns. Name the clans, the Kabaka and what the traders brought.
 
+[Picture 39057 — the Kabaka's court on Lake Victoria]
+
 ## Sub lesson 2 — The Zanzibari Arabs reach Buganda
 
 Arab traders reach Buganda by 1845 with guns and cloth. Islam follows them, and the Kabaka's court starts to change from the inside.

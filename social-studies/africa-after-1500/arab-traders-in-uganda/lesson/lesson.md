@@ -10,6 +10,8 @@ Arab traders come for ivory, gold, ostrich feathers and slaves, and leave Islam,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39053 — a camel caravan trader with ivory and cowries]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign Influence — Early Foreign (Arab) Traders — Arab traders come for ivory, gold, ostrich feathers and slaves, and leave Islam, new goods and the cowrie currency behind. Then let your companion ask you one hard question about it — answer from the lesson.

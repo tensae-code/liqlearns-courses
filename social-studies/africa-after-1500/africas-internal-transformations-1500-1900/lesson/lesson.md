@@ -10,6 +10,8 @@ between 1500 and 1900 African societies keep changing, forming great new sociopo
 
 In your mind's eye: african societies changing between 1500 and 1900 — new states forming and old ones reshaping from inside. Name one internal cause of change.
 
+[Picture 39049 — small peoples become a great new state]
+
 ## Sub lesson 2 — Africa's own causes
 
 the guide insists Europeans did not trigger these changes; Africa's own forces — its endogenous causes — did (UA5 Les causes endogènes des transformations)

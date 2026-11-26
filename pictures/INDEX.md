@@ -9095,3 +9095,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60208 | pictures/60208.webp | a drawn scene — a pupil standing on the long arrow of history, with a pyramid, a temple, a mosque and a written record along the line behind | Social Studies — Ancient World — Ancient Civilisations What They Left Us |
 | 60209 | pictures/60209.webp | a drawn scene — two steppe horsemen and a two-camel trade caravan crossing between outlined hills | Social Studies — Ancient World — Ancient Empires Of Central Asia |
 | 60210 | pictures/60210.webp | a drawn scene — three named city panels, Bactria, Sogdiana and Khwarezm, each with its mosque and gold trade coins | Social Studies — Ancient World — Ancient Empires Of Central Asia |
+| 39042 | pictures/39042.webp | A ship brings freed slaves to new homes at Sierra Leone and Liberia | Social Studies — Africa after 1500 — Abolition and the founding of Sierra Leone and Liberia |
+| 39043 | pictures/39043.webp | African soldiers march off to fight in Europe's Second World War | Social Studies — Africa after 1500 — Africa in the Second World War |
+| 39044 | pictures/39044.webp | Dotted routes carry Africans from Africa to communities abroad, still tied home | Social Studies — Africa after 1500 — African diasporas, ancient and modern |
+| 39045 | pictures/39045.webp | A congregation in white robes at its own independent church | Social Studies — Africa after 1500 — African independent churches |
+| 39046 | pictures/39046.webp | A leader raises his hand against a crossed-out treaty — resistance begins | Social Studies — Africa after 1500 — African resistance to colonisation |
+| 39047 | pictures/39047.webp | African soldiers and head-load carriers drawn into the First World War | Social Studies — Africa after 1500 — Africans in the First World War |
+| 39048 | pictures/39048.webp | A Mozambique village in the hard years after the war, prices climbing | Social Studies — Africa after 1500 — Africans in the First World War |
+| 39049 | pictures/39049.webp | Between 1500 and 1900 small peoples reshape into a great new state | Social Studies — Africa after 1500 — Africa's internal transformations, 1500–1900 |
+| 39050 | pictures/39050.webp | Africa's map redrawn with straight ruled borders between 1890 and 1914 | Social Studies — Africa after 1500 — Africa's political map after the conquest |
+| 39051 | pictures/39051.webp | A farmer, a herder and a market trader: Africa's own economy at work | Social Studies — Africa after 1500 — Africa's socio-economic structure, 18th–19th centuries |
+| 39052 | pictures/39052.webp | Company plantation rows in Manica and Sofala, workers carrying sacks | Social Studies — Africa after 1500 — Agriculture and labour policy in Manica and Sofala |
+| 39053 | pictures/39053.webp | An Arab trader with camels, an ivory tusk and cowrie shells in Uganda | Social Studies — Africa after 1500 — Arab traders in Uganda |
+| 39054 | pictures/39054.webp | A Congolese crowd raises fists for independence while Belgium says no | Social Studies — Africa after 1500 — Belgian Congo — the road to independence |
+| 39055 | pictures/39055.webp | Lumumba tells the crowd: independence now, not in thirty years | Social Studies — Africa after 1500 — Belgian Congo — the road to independence |
+| 39056 | pictures/39056.webp | Brazza stands poling a canoe up the forest river Ogooué | Social Studies — Africa after 1500 — Brazza and the exploration of the Ogooué |
+| 39057 | pictures/39057.webp | The crowned Kabaka holds court above Lake Victoria as traders arrive | Social Studies — Africa after 1500 — Buganda — kingdom, clans, Kabaka and trade |
+| 39058 | pictures/39058.webp | Mwanga's court split into Muslim and Christian parties, Lugard arriving | Social Studies — Africa after 1500 — Buganda — religious wars and British occupation |
+| 39059 | pictures/39059.webp | A new colonial administration building rises in Mozambique | Social Studies — Africa after 1500 — Building the colonial state in Mozambique |
+| 39060 | pictures/39060.webp | One island market stall lays European and African goods side by side | Social Studies — Africa after 1500 — Cabo Verde — a creole society is born |
+| 39061 | pictures/39061.webp | Two harbours: quiet Ribeira Grande and Porto Grande busy with coal | Social Studies — Africa after 1500 — Cabo Verde — decline and Porto Grande |
+| 39062 | pictures/39062.webp | A Portuguese sailing ship approaches a dry island with no houses or people | Social Studies — Africa after 1500 — Cabo Verde — discovery and settlement |
+| 39063 | pictures/39063.webp | Broken chain links lie on a table beside a hoe and a school book | Social Studies — Africa after 1500 — Cabo Verde — end of the slave society |
+| 39064 | pictures/39064.webp | The new flag goes up before a crowd on independence day, 5 July 1975 | Social Studies — Africa after 1500 — Cabo Verde — liberation and independence |
+| 39065 | pictures/39065.webp | Sailing ships anchor below Ribeira Grande while goods are loaded | Social Studies — Africa after 1500 — Cabo Verde — on the world routes |

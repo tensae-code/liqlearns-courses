@@ -10,6 +10,8 @@ Britain declares the trade illegal first; Sierra Leone and Liberia are founded a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39042 — freed slaves arrive by ship at Sierra Leone and Liberia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Senior Four Term 1: Abolition and the freed slaves — Britain declares the trade illegal first; Sierra Leone and Liberia are founded as homes for freed slaves from England, Jamaica and America, whose Creole settlers publish the Sierra Leone Weekly News and raise Bishop Ajayi Crowther. Then let your companion ask you one hard question about it — answer from the lesson.

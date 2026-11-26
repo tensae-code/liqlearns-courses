@@ -10,11 +10,15 @@ A European war reaches into Africa — Africans are drawn in as soldiers, carrie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39047 — soldiers and carriers in the First World War]
+
 ## Sub lesson 2 — The First World War and the crisis of the 1920s in Mozambique
 
 The First World War worsens living conditions in Mozambique, and the economic and social crisis of the 1920s follows the war home
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39048 — Mozambique after the war — prices rising]
 
 ## Say it to your companion
 

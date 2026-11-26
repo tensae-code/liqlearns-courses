@@ -10,6 +10,8 @@ As the old routes fade, Ribeira Grande decays and the islands are neglected.
 
 In your mind's eye: two harbours side by side: an old quiet harbour with empty warehouses, and a busy steamship taking on coal. Say which is Ribeira Grande and which is Porto Grande.
 
+[Picture 39061 — two harbours — quiet Ribeira Grande, busy Porto Grande]
+
 
 ## Sub lesson 2 — In the time of Porto Grande
 

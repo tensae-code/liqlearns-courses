@@ -10,6 +10,8 @@ Followers who see the gap between the missionaries' preaching and practice break
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39045 — an independent church and its congregation in white]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Independent churches — followers who see the gap between the missionaries' preaching and practice break away — Isaiah Shembe's Nazareth Baptist Church in KwaZulu-Natal leads the lesson's examples. Then let your companion ask you one hard question about it — answer from the lesson.

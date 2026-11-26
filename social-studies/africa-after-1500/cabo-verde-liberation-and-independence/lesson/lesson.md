@@ -10,6 +10,8 @@ After remote roots of resistance, the PAIGC under Amílcar Cabral first tries ne
 
 In your mind's eye: a flag being raised on 5 July 1975 while a crowd watches. Say whose struggle brought this day and in unity with which country it was proclaimed.
 
+[Picture 39064 — the flag raised on 5 July 1975]
+
 
 ## Sub lesson 2 — The Proclamation of Independence
 

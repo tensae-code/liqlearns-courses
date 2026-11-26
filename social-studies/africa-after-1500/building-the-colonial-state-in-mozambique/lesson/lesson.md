@@ -10,6 +10,8 @@ Alongside conquest, the colonial administration is installed; unable to exploit 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39059 — a colonial administration building with its flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Building the colonial state — alongside conquest, the colonial administration is installed; unable to exploit the colony itself, the colonial state exists to serve international capital. Then let your companion ask you one hard question about it — answer from the lesson.

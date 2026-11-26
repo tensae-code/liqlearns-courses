@@ -10,6 +10,8 @@ Peoples and cultures from Europe and Africa meet on the islands and a new societ
 
 In your mind's eye: an island market where European and African foods, instruments and cloth are laid out side by side becoming one stall. Name three things that became creole.
 
+[Picture 39060 — one market stall with two worlds' goods]
+
 
 ## Sub lesson 2 — Cabo Verdean culture
 

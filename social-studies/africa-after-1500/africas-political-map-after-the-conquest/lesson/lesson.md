@@ -10,6 +10,8 @@ Between 1890 and 1914 Africa's political map is redrawn at lightning speed — t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39050 — straight red borders ruled across Africa, 1890 to 1914]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Africa's political map after the conquest — between 1890 and 1914 Africa's political map is redrawn at lightning speed — the lesson measures the violence inside that transformation. Then let your companion ask you one hard question about it — answer from the lesson.

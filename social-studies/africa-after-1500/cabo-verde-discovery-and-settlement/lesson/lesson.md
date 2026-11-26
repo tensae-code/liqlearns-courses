@@ -10,6 +10,8 @@ In the age of European expansion, Portuguese sailors find the uninhabited island
 
 In your mind's eye: a sailing ship approaching a dry, empty island shore, with no houses or people on the land. Say who found the islands and why the book asks who really "discovered" land no one lived on.
 
+[Picture 39062 — a sailing ship reaches a dry, empty island]
+
 
 ## Sub lesson 2 — Occupation and peopling of the islands
 

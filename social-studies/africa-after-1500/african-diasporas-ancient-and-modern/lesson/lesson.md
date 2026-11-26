@@ -10,6 +10,8 @@ Africans scattered by slavery, migration and exile form diasporas — ancient, m
 
 In your mind's eye: the African diaspora across the world — communities abroad still tied to Africa. Name one contribution of the diasporas.
 
+[Picture 39044 — the diaspora — communities abroad tied to Africa]
+
 ## Sub lesson 2 — Brain drain and contributions
 
 the diasporas include the brain drain — fuite des cerveaux — and the contributions diasporas make to Africa and the world (UA9 Fuite des cerveaux; contributions des diasporas)

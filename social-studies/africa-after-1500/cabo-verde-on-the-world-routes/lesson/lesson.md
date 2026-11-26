@@ -10,6 +10,8 @@ The islands become a strategic Atlantic stopping point.
 
 In your mind's eye: sailing ships anchored below the town of Ribeira Grande on Santiago, with goods being loaded for the West African coast. Say why ships stopped here.
 
+[Picture 39065 — sailing ships anchored below Ribeira Grande]
+
 
 ## Sub lesson 2 — Ribeira Grande rises
 

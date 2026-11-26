@@ -10,6 +10,8 @@ Under the Company, great plantations grow raw materials for export, and a labour
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39052 — company plantation rows and workers with sacks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Agriculture and labour policy in Manica and Sofala — under the Company, great plantations grow raw materials for export, and a labour policy is built to feed them with African workers. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Mwanga kills Bishop Hannington and tries to balance Muslims and Christians. The 
 
 In your mind's eye: buganda's court divided into rival parties, with a company officer arriving. Name the parties, the wars and Lugard's role.
 
+[Picture 39058 — Buganda's court split into Muslim and Christian parties]
+
 ## Sub lesson 2 — The Baganda as agents of occupation
 
 Protestant chief Apolo Kaggwa backs Britain for 37 years. Baganda agents like Kakungulu conquer and administer the east, and Buganda rises above all its neighbours.

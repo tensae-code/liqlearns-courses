@@ -10,6 +10,8 @@ Before colonial domination Africa has its own socio-economic structure and world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39051 — farmer, herder and trader — Africa's own economy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Africa's socio-economic structure in the 18th and 19th centuries — before colonial domination Africa has its own socio-economic structure and world relations; the late 18th and early 19th centuries begin to bend it. Then let your companion ask you one hard question about it — answer from the lesson.

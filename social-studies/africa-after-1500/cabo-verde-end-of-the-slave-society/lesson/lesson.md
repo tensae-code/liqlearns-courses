@@ -10,6 +10,8 @@ Slavery is abolished — the slave-owning society ends.
 
 In your mind's eye: broken chains laid on a table beside farming tools and a school book. Say what ended and what had to be remade.
 
+[Picture 39063 — broken chains on a table beside tools and a book]
+
 
 ## Sub lesson 2 — Society remade without slavery
 

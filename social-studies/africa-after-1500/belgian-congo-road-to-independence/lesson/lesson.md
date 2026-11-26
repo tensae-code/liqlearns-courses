@@ -10,11 +10,15 @@ Belgium stays inflexible before the nationalist movement, making armed struggle 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39054 — a crowd demanding independence, Belgium refusing]
+
 ## Sub lesson 2 — Lumumba and the Congo
 
 Patrice Lumumba's action carries the Congo to independence in the 1950s surge, even as conflicts split the nationalist movement itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39055 — Lumumba speaking — independence now]
 
 ## Say it to your companion
 

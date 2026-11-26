@@ -10,6 +10,8 @@ African peoples fight the conquest from the first treaties onward (UA6 Les mouve
 
 In your mind's eye: african peoples resisting the conquest — leaders and communities refusing the treaties and fighting back. Say when resistance began.
 
+[Picture 39046 — a leader refusing the treaty paper]
+
 ## Sub lesson 2 — Fighting the conquest
 
 resistance movements face the colonial conquest across the continent (UA6 Les mouvements de résistance africains face à la conquête)
