@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: factory workers organi
 factory workers organise for the first time, and Marx gives their movement its theory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41271 — organisingfirst]
 ## Sub lesson 2 — Section 1, Part II, Lesson 5: I — The birth of scientific socialism and the First International
 
 Marx and Engels give the workers' movement its science, and the First International organises it across borders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41270 — internationalborders]
 ## Sub lesson 3 — Part II, Lesson 6: The workers' movement; the birth of Marxism
 
 workers organise, and Marx gives their movement its theory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41269 — organisetheorise]
 ## Sub lesson 4 — Part II, Lesson 5: I — Scientific socialism and the First International
 
 Marx and Engels give the workers' movement its science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41268 — sciencewritten]
 
 ## Say it to your companion
 

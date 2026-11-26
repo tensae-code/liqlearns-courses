@@ -10,6 +10,8 @@ The first Catholic mission in these islands was planted on Guam by Fr. Sanvitore
 
 In your mind's eye: a small mission church on Guam's shore, with a priest, islanders and Spanish soldiers all in view. The student points to each group and says what it came for.
 
+[Picture 41273 — churchthatstays]
+
 ## Sub lesson 2 — The Ladrones renamed the Marianas — welcome turns to conflict
 
 With the mission came an empire's name: the islands the Spanish had called the Ladrones were renamed the Marianas. And the welcome did not hold. Spanish soldiers turned welcome into conflict, and the mission's story on Guam became a story of fighting as well as faith — the pattern the book sets down for the first missions.

@@ -10,6 +10,8 @@ mass parties and near-universal male suffrage meet their limit in the excluded h
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41264 — teacherswincourt]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 1 §4 The widening of political participation, education and the women's question — mass parties and near-universal male suffrage meet their limit in the excluded half — ten schoolteachers from the Marche win a court sentence on women's voting (the unit's document-right), and the suffragettes' courageous struggle runs on video beside it. Then let your companion ask you one hard question about it — answer from the lesson.

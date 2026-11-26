@@ -9,36 +9,50 @@ Before you read on, hold this lesson's one thing in mind: A photograph of the Na
 A photograph of the National Guard's camel corps at the proclamation frames the question — what let the parties press the coloniser harder until independence came
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41260 — camelcorpsday]
 ## Sub lesson 2 — Dossier 17: Mauritania after independence
 
 The new state's first chapter is itself a school competition topic — summarise Mauritania after independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41259 — studiedatschool]
 ## Sub lesson 3 — Lesson 14: The stages of Mauritania's independence
 
 Step by step — autonomy, referendum, proclamation — the colony becomes a state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41258 — threestepsup]
 ## Sub lesson 4 — Lesson 15: The independence of Mauritania
 
 28 November 1960 — the independence the whole book has been walking toward is proclaimed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41257 — proclaimed1960]
 ## Sub lesson 5 — Lesson 4: The liberation movement in Mauritania 1946–1960
 
 Fourteen years from the first postwar parties to independence — the dated road 1946 to 1960
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41256 — road1946to1960]
 ## Sub lesson 6 — Lesson 8: The liberation movement in Mauritania
 
 Mauritania's own movement takes its place in the continental wave
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41255 — owngreatwave]
 ## Sub lesson 7 — Lesson 8: The liberation movements in Mauritania
 
 Mauritania's own liberation is studied between Algeria's and black Africa's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41254 — continentwave]
 
 ## Say it to your companion
 

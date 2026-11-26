@@ -10,6 +10,8 @@ Matavanu erupts on Savai'i in 1905 and buries Salaeula and Lealatele; German adm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41262 — villagesrefounded]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 2, natural disasters — Matavanu erupts on Savai'i in 1905 and buries Salaeula and Lealatele; German administrators, Catholic priests and Methodist pastors move the homeless to Upolu, founding Le'auva'a (1908) and Salamumu (1909) — villages that still vote in Savai'i constituencies today. Then let your companion ask you one hard question about it — answer from the lesson.
