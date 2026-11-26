@@ -10,11 +10,15 @@ the Banca Romana scandal fells Giolitti, Adwa (1896) fells Crispi, and Bava Becc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63865 — the darkest hour 1898]
+
 ## Sub lesson 2 — Unità 1, Cap. 3 §§1–2 The end-of-century crisis and the start of a new political course; Socialists and Catholics, new protagonists of Italian political life
 
 after Adwa and the Milan cannonades the liberal state changes course; Turati's socialists and the Catholic movement enter politics as mass forces the old trasformismo cannot digest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63866 — new protagonists enter]
 
 ## Say it to your companion
 

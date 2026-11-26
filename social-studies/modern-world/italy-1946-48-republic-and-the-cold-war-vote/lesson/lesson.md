@@ -10,17 +10,23 @@ divided Gorizia (Storie di frontiera) mirrors a country choosing Republic and Co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63847 — italy takes the wests side]
+
 ## Sub lesson 2 — Modulo 13 §§1–3 L'Italia nel 1945; La Repubblica e la Costituente; La Costituzione e il trattato di pace
 
 the Republic's Constitution is itself a Fare storia Document; Colarizi on the mass parties and Zamagni on the economic choices frame a country founded by referendum, assembly and compromise — the foibe and the Cassa per il Mezzogiorno are the module's Focus shadows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63848 — founded by referendum and compromise]
+
 ## Sub lesson 3 — Modulo 13 §§4–5 Il tempo delle scelte; De Gasperi e il centrismo
 
 18 April 1948 (Eventi) is the founding election — Galli and Sartori (Fare storia) debate "imperfect bipartism or polarised pluralism"; De Gasperi (Personaggi) governs the choice for a decade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63849 — 18 april 1948]
 
 ## Say it to your companion
 

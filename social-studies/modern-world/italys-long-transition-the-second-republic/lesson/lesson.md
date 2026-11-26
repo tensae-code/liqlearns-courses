@@ -10,11 +10,15 @@ after Tangentopoli Italy rewrites its party system without settling it; the chap
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63867 — a transition that becomes a condition]
+
 ## Sub lesson 2 — Modulo 18 §§1–2 Una difficile transizione; La "rivoluzione maggioritaria"
 
 Tangentopoli (Focus) clears the old parties; Berlusconi's "discesa in campo" (Fare storia Document), Pasquino on the majoritarian revolution and Orsina defining "berlusconismo" argue what replaced them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63868 — what replaced them]
 
 ## Say it to your companion
 

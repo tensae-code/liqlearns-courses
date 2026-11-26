@@ -10,11 +10,15 @@ Benedict XV begs the powers to stop the "horrendous carnage" (Document) while It
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63856 — bleeding on the isonzo]
+
 ## Sub lesson 2 — Modulo 1, Cap. 1 §4 L'Italia dalla neutralità all'intervento
 
 a neutral country argues itself into war — interventionists against Giolitti's "quite a lot", the secret London Pact (in the Fare storia documents) buys Italy with other peoples' lands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63857 — arguing itself into war]
 
 ## Say it to your companion
 

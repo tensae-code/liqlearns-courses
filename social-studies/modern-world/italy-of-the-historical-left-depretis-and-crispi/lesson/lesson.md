@@ -10,6 +10,8 @@ united Italy stays agrarian — great estates, tiny peasant plots, a debt of 8.3
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63861 — an agrarian country an industrial north]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. IV §24 Italy at the end of the 19th – beginning of the 20th century — united Italy stays agrarian — great estates, tiny peasant plots, a debt of 8.3 billion lire — while railways, the Mont Cenis and Gotthard tunnels and Crispi-era joint-stock companies (Montecatini, Pirelli, Fiat, 1906) build its industrial north. Then let your companion ask you one hard question about it — answer from the lesson.

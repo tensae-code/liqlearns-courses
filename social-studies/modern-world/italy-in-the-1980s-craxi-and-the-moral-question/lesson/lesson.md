@@ -10,6 +10,8 @@ Craxi's decisionismo (Lanaro's Storiografia) and the Milan-to-drink years projec
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63855 — the moral question]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 5, Cap. 20 §4 The "normalisation" of the eighties — Craxi's decisionismo (Lanaro's Storiografia) and the Milan-to-drink years project confidence while Berlinguer's Document denounces the parties' degeneration — the moral question is posed before the judges pose it. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Socialists enter government, electricity is nationalised and the middle school u
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63862 — progress with a body count]
+
 ## Sub lesson 2 — Modulo 13 §7 Il centro-sinistra
 
 the Socialists enter government and the reform season opens — divorce and the Vajont (Focus) mark its social advances and its disasters
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63863 — advances and disasters]
 
 ## Say it to your companion
 

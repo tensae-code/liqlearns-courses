@@ -10,11 +10,15 @@ the Historical Right balances the budget and fights brigantaggio in the South (S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63852 — venice and rome complete the map]
+
 ## Sub lesson 2 — Modulo 4, Cap. 14 The first years of united Italy (demography, economy and society; Governing united Italy; The revolts against unity and brigantaggio; The economy and fiscal policy; The conquest of Veneto and the taking of Rome)
 
 a poor, divided kingdom taxes flour and fights brigands (Fare storia: Lupo on southern brigandage) until Porta Pia (Eventi, 1870) makes Rome the capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63853 — porta pia 1870]
 
 ## Say it to your companion
 

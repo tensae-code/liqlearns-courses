@@ -10,6 +10,8 @@ the Libyan war (1911–12) is debated in the chapter's own documents, Giolitti i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63864 — a war that dissolves its makers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 3 §5 Colonial policy and the crisis of the Giolittian system — the Libyan war (1911–12) is debated in the chapter's own documents, Giolitti is mocked in satire (image study), and nationalism — fed by the war — begins to dissolve the liberal system that launched it — Labanca's Storiografia closes the question. Then let your companion ask you one hard question about it — answer from the lesson.
