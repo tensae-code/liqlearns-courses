@@ -10,6 +10,8 @@ Iași, Moldavia's capital for three centuries, prints the first book and opens t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63075 — iasi capital of culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 20: Educația, știința și cultura — Iași, Moldavia's capital for three centuries, prints the first book and opens the first university, becoming the capital of Romanian culture. Then let your companion ask you one hard question about it — answer from the lesson.

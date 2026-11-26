@@ -10,6 +10,8 @@ Flores and Rocafuerte contend, the 1845 Marcista revolution rises, García Moren
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63065 — an iron hand]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: República del Ecuador I — Flores and Rocafuerte contend, the 1845 Marcista revolution rises, García Moreno modernises with an iron hand, and Daquilema's Indigenous rising shakes the sierra. Then let your companion ask you one hard question about it — answer from the lesson.

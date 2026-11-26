@@ -10,6 +10,8 @@ slave-worked irrigation, cotton and the Khiva slave market sustain an oasis stat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63061 — an oasis state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. IV §22 The economic and cultural life of the Khiva Khanate — slave-worked irrigation, cotton and the Khiva slave market sustain an oasis state famous across the steppe. Then let your companion ask you one hard question about it — answer from the lesson.

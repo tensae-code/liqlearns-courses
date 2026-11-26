@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a small Dutch painting of a home, a ship and a face beside a big Flemish canvas. The student points to the two different worlds buying art.
 
+[Picture 63055 — small pictures of its own life]
+
 ## Sub lesson 3 — Rembrandt turns light inward
 
 Rembrandt turns light inward — onto faces and feelings rather than display.

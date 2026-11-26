@@ -10,6 +10,8 @@ schooling spreads but bends to nationalism and racism — segregated American sc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63071 — seeing the inner world]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §42 Public education; the humanities; art — schooling spreads but bends to nationalism and racism — segregated American schools answer with Uncle Tom's Cabin — while Nietzsche's Zarathustra, Freud's psychoanalysis and the Impressionists (Manet, Monet, Pissarro, then Cézanne, Gauguin and Van Gogh) teach Europe to see the inner world, and China's Ren Bonian and the sculptor Rodin join the same story. Then let your companion ask you one hard question about it — answer from the lesson.

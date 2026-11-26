@@ -10,6 +10,8 @@ Russia's armies take Yerevan in 1827; the Turkmenchay treaty moves Eastern Armen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63060 — yerevan 1827]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §6.1 Eastern Armenia and the Russo-Persian wars — Russia's armies take Yerevan in 1827; the Turkmenchay treaty moves Eastern Armenia from Persian to Russian rule. Then let your companion ask you one hard question about it — answer from the lesson.

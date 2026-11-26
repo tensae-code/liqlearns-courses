@@ -10,6 +10,8 @@ The 2000 dollarisation follows a banking collapse and mass emigration, and a tra
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63066 — dollarisation 2000]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Ecuador en el siglo XXI — the 2000 dollarisation follows a banking collapse and mass emigration, and a transformed Ecuador argues over oil, rights and its new constitution. Then let your companion ask you one hard question about it — answer from the lesson.

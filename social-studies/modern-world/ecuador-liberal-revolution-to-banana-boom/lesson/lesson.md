@@ -10,6 +10,8 @@ Eloy Alfaro's Liberal Revolution wins and Alfaro is dragged to his death in 1912
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63068 — the banana boom]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: República del Ecuador II — Eloy Alfaro's Liberal Revolution wins and Alfaro is dragged to his death in 1912, plutocracy and the 1925 Juliana revolution follow, Velasco Ibarra returns again and again, war with Peru strikes in 1941, and the banana boom remakes the coast. Then let your companion ask you one hard question about it — answer from the lesson.

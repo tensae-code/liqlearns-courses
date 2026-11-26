@@ -10,6 +10,8 @@ Urabi's Egypt builds a 60,000-man army and a provisional council, Britain shells
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63077 — advisers behind the khedive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VI §§35–36 The countries of North, Tropical and South Africa (North Africa part) — Urabi's Egypt builds a 60,000-man army and a provisional council, Britain shells Alexandria and takes Cairo (1882) and rules through "advisers" behind the khedive; in Sudan Muhammad Ahmad proclaims himself Mahdi and raises holy war against the Egyptian-Turkish yoke and the Europeans. Then let your companion ask you one hard question about it — answer from the lesson.

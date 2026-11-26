@@ -10,6 +10,8 @@ blockades, sanctions and embargoes — war continued by trade weapons, from Napo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63063 — war by trade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 §13: economic wars — blockades, sanctions and embargoes — war continued by trade weapons, from Napoleon's Continental System to today's sanctions. Then let your companion ask you one hard question about it — answer from the lesson.

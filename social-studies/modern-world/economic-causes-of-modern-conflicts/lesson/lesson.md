@@ -10,6 +10,8 @@ Wealth gaps light wars — from colonial powers seizing assets and trade routes 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63062 — wealth gaps light wars]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Economic influence on regional and global conflict / Economic factors, conflicts and use of military force — wealth gaps light wars — from colonial powers seizing assets and trade routes to today's Afghanistan, Syria, the Kurds, the US–China trade war and seven nations disputing the South China Sea. Then let your companion ask you one hard question about it — answer from the lesson.

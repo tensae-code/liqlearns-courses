@@ -10,6 +10,8 @@ compulsory primary schooling spreads; Comenius carries pedagogy from tradition t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63070 — the school as engine]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §48: Educaţia şi gândirea critică — compulsory primary schooling spreads; Comenius carries pedagogy from tradition to modernity, and the school becomes the national movements' engine — "the 19th century, century of nationalities". Then let your companion ask you one hard question about it — answer from the lesson.

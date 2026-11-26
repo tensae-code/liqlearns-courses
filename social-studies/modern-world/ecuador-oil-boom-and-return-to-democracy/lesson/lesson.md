@@ -10,6 +10,8 @@ The 1964 agrarian reform bans the huasipungo, oil money booms in the 1970s, demo
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63069 — oil and democracy]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: República del Ecuador III — the 1964 agrarian reform bans the huasipungo, oil money booms in the 1970s, democracy returns in 1979, then debt crisis, mass migration and Indigenous movements challenge the neoliberal republic. Then let your companion ask you one hard question about it — answer from the lesson.

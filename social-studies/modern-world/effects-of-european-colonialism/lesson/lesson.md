@@ -10,6 +10,8 @@ The colonised lands pay in wealth, borders and lives while the colonisers grow r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63076 — the bill item by item]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: effects of colonialism. Then let your companion ask you one hard question about it — answer from the lesson.

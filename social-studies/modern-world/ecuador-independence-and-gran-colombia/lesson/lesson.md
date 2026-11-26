@@ -10,6 +10,8 @@ Quito's 1809 cry, Guayaquil's 1820 independence and Sucre's victory at Pichincha
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63067 — pichincha 1822]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La Gran Colombia — Quito's 1809 cry, Guayaquil's 1820 independence and Sucre's victory at Pichincha in 1822 free the land, Bolívar and San Martín meet at Guayaquil, and Ecuador joins Bolívar's Gran Colombia union. Then let your companion ask you one hard question about it — answer from the lesson.

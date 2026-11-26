@@ -10,17 +10,23 @@ After the failed rising of 1857 the East India Company's rule passes to the Crow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63057 — the crown takes over]
+
 ## Sub lesson 2 — Plassey and Buxar — a company becomes a ruler
 
 A trading company turns political, Clive's bargain with Mir Jafar hands it Bengal, and Buxar makes it master of northern India.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63058 — a company becomes a ruler]
+
 ## Sub lesson 3 — The Doctrine of Lapse
 
 A legal rule becomes a land-grab, Indian rulers learn adoption no longer protects their thrones, and resentment builds toward 1857.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63059 — the doctrine of lapse]
 
 ## Say it to your companion
 
