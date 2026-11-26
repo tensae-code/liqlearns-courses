@@ -11,7 +11,11 @@ Kuwait's Grade 9 book places cell division at the head of its reproduction unit:
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 36911 — the cell and its parts — the membrane, the nucleus, and the hereditary material inside it]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 36912 — one cell becomes two — then four, then eight]
 
 ## Sub lesson 2 — Why division matters
 

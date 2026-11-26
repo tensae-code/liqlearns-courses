@@ -9,7 +9,11 @@ A body must finish growing itself before it can grow a baby well. What could go 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36913 — early pregnancy — two growings on one body: her own growth not finished, and the baby's growth]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36914 — one supply shared two ways — what she still needs for herself must now be shared with the baby]
 
 ## Sub lesson 2 — The risks of early pregnancy
 

@@ -9,17 +9,23 @@ self-esteem is built from the trust, affection and care a child receives, and sc
 
 In your mind's eye: self-esteem is built from the trust, affection and care as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36915 — self-esteem is built from the trust, affection and care a child receives]
+
 ## Sub lesson 2 — Emotions are short physiological reactions to stimuli, while feelings
 
 emotions are short physiological reactions to stimuli, while feelings are their longer-lasting interpretation that shapes our mood — the book separates the two before teaching either.
 
 In your mind's eye: emotions are short physiological reactions to stimuli, while feelings as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36916 — an emotion is short and strong; a feeling lasts longer and shapes the mood]
+
 ## Sub lesson 3 — When an emotion fires, the brain releases hormones into
 
 when an emotion fires, the brain releases hormones into the blood (oxytocin, dopamine, noradrenaline, adrenaline) that prepare the body's reaction; the face alone has 42 muscles that display emotions as non-verbal communication.
 
 In your mind's eye: when an emotion fires, the brain releases hormones into as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36917 — when an emotion fires, the brain releases hormones into the blood]
 
 ## The key ideas
 
