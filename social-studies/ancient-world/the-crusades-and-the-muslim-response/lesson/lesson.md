@@ -10,6 +10,8 @@ Hattin restores Jerusalem and lifts Muslim hearts; Richard's crusade ends in the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61660 — hattin floods and a captured king]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt in the Ayyubid age: Saladin and the Crusades. Then let your companion ask you one hard question about it — answer from the lesson.

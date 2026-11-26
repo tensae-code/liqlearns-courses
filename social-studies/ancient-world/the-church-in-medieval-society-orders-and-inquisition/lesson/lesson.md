@@ -10,6 +10,8 @@ after 1054 pope and patriarch head rival churches; Innocent III teaches that roy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61656 — the moon borrows the suns light]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: the Church in medieval society — after 1054 pope and patriarch head rival churches; Innocent III teaches that royal power borrows light from papal power as the moon from the sun; crusading breeds monk-knights — Templars, Hospitallers, Teutons — and preaching friars, Franciscans and Dominicans; against heretics like the Cathars, heirs of Bogomil ideas, the Church answers with crusade and the Inquisition's courts. Then let your companion ask you one hard question about it — answer from the lesson.

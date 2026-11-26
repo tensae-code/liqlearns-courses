@@ -10,11 +10,15 @@ harvests fail, famine and war thin the population, then in 1347 the plague Bocca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61657 — 1347 a third of europe]
+
 ## Sub lesson 2 — La crisi del '300 (module: causes, plague, epidemics and social control)
 
 famine, plague and war strike together; cities answer with health boards and quarantines — an early machinery of social control is born of the epidemic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61658 — quarantine is born]
 
 ## Say it to your companion
 

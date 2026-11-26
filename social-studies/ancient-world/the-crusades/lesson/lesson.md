@@ -10,6 +10,8 @@ Pope Urban II's 1095 call sends armies east, crusaders take Jerusalem in 1099 an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61672 — 1095 1099 1187]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §39 The Crusades — Pope Urban II's 1095 call sends armies east, crusaders take Jerusalem in 1099 and plant fragile states, and Saladin retakes the city in 1187 as later crusades fade. Then let your companion ask you one hard question about it — answer from the lesson.

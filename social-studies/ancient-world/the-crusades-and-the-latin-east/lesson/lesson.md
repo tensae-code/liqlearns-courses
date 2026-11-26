@@ -10,6 +10,8 @@ Bernard preaches a crusade and knights sail east to found fragile Latin states �
 
 In your mind's eye: bernard preaching to kneeling knights, with ships waiting to sail east. Say who preached, who sailed and what they founded.
 
+[Picture 61659 — bernard preaches a crusade]
+
 ## Sub lesson 2 — Fragile Latin states in the East
 
 The knights who sail east found Latin states — real, but fragile: new states planted far from home in the East they had come to claim.

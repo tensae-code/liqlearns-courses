@@ -10,6 +10,8 @@ the book ends by asking why its own civilisation fell behind the world's progres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61673 — why did it fall behind]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.8 Influence on the West, then decline — the book ends by asking why its own civilisation fell behind the world's progress, weighing internal decay against external blows. Then let your companion ask you one hard question about it — answer from the lesson.

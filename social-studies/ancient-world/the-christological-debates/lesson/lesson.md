@@ -10,11 +10,15 @@ Arius asks who Christ really is; Nicaea and the councils answer, and the argumen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61654 — who is christ really]
+
 ## Sub lesson 2 — The Christological discussions continue amid unexpected developments
 
 Ephesus and Chalcedon refine the answer as empires shake; some eastern churches go their own way for good
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61655 — some go their own way]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ the light war chariot arrives and kings who master it conquer faster than any in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61651 — faster than any infantry]
+
 ## Sub lesson 2 — §11 Military art of the ancient epoch
 
 chariots, infantry and siegecraft decide which ancient state survives
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61652 — chariots infantry siegecraft]
+
 ## Sub lesson 3 — §10 How the chariot changed the world (lesson plan)
 
 the chariot lesson weighs technology against empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61653 — technology against empire]
 
 ## Say it to your companion
 

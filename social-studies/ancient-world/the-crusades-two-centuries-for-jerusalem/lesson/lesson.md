@@ -10,6 +10,8 @@ After Manzikert, Byzantium begs the West for help and Pope Urban II answers with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61671 — two centuries for jerusalem]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Crusades — two centuries for Jerusalem. Then let your companion ask you one hard question about it — answer from the lesson.
