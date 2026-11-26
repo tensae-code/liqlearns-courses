@@ -10,11 +10,15 @@ A **case study** of troubleshooting starts with **the fault as it was found**, t
 
 In your mind's eye: reading a troubleshooting case.
 
+[Picture 45143 — reading a troubleshooting case]
+
 ## Sub lesson 2 — Learning the method from the case
 
 The case teaches a method: **change one thing at a time**, so you know which change mattered; if a check changes nothing, **record it and move to the next check**; the cause is proved by the change after which the fault disappears. Writing the steps down means the same fault can be fixed faster next time. Guessing is not the method — checked steps are.
 
 In your mind's eye: learning the method from the case.
+
+[Picture 45144 — the method — notice, guess, test, fix]
 
 ## Say it to your companion
 

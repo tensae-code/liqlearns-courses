@@ -12,6 +12,8 @@ The **full adder** adds all three: A, B and **Cin** (carry-in), producing Sum an
 
 In your mind's eye: a full adder drawn openly. Two half-adder boxes, the first fed by A and B, the second adding Cin, an OR gate gathering the two carries into Cout.
 
+[Picture 45145 — a full adder — two half adders and an OR gate]
+
 Now chain them: one full adder per bit of the word, each stage's Cout wired into the next stage's Cin, the first stage's Cin set to 0. Four full adders add two 4-bit words; eight add bytes; the carry *ripples* down the chain — the same word 'ripple' as the series counter, and the same small delay price. This **parallel adder** is the arithmetic heart the previous lesson promised: present two words, and the sum stands on the outputs faster than the eye can follow a single carry.
 
 ## Sub lesson 2 — Subtractors — and one circuit that does both
@@ -21,6 +23,8 @@ Subtraction can be wired the direct way first, to see its shape: a **half subtra
 So the practical arithmetic unit is one **adder/subtractor**, steered by a single control line named SUB. The B input does not go straight to the adders: each bit of B passes through an **XOR gate whose other input is SUB**. Remember XOR's two faces: X ⊕ 0 = X (pass unchanged) and X ⊕ 1 = X̄ (invert). So with SUB = 0, B flows in as itself, and the chain's first Cin is wired to SUB — 0 — and the unit **adds**: A + B. Flip SUB = 1: every XOR now inverts its bit of B, giving the ones' complement, and Cin = 1 delivers the missing +1 that turns it into two's complement — so the unit **subtracts**: A + (two's complement of B), discarding the final carry exactly as the pencil method did.
 
 In your mind's eye: a 4-bit adder/subtractor. Two registers feeding a chain of full adders, the B line passing through four XOR gates all steered by one SUB line, which also feeds the first carry-in.
+
+[Picture 45146 — a 4-bit adder/subtractor — one SUB line steers it]
 
 One control bit chooses the operation; one set of gates does both jobs. This is the arithmetic circuit inside every processor's ALU, and it is nothing but the lessons of this climb stacked: complements from arithmetic, XOR from gates, chains from registers' patience with wiring.
 

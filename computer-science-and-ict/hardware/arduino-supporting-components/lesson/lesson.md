@@ -10,11 +10,15 @@ An Arduino board alone blinks nothing: its projects are built from **supporting 
 
 In your mind's eye: the bench — breadboard, power and wires.
 
+[Picture 45147 — the bench — breadboard, power and wires]
+
 ## Sub lesson 2 — Actors and senses — LEDs, buttons, motors, sensors
 
 The working parts divide by direction. **Outputs**: the **LED** (light, with its **resistor** partner that limits current and keeps it alive), the **piezo** buzzer (sound), **servo** and **stepper** motors (movement), and the **LCD** (text shown). **Inputs**: the **push button** (a finger's yes/no) and the **sensor modules** — light, sound, temperature and soil-moisture — through which the board perceives its world. Every Arduino project in the book is these parts in a new arrangement: sense something, decide, act.
 
 In your mind's eye: actors and senses — LEDs, buttons, motors, sensors.
+
+[Picture 45148 — actors and senses — LEDs, buttons, motors, sensors]
 
 ## Say it to your companion
 

@@ -18,6 +18,8 @@ Three operations are basic; everything else is built from them.
 
 In your mind's eye: the three truth tables of NOT, OR and AND drawn as one chart, with the output column of OR shaded where at least one input is 1 and the output column of AND shaded only on the all-ones row.
 
+[Picture 45154 — the three truth tables — NOT, OR and AND]
+
 A **truth table** lists every possible input combination in order — for two inputs the four rows 00, 01, 10, 11 — and the output for each. A truth table is not an example of an operation; it *is* the operation, complete. Two expressions with the same truth table do exactly the same job, whatever they look like — remember that; a later lesson uses it to simplify circuits.
 
 ## Sub lesson 2 — Exclusive OR, and reading combined expressions
@@ -27,6 +29,8 @@ The staircase light from the opening has its own operation. **Exclusive OR — X
 Real expressions combine operations: Y = A · B̄ + C. Work them the way you work arithmetic — brackets first, then NOT, then AND, then OR. To build the truth table of a combined expression, give each operation its own column: first the eight rows of A, B, C (three inputs make 2³ = 8 rows); then a column for B̄; then a column for A · B̄, multiplying row by row; then the last column adds C with OR. Column by column, no step is ever hard — the whole skill is refusing to do two steps in one jump.
 
 In your mind's eye: the truth table of Y = A·B̄ + C being built in stages, with a new column appearing for each operation and the working columns in a lighter shade.
+
+[Picture 45155 — building the table of Y = A·(NOT B) + C, stage by stage]
 
 Count the rows before you start: n inputs always make 2ⁿ rows. Two inputs, 4 rows; three inputs, 8 rows; four inputs, 16 rows. If your table has the wrong number of rows, it is wrong before a single output is written.
 

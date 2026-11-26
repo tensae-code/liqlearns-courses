@@ -10,11 +10,15 @@ Inside the computer, sound exists as **digital audio** — numbers describing th
 
 In your mind's eye: the sound card — making sound from numbers.
 
+[Picture 45152 — the sound card — making sound from numbers]
+
 ## Sub lesson 2 — Speakers and headphones — the last step to the ear
 
 The signal's last step is a choice of two deliverers. **Speakers** turn the signal into sound in the air, for everyone in the room — the classroom and the meeting. **Headphones** carry the same sound to **one listener's ears alone** — the language lab, the late worker, the learner who must hear without disturbing. Laos teaches the three together as one family — card, speaker, headphone — because a fault can sit at any link: no sound may mean the numbers, the conversion, or only the deliverer has failed.
 
 In your mind's eye: speakers and headphones — the last step to the ear.
+
+[Picture 45153 — speakers and headphones — the last step to the ear]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A computer's **technical resources** are its **hardware**, counted and measured:
 
 In your mind's eye: technical resources — the hardware estate.
 
+[Picture 45141 — technical resources — the hardware estate]
+
 ## Sub lesson 2 — Programmed resources — the software estate
 
 The **programmed resources** are the **software the machine holds**: the **system software** (the operating system and its utilities — the programs that make the hardware usable) and the **application software** (the programs for users' work). The estates multiply each other: hardware without software is inert; software without hardware is a text. A computer's real capability for any job is judged **by both together** — the architecture chapter's closing balance, and the buyer's and builder's first question ever after: what does it have, and what does it run?
 
 In your mind's eye: programmed resources — the software estate.
+
+[Picture 45142 — programmed resources — the software estate]
 
 ## Say it to your companion
 

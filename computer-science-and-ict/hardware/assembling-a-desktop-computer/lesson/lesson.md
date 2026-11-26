@@ -10,17 +10,23 @@ Name every part before you touch a cable. The **system unit** is the box that ho
 
 In your mind's eye: the separate parts of a desktop computer laid out on a table before assembly — system unit, monitor, keyboard, mouse and cables. Each part separate and named.
 
+[Picture 45149 — the parts laid out — each separate, each named]
+
 ## Sub lesson 2 — Putting the parts together
 
 Assemble with the **power off and unplugged** — connections are made while nothing is live. Join one part at a time to the system unit: first the monitor's cable to its port, then the keyboard, then the mouse, following the ports they fit. **Match, never force**: a cable that will not go in easily is in the wrong port or the wrong way round — turn it, check it against the port's shape, and try again gently; force bends pins and breaks ports. Work in a steady order and look at each join as you make it, so you can say afterwards exactly what is connected where. The **power cable comes last**: connect the parts to each other first, and only when every part is joined do you plug in and get ready to switch on.
 
 In your mind's eye: hands connecting a cable to the matching port on the back of a system unit, gently, with the power cable still unplugged.
 
+[Picture 45150 — connecting a cable — power still unplugged]
+
 ## Sub lesson 3 — Checking and starting the assembled computer
 
 Before switching on, **check every connection once**: monitor joined, keyboard joined, mouse joined, power cables seated at both the computer and the wall. Then switch on and watch what the assembled computer tells you. The screen should light and the computer should start. If the screen stays dark, the first suspects are connections, not broken parts: check the monitor's cable and power, check that the monitor itself is switched on, and check the power at the wall. Work through the joins in the order you made them — an assembly you made carefully, join by join, is an assembly you can check the same way. When it starts, you have not only a working computer: you have handled every part a desktop is made of.
 
 In your mind's eye: an assembled desktop computer switched on for the first check, its screen lit, with a learner checking each connection in turn.
+
+[Picture 45151 — first switch-on — checking each connection]
 
 ## Say it to your companion
 

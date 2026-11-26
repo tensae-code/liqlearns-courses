@@ -10,11 +10,15 @@ Making a model tablet teaches the real one's anatomy: a **screen** that shows an
 
 In your mind's eye: what a tablet is made of.
 
+[Picture 45158 — what a tablet is made of — layer by layer]
+
 ## Sub lesson 2 — A model teaches what a photo can't
 
 A model is handled, turned over, pointed at and argued over: where does the camera go — and why there? What happens if we forget the battery? Building forces the questions a picture slides past, and the finished model stays on the shelf as the class's shared answer: this is what our tablet is, part by part, when anyone needs to say how it works or what to take care of.
 
 In your mind's eye: a model teaches what a photo can't.
+
+[Picture 45159 — a model teaches what a photo can't]
 
 ## Say it to your companion
 

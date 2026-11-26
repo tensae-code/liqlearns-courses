@@ -10,11 +10,15 @@ The processor is fast and main memory is slower — left alone, the fastest part
 
 In your mind's eye: what cache is and where it sits.
 
+[Picture 45160 — cache — a small, fast memory beside the processor]
+
 ## Sub lesson 2 — How cache speeds the machine
 
 When the processor needs data, it looks in the **cache first**: if the data is there — a **hit** — it is delivered at cache speed and no wait happens. If it is not — a **miss** — the processor fetches from the slower RAM, and a copy is left in the cache against the next asking. The trick works because programs are loyal: they return again and again to the same instructions and nearby data. Laos names cache inside its memory section because it is memory doing a different job — not holding the most, but standing closest, so the processor almost never waits.
 
 In your mind's eye: how cache speeds the machine.
+
+[Picture 45161 — how cache speeds the machine]
 
 ## Say it to your companion
 
