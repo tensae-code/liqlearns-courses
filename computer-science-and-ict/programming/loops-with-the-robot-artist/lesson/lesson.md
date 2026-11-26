@@ -10,6 +10,8 @@ Now the noticing becomes a block. A **loop** wraps a group of actions and a numb
 
 In your mind's eye: a picture of a small robot artist drawing a letter on squared paper, with a loop block around the stroke actions and the number of repeats showing on the loop.
 
+[Picture 47258 — a picture of a small robot artist drawing a letter on squared paper, with a loop block around the stroke actions and the number of repeats showing on the loop]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A loop says "do these actions this many times" in one block — and the robot artist uses a loop to draw letters, repeating its strokes without writing each stroke out. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

@@ -10,11 +10,15 @@ Grade 7 ends its informatics with a door into real programming. The language is 
 
 In your mind's eye: why Pascal — a language built for teaching.
 
+[Picture 47275 — why Pascal — a language built for teaching]
+
 ## Sub lesson 2 — A first program — its shape
 
 A Pascal program has a fixed **shape**: it opens with the word **program** and the program's name; then come declarations (the data it will use); then **begin**; then the instructions, separated by semicolons; and it closes with **end** followed by a full stop. Even the smallest program — one that only prints a greeting — wears the whole shape, because the shape is the language's promise: every program, however large, is declarations, then a begin…end body of instructions. The sections after this one fill the shape in, piece by piece.
 
 In your mind's eye: a first program — its shape.
+
+[Picture 47276 — a first program — its shape]
 
 ## Say it to your companion
 

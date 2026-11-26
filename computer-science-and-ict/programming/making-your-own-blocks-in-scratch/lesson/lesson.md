@@ -10,11 +10,15 @@ You have drawn the same square eleven times. Scratch lets you name that stack on
 
 In your mind's eye: defining your own block — “square” and “sum”.
 
+[Picture 47267 — defining your own block — “square” and “sum”]
+
 ## Sub lesson 2 — A custom block with inputs — draw the triangle
 
 The triangle build shows why inputs matter: a custom **“draw the triangle” block taking the two sides as inputs** draws any right-angled triangle the main program names — the checking of Pythagoras happens in the lesson on the if statement, and the drawing lives inside the custom block, called with each new pair of sides.
 
 In your mind's eye: a custom block with inputs — draw the triangle.
+
+[Picture 47268 — a custom block with inputs — draw the triangle]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **mathematical function block** is a single operator block with two choices 
 
 In your mind's eye: the block — one input, one function, one answer.
 
+[Picture 47269 — the block — one input, one function, one answer]
+
 ## Sub lesson 2 — Functions at work — mathematics inside programs
 
 The functions earn their place inside real builds: **sqrt** turns two squared distances into the true distance between sprites; **abs** measures how far apart two scores are, whichever is bigger; **floor** turns a decimal timer into whole seconds for a game display. Class VIII teaches them with the string functions as the operators' advanced family: text worked by one lesson, number worked by the other.
 
 In your mind's eye: functions at work — mathematics inside programs.
+
+[Picture 47270 — functions at work — mathematics inside programs]
 
 ## Say it to your companion
 

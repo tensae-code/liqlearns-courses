@@ -10,11 +10,15 @@ A **library** is a collection of ready procedures and functions, packaged under 
 
 In your mind's eye: a library — work packaged for reuse.
 
+[Picture 47263 — a library — work packaged for reuse]
+
 ## Sub lesson 2 — Using libraries — Arduino's shelves
 
 Grade 12 meets the same idea from the user's side: Arduino ships with **libraries** for its common parts — a library to run the servo, one to write the LCD — and the IDE's **Library Manager** installs more, while **Include Library** adds one to a sketch, after which its functions are called like the language's own. The two lessons are one truth from two ends: every library in use was once made by someone who packaged their work well — named clearly, documented honestly, and built to be called by strangers.
 
 In your mind's eye: using libraries — Arduino's shelves.
+
+[Picture 47264 — using libraries — Arduino's shelves]
 
 ## Say it to your companion
 

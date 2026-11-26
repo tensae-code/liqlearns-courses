@@ -10,11 +10,15 @@ The strings lesson built text as char arrays ending in '\0'. Now the toolbox tha
 
 In your mind's eye: strlen and strcmp — measure and compare.
 
+[Picture 47273 — strlen and strcmp — measure and compare]
+
 ## Sub lesson 2 — strcat and strcpy — join and copy
 
 `strcat(a, b)` **joins**: it appends b (and its terminator) onto a's end — a must have room for the grown length plus '\0', or the join writes into foreign memory. `strcpy(a, b)` **copies** b over a, terminator included. The four functions share one moral, the strings lesson's edge discipline grown into a toolbox: C trusts the programmer with sizes, rooms and terminators — the functions do exactly what they are told, at exactly the addresses they are given, and checking that the rooms suffice is the caller's job, never the function's.
 
 In your mind's eye: strcat and strcpy — join and copy.
+
+[Picture 47274 — strcat and strcpy — join and copy]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Programs do **mathematical operations** — addition, subtraction, multiplicatio
 
 In your mind's eye: the operations and their operators.
 
+[Picture 47271 — the operations and their operators]
+
 ## Sub lesson 2 — Unary and binary operations
 
 An operation can work on **two values** or on **one**. A **binary operation** takes two values, like adding two numbers. A **unary operation** works on a single value, like changing a number's sign. Naming which kind an operation is tells you how many values it needs before it can run.
 
 In your mind's eye: unary and binary operations.
+
+[Picture 47272 — unary and binary operations]
 
 ## Say it to your companion
 

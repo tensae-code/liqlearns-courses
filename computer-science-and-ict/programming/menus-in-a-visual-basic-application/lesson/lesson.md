@@ -10,11 +10,15 @@ A **menu** is a **named list of commands** that drops down when its title is cli
 
 In your mind's eye: the menu bar — lists that hold the commands.
 
+[Picture 47277 — the menu bar — lists that hold the commands]
+
 ## Sub lesson 2 — Building a menu — the editor and the code behind
 
 Menus are built with the IDE's **menu editor**: titles and commands are entered in order, named like controls — for a menu command is a control, and **clicking it runs its code** exactly as clicking a button does. The building order is the designing order: decide the jobs, group them under titles, write the list into the editor, then give each command its procedure. A finished menu lets a user who has never seen the program **find every job it can do** — which is why Fiji gives menus their own section before the chapter's debugging close.
 
 In your mind's eye: building a menu — the editor and the code behind.
+
+[Picture 47278 — building a menu — the editor and the code behind]
 
 ## Say it to your companion
 

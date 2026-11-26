@@ -10,11 +10,15 @@ The **say block** gives a sprite words in a bubble — Grade 7’s lion announce
 
 In your mind's eye: the say block — one sprite speaks.
 
+[Picture 47265 — the say block — one sprite speaks]
+
 ## Sub lesson 2 — Dialogue — turns, waits and broadcasts
 
 A conversation is timed turns: **say-for-seconds plus waits** so one speaks while the other is silent and speakers do not overlap — the Abby and Maya conversation, the homeland dialogue project. Grade 9 runs the turns by **broadcasts**: in the race of the conceited one and the persistent one, each sprite’s **recorded line plays on its cue**.
 
 In your mind's eye: dialogue — turns, waits and broadcasts.
+
+[Picture 47266 — dialogue — turns, waits and broadcasts]
 
 ## Say it to your companion
 
