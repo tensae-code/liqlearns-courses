@@ -10,6 +10,8 @@ He joins tank to tank into the Parakrama Samudra vowing no drop of rain reach th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61584 — no drop unused]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Parakramabahu's tanks and wars abroad — he joins tank to tank into the Parakrama Samudra vowing no drop of rain reach the sea unused, unites the Sangha, then strikes Burma in 1164 and restores a Pandya king in 1169. Then let your companion ask you one hard question about it — answer from the lesson.

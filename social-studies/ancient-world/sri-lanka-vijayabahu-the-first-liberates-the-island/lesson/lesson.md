@@ -10,11 +10,15 @@ A prince raised in hiding gathers Ruhuna, survives defeat in 1065, and in 1070 i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61601 — the war of liberation]
+
 ## Sub lesson 2 — Political history 1017–1270: liberation
 
 From a Chola-ruled island, Vijayabahu I fights his way back and is crowned at Anuradhapura in 1070, then rules from Polonnaruwa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61602 — crowned at anuradhapura]
 
 ## Say it to your companion
 

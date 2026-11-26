@@ -10,6 +10,8 @@ The king's three sons murder their father in 1521 and divide Kotte, Sitawaka and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61596 — the splitting of kotte 1521]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The splitting of Kotte — the king's three sons murder their father in 1521 and divide Kotte, Sitawaka and Raigama between them, while Jaffna and Kandy stand apart and the Portuguese are already on the coast. Then let your companion ask you one hard question about it — answer from the lesson.

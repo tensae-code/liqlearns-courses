@@ -10,6 +10,8 @@ The witnesses change with the centuries — Culavamsa continuations, the Pujaval
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61592 — the witnesses change]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Historical sources — the witnesses change with the centuries — Culavamsa continuations, the Pujavaliya, Kotte's Saddharma Ratnakaraya and Rajavaliya, and outsiders' eyes: Marco Polo, Ibn Battuta and John de Marignolli all describe the island. Then let your companion ask you one hard question about it — answer from the lesson.

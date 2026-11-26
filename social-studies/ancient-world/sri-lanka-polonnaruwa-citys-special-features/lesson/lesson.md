@@ -10,6 +10,8 @@ Great kings, high status for women, Shiva temples beside viharas, moonstones wit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61587 — a planned royal city]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: What made Polonnaruwa special — great kings, high status for women, Shiva temples beside viharas, moonstones without the bull, and a planned royal city of palaces and lotus ponds. Then let your companion ask you one hard question about it — answer from the lesson.

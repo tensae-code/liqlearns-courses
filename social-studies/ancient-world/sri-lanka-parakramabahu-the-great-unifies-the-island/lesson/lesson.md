@@ -10,11 +10,15 @@ A prince fostered at his uncle's court takes Dakkinadesa, beats Gajabahu II, sur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61585 — one island 1153]
+
 ## Sub lesson 2 — Parakramabahu I and his successors
 
 The great unifier rebuilds a war-torn kingdom, Nissanka Malla boasts in stone, and the line weakens toward invasion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61586 — the line weakens]
 
 ## Say it to your companion
 

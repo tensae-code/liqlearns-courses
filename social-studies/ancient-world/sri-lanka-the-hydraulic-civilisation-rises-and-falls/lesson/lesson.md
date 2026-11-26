@@ -10,6 +10,8 @@ A dry land is made fertile by one linked system — dam, tank, canal, field — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61595 — one linked system]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Rise and fall of the hydraulic civilisation — a dry land is made fertile by one linked system — dam, tank, canal, field — and when invasions and neglect break the system, the whole civilisation drains away with its water. Then let your companion ask you one hard question about it — answer from the lesson.

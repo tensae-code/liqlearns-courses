@@ -10,6 +10,8 @@ The Dipavamsa comes first, then the monk Mahanama shapes the Mahavamsa in the 5t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61593 — the pali chronicles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Pali chronicles — the Dipavamsa comes first, then the monk Mahanama shapes the Mahavamsa in the 5th–6th century — 37 chapters ending with Mahasena — and later hands continue it as the Culavamsa, while Wilhelm Geiger's edition lets the world read them critically. Then let your companion ask you one hard question about it — answer from the lesson.

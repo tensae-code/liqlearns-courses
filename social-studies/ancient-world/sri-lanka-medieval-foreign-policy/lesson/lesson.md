@@ -10,6 +10,8 @@ Island kings play the great game — embassies to China and Burma, wars and marr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61580 — the great game]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign policy — island kings play the great game — embassies to China and Burma, wars and marriages with the Pandya country, fleets sent overseas. Then let your companion ask you one hard question about it — answer from the lesson.

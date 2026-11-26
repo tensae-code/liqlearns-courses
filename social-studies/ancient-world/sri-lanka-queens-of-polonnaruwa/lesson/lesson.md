@@ -10,6 +10,8 @@ Lilavati reigns three times amid Chola invasions, Kalyanavati rules six years, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61590 — the queens who ruled]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The queens who ruled Polonnaruwa — Lilavati reigns three times amid Chola invasions, Kalyanavati rules six years, and Sugala Devi fights for her son's claim to the Tooth Relic. Then let your companion ask you one hard question about it — answer from the lesson.

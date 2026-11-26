@@ -18,6 +18,8 @@ Kalinga Magha's 1215 invasion breaks Polonnaruwa for good, and the kingdom's cen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61579 — the move to dambadeniya]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Kalinga Magha's invasion and the fall of Polonnaruwa — Magha lands in 1215 with 24,000 men, blinds King Parakrama Pandya, burns books and tanks, and the ruined kingdom can never be rebuilt; Magha and the move to Dambadeniya — Kalinga Magha's 1215 invasion breaks Polonnaruwa for good, and the kingdom's centre of gravity slides south-west to Dambadeniya. Then let your companion ask you one hard question about it — answer from the lesson.

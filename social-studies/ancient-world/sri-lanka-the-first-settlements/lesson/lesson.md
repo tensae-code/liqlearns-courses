@@ -10,6 +10,8 @@ The Vijaya legend is retold and then weighed — a prince exiled with 700 follow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61594 — legend weighed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The spread of settlements — the Vijaya legend is retold and then weighed — a prince exiled with 700 followers, a yakkha princess Kuveni who helps and is betrayed — against the archaeology of real first villages along the rivers. Then let your companion ask you one hard question about it — answer from the lesson.

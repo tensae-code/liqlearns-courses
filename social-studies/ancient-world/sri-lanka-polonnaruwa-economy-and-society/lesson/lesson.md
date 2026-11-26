@@ -10,6 +10,8 @@ The tank economy at its height and in decline, and the society it carried — ca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61588 — the tank economy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Economy and social conditions — the tank economy at its height and in decline, and the society it carried — castes, villages, monks and merchants. Then let your companion ask you one hard question about it — answer from the lesson.

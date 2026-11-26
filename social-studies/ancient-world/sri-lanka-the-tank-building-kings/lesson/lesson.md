@@ -10,6 +10,8 @@ A table marches down the centuries — Pandukabhaya's first tanks, Vasabha, Maha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61600 — a thousand years of water kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The chronology of tank building — a table marches down the centuries — Pandukabhaya's first tanks, Vasabha, Mahasena, Dhatusena raising Kala Wewa, the Aggabodhis, and Parakramabahu I capping a thousand years of water kings. Then let your companion ask you one hard question about it — answer from the lesson.
