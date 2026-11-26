@@ -10,11 +10,15 @@ A worksheet of pure numbers can be correct and still unreadable. Add the shop's 
 
 In your mind's eye: inserting objects into a worksheet.
 
+[Picture 45642 — inserting objects into a worksheet]
+
 ## Sub lesson 2 — Pictures and shapes at work
 
 A **picture** shows the real thing the numbers are about; a **shape** — an arrow, a box, a callout — **points, groups or explains**. The book places the lesson inside the formatting part of the Excel unit: objects are part of how a worksheet is finished, after its data is entered and formatted, before it is laid out for printing.
 
 In your mind's eye: pictures and shapes at work.
+
+[Picture 45643 — pictures and shapes at work]
 
 ## Say it to your companion
 

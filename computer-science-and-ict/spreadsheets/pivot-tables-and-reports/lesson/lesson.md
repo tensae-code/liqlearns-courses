@@ -10,11 +10,15 @@ Start from a tidy list with **headings** (one record per row). Insert a **pivot 
 
 In your mind's eye: grouping and totalling a list.
 
+[Picture 45658 — grouping and totalling a list]
+
 ## Sub lesson 2 — Reading and reshaping the report
 
 A second field into **Columns** (or a filter) splits each total further — sales by product **and** by month, say. Dragging fields around **repivots** the report instantly, which is the whole point: the same data answers many questions. When the source data changes, **refresh** the pivot so the report catches up. North Macedonia's book ends its spreadsheet theme here — pivot reports are its deepest spreadsheet skill.
 
 In your mind's eye: reading and reshaping the report.
+
+[Picture 45659 — reading and reshaping the report]
 
 ## Say it to your companion
 

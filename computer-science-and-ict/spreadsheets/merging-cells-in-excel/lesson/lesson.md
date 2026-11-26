@@ -10,11 +10,15 @@ An Excel sheet is a grid of equal cells — but a table's title belongs over the
 
 In your mind's eye: what merging does in a sheet.
 
+[Picture 45648 — what merging does in a sheet]
+
 ## Sub lesson 2 — Merge and Center — the title over the table
 
 The command's daily job is the **title**: select the empty row of cells **across the table's width**, merge them, type the title, and it sits **centred over the whole table** as one heading. The book teaches merging first in the formatting chapter because it is formatting, not data work: the numbers below are untouched; only their heading's home has widened. Its warnings travel with it: merged cells can tangle **sorting and selecting** (a column partly merged refuses tidy sorts), so the careful maker merges titles and headings — and keeps the data's own grid regular.
 
 In your mind's eye: merge and Center — the title over the table.
+
+[Picture 45649 — merge and Center — the title over the table]
 
 ## Say it to your companion
 

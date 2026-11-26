@@ -10,11 +10,15 @@ A spreadsheet **model** separates the sheet's three citizens: the **input cells*
 
 In your mind's eye: the reusable template — quantities in, answer out.
 
+[Picture 45654 — the reusable template — quantities in, answer out]
+
 ## Sub lesson 2 — Heron's formula — the book's worked model
 
 The worked model is geometry's gift to modelling: **Heron's formula**, which gives a triangle's **area from its three sides alone** — first the half-perimeter, then the area from it — two formula cells chained, the second drinking from the first. Any three sides poured in return their area, for triangles no one has drawn. The unit's arc completes itself here: the spreadsheet began as rows and formulas, grew through functions, sorting and charts, and ends as an instrument — a model, in the same sense the course's first lessons gave the word: built for a purpose, judged by its work.
 
 In your mind's eye: heron's formula — the book's worked model.
+
+[Picture 45655 — heron's formula — the book's worked model]
 
 ## Say it to your companion
 

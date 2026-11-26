@@ -10,11 +10,15 @@ A **logical function** works on a **test**: it compares a value with a condition
 
 In your mind's eye: logical functions — a formula that tests.
 
+[Picture 45646 — logical functions — a formula that tests]
+
 ## Sub lesson 2 — Moving a formula — cut, copy and paste
 
 A formula written once is rarely needed once. **Copy and paste** a formula to the neighbouring cells and Excel **adjusts its cell references** to each new row — the fill-handle lesson's rule, worked by hand. **Cut and paste** moves the formula itself to a new home. Libya pairs the two teachings in one section because they are one daily skill: write the deciding formula once, then spread it down the whole class list.
 
 In your mind's eye: moving a formula — cut, copy and paste.
+
+[Picture 45647 — moving a formula — cut, copy and paste]
 
 ## Say it to your companion
 

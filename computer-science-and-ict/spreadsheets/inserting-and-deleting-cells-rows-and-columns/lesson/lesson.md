@@ -15,6 +15,8 @@ Nothing on a finished worksheet is fixed. To make room **inside** a table, you *
 
 In your mind's eye: a small grid with one cell selected and the Insert Cells dialog open, its four choices labelled.
 
+[Picture 45641 — a small grid with one cell selected and the Insert Cells dialog open, its four choices labelled]
+
 **Deleting cells** is the mirror image. Click the cell that must go; **Home tab → Delete → Delete Cells**. The dialog asks which way the remaining cells should shift to **close the gap** — **shift cells left**, or **shift cells up**. Choose and confirm: the cell is gone, and the table closes ranks behind it. A worksheet never keeps a hole where a cell was deleted; everything moves together, and formulas move with their cells.
 
 Notice the difference from simply clearing: pressing the Delete key on the keyboard empties a cell's **contents** but the empty cell stays in place. **Delete Cells** removes the cell itself, and its neighbours shift in.

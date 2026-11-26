@@ -10,11 +10,15 @@ The **active cell** — the one with the thick border — is where you are. The 
 
 In your mind's eye: moving within a sheet.
 
+[Picture 45656 — moving within a sheet]
+
 ## Sub lesson 2 — Moving between sheets
 
 A workbook's sheets sit behind the **sheet tabs** at the bottom of the window. Clicking a tab brings that sheet to the front; the tab arrows scroll the row of tabs when there are too many to show. Moving around a workbook is the pair of skills together — tabs between sheets, keys and the Name Box inside a sheet — and Fiji teaches it before creating a spreadsheet because a learner who cannot travel cannot check, correct or find anything in a big workbook.
 
 In your mind's eye: moving between sheets.
+
+[Picture 45657 — moving between sheets]
 
 ## Say it to your companion
 

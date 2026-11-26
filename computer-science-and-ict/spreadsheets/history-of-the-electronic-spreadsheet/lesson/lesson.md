@@ -10,11 +10,15 @@ For centuries, tables of numbers were kept on **paper ledgers**: change one numb
 
 In your mind's eye: from paper ledgers to VisiCalc — the first electronic spreadsheet.
 
+[Picture 45639 — from paper ledgers to VisiCalc — the first electronic spreadsheet]
+
 ## Sub lesson 2 — Lotus, Excel and the sheet everywhere — how the idea won
 
 **Lotus 1-2-3** (1983) made the spreadsheet a business standard on the IBM PC, adding charts and database features. **Microsoft Excel** (1985 for Macintosh, then Windows) won with the graphical interface — click cells instead of memorising commands — and became the world's default sheet. The idea then escaped the office: free and online sheets (Google Sheets, 2006) made recalculation available to anyone with a browser. The lesson of the history: the winning feature was never the grid — it was **automatic recalculation**.
 
 In your mind's eye: lotus, Excel and the sheet everywhere — how the idea won.
+
+[Picture 45640 — lotus, Excel and the sheet everywhere — how the idea won]
 
 ## Say it to your companion
 
