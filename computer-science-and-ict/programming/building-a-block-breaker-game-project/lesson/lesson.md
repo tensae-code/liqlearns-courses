@@ -10,11 +10,15 @@ A **block breaker** is a small system with named parts: a **paddle** the player 
 
 In your mind's eye: the game in parts — paddle, ball, bricks, rules.
 
+[Picture 46787 — the game in parts — paddle, ball, bricks, rules]
+
 ## Sub lesson 2 — Summary and presentation — owning the build
 
 The project's last two sections turn builders into authors. The **summary** requires the makers to say, in order, what was built, how each part works, and what the hard problems were and how they fell — a test no copied code can pass. The **development presentation** then defends the game before an audience: demonstrate it live, explain the choices (why this speed, this scoring, this control), and answer questions. With generative AI woven through the course's projects, this closing ritual is the point of the whole chapter: the game may have had machine help in the making, but its makers leave the course able to explain, summarise and present it as **their own work** — the standard Egypt sets for every project in the book.
 
 In your mind's eye: summary and presentation — owning the build.
+
+[Picture 46788 — summary and presentation — owning the build]
 
 ## Say it to your companion
 

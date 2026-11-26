@@ -10,11 +10,15 @@ A **metalanguage** is a language used to describe another language. **BNF (Backu
 
 In your mind's eye: a language about languages — the metalanguage.
 
+[Picture 46778 — a language about languages — the metalanguage]
+
 ## Sub lesson 2 — Alternatives and repetition — reading a production
 
 A definition may offer **alternatives**, separated by **|**: <digit> ::= 0 | 1 | … | 9. Reading BNF is unfolding: start from a nonterminal, replace it by one of its alternatives, and continue until only terminals remain — a legal text of the described language. <identifier> ::= <letter> | <identifier> <letter> | <identifier> <digit> unfolds letter by letter into names of any length: the production is **recursive**, and recursion here is what lets a finite grammar describe infinitely many texts.
 
 In your mind's eye: alternatives and repetition — reading a production.
+
+[Picture 46779 — alternatives and repetition — reading a production]
 
 ## Say it to your companion
 

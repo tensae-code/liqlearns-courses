@@ -10,11 +10,15 @@ The **block palette** sorts blocks into **categories by colour**: each **categor
 
 In your mind's eye: block categories by colour.
 
+[Picture 46774 — block categories by colour]
+
 ## Sub lesson 2 — Snapping blocks — and the Events block first
 
 Blocks **snap together**: drag a block **under the one before it** and it clicks into the stack, so the script reads and runs from the **top to the bottom**. **Every script starts with an Events block** — such as when the green flag is clicked — because a stack with no event at its head never knows when to run.
 
 In your mind's eye: snapping blocks — and the events block first.
+
+[Picture 46775 — snapping blocks — and the events block first]
 
 ## Say it to your companion
 

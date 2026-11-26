@@ -12,6 +12,8 @@ Start with the graph A joined to B and C; B joined to D and E; C joined to F. Se
 
 In your mind's eye: breadth-first-search-layers. The graph drawn in three shaded layers around the start node, with the queue shown as a line of boxes underneath.
 
+[Picture 46780 — breadth-first-search-layers. The graph drawn in three shaded layers around the start node, with the queue shown as a line of boxes underneath]
+
 Two rules do all the work. A node is **marked the moment it enters the queue**, not when it leaves it — otherwise the same node could be queued twice by two neighbours in the same layer. And the queue's order is never broken: first in, first out is what keeps the layers fair.
 
 ## Sub lesson 2 — What breadth-first search gives you — distances and uses
@@ -21,6 +23,8 @@ Breadth-first search hands you more than an order. Because it moves layer by lay
 That guarantee is why this search is used wherever 'nearest' matters in an unweighted network: the fewest stops between two stations, the smallest number of handshakes joining two people, everyone reachable within three steps of a post, a web crawler taking pages link-layer by link-layer.
 
 In your mind's eye: breadth-first-search-parents. The same graph with a parent arrow on each node pointing one step closer to the start, and one shortest path traced back.
+
+[Picture 46781 — breadth-first-search-parents. The same graph with a parent arrow on each node pointing one step closer to the start, and one shortest path traced back]
 
 Its opposite habit is worth naming: a **depth-first** wander runs down one branch as far as it can before coming back. Depth-first has its own uses, but it gives no shortest-path promise — the first route it finds to a node may be a long way round. Breadth-first's queue is the price of the promise.
 

@@ -10,6 +10,8 @@ A **broadcast** sends a named message out to the whole project: the broadcasting
 
 In your mind's eye: one sprite broadcasting a named message across the stage, with sound-wave rings carrying it to three other sprites whose when-I-receive scripts light up.
 
+[Picture 46782 — one sprite broadcasting a named message across the stage, with sound-wave rings carrying it to three other sprites whose when-I-receive scripts light up]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: broadcast sends a named message to the whole project, when I receive starts a script on that exact message, and a whole game can be run by messages. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

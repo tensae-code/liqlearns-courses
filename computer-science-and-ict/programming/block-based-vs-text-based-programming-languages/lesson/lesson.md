@@ -10,11 +10,15 @@ Scratch snaps blocks; Python takes typed lines. Both are programming — this le
 
 In your mind's eye: the two faces.
 
+[Picture 46772 — the two faces]
+
 ## Sub lesson 2 — Algorithms first — pseudocode and flowcharts
 
 Beneath both faces sits the **algorithm**: the steps, writable before any language in **pseudocode** (structured plain language — 'IF mark ≥ 50 THEN pass') or drawn in a **flowchart** (shapes for steps, decisions, flow). The book's order is the discipline: design in pseudocode or flowchart, then dress the design in blocks or in text. A pupil who can move an algorithm between the three clothings owns the algorithm; a pupil who knows only one clothing owns a costume.
 
 In your mind's eye: algorithms first — pseudocode and flowcharts.
+
+[Picture 46773 — algorithms first — pseudocode and flowcharts]
 
 ## Say it to your companion
 

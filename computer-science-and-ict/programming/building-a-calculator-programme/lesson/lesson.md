@@ -10,11 +10,15 @@ Before code, the **design**: the programme **asks for two numbers and an operati
 
 In your mind's eye: the design — what a calculator does.
 
+[Picture 46789 — the design — what a calculator does]
+
 ## Sub lesson 2 — The build — selection chooses the operation
 
 The build hangs on **selection**: an if-elif-else chain reads the operation and sends the numbers to the matching arithmetic — the chain of choices lesson, employed. Each branch computes and the programme prints from one place, so the output's form is written once. The book's session tests the calculator as a team tool is tested: known answers first (2 + 3 must be 5), then the edges — division by zero, a mistyped operation, enormous numbers — and the programme is only finished when the edges behave as the design promised. Pieces, assembled, tested: that is a programme.
 
 In your mind's eye: the build — selection chooses the operation.
+
+[Picture 46790 — the build — selection chooses the operation]
 
 ## Say it to your companion
 

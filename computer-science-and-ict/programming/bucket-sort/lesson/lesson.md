@@ -10,11 +10,15 @@ Not every sort compares neighbours. Malaysia's second sort scatters the values i
 
 In your mind's eye: scatter — values into their buckets.
 
+[Picture 46785 — scatter — values into their buckets]
+
 ## Sub lesson 2 — Order each bucket, then gather
 
 Inside each bucket, the few values are put **in order** (by a simple sort — the buckets are small, so even bubble sort is quick there). Then the buckets are **gathered in bucket order** — all of the 0s bucket, then all of the 10s, and so on — and the gathered line is the sorted list. Malaysia pairs bucket sort with bubble sort to make the contrast explicit: bubble sort moves values by comparing neighbours; bucket sort moves them by knowing where values of each size belong.
 
 In your mind's eye: order each bucket, then gather.
+
+[Picture 46786 — order each bucket, then gather]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Blockly Games Music — programming music with blocks: notes, rhythm and repetit
 
 In your mind's eye: music as a program — notes in order.
 
+[Picture 46776 — music as a program — notes in order]
+
 ## Sub lesson 2 — Rhythm and repetition — loops you can hear
 
 Music's own structures are programming's: a phrase **repeated** is a loop with a tune inside it, a chorus returning is a block reused, and timing — note lengths and rests — is the program's data. Composing in blocks teaches the ear what the eye misses in code: a loop that runs one time too many is not read, it is *heard*. The activity closes the book's Blockly exploration by showing the same blocks — sequence, repetition, choice — governing a third world after puzzles and mazes: proof the structures are the subject, and the worlds only their costumes.
 
 In your mind's eye: rhythm and repetition — loops you can hear.
+
+[Picture 46777 — rhythm and repetition — loops you can hear]
 
 ## Say it to your companion
 

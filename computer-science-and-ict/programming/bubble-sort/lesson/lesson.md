@@ -10,11 +10,15 @@ Watch a list being sorted by neighbours alone: compare two side by side, swap th
 
 In your mind's eye: neighbours compared, neighbours swapped.
 
+[Picture 46783 — neighbours compared, neighbours swapped]
+
 ## Sub lesson 2 — Pass after pass, until a clean pass
 
 The passes repeat over the **still-unsorted front** of the list — the sorted tail at the end is left alone. Each pass parks one more biggest value, so the passes get shorter. The sort is finished when a **whole pass makes no swaps** — every neighbour already in order means the list is sorted. Malaysia's pseudocode nests the shape: an outer loop for passes, an inner loop for the neighbour comparisons, and a swapped flag to catch the clean pass. Bubble sort is simple and slow — its teaching worth is that every swap can be watched and counted.
 
 In your mind's eye: pass after pass, until a clean pass.
+
+[Picture 46784 — pass after pass, until a clean pass]
 
 ## Say it to your companion
 
