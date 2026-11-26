@@ -9,7 +9,11 @@ Seychelles' Unit 2 Topic 5, "Some gases in the air", prepares oxygen by heating 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37017 — preparing oxygen — heating potassium permanganate; the gas collects in an upturned jar over water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37018 — the test — a glowing splint lowered into the jar bursts into flame: it is oxygen]
 
 ## Sub lesson 2 — Carbon dioxide — and charcoal from limited air
 

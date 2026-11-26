@@ -9,7 +9,11 @@ the gears (التروس): toothed discs used to transfer motion from one disc to
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37019 — gears — toothed discs that pass motion on; a big gear and a small gear, their teeth meshing]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37020 — for one turn of the big gear, the small gear turns three times — and the other way]
 
 ## The key ideas
 

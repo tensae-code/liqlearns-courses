@@ -11,7 +11,11 @@ The test is flowing, not wetness. If a material can flow and take its container'
 
 In your mind's eye: three vessels being tipped — water pouring, air shown flowing from a balloon, and a stone staying put. Say which are fluids and why before reading on.
 
+[Picture 37015 — three vessels tipped — water pours (a fluid), air flows from a balloon (a fluid), a stone stays put (not a fluid)]
+
 In your mind's eye: honey pouring slowly, then water pouring freely. Say what drag does to each pour.
+
+[Picture 37016 — honey pours slowly — drag holds it back; water pours freely]
 
 ## Sub lesson 2 — Superfluids — flowing with no friction at all
 

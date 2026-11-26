@@ -9,7 +9,11 @@ Glass: a transparent supercooled liquid made from silicates; silica glass, water
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37021 — the batch for ordinary glass, as printed — silica 75%, sodium carbonate 15%, calcium carbonate 10%, broken glass 25%]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37022 — coloured glass from metal oxides — blue from cobalt oxide, green from chromium oxide, red from copper oxide, white from tin oxide]
 
 ## The key ideas
 

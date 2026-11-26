@@ -9,7 +9,11 @@ Seychelles' Unit 3 Project, "Making crystals", grows crystals of magnesium sulph
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37023 — the set-up — a solution full of dissolved salt; as it cools, the first crystals grow on the bottom]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37024 — a crystal grows — small, growing, grown: the same shape, bigger]
 
 ## Sub lesson 2 — The regular shape of crystals
 
