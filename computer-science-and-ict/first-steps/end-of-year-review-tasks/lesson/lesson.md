@@ -10,11 +10,15 @@ Both Uzbekistan's Grade 5 and Grade 6 books end the same way: not with a new top
 
 In your mind's eye: what review tasks are.
 
+[Picture 45056 — what review tasks are]
+
 ## Sub lesson 2 — How to work through a review
 
 Work a review set in order, but mark every task you cannot start: the mark is the result — it names the lesson to revisit. Then revisit that one lesson, and do the marked task again. The books place the review last because it is a map of the year: what stands unmarked is learned; what is marked is the summer's short list.
 
 In your mind's eye: how to work through a review.
+
+[Picture 45057 — how to work through a review]
 
 ## Say it to your companion
 

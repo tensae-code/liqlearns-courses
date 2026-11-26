@@ -10,11 +10,15 @@ An octal digit runs from 0 to 7, and three binary digits also run from 000 to 11
 
 In your mind's eye: each octal digit — three bits.
 
+[Picture 45042 — each octal digit — three bits]
+
 ## Sub lesson 2 — Groups side by side — the binary answer
 
 Convert **every** digit of the octal number and write the groups **side by side, in the same order**: 47₈ → 4→100, 7→111 → **100111₂**. Nothing is added and nothing is carried — the work is finished when every digit has its group. Check by value if unsure: 100111₂ = 32+4+2+1 = 39, and 47₈ = 39. Malaysia teaches this direct road because octal exists in computing precisely as binary's short writing.
 
 In your mind's eye: groups side by side — the binary answer.
+
+[Picture 45043 — groups side by side — the binary answer]
 
 ## Say it to your companion
 

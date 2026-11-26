@@ -14,6 +14,8 @@ To make your own riddle, choose an object in secret, list three or four of its t
 
 In your mind's eye: a child thinking, with a round red apple hidden behind a question mark and three clue bubbles. Round, red, you can eat it.
 
+[Picture 45046 — a child thinking, with a round red apple hidden behind a question mark and three clue bubbles]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A riddle describes an object by its features without naming it — and the listener guesses the object from the features. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

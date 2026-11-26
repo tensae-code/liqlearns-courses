@@ -10,11 +10,15 @@ The **parity bit (bit de parité)** is one extra bit sent with each group of dat
 
 In your mind's eye: one extra bit that watches the others.
 
+[Picture 45047 — one extra bit that watches the others]
+
 ## Sub lesson 2 — What parity can and cannot do
 
 Parity **detects** a single flipped bit — it cannot say which bit flipped, so it cannot correct the error, only declare the group suspect. Two flips restore the parity and slip past unseen: parity is a cheap alarm, not a guard. Real systems stack stronger checks on the same idea — more check bits, cleverer counts — but every error-detecting code is parity's descendant: spare a little data to watch the rest.
 
 In your mind's eye: what parity can and cannot do.
+
+[Picture 45048 — what parity can and cannot do]
 
 ## Say it to your companion
 

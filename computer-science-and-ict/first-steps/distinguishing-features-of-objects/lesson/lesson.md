@@ -14,6 +14,8 @@ When you must pick out one object from alike objects, look for its distinguishin
 
 In your mind's eye: two alike yellow pencils, one sharp and one blunt, with the sharp point circled.
 
+[Picture 45051 — two alike yellow pencils, one sharp and one blunt, with the sharp point circled]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A distinguishing feature is the feature that makes one object different from another — the one thing by which you can tell it apart. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

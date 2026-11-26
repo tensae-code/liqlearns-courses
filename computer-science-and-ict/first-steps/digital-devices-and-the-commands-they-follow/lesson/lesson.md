@@ -10,11 +10,15 @@ A **digital device** is a machine that works with information and follows comman
 
 In your mind's eye: digital devices are all around us.
 
+[Picture 45049 — digital devices are all around us]
+
 ## Sub lesson 2 — The processor — the part that carries out commands
 
 Inside every digital device sits a **processor** — its working heart. The processor **receives a command and executes it**: you press 'play' and the processor sets the music going; the washing machine's processor counts the minutes and turns the drum. A command the processor does not know is not carried out at all — devices do exactly what they are told, nothing more and nothing guessed. That is why the order and the clarity of commands matter, in this book's later lessons and in every program after.
 
 In your mind's eye: the processor — the part that carries out commands.
+
+[Picture 45050 — the processor — the part that carries out commands]
 
 ## Say it to your companion
 

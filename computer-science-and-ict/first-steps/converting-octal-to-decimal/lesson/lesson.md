@@ -10,11 +10,15 @@ Write the octal **place values** over the digits: from the right, 1, 8, 64, 512 
 
 In your mind's eye: each digit times its place.
 
+[Picture 45044 — each digit times its place]
+
 ## Sub lesson 2 — Add the products — the decimal answer
 
 **Add** all the products: 32 + 7 = **39**, so 47₈ = 39 in decimal. The method never changes with size: 125₈ = 1×64 + 2×8 + 5×1 = 64 + 16 + 5 = 85. Malaysia pairs this with the forward journey (divide by 8) so the two check each other: convert your decimal answer back by dividing, and the octal number you started with must return.
 
 In your mind's eye: add the products — the decimal answer.
+
+[Picture 45045 — add the products — the decimal answer]
 
 ## Say it to your companion
 

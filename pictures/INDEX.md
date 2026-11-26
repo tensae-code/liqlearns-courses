@@ -8592,3 +8592,21 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60063 | pictures/60063.webp | a drawn scene — two huts, an arrow, and a town of tall buildings with a market woman carrying her basket | Social Studies — Africa to 1500 — Daily life in ancient Africa |
 | 60064 | pictures/60064.webp | a drawn scene — the stone wall of Uri with its great gate and round stone huts inside | Social Studies — Africa to 1500 — Darfur's stone cities of the Tunjur |
 | 60065 | pictures/60065.webp | a drawn scene — al-Azhar in Cairo with African students, and trade routes radiating out to the continent | Social Studies — Africa to 1500 — Egypt and Africa in the Middle Ages |
+| 45040 | pictures/45040.webp | a drawn diagram — binary 1011 with place chips 8, 4, 2, 1: 8 + 0 + 2 + 1 = 11 | ICT — First Steps — Converting Numbers Between Systems |
+| 45041 | pictures/45041.webp | a drawn diagram — decimal 13 divided by 2 four times, remainders kept, giving binary 1101 | ICT — First Steps — Converting Numbers Between Systems |
+| 45042 | pictures/45042.webp | a drawn diagram — octal digits 5 and 7, each becoming three bits: 101 and 111 | ICT — First Steps — Converting Octal to Binary |
+| 45043 | pictures/45043.webp | a drawn diagram — the triples 101 and 111 joined side by side: 57 in octal is 101111 in binary | ICT — First Steps — Converting Octal to Binary |
+| 45044 | pictures/45044.webp | a drawn diagram — octal 53 by places: 5 x 8 = 40 and 3 x 1 = 3 | ICT — First Steps — Converting Octal to Decimal |
+| 45045 | pictures/45045.webp | a drawn diagram — the products added: 40 + 3 = 43, the decimal answer | ICT — First Steps — Converting Octal to Decimal |
+| 45046 | pictures/45046.webp | a drawn diagram — a child thinking of a hidden apple behind a question mark, with three clue bubbles: round, red, you can eat it | ICT — First Steps — Describing an Object by Its Features — Riddles |
+| 45047 | pictures/45047.webp | a drawn diagram — seven data bits 1011001 with four 1s, plus a red parity bit 0 keeping the count even | ICT — First Steps — Detecting Errors in Transmitted Data — the Parity Bit |
+| 45048 | pictures/45048.webp | a drawn diagram — parity's limits: one flipped bit turns the count odd and rings the alarm; two flips keep it even and slip past | ICT — First Steps — Detecting Errors in Transmitted Data — the Parity Bit |
+| 45049 | pictures/45049.webp | a drawn diagram — digital devices all around us: phone, washing machine, television, microwave | ICT — First Steps — Digital Devices and the Commands They Follow |
+| 45050 | pictures/45050.webp | a drawn diagram — commands ADD, MOVE, SHOW flowing into a CPU chip, and the finished work on a screen: 2 + 3 = 5 | ICT — First Steps — Digital Devices and the Commands They Follow |
+| 45051 | pictures/45051.webp | a drawn diagram — two alike yellow pencils, one sharp (its point circled in red) and one blunt | ICT — First Steps — Distinguishing Features of Objects |
+| 45052 | pictures/45052.webp | a drawn diagram — counting on the body (a hand, fingers numbered 1 to 5) and with things (seven pebbles) | ICT — First Steps — Early Counting Devices |
+| 45053 | pictures/45053.webp | a drawn diagram — counting that lasts: tally marks cut in a stick and knots tied in a rope | ICT — First Steps — Early Counting Devices |
+| 45054 | pictures/45054.webp | a drawn diagram — a washing machine with its embedded computer chip ringed in red inside the control panel | ICT — First Steps — Embedded Computers in Everyday Devices |
+| 45055 | pictures/45055.gif | an animated diagram — a washing machine drum turning with clothes tumbling, its chip controlling fills, washes, spins and timing | ICT — First Steps — Embedded Computers in Everyday Devices |
+| 45056 | pictures/45056.webp | a drawn diagram — a review clipboard with the year's tasks ticked off and a go-over-it-again arrow | ICT — First Steps — End-of-Year Review Tasks |
+| 45057 | pictures/45057.webp | a drawn diagram — working through a review in three steps: try it alone, check the answer, fix the gaps | ICT — First Steps — End-of-Year Review Tasks |

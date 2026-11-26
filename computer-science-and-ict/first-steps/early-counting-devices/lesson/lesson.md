@@ -10,11 +10,15 @@ The first counting device is the **fingers**: ten of them, always carried, and t
 
 In your mind's eye: counting on the body and with things.
 
+[Picture 45052 — counting on the body and with things]
+
 ## Sub lesson 2 — Marks and knots — counting that lasts
 
 Fingers and loose stones forget: a count that must **last** is recorded. A **notch cut in a stick** keeps the count after the flock has gone; **knots tied in a rope** do the same work — one knot per item, the rope kept as the record. Laos places these devices at the head of its computer history for a reason: the movement from counting in the moment to storing a count is the first step on the road that ends at the computer's memory.
 
 In your mind's eye: marks and knots — counting that lasts.
+
+[Picture 45053 — marks and knots — counting that lasts]
 
 ## Say it to your companion
 

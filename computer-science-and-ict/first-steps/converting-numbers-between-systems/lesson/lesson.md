@@ -10,11 +10,15 @@ To carry a number **into decimal**, write it out by places: each digit times the
 
 In your mind's eye: from another system into decimal.
 
+[Picture 45040 — from another system into decimal]
+
 ## Sub lesson 2 — From decimal into another system
 
 To carry a decimal number **into another system**, divide it by the new base again and again, write down each remainder, and read the remainders in reverse — last first — to get the new writing. Thirteen divided by 2 leaves remainders 1, 0, 1, 1 read backwards: 1101 in binary. Check by converting back: a conversion you cannot undo is a conversion you have not proved.
 
 In your mind's eye: from decimal into another system.
+
+[Picture 45041 — from decimal into another system]
 
 ## Say it to your companion
 

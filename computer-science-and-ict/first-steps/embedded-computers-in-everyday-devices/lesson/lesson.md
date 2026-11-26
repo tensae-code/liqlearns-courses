@@ -10,11 +10,15 @@ An **embedded computer** is a computer **built inside another device**: a small 
 
 In your mind's eye: an embedded computer — a computer built inside a device.
 
+[Picture 45054 — an embedded computer — a computer built inside a device]
+
 ## Sub lesson 2 — What the embedded computer controls — the device's own job
 
 Inside the device, the embedded computer **controls the job**: in the washing machine it runs the **wash programmes** — the order of filling, washing, rinsing and spinning, and their timing; in the phone it runs the calls and the screen; in the car it helps control the engine as it runs; in the television it answers the remote control and shows the chosen channel. One device, one built-in brain: take the embedded computer out and the device stops being itself — a washing machine that cannot choose a programme is only a tub.
 
 In your mind's eye: what the embedded computer controls — the device's own job.
+
+[GIF 45055 — what the embedded computer controls — the device's own job]
 
 ## Say it to your companion
 
