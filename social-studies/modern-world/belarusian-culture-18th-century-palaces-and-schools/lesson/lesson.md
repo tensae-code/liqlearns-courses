@@ -10,6 +10,8 @@ Magnate palaces, parks and serf theatres glitter while schooling stays with the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62336 — palaces glitter schools clerical]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture of the Belarusian lands in the 18th century. Then let your companion ask you one hard question about it — answer from the lesson.

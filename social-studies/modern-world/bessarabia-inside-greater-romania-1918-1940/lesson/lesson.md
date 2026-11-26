@@ -10,11 +10,15 @@ land reform expropriates the estates peasants had already seized in 1917; 600 km
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62345 — roads and bridges tie it in]
+
 ## Sub lesson 2 — Tema 22: Basarabia în componența României Mari
 
 the Sfatul Țării deputies who on 27 November 1918 vote both the agrarian reform and Bessarabia's unconditional union; parties fuse with the Old Kingdom's and maize and vines lead the province's farming
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62346 — the 1918 votes]
 
 ## Say it to your companion
 

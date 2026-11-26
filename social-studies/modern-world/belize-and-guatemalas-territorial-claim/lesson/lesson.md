@@ -10,6 +10,8 @@ Guatemala's Grade 4 book teaches Belize as an unfinished dispute. English logwoo
 
 In your mind's eye: a map showing Belize on the Caribbean coast with logwood cutters' camps, Guatemala's claim shaded, and the year 1981 and a courthouse marked 2008. Name the claim and the court decision.
 
+[Picture 62338 — a claim outlives independence]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Belice — a claim that outlives independence. Then let your companion ask you one hard question about it — answer from the lesson.

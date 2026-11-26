@@ -10,11 +10,15 @@ the Moldavian National Party of Stroescu, Gore, Halippa and Pelivan leads the mo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62349 — a movement leads]
+
 ## Sub lesson 2 — Tema 7: Basarabia în anii 1917–1918
 
 national consciousness wakes in a land "torn away abusively in 1812"; Bessarabia's return to the Romanian state proceeds in stages through the Sfatul Țării
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62350 — return in stages]
 
 ## Say it to your companion
 

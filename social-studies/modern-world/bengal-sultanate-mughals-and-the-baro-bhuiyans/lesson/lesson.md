@@ -10,6 +10,8 @@ The Grade 9 book's middle chapters give Bengal two opposite fortunes. First, ind
 
 In your mind's eye: baro Bhuiyan war boats on a Bengal river — armed boats among flooded green fields and village strongholds, Mughal banners distant on the bank. The student points to the boats and says why the rivers helped the resistance.
 
+[Picture 62340 — a sultanate an empire resisted]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Sultanate and Mughal Bengal — Ilyas Shah, Akbar and the Baro Bhuiyans. Then let your companion ask you one hard question about it — answer from the lesson.

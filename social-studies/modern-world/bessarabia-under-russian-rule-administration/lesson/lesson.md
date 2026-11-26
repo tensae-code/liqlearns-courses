@@ -10,11 +10,15 @@ tsarism rushes to integrate the annexed province for its Balkan strategy; Bessar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62347 — folded in no self rule]
+
 ## Sub lesson 2 — §25: Lichidarea autonomiei Basarabiei
 
 Governor Vorontsov presses integration from 1823; colonists found 24 new localities by the early 1840s, Capodistria and Scarlat Sturdza frame the province's first order, and the native peasants' lot is the hardest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62348 — integration pressed]
 
 ## Say it to your companion
 

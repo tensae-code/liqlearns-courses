@@ -10,11 +10,15 @@ cut off from the Romanian market, Bessarabia exports livestock, wine and tobacco
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62343 — exports and colonisation]
+
 ## Sub lesson 2 — §26: Economia Basarabiei (1812–1914)
 
 an agrarian province of vines, orchards and cattle; the state leases out the Danube mouths and southern lakes, and the Heers' Sărata farm-machinery factory shows industry's first sparks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62344 — vines and first sparks]
 
 ## Say it to your companion
 

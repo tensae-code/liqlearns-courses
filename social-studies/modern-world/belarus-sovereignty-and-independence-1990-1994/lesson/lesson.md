@@ -18,6 +18,8 @@ Sovereignty is spelled out in symbols, citizenship and law as Belarus decides wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62334 — symbols citizenship law]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Formation of the Republic of Belarus; Establishing state sovereignty. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The Grade 9 book closes Bengal's political path with resistance in two kinds. Th
 
 In your mind's eye: in two halves — on one side Titumir's bamboo fort and indigo ryots in the fields; on the other, Rammohan Roy writing at a desk with books and a printing press. The student points to each half and says which kind of resistance it shows.
 
+[Picture 62339 — fighters and thinkers]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Resistance to British rule — fighters and thinkers. Then let your companion ask you one hard question about it — answer from the lesson.

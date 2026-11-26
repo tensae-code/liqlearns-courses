@@ -10,6 +10,8 @@ Pupils bound the Vilnius educational district of 1864, mark the first Belarusian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62337 — dialects mapped]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture, settlement boundaries and dialects, 1860s–1917. Then let your companion ask you one hard question about it — answer from the lesson.

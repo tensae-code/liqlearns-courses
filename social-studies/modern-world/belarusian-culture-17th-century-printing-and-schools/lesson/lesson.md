@@ -10,6 +10,8 @@ Jesuit Vilnius Academy and collegiums, Orthodox brotherhood schools and Uniate, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62335 — competing for minds]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture of the Belarusian lands in the 17th century. Then let your companion ask you one hard question about it — answer from the lesson.
