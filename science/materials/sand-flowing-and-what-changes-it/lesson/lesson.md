@@ -13,6 +13,8 @@ That flowing is the thing to watch: how fast it runs, how the heap grows, and wh
 
 In your mind's eye: a cup tipping dry sand in a thin stream onto a tray, the heap growing below. The student points to the stream and the heap.
 
+[Picture 37066 — dry sand pouring from a tipped cup in a thin stream onto a growing heap]
+
 In your mind's eye: dry sand pouring from a cup, the stream running and the heap spreading. Say how the grains move together.
 
 ## Sub lesson 2 — What changes the flow

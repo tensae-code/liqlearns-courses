@@ -9,7 +9,11 @@ Separating by spinning (centrifuging): butter coming out of curd and blood being
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37068 — the theki churn with its madani dasher and neti rope — Nepal's way of spinning]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37069 — a bottle of sand, chalk dust and water spun on a rope — the heavy sand settles lowest]
 
 ## Sub lesson 2 — Centrifuging shown with a plastic bottle of sand
 

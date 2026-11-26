@@ -9,7 +9,11 @@ concentration: the property that describes the amount of material dissolved in t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37075 — two glasses — little sugar dissolved, and much sugar dissolved]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37076 — the more that dissolves, the higher the concentration]
 
 ## The key ideas
 

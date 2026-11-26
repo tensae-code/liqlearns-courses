@@ -9,7 +9,11 @@ Stir salt or sugar into water and the grains vanish. They have not gone — the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37073 — salt, a glass of water and a spoon — ready to test dissolving]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37074 — salt grains stirred into water vanish — the water tastes of them]
 
 ## Sub lesson 2 — Insoluble substances — they stay themselves however long you stir
 

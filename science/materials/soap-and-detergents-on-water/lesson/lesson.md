@@ -9,7 +9,11 @@ Fiji's Year 9 Basic Science book tests what soap and detergents **do to water** 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37070 — a bar of soap and a detergent bottle meeting a glass of water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37071 — the same soap in two waters — rich lather in one, almost none in the other]
 
 ## Sub lesson 2 — Different waters, different effects
 

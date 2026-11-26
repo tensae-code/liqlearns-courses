@@ -8,6 +8,8 @@ South Sudan's Primary 3 Science pupil's book teaches washing from the inside: af
 
 In your mind's eye: soap and detergents clean because each of their particles holds water with one end and grease with the other — they lift dirt and grease off a surface and let the water carry it away. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37072 — how soap cleans in three steps — reaches the grease, holds water and grease, the water carries it away]
+
 ## The key facts
 **The kinds we use.** Soaps come as hard bars for washing bodies and clothes and as softer forms for dishes and floors; detergents are the made cleaners sold as powders and liquids, built to work even in hard water where soap struggles. Each kind is made for its job.
 
