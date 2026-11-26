@@ -10,11 +10,15 @@ Islam appears in seventh-century Arabia and turns scattered tribes into one nati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60250 — charter, Damascus, House of Wisdom]
+
 ## Sub lesson 2 — Economic and social life, and scientific life and the arts of architecture
 
 The civilisation at work and at prayer — its markets, farms and classes, its scholars, and the architecture its faith raised — the harvest of the Islamic centuries.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60251 — the civilisation at work]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Writing, law, astronomy, farming, building and sea trade — the ancient Arab wo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60253 — six gifts to civilisation]
+
 ## Sub lesson 2 — What the ancient Arab civilisations shared
 
 One family of faiths from Babylon to Yemen — Marduk, Amun, Baal, Hadad, Ishtar in every land, the sun-moon-Venus triad, Osiris echoed in Adonis — and everywhere a belief in life after death
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60254 — one family of faiths]
 
 ## Say it to your companion
 

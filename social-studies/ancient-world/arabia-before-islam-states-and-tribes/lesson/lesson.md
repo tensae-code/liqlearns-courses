@@ -10,11 +10,15 @@ Arabia before Islam is a patchwork — Kinda in Najd and the Hijaz, Quraysh in M
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60256 — a patchwork between empires]
+
 ## Sub lesson 2 — States of the north of the Peninsula between the Birth and the Mission
 
 while Rome and Persia fight their long war over trade and resources with the Levant and Iraq as the arena, Arab buffer states line the frontier — the Nabataeans at rock-carved Petra, Yemeni migrants who even fight the Jews settled among them; Palmyra, whose Queen Zenobia seizes Rome's weakness, declares independence and overruns the Levant, Egypt and part of Turkey; Yemeni Kinda at al-Faw guarding central Arabia until internal quarrels fell it; the Ghassanids, Rome's Christian Arab tool in the south of the Levant; and the Lakhmids at al-Hira, Persia's Arab tool on the Euphrates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60257 — the buffer states]
 
 ## Say it to your companion
 

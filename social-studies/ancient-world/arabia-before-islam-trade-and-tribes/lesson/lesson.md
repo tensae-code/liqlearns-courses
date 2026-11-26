@@ -10,6 +10,8 @@ In the Jahiliyya Arabs worship stones, trees, sun and moon beside the Kaaba's id
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60258 — old faiths, tent and town]
+
 ## Sub lesson 2 — Unit 4 Lesson 2: political life before Islam — kingdoms and empires
 
 Hereditary kingdoms (Ma'in, Saba and Himyar in Yemen, the Munadhira in Iraq, Nabataeans, Ghassanids and Palmyra in al-Sham) stand beside tribal sheikhdoms, while Persia and Rome occupy most Arab lands and the Hijaz cities — Mecca under Qusay's Quraysh, feuding Yathrib, Taif — keep their independence (Unit 4 Lesson 2: political life before Islam — kingdoms and empires)

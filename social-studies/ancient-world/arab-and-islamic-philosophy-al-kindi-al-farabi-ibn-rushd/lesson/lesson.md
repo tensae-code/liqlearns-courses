@@ -10,6 +10,8 @@ al-Kindi of Kufa, "philosopher of the Arabs" in the Abbasid age; al-Farabi's Vir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60245 — al-Kindi, al-Farabi, Ibn Rushd]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 6 Lesson 3: Arab-Islamic philosophy — al-Kindi of Kufa, "philosopher of the Arabs" in the Abbasid age; al-Farabi's Virtuous City; and Ibn Rushd, born in Cordoba in 1126, judge of Seville and Cordoba, who carried Aristotle and Plato across the Islamic world. Then let your companion ask you one hard question about it — answer from the lesson.

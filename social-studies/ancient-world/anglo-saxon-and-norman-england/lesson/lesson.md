@@ -26,11 +26,15 @@ On Edward's death Harold claims the deathbed promise and the Witan's backing, ag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60235 — three claimants, one throne]
+
 ## Sub lesson 4 — 1.4 The Norman invasion
 
 William lands at Pevensey; at Hastings a rumour of his death nearly breaks his army until he lifts his helmet, and Harold's shield wall is drawn downhill and cut off.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60236 — the landing and the shield wall]
 
 ## Sub lesson 5 — 2.1 Establishing control
 
@@ -38,11 +42,15 @@ The earls submit at Berkhamstead rather than defend walled London; William rewar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60237 — submission, castles and rewards]
+
 ## Sub lesson 6 — 2.2 The causes and outcomes of Anglo-Saxon resistance, 1068–71
 
 Edwin and Morcar flee court and raise the North, Edgar the Aethling lends a royal name, and Hereward the Wake holds Ely; each rising is bought off or crushed in turn.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60238 — rising after rising]
 
 ## Sub lesson 7 — 2.3 The legacy of resistance to 1087
 
@@ -50,11 +58,15 @@ William answers northern rebellion with the Harrying of the North (1069–70), a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60239 — the Harrying, then new lords]
+
 ## Sub lesson 8 — 2.4 Revolt of the Earls, 1075
 
 Uniquely, Norman earls — Roger de Breteuil and Ralph de Gael — rebel alongside the Anglo-Saxon Waltheof; loyal Normans and English together defeat them, ending armed resistance.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60240 — the Revolt of the Earls, 1075]
 
 ## Sub lesson 9 — 3.1 The feudal system and the Church
 
@@ -62,11 +74,15 @@ William rebuilds society as a feudal ladder — land for military service, even 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60241 — the feudal staircase]
+
 ## Sub lesson 10 — 3.2 Norman government
 
 William keeps much Anglo-Saxon government, strengthens sheriffs, reserves the royal forest, and in 1085–86 orders the Domesday survey to record every landholder's wealth.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60242 — sheriffs, forest and Domesday]
 
 ## Sub lesson 11 — 3.3 The Norman aristocracy
 
@@ -74,11 +90,15 @@ The new lords display superiority in stone buildings, dress and shaved hairstyle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60243 — stone, French and Bishop Odo]
+
 ## Sub lesson 12 — 3.4 William I and his sons
 
 The stern, avaricious Conqueror quarrels with his eldest son Robert Curthose; on his death (1087) Normandy goes to Robert and England to William Rufus, splitting the inheritance he had united.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60244 — the inheritance split]
 
 ## Say it to your companion
 
