@@ -10,11 +10,15 @@ Potters and grain-grinders settle at subiya in ubaid times (5500–4500 bce), th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61293 — subiya then ikaros]
+
 ## Sub lesson 2 — The land of Kuwait — civilisational roots
 
 Before any state, kuwait's land gathers civilisations on its coast and islands, the deep roots the modern country claims as its own.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61294 — deep roots on the coast]
 
 ## Say it to your companion
 

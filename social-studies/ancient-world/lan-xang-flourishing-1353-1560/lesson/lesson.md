@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Fa Ngum's successors o
 Fa Ngum's successors order the kingdom and deal with Dai Viet and Ayutthaya as an equal power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61303 — an equal power]
 ## Sub lesson 2 — Part II, Lesson 7: Lan Xang flourishing
 
 Fa Ngum's successors order the kingdom and treat with Dai Viet and Ayutthaya as equals
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61304 — flourishing 1353 1560]
 
 ## Say it to your companion
 

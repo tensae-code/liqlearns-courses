@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Burma invades three ti
 Burma invades three times; Setthathirath's Laos is overrun once and throws the invader back the third time
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61310 — three invasions]
 ## Sub lesson 2 — Part II, Lesson 8: The struggle against Burmese feudalism
 
 Burma invades three times; Setthathirath's Laos is overrun once and throws the invader back
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61311 — thrown back the third time]
 
 ## Say it to your companion
 

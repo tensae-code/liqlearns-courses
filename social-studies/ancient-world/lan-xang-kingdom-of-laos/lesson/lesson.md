@@ -10,6 +10,8 @@ Fa Ngum, a Lao prince raised at the Angkor court and married to a Khmer princess
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61309 — a million elephants 1353]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 3 Lesson 4, The Lan Xang state — Fa Ngum, a Lao prince raised at the Angkor court and married to a Khmer princess, carries Buddhism home and unites the Lao valleys as Lan Xang, the kingdom of a million elephants (1353). Then let your companion ask you one hard question about it — answer from the lesson.

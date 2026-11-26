@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Fa Ngum's heirs hold t
 Fa Ngum's heirs hold the kingdom together and repel invasion from Dai Viet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61295 — the heirs hold it together]
 ## Sub lesson 2 — Part IV, Lesson 12: Lan Xang after unification
 
 heirs hold the kingdom together and Buddhism takes root as its faith
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61296 — buddhism takes root]
 
 ## Say it to your companion
 

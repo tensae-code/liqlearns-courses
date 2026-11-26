@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: princes quarrel over t
 princes quarrel over the succession, the kingdom splits into rival Lao states, and Siam moves in to rule them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61299 — the split and siam moves in]
 ## Sub lesson 2 — Section 2, Part V, Lesson 13: 1695–1713 — Lan Xang divided, 1695–1713
 
 Sourigna Vongsa dies, the succession is disputed, and Lan Xang splits into Vientiane, Luang Prabang and Champasak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61300 — three kingdoms 1713]
 ## Sub lesson 3 — Part II, Lesson 10: Lan Xang divides; Siam invades
 
 princes quarrel over the throne, the kingdom splits, and Siam moves in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61301 — quarrel split invasion]
 ## Sub lesson 4 — Part V, Lesson 13: 1695–1713 — Lao feudal decline; Lan Xang divided
 
 the succession is disputed and Lan Xang splits into three kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61302 — three kingdoms]
 
 ## Say it to your companion
 

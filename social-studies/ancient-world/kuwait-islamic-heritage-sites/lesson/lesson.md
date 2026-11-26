@@ -10,6 +10,8 @@ Islamic-era sites survive inside kuwait, and the state answers by founding the d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61292 — guarding islamic heritage]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: islamic sites in kuwait and the dar al-athar al-islamiyyah. Then let your companion ask you one hard question about it — answer from the lesson.
