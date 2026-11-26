@@ -10,11 +10,15 @@ Draw a small ball in the bottom corner of a notebook page. On the next page draw
 
 In your mind's eye: a film strip of an animation. Eight frames of a jumping figure, each a little different from its neighbour.
 
+[Picture 46441 — a film strip of an animation. Eight frames of a jumping figure, each a little different from its neighbour]
+
 ## Sub lesson 2 — Motion — showing the row fast enough
 
 The row becomes movement only when it is **shown fast**. Flip your notebook pages slowly and you see separate drawings, one after another — a flicker, not a motion. Flip them fast and the eye stops separating the frames: it reads the ball as *one ball moving*. The speed of showing is counted in **frames per second (fps)** — how many frames pass in one second. Too few frames per second and the movement is jerky, full of gaps; more frames per second and the movement is smooth. Making all those frames is the animator's work: the important positions are drawn first as **key frames** — the ball on the ground, the ball at the top of its bounce — and the frames **in between** are then filled in, by the animator's hand in drawn animation, or with the computer's help in computer animation, where the animator sets the key frames and the software works out the steps between them.
 
 In your mind's eye: the same short action shown at a low frame rate and at a high frame rate, side by side, one jerky and one smooth.
+
+[Picture 46442 — the same short action shown at a low frame rate and at a high frame rate, side by side, one jerky and one smooth]
 
 ## Say it to your companion
 

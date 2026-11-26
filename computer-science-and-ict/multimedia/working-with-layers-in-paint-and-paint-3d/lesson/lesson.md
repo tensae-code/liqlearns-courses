@@ -10,11 +10,15 @@ Classic **MS Paint** has no layer panel, so the book teaches the **two-colour li
 
 In your mind's eye: layers thinking in MS Paint — the two-colour technique.
 
+[Picture 46445 — layers thinking in MS Paint — the two-colour technique]
+
 ## Sub lesson 2 — Paint 3D — objects that really stack
 
 **Microsoft Paint 3D** gives real stacking: **3D objects** can be placed, turned and layered in depth; **brushes** paint on canvas and on objects; **effects** change the light and mood of the scene; and **text** can stand flat or as a 3D object. Each element stays **separately selectable** — the layer idea made literal: pick the object, move it, and the rest of the scene does not tear. Rwanda's S3 book pairs the two programs so the learner feels the difference between *simulating* layers and *having* them.
 
 In your mind's eye: paint 3D — objects that really stack.
+
+[Picture 46446 — paint 3D — objects that really stack]
 
 ## Say it to your companion
 

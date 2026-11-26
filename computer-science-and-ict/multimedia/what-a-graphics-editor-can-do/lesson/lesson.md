@@ -10,11 +10,15 @@ A **graphics editor** is given three tasks: **create** new pictures, **edit** pi
 
 In your mind's eye: the tasks of a graphics editor.
 
+[Picture 46439 — the tasks of a graphics editor]
+
 ## Sub lesson 2 — The possibilities — what can be done
 
 The editor's **possibilities** reach further than drawing: work with photographs, join pieces into one picture, add text to an image, and save the result for print or screen. The lesson's measure is practical — a possibility counts when the pupil can say which task it serves and try it on a real picture.
 
 In your mind's eye: the possibilities — what can be done.
+
+[Picture 46440 — the possibilities — what can be done]
 
 ## Say it to your companion
 

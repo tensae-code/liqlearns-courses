@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Design theory, §10: Design in our life
 
 In your mind's eye: design theory, §10. Design in our life.
 
+[Picture 46443 — design theory, §10. Design in our life]
+
 ## Sub lesson 2 — The principle of "good design"
 
 This part of Kazakhstan's book teaches **The principle of "good design"** — covering: §11: The principle of "good design". The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the principle of "good design".
+
+[Picture 46444 — the principle of "good design"]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Mongolia's Grade 7 picture editor is not MS Paint but Paint.NET — the free edi
 
 In your mind's eye: install, canvas, resolution — the layered editor opened.
 
+[Picture 46447 — install, canvas, resolution — the layered editor opened]
+
 ## Sub lesson 2 — Layers, History and the two saves
 
 Work on **layers** means each part can be drawn, hidden, reordered and erased without touching the parts on other layers. The **History window** lists every act done to the picture, and **Undo** walks back through it — the layered editor forgives in a way single-sheet Paint cannot. Saving keeps the choice open or closes it: save as **.pdn** and the layers survive for tomorrow's editing; save as **.jpg** and the stack is flattened into one finished picture for the world. Mongolia's rule is the professional's: keep the .pdn master, publish the .jpg.
 
 In your mind's eye: layers, History and the two saves.
+
+[Picture 46448 — layers, History and the two saves]
 
 ## Say it to your companion
 
