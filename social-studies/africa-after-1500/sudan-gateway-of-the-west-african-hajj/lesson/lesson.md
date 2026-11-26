@@ -10,6 +10,8 @@ Sudan's place on the map makes it the crossing of West Africa's pilgrims on the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39275 — a map panel — pilgrims walking east to a sea band]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Sudan's relation to Africa — Sudan's place on the map makes it the crossing of West Africa's pilgrims on the road to Mecca, binding it to the whole continent. Then let your companion ask you one hard question about it — answer from the lesson.

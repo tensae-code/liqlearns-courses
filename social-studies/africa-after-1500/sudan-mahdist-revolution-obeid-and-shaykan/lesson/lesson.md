@@ -10,6 +10,8 @@ El Obeid is starved into surrender in July 1883 after a costly Friday assault te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39279 — two panels — a besieged walled town, a forest with a red cross]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1, Lesson 3: المواجهات العسكرية (2) — المواجهات العسكرية (2) — El Obeid is starved into surrender in July 1883 after a costly Friday assault teaches the Mahdi the siege; then Hicks Pasha's great Egyptian army is annihilated in the Shaykan forest, November 1883. Then let your companion ask you one hard question about it — answer from the lesson.

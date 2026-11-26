@@ -10,6 +10,8 @@ the Mahdi rules through four khalifas modelled on the Prophet's, with Abdullahi 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39281 — four turbaned khalifas and a treasury chest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1, Lesson 5: نظم الحكم والإدارة في الدولة المهدية — نظم الحكم والإدارة في الدولة المهدية — the Mahdi rules through four khalifas modelled on the Prophet's, with Abdullahi al-Taishi first among them; the Bayt al-Mal treasury, Sharia courts, provincial amirs and a banner-divided army hold the new state together. Then let your companion ask you one hard question about it — answer from the lesson.

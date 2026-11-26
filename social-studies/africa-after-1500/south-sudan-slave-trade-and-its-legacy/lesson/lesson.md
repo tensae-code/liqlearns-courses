@@ -10,6 +10,8 @@ From the 652 AD Baqt, under which Christian Nubia traded 360 slaves a year, thro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39267 — a dhow carrying people up the Nile, one free figure on the bank]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Slave trade in South Sudan — from the 652 AD Baqt, under which Christian Nubia traded 360 slaves a year, through Funj slave armies and Muhammad Ali's raids described by Samuel Baker, to Simon Deng, abducted at nine, carried up the Nile, who escapes, regains his Shilluk scars and becomes an abolitionist. Then let your companion ask you one hard question about it — answer from the lesson.

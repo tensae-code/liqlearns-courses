@@ -10,6 +10,8 @@ After the Almohads fall in 1269 the Maghreb fragments and Spain strikes the coas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39272 — Spanish ships, bombardment arcs, Tripoli's mosque, a Knights' banner]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Spanish and the Knights of St John — after the Almohads fall in 1269 the Maghreb fragments and Spain strikes the coast: 120 ships bombard Tripoli in July 1510, two thousand are killed and the mosques looted — an occupation that lasts until the Ottomans come in 1551. Then let your companion ask you one hard question about it — answer from the lesson.

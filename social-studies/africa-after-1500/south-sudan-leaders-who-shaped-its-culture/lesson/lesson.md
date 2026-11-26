@@ -10,6 +10,8 @@ Pictured leaders are named as the people who fought to bring the change now seen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39263 — four framed leader portraits and a child adding one]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Leaders from the past who have shaped the current culture of South Sudan — pictured leaders are named as the people who fought to bring the change now seen, and children add other change-making leaders they know. Then let your companion ask you one hard question about it — answer from the lesson.

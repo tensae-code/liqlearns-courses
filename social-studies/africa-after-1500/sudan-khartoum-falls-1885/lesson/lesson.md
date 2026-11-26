@@ -10,6 +10,8 @@ with Kordofan, Darfur and the east won, Egypt votes to evacuate and sends Gordon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39277 — dawn sun, three Ansar, a palace, a relief panel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1, Lesson 4: المواجهات العسكرية (3) — تحرير الخرطوم — المواجهات العسكرية (3) — تحرير الخرطوم — with Kordofan, Darfur and the east won, Egypt votes to evacuate and sends Gordon; the siege closes every road, and at dawn on 26 January 1885 the Ansar storm Khartoum and Gordon dies at his palace — Wolseley's relief column arrives two days late. Then let your companion ask you one hard question about it — answer from the lesson.

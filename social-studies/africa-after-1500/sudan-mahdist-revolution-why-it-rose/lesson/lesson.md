@@ -10,6 +10,8 @@ Muhammad Ahmad, born 1843 on Labab Island and formed by the Sufi orders, proclai
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39280 — two panels — a tax collector with a TAX bag, the Mahdi proclaiming]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Why the Mahdist revolution rose and won — Muhammad Ahmad, born 1843 on Labab Island and formed by the Sufi orders, proclaims the Mahdiyya from Aba Island; heavy taxes beaten out of people, conquest violence and favouritism make Sudan ready, and the revolt runs in two acts — revolution 1881–1885, state 1885–1898. Then let your companion ask you one hard question about it — answer from the lesson.

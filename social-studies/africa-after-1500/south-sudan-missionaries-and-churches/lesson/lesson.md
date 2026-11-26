@@ -10,6 +10,8 @@ Comboni Missionaries founded by Daniel Comboni at Verona, the Anglican Church Mi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39264 — a dhow, a church, a school, a clinic cross]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Mission groups that came to South Sudan in the 19th century — Comboni Missionaries founded by Daniel Comboni at Verona, the Anglican Church Missionary Society and others enter South Sudan to convert, teach and heal, face disease and resistance, and leave schools and churches whose problems and positive impact pupils weigh. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ The anthem praises martyrs whose blood cemented the nation, and the flag's white
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39265 — South Sudan's flag large, with colour meanings labelled]
+
 ## Sub lesson 2 — Importance of national symbols on the daily lives of South Sudan people
 
 Symbols promote unity and peace, and only in peace do roads and trade develop and people work together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39266 — a flag over two market stalls, people trading]
 
 ## Say it to your companion
 

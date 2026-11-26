@@ -10,11 +10,15 @@ Britain invades for raw materials, markets and Egypt's southern border — and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39273 — a palace with Britain's flag high, Egypt's lower]
+
 ## Sub lesson 2 — Unit 1, Lesson 7: التطورات الاقتصادية والاجتماعية في العهد الثنائي — التطورات الاقتصادية والاجتماعية في العهد الثنائي
 
 land laws make unregistered land the government's (1925), railways and Port Sudan open the country, the Sennar Dam feeds the Gezira cotton scheme, and Gordon College and the medical services remake the towns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39274 — a railway and train, the Sennar Dam, cotton bolls]
 
 ## Say it to your companion
 

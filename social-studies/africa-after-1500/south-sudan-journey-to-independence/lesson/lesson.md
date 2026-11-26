@@ -50,11 +50,15 @@ Ex-Torit soldiers attack at Pamoju with knives and sticks and capture their firs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39258 — two panels — stick fighters and a captured rifle, Lagu with one flag]
+
 ## Sub lesson 7 — Addis-Ababa Agreement
 
 The 1972 agreement makes the south one autonomous region with its own assembly and High Executive Council, promises Abyei a referendum and integrates Anya-Nya fighters, but keeps oil and economic planning in Khartoum — welcomed by a war-weary south, denounced in the north, and plagued by rivalry from its first moment
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39259 — a signing table, a ONE REGION panel, an oil barrel marked north]
 
 ## Sub lesson 8 — The SPLM/A struggle for independence (1983-2005)
 
@@ -62,17 +66,23 @@ Battalion 105 at Bor refuses transfer north in 1983 and is attacked; 2,500 soldi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39260 — three soldiers in a column, Garang writing a paper]
+
 ## Sub lesson 9 — Development in Sudan since 1965 and in South Sudan since 2011
 
 Political, economic and social development in Sudan from 1965, then in independent South Sudan from 2011, with post-independence challenges and the importance of peace
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39261 — a school, a road wedge, a dove]
+
 ## Sub lesson 10 — Relating the Juba Conference of 1947 to the 2005 CPA
 
 Learners discuss the aims and outcomes of Juba 1947 and relate them to the CPA between the SPLM and NCP, asking what the south learned across sixty years of negotiation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39262 — JUBA 1947 and CPA 2005 panels joined by a red arrow]
 
 ## Say it to your companion
 
