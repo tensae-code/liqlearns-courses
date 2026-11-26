@@ -9,26 +9,36 @@ Before you read on, hold this lesson's one thing in mind: revolt against Amanull
 revolt against Amanullah's reforms lifts the Tajik bandit-king Kalakani to Kabul's throne for nine months
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63905 — a bandit king for nine months]
 ## Sub lesson 2 — Lesson 26: Do you know how Muhammad Nadir Shah reached the throne?
 
 Nadir Khan, the independence war's general, marches from the south, ends the Kalakani interlude and founds a new royal line
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63906 — nadir marches from the south]
 ## Sub lesson 3 — Lesson 21: The reaction against the reforms
 
 revolts gather against the pace of change and the reforming king's throne shakes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63907 — reaction against the reforms]
 ## Sub lesson 4 — Lesson 22: The end of the crisis and the consolidation of power, 1929 (1308 SH)
 
 Nadir Khan ends the Kalakani crisis and consolidates a new royal order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63908 — a new royal order 1929]
 ## Sub lesson 5 — Lesson 23: The drafting and compilation of the Usul-nama (constitution)
 
 the new order writes its fundamental principles into a constitution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63909 — the usul nama]
 
 ## Say it to your companion
 

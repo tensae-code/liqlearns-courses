@@ -10,6 +10,8 @@ a poor Emirate founds an agricultural bank in 1922 and a Supreme Economic Commit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63900 — from grain to factories]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lessons 1–3: economic life 1921 to today — a poor Emirate founds an agricultural bank in 1922 and a Supreme Economic Committee in 1924, living on Ghawr and plateau grain, hand mills and olive presses until independence (1946) brings factories — textiles, mills, metals, paper; 1948 floods the country with refugees and closes Palestine's ports, so Jordan builds Aqaba's port and digs the East Ghawr (King Abdullah) Canal from Adasiya to South Shuna, raises the Central Bank in 1964 and a Tourism Authority in 1960 (a ministry by 1967); the dinar halves amid military spending and subsidy cuts, the 1990–91 Gulf crisis sends the expatriates home — then the US free-trade agreement (2001), the Aqaba Special Economic Zone, the Abdali project and the Investment Commission (2014, a ministry by 2021) carry the story to the economic-modernisation vision. Then let your companion ask you one hard question about it — answer from the lesson.

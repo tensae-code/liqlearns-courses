@@ -10,11 +10,15 @@ zhyrau poets and biys' eloquence carry the khanate's memory
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63916 — poets carry the memory]
+
 ## Sub lesson 2 — §59 Traditional material culture and applied art
 
 yurt furnishings, jewellery and weapons show a mature nomad craft
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63917 — a mature nomad craft]
 
 ## Sub lesson 3 — §60 Agriculture and auxiliary crafts develop
 

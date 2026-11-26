@@ -10,6 +10,8 @@ Torghuts who migrated to the Volga become Russia's Kalmyks (and in 1771 half per
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63911 — mongols under a second empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. I.2 Russia dominates Kalmyk and Buryat Mongolia — Torghuts who migrated to the Volga become Russia's Kalmyks (and in 1771 half perish returning); Buryats are cut off by the 1689 and 1727 treaties — Mongols under a second empire. Then let your companion ask you one hard question about it — answer from the lesson.

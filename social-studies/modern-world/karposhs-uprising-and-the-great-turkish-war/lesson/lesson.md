@@ -10,6 +10,8 @@ the Great Turkish War (1683–1699) breaks Ottoman power at Vienna; Austria's Pi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63914 — six weeks of free territory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: the Karposh uprising — the Great Turkish War (1683–1699) breaks Ottoman power at Vienna; Austria's Piccolomini storms down to Skopje in 1689, finds it plague-ridden and burns it for two days; in the vacuum the hajduk leader Karposh — once the Ottomans' own hajduk-hunter — raises north-eastern Macedonia, holds a free territory around Kriva Palanka, Kumanovo and Skopje for six weeks as a buffer both empires court (Leopold I writes to the "Macedonian people"), then falls at Kumanovo; the Ottomans kill him at Skopje's Stone Bridge, and thousands of Christians emigrate north with the retreating Austrians. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ epic dastans, zhyrau singers and applied arts carry a small people's memory with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63912 — memory without a state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VI §§30–31 The culture of the Karakalpak people; The development of Karakalpak culture in the 18th–19th centuries — epic dastans, zhyrau singers and applied arts carry a small people's memory without a state of its own. Then let your companion ask you one hard question about it — answer from the lesson.

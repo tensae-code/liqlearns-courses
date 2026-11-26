@@ -10,11 +10,15 @@ the Emirate's society is tribal to its roots — landowners, merchants, official
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63902 — a tribal society four peoples]
+
 ## Sub lesson 2 — Lesson 3: social life since 1999
 
 the book counts 9.5 million Jordanians in 1999 and some 11.5 million in 2023, most of them townspeople; the National Social Protection Strategy (2019–2025) organises welfare; youth are gathered by the Supreme Council for Youth (2001), the King's Fitness Award (2005) and the Kulna al-Urdun commission (2006); disability centres multiply — and women's public share, begun in the charities of 1926, reaches parliament through the 2003 quota
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63903 — 11 5 million by 2023]
 
 ## Say it to your companion
 

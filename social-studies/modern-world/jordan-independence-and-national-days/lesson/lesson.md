@@ -26,11 +26,15 @@ the same place photographed in past and present shows development as change for 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63894 — development over time]
+
 ## Sub lesson 4 — Unit 2 Lesson 2: kings of Jordan
 
 Emir Abdullah founds the state, independence is proclaimed as the Hashemite Kingdom, the two banks unite in 1950, Abdullah I is martyred at al-Aqsa in 1951, and under Hussein the army command is Arabised in 1956
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63895 — kings of jordan]
 
 ## Sub lesson 5 — Unit 5 Lesson 2: the Jordanian state
 
@@ -38,11 +42,15 @@ from the founding of the Emirate of East Jordan through popular marches demandin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63896 — the jordanian state]
+
 ## Sub lesson 6 — Unit 5 Lesson 3: the state's civilisational achievements
 
 al-Salt Secondary School, the Emirate's oldest school; the first health department in 1921; the University of Jordan in 1962; King Hussein Medical City — a young state builds schools, hospitals and universities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63897 — schools hospitals universities]
 
 ## Say it to your companion
 

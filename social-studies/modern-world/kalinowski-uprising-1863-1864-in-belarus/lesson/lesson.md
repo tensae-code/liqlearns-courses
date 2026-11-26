@@ -10,6 +10,8 @@ Pupils trace where Kalinowski's detachments held out into 1864, where schools we
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63910 — held out into 1864]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The uprising of 1863–1864 in Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

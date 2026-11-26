@@ -10,6 +10,8 @@ in 1809 an adventurer seizes Iceland and proclaims it independent (Verkefnablað
 
 In your mind's eye: jørgen Jørgensen arriving in Reykjavík in 1809. Say what he seized and what he proclaimed.
 
+[Picture 63904 — an adventurer seizes iceland]
+
 ## Sub lesson 2 — Removed within months
 
 the proclaimed independence lasts only months — Jørgensen is removed and the coup ends (Verkefnablað 8: Valdarán Jørgens Jørgensens)

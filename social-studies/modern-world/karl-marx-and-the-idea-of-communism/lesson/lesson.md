@@ -10,6 +10,8 @@ Marx, watching industrial Britain's rich-poor gap from London exile, casts histo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63913 — class warfare and its end]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 6, Unit 3 — Marx, watching industrial Britain's rich-poor gap from London exile, casts history as class warfare — capitalists against proletariat — ending in revolution, a transitional socialism, and a classless communism where the state withers away; Lenin, whose brother was executed for plotting against the Tsar, turns the theory into a disciplined Bolshevik party. Then let your companion ask you one hard question about it — answer from the lesson.
