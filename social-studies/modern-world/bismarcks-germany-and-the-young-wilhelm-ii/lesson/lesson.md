@@ -10,6 +10,8 @@ Bismarck's anti-socialist laws sit beside Europe's first social insurance, but W
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62393 — the old chancellor resigns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §§9–10 The political and economic position of the Empire — Bismarck's anti-socialist laws sit beside Europe's first social insurance, but Wilhelm II will share power with no one — the old chancellor resigns (1890), the SPD works legally again, and Germany, late to colonies, demands its equal place in the sun and builds the Triple Alliance. Then let your companion ask you one hard question about it — answer from the lesson.

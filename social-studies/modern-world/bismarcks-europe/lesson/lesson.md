@@ -10,6 +10,8 @@ the chancellor fights Catholics (Kulturkampf) and socialists (Document: the 1878
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62392 — fights at home weaves abroad]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 5, Cap. 15 §§1, 5 Bismarck's Germany; Bismarck and the politics of equilibria in Europe — the chancellor fights Catholics (Kulturkampf) and socialists (Document: the 1878 laws) at home while weaving alliances to isolate France abroad. Then let your companion ask you one hard question about it — answer from the lesson.

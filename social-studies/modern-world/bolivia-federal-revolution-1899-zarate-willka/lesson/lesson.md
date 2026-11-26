@@ -10,6 +10,8 @@ North against south, tin against silver, federalists against unitarians, liberal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62399 — north against south 1899]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: La Revolución Federal — North against south, tin against silver, federalists against unitarians, liberals against conservatives; Pablo Zárate Willka's indigenous uprising joins the 1899 revolution, decided at the Segundo Crucero. Then let your companion ask you one hard question about it — answer from the lesson.

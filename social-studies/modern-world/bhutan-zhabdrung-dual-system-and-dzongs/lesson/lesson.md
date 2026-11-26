@@ -10,17 +10,23 @@ the unifier codifies a distinct Bhutanese Drukpa Kagyu order, national dress and
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62384 — the dual system 1651]
+
 ## Sub lesson 2 — Chapter Two, Home away from Home / Chapter Three, dzongs under the Zhabdrung
 
 in his new home the exile builds the nation state Palden Druk, raising fortified dzongs region by region as joint seats of monk body and administration under the dual system (Chapter Two, Home away from Home / Chapter Three, dzongs under the Zhabdrung)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62385 — dzongs region by region]
+
 ## Sub lesson 3 — Chapter One, The Dual System of Governance: Chhoe-sid Nyiden
 
 proclaimed supreme ruler around 1627, the Zhabdrung pairs the spiritual law 'like a silken knot' that tightens with bad deeds with the secular law 'like a golden yoke' that grows heavier with wrongs, and in 1651 publishes the Kathrim code — Je Khenpo for religion, Desi for politics, three Ponlops and a Lhengye Tshog council below (Chapter One, The Dual System of Governance: Chhoe-sid Nyiden)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62386 — silken knot golden yoke]
 
 ## Say it to your companion
 

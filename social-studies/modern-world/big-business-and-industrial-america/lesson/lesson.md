@@ -10,6 +10,8 @@ Inventors like Edison lit the age — literally, with electric light — and inv
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62389 — inventors light the age]
+
 ## Sub lesson 2 — Inventions become industries and corporations
 
 Inventions became industries, and industries became corporations — organisations big enough to dominate whole markets. The corporation, not the lone owner, became industrial America's ruling shape.

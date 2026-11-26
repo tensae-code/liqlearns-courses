@@ -18,11 +18,15 @@ enthroned at Ralung as Pema Karpo's incarnation, the young Zhabdrung is challeng
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62382 — turning the horse southward]
+
 ## Sub lesson 3 — Chapter One, Arrival to the Land of Lhomon / Western Unification
 
 the exile reaches Lhomon and, dzong by dzong, brings the western valleys under one rule as Thuchen Ngawang Namgyal, founding the state the rest of the book inherits (Chapter One, Arrival to the Land of Lhomon / Western Unification)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62383 — dzong by dzong]
 
 ## Say it to your companion
 

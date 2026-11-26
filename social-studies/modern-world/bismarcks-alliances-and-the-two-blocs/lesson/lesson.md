@@ -10,11 +10,15 @@ Bismarck the puppeteer works the three emperors; the Triple Alliance of 1882 fac
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62390 — the puppeteer]
+
 ## Sub lesson 2 — Tema 3: Rivalitatea Marilor Puteri și amenințarea păcii
 
 the Berlin Congress of 1878 opens the rivalry; the Entente Cordiale of 1904 settles Egypt and Morocco between France and Britain and the blocs harden
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62391 — the blocs harden]
 
 ## Say it to your companion
 

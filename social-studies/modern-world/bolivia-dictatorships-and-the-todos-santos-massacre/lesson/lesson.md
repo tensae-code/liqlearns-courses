@@ -10,11 +10,15 @@ Bolivia's dictatorships end in spasms — Natusch Busch's coup and the All Saint
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62395 — the last spasms]
+
 ## Sub lesson 2 — Año 6: El ciclo de las dictaduras militares
 
 The military-dictatorship cycle (1964–1982) is taught whole (Año 6: El ciclo de las dictaduras militares)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62396 — the cycle 1964 1982]
 
 ## Say it to your companion
 

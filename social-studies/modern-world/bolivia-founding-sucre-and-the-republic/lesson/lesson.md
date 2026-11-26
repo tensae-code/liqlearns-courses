@@ -10,11 +10,15 @@ Sucre arrives crowned by Ayacucho; Peru and Argentina press colonial-era claims 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62400 — sucre arrives]
+
 ## Sub lesson 2 — Año 4: La creación de Bolivia
 
 Teacher-compendium unit on the creation of Bolivia, same arc as the Secundaria 4 student text (Año 4: La creación de Bolivia)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62401 — the creation of bolivia]
 
 ## Say it to your companion
 

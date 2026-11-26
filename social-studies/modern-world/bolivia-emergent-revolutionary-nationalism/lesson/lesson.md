@@ -10,6 +10,8 @@ Revolutionary nationalism gathers in the MNR toward 1952 (Año 5: El nacionalism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62398 — gathering toward 1952]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Año 5: El nacionalismo revolucionario emergente — Revolutionary nationalism gathers in the MNR toward 1952. Then let your companion ask you one hard question about it — answer from the lesson.

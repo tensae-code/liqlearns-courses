@@ -10,6 +10,8 @@ the Kathrim tradition is traced forward through the Thrimzhung Chenmo to the 200
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62387 — from kathrim to constitution]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter One, The Significance and Legacy of Zhabdrung's Law / law's later development — the Kathrim tradition is traced forward through the Thrimzhung Chenmo to the 2008 Constitution, the modern supreme law promulgated under the fifth King. Then let your companion ask you one hard question about it — answer from the lesson.
