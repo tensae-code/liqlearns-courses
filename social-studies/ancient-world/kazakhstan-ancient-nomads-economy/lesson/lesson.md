@@ -34,11 +34,15 @@ chiefs, clans and sky-god beliefs order nomad society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61003 — chiefs clans and the sky god]
+
 ## Sub lesson 5 — 2.2 The formation of nomadic cattle-breeding
 
 herders take to seasonal migration and the nomad way of life is born
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61004 — settled no more the nomad is born]
 
 ## Sub lesson 6 — 2.3 Material culture of the ancient nomads
 
@@ -46,11 +50,15 @@ felt tents, horse gear and animal-style gold show a civilisation built to move
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61005 — built to move]
+
 ## Sub lesson 7 — 2.4 The ancient nomads' worldview
 
 sky, sun and ancestor spirits order the nomads' unseen world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61006 — sky sun and ancestors]
 
 ## Sub lesson 8 — §21 Formation of nomadic herding and its way of life
 
@@ -58,11 +66,15 @@ seasonal migration becomes a complete civilisation on horseback
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61007 — a civilisation on horseback]
+
 ## Sub lesson 9 — §22 The nomads' contribution to world civilisation
 
 horsemanship, trousers and the composite bow — the nomads' gifts to the world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61008 — the nomads gifts to the world]
 
 ## Sub lesson 10 — §24 The nomads' dwelling — the felt house
 
@@ -70,11 +82,15 @@ the portable felt yurt makes the whole steppe a home
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61009 — the felt house]
+
 ## Sub lesson 11 — §25 Early nomads' beliefs and customs
 
 sky worship and ancestor rites bind the nomad clans
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61010 — sky worship and ancestor rites]
 
 ## Sub lesson 12 — §26 Early nomads' ideas about the world
 
@@ -82,11 +98,15 @@ the nomads picture a three-layer world of sky, earth and underworld
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61011 — a world in three layers]
+
 ## Sub lesson 13 — 2.2 The rise of nomadic cattle-breeding (lesson plans)
 
 pupils model the seasonal migration that made nomadism work
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61012 — modelling the migration]
 
 ## Sub lesson 14 — 2.3 Material culture of the ancient nomads (lesson plans)
 
@@ -94,11 +114,15 @@ felt, horse gear and gold objects carry the material-culture lessons
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61013 — objects that teach]
+
 ## Sub lesson 15 — 2.4 The ancient nomads' worldview (lesson plans)
 
 sky and ancestor beliefs are explored through myth and rite
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61014 — learning through myth and rite]
 
 ## Say it to your companion
 
