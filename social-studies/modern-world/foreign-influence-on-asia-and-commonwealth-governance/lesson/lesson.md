@@ -10,6 +10,8 @@ By the 1990s multinational corporations become central institutions across Asia,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63289 — corporations at the centre]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Foreign influence: creation, maintenance, change in systems of power — by the 1990s multinational corporations become central institutions across Asia, Africa and the Pacific, drawn by cheap labour and government grants — and Australia shapes its neighbours through aid, PNG included. Then let your companion ask you one hard question about it — answer from the lesson.

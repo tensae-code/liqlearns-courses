@@ -10,6 +10,8 @@ Bangladesh's Grade 7 book honours the foreigners who helped in 1971 — and star
 
 In your mind's eye: a 1971 refugee camp on India's border — long lines of families with bundles, aid workers and tents stretching to the horizon. The student points to the scale of the camp and says how many refugees the book counts.
 
+[Picture 63288 — denial made impossible]
+
 ## Sub lesson 2 — Refugees, diplomacy and song
 
 The second half of the Grade 7 chapter widens the circle of friends. About one crore — ten million — refugees flood into India, which shelters, feeds and speaks for them under Indira Gandhi. The Soviet Union backs Bangladesh diplomatically. US Senator Edward Kennedy visits the camps and carries their story home. And George Harrison sings for Bangladesh, turning a concert into aid and attention. Shelter, diplomacy, witness and song: the book counts all four as friendship in wartime.

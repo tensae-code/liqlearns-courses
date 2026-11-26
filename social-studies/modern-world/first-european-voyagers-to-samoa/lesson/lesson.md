@@ -10,6 +10,8 @@ Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63287 — first taste of gunfire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 3, explorers — Roggeveen sights the Manu'a islands in 1722, Bougainville follows, La Pérouse's men are attacked at Asu, Tutuila, with twelve killed, and in 1791 the Pandora's crew answer rocks and spears with Sāmoa's first taste of gunfire. Then let your companion ask you one hard question about it — answer from the lesson.

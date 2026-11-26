@@ -10,11 +10,15 @@ Britain and the United States circle the isthmus for trade routes and a canal, t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63290 — a corridor not countries]
+
 ## Sub lesson 2 — Intervenciones militares de Estados Unidos en América Latina, siglos XIX y XX
 
 US military interventions repeat across Latin America for two centuries, a pattern each republic meets in turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63291 — a repeating pattern]
 
 ## Sub lesson 3 — Tratado Clayton-Bulwer
 
@@ -22,11 +26,15 @@ in 1850 the US and Britain sign over Central America's head, agreeing neither wi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63292 — signed over their heads 1850]
+
 ## Sub lesson 4 — Pretensiones extranjeras en Nicaragua
 
 coveted since colonial times for its lake-and-river canal route, Nicaragua becomes urgent after California gold in 1848, with Tehuantepec, Nicaragua and Panama competing as transit routes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63293 — three routes compete]
 
 ## Sub lesson 5 — Pretensiones extranjeras en Nicaragua
 

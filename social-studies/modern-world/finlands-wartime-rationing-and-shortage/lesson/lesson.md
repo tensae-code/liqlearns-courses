@@ -10,11 +10,15 @@ Foreign trade stops, men and fields are lost to the war, so a new ministry ratio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63273 — cards for nearly everything]
+
 ## Sub lesson 2 — Task 1, Rantasalmi letter 1942
 
 A pregnant evacuee mother of three, husband at the front, begs bigger B/G2/M2 cards and is told where to appeal.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63274 — begging bigger cards]
 
 ## Sub lesson 3 — Task 2, Ivalo letter 1942
 
@@ -22,11 +26,15 @@ A Lapland writer exposes under-the-counter marmalade sales for favoured customer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63275 — under the counter]
+
 ## Sub lesson 4 — Task 3, Tohmajärvi letter 1943
 
 A poor potato year breaks the delivery quota, and eight people share one pair of new shoes all war — the family asks how to get footwear permits.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63276 — one pair of shoes for eight]
 
 ## Sub lesson 5 — Task 4, Pietarsaari letter 1943
 
@@ -34,17 +42,23 @@ Workers miss the egg distribution twice because the eggs run out before their sh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63277 — the eggs ran out]
+
 ## Sub lesson 6 — Task 5, Helsinki letter 1942
 
 A self-styled 'home and finance minister' mother of five jokes through vinegar-and-saccharin dinners and black-market tobacco prices — humour as survival.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63278 — humour as survival]
+
 ## Sub lesson 7 — Task 6, Kauhava letter 1942
 
 The state requisitions 320 kg of hay at 1.3 mk/kg while free hay costs 3.5; a smallholder wife faces destroying her herd.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63279 — hay at a third of its price]
 
 ## Say it to your companion
 

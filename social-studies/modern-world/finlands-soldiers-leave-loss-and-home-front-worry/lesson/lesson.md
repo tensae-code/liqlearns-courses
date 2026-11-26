@@ -50,17 +50,23 @@ A wife charges that shirkers and artillerymen were demobilised and rested first 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63270 — others rested first]
+
 ## Sub lesson 7 — Task 5, Inkeroinen letter 1944 with Jahvetti's reply printed
 
 A soldier's granted funeral leave is cancelled; the office answers that only his commander can judge a total leave ban.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63271 — granted then cancelled]
+
 ## Sub lesson 8 — Task 6, Lappeenranta letter c.1941
 
 A 1918 veteran protests 6–7-month prison sentences for soldiers who return late from leave over broken transport.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63272 — prison for broken transport]
 
 ## Say it to your companion
 
