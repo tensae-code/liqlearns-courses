@@ -10,11 +10,15 @@ Everyday life, work and culture under the regime — control, shortage and quiet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62506 — control shortage adaptation]
+
 ## Sub lesson 2 — Lesson 63: Spiritual life during the totalitarian regime
 
 Writers and believers navigate censorship and control of the spirit (Lesson 63: Spiritual life during the totalitarian regime)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62507 — navigating censorship]
 
 ## Say it to your companion
 

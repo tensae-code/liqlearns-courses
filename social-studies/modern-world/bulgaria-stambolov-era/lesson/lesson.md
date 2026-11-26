@@ -10,11 +10,15 @@ Stambolov's strong hand drags Bulgaria into modernisation through crisis and con
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62508 — a strong hand modernises]
+
 ## Sub lesson 2 — Lesson 43: The Principality of Bulgaria at a crossroads (1886–1894)
 
 Ferdinand's contested throne and Stambolov's regency steer through crisis (Lesson 43: The Principality of Bulgaria at a crossroads (1886–1894))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62509 — at a crossroads]
 
 ## Say it to your companion
 

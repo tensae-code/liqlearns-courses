@@ -10,11 +10,15 @@ Opposition is crushed, the constitution replaced, and a totalitarian regime is i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62513 — a regime imposed]
+
 ## Sub lesson 2 — Lesson 59 + Historical Laboratory: Building the totalitarian state; between propaganda and political repression
 
 Show trials, camps and propaganda build the totalitarian state (Lesson 59 + Historical Laboratory: Building the totalitarian state; between propaganda and political repression)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62514 — trials camps propaganda]
 
 ## Say it to your companion
 

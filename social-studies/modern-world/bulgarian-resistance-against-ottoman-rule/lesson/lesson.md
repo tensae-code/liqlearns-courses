@@ -10,11 +10,15 @@ Haiduti in the mountains and rising after rising — resistance never fully slee
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62523 — resistance never sleeps]
+
 ## Sub lesson 2 — Lesson 22: The anti-Ottoman resistance of the Bulgarians
 
 Early risings at Tarnovo and Chiprovtsi answer Ottoman rule with arms (Lesson 22: The anti-Ottoman resistance of the Bulgarians)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62524 — tarnovo and chiprovtsi rise]
 
 ## Say it to your companion
 

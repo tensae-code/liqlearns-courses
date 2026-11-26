@@ -10,6 +10,8 @@ schools and secret committees prepare a nation, and the April rising's bloody su
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62522 — europe forced to notice]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: Bulgaria from the early 19th century to the Great Eastern Crisis — Constantinople as a centre of Bulgarian letters, the liberation movement, Vasil Levski and the April Uprising (1876) — schools and secret committees prepare a nation, and the April rising's bloody suppression forces Europe to notice. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ The Tarnovo legislators write a constitution and build the institutions of a mod
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62510 — writing a constitution]
+
 ## Sub lesson 2 — Lesson 40 + Historical Laboratory: Building the Principality of Bulgaria — the builders of modern Bulgaria
 
 The Tarnovo Constitution and its builders lay the modern state's foundations (Lesson 40 + Historical Laboratory: Building the Principality of Bulgaria — the builders of modern Bulgaria)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62511 — the builders of modern bulgaria]
+
 ## Sub lesson 3 — Lesson 41: The difficult beginning of the building
 
 Parties quarrel and institutions wobble in the principality's hard first years (Lesson 41: The difficult beginning of the building)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62512 — a difficult beginning]
 
 ## Say it to your companion
 

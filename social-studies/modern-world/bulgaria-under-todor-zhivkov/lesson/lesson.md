@@ -10,6 +10,8 @@ Three decades of Zhivkov — stability, stagnation and total loyalty to Moscow (
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62518 — three decades of zhivkov]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 60: Bulgaria under the rule of Todor Zhivkov — Three decades of Zhivkov — stability, stagnation and total loyalty to Moscow. Then let your companion ask you one hard question about it — answer from the lesson.

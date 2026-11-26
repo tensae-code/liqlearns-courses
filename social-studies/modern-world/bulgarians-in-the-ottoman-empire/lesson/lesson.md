@@ -10,6 +10,8 @@ Taxes, faith and village life — how Bulgarians lived inside the empire for cen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62525 — life inside the empire]
+
 ## Sub lesson 2 — Lesson 21: The Bulgarians in the Ottoman state in the 15th–17th centuries
 
 Rayah status, taxes and the devshirme — Bulgarian life inside the empire's order (Lesson 21: The Bulgarians in the Ottoman state in the 15th–17th centuries)

@@ -18,11 +18,15 @@ Donations build schools across the lands — enlightenment as civic duty (Lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62502 — enlightenment as civic duty]
+
 ## Sub lesson 3 — Lesson 38: Cultural and spiritual modernisation during the Revival
 
 Newspapers, theatres and painting modernise the Revival's spirit (Lesson 38: Cultural and spiritual modernisation during the Revival)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62503 — newspapers theatres painting]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ In 1885 Bulgarians unite the two halves Berlin had split — and defend the unio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62519 — the two halves united 1885]
+
 ## Sub lesson 2 — Lesson 42: The Unification of the Principality of Bulgaria and Eastern Rumelia and its defence (1885–1886)
 
 Unification proclaimed at Plovdiv and defended against Serbia at Slivnitsa (Lesson 42: The Unification of the Principality of Bulgaria and Eastern Rumelia and its defence (1885–1886))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62520 — defended at slivnitsa]
 
 ## Say it to your companion
 

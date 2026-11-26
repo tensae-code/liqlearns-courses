@@ -10,11 +10,15 @@ Europe enters the New Time while the Bulgarians live under Ottoman rule — the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62516 — the starting point]
+
 ## Sub lesson 2 — Lesson 27: The New Time, the Ottoman Empire and the Bulgarians
 
 Europe modernises while the Bulgarians enter their Revival inside a weakening empire (Lesson 27: The New Time, the Ottoman Empire and the Bulgarians)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62517 — inside a weakening empire]
 
 ## Say it to your companion
 
