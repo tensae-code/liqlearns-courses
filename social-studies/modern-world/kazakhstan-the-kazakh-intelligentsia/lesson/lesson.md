@@ -10,11 +10,15 @@ a small generation of teachers, poets and lawyers invents modern Kazakh public l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41464 — teacherspoetslawyers]
+
 ## Sub lesson 2 — §§5–6 The Kazakh national intelligentsia and its influence on socio-political processes
 
 a thin layer of graduates becomes the nation's voice
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41463 — thinlayer]
 
 ## Sub lesson 3 — §§13–14 Political leaders of the Kazakh people (A. Bukeikhanov, A. Baitursynov, M. Dulatov, B. Karaev, M. Tynyshpaev, M. Shokai)
 
@@ -22,11 +26,15 @@ six portraits — the statesman, the teacher, the poet, and Shokai who carries t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41462 — sixportraits]
+
 ## Sub lesson 4 — §§8–9 Outstanding representatives of the Kazakh intelligentsia of the early 20th century
 
 a small generation invents modern Kazakh public life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41461 — smallgeneration]
 
 ## Say it to your companion
 

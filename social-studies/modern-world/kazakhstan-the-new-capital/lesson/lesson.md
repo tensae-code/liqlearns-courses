@@ -10,11 +10,15 @@ the capital moves to Akmola/Astana in 1997 — a city rises on the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41455 — capitalnorth]
+
 ## Sub lesson 2 — §26 Astana (Nur-Sultan) — the capital of independent Kazakhstan
 
 the capital moves north in 1997 and a new city rises
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41454 — astana1997]
 
 ## Say it to your companion
 

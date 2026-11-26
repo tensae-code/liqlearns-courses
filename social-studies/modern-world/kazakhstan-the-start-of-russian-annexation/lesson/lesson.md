@@ -10,17 +10,23 @@ Abulkhair's oath of 1731, taken under Dzhungar pressure, opens the long road fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41444 — longroad1731]
+
 ## Sub lesson 2 — §9 The causes and consequences of Abulkhair's acceptance of Russian subjecthood
 
 Abulkhair swears the oath of 1731 seeking Russian guns against the Dzhungars — and opens the door to empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41443 — oathdoor1731]
+
 ## Sub lesson 3 — §10 The Russian Empire's policy in Kazakhstan in the 1730s–40s
 
 Orenburg is founded and the empire turns a defensive alliance into administration
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41442 — orenburghardens]
 
 ## Sub lesson 4 — §2.2 What were the reasons for Abulkhair Khan's letter to Empress Anna Ioannovna?
 

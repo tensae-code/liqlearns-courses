@@ -10,6 +10,8 @@ two periodicals argue a scattered people into one reading nation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41456 — qazaqaiqap]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §7 The development of the national political press (the newspaper "Qazaq", the journal "Aiqap") — two periodicals argue a scattered people into one reading nation. Then let your companion ask you one hard question about it — answer from the lesson.

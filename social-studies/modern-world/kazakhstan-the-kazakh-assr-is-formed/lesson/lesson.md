@@ -34,6 +34,8 @@ autonomy inside Soviet Russia is argued into being in 1920
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41465 — autonomy1920]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §13 The formation of the Kirghiz (Kazakh) Autonomous Soviet Republic — in 1920 the Kazakhs get an autonomy inside Soviet Russia — with borders and a capital argued over district by district, §§22–23 The process of forming the Kirghiz (Kazakh) Autonomous Soviet Socialist Republic — decrees in Moscow, a founding congress in Orenburg — an autonomy is proclaimed, §24 The forming of the Kazakh ASSR's territory; the Kazakh intelligentsia's role in restoring the integrity of the Kazakh lands — Alash leaders inside Soviet commissions argue whole districts back into Kazakhstan, §13 The formation of the Kirghiz (Kazakh) Autonomous Soviet Republic — in 1920 the Kazakhs gain an autonomy inside Soviet Russia, §2.5 The formation of the Kazakh ASSR — autonomy inside Soviet Russia is argued into being in 1920. Then let your companion ask you one hard question about it — answer from the lesson.
