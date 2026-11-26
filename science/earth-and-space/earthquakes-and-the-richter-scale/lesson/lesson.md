@@ -11,7 +11,11 @@ Costa Rica's book places earthquakes among the **phenomena that alter the geosph
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38639 — an earthquake the geosphere shakes]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38640 — earthquakes alter the geosphere itself]
 
 ## Sub lesson 2 — Classifying earthquakes
 

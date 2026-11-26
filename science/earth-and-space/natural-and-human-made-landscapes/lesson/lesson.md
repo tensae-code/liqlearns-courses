@@ -9,17 +9,23 @@ Lesson 12: a natural landscape holds nature's elements (pine, mahogany and cedar
 
 In your mind's eye: lesson 12 as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38706 — landscapes natural and human-made together]
+
 ## Sub lesson 2 — Natural versus artificial elements
 
 natural versus artificial elements: matter is everything we can touch and is classified into natural (resources found available in nature) and artificial (products created by human beings); raw materials (materias primas) are materials extracted from nature with a purpose — like the sheep's wool used to make textiles, or petroleum, a resource exploited to produce many synthetic materials.
 
 In your mind's eye: natural versus artificial elements as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38707 — natural versus artificial elements]
+
 ## Sub lesson 3 — Raw materials by origin, with their products
 
 raw materials by origin, with their products: of plant origin (linen, cotton, wood, maize, seeds, wheat, fruits and vegetables), animal origin (wool, leather, silk, skins, milk and meat), mineral origin (iron, copper, gold, silver, marble, silicon, lead and tin) and fossil origin (petroleum and natural gas); clay — a type of soil or sedimentary rock, of diverse colourings according to its impurities, from orange-red to white when pure — is used to make bricks, kitchen utensils and art objects; iron is extracted fundamentally from the mines, for locks, tools, bridges and kitchen utensils; wood is obtained from the trees' trunks, for furniture, houses, toys, musical instruments and paper; and maize goes into cereals, flour, starches and biscuits.
 
 In your mind's eye: raw materials by origin, with their products as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38708 — raw materials by origin and their]
 
 ## The key ideas
 

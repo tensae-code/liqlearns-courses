@@ -9,7 +9,11 @@ Eritrea's Grade 8 book opens its Space Travel unit with the atmosphere (printed 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38733 — a rocket carries its push with]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38734 — the rocket needs nothing outside itself]
 
 ## Sub lesson 2 — How a rocket flies — gases down, rocket up
 

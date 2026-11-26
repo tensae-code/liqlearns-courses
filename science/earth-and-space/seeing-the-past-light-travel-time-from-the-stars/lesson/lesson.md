@@ -9,7 +9,11 @@ light coming from the past: even travelling at light's speed, starlight takes ye
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38744 — seeing the past light's travel time]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38745 — starlight shows the past]
 
 ## The key ideas
 

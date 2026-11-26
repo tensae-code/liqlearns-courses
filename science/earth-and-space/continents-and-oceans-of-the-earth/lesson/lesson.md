@@ -9,7 +9,11 @@ The Earth's land is gathered into **continents**: the great land masses. Cuba's 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38629 — the continents earth's great lands]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38630 — land and water are not equally]
 
 ## Sub lesson 2 — The oceans — the great waters
 
@@ -17,7 +21,11 @@ Facing the continents stand the **oceans**: the great water masses that cover mo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38631 — the oceans earth's great waters]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38632 — the oceans win most of the]
 
 ## Sub lesson 3 — Islands and seas — between the great masses
 
@@ -25,7 +33,11 @@ Between the great masses sit the smaller pieces: **islands** — land surrounded
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38633 — islands and seas between the great]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38634 — from continents down to islands]
 
 ## The key ideas
 

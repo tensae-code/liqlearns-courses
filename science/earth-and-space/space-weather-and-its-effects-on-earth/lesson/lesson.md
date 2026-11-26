@@ -9,7 +9,11 @@ Malaysia's Form 3 book defines **space weather** and teaches its effects on Eart
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38748 — space weather reaches the earth]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38749 — what space weather can disrupt]
 
 ## The key ideas
 

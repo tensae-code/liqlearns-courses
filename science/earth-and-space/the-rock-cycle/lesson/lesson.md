@@ -9,7 +9,11 @@ Every rock belongs to one of three families, told by how it formed: **igneous** 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38772 — the three families of rock]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38773 — told apart by their forming]
 
 ## Sub lesson 2 — The cycle — energy flow and matter cycling
 

@@ -9,7 +9,11 @@ distances in space: the solar system holds together (eight planets and other bod
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38752 — measuring the solar system the au]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38753 — working in astronomical units]
 
 ## The key ideas
 

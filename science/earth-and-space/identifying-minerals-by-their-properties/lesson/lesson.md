@@ -9,7 +9,11 @@ Minerals are told apart **by their properties**, not by a first look. The book's
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38679 — telling minerals apart lustre streak hardness]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38680 — the tests narrow it down]
 
 ## Sub lesson 2 — Fracture and magnetism — and the properties table
 

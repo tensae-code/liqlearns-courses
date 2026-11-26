@@ -9,7 +9,11 @@ High above the Earth, **satellites** circle — machines people launched that tr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38746 — satellites in orbit the useful machines]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38747 — a busy sky the changed picture]
 
 ## Sub lesson 2 — The leftovers — space debris
 

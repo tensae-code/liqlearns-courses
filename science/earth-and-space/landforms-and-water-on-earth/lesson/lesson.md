@@ -9,7 +9,11 @@ The land's shapes are its **landforms**, and the book names its pattern through 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38686 — landforms valley canyon floodplain]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38687 — landforms repeat the pattern is the]
 
 ## Sub lesson 2 — Water on Earth — solid and liquid
 

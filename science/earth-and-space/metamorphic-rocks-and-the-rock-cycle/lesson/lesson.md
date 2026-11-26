@@ -11,7 +11,11 @@ The changed rock keeps a memory of what it was, written in its new minerals and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38696 — metamorphic changed by heat and pressure]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38697 — metamorphic rocks keep a memory]
 
 ## Sub lesson 2 — Gneiss — the worked example
 

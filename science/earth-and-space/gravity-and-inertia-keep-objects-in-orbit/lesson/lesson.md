@@ -9,7 +9,11 @@ The Moon circles the Earth and never falls in — and never flies away. A ball o
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38660 — gravity the inward pull of an]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38661 — gravity bends the moon's path into]
 
 ## Sub lesson 2 — Inertia — the onward carry
 

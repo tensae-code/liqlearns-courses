@@ -13,7 +13,11 @@ So the comparison runs like this. **The same:** both rocks and minerals are natu
 
 In your mind's eye: a single clear mineral crystal beside a speckled rock whose different grains can be seen. Say which is which, and why, before reading on.
 
+[Picture 38737 — a mineral crystal beside a rock]
+
 In your mind's eye: a rock splitting open to show the different mineral grains inside it. Name what the split reveals.
+
+[Picture 38738 — a rock split open the grains]
 
 ## Sub lesson 2 — Sorting rocks and minerals, and what they are used for
 

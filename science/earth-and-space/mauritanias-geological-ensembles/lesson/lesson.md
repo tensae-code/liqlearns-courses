@@ -11,7 +11,11 @@ An ensemble is geology at the country's scale: not one rock or one cliff, but th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38694 — a country's ground sorted into great]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38695 — the regional frame of mauritania]
 
 ## Sub lesson 2 — A country's own geology, in its own book
 

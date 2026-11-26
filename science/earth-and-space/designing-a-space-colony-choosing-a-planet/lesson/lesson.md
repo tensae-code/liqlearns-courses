@@ -9,7 +9,11 @@ real-life inquiry closing the chapter: the space colony — choose a planet, stu
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38635 — designing a space colony choose study]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38636 — inside the colony the parts that]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ The sidereal month of 27⅓ days, one true circuit of the Earth, against the syn
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38766 — the moon's two months]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38767 — keeping the lunar year true]
 
 ## Sub lesson 2 — The sidereal month of 27⅓ days
 

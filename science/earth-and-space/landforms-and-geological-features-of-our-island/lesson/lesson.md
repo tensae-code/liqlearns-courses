@@ -11,7 +11,11 @@ A mountain system is more than one mountain: it is a whole family of peaks, ridg
 
 In your mind's eye: the island of Hispaniola drawn with its mountain systems as long joined ridges across it. The student traces one whole system before reading on.
 
+[Picture 38684 — an island of joined mountain systems]
+
 In your mind's eye: a flat surface slowly pushed up into a long mountain ridge. Say what changed and what a whole system is.
+
+[Picture 38685 — a flat surface becomes a ridge]
 
 ## Sub lesson 2 — Reading the island's landforms
 

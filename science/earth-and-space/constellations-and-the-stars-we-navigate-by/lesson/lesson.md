@@ -11,7 +11,11 @@ A **constellation** is a group of stars that makes a pattern in the sky, with a 
 
 In your mind's eye: a night-sky chart with one constellation's stars joined by lines and labelled with its name. The student traces the pattern and says its name.
 
+[Picture 38627 — a constellation chart the great bear]
+
 In your mind's eye: star dots appearing one by one until the joined lines of a constellation stand complete. Say at which star the pattern became clear.
+
+[Picture 38628 — the constellation appears star by star]
 
 ## Sub lesson 2 — The first stars — the Southern Cross, the Morning and Evening Stars, and Sirius
 

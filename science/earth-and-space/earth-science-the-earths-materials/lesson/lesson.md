@@ -13,7 +13,11 @@ That is why Ghana's curriculum places Earth science inside the **Cycles** strand
 
 In your mind's eye: the Earth from space beside a cut hillside showing rock and soil layers. Name what each part of the picture studies.
 
+[Picture 38637 — earth science the planet and its]
+
 In your mind's eye: rain falling on a hill, running down to a river, and vapour rising again. The student traces the water's circle.
+
+[Picture 38638 — the water cycle on one hill]
 
 ## Sub lesson 2 — The Earth's materials
 

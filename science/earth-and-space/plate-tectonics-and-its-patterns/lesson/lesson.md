@@ -9,7 +9,11 @@ The lesson works from **data analysed for patterns** (Grade 7, 7.2.5, printed p.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38719 — the patterns in the data]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38720 — the belts agree one explanation]
 
 ## Sub lesson 2 — Linking the patterns to the plates
 

@@ -9,7 +9,11 @@ Locating and classifying El Salvador's volcanoes (Santa Ana among the most activ
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38782 — el salvador's volcanoes]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38783 — hot spots why volcanoes exist]
 
 ## Sub lesson 2 — Studying the spectacular volcanoes
 

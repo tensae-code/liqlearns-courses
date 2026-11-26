@@ -11,7 +11,11 @@ Five rocks are the book's identification set: **granite, sandstone, shale, limes
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38681 — five rocks each with its own]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38682 — identifying rocks by their marks]
 
 ## Sub lesson 2 — The scratch test — hardness
 

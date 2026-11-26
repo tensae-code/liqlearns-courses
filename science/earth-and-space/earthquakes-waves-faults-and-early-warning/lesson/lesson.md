@@ -9,7 +9,11 @@ Seismic parameters; how P, S, Love and Rayleigh waves propagate and which destro
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38643 — seismic waves p s love and]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38644 — early warning beats the wave to]
 
 ## Sub lesson 2 — Earthquakes
 

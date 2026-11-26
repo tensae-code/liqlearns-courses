@@ -9,7 +9,11 @@ Categorising geological time into eons, eras and periods; relative dating with a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38656 — geological time eons eras periods]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38657 — the geological clock]
 
 ## Sub lesson 2 — Relative and absolute dating build the geological time scale
 

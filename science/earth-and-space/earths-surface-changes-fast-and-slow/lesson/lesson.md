@@ -9,7 +9,11 @@ Some changes happen **quickly**: **volcanic eruptions** throwing up new land, **
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38645 — fast changes eruption earthquake landslide]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38646 — before and after a fast change]
 
 ## Sub lesson 2 — Slow changes — weathering and erosion
 

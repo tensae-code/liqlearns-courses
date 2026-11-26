@@ -9,7 +9,11 @@ Do the continents fit like puzzle pieces; connections between continents; why Pa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38717 — do the continents fit like puzzle]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38718 — why pangaea separated]
 
 ## Sub lesson 2 — Pangaea and continental drift, with seafloor spreading, as the first explanations of
 

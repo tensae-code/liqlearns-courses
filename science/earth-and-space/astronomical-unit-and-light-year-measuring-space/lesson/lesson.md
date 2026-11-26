@@ -9,7 +9,11 @@ The astronomical unit (Sun to Earth, 1.5 × 10¹¹ m; Mars at about 1.5 AU) and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38623 — measuring space the astronomical unit]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38624 — the light-year distance measured by light's]
 
 ## Sub lesson 2 — The astronomical unit and the light-year
 

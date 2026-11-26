@@ -11,7 +11,11 @@ Seas and oceans are the Earth's salt waters, the greater part of its water envir
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38742 — seas and oceans the earth's great]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38743 — most of the earth's water is]
 
 ## Sub lesson 2 — The activity book's matching work
 

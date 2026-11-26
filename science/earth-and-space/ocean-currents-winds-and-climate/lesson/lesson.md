@@ -9,7 +9,11 @@ The Sun's influence on the oceans; convection cells and winds; climate vs weathe
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38709 — the sun's influence on the oceans]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38710 — convection heat moves the ocean and]
 
 ## Sub lesson 2 — Interactions in the oceans
 

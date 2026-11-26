@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 6 guide gives the night sky a lesson of
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38776 — knowledge of the stars held by]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38777 — star knowledge passed down]
 
 ## Sub lesson 2 — Knowledge that stands beside the school lessons
 

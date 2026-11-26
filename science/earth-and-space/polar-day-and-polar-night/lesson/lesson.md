@@ -9,7 +9,11 @@ Near the North Pole in its summer, the Earth turns and turns — and the Sun nev
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38725 — the polar day the midnight sun]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38726 — what the polar day proves]
 
 ## Sub lesson 2 — The polar night — a night when the Sun never rises
 

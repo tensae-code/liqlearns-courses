@@ -9,7 +9,11 @@ El Salvador's own geology: where its igneous, sedimentary and metamorphic rocks 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38735 — el salvador's own geology]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38736 — the sinking chain and rocks in]
 
 ## Sub lesson 2 — El Salvador's rocks up close
 

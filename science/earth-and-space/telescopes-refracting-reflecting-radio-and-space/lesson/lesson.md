@@ -9,7 +9,11 @@ the means of watching the universe: the refracting telescope gathers light with 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38750 — four ways of watching the universe]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38751 — why telescopes go above the air]
 
 ## The key ideas
 

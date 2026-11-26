@@ -11,7 +11,11 @@ Making the model teaches what the pictures cannot: a rocket is a designed thing,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38692 — making a model rocket every part]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38693 — the launch proves the design]
 
 ## Sub lesson 2 — Launching it
 

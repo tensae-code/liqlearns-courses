@@ -9,7 +9,11 @@ Volcanoes form where tectonic plates collide; magma rises through cracks and an 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38778 — where plates collide volcanoes form]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38779 — eruptions and building a model volcano]
 
 ## The key ideas
 

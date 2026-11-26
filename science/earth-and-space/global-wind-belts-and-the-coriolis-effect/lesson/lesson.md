@@ -9,7 +9,11 @@ global air currents: the sun's rays fall vertically on the equator and slanting 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38658 — global air currents heated unevenly air]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38659 — the coriolis effect the bend in]
 
 ## The key ideas
 

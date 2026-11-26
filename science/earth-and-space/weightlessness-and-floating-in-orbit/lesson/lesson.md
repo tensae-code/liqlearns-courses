@@ -9,7 +9,11 @@ Grade 7 first separates mass from weight (§12.2): mass is how much matter a thi
 
 In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
+[Picture 38784 — mass weight and the push-back]
+
 In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
+
+[Picture 38785 — weightlessness falling together in orbit]
 
 ## Sub lesson 2 — Falling together — weightlessness
 

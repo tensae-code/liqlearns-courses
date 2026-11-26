@@ -9,6 +9,8 @@ The books teach this part as Kazakh/Caucasus way: Karaundzh named the world's ol
 
 In your mind's eye: karaundzh — an ancient observatory as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38683 — karaundzh an ancient observatory]
+
 ## The key ideas
 
 - The books teach this part as Kazakh/Caucasus way: Karaundzh named the world's oldest observatory, its stone pillars with tube-like holes used to watch the sky — worked through in the books' own presentation, at the printed pages named in Sources.

@@ -2216,6 +2216,173 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38616 | pictures/38616.webp | When immunity goes wrong: three failures — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, When the immune system goes wrong |
 | 38617 | pictures/38617.webp | World biomes: pole to equator in bands — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, World biomes |
 | 38618 | pictures/38618.webp | Name each biome as the line enters it — drawn render, Photos+GIFs front 2026-11-26 | Science — Biology, World biomes |
+| 38619 | pictures/38619.webp | An artificial satellite: a machine in orbit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Artificial satellites |
+| 38620 | pictures/38620.webp | Orbiting means falling around the Earth — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Artificial satellites |
+| 38621 | pictures/38621.webp | Astrology: the claim that stars shape fortunes — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Astrology — a superstition about space |
+| 38622 | pictures/38622.webp | Testing the claim: lives do not match the stars — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Astrology — a superstition about space |
+| 38623 | pictures/38623.webp | Measuring space: the astronomical unit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Astronomical unit and light-year — measuring space |
+| 38624 | pictures/38624.webp | The light-year: distance measured by light's travel — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Astronomical unit and light-year — measuring space |
+| 38625 | pictures/38625.webp | Baikonur: where rockets leave the Earth — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Baikonur — where rockets launch |
+| 38626 | pictures/38626.webp | Toktar Aubakirov: the first Kazakh cosmonaut — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Baikonur — where rockets launch |
+| 38627 | pictures/38627.webp | A constellation chart: the Great Bear — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Constellations and the stars we navigate by |
+| 38628 | pictures/38628.webp | The constellation appears, star by star — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Constellations and the stars we navigate by |
+| 38629 | pictures/38629.webp | The continents: Earth's great lands — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38630 | pictures/38630.webp | Land and water are NOT equally shared — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38631 | pictures/38631.webp | The oceans: Earth's great waters — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38632 | pictures/38632.webp | The oceans win: most of the Earth is water — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38633 | pictures/38633.webp | Islands and seas: between the great masses — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38634 | pictures/38634.webp | From continents down to islands — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Continents and oceans of the Earth |
+| 38635 | pictures/38635.webp | Designing a space colony: choose, study, design — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Designing a space colony — choosing a planet |
+| 38636 | pictures/38636.webp | Inside the colony: the parts that keep people alive — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Designing a space colony — choosing a planet |
+| 38637 | pictures/38637.webp | Earth science: the planet, and its materials — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earth science — the Earth's materials |
+| 38638 | pictures/38638.webp | The water cycle on one hill — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earth science — the Earth's materials |
+| 38639 | pictures/38639.webp | An earthquake: the geosphere shakes — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes and the Richter scale |
+| 38640 | pictures/38640.webp | Earthquakes alter the geosphere itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes and the Richter scale |
+| 38641 | pictures/38641.webp | From fault slip to tsunami — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes and tsunamis |
+| 38642 | pictures/38642.webp | What travels: the shaking. What records it: the seismograph — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes and tsunamis |
+| 38643 | pictures/38643.webp | Seismic waves: P, S, Love and Rayleigh — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes — waves, faults and early warning |
+| 38644 | pictures/38644.webp | Early warning beats the wave to the city — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earthquakes — waves, faults and early warning |
+| 38645 | pictures/38645.webp | Fast changes: eruption, earthquake, landslide — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earth's surface changes — fast and slow |
+| 38646 | pictures/38646.webp | Before and after: a fast change — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Earth's surface changes — fast and slow |
+| 38647 | pictures/38647.webp | Folds: rock layers bent, not broken — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Faults and folds in the Earth's crust |
+| 38648 | pictures/38648.webp | A fold forms: pressure answered by bending — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Faults and folds in the Earth's crust |
+| 38649 | pictures/38649.webp | Fossils: the definition in the rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Fossils and the geological eras |
+| 38650 | pictures/38650.webp | How the Earth's age is known: read the layers — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Fossils and the geological eras |
+| 38651 | pictures/38651.webp | Eras end where the world changes — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Fossils and the geological eras |
+| 38652 | pictures/38652.webp | Fossil data: match the fossil to its living kin — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Fossils — evidence of life and environments long ago |
+| 38653 | pictures/38653.webp | A fossil reads its environment too — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Fossils — evidence of life and environments long ago |
+| 38654 | pictures/38654.webp | Four geohazards in one frame — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Geohazards — landslides, sinkholes, tsunamis and acid rain |
+| 38655 | pictures/38655.webp | Geohazards: two sources — Earth, and us — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Geohazards — landslides, sinkholes, tsunamis and acid rain |
+| 38656 | pictures/38656.webp | Geological time: eons, eras, periods — nested — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Geological time — eons, eras and periods |
+| 38657 | pictures/38657.webp | The geological clock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Geological time — eons, eras and periods |
+| 38658 | pictures/38658.webp | Global air currents: heated unevenly, air moves — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Global wind belts and the Coriolis effect |
+| 38659 | pictures/38659.webp | The Coriolis effect: the bend in the winds — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Global wind belts and the Coriolis effect |
+| 38660 | pictures/38660.webp | Gravity: the inward pull of an orbit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Gravity and inertia keep objects in orbit |
+| 38661 | pictures/38661.webp | Gravity bends the Moon's path into an orbit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Gravity and inertia keep objects in orbit |
+| 38662 | pictures/38662.webp | Lowland: the low ground by the sea — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Highlands and lowlands |
+| 38663 | pictures/38663.webp | The defining mark: height above the sea — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Highlands and lowlands |
+| 38664 | pictures/38664.webp | An atoll: the ring reef and its lagoon — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How an atoll and low island form |
+| 38665 | pictures/38665.webp | How a low island is built on the ring — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How an atoll and low island form |
+| 38666 | pictures/38666.webp | The land's shape changes: the first fact — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How land changes |
+| 38667 | pictures/38667.webp | Land changes: today's shape is not forever — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How land changes |
+| 38668 | pictures/38668.webp | How the Arabs studied the solar system — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the Arabs studied the solar system |
+| 38669 | pictures/38669.webp | An interest carried in writing — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the Arabs studied the solar system |
+| 38670 | pictures/38670.webp | Mastering the continents: the age of voyages — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the continents and oceans were explored |
+| 38671 | pictures/38671.webp | Studying the oceans: depth by sounding line — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the continents and oceans were explored |
+| 38672 | pictures/38672.webp | Exploring the oceans: routes and dives — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the continents and oceans were explored |
+| 38673 | pictures/38673.webp | How the modern map took shape — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the continents and oceans were explored |
+| 38674 | pictures/38674.webp | The modern map: many hands made it — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, How the continents and oceans were explored |
+| 38675 | pictures/38675.webp | Hubble's study: the galaxies — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Hubble's law and the expanding universe |
+| 38676 | pictures/38676.webp | Hubble's law: farther means faster — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Hubble's law and the expanding universe |
+| 38677 | pictures/38677.webp | Iceland: the volcanic island — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Iceland — the volcanic island and its landscapes |
+| 38678 | pictures/38678.webp | Eruptions raise and reshape the island — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Iceland — the volcanic island and its landscapes |
+| 38679 | pictures/38679.webp | Telling minerals apart: lustre, streak, hardness — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Identifying minerals by their properties |
+| 38680 | pictures/38680.webp | The tests narrow it down — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Identifying minerals by their properties |
+| 38681 | pictures/38681.webp | Five rocks: each with its own marks — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Identifying rocks by colour, grain and hardness |
+| 38682 | pictures/38682.webp | Identifying rocks by their marks — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Identifying rocks by colour, grain and hardness |
+| 38683 | pictures/38683.webp | Karaundzh: an ancient observatory — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Karaundzh — an ancient observatory |
+| 38684 | pictures/38684.webp | An island of joined mountain systems — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landforms and geological features of our island |
+| 38685 | pictures/38685.webp | A flat surface becomes a ridge — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landforms and geological features of our island |
+| 38686 | pictures/38686.webp | Landforms: valley, canyon, floodplain — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landforms and water on Earth |
+| 38687 | pictures/38687.webp | Landforms repeat: the pattern is the lesson — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landforms and water on Earth |
+| 38688 | pictures/38688.webp | Samoa's special landscape features — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landscape features — and how they formed |
+| 38689 | pictures/38689.webp | Samoa's environments, and people's additions — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Landscape features — and how they formed |
+| 38690 | pictures/38690.webp | Magmatic rocks: born from molten rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Magmatic rocks — plutonic and volcanic |
+| 38691 | pictures/38691.webp | The cooling place writes itself into the rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Magmatic rocks — plutonic and volcanic |
+| 38692 | pictures/38692.webp | Making a model rocket: every part has a job — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Make and launch a model rocket |
+| 38693 | pictures/38693.webp | The launch proves the design — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Make and launch a model rocket |
+| 38694 | pictures/38694.webp | A country's ground, sorted into great regions — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Mauritania's geological ensembles |
+| 38695 | pictures/38695.webp | The regional frame of Mauritania — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Mauritania's geological ensembles |
+| 38696 | pictures/38696.webp | Metamorphic: changed by heat and pressure, not melted — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Metamorphic rocks and the rock cycle |
+| 38697 | pictures/38697.webp | Metamorphic rocks keep a memory — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Metamorphic rocks and the rock cycle |
+| 38698 | pictures/38698.webp | Mountains and plains: the two reliefs — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Mountains and plains — relief |
+| 38699 | pictures/38699.webp | The relief of our country, in profile — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Mountains and plains — relief |
+| 38700 | pictures/38700.webp | Waves: the sea's surface on the move — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38701 | pictures/38701.webp | What a wave carries: motion, not water — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38702 | pictures/38702.webp | Currents: the sea itself travels — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38703 | pictures/38703.webp | Currents carry what floats, far away — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38704 | pictures/38704.webp | Tides: the water line climbs and retreats — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38705 | pictures/38705.webp | The tide's regular coming and going — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Movements of sea water — waves, currents and tides |
+| 38706 | pictures/38706.webp | Landscapes: natural and human-made together — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Natural and human-made landscapes |
+| 38707 | pictures/38707.webp | Natural versus artificial elements — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Natural and human-made landscapes |
+| 38708 | pictures/38708.webp | Raw materials by origin, and their products — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Natural and human-made landscapes |
+| 38709 | pictures/38709.webp | The Sun's influence on the oceans — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Ocean currents, winds and climate |
+| 38710 | pictures/38710.webp | Convection: heat moves the ocean and the air — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Ocean currents, winds and climate |
+| 38711 | pictures/38711.webp | Oceanography: the oceans and their floor — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Oceanography — the world ocean |
+| 38712 | pictures/38712.webp | Mapping the ocean floor — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Oceanography — the world ocean |
+| 38713 | pictures/38713.webp | NAST, the IAU and NASA — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Organisations that study space — NAST, IAU and NASA |
+| 38714 | pictures/38714.webp | The IAU's ruling moved Pluto — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Organisations that study space — NAST, IAU and NASA |
+| 38715 | pictures/38715.webp | Quakes and volcanoes occur in bands — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Patterns of Earth's features |
+| 38716 | pictures/38716.webp | The band along the boundary — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Patterns of Earth's features |
+| 38717 | pictures/38717.webp | Do the continents fit like puzzle pieces? — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and continental drift |
+| 38718 | pictures/38718.webp | Why Pangaea separated — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and continental drift |
+| 38719 | pictures/38719.webp | The patterns in the data — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and its patterns |
+| 38720 | pictures/38720.webp | The belts agree: one explanation — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and its patterns |
+| 38721 | pictures/38721.webp | One plate slides under the other — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and shaping the land |
+| 38722 | pictures/38722.webp | A landslide after heavy rain — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Plate tectonics and shaping the land |
+| 38723 | pictures/38723.webp | Pluto and the planet test — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Pluto and the dwarf planets — why Pluto was reclassified |
+| 38724 | pictures/38724.webp | Why Pluto was reclassified — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Pluto and the dwarf planets — why Pluto was reclassified |
+| 38725 | pictures/38725.webp | The polar day: the midnight sun — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Polar day and polar night |
+| 38726 | pictures/38726.webp | What the polar day proves — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Polar day and polar night |
+| 38727 | pictures/38727.webp | The short rhythms: the day and the year — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rhythms in nature |
+| 38728 | pictures/38728.webp | A rhythm comes back in the same order — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rhythms in nature |
+| 38729 | pictures/38729.webp | The long rhythms, and nature's calendar — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rhythms in nature |
+| 38730 | pictures/38730.webp | Living things keep nature's calendar — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rhythms in nature |
+| 38731 | pictures/38731.webp | Igneous rocks: born from melted rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rock types — igneous, sedimentary, metamorphic |
+| 38732 | pictures/38732.webp | Melted rock cools and hardens — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rock types — igneous, sedimentary, metamorphic |
+| 38733 | pictures/38733.webp | A rocket carries its push with it — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rockets — and how they fly |
+| 38734 | pictures/38734.webp | The rocket needs nothing outside itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rockets — and how they fly |
+| 38735 | pictures/38735.webp | El Salvador's own geology — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and landforms of El Salvador |
+| 38736 | pictures/38736.webp | The sinking chain, and rocks in use — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and landforms of El Salvador |
+| 38737 | pictures/38737.webp | A mineral crystal beside a rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and minerals |
+| 38738 | pictures/38738.webp | A rock split open: the grains inside — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and minerals |
+| 38739 | pictures/38739.webp | Rocks are made of crystallised minerals — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and the rock cycle |
+| 38740 | pictures/38740.webp | Igneous rocks form when magma cools — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and the rock cycle |
+| 38741 | pictures/38741.webp | Sedimentary rocks form by lithification — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Rocks and the rock cycle |
+| 38742 | pictures/38742.webp | Seas and oceans: the Earth's great waters — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Seas and oceans |
+| 38743 | pictures/38743.webp | Most of the Earth's water is salt — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Seas and oceans |
+| 38744 | pictures/38744.webp | Seeing the past: light's travel time — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Seeing the past — light travel time from the stars |
+| 38745 | pictures/38745.webp | Starlight shows the past — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Seeing the past — light travel time from the stars |
+| 38746 | pictures/38746.webp | Satellites in orbit: the useful machines — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Space junk and satellites |
+| 38747 | pictures/38747.webp | A busy sky: the changed picture — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Space junk and satellites |
+| 38748 | pictures/38748.webp | Space weather reaches the Earth — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Space weather and its effects on Earth |
+| 38749 | pictures/38749.webp | What space weather can disrupt — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Space weather and its effects on Earth |
+| 38750 | pictures/38750.webp | Four ways of watching the universe — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Telescopes — refracting, reflecting, radio and space |
+| 38751 | pictures/38751.webp | Why telescopes go above the air — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Telescopes — refracting, reflecting, radio and space |
+| 38752 | pictures/38752.webp | Measuring the solar system: the AU — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The astronomical unit — measuring distances in the solar system |
+| 38753 | pictures/38753.webp | Working in astronomical units — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The astronomical unit — measuring distances in the solar system |
+| 38754 | pictures/38754.webp | A planet that was not always as it is — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Earth's own history — how our planet changed |
+| 38755 | pictures/38755.webp | The Earth changed: then and now — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Earth's own history — how our planet changed |
+| 38756 | pictures/38756.webp | The Earth's long change, told as one story — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Earth's own history — how our planet changed |
+| 38757 | pictures/38757.webp | The story arrives at our own planet — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Earth's own history — how our planet changed |
+| 38758 | pictures/38758.webp | Open, flat or closed: three futures — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The future of the universe — open, flat or closed |
+| 38759 | pictures/38759.webp | Density argues the universe's future — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The future of the universe — open, flat or closed |
+| 38760 | pictures/38760.webp | Strata and fossils: the evidence — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The geologic time scale |
+| 38761 | pictures/38761.webp | Layers are times, stacked — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The geologic time scale |
+| 38762 | pictures/38762.webp | Components of the hydrosphere — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The hydrosphere — rivers, lakes and oceans |
+| 38763 | pictures/38763.webp | Telling a river, a lake and a lagoon apart — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The hydrosphere — rivers, lakes and oceans |
+| 38764 | pictures/38764.webp | Light's speed: the fastest traveller — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The light year — measuring the universe |
+| 38765 | pictures/38765.webp | The light year: distance by travel time — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The light year — measuring the universe |
+| 38766 | pictures/38766.webp | The Moon's two months — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The lunar month — sidereal and synodic — and Nepal's calendar |
+| 38767 | pictures/38767.webp | Keeping the lunar year true — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The lunar month — sidereal and synodic — and Nepal's calendar |
+| 38768 | pictures/38768.webp | The Moon's surface: highlands, maria, craters — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Moon's surface — highlands, maria and craters |
+| 38769 | pictures/38769.webp | Craters and maria: how they formed — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The Moon's surface — highlands, maria and craters |
+| 38770 | pictures/38770.webp | Why the oceans matter — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The oceans and their properties |
+| 38771 | pictures/38771.webp | Saltier water holds things up — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The oceans and their properties |
+| 38772 | pictures/38772.webp | The three families of rock — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The rock cycle |
+| 38773 | pictures/38773.webp | Told apart by their forming — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, The rock cycle |
+| 38774 | pictures/38774.webp | The tools astronauts use — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Tools astronauts use |
+| 38775 | pictures/38775.webp | Tools make the astronaut's work possible — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Tools astronauts use |
+| 38776 | pictures/38776.webp | Knowledge of the stars, held by the community — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Traditional knowledge of the night sky — Papua New Guinea |
+| 38777 | pictures/38777.webp | Star knowledge, passed down — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Traditional knowledge of the night sky — Papua New Guinea |
+| 38778 | pictures/38778.webp | Where plates collide, volcanoes form — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes and their eruptions |
+| 38779 | pictures/38779.webp | Eruptions, and building a model volcano — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes and their eruptions |
+| 38780 | pictures/38780.webp | What volcanoes give: ash that feeds the soil — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes — benefits and harms |
+| 38781 | pictures/38781.webp | Ash-fed soil grows richer crops — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes — benefits and harms |
+| 38782 | pictures/38782.webp | El Salvador's volcanoes — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes of El Salvador |
+| 38783 | pictures/38783.webp | Hot spots: why volcanoes exist — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes of El Salvador |
+| 38784 | pictures/38784.webp | Mass, weight, and the push-back — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Weightlessness and floating in orbit |
+| 38785 | pictures/38785.webp | Weightlessness: falling together in orbit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Weightlessness and floating in orbit |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

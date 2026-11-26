@@ -9,17 +9,23 @@ rocks are solid structures made of crystallised minerals (some of glass or solid
 
 In your mind's eye: rocks are solid structures made of crystallised minerals (some as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38739 — rocks are made of crystallised minerals]
+
 ## Sub lesson 2 — Igneous rocks form when magma cools
 
 igneous rocks form when magma cools: intrusive rocks cool slowly underground and grow large crystals (granite), extrusive rocks cool fast on the surface and grow small crystals (basalt); magma that reaches the surface is called lava.
 
 In your mind's eye: igneous rocks form when magma cools as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38740 — igneous rocks form when magma cools]
+
 ## Sub lesson 3 — Sedimentary rocks form by lithification
 
 sedimentary rocks form by lithification: weathering breaks rock into sediments, wind and water carry them to low areas, and accumulating layers are compacted and cemented under pressure.
 
 In your mind's eye: sedimentary rocks form by lithification as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38741 — sedimentary rocks form by lithification]
 
 ## The key ideas
 

@@ -11,7 +11,11 @@ Within the family, the books split the rocks by **where the melt cooled**, and t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38690 — magmatic rocks born from molten rock]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38691 — the cooling place writes itself into]
 
 ## Sub lesson 2 — Plutonic rocks — cooled slowly, deep down
 

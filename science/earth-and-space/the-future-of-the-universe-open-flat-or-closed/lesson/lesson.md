@@ -9,7 +9,11 @@ If the universe's average density is below the critical density it is open and g
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38758 — open flat or closed three futures]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38759 — density argues the universe's future]
 
 ## Sub lesson 2 — If the universe's average density is below the critical density it is open and galaxies recede forever
 

@@ -11,7 +11,11 @@ The ring is the island's foundation. Everything that becomes land on a low islan
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 38664 — an atoll the ring reef and]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[Picture 38665 — how a low island is built]
 
 ## Sub lesson 2 — Sand piles grow into narrow, flat islands
 

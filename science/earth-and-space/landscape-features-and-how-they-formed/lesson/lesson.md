@@ -9,7 +9,11 @@ First, the mapping: Samoa's special landscape features — **waterfalls, cliffs,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38688 — samoa's special landscape features]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38689 — samoa's environments and people's additions]
 
 ## Sub lesson 2 — The field trip — evidence of forming and changing
 

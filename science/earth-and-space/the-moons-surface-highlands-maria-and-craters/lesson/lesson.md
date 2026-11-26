@@ -9,7 +9,11 @@ Earth's Moon: until Galileo's telescope in 1609 the moon was thought smooth; its
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38768 — the moon's surface highlands maria craters]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38769 — craters and maria how they formed]
 
 ## The key ideas
 

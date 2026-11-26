@@ -9,7 +9,11 @@ Stand in your mind on flat ground by the sea. Now stand on high ground far above
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38662 — lowland the low ground by the]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38663 — the defining mark height above the]
 
 ## Sub lesson 2 — Highland — the high ground, and the difference
 

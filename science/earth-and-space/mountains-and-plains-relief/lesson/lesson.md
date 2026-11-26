@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Mountains and plains". Th
 
 In your mind's eye: mountains and plains as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38698 — mountains and plains the two reliefs]
+
 ## Sub lesson 2 — The relief of our country
 
 The books teach this part as (Kazakhstan's mountains and plains) — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books also carry this part as their own titled lesson — "The relief of our country" — at the printed pages named in Sources; the learner works through those lessons' own text, examples and tasks.
 
 In your mind's eye: the relief of our country as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38699 — the relief of our country in]
 
 ## The key ideas
 

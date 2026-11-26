@@ -9,7 +9,11 @@ The chapter starts from the plates (Lesson 1): the Earth's crust is carried on m
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38647 — folds rock layers bent not broken]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38648 — a fold forms pressure answered by]
 
 ## Sub lesson 2 — Faults — rock layers broken and shifted
 

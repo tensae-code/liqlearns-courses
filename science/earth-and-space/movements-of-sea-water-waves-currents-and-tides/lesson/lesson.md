@@ -9,7 +9,11 @@ The sea's surface rises and falls in **waves**: the movement you can see. Waves 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38700 — waves the sea's surface on the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38701 — what a wave carries motion not]
 
 ## Sub lesson 2 — Currents — the sea itself travels
 
@@ -17,7 +21,11 @@ Below and beyond the waves, the sea water itself **travels in currents**: great 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38702 — currents the sea itself travels]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38703 — currents carry what floats far away]
 
 ## Sub lesson 3 — Tides — the shore's rising and falling
 
@@ -25,7 +33,11 @@ At the shore, the sea **rises and falls in tides**: the water line climbs the be
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38704 — tides the water line climbs and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38705 — the tide's regular coming and going]
 
 ## The key ideas
 

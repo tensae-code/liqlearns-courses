@@ -9,7 +9,11 @@ Astrology claims that the positions of the stars and planets shape people's live
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38621 — astrology the claim that stars shape]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38622 — testing the claim lives do not]
 
 ## Sub lesson 2 — Tested against astronomy
 

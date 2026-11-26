@@ -9,7 +9,11 @@ Components of the hydrosphere; characteristics that identify a river, a lake and
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38762 — components of the hydrosphere]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38763 — telling a river a lake and]
 
 ## Sub lesson 2 — The hydrosphere modelled
 

@@ -13,7 +13,11 @@ Because the waves can be felt and measured far from the break, scientists record
 
 In your mind's eye: an island coast with the sea floor cut open to show a fault slipping under the sea and a wave travelling toward the shore. Name the fault, the waves and the tsunami before reading on.
 
+[Picture 38641 — from fault slip to tsunami]
+
 In your mind's eye: the ground slipping along a fault and the shaking spreading out as rings. Say what travels and what records it.
+
+[Picture 38642 — what travels the shaking what records]
 
 ## Sub lesson 2 — Tsunamis — the sea wave that follows
 

@@ -9,7 +9,11 @@ Malaysia's Additional Science Form 5 book opens oceanography with **early ocean 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38711 — oceanography the oceans and their floor]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38712 — mapping the ocean floor]
 
 ## Sub lesson 2 — Seawater — temperature, pressure, density — and ocean life
 

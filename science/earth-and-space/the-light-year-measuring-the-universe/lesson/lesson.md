@@ -9,7 +9,11 @@ the light year: light travels at 300,000 km/s, circling the earth about seven ti
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38764 — light's speed the fastest traveller]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38765 — the light year distance by travel]
 
 ## The key ideas
 

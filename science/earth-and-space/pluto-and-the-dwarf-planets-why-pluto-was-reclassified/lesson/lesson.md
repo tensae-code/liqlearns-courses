@@ -9,7 +9,11 @@ science, technology and society: Pluto, from planet to dwarf planet — found in
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38723 — pluto and the planet test]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38724 — why pluto was reclassified]
 
 ## The key ideas
 

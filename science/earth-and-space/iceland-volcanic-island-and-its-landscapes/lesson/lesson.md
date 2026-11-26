@@ -9,7 +9,11 @@ Iceland is a **volcanic island**: an island raised and still shaped by volcanic 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38677 — iceland the volcanic island]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38678 — eruptions raise and reshape the island]
 
 ## Sub lesson 2 — The volcanic island's landscapes
 

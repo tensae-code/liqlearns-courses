@@ -13,7 +13,11 @@ A land built by moving plates also moves suddenly. The same unit names the hazar
 
 In your mind's eye: a cross-section of the coast, the ocean plate sliding under the land plate, a volcano above. Name each part before reading on.
 
+[Picture 38721 — one plate slides under the other]
+
 In your mind's eye: a slope giving way in a landslide after heavy rain. Say what moved and why it matters for preparedness.
+
+[Picture 38722 — a landslide after heavy rain]
 
 ## Sub lesson 2 — Shaping the land by care — clam gardens, middens and burning
 

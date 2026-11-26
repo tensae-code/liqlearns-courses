@@ -11,7 +11,11 @@ Cooling is the making to hold: wherever rock was once molten and is now solid, a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38731 — igneous rocks born from melted rock]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38732 — melted rock cools and hardens]
 
 ## Sub lesson 2 — Sedimentary rocks — built from settled layers
 

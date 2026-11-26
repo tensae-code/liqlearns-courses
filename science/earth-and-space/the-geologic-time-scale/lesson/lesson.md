@@ -9,7 +9,11 @@ The evidence is in the ground: **rock strata** — the layered beds of rock, you
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38760 — strata and fossils the evidence]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38761 — layers are times stacked]
 
 ## Sub lesson 2 — The time scale — Earth's age and history
 

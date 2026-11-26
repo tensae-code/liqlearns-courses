@@ -9,7 +9,11 @@ Nicaragua's Grade 8 book teaches its own country's volcanoes from both sides. On
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38780 — what volcanoes give ash that feeds]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38781 — ash-fed soil grows richer crops]
 
 ## Sub lesson 2 — What volcanoes harm — fresh ash and health
 

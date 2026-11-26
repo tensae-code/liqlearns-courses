@@ -9,7 +9,11 @@ NAST, Nepal's own Academy of Science and Technology (established BS 2039, its fo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38713 — nast the iau and nasa]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38714 — the iau's ruling moved pluto]
 
 ## Sub lesson 2 — NAST
 

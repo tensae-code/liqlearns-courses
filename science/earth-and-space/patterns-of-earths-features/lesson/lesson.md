@@ -9,7 +9,11 @@ The data shows a pattern, not a scatter: **most earthquakes and volcanoes occur 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38715 — quakes and volcanoes occur in bands]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38716 — the band along the boundary]
 
 ## Sub lesson 2 — Mountain chains — inside continents or near their edges
 

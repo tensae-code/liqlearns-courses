@@ -9,7 +9,11 @@ Section 9 runs in order: the Big Bang (§9.1), the formation of galaxies and sta
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38754 — a planet that was not always]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38755 — the earth changed then and now]
 
 ## Sub lesson 2 — The evolution of the Earth — the closing story
 
@@ -17,7 +21,11 @@ In your mind's eye: the lesson's central change or test result from this part. S
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38756 — the earth's long change told as]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38757 — the story arrives at our own]
 
 ## The key ideas
 

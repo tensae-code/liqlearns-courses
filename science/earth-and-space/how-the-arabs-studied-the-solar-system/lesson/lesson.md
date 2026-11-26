@@ -11,7 +11,11 @@ The placing teaches two things at once. The solar system was studied long before
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38668 — how the arabs studied the solar]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38669 — an interest carried in writing]
 
 ## The key ideas
 

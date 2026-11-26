@@ -9,7 +9,11 @@ Galaxies are moving away from each other, and the farther apart they are the fas
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38675 — hubble's study the galaxies]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38676 — hubble's law farther means faster]
 
 ## Sub lesson 2 — Galaxies are moving away from each other
 

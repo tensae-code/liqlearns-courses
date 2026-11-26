@@ -9,11 +9,15 @@ The books teach this part as Baikonur, Kazakhstan's own cosmodrome — worked th
 
 In your mind's eye: where rockets are launched from as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38625 — baikonur where rockets leave the earth]
+
 ## Sub lesson 2 — Toktar Aubakirov — the first Kazakh cosmonaut
 
 The books teach this part as "Toktar Aubakirov — the first Kazakh cosmonaut" (his flight launched from Baikonur) — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: toktar Aubakirov — the first Kazakh cosmonaut as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 38626 — toktar aubakirov the first kazakh cosmonaut]
 
 ## The key ideas
 

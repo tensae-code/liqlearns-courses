@@ -9,7 +9,11 @@ Why the oceans matter; salinity raises water's density; density changes with sal
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38770 — why the oceans matter]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38771 — saltier water holds things up]
 
 ## Sub lesson 2 — Introduction to the oceans
 

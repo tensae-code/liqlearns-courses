@@ -9,7 +9,11 @@ Armenia's book opens with the rhythms everyone lives inside. The **daily rhythm*
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38727 — the short rhythms the day and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38728 — a rhythm comes back in the]
 
 ## Sub lesson 2 — The long rhythms — centuries, and nature's calendar
 
@@ -17,7 +21,11 @@ Beyond the day and the year, the book names longer beats: **century rhythms** an
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38729 — the long rhythms and nature's calendar]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38730 — living things keep nature's calendar]
 
 ## The key ideas
 

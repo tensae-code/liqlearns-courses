@@ -9,7 +9,11 @@ Malaysia's Form 1 book names the **geohazard phenomena**: **landslides, sinkhole
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38654 — four geohazards in one frame]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38655 — geohazards two sources earth and]
 
 ## Sub lesson 2 — Science and technology for facing geohazards
 

@@ -11,7 +11,11 @@ The book's frame is its own order: the reading stands among the book's later cha
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38774 — the tools astronauts use]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 38775 — tools make the astronaut's work possible]
 
 ## The key ideas
 

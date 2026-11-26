@@ -9,7 +9,11 @@ An **artificial satellite** is a machine people have made and placed in **orbit*
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38619 — an artificial satellite a machine in]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38620 — orbiting means falling around the earth]
 
 ## Sub lesson 2 — What artificial satellites are used for
 
