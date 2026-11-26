@@ -266,11 +266,15 @@ Zhangir's 600 warriors ambush a Dzungar army in a mountain gorge
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63966 — 600 warriors in the gorge]
+
 ## Sub lesson 34 — 6.6 Why did A. I. Levshin call Tauke Khan 'the Lycurgus of the steppe'?
 
 the Zheti Zhargy code makes Tauke the steppe's lawgiver
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63967 — the lycurgus of the steppe]
 
 ## Say it to your companion
 

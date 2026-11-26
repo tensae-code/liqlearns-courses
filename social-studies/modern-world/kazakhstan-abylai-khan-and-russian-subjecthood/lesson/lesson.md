@@ -10,11 +10,15 @@ embassies and oaths draw the khanate toward the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63975 — embassies draw it toward empire]
+
 ## Sub lesson 2 — §9 Causes and consequences of Abulkhair's acceptance of Russian subjecthood
 
 the Junior Zhuz khan's 1730 oath opens the door to colonisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63976 — the 1730 oath]
 
 ## Sub lesson 3 — §10 The Russian Empire's policy in Kazakhstan in the 1730s–50s
 
@@ -22,11 +26,15 @@ fortress lines and trade posts tighten the empire's grip
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63977 — fortress lines tighten]
+
 ## Sub lesson 4 — §11 The internal political situation worsens in the 1740s
 
 succession quarrels divide the khanate as pressure grows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63978 — succession quarrels divide]
 
 ## Sub lesson 5 — §12 Abylai Khan emerges as a strong political figure
 
@@ -34,11 +42,15 @@ the young sultan's diplomacy and warcraft raise him above rivals
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63979 — a strong figure emerges]
+
 ## Sub lesson 6 — §13 Abylai Khan and the strengthening of the united Kazakh Khanate
 
 Abylai gathers all three zhuzes under one authority
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63980 — all three zhuzes gathered]
 
 ## Sub lesson 7 — §14 Abylai Khan's internal and foreign policy
 
@@ -46,11 +58,15 @@ Abylai balances Russia, China and the steppe to keep independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63981 — balancing russia china steppe]
+
 ## Sub lesson 8 — §§7–8 Kazakh-Russian relations at the start of the 18th century
 
 first embassies test the empire's intentions
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63982 — first embassies test intentions]
 
 ## Sub lesson 9 — §§9–10 The Kazakh Khanate's joining of Russia begins
 
@@ -58,11 +74,15 @@ Abulkhair's oath and the fortress lines follow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63983 — the oath and the fortresses]
+
 ## Sub lesson 10 — §§11–12 Abylai Khan's internal and foreign policy
 
 Abylai holds the zhuzes together between two empires
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63984 — between two empires]
 
 ## Say it to your companion
 
