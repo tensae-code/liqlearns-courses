@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: Shah Mahmud Hotak is c
 Shah Mahmud Hotak is crowned in Iran itself as the Abdalis raise their own state in Herat, and the Afghan Hotak state in Iran ends when Nader Shah rises
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63627 — crowned in iran ended by nader]
 ## Sub lesson 2 — Lesson 18: The formation of the Hotak state in Iran
 
 the Afghan state is formally crowned in Iran itself under Shah Mahmud
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63628 — formally crowned in iran]
 ## Sub lesson 3 — Lesson 19: Economy and culture in the Hotak period
 
 the short-lived Afghan empire in Iran is read for its economy and culture as well as its wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63629 — more than its wars]
 
 ## Say it to your companion
 

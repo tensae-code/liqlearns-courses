@@ -26,11 +26,15 @@ Honduras's reform yields harmonised codes, secular education, trained teachers, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63606 — schools and libraries]
+
 ## Sub lesson 4 — Soto and Rosa build the modern state
 
 from Isla del Tigre in 1876, Marco Aurelio Soto and Ramón Rosa decreed free, secular, compulsory primary education, separated church and state and founded the national archive — but concessions of free land, timber and tax exemptions handed the economy to foreign capital and the enclave
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63607 — a state built an economy handed over]
 
 ## Say it to your companion
 

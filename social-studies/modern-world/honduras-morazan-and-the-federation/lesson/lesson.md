@@ -10,17 +10,23 @@ Morazán, born in Tegucigalpa in 1792, wins the five-hour Battle of La Trinidad 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63608 — shot on independence day]
+
 ## Sub lesson 2 — Lección 26: anexión, Federación y Estado
 
 fearing invasion, the provinces annex to Iturbide's Mexico; on 1 July 1823 they declare absolute independence and form the Central American Federation under Arce, liberals against conservatives; in 1838 the Federation dissolves and Honduras becomes a State with its first constitution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63609 — annexed independent dissolved]
+
 ## Sub lesson 3 — the Federal Republic 1825–1839
 
 the five provinces united with free press and curbed church power, but fiscal deficit, regionalism, church boycott and Guatemala's rivalry killed it; Morazán, proclaimed liberator of Costa Rica, was shot in San José on 15 September 1842, and thirty years of conservative reaction and caudillismo followed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63610 — what killed the federation]
 
 ## Say it to your companion
 

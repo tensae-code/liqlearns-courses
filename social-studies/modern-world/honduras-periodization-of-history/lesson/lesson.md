@@ -10,6 +10,8 @@ two world schemes (traditional ages vs materialist modes of production) frame Mu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63625 — dividing the past]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: how Honduran historians divide the national past — two world schemes (traditional ages vs materialist modes of production) frame Muñoz Lara's Honduras: Prehispanic (20,000 BCE–1492), Colonial (1502–1821), Contemporary (1821–today), with rival schemes by Mejía, Quiñónez, Becerra, Euraque and Argueta compared. Then let your companion ask you one hard question about it — answer from the lesson.

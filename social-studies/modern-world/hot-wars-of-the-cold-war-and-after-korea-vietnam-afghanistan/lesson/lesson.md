@@ -10,6 +10,8 @@ in Vietnam America intervenes massively from 1965 to hold the South and loses �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63626 — two superpower bleedings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the hot wars of the Cold War — in Vietnam America intervenes massively from 1965 to hold the South and loses — Saigon falls and the country unites under the communists; in Afghanistan the USSR bleeds for a decade against mujahideen armed by its enemies and withdraws in 1989 — its own Vietnam. Then let your companion ask you one hard question about it — answer from the lesson.
