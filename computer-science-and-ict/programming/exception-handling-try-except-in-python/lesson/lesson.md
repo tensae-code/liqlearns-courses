@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Advanced Python Concepts: §2.9.
 
 In your mind's eye: advanced Python Concepts. §2.9.1 Exception Handling.
 
+[Picture 47086 — advanced Python Concepts. §2.9.1 Exception Handling]
+
 ## Sub lesson 2 — Doing it — Exception Handling Try Except in Python in practice
 
 **Doing it — Exception Handling Try Except in Python in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Exception Handling Try Except in Python in practice.
+
+[Picture 47087 — doing it — Exception Handling Try Except in Python in practice]
 
 ## Say it to your companion
 

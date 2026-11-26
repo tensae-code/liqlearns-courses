@@ -10,11 +10,15 @@ An **expression** is a written working-out: values and variables joined by opera
 
 In your mind's eye: expressions and ReadNumber — values in, values worked.
 
+[Picture 47092 — expressions and ReadNumber — values in, values worked]
+
 ## Sub lesson 2 — Operators and precedence — the order of working out
 
 Small Basic's **arithmetic operators** are the school set: **+ − * /** and the remainder and powers met through the Math object. Joined in one expression they are **not** worked left to right by habit but by **operator precedence**: multiplication and division before addition and subtraction, and **parentheses** above all — the bracketed part is worked first, always. Precedence is the lesson's warning label: `2 + 3 * 4` is 14, not 20, and the programmer who needs 20 must write the brackets and say so.
 
 In your mind's eye: operators and precedence — the order of working out.
+
+[Picture 47093 — operators and precedence — the order of working out]
 
 ## Say it to your companion
 

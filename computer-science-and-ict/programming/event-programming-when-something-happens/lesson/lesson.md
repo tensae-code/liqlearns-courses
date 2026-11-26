@@ -10,11 +10,15 @@ A **sequential program** runs its instructions top to bottom, once, in order —
 
 In your mind's eye: sequential against event-driven.
 
+[Picture 47082 — sequential against event-driven]
+
 ## Sub lesson 2 — Events in VPL, Scratch and beyond
 
 Every environment of the course speaks events in its own accent: **VPL** pairs an event card with action cards; **Scratch** crowns scripts with event blocks (green flag, key, click, sensor); interfaces everywhere wait for clicks and keys. The Grade 7 advanced remark pauses to name the **types of programming** side by side — sequential, event-driven, and their mixtures — because choosing the kind is a design act: tasks with a fixed story want sequence; tasks in a surprising world want events; most real programs, like Thymio's missions, marry the two.
 
 In your mind's eye: events in VPL, Scratch and beyond.
+
+[Picture 47083 — events in VPL, Scratch and beyond]
 
 ## Say it to your companion
 

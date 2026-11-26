@@ -10,11 +10,15 @@ The summaries name three advances on the course's methods. **Backtracking** perf
 
 In your mind's eye: three techniques — backtracking, divide and conquer, Newton.
 
+[Picture 47094 — three techniques — backtracking, divide and conquer, Newton]
+
 ## Sub lesson 2 — Two completions — trapezoids, pointers — and the CTICE doorway
 
 The last summaries complete two school topics. The **trapezoid method** completes numerical integration: rectangles promoted to trapezoids, the rectangle chapter's average made a method in its own right, with its finer error pace. **Dynamic structures and pointers** complete the data types: the electives' lists and run-time memory, named here as the road into data structures proper. The chapter then does its designed act: it **stops**, and points — the full texts of all five topics are **downloaded from the CTICE site**, so the book ends by teaching its reader to continue without it.
 
 In your mind's eye: two completions — trapezoids, pointers. And the CTICE doorway.
+
+[Picture 47095 — two completions — trapezoids, pointers. And the CTICE doorway]
 
 ## Say it to your companion
 

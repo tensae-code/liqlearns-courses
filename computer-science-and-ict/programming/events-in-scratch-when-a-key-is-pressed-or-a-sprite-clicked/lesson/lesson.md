@@ -10,11 +10,15 @@ An **event block** sits at the top of a script and **starts it when its event ha
 
 In your mind's eye: event blocks start scripts.
 
+[Picture 47084 — event blocks start scripts]
+
 ## Sub lesson 2 — Driving a sprite with the keyboard and a click
 
 Grade 6 builds the driving: **when a key is pressed** — **arrows, letters, numbers** — a script runs, and **when the sprite is clicked** another runs, so the sprite is **driven with the keyboard** and answered with the mouse. Each key gets its own small script, each waiting for its own event.
 
 In your mind's eye: driving a sprite with the keyboard and a click.
+
+[Picture 47085 — driving a sprite with the keyboard and a click]
 
 ## Say it to your companion
 

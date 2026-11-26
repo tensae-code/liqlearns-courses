@@ -10,11 +10,15 @@ A program lies written on the board. Nobody presses run. Instead, the class will
 
 In your mind's eye: one instruction, one state.
 
+[Picture 47088 — one instruction, one state]
+
 ## Sub lesson 2 — Why execute by hand first
 
 Hand execution is the programmer's microscope: it shows **what the program actually says**, as opposed to what its writer meant — the gap where bugs live. A class that has executed together can predict a program's behaviour before running it, and when the machine later surprises them, they can replay the execution to find the step where paper and machine part ways. Prediction first, machine second: that order is the séance's whole gift.
 
 In your mind's eye: why execute by hand first.
+
+[Picture 47089 — why execute by hand first]
 
 ## Say it to your companion
 

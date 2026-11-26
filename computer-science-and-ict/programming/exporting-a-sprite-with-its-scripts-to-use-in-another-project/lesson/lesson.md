@@ -10,11 +10,15 @@ The **right-click menu** on a sprite offers the saving: the sprite is **saved to
 
 In your mind's eye: save the sprite to a file.
 
+[Picture 47090 — save the sprite to a file]
+
 ## Sub lesson 2 — Load it into another program
 
 In the other project the file is **loaded**, and the sprite arrives whole — looks, properties and programming together. Work built once can be **used in another project** exactly as built: the lesson’s rule is build well once, carry it anywhere.
 
 In your mind's eye: load it into another program.
+
+[Picture 47091 — load it into another program]
 
 ## Say it to your companion
 

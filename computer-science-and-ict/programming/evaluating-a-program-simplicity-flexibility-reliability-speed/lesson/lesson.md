@@ -10,11 +10,15 @@ A program is **simple (απλότητα)** when its solution is no more tangled 
 
 In your mind's eye: simplicity and flexibility — how it reads, how it bends.
 
+[Picture 47078 — simplicity and flexibility — how it reads, how it bends]
+
 ## Sub lesson 2 — Reliability and speed — how it stands, how it runs
 
 A program is **reliable (αξιοπιστία)** when it gives the **right answer under the conditions it will truly meet** — awkward inputs, honest mistakes by users, long runs — not only under the demonstration's kind ones. It has **speed (ταχύτητα)** when its work finishes in the time its job allows, a criterion judged by its algorithm's growth (the performance chapter) and not by hope. The chapter's verdict form is the four together: a program passing all four is finished; one failing any is a draft with a name to fix.
 
 In your mind's eye: reliability and speed — how it stands, how it runs.
+
+[Picture 47079 — reliability and speed — how it stands, how it runs]
 
 ## Say it to your companion
 
