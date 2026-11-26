@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Programming nested conditions** — cov
 
 In your mind's eye: programming nested conditions.
 
+[Picture 47323 — programming nested conditions]
+
 ## Sub lesson 2 — Programming compound conditions
 
 This part of Kazakhstan's book teaches **Programming compound conditions** — covering: 4.6: Programming compound conditions. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: programming compound conditions.
+
+[Picture 47324 — programming compound conditions]
 
 ## Say it to your companion
 

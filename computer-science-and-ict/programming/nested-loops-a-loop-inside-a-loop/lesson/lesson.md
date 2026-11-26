@@ -10,11 +10,15 @@ A **nested loop** places one loop **inside** another's body. The law that govern
 
 In your mind's eye: the nesting — the inner loop runs whole, every outer turn.
 
+[Picture 47327 — the nesting — the inner loop runs whole, every outer turn]
+
 ## Sub lesson 2 — Reading nested loops — tables, grids and patterns
 
 Nested loops are read by **tracing both counters**: write the outer's turn, then the inner's whole run beneath it, turn by turn, until the shape is visible — the multiplication table is the classic trace, every product the meeting of one outer number and one inner. Their work is the world's repeated rectangles: timetables, seating plans, printed patterns of stars in rows — wherever a job is 'for each row, for each thing in the row', a nested loop is already the answer, waiting to be recognised.
 
 In your mind's eye: reading nested loops — tables, grids and patterns.
+
+[Picture 47328 — reading nested loops — tables, grids and patterns]
 
 ## Say it to your companion
 

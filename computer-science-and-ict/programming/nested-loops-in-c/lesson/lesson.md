@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Nested Loops** — covering: Uni
 
 In your mind's eye: nested Loops.
 
+[Picture 47333 — nested Loops]
+
 ## Sub lesson 2 — Doing it — Nested Loops in C in practice
 
 **Doing it — Nested Loops in C in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Nested Loops in C in practice.
+
+[Picture 47334 — doing it — Nested Loops in C in practice]
 
 ## Say it to your companion
 

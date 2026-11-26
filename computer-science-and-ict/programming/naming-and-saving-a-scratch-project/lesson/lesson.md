@@ -10,11 +10,15 @@ To **save** a Scratch project is to write it to a file on the computer. Projects
 
 In your mind's eye: saving the project — in its own folder.
 
+[Picture 47319 — saving the project — in its own folder]
+
 ## Sub lesson 2 — A name that describes the project
 
 The saved project takes a **name that describes it** — the guide's examples are **"Space"** and **"Football"**: a name that says what the project is, so future-you can pick it from the folder without opening everything. A describing name plus its own folder is the whole system: find it fast, open it, continue it.
 
 In your mind's eye: a name that describes the project.
+
+[Picture 47320 — a name that describes the project]
 
 ## Say it to your companion
 

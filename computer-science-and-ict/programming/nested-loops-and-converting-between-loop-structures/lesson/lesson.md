@@ -10,11 +10,15 @@ A **nested loop (εμφωλευμένος βρόχος)** is a loop inside a loo
 
 In your mind's eye: nested loops and the min/max patterns.
 
+[Picture 47331 — nested loops and the min/max patterns]
+
 ## Sub lesson 2 — Converting between loop structures
 
 ΓΛΩΣΣΑ's three structures — **ΟΣΟ…ΕΠΑΝΑΛΑΒΕ** (while), **ΑΡΧΗ_ΕΠΑΝΑΛΗΨΗΣ…ΜΕΧΡΙΣ_ΟΤΟΥ** (repeat-until) and **ΓΙΑ…ΑΠΟ…ΜΕΧΡΙ** (for) — can each be **converted** into the others: a ΓΙΑ becomes an ΟΣΟ with its counter handled openly; an ΟΣΟ becomes a ΜΕΧΡΙΣ_ΟΤΟΥ only with care, because ΜΕΧΡΙΣ_ΟΤΟΥ **always runs at least once** while ΟΣΟ may run **never**. The guide drills conversions because exams ask them directly — and because choosing the structure that *fits* a job, then proving the translation equal, is what mastery of repetition means.
 
 In your mind's eye: converting between loop structures.
+
+[Picture 47332 — converting between loop structures]
 
 ## Say it to your companion
 

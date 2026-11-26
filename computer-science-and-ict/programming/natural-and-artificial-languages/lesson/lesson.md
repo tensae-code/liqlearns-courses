@@ -10,11 +10,15 @@ A **natural language** (Greek, English, every mother tongue) **grew** with its p
 
 In your mind's eye: natural languages — grown, rich, ambiguous.
 
+[Picture 47321 — natural languages — grown, rich, ambiguous]
+
 ## Sub lesson 2 — Artificial languages — built, small, exact
 
 An **artificial language** is **built on purpose** with a **small fixed vocabulary and exact rules**: a programming language (and ΓΛΩΣΣΑ among them) is one, and so are mathematics' notation and the sign systems of science. Every sentence of an artificial language means **one thing**, checkable by its rules alone — which is exactly the property that lets a machine translate and execute it without judgement. The chapter's balance: people will keep *thinking* in natural languages; artificial languages are the narrow, honest bridge their thoughts cross to reach the machine.
 
 In your mind's eye: artificial languages — built, small, exact.
+
+[Picture 47322 — artificial languages — built, small, exact]
 
 ## Say it to your companion
 

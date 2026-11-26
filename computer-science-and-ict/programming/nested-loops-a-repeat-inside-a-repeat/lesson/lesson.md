@@ -10,11 +10,15 @@ In Grade 5’s **Building the house**, plans come in easy, medium and hard — a
 
 In your mind's eye: a repeat inside a repeat — building the house.
 
+[Picture 47329 — a repeat inside a repeat — building the house]
+
 ## Sub lesson 2 — Nested repeats draw ornaments
 
 Grades 8 and 9 draw **ornaments** the same way: a unit shape is drawn by the inner repeat, and the outer repeat turns and redraws the unit until the ornament closes — with the **colour changing inside the loop** in Grade 8, and in Grade 9 the **number of sides asked from the user** and stored as the answer. Each ornament file is saved under its own name.
 
 In your mind's eye: nested repeats draw ornaments.
+
+[Picture 47330 — nested repeats draw ornaments]
 
 ## Say it to your companion
 

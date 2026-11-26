@@ -10,11 +10,15 @@ A **nested loop** is a **loop placed inside another loop**: the **inner loop** r
 
 In your mind's eye: the nested loop statement.
 
+[Picture 47335 — the nested loop statement]
+
 ## Sub lesson 2 — Nested loops on arrays
 
 On a two-dimensional array, the **outer loop takes the rows** and the **inner loop takes the columns**: for each row, the inner loop visits every column in that row before the outer loop moves on. Counting the visits — rows times columns — tells you exactly how many times the innermost work is done.
 
 In your mind's eye: nested loops on arrays.
+
+[Picture 47336 — nested loops on arrays]
 
 ## Say it to your companion
 
