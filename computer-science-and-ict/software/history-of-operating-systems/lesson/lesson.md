@@ -10,11 +10,15 @@ The first computers had **no operating system**: operators loaded programs by ha
 
 In your mind's eye: from hand-loading to Unix — the first generations.
 
+[Picture 45348 — from hand-loading to Unix — the first generations]
+
 ## Sub lesson 2 — The graphical and mobile age — systems for everyone
 
 Personal computers brought systems for one person: **MS-DOS** (1981, typed commands), then the **graphical** systems — Macintosh (1984) and Windows — where windows, icons and a mouse replaced command lines, and the OS became something a family could use. **Linux** (1991) proved a system could be built openly by a world of volunteers. Phones then shrank the system again: **iOS (2007) and Android (2008)** rebuilt it around touch, apps and sensors. Each generation's system answers its hardware's question: scarce machine time, then one person's desk, then everyone's pocket.
 
 In your mind's eye: the graphical and mobile age — systems for everyone.
+
+[Picture 45349 — the graphical and mobile age — systems for everyone]
 
 ## Say it to your companion
 

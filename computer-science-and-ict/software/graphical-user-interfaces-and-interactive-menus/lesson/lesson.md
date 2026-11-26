@@ -10,11 +10,15 @@ A **GUI — graphical user interface** — lets the user work by pointing at pic
 
 In your mind's eye: gUI objects — icons, cursors, buttons.
 
+[Picture 45346 — gUI objects — icons, cursors, buttons]
+
 ## Sub lesson 2 — Creating interactive menus
 
 A **menu** offers **a list of choices**, and it is **interactive — the system responds to the user**: choosing a menu item runs its action. Menus should be clear and easy to follow. The guide's GUI objects are icons, cursors and buttons, and an interactive menu is built from them.
 
 In your mind's eye: creating interactive menus.
+
+[Picture 45347 — creating interactive menus]
 
 ## Say it to your companion
 

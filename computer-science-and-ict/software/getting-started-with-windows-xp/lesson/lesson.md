@@ -10,11 +10,15 @@ Press the power button and wait: before any program appears, Windows itself wake
 
 In your mind's eye: a Windows XP desktop — icons down the left side, the taskbar across the bottom with the Start button and clock.
 
+[Picture 45344 — a Windows XP desktop — icons down the left side, the taskbar across the bottom with the Start button and clock]
+
 ## Sub lesson 2 — The desktop — your desk on the screen
 
 What Windows shows you first is the **desktop**: a working surface like a real desk, spread across the screen. On it sit **icons** — small pictures that stand for programs, files and folders, opened with a double-click. Across the bottom runs the **taskbar**, which shows the Start button, the programs you have open, and the clock. Everything you do in Windows begins from this desk: open a program from an icon or the Start menu, work in its window, and return to the desktop when you close it.
 
 In your mind's eye: the parts of the desktop labelled — icon, taskbar, Start button, clock.
+
+[Picture 45345 — the parts of the desktop labelled — icon, taskbar, Start button, clock]
 
 ## Say it to your companion
 

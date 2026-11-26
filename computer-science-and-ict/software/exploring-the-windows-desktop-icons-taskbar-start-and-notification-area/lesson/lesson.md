@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Exploring Microsoft Windows** �
 
 In your mind's eye: exploring Microsoft Windows.
 
+[Picture 45338 — exploring Microsoft Windows]
+
 ## Sub lesson 2 — Doing it — Exploring the Windows Desktop Icons Taskbar Start and Notification Area in practice
 
 **Doing it — Exploring the Windows Desktop Icons Taskbar Start and Notification Area in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Exploring the Windows Desktop Icons Taskbar Start and Notification Area in practice.
+
+[Picture 45339 — doing it — Exploring the Windows Desktop Icons Taskbar Start and Notification Area in practice]
 
 ## Say it to your companion
 

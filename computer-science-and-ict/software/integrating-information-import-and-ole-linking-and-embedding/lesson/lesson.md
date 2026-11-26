@@ -10,11 +10,15 @@ Merging information into a work is done three ways. **Importing** brings the oth
 
 In your mind's eye: import, link, embed — three ways to merge.
 
+[Picture 45352 — import, link, embed — three ways to merge]
+
 ## Sub lesson 2 — The worked example — Bayankhongor in 24 slides
 
 The book's worked integration is a production: a **24-slide presentation on the sights of Bayankhongor aimag**, built by merging — texts, pictures, tables and media imported, linked and embedded from the programs that made them, into one presentable whole; the chapter's team project, **'My homeland tour'**, repeats the production for each team's own ground. Mongolia's judgement closes the topic: integration is chosen per part — link what must stay true, embed what must travel, import what must become native — and the worker who cannot name the three will merge by accident and maintain by sorrow.
 
 In your mind's eye: the worked example — Bayankhongor in 24 slides.
+
+[Picture 45353 — the worked example — Bayankhongor in 24 slides]
 
 ## Say it to your companion
 

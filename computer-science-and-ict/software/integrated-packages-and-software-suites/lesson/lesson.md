@@ -10,11 +10,15 @@ An **integrated package** is a **single program** that combines the common jobs 
 
 In your mind's eye: the integrated package — one program, several jobs.
 
+[Picture 45350 — the integrated package — one program, several jobs]
+
 ## Sub lesson 2 — The software suite — a family of full programs
 
 A **software suite** is the opposite shape: a **set of separate, full programs** — a real word processor, a real spreadsheet, a database program and more — **sold and installed together** as one product, sharing a look, a way of working and easy movement of work between them. Microsoft Office is the book's standing example class: the programs are independent and complete; the suite is the family they are gathered into. Fiji's test for telling the shapes apart: count the programs — one program wearing several hats is a package; several full programs in one box is a suite.
 
 In your mind's eye: the software suite — a family of full programs.
+
+[Picture 45351 — the software suite — a family of full programs]
 
 ## Say it to your companion
 

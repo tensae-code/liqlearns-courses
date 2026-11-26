@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Device settings** — covering: Device
 
 In your mind's eye: device settings.
 
+[Picture 45334 — device settings]
+
 ## Sub lesson 2 — Device settings
 
 This part of South Sudan's book teaches **Device settings** — covering: Device settings. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Device settings. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — device settings is part of that chain..
 
 In your mind's eye: device settings.
+
+[Picture 45335 — device settings]
 
 ## Say it to your companion
 

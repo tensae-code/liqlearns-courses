@@ -10,11 +10,15 @@ The licence lesson names licence types; this lesson meets the movement behind on
 
 In your mind's eye: free software and the GPL — freedom with a guard.
 
+[Picture 45342 — free software and the GPL — freedom with a guard]
+
 ## Sub lesson 2 — The free programs — and Soyombo, Mongolia's own
 
 The world the licence built is standing software, not theory: **Linux**, the free operating system; **OpenOffice**, the free office suite — in Mongolia, **Mongolian OpenOffice**; **GIMP** for images, **Inkscape** for drawing, **Blender** for 3D. Mongolia's own flag in this world is **Soyombo Linux** — a Mongolian Linux distribution, named for the Soyombo symbol, made so the free system speaks Mongolia's language and serves Mongolia's users. The lesson's pride is the point: open source is not only received by Mongolia; Mongolia builds in it.
 
 In your mind's eye: the free programs — and Soyombo, Mongolia's own.
+
+[Picture 45343 — the free programs — and Soyombo, Mongolia's own]
 
 ## Say it to your companion
 

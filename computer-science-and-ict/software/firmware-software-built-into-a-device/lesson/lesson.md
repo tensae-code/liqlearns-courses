@@ -10,11 +10,15 @@ Some software never gets installed, opened or closed — it was inside the devic
 
 In your mind's eye: what firmware is — software that lives in the device.
 
+[Picture 45340 — what firmware is — software that lives in the device]
+
 ## Sub lesson 2 — Firmware at work — starting and controlling
 
 Firmware works at the moments other software cannot: it **starts the machine** — checking the hardware and handing over to the operating system — and it **controls a device's built-in job** for the device's whole life. It is rarely seen and rarely changed; when it is updated, the update is done carefully, because a device whose firmware is damaged may not start at all.
 
 In your mind's eye: firmware at work — starting and controlling.
+
+[Picture 45341 — firmware at work — starting and controlling]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Before Windows filled the screen with pictures, one system ran the personal comp
 
 In your mind's eye: what DOS is.
 
+[Picture 45336 — what DOS is]
+
 ## Sub lesson 2 — Why DOS is still taught
 
 The guide teaches DOS beside Windows because DOS is the **root system of the personal computer**: the command prompt inside later Windows systems is DOS's descendant, its file and disk ideas (drives named by letters, files with names and extensions, directories as a tree) are the ideas Windows inherited, and its discipline — exact names, exact spelling, the machine doing exactly what was typed and nothing it was not — is the discipline all command work still demands. DOS and Unix are taught alongside Windows in the senior years' background for the same reason: the old systems explain the new one's shape.
 
 In your mind's eye: why DOS is still taught.
+
+[Picture 45337 — why DOS is still taught]
 
 ## Say it to your companion
 
