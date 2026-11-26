@@ -10,11 +10,15 @@ The calculator’s face is **drawn digit and operation button sprites**. Pressin
 
 In your mind's eye: buttons and the joined number.
 
+[Picture 46791 — buttons and the joined number]
+
 ## Sub lesson 2 — Equals — the if-chain and the big display
 
 Equals is a decision: it **runs an if-chain** on the operation variable — if +, add; if −, subtract; and so on — and **shows the result in a large stage display**. The projects extend the machine: **chaining operations, keyboard input, square root and remainder**.
 
 In your mind's eye: equals — the if-chain and the big display.
+
+[Picture 46792 — equals — the if-chain and the big display]
 
 ## Say it to your companion
 

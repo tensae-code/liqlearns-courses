@@ -10,11 +10,15 @@ The **number-conversion project** takes a number **in** one system and returns i
 
 In your mind's eye: the project — a converter with a job.
 
+[Picture 46797 — the project — a converter with a job]
+
 ## Sub lesson 2 — Converting by program — the algorithms inside
 
 Inside, the converter runs the **same algorithms** the pupil learned on paper: decimal to another base by **repeated division** with remainders read back; another base to decimal by **place values** multiplied and added; binary and hexadecimal trading by **groups of four bits**. The program's value over paper is speed and tirelessness; the paper's value over the program is **checking** — Egypt's project is tested against hand-worked conversions, because a converter that cannot be checked is a guess with a form around it. Finished, the project is rebuilt in PHP — the course's standing pattern — and the pair together close Unit One: the systems learned, then built, twice.
 
 In your mind's eye: converting by program — the algorithms inside.
+
+[Picture 46798 — converting by program — the algorithms inside]
 
 ## Say it to your companion
 

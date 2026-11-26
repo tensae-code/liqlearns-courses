@@ -10,11 +10,15 @@ A **quiz app** needs four working parts: a set of **questions** with their corre
 
 In your mind's eye: building the quiz — questions, checking, score.
 
+[Picture 46801 — building the quiz — questions, checking, score]
+
 ## Sub lesson 2 — Reviewing the app — the project's second half
 
 Section 13-8 is not a celebration but a **review**: the class runs its own app as its harshest user. Does a wrong answer explain itself? Can the score be tricked — skipped questions, double answers, empty sends? Is every question fair, unambiguous, and actually about what it claims to test? Each fault found is fixed and the fix re-tested, because the review's rule is the course's rule for all AI-assisted work: **you own what you submit**, so the app is not done when it runs — it is done when its makers can explain every part and defend every question. The chapter then carries exactly this build-review rhythm into the larger block-breaker game.
 
 In your mind's eye: reviewing the app — the project's second half.
+
+[Picture 46802 — reviewing the app — the project's second half]
 
 ## Say it to your companion
 

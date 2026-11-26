@@ -10,11 +10,15 @@ Some work a language has already written for you; some you must write and name y
 
 In your mind's eye: built-in functions — the ready-made toolbox.
 
+[Picture 46807 — built-in functions — the ready-made toolbox]
+
 ## Sub lesson 2 — User-defined (functional) functions — functions you write
 
 A **functional (user-defined) function** is a function the **programmer writes**: a named block that takes values in, works, and **returns one value** to its caller — the function counterpart of the chapter's **subroutines**, which do a job without returning a value. Write a function when the same working-out is needed in many places, or when a calculation deserves a name of its own. The chapter's teaching order is the judgement: use a built-in when one exists; write your own when none does; and know, for every function you call, which family it came from.
 
 In your mind's eye: user-defined (functional) functions — functions you write.
+
+[Picture 46808 — user-defined (functional) functions — functions you write]
 
 ## Say it to your companion
 

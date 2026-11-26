@@ -10,11 +10,15 @@ BASIC carries a toolbox of **built-in (reserved) functions**: named pieces of wo
 
 In your mind's eye: built-in functions — work the language does for you.
 
+[Picture 46809 — built-in functions — work the language does for you]
+
 ## Sub lesson 2 — String functions — LEFT$ and LEN
 
 The second family works on **strings** — text held in string variables. **LEN** counts a string's characters: `LEN("KHARTOUM")` is 8. **LEFT$** cuts from the left: `LEFT$("KHARTOUM", 4)` is "KHAR" — the first four characters. Their partners cut from the right and the middle. A built-in function is recognised the same way in both families: a reserved name, a value in brackets, a single result out. The next lesson turns the idea around — functions the programmer defines for herself.
 
 In your mind's eye: string functions — LEFT$ and LEN.
+
+[Picture 46810 — string functions — LEFT$ and LEN]
 
 ## Say it to your companion
 

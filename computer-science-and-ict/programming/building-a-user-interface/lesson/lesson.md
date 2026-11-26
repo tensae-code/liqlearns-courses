@@ -10,11 +10,15 @@ A **graphical interface** is built from **controls** — the window's working fu
 
 In your mind's eye: the Controls object — buttons and boxes.
 
+[Picture 46805 — the Controls object — buttons and boxes]
+
 ## Sub lesson 2 — Events and handlers — the program that waits
 
 A windowed program runs on **events**: the user's acts — a click, a key — arrive in no promised order, and each event is met by its **event handler**, the subprogram written for that event alone. The book's crown builds the whole doctrine into one artefact: a **quadratic-equation solver as a windowed program** — coefficients in text boxes, the solving behind a button, the answer appearing in the window. Mongolia's contrast is the chapter's lesson: the console program is a road; the windowed program is a room with staff — and designing the interface means deciding what the room offers and training the staff, handler by handler.
 
 In your mind's eye: events and handlers — the program that waits.
+
+[Picture 46806 — events and handlers — the program that waits]
 
 ## Say it to your companion
 

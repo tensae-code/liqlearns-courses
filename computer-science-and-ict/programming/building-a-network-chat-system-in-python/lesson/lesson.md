@@ -10,11 +10,15 @@ A chat system has the same two kinds of program as email, arranged differently. 
 
 In your mind's eye: five computers in a ring with one server in the centre, arrows running from each computer only to the centre and back.
 
+[Picture 46793 — five computers in a ring with one server in the centre, arrows running from each computer only to the centre and back]
+
 ## Sub lesson 2 — Building it with Python and WebSocket
 
 Ordinary web requests are one question, one answer, then silence — too slow a rhythm for chat. **WebSocket** is a protocol that opens one connection and keeps it open, so both sides can send at any moment: that is what live chat needs. In Python, a WebSocket library gives the server its shape: accept each client's connection, keep the list of connected clients, and whenever a message arrives from one, loop through the list and send it to all the others. The client program is smaller: connect, then do two jobs at once — listen for arriving messages and show them, and take typed lines and send them. The book's practical runs server and clients on the classroom network until the room is chatting through code the students wrote.
 
 In your mind's eye: three chat windows on three screens. A line typed in the first window appearing a moment later in the other two.
+
+[Picture 46794 — three chat windows on three screens. A line typed in the first window appearing a moment later in the other two]
 
 ## Say it to your companion
 

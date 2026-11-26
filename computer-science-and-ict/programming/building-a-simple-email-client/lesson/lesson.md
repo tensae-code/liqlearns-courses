@@ -10,11 +10,15 @@ Email does not fly directly from your computer to your friend's. When you send, 
 
 In your mind's eye: a letter's journey drawn as four stops — your computer, a sending server, the receiver's server with a mailbox, your friend's computer. With the labels SMTP on the way out and POP3/IMAP on the way in.
 
+[Picture 46803 — a letter's journey drawn as four stops — your computer, a sending server, the receiver's server with a mailbox, your friend's computer. With the labels SMTP on the way out and POP3/IMAP on the way in]
+
 ## Sub lesson 2 — Building the client in Python
 
 Python's standard library carries the tools. The **`smtplib`** module speaks SMTP: the program connects to the sending server, logs in with the account name and password, builds the message — sender, receiver, subject and body — as one text (the `email` module helps format it), and calls the send method. Receiving uses **`poplib`** for POP3: connect, log in, count the waiting messages, fetch one by its number, and print its text. The book's practical builds exactly this: a small client that first sends a real message, then fetches and shows a real one — the moment the program works, the protocols of the first sub lesson stop being theory.
 
 In your mind's eye: a short Python program running. A 'message sent' line appearing, then an inbox count, then the text of a fetched message printing.
+
+[Picture 46804 — a short Python program running. A 'message sent' line appearing, then an inbox count, then the text of a fetched message printing]
 
 ## Say it to your companion
 
