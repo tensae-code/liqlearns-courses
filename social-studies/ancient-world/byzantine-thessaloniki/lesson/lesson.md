@@ -10,11 +10,15 @@ the empire's second city thrives on trade, fairs and learning even as the state 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60392 — the second city blooms]
+
 ## Sub lesson 2 — Unit 32 Thessaloniki flourishes exercises
 
 a source and a map of trading cities show why Thessaloniki bloomed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60393 — a map of trading cities]
 
 ## Say it to your companion
 

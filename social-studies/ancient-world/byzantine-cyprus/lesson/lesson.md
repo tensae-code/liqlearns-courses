@@ -10,6 +10,8 @@ Cyprus guards the sea road to the Holy Land, suffers Arab raids and Richard the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60379 — the island on the sea road]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 37 Byzantine Cyprus — Cyprus guards the sea road to the Holy Land, suffers Arab raids and Richard the Lionheart, and keeps its Byzantine churches and painting. Then let your companion ask you one hard question about it — answer from the lesson.

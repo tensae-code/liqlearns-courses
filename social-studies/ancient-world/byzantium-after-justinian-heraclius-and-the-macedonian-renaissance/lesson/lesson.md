@@ -10,11 +10,15 @@ with Avars at the walls, Heraclius rebuilds the state into soldier-farmer themes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60396 — soldier-farmers and a peasant enthroned]
+
 ## Sub lesson 2 — Theme 2: Byzantium survives and renews itself
 
 Heraclius answers siege and collapse with soldier-farmer themes; the empire tears itself over icons, splits from Rome for good in 1054, flowers again under the Macedonian dynasty — then eats its own strength by granting pronoia lands to magnates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60397 — themes, the split, the flowering]
 
 ## Say it to your companion
 

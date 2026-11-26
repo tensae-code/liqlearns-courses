@@ -10,6 +10,8 @@ short reigns and court factions waste Basil's inheritance as new enemies gather
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60394 — short reigns, leaking gold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The successors of Basil II (1025–1054) — short reigns and court factions waste Basil's inheritance as new enemies gather. Then let your companion ask you one hard question about it — answer from the lesson.

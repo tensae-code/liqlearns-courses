@@ -10,11 +10,15 @@ gold, titles, marriages and ceremony at the palace reception disarm enemies the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60380 — gold and ceremony at the reception]
+
 ## Sub lesson 2 — Unit 38 Diplomacy exercises
 
 class discussion starts from the word "diplomacy" in today's phrases and works back to the palace
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60381 — from today's word to the palace]
 
 ## Say it to your companion
 

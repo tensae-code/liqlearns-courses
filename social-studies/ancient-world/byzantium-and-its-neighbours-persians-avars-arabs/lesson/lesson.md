@@ -10,11 +10,15 @@ Persians, Avars, Slavs, Arabs, Bulgars and Rus ring the empire — every border 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60399 — six peoples ring the empire]
+
 ## Sub lesson 2 — Unit 18 The Persians and Avars ally against Byzantium
 
 while Heraclius campaigns in Persia, Avars and Persians meet under Constantinople's walls in 626 — and the city holds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60400 — the siege of 626]
 
 ## Sub lesson 3 — Unit 17 Neighbours exercises
 
@@ -22,11 +26,15 @@ pupils locate every people ringing Byzantium on the student book's map
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60401 — find every people on the map]
+
 ## Sub lesson 4 — Unit 18 Persians and Avars exercises
 
 exercises retell the 626 siege, when two enemies met under the walls
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60402 — retelling the siege]
 
 ## Sub lesson 5 — Revision of Units 17–22 (with the reception of ambassadors)
 

@@ -10,11 +10,15 @@ great estates swallow free villages while towns and trade revive — the two mot
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60387 — great estates swallow a village]
+
 ## Sub lesson 2 — Ch. 3.II.2 The legislation of the Macedonian dynasty and its clash with the "dynatoi"
 
 emperors legislate again and again to stop the powerful buying up the poor soldiers' farms — and keep losing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60388 — laws against the money bag]
 
 ## Sub lesson 3 — Axis 1: Rich and poor in Byzantium
 
@@ -22,11 +26,15 @@ aristocratic households and labouring poor are set side by side in city and coun
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60389 — rich and poor side by side]
+
 ## Sub lesson 4 — Axis 2: The penetes, the dynatoi, the State
 
 emperors legislate to protect poor soldiers' farms from the powerful, lose, legislate again — the folder makes pupils judge who the state really served
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60390 — the state's scales tip]
 
 ## Say it to your companion
 

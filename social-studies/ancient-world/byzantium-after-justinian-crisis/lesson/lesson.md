@@ -10,6 +10,8 @@ plague, empty coffers, Persians and Avars at the gates — the empire Justinian 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60395 — crisis at the gates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Justinian's successors and the crisis of the empire (565–610) — plague, empty coffers, Persians and Avars at the gates — the empire Justinian rebuilt nearly collapses. Then let your companion ask you one hard question about it — answer from the lesson.

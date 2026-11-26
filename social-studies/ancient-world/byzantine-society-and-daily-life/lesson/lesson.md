@@ -10,6 +10,8 @@ Constantinople's court, markets and households — daily life in the thousand-ye
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60386 — court, market and households]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 18: Society in Byzantium and its everyday life — Constantinople's court, markets and households — daily life in the thousand-year empire. Then let your companion ask you one hard question about it — answer from the lesson.

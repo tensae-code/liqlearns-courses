@@ -10,17 +10,23 @@ Photius reads everything, copyists rescue Homer and Plato in new minuscule scrip
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60382 — Photius and the copyists]
+
 ## Sub lesson 2 — Unit 26 Letters and classics exercises
 
 matching copyists and scholars to the ancient books they saved
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60383 — match the scholars to the books]
+
 ## Sub lesson 3 — Ch. 5.2 Byzantine literature
 
 chronicles, hymns, the Digenes epic and satire carry Greek letters through a thousand years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60384 — four kinds of Greek letters]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ a shrunken Byzantium survives between rising Ottomans and the crusading kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60398 — between Ottomans and kingdoms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 8 §5 The Byzantine empire and the kingdoms of Eastern Europe — a shrunken Byzantium survives between rising Ottomans and the crusading kingdoms of Hungary, Poland and the Balkans. Then let your companion ask you one hard question about it — answer from the lesson.
