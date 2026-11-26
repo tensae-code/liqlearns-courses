@@ -10,6 +10,8 @@ Thatcher privatises while Sweden keeps the cradle-to-grave state — two answers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40359 — twoanswers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §19 British neoconservatism and the "Swedish model" of socialism — Thatcher privatises while Sweden keeps the cradle-to-grave state — two answers to the 1970s crisis. Then let your companion ask you one hard question about it — answer from the lesson.

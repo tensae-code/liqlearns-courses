@@ -10,6 +10,8 @@ the seventies open with ideologies retreating, private life advancing (the riflu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40355 — stoppedbelieving]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 12 §1 Crisi delle ideologie, riflusso, terrorismo — the seventies open with ideologies retreating, private life advancing (the riflusso) and terrorism striking the democracies — a decade that begins by disbelieving its predecessors. Then let your companion ask you one hard question about it — answer from the lesson.

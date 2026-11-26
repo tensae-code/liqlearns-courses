@@ -10,6 +10,8 @@ Homesteaders chased free land across the plains, farming where rain was uncertai
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40347 — boomtowns]
+
 ## Sub lesson 2 — Chinese immigrants and Hispanic citizens pushed to the margins
 
 The West's promise was rationed. Chinese immigrants who built its railroads and Hispanic citizens who had lived there before the flag changed were pushed to the margins — taxed, excluded and attacked.

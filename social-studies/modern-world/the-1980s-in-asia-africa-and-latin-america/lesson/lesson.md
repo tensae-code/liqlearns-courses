@@ -10,6 +10,8 @@ dictatorships fall from Manila to Buenos Aires and truth commissions (Public His
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40353 — truthistold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 18 §6 Politics and society in the eighties between Asia, Latin America and Africa — dictatorships fall from Manila to Buenos Aires and truth commissions (Public History) invent a new way to settle accounts with the past — democracy's third wave meets memory's demands. Then let your companion ask you one hard question about it — answer from the lesson.

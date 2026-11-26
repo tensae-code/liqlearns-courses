@@ -10,6 +10,8 @@ postwar USA, Britain, Germany and Italy mould plastic into a new popular furnitu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40351 — mouldednew]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 22: New trends — the explosion of plastics — postwar USA, Britain, Germany and Italy mould plastic into a new popular furniture. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Israel's creation, four wars and an unresolved Palestine question
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40339 — fourwars]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §15 The main trends in the Arab countries' development after the Second World War; Arab-Israeli contradictions and the Palestinian problem — Israel's creation, four wars and an unresolved Palestine question. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ twice in thirty years the great powers drag every continent into total war, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40350 — twiceinthirty]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 §12: the world wars — twice in thirty years the great powers drag every continent into total war, and the second ends with atomic bombs. Then let your companion ask you one hard question about it — answer from the lesson.

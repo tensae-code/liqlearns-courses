@@ -10,6 +10,8 @@ in 1918 the Spanish flu reaches Iceland (Verkefnablað 29: Spænska veikin)
 
 In your mind's eye: reykjavík in 1918, quiet streets in flu time. Say what arrived and how fast it killed.
 
+[Picture 40356 — quietstreets]
+
 ## Sub lesson 2 — Killing in weeks
 
 the flu kills in weeks what war never touched in Iceland (Verkefnablað 29: Spænska veikin)

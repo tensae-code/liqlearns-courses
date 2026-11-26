@@ -10,6 +10,8 @@ Long before 1492 the Americas held many different Native societies — farming p
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40346 — livedinworlds]
+
 ## Sub lesson 2 — A Europe on the brink of change
 
 Across the ocean, Europe stood on the brink of change — its kingdoms, churches and towns were shifting, and its sailors and rulers were beginning to look outward. The Europe that would soon sail west was itself mid-transformation.

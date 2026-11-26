@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 1967 in six days (Mejc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40338 — warforms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 10 §7 Le guerre arabo-israeliane — 1967 in six days (Mejcher's Fare storia piece), 1973 by surprise (Golda Meir's own account), then the Intifada's stones (Kuttab) — war changes form, the conflict does not close. Then let your companion ask you one hard question about it — answer from the lesson.

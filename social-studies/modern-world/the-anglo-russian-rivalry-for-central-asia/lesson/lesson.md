@@ -10,6 +10,8 @@ British agents Stoddart and Conolly die in Bukhara's pit (1842) as London and St
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40342 — greatgame]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §41 The Anglo-Russian rivalry for Central Asia in the first half of the 19th century — British agents Stoddart and Conolly die in Bukhara's pit (1842) as London and St Petersburg play the 'Great Game' over the khanates' heads. Then let your companion ask you one hard question about it — answer from the lesson.

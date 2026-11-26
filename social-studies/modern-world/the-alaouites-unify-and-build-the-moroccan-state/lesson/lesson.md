@@ -10,6 +10,8 @@ The guide follows Moulay Rashid's efforts to unite the country on a map: another
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 40348 — stitches]
+
 ## Sub lesson 2 — Moulay Ismail's kasbahs — military architecture
 
 The building of the state is studied through military architecture under Moulay Ismail, with the kasbahs as the model — fortress-towns walling the reunited country.

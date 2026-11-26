@@ -10,6 +10,8 @@ England fences its open fields in the enclosures, and the Columbian exchange swa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40349 — fencedfields]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §2: Revoluţia agrară şi consecinţele ei — England fences its open fields in the enclosures, and the Columbian exchange swaps whole worlds of plants and animals between the continents. Then let your companion ask you one hard question about it — answer from the lesson.

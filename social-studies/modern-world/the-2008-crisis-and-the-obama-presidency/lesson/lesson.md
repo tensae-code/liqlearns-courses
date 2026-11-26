@@ -10,6 +10,8 @@ the 2008 crash tests the globalised economy the previous modules built; Piketty 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40352 — crashquestions]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 19 §§1–2 Crisi finanziaria, crisi economica; Gli Stati Uniti e la presidenza Obama — the 2008 crash tests the globalised economy the previous modules built; Piketty (Fare storia) asks whether the question is distribution or property itself. Then let your companion ask you one hard question about it — answer from the lesson.

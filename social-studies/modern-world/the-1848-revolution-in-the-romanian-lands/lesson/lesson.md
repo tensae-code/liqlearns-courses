@@ -10,6 +10,8 @@ Rosetti, Brătianu and Heliade Rădulescu prepare a politico-military plan; the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40357 — blaj1848]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §20: Revoluţia din 1848–1849 în Ţările Române — Rosetti, Brătianu and Heliade Rădulescu prepare a politico-military plan; the Moldavian petition-proclamation and Transylvania's Blaj Pronouncement demand national and democratic rights. Then let your companion ask you one hard question about it — answer from the lesson.

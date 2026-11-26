@@ -10,11 +10,15 @@ Siam survives the 19th century uncolonised, a buffer between British Burma and F
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40361 — bufferfree]
+
 ## Sub lesson 2 — History Ch. 3 Lesson 4, Thailand
 
 Sukhothai (1238–1350), Ayutthaya (1350–1767), Thonburi (1767–1800), Bangkok (1800– ) — and on 24 June 1932 seven centuries of absolute monarchy end in a single morning's revolution (History Ch. 3 Lesson 4, Thailand)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40360 — sevenmorning]
 
 ## Say it to your companion
 

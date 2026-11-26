@@ -10,17 +10,23 @@ A new century and a decolonising world pull the Americas into global change.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40345 — newcentury]
+
 ## Sub lesson 2 — Unidad 6 Estados Unidos en el siglo XX: la gran transformación
 
 The United States becomes an industrial and world power within one lifetime.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40344 — onelifetime]
+
 ## Sub lesson 3 — Unidad 6 El desarrollo canadiense: Canadá en el siglo XX
 
 Canada grows quietly into a modern northern nation.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40343 — canadanorth]
 
 ## Say it to your companion
 

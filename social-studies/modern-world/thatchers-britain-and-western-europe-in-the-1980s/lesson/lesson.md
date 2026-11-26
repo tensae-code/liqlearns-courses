@@ -10,6 +10,8 @@ Thatcher breaks the miners (her Document closes their strike) and remakes Britai
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40358 — strikebritain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 18 §4 Western Europe in the final phase of the Cold War — Thatcher breaks the miners (her Document closes their strike) and remakes Britain — Vinen and Ferrari's Storiografia defines Thatcherism — while Ireland's hunger strikers (Storia culturale) mark the kingdom's other war. Then let your companion ask you one hard question about it — answer from the lesson.
