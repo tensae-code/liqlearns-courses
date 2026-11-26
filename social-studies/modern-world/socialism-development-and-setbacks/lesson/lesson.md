@@ -10,11 +10,15 @@ socialist states reform and stall, and the Eastern European changes and Soviet c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40525 — campends]
+
 ## Sub lesson 2 — Socialist countries develop and change
 
 reforms in the USSR and Eastern Europe fail to save the system, and in 1991 the Soviet Union dissolves
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40524 — uniondissolves]
 
 ## Say it to your companion
 

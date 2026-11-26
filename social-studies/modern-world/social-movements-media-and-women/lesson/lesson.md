@@ -10,6 +10,8 @@ Movements, media and women's organising become engines that push societies to ch
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 40528 — enginesofchange]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Dinámicas socioculturales — movements, media and women's organising become engines that push societies to change. Then let your companion ask you one hard question about it — answer from the lesson.

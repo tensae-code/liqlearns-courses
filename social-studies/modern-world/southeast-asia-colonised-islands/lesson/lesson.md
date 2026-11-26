@@ -10,6 +10,8 @@ the spice islands are the doorway, and four empires fight over the key for four 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40515 — islandsfirst]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 5 The islands fall first: Portugal's fleet takes Malacca in 1511 (the Flor de Mar); Spain rules the Philippines from the mid-1500s until America takes them in 1898 — Lapu-Lapu's 1521 victory remembered as the first resistance; the Dutch complete Indonesia only in the mid-1800s; Britain takes Malaya, Singapore and Brunei — the spice islands are the doorway, and four empires fight over the key for four centuries. Then let your companion ask you one hard question about it — answer from the lesson.

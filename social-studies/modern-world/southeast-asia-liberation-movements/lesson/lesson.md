@@ -10,11 +10,15 @@ by the century's end only Siam keeps a relative independence — Britain complet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40513 — onlysiam]
+
 ## Sub lesson 2 — Bài 3, Southeast Asia's liberation movements between the wars
 
 communist parties are founded across the region (Indonesia May 1920, Vietnam early 1930, Malaya and Siam April 1930, the Philippines November 1930); the Java and Sumatra risings of 1926–27 and Vietnam's Nghệ-Tĩnh soviets of 1930–31 are drowned in blood, while bourgeois parties — the Indonesian National Party, Burma's Thakin movement, the Malay youth union — and older struggles like Laos's Ong Kẹo and Com-ma-dam (1901–1937) and Cambodia's monk A-cha Hem-chieu (1930–35) keep the cause alive
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40512 — partiesfounded]
 
 ## Say it to your companion
 

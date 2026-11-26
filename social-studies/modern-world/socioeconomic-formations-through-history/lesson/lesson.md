@@ -10,6 +10,8 @@ to understand the present and project the future, society's whole evolution is d
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40522 — fiveformations]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Formaciones socioeconómicas — to understand the present and project the future, society's whole evolution is divided into five formations — primitive community, slavery, feudalism, capitalism and socialism — each defined by who owns the means of production. Then let your companion ask you one hard question about it — answer from the lesson.

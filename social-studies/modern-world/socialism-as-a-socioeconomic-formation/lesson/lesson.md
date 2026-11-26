@@ -10,6 +10,8 @@ born in Russia at the start of the 20th century and spread after the Second Worl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40526 — heldincommon]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: El Socialismo — born in Russia at the start of the 20th century and spread after the Second World War, socialism makes the means of production society's property under collective planning — and is replanned for the 21st century against poverty, hunger and exploitation. Then let your companion ask you one hard question about it — answer from the lesson.

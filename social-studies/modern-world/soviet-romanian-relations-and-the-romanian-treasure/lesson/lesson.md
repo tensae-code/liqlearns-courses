@@ -10,6 +10,8 @@ Lenin renounces Bessarabia he cannot hold; the 1924 Vienna conference fails, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40506 — treasurehostage]
+
 ## Sub lesson 2 — Tema 14: Relațiile româno-sovietice în perioada interbelică
 
 Soviet press campaigns discredit Romania; the Tatarbunary rising of September 1924 is the local explosion, and in August 1939 Moscow negotiates with Berlin while the western military delegations are still in town

@@ -10,6 +10,8 @@ cars, radio and Lindbergh's flight (Focus boxes) remake middle-class life while 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40523 — newmachines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 4 §§7–8 Le trasformazioni nella vita sociale; I dilemmi della scienza — cars, radio and Lindbergh's flight (Focus boxes) remake middle-class life while science faces its own dilemmas — progress's image cracks before the politics does. Then let your companion ask you one hard question about it — answer from the lesson.

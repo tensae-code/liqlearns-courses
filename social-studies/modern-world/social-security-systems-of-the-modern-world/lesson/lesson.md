@@ -10,6 +10,8 @@ Elizabethan poor relief, Bismarck's insurance laws, America's New Deal and the w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40527 — catchthefalling]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Grassroots governance and social security in the world's main countries — Elizabethan poor relief, Bismarck's insurance laws, America's New Deal and the welfare state — how states learned to catch their falling citizens. Then let your companion ask you one hard question about it — answer from the lesson.

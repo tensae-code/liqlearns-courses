@@ -10,6 +10,8 @@ annexation proclamations end wars on paper only — the jungles keep fighting fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40511 — decadesfights]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 6 The region fights back: Prince Diponegoro's Java war (1825–1830) bleeds the Dutch; Dagohoy's Bohol uprising lasts 85 years (1744–1829), the longest in the Philippines; Burma's guerrillas fight on ten years after annexation; Vietnam ruins France's "quick attack, quick victory" from 1858 and costs it 26 years; Cambodia's Pucombo insurgents ally with Trương Định's son across the border — annexation proclamations end wars on paper only — the jungles keep fighting for generations. Then let your companion ask you one hard question about it — answer from the lesson.
