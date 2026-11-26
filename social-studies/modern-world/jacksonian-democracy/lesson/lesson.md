@@ -10,6 +10,8 @@ Andrew Jackson's rough new political style widened democracy for white men — m
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 63870 — democracy widens with limits]
+
 ## Sub lesson 2 — Nullification crushed, the national bank crushed
 
 Jackson crushed nullification — a state's claim to void federal law — and crushed the national bank in his war on it. The presidency itself grew stronger by the fights it won.

@@ -10,6 +10,8 @@ lower samurai, ruined by gold outflows and Tokugawa failure, overthrow the shogu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63874 — rich country strong army]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Japan's Meiji Restoration — lower samurai, ruined by gold outflows and Tokugawa failure, overthrow the shogunate in 1868, restore the boy emperor, abolish the domains, conscript an army and chase industry under 'enrich the country, strengthen the army'. Then let your companion ask you one hard question about it — answer from the lesson.

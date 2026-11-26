@@ -10,6 +10,8 @@ Abdullah ibn Hussein reached Ma'an in 1920 and agreed with Churchill in 1921 on 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63891 — from emirate to kingdom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Jordan — from emirate to kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

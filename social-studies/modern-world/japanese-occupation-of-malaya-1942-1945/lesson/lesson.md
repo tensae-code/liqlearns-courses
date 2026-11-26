@@ -10,6 +10,8 @@ Japan occupies the country and rules by Nippon Seishin — English and Chinese s
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63876 — occupation and resistance]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Occupation and resistance — Japan occupies the country and rules by Nippon Seishin — English and Chinese schools closed, Japanese language imposed, the Emperor revered; the people fight back through Force 136 (raised in 1943 under South East Asia Command at Colombo, landed in Ulu Perak, raising the Askar Melayu Setia with Kapten Mohd Salleh Hj. Sulaiman and the Gerik District Officer) and through individuals like Gurchan Singh, the "Lion of Malaya" leafleting against the occupation, and Sybil Kathigasu; the atomic bombs of 6 and 9 August 1945 end it, Japan surrendering on 15 August. Then let your companion ask you one hard question about it — answer from the lesson.

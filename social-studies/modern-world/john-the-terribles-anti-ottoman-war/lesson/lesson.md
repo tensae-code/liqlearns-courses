@@ -10,6 +10,8 @@ John the Terrible revolts against the rising Ottoman burden; betrayed at Lake Ca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63886 — betrayed at lake cahul]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 3: Evoluția politică a Țării Moldovei. Războiul antiotoman sub conducerea lui Ioan Vodă — John the Terrible revolts against the rising Ottoman burden; betrayed at Lake Cahul, his army breaks and retreats to Roșcani, where the prince is killed. Then let your companion ask you one hard question about it — answer from the lesson.

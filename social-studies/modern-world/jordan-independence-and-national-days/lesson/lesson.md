@@ -10,11 +10,15 @@ the Hashemite Kingdom of Jordan became independent on 25 May 1946, and pupils ce
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63892 — independent 25 may 1946]
+
 ## Sub lesson 2 — Unit 3 Lesson 1: King Abdullah II ibn al-Hussein
 
 Abdullah, eldest son of King Hussein, is born in Amman in 1962, marries Rania in 1993, and takes his constitutional powers as King on 7 February 1999
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63893 — abdullah ii takes the throne]
 
 ## Sub lesson 3 — Unit 4 Lesson 1: development in my homeland
 

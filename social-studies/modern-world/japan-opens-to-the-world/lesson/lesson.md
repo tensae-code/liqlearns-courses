@@ -10,6 +10,8 @@ Perry's black ships (1853) end sakoku; the shogunate falls and Meiji begins Japa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63875 — opened at cannon mouth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §33 Japan in the first half and 1860s of the 19th century — Perry's black ships (1853) end sakoku; the shogunate falls and Meiji begins Japan's forced-march modernisation. Then let your companion ask you one hard question about it — answer from the lesson.

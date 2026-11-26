@@ -10,11 +10,15 @@ American black ships force Japan open, and the Meiji leaders answer by modernisi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63880 — forced open modernised fast]
+
 ## Sub lesson 2 — §10.3 Why did the USA send warships to Japan?
 
 Perry's black ships anchor off Japan to force trade, and a closed country is opened at cannon-mouth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63881 — why warships]
 
 ## Say it to your companion
 

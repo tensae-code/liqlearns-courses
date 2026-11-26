@@ -10,11 +10,15 @@ Japanese armies seize Manchuria, then invade China proper and push into Southeas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63877 — seized invaded southward]
+
 ## Sub lesson 2 — §15 Japan's aggression in China and Southeast Asia
 
 Manchuria seized, China invaded, the push south begins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63878 — the push south begins]
 
 ## Say it to your companion
 

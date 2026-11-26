@@ -10,6 +10,8 @@ occupation, constitution and the American alliance turn the defeated enemy into 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63879 — from enemy to ally]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 9 §6 Il Giappone: da nemico ad alleato — occupation, constitution and the American alliance turn the defeated enemy into the West's Asian workshop — the fastest national reinvention of the postwar. Then let your companion ask you one hard question about it — answer from the lesson.

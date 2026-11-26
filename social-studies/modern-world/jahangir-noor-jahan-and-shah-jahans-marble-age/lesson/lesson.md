@@ -10,6 +10,8 @@ Jahangir (1605–1627) rules through art and justice while his queen Noor Jahan 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63871 — marble from an empires wealth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Jahangir, Noor Jahan and Shah Jahan's marble age. Then let your companion ask you one hard question about it — answer from the lesson.

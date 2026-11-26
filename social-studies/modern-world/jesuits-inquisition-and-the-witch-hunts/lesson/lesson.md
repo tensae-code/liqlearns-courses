@@ -10,11 +10,15 @@ Ignatius' Jesuits carry schools and missions from Europe to South America while 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63884 — schools missions and police]
+
 ## Sub lesson 2 — Inquisizione e censura
 
 the Roman Inquisition, the Index of forbidden books and censorship police the printed word the press had set free
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63885 — the index of forbidden books]
 
 ## Say it to your companion
 
