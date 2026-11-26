@@ -10,11 +10,15 @@ A **digital photo album** is a **collection with an idea**: a theme (our town in
 
 In your mind's eye: the album as a work — choosing and ordering.
 
+[Picture 46390 — the album as a work — choosing and ordering]
+
 ## Sub lesson 2 — Presenting the collection — formats and care
 
 The album is finished for an audience: **exported or presented** in the form the audience needs — a slideshow, a shared folder, a printed selection — with file formats chosen by use (quality for print, lighter for sharing). The project's care rules close the chapter's ethics: use **your own photographs or ones you may use**, name authors where photographs are others', and keep the **originals untouched** — processing works on copies. A collection presented is the chapter's skills, taste and honesty graded at once.
 
 In your mind's eye: presenting the collection — formats and care.
+
+[Picture 46391 — presenting the collection — formats and care]
 
 ## Say it to your companion
 

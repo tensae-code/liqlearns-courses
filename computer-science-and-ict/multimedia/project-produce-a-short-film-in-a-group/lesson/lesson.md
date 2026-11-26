@@ -10,11 +10,15 @@ The group first **researches its topic on the web**, gathering facts worth filmi
 
 In your mind's eye: research the topic — and respect intellectual property.
 
+[Picture 46394 — research the topic — and respect intellectual property]
+
 ## Sub lesson 2 — Produce and present the film
 
 Production follows the unit's road: plan (script, storyboard), shoot, build on the Timeline, add text, effects and sound, export. Then the group **presents the film** to its audience and can say how each part was made — the presentation is part of the project, not an extra.
 
 In your mind's eye: produce and present the film.
+
+[Picture 46395 — produce and present the film]
 
 ## Say it to your companion
 

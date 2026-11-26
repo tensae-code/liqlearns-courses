@@ -10,11 +10,15 @@ The **line** tool draws straight: press where the line starts, drag to where it 
 
 In your mind's eye: lines and curves — drawing by hand, guided.
 
+[Picture 46380 — lines and curves — drawing by hand, guided]
+
 ## Sub lesson 2 — Shapes and fill — ready forms, poured colour
 
 **Shapes** are ready forms — rectangles, ellipses, polygons and the rest of Paint's shape set — drawn by dragging out their frame, each true every time. **Fill with colour** pours a chosen colour into a **closed area** with one click: click inside a shape and its inside takes the colour — and if the outline has a gap, the colour escapes through it, the classic Paint lesson. The four methods together — line, curve, shape, fill — are the whole drawing technology of the book's Paint unit.
 
 In your mind's eye: shapes and fill — ready forms, poured colour.
+
+[Picture 46381 — shapes and fill — ready forms, poured colour]
 
 ## Say it to your companion
 

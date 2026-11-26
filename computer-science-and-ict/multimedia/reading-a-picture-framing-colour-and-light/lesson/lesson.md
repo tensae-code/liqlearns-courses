@@ -10,11 +10,15 @@ Two photos of the same animal: one makes you laugh, one makes your heart squeeze
 
 In your mind's eye: framing — what the edges choose.
 
+[Picture 46396 — framing — what the edges choose]
+
 ## Sub lesson 2 — Colour and light — the feeling's steering wheel
 
 **Colour** steers feeling: warm, saturated colours excite and cheer; cold, grey ones quieten or sadden. **Light** steers it too: soft light soothes, hard contrast dramatises, a face lit from below turns strange. Reading a picture means naming these choices before surrendering to the feeling — the animal has not changed; the steering has. A reader who can name the steering can also use it, and resist it.
 
 In your mind's eye: colour and light — the feeling's steering wheel.
+
+[Picture 46397 — colour and light — the feeling's steering wheel]
 
 ## Say it to your companion
 

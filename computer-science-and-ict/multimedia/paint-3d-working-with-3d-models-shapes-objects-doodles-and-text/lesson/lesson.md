@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **§§3.9.3, 3.10–3.10.4 Making 
 
 In your mind's eye: §§3.9.3, 3.10–3.10.4 Making 3D images; 3D shapes and objects; 3D doodles; 3D text.
 
+[Picture 46378 — §§3.9.3, 3.10–3.10.4 Making 3D images; 3D shapes and objects; 3D doodles; 3D text]
+
 ## Sub lesson 2 — Doing it — Paint 3D Working with 3D Models Shapes Objects Doodles and Text in practice
 
 **Doing it — Paint 3D Working with 3D Models Shapes Objects Doodles and Text in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Paint 3D Working with 3D Models Shapes Objects Doodles and Text in practice.
+
+[Picture 46379 — doing it — Paint 3D Working with 3D Models Shapes Objects Doodles and Text in practice]
 
 ## Say it to your companion
 

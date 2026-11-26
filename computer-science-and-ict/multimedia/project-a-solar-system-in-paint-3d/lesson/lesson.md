@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Project: create a Solar System i
 
 In your mind's eye: project. Create a Solar System in Paint 3D with labelled planets.
 
+[Picture 46388 — project. Create a Solar System in Paint 3D with labelled planets]
+
 ## Sub lesson 2 — Doing it — Project a Solar System in Paint 3D in practice
 
 **Doing it — Project a Solar System in Paint 3D in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Project a Solar System in Paint 3D in practice.
+
+[Picture 46389 — doing it — Project a Solar System in Paint 3D in practice]
 
 ## Say it to your companion
 

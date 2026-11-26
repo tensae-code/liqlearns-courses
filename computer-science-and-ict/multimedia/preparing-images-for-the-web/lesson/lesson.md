@@ -10,11 +10,15 @@ A camera photograph is made to be printed and kept; a web page needs it **no big
 
 In your mind's eye: a huge camera photograph being shrunk down to fit a small frame on a web page, with its file weight dropping beside it.
 
+[Picture 46384 — a huge camera photograph being shrunk down to fit a small frame on a web page, with its file weight dropping beside it]
+
 ## Sub lesson 2 — Choosing the format
 
 The saving **format** is the second decision. Photographs, with their millions of shades, belong in a format made for photographs, which squeezes them by dropping detail the eye barely misses. Drawings, logos and screenshots with flat colours and sharp edges belong in a format that keeps edges exact, even at few colours. Saving in the wrong format shows at once: a photograph bloated far beyond its need, or a sharp diagram gone fuzzy. The finished preparation is checked on the page itself: right size on screen, small weight in the folder, and nothing the eye needed lost.
 
 In your mind's eye: two saving doors — one for a photograph, one for a sharp logo. With each image entering the right one.
+
+[Picture 46385 — two saving doors — one for a photograph, one for a sharp logo. With each image entering the right one]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **bitmap** (raster) picture is a grid: every cell is one **pixel**, and the fi
 
 In your mind's eye: the bitmap — a picture as a grid of points.
 
+[Picture 46382 — the bitmap — a picture as a grid of points]
+
 ## Sub lesson 2 — Colour depth — bits per pixel
 
 **Colour depth** is how many bits describe one pixel: 1 bit gives two colours, black and white; 8 bits give 256; 24 bits give millions — 'true colour'. More depth means truer colour and a bigger file: every added bit doubles the colours and grows every picture. Choosing a depth is choosing a balance between truth and size.
 
 In your mind's eye: colour depth — bits per pixel.
+
+[Picture 46383 — colour depth — bits per pixel]
 
 ## Say it to your companion
 

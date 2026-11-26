@@ -10,11 +10,15 @@ The library is **Pillow**, the modern form of **PIL** (the Python Imaging Librar
 
 In your mind's eye: a photo beside a magnified corner where the pixels show as a grid of RGB triples, one cell highlighted at its (x, y) address.
 
+[Picture 46386 — a photo beside a magnified corner where the pixels show as a grid of RGB triples, one cell highlighted at its (x, y) address]
+
 ## Sub lesson 2 — Building filters pixel by pixel
 
 A **filter** is a rule applied to every pixel, and two nested loops do the applying: for each column x, for each row y, read the triple, compute the new one, write it back. The rules are arithmetic on the triple. **Greyscale:** replace the three numbers by their average — (200, 60, 40) becomes (100, 100, 100), a grey of the same brightness. **Negative:** subtract each number from 255 — (200, 60, 40) becomes (55, 195, 215). **Darken:** multiply each by the same fraction. **Threshold:** if the average passes a limit, write white, else black — a two-tone image. France's SNT book has you build these in the photography theme's En codant strand, on real photos, and the discipline it teaches matters as much as the effects: work on a copy, and **save under a new name**, because a filter destroys the numbers it replaces — the original photo, once overwritten, does not come back.
 
 In your mind's eye: one photo shown four times: original, greyscale, negative, threshold — with the rule for each written underneath.
+
+[Picture 46387 — one photo shown four times: original, greyscale, negative, threshold — with the rule for each written underneath]
 
 ## Say it to your companion
 
