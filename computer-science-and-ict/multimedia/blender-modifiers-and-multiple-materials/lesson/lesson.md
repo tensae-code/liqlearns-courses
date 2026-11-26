@@ -10,11 +10,15 @@ A **modifier** is a standing instruction applied **over** the mesh: the mesh kee
 
 In your mind's eye: modifiers — Array, Mirror, Wireframe.
 
+[Picture 46215 — modifiers — Array, Mirror, Wireframe]
+
 ## Sub lesson 2 — Multiple materials on one object
 
 One object can wear **several materials**: parts of its mesh are **assigned** different materials — the fence post's wood and its metal cap, the magnet's two poles in their two colours — chosen face by face or by the mesh's parts. It completes the first material lesson: surface stops being the object's single coat and becomes its clothing, piece by piece. With modifiers above the mesh and materials across it, a simple object becomes a designed one.
 
 In your mind's eye: multiple materials on one object.
+
+[Picture 46216 — multiple materials on one object]
 
 ## Say it to your companion
 

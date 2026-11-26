@@ -10,11 +10,15 @@ A video file is **compressed** to make it **smaller**: a smaller file takes less
 
 In your mind's eye: why compress, and how.
 
+[Picture 46234 — why compress, and how]
+
 ## Sub lesson 2 — What compression costs — and the codec problem
 
 What is thrown away cannot come back: strong compression **lowers the quality** — pictures soften and block, sound thins. So the maker chooses a balance: small enough to share, clear enough to watch. And a compressed file needs its own **codec** to play: if the computer does not support the file's codec, the file will not play until that codec is available.
 
 In your mind's eye: what compression costs — and the codec problem.
+
+[Picture 46235 — what compression costs — and the codec problem]
 
 ## Say it to your companion
 

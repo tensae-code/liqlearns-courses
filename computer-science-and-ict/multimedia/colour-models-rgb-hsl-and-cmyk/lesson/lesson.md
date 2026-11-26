@@ -12,6 +12,8 @@ For the human description there is **HSL** — in the French book TSL: **teinte,
 
 In your mind's eye: the hue circle with saturation fading to grey at the centre and a lightness scale from black to white beside it, one orange marked on all three.
 
+[Picture 46230 — the hue circle with saturation fading to grey at the centre and a lightness scale from black to white beside it, one orange marked on all three]
+
 ## Sub lesson 2 — CMYK — colour in print
 
 Paper does not shine; it reflects. A printer therefore works backwards: it starts from white paper and **subtracts** light with inks. The three inks are the complements of the screen's lights: **cyan** (absorbs red), **magenta** (absorbs green) and **yellow** (absorbs blue) — **CMY**. Where all three overlap, the result should be black; in practice it is a muddy brown, and black made of three inks is slow and expensive — so printers add a fourth ink, true **black**, called **K** (for key). Hence **CMYK**, the model of everything printed: magazines, posters, the photograph you print at home.
@@ -19,6 +21,8 @@ Paper does not shine; it reflects. A printer therefore works backwards: it start
 Because light and ink build colour by opposite roads, they cannot reach all the same colours: some vivid screen colours — a neon green, an electric blue — have no exact ink mixture, and they print duller. That is why work destined for print is prepared and checked in CMYK from the start, and why the same photo looks different on the screen and on the page — not a fault, but two models with different reaches.
 
 In your mind's eye: a bright screen colour wheel beside a printed page of the same image, the neon colours visibly duller in print, with the four ink cartridges C, M, Y, K below.
+
+[Picture 46231 — a bright screen colour wheel beside a printed page of the same image, the neon colours visibly duller in print, with the four ink cartridges C, M, Y, K below]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ One object made is a start; a scene is many. The second modelling lesson multipl
 
 In your mind's eye: selecting many, duplicating, rotating.
 
+[Picture 46219 — selecting many, duplicating, rotating]
+
 ## Sub lesson 2 — Perspective and Orthographic — and the origin point
 
 The Viewport shows the scene two ways. **Perspective** view is the eye's way: far things smaller, the view a photograph would take. **Orthographic** view is the draughtsman's: no shrinking with distance, measures true — the view to build by. And every object carries an **origin point** — its personal centre, the point it rotates and scales **from**: misplace the origin and the object turns around the wrong heart. Kuwait teaches views and origin together because precise placing is impossible until both are understood.
 
 In your mind's eye: perspective and Orthographic — and the origin point.
+
+[Picture 46220 — perspective and Orthographic — and the origin point]
 
 ## Say it to your companion
 

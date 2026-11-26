@@ -10,11 +10,15 @@ A **composition** is a new picture made by **combining pictures**: parts drawn o
 
 In your mind's eye: combining pictures — one world from many parts.
 
+[Picture 46232 — combining pictures — one world from many parts]
+
 ## Sub lesson 2 — Near and far, and adding text
 
 A flat row of same-sized things looks wrong because the eye expects **perspective**: things **near** are drawn **larger**, things **far** smaller — the mountains shrink as they retreat, the near horse stands tall. Resizing is the tool that builds the depth. Last, **text** is added to the picture — a title or a label — placed where it finishes the scene without covering it. Mongolia's closing rule: a composition is judged as one picture, not as the sum of its parts.
 
 In your mind's eye: near and far, and adding text.
+
+[Picture 46233 — near and far, and adding text]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ This double lesson joins two finishing skills. **Choosing a sound**: the Scratch
 
 In your mind's eye: a picture of a Scratch scene with the sound gallery open on one side and two backdrop thumbnails on the other, one sound and one backdrop ringed as the fitting choices.
 
+[Picture 46227 — a picture of a Scratch scene with the sound gallery open on one side and two backdrop thumbnails on the other, one sound and one backdrop ringed as the fitting choices]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A scene is finished by its sound and its place: choose the sound that fits the moment from the gallery, and change the backdrop when the story moves — sound and place working together. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

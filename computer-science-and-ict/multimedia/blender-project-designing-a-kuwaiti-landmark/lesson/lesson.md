@@ -10,11 +10,15 @@ The integrated project models the **Al-Shagaya renewable-energy station** — Ku
 
 In your mind's eye: the project — modelling Al-Shagaya.
 
+[Picture 46217 — the project — modelling Al-Shagaya]
+
 ## Sub lesson 2 — Exhibiting the class's digital products
 
 The project closes with an **exhibition of the class's digital products**: the models shown to an audience, each maker's choices — what was modelled, what was simplified, what the render argues — presented with the work. Kuwait's products unit always ends in showing, because a product's last stage is its readers: the exhibition is where the class's private skills become public standards, and where the next project quietly begins in a pupil who saw a better tower.
 
 In your mind's eye: exhibiting the class's digital products.
+
+[Picture 46218 — exhibiting the class's digital products]
 
 ## Say it to your companion
 

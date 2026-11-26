@@ -10,11 +10,15 @@ A **texture** is an image **wrapped onto** the object's surface: the flat pictur
 
 In your mind's eye: textures — wrapping a picture onto a surface.
 
+[Picture 46221 — textures — wrapping a picture onto a surface]
+
 ## Sub lesson 2 — Lighting the scene — light objects and their power
 
 A 3D scene is dark until lit, and its lights are objects too: **light objects** are placed in the scene — their kind (point, sun, spot) deciding how their light spreads, their **power** how strongly it burns. Lighting is composition, not plumbing: Kuwait teaches the pupil to place light as photographers do — a key light to model the forms, softer light to lift the shadows — because the same model reads cheap or precious by its lighting alone.
 
 In your mind's eye: lighting the scene — light objects and their power.
+
+[Picture 46222 — lighting the scene — light objects and their power]
 
 ## Say it to your companion
 

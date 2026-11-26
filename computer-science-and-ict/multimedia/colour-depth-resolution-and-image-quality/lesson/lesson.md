@@ -10,11 +10,15 @@ Why does one photo look rich and print huge while another looks flat and grainy?
 
 In your mind's eye: colour depth — how many colours a pixel can be.
 
+[Picture 46228 — colour depth — how many colours a pixel can be]
+
 ## Sub lesson 2 — Resolution — how fine the grid is
 
 **Resolution** is how many pixels the image has — its grid's fineness (and, when printed, pixels per inch). A finer grid shows sharper edges and smaller detail: higher quality again — and again more data, because there are more pixels to store. Malaysia's relation joins the two: **quality, colour depth, resolution and size rise together**. A maker chooses the balance the purpose needs — screen images can be lighter; print and archive work pays for both numbers to be high.
 
 In your mind's eye: resolution — how fine the grid is.
+
+[Picture 46229 — resolution — how fine the grid is]
 
 ## Say it to your companion
 

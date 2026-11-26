@@ -10,11 +10,15 @@ Paint offers its colours in a **palette of ready colours**: the learner **clicks
 
 In your mind's eye: choosing the colour.
 
+[Picture 46223 — choosing the colour]
+
 ## Sub lesson 2 — Outline thickness — thin and thick lines
 
 A line or outline can be drawn **thin or thick**: Paint's **thickness (contour) choice** sets how wide the tool's stroke is before it draws. A **thin** outline suits small details and writing; a **thick** outline makes the main shapes stand out bold. The thickness, like the colour, is **chosen first, then drawn with** — and a drawing can mix both: thick outlines for the house, thin lines for its windows. Trying the same shape at two thicknesses shows the difference the choice makes.
 
 In your mind's eye: outline thickness — thin and thick lines.
+
+[Picture 46224 — outline thickness — thin and thick lines]
 
 ## Say it to your companion
 
