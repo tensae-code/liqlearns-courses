@@ -9,7 +9,11 @@ A burning candle shows all three states of wax at once. Bangladesh's Class 9 boo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37096 — a burning candle labelled — solid candle, liquid melted wax, gas vapour burning]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37097 — solid wax melts to liquid, liquid wax turns to gas, the gas burns]
 
 ## Sub lesson 2 — Solid, liquid and gas together
 

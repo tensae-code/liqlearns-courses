@@ -11,6 +11,8 @@ Watch the flame. It does not stay as it was. Trapped under the glass, it changes
 
 In your mind's eye: a lit candle with a glass being lowered over it by an adult hand, a child watching from a safe distance. The student points to the air trapped inside the glass.
 
+[Picture 37090 — a glass lowered by an adult hand over a lit candle, a child watching from a safe distance]
+
 In your mind's eye: the candle flame under the glass growing smaller and going out. Say what the flame used up.
 
 ## Sub lesson 2 — Burning needs air

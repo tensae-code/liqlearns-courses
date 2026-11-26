@@ -11,7 +11,11 @@ Because both parts are wood, the joint can be made with the carpenter's own tool
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37098 — the tenon — a tongue of wood — and the mortise, the slot it fits]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37099 — the joint pushed together — it holds with no nails, screws or glue]
 
 ## Sub lesson 2 — Joinery in old Chinese buildings and bridges
 

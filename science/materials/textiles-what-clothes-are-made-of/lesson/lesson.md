@@ -9,7 +9,11 @@ Angola's Grade 1 book names the **textile materials** (Os materiais têxteis): t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37088 — fibres worked into thread, thread woven into cloth, cloth sewn into clothes]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37089 — pulled — strong cloth holds, weak cloth tears]
 
 ## Sub lesson 2 — Kinds of clothing and their fabrics
 

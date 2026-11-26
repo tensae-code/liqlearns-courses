@@ -9,7 +9,11 @@ Class 8 in Bangladesh gives cleanliness and hygiene a chemistry of their own: wa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37092 — a basin of water with soap and a dirty cloth — the washing set-up]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37093 — a dirty cloth before washing, and the same cloth clean after]
 
 ## Sub lesson 2 — Soap and detergent at work
 

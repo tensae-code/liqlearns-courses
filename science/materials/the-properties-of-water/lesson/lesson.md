@@ -9,7 +9,11 @@ Pure water has properties that name it anywhere: it is **colourless**, it has **
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37094 — water pouring from a jug — no colour, no taste, no smell, and it flows]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37095 — the same water in a tall bottle, a wide bowl and a round flask — the shape changes, the amount stays]
 
 ## Sub lesson 2 — Reading the properties in daily life
 

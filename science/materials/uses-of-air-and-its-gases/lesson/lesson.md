@@ -9,7 +9,11 @@ Moving air works: it turns turbines, dries clothes and hair, drives sailboats an
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37100 — moving air at work — a turbine turning, clothes drying, a sail filling]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37101 — a flat tyre, and the same tyre pumped full of air standing firm]
 
 ## Sub lesson 2 — Oxygen and nitrogen — two gases at work
 
