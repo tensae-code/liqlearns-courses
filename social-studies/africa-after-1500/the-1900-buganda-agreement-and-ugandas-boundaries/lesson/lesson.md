@@ -26,11 +26,15 @@ The 1900 Buganda Agreement is signed by Johnston and Apollo Kaggwa while Kabaka 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39306 — a signing table, Johnston, Kaggwa, an exile island panel]
+
 ## Sub lesson 4 — Methods of colonisation
 
 Where it is peaceful, the treaty does the work — Buganda 1900, Toro 1900, Ankole 1901 — signed with promises of protection from Bunyoro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39307 — three treaty papers and a protection shield]
 
 ## Sub lesson 5 — The 1900 Buganda Agreement, case study of the peaceful method
 
@@ -38,11 +42,15 @@ Johnston signs with the three regents of the child Kabaka Daudi Chwa II — Kagw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39308 — a crowned child on a bench, three regents, a supervising officer]
+
 ## Sub lesson 6 — The Buganda Agreement
 
 The agreement exists in two versions, English and Luganda — and where they conflict, the English one rules; it is also signed to settle Buganda's boundary quarrel with Bunyoro after Kabalega's rebellion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39309 — two panels — ENGLISH raised with a crown, LUGANDA lower]
 
 ## Say it to your companion
 

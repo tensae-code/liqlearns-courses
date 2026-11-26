@@ -10,11 +10,15 @@ Napoleon lands and Egyptians resist in Cairo's two revolts; the Levant campaign 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39328 — a French sailship, a Cairo mosque, two resisters, the Rosetta Stone]
+
 ## Sub lesson 2 — Chapter 1: The French Campaign on Egypt and the Levant, 1798–1801
 
 France dreams of Egypt for a century first — Louis XIV in 1672 and Louis XV in 1769 both reach for her to wound Dutch and British trade; in 1798 the causes ripen — cut the Cape route, strike England's Indian empire, replace the lost American colonies with an eastern empire; and the Egypt it strikes is an Ottoman province of tax-farmers and decayed crafts, two societies — Turkish-Mamluk rulers and Egyptian ruled — governed by wali, diwan and beys.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39329 — two panels — two crowned kings with years, a cut sea route]
 
 ## Say it to your companion
 

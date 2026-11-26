@@ -10,6 +10,8 @@ Egypt pushes south for the Nile, the climate and the fertile soils; Emin Pasha a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39318 — a Nile line, Baker and Emin labelled, a planted flag and hut]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egyptian penetration — Egypt pushes south for the Nile, the climate and the fertile soils; Emin Pasha and Sir Samuel Baker are the imperialists the learner must research. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The war leaves indelible marks — development set back and defenceless populati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39324 — two panels — a broken-roofed factory, a hut and untilled field]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Consequences of the war for Africa and Europe — the war leaves indelible marks — development set back and defenceless populations victimised — in Europe and, in its own ways, in Africa. Then let your companion ask you one hard question about it — answer from the lesson.

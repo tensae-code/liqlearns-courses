@@ -10,6 +10,8 @@ the African Renaissance is founded on Africa's own heritage (UA8 La Renaissance 
 
 In your mind's eye: renewal in Africa — young people building on African heritage with confidence. Say what the Renaissance calls Africa to do.
 
+[Picture 39311 — heritage stones, a new wall, a young builder, a rising sun]
+
 ## Sub lesson 2 — Challenges and stakes
 
 the Renaissance faces challenges, and its stakes are Africa's future (UA8 La Renaissance africaine: fondements, défis et enjeux)

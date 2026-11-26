@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: The OAU's commitments 
 The OAU's commitments are honoured and its strategic frameworks carried into the Union that replaces it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39312 — OAU and AFRICAN UNION panels joined by an arrow]
 ## Sub lesson 2 — Lesson 11: The African Union (formerly the OAU)
 
 From the OAU of the liberation years to the African Union
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39313 — an Africa outline, OAU 1963 and AU 2002 flags, an arrow]
 ## Sub lesson 3 — Lesson 11: The African Union
 
 The continent's union follows the Arab League in the same unit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39314 — ARAB LEAGUE and AFRICAN UNION panels joined by an arrow]
 
 ## Say it to your companion
 

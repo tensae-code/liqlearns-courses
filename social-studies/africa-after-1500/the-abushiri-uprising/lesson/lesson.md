@@ -10,6 +10,8 @@ The coastal tribes resist the abolition of the slave trade itself — it fetched
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39310 — a dhow, three turbaned coastal fighters, a crossed company flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Coastal resistance — the coastal tribes resist the abolition of the slave trade itself — it fetched them profits — and rise in the Abushiri uprising. Then let your companion ask you one hard question about it — answer from the lesson.

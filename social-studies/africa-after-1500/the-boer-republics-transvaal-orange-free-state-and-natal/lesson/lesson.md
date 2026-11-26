@@ -10,6 +10,8 @@ Dingane falls to his half-brother Mpande, backed by Pretorius; the Sand River Co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39315 — three panels with flags — two free, Natal annexed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Boer Republics — Dingane falls to his half-brother Mpande, backed by Pretorius; the Sand River Convention (1852) frees the Transvaal, Bloemfontein (1854) the Orange Free State — but Natal, annexed by Britain in 1843, is the republic that does not last. Then let your companion ask you one hard question about it — answer from the lesson.

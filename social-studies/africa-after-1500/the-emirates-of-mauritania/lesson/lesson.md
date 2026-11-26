@@ -9,26 +9,36 @@ Before you read on, hold this lesson's one thing in mind: Contact between the Ma
 Contact between the Maqil Hassaniya tribes and the peoples south of the Sahara strengthens as Arab emirates take shape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39319 — two tents, a turbaned Arab and a southern man shaking hands, a camel]
 ## Sub lesson 2 — Dossier 12: The emirates in Mauritania (2)
 
 The Arab Hassaniya tribes expand and secure their rule as the Almoravid-era order ends — Trarza, Brakna, Adrar and Tagant govern the country
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39320 — a map panel with four flagged names]
 ## Sub lesson 3 — Lesson 9: The emirates in Mauritania
 
 Trarza, Brakna, Adrar and Tagant — the emirates that ruled Mauritania when Europe arrived
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39321 — a sea band with a ship, four emirate banners on the shore]
 ## Sub lesson 4 — Lesson 2: The Mauritanian emirates
 
 The emirates that grew from the Hassaniya settlement rule Mauritania for centuries before France
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39322 — a long timeline with four banners, France's flag at the end]
 ## Sub lesson 5 — Lesson 8: The Mauritanian emirates
 
 At secondary depth, the emirates are the state-form France found in Mauritania
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39323 — a French officer with a FRANCE flag facing four emirate banners]
 
 ## Say it to your companion
 

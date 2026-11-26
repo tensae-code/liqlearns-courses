@@ -10,6 +10,8 @@ Despite notable African resistance, by the early 20th century Europe rules almos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39317 — an Africa outline planted with flags, a resister at the edge]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The colonial period — generalities — despite notable African resistance, by the early 20th century Europe rules almost the whole continent; the module opens the colonial period itself. Then let your companion ask you one hard question about it — answer from the lesson.

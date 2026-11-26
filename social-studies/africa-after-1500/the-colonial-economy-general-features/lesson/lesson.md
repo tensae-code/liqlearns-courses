@@ -10,6 +10,8 @@ Production is reorganised to answer Europe's needs, not Africa's — the general
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39316 — farm rows, a mine headgear, an arrow out to a ship]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: General features of the colonial economy — production is reorganised to answer Europe's needs, not Africa's — the general features of the colonial economy laid out. Then let your companion ask you one hard question about it — answer from the lesson.
