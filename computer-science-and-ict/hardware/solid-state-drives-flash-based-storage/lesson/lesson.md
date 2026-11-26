@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Solid State Drive** — covering
 
 In your mind's eye: solid State Drive.
 
+[Picture 45278 — a solid state drive - flash, no moving parts]
+
 ## Sub lesson 2 — Doing it — Solid State Drives Flash Based Storage in practice
 
 **Doing it — Solid State Drives Flash Based Storage in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Solid State Drives Flash Based Storage in practice.
+
+[Picture 45279 — doing it - solid state drives in practice]
 
 ## Say it to your companion
 

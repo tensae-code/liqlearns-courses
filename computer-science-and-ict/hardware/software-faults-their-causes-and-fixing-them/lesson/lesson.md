@@ -10,11 +10,15 @@ Software faults sort by their layer: **application faults** (a program crashes, 
 
 In your mind's eye: the faults and their causes.
 
+[Picture 45276 — the faults and their causes]
+
 ## Sub lesson 2 — Fixing and maintenance procedures
 
 The procedures run in the safe order: **restart** (the honest first test — half of software's ghosts are states, not faults), **update** the program and system, **check capacity and settings**, **scan** for malware, **repair or reinstall** the failing part, and **restore** from backup or restore point when the fault survives. Around fixing stands **maintenance**: regular updates, disk cleaning, backup habits and removing what is unused — the procedures that make faults rarer, which Jordan's lesson counts as the senior half of troubleshooting: the best fix is the fault that never happens.
 
 In your mind's eye: fixing and maintenance procedures.
+
+[Picture 45277 — fixing and maintenance procedures]
 
 ## Say it to your companion
 

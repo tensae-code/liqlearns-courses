@@ -10,11 +10,15 @@ A **data book** is the manufacturer's book of information about **electronic com
 
 In your mind's eye: what a data book is.
 
+[Picture 45262 — what a data book is]
+
 ## Sub lesson 2 — Using a data book to choose and connect a component
 
 Before a component is used or replaced, its **data-book values are checked** — above all the **maximum voltage**, because a component used **beyond its rated limits can fail or be damaged**. In Papua New Guinea's lessons the data book comes out whenever computer electronic systems are set up: the rule is data book, never guess.
 
 In your mind's eye: using a data book to choose and connect a component.
+
+[Picture 45263 — using a data book to choose and connect a component]
 
 ## Say it to your companion
 

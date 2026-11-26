@@ -10,11 +10,15 @@ The Swiss **Thymio** robot feels its world through **sensors (capteurs)**: **pro
 
 In your mind's eye: thymio's senses.
 
+[Picture 45268 — thymio's senses]
+
 ## Sub lesson 2 — Testing sensors honestly
 
 The Grade 6 inquiry asks the scientist's question: **are Thymio's sensors effective with all materials?** Pupils test surfaces and objects — shiny, dull, dark, transparent — and record where detection succeeds and fails. Sensors have edges: a surface that swallows the light or reflects it away can fool a proximity sensor. Knowing a sensor's failures is part of programming with it — the program must be written for the sensor the robot actually has, in the world it actually meets.
 
 In your mind's eye: testing sensors honestly.
+
+[Picture 45269 — testing sensors honestly]
 
 ## Say it to your companion
 

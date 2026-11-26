@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Speakers Sound Out of the Comput
 
 In your mind's eye: speakers Sound Out of the Computer.
 
+[Picture 45280 — speakers - sound out of the computer]
+
 ## Sub lesson 2 — Doing it — Speakers Sound Out of the Computer in practice
 
 **Doing it — Speakers Sound Out of the Computer in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Speakers Sound Out of the Computer in practice.
+
+[Picture 45281 — doing it - connecting and testing speakers]
 
 ## Say it to your companion
 

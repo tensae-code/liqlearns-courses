@@ -10,11 +10,15 @@ A **single-board controller** is a **microcontroller on a PCB**: one chip holdin
 
 In your mind's eye: a controller, not a computer.
 
+[Picture 45274 — a controller, not a computer]
+
 ## Sub lesson 2 — Sensed input, driven output — the controller's loop
 
 The controller's whole life is a loop: **read** its input pins (sensors, buttons), **decide** by its program, **drive** its output pins (lights, motors, sounds) — forever, at electronic speed, without screen or keyboard. The board around the chip is the lesson's point: power parts, a clock, connection pins and often a USB door for loading the program turn a bare chip into a thing a pupil can build with. Arduino — the next lessons' platform — is this chapter's working example of the kind.
 
 In your mind's eye: sensed input, driven output — the controller's loop.
+
+[Picture 45275 — sensed input, driven output - the controller's loop]
 
 ## Say it to your companion
 

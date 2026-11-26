@@ -12,6 +12,8 @@ Storing is one single event: present the word on the eight input lines — say 1
 
 In your mind's eye: eight D flip-flops in a row under one shared clock line, the word 10110100 entering all eight inputs at once and standing stored on the eight Q outputs.
 
+[Picture 45266 — eight flip-flops holding a byte under one clock]
+
 Two facts to carry. First, **capacity**: a register of n flip-flops holds n bits — 8 flip-flops hold one byte, and 'a 32-bit register' is a row of 32. Second, **purpose**: registers are the fastest, smallest memory in the machine, sitting where the work happens. The CPU's own working registers hold exactly the words the current calculation is chewing on — the adders lesson will feed two registers into an arithmetic circuit and catch the result in a third.
 
 ## Sub lesson 2 — Shift registers — the bits move along
@@ -21,6 +23,8 @@ Now rewire the row: connect each flip-flop's Q to the *next* flip-flop's D, and 
 Feed it the word 1011, one bit per tick, first bit first into the row's near end. Tick 1: the first 1 is inside, alone. Tick 2: it shifts along and the 0 enters behind it. After four ticks the whole word stands in the row — a word that arrived as a *sequence in time* now stands as a *pattern in space*, ready to be read in parallel. That conversion — serial to parallel — is one of the shift register's main jobs in real machines, because wires are serial and words are parallel.
 
 In your mind's eye: a four-flip-flop shift register shown at four successive ticks, the bits 1, 0, 1, 1 entering one per tick and shuffling one place along at each tick.
+
+[Picture 45267 — a shift register at four ticks - bits shuffling along]
 
 Ways in and ways out combine into four named forms. **SISO** — serial in, serial out: the register is a delay line, data emerges the far end after n ticks. **SIPO** — serial in, parallel out: the gatherer just described. **PISO** — parallel in, serial out: load the whole word at once, then tick it out one bit per tick down a single wire — the sender. **PIPO** — parallel in, parallel out: the stationary register of the first part, which can be given shifting as an extra talent. Direction matters too: registers may shift right (toward the low end) or left, and the arithmetic lesson will show that shifting a binary word left multiplies it by two and shifting right divides it by two — the humble shuffle is secretly arithmetic.
 

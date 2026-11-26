@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Sensors Input Devices That Read 
 
 In your mind's eye: sensors Input Devices That Read the Environment.
 
+[Picture 45270 — sensors - input devices that read the environment]
+
 ## Sub lesson 2 — Activity: how a smartphone's sensors serve its apps
 
 This part of Pakistan (Punjab)'s book teaches **Activity: how a smartphone's sensors serve its apps** — covering: Unit 2 activity: how a smartphone's sensors serve its apps (exercise activity). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: activity. How a smartphone's sensors serve its apps.
+
+[Picture 45271 — how a smartphone's sensors serve its apps]
 
 ## Say it to your companion
 
