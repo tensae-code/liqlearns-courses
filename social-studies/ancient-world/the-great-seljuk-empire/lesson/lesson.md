@@ -12,6 +12,8 @@ The book's beat keeps the scale honest: a clan of Oghuz Turks defeats the Ghazna
 
 In your mind's eye: the Seljuk world — a sultan's court with his vizier, and a Nizamiyya madrasa where students gather under its arches. The student points to the madrasa and says what an empire gains by building schools.
 
+[Picture 61701 — from dandanakan to an empire]
+
 ## Sub lesson 2 — Government and society — sultan, vizier, iqta and the Nizamiyya madrasas
 
 Winning is only half the book's story; the other half is the machine. At its head the sultan; beside him the vizier — and the book names the greatest of them, Nizam al-Mulk, who organises the state. Land is granted as iqta to support soldiers and officials, and across the empire rise the Nizamiyya madrasas, the schools that train its servants and spread its learning.

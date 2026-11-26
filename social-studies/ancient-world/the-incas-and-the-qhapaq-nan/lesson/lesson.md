@@ -10,6 +10,8 @@ The Incas bind the Andes with the Qhapaq Ñan road network, terraced farms and a
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61717 — an empire without writing or money]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Los Incas — the Incas bind the Andes with the Qhapaq Ñan road network, terraced farms and a tightly ranked empire run without writing or money. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ a herding people from Mesopotamia settles Palestine between the Jordan river and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61706 — one god by covenant]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 1 Lesson 4, The early Israelites — a herding people from Mesopotamia settles Palestine between the Jordan river and the Dead Sea and keeps one God by covenant. Then let your companion ask you one hard question about it — answer from the lesson.

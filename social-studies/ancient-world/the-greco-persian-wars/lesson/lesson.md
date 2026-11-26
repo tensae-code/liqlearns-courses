@@ -10,6 +10,8 @@ The largest empire on earth meets the smallest states in Greece, and the small s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61702 — the small states win]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.IV §3: The Greco-Persian Wars. Then let your companion ask you one hard question about it — answer from the lesson.

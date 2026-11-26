@@ -10,6 +10,8 @@ The guide teaches the Idrisid state's founding and extent, and the spread of Isl
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61714 — fez is founded]
+
 ## Sub lesson 2 — Monument study — the Qarawiyyin Mosque-University
 
 The dynasty is studied through one standing monument: the Qarawiyyin Mosque-University in Fez, the world's enduring university-mosque.

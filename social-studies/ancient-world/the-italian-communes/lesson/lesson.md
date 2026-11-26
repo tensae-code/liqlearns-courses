@@ -10,6 +10,8 @@ Italian city-dwellers swear collective oaths and govern themselves through consu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61722 — cities govern themselves]
+
 ## Sub lesson 2 — L'Europa dei comuni; Lo scontro tra l'imperatore e i comuni italiani; Il giuramento di Pontida
 
 the communes swear their oath at Pontida (1167) and beat Barbarossa's empire at Legnano; canon law grows in the same cities as their other constitution

@@ -10,6 +10,8 @@ Gregory VII and Henry IV fight over who appoints bishops; the emperor stands bar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61719 — canossa then worms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 2 §5 The clash over investitures between pope and emperor — Gregory VII and Henry IV fight over who appoints bishops; the emperor stands barefoot in the snow at Canossa before Matilda's castle, then marches on Rome — the contest ends in compromise at Worms. Then let your companion ask you one hard question about it — answer from the lesson.

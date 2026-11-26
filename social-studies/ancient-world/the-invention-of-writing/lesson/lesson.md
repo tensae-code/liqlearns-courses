@@ -14,6 +14,8 @@ The book's beat is simple and huge: history proper begins the day a Sumerian pre
 
 In your mind's eye: a Sumerian scribe pressing a reed stylus into a wet clay tablet, wedge-shaped marks in neat rows, a basket of counted goods beside him. The student points to the marks and says what the tablet is remembering.
 
+[Picture 61718 — from tokens to the alphabet]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: From tokens and pictures to the alphabet. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Pachacuti's Inca bind the Andes with roads and storehouses, keeping accounts on 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61716 — roads stores and knotted cords]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §47 The Inca empire — Pachacuti's Inca bind the Andes with roads and storehouses, keeping accounts on knotted cords and farming terraces no European has seen. Then let your companion ask you one hard question about it — answer from the lesson.

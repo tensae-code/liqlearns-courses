@@ -10,6 +10,8 @@ Greek has been spoken and written continuously for over three and a half thousan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61703 — three and a half thousand years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 41b The language I speak — Greek has been spoken and written continuously for over three and a half thousand years, from Linear B to the child's own schoolbook. Then let your companion ask you one hard question about it — answer from the lesson.

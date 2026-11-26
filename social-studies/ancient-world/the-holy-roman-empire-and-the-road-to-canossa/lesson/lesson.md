@@ -10,6 +10,8 @@ Otto I, crowned emperor in 962, binds the Church to his crown; two centuries of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61712 — barefoot in the snow]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: European monarchies — the Holy Roman Empire — Otto I, crowned emperor in 962, binds the Church to his crown; two centuries of empire-versus-papacy explode when Gregory VII and Henry IV fight over who appoints bishops, and the emperor stands barefoot in the snow at Canossa begging pardon — yet by the Golden Bull of 1356 the empire is a league of near-independent princes. Then let your companion ask you one hard question about it — answer from the lesson.

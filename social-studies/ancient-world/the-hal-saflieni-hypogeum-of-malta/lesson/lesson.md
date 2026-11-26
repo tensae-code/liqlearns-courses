@@ -10,6 +10,8 @@ a Neolithic temple carved downward into rock is found under a housing estate and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61705 — a temple under the houses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 5.7: The rescue of the underground city of Saflieni (Ħal Saflieni), Malta — a Neolithic temple carved downward into rock is found under a housing estate and saved by controlling its own air. Then let your companion ask you one hard question about it — answer from the lesson.

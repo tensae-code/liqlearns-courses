@@ -10,6 +10,8 @@ the "Greek miracle" — city-states with acropolis and agora arise, demos fights
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61704 — acropolis agora colonies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 3: Formarea polisurilor. Marea colonizare greacă — the "Greek miracle" — city-states with acropolis and agora arise, demos fights aristocracy for land and power, and colonies ring the Mediterranean. Then let your companion ask you one hard question about it — answer from the lesson.

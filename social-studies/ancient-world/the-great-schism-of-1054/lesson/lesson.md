@@ -10,6 +10,8 @@ five patriarchates guard the faith and councils settle its quarrels, but Rome's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61700 — 1054 a divorce never healed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 1: the Church in the early Middle Ages — five patriarchates guard the faith and councils settle its quarrels, but Rome's pope and Constantinople's patriarch drift apart over doctrine and pride until, in 1054, mutual excommunication splits Christianity into Catholic West and Orthodox East — a divorce never healed. Then let your companion ask you one hard question about it — answer from the lesson.

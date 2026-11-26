@@ -10,6 +10,8 @@ Edward III's claim opens a war in 1337, English longbows win at Crécy and Aginc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61713 — 1337 to 1453]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §41 The Hundred Years' War — Edward III's claim opens a war in 1337, English longbows win at Crécy and Agincourt, Joan of Arc turns the tide in 1429, and by 1453 France emerges as Europe's strongest kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

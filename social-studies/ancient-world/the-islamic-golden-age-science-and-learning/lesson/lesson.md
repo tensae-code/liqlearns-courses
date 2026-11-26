@@ -10,11 +10,15 @@ while kings fight, scholars measure the earth, heal the sick and invent algebra 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61720 — while kings fight scholars measure]
+
 ## Sub lesson 2 — What factors caused the spread of sciences and techniques in the Islamic period?
 
 the child asks why — translation, paper, patronage and a shared language turn scattered learning into a civilisation-wide bloom (What factors caused the spread of sciences and techniques in the Islamic period?)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61721 — why the bloom spread]
 
 ## Say it to your companion
 

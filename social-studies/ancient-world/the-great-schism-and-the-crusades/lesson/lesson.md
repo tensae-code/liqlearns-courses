@@ -10,6 +10,8 @@ Latin West and Greek East split over rite and authority; crusaders march east, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61699 — split then crusade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 3: Marea Schismă a Bisericii Creştine. Cruciadele — Latin West and Greek East split over rite and authority; crusaders march east, and Saladin retakes Jerusalem from them. Then let your companion ask you one hard question about it — answer from the lesson.
