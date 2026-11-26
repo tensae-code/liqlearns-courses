@@ -10,11 +10,15 @@ A JavaScript **array** holds **many values under one name**, in order: let marks
 
 In your mind's eye: building and reaching — indexes from zero.
 
+[Picture 46724 — building and reaching — indexes from zero]
+
 ## Sub lesson 2 — Looping and changing
 
 Arrays are worked **by loop**: a for loop running i from 0 to length − 1 visits every value in order — the shape behind totalling, searching and printing a list. Arrays **change**: a value is replaced by assignment (marks[2] = 65;), new values are added at the end with **push**, and removed from the end with **pop**. Malaysia's scripts put array and loop together for the page's real work — a class's marks totalled, a list of names printed, a highest mark found — the array is the script's memory of many, the loop its way of visiting them all.
 
 In your mind's eye: looping and changing.
+
+[Picture 46725 — looping and changing]
 
 ## Say it to your companion
 

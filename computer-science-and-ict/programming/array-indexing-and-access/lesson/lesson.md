@@ -10,11 +10,15 @@ The first element is number zero, not one — the single most important counting
 
 In your mind's eye: counting from zero.
 
+[Picture 46720 — counting from zero]
+
 ## Sub lesson 2 — The edge — out of bounds
 
 **a[n]** does not exist: it names memory **past the array**, and C++ performs **no bounds checking** — reading it gives garbage, writing it damages whatever lives there, and the program may crash later somewhere unrelated. Keeping the loop condition **i < n** (never i <= n) is the standing guard. Off-by-one at the array's edge is the classic array bug.
 
 In your mind's eye: the edge — out of bounds.
+
+[Picture 46721 — the edge — out of bounds]
 
 ## Say it to your companion
 

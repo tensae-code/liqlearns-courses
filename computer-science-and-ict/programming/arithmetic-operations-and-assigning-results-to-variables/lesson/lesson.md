@@ -10,11 +10,15 @@ The **arithmetic blocks** perform the four operations: **addition, subtraction, 
 
 In your mind's eye: the four arithmetic blocks.
 
+[Picture 46714 — the four arithmetic blocks]
+
 ## Sub lesson 2 — Assigning results — and printing them
 
 A result that is not kept is lost: **assign the result to a variable** and the program holds it for later blocks — a total to drive by, a count to test. The **Print console** shows results as the program runs, so you can check the arithmetic with your own head before trusting it in the robot's behaviour.
 
 In your mind's eye: assigning results — and printing them.
+
+[Picture 46715 — assigning results — and printing them]
 
 ## Say it to your companion
 

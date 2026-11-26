@@ -10,11 +10,15 @@ An **array** is a fixed row of values **of one type** under **one name**, each r
 
 In your mind's eye: declaration and elements — the name with an address.
 
+[Picture 46726 — declaration and elements — the name with an address]
+
 ## Sub lesson 2 — Working the array — loops, and the border's danger
 
 Almost all array work is a **for loop** walking the index across the whole range: reading in, printing out, summing into an accumulator, searching for a value or the greatest element — the patterns Grade 11 calls array processing. The structure's danger stands at its **borders**: an index outside the declared range touches memory that is not the array's — Pascal's range checking (switched on) catches it; C++ lets it pass silently into corruption. Every array program therefore guards its indexes the way drivers guard a cliff road.
 
 In your mind's eye: working the array — loops, and the border's danger.
+
+[Picture 46727 — working the array — loops, and the border's danger]
 
 ## Say it to your companion
 

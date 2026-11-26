@@ -10,11 +10,15 @@ An **array** holds **many values of one type** under **one name**: `int marks[30
 
 In your mind's eye: declaring and initialising — one name, many rooms.
 
+[Picture 46722 — declaring and initialising — one name, many rooms]
+
 ## Sub lesson 2 — Indexing — counting from zero, and the edge
 
 Rooms are reached by **index**: `marks[0]` is the **first** room, `marks[29]` the thirtieth and last — C counts from **zero**, so the last index is always **size − 1**. The loop and the array are made for each other: a for loop walking i from 0 to size−1 visits every room exactly once, which is how arrays are filled, summed and searched (the linear-search placement's home ground). The edge is unforgiving: C does **not check** an index — `marks[30]` reaches into memory that is not yours and reads or writes a stranger's value silently. The boundary is the programmer's own discipline: the loop's condition is the fence, and it must be written like one.
 
 In your mind's eye: indexing — counting from zero, and the edge.
+
+[Picture 46723 — indexing — counting from zero, and the edge]
 
 ## Say it to your companion
 

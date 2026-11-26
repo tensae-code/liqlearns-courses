@@ -10,11 +10,15 @@ C++ computes with **+** (add), **−** (subtract), **\*** (multiply), **/** (div
 
 In your mind's eye: the operators — and the remainder.
 
+[Picture 46716 — the operators — and the remainder]
+
 ## Sub lesson 2 — Order — precedence and brackets
 
 Expressions are evaluated by **precedence**: brackets first, then **\* / %**, then **+ −**; equal ranks go left to right. So 2 + 3 * 4 = **14**, not 20 — and (2 + 3) * 4 = **20** because the brackets reorder it. An expression's single final **value** is what an assignment stores or an output prints, so reading an expression means working out that one value step by step.
 
 In your mind's eye: order — precedence and brackets.
+
+[Picture 46717 — order — precedence and brackets]
 
 ## Say it to your companion
 

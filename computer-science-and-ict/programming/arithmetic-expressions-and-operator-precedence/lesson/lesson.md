@@ -10,11 +10,15 @@ An **arithmetic (mathematical) expression** is a piece of a program that **works
 
 In your mind's eye: the arithmetic expression.
 
+[Picture 46712 — the arithmetic expression]
+
 ## Sub lesson 2 — Grouping and precedence
 
 Not all operations are worked out in reading order: **precedence** fixes which operation is done first — multiplication and division before addition and subtraction. **Grouping** changes the order on purpose: the part inside **brackets** is worked out first, whatever the precedence says. So 2 + 3 × 4 is 14, but (2 + 3) × 4 is 20 — the brackets, not the numbers, made the difference.
 
 In your mind's eye: grouping and precedence.
+
+[Picture 46713 — grouping and precedence]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Arithmetic Expression** — cove
 
 In your mind's eye: arithmetic Expression.
 
+[Picture 46710 — arithmetic Expression]
+
 ## Sub lesson 2 — Doing it — Arithmetic Expressions and Converting Algebra in practice
 
 **Doing it — Arithmetic Expressions and Converting Algebra in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Arithmetic Expressions and Converting Algebra in practice.
+
+[Picture 46711 — doing it — Arithmetic Expressions and Converting Algebra in practice]
 
 ## Say it to your companion
 
