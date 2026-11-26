@@ -10,11 +10,15 @@ The specialist project — a travel handbook — begins with **outlining and for
 
 In your mind's eye: styles first — the outline inside the document.
 
+[Picture 45581 — styles first — the outline inside the document]
+
 ## Sub lesson 2 — The navigation pane — moving and reshaping by headings
 
 The **navigation pane** is the panel that shows the outline beside the text. In it you **jump** — click a heading and the document moves there, however long it is; you **search** the document's text from its search box; and you **reshape** — **drag a heading in the pane and its whole section moves with it**, pages of text reordered without a single cut and paste. The handbook discipline closes the lesson: keep headings honest (a heading style for real headings only), and the pane stays a true map.
 
 In your mind's eye: the navigation pane — moving and reshaping by headings.
+
+[Picture 45582 — the navigation pane — moving and reshaping by headings]
 
 ## Say it to your companion
 

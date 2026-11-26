@@ -10,6 +10,8 @@ A **business letter** is work written down: a letter between people and organisa
 
 In your mind's eye: a business letter laid out with all its parts labelled, from the sender's address to the signature block.
 
+[Picture 45589 — a business letter laid out with all its parts labelled, from the sender's address to the signature block]
+
 Its parts, in order:
 
 1. **The sender's name and address** — who is writing and from where, at the head; a business writes under its name, often on its own letterhead.
@@ -23,6 +25,8 @@ Its parts, in order:
 9. **A formal closing, the signature, and the name and position** — the writer signs, and under the signature stand the full name and the position in the business, so the office knows who stands behind the letter.
 
 In your mind's eye: a weak first paragraph that buries its purpose, beside a strong one that states it in its first sentence.
+
+[Picture 45590 — a weak first paragraph that buries its purpose, beside a strong one that states it in its first sentence]
 
 Three disciplines run through every part. **Exact**: a business letter is acted on, and an error in a number, a name or a date becomes an error in goods, money or time. **Brief**: every paragraph earns its place; the receiver's time is part of the business. **Respectful**: formal greeting, formal closing, no pressure and no familiarity — the letter may be read by many people, and kept for years.
 

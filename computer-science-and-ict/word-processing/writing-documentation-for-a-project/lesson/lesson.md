@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Preparing the game document** — cover
 
 In your mind's eye: preparing the game document.
 
+[Picture 45593 — preparing the game document]
+
 ## Sub lesson 2 — Preparing the document for the game
 
 This part of Kazakhstan's book teaches **Preparing the document for the game** — covering: §33: Preparing the document for the game. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: preparing the document for the game.
+
+[Picture 45594 — preparing the document for the game]
 
 ## Say it to your companion
 

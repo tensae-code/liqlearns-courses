@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Writing a School Report** — covering:
 
 In your mind's eye: writing a School Report.
 
+[Picture 45591 — writing a School Report]
+
 ## Sub lesson 2 — Writing a School Report
 
 This part of Kazakhstan's book teaches **Writing a School Report** — covering: §34: Practicum — writing a referat (mini-project). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: writing a School Report.
+
+[Picture 45592 — writing a School Report]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Typing speed is counted in **words per minute (wpm)** — how many words are typ
 
 In your mind's eye: speed — words per minute.
 
+[Picture 45579 — speed — words per minute]
+
 ## Sub lesson 2 — Accuracy — typing without errors
 
 **Accuracy** is the share of the typing that is **correct**. The benchmarks pair it with speed every time: **80% accuracy in Grade 9**, **75–90% in Grade 10** and **85–100% in Grade 11**. Both are measured together because fast typing full of errors is not good typing; when you make an error in practice, correct it and keep the rhythm.
 
 In your mind's eye: accuracy — typing without errors.
+
+[Picture 45580 — accuracy — typing without errors]
 
 ## Say it to your companion
 

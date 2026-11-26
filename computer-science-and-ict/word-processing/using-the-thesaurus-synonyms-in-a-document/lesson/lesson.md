@@ -10,11 +10,15 @@ Words that carry the **same or nearly the same meaning** are **synonyms**: big a
 
 In your mind's eye: synonyms — the same meaning, another word.
 
+[Picture 45583 — synonyms — the same meaning, another word]
+
 ## Sub lesson 2 — The thesaurus — finding the synonym in the program
 
 The word processor carries a **thesaurus** — a synonym finder built into the program. The working order is: **select the word** in your text, **open the thesaurus**, read the synonyms it offers, **choose** the one that fits, and let the program **replace** the word — or type the change yourself. Then read the sentence again whole: the thesaurus offers, but the writer decides, because only the writer knows what the sentence must say.
 
 In your mind's eye: the thesaurus — finding the synonym in the program.
+
+[Picture 45584 — the thesaurus — finding the synonym in the program]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Some words in a document are meant to be looked at, not just read: titles, poste
 
 In your mind's eye: what WordArt is.
 
+[Picture 45585 — what WordArt is]
+
 ## Sub lesson 2 — When decoration serves the document
 
 WordArt serves **titles and posters**: one short line, large, saying the document's name — never whole paragraphs, which become unreadable in decoration. The lesson's taste rule: if a reader must work to read it, it has failed; decoration carries the title and leaves the text plain. Grade 6 pupils practise on the cover of their own document from the course's earlier lessons.
 
 In your mind's eye: when decoration serves the document.
+
+[Picture 45586 — when decoration serves the document]
 
 ## Say it to your companion
 

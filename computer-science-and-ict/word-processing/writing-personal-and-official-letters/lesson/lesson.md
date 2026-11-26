@@ -10,6 +10,8 @@ A **personal letter** is written to someone you know: a friend, a relative, a te
 
 In your mind's eye: a personal letter laid out with its parts labelled. Address and date, greeting, body, closing, name.
 
+[Picture 45597 — a personal letter laid out with its parts labelled. Address and date, greeting, body, closing, name]
+
 Its parts, in order:
 
 1. **Your own address and the date** — at the head of the letter, so your reader knows where the letter comes from and when it was written.
@@ -25,6 +27,8 @@ The personal letter's mark: nothing in it is stiff. If it does not sound like yo
 An **official letter** is written to an office, an organisation or an authority — to a reader who does not know you, and who must act on your letter among many others. Its form must carry everything by itself: who you are, who it is for, and exactly what the matter is.
 
 In your mind's eye: an official letter laid out with its parts labelled. Sender's address, receiver's address, date, subject line, greeting, matter paragraphs, closing, signature and name.
+
+[Picture 45598 — an official letter laid out with its parts labelled. Sender's address, receiver's address, date, subject line, greeting, matter paragraphs, closing, signature and name]
 
 Its parts, in order:
 

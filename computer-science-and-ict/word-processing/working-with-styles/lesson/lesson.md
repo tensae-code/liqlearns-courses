@@ -10,11 +10,15 @@ Word ships with ready **styles** — Heading 1, Heading 2, Normal and more — i
 
 In your mind's eye: applying and using styles.
 
+[Picture 45587 — applying and using styles]
+
 ## Sub lesson 2 — Editing and creating styles
 
 **Modify** a style and every paragraph wearing it updates together — the document's whole look can change from one edit. You can also **create** a new style from a paragraph you have formatted by hand, give it a name, and reuse it. North Macedonia's book gives styles unusual depth for this level: styles come first in its Word theme, before contents and templates, because the other two are built on them.
 
 In your mind's eye: editing and creating styles.
+
+[Picture 45588 — editing and creating styles]
 
 ## Say it to your companion
 
