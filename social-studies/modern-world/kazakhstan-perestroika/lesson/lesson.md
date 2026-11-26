@@ -10,17 +10,23 @@ glasnost opens the archives — the famine and the camps can finally be named
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41548 — finallynamed]
+
 ## Sub lesson 2 — §13 Kazakhstan at the initial stage of perestroika
 
 glasnost opens the archives; forbidden topics can be named
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41547 — archivesopen]
+
 ## Sub lesson 3 — §15 Democratic processes in Kazakhstan in the perestroika years
 
 movements, informal groups and a freer press push the system open
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41546 — pushsystemopen]
 
 ## Say it to your companion
 

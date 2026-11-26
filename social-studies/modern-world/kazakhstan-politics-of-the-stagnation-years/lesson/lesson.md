@@ -10,17 +10,23 @@ stability at the price of stagnation — Kunaev's long rule
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41541 — longrule1965-85]
+
 ## Sub lesson 2 — §22. "Personalities": the work of the Kazakh SSR's leaders Zh. Shayakhmetov, D. Kunaev, Zh. Tashenev
 
 three leaders, three fates — the republic's room to manoeuvre inside the Union
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41540 — threeleadersthreefates]
+
 ## Sub lesson 3 — §8 Contradictions in Kazakhstan's socio-political development in the 1960s–80s
 
 Kunaev-era stability hides national grievances and decay
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41539 — calmcrackbelow]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ settler villages take the best watered land and nomads are squeezed onto poorer 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41552 — nomadssqueezed]
+
 ## Sub lesson 2 — §38 The Russian Empire's resettlement policy
 
 peasant settlers are planted on the best steppe land by state plan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41551 — plantedbestland]
 
 ## Sub lesson 3 — §4 The Stolypin agrarian reform and the mass resettlement of peasants to Kazakhstan
 
@@ -22,11 +26,15 @@ Stolypin's reform ships millions of settlers onto land declared "surplus" to the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41550 — stolypinsurplus]
+
 ## Sub lesson 4 — §5.3 How did the tsarist government's resettlement policy change the life of Kazakh society?
 
 settler villages redraw the steppe's map of pasture and water
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41549 — villagesredrawmap]
 
 ## Say it to your companion
 

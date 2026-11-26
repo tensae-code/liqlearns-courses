@@ -10,11 +10,15 @@ zhyrau poets like Bukhar and Umbetai sing counsel to khans and keep the nation's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41560 — counselinverse]
+
 ## Sub lesson 2 — §15 Historical events reflected in the works of the akyn-zhyraus of the 18th century
 
 the zhyrau's verses to the khans are read as chronicles of the Dzhungar wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41559 — verseswar]
 
 ## Sub lesson 3 — §3.1 How are historical events reflected in the works of the akyn-zhyraus of the 18th century?
 
@@ -22,11 +26,15 @@ poems are mined as chronicles of khans and battles
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41558 — poemschronicles]
+
 ## Sub lesson 4 — Lesson plans §§15–18: historical events in the akyn-zhyraus' works; spiritual culture; applied art; national dress
 
 poems, ornaments and dress are taught as evidence for the 18th century
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41557 — artasevidence]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ a ruined republic rebuilds — geologists open new deposits and factories rise o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41538 — geologistsdeposits]
+
 ## Sub lesson 2 — §1 The Kazakh SSR's socio-economic development in the post-war years
 
 a ruined republic rebuilds its farms, mines and factories

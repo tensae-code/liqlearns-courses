@@ -10,17 +10,23 @@ shezhire genealogies and epic singers hand the past down by memory as print begi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41556 — memorytoprint]
+
 ## Sub lesson 2 — §48 Oral folk art in the 19th century
 
 epic singers carry Koblandy and Er Targyn to new audiences
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41555 — koblandyertargyn]
+
 ## Sub lesson 3 — §49 Prominent representatives of oral folk literature of the 19th–early 20th centuries
 
 the great zhyraus and akyns are named one by one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41554 — singersnamed]
 
 ## Say it to your companion
 
