@@ -17,6 +17,8 @@ In your mind's eye: a cup tipping dry sand in a thin stream onto a tray, the hea
 
 In your mind's eye: dry sand pouring from a cup, the stream running and the heap spreading. Say how the grains move together.
 
+[GIF 37067 — dry sand pouring from a cup, the heap spreading as the grains run together]
+
 ## Sub lesson 2 — What changes the flow
 
 Now ask the activity's own question: **what affects the flowing?**
