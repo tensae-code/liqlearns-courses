@@ -9,7 +9,11 @@ The appliances around us that run on electricity increasingly work through **ele
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38838 — electronic appliances in daily life]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38839 — components that control the current]
 
 ## Sub lesson 2 — Electronic components — the LED
 

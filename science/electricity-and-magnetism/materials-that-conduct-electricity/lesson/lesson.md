@@ -11,7 +11,11 @@ Kuwait's Grade 3 book teaches conduction by testing: the child builds a simple c
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 38847 — testing which materials conduct]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 38848 — conductors let the current pass]
 
 ## Sub lesson 2 — Insulators stop the current
 

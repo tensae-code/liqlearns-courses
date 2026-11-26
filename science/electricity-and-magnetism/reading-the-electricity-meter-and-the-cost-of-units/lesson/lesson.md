@@ -9,7 +9,11 @@ Seychelles' Unit 11 Topic 5, "The cost of energy", teaches the electricity meter
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38849 — reading the electricity meter]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38850 — the difference is the units used]
 
 ## Sub lesson 2 — The cost of a unit — and an appliance's power in watts
 

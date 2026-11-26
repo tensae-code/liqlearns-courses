@@ -11,7 +11,11 @@ Each guess points at one part of the circuit. That is what makes the guessing us
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38840 — guessing why the torch will not]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38841 — finding the fault with a tester]
 
 ## Sub lesson 2 — Building a circuit tester and finding the fault
 

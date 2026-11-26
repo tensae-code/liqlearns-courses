@@ -13,7 +13,11 @@ That surrounding presence is this lesson's one thing: electricity is met first a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38836 — electricity at work all around us]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38837 — electricity doing jobs one device at]
 
 ## Sub lesson 2 — Meeting it before building with it
 

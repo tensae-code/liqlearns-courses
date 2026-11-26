@@ -2431,6 +2431,36 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38831 | pictures/38831.webp | What 'work' means in science — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work in science — when a force moves a thing |
 | 38832 | pictures/38832.webp | Work is force times distance — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work is force times distance |
 | 38833 | pictures/38833.webp | More distance, more work — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work is force times distance |
+| 38834 | pictures/38834.webp | Circuit symbols: the tiny alphabet — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Drawing circuits — with symbols |
+| 38835 | pictures/38835.webp | A circuit drawn in symbols — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Drawing circuits — with symbols |
+| 38836 | pictures/38836.webp | Electricity at work all around us — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Electricity around us |
+| 38837 | pictures/38837.webp | Electricity doing jobs, one device at a time — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Electricity around us |
+| 38838 | pictures/38838.webp | Electronic appliances in daily life — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Electronic appliances and LEDs |
+| 38839 | pictures/38839.webp | Components that control the current — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Electronic appliances and LEDs |
+| 38840 | pictures/38840.webp | Guessing why the torch will not light — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Finding circuit faults with a tester |
+| 38841 | pictures/38841.webp | Finding the fault with a tester — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Finding circuit faults with a tester |
+| 38842 | pictures/38842.webp | The fuse: a guard that melts to protect — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Fuses and circuit breakers — keeping circuits safe |
+| 38843 | pictures/38843.webp | The fuse melts and breaks the circuit — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Fuses and circuit breakers — keeping circuits safe |
+| 38844 | pictures/38844.webp | The invention of electric current — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, How electricity was discovered |
+| 38845 | pictures/38845.webp | Making a magnet by stroking: the set-up — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Making a magnet by stroking |
+| 38846 | pictures/38846.gif | Making a magnet by stroking — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Making a magnet by stroking |
+| 38847 | pictures/38847.webp | Testing which materials conduct — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Materials that conduct electricity |
+| 38848 | pictures/38848.webp | Conductors let the current pass — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Materials that conduct electricity |
+| 38849 | pictures/38849.webp | Reading the electricity meter — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Reading the electricity meter and the cost of units |
+| 38850 | pictures/38850.webp | The difference is the units used — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Reading the electricity meter and the cost of units |
+| 38851 | pictures/38851.webp | Cells and batteries: stored sources — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Sources of electricity |
+| 38852 | pictures/38852.webp | When the store is spent — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Sources of electricity |
+| 38853 | pictures/38853.webp | Static electricity: charges by rubbing — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Static electricity and lightning |
+| 38854 | pictures/38854.webp | Static charges attract — and jump — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Static electricity and lightning |
+| 38855 | pictures/38855.webp | The electroscope: what it is for — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, The electroscope and electric charge |
+| 38856 | pictures/38856.webp | Tools and materials for electricity — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Tools and materials for electricity |
+| 38857 | pictures/38857.webp | The tester at work — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Tools and materials for electricity |
+| 38858 | pictures/38858.webp | Where care is needed at home — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Using electricity safely at home |
+| 38859 | pictures/38859.webp | The danger sits at the socket — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Using electricity safely at home |
+| 38860 | pictures/38860.webp | Household appliances, used in order — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Using household electrical appliances safely |
+| 38861 | pictures/38861.webp | Finishing properly: unplug and put away — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, Using household electrical appliances safely |
+| 38862 | pictures/38862.webp | What stops when the electricity goes — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, When there is no electricity |
+| 38863 | pictures/38863.webp | The stop names the jobs — drawn render, Photos+GIFs front 2026-11-26 | Science — Electricity and Magnetism, When there is no electricity |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

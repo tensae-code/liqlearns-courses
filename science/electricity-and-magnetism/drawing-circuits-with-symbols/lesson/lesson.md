@@ -13,7 +13,11 @@ Learning the symbols is learning a tiny alphabet: part by part, real thing besid
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38834 — circuit symbols the tiny alphabet]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38835 — a circuit drawn in symbols]
 
 ## Sub lesson 2 — Drawing a real circuit on paper
 

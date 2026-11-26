@@ -11,7 +11,11 @@ Using is a skill with an order: know the appliance, connect it rightly, work it 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38860 — household appliances used in order]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38861 — finishing properly unplug and put away]
 
 ## Sub lesson 2 — The electric iron — its parts and safe handling
 

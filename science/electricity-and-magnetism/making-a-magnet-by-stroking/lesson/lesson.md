@@ -9,7 +9,11 @@ Papua New Guinea's Grade 3 textbook teaches the surprising step after magnets at
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38845 — making a magnet by stroking the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[GIF 38846 — making a magnet by stroking]
 
 ## Sub lesson 2 — Stroking — the making, and the test
 

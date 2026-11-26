@@ -11,7 +11,11 @@ The stop shows what electricity had been carrying. Naming what stops is naming, 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38862 — what stops when the electricity goes]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38863 — the stop names the jobs]
 
 ## Sub lesson 2 — How life goes on without it
 

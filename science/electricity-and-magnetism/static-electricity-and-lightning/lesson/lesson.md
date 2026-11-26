@@ -9,7 +9,11 @@ Grade 5's §7.4 teaches static electricity: rubbing two things together builds u
 
 In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
+[Picture 38853 — static electricity charges by rubbing]
+
 In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
+
+[Picture 38854 — static charges attract and jump]
 
 ## Sub lesson 2 — Like charges repel, unlike attract — and lightning
 

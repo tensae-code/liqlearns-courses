@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "What an electroscope is f
 
 In your mind's eye: what an electroscope is for as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38855 — the electroscope what it is for]
+
 ## The key ideas
 
 - What an electroscope is for — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

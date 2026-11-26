@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "How electric current was 
 
 In your mind's eye: how electric current was invented as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38844 — the invention of electric current]
+
 ## The key ideas
 
 - How electric current was invented — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

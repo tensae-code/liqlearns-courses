@@ -11,7 +11,11 @@ The danger is not a reason to fear electricity; it is a reason to respect it. Th
 
 In your mind's eye: a home scene with electricity at work — lamp, wires, socket. The student points to each place where care is needed.
 
+[Picture 38858 — where care is needed at home]
+
 In your mind's eye: a lamp switching on, then the same scene with a warning pause at the socket. Say what the danger is and where it sits.
+
+[Picture 38859 — the danger sits at the socket]
 
 ## Sub lesson 2 — How to protect yourself
 

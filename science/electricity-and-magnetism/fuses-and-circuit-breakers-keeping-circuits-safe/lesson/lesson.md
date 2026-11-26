@@ -9,7 +9,11 @@ Grade 5's §7.3 teaches the fuse and its uses: a fuse is placed in the circuit s
 
 In your mind's eye: the lesson's central object or set-up. Name its parts before reading on.
 
+[Picture 38842 — the fuse a guard that melts]
+
 In your mind's eye: the lesson's central change or test result,. Say what changed and what it proves.
+
+[Picture 38843 — the fuse melts and breaks the]
 
 ## Sub lesson 2 — The circuit breaker — the same job, switchable
 

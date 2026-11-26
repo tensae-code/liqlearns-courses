@@ -9,7 +9,11 @@ Some sources hold electricity ready inside them. A **cell** — the dry cell in 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38851 — cells and batteries stored sources]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38852 — when the store is spent]
 
 ## Sub lesson 2 — Sources that make electricity — mains and generators
 
