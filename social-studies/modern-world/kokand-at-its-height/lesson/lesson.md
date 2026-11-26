@@ -10,6 +10,8 @@ under Umar Khan and Madali Khan, Kokand stretches from the Syr Darya to Kashgar'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41418 — taxedcaravans]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VII §§34–35 The socio-political situation of the Kokand Khanate in the first half of the 19th century; Its economic life — under Umar Khan and Madali Khan, Kokand stretches from the Syr Darya to Kashgar's edge, taxing the caravans of three empires. Then let your companion ask you one hard question about it — answer from the lesson.

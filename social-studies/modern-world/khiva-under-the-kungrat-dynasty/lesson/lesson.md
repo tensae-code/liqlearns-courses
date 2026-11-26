@@ -10,6 +10,8 @@ the Kungrat inaks gather real power, then take the throne (1804); Eltuzar and Mu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41423 — inaks1804]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §23 The Kungrat dynasty comes to power in the Khiva Khanate — the Kungrat inaks gather real power, then take the throne (1804); Eltuzar and Muhammad Rahim centralise the khanate and rebuild Khiva. Then let your companion ask you one hard question about it — answer from the lesson.

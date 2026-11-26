@@ -10,11 +10,15 @@ after Stalin, camps empty and voices soften — but the system endures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41438 — softenendures]
+
 ## Sub lesson 2 — §4 Socio-political development of Kazakhstan in the "Khrushchev thaw" period
 
 Stalin dies; camps empty; voices soften
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41437 — campsempty]
 
 ## Say it to your companion
 

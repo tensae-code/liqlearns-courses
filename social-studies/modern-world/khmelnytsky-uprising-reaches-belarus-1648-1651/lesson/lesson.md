@@ -10,6 +10,8 @@ Bohdan Khmelnytsky, denied his rights and his church's, raises Ukraine, and Coss
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41421 — warreachesbelarus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Cossack-Peasant War 1648–1651. Then let your companion ask you one hard question about it — answer from the lesson.

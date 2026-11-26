@@ -10,6 +10,8 @@ cotton money seeps into the oasis, taxes crush the dekhkans, Junaid Khan's wars 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41422 — cottonmoneyfall]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6 §§28–30 The development of commodity-money relations in Khiva; The socio-economic situation of the population; The fall of the Khiva Khanate — cotton money seeps into the oasis, taxes crush the dekhkans, Junaid Khan's wars finish the state before the 1920 revolution renames it. Then let your companion ask you one hard question about it — answer from the lesson.

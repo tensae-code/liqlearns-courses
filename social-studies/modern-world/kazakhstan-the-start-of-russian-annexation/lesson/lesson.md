@@ -28,17 +28,23 @@ one letter of 1730 is cross-examined — plea for help, or surrender of sovereig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41441 — letter1730]
+
 ## Sub lesson 5 — §2.3 How did the Middle Zhuz join Russia?
 
 the Middle Zhuz's oaths and embassies follow a different road to the same empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41440 — middlezhuzroad]
+
 ## Sub lesson 6 — Lesson plans §§9–14: Abulkhair's oath; Russia's policy in the 1730s–50s; Abylai's rise and policy
 
 the oath is analysed for causes and aims, then Abylai is built up lesson by lesson as the khanate's restorer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41439 — oathrestorer]
 
 ## Say it to your companion
 

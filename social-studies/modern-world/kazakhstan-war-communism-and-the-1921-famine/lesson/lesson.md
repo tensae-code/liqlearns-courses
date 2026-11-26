@@ -10,6 +10,8 @@ requisition squads and a killing dzhut starve the steppe in 1921
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41428 — dzhut1921]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §21 The policy of "war communism"; dzhut and famine in 1921 — requisition squads and a killing dzhut starve the steppe in 1921. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Faisal I dies and his son Ghazi takes the throne, then Ghazi's own sudden death 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41419 — twokingstwocandles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Faisal dies; Ghazi reigns and dies — Faisal I dies and his son Ghazi takes the throne, then Ghazi's own sudden death is announced — two successions shake the young kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

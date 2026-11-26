@@ -10,6 +10,8 @@ Khiva raids and trades with Kazakhs, Turkmens and Russia at once, while Ichan-Ka
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41424 — ichankala]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §§24–26 The foreign policy of the Khiva Khanate; Its socio-economic life; Life in the cities of the Khanate — Khiva raids and trades with Kazakhs, Turkmens and Russia at once, while Ichan-Kala's walls, mosques and madrasas rise inside the oasis. Then let your companion ask you one hard question about it — answer from the lesson.

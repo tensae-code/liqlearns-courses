@@ -10,17 +10,23 @@ Mangystau and other regions rise against the new taxes and land rules and are pu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41431 — taxesrisingsdown]
+
 ## Sub lesson 2 — §§35–36 The liberation struggle in 1860–1870
 
 Mangystau and the steppe districts rise against the new order
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41430 — mangystaurises]
+
 ## Sub lesson 3 — §5.2 Why did the national-liberation uprisings of the 1860s–70s end in failure?
 
 the risings' weaknesses — disunity, no artillery, no allies — are weighed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41429 — threeweaknesses]
 
 ## Say it to your companion
 
