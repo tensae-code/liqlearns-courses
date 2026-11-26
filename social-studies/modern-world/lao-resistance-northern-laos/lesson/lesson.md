@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the north answers too 
 the north answers too — risings around Muang Sing and the Hmong resistance under Chao Fa Patchai
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41381 — muangsinganswers]
 ## Sub lesson 2 — Part III, Lesson 13: Resistance in northern Laos
 
 Chao Fa Patchai and the Hmong of the north fight the French and their tax men
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41380 — taxmenrefused]
 
 ## Say it to your companion
 

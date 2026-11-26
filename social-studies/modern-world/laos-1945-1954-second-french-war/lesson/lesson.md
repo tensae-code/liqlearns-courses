@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: France returns in 1946
 France returns in 1946 to retake Laos; the Lao Issara government flees and the resistance rebuilds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41373 — issarafleesstays]
 ## Sub lesson 2 — Part III, Lesson 10: 1945–1950 — Resistance against the French colonialists, 1945–1950
 
 France returns with troops; the free government retreats to the countryside and guerrilla war begins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41372 — retreattothehills]
 ## Sub lesson 3 — Part III, Lesson 10: 1945–1950 — Resistance against France, 1945–1950
 
 France returns; guerrilla war begins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41371 — forestanswers]
 ## Sub lesson 4 — Part III, Lesson 13: II — France seizes Laos a second time
 
 France returns in 1946; the resistance rebuilds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41370 — francereturns1946]
 
 ## Say it to your companion
 

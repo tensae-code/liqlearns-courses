@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: from Ong Keo's Bolaven
 from Ong Keo's Bolaven rising to the first modern movements, the resistance never fully goes out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41379 — nevergoesout]
 ## Sub lesson 2 — Part VI, Lesson 18: The Lao struggle against France
 
 from Ong Keo's rising to the first modern movements, resistance never goes out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41378 — ongkeotomodern]
 
 ## Say it to your companion
 

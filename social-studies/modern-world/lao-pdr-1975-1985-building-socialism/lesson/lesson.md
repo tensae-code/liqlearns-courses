@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: the new republic defen
 the new republic defends itself and lays the first foundations of a socialist economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41391 — defendsconstructs]
 ## Sub lesson 2 — Part IV, Lesson 19: 1975–1985 — Building and developing the country, 1975–1985
 
 a war-torn country is reunified and rebuilt; the first socialist measures are tried
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41390 — firstmeasurestried]
 ## Sub lesson 3 — Part IV, Lesson 9: 1975–1985 — Defending and building the country, 1975–1985
 
 the LPDR defends itself and lays socialism's first foundations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41389 — layingfoundations]
 ## Sub lesson 4 — Part IV, Lesson 19: Building the country
 
 a war-torn country is reunified and rebuilt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41388 — reunifiedrebuilt]
 
 ## Say it to your companion
 

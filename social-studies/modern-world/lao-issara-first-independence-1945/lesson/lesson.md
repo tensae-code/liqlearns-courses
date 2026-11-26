@@ -19,11 +19,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 as Japan falls, the Lao proclaim independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41393 — japanfallsproclaim]
 ## Sub lesson 4 — Part VI, Lesson 20: 1 — The first declaration of independence
 
 October 1945 — the Lao Issara proclaims independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41392 — october1945]
 
 ## Say it to your companion
 

@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: the 1986 renovation op
 the 1986 renovation opens the economy and the country rebuilds on new lines
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41387 — door1986]
 ## Sub lesson 2 — Part IV, Lesson 20: 1986–2015 — Comprehensive renovation, 1986–2015
 
 the New Economic Mechanism opens Laos to markets and the region; growth follows
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41386 — growthfollows]
 ## Sub lesson 3 — Part IV, Lesson 10: 1986 — Defending and building the country from 1986
 
 renovation opens the economy while the party keeps the helm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41385 — partyhelm]
 ## Sub lesson 4 — Part IV, Lesson 20: 1986–2015 — Comprehensive renovation
 
 the New Economic Mechanism opens Laos to markets and the region
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41384 — mechanismopens]
 
 ## Say it to your companion
 
