@@ -10,11 +10,15 @@ Grade 11's theory course asks two questions most school courses never reach: not
 
 In your mind's eye: analysis and complexity — counting before running.
 
+[Picture 46664 — analysis and complexity — counting before running]
+
 ## Sub lesson 2 — Computability — problems no algorithm can settle
 
 The same chapter opens the door of **computability (υπολογισιμότητα)**: the theory of what can be computed at all. Its hard lesson: some perfectly clear problems have **no algorithm** — no procedure that always ends with the right answer — and others are computable in principle but **intractable**, their exact cost outgrowing any real machine. Knowing the boundary is part of computer science itself: it tells the programmer which problems to solve exactly, which to approximate, and which to stop attacking head-on.
 
 In your mind's eye: computability — problems no algorithm can settle.
+
+[Picture 46665 — computability — problems no algorithm can settle]
 
 ## Say it to your companion
 

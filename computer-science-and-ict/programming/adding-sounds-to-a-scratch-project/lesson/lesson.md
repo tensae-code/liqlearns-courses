@@ -10,11 +10,15 @@ The **sound blocks** play a sprite’s clips: **play-sound** starts the clip and
 
 In your mind's eye: play-sound and play-until-done — each sprite’s own sounds.
 
+[Picture 46662 — play-sound and play-until-done — each sprite’s own sounds]
+
 ## Sub lesson 2 — Where sounds come from — library, recordings, your own voice
 
 Grade 8 names the **three sources**: the **sound library of about 240 sounds**, **external recordings** brought in from outside, and **recording your own voice**. Choosing the source is part of the making: a library clip for a quick effect, your own voice when only your voice says it right.
 
 In your mind's eye: where sounds come from — library, recordings, your own voice.
+
+[Picture 46663 — where sounds come from — library, recordings, your own voice]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ A **backdrop** is the picture the stage wears behind the sprites. Choose a new b
 
 In your mind's eye: a Scratch stage wearing a forest backdrop, with the backdrop library open beside it and two more backdrop thumbnails waiting — a beach and a room.
 
+[Picture 46661 — a Scratch stage wearing a forest backdrop, with the backdrop library open beside it and two more backdrop thumbnails waiting — a beach and a room]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: a backdrop is the stage's picture, chosen from the backdrop library, and a project holds several and switches between them as the story moves. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

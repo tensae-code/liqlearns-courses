@@ -10,11 +10,15 @@ Some problems are too big to attack whole. Greece's exam course teaches three st
 
 In your mind's eye: divide-and-conquer — split, solve, join.
 
+[Picture 46666 — divide-and-conquer — split, solve, join]
+
 ## Sub lesson 2 — Dynamic programming and the greedy method — remembering, and taking the best now
 
 **Dynamic programming (δυναμικός προγραμματισμός)** attacks problems whose pieces **overlap**: solve each small piece **once**, store its answer in a table, and let bigger pieces read the stored answers instead of solving again — the method that turns hopeless repetition into one pass of remembering. The **greedy method (άπληστη μέθοδος)** builds its answer **one best step at a time**: at each step take the locally best choice and never revisit it — fast and simple, and correct only where the book's care is spent proving the local best truly serves the whole. The workbook reworks all three as graded activities.
 
 In your mind's eye: dynamic programming and the greedy method — remembering, and taking the best now.
+
+[Picture 46667 — dynamic programming and the greedy method — remembering, and taking the best now]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ The order matters. Some actions can swap places and nothing breaks — but many 
 
 In your mind's eye: hand-washing in four numbered panels. Tap on, wet hands, soap, rinse.
 
+[Picture 46656 — hand-washing in four numbered panels. Tap on, wet hands, soap, rinse]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Actions happen in a sequence — one after another in an order: first one action, then the next — and changing the order can break the result. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

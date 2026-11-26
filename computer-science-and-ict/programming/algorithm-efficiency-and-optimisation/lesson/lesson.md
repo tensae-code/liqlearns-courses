@@ -10,11 +10,15 @@ A stopwatch measures one machine on one day; **efficiency** is measured by count
 
 In your mind's eye: counting operations, not seconds.
 
+[Picture 46668 — counting operations, not seconds]
+
 ## Sub lesson 2 — Where optimisation finds its wins
 
 **Optimisation** hunts waste: a value **recalculated** inside a loop that could be computed **once before it**; a second pass over data the first pass could have finished; searching an **unsorted** list item by item when sorted data allows halving the search space each step. The rule is to optimise the **growth** first and the details second — and to keep the program correct and readable while making it faster.
 
 In your mind's eye: where optimisation finds its wins.
+
+[Picture 46669 — where optimisation finds its wins]
 
 ## Say it to your companion
 

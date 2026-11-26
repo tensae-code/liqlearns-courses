@@ -10,11 +10,15 @@ An **abstract data type** defines a kind of data by its **operations and their b
 
 In your mind's eye: what an ADT is.
 
+[Picture 46650 — what an ADT is]
+
 ## Sub lesson 2 — Why abstraction earns its place
 
 The gains repeat the car's: **use without building** (any program may use a stack without reinventing it), **change without breakage** (the inside can be rebuilt faster while the contract holds, and no user notices), and **thinking at the right level** (the algorithm is designed in pushes and pops, not in memory cells). Jordan's Grade 12 lesson names the idea after the concrete structures (lists, tuples, dictionaries, sets) on purpose: an ADT is what those structures are *instances* of thinking about — Python's list is one maker's answer to the sequence ADT's contract.
 
 In your mind's eye: why abstraction earns its place.
+
+[Picture 46651 — why abstraction earns its place]
 
 ## Say it to your companion
 
