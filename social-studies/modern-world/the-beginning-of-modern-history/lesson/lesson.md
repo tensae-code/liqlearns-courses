@@ -10,6 +10,8 @@ the course defines its own age — from the discoveries and the first capitalist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40308 — oneplace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introduction: The beginning of modern history — the course defines its own age — from the discoveries and the first capitalist stirrings, the world becomes one connected place, and that is where 'new history' starts. Then let your companion ask you one hard question about it — answer from the lesson.

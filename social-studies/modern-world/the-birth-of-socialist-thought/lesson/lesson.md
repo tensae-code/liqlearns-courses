@@ -10,11 +10,15 @@ from Owen's cooperatives to Proudhon's 'property is theft' (Document), the facto
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40307 — critics]
+
 ## Sub lesson 2 — Modulo 4, Cap. 10 §§6–8 Socialism; Marx and Engels; The workers' question
 
 Saint-Simon, Proudhon and Marx (Fare storia: the classless society) answer the factory age; unions (Focus) organise the answer on the ground
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40306 — thinkersanswer]
 
 ## Say it to your companion
 

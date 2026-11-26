@@ -10,6 +10,8 @@ Huntington's thesis (a Fare storia piece) is put as a question, not a doctrine �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40290 — thesisargued]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 17 §1 Uno scontro di civiltà? — Huntington's thesis (a Fare storia piece) is put as a question, not a doctrine — Kepel, Guolo, Buruma–Margalit and Sen argue back across the dossier; the module teaches the debate, not the slogan. Then let your companion ask you one hard question about it — answer from the lesson.

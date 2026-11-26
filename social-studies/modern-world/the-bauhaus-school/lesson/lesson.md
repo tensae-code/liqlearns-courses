@@ -10,11 +10,15 @@ Gropius founds the Bauhaus to reunite art and industry; Dessau, Meyer and Mies c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40310 — dessau]
+
 ## Sub lesson 2 — Units 17–18: The Bauhaus school; Bauhaus, graphic design and industrial design
 
 Bauhaus typography throws away ornament and capitals alike and designs the modern page
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40309 — modernpage]
 
 ## Say it to your companion
 

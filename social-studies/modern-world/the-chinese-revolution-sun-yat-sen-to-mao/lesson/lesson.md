@@ -10,6 +10,8 @@ Sun Yat-sen's republic collapses into civil war; the communists, crushed in the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40293 — longmarch]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Chinese Revolution (Unit 2 Lesson 3) — sun Yat-sen's republic collapses into civil war; the communists, crushed in the south, survive the Long March under Mao; Japan's invasion exhausts the Nationalists while the communists win the farmers with land; in 1949 Mao proclaims the People's Republic, Chiang flees to Taiwan, and the Great Leap and the Cultural Revolution follow before the 1970 turn to reform. Then let your companion ask you one hard question about it — answer from the lesson.

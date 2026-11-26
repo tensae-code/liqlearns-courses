@@ -10,11 +10,15 @@ the first revolutionary decrees and the literacy posters ("knowledge makes you f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40302 — knowledgefree]
+
 ## Sub lesson 2 — Modulo 1, Cap. 1 §10 Guerra civile e dittatura
 
 the Anteprima's essay follows the experiment's turn — a movement announcing liberty and equality breaks with civil society over the collectivist project and hardens into a pitilessly authoritarian regime that still fascinates revolutionaries worldwide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40301 — wallrises]
 
 ## Say it to your companion
 

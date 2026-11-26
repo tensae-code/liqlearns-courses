@@ -10,11 +10,15 @@ Trotsky signs away land at Brest-Litovsk to keep the promise of peace, the Const
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40300 — brestlitovsk]
+
 ## Sub lesson 2 — 2.2 The Civil War, 1918–21
 
 Reds against Whites, Greens and foreign intervention armies; war communism, requisitioning and famine follow, and the Reds' unity and control of the railways win through.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40299 — threecolours]
 
 ## Sub lesson 3 — 2.3 Moves towards totalitarianism
 
@@ -22,11 +26,15 @@ Within weeks the new rulers ban rival newspapers and create the Cheka; show tria
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40298 — paperssilent]
+
 ## Sub lesson 4 — 2.4 Economic and social change, 1918–24
 
 War communism collapses into the NEP retreat, while society is remade — women declared equal (1917), free compulsory education, legal abortion (1920) and Church land nationalised.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40297 — societyremade]
 
 ## Say it to your companion
 

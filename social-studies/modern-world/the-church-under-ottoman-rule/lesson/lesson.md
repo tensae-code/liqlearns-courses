@@ -10,11 +10,15 @@ the Patriarchate survives under the sultans as the flock's government, keeping f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40292 — faithkept]
+
 ## Sub lesson 2 — The East under Ottoman domination
 
 the Patriarchate heads a millet; Greeks live, trade and keep their faith under the sultans
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40291 — millet]
 
 ## Say it to your companion
 

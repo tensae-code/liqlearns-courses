@@ -10,11 +10,15 @@ four small kingdoms stop fighting each other long enough to throw the empire out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40312 — fourkingdoms]
+
 ## Sub lesson 2 — Theme 5: Macedonia in the Balkan Wars — Macedonian volunteers like vojvoda Petar Čaulev take towns, the Second Balkan War divides the land at Bucharest
 
 Macedonians fight for liberation and are rewarded with partition among three kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40311 — partition1913]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Mao's communists win a civil war and proclaim a new China.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40294 — newchina1949]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unidad 11 La Revolución China (1949). Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the Manghits rule first as ataliqs, then as emirs (from 1785); a centralised cou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40295 — ataliqs]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III §§14–15, 18 The Manghit dynasty established in Bukhara; The state structure and administration of the Emirate; The Bukhara Emirate in the first half of the 19th century — the Manghits rule first as ataliqs, then as emirs (from 1785); a centralised court, qushbegi and zakat orders the emirate that will face Russia. Then let your companion ask you one hard question about it — answer from the lesson.

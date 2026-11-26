@@ -10,11 +10,15 @@ Rome's treaties (1957) turn the coal-and-steel pool into a common market, and Pa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40305 — rome1957]
+
 ## Sub lesson 2 — Modulo 9 §8 Le democrazie europee e l'avvio dell'integrazione economica
 
 europeismo (Focus) becomes institutions — the Atlantic Pact (Fare storia Document) guards the West while coal, steel and then the common market bind it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40304 — shieldbond]
 
 ## Say it to your companion
 
