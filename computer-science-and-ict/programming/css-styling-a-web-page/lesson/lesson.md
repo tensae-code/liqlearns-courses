@@ -10,11 +10,15 @@ A CSS **style rule** has three parts: the **selector** names what is styled (a t
 
 In your mind's eye: the style rule — selector, property, value.
 
+[Picture 46961 — the style rule — selector, property, value]
+
 ## Sub lesson 2 — Three homes for styles — and the first properties
 
 Styles can live in three places: **inline**, inside one element's own attribute — strongest, but scattered; **internal**, in a style block in the page's head — ruling that page only; and **external**, in a separate .css file linked by many pages — the way a whole site is dressed from one file. The book's first working properties are **font** properties (family, size, style, weight) and **background** properties (colour and image) — enough to take a page from default grey to designed, which is where the pupils' sites go next.
 
 In your mind's eye: three homes for styles — and the first properties.
+
+[Picture 46962 — three homes for styles — and the first properties]
 
 ## Say it to your companion
 

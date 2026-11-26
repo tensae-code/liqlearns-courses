@@ -10,11 +10,15 @@ A program is not its algorithm alone: the **way its data is organised decides wh
 
 In your mind's eye: algorithms + Data Structures = Programs — and the array.
 
+[Picture 46969 — algorithms + Data Structures = Programs — and the array]
+
 ## Sub lesson 2 — Stack and queue — last-in-first-out, first-in-first-out
 
 The **stack (στοίβα)** keeps its values in a pile: **push** adds on top, **pop** takes from the top — the last value pushed is the first value out (**LIFO**), like a pile of plates. The **queue (ουρά)** keeps a line: values **join at the rear and leave from the front** — the first value in is the first value out (**FIFO**), like a queue at a desk. Each structure is its access rule; choosing between them is choosing which end of time the program cares about.
 
 In your mind's eye: stack and queue — last-in-first-out, first-in-first-out.
+
+[Picture 46970 — stack and queue — last-in-first-out, first-in-first-out]
 
 ## Say it to your companion
 

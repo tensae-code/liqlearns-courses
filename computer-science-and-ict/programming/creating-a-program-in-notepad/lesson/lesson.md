@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Creating a program** — covering: Cre
 
 In your mind's eye: creating a program.
 
+[Picture 46953 — creating a program]
+
 ## Sub lesson 2 — Doing it — Creating a program in practice
 
 This part of South Sudan's book teaches **Doing it — Creating a program in practice** — covering: Creating a program. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating a program. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Creating a program in practice is part of that chain..
 
 In your mind's eye: doing it — Creating a program in practice.
+
+[Picture 46954 — doing it — Creating a program in practice]
 
 ## Say it to your companion
 

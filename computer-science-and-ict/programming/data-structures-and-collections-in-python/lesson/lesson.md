@@ -10,11 +10,15 @@ Python builds its **collections** into the language. A **list** is ordered and c
 
 In your mind's eye: four collections — list, tuple, set, dictionary.
 
+[Picture 46967 — four collections — list, tuple, set, dictionary]
+
 ## Sub lesson 2 — Choosing and using — the collection fits the question
 
 Use follows the question the program must answer. 'The marks **in order**, changeable as corrections arrive' — a list. 'Has this name **already** been entered?' — a set, whose membership test is its whole point. 'The meaning **of this word**' — a dictionary, keyed lookup. The operations rhyme across the family — counting with `len`, looping over members, asking whether something is `in` — so one lesson's habits serve all four; what differs is what each **guarantees**: order, uniqueness, fixity, or naming. The book's Grade 8 placement is the point: collections are not an advanced garnish but the shape data takes in every real program these pupils will write next, from analysing an Excel file to encrypting a message.
 
 In your mind's eye: choosing and using — the collection fits the question.
+
+[Picture 46968 — choosing and using — the collection fits the question]
 
 ## Say it to your companion
 

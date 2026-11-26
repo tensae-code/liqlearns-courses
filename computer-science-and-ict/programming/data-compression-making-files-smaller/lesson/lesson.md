@@ -10,11 +10,15 @@ Real data is full of **repetition**: a photo's sky is the same blue for ten thou
 
 In your mind's eye: a long ribbon printed with the same blue square a hundred times being folded into one square with a tag reading '×100'.
 
+[Picture 46965 — a long ribbon printed with the same blue square a hundred times being folded into one square with a tag reading '×100']
+
 ## Sub lesson 2 — Lossy compression — throwing away what barely matters
 
 **Lossy** compression goes further: it permanently discards detail the senses hardly notice — very slight colour differences between neighbouring pixels in a photo, sounds at the edge of hearing inside loud music. The decompressed file is *not* the original; it is a close neighbour of it. The reward is size: photos and music shrink to a small fraction of their lossless size, which is why the formats people share every day — JPEG photos, MP3 music — are lossy. The rule for choosing: if every bit must survive (text, programs, data), compress losslessly; if the file is for eyes and ears and small losses pass unnoticed, lossy buys the small size. Never lossy-compress the only copy of something precious — what is thrown away cannot be brought back.
 
 In your mind's eye: a photograph being lossy-compressed step by step — the file size falling at each step while the picture stays the same to the eye, until the last step pushes too far and blocks appear.
+
+[Picture 46966 — a photograph being lossy-compressed step by step — the file size falling at each step while the picture stays the same to the eye, until the last step pushes too far and blocks appear]
 
 ## Say it to your companion
 

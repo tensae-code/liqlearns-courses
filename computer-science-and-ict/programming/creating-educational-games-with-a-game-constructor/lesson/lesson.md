@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Appendix: electronic learning games and
 
 In your mind's eye: appendix. Electronic learning games and their constructor.
 
+[Picture 46959 — appendix. Electronic learning games and their constructor]
+
 ## Sub lesson 2 — Doing it — Creating Educational Games with a Game Constructor in practice
 
 **Doing it — Creating Educational Games with a Game Constructor in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Creating Educational Games with a Game Constructor in practice.
+
+[Picture 46960 — doing it — Creating Educational Games with a Game Constructor in practice]
 
 ## Say it to your companion
 

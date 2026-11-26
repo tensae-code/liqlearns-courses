@@ -10,11 +10,15 @@ A Java **application** is a standalone program: it is started from the computer 
 
 In your mind's eye: the application — a program that stands alone.
 
+[Picture 46957 — the application — a program that stands alone]
+
 ## Sub lesson 2 — The applet — a program that lives in a page
 
 An **applet** is a Java program made to run **inside a web page**, hosted by the browser: it has **no main method** — instead the browser calls its life-cycle methods (it is initialised, started, painted, stopped) as the page is visited and left. Creating one means writing the applet class and naming it in the page that hosts it. Malaysia teaches the pair as the two deliveries of the SDLC's final work: the same language, the same care — one program stands alone, the other is a guest in a page, and the creator chooses by where the users will meet it.
 
 In your mind's eye: the applet — a program that lives in a page.
+
+[Picture 46958 — the applet — a program that lives in a page]
 
 ## Say it to your companion
 
