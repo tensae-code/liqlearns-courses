@@ -10,6 +10,8 @@ geometric luxury rules the 1920s in France, Britain and the USA, then streamlini
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62175 — geometry then streamlining]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 15: Art Deco and streamlining — geometric luxury rules the 1920s in France, Britain and the USA, then streamlining rounds everything for speed. Then let your companion ask you one hard question about it — answer from the lesson.

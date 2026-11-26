@@ -10,6 +10,8 @@ Israel Ori begs Europe's courts for an army, Davit Bek fights in Syunik, and in 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62168 — plans swords and print]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §5.2 The Armenian liberation struggle in the later 1700s — Israel Ori begs Europe's courts for an army, Davit Bek fights in Syunik, and in Madras Shahamirian prints a constitution for a free Armenia. Then let your companion ask you one hard question about it — answer from the lesson.

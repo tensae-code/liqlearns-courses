@@ -10,6 +10,8 @@ cinema, modernism and mass art — the newest period invents new art forms faste
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62179 — new forms fastest yet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 6 §28: artistic culture — cinema, modernism and mass art — the newest period invents new art forms faster than any age before it. Then let your companion ask you one hard question about it — answer from the lesson.

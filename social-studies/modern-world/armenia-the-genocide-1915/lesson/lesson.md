@@ -10,11 +10,15 @@ under cover of war the Young Turk government arrests Constantinople's Armenian l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62166 — 24 april 1915]
+
 ## Sub lesson 2 — Appendix theme guide 1: the Armenian people at the start of the 20th century; the Armenian Genocide (lessons 1–18 of the thematic plan, keyed to student chapters 1.1–1.4)
 
 the guide walks teachers through the Hamidian massacres, the wartime genocide and its condemnation as the course's opening national catastrophe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62167 — the opening catastrophe]
 
 ## Say it to your companion
 

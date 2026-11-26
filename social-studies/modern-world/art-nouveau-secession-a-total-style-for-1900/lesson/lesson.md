@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: an Art Nouveau building, poster and piece of jewellery sharing the same whiplash line. The student traces the one style through all three.
 
+[Picture 62178 — one style swallows everything]
+
 ## Sub lesson 3 — Klimt's gold, a last total style
 
 Klimt covers Vienna's new art in gold — a last attempt at one total style before modernism breaks apart.

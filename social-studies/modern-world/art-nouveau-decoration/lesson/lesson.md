@@ -10,11 +10,15 @@ the whiplash line grows through architecture, interiors and Thonet's bentwood ch
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62176 — the whiplash line]
+
 ## Sub lesson 2 — Chapter 15: The passage from the 19th to the 20th century
 
 iron, glass and reinforced concrete raise a new architecture while Arts & Crafts and Art Nouveau fight the machine with the hand and the curve
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62177 — iron glass and the curve]
 
 ## Say it to your companion
 

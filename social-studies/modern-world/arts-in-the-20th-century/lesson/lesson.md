@@ -10,11 +10,15 @@ painting breaks with realism, cinema is born and becomes the century's popular a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62184 — cinema is born]
+
 ## Sub lesson 2 — Poetry and prose in the 20th-century world
 
 two wars and broken empires drive writers to new forms for a fractured world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62185 — new forms for a fractured world]
 
 ## Sub lesson 3 — The arts in the 20th century
 
@@ -22,11 +26,15 @@ art questions itself, cinema and the new arts democratise it, postwar art goes g
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62186 — art goes global]
+
 ## Sub lesson 4 — Arts of the 20th century: movements, cinema and mass culture
 
 fauvism, cubism, Dada, surrealism and pop art follow cinema, jazz and rock into a mass-culture century
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62187 — into mass culture]
 
 ## Sub lesson 5 — Chapter 16: The decades 1900–1930 (part one)
 
@@ -34,11 +42,15 @@ Expressionism, Fauvism, the Blue Rider, Cubism and Futurism break the figure and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62188 — twenty years of breaking]
+
 ## Sub lesson 6 — Chapter 17: The decades 1900–1930 (part two)
 
 De Stijl, Suprematism, Constructivism, Dada and Surrealism, the Bauhaus and the great masters of architecture remake art between the wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62189 — remade between the wars]
 
 ## Sub lesson 7 — Chapter 18: Postwar art in America and Europe — the New York School and Abstract Expressionism
 

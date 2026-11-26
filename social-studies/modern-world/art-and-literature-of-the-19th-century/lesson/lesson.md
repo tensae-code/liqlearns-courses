@@ -10,11 +10,15 @@ realists and romantics put the poor and oppressed on the page and canvas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62173 — the poor on the page]
+
 ## Sub lesson 2 — 11.2 How does Émile Zola's article 'J'accuse' show us the power of the word?
 
 one open letter shakes the French Republic in the Dreyfus affair
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62174 — one letter shakes a republic]
 
 ## Say it to your companion
 

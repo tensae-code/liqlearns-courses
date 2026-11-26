@@ -10,6 +10,8 @@ national parties — Armenakan, Hnchak, Dashnaktsutyun — organise to defend an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62170 — parties of a stateless people]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §6.3 Armenian socio-political currents, movements and parties — national parties — Armenakan, Hnchak, Dashnaktsutyun — organise to defend and free a stateless people. Then let your companion ask you one hard question about it — answer from the lesson.

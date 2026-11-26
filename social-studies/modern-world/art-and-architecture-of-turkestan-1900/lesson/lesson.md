@@ -10,6 +10,8 @@ Samarkand, Kokand and Bukhara miniaturists paint steamships and railways into ol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62171 — steamships in old walls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 8 §§39–40 The development of architecture and art in the krai — Samarkand, Kokand and Bukhara miniaturists paint steamships and railways into old walls; maqom and shashmaqom music, dastan epics and the first printing houses (sampled in the chapter's pages) carry the culture through dependence. Then let your companion ask you one hard question about it — answer from the lesson.
