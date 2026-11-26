@@ -10,11 +10,15 @@ victory does not loosen the grip — ideology campaigns police science, art and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41504 — gripstaystight]
+
 ## Sub lesson 2 — §3 The influence of Stalinist ideology on socio-political life in Kazakhstan
 
 victory brings no loosening — campaigns police history and art
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41503 — campaignspolice]
 
 ## Say it to your companion
 

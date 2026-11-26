@@ -10,6 +10,8 @@ the Tsar's decree conscripting Kazakhs for rear labour sparks a steppe-wide revo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41490 — flighttochina]
+
 ## Sub lesson 2 — §§8–9 The national-liberation uprising of 1916 in Kazakhstan
 
 the labour-conscription decree ignites the steppe; Amangeldy's army and the Torgai front hold out longest

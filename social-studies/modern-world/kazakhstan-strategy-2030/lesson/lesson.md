@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: "Kazakhstan-2030" sets
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41499 — youngrepublicgoals]
+
 ## Sub lesson 2 — §22 The "Kazakhstan-2030" strategy — a new stage in the country's development
 
 the 2030 address sets the young state's compass
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41498 — compass2030]
 
 ## Say it to your companion
 

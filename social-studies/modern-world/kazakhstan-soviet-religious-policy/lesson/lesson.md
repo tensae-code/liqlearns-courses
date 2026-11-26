@@ -10,6 +10,8 @@ mosques and churches are closed and clergy repressed as atheism becomes state po
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41508 — mosquesclosed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §28 The religious policy of the Soviet state — mosques and churches are closed and clergy repressed as atheism becomes state policy. Then let your companion ask you one hard question about it — answer from the lesson.

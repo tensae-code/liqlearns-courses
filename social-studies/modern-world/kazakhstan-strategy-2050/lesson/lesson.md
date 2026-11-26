@@ -10,11 +10,15 @@ the 2050 address aims at the world's top 30
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41497 — formedstatecourse]
+
 ## Sub lesson 2 — §56. Kazakhstan's current long-term state strategies
 
 plans stack — 2030, 2050, the Third Modernisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41496 — plansstack]
 
 ## Sub lesson 3 — §27 The "Kazakhstan-2050" strategy
 
@@ -22,11 +26,15 @@ the 2050 address aims at the world's top 30
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41495 — top30steps]
+
 ## Sub lesson 4 — §28 Priority directions of Kazakhstan's development at the present stage
 
 modernisation agendas stack into the present
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41494 — agendasstack]
 
 ## Say it to your companion
 

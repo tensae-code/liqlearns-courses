@@ -10,17 +10,23 @@ Syrym Datuly leads the Junior Zhuz against both the tsar's officials and a puppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41493 — reformcollapses]
+
 ## Sub lesson 2 — §§21–22 The national-liberation movement led by Syrym Datov
 
 Syrym Datuly's 14-year war in the Junior Zhuz fights tsar and puppet khan alike
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41492 — fourteenyears]
+
 ## Sub lesson 3 — §4.2 Which rights of the Junior Zhuz Kazakhs did Syrym Datuly defend?
 
 Syrym's demands are read as a rights programme — pasture, khan election, no Cossack raids
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41491 — syrymrights]
 
 ## Say it to your companion
 
