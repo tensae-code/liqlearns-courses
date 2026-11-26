@@ -10,11 +10,15 @@ the first president builds the state — symbols, borders, a new capital to come
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41566 — capitaltocome]
+
 ## Sub lesson 2 — §17 N. A. Nazarbayev — First President of the Republic of Kazakhstan
 
 the first president builds the state — symbols, borders, currency
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41565 — statebuilt]
 
 ## Say it to your companion
 

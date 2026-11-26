@@ -10,11 +10,15 @@ the "Eternal Nation" idea is offered as the state's unifying story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41581 — eternalunifying]
+
 ## Sub lesson 2 — §32 The national idea "Mangilik El"
 
 the "Eternal Nation" idea is offered as the unifying story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41580 — onestoryonenation]
 
 ## Say it to your companion
 

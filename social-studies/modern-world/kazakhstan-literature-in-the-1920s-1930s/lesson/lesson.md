@@ -10,11 +10,15 @@ Seifullin, Zhansugurov and Mailin write a new literature — and two of the thre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41585 — threewritetwofall]
+
 ## Sub lesson 2 — §§47–48 Kazakhstan's literature in the 1920s–30s; socialist realism
 
 writers are ordered to write socialist realism — and the best of them perish in 1937–38
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41584 — orderedperish]
 
 ## Sub lesson 3 — §26 The development of Kazakh literature in the 1920s–30s
 
@@ -22,11 +26,15 @@ a new literature is written — and two of its three founders are shot in 1938
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41583 — founders1938]
+
 ## Sub lesson 4 — §5.1 How did Kazakh literature reflect reality?
 
 a new literature is written between hope and command
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41582 — hopeandcommand]
 
 ## Say it to your companion
 

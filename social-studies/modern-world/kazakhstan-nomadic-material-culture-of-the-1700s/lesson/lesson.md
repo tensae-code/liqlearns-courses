@@ -10,17 +10,23 @@ the yurt, dress, food, crafts and weapons of a nomadic world are described piece
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41564 — wholeworld]
+
 ## Sub lesson 2 — §17 Kazakh national applied art
 
 felt, silver, wood and bone are worked into the ornaments of nomadic life
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41563 — feltsilverwoodbone]
+
 ## Sub lesson 3 — §18 The national dress of the Kazakh people
 
 shapan, saukele and headdresses mark age, status and zhuz in cloth
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41562 — dressthatspeaks]
 
 ## Sub lesson 4 — §3.2 What is distinctive about Kazakh national applied art?
 

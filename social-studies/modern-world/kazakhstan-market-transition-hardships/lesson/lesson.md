@@ -10,17 +10,23 @@ hyperinflation and unpaid wages — the 1990s shock
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41579 — hyperinflationunpaid]
+
 ## Sub lesson 2 — §50. The market economy's influence on social conditions in 1990–2000
 
 new rich, new poor — society stratifies fast
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41578 — fastdivide]
+
 ## Sub lesson 3 — §24 Social development of Kazakhstan from 1997
 
 pensions, poverty and a new middle class — the social bill of transition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41577 — socialbill]
 
 ## Say it to your companion
 

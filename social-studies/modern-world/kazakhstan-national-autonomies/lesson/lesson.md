@@ -10,11 +10,15 @@ Alash Orda and the Turkestan (Kokand) autonomy try two different Kazakh statehoo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41571 — twoextinguished]
+
 ## Sub lesson 2 — §19 The activity of the national autonomies in Kazakhstan
 
 Alash Orda governs from Semey while Soviet power grows around it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41570 — semeyencircled]
 
 ## Sub lesson 3 — §20 Relations between the organs of Soviet power and the government of Alash Orda
 
@@ -22,17 +26,23 @@ negotiation, ultimatum and amnesty end the Kazakh government without a last batt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41569 — paperending]
+
 ## Sub lesson 4 — §12 National autonomies in Kazakhstan
 
 Alash Orda and the Kokand autonomy try two statehoods; both are extinguished
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41568 — twotriedended]
+
 ## Sub lesson 5 — §§2.3–2.4 The Alash Orda government and the Turkestan (Kokand) autonomy
 
 two Kazakh statehoods are proclaimed and extinguished
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41567 — twoproclaimedended]
 
 ## Say it to your companion
 
