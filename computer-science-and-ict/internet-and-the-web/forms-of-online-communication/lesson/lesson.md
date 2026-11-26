@@ -10,11 +10,15 @@ Online communication takes named forms. **Email** — letters that wait in an in
 
 In your mind's eye: the forms — mail, messages, calls, shared spaces.
 
+[Picture 45920 — the forms — mail, messages, calls, shared spaces]
+
 ## Sub lesson 2 — Choosing the form for the job
 
 Each form fits a job. A message that must be **kept and reread** — an assignment, an official note — belongs in email. A quick question between friends belongs in **messaging**. A family talk across the sea belongs in a **video call**. News for a whole class belongs in the **shared space**. Choosing wrong has costs: urgent words sent by email wait unread; official words sent by chat vanish in the flow. The form is part of the message — that is Fiji's point in teaching the forms together.
 
 In your mind's eye: choosing the form for the job.
+
+[Picture 45921 — choosing the form for the job]
 
 ## Say it to your companion
 

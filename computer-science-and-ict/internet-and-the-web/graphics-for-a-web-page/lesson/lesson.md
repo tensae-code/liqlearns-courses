@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Graphics for a web page** — covering:
 
 In your mind's eye: graphics for a web page.
 
+[Picture 45922 — graphics for a web page]
+
 ## Sub lesson 2 — –13: Graphics for a web page
 
 This part of Kazakhstan's book teaches **–13: Graphics for a web page** — covering: §12–13: Graphics for a web page. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: –13. Graphics for a web page.
+
+[Picture 45923 — Graphics for a web page]
 
 ## Say it to your companion
 

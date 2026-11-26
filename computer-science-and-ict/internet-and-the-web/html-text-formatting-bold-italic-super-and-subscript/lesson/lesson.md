@@ -10,11 +10,15 @@ The emphasis family: **<b>** makes text **bold** — weight that catches the eye
 
 In your mind's eye: standing out — bold, italic, underline, big and small.
 
+[Picture 45938 — standing out — bold, italic, underline, big and small]
+
 ## Sub lesson 2 — Raised and lowered — superscript and subscript
 
 Two elements move text off the line instead of restyling it: **<sup>** raises its text as a **superscript** — the 2 in x<sup>2</sup>, the th in 10<sup>th</sup>; **<sub>** lowers it as a **subscript** — the 2 in H<sub>2</sub>O. Without them, science writing on the web would be crippled: formulas, chemical names, units and footnotes all live above and below the line. The formatting family's rule of use closes the lesson: formatting serves meaning — emphasis where the meaning leans, never decoration sprayed everywhere, which emphasises nothing.
 
 In your mind's eye: raised and lowered — superscript and subscript.
+
+[Picture 45939 — raised and lowered — superscript and subscript]
 
 ## Say it to your companion
 

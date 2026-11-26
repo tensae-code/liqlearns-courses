@@ -10,11 +10,15 @@ An HTML **comment** begins with **<!--** and ends with **-->**: <!-- Menu starts
 
 In your mind's eye: the comment's shape — <!-- and -->.
 
+[Picture 45930 — the comment's shape — <!-- and -->]
+
 ## Sub lesson 2 — What comments are for
 
 Comments serve the **people who maintain the code**: they label the parts of a page (<!-- Banner -->), leave reminders (<!-- Update the exam dates in June -->), and explain unusual code. A second working use is **switching code off**: wrapping a block in comment marks hides it without deleting it, so it can be restored by removing the marks. Malaysia's caution stands with the uses: comments are visible to anyone who views the page's source, so a comment is a note to fellow builders — never a place for passwords or private remarks.
 
 In your mind's eye: what comments are for.
+
+[Picture 45931 — what comments are for]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A pull-down menu is made with the **<select>** element, and each choice inside i
 
 In your mind's eye: the select element — a folded list.
 
+[Picture 45936 — the select element — a folded list]
+
 ## Sub lesson 2 — When a pull-down is the right control
 
 A pull-down suits a choice from a **fixed list** — states, months, class names — where typing would invite misspellings and wrong entries: the visitor can only pick what is offered, so the answers arrive clean and comparable. It suits badly when the list is very long (hunting through a hundred countries) or when the answer might not be on the list at all. Malaysia's teaching point is the match: fixed and short — pull-down; open or long — a text box or another control.
 
 In your mind's eye: when a pull-down is the right control.
+
+[Picture 45937 — when a pull-down is the right control]
 
 ## Say it to your companion
 

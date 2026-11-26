@@ -10,11 +10,15 @@ An HTML **form** (the `<form>` element) collects a visitor's input and sends it 
 
 In your mind's eye: the form and its fields — <form>, <input>, labels.
 
+[Picture 45932 — the form and its fields — <form>, <input>, labels]
+
 ## Sub lesson 2 — Sending and helping — submit, required, and honest fields
 
 A form is sent by its **submit** control (`<button type="submit">` or `<input type="submit">`); the form's **action** says where the data goes and **method** how (GET puts it in the address, POST sends it in the body). Good forms help the visitor: mark needed fields with **required**, give examples in **placeholder** text, keep the form short, and ask only what will actually be used — a form is a request for a stranger's data, and it should behave like one.
 
 In your mind's eye: sending and helping — submit, required, and honest fields.
+
+[Picture 45933 — sending and helping — submit, required, and honest fields]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The internet began as a **research network** (ARPANET, from 1969) linking a few 
 
 In your mind's eye: a network for sharing between universities.
 
+[Picture 45924 — a network for sharing between universities]
+
 ## Sub lesson 2 — From research network to everyone's network
 
 More networks joined, then networks of networks — an **inter-net** — standardised by the TCP/IP protocols in 1983 and opened beyond research in the 1990s, when the **Web** (invented by Tim Berners-Lee at CERN, in Switzerland's neighbourhood) gave the network pages, links and browsers everyone could use. The annexes tell the story so pupils see the internet as a made, recent, human thing — built by agreement — not a force of nature.
 
 In your mind's eye: from research network to everyone's network.
+
+[Picture 45925 — from research network to everyone's network]
 
 ## Say it to your companion
 

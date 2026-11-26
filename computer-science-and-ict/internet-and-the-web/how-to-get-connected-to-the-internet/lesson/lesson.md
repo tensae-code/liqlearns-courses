@@ -10,11 +10,15 @@ A computer alone is not on the Internet: a **connection** joins it to the networ
 
 In your mind's eye: the four things of a connection — computer, modem, telephone line, and the ISP's machines.
 
+[Picture 45926 — the four things of a connection — computer, modem, telephone line, and the ISP's machines]
+
 ## Sub lesson 2 — Connecting, and what can go wrong
 
 With the four things in place, the connection is **set up** on the computer — the ISP's number and the account's username and password entered — and from then on, connecting is one action: the modem dials, the ISP checks the account, and the computer is **online** until you disconnect. The lesson's practical wisdom is the order of checking when a connection fails: is the line plugged in and free, does the modem answer, are the username and password exactly right, is the account live? Each failure lives in one of the four things. Once connected, the meter of the book's world was running — dial-up time was paid for — so the habit of the time was: connect, do your work, disconnect. The joining has changed since; the four-part shape of it — device, carrier, line, account — has not.
 
 In your mind's eye: the connection dialog — the ISP's number, a username and password being entered.
+
+[Picture 45927 — the connection dialog — the ISP's number, a username and password being entered]
 
 ## Say it to your companion
 

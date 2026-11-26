@@ -10,11 +10,15 @@ HTML gives **six levels of heading**, written **<h1>** to **<h6>**: h1 is the bi
 
 In your mind's eye: headings — h1 to h6.
 
+[Picture 45934 — headings — h1 to h6]
+
 ## Sub lesson 2 — Paragraphs — the p element
 
 Ordinary text is wrapped in the **paragraph element, <p>…</p>**. The browser shows each paragraph as a block with space after it, and — the rule beginners trip on — **line breaks and extra spaces typed inside the HTML are not shown**: the browser gathers running spaces into one and flows the text to the window's width. New paragraph, new <p> element — that, not the Enter key, is how HTML separates thoughts. With headings above them, paragraphs carry the page's actual reading.
 
 In your mind's eye: paragraphs — the p element.
+
+[Picture 45935 — paragraphs — the p element]
 
 ## Say it to your companion
 

@@ -11213,3 +11213,23 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 39735 | pictures/39735.webp | SS — Modern World — the 1830–1908 timeline in six coloured periods, each named | Social Studies — Modern World — Venezuela Periods Of Political History Timeline |
 | 39736 | pictures/39736.webp | SS — Modern World — cacao, coffee and oil panels, the crowd of people growing under each | Social Studies — Modern World — Venezuela Periods Of Economic History |
 | 39737 | pictures/39737.webp | SS — Modern World — the great open timeline book with four period flags | Social Studies — Modern World — Venezuela Periods Of Economic History |
+| 45920 | pictures/45920.webp | four drawn form cards — MAIL, MESSAGES, CALLS, SHARED SPACES — each with its character | ICT — Internet and the Web — Forms of Online Communication |
+| 45921 | pictures/45921.webp | four drawn job rows — a formal request to mail, a quick question to message, a hard talk to call, a project to shared space | ICT — Internet and the Web — Forms of Online Communication |
+| 45922 | pictures/45922.webp | a drawn web page holding a photo, a bar chart and an icon — each a graphic doing fast talking | ICT — Internet and the Web — Graphics for a Web Page |
+| 45923 | pictures/45923.webp | four drawn graphic-kind cards — PHOTOS, DRAWINGS AND ICONS, CHARTS, LOGOS AND BANNERS | ICT — Internet and the Web — Graphics for a Web Page |
+| 45924 | pictures/45924.webp | three drawn university houses linked by wires — scholars sharing research papers in the 1960s to 80s | ICT — Internet and the Web — How the Internet Began — Its History |
+| 45925 | pictures/45925.webp | four drawn era cards — 1969, 1980s, 1991 the Web arrives, TODAY in every pocket | ICT — Internet and the Web — How the Internet Began — Its History |
+| 45926 | pictures/45926.webp | four drawn connection cards — THE COMPUTER, THE MODEM, THE TELEPHONE LINE, THE ISP | ICT — Internet and the Web — How to Get Connected to the Internet |
+| 45927 | pictures/45927.webp | a drawn connection dialog — the ISP's number, username selam.m, password dots, and the Dial button | ICT — Internet and the Web — How to Get Connected to the Internet |
+| 45928 | pictures/45928.webp | a drawn page — the teal OUR SCHOOL banner across the top, the still frame at the left, changing content right | ICT — Internet and the Web — HTML Banner, Frame and Menu |
+| 45929 | pictures/45929.webp | two drawn pages side by side — HOME and NEWS — wearing the identical navy menu bar | ICT — Internet and the Web — HTML Banner, Frame and Menu |
+| 45930 | pictures/45930.webp | a drawn code panel — the comment update the dates in June between its open and close marks, invisible on the page | ICT — Internet and the Web — HTML Comments |
+| 45931 | pictures/45931.webp | four drawn comment-use cards — REMIND, EXPLAIN, MARK SECTIONS, HIDE FOR NOW | ICT — Internet and the Web — HTML Comments |
+| 45932 | pictures/45932.webp | a drawn club form — labelled name and class inputs and the watering-day choices inside the form tags | ICT — Internet and the Web — HTML Forms |
+| 45933 | pictures/45933.webp | three drawn form rows — SUBMIT sends it whole, REQUIRED stars the must-fill, HONEST FIELDS ask only what's needed | ICT — Internet and the Web — HTML Forms |
+| 45934 | pictures/45934.webp | a drawn heading ladder — h1 The Fair down to h6 Small Print, shrinking rung by rung | ICT — Internet and the Web — HTML Headings and Paragraphs |
+| 45935 | pictures/45935.webp | a drawn code panel — two p elements holding two thoughts, the browser breathing between them | ICT — Internet and the Web — HTML Headings and Paragraphs |
+| 45936 | pictures/45936.webp | a drawn select box — Grade 6 chosen, its folded list open below with Grades 4 to 7 standing in a row | ICT — Internet and the Web — HTML Pull-Down Menu |
+| 45937 | pictures/45937.webp | four drawn verdict rows — many choices and little room ticked for pull-downs, few choices and typing crossed to other controls | ICT — Internet and the Web — HTML Pull-Down Menu |
+| 45938 | pictures/45938.webp | four drawn sample rows — bold heavy, italic leaning, underlined, big and small — with their tags | ICT — Internet and the Web — HTML Text Formatting — Bold, Italic, Super and Subscript |
+| 45939 | pictures/45939.webp | two drawn panels — superscript 5 squared with its raised red 2, and subscript H2O with its lowered red 2 | ICT — Internet and the Web — HTML Text Formatting — Bold, Italic, Super and Subscript |

@@ -10,11 +10,15 @@ The **banner** is the strip across the **top** of the page: the site's name, log
 
 In your mind's eye: the banner and the frame.
 
+[Picture 45928 — the banner and the frame]
+
 ## Sub lesson 2 — The menu — the site's links, standing still
 
 The **menu** is the standing list of **links** to the site's pages — Home, About, Activities, Contact — placed where every page keeps it (often down the side or under the banner). Its job is navigation: from any page, every main page is one click away, and the menu looks the same everywhere so visitors learn it once. Together the three parts make the site's **furniture**: banner names it, frame holds it, menu moves you through it — content changes, furniture stands.
 
 In your mind's eye: the menu — the site's links, standing still.
+
+[Picture 45929 — the menu — the site's links, standing still]
 
 ## Say it to your companion
 
