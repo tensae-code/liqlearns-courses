@@ -10,6 +10,8 @@ mosques, arabesques and calligraphy carry a civilisation's art from Spain to Per
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60949 — the art of islam]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 9: The art of Islam — mosques, arabesques and calligraphy carry a civilisation's art from Spain to Persia. Then let your companion ask you one hard question about it — answer from the lesson.

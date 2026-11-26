@@ -10,11 +10,15 @@ Arab builders blend simplicity and splendour, learning from every land their sta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60947 — simplicity and splendour]
+
 ## Sub lesson 2 — Castles, the Umayyad Mosque and the palaces
 
 Castles built for war in places enemies could hardly reach — Salah al-Din's castle, freed from the Franks by the hero Salah al-Din, Aleppo's citadel, the Krak and al-Marqab — the Umayyad Mosque in Damascus built by the caliph al-Walid ibn Abd al-Malik, the church of St Simeon near Aleppo, and the palaces: al-Azem in Damascus, Harun al-Rashid's in Raqqa, al-Hayr East and West near Palmyra.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60948 — castles mosque and palaces]
 
 ## Say it to your companion
 

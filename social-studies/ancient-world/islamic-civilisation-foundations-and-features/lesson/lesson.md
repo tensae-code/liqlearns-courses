@@ -10,17 +10,23 @@ Learners weigh the great civilisations against each other and argue why the isla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60952 — weighing the civilisations]
+
 ## Sub lesson 2 — The concept of Islamic civilisation and the bases it rose on
 
 Learners rebuild the definition from its pieces — values, ethics, inventions and works — and sort its material and spiritual sides.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60953 — built on values and works]
+
 ## Sub lesson 3 — Characteristics of Islamic civilisation
 
 The civilisation's marks are drawn out one by one so learners can spot them in any city, book or building it left behind.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60954 — spot its marks anywhere]
 
 ## Say it to your companion
 

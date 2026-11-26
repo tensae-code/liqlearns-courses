@@ -10,11 +10,15 @@ succession is disputed from the first day; within fifty years Husayn is killed a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60941 — from succession to karbala]
+
 ## Sub lesson 2 — Journey to Karbala (1) and (2)
 
 a pilgrimage trip frames the Karbala story itself — Husayn's stand and martyrdom retold for ten-year-olds at the shrine's door (Journey to Karbala (1) and (2))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60942 — the journey to karbala]
 
 ## Say it to your companion
 

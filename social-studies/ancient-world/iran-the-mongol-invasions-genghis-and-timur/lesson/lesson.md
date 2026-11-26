@@ -10,11 +10,15 @@ twice in two centuries Iran is devastated by steppe conquerors — Genghis Khan'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60931 — twice devastated]
+
 ## Sub lesson 2 — Ruthless conquerors
 
 the Mongol invasion told without softening — cities destroyed and people massacred by conquerors the title itself calls merciless (Ruthless conquerors)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60932 — cities destroyed]
 
 ## Say it to your companion
 

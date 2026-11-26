@@ -10,6 +10,8 @@ Yemeni merchants land first on the Malabar coast and preach by honesty, Muhammad
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60944 — from traders to the taj mahal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Islamic civilisation in Sind and India (Unit 5 Lesson 2) — yemeni merchants land first on the Malabar coast and preach by honesty, Muhammad ibn al-Qasim opens Sind in 92 AH, Ghaznavids, Ghurids and Khaljis follow, and under Babur's Mughals the civilisation peaks in stone — Qutb Minar, the Red Fort and Shah Jahan's Taj Mahal — while Islam's equality draws the oppressed out of the caste order. Then let your companion ask you one hard question about it — answer from the lesson.

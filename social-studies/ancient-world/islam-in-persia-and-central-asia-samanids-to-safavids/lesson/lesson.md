@@ -10,6 +10,8 @@ Khosrow tears the Prophet's letter and the Prophet foretells his kingdom torn; S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60943 — bukhara and samarkand shine]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Islamic civilisation in Persia and Central Asia (Unit 5 Lesson 1) — khosrow tears the Prophet's letter and the Prophet foretells his kingdom torn; Sa'd enters al-Mada'in, Yazdegerd III is killed in 31 AH and the Sassanian state ends, then Tahirids, Saffarids, Samanids and Seljuks raise Bukhara and Samarkand into centres where Persian is written in Arabic letters and Nizam al-Mulk founds the Nizamiyya schools. Then let your companion ask you one hard question about it — answer from the lesson.

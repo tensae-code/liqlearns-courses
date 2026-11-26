@@ -10,11 +10,15 @@ conquest empties cities and qanats, then Ilkhanid and Timurid rulers rebuild an 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60933 — ruins then rebuilding]
+
 ## Sub lesson 2 — Rebuilding the ruins
 
 after the killing, the rebuilding — under rulers like Ghazan Khan, farms, cities and learning are restored (Rebuilding the ruins)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60934 — rebuilding the ruins]
 
 ## Say it to your companion
 

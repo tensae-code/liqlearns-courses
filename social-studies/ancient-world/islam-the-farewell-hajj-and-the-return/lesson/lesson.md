@@ -10,6 +10,8 @@ the Prophet's farewell pilgrimage and the journey home become the child's first 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60945 — the journey home]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Return from the Hajj journey — the Prophet's farewell pilgrimage and the journey home become the child's first sacred-history story, told as a trip the class takes with him. Then let your companion ask you one hard question about it — answer from the lesson.

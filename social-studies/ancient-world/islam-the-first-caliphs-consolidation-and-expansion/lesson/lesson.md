@@ -10,6 +10,8 @@ after the Prophet's death the community nearly splits, then explodes outward —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60946 — held together then outward]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Consolidation and expansion of Islam in the era of the first caliphs — after the Prophet's death the community nearly splits, then explodes outward — the first caliphs hold Arabia together and carry Islam into Persia and Byzantium's lands. Then let your companion ask you one hard question about it — answer from the lesson.

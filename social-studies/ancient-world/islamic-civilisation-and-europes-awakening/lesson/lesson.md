@@ -10,6 +10,8 @@ Europe sends translators to the islamic world's shining centres, carries home bo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60950 — europe comes to learn]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: social, cultural and scientific manifestations, and the effect on europe's renaissance. Then let your companion ask you one hard question about it — answer from the lesson.
