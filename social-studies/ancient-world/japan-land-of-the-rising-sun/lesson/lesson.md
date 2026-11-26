@@ -10,6 +10,8 @@ An island civilisation takes Chinese writing and Buddhism and makes them its own
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60964 — the rising suns islands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Japan, land of the rising sun — an island civilisation takes Chinese writing and Buddhism and makes them its own. Then let your companion ask you one hard question about it — answer from the lesson.

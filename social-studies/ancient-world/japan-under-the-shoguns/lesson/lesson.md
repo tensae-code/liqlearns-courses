@@ -10,6 +10,8 @@ From early medieval Japan to the Tokugawa shogunate — Shinto and Buddhism, cas
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60965 — under the shoguns]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 5b: Japan under the Shoguns — From early medieval Japan to the Tokugawa shogunate — Shinto and Buddhism, castles and forests, isolation under threat, then modernisation. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -12,6 +12,8 @@ Baghdad in the east and Cordoba in the west become, in the book's beat, the worl
 
 In your mind's eye: a Baghdad observatory and library in the golden age — scholars with an astrolabe under the dome, translators at desks below. The student points to the instruments and the books and says what work joins them.
 
+[Picture 60959 — the civilisation of science]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: The civilisation of science, 8th–12th centuries. Then let your companion ask you one hard question about it — answer from the lesson.

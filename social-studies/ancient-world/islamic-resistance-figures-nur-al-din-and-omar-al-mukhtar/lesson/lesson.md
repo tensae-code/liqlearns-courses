@@ -10,6 +10,8 @@ Nur al-Din Zengi unites the Islamic lands against the Crusaders, and centuries l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60960 — two resisters one lesson]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Islamic resistance figures — Nur al-Din and Omar al-Mukhtar. Then let your companion ask you one hard question about it — answer from the lesson.

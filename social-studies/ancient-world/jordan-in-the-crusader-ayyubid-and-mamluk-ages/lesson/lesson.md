@@ -10,11 +10,15 @@ Europe's kings exploit a divided Islamic world and take Jerusalem in 1099, plant
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60974 — the franks plant their states]
+
 ## Sub lesson 2 — Lesson 5: Jordan in the Ayyubid age
 
 Saladin, founder of the Ayyubid state (1173–1229 in the book's dating), treats Jordan as the link between Egypt and Syria, the muster-ground and the Hajj road; having freed Karak he grants it to his brother al-Adil, and al-Mu'azzam Isa rebuilds its walls, imports craftsmen and makes the city feed itself; al-Nasir Dawud follows; Ayyubid mosques rise at Rimoun, Irbid, Tabaqat Fahl, Harthas and Bayt Ras, and Jordanian scholars — from Ayla, Shobak, Husban, Ajloun, Ba'un and Karak — teach as far as the Ba'uniyya dome in Damascus, before the Mongols enter Damascus in 1260
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60975 — jordan the link]
 
 ## Sub lesson 3 — Lesson 6: Jordan in the Mamluk age
 
@@ -22,17 +26,23 @@ at Ain Jalut in 1260, between Bisan and Nablus, the Mamluks break Kitbugha's Mon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60976 — ain jalut shield and granary]
+
 ## Sub lesson 4 — Lesson 3: Jordan during the Frankish campaigns
 
 King Fulk of Anjou builds Karak castle as the Frankish centre east of the Kingdom of Jerusalem; its lord Reynald de Chatillon breaks Saladin's truce by seizing a trade caravan passing Karak from Egypt — the provocation that leads to Hattin; Nur al-Din had already tested Karak's walls and withdrawn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60977 — karak and the broken truce]
+
 ## Sub lesson 5 — Lesson 4: Jordan in the Ayyubid age
 
 this book dates the Ayyubid state 569–648 AH/1174–1250; al-Nasir Dawud founds the Ayyubid Emirate of Karak embracing all of today's Jordan plus Nablus, Jerusalem and Hebron, rebuilds the castle, raises the Nasiri Hall, and gathers scholars, jurists and poets; al-Mu'azzam Isa orders the rational sciences taught — philosophy, astronomy, medicine and mathematics — and endows the schools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60978 — the emirate of karak]
 
 ## Sub lesson 6 — Lesson 5: Jordan in the Mamluk age
 

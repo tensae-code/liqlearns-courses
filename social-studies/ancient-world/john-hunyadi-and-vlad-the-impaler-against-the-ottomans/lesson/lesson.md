@@ -10,6 +10,8 @@ Hunyadi smashes the Ottomans on the Ialomița in 1442 and leads the Long Campaig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60973 — the anti ottoman war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 9: Țările Române în lupta antiotomană. Iancu de Hunedoara și Vlad Țepeş — Hunyadi smashes the Ottomans on the Ialomița in 1442 and leads the Long Campaign; Constantinople falls in 1453, and Vlad Țepeș takes up the same war. Then let your companion ask you one hard question about it — answer from the lesson.

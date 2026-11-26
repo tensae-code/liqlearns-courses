@@ -10,17 +10,23 @@ Caliphate, ministry, diwans, provinces and police take shape as a working state,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60956 — a working state]
+
 ## Sub lesson 2 — Economic manifestations — markets, crafts, farming and trade
 
 Markets, crafts, farming and trade fill the islamic world's purse, the wealth that pays for its cities and schools.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60957 — what fills the purse]
+
 ## Sub lesson 3 — Economic manifestations continued, and urban manifestations
 
 The money story runs on into streets, mosques and houses as islamic cities rise in planned stone.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60958 — money becomes a city]
 
 ## Say it to your companion
 

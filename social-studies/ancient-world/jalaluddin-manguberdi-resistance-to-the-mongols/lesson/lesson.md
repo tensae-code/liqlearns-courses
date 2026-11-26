@@ -10,6 +10,8 @@ the Khorezmshah's son fights the Mongols for eleven years, wins at Parwan and le
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60963 — the leap of the indus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 22. Jalaluddin Manguberdi — the Khorezmshah's son fights the Mongols for eleven years, wins at Parwan and leaps the Indus on horseback rather than surrender — the homeland's emblem of resistance. Then let your companion ask you one hard question about it — answer from the lesson.

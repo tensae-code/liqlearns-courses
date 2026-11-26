@@ -10,6 +10,8 @@ popes rule central Italy as princes and Aragonese kings hold the South; after 14
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60962 — the balance of italy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 9 §§3–4 The kingdoms: the State of the Church and southern Italy; The politics of equilibrium — popes rule central Italy as princes and Aragonese kings hold the South; after 1454 the Peace of Lodi and Lorenzo de' Medici's balancing keep Italy's five states from war for a generation. Then let your companion ask you one hard question about it — answer from the lesson.
