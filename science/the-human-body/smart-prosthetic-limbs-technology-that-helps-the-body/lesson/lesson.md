@@ -11,7 +11,11 @@ That is why Jordan's book places this enrichment inside its human-body-and-healt
 
 In your mind's eye: a prosthetic limb in use. Name the limb it stands in for and the job it helps with.
 
+[Picture 36944 — a prosthetic lower leg in use — it stands in for the leg and helps with walking]
+
 In your mind's eye: a prosthetic limb in motion. Say what movement the technology helps with.
+
+[Picture 36945 — a made leg, walking]
 
 ## The key ideas
 

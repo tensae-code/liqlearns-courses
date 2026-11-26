@@ -9,7 +9,11 @@ The book teaches **tongue disorders and problems** as a named topic: the tongue,
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 36940 — the tongue in the mouth — its tip and its taste buds]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 36941 — the tongue moves as it works]
 
 ## Sub lesson 2 — Why the tongue's troubles are taught with its care
 

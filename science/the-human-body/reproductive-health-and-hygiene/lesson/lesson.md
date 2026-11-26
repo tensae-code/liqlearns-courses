@@ -9,7 +9,11 @@ Every system of the body has its health, and the reproductive system is no excep
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36942 — a system kept healthy — care, cleanliness, staying safe]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36943 — the order the book teaches it in — the organs, puberty, staying safe, then reproductive health]
 
 ## Sub lesson 2 — Hygiene — the daily care that keeps it healthy
 

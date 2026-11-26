@@ -11,7 +11,11 @@ The senses are the body's receivers: each one is tuned to its own kind of change
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36946 — a stimulus — light for the eyes, sound for the ears, heat for the skin]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36947 — the eye receives the light, and the message reaches the brain — the body senses the change]
 
 ## Sub lesson 2 — Response — the body reacts
 

@@ -9,7 +9,11 @@ Investigating neuron types, comparing them with each other and with electric cir
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36938 — a neuron — dendrites, cell body, and the axon, the wire — set beside the electric circuit it is compared with]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 36939 — a signal travels along the neuron, from the cell body to the end branches]
 
 ## The key ideas
 
