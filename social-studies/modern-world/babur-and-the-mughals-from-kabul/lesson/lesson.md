@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Zahiruddin Muhammad Ba
 Zahiruddin Muhammad Babur, of Timur's line, builds from Kabul the dynasty that will rule India and leave the Taj Mahal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62241 — from kabul to india]
 ## Sub lesson 2 — Lesson 15: The Baburids and Afghanistan
 
 Babur's line, planted from Kabul, faces Afghanistan as India's ruling house
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62242 — planted from kabul]
 
 ## Say it to your companion
 

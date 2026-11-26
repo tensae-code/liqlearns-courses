@@ -10,11 +10,15 @@ English settlers reach Eleuthera in 1648 and bring enslaved Africans to work pla
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62249 — eleuthera 1648]
+
 ## Sub lesson 2 — Lucayans and Eleutheran Adventurers: the Adventurers settle Eleuthera and New Providence
 
 the Eleutheran Adventurers name Eleuthera, struggle to farm, trade wood and salvage wrecks; Captain Sayle moves on to the island that becomes New Providence, and settlements grow on both islands (Lucayans and Eleutheran Adventurers: the Adventurers settle Eleuthera and New Providence)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62250 — two islands settle]
 
 ## Sub lesson 3 — Slavery: how enslaved and free Africans reached The Bahamas
 
@@ -22,11 +26,15 @@ Bahamian slaves arrive by different routes — direct from Africa, with the Loya
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62251 — many routes one home]
+
 ## Sub lesson 4 — Early Settlers: Adventurers, Loyalists and the enslaved
 
 the Eleutheran Adventurers settle Eleuthera and Captain Sayle moves to New Providence; 1700s Loyalists plant cotton on the Family Islands with enslaved Africans, who win freedom in 1834 — emancipation (Early Settlers: Adventurers, Loyalists and the enslaved)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62252 — freedom in 1834]
 
 ## Say it to your companion
 

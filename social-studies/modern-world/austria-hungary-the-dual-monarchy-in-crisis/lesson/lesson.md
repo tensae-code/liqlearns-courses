@@ -10,6 +10,8 @@ Vienna's great banks and German capital run a multinational empire whose workers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62239 — pulled apart at once]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. IV §§22–23 The Austro-Hungarian Empire at the end of the 19th – beginning of the 20th century — Vienna's great banks and German capital run a multinational empire whose workers answer with the Austrian Social Democratic Party (1889) and a programme of universal secret ballot — nationalities and classes pull the Dual Monarchy apart at once. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ after independence the new country has its own first Prime Minister, Sir Lynden 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62254 — the first leaders]
+
 ## Sub lesson 2 — The Bahamas, My Country: Independence Day and national symbols
 
 on 10 July 1973 The Bahamas stops being ruled by Britain and can make its own laws; the gold, black and aquamarine flag, anthem, pledge and coat of arms give the new country its own identity (The Bahamas, My Country: Independence Day and national symbols)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62255 — 10 july 1973]
 
 ## Sub lesson 3 — The Bahamas, My Country: independence and the symbols of the new nation
 
@@ -22,11 +26,15 @@ on 10 July 1973 The Bahamas becomes free to govern itself; Timothy Gibson's anth
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62256 — march on bahamaland]
+
 ## Sub lesson 4 — Bahamian History: We Celebrate Our History — the holidays that remember the past
 
 the old Discovery Day becomes National Heroes' Day; Emancipation Day remembers the slaves' freedom, Majority Rule Day (10 January) and Independence Day (10 July) mark the road to self-government (Bahamian History: We Celebrate Our History — the holidays that remember the past)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62257 — holidays that remember]
 
 ## Sub lesson 5 — Leaders and Nation Builders
 
@@ -34,11 +42,15 @@ Sir Milo Butler, first Governor General (1973–1979), Sir Lynden Pindling, firs
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62258 — the roll of builders]
+
 ## Sub lesson 6 — Leaders Part 1: twelve Governors General since independence
 
 since 1973 twelve Governors General have represented the monarch — Sir John Paul, first Bahamian Governor General Sir Milo Butler, Sir Gerald Cash, Sir Henry Taylor, Sir Clifford Darling, Sir Orville Turnquest, first female Governor General Dame Ivy Dumont, Paul Adderley, Arthur Hanna, Sir Arthur Foulkes, Dame Marguerite Pindling and Sir Cornelius Smith (Leaders Part 1: twelve Governors General since independence)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62259 — twelve governors general]
 
 ## Sub lesson 7 — Leaders Part 2: the Prime Ministers since 1973
 
@@ -46,11 +58,15 @@ five Prime Ministers lead the independent country — Sir Lynden Pindling for fi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62260 — five prime ministers]
+
 ## Sub lesson 8 — Nation Builders Part 1: builders in education and religion
 
 Governor General Sir Gerald Cash (1979–1986), educator C. W. Sawyer who taught for 57 years and has a school named for him, A. F. Adderley, Michael Eldon, first Bahamian Anglican Bishop of Nassau, and Archdeacon William Thompson, rector of St. Agnes for 29 years, shot in his rectory in 2000 (Nation Builders Part 1: builders in education and religion)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62261 — builders in school and church]
 
 ## Sub lesson 9 — Nation Builders Part 2: builders in sport, art and music
 

@@ -10,17 +10,23 @@ Nassau becomes the Confederacy's back door to Europe; businesses flourish and in
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62243 — nassau the back door]
+
 ## Sub lesson 2 — Bootlegging 1920: rum-running through Prohibition
 
 America's 1919 liquor ban makes Bahamian bootleggers rich from 1920 to 1933 smuggling drink into the United States; the money improves rich homes and tourist infrastructure, but the Over-the-Hill communities benefit far less (Bootlegging 1920: rum-running through Prohibition)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62244 — rum running riches]
+
 ## Sub lesson 3 — Early Connections: bootlegging benefits the colony
 
 when American prohibition laws choke the liquor flow, rum-running becomes an economic benefit to the growing colony (Early Connections: bootlegging benefits the colony)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 62245 — a benefit to the colony]
 
 ## Say it to your companion
 
