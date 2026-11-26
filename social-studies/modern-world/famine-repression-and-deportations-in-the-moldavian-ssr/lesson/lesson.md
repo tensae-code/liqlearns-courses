@@ -10,11 +10,15 @@ drought-year 1945 deliveries are raised to 272,000 tonnes of grain; the 1949 dep
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63164 — deportations 1949]
+
 ## Sub lesson 2 — Tema 35: Reinstaurarea regimului comunist în RSSM. Colectivizarea forțată, foametea și deportările
 
 "divide et impera" sows discord between Romanians and Ukrainians; the party letter of 17 March 1949 opens the final assault on the village, and Operation "South" of 6 July 1949 becomes the peak of mass terror between Prut and Nistru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63165 — operation south]
 
 ## Say it to your companion
 

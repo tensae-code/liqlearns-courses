@@ -10,6 +10,8 @@ barricades rise from Paris to Vienna as liberals and nations demand constitution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63150 — barricades rise]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §15 The revolutions of the 1830s–1840s in Europe — barricades rise from Paris to Vienna as liberals and nations demand constitutions — and are mostly beaten back. Then let your companion ask you one hard question about it — answer from the lesson.

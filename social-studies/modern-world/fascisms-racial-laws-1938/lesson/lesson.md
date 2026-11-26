@@ -10,11 +10,15 @@ on 18 September 1938 Mussolini announces the racial laws at Trieste (the unit's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63167 — persecution written into law]
+
 ## Sub lesson 2 — Modulo 6 §§6–7 La stretta totalitaria e le leggi razziali; L'opposizione al fascismo
 
 the racial laws (Fare storia Document) turn persecution into statute; against the squeeze stand the fuorusciti — Garosci's and Rosselli's Fare storia pieces, "liberty as means and end" — and Togliatti's rival reading of fascism as class dictatorship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63168 — liberty as means and end]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Carbonari in Naples, liberals in Spain and juntas in Latin America rise as the C
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63151 — freezing 1815]
+
 ## Sub lesson 2 — §11 The revolutionary waves of 1830 and 1848 in Europe
 
 Paris barricades in 1830 give Belgium and a citizen-king; 1848 shakes every throne and fails almost everywhere
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63152 — every throne shaken]
 
 ## Say it to your companion
 

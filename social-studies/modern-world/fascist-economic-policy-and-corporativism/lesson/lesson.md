@@ -10,11 +10,15 @@ the battle for grain, reclamation and the corporate state — corporativism's lo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63171 — beyond classes shrinking wages]
+
 ## Sub lesson 2 — Modulo 6 §4 Economia e ideologia
 
 autarky and the corporate state promise a third way; the economy's real masters and the ideology's real function are the section's question
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63172 — a promised third way]
 
 ## Say it to your companion
 

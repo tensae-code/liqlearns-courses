@@ -10,6 +10,8 @@ Children pick one life — Lincoln, Gandhi, Mandela, Lenin, Churchill, Columbus,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63166 — lives that changed things]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.1A Famous People (list of 60, 19th-21st centuries). Then let your companion ask you one hard question about it — answer from the lesson.

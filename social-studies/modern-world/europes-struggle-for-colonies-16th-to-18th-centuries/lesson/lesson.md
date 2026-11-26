@@ -10,6 +10,8 @@ Spain, Portugal, Holland, France and England fight over America, India and the s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63155 — colonies as the prize]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §2 The Europeans' struggle for colonies — Spain, Portugal, Holland, France and England fight over America, India and the sea lanes for two centuries — colonies as the prize of European rivalry. Then let your companion ask you one hard question about it — answer from the lesson.

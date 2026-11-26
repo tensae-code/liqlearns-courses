@@ -10,6 +10,8 @@ Behind the kingdom's politics, four of five Yugoslavs still follow a horse and p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63160 — four of five at the plough]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.7 The economic, social and cultural life of Yugoslavia 1918–1941. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Charles V cannot crush the Protestant princes, so Augsburg lets each ruler choos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63156 — whose land his religion]
+
 ## Sub lesson 2 — Theme 2: Europe's wars of religion
 
 Charles V cannot shoot Europe back into one faith — Augsburg settles for "whose land, his religion", France massacres its Huguenots on St Bartholomew's Day yet later shelters them at Nantes, and only after the Thirty Years' War does Westphalia (1648) let every state choose its own faith
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63157 — westphalia 1648]
 
 ## Say it to your companion
 

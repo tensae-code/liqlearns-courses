@@ -10,6 +10,8 @@ the "mare nostrum" document states the aim; the Ethiopian war builds the empire 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63173 — mare nostrum]
+
 ## Sub lesson 2 — Modulo 6 §5 La politica estera e l'Impero
 
 Mussolini's proclamation of empire (Fare storia Document) crowns the Ethiopian war; the empire is the regime's proudest claim and its road into Hitler's war

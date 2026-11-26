@@ -10,11 +10,15 @@ radio, cinema, sport — even women's football, tolerated then banned (image stu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63169 — manufacturing consent]
+
 ## Sub lesson 2 — Modulo 6 §3 Scuola, cultura, informazione
 
 consensus (the module's keyword) is manufactured in classrooms and newsrooms — the press directives (Fare storia Document) show the leash in writing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63170 — the leash in writing]
 
 ## Say it to your companion
 

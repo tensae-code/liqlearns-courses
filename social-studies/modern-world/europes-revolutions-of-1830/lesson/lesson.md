@@ -10,6 +10,8 @@ Charles X's reaction sparks Paris; Belgium seizes the moment, wins independence 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63153 — belgium seizes the moment]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.3 The revolutions of 1830 — Charles X's reaction sparks Paris; Belgium seizes the moment, wins independence at the London conference, and reformers press in Switzerland and England. Then let your companion ask you one hard question about it — answer from the lesson.

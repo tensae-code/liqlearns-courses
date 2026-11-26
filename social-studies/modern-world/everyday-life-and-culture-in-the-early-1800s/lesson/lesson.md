@@ -10,6 +10,8 @@ beneath the revolutions, homes, clothes, schools and amusements quietly change a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63159 — quietly changing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §13 Culture and everyday life, 1700s–early 1800s — beneath the revolutions, homes, clothes, schools and amusements quietly change as towns grow. Then let your companion ask you one hard question about it — answer from the lesson.
