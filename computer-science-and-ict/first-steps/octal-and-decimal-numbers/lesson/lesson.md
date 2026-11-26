@@ -10,11 +10,15 @@ The **octal system** has base **8**: it uses only eight digits, **0 to 7** — t
 
 In your mind's eye: octal — counting in eights.
 
+[Picture 45097 — octal — counting in eights]
+
 ## Sub lesson 2 — Decimal — counting in tens, and telling them apart
 
 The **decimal system** has base **10**: ten digits, 0 to 9, and places worth powers of ten: 1, 10, 100, 1000. The same written marks can belong to either system — 25 is twenty-five in decimal but twenty-one when it is octal — so a number's system must be known or marked (Malaysia writes the base as a small subscript, 25₈ against 25₁₀). Telling them apart is the first skill: check the digits (any 8 or 9 means it cannot be octal) and read the places by the right base.
 
 In your mind's eye: decimal — counting in tens, and telling them apart.
+
+[Picture 45098 — decimal counts in tens — octal in eights]
 
 ## Say it to your companion
 

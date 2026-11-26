@@ -14,6 +14,8 @@ Changing the form does not change the information. Five apples stay five apples 
 
 In your mind's eye: the same five apples shown four ways. A speech bubble, the written words 'five apples', a drawing of five apples, and the number 5.
 
+[Picture 45105 — the same five apples shown four ways]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The same information can be presented in different forms — spoken aloud, written as words, drawn as a picture, or shown with numbers — and the information stays the same. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

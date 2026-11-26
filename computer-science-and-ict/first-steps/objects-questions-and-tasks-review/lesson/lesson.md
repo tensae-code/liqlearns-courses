@@ -16,6 +16,8 @@ This is the **review lesson** for the Objects unit — the book's own 'questions
 
 In your mind's eye: a review table with five small tasks in a row. Naming, comparing, grouping, telling apart and a riddle speech bubble.
 
+[Picture 45096 — a review table — five small tasks in a row]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This review checks the whole Objects unit: naming objects, similar features, grouping by a feature, distinguishing features and riddles. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

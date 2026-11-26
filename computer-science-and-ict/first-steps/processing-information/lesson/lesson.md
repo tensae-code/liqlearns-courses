@@ -10,11 +10,15 @@ To **process** information is to work on what was received and produce **new inf
 
 In your mind's eye: processing — old information in, new information out.
 
+[Picture 45106 — processing — old information in, new information out]
+
 ## Sub lesson 2 — Checking and correcting — processing's second half
 
 Processed information can carry **errors**: a misheard word, a wrong total, a hasty conclusion. So processing includes **checking** — comparing the result against the source, a second method, or plain sense — and **correcting** what the check condemns. The book pairs them in one lesson on purpose: processing without checking manufactures confident mistakes, and the information road's next station, storing, will faithfully keep whatever processing hands it — errors included, unless this lesson's half of the work is done.
 
 In your mind's eye: checking and correcting — processing's second half.
+
+[Picture 45107 — checking and correcting — processing's second half]
 
 ## Say it to your companion
 

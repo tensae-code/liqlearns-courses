@@ -10,11 +10,15 @@ An **object** is any thing around us that can be named and pointed to — a book
 
 In your mind's eye: objects and their properties.
 
+[Picture 45094 — objects and their properties — the apple's own]
+
 ## Sub lesson 2 — Environment and classification
 
 No object stands alone: each exists in an **environment** — the surroundings it belongs to and acts in. Objects are **classified** by shared properties: objects whose key properties match are put in one **class** (all books together, all bears together). Classification is the first information skill in the book's order: once the world is sorted into objects with properties, information about it can be stored, compared and reasoned with — the work the rest of the course builds on.
 
 In your mind's eye: environment and classification.
+
+[Picture 45095 — grouping objects by where they live — their environment]
 
 ## Say it to your companion
 

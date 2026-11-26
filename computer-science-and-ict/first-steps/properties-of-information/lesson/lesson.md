@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Information properties** — covering: 
 
 In your mind's eye: information properties.
 
+[Picture 45108 — the properties of information]
+
 ## Sub lesson 2 — Working with information, §1: The properties of information
 
 This part of Kazakhstan's book teaches **Working with information, §1: The properties of information** — covering: Chapter 1. Working with information, §1: The properties of information. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: working with information, §1. The properties of information.
+
+[Picture 45109 — working with information — check it before you trust it]
 
 ## Say it to your companion
 

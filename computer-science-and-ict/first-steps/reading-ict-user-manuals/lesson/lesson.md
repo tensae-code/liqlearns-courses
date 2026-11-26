@@ -10,11 +10,15 @@ A **user manual** is the instruction book that comes with an ICT tool. The peopl
 
 In your mind's eye: an ICT user manual open beside the tool it belongs to, its cover showing the tool's name and picture.
 
+[Picture 45110 — a user manual beside the tool it belongs to]
+
 ## Finding your answer and following it
 
 Work a manual the same way every time. **First, name your question** in plain words: 'How do I connect this?' or 'Why did it stop?' **Second, find the place**: use the contents list at the front to find the chapter or heading for that job; many manuals also have an index at the back, and a manual on a screen can be searched by word. **Third, follow the steps in order** — manual steps are written in the order they must be done, and skipping a step is the commonest reason a job fails. **Fourth, obey the warnings**: the parts marked as warnings or cautions are there because someone could be hurt or the tool damaged; read them before you touch, not after. **Last, keep the manual with the tool** — a manual stored far away helps nobody on the day it is needed. A learner who can do this owns every new tool that arrives, because the tool arrives with its own teacher.
 
 In your mind's eye: a learner using a manual's contents page with a finger, finding the heading for the job they want to do, with the tool waiting beside the book.
+
+[Picture 45111 — finding the job in the manual's contents page]
 
 ## Say it to your companion
 

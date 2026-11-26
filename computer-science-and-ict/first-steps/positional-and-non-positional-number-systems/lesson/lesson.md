@@ -10,11 +10,15 @@ In a **positional system**, a digit's value depends on its **position**: in 222,
 
 In your mind's eye: positional systems — the place carries value.
 
+[Picture 45103 — positional systems — the place carries the value]
+
 ## Sub lesson 2 — Non-positional systems — the sign keeps its value
 
 In a **non-positional system**, a sign keeps the same value wherever it stands: in Roman writing, V is always five and I is always one, so VIII is 5+1+1+1. Such systems are easy to read for small counts but heavy for big numbers and hard for arithmetic — which is why the positional idea won, and why computers are built on a positional system of base two.
 
 In your mind's eye: non-positional systems — the sign keeps its value.
+
+[Picture 45104 — non-positional systems — the sign keeps its value]
 
 ## Say it to your companion
 

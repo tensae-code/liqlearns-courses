@@ -10,11 +10,15 @@ A computer stores and sends **only numbers**: a text character is held as its **
 
 In your mind's eye: characters are numbers inside.
 
+[Picture 45099 — characters are numbers inside — A is 65]
+
 ## Sub lesson 2 — Machine language — the computer's own words
 
 **Machine language** is the computer's own language: instructions and data as binary patterns the processor acts on directly. People reading or writing those patterns group the bits — in threes for **octal**, in fours for hexadecimal — because a page of raw bits cannot be checked by eye. The relation Malaysia names is this chain: octal is how people write, ASCII is what characters mean, and machine language is what the machine holds — one value, three views.
 
 In your mind's eye: machine language — the computer's own words.
+
+[Picture 45100 — machine language — the computer's own words]
 
 ## Say it to your companion
 
