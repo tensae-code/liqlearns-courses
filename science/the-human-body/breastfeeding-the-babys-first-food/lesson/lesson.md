@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book teaches the mother's milk as the baby's first food,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36909 — the first milk — the colostrum: food and protection arriving together]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36910 — the colostrum of the first three days carries protection against germs]
 
 ## Sub lesson 2 — Natural feeding against the bottle
 

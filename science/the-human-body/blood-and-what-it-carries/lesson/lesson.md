@@ -9,7 +9,11 @@ Papua New Guinea's Grade 6 textbook opens blood by its make-up: blood has **soli
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36907 — blood's parts named — red cells, white cells and platelets carried in the plasma, the liquid part]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36908 — blood left to stand separates — plasma above, the solid parts settled below: it is a mixture]
 
 ## Sub lesson 2 — Carrying oxygen and carbon dioxide
 

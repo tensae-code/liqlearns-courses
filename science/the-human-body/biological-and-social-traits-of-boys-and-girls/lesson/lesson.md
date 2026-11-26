@@ -9,7 +9,11 @@ Vietnam's Grade 5 *Khoa học 5* sorts the characteristics of males and females 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 36905 — biological traits — a man and a woman standing on what is fixed from before birth]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 36906 — children grow up — the biological traits stay the same]
 
 ## Sub lesson 2 — Social traits — the changeable kind
 
