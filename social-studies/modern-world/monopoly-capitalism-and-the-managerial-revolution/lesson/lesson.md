@@ -10,6 +10,8 @@ competition concentrates capital until competent managers, not owners, run the e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41130 — ownersmanagers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §41: Constituirea capitalismului monopolist — competition concentrates capital until competent managers, not owners, run the enterprises and only strategic decisions stay at the top. Then let your companion ask you one hard question about it — answer from the lesson.

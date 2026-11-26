@@ -10,6 +10,8 @@ One culture or many? Monoculturalism — ethnocentrism, assimilation, or a natio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41131 — oneormanyweighed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Monocultural and multicultural societies — one culture or many? Monoculturalism — ethnocentrism, assimilation, or a nation sealing itself like Japan and the Koreas — weighed against multicultural society, advantage against disadvantage. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Moscow admits the "leftist" error; communes are dissolved, private herding resto
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41149 — herdingrestored]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III.4 Changes and progress in the New Turn years — Moscow admits the "leftist" error; communes are dissolved, private herding restored, industry founded (the Industrial Combine, 1934), literacy climbs and Mongolian culture breathes again. Then let your companion ask you one hard question about it — answer from the lesson.

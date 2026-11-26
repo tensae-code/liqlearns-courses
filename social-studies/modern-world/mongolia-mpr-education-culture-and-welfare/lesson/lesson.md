@@ -10,11 +10,15 @@ from temple schools to universal literacy — schools in every sum, Cyrillic scr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41153 — templetouniversity]
+
 ## Sub lesson 2 — Ch. 3.6 The MPR's cultural development
 
 theatres, film, publishing and a new national art are built — under the party's watchful eye
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41152 — culturewatched]
 
 ## Sub lesson 3 — Ch. 3.7 The MPR's health and social welfare development
 
@@ -22,11 +26,15 @@ hospitals, vaccinations and pensions reach the steppe for the first time; popula
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41151 — healthreachesteppe]
+
 ## Sub lesson 4 — Ch. III.9 The MPR's education, science and cultural development
 
 universal schooling (89.3% literacy by 1970, a UNESCO prize), universities, film, theatre and Olympic medals from 1964 — the socialist decades' real cultural harvest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41150 — literacyfilmmedals]
 
 ## Say it to your companion
 

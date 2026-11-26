@@ -10,11 +10,15 @@ the Comintern steers Mongolia onto the "non-capitalist road"; Soviet advisers, t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41148 — noncapitalistroad]
+
 ## Sub lesson 2 — Ch. 3.2 The transition to a republic
 
 on the Bogd's death in 1924 the First Great Khural proclaims the Mongolian People's Republic and adopts its first constitution
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41147 — theocracyto1924]
 
 ## Sub lesson 3 — Ch. III.1 Mongolia's first Constitution
 
@@ -22,11 +26,15 @@ the 1924 First Great Khural proclaims the People's Republic; the constitution pr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41146 — republic1924equal]
+
 ## Sub lesson 4 — Ch. III.2 Development orientations and conflicts
 
 national democrats (Tserendorj, Dambadorj, Amar) argue for a Mongolian road while the Comintern pushes Bolshevisation; the "left deviation" of 1929-32 — confiscations and forced communes — is the conflict's climax
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41145 — mongolianormoscows]
 
 ## Say it to your companion
 

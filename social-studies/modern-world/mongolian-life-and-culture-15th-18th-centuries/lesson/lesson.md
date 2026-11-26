@@ -10,11 +10,15 @@ herding life goes on under the khans; Erdene Zuu rises on Karakorum's ruins, Zan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41136 — chronicle1662]
+
 ## Sub lesson 2 — Ch. I.4: Life of the Mongols in the 18th–early 20th c.
 
 taxes, corvée and debt to Chinese firms grind the herders while the banner princes and monasteries hold the land and herds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41135 — herdergrounddown]
 
 ## Sub lesson 3 — Ch. I.5: Mongolian culture in the 18th–early 20th c.
 
@@ -22,17 +26,23 @@ chronicles, medicine, printing and temple art keep a national culture alive unde
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41134 — cultureendures]
+
 ## Sub lesson 4 — Ch. 4.3 Culture and economy (14th–17th c.)
 
 Buddhism's second coming, Altan Khan and the Dalai Lama title, Erdene Zuu's founding — faith remakes Mongol culture before the Qing remakes its politics
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41133 — khanandlama]
+
 ## Sub lesson 5 — Ch. I.4 Mongolian society and culture in the Manchu domination era
 
 khoshuu banners freeze herders to their lords' land; alba taxes, Chinese merchant debt and great monasteries reshape life, while learning, law codes and chronicles quietly flourish
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41132 — pinnedandtaxed]
 
 ## Say it to your companion
 
