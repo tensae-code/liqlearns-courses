@@ -10,11 +10,15 @@ The blending lessons assumed subjects already cut out. This lesson does the cutt
 
 In your mind's eye: cutting out — selecting the subject, refusing the rest.
 
+[Picture 46323 — cutting out — selecting the subject, refusing the rest]
+
 ## Sub lesson 2 — Merging into a new scene
 
 The freed subject is **merged into a new scene**: placed on its layer over a new background, scaled to belong (the blending lesson's craft), and seated so light and ground agree. Removing is the noun, merging is the verb's completion — a cut-out that never lands anywhere is only an exercise. Kuwait sequences it after blending deliberately: pupils who have blended know exactly what a good cut must survive.
 
 In your mind's eye: merging into a new scene.
+
+[Picture 46324 — merging into a new scene]
 
 ## Say it to your companion
 

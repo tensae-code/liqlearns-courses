@@ -10,11 +10,15 @@ An **image file format** is a rule for storing the picture's pixels. **BMP** sto
 
 In your mind's eye: formats store the picture differently.
 
+[Picture 46330 — formats store the picture differently]
+
 ## Sub lesson 2 — The same image, different sizes
 
 Because the formats store differently, **the same image** saved in each format has a **different file size**: plainly stored BMP is biggest, losslessly squeezed PNG is smaller, detail-discarding JPEG is usually smallest for a photograph. Malaysia's relation is the lesson: file size is not a property of the picture alone — it is a property of picture **and format together**. Choosing a format is choosing a size, which is why the choice is made by purpose: print, web, or archive.
 
 In your mind's eye: the same image, different sizes.
+
+[Picture 46331 — the same image, different sizes]
 
 ## Say it to your companion
 

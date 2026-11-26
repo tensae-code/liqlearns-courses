@@ -10,11 +10,15 @@ On the computer, **Microsoft Photos** is where pictures and video clips are **vi
 
 In your mind's eye: viewing in microsoft photos, and importing wired.
 
+[Picture 46332 — viewing in microsoft photos, and importing wired]
+
 ## Sub lesson 2 — Importing wirelessly — and storing what you imported
 
 Media can also arrive **wirelessly**, without a cable, when the device and the computer share a connection. However it arrives, importing is not finished until the media is **stored**: put the pictures and videos in a named folder on the computer, check they open from their new home, and only then is the copy on the device free to be cleared.
 
 In your mind's eye: importing wirelessly — and storing what you imported.
+
+[Picture 46333 — importing wirelessly — and storing what you imported]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The guide's application tour ends with the family that works in pictures. Laos's
 
 In your mind's eye: what graphics software is.
 
+[Picture 46326 — what graphics software is]
+
 ## Sub lesson 2 — What graphics software is used for
 
 The uses fill the visible world: **editing photographs** (crop, correct, retouch), **drawing illustrations and diagrams** for books like the Laos textbooks themselves, **designing** posters, signs and publications, **technical drawing (CAD)** for buildings and parts that must be exact, and preparing **images for the web and for print**. Laos gives graphics two activities — the syllabus's largest closing share — because it is the application family whose product the learner can see, judge and show: a picture made well is proof of skill that needs no translation.
 
 In your mind's eye: what graphics software is used for.
+
+[Picture 46327 — what graphics software is used for]
 
 ## Say it to your companion
 

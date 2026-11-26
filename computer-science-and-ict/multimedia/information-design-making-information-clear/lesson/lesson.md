@@ -10,11 +10,15 @@ Egypt's Grade 10 digitisation chapter closes with a lesson that is not about mac
 
 In your mind's eye: design is a decision — arrangement changes meaning.
 
+[Picture 46334 — design is a decision — arrangement changes meaning]
+
 ## Sub lesson 2 — Designing for the reader — test, simplify, be honest
 
 Good information design starts from the **reader's task**, not the writer's material: what must the reader decide or do, and what do they need first? The designer's checks are practical — can a new reader find the key fact in seconds; is anything shown that the task does not need; do emphasis and colour tell the truth about importance, or decorate? The honesty rule binds hardest: design must never make a small number look big, a guess look certain, or a choice look forced. Egypt ends the chapter here deliberately — after sound, images and video are turned into data, the final skill is presenting information so that people can act on it.
 
 In your mind's eye: designing for the reader — test, simplify, be honest.
+
+[Picture 46335 — designing for the reader — test, simplify, be honest]
 
 ## Say it to your companion
 

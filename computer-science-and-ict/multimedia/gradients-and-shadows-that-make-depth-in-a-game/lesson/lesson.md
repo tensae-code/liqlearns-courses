@@ -10,6 +10,8 @@ Depth is drawn, not programmed. Along a wall's edge, draw a **shadow shape** —
 
 In your mind's eye: a maze wall shown twice — flat on the left, and on the right raised by a gradient shadow fading out from its base, sent behind the wall.
 
+[Picture 46325 — a maze wall shown twice — flat on the left, and on the right raised by a gradient shadow fading out from its base, sent behind the wall]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: gradient-filled shadow shapes, sent behind the walls, are what make a flat maze stand up with depth. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

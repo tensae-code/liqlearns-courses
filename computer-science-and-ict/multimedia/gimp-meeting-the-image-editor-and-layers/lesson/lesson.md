@@ -10,11 +10,15 @@ Kuwait's Grade 7 design course is taught in GIMP — free software, chosen delib
 
 In your mind's eye: meeting GIMP — screen and preferences.
 
+[Picture 46321 — meeting GIMP — screen and preferences]
+
 ## Sub lesson 2 — Layers — the idea everything stands on
 
 A GIMP image is built in **layers**: transparent sheets stacked over each other, each carrying part of the picture — one the background, one a person, one the text — while the eye sees the stack as one image. Layers are why digital design is forgiving: a part can be moved, hidden, edited or removed **without touching the parts on other layers**. Every GIMP lesson after this one — blending, drawing, posters — is layers at work.
 
 In your mind's eye: layers — the idea everything stands on.
+
+[Picture 46322 — layers — the idea everything stands on]
 
 ## Say it to your companion
 

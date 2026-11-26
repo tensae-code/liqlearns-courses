@@ -10,11 +10,15 @@ The **Paintbrush tool** paints where the pointer moves: a stroke follows the han
 
 In your mind's eye: the Paintbrush tool — GIMP's pencil and brush in one.
 
+[Picture 46319 — the Paintbrush tool — GIMP's pencil and brush in one]
+
 ## Sub lesson 2 — Drawing and colouring on separate layers — the cat activity
 
 The set activity — **the cat** — is drawn the forgiving way: the **drawing on one layer, the colouring on another beneath it**, so colour can flood and be corrected without smearing the lines, and lines can be mended without touching the colour. Separate layers are the digital version of a light pencil and clean paint — the structure that lets a beginner be brave, because every kind of mark can be fixed in its own place.
 
 In your mind's eye: drawing and colouring on separate layers — the cat activity.
+
+[Picture 46320 — drawing and colouring on separate layers — the cat activity]
 
 ## Say it to your companion
 

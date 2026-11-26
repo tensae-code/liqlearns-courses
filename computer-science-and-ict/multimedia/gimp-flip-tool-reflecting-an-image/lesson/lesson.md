@@ -10,11 +10,15 @@ A **reflection** turns a picture into its **mirror image**: every point lands as
 
 In your mind's eye: reflection — the geometry of the mirror.
 
+[Picture 46317 — reflection — the geometry of the mirror]
+
 ## Sub lesson 2 — The Flip tool — horizontal and vertical
 
 GIMP's **Flip tool** reflects the layer or selection in one click, in the two directions the book teaches: **horizontally** — mirrored across a vertical line, left and right exchanged — and **vertically** — mirrored across a horizontal line, top and bottom exchanged, as a scene reflects in still water. The craft is choosing the direction the design needs and noticing what reflection does to text and known faces: mirrored writing reads backwards, and the honest designer flips pictures, not words.
 
 In your mind's eye: the Flip tool — horizontal and vertical.
+
+[Picture 46318 — the Flip tool — horizontal and vertical]
 
 ## Say it to your companion
 

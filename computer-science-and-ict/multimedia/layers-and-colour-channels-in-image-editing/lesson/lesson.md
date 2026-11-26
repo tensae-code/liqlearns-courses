@@ -10,11 +10,15 @@ A digital image in an editor is a **stack of layers**: transparent sheets, each 
 
 In your mind's eye: layers — the stack of transparent sheets.
 
+[Picture 46336 — layers — the stack of transparent sheets]
+
 ## Sub lesson 2 — Colour channels — the image in its components
 
 A colour image is also kept **by channels**: in the RGB model, three **grayscale channels** hold how much **red, green and blue** each pixel carries, and the colour picture is their sum. Looking at one channel shows that colour's map of the image — the red channel is bright where the picture is reddish. Editors let you **view and even edit channels separately**, the road to fine colour correction and effects. Layers divide the image by **place**; channels divide it by **colour** — the two cuts every raster editor is built from.
 
 In your mind's eye: colour channels — the image in its components.
+
+[Picture 46337 — colour channels — the image in its components]
 
 ## Say it to your companion
 

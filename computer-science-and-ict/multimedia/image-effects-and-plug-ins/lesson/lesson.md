@@ -10,11 +10,15 @@ Applied to **photographs**, the **Effects menu** changes its meaning: artistic e
 
 In your mind's eye: the Effects menu — on photographs now.
 
+[Picture 46328 — the Effects menu — on photographs now]
+
 ## Sub lesson 2 — Plug-ins — extending the editor, and the 3D text project
 
 A **plug-in** is an added module that gives the editor new powers: **installed** once — the plug-in file placed where Paint.NET reads its extensions and the program restarted — its effects join the menu as citizens. Mongolia's set project spends them on **3D text**: letters given depth, light and shadow by plug-in effects, for the titles photographs alone cannot make. The lesson's standing rule closes both halves: an editor is not a fixed shelf but a growing bench — what it cannot do today, a plug-in may teach it tomorrow, and the pupil is responsible for every tool on the bench.
 
 In your mind's eye: plug-ins — extending the editor, and the 3D text project.
+
+[Picture 46329 — plug-ins — extending the editor, and the 3D text project]
 
 ## Say it to your companion
 
