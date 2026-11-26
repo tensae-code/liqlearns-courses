@@ -1,6 +1,6 @@
 # Sources — Flowchart symbols
 
-countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jordan, Pakistan, Kazakhstan
+countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jordan, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -95,3 +95,17 @@ Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solvi
 
 Kazakhstan's own way (Kadirkulov G8 «Информатика» 2019 edition): the 2019 Almatykitap Grade 8 book splits "measuring information" into two named approaches — the probability approach and the alphabet approach — and its IDE section is a Pascal/Lazarus visual-component environment, ending in subroutines; the 2023 re-issue (152 pages, Book 21) is a different, shorter book.
 Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 10, pakistan, grade 7 computer science 7, grade 8 computer education 8, grade 9 computer science 9, kazakhstan, kadirkulov g8 «информатика» 2019 edition
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Flowchart symbols and drawing flowcharts (the flowchart block) — printed p. 88 | Kenya, *Log On Computer Studies Form 3*, printed p. 88 |
+
+**Acceptance count: taught in 11 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, flowchart-symbols

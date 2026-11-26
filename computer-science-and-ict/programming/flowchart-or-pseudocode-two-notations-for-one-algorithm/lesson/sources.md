@@ -1,6 +1,6 @@
 # Sources — Flowchart or pseudocode — two notations for one algorithm
 
-countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia, South Sudan, Pakistan, Kazakhstan
+countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia, South Sudan, Pakistan, Kazakhstan, Kenya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -118,3 +118,17 @@ Kazakhstan's own way (Kadirkulov G2 Digital Literacy): one Grade 2 year mixes Sc
 
 Kazakhstan's own way (Kopeeva G5 «Информатика»): the year runs safety → internet safety → information and its processing → a long Scratch chapter, and it closes not with a test but with two production projects: a printed newspaper page made in a word processor (page setup, columns, WordArt, page numbers) and a defended Scratch project published to the Scratch community site.
 Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 9, grade 10, grade 10, south sudan, grade 11 s3 student, grade 11 s3 teacher, pakistan, grade 9 computer science 9, kazakhstan, kadirkulov g2 digital literacy, kopeeva g5 «информатика»
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Developing algorithms as pseudocode and as flowcharts — printed p. 82 | Kenya, *Log On Computer Studies Form 3*, printed p. 82 |
+
+**Acceptance count: taught in 15 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, flowchart-or-pseudocode-two-notations-for-one-algorithm

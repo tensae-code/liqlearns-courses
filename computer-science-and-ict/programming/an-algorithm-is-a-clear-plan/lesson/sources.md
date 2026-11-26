@@ -1,6 +1,6 @@
 # Sources — An Algorithm Is a Clear Plan
 
-countries: Azerbaijan, Uzbekistan, Bhutan
+countries: Azerbaijan, Uzbekistan, Bhutan, Kenya
 
 **Book 1:** *İnformatika 2* (student book, Azerbaijani; title as printed: İnformatika 2 — Ümumi təhsil müəssisələrinin 2-ci sinifləri üçün İnformatika fənni üzrə dərslik) — Azerbaijan, Azərbaycan Respublikası Təhsil Nazirliyi (Ministry of Education of Azerbaijan), Baku, 2021–2022. Authors: İsmayıl Sadıqov, Naidə İsayeva, Aygün Əzizova. No ISBN printed (issued under CC BY-NC-SA 4.0 via trims.edu.az). 67 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/azerbaijan-placements.md.
 
@@ -26,3 +26,17 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
 Searchable tags: algorithm, clear plan, steps in order, programming, azerbaijan, grade 2, informatika, uzbekistan, grade 9, bhutan, class v
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Definition and development of an algorithm — printed p. 82 | Kenya, *Log On Computer Studies Form 3*, printed p. 82 |
+
+**Acceptance count: taught in 4 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, an-algorithm-is-a-clear-plan

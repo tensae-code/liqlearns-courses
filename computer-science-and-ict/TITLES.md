@@ -1429,3 +1429,7 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Spreadsheets** (phantom repair, from Kenya): Subtotals and Grand Totals in a Worksheet
 
 **Databases** (phantom repair, from Kenya): The Data Hierarchy — Character, Field, Record, Table, Database
+
+**Programming** (phantom repair, from Kenya): Ones and Twos Complement and Signed Binary Numbers · The Program Development Life Cycle
+
+**Files and Folders** (phantom repair, from Kenya): File Organisation Methods — Sequential, Serial, Indexed and Random

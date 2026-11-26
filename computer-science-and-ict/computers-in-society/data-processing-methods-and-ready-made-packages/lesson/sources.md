@@ -1,6 +1,6 @@
 # Sources — Data Processing Methods and Ready-Made Packages
 
-countries: Sudan, Laos
+countries: Sudan, Laos, Kenya
 
 **Book 1:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
@@ -24,3 +24,18 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
 Searchable tags: data processing, batch processing, ready-made packages, specially written programs, computers in society, sudan, grade 11, laos, grade 6 ict student, grade 12 ict student
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Data processing methods: manual/conventional, mechanical, electronic — printed p. 49 | Kenya, *Log On Computer Studies Form 3*, printed p. 49 |
+| Electronic data processing modes: on-line, distributed, time-sharing, batch, multi-processing, multi-programming/multi-tasking, interactive, real-time — printed p. 57 | Kenya, *Log On Computer Studies Form 3*, printed p. 57 |
+
+**Acceptance count: taught in 3 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, data-processing-methods-and-ready-made-packages

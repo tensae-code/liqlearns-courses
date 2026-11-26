@@ -1,6 +1,6 @@
 # Sources — Binary Arithmetic
 
-countries: Montenegro, Egypt, Moldova, Bangladesh
+countries: Montenegro, Egypt, Moldova, Bangladesh, Kenya
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -32,3 +32,17 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
 Searchable tags: binary arithmetic, addition, subtraction, multiplication, division, two's complement, ones' complement, negative numbers, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, egypt, grade 10, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Binary addition (chapter objective, taught inside the binary number-system block) — printed p. 6 | Kenya, *Log On Computer Studies Form 3*, printed p. 6 |
+
+**Acceptance count: taught in 5 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, binary-arithmetic

@@ -1,6 +1,6 @@
 # Sources — Bits, Bytes and Number Systems
 
-countries: Germany, Greece
+countries: Germany, Greece, Kenya
 
 **Book 1:** *Informatik 5 — Graphen | Codierung | Kommunikation in Netzwerken | Künstliche Intelligenz (Bayern NTG)* (student book) — Germany, Grade 11. Cornelsen Verlag, Berlin, 2023 (1st edition, 2nd printing 2024). Authors: Peter Brichzin, Florian Janus, Franz Jetzinger, Johannes Neumeyer, Klaus Reinold, Dr. Frank Scholz, Dr. Stefan Seegerer, Albert Wiedemann. ISBN 978-3-637-02473-1 (e-book 978-3-637-02474-8). 101 PDF pages. Verdict: PARTIAL — the PDF is a disordered screenshot compilation (screenshot file names visible on pages, imprint and chapter openers out of order, solutions/answer-key pages interleaved) of a book whose own contents run to printed p. 184; the complete table of contents is legible and every chapter's content was verified on sampled pages, so placements are taken from the verified contents and sampled content. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/germany-placements.md.
 
@@ -22,3 +22,17 @@ Germany's own way: a Bavarian NTG Gymnasium book built on four deep strands — 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
 Searchable tags: bits, bytes, number systems, binary, decimal, hexadecimal, kilobyte, megabyte, gigabyte, terabyte, place value, programming, germany, informatik, bayern ntg, grade 11, greece, grade 8 pliroforiki b gymnasiou
+
+## Kenya growth (2026-11-25, phantom repair — Log On Computer Studies Form 3)
+
+**Book (Kenya — Log On Computer Studies Form 3, student book):** *Log On Computer Studies Form 3 Students' Book* (student book) — Kenya, Kenya Literature Bureau (KLB), Nairobi; authors Daniel Mulli, Dorothy Ochieng', Linnet Maundu, Willis Nyadida. First published 2014, reprinted 2015. ISBN 978-9966-10-219-5 (as printed on the copyright page and back-cover barcode). Grade 11 (Form 3). 180 PDF pages; printed folio = PDF page − 12. File kenya-computer-form3-logon.pdf, 33,798,778 bytes — byte-exact against the library record; the good copy is staged in phase3-staging/grade-11/approved-private/kenya/. Verdict: COMPLETE. Read in the 2026-11-25 phantom-repair read (image-only CamScanner scan — covers, title and copyright pages and the full table of contents read visually from page renders; body spot-read at every chapter opening, at chapter-end revision exercises and at the back covers). It counts in the acceptance count (student book). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/kenya-ict-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of data representation: number systems — decimal, binary, octal, hexadecimal — printed p. 5 (filed as first-steps/bits-bytes-and-number-systems; stocked into this lesson as the existing lesson covering this thing) | Kenya, *Log On Computer Studies Form 3*, printed p. 5 |
+
+**Acceptance count: taught in 3 countries — Kenya added.**
+
+Kenya's own way (Log On Computer Studies Form 3) — the theory year — four long chapters (data representation, data processing, programming principles, system development), each opening with objectives and keywords and closing with revision questions and an 'Information is Power' emerging-issues feature (e-business, biometrics, social media) — is itself course content, carried exactly as filed.
+
+Searchable tags: kenya, log on computer studies form 3, bits-bytes-and-number-systems
