@@ -10,17 +10,23 @@ Two Tanzanian strongmen build states on the trade routes — Mirambo's power lea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60108 — strongmen build states on the trade routes]
+
 ## Sub lesson 2 — The Nyamwezi chiefdoms
 
 The Ntemi are supreme rulers who lead prayers, make sacrifices and keep the royal drum; Chief Mirambo is named among their famous leaders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60109 — the Ntemi: prayers, sacrifices and the royal drum]
+
 ## Sub lesson 3 — The rise of Military States
 
 Strong leadership and new military tactics raise military states in East Africa, the Nyamwezi foremost in the lesson's tasks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60110 — strong leaders, new tactics: military states rise]
 
 ## Say it to your companion
 

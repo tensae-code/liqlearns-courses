@@ -10,11 +10,15 @@ beside today's Dongola the Nubians build an independent kingdom (2500–1500 BCE
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60091 — Kerma: a palace-and-temple city of brick]
+
 ## Sub lesson 2 — The Kerma Civilisation
 
 Africa's first great kingdom south of Egypt builds palaces and temples of brick and defies the pharaohs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60092 — Kerma defies the pharaohs]
 
 ## Sub lesson 3 — Sudan in the Era of the Cultural Groups
 
@@ -22,11 +26,15 @@ entire nations survive as pottery in graves, and science gives them letters beca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60093 — peoples known only by their pottery: A, B, C]
+
 ## Sub lesson 4 — The Kerma Civilisation (Grade  book, part 2)
 
 the lettered peoples give way to a named kingdom with a capital of brick
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60094 — from letters to a named kingdom: Kerma]
 
 ## Say it to your companion
 

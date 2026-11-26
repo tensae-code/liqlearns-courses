@@ -10,11 +10,15 @@ Numidia under Massinissa unites the Libyan interior, the Three Cities — Leptis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60099 — Numidia unites; the Three Cities pass on]
+
 ## Sub lesson 2 — The Numidians
 
 Massinissa unites Numidia from Cirta, backs Rome against Carthage and rules inland to the Gulf of Sirte; Jugurtha fights Rome six years before Caesar annexes the kingdom in 46 BCE; the Numidians write with letters adapted from Phoenician
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60100 — Massinissa, Jugurtha, and Numidia's letters]
 
 ## Say it to your companion
 
