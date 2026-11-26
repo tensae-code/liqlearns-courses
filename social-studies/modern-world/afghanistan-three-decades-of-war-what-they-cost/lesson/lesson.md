@@ -10,6 +10,8 @@ the ledger is counted in martyred teachers and scholars, destroyed schools and a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62049 — the ledger of thirty years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 28: Results of the events and changes of the last three decades in the country — the ledger is counted in martyred teachers and scholars, destroyed schools and a fallen standard of education. Then let your companion ask you one hard question about it — answer from the lesson.

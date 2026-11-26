@@ -9,26 +9,36 @@ Before you read on, hold this lesson's one thing in mind: Ahmad Shah gathers the
 Ahmad Shah gathers the divided country into one state again, and pupils debate the role of Sabir Shah Kabuli beside the founder's own
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62060 — gathered into one again]
 ## Sub lesson 2 — Lesson 5: What were Ahmad Shah Baba's administrative reforms and military activities?
 
 the founder orders the new state's administration and leads its armies across the region
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62061 — administration and armies]
 ## Sub lesson 3 — Lesson 6: What do you know of Ahmad Shah Baba's qualities?
 
 the founder's character is summed up as the model of the national hero
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62062 — the model hero]
 ## Sub lesson 4 — Lesson 2: Ahmad Shah Baba and the consolidation of the central state
 
 the founder gathers the tribes into one central state in 1747
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62063 — 1747 one central state]
 ## Sub lesson 5 — Lesson 3: Ahmad Shah Baba's military campaigns
 
 the founder's armies carry the new state to its greatest extent, India included
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62064 — to its greatest extent]
 
 ## Say it to your companion
 

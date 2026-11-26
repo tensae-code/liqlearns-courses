@@ -10,6 +10,8 @@ Crowned at fourteen after the Second Battle of Panipat (1556), Akbar welds north
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62065 — crowned at fourteen]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Akbar — the greatest Mughal emperor. Then let your companion ask you one hard question about it — answer from the lesson.

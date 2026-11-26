@@ -10,6 +10,8 @@ ALBA answers poverty — called the most powerful weapon of mass destruction —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62066 — literacy against poverty]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Alianza Bolivariana para las Américas (ALBA) — ALBA answers poverty — called the most powerful weapon of mass destruction — with literacy and post-literacy programmes, Misión Milagro eye care and communicational sovereignty through TeleSur and Radio del Sur. Then let your companion ask you one hard question about it — answer from the lesson.

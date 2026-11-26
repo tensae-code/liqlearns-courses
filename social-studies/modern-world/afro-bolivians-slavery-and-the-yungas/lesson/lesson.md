@@ -10,11 +10,15 @@ Africans are brought in chains — how many died will never be known; escapees f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62057 — chains flight the yungas]
+
 ## Sub lesson 2 — Año 2: El pueblo Afroboliviano
 
 Teacher-compendium unit, same arc as the student text (Año 2: El pueblo Afroboliviano)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62058 — the afro bolivian people]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ aryks and water-masters, cotton and karakul, guild crafts in the old cities — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62059 — rich in skill poor in machines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 §3 The state of agriculture and crafts — aryks and water-masters, cotton and karakul, guild crafts in the old cities — an economy rich in skill and poor in machines. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -37,11 +37,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 with the world beside it, Afghanistan rebuilds and paves thousands of kilometres of roads and highways
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62046 — rebuilding road by road]
 ## Sub lesson 6 — Lesson 34: The presidential elections
 
 Afghan men and women vote in calm and freedom at ballot boxes to choose their president
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62047 — voting in calm and freedom]
 
 ## Say it to your companion
 

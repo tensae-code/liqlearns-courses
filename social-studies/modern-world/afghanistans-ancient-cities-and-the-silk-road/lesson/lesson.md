@@ -10,6 +10,8 @@ Balkh, "Mother of Cities", Herat, Bamiyan, Kabul, Kapisa, Bust, Ghor and Ghazni 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62050 — mother of cities]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 18: Important and historical cities of Afghanistan — Balkh, "Mother of Cities", Herat, Bamiyan, Kabul, Kapisa, Bust, Ghor and Ghazni are named as the homeland's ancient cities, and the Silk Road through them once tied China and India to Europe. Then let your companion ask you one hard question about it — answer from the lesson.

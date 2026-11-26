@@ -10,6 +10,8 @@ the homeland lies divided among Safavid Iran, Mughal India and the Uzbeks on the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62048 — divided three ways]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 14: The state of Afghanistan before the Kandahar uprising — the homeland lies divided among Safavid Iran, Mughal India and the Uzbeks on the rising's eve. Then let your companion ask you one hard question about it — answer from the lesson.

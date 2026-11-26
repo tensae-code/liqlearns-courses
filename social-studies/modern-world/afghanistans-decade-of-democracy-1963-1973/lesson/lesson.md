@@ -10,6 +10,8 @@ a constitutional monarchy experiments with parties, press and parliaments for te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62052 — ten years of experiment]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 26: The Decade of Democracy (1342–1352 SH) — a constitutional monarchy experiments with parties, press and parliaments for ten years. Then let your companion ask you one hard question about it — answer from the lesson.

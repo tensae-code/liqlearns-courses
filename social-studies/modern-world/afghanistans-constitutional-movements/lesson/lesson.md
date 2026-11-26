@@ -10,6 +10,8 @@ the Mashruta movements demand a constitution and limits on the Amir's absolute r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62051 — limits on the amir]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 16: The constitutional movements — the Mashruta movements demand a constitution and limits on the Amir's absolute rule. Then let your companion ask you one hard question about it — answer from the lesson.

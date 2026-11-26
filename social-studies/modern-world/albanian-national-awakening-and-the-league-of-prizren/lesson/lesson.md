@@ -10,17 +10,23 @@ before Albanians have a state, teachers give them an alphabet and books of their
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62067 — an alphabet before a state]
+
 ## Sub lesson 2 — Theme 2: the League of Prizren (1878) and the rise of the Albanian liberation movement — Abdyl Frashëri and the League demand one united Albanian vilayet with wide autonomy and plead the Albanian case in Europe's capitals
 
 faced with partition among neighbours, Albanian beys and teachers form a league to keep Albanian lands together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62068 — prizren 1878]
+
 ## Sub lesson 3 — Theme 4: Albania on the road to independence — no single alphabet, contacts with the Young Turks, and Ismail Qemali proclaiming independence at Vlora (1912) before Wilhelm of Wied arrives as prince
 
 thirty-four years after Prizren, the declaration is finally raised over Vlora
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62069 — vlora 1912]
 
 ## Sub lesson 4 — Theme 4: the League of Prizren
 
