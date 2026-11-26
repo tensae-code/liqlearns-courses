@@ -10,6 +10,8 @@ in 1947 Britain hands Palestine to the UN; the land is partitioned, Israel is pr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63844 — partition and proclamation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 Lesson 5, Israel — in 1947 Britain hands Palestine to the UN; the land is partitioned, Israel is proclaimed, and the Arab-Israeli wars begin — a small state of eight million at the centre of a long conflict. Then let your companion ask you one hard question about it — answer from the lesson.

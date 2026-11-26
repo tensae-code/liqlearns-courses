@@ -26,6 +26,8 @@ the monarchy falls to a united popular movement, told at survey speed (The Islam
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63822 — a united movement topples a monarchy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The victory of the Islamic Revolution of Iran — the shah leaves, Khomeini returns to millions, the army declares neutrality, and on 22 Bahman (11 February 1979) the Pahlavi state collapses; The Islamic Revolution — causes, coalition and collapse — the revolution analysed as a whole, not just chronicled; The Islamic Revolution of Iran — the monarchy falls to a united popular movement, told at survey speed. Then let your companion ask you one hard question about it — answer from the lesson.

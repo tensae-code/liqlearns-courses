@@ -10,6 +10,8 @@ Britain, eyeing Iraq's wealth and oil, occupied it from al-Faw in 1914 and took 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63832 — a mandates bargains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Iraq under the British mandate. Then let your companion ask you one hard question about it — answer from the lesson.

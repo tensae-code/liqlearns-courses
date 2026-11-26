@@ -10,6 +10,8 @@ both Pahlavi shahs in one lesson — Reza Shah's forced modernisation and Mohamm
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63823 — two shahs one lesson]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Iran in the period of Pahlavi government — both Pahlavi shahs in one lesson — Reza Shah's forced modernisation and Mohammad Reza Shah's oil-rich, America-backed monarchy. Then let your companion ask you one hard question about it — answer from the lesson.

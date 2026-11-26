@@ -10,6 +10,8 @@ Ukrainian teacher Irina Ratushinskaya loses her job for refusing to discriminate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63841 — seven years for poetry]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 2, Case Study 4 "Freedom Of Religion" — Ukrainian teacher Irina Ratushinskaya loses her job for refusing to discriminate against Jewish students, is sentenced in 1982 to seven years' hard labour for her religious poetry, and is freed and expelled in 1986 after an international outcry. Then let your companion ask you one hard question about it — answer from the lesson.

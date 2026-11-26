@@ -10,6 +10,8 @@ Rashid Ali al-Gaylani's 1941 government was crushed by a second British occupati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63828 — republic to occupation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Iraq — from republic to occupation, 2003. Then let your companion ask you one hard question about it — answer from the lesson.

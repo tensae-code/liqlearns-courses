@@ -10,6 +10,8 @@ the Assembly elected to write the constitution wrestles the Anglo-Iraqi treaty t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63839 — ratified by the deadline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Constituent Assembly and the Basic Law — the Assembly elected to write the constitution wrestles the Anglo-Iraqi treaty to ratification by the British deadline of 10 June 1924, then enacts the Basic Law. Then let your companion ask you one hard question about it — answer from the lesson.

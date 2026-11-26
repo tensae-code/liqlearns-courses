@@ -10,6 +10,8 @@ famine and eviction halve Ireland's people; Parnell's Land League answers with b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63840 — the crack in the british state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §§12–13 The internal and external policy of England — famine and eviction halve Ireland's people; Parnell's Land League answers with boycott and terror until Gladstone offers land reform instead of the Home Rule Parnell demands — the Irish question becomes the crack in the British state. Then let your companion ask you one hard question about it — answer from the lesson.

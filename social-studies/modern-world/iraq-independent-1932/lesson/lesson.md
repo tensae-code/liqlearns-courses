@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Britain agrees to end 
 Britain agrees to end the mandate under the 1930 treaty; parliament ratifies it 69 of 88, and Iraq enters the League of Nations a sovereign state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63829 — 69 of 88]
 ## Sub lesson 2 — Independence within the monarchy's first decades
 
 treaty, constitution and League membership carry Iraq from mandate to formal independence inside this chapter's span
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63830 — from mandate to independence]
 
 ## Say it to your companion
 

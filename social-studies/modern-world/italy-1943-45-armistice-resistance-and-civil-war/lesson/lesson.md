@@ -10,6 +10,8 @@ the armistice splits Italy in two; a testimony of 16 October 1943 (Document) rec
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63845 — italy split in two]
+
 ## Sub lesson 2 — Modulo 8 §§10–11 L'Italia: la caduta del fascismo e l'armistizio; L'Italia: Resistenza e guerra civile
 
 25 July and 8 September split Italy three ways; Pavone's contested definition of "civil war", Fenoglio's partisan episode, the foibe violence on the eastern border (Fare storia pieces) and Galli della Loggia's "death of the fatherland" argue the nation's hardest twenty months
