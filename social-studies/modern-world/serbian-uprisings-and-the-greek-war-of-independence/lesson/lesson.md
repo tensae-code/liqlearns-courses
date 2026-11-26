@@ -16,17 +16,23 @@ autonomy becomes a working state with schools, laws and a plan for all Serbs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40553 — workingstate]
+
 ## Sub lesson 3 — Theme 2: Greece, the first independent state in the Balkans — after independence it must decide government, education and laws, holds its first elections and passes from King Otto to George I
 
 the first Balkan state freed from the sultan learns to govern itself under imported kings
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40552 — firstfreestate]
+
 ## Sub lesson 4 — Theme 4: Serbia rises
 
 Karađorđe's first uprising (1804) against renegade janissaries grows into a national struggle and is crushed; Miloš Obrenović's second (1815), fought with negotiation as much as muskets, wins Serbia its autonomy by 1830 — the first Balkan people to govern themselves inside the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40551 — crushednegotiated]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Phanariote reform tries to modernise a society in crisis, but foreign domination
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40530 — reformstalled]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §7: Viaţa socială în Ţările Române în secolele XVII–XVIII — Phanariote reform tries to modernise a society in crisis, but foreign domination stalls it; Cantemir's peasants owe conscientious labour to their masters, and social conflict sharpens. Then let your companion ask you one hard question about it — answer from the lesson.

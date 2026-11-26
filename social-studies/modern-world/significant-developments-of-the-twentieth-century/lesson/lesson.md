@@ -10,6 +10,8 @@ WWII, the Cold War, Sputnik and the internet named as the century's hinges; stud
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40535 — fourhinges]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Significant developments in history — WWII, the Cold War, Sputnik and the internet named as the century's hinges; students investigate a global event properly — questions and hypotheses, sources located and interrogated, even visiting the ground where it happened. Then let your companion ask you one hard question about it — answer from the lesson.

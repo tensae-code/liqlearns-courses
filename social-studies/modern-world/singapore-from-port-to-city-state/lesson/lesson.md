@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 647 square kilometres 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40534 — porttocitystate]
+
 ## Sub lesson 2 — History Ch. 3 Lesson 3, Singapore
 
 expelled from Malaysia in September 1965, a 646 km² island of 3 million (1998) — Chinese 76.6%, Malays 14% — is driven by Lee Kuan Yew's government to first-world wealth in one generation (History Ch. 3 Lesson 3, Singapore)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40533 — expelledfirstworld]
 
 ## Say it to your companion
 

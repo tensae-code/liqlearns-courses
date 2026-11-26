@@ -10,6 +10,8 @@ Sher Shah drives Humayun into exile and in five years builds the machine the Mug
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40539 — fiveyearssystem]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Sher Shah Suri — the king of five years who built an empire's system. Then let your companion ask you one hard question about it — answer from the lesson.

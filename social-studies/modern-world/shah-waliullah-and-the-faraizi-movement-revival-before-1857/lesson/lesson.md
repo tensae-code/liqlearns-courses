@@ -10,6 +10,8 @@ As Mughal power fades, renewal comes from scholars — Shah Waliullah (1703–17
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40550 — booksandfields]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Shah Waliullah and the Faraizi Movement — revival before 1857. Then let your companion ask you one hard question about it — answer from the lesson.

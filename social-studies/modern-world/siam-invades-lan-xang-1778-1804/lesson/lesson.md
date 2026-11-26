@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Siam conquers the Lao 
 Siam conquers the Lao kingdoms, carries off the Emerald Buddha and the people, and the Lao resist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40538 — conqueredresisting]
 ## Sub lesson 2 — Part V, Lesson 14: 1778–1804 — Siam invades Lan Xang
 
 Siam conquers the Lao kingdoms and carries off the Emerald Buddha and the people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40537 — buddhataken]
 
 ## Say it to your companion
 

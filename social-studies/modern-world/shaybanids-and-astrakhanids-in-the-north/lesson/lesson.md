@@ -10,6 +10,8 @@ Muhammad Shaybani, claiming descent from Jochi son of Genghis, founds an Uzbek p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40549 — lookssouth]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 3 (Afghanistan and the Neighbours before the Kandahar Rising), Lesson 9: The Shaybanids and Astrakhanids of Transoxiana — Muhammad Shaybani, claiming descent from Jochi son of Genghis, founds an Uzbek power that makes northern Afghanistan its target. Then let your companion ask you one hard question about it — answer from the lesson.

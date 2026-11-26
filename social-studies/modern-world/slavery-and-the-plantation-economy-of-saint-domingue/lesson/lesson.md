@@ -10,6 +10,8 @@ Europeans seize the island, clear it and rebuild it as sugar and coffee plantati
 
 In your mind's eye: a Saint-Domingue sugar plantation — mill, boiling house and quarters. Name the three places and says what each one proves.
 
+[Picture 40531 — millboilingquarters]
+
 ## Sub lesson 2 — Archaeology of a domination
 
 Pupils dig the plantation's traces — mill, boiling house, quarters — and read domination itself out of stones and layouts (Séance 2, Archéologie d'une domination)

@@ -10,6 +10,8 @@ the one uncolonised kingdom pays for its flag with border provinces and a railwa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40536 — flagbought]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 5 Siam reforms and survives: Rama IV opens trade from 1851; Rama V from 1868 reforms economy, administration (1892), education (first programme 1898 after studying Europe), cuts farm taxes in 1874, tours Europe in 1897 — and buys independence by ceding claims in Laos and Cambodia to France (1907) and in Malaya to Britain (1909) — the one uncolonised kingdom pays for its flag with border provinces and a railway-age state. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Gjergj Kastrioti, a hostage prince raised at Edirne and named Iskender for Alexa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40532 — mountainfreedom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: the uprising of Skanderbeg — Gjergj Kastrioti, a hostage prince raised at Edirne and named Iskender for Alexander, deserts the Ottoman army in 1443, tricks his way into Krujë with a forged letter, and binds Albania's feudal families in the League of Lezhë (1444); for twenty-five years his mountain war defeats sultans in person — Murad II dies before Krujë's walls — the pope names him Athleta Christi, and only his death in 1468 ends it; Durrës, the last Venetian holdout, falls in 1501. Then let your companion ask you one hard question about it — answer from the lesson.
