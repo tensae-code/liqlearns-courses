@@ -10,11 +10,15 @@ A character must not be on stage yet — its scene comes later. And a door must 
 
 In your mind's eye: a sprite fading out under a hide block and reappearing under a show block, with its scripts still listed beside it.
 
+[Picture 47169 — a sprite fading out under a hide block and reappearing under a show block, with its scripts still listed beside it]
+
 ## Sub lesson 2 — Wait until — the script stands still
 
 **Wait until** holds a script in place: the script stops at that block and does not move on until the condition inside it becomes true, then it continues. It is a pause with a reason — wait until the player touches the door, wait until a backdrop switches, wait until a key is pressed. Combined with hide and show, it makes entrances exact: a sprite waits hidden, its script waits until its scene's condition is true, and then show brings it on stage at precisely that moment.
 
 In your mind's eye: a script paused at a wait-until block with a condition diamond, a clock beside it, and the script continuing once the condition turns true.
+
+[Picture 47170 — a script paused at a wait-until block with a condition diamond, a clock beside it, and the script continuing once the condition turns true]
 
 ## Say it to your companion
 

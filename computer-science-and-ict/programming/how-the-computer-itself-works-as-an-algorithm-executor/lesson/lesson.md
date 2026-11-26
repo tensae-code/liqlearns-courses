@@ -10,11 +10,15 @@ The computer executes a program by a fixed cycle: **fetch** the next instruction
 
 In your mind's eye: fetch, decode, execute — the machine's cycle.
 
+[Picture 47175 — fetch, decode, execute — the machine's cycle]
+
 ## Sub lesson 2 — The computer against the other executors
 
 Set beside the chapter's other executors, the computer's marks stand out: its **command set** is small and exact (machine instructions), its **obedience** is total (it does what the instruction says, never what was meant), its **speed and endurance** are inhuman, and its **judgement is zero** — it cannot notice a senseless instruction. That is why the algorithm must be **complete and exact before it runs**: the executor that never tires also never thinks. Every later Pascal lesson is written for this executor's character.
 
 In your mind's eye: the computer against the other executors.
+
+[Picture 47176 — the computer against the other executors]
 
 ## Say it to your companion
 

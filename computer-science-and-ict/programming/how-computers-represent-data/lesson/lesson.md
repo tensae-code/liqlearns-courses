@@ -10,11 +10,15 @@ The unit is the **bit** (0 or 1); eight bits make a **byte**, whose 256 possible
 
 In your mind's eye: bits, bytes and patterns.
 
+[Picture 47171 — bits, bytes and patterns]
+
 ## Sub lesson 2 — A scheme for every kind of data
 
 Each data kind has its **representation scheme**: numbers by binary place value, characters by a **character code** (each letter assigned a number, stored in binary), images by **pixels** with coded colours, sound by coded samples of the wave. The pattern alone is meaningless — the same byte can be a number, a letter or part of a picture; the **scheme the program expects** decides what it is.
 
 In your mind's eye: a scheme for every kind of data.
+
+[Picture 47172 — a scheme for every kind of data]
 
 ## Say it to your companion
 

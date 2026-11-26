@@ -10,11 +10,15 @@ A **greedy algorithm** (algoritma greedy) builds its answer in steps and, at eac
 
 In your mind's eye: take the best now — the greedy choice.
 
+[Picture 47159 — take the best now — the greedy choice]
+
 ## Sub lesson 2 — When hunger fails — the greedy test
 
 Greedy's speed is bought with a risk: the best now can poison the whole — a coin system of 1, 3 and 4 making 6 greedily takes 4+1+1 (three coins) where 3+3 (two) was waiting. So the chapter's real skill is the **greedy test**: before trusting hunger, ask whether a locally best choice can ever block a globally best answer — some problems are built so it cannot (their choices never close a needed door), and for those, greedy is not a gamble but a proof. Name the temper, test the problem, then let it run.
 
 In your mind's eye: when hunger fails — the greedy test.
+
+[Picture 47160 — when hunger fails — the greedy test]
 
 ## Say it to your companion
 
