@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Gothic cathedral rising on pointed arches and coloured glass, with a town hall beside it. The student follows the building upward.
 
+[Picture 60670 — the Gothic cathedral and town hall]
+
 ## Sub lesson 3 — The Middle Ages hand over
 
 Giotto starts painting people with weight and grief again, the Netherlandish masters fill panels with the whole visible world, and Bosch fills his Garden with warning — the Middle Ages handing over to something new.

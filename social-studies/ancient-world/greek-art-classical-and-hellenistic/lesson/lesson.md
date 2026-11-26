@@ -10,6 +10,8 @@ the Parthenon fixes the classical balance; after Alexander, art turns dramatic, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60690 — classical balance, Hellenistic drama]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 5: Classical and Hellenistic art — the Parthenon fixes the classical balance; after Alexander, art turns dramatic, individual and cosmopolitan. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the Ghurids, one of th
 the Ghurids, one of the land's oldest houses from Ghor, trace themselves to Malik Shansab of Ali's caliphate days; the Khwarazmshahs close the line of local independent Islamic states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60668 — the old house of Ghor]
 ## Sub lesson 2 — Lesson 10: Ghurids and Khwarazmshahs
 
 the old house of Ghor and then the Khwarazmshahs close the line of local Islamic states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60669 — the Khwarazmshahs close the line]
 
 ## Say it to your companion
 

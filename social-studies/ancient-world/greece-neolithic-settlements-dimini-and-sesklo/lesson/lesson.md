@@ -10,11 +10,15 @@ a child of Neolithic Dimini tells a day in his walled village while archaeologis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60684 — a day in walled Dimini]
+
 ## Sub lesson 2 — Unit 7, ch. 3 Neolithic Greece exercises
 
 matching finds to Dimini and Sesklo fixes Greece's first villages in place and object
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60685 — match the finds to the villages]
 
 ## Say it to your companion
 

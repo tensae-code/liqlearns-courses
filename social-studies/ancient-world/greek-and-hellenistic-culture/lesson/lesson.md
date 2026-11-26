@@ -10,6 +10,8 @@ Athens asks what a human is, and Alexander's heirs build cities to spread the an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60686 — Athens asks what a human is]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.IV §8: Greek and Hellenistic culture. Then let your companion ask you one hard question about it — answer from the lesson.

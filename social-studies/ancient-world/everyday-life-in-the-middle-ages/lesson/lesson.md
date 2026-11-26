@@ -10,6 +10,8 @@ nobles feast, play chess and joust in castle tournaments while peasants live by 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60667 — two lives — castle and village]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: life in the Middle Ages — nobles feast, play chess and joust in castle tournaments while peasants live by the sun and the church calendar and crowd to fairs on feast days; towns are filthy and plague kills a third of Europe in the 14th century; and women — subordinate in law — still leave marks as the poetess Kassia, the historian Anna Komnina, Christine de Pizan and Empresses Theodora and Irene. Then let your companion ask you one hard question about it — answer from the lesson.

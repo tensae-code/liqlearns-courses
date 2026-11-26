@@ -10,6 +10,8 @@ a mountainous peninsula and two thousand islands make the Greeks sailors and far
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60683 — Greece — land and sea]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea III, Lecția 1: Omul și mediul în Grecia Antică — a mountainous peninsula and two thousand islands make the Greeks sailors and farmers of olives and vines, always short of bread. Then let your companion ask you one hard question about it — answer from the lesson.

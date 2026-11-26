@@ -10,6 +10,8 @@ the poleis exhaust each other in war; Macedon conquers them and Alexander spread
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60676 — the poleis fall, Macedon takes all]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.4 Decline of Hellenic civilisation and transition to the Hellenistic period — the poleis exhaust each other in war; Macedon conquers them and Alexander spreads Greek culture east. Then let your companion ask you one hard question about it — answer from the lesson.

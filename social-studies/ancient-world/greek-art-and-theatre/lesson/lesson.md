@@ -10,17 +10,23 @@ sculptors and builders seek perfect proportion and theatres turn myth into publi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60687 — proportion and public drama]
+
 ## Sub lesson 2 — §27 Culture of ancient Greece
 
 temples, statues and tragedies make Greek culture the ancient world's model
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60688 — temples, statues, tragedies]
+
 ## Sub lesson 3 — §26 What Greek art was like (lesson plan)
 
 sculpture and temples teach proportion and the human image
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60689 — the body in measured parts]
 
 ## Say it to your companion
 
