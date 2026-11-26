@@ -10,11 +10,15 @@ The motherboard's work is directed by its **chipset**: the set of controller chi
 
 In your mind's eye: the chipset — the board's traffic direction.
 
+[Picture 45290 — the chipset - the board's traffic direction]
+
 ## Sub lesson 2 — Sockets and slots — where parts plug in
 
 Parts join the board at three kinds of fitting. The **CPU socket** holds the processor — shaped for one family of processors, which is why a CPU and a board must be chosen for each other. **Memory slots** take the RAM modules, clicked in by their edges. **Expansion slots** take extra cards — display, sound, network — that grow what the machine can do. Laos teaches the fittings by name because the installer's first question about any part is the board's question: does it fit this socket, this slot?
 
 In your mind's eye: sockets and slots — where parts plug in.
+
+[Picture 45291 — sockets and slots - where parts plug in]
 
 ## Say it to your companion
 

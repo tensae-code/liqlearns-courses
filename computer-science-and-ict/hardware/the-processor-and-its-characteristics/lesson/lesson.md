@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **The processor and its characteristics**
 
 In your mind's eye: the processor and its characteristics.
 
+[Picture 45294 — the processor and its characteristics]
+
 ## Sub lesson 2 — The processor and its characteristics
 
 This part of Kazakhstan's book teaches **The processor and its characteristics** — covering: 1.4: The processor and its characteristics. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the processor and its characteristics.
+
+[Picture 45295 — reading the processor's characteristics]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **motherboard** — also called the **system board** or main board — is th
 
 In your mind's eye: the main board — everything connects here.
 
+[Picture 45292 — the main board - everything connects here]
+
 ## Sub lesson 2 — What lives on it — socket, slots, buses
 
 Three kinds of fitting live on the board. The **CPU socket** holds the microprocessor. **Slots** hold memory modules and expansion cards, so the machine can be grown. **Buses and connectors** — the board's printed pathways and ports — carry data, instructions and power between everything plugged in. When a technician asks whether a part 'fits this machine', they are asking about this board: its socket, its slots and its connectors decide what the computer can become.
 
 In your mind's eye: what lives on it — socket, slots, buses.
+
+[Picture 45293 — what lives on it - socket, slots, buses]
 
 ## Say it to your companion
 

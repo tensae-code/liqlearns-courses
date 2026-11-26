@@ -10,11 +10,15 @@ The **power** port takes the power cable. The **monitor**, **keyboard** and **mo
 
 In your mind's eye: the ports and what joins at each one.
 
+[Picture 45286 — the ports and what joins at each one]
+
 ## Sub lesson 2 — Connecting the parts — the lab practice
 
 In the school lab you practise **connecting the parts without power**: the machine stays switched off and unplugged while hands learn the work. Take one part at a time, find its port by shape, push its plug in gently and straight, and never force it. When every part is joined — monitor, keyboard, mouse, power — the teacher checks the connections before any power is switched on.
 
 In your mind's eye: connecting the parts — the lab practice.
+
+[Picture 45287 — connecting the parts - the lab practice]
 
 ## Say it to your companion
 

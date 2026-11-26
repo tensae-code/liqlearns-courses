@@ -10,11 +10,15 @@ Grade 8's hardware unit names the whole machine the **computer platform**: the *
 
 In your mind's eye: the computer platform.
 
+[Picture 45284 — the computer platform]
+
 ## Sub lesson 2 — Choosing by specifications — and upgrading later
 
 Choosing a computer means **comparing specifications**: what processor, how much memory and storage, which ports — against the work the machine must do and the money there is. A platform that can be **upgraded** later — more memory, a bigger disk — serves longer than one that cannot, so **upgradeability** is itself one of the specifications to check before buying.
 
 In your mind's eye: choosing by specifications — and upgrading later.
+
+[Picture 45285 — choosing by specifications - and upgrading later]
 
 ## Say it to your companion
 

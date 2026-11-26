@@ -10,11 +10,15 @@ A **machine instruction** is a row of bits divided into **fields**. The **operat
 
 In your mind's eye: fields — operation code and addresses.
 
+[Picture 45288 — fields - operation code and addresses]
+
 ## Sub lesson 2 — Formats by address count — three, two, one, zero
 
 Instructions are classed by their **address count**: a **three-address** instruction names both operands and the result's place (add a, b, c); **two-address** overwrites one operand with the result; **one-address** works with an implied **accumulator**; **zero-address** works on a **stack**, its operands understood. Fewer addresses make **shorter instructions and a simpler processor**, at the price of more instructions per job. The format chosen is the architecture's founding compromise, visible in every program the machine will ever run.
 
 In your mind's eye: formats by address count — three, two, one, zero.
+
+[Picture 45289 — formats by address count - three, two, one, zero]
 
 ## Say it to your companion
 

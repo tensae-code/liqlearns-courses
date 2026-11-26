@@ -10,11 +10,15 @@ Correct typing begins before any speed: the fingers **rest on the home row**, th
 
 In your mind's eye: the home row — every finger has its place.
 
+[Picture 45300 — the home row - every finger has its place]
+
 ## Sub lesson 2 — Typing-trainer software — practice that watches your fingers
 
 Grade 4's alternative lesson meets the **typing-trainer software**: programs that drill the home row finger by finger, show which finger should strike each letter, and measure **speed and accuracy** as you practise. The trainer's order is the book's order — **placement first, accuracy second, speed last** — because speed built on wrong fingers must be unlearned, while speed built on correct placement only grows. Short daily practice beats one long session: the fingers learn by returning.
 
 In your mind's eye: typing-trainer software — practice that watches your fingers.
+
+[Picture 45301 — typing-trainer software - practice that watches your fingers]
 
 ## Say it to your companion
 

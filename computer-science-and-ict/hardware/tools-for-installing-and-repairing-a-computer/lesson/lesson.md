@@ -10,11 +10,15 @@ The installer's basic tools are **screwdrivers** in the sizes and heads the case
 
 In your mind's eye: the toolkit — drivers, pliers and the small instruments.
 
+[Picture 45296 — the toolkit - drivers, pliers and the small instruments]
+
 ## Sub lesson 2 — Before any tool — power off, static down
 
 Two rules stand before the toolkit is opened. **Power off and unplugged**: no installing or removing is done on a live machine. And **static electricity must be discharged** — the invisible spark from a worker's body can kill a chip it never visibly touches, so the installer touches the case's metal (or wears an anti-static strap) before handling boards and cards, and holds parts **by their edges**, never by their contacts or chips. The book teaches the rules with the tools because on the bench they are one habit.
 
 In your mind's eye: before any tool — power off, static down.
+
+[Picture 45297 — before any tool - power off, static down]
 
 ## Say it to your companion
 

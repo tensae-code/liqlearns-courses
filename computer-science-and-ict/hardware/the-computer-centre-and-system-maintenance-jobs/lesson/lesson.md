@@ -10,11 +10,15 @@ In the world of Sudan's Grade 11 book, an organisation's computing lives in one 
 
 In your mind's eye: the computer centre.
 
+[Picture 45282 — the computer centre]
+
 ## Sub lesson 2 — System maintenance jobs
 
 A system does not stay working by itself, and the book names the human side of keeping it so: the **maintenance jobs** — the people whose work is the system's health. They keep the machines clean and working, find and fix faults, keep backup copies safe, and keep the system's programs and files in order as the organisation's needs change. A breakdown in this world is not an inconvenience; payrolls and records stop with the machines — which is why maintenance is a named job in the book, not an afterthought.
 
 In your mind's eye: system maintenance jobs.
+
+[Picture 45283 — system maintenance jobs]
 
 ## Say it to your companion
 

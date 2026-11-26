@@ -10,11 +10,15 @@ Windows 10's troubleshooting kit includes: the **built-in troubleshooters** (gui
 
 In your mind's eye: the built-in kit.
 
+[Picture 45298 — the built-in kit]
+
 ## Sub lesson 2 — Working with the tools — evidence before action
 
 The tools are used in the troubleshooter's order: **read before repairing** — the Event Viewer's diary and Task Manager's loads are gathered while the fault is present, because a restart burns the evidence. Each tool's report is **matched to the fault tables** of the unit's earlier lessons (a Device Manager mark → the hardware families; a hungry process → the software families), and the fix is verified by the same tool that found the fault. Jordan's point for the maintenance year: the professional's difference is not secret tools but **evidence discipline** with ordinary ones.
 
 In your mind's eye: working with the tools — evidence before action.
+
+[Picture 45299 — working with the tools - evidence before action]
 
 ## Say it to your companion
 
