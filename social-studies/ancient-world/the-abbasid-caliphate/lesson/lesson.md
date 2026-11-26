@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: The Abbasids overthrow
 The Abbasids overthrow the Umayyads, build Baghdad's caliphate and hold it, shrinking, for five centuries until the Mongol end
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61635 — five centuries then the mongols]
 ## Sub lesson 2 — Lesson 7: The Abbasid state
 
 Baghdad's caliphate, its organisation and its long arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61636 — baghdads long arc]
 
 ## Say it to your companion
 

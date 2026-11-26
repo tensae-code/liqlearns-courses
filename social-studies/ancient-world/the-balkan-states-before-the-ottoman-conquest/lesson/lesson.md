@@ -10,6 +10,8 @@ Divided lordships meet the Ottoman advance one by one, and the Maritsa is the fi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61646 — divided before the advance]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.3 Serbia, Bosnia and Croatia on the eve of the Ottoman conquests: Serbia fragments among feudal lords. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -12,6 +12,8 @@ The caliphs draw Turkish soldiers from the steppe into their service — guards 
 
 In your mind's eye: baghdad in its glory — the round city's walls and markets, Turkish guards in the caliph's service at the palace gate. The student points to the guards and says where they came from and what they are doing in Baghdad.
 
+[Picture 61634 — hired not fought]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Baghdad's caliphate leans on Turkish soldiers. Then let your companion ask you one hard question about it — answer from the lesson.

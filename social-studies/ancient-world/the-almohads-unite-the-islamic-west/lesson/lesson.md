@@ -10,6 +10,8 @@ The guide teaches the Almohad state's founding and stages: a mountain preacher's
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61642 — an empire across the maghreb]
+
 ## Sub lesson 2 — Almohad architecture
 
 The empire is known also by what it built: the lesson teaches the characteristics of Almohad architecture.

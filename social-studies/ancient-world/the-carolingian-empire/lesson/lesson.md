@@ -10,6 +10,8 @@ Charlemagne crowns himself emperor of a Christian west — an empire too big for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61650 — too big for its roads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.4 The Carolingian Empire — Charlemagne crowns himself emperor of a Christian west — an empire too big for its roads, soon split among grandsons. Then let your companion ask you one hard question about it — answer from the lesson.

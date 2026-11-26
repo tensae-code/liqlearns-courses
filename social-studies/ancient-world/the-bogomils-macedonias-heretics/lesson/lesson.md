@@ -10,6 +10,8 @@ in a 10th-century Macedonia squeezed by war taxes and rich monasteries, priest B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61648 — bogomils dualist preaching]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: Bogomilism — in a 10th-century Macedonia squeezed by war taxes and rich monasteries, priest Bogomil of the village Bogomila preaches a dualist faith — the visible world is the Devil's work, so reject cross, icons, marriage and masters; presbyter Kozma writes against them, Byzantium burns their leader Basil, yet the teaching travels — to Bosnia's Patarenes and France's Cathars. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Patriarchate, exarchate and hesychasm — the church carries the nation through 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61649 — the church carries the nation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 17: The Bulgarian Orthodox Church in the 10th–14th centuries — Patriarchate, exarchate and hesychasm — the church carries the nation through empire and occupation. Then let your companion ask you one hard question about it — answer from the lesson.

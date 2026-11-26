@@ -10,6 +10,8 @@ mountains, rivers and lakes frame the story; Xenophon and Strabo describe the la
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61644 — between empires]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Introductory chapter: the Armenian Highland and the homeland — mountains, rivers and lakes frame the story; Xenophon and Strabo describe the land, Ararat and Sevan anchor it, and the Highland's position between empires explains its fate. Then let your companion ask you one hard question about it — answer from the lesson.

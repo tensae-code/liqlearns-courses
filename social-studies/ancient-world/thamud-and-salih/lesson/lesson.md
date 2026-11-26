@@ -10,11 +10,15 @@ Thamud in the Hijaz carve palaces and houses into the mountains and prosper, the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61631 — the camel from the rock]
+
 ## Sub lesson 2 — The civilisation of Thamud
 
 Thamud rise in the Hijaz after 'Ad, carving palaces in the plains and safe houses inside the mountains at al-Hijr, whose ruins still stand, Salih — known among them for wisdom — is accused of sorcery and challenged to bring a sign, a she-camel comes out of the rock and shares their water day about, the leaders plot against Salih and hamstring her under Qudar bin Salif, and three days later earthquake and shout end Thamud while Salih is saved
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61632 — water shared day about]
 
 ## Say it to your companion
 

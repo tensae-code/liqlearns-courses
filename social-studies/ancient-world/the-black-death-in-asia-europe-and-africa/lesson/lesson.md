@@ -10,6 +10,8 @@ Before the plague: medieval medicine; then the Black Death spreads through Asia,
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61647 — the plague across three continents]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 6b: The Black Death — Before the plague: medieval medicine; then the Black Death spreads through Asia, Europe and Africa — impact, responses and effects. Then let your companion ask you one hard question about it — answer from the lesson.

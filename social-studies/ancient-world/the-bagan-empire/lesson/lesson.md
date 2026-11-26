@@ -10,6 +10,8 @@ From the Pyu world a new power gathers the Irrawaddy plain into Myanmar's first 
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61645 — the irrawaddy gathered]
+
 ## Sub lesson 2 — Bagan's economy, society, literature and architecture
 
 Taxes in rice, a sangha of monks and thousands of pagodas make Bagan rich, literate and stone-built — its economy, society, literature and architecture, judged critically.

@@ -10,6 +10,8 @@ Baghdad rises as a planned capital of learning and trade while real power slowly
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61633 — baghdad rises power leaks]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic world in the Abbasid caliphate era — Baghdad rises as a planned capital of learning and trade while real power slowly leaks to regional dynasties. Then let your companion ask you one hard question about it — answer from the lesson.

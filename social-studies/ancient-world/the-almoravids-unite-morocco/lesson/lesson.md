@@ -10,6 +10,8 @@ Veiled Saharan reformers ride north, take Morocco and unify the country; the gui
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61643 — veiled riders ride north]
+
 ## Sub lesson 2 — Monument study — the Almoravid Dome
 
 The dynasty is studied through one standing monument: the Almoravid Dome (Qubbat al-Barudiyyin) in Marrakech.

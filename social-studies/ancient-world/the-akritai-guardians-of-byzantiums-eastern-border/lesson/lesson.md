@@ -10,11 +10,15 @@ frontier soldier-farmers, the Akritai, hold the Taurus passes for generations an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61640 — the border heroes]
+
 ## Sub lesson 2 — Unit 20 Akritai exercises
 
 border-guard songs and maps place the Akritai on the empire's eastern edge
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61641 — songs on the eastern edge]
 
 ## Say it to your companion
 

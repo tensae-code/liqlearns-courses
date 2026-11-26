@@ -10,17 +10,23 @@ from Mycenaean citadel to Pericles's temples to church, mosque and powder magazi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61637 — one rock re-read]
+
 ## Sub lesson 2 — Teaching hour 2: What the art, sculpture and architecture of the Acropolis reveal about their makers
 
 the Parthenon frieze's procession becomes an argument — scholars dispute what it shows, and pupils build their own comic from the stones
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61638 — what the frieze shows]
+
 ## Sub lesson 3 — Teaching hour 3: Deepening — heritage, restoration and the marbles
 
 restoration scaffolds, Stuart and Revett's 1765 drawings, du Moncel's 1845 watercolour and the demand for the Parthenon marbles' return ask who the monument belongs to
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61639 — whose monument]
 
 ## Say it to your companion
 
