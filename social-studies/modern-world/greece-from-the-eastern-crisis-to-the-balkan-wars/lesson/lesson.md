@@ -10,6 +10,8 @@ a poor, indebted kingdom argues its way toward the wars that will enlarge it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63433 — arguing toward war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Greece from the end of the Great Eastern Crisis to the Balkan Wars — emigration, public anger and army officers demanding the parties' grip be loosened — a poor, indebted kingdom argues its way toward the wars that will enlarge it. Then let your companion ask you one hard question about it — answer from the lesson.

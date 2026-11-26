@@ -10,11 +10,15 @@ Bavarian teenager Otto arrives as king, Athens becomes capital, and Kolettis's G
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63436 — a teenage king]
+
 ## Sub lesson 2 — Unit D, ch. 2 The reign of George I — Charilaos Trikoupis
 
 a Danish prince takes the throne, the Ionian Islands are gained, and Trikoupis modernises with railways, the Corinth Canal and chronic debt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63437 — modernised on debt]
 
 ## Sub lesson 3 — Unit D, ch. 3 Revolutionary movements in Macedonia and Crete
 

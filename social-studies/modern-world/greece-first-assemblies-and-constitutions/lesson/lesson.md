@@ -10,17 +10,23 @@ while fighting, the Greeks hold national assemblies and vote constitutions among
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63426 — constitutions amid war]
+
 ## Sub lesson 2 — Rivalries over the exercise of power
 
 captains, islanders and politicians fall into civil wars even while the enemy is at the gates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63427 — civil wars at the gates]
+
 ## Sub lesson 3 — The revolutionaries build a state; Kapodistrias and the settlement
 
 assemblies vote constitutions mid-war, civil conflict follows, and Kapodistrias governs a recognised but tiny kingdom-in-waiting
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63428 — a kingdom in waiting]
 
 ## Say it to your companion
 

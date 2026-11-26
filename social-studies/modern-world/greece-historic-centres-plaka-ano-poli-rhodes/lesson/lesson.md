@@ -10,6 +10,8 @@ three old quarters survive fires, speculation and tourism by being declared prot
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63435 — protected ensembles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 7.3 (Greek examples): Plaka of Athens, the Upper Town of Thessaloniki, the medieval city of Rhodes — three old quarters survive fires, speculation and tourism by being declared protected ensembles. Then let your companion ask you one hard question about it — answer from the lesson.

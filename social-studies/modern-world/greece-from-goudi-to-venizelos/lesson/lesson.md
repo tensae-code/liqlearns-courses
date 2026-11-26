@@ -10,11 +10,15 @@ officers camp at Goudi demanding reform, refuse power for themselves, and summon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63429 — officers refuse power]
+
 ## Sub lesson 2 — Venizelos as prime minister: the politics of 1910–1912
 
 a revisionary assembly, a new constitution and an army and navy rebuilt just in time for war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63430 — rebuilt just in time]
 
 ## Sub lesson 3 — Theme 2 C: From the bankruptcy to the military movement at Goudi (1893–1909)
 
@@ -22,11 +26,15 @@ defeat in 1897 and financial control discredit the old parties until the officer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63431 — the door forced open]
+
 ## Sub lesson 4 — Theme 2 D: The Liberal Party of Venizelos
 
 Venizelos builds Greece's first modern programme party and carries the reforms of 1910–1912
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63432 — a programme party]
 
 ## Say it to your companion
 

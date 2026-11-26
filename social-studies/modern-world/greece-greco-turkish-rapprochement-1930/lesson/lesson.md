@@ -10,6 +10,8 @@ property claims poison relations until Venizelos and Atatürk settle them in the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63434 — friendship treaties 1930]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 D: Compensation of the exchangeables and the Greco-Turkish rapprochement — property claims poison relations until Venizelos and Atatürk settle them in the 1930 friendship treaties. Then let your companion ask you one hard question about it — answer from the lesson.
