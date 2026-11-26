@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Peripheral Devices Attached to t
 
 In your mind's eye: peripheral Devices Attached to the System Unit.
 
+[Picture 45252 — peripherals attached to the system unit]
+
 ## Sub lesson 2 — Doing it — Peripheral Devices Attached to the System Unit in practice
 
 **Doing it — Peripheral Devices Attached to the System Unit in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Peripheral Devices Attached to the System Unit in practice.
+
+[Picture 45253 — doing it — attach a peripheral and test it]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Important Information: 12th Ge
 
 In your mind's eye: , Important Information. 12th Gen Intel Core processor lineup table.
 
+[Picture 45256 — the 12th Gen Intel Core lineup table]
+
 ## Sub lesson 2 — Doing it — Processor Generations and Reading a CPU Lineup in practice
 
 **Doing it — Processor Generations and Reading a CPU Lineup in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Processor Generations and Reading a CPU Lineup in practice.
+
+[Picture 45257 — doing it — reading a CPU lineup in practice]
 
 ## Say it to your companion
 

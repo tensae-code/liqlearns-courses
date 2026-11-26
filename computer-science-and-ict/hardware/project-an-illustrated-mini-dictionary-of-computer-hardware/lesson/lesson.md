@@ -10,11 +10,15 @@ The project's words are the **hardware** of the year: the computer and its **per
 
 In your mind's eye: choosing the words — the hardware you have met.
 
+[Picture 45258 — choosing the words — the hardware you have met]
+
 ## Sub lesson 2 — Drawing and writing each entry
 
 Each entry joins **a drawing or picture of the part** to **its name and one line saying what it does**: the mouse — it moves the pointer and clicks; the printer — it puts documents and images on paper. The illustration is not decoration: a reader who does not know the word learns it from the picture, and the line under it says the part's job in the learner's own words. Finished pages are gathered in order into the class's **mini-dictionary**, ready to be used whenever a hardware word is forgotten.
 
 In your mind's eye: drawing and writing each entry.
+
+[Picture 45259 — drawing and writing each entry]
 
 ## Say it to your companion
 

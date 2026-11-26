@@ -12,6 +12,8 @@ The **algebraic method** is the laws lesson put to work, with one golden pattern
 
 In your mind's eye: the four-term expression shrinking in three steps, each merging pair bracketed and the law written under each step.
 
+[Picture 45244 — the expression shrinking in three steps]
+
 The algebraic method is exact, but it depends on *spotting* the pairs, and in a long expression the eye misses them. That is why the book teaches a second method that turns spotting into looking — the map.
 
 ## Sub lesson 2 — Karnaugh maps — minimising by eye
@@ -21,6 +23,8 @@ The **Karnaugh map** (say 'kar-naw') is the truth table folded into a grid so th
 Working the map is four steps. (1) Draw the grid for your number of variables — two variables make 2×2, three make 2×4, four make 4×4. (2) Copy each 1 from the truth table into its cell. (3) Cover the 1s with rectangles of size **1, 2, 4 or 8** — never 3, never 6 — making each rectangle as large as you can, overlapping where it helps, until every 1 is inside a big rectangle. (4) Read one term per rectangle: a variable that is 1 all through the rectangle stays plain, a variable that is 0 all through stays barred, and a variable that *changes* inside the rectangle is dropped — it has been merged away.
 
 In your mind's eye: a four-variable Karnaugh map with Gray-code labels 00, 01, 11, 10 on both axes, its 1s covered by two large rectangles, one of them wrapping around the left and right edges.
+
+[Picture 45245 — a four-variable Karnaugh map — one group wraps the edges]
 
 Take the opening example onto a three-variable map: the four 1s fill the whole B = 1 half of the grid — one rectangle of four — inside which B is always 1 while A and C both change and drop out. The map reads **Y = B** at a glance, the answer the algebra reached in three steps. Bigger rectangles mean more variables dropped, which is why 'as large as possible' is the rule: a group of 2 drops one variable, a group of 4 drops two, a group of 8 drops three. When the map and a truth-table check agree, the minimised function is proved.
 

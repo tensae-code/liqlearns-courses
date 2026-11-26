@@ -10,11 +10,15 @@ A **pulse** is a signal that jumps between two levels — low and high — stayi
 
 In your mind's eye: pulses — the rectangular heartbeat.
 
+[Picture 45260 — pulses — the rectangular heartbeat]
+
 ## Sub lesson 2 — Why the machine needs a conductor
 
 Sequential circuits — flip-flops, registers, counters — change state **at the clock's edge**, all together: the clock is the conductor whose beat makes a million separate circuits one **synchronous** machine. Without it, signals would arrive at their own speeds and memory would smear. The clock's frequency therefore **rates the whole computer**: operations per second track it, which is why processors advertise it. Grade 11's next chapter — architecture — assembles its computer on this beat.
 
 In your mind's eye: why the machine needs a conductor.
+
+[Picture 45261 — the clock — why the machine needs a conductor]
 
 ## Say it to your companion
 

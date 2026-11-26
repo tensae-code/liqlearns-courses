@@ -10,11 +10,15 @@ Before using devices well, the youngest pupils learn to **name** them: the **tab
 
 In your mind's eye: the names of the devices.
 
+[Picture 45250 — the names of the devices]
+
 ## Sub lesson 2 — One name, one thing
 
 Naming is also sorting: a tablet is not a computer-without-keyboard in the child's first map, a screen is not the whole computer, and the mouse is a device of its own, not a toy animal. Each name pins one thing, and the pinning is the beginning of all the course's later precision — instructions, programs and care routines all fail when names slide between things.
 
 In your mind's eye: one name, one thing.
+
+[Picture 45251 — one name, one thing]
 
 ## Say it to your companion
 

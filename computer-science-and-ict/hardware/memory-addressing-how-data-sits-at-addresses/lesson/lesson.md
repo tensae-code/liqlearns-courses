@@ -10,11 +10,15 @@ Memory is not a heap but a street: a long row of storage places, each with a num
 
 In your mind's eye: every value has an address.
 
+[Picture 45242 — every value has an address]
+
 ## Sub lesson 2 — Physical addresses — and why programs care
 
 The addresses of the machine's own street are **physical addresses**: the real places in the memory hardware. Programs are written as if data simply has names — the variable's name in the program is the programmer's address for the same place — and the system joins name to physical address behind the scenes. Addressing also sets memory's measure: the number of addresses a processor can name limits how much memory it can use, which is why 'how much memory can this machine address?' is a real specification and not a slogan.
 
 In your mind's eye: physical addresses — and why programs care.
+
+[Picture 45243 — physical addresses — and why programs care]
 
 ## Say it to your companion
 

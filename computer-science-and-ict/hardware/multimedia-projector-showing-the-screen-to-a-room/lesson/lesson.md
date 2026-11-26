@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Multimedia Projector** — cover
 
 In your mind's eye: multimedia Projector.
 
+[Picture 45246 — the projector throwing the screen to the room]
+
 ## Sub lesson 2 — Doing it — Multimedia Projector Showing the Screen to a Room in practice
 
 **Doing it — Multimedia Projector Showing the Screen to a Room in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Multimedia Projector Showing the Screen to a Room in practice.
+
+[Picture 45247 — doing it — connect, switch on, focus, present]
 
 ## Say it to your companion
 
