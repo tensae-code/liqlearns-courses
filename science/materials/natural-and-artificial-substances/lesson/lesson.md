@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Formation of substances i
 
 In your mind's eye: formation of substances in nature; artificial substances as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37044 — substances formed in nature (a tree, crystals in rock, a shell) and substances made by people — artificial]
+
 ## Sub lesson 2 — What kinds of substances there are
 
 The books teach this part as classifying substances by origin and by state — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: what kinds of substances there are as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37045 — the kinds of substances — sorted by origin (natural or artificial) and by state (solid, liquid, gas)]
 
 ## Sub lesson 3 — Natural and artificial substances
 
@@ -21,17 +25,23 @@ Kazakhstan's books teach this as their own lesson — "Natural and artificial su
 
 In your mind's eye: natural and artificial substances as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37046 — natural and artificial in daily things — a wooden spoon and a cotton shirt; a plastic spoon and a synthetic shirt]
+
 ## Sub lesson 4 — Synthetic materials in our life; safety in using them
 
 Kazakhstan's books teach this as their own lesson — "Synthetic materials in our life; safety in using them". The learner works through the books' own presentation of synthetic materials in our life; safety in using them — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: synthetic materials in our life; safety in using them as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37047 — synthetic materials in our life — a plastic chair, a nylon rope, a synthetic jacket — and using them safely: read the label]
+
 ## Sub lesson 5 — Why are artificial substances created?
 
 Kazakhstan's books teach this as their own lesson — "Why are artificial substances created?", "Advantages and disadvantages of natural and artificial materials", "Natural and artificial materials", "Formation of substances in nature. Artificial substances". The learner works through the books' own presentation of why are artificial substances created? — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: why are artificial substances created? as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37048 — why artificial substances are created — nature gives only so much; people make plenty, strong and lasting, just what the job needs]
 
 ## The key ideas
 

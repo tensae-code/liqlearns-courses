@@ -10,7 +10,11 @@ A **solid** keeps its own shape: you can hold it, and it stays as it is. A **liq
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37051 — the two clear cases — a solid keeps its shape; a liquid flows and takes the shape of what holds it]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37052 — the dough that is neither — squeezed, it holds a shape like a solid; left alone, it spreads like a liquid]
 
 ## Sub lesson 2 — The dough that is neither
 

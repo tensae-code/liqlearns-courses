@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "How some substances are o
 
 In your mind's eye: how some substances are obtained in laboratory conditions as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37053 — obtaining a substance in the laboratory — a heated flask, its vapour travelling and cooling, drops collecting in a clean beaker]
+
 ## The key ideas
 
 - How some substances are obtained in laboratory conditions — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

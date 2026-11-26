@@ -9,7 +9,11 @@ Ritha (soapnut), pina (mustard oil-cake), ash, sajivan (moringa) and lemon juice
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37049 — Nepal's natural cleaning materials — ritha (soapnut), pina (mustard oil-cake), ash, sajivan (moringa), lemon juice]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37050 — soapnut foam in a bowl — natural cleaners harm neither health nor environment; factory-made cleaners can pollute]
 
 ## Sub lesson 2 — Ritha (soapnut)
 
