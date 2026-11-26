@@ -10,6 +10,8 @@ from Baroque and classicism through Pushkin, Dickens and the romantics — the a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41304 — stylesstories]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §40 Literature and art (17th – 1860s of the 19th century) — from Baroque and classicism through Pushkin, Dickens and the romantics — the age reads and paints itself. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ irrigation decays and trade thins, yet Bukhara's madrasas and poets keep the cit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41314 — bukharashines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §§12–13 Socio-economic life under the Ashtarkhanids; Spiritual, enlightenment and cultural life — irrigation decays and trade thins, yet Bukhara's madrasas and poets keep the city a byword for learning. Then let your companion ask you one hard question about it — answer from the lesson.

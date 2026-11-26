@@ -10,17 +10,23 @@ After the First World War the world builds the League of Nations to keep peace, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41320 — leagueorganised]
+
 ## Sub lesson 2 — The United Nations Organisation (UNO)
 
 After the Second World War the League's successor, the United Nations, takes up the promotion of peace
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41319 — unsucceeds1945]
+
 ## Sub lesson 3 — UN peacekeeping case studies
 
 Learners compare the League and the UN in aims and structure, then case-study UN peacekeeping in the Congo crisis, the Korean War and the Gulf War, and the UN's role in South Sudan or Africa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41318 — bluehelmetscases]
 
 ## Say it to your companion
 

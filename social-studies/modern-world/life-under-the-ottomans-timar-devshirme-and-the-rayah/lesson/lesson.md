@@ -10,6 +10,8 @@ the conquerors call the land Rumelia and its Christians Rumi; society divides in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41305 — askerrayah]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: life in the Balkans and in Macedonia under Ottoman rule — the conquerors call the land Rumelia and its Christians Rumi; society divides into asker and rayah under the timar system, taxed by tithe and the jizya head-tax; Anatolian settlers and Yürük herdsmen colonise the plains, Sephardic Jews make Thessalonica a "mother of Israel", Islam spreads — by choice, advantage and the devshirme's force — and Kratovo's mint, new crops (cotton, rice, tobacco, maize) and the great Doljani fair remake daily life around the sofra table. Then let your companion ask you one hard question about it — answer from the lesson.

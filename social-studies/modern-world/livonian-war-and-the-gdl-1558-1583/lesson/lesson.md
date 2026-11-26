@@ -10,6 +10,8 @@ Ivan the Terrible's armies seize Polotsk, Stefan Batory wins it back at Pskov's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41300 — borderunmoved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Livonian War 1558–1583. Then let your companion ask you one hard question about it — answer from the lesson.

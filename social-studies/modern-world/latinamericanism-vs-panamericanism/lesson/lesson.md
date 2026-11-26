@@ -10,6 +10,8 @@ Bolívar's and Martí's unity-from-below is set against Washington's unity-from-
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41321 — twounitiesfight]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.3–4.4 Continental unity thought: Latin-Americanism against pan-Americanism; the hegemonic pan-Americanist project — Bolívar's and Martí's unity-from-below is set against Washington's unity-from-above; two projects for one continent fight through the century. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Italy invaded in 1911 and the Ottoman state ceded Libya at Ouchy in 1912; the Li
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41315 — mountainresists]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Libya — Omar al-Mukhtar and the Italian occupation. Then let your companion ask you one hard question about it — answer from the lesson.

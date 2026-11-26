@@ -10,11 +10,15 @@ Behind the posters lie queues, communal flats, Stakhanovite heroes, expanded sch
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41307 — postersqueuesfear]
+
 ## Sub lesson 2 — 4.4 The position of women and ethnic minorities
 
 Industrialisation draws women into work in huge numbers but leaves the domestic burden on them too, while the republics' national cultures are first fostered, then subordinated to Moscow.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41306 — twoloadsbow]
 
 ## Say it to your companion
 

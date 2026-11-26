@@ -10,6 +10,8 @@ Bahlul Lodi, son of Punjab's governor Malik Kala Khan, takes Delhi's sultanate (
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41299 — delhiafghans]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 21: The Lodis and the Suris — Bahlul Lodi, son of Punjab's governor Malik Kala Khan, takes Delhi's sultanate (his line given as 858–868 AH) as the Khizr Khanid state decays, and the Afghan Suris follow him. Then let your companion ask you one hard question about it — answer from the lesson.

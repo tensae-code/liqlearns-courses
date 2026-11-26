@@ -10,6 +10,8 @@ France cut Lebanon from Syria and Gouraud proclaimed Greater Lebanon in 1920; af
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41317 — lebanon1920to1946]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lebanon — from Greater Lebanon to Taif. Then let your companion ask you one hard question about it — answer from the lesson.

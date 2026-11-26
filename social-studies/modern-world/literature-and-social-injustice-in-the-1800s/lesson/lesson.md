@@ -10,11 +10,15 @@ novelists put factory children, debtors and the poor at the centre of the story 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41303 — poorcentred]
+
 ## Sub lesson 2 — §11.1 How did the movements of art and the literature of the 19th century depict social injustice?
 
 painters and novelists make the poor visible and put their societies on trial
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41302 — artaccuses]
 
 ## Say it to your companion
 

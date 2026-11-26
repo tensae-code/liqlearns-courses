@@ -10,6 +10,8 @@ from Richelieu to Louis XIV, France builds the model absolute monarchy — one k
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41298 — onekingsun]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §6 The absolutism of France — from Richelieu to Louis XIV, France builds the model absolute monarchy — one king, one law, one faith, Versailles as its stage. Then let your companion ask you one hard question about it — answer from the lesson.

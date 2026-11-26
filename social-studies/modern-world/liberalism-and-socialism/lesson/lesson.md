@@ -10,6 +10,8 @@ pupils play factory hands at the century's start (Verkefnablöð 12 & 15: factor
 
 In your mind's eye: factory hands at the century's start debating together. Say what they must decide.
 
+[Picture 41316 — handsdebate]
+
 ## Sub lesson 2 — Found a union and strike?
 
 the hands must decide whether to found a union and strike — "Viltu fara í verkfall?" (Verkefnablöð 12 & 15)
