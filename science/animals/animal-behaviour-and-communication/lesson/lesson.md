@@ -9,7 +9,11 @@ Animals send messages to each other. Fiji's Year 4 Teacher Resource teaches anim
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37383 — signals and calls]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37384 — messages shown with the body]
 
 ## Sub lesson 2 — Showing — raising fins and puffing up
 

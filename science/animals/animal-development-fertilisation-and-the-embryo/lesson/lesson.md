@@ -9,7 +9,11 @@ Animal development: fertilisation (internal vs external), the phases of embryoge
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[GIF 37394 — the embryo develops]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37395 — three ways young arrive]
 
 ## Sub lesson 2 — Fertilisation types tabulated from the bottle activity (oviparous, viviparous,
 

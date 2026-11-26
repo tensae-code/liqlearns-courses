@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book tells it through a neighbour's daughter who falls i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37449 — hidden carriers in a family]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37450 — one by one]
 
 ## Sub lesson 2 — Hereditary diseases, one by one
 

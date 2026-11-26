@@ -9,7 +9,11 @@ Nicaragua's Grade 7 Módulo Autoformativo names the invertebrate body symmetry t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37392 — three kinds of symmetry]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37393 — the halves answer each other]
 
 ## The key ideas
 

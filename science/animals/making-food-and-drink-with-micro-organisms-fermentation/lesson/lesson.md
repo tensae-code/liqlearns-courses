@@ -9,7 +9,11 @@ Yoghurt is milk changed by **lactic-acid bacteria**, which turn the milk sugar *
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37486 — yoghurt: bacteria at work]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37487 — yeast lifts the bread]
 
 ## Sub lesson 2 — Yeast — in beer and in bread
 

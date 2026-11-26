@@ -11,7 +11,11 @@ Barbados's syllabus teaches the idea through **insects** (Class 3): insects whos
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37419 — hiding in plain sight]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37420 — the hunter does not see]
 
 ## Sub lesson 2 — Why camouflage matters
 
@@ -21,7 +25,11 @@ So camouflage is a survival feature, like the plant adaptations in the plants le
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37421 — matching the resting place]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37422 — the colour of bark]
 
 ## The key ideas
 

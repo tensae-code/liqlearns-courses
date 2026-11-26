@@ -23,7 +23,11 @@ The **grasshopper** is the set's own special case: the book prints its stages as
 
 In your mind's eye: the butterfly's four stages in a row — egg on a leaf, larva, pupa, butterfly. The student points to each stage and names it before reading on.
 
+[Picture 37482 — egg, larva, pupa, adult]
+
 In your mind's eye: a pupa opening and a butterfly coming out. Say which stage ended and which stage began.
+
+[GIF 37483 — the butterfly emerges]
 
 ## Sub lesson 2 — The simpler cycles — no pupa
 

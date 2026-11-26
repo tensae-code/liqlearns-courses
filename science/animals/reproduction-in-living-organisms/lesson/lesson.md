@@ -11,7 +11,11 @@ Kuwait's Grade 6 book opens its reproduction lessons here, at the level of the w
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37498 — life makes more life]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37499 — the spots come down the family]
 
 ## Sub lesson 2 — Parents and offspring
 

@@ -9,7 +9,11 @@ Animals that live in water move by **swimming**: the body pushes against the wat
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[GIF 37460 — swimming with fins and tail]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37461 — walking on legs]
 
 ## Sub lesson 2 — Moving on land — walking
 

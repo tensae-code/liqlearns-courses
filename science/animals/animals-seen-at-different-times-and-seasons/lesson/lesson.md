@@ -9,7 +9,11 @@ Animals seen at different times and in different seasons.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37409 — by day, by night]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37410 — one bird through the seasons]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Behaviour is everything an animal does — and Syria's Grade 8 book sorts it int
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37388 — born with it, or learned]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37389 — able from birth]
 
 ## Sub lesson 2 — Innate behaviour — born with the animal
 

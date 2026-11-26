@@ -9,7 +9,11 @@ Malaysia's Grade 5 book opens its survival unit with **species survival (kemandi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37398 — protecting themselves]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37399 — three ways against the weather]
 
 ## Sub lesson 2 — Weather, eggs and young — staying alive across the year
 

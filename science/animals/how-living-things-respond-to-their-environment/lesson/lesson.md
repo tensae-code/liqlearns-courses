@@ -11,7 +11,11 @@ Kuwait's Grade 4 book teaches responding as the living world's answer to the env
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37466 — responding is a sign of life]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37467 — a useful answer to the world]
 
 ## Sub lesson 2 — Responses keep living things alive
 

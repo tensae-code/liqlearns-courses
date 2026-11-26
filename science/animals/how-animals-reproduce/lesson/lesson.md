@@ -9,7 +9,11 @@ Before you read: say out loud what you already think this lesson's one thing is 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37462 — new animals of the same kind]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37463 — many animals lay eggs]
 
 ## Sub lesson 2 — The ways animals reproduce
 

@@ -9,11 +9,15 @@ Lesson 1: the basic needs of living things — water, food, air, housing, light 
 
 In your mind's eye: lesson 1 as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37413 — air, water, food, space]
+
 ## Sub lesson 2 — Lesson 1
 
 Lesson 1: basic needs (breathe air, drink water, eat, a physical space to live) against specific needs (home, clothing, recreation, education, affection); at birth the body is 75% water.
 
 In your mind's eye: lesson 1 as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37414 — what every living thing needs]
 
 ## The key ideas
 

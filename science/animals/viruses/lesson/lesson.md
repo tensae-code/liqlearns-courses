@@ -11,7 +11,11 @@ Kuwait's books meet viruses twice: Grade 5 asks what they are beside the five ki
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37516 — what a virus is]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37517 — only inside a living cell]
 
 ## Sub lesson 2 — Why a virus is not a living thing
 

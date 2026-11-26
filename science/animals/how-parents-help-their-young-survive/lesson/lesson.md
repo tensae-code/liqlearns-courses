@@ -9,7 +9,11 @@ The young speak first, in the only way they can: **offspring signals** — a bab
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37470 — the chick chirps]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37471 — the signal is answered]
 
 ## Sub lesson 2 — Parent responses — feeding, comforting, protecting
 

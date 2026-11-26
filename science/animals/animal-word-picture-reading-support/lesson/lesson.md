@@ -15,7 +15,11 @@ That is what the support is *for*, as the placement files it: so that **pupils w
 
 In your mind's eye: one row of the picture–word table: a bear, a frog and a pike, each with its name beside it. Name each animal from its picture, then reads its name.
 
+[Picture 37402 — picture first, word with it]
+
 In your mind's eye: a name label being covered and uncovered beside an animal picture. Name the animal while it is covered, then uncovers to check.
+
+[Picture 37403 — say it, then check]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Guía 2: what we have in common; Mendel's laws worked through Punnett squares (w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37488 — Mendel's laws in squares]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37489 — from peas to the genetic code]
 
 ## Sub lesson 2 — The genetic code and Mendel's laws
 

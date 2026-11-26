@@ -11,7 +11,11 @@ That purpose is the lesson's anchor. Breathing is not just air moving in and out
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37451 — breathing frees energy]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37452 — lungs, gills, skin and surface]
 
 ## Sub lesson 2 — Lungs, gills, skin and surface — and plants breathe too
 
@@ -21,7 +25,11 @@ And the book closes the circle: **plants breathe too**. Breathing belongs to liv
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37453 — plants breathe too]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37454 — breathing and food-making trade gases]
 
 ## The key ideas
 

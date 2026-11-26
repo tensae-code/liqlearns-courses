@@ -9,7 +9,11 @@ Guía 4: can we read the code of life? the Human Genome Project (begun 1990) map
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37508 — reading the code of life]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37509 — moving DNA]
 
 ## Sub lesson 2 — Genetic manipulation and modern genetics
 

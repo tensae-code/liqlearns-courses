@@ -9,17 +9,23 @@ Kazakhstan's books teach this as their own lesson — "How to protect animals". 
 
 In your mind's eye: how to protect animals as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37495 — how to protect animals]
+
 ## Sub lesson 2 — How animals are protected
 
 Kazakhstan's books teach this as their own lesson — "How animals are protected". The learner works through the books' own presentation of how animals are protected — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: how animals are protected as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37496 — reserves and national parks]
+
 ## Sub lesson 3 — Why animals must be protected
 
 The books teach this part as second half "Why animals must be protected" (reserves and national parks of Kazakhstan) — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: why animals must be protected as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37497 — why animals must be protected]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Plants and animals already solve hard problems with their **external parts**: ho
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37427 — nature's solutions]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37428 — copy how it works]
 
 ## Sub lesson 2 — Mimic the part to solve a human problem
 

@@ -9,7 +9,11 @@ Guía 1: how so small a molecule identifies us; DNA as a double helix of nucleot
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37431 — a double helix]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37432 — cousins, not twins]
 
 ## Sub lesson 2 — DNA and RNA compared
 

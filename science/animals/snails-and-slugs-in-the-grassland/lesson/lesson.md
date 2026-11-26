@@ -9,7 +9,11 @@ The grassland chapter's snail is the **brekkubobbi**, a grassland snail with a s
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37500 — the brekkubobbi in the grass]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37501 — how did the snail reach Iceland?]
 
 ## Sub lesson 2 — How did it get here — and how fast does it go?
 

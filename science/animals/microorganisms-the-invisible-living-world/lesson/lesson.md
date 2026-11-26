@@ -9,17 +9,23 @@ microorganisms (microbes) defined and classified: beings so small they cannot be
 
 In your mind's eye: microorganisms (microbes) defined and classified as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37490 — too small to see]
+
 ## Sub lesson 2 — Margin: beings so small cannot be observed with the simple view
 
 margin: beings so small cannot be observed with the simple view — a specialised instrument called microscope is necessary, which can be optical or electronic; not all microorganisms are harmful for the human being (guide evidence)
 
 In your mind's eye: margin: beings so small cannot be observed with the simple view as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37491 — a microscope is necessary]
+
 ## Sub lesson 3 — Printed keys
 
 printed keys: beneficial microorganisms for humans include the intestinal flora — bacteria living in our body, protecting it and obtaining food; the bacterium Lactobacillus bulgaricus used in dairy production like cheese, and the fungus Saccharomyces cerevisiae for bread making; the true/false key gives: bacteria were the first living beings inhabiting the planet (true); the diseases listed as fungal (flu, measles, diarrhoea, herpes, varicella) are keyed false — they are caused by viruses; microorganisms cannot be observed with the simple view, only through the microscope; viruses are not the largest microorganisms but the smallest; fungi are not originated by lack of personal hygiene alone (guide evidence)
 
 In your mind's eye: printed keys as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37492 — helpful microbes protect us]
 
 ## The key ideas
 

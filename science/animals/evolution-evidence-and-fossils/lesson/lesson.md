@@ -9,7 +9,11 @@ Living things today are not exactly the living things of long ago. How could any
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37437 — beaks change over time]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37438 — a window on the past]
 
 ## Sub lesson 2 — Evidence and fossils — a window on the past
 

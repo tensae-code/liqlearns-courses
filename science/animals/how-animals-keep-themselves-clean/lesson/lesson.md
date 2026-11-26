@@ -9,7 +9,11 @@ South Sudan's Primary 2 book teaches how animals clean themselves, starting with
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37455 — lick, nibble, roll]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37456 — a dust bath]
 
 ## Sub lesson 2 — Chickens — the dust bath
 

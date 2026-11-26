@@ -9,7 +9,11 @@ Systematics and cladistics: all living things share a common origin, so their ev
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37423 — a family tree of animals]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37424 — comparing trees of life]
 
 ## Sub lesson 2 — Dendrogram vs cladogram work
 

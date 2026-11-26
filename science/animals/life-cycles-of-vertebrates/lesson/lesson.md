@@ -11,7 +11,11 @@ The book's order is the teaching: invertebrate cycles first, vertebrate cycles a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37484 — the vertebrates' cycle]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37485 — the frog's cycle, stage by stage]
 
 ## Sub lesson 2 — The activity book's matching work
 

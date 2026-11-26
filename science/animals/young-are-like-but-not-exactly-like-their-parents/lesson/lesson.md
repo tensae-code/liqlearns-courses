@@ -9,7 +9,11 @@ The pattern opens the lesson: **young plants and animals resemble their parents*
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37518 — young resemble their parents]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37519 — not exactly alike]
 
 ## Sub lesson 2 — But not exactly like them
 

@@ -9,7 +9,11 @@ Malaysia's Form 5 book maps **beneficial microorganisms across medicine, agricul
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37514 — microorganisms at work]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37515 — a cleaner from waste]
 
 ## Sub lesson 2 — Eco-enzyme and Lactobacillus serum
 

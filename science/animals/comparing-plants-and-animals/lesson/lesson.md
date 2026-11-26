@@ -9,11 +9,15 @@ The books teach this part as 6: Venn-style comparison of plants and animals (app
 
 In your mind's eye: comparing plants and animals as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37425 — both alive]
+
 ## Sub lesson 2 — Plants and animals — how they are alike and different
 
 The books teach this part as both breathe, feed, grow, reproduce, develop; plants are still and grow all their life, animals move and grow for a set period; a puppy's growth series from 7 days to 3 years — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: plants and animals — how they are alike and different as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37426 — alike in the middle]
 
 ## The key ideas
 

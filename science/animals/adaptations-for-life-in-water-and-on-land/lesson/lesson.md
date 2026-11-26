@@ -11,7 +11,11 @@ The animals carry **fins** for moving, **shells** for protection, **tentacles** 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37379 — the fish's parts, named]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37380 — from water fittings to land fittings]
 
 ## Sub lesson 2 — Fitted for the land
 
@@ -21,7 +25,11 @@ For winter, animals **hibernate**, grow **thicker fur**, or **migrate** away. Fo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37381 — fitted for the land]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37382 — a fitting for its home]
 
 ## The key ideas
 

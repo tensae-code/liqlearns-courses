@@ -11,7 +11,11 @@ Bulgaria's book's examples: the **mantis**, green in the green growth, hidden wh
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37415 — hiding colours]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37416 — two ways colours protect]
 
 ## Sub lesson 2 — Warning colours — the wasp and the salamander
 
@@ -21,7 +25,11 @@ The book's examples: the **wasp's warning stripes** and the **salamander's signa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37417 — the wasp and the salamander]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37418 — hiding, and advertising]
 
 ## The key ideas
 

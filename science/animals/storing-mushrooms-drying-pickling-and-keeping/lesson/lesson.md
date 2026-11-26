@@ -9,7 +9,11 @@ Sukuti made by blanching and sun- or oven-drying into airtight packs; the chemic
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37504 — dry and pickle]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37505 — sukuti: dried and kept]
 
 ## Sub lesson 2 — Sukuti made by blanching and sun- or oven-drying into airtight packs
 

@@ -9,17 +9,23 @@ ethology is defined as the branch of biology studying animal behaviour — the s
 
 In your mind's eye: ethology is defined as the branch of biology studying animal behaviour as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37385 — watch, and write it down]
+
 ## Sub lesson 2 — Pheromones
 
 pheromones: chemical substances animals release to attract a mate, perceivable only by the same species; courtship as a ritual of visual, auditory and chemical signals — the male peacock dances and shows his colours and the female selects the best performer.
 
 In your mind's eye: pheromones as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37386 — messages in the air]
+
 ## Sub lesson 3 — Sexual dimorphism
 
 sexual dimorphism: males and females of a species differ in form, colour, size and reproductive organs — male birds grow showy plumage for courtship; females are larger in most insects, spiders, amphibians, reptiles and raptors, while male mammals are usually larger.
 
 In your mind's eye: sexual dimorphism as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37387 — the male showy, the female plain]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Yemen's Grade 9 Science book defines a mutation as a sudden change in the inheri
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37493 — one rung, changed]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37494 — a pair fails to part]
 
 ## Sub lesson 2 — An extra chromosome — Patau's pattern
 

@@ -11,7 +11,11 @@ Kuwait's Grade 6 book teaches the two types as a pair with one test question for
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37512 — one parent only]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37513 — two cells join]
 
 ## Sub lesson 2 — Sexual reproduction — two parents
 

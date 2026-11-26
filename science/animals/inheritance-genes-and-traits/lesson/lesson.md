@@ -14,7 +14,11 @@ A **gene** is a section of DNA carrying the instruction for one piece of the bod
 
 In your mind's eye: a parent plant and its young side by side, with the shared traits named. The student points to one inherited trait and one thing that could only be acquired.
 
+[Picture 37474 — shared traits, and one picked up]
+
 In your mind's eye: a gene's instruction becoming a protein and the protein showing as a trait. Say the three steps in order.
+
+[Picture 37475 — gene, protein, trait]
 
 ## Sub lesson 2 — Mendel's crosses — dominant and recessive
 
@@ -26,7 +30,11 @@ The same bookkeeping decides a child's sex in humans. Sex is carried on the **se
 
 In your mind's eye: the tall × short cross drawn as four boxes, TT, Tt, Tt, tt. The student counts the tall and the short before reading on.
 
+[Picture 37476 — four boxes]
+
 In your mind's eye: the hidden short form returning in the second generation, one plant in four. Say which form is recessive and how the count proves it.
+
+[Picture 37477 — one plant in four]
 
 ## Sub lesson 3 — Evolution — inherited change over generations
 
@@ -36,7 +44,11 @@ Given enough generations, the kept changes build up until a population differs s
 
 In your mind's eye: one starting population splitting, over many generations, into two different kinds. Name the two things that drive the split: inherited variation and selection.
 
+[Picture 37478 — one population splits in two]
+
 In your mind's eye: generation after generation of a population, one helpful variation spreading through it. Say why the variation spreads.
+
+[Picture 37479 — a helpful variation spreads]
 
 ## The key ideas
 

@@ -11,7 +11,11 @@ This is China's own sericulture way in — the silkworm is not a wild example ch
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37510 — the silkworm is born]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37511 — it moults]
 
 ## Sub lesson 2 — The silkworm grows and changes
 

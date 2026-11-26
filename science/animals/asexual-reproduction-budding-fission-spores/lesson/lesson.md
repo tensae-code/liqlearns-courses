@@ -9,7 +9,11 @@ Nicaragua's Grade 8 Módulo Autoformativo teaches cell reproduction without game
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37411 — new life without gametes]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37412 — new plants from parts]
 
 ## Sub lesson 2 — Vegetative reproduction in plants — copies that keep what works
 

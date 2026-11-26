@@ -13,7 +13,11 @@ The **diversity** of living things — the many different kinds, each fitted to 
 
 In your mind's eye: a long timeline strip: life appearing 3.8 billion years ago at the far end, today's living things at the near end. The student points to where life begins and where we stand.
 
+[Picture 37433 — life at the far end]
+
 In your mind's eye: the timeline strip unrolling further and further back while the human mark stays a tiny end-piece. Say what changed and what it proves.
+
+[Picture 37434 — humans: a tiny end-piece]
 
 ## Sub lesson 2 — Living things change — evolution and natural selection
 

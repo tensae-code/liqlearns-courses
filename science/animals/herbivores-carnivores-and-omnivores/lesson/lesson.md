@@ -13,7 +13,11 @@ The book teaches the three groups inside its lesson on feeding and the food chai
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37445 — three groups, by food]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37446 — one question sorts every animal]
 
 ## Sub lesson 2 — Reading the group off the animal
 
@@ -23,7 +27,11 @@ The group is not read off size, fierceness or where the animal lives. A big anim
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37447 — read the group off the animal]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37448 — plants, animals, or both]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ DNA barcodes: sequencing a gene stretch to identify species, since DNA stores th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37429 — its DNA barcode]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37430 — read the barcode, find the species]
 
 ## The key ideas
 

@@ -11,7 +11,11 @@ And the new life is not random: **offspring resemble their parents**. The young 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37443 — growing, changing, making new life]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37444 — some give birth, some lay eggs]
 
 ## Sub lesson 2 — Birth and eggs — two ways animals reproduce
 

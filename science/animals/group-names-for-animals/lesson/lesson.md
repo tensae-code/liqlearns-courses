@@ -9,7 +9,11 @@ A group of animals often has its own name. Fiji's Year 2 book teaches them insid
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37439 — herds, schools and flocks]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37440 — the young have group names too]
 
 ## Sub lesson 2 — Broods, litters and colonies
 

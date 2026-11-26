@@ -9,7 +9,11 @@ Cultivating mushrooms the book's way: chop straw to 1–2 inches, boil 15–20 m
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37441 — mushrooms on a straw bed]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37442 — the grower's way, step by step]
 
 ## Sub lesson 2 — Why mushroom growers raise mushrooms on straw
 

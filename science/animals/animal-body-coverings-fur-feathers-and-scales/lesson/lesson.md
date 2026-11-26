@@ -11,7 +11,11 @@ Kuwait's Grade 1 book teaches the coverings first by looking: the child matches 
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37390 — fur, feathers and scales]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37391 — a covering is a tool]
 
 ## Sub lesson 2 — What a covering does
 

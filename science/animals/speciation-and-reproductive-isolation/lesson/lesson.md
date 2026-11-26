@@ -9,7 +9,11 @@ Guía 13: where species come from; reproductive isolation mechanisms (including 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37502 — a river parts them]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37503 — the origin of species]
 
 ## Sub lesson 2 — The origin of species — when reproduction stops
 

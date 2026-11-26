@@ -9,7 +9,11 @@ The story begins before any life: the **Earth itself originated** — formed as 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37435 — a young, hot Earth]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37436 — the first living things]
 
 ## Sub lesson 2 — The origin of life
 

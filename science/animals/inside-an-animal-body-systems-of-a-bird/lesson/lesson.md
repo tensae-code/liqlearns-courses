@@ -9,7 +9,11 @@ Inside the hen is a **skeleton**: the frame of bones that holds the bird up and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37480 — the hen's skeleton]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37481 — the food's route through the hen]
 
 ## Sub lesson 2 — The hen's digestive and respiratory systems
 

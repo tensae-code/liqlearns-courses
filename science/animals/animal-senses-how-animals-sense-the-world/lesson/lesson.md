@@ -9,7 +9,11 @@ North Macedonia's Grade 4 book teaches animal senses through touch first. The **
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37396 — touch beyond our hands]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37397 — picking out one sound]
 
 ## Sub lesson 2 — Hearing that picks out — the dog and the owl
 
