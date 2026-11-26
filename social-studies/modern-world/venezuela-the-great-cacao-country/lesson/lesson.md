@@ -10,11 +10,15 @@ Cacao plantation owners are rich in land and power, and their crop makes colonia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39706 — hacienda]
+
 ## Sub lesson 2 — The colonial economy
 
 Cacao, and the colony's other products, organise work, trade and wealth for Spain's benefit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39705 — groves]
 
 ## Say it to your companion
 

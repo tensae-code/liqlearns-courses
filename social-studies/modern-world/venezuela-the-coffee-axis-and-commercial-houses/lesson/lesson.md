@@ -10,11 +10,15 @@ Coffee ties Venezuela to the world market, but English, German, Italian and US h
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39712 — houses]
+
 ## Sub lesson 2 — When coffee lit up our history
 
 Coffee becomes the light by which the nineteenth-century republic is seen — its money, its ports and its politics all run on the bean
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39711 — branch]
 
 ## Say it to your companion
 

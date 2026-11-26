@@ -10,11 +10,15 @@ The book closes by reading Chávez's first speeches, the country's crisis and hi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39702 — scales]
+
 ## Sub lesson 2 — Towards cultural sovereignty; the legacy the Bolivarian leader left the homeland
 
 The book closes weighing Chávez's legacy and the push for cultural and technological sovereignty, Venesat-1 included
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39701 — satellite]
 
 ## Say it to your companion
 

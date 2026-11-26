@@ -10,6 +10,8 @@ The coin's story runs from colonial pieces to the long wait for oil-age Venezuel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39703 — coins]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Venezuelan money also has its history — the coin's story runs from colonial pieces to the long wait for oil-age Venezuela to give the country its own modern money. Then let your companion ask you one hard question about it — answer from the lesson.

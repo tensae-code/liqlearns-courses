@@ -10,11 +10,15 @@ Children meet the national flag star by star and sing how Caracas set the exampl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39709 — flag]
+
 ## Sub lesson 2 — The national flag has a history full of Homeland
 
 The flag's own biography, from Miranda's banner to the eight stars, is told as a story of the homeland itself
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39708 — timeline]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Caracas, the oil west and Guayana grow as three poles; ports are rebuilt for oil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39691 — poles]
+
 ## Sub lesson 2 — Caracas in oil times: "Caracas, there it is..."
 
 The capital grows explosively on oil rent into a metropolis, the visible pole of the oil country's new geography
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39690 — skyline]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Venezuela helps found OPEC so oil countries stop facing the companies alone, a r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39710 — table]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The creation of OPEC, between Baghdad and Caracas — Venezuela helps found OPEC so oil countries stop facing the companies alone, a rare turn where the dependent country organises the producers. Then let your companion ask you one hard question about it — answer from the lesson.

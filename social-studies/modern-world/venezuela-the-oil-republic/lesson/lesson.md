@@ -10,17 +10,23 @@ Agricultural Venezuela gives way to the República Petrolera, and every later ch
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39697 — arrow]
+
 ## Sub lesson 2 — Oil activity in its beginnings: concessions from 1909 and the Barroso 2 blowout
 
 Foreign companies get concessions from 1909, camps cut into a rural country, and the 1922 Barroso 2 gusher announces commercial oil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39696 — gusher]
+
 ## Sub lesson 3 — Physiognomy of oil Venezuela
 
 Oil redraws the country's face — camps, highways, cities and a rentier state replace the agrarian republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39695 — divide]
 
 ## Say it to your companion
 

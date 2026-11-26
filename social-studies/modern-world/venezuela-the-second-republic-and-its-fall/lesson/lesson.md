@@ -10,11 +10,15 @@ The patriots win a second republic and lose it again — victory and collapse te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39694 — shield]
+
 ## Sub lesson 2 — The Second Republic; the war continues for the Republic's restoration
 
 Bolívar's Admirable Campaign wins a second republic, Boves's llanero war destroys it, and the fight goes on from exile and the east
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39693 — storm]
 
 ## Say it to your companion
 

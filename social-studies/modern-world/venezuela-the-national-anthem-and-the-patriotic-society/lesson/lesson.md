@@ -10,6 +10,8 @@ In the independence ferment of the Sociedad Patriótica the anthem is born, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39698 — singers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Homeland: the National Anthem was born in the Patriotic Society — in the independence ferment of the Sociedad Patriótica the anthem is born, and the Liberator himself becomes a symbol beside it. Then let your companion ask you one hard question about it — answer from the lesson.

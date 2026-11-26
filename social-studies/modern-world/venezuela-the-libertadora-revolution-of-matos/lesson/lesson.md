@@ -10,6 +10,8 @@ Banker Manuel Antonio Matos bankrolls a revolution against the government, showi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39700 — chest]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The banker Matos's Revolución Libertadora — banker Manuel Antonio Matos bankrolls a revolution against the government, showing how commercial-house money could make and unmake presidents. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The Guipuzcoana trading company tightens Spain's grip on cacao and trade, and di
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39704 — warehouse]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Guipuzcoana and other novelties — the Guipuzcoana trading company tightens Spain's grip on cacao and trade, and discontented producers find legal doors closing on them. Then let your companion ask you one hard question about it — answer from the lesson.
