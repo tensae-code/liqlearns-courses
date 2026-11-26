@@ -10,11 +10,15 @@ Real questions arrive with **many variables** (banyak variabel): the pupils *in 
 
 In your mind's eye: one variable is rarely the question.
 
+[Picture 46594 — one variable is rarely the question]
+
 ## Sub lesson 2 — Building the combined search — narrow, check, widen
 
 The craft is in the building: state each condition on its own variable, combine, then **check the catch** — too many records means a condition is missing or loose; none at all usually means a condition is wrong, not that the world is empty. Widening and narrowing are deliberate acts: drop a condition to widen, add one to narrow, and keep the question beside the search so the catch can be judged against it. The search is a sentence in the data's language; this lesson teaches writing it exactly.
 
 In your mind's eye: building the combined search — narrow, check, widen.
+
+[Picture 46595 — building the combined search — narrow, check, widen]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **report** takes a table or query as its source and lays the records out as a 
 
 In your mind's eye: from answer to document.
 
+[Picture 46592 — from answer to document]
+
 ## Sub lesson 2 — Grouping and totals
 
 Reports earn their keep by **grouping**: records gathered under group headings (by class, by town), with a **subtotal per group** and a **grand total** at the end — the printed cousin of the pivot idea. Design choices (what groups, what totals, what fits the page) are the report-maker's real work, and a preview shows the pages before any paper is spent.
 
 In your mind's eye: grouping and totals.
+
+[Picture 46593 — grouping and totals]
 
 ## Say it to your companion
 

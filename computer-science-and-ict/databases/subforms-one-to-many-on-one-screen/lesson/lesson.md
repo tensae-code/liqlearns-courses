@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Subforms One to Many on One Scre
 
 In your mind's eye: subforms One to Many on One Screen.
 
+[Picture 46608 — subforms One to Many on One Screen]
+
 ## Sub lesson 2 — Doing it — Subforms One to Many on One Screen in practice
 
 **Doing it — Subforms One to Many on One Screen in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Subforms One to Many on One Screen in practice.
+
+[Picture 46609 — doing it — Subforms One to Many on One Screen in practice]
 
 ## Say it to your companion
 

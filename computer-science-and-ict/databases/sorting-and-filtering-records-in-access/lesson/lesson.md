@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Sorting and Filtering** — cove
 
 In your mind's eye: sorting and Filtering.
 
+[Picture 46602 — sorting and Filtering]
+
 ## Sub lesson 2 — Doing it — Sorting and Filtering Records in Access in practice
 
 **Doing it — Sorting and Filtering Records in Access in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Sorting and Filtering Records in Access in practice.
+
+[Picture 46603 — doing it — Sorting and Filtering Records in Access in practice]
 
 ## Say it to your companion
 

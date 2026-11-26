@@ -10,11 +10,15 @@ The size of a form or report — its width and each section's height — decides
 
 In your mind's eye: the Size of a Form or Report.
 
+[Picture 46600 — the Size of a Form or Report]
+
 ## Sub lesson 2 — The Width and Height of a Form or Report
 
 Sizing a Form or Report in Access is learned by doing: the learner measures and sets the width of a form or report, sets the height of its sections, and uses the automatic sizing that fits the form to what it holds The learner measures and sets the width of a form or report, sets the height of its sections, and uses the automatic sizing that fits the form to what it holds Because a form that is too wide scrolls, a section that is too short hides its controls, and printed reports must fit the paper they are printed on.
 
 In your mind's eye: the Width and Height of a Form or Report.
+
+[Picture 46601 — the Width and Height of a Form or Report]
 
 ## Say it to your companion
 

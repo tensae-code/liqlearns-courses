@@ -10,11 +10,15 @@ Tables hold data, queries find it, forms enter it — a **report** presents it. 
 
 In your mind's eye: a database table turning into a printed page with a title, grouped lists and a total at the foot.
 
+[Picture 46590 — a database table turning into a printed page with a title, grouped lists and a total at the foot]
+
 ## Sub lesson 2 — Creating a report
 
 **Creating** one means choosing the source records, the fields to show, the grouping and order, and the layout — usually starting from the program's report-building help and then adjusting. A report is a **view, not a copy**: it holds no data of its own, so printing it again tomorrow shows tomorrow's data in the same arrangement. If the arrangement is wrong — ungrouped when the reader thinks in groups, unordered when the reader scans by name — the report fails even with perfect data, because its whole job is to be read.
 
 In your mind's eye: the same report printed twice on different days, with changed numbers inside an unchanged layout.
+
+[Picture 46591 — the same report printed twice on different days, with changed numbers inside an unchanged layout]
 
 ## Say it to your companion
 

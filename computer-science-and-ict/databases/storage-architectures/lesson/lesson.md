@@ -10,11 +10,15 @@ The simplest architecture keeps storage **attached to the machine that uses it**
 
 In your mind's eye: attached and networked storage — where the shelves stand.
 
+[Picture 46604 — attached and networked storage — where the shelves stand]
+
 ## Sub lesson 2 — Storage as its own network — and choosing
 
 At the largest scale, storage becomes **its own dedicated network** behind the servers — a **storage area network** — so many servers share pools of storage at machine-room speed, and the pools can grow without the servers stopping. The chapter's judgement is by need: attached for the lone machine's speed, network-attached for the office's sharing, a storage network for the institution whose data is its life. Architecture is the database lessons' ground floor: the DBMS of the next sections stands on one of these arrangements, whether the learner names it or not.
 
 In your mind's eye: storage as its own network — and choosing.
+
+[Picture 46605 — storage as its own network — and choosing]
 
 ## Say it to your companion
 

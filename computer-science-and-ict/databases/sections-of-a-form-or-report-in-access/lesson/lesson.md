@@ -10,11 +10,15 @@ A form or report in Access is built in horizontal bands called sections — head
 
 In your mind's eye: the Sections of a Form or Report.
 
+[Picture 46598 — the Sections of a Form or Report]
+
 ## Sub lesson 2 — The Detail section
 
 Sections of a Form or Report in Access is learned by doing: the learner opens a form or report in Design view, names each section, and places controls in the section where they belong — titles in headers, record fields in Detail, totals in footers The learner opens a form or report in Design view, names each section, and places controls in the section where they belong — titles in headers, record fields in Detail, totals in footers Because a control only behaves as expected in the right section: a field in Detail repeats per record, a field in a header appears once.
 
 In your mind's eye: the Detail section.
+
+[Picture 46599 — the Detail section]
 
 ## Say it to your companion
 
