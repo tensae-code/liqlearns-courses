@@ -10,11 +10,15 @@ A presentation is prepared in **stages**. First the **aim**: what must the liste
 
 In your mind's eye: aim, topic, material — the deciding stages.
 
+[Picture 45757 — aim, topic, material — the deciding stages]
+
 ## Sub lesson 2 — Plan the slides, then rehearse
 
 The **slide plan** assigns the material: one idea per slide, in the talk's order, each slide sketched — title, its picture or chart, its few words — on paper before the program opens. Last comes **rehearsal**: the talk spoken aloud, timed, its stumbles repaired in the plan and not on the day; the presenter learns where the audience will ask, because the rehearsal's small audience already did. Mongolia's five stages close with the book's standing judgement: a presentation is a prepared act, not a file — the file is merely its evidence.
 
 In your mind's eye: plan the slides, then rehearse.
+
+[Picture 45758 — plan the slides, then rehearse]
 
 ## Say it to your companion
 

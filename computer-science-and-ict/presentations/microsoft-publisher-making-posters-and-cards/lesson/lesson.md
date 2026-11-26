@@ -10,11 +10,15 @@ A school festival needs a poster, a card and a leaflet by tomorrow — documents
 
 In your mind's eye: microsoft Publisher and what it makes.
 
+[Picture 45755 — microsoft Publisher and what it makes]
+
 ## Sub lesson 2 — The Home and Insert tabs — a festival leaflet
 
 The second lesson works the **Home and Insert tabs** on a real job: **designing a school-festival publicity leaflet**. Home holds the everyday text and object tools; Insert brings in what the leaflet needs — pictures and extra parts — and together they take the leaflet from a blank publication to one ready to print and hand out.
 
 In your mind's eye: the Home and Insert tabs — a festival leaflet.
+
+[Picture 45756 — the Home and Insert tabs — a festival leaflet]
 
 ## Say it to your companion
 

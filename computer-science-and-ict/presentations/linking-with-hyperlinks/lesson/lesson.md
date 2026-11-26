@@ -10,11 +10,15 @@ A **hyperlink** on a slide is a **piece of text or a picture that, when clicked 
 
 In your mind's eye: what a hyperlink on a slide does.
 
+[Picture 45751 — what a hyperlink on a slide does]
+
 ## Sub lesson 2 — Making links — and keeping them honest
 
 A link is made by **selecting the text or picture, giving the Insert Hyperlink command, and choosing the target** — place in this document, existing file, or web address. Laos teaches the making beside its discipline: a link is a **promise** — its words must say where it goes, its target must be **tested in the show before the audience arrives**, and a link to a file or the web is only as reliable as that file's place and that connection. A broken promise mid-talk costs more than no link at all, so the book's presenters test every jump twice.
 
 In your mind's eye: making links — and keeping them honest.
+
+[Picture 45752 — making links — and keeping them honest]
 
 ## Say it to your companion
 

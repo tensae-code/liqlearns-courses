@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Practical steps for learners: recordin
 
 In your mind's eye: practical steps for learners. Recording a presentation.
 
+[Picture 45765 — practical steps for learners. Recording a presentation]
+
 ## Sub lesson 2 — Doing it — Practical steps for learners: recording a presentation in practice
 
 This part of South Sudan's book teaches **Doing it — Practical steps for learners: recording a presentation in practice** — covering: Practical steps for learners: recording a presentation. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical steps for learners: recording a presentation. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical steps for learners: recording a presentation in practice is part of that chain..
 
 In your mind's eye: doing it — Practical steps for learners: recording a presentation in practice.
+
+[Picture 45766 — doing it — Practical steps for learners: recording a presentation in practice]
 
 ## Say it to your companion
 

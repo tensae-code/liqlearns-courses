@@ -10,11 +10,15 @@ Printing begins with a **choice of form**: **full-page slides** for a record of 
 
 In your mind's eye: choosing the print form — slides, handouts, notes.
 
+[Picture 45761 — choosing the print form — slides, handouts, notes]
+
 ## Sub lesson 2 — Preview first — then print
 
 Before paper is spent, **Print Preview** shows the pages exactly as they will come out — the layout, the order, whether anything is cut or too small to read. The book's economy is the printer's rule everywhere in this course: preview, fix, then print — and print one test copy before a class set, so a mistake costs one sheet, not thirty.
 
 In your mind's eye: preview first — then print.
+
+[Picture 45762 — preview first — then print]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A presentation saved only in its own program's format can be opened only there. 
 
 In your mind's eye: save As — one deck, several forms.
 
+[Picture 45769 — save As — one deck, several forms]
+
 ## Sub lesson 2 — Choosing the format for the reader
 
 The format is chosen by **who receives it and how**: a reader who must only read gets the PDF; a designer who needs a slide inside other work gets the picture; an audience gets the show. The original editable deck is always kept too — the other formats are copies sent out, and the master stays at home, changeable for next time.
 
 In your mind's eye: choosing the format for the reader.
+
+[Picture 45770 — choosing the format for the reader]
 
 ## Say it to your companion
 

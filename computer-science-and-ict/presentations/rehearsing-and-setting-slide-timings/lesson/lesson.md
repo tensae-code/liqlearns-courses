@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Add Timings to Each Slide in the
 
 In your mind's eye: add Timings to Each Slide in the Slideshow; editing timings.
 
+[Picture 45767 — add Timings to Each Slide in the Slideshow; editing timings]
+
 ## Sub lesson 2 — Doing it — Rehearsing and Setting Slide Timings in practice
 
 **Doing it — Rehearsing and Setting Slide Timings in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Rehearsing and Setting Slide Timings in practice.
+
+[Picture 45768 — doing it — Rehearsing and Setting Slide Timings in practice]
 
 ## Say it to your companion
 
