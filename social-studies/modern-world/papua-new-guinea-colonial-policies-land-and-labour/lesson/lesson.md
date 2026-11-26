@@ -10,6 +10,8 @@ Germany rules through luluais and head tax — every unmarried man owes plantati
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40759 — headtaxland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Policies of colonial governments in Papua and New Guinea — Germany rules through luluais and head tax — every unmarried man owes plantation years; MacGregor answers differently, blocking cheap land sales and Queensland-style labour abuse; Australia keeps the 99-year lease and the indenture contract. Then let your companion ask you one hard question about it — answer from the lesson.

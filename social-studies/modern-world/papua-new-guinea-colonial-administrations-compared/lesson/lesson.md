@@ -10,6 +10,8 @@ Three systems compared — the German Company state that learns locals hold real
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40763 — threesystems]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Colonial administration in Papua and New Guinea — three systems compared — the German Company state that learns locals hold real power and faces Tolai resentment over lost land and sacred places, Britain's law-and-patrol administration, and Australia's single-territory rule. Then let your companion ask you one hard question about it — answer from the lesson.

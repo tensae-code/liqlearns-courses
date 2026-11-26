@@ -10,11 +10,15 @@ Missions arriving from the mid-1800s settle region by region until whole provinc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40765 — firstchurchprovince]
+
 ## Sub lesson 2 — Religion and change in the Pacific
 
 Region-wide, the missions' handwriting is everywhere — a church in every settlement, church schools and health services, and Christian practice woven into marriage, childrearing, dress, art, government and farming
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40764 — churchinevery]
 
 ## Say it to your companion
 

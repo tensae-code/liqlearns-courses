@@ -10,11 +10,15 @@ Four kinds of outsiders reach the island of New Guinea one after another — nav
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40755 — fourkindsarrive]
+
 ## Sub lesson 2 — Roles of Europeans in Papua and New Guinea
 
 Five European groups build colonial power — administrators (the Company, then Governor Hahl), gold miners who open Sudest, Misima and Wau-Bulolo, settlers like Queen Emma of Rabaul (welcomed by some, resisted by the Binandere), and mission churches whose local catechists and pastors carry schools and health centres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40754 — fivegroups]
 
 ## Sub lesson 3 — Early explorers and economic activities
 
@@ -22,11 +26,15 @@ The Spice Islands and a rumoured golden southern continent pull Europeans in; ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40753 — mappingcreeps]
+
 ## Sub lesson 4 — Unit 11.2 case-study assessment: one planter, administrator, missionary, trader or miner in Papua and New Guinea, from primary sources
 
 Empire gets a face — one foreigner's life, impact and legacy reconstructed from the evidence he left behind
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40752 — empiresface]
 
 ## Say it to your companion
 

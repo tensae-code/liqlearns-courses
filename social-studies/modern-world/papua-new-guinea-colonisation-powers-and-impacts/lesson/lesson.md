@@ -10,17 +10,23 @@ Outside powers take the island and draw governing boundaries between them; child
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40758 — takendividedjudged]
+
 ## Sub lesson 2 — German and British colonisation of Papua and New Guinea
 
 Portuguese de Menezes names Papua ("frizzy hair") in 1526 and de Retes names New Guinea in 1545, but the real taking comes in 1884 — Germany seizes the north-east as Kaiser-Wilhelmsland through the German New Guinea Company while Britain proclaims its protectorate over the south, MacGregor governing "by patrol"
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40757 — takeneighteen84]
+
 ## Sub lesson 3 — Motives for colonisation of PNG and the Pacific
 
 Gold-rush wealth in Australia seeks outlets and the colonists become imperialists themselves — economic, political and strategic motives, in PNG as in Asia and Africa, with little regard for the colonised
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40756 — wealthpowerposition]
 
 ## Say it to your companion
 

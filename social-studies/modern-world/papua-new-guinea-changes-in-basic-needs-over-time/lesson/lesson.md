@@ -10,6 +10,8 @@ Explorers bring canned beef and rice; native sugarcane, banana and pandanus give
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40767 — tinsandbark]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Changes in Food / Changes in Shelter / Changes in Clothing — explorers bring canned beef and rice; native sugarcane, banana and pandanus give ground — for taste, for saved garden time, for prestige, and because town life leaves no land to grow — and shelter and clothing (the meri blouse beside bark cloth) change the same way. Then let your companion ask you one hard question about it — answer from the lesson.

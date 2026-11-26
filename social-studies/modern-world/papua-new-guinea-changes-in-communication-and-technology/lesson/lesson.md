@@ -10,6 +10,8 @@ Messages once travelled by garamut slit-gong, conch shell and kundu drum, and wo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40766 — gongtosmartphone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Traditional Communication / Modern Communication / Effects of Modern Communication / Traditional Technology / Modern Technology / Impacts of Modern Technology — messages once travelled by garamut slit-gong, conch shell and kundu drum, and work by dugout canoe, salt-making and stone tools; modern communication and technology arrive and the class weighs what was gained and what was lost. Then let your companion ask you one hard question about it — answer from the lesson.

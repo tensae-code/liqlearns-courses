@@ -16,11 +16,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40769 — gunstoautonomy]
+
 ## Sub lesson 3 — Papua New Guinea as a Nation
 
 A report on the Crisis's significant events and what they did to every stakeholder and to the national economy — the nation's deepest wound studied as current history
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40768 — deepestwound]
 
 ## Say it to your companion
 

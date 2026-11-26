@@ -10,17 +10,23 @@ How the colonial government actually ran PNG, who led inside it, what it did to 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40762 — officeandpatrol]
+
 ## Sub lesson 2 — Australia's administration in Papua and New Guinea
 
 Billy Hughes claims New Guinea at Paris in 1919 as Australia's fortress wall; the mandate years bring the 1929 Rabaul strike, Edie Creek and Bulolo gold, the Leahy patrols into the Highlands, then war, the 1949 union of the two territories, self-government in 1972 and Independence on 16 September 1975
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40761 — fortresstofreedom]
+
 ## Sub lesson 3 — Unit 11.3 Australia's postwar administration essay
 
 How and why New Guinea was handed to Australia, the League of Nations looking over its shoulder, and German rule compared with Australian rule from the sources
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40760 — handedoverwatch]
 
 ## Say it to your companion
 
