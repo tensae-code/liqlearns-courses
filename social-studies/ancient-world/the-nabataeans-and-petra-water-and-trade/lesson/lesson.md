@@ -10,11 +10,15 @@ the Arab Nabataeans adapt to the desert, harvesting rainwater with dams, channel
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61769 — harvesting the deserts rain]
+
 ## Sub lesson 2 — Unit 3 Lesson 2: Petra
 
 Samir and Salma enter the rose-red city through the Siq rock corridor and see the Treasury, the Court and the Monastery the Nabataeans carved
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61770 — through the siq]
 
 ## Sub lesson 3 — Unit 4 Lesson 3: the Nabataean kingdom
 

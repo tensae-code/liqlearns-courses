@@ -10,11 +10,15 @@ Genghis Khan's horsemen build the largest land empire in history, the Pax Mongol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61754 — the pax mongolica]
+
 ## Sub lesson 2 — L'epoca dei mongoli; La via della seta e Marco Polo; Il Giappone
 
 the Mongol peace joins Europe to China; Marco Polo walks it home, and Japan's separate feudal path closes the Asian survey
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61755 — europe joined to china]
 
 ## Say it to your companion
 

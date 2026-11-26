@@ -18,11 +18,15 @@ regencies and succession struggles end with Möngke, whose census, religious tol
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61747 — mongke makes it one system]
+
 ## Sub lesson 3 — Ch. 4.2.3 The Great Yuan state
 
 Khubilai moves the capital to Khanbaliq (Beijing), takes the Chinese dynastic name Yuan in 1271 and completes the conquest of the Song
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61748 — 1271 the yuan is named]
 
 ## Sub lesson 4 — Ch. 4.2.4 The Mongols' Golden Horde state
 
@@ -30,11 +34,15 @@ Batu's ulus on the Volga rules the Russian principalities for two centuries — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61749 — the volgas two centuries]
+
 ## Sub lesson 5 — Ch. 4.2.5 The Mongols' Chagatai state
 
 Chinggis's second son's ulus holds Central Asia's oases and steppe, astride the Silk Road
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61750 — astride the silk road]
 
 ## Sub lesson 6 — Ch. 4.2.6 The Mongols' Ilkhanate state
 
@@ -42,17 +50,23 @@ Hülegü takes Baghdad in 1258 and founds the Ilkhanate; his heirs adopt Islam a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61751 — baghdad 1258 then persias way]
+
 ## Sub lesson 7 — Ch. 3.4 The Mongol Empire after Chinggis Khan
 
 Ögödei, Güyük, Möngke and Khubilai extend and administer the largest land empire ever — and its succession quarrels begin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61752 — the largest land empire ever]
+
 ## Sub lesson 8 — Ch. 3.5 The empire's breakup: Yuan, Golden Horde, Chagatai and Ilkhanate
 
 one empire becomes four khanates, each going its own way — Yuan in China, the Horde on the Volga, Chagatai in Central Asia, the Ilkhans in Persia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61753 — one empire becomes four]
 
 ## Say it to your companion
 
