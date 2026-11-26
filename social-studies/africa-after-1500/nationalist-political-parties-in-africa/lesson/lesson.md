@@ -10,6 +10,8 @@ Political parties become nationalism's main driving force, the vehicle around wh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39212 — a crowd with flags under a great banner]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Political parties — political parties become nationalism's main driving force, the vehicle around which the whole independence process is driven to its conclusion. Then let your companion ask you one hard question about it — answer from the lesson.

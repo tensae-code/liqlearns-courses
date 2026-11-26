@@ -10,6 +10,8 @@ Dingiswayo of the Mthethwa and Zwide of the Ndwandwe build confederations and ag
 
 In your mind's eye: two rival Nguni confederations with age regiments drilling, Dingiswayo and Zwide facing each other. Name each leader, his people and the year 1817.
 
+[Picture 39215 — two crowned leaders with drilling shield regiments]
+
 ## Sub lesson 2 — Zwide kills Dingiswayo — the stage set for Shaka
 
 Zwide kills Dingiswayo in 1817. With the old order broken, the stage is set for Shaka.

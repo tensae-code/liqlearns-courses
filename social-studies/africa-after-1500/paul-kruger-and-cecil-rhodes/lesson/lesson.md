@@ -10,6 +10,8 @@ Kruger, president of the Transvaal for four terms, fights Africans and then the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39218 — two panels — a bearded president, a man before Africa]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Key Personalities — Kruger, president of the Transvaal for four terms, fights Africans and then the British in 1880–81 and 1899–1900 before fleeing — a life lived, the book says, in love and defence of his people. Then let your companion ask you one hard question about it — answer from the lesson.

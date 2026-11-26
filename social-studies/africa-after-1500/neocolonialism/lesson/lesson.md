@@ -10,6 +10,8 @@ neocolonialism is defined: foreign control continuing after independence, in new
 
 In your mind's eye: a newly independent African capital — a new flag flying while foreign companies and advisers still hold the levers. The student defines neocolonialism.
 
+[Picture 39213 — a flagged government house with strings to a company and adviser]
+
 ## Sub lesson 2 — Practices and consequences
 
 the flag changes but foreign control finds new ways to stay, with real consequences for the new states (UA7 Le néocolonialisme: définition, pratiques, conséquences)

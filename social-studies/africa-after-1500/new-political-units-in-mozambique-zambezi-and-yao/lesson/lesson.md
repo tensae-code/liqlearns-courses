@@ -10,6 +10,8 @@ New states form in the late 18th and early 19th centuries — the Military State
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39214 — spearmen by a river band, a Yao trader with ivory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: New political units — the Zambezi Valley and Yao states — new states form in the late 18th and early 19th centuries — the Military States of the Zambezi Valley and the Yao states among them. Then let your companion ask you one hard question about it — answer from the lesson.

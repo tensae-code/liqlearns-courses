@@ -10,6 +10,8 @@ Imperialism is driven by industrial Europe's hunger for raw materials and market
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39221 — two panels — factories, then a ship and a fort]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Portugal's specific role in imperialist penetration — imperialism is driven by industrial Europe's hunger for raw materials and markets — but Portugal, without that industrial level, plays a specific, different role. Then let your companion ask you one hard question about it — answer from the lesson.

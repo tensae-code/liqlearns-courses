@@ -10,6 +10,8 @@ After three centuries of trading Mozambique's products, from the mid-18th centur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39211 — captives on a jetty walking to a slave ship]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The slave cycle — after three centuries of trading Mozambique's products, from the mid-18th century the merchants traffic the producer himself — Mozambicans captured, sold and stripped of all rights. Then let your companion ask you one hard question about it — answer from the lesson.

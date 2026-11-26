@@ -10,6 +10,8 @@ Portugal, first in the maritime race, turns its ships toward Mozambique; the les
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39223 — a big carrack ahead of two smaller ships]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Portuguese expansion in Mozambique — Portugal, first in the maritime race, turns its ships toward Mozambique; the lesson asks why Portugal came and why it came first. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ France chooses one formula for all — colonies grouped into federations under u
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39220 — an organisation chart from Paris to colonies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Political structures in the French possessions — France chooses one formula for all — colonies grouped into federations under uniform rules from Paris. Then let your companion ask you one hard question about it — answer from the lesson.

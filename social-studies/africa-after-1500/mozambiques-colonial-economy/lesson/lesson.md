@@ -10,6 +10,8 @@ Two-thirds of Mozambique — centre and north — are handed to international ca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39210 — a shaded country map and a company house]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The colonial economy in Mozambique — two-thirds of Mozambique — centre and north — are handed to international capital through the company system; the colonial economy's general features follow. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Kabaka Mwanga, Omukama Kabalega and Chief Awich resist while Ankole's premier Nu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39225 — two panels — crowned resisters with a refusal banner, a builder]
+
 ## Sub lesson 2 — Semei Kakungulu
 
 Kakungulu plants Baganda agents as chiefs across the east and north, helps Colonel Colville capture Mwanga and Kabalega in Lango in 1899, and tries to push British rule into Karamoja
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39226 — a map with a central figure and planted flags]
 
 ## Sub lesson 3 — Reactions to colonial rule in East Africa
 
@@ -22,11 +26,15 @@ The class sorts the names into two columns — collaborators Kaggwa, Kakungulu, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39227 — two panels of three figures each with name lists]
+
 ## Sub lesson 4 — The Road to Independence
 
 Africans react to foreign rule in two directions, and the newly schooled generation finds the natural resources suddenly hard to exploit without factories
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39228 — a village, a schooled figure, two arrows, a crossed factory]
 
 ## Sub lesson 5 — Response to the Establishment of Colonial Rule
 
@@ -34,11 +42,15 @@ Collaborators hope for guns and rewards; resisters rise over land, imposed cultu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39229 — two panels — a treaty paper with a mistranslated tag, a fence]
+
 ## Sub lesson 6 — Response to the Establishment of Colonial Rule
 
 Muteesa I collaborates for firearms against his western enemies, Nabongo Mumia and Laibon Lenana calculate likewise, while Mwanga resists at once; Kakungulu then extends British rule over the rest of Uganda for them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39230 — two panels — a king with rifles, a king crossed out]
 
 ## Sub lesson 7 — Results of the response
 
@@ -46,17 +58,23 @@ Resistance ends in destroyed villages and food stores, white brutality in Bunyor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39231 — a smoking hut, a tipped food store, two bowed figures]
+
 ## Sub lesson 8 — Why neighbours chose differently
 
 Buganda collaborates because Bunyoro has resisted; Toro collaborates because Ankole has; and Kakungulu exports the whole Kiganda system of administration into eastern Uganda
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39232 — two panels — a resister with a flag, a collaborating handshake]
+
 ## Sub lesson 9 — African Response to the Establishment of Colonial Rule
 
 Toro and Buganda collaborate to win British guns against hostile neighbours; others reject and fight — the lesson makes the learner argue both columns
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39233 — two debating groups with speech panels across a line]
 
 ## Say it to your companion
 

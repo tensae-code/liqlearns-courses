@@ -10,6 +10,8 @@ Two resisters frame the lesson — Mukhtar holds Libya's desert against Italy fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39216 — two panels — a desert sheikh, a mosque and a turbaned leader]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 7: Resistance to colonialism — Omar Mukhtar and al-Hajj Umar al-Futi — two resisters frame the lesson — Mukhtar holds Libya's desert against Italy for twenty years; al-Hajj Umar's Toucouleur empire fights France in the Senegal country. Then let your companion ask you one hard question about it — answer from the lesson.
