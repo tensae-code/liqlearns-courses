@@ -10,11 +10,15 @@ Ivan Alexander's divided realm weakens as the Ottomans cross into Europe (Lesson
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60358 — a realm divided, the Ottomans cross]
+
 ## Sub lesson 2 — Lesson 16: Bulgaria in the second half of the 13th century — remains of past greatness
 
 Tatar raids, peasant tsars and shrinking borders — the empire lives on its past (Lesson 16: Bulgaria in the second half of the 13th century — remains of past greatness)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60359 — raiders, a peasant tsar, shrinking borders]
 
 ## Say it to your companion
 

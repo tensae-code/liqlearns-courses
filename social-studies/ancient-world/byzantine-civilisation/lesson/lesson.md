@@ -10,11 +10,15 @@ a thousand years of scholarship, law, icons and domes preserve and extend the an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60377 — a thousand years of learning]
+
 ## Sub lesson 2 — Chapter 7: Byzantine art
 
 the dome, the icon and the gold mosaic turn the church into an image of heaven for a thousand years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60378 — the dome and the gold mosaic]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Two neighbouring societies — imperial and Bulgarian — in the empire's last c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60369 — two neighbouring societies]
+
 ## Sub lesson 2 — Lesson 18: The economic life of the Bulgarians
 
 Fields, crafts and trade sustain the Second Empire's towns and villages (Lesson 18: The economic life of the Bulgarians)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60370 — fields, crafts and trade]
 
 ## Say it to your companion
 

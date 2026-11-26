@@ -10,11 +10,15 @@ The Asen brothers raise the Second Bulgarian Empire (1185) and Kaloyan and Ivan 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60362 — the brothers raise the empire, 1185]
+
 ## Sub lesson 2 — Lesson 13: Peter and Asen — rebels and tsars; the resurrection of Bulgaria (1186–1196)
 
 Two brothers raise a tax revolt at Tarnovo and resurrect the Bulgarian state (Lesson 13: Peter and Asen — rebels and tsars; the resurrection of Bulgaria (1186–1196))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60363 — the tax revolt at Tarnovo]
 
 ## Sub lesson 3 — Lesson 14: Tsar Kaloyan (1196–1207), the Papacy and the Crusaders
 
@@ -22,11 +26,15 @@ Kaloyan bargains with the Pope and crushes the Latin knights at Adrianople (Less
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60364 — Kaloyan: Rome's crown, Adrianople]
+
 ## Sub lesson 4 — Lesson 15: Tsar Ivan Asen II (1218–1241) — political leader of Southeastern Europe
 
 Klokotnitsa (1230) makes Ivan Asen II master of Southeastern Europe (Lesson 15: Tsar Ivan Asen II (1218–1241) — political leader of Southeastern Europe)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60365 — Klokotnitsa 1230]
 
 ## Say it to your companion
 

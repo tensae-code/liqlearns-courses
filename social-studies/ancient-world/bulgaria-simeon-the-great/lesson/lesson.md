@@ -10,11 +10,15 @@ Simeon makes Bulgaria an empire in arms and letters, knocking at Constantinople'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60366 — arms and letters at the gates]
+
 ## Sub lesson 2 — Lesson 10: Bulgaria under Tsar Simeon the Great (893–927)
 
 Simeon's wars and court make Bulgaria the Balkans' greatest power (Lesson 10: Bulgaria under Tsar Simeon the Great (893–927))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60367 — Simeon's court, 893–927]
 
 ## Say it to your companion
 

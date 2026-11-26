@@ -10,11 +10,15 @@ Peter's long peace, then Samuil's desperate wars end with Basil II and the fall 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60360 — Peter's peace, Samuil's wars]
+
 ## Sub lesson 2 — Lesson 12: The sunset of the First Bulgarian Kingdom (976–1018)
 
 Samuil's last stand ends at Kleidion; the First Empire falls to Byzantium (Lesson 12: The sunset of the First Bulgarian Kingdom (976–1018))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60361 — Kleidion, the last stand]
 
 ## Say it to your companion
 

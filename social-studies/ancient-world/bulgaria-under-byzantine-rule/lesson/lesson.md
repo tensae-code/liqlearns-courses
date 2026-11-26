@@ -10,6 +10,8 @@ Bulgaria lives under Byzantine rule while revolts gather toward liberation (Less
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60368 — under the banner, revolt gathers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 27: Byzantium and Bulgaria in the 12th century — Bulgaria lives under Byzantine rule while revolts gather toward liberation. Then let your companion ask you one hard question about it — answer from the lesson.

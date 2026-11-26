@@ -10,11 +10,15 @@ Krum crushes an emperor at Pliska and Omurtag rebuilds — Bulgaria grows into a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60356 — Krum conquers, Omurtag rebuilds]
+
 ## Sub lesson 2 — Lesson 7: Wars, laws and reforms in the first half of the 9th century
 
 Krum's laws and victories, Omurtag's building — pagan Bulgaria at its strongest (Lesson 7: Wars, laws and reforms in the first half of the 9th century)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60357 — laws, victories and building]
 
 ## Say it to your companion
 

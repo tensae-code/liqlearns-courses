@@ -18,6 +18,8 @@ Pliska and Veliki Preslav flower in the Golden Age of Slavonic letters (Lesson 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60355 — Pliska and Preslav, capitals of letters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 23: The Golden Age of Bulgarian culture — Preslav and Ohrid make Bulgaria the literary heart of the Slavic world; Lesson 11: The "Golden Age" of Bulgarian culture — Pliska and Veliki Preslav flower in the Golden Age of Slavonic letters. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ domed churches, mosaics that glow like heaven and icons carry Greek art from Rav
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60374 — domes, mosaics and icons]
+
 ## Sub lesson 2 — Unit 40 Art exercises
 
 pupils gather every form of Byzantine art met during the year
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60375 — gathering every form of the art]
+
 ## Sub lesson 3 — Ch. 5.4 Visual arts and music
 
 mosaics, icons and chant turn Byzantine churches into images of heaven
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60376 — mosaics, icons and chant]
 
 ## Say it to your companion
 
