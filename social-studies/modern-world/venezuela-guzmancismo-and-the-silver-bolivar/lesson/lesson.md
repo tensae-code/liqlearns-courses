@@ -10,17 +10,23 @@ Guzmán Blanco builds the contemporary state on coffee money, and the fight over
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39771 — coin]
+
 ## Sub lesson 2 — An authoritarian, modernising president
 
 One strong president drags the country toward modernity by decree — progress and authoritarianism arrive in the same person (Guzmán Blanco)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39770 — decrees]
+
 ## Sub lesson 3 — Yellow Liberalism (1870–1899)
 
 Guzmán Blanco's Liberalismo Amarillo modernises by decree — order, works and a cult of the chief — for three decades
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39769 — yellow]
 
 ## Say it to your companion
 

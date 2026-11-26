@@ -10,6 +10,8 @@ Guzmán Blanco decrees free, compulsory public education — and, as the book's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39779 — decree1870]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Free public instruction decreed — Guzmán Blanco decrees free, compulsory public education — and, as the book's own preface recalls, schoolchildren are given a primer and a slate. Then let your companion ask you one hard question about it — answer from the lesson.

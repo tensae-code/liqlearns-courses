@@ -10,11 +10,15 @@ Tocanai falls and Paramaconi retreats; weakened resistance and land watered with
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39784 — guaicaipuro]
+
 ## Sub lesson 2 — The Capital of the Republic
 
 Even a Caracas district, Catia, carries cacique Catia's name — the capital's map is an indigenous-and-colonial palimpsest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39783 — catia]
 
 ## Say it to your companion
 

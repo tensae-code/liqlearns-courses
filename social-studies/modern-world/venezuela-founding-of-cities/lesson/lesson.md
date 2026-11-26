@@ -10,17 +10,23 @@ Spanish-founded cities, Caracas and the capitals among them, plant a new kind of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39782 — newworld]
+
 ## Sub lesson 2 — Cities are born, grow and can also die
 
 Founded on a grid in the sixteenth century, cities grow with their people's needs — and a city, like a living thing, can also die
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39781 — grid]
+
 ## Sub lesson 3 — Coro, a curious founding; El Tocuyo, mother city
 
 Coro is founded in a curious bargain with a cacique, and El Tocuyo becomes the mother city from which other towns are seeded
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39780 — mothertown]
 
 ## Say it to your companion
 

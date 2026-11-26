@@ -10,6 +10,8 @@ At Caraballeda and elsewhere the women of the resistance take their own place in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39764 — women]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Indigenous women also fought — at Caraballeda and elsewhere the women of the resistance take their own place in the fighting, not as bystanders. Then let your companion ask you one hard question about it — answer from the lesson.

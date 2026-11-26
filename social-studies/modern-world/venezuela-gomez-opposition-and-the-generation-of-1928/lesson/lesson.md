@@ -10,11 +10,15 @@ Opposition to the long dictatorship changes form — students, workers and exile
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39774 — newforms]
+
 ## Sub lesson 2 — When youth took the reins of anti-Gomecismo: the Generation of 1928
 
 Caracas students rise in Carnival week 1928 against Gómez; jailed and exiled, they become the founders of the modern parties
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39773 — students28]
 
 ## Say it to your companion
 

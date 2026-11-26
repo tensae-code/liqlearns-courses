@@ -10,17 +10,23 @@ Missions subdue less peacefully than was said, Margarita has a girl governor, Ge
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39767 — resistance]
+
 ## Sub lesson 2 — Conquest-colonisation with sword and cross; conquest of our present territory
 
 Sword and cross together take the territory against indigenous resistance, town by town
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39766 — swordcross]
+
 ## Sub lesson 3 — The missions, an option for settlement
 
 Mission towns gather indigenous people under the friars — settlement by conversion, softer in name than the sword and just as binding
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39765 — missions]
 
 ## Say it to your companion
 

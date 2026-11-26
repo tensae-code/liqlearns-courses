@@ -16,6 +16,8 @@ Gual and España conspire in La Guaira for a republic of equals and are betrayed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39785 — gualespana]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: First fights against the Spanish yoke: Chirino and Gual-España — zambo rebel José Leonardo Chirino rises at Coro and the rebels take the city; the Gual and España conspiracy follows, and both are crushed. Conspiracy of Gual and España (1797) — Gual and España conspire in La Guaira for a republic of equals and are betrayed and executed. Then let your companion ask you one hard question about it — answer from the lesson.
