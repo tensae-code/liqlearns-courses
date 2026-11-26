@@ -10,11 +10,15 @@ The **Layout tab** holds **page setup**: how the document sits on its paper. Pag
 
 In your mind's eye: the Layout tab and page setup.
 
+[Picture 45565 — the Layout tab and page setup]
+
 ## Sub lesson 2 — Margins and paragraph spacing
 
 The **margins** are the blank borders between the text and the paper's edges; the Layout tab sets them for the whole document at once. The same tab carries **paragraph spacing** — the space before and after paragraphs — so the page's white space, outside the text and inside it, is governed from one place.
 
 In your mind's eye: margins and paragraph spacing.
+
+[Picture 45566 — margins and paragraph spacing]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Touch typing begins with **correct finger placement**: the fingers rest on the *
 
 In your mind's eye: the Mongolian home row — fingers in their places.
 
+[Picture 45571 — the Mongolian home row — fingers in their places]
+
 ## Sub lesson 2 — Row-by-row drills — MonTT and Fast type
 
 The book builds the skill **row by row**: the home row first, then the upper row, then the lower, each row drilled until its letters are found without looking, with Mongolian words and sentences as the practice text. Mongolia's own tutor programs carry the drilling — **MonTT** and **Fast type** — setting the exercises and watching accuracy. The order never changes: placement first, accuracy second, speed last — speed is the reward of correct fingers, never its substitute.
 
 In your mind's eye: row-by-row drills — MonTT and Fast type.
+
+[Picture 45572 — row-by-row drills — MonTT and Fast type]
 
 ## Say it to your companion
 

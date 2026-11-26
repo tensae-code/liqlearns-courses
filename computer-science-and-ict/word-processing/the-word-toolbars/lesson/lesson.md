@@ -10,11 +10,15 @@ A **toolbar** is a row of **buttons**, each button a picture of the job it does.
 
 In your mind's eye: word's Standard toolbar, its buttons labelled — New, Open, Save, Print, Cut, Copy, Paste, Undo.
 
+[Picture 45569 — word's Standard toolbar, its buttons labelled — New, Open, Save, Print, Cut, Copy, Paste, Undo]
+
 ## Sub lesson 2 — The Standard and Formatting toolbars
 
 The **Standard toolbar** is the working toolbar: New, Open, Save, Print, Print Preview, Cut, Copy, Paste, Undo and the rest of the file-and-editing jobs — the same commands the File and Edit menus hold, as buttons. The **Formatting toolbar** is the appearance toolbar: font name and size, Bold, Italic, Underline, alignment, bullets and numbering, borders and colours — everything that changes how the text looks. The split to remember: Standard changes the document as a whole and your place in it; Formatting changes how the selected text looks.
 
 In your mind's eye: word's Formatting toolbar, its buttons labelled — font, size, Bold, Italic, Underline, alignment.
+
+[Picture 45570 — word's Formatting toolbar, its buttons labelled — font, size, Bold, Italic, Underline, alignment]
 
 ## Say it to your companion
 

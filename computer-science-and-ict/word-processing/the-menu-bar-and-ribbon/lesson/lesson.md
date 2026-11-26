@@ -10,11 +10,15 @@ The **menu bar** is the row of words near the top of the Word window — File, H
 
 In your mind's eye: the menu bar.
 
+[Picture 45567 — the menu bar]
+
 ## Sub lesson 2 — The ribbon — commands as buttons
 
 Below the menus sits the **ribbon**: a wide band of buttons organised into **tabs** such as Home, Insert and Design, and inside each tab into named **groups** such as Font and Paragraph. The Home tab carries the everyday commands — typeface, size, bold, alignment — while other tabs appear for special jobs. Pointing at a button without clicking shows its name and job in a small tip.
 
 In your mind's eye: the ribbon.
+
+[Picture 45568 — the ribbon]
 
 ## Say it to your companion
 

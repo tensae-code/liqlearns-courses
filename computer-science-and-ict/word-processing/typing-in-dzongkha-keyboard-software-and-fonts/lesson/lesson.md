@@ -10,11 +10,15 @@ Dzongkha script cannot be typed with an English-only setup: the computer needs *
 
 In your mind's eye: dzongkha on the computer — keyboard software and fonts.
 
+[Picture 45575 — dzongkha on the computer — keyboard software and fonts]
+
 ## Sub lesson 2 — Typing Dzongkha in Word
 
 In **Word**, a Dzongkha document is made like any document: choose the Dzongkha font, type, save with a clear name. The new cares are script cares — characters must stack and join as Dzongkha writing requires, so the typist checks the screen as they go and corrects at once. Class V ends its year with a Dzongkha story in Word: the national language, typed by the pupil's own hands, filed like every other piece of work.
 
 In your mind's eye: typing Dzongkha in Word.
+
+[Picture 45576 — typing Dzongkha in Word]
 
 ## Say it to your companion
 

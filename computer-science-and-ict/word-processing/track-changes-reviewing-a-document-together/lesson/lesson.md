@@ -10,11 +10,15 @@ With **Track Changes** switched on, Word stops silently replacing text: every **
 
 In your mind's eye: tracking — every edit shown, nothing hidden.
 
+[Picture 45573 — tracking — every edit shown, nothing hidden]
+
 ## Sub lesson 2 — Accepting and rejecting — the author decides
 
 The tracked document returns to its **author**, who reads each change and decides: **accept** it and the change becomes plain text; **reject** it and the original words stand. Changes can be accepted one by one or all together when the review is trusted. Bhutan's Class VII year ends with this in real use: the end-of-year presentation is reviewed by peers through tracked changes and comments sent by email.
 
 In your mind's eye: accepting and rejecting — the author decides.
+
+[Picture 45574 — accepting and rejecting — the author decides]
 
 ## Say it to your companion
 

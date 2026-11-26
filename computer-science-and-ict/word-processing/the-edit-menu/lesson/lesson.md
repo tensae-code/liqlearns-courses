@@ -10,11 +10,15 @@ The **Edit menu** works on whatever is **selected**. **Cut** removes the selecte
 
 In your mind's eye: word's Edit menu open — Undo, Redo, Cut, Copy, Paste, Select All, Clear, Find, Replace.
 
+[Picture 45559 — word's Edit menu open — Undo, Redo, Cut, Copy, Paste, Select All, Clear, Find, Replace]
+
 ## Sub lesson 2 — Select All, Clear, Find and Replace
 
 **Select All** selects the whole document at once, for one change to everything — a new font for an entire letter in a single move. **Clear** (Delete) removes the selection without holding it on the clipboard, for when the text is simply to be gone. The menu ends with **Find** and **Replace**, Word's search commands, which live here because finding is editing's scout: it locates the text the other commands will then work on. Read top to bottom, the Edit menu is a complete kit: choose (Select All), change (Cut, Copy, Paste, Clear), search (Find, Replace) — and, with Undo, forgive.
 
 In your mind's eye: a sentence cut from one paragraph and pasted into another, with the clipboard between them.
+
+[Picture 45560 — a sentence cut from one paragraph and pasted into another, with the clipboard between them]
 
 ## Say it to your companion
 
