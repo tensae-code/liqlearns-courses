@@ -10,17 +10,23 @@ steppe tribes commit fully to nomadic herding, the economy that defines them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61000 — the herding life begins]
+
 ## Sub lesson 2 — §32 Economy of the steppe tribes
 
 herds on seasonal routes feed, clothe and carry whole peoples
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61001 — herds on seasonal routes]
+
 ## Sub lesson 3 — §33 Crafts and trade of cattle-breeding tribes
 
 smiths and traders link the nomads to farming cities in exchange
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61002 — smiths and traders]
 
 ## Sub lesson 4 — §34–35 Social order and religious ideas of steppe tribes
 

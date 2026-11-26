@@ -10,11 +10,15 @@ on a timeline that runs from the first tools to the invention of writing (3500 B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60980 — from tools to copper]
+
 ## Sub lesson 2 — Lesson 1: Jordan in the Stone Ages
 
 Dawqara in the Zarqa valley is dated by this book to 2.5 million years, among the oldest sites of the age in Asia, with al-Lajjun in Tafila and Karak; the same villages as the vocational telling (Eyon al-Hammam's cemetery, Ain Ghazal's plaster statues, Faynan's copper) — and a fifth age the vocational book folds away: the Bronze Age of walled, gated, templed towns like Bab al-Dhra in the southern Ghawr of Karak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60981 — five ages of jordan]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Jordan's sites tell its long history — rock-carved Petra, black-stone Umm al-J
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60987 — our beautiful antiquities]
+
 ## Sub lesson 2 — Unit 3 Lesson 1: Umm al-Rasas
 
 south of the capital, Umm al-Rasas keeps its castle and mosaic-floored churches, a world-heritage site
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60988 — umm al rasas]
 
 ## Sub lesson 3 — Unit 3 Lesson 2: Shawbak castle
 
@@ -22,11 +26,15 @@ Shawbak, once called Montreal ("the royal mountain"), was built in the age of th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60989 — shawbak the royal mountain]
+
 ## Sub lesson 4 — Unit 8 Lesson 2: archaeological sites
 
 Petra, Jerash, Karak castle, Ajloun and Umm al-Jimal stand as the tangible heritage of the civilisations that passed over Jordan's land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60990 — the tangible heritage]
 
 ## Sub lesson 5 — Unit 10 Lesson 1: journey in Karak Governorate
 
@@ -34,11 +42,15 @@ Samir climbs Karak castle, among Jordan's largest, which the Franks (Crusaders) 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60991 — climbing karak]
+
 ## Sub lesson 6 — Unit 10 Lesson 2: journey in Zarqa Governorate
 
 Qasr Shabib, a Roman fort the Muslims used as a guarded station; black-basalt Azraq castle raised over Nabataean and Roman work; and Qasr Amra — the desert castles guard Jordan's east
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60992 — the desert castles]
 
 ## Sub lesson 7 — Unit 12 Lesson 1: journey in Madaba Governorate
 
@@ -46,11 +58,15 @@ the Map Church's mosaic floor, Mount Nebo's Siyagha church looking over the Dead
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60993 — madaba nebo machaerus]
+
 ## Sub lesson 8 — Unit 12 Lesson 2: journey in Tafila Governorate
 
 Busayra, the old Edomite capital, and the shrines of the Companions Ka'b ibn Umayr, Jabir al-Ansari and Farwa ibn Amr al-Judhami layer Tafila's Islamic memory over its ancient ground
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60994 — layers of tafila]
 
 ## Sub lesson 9 — Unit 12 Lesson 3: journey in Ajloun Governorate
 
@@ -58,17 +74,23 @@ Ajloun castle, built by Izz al-Din Usama, a commander of Saladin, on Jabal Bani 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60995 — ajloun commands the roads]
+
 ## Sub lesson 10 — Lesson 5: aspects of Greek civilisation in Jordan
 
 Alexander of Macedon (born 356 BCE, Aristotle's pupil, Philip II's son) takes Egypt and the Levant in 332 BCE; his generals divide the empire and Jordan passes through their wars; at Iraq al-Amir in Wadi al-Seir west of Amman a palace of huge stones carved with lions rises; arches and Corinthian capitals spread, Greek becomes the language of rule, Greek coin-types shape even Nabataean money (Harith III; Harith IV with his queen) — and Greek and local culture fuse into the Hellenistic civilisation as Rome rises in the west
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60996 — the greek age in jordan]
+
 ## Sub lesson 11 — Lesson 4: aspects of the Greek civilisation in Jordan
 
 Alexander's successors fight over Jordan; the Decapolis roll here adds Capitolias (Bayt Ras) to Philadelphia, Gerasa, Abila, Gadara and Pella, and Rabbath Ammon is renamed Philadelphia in an emperor's honour; Iraq al-Amir's lion-carved palace stands for the age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60997 — the decapolis]
 
 ## Say it to your companion
 

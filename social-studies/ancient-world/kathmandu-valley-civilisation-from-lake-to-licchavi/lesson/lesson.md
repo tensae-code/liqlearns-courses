@@ -10,6 +10,8 @@ the valley begins as the Nagdaha lake; the sage plants the lotus, Manjushree cut
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60999 — from lake to valley]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Civilisation of the Kathmandu Valley. Then let your companion ask you one hard question about it — answer from the lesson.
