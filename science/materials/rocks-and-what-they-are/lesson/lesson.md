@@ -13,7 +13,11 @@ That is the answer the guide's question teaches: before rocks are sorted, named 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37064 — the cliff, the river stone, the mountain and the pebble — all rock]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37065 — a rock is made by nature — a brick is made by people]
 
 ## Sub lesson 2 — Rocks around us
 

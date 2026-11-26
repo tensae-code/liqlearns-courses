@@ -9,7 +9,11 @@ Plastics: man-made polymers built by polymerisation, small monomer units joining
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37062 — monomers — small units joining into a polymer chain]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37063 — thermoplastics soften and reshape — thermosetting plastics set hard for good]
 
 ## The key ideas
 

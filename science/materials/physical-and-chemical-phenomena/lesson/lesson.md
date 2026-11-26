@@ -9,11 +9,15 @@ The books teach this part as "Physical and chemical phenomena" (practical work: 
 
 In your mind's eye: physical and chemical phenomena as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37054 — physical and chemical phenomena — melting ice beside burning and bubbling]
+
 ## Sub lesson 2 — The diversity of phenomena in nature
 
 Kazakhstan's books teach this as their own lesson — "The diversity of phenomena in nature". The learner works through the books' own presentation of the diversity of phenomena in nature — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: the diversity of phenomena in nature as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37055 — the diversity of phenomena in nature — rain, lightning, a river and a rainbow]
 
 ## Sub lesson 3 — What phenomena of nature exist?
 
@@ -21,11 +25,15 @@ Kazakhstan's books teach this as their own lesson — "What phenomena of nature 
 
 In your mind's eye: what phenomena of nature exist? as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37056 — what phenomena of nature exist — falling, melting, lightning, rainbow, rusting]
+
 ## Sub lesson 4 — Chemical transformation of substances in nature
 
 Kazakhstan's books teach this as their own lesson — "Chemical transformation of substances in nature". The learner works through the books' own presentation of chemical transformation of substances in nature — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: chemical transformation of substances in nature as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37057 — chemical transformation in nature — a log rotting, iron rusting, ash after burning]
 
 ## The key ideas
 

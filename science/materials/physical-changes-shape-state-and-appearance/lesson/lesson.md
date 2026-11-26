@@ -9,7 +9,11 @@ Ch.
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37060 — paper, a rubber band and water — the things physical changes act on]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37061 — tearing paper changes its shape — the paper stays paper]
 
 ## Sub lesson 2 — Physical Changes
 

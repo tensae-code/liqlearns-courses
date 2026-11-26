@@ -9,7 +9,11 @@ Matter comes as solid, liquid and gas, and it can change from one state to anoth
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37058 — ice melts to water, water evaporates to vapour — solid, liquid, gas]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37059 — melt it and freeze it — the same water again]
 
 ## Sub lesson 2 — Reversed — the substance stays itself
 
