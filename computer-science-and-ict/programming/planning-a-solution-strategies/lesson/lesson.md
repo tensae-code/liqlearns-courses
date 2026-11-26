@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Planning a Solution** — coveri
 
 In your mind's eye: planning a Solution.
 
+[Picture 47394 — planning a Solution]
+
 ## Sub lesson 2 — Doing it — Planning a Solution Strategies in practice
 
 **Doing it — Planning a Solution Strategies in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Planning a Solution Strategies in practice.
+
+[Picture 47395 — doing it — Planning a Solution Strategies in practice]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Two problems that look different may be the same problem wearing different cloth
 
 In your mind's eye: looking for what repeats.
 
+[Picture 47382 — looking for what repeats]
+
 ## Sub lesson 2 — Using the pattern — solve once, apply many times
 
 A found pattern **pays**: the repeated part needs solving **once**, and that one solution is then **applied** to every case the pattern covers. Patterns also predict — if wraps take the same time each, ten wraps take ten times one wrap. Malaysia keeps the caution with the gain: what **changes** between cases must be named too, because the changing part is exactly where the one solution must be fed different values.
 
 In your mind's eye: using the pattern — solve once, apply many times.
+
+[Picture 47383 — using the pattern — solve once, apply many times]
 
 ## Say it to your companion
 

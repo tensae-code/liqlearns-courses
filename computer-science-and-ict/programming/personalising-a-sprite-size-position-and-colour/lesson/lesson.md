@@ -10,11 +10,15 @@ Every sprite carries **settings** its maker can change. Its **size** makes it **
 
 In your mind's eye: size and position — the sprite's settings.
 
+[Picture 47386 — size and position — the sprite's settings]
+
 ## Sub lesson 2 — Colour — personalising in the paint editor
 
 A sprite's **colours** are changed where its look is made: in the **paint editor**, the learner **recolours parts of the costume** — choosing a new colour and applying it to a part — or adjusts the drawing itself, so the character wears the colours its maker chose, not only the library's. Personalising finishes when the sprite on the stage — its size, its place and its colours — is the character the story described, and the learner can say which setting made each difference.
 
 In your mind's eye: colour — personalising in the paint editor.
+
+[Picture 47387 — colour — personalising in the paint editor]
 
 ## Say it to your companion
 

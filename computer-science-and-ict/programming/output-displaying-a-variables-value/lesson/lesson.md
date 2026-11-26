@@ -10,11 +10,15 @@ A program that computes silently might as well not compute. This lesson is about
 
 In your mind's eye: text, values and results.
 
+[Picture 47379 — text, values and results]
+
 ## Sub lesson 2 — Lines, spaces and layout
 
 Output runs together unless the program **separates** it: spaces inside the text, **endl** (or '\n') for a new line. A result table is just disciplined layout — label, value, new line, repeated. What the user sees is the program's whole reputation, so this book splits output into its own section (§3.16), right after assigning values and before expressions.
 
 In your mind's eye: lines, spaces and layout.
+
+[Picture 47380 — lines, spaces and layout]
 
 ## Say it to your companion
 

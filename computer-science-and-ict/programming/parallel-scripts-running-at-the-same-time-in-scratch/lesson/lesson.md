@@ -10,6 +10,8 @@ Scripts in Scratch normally run one after another inside themselves — block by
 
 In your mind's eye: two Scratch scripts side by side, both topped by the same green-flag event block — one playing music notes, one moving a sprite. With clock hands showing they run together.
 
+[Picture 47381 — two Scratch scripts side by side, both topped by the same green-flag event block — one playing music notes, one moving a sprite. With clock hands showing they run together]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: parallel scripts start from the same event and run at the same time, so the music plays alongside the action instead of before or after it. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

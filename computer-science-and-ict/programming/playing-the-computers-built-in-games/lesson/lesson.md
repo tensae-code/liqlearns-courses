@@ -10,11 +10,15 @@ A computer's **built-in games** are the games installed with the system itself �
 
 In your mind's eye: the games that come with the computer.
 
+[Picture 47398 — the games that come with the computer]
+
 ## Sub lesson 2 — Playing well — rules, mouse and care
 
 Every built-in game has **rules** the screen can show, and a score or finish that tells the player how they did. Playing practises real skills: moving and clicking exactly, reading instructions, planning moves ahead. The class care rules still hold while playing — sit well, rest your eyes, and stop at the agreed time: a game is a program you run for a set time, not a place to disappear into.
 
 In your mind's eye: playing well — rules, mouse and care.
+
+[Picture 47399 — playing well — rules, mouse and care]
 
 ## Say it to your companion
 

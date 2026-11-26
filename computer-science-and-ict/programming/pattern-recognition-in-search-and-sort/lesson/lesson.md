@@ -10,11 +10,15 @@ Every method in the chapter is a **pattern repeated**: linear search repeats **c
 
 In your mind's eye: the repeating shape of each method.
 
+[Picture 47384 — the repeating shape of each method]
+
 ## Sub lesson 2 — Using the pattern — predict, choose, trust
 
 Patterns also **compare** the methods: the check–next pattern grows one step per item, the halving pattern collapses the field, the neighbour pattern must repeat whole passes. Malaysia's use is practical: given a list and a job, the patterns predict the **work** each method will do, and the prediction chooses the method — order the list once if halving will be used often; accept the passes when the list is nearly sorted. Recognising the pattern is what turns four memorised methods into one understood family.
 
 In your mind's eye: using the pattern — predict, choose, trust.
+
+[Picture 47385 — using the pattern — predict, choose, trust]
 
 ## Say it to your companion
 

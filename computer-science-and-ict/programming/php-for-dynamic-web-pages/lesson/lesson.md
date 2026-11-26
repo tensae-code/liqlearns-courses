@@ -10,11 +10,15 @@ A **static** page is a finished file: every visitor gets the same bytes. A **dyn
 
 In your mind's eye: dynamic pages — generated when asked.
 
+[Picture 47388 — dynamic pages — generated when asked]
+
 ## Sub lesson 2 — The PHP page at work — request, database, answer
 
 The working rhythm is the project's heartbeat: the browser **requests** a PHP page, perhaps with a choice attached (which term? which letter?); the server runs the PHP, which **queries MySQL**; the answers come back as data; the PHP **builds HTML around the data** and the server sends that HTML to the browser. Every part of the Grade 11 project meets here — the Expression Web pages provide the pattern the data is poured into, the MySQL database created earlier provides the content, and the Add_Term page is this same rhythm running in reverse, storing instead of showing. Egypt teaches PHP inside one real site because a dynamic page only makes sense attached to data someone actually wants.
 
 In your mind's eye: the PHP page at work — request, database, answer.
+
+[Picture 47389 — the PHP page at work — request, database, answer]
 
 ## Say it to your companion
 

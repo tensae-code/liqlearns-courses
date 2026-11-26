@@ -10,11 +10,15 @@ Every Kuwait project begins by naming its **goal** — the product to be made, i
 
 In your mind's eye: the goal, the skills and the team — what the project is and who does what.
 
+[Picture 47396 — the goal, the skills and the team — what the project is and who does what]
+
 ## Sub lesson 2 — The weekly plan — and documenting the project with references
 
 The project runs on a **plan**: a weekly plan or timetable of stages that says what will exist by when, so lateness is visible while it can still be repaired. And it ends in **documentation**: a scientific record of what was made and how, with **references** to the sources used — in APA style at the senior grades — because a product whose making cannot be shown cannot be trusted, taught from, or built on. Plan the work, share the work, time the work, document the work: the series' whole method in four verbs.
 
 In your mind's eye: the weekly plan — and documenting the project with references.
+
+[Picture 47397 — the weekly plan — and documenting the project with references]
 
 ## Say it to your companion
 
