@@ -9,7 +9,11 @@ Groundwater: testing the school soil's infiltration capacity; the unsaturated zo
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37240 — the aquifer section]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37241 — infiltration]
 
 ## Sub lesson 2 — The infiltration race
 

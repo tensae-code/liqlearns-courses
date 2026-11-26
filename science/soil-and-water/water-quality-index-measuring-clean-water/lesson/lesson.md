@@ -9,7 +9,11 @@ Water quality in El Salvador: the ICA index built from nine parameters (a new IC
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37272 — samples and the chart]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37273 — good and poor]
 
 ## Sub lesson 2 — Contaminants identified and sorted (arsenic, cadmium, lead, mercury
 

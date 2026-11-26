@@ -9,7 +9,11 @@ Not all water washes the same. **Soft water** gives a good lather with soap at o
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37242 — the lather test]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37243 — lather and scum]
 
 ## Sub lesson 2 — Removing the hardness of water
 

@@ -9,7 +9,11 @@ A **landslide** — an **earth slip** — is a mass of soil and rock that breaks
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37248 — the loaded slope]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37249 — the slip]
 
 ## Sub lesson 2 — Causes of landslides
 

@@ -9,7 +9,11 @@ A **coolant** is a liquid that takes heat away from something hot and carries it
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37268 — the coolant circuit]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37269 — around and around]
 
 ## Sub lesson 2 — Water as a coolant in engines
 

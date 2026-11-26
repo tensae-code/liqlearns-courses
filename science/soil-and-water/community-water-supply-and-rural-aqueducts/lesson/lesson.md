@@ -11,7 +11,11 @@ In Costa Rica these systems are run for the community by its own water associati
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37227 — spring pipe tank taps]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37228 — before and after]
 
 ## Sub lesson 2 — Run under official rules — Costa Rica's own way
 

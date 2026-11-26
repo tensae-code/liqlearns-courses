@@ -9,7 +9,11 @@ Nicaragua's Grade 9 book teaches organic fertiliser (abono orgánico) as the way
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37229 — the layered heap]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37230 — the worm farm]
 
 ## Sub lesson 2 — Worm farming — vermiculture and worm humus
 

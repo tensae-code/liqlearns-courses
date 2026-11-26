@@ -9,7 +9,11 @@ Chemical (inorganic) fertilisers by the nutrient they give: nitrogen fertilisers
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37225 — the three nutrients]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37226 — fed and unfed corn]
 
 ## Sub lesson 2 — Chemical fertilisers by nutrient
 

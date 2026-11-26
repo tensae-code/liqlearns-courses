@@ -9,11 +9,15 @@ a degraded soil in the FAO definition presents changes in its physical, chemical
 
 In your mind's eye: a degraded soil in the FAO definition presents changes as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37244 — a degraded soil]
+
 ## Sub lesson 2 — The five forms defined
 
 the five forms defined: erosion (washing or removal of surface layers, hydric or eolic), salinisation (accumulation of salts altering the soil's chemistry, harming soil fauna and vegetation — e.g. irrigation with brackish water), compaction (reduction of pore spaces, cutting water availability, root penetration and organism activity), contamination and desertification (climate factors with bad soil management) (guide evidence)
 
 In your mind's eye: the five forms defined as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37245 — the five forms]
 
 ## The key ideas
 

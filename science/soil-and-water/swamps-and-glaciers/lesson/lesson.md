@@ -9,7 +9,11 @@ A **swamp** is land where water stands and soaks the ground for most or all of t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37260 — the swamp]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37261 — wet and dry seasons]
 
 ## Sub lesson 2 — Glaciers — water held as ice, and what both mean
 
@@ -17,7 +21,11 @@ A **glacier** is a great mass of ice on the land, built from snow pressed over l
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37262 — the glacier]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37263 — the melting glacier]
 
 ## The key ideas
 

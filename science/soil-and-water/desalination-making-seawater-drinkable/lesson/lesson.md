@@ -9,7 +9,11 @@ Sea water is full of **dissolved salt**. That salt is why a land beside the sea 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37231 — sea full home thirsty]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37232 — boil catch the steam]
 
 ## Sub lesson 2 — Desalination — taking the salt out
 

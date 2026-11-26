@@ -9,7 +9,11 @@ Water gathered from ponds to great rivers — Jagdishpur, Ghodaghodi, Bishajari,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37276 — peaks hills wetland]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37277 — the wetland at work]
 
 ## Sub lesson 2 — Water gathered from ponds to great rivers — Jagdishpur
 

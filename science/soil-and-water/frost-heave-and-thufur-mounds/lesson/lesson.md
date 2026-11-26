@@ -9,7 +9,11 @@ The mounds are **þúfur** (thufur): the little hummocks that cover Iceland's he
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37234 — the mounds]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37235 — summer and winter]
 
 ## Sub lesson 2 — The freezer experiment — moist soil lifts as it freezes
 

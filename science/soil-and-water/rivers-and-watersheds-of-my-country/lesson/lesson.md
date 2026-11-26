@@ -9,11 +9,15 @@ A watershed (cuenca hidrográfica) is the territory at the sides of a river's co
 
 In your mind's eye: a watershed (cuenca hidrográfica) is the territory at the sides of a river's course as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37254 — the watershed]
+
 ## Sub lesson 2 — Lesson 15
 
 Lesson 15: the Ulúa river — born in the mountains of Intibucá as the Río Grande de Otoro, some 400 km through Santa Bárbara, Cortés, Yoro and Atlántida, fed by the Higuito, Mejocote, Lindo, Jicatuyo, Humuya and Sulaco, irrigating the Sula valley's banana, sugar cane, plantain, African palm, citrus, pasture and basic grains.
 
 In your mind's eye: lesson 15 as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37255 — the Ulúa's road]
 
 ## The key ideas
 

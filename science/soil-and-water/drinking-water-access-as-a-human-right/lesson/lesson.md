@@ -8,6 +8,8 @@ Venezuela's Grade 9 Colección Bicentenario book teaches water fully — what dr
 
 In your mind's eye: access to safe drinking water is a human right — something every person is owed simply for being a person — and with the right comes a duty: water that is a right for everyone must not be wasted by anyone. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37233 — the right and the duty]
+
 ## The key facts
 **A right, not a luxury.** Because no life is possible without water, access to drinking water is named a human right: every person, rich or poor, town or country, is owed enough safe water to drink and live. A right is not bought by merit and cannot fairly be refused.
 

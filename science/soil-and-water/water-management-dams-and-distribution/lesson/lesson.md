@@ -9,7 +9,11 @@ A **reservoir** — an *embalse* — is water held back and stored behind a **da
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37270 — the dam and reservoir]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37271 — the dry season]
 
 ## Sub lesson 2 — Controlled discharge and distribution
 

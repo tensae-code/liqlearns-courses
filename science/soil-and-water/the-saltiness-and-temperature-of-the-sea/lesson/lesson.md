@@ -9,7 +9,11 @@ A litre of seawater is not a litre of water. Something is dissolved in it — ho
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37266 — why the sea is salty]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37267 — saltier and less salty seas]
 
 ## Sub lesson 2 — Ocean temperature — warm top, cold deep
 

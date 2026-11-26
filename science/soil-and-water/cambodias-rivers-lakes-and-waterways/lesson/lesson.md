@@ -9,7 +9,11 @@ Cambodia's Grade 7 book gives its own country a chapter of Earth science: the **
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37223 — the land and its waters]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37224 — the reversing lake]
 
 ## Sub lesson 2 — The country's own geography as science
 

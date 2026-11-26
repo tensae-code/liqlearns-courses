@@ -9,7 +9,11 @@ A farmer has one well and a field of thirsty crops under a hot sun. Half the wat
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37250 — flood irrigation]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37251 — drip irrigation]
 
 ## Sub lesson 2 — A new modern irrigation system — the project
 

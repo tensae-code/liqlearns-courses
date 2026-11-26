@@ -9,7 +9,11 @@ Rain does not all run away: part of it **soaks into the ground** and collects th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37236 — the hidden store]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37237 — rain fills the store]
 
 ## Sub lesson 2 — Springs and artesian waters — where the hidden water comes out
 
@@ -17,7 +21,11 @@ Where the ground's surface cuts into the groundwater, the water comes out by its
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37238 — springs and wells]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37239 — water under pressure]
 
 ## The key ideas
 

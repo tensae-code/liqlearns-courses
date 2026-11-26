@@ -9,7 +9,11 @@ Insecticides: bio-insecticides made from plants insects dislike — the fermente
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37252 — the two kinds]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37253 — spray safely]
 
 ## Sub lesson 2 — The harm chemical insecticides do and the care their use demands
 
