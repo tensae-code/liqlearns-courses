@@ -10,6 +10,8 @@ trade revives, towns win charters from their lords, and merchants and guilds bui
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61364 — a new life inside the walls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5.2 Medieval European towns — trade revives, towns win charters from their lords, and merchants and guilds build a new kind of life inside the walls. Then let your companion ask you one hard question about it — answer from the lesson.

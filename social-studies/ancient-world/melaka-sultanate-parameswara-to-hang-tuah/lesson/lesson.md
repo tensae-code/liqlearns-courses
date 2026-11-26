@@ -10,11 +10,15 @@ Melaka's society stacks into rulers (sultan, then pembesar) and ruled (rakyat, t
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61383 — melakas order]
+
 ## Sub lesson 2 — Parameswara founds Melaka
 
 A Palembang prince flees Majapahit's attack, kills Temagi at Temasik, retreats before Siam through Muar and Sening Ujong, and at the Bertam river watches a white mousedeer kick his hunting dog into the water — a small creature beating a bigger one marks the lucky spot; he founds Melaka, named for the tree he leaned on (Sulalatus Salatin), "Malakat — gathering of trade" to the Arabs, Amalaka to India, on a monsoon-sheltered strait between the eastern and western sea roads (Unit 9: Parameswara founds Melaka)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 61384 — the mousedeer marks the spot]
 
 ## Sub lesson 3 — Tun Perak, the great bendahara
 
@@ -22,11 +26,15 @@ Bendahara to four sultans, Tun Perak first wins fame as Penghulu Klang, marching
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61385 — the great bendahara]
+
 ## Sub lesson 4 — Hang Tuah, the great laksamana
 
 A Sungai Duyung boy trained in silat rises under Sultan Mansur Shah; he outwits Taming Sari and wins his keris, leads the embassy to China and glimpses the emperor's face by a kangkung riddle, persuades Tun Teja to marry the sultan, defeats Majapahit's hired killers sent by Gajah Mada and saves Tun Perak from a man running amok — then, slandered and sentenced to death, is hidden away by the bendahara; as laksamana he guards Melaka's waters, keeps traders safe, hunts pirates and carries the sultan's proposal to the Puteri of Gunung Ledang (Unit 11: Hang Tuah, the great laksamana)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 61386 — the great laksamana]
 
 ## Sub lesson 5 — The glory of the Melaka Sultanate
 

@@ -10,6 +10,8 @@ Ardashir and Shapur revive Persia under the Sassanids, Arab conquerors bring Isl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61367 — sassanids to safavids]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §43 Iran in the Middle Ages — Ardashir and Shapur revive Persia under the Sassanids, Arab conquerors bring Islam, Seljuks and Mongols and Timur follow, and Shah Ismail's Safavids make Iran a Shi'a empire that Shah Abbas raises to its height. Then let your companion ask you one hard question about it — answer from the lesson.

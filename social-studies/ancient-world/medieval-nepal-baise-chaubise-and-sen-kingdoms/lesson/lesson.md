@@ -10,11 +10,15 @@ pupil groups research and present: the Baise states west of the Kali Gandaki and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61370 — many small kingdoms]
+
 ## Sub lesson 2 — The Rise and Fall of the Small Kingdoms in the Medieval Period
 
 beyond the valley, the Baise and Chaubise principalities and the Sen kingdoms of the hills and Terai rise, compete and weaken — the divided map that unification would later gather into one Nepal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61371 — rise compete weaken]
 
 ## Say it to your companion
 

@@ -12,6 +12,8 @@ In the West, empire dissolves into feudalism: kings weak at the centre, lords ru
 
 In your mind's eye: the medieval world in one view — Constantinople's walls, a Persian court, a feudal lord's castle and steppe horsemen on the horizon. The student points to each kind of rule and names it.
 
+[Picture 61381 — a dozen kinds of rule]
+
 ## Sub lesson 2 — The army in the Middle Ages
 
 The book then reads the same world through its soldiers: how medieval states raise and organise armies. Who must serve, who pays, who rides and who marches — each kind of state answers differently, the emperor with his paid troops, the feudal lord with the men his land owes, the steppe khan with a whole people in the saddle.

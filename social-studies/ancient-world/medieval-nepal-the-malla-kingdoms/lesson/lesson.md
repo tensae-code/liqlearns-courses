@@ -10,11 +10,15 @@ Nepal's history is periodised — ancient (Gopal, Mahispal, Kirat, Lichchhavi), 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61372 — the valley splits in three]
+
 ## Sub lesson 2 — Medieval Nepal — Political, Social and Economic Condition
 
 rival valley kings sometimes ally and sometimes invade, helped by Sen or Gorkha armies; society runs on caste and occupation, sati, child marriage and festivals like Indra Jatra, while Malla courts keep pandits and monastery schools, coin silver money, and grow rich trading with Tibet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61373 — courts caste and festivals]
 
 ## Sub lesson 3 — The Medieval Political Condition
 
@@ -22,11 +26,15 @@ after the Licchavis the Malla kings rule, Yaksha Malla's sons divide the valley 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61374 — three rival kingdoms]
+
 ## Sub lesson 4 — The Medieval Economic, Social and Cultural Condition
 
 medieval life is reconstructed whole — land and trade, caste-ordered society, festivals, and the pagoda art and craft that made the valley famous
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61375 — the pagoda valley]
 
 ## Say it to your companion
 

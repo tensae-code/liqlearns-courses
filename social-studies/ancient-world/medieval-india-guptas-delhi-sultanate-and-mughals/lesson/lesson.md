@@ -10,6 +10,8 @@ the Guptas give India a golden age, Turkish sultans rule from Delhi from 1206, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61365 — golden age to empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §44 India in the Middle Ages — the Guptas give India a golden age, Turkish sultans rule from Delhi from 1206, and Babur's victory in 1526 opens the Mughal empire that Akbar welds together. Then let your companion ask you one hard question about it — answer from the lesson.

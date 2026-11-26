@@ -10,6 +10,8 @@ four firsts are lined up as the seeds of modern institutions: the Medina Documen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61382 — four firsts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Landmarks of democracy in the Arab Islamic civilisation — four firsts are lined up as the seeds of modern institutions: the Medina Document as the first written constitution in history, the bay'a as the first election — Abu Bakr's opening sermon making obedience conditional on his own obedience to God — Saqifat Bani Sa'ida as the first parliament, a free platform of opinion and voting, and Umar's covenant to Jerusalem's Christians, preserving their churches and property, as the charter of coexistence between religions that held until the Crusader invasion shattered it. Then let your companion ask you one hard question about it — answer from the lesson.

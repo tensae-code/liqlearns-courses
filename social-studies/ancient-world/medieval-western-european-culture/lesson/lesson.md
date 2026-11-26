@@ -10,6 +10,8 @@ Gothic cathedrals, universities, troubadours and Dante — the culture of the hi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61379 — the high medieval west]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5.5 Western European culture — Gothic cathedrals, universities, troubadours and Dante — the culture of the high medieval West. Then let your companion ask you one hard question about it — answer from the lesson.

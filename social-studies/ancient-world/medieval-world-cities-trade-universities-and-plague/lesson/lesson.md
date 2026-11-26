@@ -10,6 +10,8 @@ Cities revive, new social actors and long-distance trade grow, universities are 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61380 — toward modernity shaken]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: El tránsito a la Edad Moderna (siglos XII–XV) — Cities revive, new social actors and long-distance trade grow, universities are founded — and great epidemics shake the old order toward modernity. Then let your companion ask you one hard question about it — answer from the lesson.

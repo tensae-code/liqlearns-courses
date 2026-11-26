@@ -10,6 +10,8 @@ the Taika reforms copy China's state, the Fujiwara rule behind emperors, Minamot
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61368 — emperors and shoguns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §46 Japan in the Middle Ages — the Taika reforms copy China's state, the Fujiwara rule behind emperors, Minamoto Yoritomo takes real power as shogun in 1192, and Tokugawa Ieyasu closes the story in 1603. Then let your companion ask you one hard question about it — answer from the lesson.

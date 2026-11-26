@@ -10,11 +10,15 @@ monasteries, cathedrals and the first universities shape a Latin Christian cultu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61377 — a latin christian culture]
+
 ## Sub lesson 2 — Chapter 8: Christian art in the Middle Ages — Romanesque and Gothic
 
 heavy Romanesque pilgrims' churches give way to Gothic cathedrals of light and glass
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61378 — from weight to light]
 
 ## Say it to your companion
 

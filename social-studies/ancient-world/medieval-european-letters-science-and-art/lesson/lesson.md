@@ -10,6 +10,8 @@ romances, scholastic universities and Gothic cathedrals crown medieval creativit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61363 — medieval creativity crowned]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6.II.4 Literature, science and art of medieval Europe — romances, scholastic universities and Gothic cathedrals crown medieval creativity. Then let your companion ask you one hard question about it — answer from the lesson.

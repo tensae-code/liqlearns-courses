@@ -10,6 +10,8 @@ Homes, clothes, tools, games and feasts — the material world medieval people t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61369 — the world they touched]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lessons 34–35: Material culture; games and entertainments — Homes, clothes, tools, games and feasts — the material world medieval people touched. Then let your companion ask you one hard question about it — answer from the lesson.
