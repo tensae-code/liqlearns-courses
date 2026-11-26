@@ -10,11 +10,15 @@ The Outlook calendar holds events and meetings on a day-by-day grid: an event is
 
 In your mind's eye: setting up common events in the calendar.
 
+[Picture 45833 — setting up common events in the calendar]
+
 ## Sub lesson 2 — How to schedule a meeting
 
 Calendar Events in Outlook is learned by doing: the learner sets up common events in the calendar, creates meetings with invitees, and reads the calendar by day, week and month The learner sets up common events in the calendar, creates meetings with invitees, and reads the calendar by day, week and month Because time is the one resource a school or office cannot make more of; the calendar makes commitments visible before they clash.
 
 In your mind's eye: how to schedule a meeting.
+
+[Picture 45834 — how to schedule a meeting]
 
 ## Say it to your companion
 

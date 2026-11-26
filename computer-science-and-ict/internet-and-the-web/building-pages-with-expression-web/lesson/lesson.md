@@ -10,11 +10,15 @@ Expression Web shows a page **two ways at once**: the **design view**, where the
 
 In your mind's eye: the visual editor — design view and code view.
 
+[Picture 45829 — the visual editor — design view and code view]
+
 ## Sub lesson 2 — Building the project pages — structure first, then dress
 
 The project pages are built in the term's order: the **structure** first — the page's headings, its lists of terms, its navigation links to the site's other pages — using the site's shared pattern so every page belongs visibly to one site; then the **dress** — the styles that give the dictionary its face. Each finished page is **previewed in a real browser**, because the editor's design view is a promise and the browser is the fact. Egypt's choice of a visual editor for the build, inside a course that also teaches raw HTML and PHP, is itself the lesson: tools change (Expression Web itself is retired), the two-view discipline — make it visually, verify it in code and in the browser — outlives every tool.
 
 In your mind's eye: building the project pages — structure first, then dress.
+
+[Picture 45830 — building the project pages — structure first, then dress]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **LAN messenger** is a messaging program that works on the school's **local ar
 
 In your mind's eye: the LAN messenger — talk inside the school network.
 
+[Picture 45837 — the LAN messenger — talk inside the school network]
+
 ## Sub lesson 2 — Sharing files and broadcasts — and the year's folder
 
 The messenger also **shares files**: a document or picture is sent to a classmate or the teacher as an attachment on the LAN, faster and simpler than carrying it on a drive. A **broadcast** sends one message to everyone signed in at once — the teacher's way to reach the whole class. Class V's end-of-year folder is sent to the teacher exactly this way: the year's work, handed in as a LAN-messenger attachment.
 
 In your mind's eye: sharing files and broadcasts — and the year's folder.
+
+[Picture 45838 — sharing files and broadcasts — and the year's folder]
 
 ## Say it to your companion
 

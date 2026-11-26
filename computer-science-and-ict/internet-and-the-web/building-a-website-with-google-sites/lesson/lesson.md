@@ -10,11 +10,15 @@ Vietnam's Applied Grade 12 project builds a real website in **Google Sites**, an
 
 In your mind's eye: preparing — content first, then the page header.
 
+[Picture 45823 — preparing — content first, then the page header]
+
 ## Sub lesson 2 — Body, footer, forms — and the links that join it
 
 The build continues down the page: the **body**, where the content sections live — text, images and layout blocks arranged for reading — and the **footer**, carrying contact and closing information. A website also **collects**: the project adds **forms** (with Google Forms) so visitors can answer, register or ask. Last, the parts are joined: **links and the navigation bar** connect the pages into one site, and the finished site is checked as a visitor would meet it — every link followed, every page reachable.
 
 In your mind's eye: body, footer, forms — and the links that join it.
+
+[Picture 45824 — body, footer, forms — and the links that join it]
 
 ## Say it to your companion
 

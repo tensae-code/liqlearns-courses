@@ -10,11 +10,15 @@ A **static page** shows **the same content to every visitor**. A **dynamic page*
 
 In your mind's eye: static and dynamic pages.
 
+[Picture 45819 — static and dynamic pages]
+
 ## Sub lesson 2 — Creating a static page with a framework
 
 A **framework** gives the builder **ready-made structure and styles, to build faster**. A simple information page — like a school information page — is a natural static page. To update a static page you **edit its files directly**, and before publishing you **test the page in a browser**.
 
 In your mind's eye: creating a static page with a framework.
+
+[Picture 45820 — creating a static page with a framework]
 
 ## Say it to your companion
 

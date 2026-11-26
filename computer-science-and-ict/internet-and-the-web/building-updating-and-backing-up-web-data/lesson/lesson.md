@@ -10,11 +10,15 @@ Data is **built up** as records arrive — appended by the programs of this unit
 
 In your mind's eye: building up and updating — the store at work.
 
+[Picture 45831 — building up and updating — the store at work]
+
 ## Sub lesson 2 — Backing up — the copy that outlives the accident
 
 A **backup** is a **copy of the whole store**, made regularly and kept **apart** from the working copy — another folder, another device — so that the accident that takes one does not take both. Backing up web data in this unit means copying the text files on a rhythm (after each day's work, each week) and **testing** that a copy can actually be read back: an untested backup is a hope, not a backup. Malaysia's close is the duty stated plainly: data kept for others is a trust; building it carefully and then losing it for want of a copy is the one fault this unit calls unforgivable.
 
 In your mind's eye: backing up — the copy that outlives the accident.
+
+[Picture 45832 — backing up — the copy that outlives the accident]
 
 ## Say it to your companion
 

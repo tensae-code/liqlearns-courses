@@ -10,11 +10,15 @@ A school website serves named **audiences** — pupils, parents, teachers, visit
 
 In your mind's eye: planning the school's site — audience and pages.
 
+[Picture 45827 — planning the school's site — audience and pages]
+
 ## Sub lesson 2 — Building and judging the project
 
 Building follows the plan page by page in the **format** the unit taught — the HTML structure under every page, headings, text, pictures and links in their places — and the project is **judged as a whole**: does the visitor reach every answer in a few clicks; do the pages look like one site; does it open correctly and read clearly on the devices its audience actually has? The unit's final lesson then re-does this project with AI help, so this first build is deliberately by hand: a pupil who has built a site unaided can judge what the machine later offers, and a pupil who has not, cannot. That is Egypt's order, and this lesson keeps it.
 
 In your mind's eye: building and judging the project.
+
+[Picture 45828 — building and judging the project]
 
 ## Say it to your companion
 
