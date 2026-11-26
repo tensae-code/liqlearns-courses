@@ -16,16 +16,22 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 the Mongol deluge, and the Kartids of Herat keeping a state alive inside it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61411 — a state inside the deluge]
 ## Sub lesson 3 — Lesson 12: Timur Gurkani and his successors
 
 Timur rebuilds an empire over the ruins and his successors hold it from Herat and Samarkand
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61412 — timur and his successors]
 ## Sub lesson 4 — Lesson 13: Economy and culture in Mongol and Timurid times
 
 the same centuries are read a second time for their economies and their brilliant Timurid culture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61413 — economy and culture]
 
 ## Say it to your companion
 

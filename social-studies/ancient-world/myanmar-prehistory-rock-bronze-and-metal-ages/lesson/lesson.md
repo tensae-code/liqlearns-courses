@@ -10,6 +10,8 @@ Myanmar's first people knap stone: they chip rock into tools, and stone is their
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 61420 — stone first]
+
 ## Sub lesson 2 — Bronze, then iron — the Metal Ages
 
 Then bronze is cast, then iron is worked: each new metal buys people new power over nature, while the guide stresses how they lived in harmony with their environment as their technology gradually improved.

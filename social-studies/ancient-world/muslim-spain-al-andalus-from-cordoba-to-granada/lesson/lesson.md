@@ -10,11 +10,15 @@ A refugee Umayyad prince refounds his dynasty at Cordoba, the caliphate shatters
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61418 — cordoba to granada]
+
 ## Sub lesson 2 — The fall of Granada and the expulsion of the Muslims from al-Andalus
 
 In 1492 Granada surrenders, eight centuries of Muslim Spain end, and its people are expelled across the sea to North Africa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61419 — 1492 the end]
 
 ## Say it to your companion
 

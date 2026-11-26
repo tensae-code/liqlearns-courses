@@ -10,6 +10,8 @@ In 712 the young Umayyad general Muhammad bin Qasim lands in Sindh, defeats Raja
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61415 — 712 the door opens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Muhammad bin Qasim and the coming of Islam to Sindh. Then let your companion ask you one hard question about it — answer from the lesson.
