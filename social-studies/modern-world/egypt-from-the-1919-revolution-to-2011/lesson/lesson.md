@@ -10,6 +10,8 @@ The protectorate of 1914 and Saad Zaghloul's exile fired the revolution of 1919;
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63081 — from 1919 to 2011]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt — from the 1919 revolution to 2011. Then let your companion ask you one hard question about it — answer from the lesson.

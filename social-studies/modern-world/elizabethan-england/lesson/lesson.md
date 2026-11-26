@@ -10,11 +10,15 @@ Elizabeth holds a divided kingdom together for 45 years, defeats the Armada (158
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63082 — forty-five years together]
+
 ## Sub lesson 2 — Elisabetta I regina d'Inghilterra; La sconfitta dell'Invincibile Armata
 
 Elizabeth (Personaggi) holds England Protestant and beats the Armada; female monarchy itself is put on trial by the age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63083 — a female monarchy on trial]
 
 ## Say it to your companion
 

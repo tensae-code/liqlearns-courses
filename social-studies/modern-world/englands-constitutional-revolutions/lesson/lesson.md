@@ -10,6 +10,8 @@ England tries its king, then binds the crown with habeas corpus and a bill of ri
 
 In your mind's eye: an English courtroom and parliament on one side and Voltaire writing about England on the other. Say what bound the crown and why Voltaire praised England.
 
+[Picture 63085 — power fenced in by law]
+
 ## Sub lesson 2 — Voltaire and the English model
 
 Voltaire praises English liberty to shame France — and the manual asks how free England really was: the model is praised, then nuanced.

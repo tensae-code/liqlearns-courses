@@ -10,6 +10,8 @@ pollution crosses every border, so states are forced to cooperate over air, wate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63097 — cooperation across borders]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 1 §4: environmental cooperation — pollution crosses every border, so states are forced to cooperate over air, water and climate whether they like each other or not. Then let your companion ask you one hard question about it — answer from the lesson.

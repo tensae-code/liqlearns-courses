@@ -10,6 +10,8 @@ Kings who read philosophers try to modernise their states without sharing power.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63093 — modernise without sharing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.1.6 Enlightened absolutism. Then let your companion ask you one hard question about it — answer from the lesson.

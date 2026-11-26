@@ -10,11 +10,15 @@ five powers now rule Europe's balance; Joseph II's tolerance and serfdom patents
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63091 — poland carved up]
+
 ## Sub lesson 2 — §14: Absolutismul luminat în Europa în secolul al XVIII-lea
 
 Joseph II issues the Patent abolishing serfdom, Catherine II preaches citizens' equality under the same laws, and Peter I's reforms are the case study of modernisation from the throne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63092 — modernisation from the throne]
 
 ## Say it to your companion
 

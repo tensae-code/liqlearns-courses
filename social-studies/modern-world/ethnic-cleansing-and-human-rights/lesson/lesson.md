@@ -10,6 +10,8 @@ Ethnic cleansings and human-rights violations are studied as the dark face of co
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63098 — the dark face]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Limpiezas étnicas y violación de los derechos humanos — Ethnic cleansings and human-rights violations are studied as the dark face of contemporary geopolitics. Then let your companion ask you one hard question about it — answer from the lesson.

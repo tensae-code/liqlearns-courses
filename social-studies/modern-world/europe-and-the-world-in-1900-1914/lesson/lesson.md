@@ -10,6 +10,8 @@ dreadnoughts, ententes and Balkan nationalisms load the belle époque's bright s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63101 — a bright surface a coming war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 6, Cap. 20 §§1–5 The contrasts in Europe and the awakening of the Far East; New alliances and new conflicts; The belle époque and its contradictions; Wilhelmine Germany; The nationality conflicts in the Austro-Hungarian Empire — dreadnoughts, ententes and Balkan nationalisms load the belle époque's bright surface with the coming war. Then let your companion ask you one hard question about it — answer from the lesson.

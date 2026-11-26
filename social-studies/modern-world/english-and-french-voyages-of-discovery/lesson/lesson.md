@@ -10,11 +10,15 @@ England and france follow late into the race, planting flags and claims across n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63086 — late into the race]
+
 ## Sub lesson 2 — Discovery voyages to the North and South Poles
 
 The race for new lands ends at the earth's frozen ends, the last blank spaces on the map.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63087 — the last blank spaces]
 
 ## Say it to your companion
 

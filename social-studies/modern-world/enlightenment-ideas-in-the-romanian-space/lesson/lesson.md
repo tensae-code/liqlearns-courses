@@ -10,6 +10,8 @@ despite the Phanariote burden, ties with Europe accelerate cultural modernisatio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63096 — enlightenment enters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 15: Afirmarea ideilor iluministe în spațiul românesc — despite the Phanariote burden, ties with Europe accelerate cultural modernisation — enlightenment enters schools, literature and art. Then let your companion ask you one hard question about it — answer from the lesson.

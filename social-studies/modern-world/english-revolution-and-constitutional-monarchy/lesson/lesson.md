@@ -10,11 +10,15 @@ Charles I storms Parliament to arrest its leaders and starts a civil war; Cromwe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63089 — parliament supreme]
+
 ## Sub lesson 2 — Bourgeois revolutions — England
 
 Parliament executes a king, survives Cromwell and a restoration, and in 1688–89 settles power in Parliament for good
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63090 — settled for good]
 
 ## Say it to your companion
 

@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Egypt negotiates and n
 Egypt negotiates and nationalises; Vietnam fights — its southern revolutionary front, the Viet Cong of 1960, takes the Vietnamese Liberation Army's path to unity even by force
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63079 — two liberation roads]
 ## Sub lesson 2 — Lesson 5: Liberation models — Egypt and Vietnam
 
 Two models side by side — Egypt's road and Vietnam's armed road
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63080 — side by side]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Article 16 guarantees all citizens' equality; Ukrainians, Bulgarians, Gagauz and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63099 — cultures alive in chisinau]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 50: Minoritățile etnice din Republica Moldova — Article 16 guarantees all citizens' equality; Ukrainians, Bulgarians, Gagauz and Poles mostly school in Russian, the Chekhov Russian theatre and the Lesya Ukrainka library keep cultures alive in Chișinău. Then let your companion ask you one hard question about it — answer from the lesson.

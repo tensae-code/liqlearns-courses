@@ -10,11 +10,15 @@ Frederick II, Maria Theresa, Joseph II and Catherine rule by reason from above; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63094 — rule by reason]
+
 ## Sub lesson 2 — Modulo 1, Cap. 3 §§8–9 Enlightened absolutism; Reformism in Italy
 
 monarchs borrow the philosophes to strengthen the state; Beccaria's utility of punishments (Fare storia) shows Italy exporting reform ideas to all Europe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63095 — italy exports reform]
 
 ## Say it to your companion
 
