@@ -10,17 +10,23 @@ the Nguyễn court surrenders to France, but in 1885 King Hàm Nghi issues the C
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39663 — hidden]
+
 ## Sub lesson 2 — Bài 13, the Cần Vương movement against the French
 
 after the 1884 treaty recognises the French protectorate, the war faction around young King Hàm Nghi and Tôn Thất Thuyết proclaims the Cần Vương edict in 1885 and risings spread nationwide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39662 — risings]
+
 ## Sub lesson 3 — Bài 18, the Cần Vương movement breaks out, 1885
 
 after the Patenôtre treaty a war party still stands in the Huế court around Tôn Thất Thuyết, Minister of War, who builds forces, stockpiles food and weapons and puts the boy Hàm Nghi on the throne; when his counterattack on the French in the capital fails on 5 July 1885 he carries the king to Tân Sở in Quảng Trị and, in Hàm Nghi's name, issues the Cần Vương edict — the Appeal to Aid the King — calling literati and people across the country to rise; the movement burns to the century's end
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39661 — edict]
 
 ## Say it to your companion
 

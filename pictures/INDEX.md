@@ -10985,3 +10985,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45857 | pictures/45857.webp | two drawn panels — installing with its full progress bar, then Success with the site address and a Log In button | ICT — Internet and the Web — Creating a WordPress Site — Password and Setup |
 | 45858 | pictures/45858.webp | three drawn planning cards — AUDIENCE who is it for, PURPOSE why, FORM a post a video a page | ICT — Internet and the Web — Creating Online Content |
 | 45859 | pictures/45859.webp | three drawn seal cards — HONESTY, CREDIT, SAFETY — each with its ticked seal and plain rule | ICT — Internet and the Web — Creating Online Content |
+| 39642 | pictures/39642.webp | SS — Modern World — the Nguyen Sang centenary exhibition, visitors before his painting | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39643 | pictures/39643.webp | SS — Modern World — To Ngoc Van at his easel on the road to Dien Bien Phu | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39644 | pictures/39644.webp | SS — Modern World — the architect and the sculptor, Ho Chi Minh Prize 1996 | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39645 | pictures/39645.webp | SS — Modern World — the Indochina Fine Arts School of 1925, a student painting with perspective | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39646 | pictures/39646.webp | SS — Modern World — Tue Tinh with his book of prescriptions and herb garden | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39647 | pictures/39647.webp | SS — Modern World — the Tale of Kieu open, Thuy Kieu with her lute | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39648 | pictures/39648.webp | SS — Modern World — one of the Nine Urns of Hue under the citadel wall | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39649 | pictures/39649.webp | SS — Modern World — the carved beam of a communal house, the carver at work | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39650 | pictures/39650.webp | SS — Modern World — the emperor's five-claw dragon in a golden medallion | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39651 | pictures/39651.webp | SS — Modern World — Thang Long in three rings, the One Pillar Pagoda at its heart | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39652 | pictures/39652.webp | SS — Modern World — a painter at his easel in Hang Bac street | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39653 | pictures/39653.webp | SS — Modern World — four dynasties, four materials: stone, wood, ceramic, lacquer | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39654 | pictures/39654.webp | SS — Modern World — three scripts in a row: chu Han, chu Nom, chu Quoc ngu | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39655 | pictures/39655.webp | SS — Modern World — the river of time: stone tools, Van Lang, Cham-pa, Phu Nam | Social Studies — Modern World — Vietnam Cultural History In Outline |
+| 39656 | pictures/39656.webp | SS — Modern World — two teams digging toward the tapping, the termite-mound entrance | Social Studies — Modern World — Vietnam Cu Chi Tunnels |
+| 39657 | pictures/39657.webp | SS — Modern World — the Cu Chi underground world: meeting room, stores, well, kitchen, clinic, school | Social Studies — Modern World — Vietnam Cu Chi Tunnels |
+| 39658 | pictures/39658.webp | SS — Modern World — five constitution books, 1946 to 2013, and the 2025 amendment | Social Studies — Modern World — Vietnam Constitutions 1946 To 2025 |
+| 39659 | pictures/39659.webp | SS — Modern World — Phan Chau Trinh's three panels: intellect, spirit, livelihood | Social Studies — Modern World — Vietnam Central Vietnam Patriotic Movements |
+| 39660 | pictures/39660.webp | SS — Modern World — the Centre's three banners: Huong Khe, the anti-tax march, Nghe-Tinh Soviets | Social Studies — Modern World — Vietnam Central Vietnam Patriotic Movements |
+| 39661 | pictures/39661.webp | SS — Modern World — the boy king Ham Nghi leaves Hue, the Can Vuong edict carried beside him | Social Studies — Modern World — Vietnam Can Vuong And Ham Nghi |
+| 39662 | pictures/39662.webp | SS — Modern World — the edict and the risings spreading across the country, 1885 | Social Studies — Modern World — Vietnam Can Vuong And Ham Nghi |
+| 39663 | pictures/39663.webp | SS — Modern World — the highland villages hide their king, rice bowls in hand | Social Studies — Modern World — Vietnam Can Vuong And Ham Nghi |
+| 39664 | pictures/39664.webp | SS — Modern World — the northern border ridge, five province shields, the broken arrow of 1979 | Social Studies — Modern World — Vietnam Border Wars And Gac Ma |
+| 39665 | pictures/39665.webp | SS — Modern World — the Ba Chuc memorial candle and the road to a freed Phnom Penh | Social Studies — Modern World — Vietnam Border Wars And Gac Ma |

@@ -22,11 +22,15 @@ the neighbour Vietnam helped liberate turns its guns on Vietnamese villages, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39665 — candle]
+
 ## Sub lesson 4 — Bài 9 The Northern border war: relations sour from mid-1975 as China cuts aid and provokes along the frontier; on the morning of 17-2-1979 hundreds of thousands of Chinese troops attack along more than 1,000 km from Móng Cái to Phong Thổ, and six border provinces' army and people defeat the "quick attack, quick victory" aim at Lạng Sơn, Cao Bằng and Lào Cai; China declares withdrawal from 5-3-1979, yet the frontier stays tense to late 1989 — at Vị Xuyên alone some 5,000 soldiers fall in 1984–1989
 
 the ally of the resistance years becomes the invader of 1979, and the border war's tail lasts a full decade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39664 — border]
 
 ## Say it to your companion
 

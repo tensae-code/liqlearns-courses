@@ -10,11 +10,15 @@ some 250 km of tunnels on three levels, 3–12 m deep, hide meeting rooms, store
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39657 — underground]
+
 ## Sub lesson 2 — Bài 26, digging the tunnels and the war underground
 
 teams dig toward the tapping sounds of the team opposite, hide the soil in the river, disguise entrances as termite mounds, and hold out against US sweeps, bombs and poison — "land of steel, wall of bronze"
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39656 — digging]
 
 ## Say it to your companion
 
