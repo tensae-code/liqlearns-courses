@@ -10,11 +10,15 @@ A robot arm like the book’s **Braccio** is a chain of joints, and at each join
 
 In your mind's eye: a robot arm with each joint circled and labelled — base, shoulder, elbow, wrist, gripper. And the Arduino board drawn at its foot with wires to every servo.
 
+[Picture 46926 — a robot arm with each joint circled and labelled — base, shoulder, elbow, wrist, gripper. And the Arduino board drawn at its foot with wires to every servo]
+
 ## Sub lesson 2 — The Python interface that drives it
 
 The human’s place in the loop is the **HMI — the human–machine interface** (in French, IHM). In the book’s build it is a **Python** window made with **Tkinter**: a slider or buttons for each joint, showing its current angle. The user drags the elbow slider; the program sends the new target **over the serial link** (the USB cable, used as a serial connection) to the Arduino; the board drives that servo; the arm bends. Command by command, the user composes a grip: approach, align, close, lift. The interface is not decoration — it is the half of the system where judgement lives, because this arm has no eyes: the human sees the cup, judges the angles, and corrects. Automate the sequence later if you wish — record the angles of a successful grip and replay them — but the book’s order is the honest one: first a human driving through an interface, understanding every stage a command crosses: mouse, window, serial link, board, servo, joint.
 
 In your mind's eye: the chain drawn left to right: a hand on a slider, the Python window, the USB cable, the Arduino, the arm bending — one arrow per stage.
+
+[Picture 46927 — the chain drawn left to right: a hand on a slider, the Python window, the USB cable, the Arduino, the arm bending — one arrow per stage]
 
 ## Say it to your companion
 

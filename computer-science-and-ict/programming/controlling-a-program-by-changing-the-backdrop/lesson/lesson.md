@@ -10,6 +10,8 @@ Events start scripts, and a backdrop change is an event. The block **when backdr
 
 In your mind's eye: a stage switching from a room backdrop to a forest backdrop, with a script topped by a when-backdrop-switches-to-forest block waking up as the switch happens.
 
+[Picture 46925 — a stage switching from a room backdrop to a forest backdrop, with a script topped by a when-backdrop-switches-to-forest block waking up as the switch happens]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: when the backdrop switches, scripts topped by that backdrop's event start, so each scene of the project controls itself. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

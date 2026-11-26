@@ -10,11 +10,15 @@ A **constant** is a name whose value is fixed before the program runs and never 
 
 In your mind's eye: names that never change — TRUE and FALSE.
 
+[Picture 46919 — names that never change — TRUE and FALSE]
+
 ## Sub lesson 2 — Levels and directions — HIGH/LOW, INPUT/OUTPUT
 
 The pin pairs complete the set. **HIGH** and **LOW** name a pin's two levels — the voltage present or absent — used with digitalWrite and returned by digitalRead. **INPUT** and **OUTPUT** name a pin's two directions, given to pinMode. Four names, and the whole conversation with the board is written in them: set this pin OUTPUT, write it HIGH, read that INPUT pin until it is TRUE-ly pressed. Constants are the language keeping its promises: HIGH means the same in every sketch ever written, which is why programs use the names and never the bare numbers.
 
 In your mind's eye: levels and directions — HIGH/LOW, INPUT/OUTPUT.
+
+[Picture 46920 — levels and directions — HIGH/LOW, INPUT/OUTPUT]
 
 ## Say it to your companion
 

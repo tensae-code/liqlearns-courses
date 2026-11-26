@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Constants and Variables: §1.3.1
 
 In your mind's eye: constants and Variables. §1.3.1 Constants.
 
+[Picture 46917 — constants and Variables. §1.3.1 Constants]
+
 ## Sub lesson 2 — Constants in C Integer Real Character
 
 This part of Pakistan (Punjab)'s book teaches **Constants in C Integer Real Character** — covering: Chapter 9 §9.4 Constants (§9.4.1 numeric constants — integer and floating point; §9.4.2 character constants — one character in apostrophes). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: constants in C Integer Real Character.
+
+[Picture 46918 — constants in C Integer Real Character]
 
 ## Say it to your companion
 

@@ -16,6 +16,8 @@ This is the **review lesson** for the Computer unit — the book's own 'question
 
 In your mind's eye: a review desk with a computer, a WordPad page with bold and coloured words, a Paint drawing with a caption, and a Calculator showing an answer.
 
+[Picture 46912 — a review desk with a computer, a WordPad page with bold and coloured words, a Paint drawing with a caption, and a Calculator showing an answer]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This review checks the whole Computer unit: the computer and its parts, lab behaviour rules, keyboard and mouse, the desktop and windows, WordPad, formatting, Paint, pictures with text, and Calculator. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

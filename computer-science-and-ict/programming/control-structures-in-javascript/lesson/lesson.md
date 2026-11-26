@@ -10,11 +10,15 @@ JavaScript chooses with **if (condition) { … } else if (condition) { … } els
 
 In your mind's eye: selection — if, else if, else.
 
+[Picture 46923 — selection — if, else if, else]
+
 ## Sub lesson 2 — Repetition — for and while in the page
 
 JavaScript repeats with **for** — for (let i = 1; i <= 5; i++) { … } gathers start, test and step in one line, for a count known in advance — and **while** — while (condition) { … } repeats until its test fails, for a count known only by the running. The loop's **body must move the test toward ending** (i++ inside the for's line; the change written inside a while's body), or the page hangs in an endless loop — the browser's most public fault. Malaysia's scripts use the pair for the page's repetitive work: listing items, checking each field of a form, totalling a column of marks.
 
 In your mind's eye: repetition — for and while in the page.
+
+[Picture 46924 — repetition — for and while in the page]
 
 ## Say it to your companion
 

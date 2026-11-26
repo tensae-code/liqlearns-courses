@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Some Terms Used in Programming
 
 In your mind's eye: , Some Terms Used in Programming. Constant.
 
+[Picture 46915 — Some Terms Used in Programming. Constant]
+
 ## Sub lesson 2 — Doing it — Constants a Value That Stays the Same in practice
 
 **Doing it — Constants a Value That Stays the Same in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Constants a Value That Stays the Same in practice.
+
+[Picture 46916 — doing it — Constants a Value That Stays the Same in practice]
 
 ## Say it to your companion
 
