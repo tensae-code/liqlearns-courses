@@ -10,6 +10,8 @@ Zarathustra preaches one god, Ahura Mazda, and the war of good against evil; the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61997 — one god good against evil]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§23–24 Zoroastrianism — Zarathustra preaches one god, Ahura Mazda, and the war of good against evil; the Avesta's faith, born on this soil, shapes Persia and the world's religions. Then let your companion ask you one hard question about it — answer from the lesson.

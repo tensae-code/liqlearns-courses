@@ -10,6 +10,8 @@ Duklja's crown survives as an appanage inside a bigger Slav kingdom.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61994 — a crown inside a kingdom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.4 Zeta in the Nemanjić state: Stefan Nemanja gives Zeta with Trebinje to his eldest son Vukan, who bears a king's title; Zeta keeps a special position inside the Serbian state. Then let your companion ask you one hard question about it — answer from the lesson.

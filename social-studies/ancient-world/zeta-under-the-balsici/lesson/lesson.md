@@ -10,6 +10,8 @@ As an empire cracks, a coastal family carves out a lordship between sultan and r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61995 — between sultan and republic]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.1 Zeta in the age of the Balšići. Then let your companion ask you one hard question about it — answer from the lesson.

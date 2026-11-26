@@ -10,6 +10,8 @@ in a Levant ground between Roman occupation and a distorted religion, Hannah vow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61989 — a prayer in the sanctuary]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Zakariya, Yahya and Maryam bint Imran — in a Levant ground between Roman occupation and a distorted religion, Hannah vows her unborn child to the service of al-Aqsa and bears a girl, Maryam, who is raised in seclusion in the sanctuary under her uncle Zakariya's care, fed with out-of-season fruit; seeing her devotion, the aged Zakariya prays in that very place for a child and is given Yahya, who takes the Book firmly from childhood — the first reformer of his age. Then let your companion ask you one hard question about it — answer from the lesson.

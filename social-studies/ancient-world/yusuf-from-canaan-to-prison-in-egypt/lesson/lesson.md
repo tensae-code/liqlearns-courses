@@ -10,6 +10,8 @@ Yusuf, eleventh of Yaqub's twelve sons in Canaan, dreams of eleven stars and the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61988 — from the well to the prison]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Prophet of God Yusuf — yusuf, eleventh of Yaqub's twelve sons in Canaan, dreams of eleven stars and the sun and moon bowing to him, his jealous brothers throw him into a well, a trade caravan fishes him out and sells him in Egypt to the Aziz, whose wife he refuses at the price of prison — and in prison the servant of God becomes a teacher, reading the dreams of the cupbearer and the baker. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The Crnojevići rule a shrinking mountain state while Venice eats its coast and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61996 — a shrinking mountain state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.4.2 Zeta (Montenegro) in the age of the Crnojevići: Venice seizes Ulcinj, Budva, Bar and Drivast and masters the whole Zeta coast; the Serbian despot Stefan Lazarević pushes the Venetians back from Bar and Drivast. Then let your companion ask you one hard question about it — answer from the lesson.

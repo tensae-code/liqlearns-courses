@@ -10,11 +10,15 @@ Yemenis sick of Abbasid governors' wars invite Yahya bin al-Husayn al-Rassi, al-
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61992 — invited to found a state]
+
 ## Sub lesson 2 — Yemeni states that contributed to the Islamic civilisation: the Zaydi state (Unit 4 Lesson 2)
 
 a delegation of Yemeni tribal leaders invites Yahya ibn al-Husayn al-Rassi from Medina; he takes the title al-Hadi ila al-Haqq, founds the Zaydi state at Saada (284 AH), and its schools and "hijar al-'ilm" make Saada a meeting point of scholars while al-Hadi himself writes works of tafsir, hadith and law
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61993 — saada a meeting of scholars]
 
 ## Say it to your companion
 
