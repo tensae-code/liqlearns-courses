@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: one of Poland's first stone churches and its carved cathedral doors. The student points to the stone joining Poland to Europe's story.
 
+[Picture 61481 — first stone churches]
+
 ## Sub lesson 3 — Europe's story, in Polish stone
 
 Within a generation of its baptism, Poland joins Europe's story in stone.

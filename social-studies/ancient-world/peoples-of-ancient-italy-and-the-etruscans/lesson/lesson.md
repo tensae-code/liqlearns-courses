@@ -10,6 +10,8 @@ Aeneas flees burning Troy for Italy in legend; in fact Latins, Samnites and Sabi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61470 — man and the peninsula]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea V, Lecția 1: Omul și mediul în Peninsula Italică — Aeneas flees burning Troy for Italy in legend; in fact Latins, Samnites and Sabines share the peninsula while the religious Etruscans read the gods' will in signs. Then let your companion ask you one hard question about it — answer from the lesson.

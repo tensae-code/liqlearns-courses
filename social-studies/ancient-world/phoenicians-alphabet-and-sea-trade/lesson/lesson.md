@@ -10,6 +10,8 @@ The sea-people of the Levant coast take their place beside river-born Egypt and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61476 — a civilisation of ships and letters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Civilisation of Phoenicia. Then let your companion ask you one hard question about it — answer from the lesson.

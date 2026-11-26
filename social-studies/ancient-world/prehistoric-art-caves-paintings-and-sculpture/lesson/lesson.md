@@ -10,6 +10,8 @@ Painted cave walls and carved figures appear — the first images humans made of
 
 In your mind's eye: a painted cave wall from prehistory. Say why these first images matter and why they must be preserved.
 
+[Picture 61482 — the first images]
+
 ## Sub lesson 2 — The imagination of the first villagers
 
 The first settled villagers carve sculpture and raise megaliths — settled life invents new images of the unseen world (Séance 7, L'imaginaire des premiers villageois / Un art préhistorique (2))

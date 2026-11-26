@@ -10,6 +10,8 @@ the Hittite kingdom rises and falls by 1200 BCE, Phoenician sailors from Byblos,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61474 — the eastern mediterranean]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §9 Phoenicia and the civilisations of the Eastern Mediterranean — the Hittite kingdom rises and falls by 1200 BCE, Phoenician sailors from Byblos, Sidon and Tyre plant colonies and hand the world a 22-letter alphabet, and Nebuchadnezzar takes Jerusalem in 587 BCE. Then let your companion ask you one hard question about it — answer from the lesson.

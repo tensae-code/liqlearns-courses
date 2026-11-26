@@ -10,6 +10,8 @@ Phoenician traders settle on the island, build colonies and temples, and change 
 
 In your mind's eye: the key place or moment of Phoenicians in Cyprus as the book shows it. Point to it and say what it shows.
 
+[Picture 61477 — phoenicians in cyprus]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the Phoenicians in Cyprus. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Before any state, power sits with Big Men in patrilineal societies and chiefs in
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61460 — power before the state]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture of dominant and minority groups — before any state, power sits with Big Men in patrilineal societies and chiefs in the matrilineal island societies where women hold wealth — and colonisation's "each for himself" teaching corrodes the old duty of care toward minorities. Then let your companion ask you one hard question about it — answer from the lesson.

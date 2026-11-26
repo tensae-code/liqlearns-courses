@@ -10,6 +10,8 @@ Burials, images and objects are the only voice left by people who thought deeply
 
 In your mind's eye: the key place or moment of Palaeolithic minds and cave art as the book shows it. Point to it and say what it shows.
 
+[Picture 61459 — thought without writing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: what Palaeolithic people thought and how they expressed it. Then let your companion ask you one hard question about it — answer from the lesson.

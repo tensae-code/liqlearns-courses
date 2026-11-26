@@ -10,6 +10,8 @@ Arrows on a map show goods flowing between peoples long before Europeans — stu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61467 — goods flowing before europeans]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 11.1 traditional trade routes activity — arrows on a map show goods flowing between peoples long before Europeans — students name the trade items and explain what the trade meant to everyone it touched. Then let your companion ask you one hard question about it — answer from the lesson.

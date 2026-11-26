@@ -10,11 +10,15 @@ the Jacquerie and Wat Tyler's rebels shake two kingdoms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61468 — two kingdoms shaken]
+
 ## Sub lesson 2 — §16 Peasant uprisings in France and England
 
 the Jacquerie and the English rising of 1381 demand an end to serfdom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61469 — an end to serfdom]
 
 ## Say it to your companion
 
