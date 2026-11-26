@@ -10,6 +10,8 @@ The native press carries progress into Malay-reading homes while Islamic moderni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63724 — press and reform]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 3.A.2-3 Pers Membawa Kemajuan / Modernisme dan Reformasi Islam. Then let your companion ask you one hard question about it — answer from the lesson.

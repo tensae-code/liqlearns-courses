@@ -10,6 +10,8 @@ On 17 August 1945 Sukarno reads the short text, the red-and-white sewn by Fatmaw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63725 — 17 august 1945]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab IV.C Detik-Detik Proklamasi. Then let your companion ask you one hard question about it — answer from the lesson.

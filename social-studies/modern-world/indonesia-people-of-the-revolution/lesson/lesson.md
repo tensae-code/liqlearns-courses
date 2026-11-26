@@ -10,6 +10,8 @@ The revolution's other armies — women in public kitchens and the front line, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63722 — the revolutions other armies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 1.E Peran Rakyat dalam Revolusi Nasional. Then let your companion ask you one hard question about it — answer from the lesson.

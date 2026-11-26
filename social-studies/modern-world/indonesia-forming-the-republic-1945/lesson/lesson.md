@@ -10,6 +10,8 @@ In the days after the Proclamation the PPKI writes a constitution, elects Sukarn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63706 — a state assembled in days]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 1.A Pembentukan Negara dan Pemerintahan Republik Indonesia. Then let your companion ask you one hard question about it — answer from the lesson.

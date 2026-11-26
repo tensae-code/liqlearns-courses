@@ -10,11 +10,15 @@ In the Moluccas, Pattimura leads the 1817 rising against the returning Dutch and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63720 — executed at fort victoria]
+
 ## Sub lesson 2 — Bab 2.B.2 Pattimura Angkat Senjata
 
 The ex-sergeant Pattimura takes Fort Duurstede on Saparua and leads Maluku's 1817 rising.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63721 — fort duurstede taken]
 
 ## Say it to your companion
 

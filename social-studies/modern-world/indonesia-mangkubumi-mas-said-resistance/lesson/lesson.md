@@ -10,6 +10,8 @@ Insulted by VOC interference at the Surakarta court, Prince Mangkubumi and his s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63714 — 13000 men rise]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.A.8 Perlawanan Pangeran Mangkubumi dan Mas Said. Then let your companion ask you one hard question about it — answer from the lesson.

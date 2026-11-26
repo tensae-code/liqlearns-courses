@@ -10,11 +10,15 @@ The 1966-67 transition hands power from Sukarno to Suharto; the guide demands a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63716 — not black and white]
+
 ## Sub lesson 2 — Bab 3.B Penguatan Negara dan Kelemahan Kebijakan Orde Baru
 
 The New Order fuses parties into a three-colour politics, makes the economy the commander of development through the Pelita plans, and enforces hegemony through social and cultural life — stability with a price the chapter itemises.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63717 — stability with a price]
 
 ## Say it to your companion
 

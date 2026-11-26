@@ -10,6 +10,8 @@ The 30 September 1965 Movement murders six generals, the book lays out the compe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63708 — 30 september 1965]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2.E Kemelut Pergantian Kekuasaan. Then let your companion ask you one hard question about it — answer from the lesson.

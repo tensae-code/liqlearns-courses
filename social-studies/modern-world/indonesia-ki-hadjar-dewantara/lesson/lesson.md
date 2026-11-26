@@ -10,6 +10,8 @@ The Javanese aristocrat who drops his noble title, founds Taman Siswa, and with 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63709 — nothing but a happy heart]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A.1 Mengapa Perlu Mempelajari Ilmu Sejarah?, Kisah Ki Hadjar Dewantara. Then let your companion ask you one hard question about it — answer from the lesson.

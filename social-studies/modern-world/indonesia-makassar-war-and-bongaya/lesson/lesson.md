@@ -10,11 +10,15 @@ Sultan Hasanuddin's Makassar defends Fort Samba Opu against the VOC until 1669, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63712 — bongaya opens the south]
+
 ## Sub lesson 2 — Bab 2.A.5 Perlawanan Goa
 
 Gowa's Makassarese sailors and sultans fight the company for the eastern trade until defeat is sealed at Bongaya.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63713 — defeat sealed at bongaya]
 
 ## Say it to your companion
 

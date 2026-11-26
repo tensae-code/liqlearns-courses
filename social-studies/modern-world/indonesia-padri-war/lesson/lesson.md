@@ -10,11 +10,15 @@ In West Sumatra the Padri movement's religious war becomes a war against the Dut
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63718 — drawn by one who fought]
+
 ## Sub lesson 2 — Bab 2.B.3 Perang Padri
 
 West Sumatra's religious civil war draws the Dutch in, and Imam Bonjol's Padris end fighting the colonial army instead.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63719 — fighting the colonial army]
 
 ## Say it to your companion
 

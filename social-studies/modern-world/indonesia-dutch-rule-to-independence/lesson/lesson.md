@@ -18,6 +18,8 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63702 — 17508 islands one colony]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 Lesson 1, Indonesia — three centuries from VOC traders to the Dutch East Indies (1799) and the Cultivation System; the 1908 awakening, the 1926–27 revolts and the 1928 Youth Pledge forge a nation before Sukarno proclaims it; History Ch. 3 Lesson 1, Indonesia — 17,508 islands and 300 peoples (185 million in 1990) were ruled as one colony from the VOC's 17th-century factories to the Dutch East Indies — the largest country of the region made by empire. Then let your companion ask you one hard question about it — answer from the lesson.

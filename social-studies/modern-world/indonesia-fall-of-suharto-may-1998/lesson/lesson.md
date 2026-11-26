@@ -10,6 +10,8 @@ The Asian monetary crisis empties the shops, Trisakti students are shot, Jakarta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63704 — 21 may 1998]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 3.D Masa Akhir Pemerintahan Orde Baru. Then let your companion ask you one hard question about it — answer from the lesson.

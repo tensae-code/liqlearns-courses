@@ -10,6 +10,8 @@ Indonesia inside the new Cold War constellation polarises by party and identity,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63711 — dominoes to 1965]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 2, Demokrasi Liberal hingga Demokrasi Terpimpin (Gambaran Umum). Then let your companion ask you one hard question about it — answer from the lesson.

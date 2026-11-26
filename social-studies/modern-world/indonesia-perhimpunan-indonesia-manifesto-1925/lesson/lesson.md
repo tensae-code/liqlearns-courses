@@ -10,6 +10,8 @@ Students in the Netherlands issue the 1925 Political Manifesto, naming Indonesia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63723 — naming indonesia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bab 3.B.6 Perhimpunan Indonesia: Manifesto Politik. Then let your companion ask you one hard question about it — answer from the lesson.
