@@ -10,6 +10,8 @@ Egypt pushes from the Sudan — Kassala 1840, Massawa 1846, Keren 1874 — until
 
 In your mind's eye: the key place or moment of Eritrea — Egyptian expansion and resistance as the book shows it: point to it and say what it shows.
 
+[Picture 39113 — arrows from Massawa to Keren, the last one crossed out]
+
 ## Sub lesson 2 — Egyptian Expansion and Eritrean Resistance
 
 Muhammad Ali's Egypt swallows the Sudan, Kassala, the Barka and Keren under Munzinger, until Khedive Ismail's highland drive is broken at Gundet and Gura in 1875–76, where Woldemichael Solomon follows the retreat and captures 700 rifles.

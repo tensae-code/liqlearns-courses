@@ -10,6 +10,8 @@ From Muhammad Ali's advisory councils and Ismail's Shura Council of 1866, throug
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39093 — council benches and a girl reading]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Parliamentary and party life, and women's role in national work (Term 2). Then let your companion ask you one hard question about it — answer from the lesson.

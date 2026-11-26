@@ -10,6 +10,8 @@ Ancient Egyptian kings carry standards into battle to mark their districts, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39107 — three flags — ancient standard, green flag, today's tricolour]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 3 Lesson 1: the flag of our homeland Egypt. Then let your companion ask you one hard question about it — answer from the lesson.

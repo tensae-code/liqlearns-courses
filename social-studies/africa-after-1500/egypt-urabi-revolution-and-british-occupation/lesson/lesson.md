@@ -10,11 +10,15 @@ Tawfiq restores the foreign Dual Control and Riyad Pasha's absolutism; Egyptian 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39102 — Urabi with the demands paper before Abdeen Palace]
+
 ## Sub lesson 2 — Mustafa Kamel and Muhammad Farid
 
 Mustafa Kamel founds the newspaper al-Liwa in 1900 and the National Party in 1907 and campaigns for an Egyptian university, opened in 1908; the Dinshaway hangings of 1906 shame Britain before Europe — Cromer resigns and Saad Zaghloul becomes a minister; Muhammad Farid opens free night schools for workers, helps found unions, defeats the forty-year extension of the Suez concession in 1910, and dies in Germany in 1919 still pleading Egypt's cause.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39103 — the al-Liwa newspaper and the university building]
 
 ## Sub lesson 3 — The national movement and the Urabi Revolution
 
@@ -22,17 +26,23 @@ Sharif Pasha's Chamber of December 1881 fights for the budget; the first joint n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39104 — shell bursts over Alexandria's forts]
+
 ## Sub lesson 4 — The national struggle against the British occupation
 
 Under the occupation the British Agent rules, the army is capped at six thousand men under an English commander, cotton is king and education is starved; Mustafa Kamel rebuilds the movement — al-Liwa in 1900, the National Party in 1907, the Egyptian University in 1908, and Dinshaway in 1906 turned against Britain before Europe — and Muhammad Farid follows with free night schools, workers' unions and the defeat of the canal-extension scheme.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39105 — a capped army, a crossed-out school, a cotton plant]
+
 ## Sub lesson 5 — Chapter 3: Egypt from the Urabi Revolution until the First World War
 
 The revolution, the occupation it fails to prevent, and the national movement's long rebuilding under British rule down to 1914.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39106 — a timeline of three flags — 1881, 1882, 1914]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Britain defeats Italy in 1941 and rules Eritrea as an occupied territory for ele
 
 In your mind's eye: the key place or moment of Eritrea — British military administration as the book shows it: point to it and say what it shows.
 
+[Picture 39112 — a British-flagged office over an Eritrean town]
+
 ## Sub lesson 2 — British Colonial Administration (Occupation)
 
 Britain defeats Italy at Keren in March 1941 and rules through a Military Administration that bans politics, protects Italian property, strips factories, and works to keep Eritrea weak and divided so the west can be joined to Sudan.

@@ -10,6 +10,8 @@ The ELM organises in secret from 1958, workers strike, and in 1960 the ELF is fo
 
 In your mind's eye: the key place or moment of Eritrea — the armed struggle: the ELF as the book shows it: point to it and say what it shows.
 
+[Picture 39109 — a secret table under lamplight, Cairo 1960]
+
 ## Sub lesson 2 — The Eritrean Liberation Front
 
 Denied self-determination, Eritreans move from the ELM's coup hopes to the ELF in 1960, and Hamid Idris Awate fires the first shot at Mount Adal on 1 September 1961 — but a remote Supreme Council and ethnic zonal commands breed the defections of 1967.

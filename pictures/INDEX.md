@@ -9235,3 +9235,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60280 | pictures/60280.webp | a drawn scene — crowned Artavasdes II ringed by a grey chain between Rome's sun banner and Parthia's banner | Social Studies — Ancient World — Artashes I And The Artashesian Kingdom |
 | 60281 | pictures/60281.webp | a drawn scene — a theatre's seating arcs with a masked actor, a walled city, and a trading ship on the sea | Social Studies — Ancient World — Artashes I And The Artashesian Kingdom |
 | 60282 | pictures/60282.webp | a drawn scene — hills marked with a question mark for the unknown homeland, an arrow, and newcomers riding an ox cart into Ariana | Social Studies — Ancient World — The Aryans in ancient Afghanistan |
+| 39090 | pictures/39090.webp | Three panels of the 1952 revolution: land reform, free schooling, the High Dam | Social Studies — Africa after 1500 — Egypt — the 23 July 1952 Revolution |
+| 39091 | pictures/39091.webp | Assault boats cross the Suez Canal through a breach in the Bar Lev wall | Social Studies — Africa after 1500 — Egypt — the October 1973 War |
+| 39092 | pictures/39092.webp | A tank left behind on the long road to the Madrid and Oslo talks | Social Studies — Africa after 1500 — Egypt — the October 1973 War |
+| 39093 | pictures/39093.webp | Rows of council members beside a schoolgirl with her book | Social Studies — Africa after 1500 — Egypt — parliamentary and party life, and women's national work |
+| 39094 | pictures/39094.webp | A crowd holds Tahrir Square for eighteen days, phones raised | Social Studies — Africa after 1500 — Egypt — the revolutions of 2011 and 2013 |
+| 39095 | pictures/39095.webp | Three beats: the ballot box, the protesting millions, the new constitution | Social Studies — Africa after 1500 — Egypt — the revolutions of 2011 and 2013 |
+| 39096 | pictures/39096.webp | Turbaned sheikhs and people choose Muhammad Ali before the Citadel, 1805 | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39097 | pictures/39097.webp | Four panels of state-building: a new army, schools, the press, cotton | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39098 | pictures/39098.webp | Diggers work both banks of the Suez cut under the 1854 concession | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39099 | pictures/39099.webp | The Citadel stands on its plateau as the people choose below, 1805 | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39100 | pictures/39100.webp | A ship passes the opened canal of 1869 while loan coins drain away | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39101 | pictures/39101.webp | New buildings and a factory rise: Egypt remade in the 1800s | Social Studies — Africa after 1500 — Egypt under Muhammad Ali — building the modern state |
+| 39102 | pictures/39102.webp | Urabi and his officers present the nation's demands at Abdeen, 1881 | Social Studies — Africa after 1500 — Egypt — the Urabi Revolution and the British occupation |
+| 39103 | pictures/39103.webp | Mustafa Kamel's al-Liwa newspaper beside the new Egyptian University | Social Studies — Africa after 1500 — Egypt — the Urabi Revolution and the British occupation |
+| 39104 | pictures/39104.webp | British shells burst over Alexandria's forts in the 1882 bombardment | Social Studies — Africa after 1500 — Egypt — the Urabi Revolution and the British occupation |
+| 39105 | pictures/39105.webp | Three panels of occupation: an army capped, schools starved, cotton king | Social Studies — Africa after 1500 — Egypt — the Urabi Revolution and the British occupation |
+| 39106 | pictures/39106.webp | Three flags on a timeline: revolution 1881, occupation 1882, rebuilding 1914 | Social Studies — Africa after 1500 — Egypt — the Urabi Revolution and the British occupation |
+| 39107 | pictures/39107.webp | Egypt's flags in a row: an ancient standard, the green flag, today's tricolour | Social Studies — Africa after 1500 — Egypt's flag — from ancient standards to today |
+| 39108 | pictures/39108.webp | Terraced Eritrean highlands while raiders lead the cattle off | Social Studies — Africa after 1500 — Eritrea — Abyssinian expansion and highland resistance |
+| 39109 | pictures/39109.webp | Three founders at a lamplit table with a folded flag, Cairo 1960 | Social Studies — Africa after 1500 — Eritrea — the armed struggle: the ELF |
+| 39110 | pictures/39110.webp | A fighter on the highland ridge as the liberation flag goes up, 24 May 1991 | Social Studies — Africa after 1500 — Eritrea — the armed struggle: the EPLF and liberation |
+| 39111 | pictures/39111.webp | Rows of tribal huts gathered under the Diglal's great purple banner | Social Studies — Africa after 1500 — Eritrea — the Beni Amir federation and the Funj |
+| 39112 | pictures/39112.webp | A British administration office flies its flag while Eritreans organise | Social Studies — Africa after 1500 — Eritrea — British military administration |
+| 39113 | pictures/39113.webp | Egypt's advance arrows run Massawa to Keren, then break in 1875–76 | Social Studies — Africa after 1500 — Eritrea — Egyptian expansion and resistance |

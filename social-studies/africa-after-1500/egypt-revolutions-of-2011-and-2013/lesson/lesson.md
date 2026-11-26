@@ -10,11 +10,15 @@ The rigged elections of 2010 that gave the ruling party ninety-seven per cent, t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39094 — a crowd with phones in Tahrir Square]
+
 ## Sub lesson 2 — Chapter 8: The revolutions of 25 January 2011 and 30 June 2013
 
 The army council dissolves parliament in February 2011, the Freedom and Justice Party sweeps the elections, and Muhammad Morsi wins the presidency with fifty-one per cent; his November 2012 declaration seizes wider powers, his party fills the state's posts, debt and prices climb — until the call goes out for early elections by 30 June 2013, General al-Sisi gives one week for reconciliation, millions fill the squares on 30 June, a forty-eight-hour ultimatum runs out, and on 3 July the roadmap removes Morsi; the Rabia sit-in is dispersed in August, a new constitution passes in January 2014, and al-Sisi is elected president.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39095 — ballot box, protest crowd, new constitution]
 
 ## Say it to your companion
 

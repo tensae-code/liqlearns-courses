@@ -10,11 +10,15 @@ After Abdel Nasser's death in 1970, Sadat prepares with Syria in secret; the ope
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39091 — boats crossing the Canal through the breached wall]
+
 ## Sub lesson 2 — Egypt and the Arab-Israeli conflict (Term 2)
 
 From the War of Attrition and the Rogers initiative to the Madrid conference of 1991 and the Oslo agreement of 1993, Egypt backs the Palestinian Authority — and the book argues that peace frees the region's wealth from war for development.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39092 — a tank left behind, a table with an olive branch]
 
 ## Say it to your companion
 

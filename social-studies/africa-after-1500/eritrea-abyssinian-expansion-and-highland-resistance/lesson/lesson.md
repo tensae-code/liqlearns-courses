@@ -10,6 +10,8 @@ Abyssinian rulers raid and tax the highlands in the 19th century, and Eritreans 
 
 In your mind's eye: the key place or moment of Eritrea — Abyssinian expansion and highland resistance as the book shows it: point to it and say what it shows.
 
+[Picture 39108 — terraced highlands, raiders leading cattle away]
+
 ## Sub lesson 2 — Abyssinian Expansion and Eritrean Resistance
 
 Tigrean and Abyssinian rulers raid Medri Bahri for tribute, plunder and coastal arms — Ras Michael Sehul deposes a Bahri Negassi in 1770 — while the Saho beat Ras Alula's men at Rub-Rubia and Woldemichael Solomon of Hazzega leads highland resistance.

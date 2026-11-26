@@ -10,6 +10,8 @@ Funj agent Ali Abu Gassim marries into the Belaw royal line and is killed by the
 
 In your mind's eye: the key place or moment of Eritrea — the Beni Amir federation and the Funj as the book shows it: point to it and say what it shows.
 
+[Picture 39111 — rows of tribe huts under the Diglal's banner]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the Beni Amir Federation. Then let your companion ask you one hard question about it — answer from the lesson.

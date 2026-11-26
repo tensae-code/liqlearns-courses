@@ -10,6 +10,8 @@ The ELF begins the armed struggle under Hamid Idris Awate in 1961, the EPLF carr
 
 In your mind's eye: the key place or moment of Eritrea — the armed struggle: the EPLF and liberation as the book shows it: point to it and say what it shows.
 
+[Picture 39110 — a fighter on the ridge and the flag raised, 1991]
+
 ## Sub lesson 2 — The Armed Struggle 1961–1991
 
 Hamid Idris Awate opens the armed struggle in 1961; the fronts survive civil war, the 1977–78 offensives, the strategic retreat and the Red Star campaign, win at Afabet in 1988 and Massawa in 1990, and liberate Asmara on 24 May 1991.
