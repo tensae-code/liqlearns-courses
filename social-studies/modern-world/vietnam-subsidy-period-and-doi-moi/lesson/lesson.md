@@ -22,11 +22,15 @@ after spring 1975 two state forms persist until the Political Consultative Confe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39521 — hard years]
+
 ## Sub lesson 4 — Chuyên đề 3, II.2, the Socialist Republic's state in Đổi mới and integration
 
 after the Great Victory of Spring 1975 two state forms still exist side by side, so the second nationwide general election (April 1976) elects National Assembly term VI, whose first session renames the country the Socialist Republic of Vietnam — completing unification in state terms and preparing the ground for building socialism, defending the Fatherland and integrating internationally; from 1986 this state carries out Đổi mới: in agriculture, land contracting solves the food problem and makes Vietnam a leading rice exporter; in industry and services, the Foreign Investment Law (1987) and the Company and Private Enterprise Laws (1990) open the way to enterprises of every scale, including transnational groups; abroad it pursues an open, multilateral foreign policy — the achievements chart runs ASEAN membership and normalised relations with the United States (1995), APEC (1998), WTO membership as the organisation's 150th member (2006, the documents handover is photographed) and the free-trade agreement signed with the European Union (2019)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39520 — one state]
 
 ## Sub lesson 5 — Bài 4 Socialism renews itself after 1991: Vietnam's Đổi Mới from 1986 lifts the country out of crisis to middle income, Laos renews from 1986, and Cuba reforms step by step under embargo
 
@@ -34,11 +38,15 @@ the surviving socialist states save the system by changing how it feeds people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39519 — renewal feeds]
+
 ## Sub lesson 6 — Bài 10 Đổi Mới begins, 1986–1995: the Sixth Congress (12-1986), "a very basic turning point", rules that renewal is not changing the socialist goal but achieving it by correct conceptions and suitable steps; the centre is economic — abolish the centralised bureaucratic subsidy mechanism for a state-managed market, run the three great programmes (food, consumer goods, exports), beat inflation — while political, cultural and social renewal follows in step and foreign policy multilateralises: "Vietnam wants to be a friend of all countries"
 
 a ruling party votes to dismantle the economic machine it built, and calls the dismantling fidelity to its goal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39518 — 1986]
 
 ## Sub lesson 7 — Bài 10 Đổi Mới deepens, 1996 to today: the Eighth Congress (1996) sets industrialisation and modernisation as the period's task — big infrastructure, an open integrating economy, education and science as top national policy, culture as both goal and engine; from 2006 the Tenth Congress pushes comprehensive renewal out of underdevelopment — perfecting the socialist-oriented market economy, industrialisation tied to the knowledge economy, and the shift from "international economic integration" to proactive, comprehensive integration across every field
 
@@ -46,17 +54,23 @@ stage two builds the hardware, stage three rewires the country's whole relations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39517 — open to the world]
+
 ## Sub lesson 8 — Bài 11 What Đổi Mới achieved in the economy: out of crisis into growth above 6% a year (positive even through COVID-19), GDP reaching 409 billion USD in 2022; the structure transforms — agriculture falls from 38.06% of GDP (1986) to 11.88% (2022) as industry and services climb; the ration-stamp regime is abolished (1-4-1989), the Hanoi–Hải Phòng expressway opens to international standard, and the 1,487 km 500 kV North–South line (1992–93) gives the country its first power backbone
 
 the subsidy era's defining object, the ration stamp, is retired within three years of the decision that doomed it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39516 — growth]
+
 ## Sub lesson 9 — Bài 11 Lessons of Đổi Mới: hold fast to national independence joined with socialism on the foundation of Marxism-Leninism and Hồ Chí Minh thought; renew comprehensively and in step, starting from practice and solving what practice raises; renew for the people's benefit under the maxim "the people are the root" — people know, discuss, do, inspect, supervise and enjoy; and combine inner with outer strength, national strength with the age's
 
 the reform era grades itself, and its fourth lesson is the same combination-of-strengths formula the war lessons taught
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39515 — the root]
 
 ## Say it to your companion
 

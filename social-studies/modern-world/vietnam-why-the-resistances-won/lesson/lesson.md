@@ -10,11 +10,15 @@ the same country wins when its people are one bloc and loses when its court figh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39499 — one bloc or alone]
+
 ## Sub lesson 2 — Bài 8 The lessons the uprisings leave: build forces (Lũng Nhai's gathering; Quang Trung's Nghệ An review and Thanh Hóa levy), build the great unity bloc ("use great righteousness to defeat cruelty" — a staff of landlord, scholar, noble, poor farmer and minority chief), and master a creative military art
 
 the textbook turns its own heroes into three transferable lessons for defending the country today
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39498 — the unity bloc]
 
 ## Sub lesson 3 — Bài 7 Why the anti-French resistance won, and what it meant: subjective causes (the Party's correct line, the whole people's patriotism and creativity, the ever-widening rear) and objective ones (the Việt–Miên–Lào alliance, Chinese and Soviet help, French and world peace opinion); the meaning — French rule on Vietnamese soil ended completely, the North freed to build socialism, a heavy blow to post-war colonialism that heartened liberation movements across Asia, Africa and Latin America
 

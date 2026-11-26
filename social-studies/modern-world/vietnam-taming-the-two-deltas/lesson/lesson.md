@@ -10,11 +10,15 @@ on the Red River the ancient Viet live by the water — boats on the Đông Sơn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39514 — dyke or ride]
+
 ## Sub lesson 2 — Shared Theme 2, Red River and Mekong Delta Civilisation (2) — the two deltas' cultures
 
 the Red River delta, a cradle of wet-rice civilisation, keeps its heritage in stone and festival — Cổ Loa Citadel, the Hoa Lư capital, the Thăng Long Imperial Citadel and Văn Miếu–Quốc Tử Giám among its tangible relics; Bát Tràng pottery, Đại Bái bronze casting and Văn Lâm embroidery among its craft villages; the Lim, Chùa Hương and Gióng festivals and the Quan họ and Ca trù arts among its living traditions; the Mekong delta answers with a river-water culture built by adapting to the flood — floating houses, boat travel and the floating markets of Cái Răng, Phụng Hiệp and Ngã Năm, boat-building at Cần Thơ and palm sugar in An Giang, the Bà Chúa Xứ and Nghinh Ông festivals, and Đờn ca tài tử, recognised by UNESCO as Intangible Cultural Heritage of Humanity (the theme's climate-change section is Geography and is not placed)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39513 — two deltas]
 
 ## Say it to your companion
 

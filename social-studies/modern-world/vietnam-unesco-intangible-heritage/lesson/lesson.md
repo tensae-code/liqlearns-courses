@@ -10,11 +10,15 @@ the book's timeline runs from Nhã nhạc, Huế court music, in 2003 through th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39503 — the heritage timeline]
+
 ## Sub lesson 2 — Chuyên đề 1 Mother Goddess worship: the agricultural people's goddess cult, layered with Chinese Daoism into the Tam phủ and Tứ phủ systems — Liễu Hạnh and Mẫu Thượng Ngàn in the North, Thiên Y A Na in the Centre, Bà Chúa Xứ in the South — inscribed by UNESCO in 2016 as a Representative Intangible Heritage of humanity
 
 the rice farmer's mother-goddess ends up on the world's heritage list
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39502 — the Mother Goddess]
 
 ## Say it to your companion
 

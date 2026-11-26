@@ -10,17 +10,23 @@ America escalates to "Local War"; the victory at Vạn Tường (18 August 1965)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39510 — every city at once]
+
 ## Sub lesson 2 — Bài 8 "Local War" and the 1968 turn: after the fabricated Gulf of Tonkin incident the US lands its own army (from mid-1965) and bombs the North; Vạn Tường (18-8-1965) shows American units can be beaten, two dry-season counter-offensives are smashed, and the North shoots down 3,243 aircraft while multiplying its aid to the South tenfold; the Tet General Offensive and Uprising (early 1968), centred on the cities, breaks Washington's will — the US admits "Local War" has failed, stops bombing the North unconditionally and sits down in Paris
 
 the offensive that loses the ground war headlines wins the political war in American living rooms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39509 — Tet on television]
+
 ## Sub lesson 3 — Bài 8 "Vietnamisation" and the road to Paris, 1969–1973: Saigon's army takes the ground role under American firepower while the war widens to Cambodia and Laos; the Provisional Revolutionary Government is founded (6-6-1969), the three Indochinese peoples win together (Cambodia 1970, Route 9–Southern Laos 1971), the 1972 Strategic Offensive pierces three defence lines, and the North's answer to the second bombing war — the twelve-day B-52 defeat over Hanoi and Hải Phòng, "Điện Biên Phủ in the air" (18–29-12-1972) — brings the US back to sign the Paris Agreement (1973)
 
 each American exit strategy is answered on a new battlefield until the bombers themselves are beaten over the capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39508 — in the air]
 
 ## Say it to your companion
 

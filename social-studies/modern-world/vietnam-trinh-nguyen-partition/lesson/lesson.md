@@ -10,11 +10,15 @@ when Nguyễn Kim dies in 1545 his son-in-law Trịnh Kiểm seizes the army; Ng
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39506 — one king's name]
+
 ## Sub lesson 2 — Bài 5, fifty years of Trịnh–Nguyễn war and the divided country
 
 between 1627 and 1672 the two sides clash seven times; the stronger Trịnh attack six times across the Gianh river but cannot break the Lũy Thầy ramparts designed by the engineer Đào Duy Từ, guarded at the Nhật Lệ river mouth by an iron chain whose stele still records that "here fierce battles between the Trịnh and Nguyễn feudal powers took place"; in the end the Gianh river becomes the border — Đàng Ngoài (the Outer Region) under "King Lê – Lord Trịnh" in the north, Đàng Trong (the Inner Region) under the Nguyễn lords in the south — and a folk verse warns that not even wings can carry you over Lũy Thầy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39505 — the river border]
 
 ## Say it to your companion
 

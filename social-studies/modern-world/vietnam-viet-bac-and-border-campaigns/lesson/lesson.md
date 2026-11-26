@@ -10,11 +10,15 @@ north of the 16th parallel the cities fight for three months in 1946–47 — Ha
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39501 — street by street]
+
 ## Sub lesson 2 — Bài 7 The resistance's first campaigns, 1946–1950: sixty days of street fighting pin the French in Hanoi and the northern cities while the government withdraws intact (Dec 1946–Feb 1947); the Việt Bắc counter-offensive (autumn–winter 1947) throws France's drive on the resistance capital back and kills the "quick attack, quick victory" strategy; the Border campaign (autumn–winter 1950) takes Đông Khê, ambushes Route 4, opens the road to China and hands the initiative on the main battlefield to Vietnam
 
 each French plan dies in turn — first the blitz, then the decapitation strike, then the sealed border
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39500 — three plans die]
 
 ## Say it to your companion
 
