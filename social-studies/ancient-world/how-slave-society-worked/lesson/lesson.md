@@ -10,6 +10,8 @@ Surplus and private property split people into classes for the first time; debto
 
 In your mind's eye: the key place or moment of How slave society worked as the book shows it. Point to it and say what it shows.
 
+[Picture 60823 — the first classes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: slave Society. Then let your companion ask you one hard question about it — answer from the lesson.

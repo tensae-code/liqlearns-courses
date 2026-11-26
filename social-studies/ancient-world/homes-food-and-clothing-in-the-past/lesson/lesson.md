@@ -10,6 +10,8 @@ everyday life across the ages — and the surprise that mămăliga was made from
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60816 — homes food clothing]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 24: Locuința, alimentația și vestimentația — everyday life across the ages — and the surprise that mămăliga was made from millet until maize arrived from America in the 1600s–1700s. Then let your companion ask you one hard question about it — answer from the lesson.

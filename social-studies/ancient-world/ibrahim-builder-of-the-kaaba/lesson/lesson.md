@@ -10,11 +10,15 @@ Ibrahim, born in Iraq in the Babylonian age, smashes his people's idols and face
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60831 — ibrahims journey]
+
 ## Sub lesson 2 — Ibrahim in Mesopotamia
 
 Ibrahim is born in southern Iraq under the first Babylonian state, where a tyrant authority claims divinity, bans the mention of God on pain of burning and makes idolatry the state religion, and the boy — son of Azar the idol-maker — grows up untouched by it, reasons his way past star, moon and sun that set, and begins his call with his own father before facing Nimrod and the whole society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60832 — the boy who reasoned]
 
 ## Sub lesson 3 — Smashing the idols: demolishing misguidance in souls
 
@@ -22,11 +26,15 @@ arguments exhausted, Ibrahim waits for the festival day when the temple stands e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60833 — the smashing of the idols]
+
 ## Sub lesson 4 — Ibrahim in the Levant and Mecca
 
 Ibrahim migrates with Sarah and his nephew Lot to the blessed land, settles in Palestine where al-Khalil still bears his name, sends Lot to Sodom, and is given Ismail by Hajar and then Ishaq by Sarah — two lines of prophets, Ismail's running to Muhammad; he carries Hajar and the infant Ismail to Mecca to rebuild the Kaaba on Adam's foundations, sees in a dream that he must sacrifice his son, and at the very moment of obedience God ransoms the boy with a great sacrifice, the root of Eid al-Adha's takbirs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60834 — palestine to mecca]
 
 ## Say it to your companion
 

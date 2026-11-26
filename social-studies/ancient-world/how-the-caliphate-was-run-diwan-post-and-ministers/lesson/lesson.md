@@ -10,6 +10,8 @@ Caliph, minister, emir, diwan registers and the barid post knit a continent-wide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60825 — how the caliphate was run]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Arab-Islamic civilisation — administrative and financial systems — caliph, minister, emir, diwan registers and the barid post knit a continent-wide state together, paid for by an organised treasury. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Awsan in Wadi Markha and Qataban in Wadi Bayhan give way to Himyar at Zafar, whi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60813 — himyar unites yemen]
+
 ## Sub lesson 2 — States of the ancient Yemeni civilisations (the Himyarite age)
 
 in the second Sabaean age, the Himyarite kings of Saba and Dhu Raydan unite Yemen from their capital Zafar — Dhamar Ali Watar annexes Raydan, Shammar Yuhar'ish adds Hadramawt and most of Yemen, Abu Karib As'ad al-Kamil stretches rule the length and breadth of Arabia — until the last king, Yusuf As'ar Yath'ar, called Dhu Nuwas, turns to Judaism, massacres the people of Najran, and brings the Abyssinians down on Yemen with Byzantine ships
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60814 — the himyarite age]
 
 ## Say it to your companion
 

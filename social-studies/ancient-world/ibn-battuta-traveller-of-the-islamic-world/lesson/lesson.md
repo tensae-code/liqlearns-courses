@@ -18,6 +18,8 @@ The book names the road in order: he passed through Algeria, Egypt and Bahrain, 
 
 In your mind's eye: ibn Battuta's journey line on a map, from Morocco through Algeria, Egypt and Bahrain to India. Follow the line with a finger and name the lands in order.
 
+[Picture 60830 — twenty seven years]
+
 ## Sub lesson 3 — The book and the title
 
 The lesson closes with what his travelling left behind. First, the book of his travels — the written record of twenty-seven years and more than forty countries, holding the customs and traditions of the peoples he saw. Because of it, the world gave him a title: Prince of the Muslim Travellers.

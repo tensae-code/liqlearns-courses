@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: ten thousand years ago
 Ten thousand years ago small bands spread over the Earth; the Inuit come from northern Asia, African peoples migrate across their continent, and today over ten million Mexican-born people live in the United States
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60827 — panorama of population]
 ## Sub lesson 2 — Tema 9: Settlement routes from Africa to America
 
 From Africa the first humans spread and finally cross into America, peopling a new continent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60828 — africa to america]
 
 ## Say it to your companion
 

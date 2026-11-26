@@ -10,6 +10,8 @@ Ancient Egyptians draw some of the first maps, Arab scholars refine map-making, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60815 — development of the map]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1 Lesson 3: the development of the map. Then let your companion ask you one hard question about it — answer from the lesson.
