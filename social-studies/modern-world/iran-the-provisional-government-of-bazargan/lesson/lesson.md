@@ -10,6 +10,8 @@ revolution must become a government — Bazargan's provisional cabinet struggles
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63816 — revolution becomes a government]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The provisional government of Engineer Mehdi Bazargan — revolution must become a government — Bazargan's provisional cabinet struggles between revolutionary councils and the embassy hostage crisis, then resigns. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ reconstruction, Khomeini's death and succession, and the republic's place in a p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63813 — after the war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic Republic of Iran after the eight-year imposed war in the new world — reconstruction, Khomeini's death and succession, and the republic's place in a post-Cold-War world close the course. Then let your companion ask you one hard question about it — answer from the lesson.

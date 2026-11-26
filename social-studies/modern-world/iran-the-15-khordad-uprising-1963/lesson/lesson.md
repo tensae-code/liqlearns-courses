@@ -10,6 +10,8 @@ Khomeini is arrested after denouncing the shah; cities rise, the rising is shot 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63798 — 15 khordad 1963]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The uprising of 15 Khordad (June 1963) — Khomeini is arrested after denouncing the shah; cities rise, the rising is shot down, and 15 Khordad becomes the revolution's founding date. Then let your companion ask you one hard question about it — answer from the lesson.

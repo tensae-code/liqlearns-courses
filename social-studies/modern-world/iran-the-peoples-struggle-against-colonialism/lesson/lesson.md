@@ -10,6 +10,8 @@ tobacco boycott to oil nationalisation — ordinary Iranians repeatedly refuse t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63815 — refusing the foreign hand]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Iranian people's struggle against colonialism — tobacco boycott to oil nationalisation — ordinary Iranians repeatedly refuse the foreign hand, and sometimes win. Then let your companion ask you one hard question about it — answer from the lesson.

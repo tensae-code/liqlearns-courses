@@ -10,6 +10,8 @@ a Cossack colonel marches on Tehran in a British-backed coup, and Iran's politic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63799 — one ambitious soldier]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The coup of 1299 (1921) — a Cossack colonel marches on Tehran in a British-backed coup, and Iran's politics turn on one ambitious soldier, Reza Khan. Then let your companion ask you one hard question about it — answer from the lesson.

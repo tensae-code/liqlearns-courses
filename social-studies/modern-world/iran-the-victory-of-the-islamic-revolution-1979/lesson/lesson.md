@@ -10,11 +10,15 @@ the shah leaves, Khomeini returns to millions, the army declares neutrality, and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63820 — 22 bahman 1357]
+
 ## Sub lesson 2 — The Islamic Revolution
 
 causes, coalition and collapse — the revolution analysed as a whole, not just chronicled (The Islamic Revolution)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63821 — causes coalition collapse]
 
 ## Sub lesson 3 — The Islamic Revolution of Iran
 

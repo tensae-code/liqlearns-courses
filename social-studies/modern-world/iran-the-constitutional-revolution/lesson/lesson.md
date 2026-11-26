@@ -10,11 +10,15 @@ despotism at home, colonial hands abroad, awakening intellectuals and clergy —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63803 — the ingredients assemble]
+
 ## Sub lesson 2 — The beginning of the people's movement against internal despotism and foreign colonialism
 
 the people move — protests and sanctuary-taking force Muzaffar al-Din Shah to grant a constitution and a national assembly in 1906 (The beginning of the people's movement against internal despotism and foreign colonialism)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63804 — a constitution granted 1906]
 
 ## Sub lesson 3 — The Constitutional movement of Iran
 
@@ -22,11 +26,15 @@ the whole arc in one lesson — grievance, sanctuary, constitution, civil war �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63805 — binding kings by law]
+
 ## Sub lesson 4 — The Constitutional movement
 
 the survey version — a nation demands law over kingship and wins a parliament (The Constitutional movement)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63806 — law over kingship]
 
 ## Say it to your companion
 

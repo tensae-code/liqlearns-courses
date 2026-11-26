@@ -10,6 +10,8 @@ the book pauses the narrative to audit the revolution against its own promises �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63808 — audited against its promises]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The ideals and achievements of the Islamic Revolution of Iran — the book pauses the narrative to audit the revolution against its own promises — independence, freedom and Islamic government as the stated ideals. Then let your companion ask you one hard question about it — answer from the lesson.

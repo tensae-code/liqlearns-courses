@@ -10,6 +10,8 @@ the republic's first president, Banisadr, rises and falls amid war and factional
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63807 — the first president falls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The first presidential period in Iran — the republic's first president, Banisadr, rises and falls amid war and factional struggle — the new system's shape is fought out. Then let your companion ask you one hard question about it — answer from the lesson.

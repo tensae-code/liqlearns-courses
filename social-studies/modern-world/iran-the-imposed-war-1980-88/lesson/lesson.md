@@ -10,11 +10,15 @@ Saddam invades in 1980 expecting a short war; eight years of trenches, missiles 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63809 — eight years not a short war]
+
 ## Sub lesson 2 — The imposed war and the Sacred Defence
 
 the war retold as defence of the revolution itself — fronts, cities under missiles, and the accepted ceasefire (The imposed war and the Sacred Defence)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63810 — the sacred defence]
 
 ## Sub lesson 3 — Khorramshahr in the enemy's claws
 
@@ -22,11 +26,15 @@ the port city falls to Iraq's invasion and endures occupation — the war made p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63811 — khorramshahr in the enemys claws]
+
 ## Sub lesson 4 — Khorramshahr in the embrace of the homeland
 
 in 1982 Iranian forces liberate Khorramshahr, and the city's return becomes the war's most beloved story (Khorramshahr in the embrace of the homeland)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63812 — khorramshahr comes home]
 
 ## Say it to your companion
 

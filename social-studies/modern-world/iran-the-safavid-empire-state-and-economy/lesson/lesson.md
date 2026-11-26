@@ -10,11 +10,15 @@ Shah Ismail's Qizilbash found a Shi'a state in 1501; Shah Abbas centralises, bui
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63817 — a great power again]
+
 ## Sub lesson 2 — A united and integrated Iran
 
 after centuries of division, the Safavids weld Iran into one state with one faith — unity itself is the lesson's hero (A united and integrated Iran)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63818 — unity is the hero]
 
 ## Say it to your companion
 
