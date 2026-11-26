@@ -10,11 +10,15 @@ To **download an image**, find it on a page you may rightly use, right-click it 
 
 In your mind's eye: downloading an image.
 
+[Picture 46275 — downloading an image]
+
 ## Sub lesson 2 — Managing your images
 
 **Managing** images means they can be found again: keep them in folders by subject or project, name them for their content — `tej-market-stall.jpg`, not `IMG_2041.jpg` — and sort by date or name when a folder grows. Delete the blurred and the doubled, keep the best copy, and back up the ones that matter. A well-kept image folder is a library; an unmanaged one is a pile.
 
 In your mind's eye: managing your images.
+
+[Picture 46276 — managing your images]
 
 ## Say it to your companion
 

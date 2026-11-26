@@ -10,11 +10,15 @@ A **digital camera** makes its picture on a **sensor**: a grid of light-sensitiv
 
 In your mind's eye: the camera — light onto a sensor.
 
+[Picture 46271 — the camera — light onto a sensor]
+
 ## Sub lesson 2 — Photo files — JPEG, RAW and the photograph's data
 
 The sensor's measurements become a **file**. **JPEG** compresses the picture — discarding fine detail the eye barely misses — into a small, universal file: the format of sharing. **RAW** keeps the sensor's measurements **nearly untouched**: a large file holding everything, for the photographer to develop afterwards in an editor — the format of working. The file also carries **data about the photo (metadata/EXIF)**: the camera, the date, the settings — the photograph's own label, travelling inside it. Choosing a format is choosing what to keep: convenience, or everything.
 
 In your mind's eye: photo files — JPEG, RAW and the photograph's data.
+
+[Picture 46272 — photo files — JPEG, RAW and the photograph's data]
 
 ## Say it to your companion
 

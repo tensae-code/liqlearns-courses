@@ -10,11 +10,15 @@ Class VIII's audio unit opens by saying what its material is: sound a computer c
 
 In your mind's eye: sound becomes data — recording and the audio file.
 
+[Picture 46269 — sound becomes data — recording and the audio file]
+
 ## Sub lesson 2 — Kinds of audio work — record, import, edit, share
 
 The unit's road runs through the file's life: sounds are **recorded** or **imported** into an editor, **edited** — cut, joined, cleaned — given **effects**, **mixed** with other tracks, and finally **exported and shared** in a format other people can play. Class VIII walks that whole road in Audacity; this first lesson is the map: audio is data, and data can be worked.
 
 In your mind's eye: kinds of audio work — record, import, edit, share.
+
+[Picture 46270 — kinds of audio work — record, import, edit, share]
 
 ## Say it to your companion
 

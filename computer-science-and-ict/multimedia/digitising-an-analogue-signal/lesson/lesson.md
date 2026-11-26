@@ -12,6 +12,8 @@ How often the snapshots come is the **sampling rate** (or sampling frequency), c
 
 In your mind's eye: one smooth wave drawn three times. Sampled densely, its samples hugging the curve; sampled at the Nyquist limit, just following it; sampled too sparsely, its samples sketching a false slow wave through them.
 
+[Picture 46273 — one smooth wave drawn three times. Sampled densely, its samples hugging the curve; sampled at the Nyquist limit, just following it; sampled too sparsely, its samples sketching a false slow wave through them]
+
 Real numbers make it concrete. Human hearing reaches about 20 kHz, so CD audio samples at **44.1 kHz** — just above twice 20 kHz. A telephone voice, where only intelligibility matters, is sampled at 8 kHz and sounds thin but clear. Rate is a bargain: more samples per second, a truer copy — and a bigger file, as the last step will count.
 
 ## Sub lesson 2 — Quantisation and coding — levels, bits and the size of the copy
@@ -21,6 +23,8 @@ A sample's measured value is a smooth number — 0.637 of full volume, say — a
 The ladder's fineness is set by the **bit depth** — how many bits code each sample. n bits give **2ⁿ levels**: 8 bits give 256 levels, 16 bits give 65 536. More bits, smaller steps, quieter error, truer copy — and a bigger file. CD audio chose 16 bits; old telephone and early computer sound made do with 8, and you can hear the graininess the missing levels leave behind.
 
 In your mind's eye: a staircase of quantisation levels drawn over a smooth curve. Each sample snapped to its nearest rung, the small gaps between curve and rung marked as the error.
+
+[Picture 46274 — a staircase of quantisation levels drawn over a smooth curve. Each sample snapped to its nearest rung, the small gaps between curve and rung marked as the error]
 
 Then the last step is the one this whole climb has practised: **coding**. Each sample is now just a level number, and the level number is written in binary — 8 or 16 bits per sample, one code after another, a stream of bits that *is* the digitised signal. And now the copy's cost can be counted exactly: **size = sampling rate × bit depth × seconds** (per channel). One minute of CD sound, one channel: 44 100 × 16 × 60 ≈ 42 million bits ≈ 5.3 megabytes; stereo doubles it. Every choice in digitising is the same three-way bargain — rate, depth, size — struck against how true the copy must be.
 

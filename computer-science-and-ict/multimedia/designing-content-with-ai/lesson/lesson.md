@@ -10,11 +10,15 @@ Digital content — text, image, sound, video — can now be **drafted by an AI*
 
 In your mind's eye: the AI as a making tool.
 
+[Picture 46263 — the AI as a making tool]
+
 ## Sub lesson 2 — The designer's part — choose, correct, own
 
 What the AI does not do is the design: **choosing** what the content is for and whether a draft serves it, **correcting** the tool's errors and flatness, and **owning** the result — the honesty duties of credit and truth do not move to the tool. A design made with AI is judged like any design: does it serve its audience and purpose, and is what it shows true? The guide's pairing is the lesson: strategy first, then tools — the designer who knows the strategy can use the AI; the one who only has the AI has drafts, not designs.
 
 In your mind's eye: the designer's part — choose, correct, own.
+
+[Picture 46264 — the designer's part — choose, correct, own]
 
 ## Say it to your companion
 

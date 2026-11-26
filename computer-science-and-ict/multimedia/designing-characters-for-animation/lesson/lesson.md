@@ -10,11 +10,15 @@ An animated character is not one good drawing — it is a drawing that can be **
 
 In your mind's eye: a character is a drawing that must survive movement.
 
+[Picture 46261 — a character is a drawing that must survive movement]
+
 ## Sub lesson 2 — Face, colour and personality — the model sheet
 
 The design is fixed on a **model sheet**: the character from the front and side, its **expressions** (happy, surprised, cross — drawn with the same shapes), and its **colours**, few and constant. Personality is drawn, not described: posture, the size of the eyes, a signature item of clothing tell the audience who this is before it speaks. Every later animator — including yourself in scene twelve — draws from the model sheet, which is what keeps one character one character through a whole film.
 
 In your mind's eye: face, colour and personality — the model sheet.
+
+[Picture 46262 — face, colour and personality — the model sheet]
 
 ## Say it to your companion
 

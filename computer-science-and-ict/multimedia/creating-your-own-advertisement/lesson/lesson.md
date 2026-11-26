@@ -10,11 +10,15 @@ An advertisement is planned like any designed thing: **product** (what, exactly?
 
 In your mind's eye: plan before making.
 
+[Picture 46257 — plan before making]
+
 ## Sub lesson 2 — Making it — and answering for it
 
 Making spends the persuader's tools on purpose: an image that pictures the promise, a slogan short enough to stick, the product shown at its best, repetition of the name. Then the parcours turns the makers back into readers: each group presents, and the class names the tools it can spot in the others' ads. Making an ad honestly — for a real thing, with tools openly named — is the strongest advertisement education there is.
 
 In your mind's eye: making it — and answering for it.
+
+[Picture 46258 — making it — and answering for it]
 
 ## Say it to your companion
 
