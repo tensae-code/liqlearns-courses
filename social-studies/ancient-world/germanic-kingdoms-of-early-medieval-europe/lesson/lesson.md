@@ -10,6 +10,8 @@ Germanic peoples cross the Roman frontier and found the first kingdoms of mediev
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60662 — kingdoms on Rome's ruins]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 17. Germanic tribes. Kingdoms — Germanic peoples cross the Roman frontier and found the first kingdoms of medieval Europe on its ruins. Then let your companion ask you one hard question about it — answer from the lesson.

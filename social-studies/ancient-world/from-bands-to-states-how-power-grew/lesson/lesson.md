@@ -10,6 +10,8 @@ As societies grow, work divides, surplus appears and power concentrates, turning
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60652 — bands become states]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Tiempos de transformación — as societies grow, work divides, surplus appears and power concentrates, turning bands and villages into ranked states. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the course closes by naming the regularities from first humans to capitalism's g
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60660 — one arc, many peoples]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.8 Generalities of the Ancient-to-Medieval World (closing synthesis + glossary) — the course closes by naming the regularities from first humans to capitalism's genesis — one arc, many peoples. Then let your companion ask you one hard question about it — answer from the lesson.

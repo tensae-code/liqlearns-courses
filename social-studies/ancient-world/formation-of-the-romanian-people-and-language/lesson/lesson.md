@@ -10,6 +10,8 @@ the Geto-Dacian locals absorb Rome's civilisation and popular Latin; Constantine
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60643 — one people, one language]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 3: Formarea poporului român și a limbii române — the Geto-Dacian locals absorb Rome's civilisation and popular Latin; Constantine's 313 turn spreads Christianity, and one people with one language — in dialects north and south of the Danube — emerges between Nistru, Tisa and the sea. Then let your companion ask you one hard question about it — answer from the lesson.

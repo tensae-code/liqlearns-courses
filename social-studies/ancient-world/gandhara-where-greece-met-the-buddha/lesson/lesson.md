@@ -10,11 +10,15 @@ In Pakistan's own north-west, around Peshawar, Swat and Taxila, a kingdom stands
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60658 — where Greece met the Buddha]
+
 ## Sub lesson 2 — The Kushans carry Gandhara's Buddhism east
 
 The Kushans, Central Asian nomads turned kings — Kadphises I, Vima Kadphises with his gold coins, and Kanishka (127–151 CE), whose empire stitches the Silk Road from China to Rome; under them Gandhara's Buddhism travels to China and Sanskrit learning flourishes.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60659 — the Kushans carry Buddhism east]
 
 ## Say it to your companion
 

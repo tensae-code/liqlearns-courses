@@ -10,6 +10,8 @@ herders and farmers who trade by barter and early coin, whose god Zalmoxis teach
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60663 — herders, farmers and Zalmoxis]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 5: Modul de viață și religia geto-dacilor — herders and farmers who trade by barter and early coin, whose god Zalmoxis teaches them they do not die — every fifth year a messenger is sent to him. Then let your companion ask you one hard question about it — answer from the lesson.

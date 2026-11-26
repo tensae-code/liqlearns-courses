@@ -10,11 +10,15 @@ a civilisation is born at Medina on three foundations — the creed of Qur'an an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60645 — the three foundations]
+
 ## Sub lesson 2 — Foundations of the rise of the Arab Islamic civilisation
 
 three foundations carry the whole civilisation: Islam, the final heavenly religion whose Qur'an and Sunna organise every side of life without closing the door of ijtihad; the Arab umma, honoured to bear the message, whose Prophet is an Arab from the land God chose as Islam's cradle; and the Arabic language, perfected among the old Arab civilisations, renewed and unified by the Qur'an's descent and carried by Islam into every land it reached
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60646 — Islam, the umma, Arabic]
 
 ## Say it to your companion
 

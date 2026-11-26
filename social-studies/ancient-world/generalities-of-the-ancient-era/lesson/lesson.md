@@ -10,6 +10,8 @@ pupils step back and name what all ancient class societies shared before the med
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60661 — what ancient societies shared]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.9 Generalities of the Ancient Era (synthesis) — pupils step back and name what all ancient class societies shared before the medieval world begins. Then let your companion ask you one hard question about it — answer from the lesson.

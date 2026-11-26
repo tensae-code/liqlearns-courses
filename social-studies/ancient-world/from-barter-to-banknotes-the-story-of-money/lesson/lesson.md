@@ -10,11 +10,15 @@ Money has a biography — first barter, swapping goods for goods; then metal coi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60653 — the evolution of money]
+
 ## Sub lesson 2 — Money in the Subcontinent
 
 The same story on home ground — punch-marked coins in the ancient kingdoms, new coinages after the Arab arrival of 712, Sher Shah Suri's silver rupiya that still gives the rupee its name, British coins stamped with the monarch's face after 1857, and in 1948 a new state's own State Bank.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60654 — money in the Subcontinent]
 
 ## Say it to your companion
 

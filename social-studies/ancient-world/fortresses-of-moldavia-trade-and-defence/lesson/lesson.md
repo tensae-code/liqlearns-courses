@@ -10,6 +10,8 @@ fortresses like Cetatea Albă at the Dniester's mouth guard the land and grow ri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60644 — fortresses guard and trade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 22: Cetățile – fortificații și centre de comerț — fortresses like Cetatea Albă at the Dniester's mouth guard the land and grow rich as trade centres; at Saharna a Dacian fort's stone-and-timber walls still surface. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ the 'wonder of the world' rules a modern state from Palermo and fights popes and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60650 — the wonder of the world]
+
 ## Sub lesson 2 — L'impero e il Mezzogiorno d'Italia dopo la morte di Federico II; Il Vespro siciliano (Eventi)
 
 Frederick's Liber Augustalis (DOC) orders the South; a generation later the Sicilian Vespers (1282) throw out the Angevins and split the island from Naples
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60651 — the Liber Augustalis and the Vespers]
 
 ## Say it to your companion
 

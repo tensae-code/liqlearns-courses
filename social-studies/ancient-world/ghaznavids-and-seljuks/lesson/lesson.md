@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Alptigin, a Turkish co
 Alptigin, a Turkish commander of the Samanids, plants the Ghaznavid seed and his son-in-law Sebuktigin makes it a kingdom at Ghazni; the Seljuks follow as the second great Afghan-based power
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60665 — the seed planted at Ghazni]
 ## Sub lesson 2 — Lesson 9: Ghaznavids and Seljuks
 
 Ghazni's Turkish sultans and then the Seljuks hold the land in two successive great powers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60666 — two great powers in succession]
 
 ## Say it to your companion
 

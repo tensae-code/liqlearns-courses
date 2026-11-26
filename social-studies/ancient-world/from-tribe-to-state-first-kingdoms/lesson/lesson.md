@@ -12,6 +12,8 @@ Then the group grows beyond kin. Settled farming, surplus food and towns full of
 
 In your mind's eye: a tribal gathering becoming a court — a chief seated before his kin while, behind him, the first officials, soldiers and a storehouse rise. The student points to what is new and says what makes it a state, not a tribe.
 
+[Picture 60657 — a gathering becomes a court]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: How kin groups become the first states. Then let your companion ask you one hard question about it — answer from the lesson.

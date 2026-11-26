@@ -10,11 +10,15 @@ after Dragoș's first voivodate, Bogdan I crosses from Maramureș in 1359 and fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60647 — Bogdan crosses the Carpathians]
+
 ## Sub lesson 2 — Unitatea II, Lecția 4: Formarea statelor medievale româneşti — Țara Moldovei
 
 Bogdan rebels against Maramureș's lost autonomy, crosses the Carpathians in 1359, defeats Balc and becomes voivode of an independent Moldavia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60648 — Bogdan defeats Balc]
 
 ## Say it to your companion
 

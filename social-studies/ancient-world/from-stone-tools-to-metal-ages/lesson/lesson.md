@@ -10,11 +10,15 @@ For the longest stretch of the human story people live by gathering and hunting,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60655 — the Stone Age, then farming]
+
 ## Sub lesson 2 — Ch.II §2: How people lived in the Metal Age
 
 A softer, shinier stone that melts changes what hands can make and what armies can take.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60656 — the Metal Age]
 
 ## Say it to your companion
 

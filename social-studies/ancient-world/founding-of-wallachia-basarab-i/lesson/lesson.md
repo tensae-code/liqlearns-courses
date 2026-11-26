@@ -10,6 +10,8 @@ the voivodeships of Glad, Gelu and Menumorut give way to Basarab I, who unifies 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60649 — Basarab unifies Wallachia]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 4: Formarea statelor medievale româneşti — Țara Românească — the voivodeships of Glad, Gelu and Menumorut give way to Basarab I, who unifies the local autonomies and founds Wallachia, named as its ruler in a 1324 document. Then let your companion ask you one hard question about it — answer from the lesson.

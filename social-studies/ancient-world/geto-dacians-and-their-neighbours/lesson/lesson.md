@@ -10,6 +10,8 @@ Greek colonies pay Histria's protectors tribute, Celts and Scythians press the b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60664 — the Geto-Dacians and their neighbours]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea IV, Lecția 3: Relațiile geto-dacilor cu vecinii — Greek colonies pay Histria's protectors tribute, Celts and Scythians press the borders, and trade brings Greek coin-types and finer pottery into Dacia. Then let your companion ask you one hard question about it — answer from the lesson.
