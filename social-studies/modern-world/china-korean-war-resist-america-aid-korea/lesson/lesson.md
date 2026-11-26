@@ -10,6 +10,8 @@ Mao argues 'if we let the enemy press to the Yalu, not fighting harms us more'; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62657 — back to the 38th parallel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Resist America, aid Korea — Mao argues 'if we let the enemy press to the Yalu, not fighting harms us more'; on the night of 19 October 1950 the Volunteers cross secretly, win their first battle on 25 October, and in five campaigns drive MacArthur — who promised his men home by Christmas — back to the 38th parallel. Then let your companion ask you one hard question about it — answer from the lesson.

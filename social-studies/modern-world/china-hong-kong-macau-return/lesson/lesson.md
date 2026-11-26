@@ -10,11 +10,15 @@ Deng's 'one country, two systems' opens the road; at 23:59 on 30 June 1997 the B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62648 — midnight 30 june 1997]
+
 ## Sub lesson 2 — One country, two systems in practice
 
 the flags change in 1997 and 1999 and the two SARs prosper inside one China
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62649 — two sars one china]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ on 4 May 1919 three thousand Beijing students march and a movement is born; the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62661 — from march to united front]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 3, China from May Fourth to the resistance war — on 4 May 1919 three thousand Beijing students march and a movement is born; the Chinese Communist Party is founded in July 1921; from 1927 to 1937 it fights a revolutionary war against the Kuomintang, then in 1937 proposes the united front against Japan. Then let your companion ask you one hard question about it — answer from the lesson.

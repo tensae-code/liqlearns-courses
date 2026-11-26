@@ -9,21 +9,29 @@ Before you read on, hold this lesson's one thing in mind: China keeps a brillian
 China keeps a brilliant civilisation through the middle ages under a succession of dynasties, its Great Wall standing over it, until Europe presses in during the modern age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62653 — behind the great wall]
 ## Sub lesson 2 — Lesson 27: China in the Middle Ages
 
 medieval China's dynasties keep a brilliant civilisation behind the Great Wall
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62654 — a brilliant civilisation]
 ## Sub lesson 3 — Lesson 28: China in the modern ages
 
 modern China faces Europe's pressure
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62655 — europe presses in]
 ## Sub lesson 4 — Lesson 29: China's economic, cultural and artistic state
 
 China's order is read through its economy, culture and art
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62656 — economy culture and art]
 
 ## Say it to your companion
 

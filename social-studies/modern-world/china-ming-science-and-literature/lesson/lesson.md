@@ -10,17 +10,23 @@ Li Shizhen's Compendium of Materia Medica records 1,800 drugs and 11,000 prescri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62665 — 1800 drugs recorded]
+
 ## Sub lesson 2 — Ming-Qing culture develops
 
 the Ming-Qing cultural flowering — science, novels and art of a society rich in goods but ruled ever more tightly
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62666 — a cultural flowering]
+
 ## Sub lesson 3 — Ming to mid-Qing economy and culture
 
 sprouts of capitalism in Jiangnan workshops, the great novels, Xu Guangqi's science with Ricci, and evidential scholarship under the inquisition's shadow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62667 — sprouts of capitalism]
 
 ## Say it to your companion
 

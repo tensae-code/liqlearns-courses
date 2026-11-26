@@ -10,6 +10,8 @@ Versailles gives Shandong to Japan; on 4 May 1919 students march, workers strike
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62660 — 4 may 1919]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: May Fourth and the birth of the CCP — Versailles gives Shandong to Japan; on 4 May 1919 students march, workers strike, and within two years a dozen communists found a party in Shanghai and on a boat at South Lake. Then let your companion ask you one hard question about it — answer from the lesson.

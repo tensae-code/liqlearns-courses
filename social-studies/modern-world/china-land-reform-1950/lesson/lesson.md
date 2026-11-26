@@ -10,6 +10,8 @@ land reform teams carry the 1950 Land Reform Law into every village, and some 30
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62658 — 300 million receive land]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Land reform — land reform teams carry the 1950 Land Reform Law into every village, and some 300 million peasants receive the fields their families had rented for generations. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ China rises as a pole of the new multipolar world (Unidad 2, Tema II-A: El papel
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62652 — a pole of the new world]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: El papel de China en un mundo multipolar — China rises as a pole of the new multipolar world. Then let your companion ask you one hard question about it — answer from the lesson.

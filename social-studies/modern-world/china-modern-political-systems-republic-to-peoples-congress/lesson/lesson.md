@@ -10,6 +10,8 @@ the 1912 republic, warlord constitutions, then 1954's People's Congress system �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62669 — three answers in forty years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: China's political systems, modern to today — the 1912 republic, warlord constitutions, then 1954's People's Congress system — three answers in forty years to who rules China. Then let your companion ask you one hard question about it — answer from the lesson.

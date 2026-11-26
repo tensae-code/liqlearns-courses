@@ -10,6 +10,8 @@ outnumbered four to one in 1946, the PLA wins the three great campaigns of 1948�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62659 — outnumbered four to one]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The People's Liberation War — outnumbered four to one in 1946, the PLA wins the three great campaigns of 1948–49, crosses the Yangtze and takes Nanjing. Then let your companion ask you one hard question about it — answer from the lesson.

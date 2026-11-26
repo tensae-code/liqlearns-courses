@@ -10,11 +10,15 @@ reformers around the young Guangxu emperor try in 1898 to remake schools, office
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62650 — a hundred days 1898]
+
 ## Sub lesson 2 — The struggle to save the nation (1) — 1898
 
 Kang Youwei and the Guangxu emperor issue a hundred days of reform edicts until Cixi's coup locks the emperor on an island and executes six reformers
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62651 — the coup ends reform]
 
 ## Say it to your companion
 

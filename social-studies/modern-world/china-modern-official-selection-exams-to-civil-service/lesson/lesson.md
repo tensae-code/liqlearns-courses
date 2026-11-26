@@ -10,6 +10,8 @@ the examinations are abolished in 1905 after 1,300 years, and Sun Yat-sen's Exam
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62668 — 1300 years of exams end]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: China's official selection since modern times — the examinations are abolished in 1905 after 1,300 years, and Sun Yat-sen's Examination Yuan and today's civil-service exams rebuild selection on new ground. Then let your companion ask you one hard question about it — answer from the lesson.

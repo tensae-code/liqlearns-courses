@@ -10,17 +10,23 @@ Zhu Yuanzhang, blaming Yuan's fall on weak centre, abolishes the chancellorship 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62662 — all power to the emperor]
+
 ## Sub lesson 2 — The great unified state rises
 
 Zhu Yuanzhang abolishes the chancellorship, creates the palace guard and secret-police factories and moves the capital to Beijing under Zhu Di, while Zheng He's voyages open the sea road to Asia and Africa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62663 — zheng he opens the sea]
+
 ## Sub lesson 3 — From Ming's founding to the Qing entry
 
 Zhu Yuanzhang's terror and centralisation, Zhu Di's capital and fleets, then a Ming too rigid to reform, falling to Li Zicheng and the Manchu banners in 1644
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62664 — too rigid to reform]
 
 ## Say it to your companion
 

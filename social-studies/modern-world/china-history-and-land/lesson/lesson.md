@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: the northern neighbour
 the northern neighbour is surveyed as land, people and modern state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62646 — land people modern state]
 ## Sub lesson 2 — Lesson 31: The People's Republic of China
 
 the northern neighbour surveyed as a people's republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62647 — a peoples republic]
 
 ## Say it to your companion
 
