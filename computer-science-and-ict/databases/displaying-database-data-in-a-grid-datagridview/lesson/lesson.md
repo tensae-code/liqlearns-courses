@@ -10,11 +10,15 @@ The **DataGridView** is the form's grid control: bound to a table through the **
 
 In your mind's eye: the DataGridView — the table, on the form.
 
+[Picture 46522 — the DataGridView — the table, on the form]
+
 ## Sub lesson 2 — Moving through the records
 
 A grid of many records is travelled, not merely seen: the user moves **through the records** — next, previous, first, last — and the **current record** is the one the form's other controls show and edit. Kuwait teaches the movement as a skill because every database program lives here: find the record, stand on it, then act — edit it, print it, delete it — and the grid is where finding happens.
 
 In your mind's eye: moving through the records.
+
+[Picture 46523 — moving through the records]
 
 ## Say it to your companion
 

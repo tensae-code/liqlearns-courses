@@ -10,11 +10,15 @@ Database **documentation** records the build in words and diagrams: the **need**
 
 In your mind's eye: what the document holds.
 
+[Picture 46524 — what the document holds]
+
 ## Sub lesson 2 — What documentation is for
 
 The document serves three readers: the **checker**, who verifies the work against the need without rebuilding it; the **user**, who learns from it how the system is meant to be used; and the **future maker** — often the same person, months later — who must change the database without breaking it. Malaysia's standard is practical: a competent stranger, given the database and its document, should be able to say what every object is for and where a named fact lives. Documentation is not the work's decoration; it is the part that makes the work outlast its maker's memory.
 
 In your mind's eye: what documentation is for.
+
+[Picture 46525 — what documentation is for]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A modern state is a database with a flag: Bangladesh's book names its own — th
 
 In your mind's eye: government databases — the state remembers.
 
+[Picture 46510 — government databases — the state remembers]
+
 ## Sub lesson 2 — Corporate ERP and e-commerce — business remembers
 
 A company integrates its memory in an **ERP** system — one database under purchasing, stock, payroll and sales, so the left hand knows the stock the right hand sold. **E-commerce** runs on the same pattern facing outward: the catalogue is a table, the cart a temporary table, the order a record that must never be lost, and the customer's history the shop's memory of them. Government, corporate, commerce — the workplaces differ in master, not in kind: rows, keys, queries, and the discipline of keeping them true.
 
 In your mind's eye: corporate ERP and e-commerce — business remembers.
+
+[Picture 46511 — corporate ERP and e-commerce — business remembers]
 
 ## Say it to your companion
 

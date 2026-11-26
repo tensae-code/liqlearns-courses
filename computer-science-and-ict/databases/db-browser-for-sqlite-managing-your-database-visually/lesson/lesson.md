@@ -10,11 +10,15 @@ Kuwait's Grade 11 databases are driven from Python code — but the book pairs t
 
 In your mind's eye: meeting DB Browser — menus and the database on screen.
 
+[Picture 46514 — meeting DB Browser — menus and the database on screen]
+
 ## Sub lesson 2 — Modifying structure and browsing data
 
 Two acts define the tool's daily use. **Modifying a table's structure** — the visual way to change what a table is: its fields and their kinds, adjusted on screen where mistakes are visible before they are saved. And **browsing the data**: walking the records of a table row by row, checking with the eye what an INSERT added or an UPDATE changed. Code builds; the Browser verifies — the pair is the course's working method.
 
 In your mind's eye: modifying structure and browsing data.
+
+[Picture 46515 — modifying structure and browsing data]
 
 ## Say it to your companion
 

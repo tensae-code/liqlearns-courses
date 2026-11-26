@@ -10,11 +10,15 @@ Design starts from the **need**: what the database must hold and what questions 
 
 In your mind's eye: from the need to entities and attributes.
 
+[Picture 46520 — from the need to entities and attributes]
+
 ## Sub lesson 2 — Keys, relationships, and the tables
 
 Each entity is given a **primary key** — the attribute (or added ID) that picks out one record from all others — and the **relationships** between entities are stated with their cardinality (a pupil takes many loans; a loan is of one book). Only then are the **tables** drawn: one table per entity, attributes as columns, keys in place, and **foreign keys** carrying the relationships. Malaysia's order is the lesson: tables drawn before entities and keys are understood are not a design but a guess that the data will later pay for.
 
 In your mind's eye: keys, relationships, and the tables.
+
+[Picture 46521 — keys, relationships, and the tables]
 
 ## Say it to your companion
 

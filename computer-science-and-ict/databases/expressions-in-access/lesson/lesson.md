@@ -10,11 +10,15 @@ An **Access expression** is a formula that works out a **value** from the record
 
 In your mind's eye: the parts of an expression — fields, operators, functions.
 
+[Picture 46526 — the parts of an expression — fields, operators, functions]
+
 ## Sub lesson 2 — Where expressions live — criteria, calculated fields, controls
 
 Expressions are placed where values are needed. In a query's **criteria row**, an expression is the test a record must pass (>100, Between #2026-01-01# And #2026-12-31#). As a **calculated field**, an expression becomes a new column the table never stored (Total: [Pret]*[Cantitate]). In a form or report **control**, it displays a worked-out value, with **IIf** choosing between answers by a condition. One grammar rules all three homes — learn the formula once, spend it everywhere in the database.
 
 In your mind's eye: where expressions live — criteria, calculated fields, controls.
+
+[Picture 46527 — where expressions live — criteria, calculated fields, controls]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **school office** keeps its pupils in a database — names, classes, fees, m
 
 In your mind's eye: the databases you already use.
 
+[Picture 46512 — the databases you already use]
+
 ## Sub lesson 2 — One shape under all of them
 
 Different lives, one shape: each everyday database holds **records** of one kind of thing — pupils, books, goods, accounts — each record in **fields**, and each is **searched** to answer a real question in seconds: Is this pupil in Year 8? Is this book out? What does this account hold? Seeing the shape under the examples is the lesson: when a learner meets a new system — an airline booking, a hospital file, a phone contact list — they already know what kind of thing it is.
 
 In your mind's eye: one shape under all of them.
+
+[Picture 46513 — one shape under all of them]
 
 ## Say it to your companion
 

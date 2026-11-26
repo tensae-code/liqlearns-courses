@@ -10,11 +10,15 @@ A database holds data in a **structure**: records of the same kind together, eac
 
 In your mind's eye: organised and structured — data with a shape.
 
+[Picture 46528 — organised and structured — data with a shape]
+
 ## Sub lesson 2 — Shared, single and safe to use together
 
 The other features are about people. A database is **shared**: many users reach the **same** data instead of keeping private copies that drift apart. It is **central** — held in one place, under one set of rules for who may see and change what — so there is one true version. And it is built for **many jobs at once**: the librarian lends from it while the principal reports from it. Organised, searchable, shared, single, many-job — those features together are what the word database promises.
 
 In your mind's eye: shared, single and safe to use together.
+
+[Picture 46529 — shared, single and safe to use together]
 
 ## Say it to your companion
 

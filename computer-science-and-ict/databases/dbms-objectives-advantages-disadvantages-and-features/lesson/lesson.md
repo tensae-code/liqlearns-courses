@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Database Management System** —
 
 In your mind's eye: database Management System.
 
+[Picture 46516 — database Management System]
+
 ## Sub lesson 2 — Doing it — DBMS Objectives Advantages Disadvantages and Features in practice
 
 **Doing it — DBMS Objectives Advantages Disadvantages and Features in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — DBMS Objectives Advantages Disadvantages and Features in practice.
+
+[Picture 46517 — doing it — DBMS Objectives Advantages Disadvantages and Features in practice]
 
 ## Say it to your companion
 

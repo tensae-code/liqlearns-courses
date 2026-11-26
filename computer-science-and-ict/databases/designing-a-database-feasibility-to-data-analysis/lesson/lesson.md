@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Designing a Database Feasibility
 
 In your mind's eye: designing a Database Feasibility to Data Analysis.
 
+[Picture 46518 — designing a Database Feasibility to Data Analysis]
+
 ## Sub lesson 2 — Doing it — Designing a Database Feasibility to Data Analysis in practice
 
 **Doing it — Designing a Database Feasibility to Data Analysis in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Designing a Database Feasibility to Data Analysis in practice.
+
+[Picture 46519 — doing it — Designing a Database Feasibility to Data Analysis in practice]
 
 ## Say it to your companion
 
