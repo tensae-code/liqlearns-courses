@@ -16,11 +16,15 @@ Zelaya extends Nicaragua's authority to the Atlantic, reincorporating the Mosqui
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41033 — reserverejoins]
+
 ## Sub lesson 3 — Títulos reales, personería jurídica y Ley 445
 
 royal titles granted from 1591, legal personality laws of 1914-18 and the 2003 Law 445 on communal property still defend indigenous land and self-government today
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41032 — titlesguardland]
 
 ## Sub lesson 4 — Ocupación inglesa en la Costa Caribe
 
@@ -28,11 +32,15 @@ pirates, loggers and planters remake the Caribbean coast; in the 18th century En
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41031 — palodemayo]
+
 ## Sub lesson 5 — Evolución de la Región Atlántica: protectorado y enclave
 
 Britain's protectorate over the Miskitu monarchy keeps the new state out of its own Caribbean from 1821 to 1860; the Zeledón-Wyke Treaty recognises Nicaraguan sovereignty on paper while a foreign timber and banana enclave grows at Bluefields
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41030 — sovereignonpaper]
 
 ## Sub lesson 6 — La reincorporación de la Mosquitia (1894)
 
@@ -40,11 +48,15 @@ Zelaya sends General Cabezas, who lowers the Mosquitia flag at Bluefields on 12 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41029 — flaglowered1894]
+
 ## Sub lesson 7 — La Costa Caribe: de disputa imperial a región
 
 disputed by Spain, England and the US for its canal position since 1633, the old Mosquito Coast is at last treated as part of Nicaragua's own story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41028 — disputedcenturies]
 
 ## Sub lesson 8 — La Ley de Autonomía de 1987
 
@@ -52,11 +64,15 @@ literacy reaches the coast in Spanish, English and Miskitu; the 1987 Autonomy La
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41027 — autonomyinlaw]
+
 ## Sub lesson 9 — Ocupación inglesa en el Caribe
 
 Spain never conquers the Caribbean coast; pirates found Bluefields about 1590 and English traders ally with the Miskitu, raiding Granada and León in 1685 while contraband slowly replaces Spanish trade
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41026 — piratesfound1590]
 
 ## Sub lesson 10 — Evolución de la Región del Caribe: la monarquía misquita y el protectorado
 
@@ -64,17 +80,23 @@ England legitimises its presence through a Miskitu royal family it sustains; fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41025 — crownandshield]
+
 ## Sub lesson 11 — La economía y la sociedad en el Caribe de Nicaragua, siglo XIX
 
 gold, timber and rubber enclaves work the Coco and Escondido rivers while Moravian missionaries, arrived at Bluefields in 1849, reshape Caribbean culture and even run the reserve's finances
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41024 — enclavemission]
+
 ## Sub lesson 12 — Incorporación de la Mosquitia (1894)
 
 General Cabezas occupies Bluefields and the Miskitu Convention of 20 November 1894 renames the reserve the Department of Zelaya under the Nicaraguan flag, keeping its revenues for local benefit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41023 — renamedzelaya1894]
 
 ## Say it to your companion
 
