@@ -16,6 +16,8 @@ dams, schemes and debts — development is the other plot of the independence st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40433 — damsschemes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Governments That Succeeded One Another in Sudan 1955–1985 — thirty years, three republics, two revolutions and a merry-go-round of soldiers and parties Then Features of Socio-Economic Development in Sudan — dams, schemes and debts — development is the other plot of the independence story. Then let your companion ask you one hard question about it — answer from the lesson.

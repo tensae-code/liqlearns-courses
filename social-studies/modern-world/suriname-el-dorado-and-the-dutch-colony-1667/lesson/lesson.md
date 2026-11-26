@@ -10,11 +10,15 @@ Spaniards chase the golden king El Dorado by Lake Parima and leave the "Wild Coa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40418 — goldenlegend]
+
 ## Sub lesson 2 — Europeanen in de Guyana's
 
 Columbus coasts Venezuela on his third voyage but never lands in Suriname; later Spaniards pushing up the Amazon are shot at with poisoned arrows and chase golden legends along the Wild Coast (Europeanen in de Guyana's)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40417 — wildcoast]
 
 ## Sub lesson 3 — Engelsen koloniseren ons land
 
@@ -22,11 +26,15 @@ In the first half of the 1600s English settlers lay out some 60 plantations ship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40416 — sixtyplantations]
+
 ## Sub lesson 4 — Ons land wordt een Nederlandse kolonie
 
 In the Second Anglo-Dutch War Crijnssen takes Suriname (1667); the West India Company rules it, and in 1683 Cornelis van Aerssen van Sommelsdijck becomes governor (Ons land wordt een Nederlandse kolonie)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40415 — dutchcolony]
 
 ## Say it to your companion
 

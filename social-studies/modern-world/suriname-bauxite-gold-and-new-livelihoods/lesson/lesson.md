@@ -10,11 +10,15 @@ As plantations decline, freed and immigrant small farmers, balata bleeders, timb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40426 — newlivings]
+
 ## Sub lesson 2 — Werken om te leven
 
 After supervision ends the freed choose work — town trades, small farming, or the hard gamble of gold-seeking in the interior (Werken om te leven)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40425 — ownwork]
 
 ## Say it to your companion
 

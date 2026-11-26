@@ -10,6 +10,8 @@ Western powers clash with Egypt over the nationalised Suez Canal, and oil states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40431 — oilunite]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Nationalisation of the Suez Canal and formation of OPEC — western powers clash with Egypt over the nationalised Suez Canal, and oil states organise in OPEC to control their own resource. Then let your companion ask you one hard question about it — answer from the lesson.

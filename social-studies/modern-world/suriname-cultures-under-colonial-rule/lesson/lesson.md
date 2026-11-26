@@ -10,6 +10,8 @@ Under colonial rule Europeans rated their culture above Indigenous, African and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40421 — liveddespite]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Het beleven van cultuur — Under colonial rule Europeans rated their culture above Indigenous, African and Asian cultures and imposed Dutch culture through school; the other cultures survived and were lived despite it. Then let your companion ask you one hard question about it — answer from the lesson.

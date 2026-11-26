@@ -10,6 +10,8 @@ Muhammad Ali's campaigns made the Sudan an Egyptian province, and its misrule ra
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40432 — mahditocondominium]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Sudan — Mahdist revolution to independence, 1956. Then let your companion ask you one hard question about it — answer from the lesson.

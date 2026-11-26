@@ -10,6 +10,8 @@ Under the 1955 Ten-Year Plan the government and Alcoa agree in 1958 to dam the S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40424 — brokopondo]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: De stuwdam in de Surinamerivier — Under the 1955 Ten-Year Plan the government and Alcoa agree in 1958 to dam the Suriname river at Brokopondo for hydroelectricity, flooding the homes of the people and animals of the area. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ unlike the ancient cities around it, Sulaymaniyah is a planned new city of the l
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40430 — plannedcity]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Historical sketch: Sulaymaniyah governorate — unlike the ancient cities around it, Sulaymaniyah is a planned new city of the late Ottoman centuries that grew into Kurdistan's cultural capital. Then let your companion ask you one hard question about it — answer from the lesson.

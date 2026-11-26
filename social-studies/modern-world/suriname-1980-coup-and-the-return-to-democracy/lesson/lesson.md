@@ -10,11 +10,15 @@ Independence brings a Surinamese army in place of the Dutch TRIS; a military cou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40429 — republicseized]
+
 ## Sub lesson 2 — Veranderingen in het bestuur
 
 From 1985 talks seek free elections, but in July 1986 the interior war breaks out between the Jungle Commando and the National Army, devastating Albina, Pokigron and Moiwana's region in the east (Veranderingen in het bestuur)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40428 — talksthenwar]
 
 ## Say it to your companion
 

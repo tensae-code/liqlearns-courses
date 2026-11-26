@@ -10,11 +10,15 @@ In the 1929 crisis the unemployed organise in the SAWO; the governor declares th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40423 — struckdown]
+
 ## Sub lesson 2 — Louis Doedel en Anton de Kom
 
 Doedel organises the unemployed and De Kom writes a programme against the abuses he finds; the government strikes hard at both, and a Comité van Actie presses the workers' demands (Louis Doedel en Anton de Kom)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40422 — doedeldekom]
 
 ## Say it to your companion
 

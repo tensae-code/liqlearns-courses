@@ -10,6 +10,8 @@ In 1833 the enslaved Philip and his Coronie helpers seize the sailing ship Clyde
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40410 — freeberbice]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Varen naar de vrijheid — In 1833 the enslaved Philip and his Coronie helpers seize the sailing ship Clyde, bind Captain Sander and sail seven days to free Berbice in Guyana; Suriname's own abolition comes only thirty years later, 1 July 1863. Then let your companion ask you one hard question about it — answer from the lesson.

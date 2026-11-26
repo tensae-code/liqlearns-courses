@@ -10,11 +10,15 @@ After protests and the 1804 English ban era, slavery ends 1 July 1863 but the fr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40414 — shipsfollowed]
+
 ## Sub lesson 2 — Afschaffing van de slavernij in ons land
 
 Ketikoti, 1 July 1863: the book traces abolition of the trans-Atlantic trade, the effect of "Uncle Tom's Cabin" (1852) and the slave registers, to emancipation day itself (Afschaffing van de slavernij in ons land)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40413 — ketikoti]
 
 ## Sub lesson 3 — Na de afschaffing van de slavernij
 
@@ -22,11 +26,15 @@ Owners and traders resist abolition; the freed live under state supervision (sta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40412 — supervision]
+
 ## Sub lesson 4 — De komst van Hindostaanse en Javaanse contractarbeiders
 
 Following British Guiana's example, the Dutch open a Calcutta emigration office and recruit Indian contract workers, then Javanese — remembered by the Mariënburg monument to the first Javanese immigrants (De komst van Hindostaanse en Javaanse contractarbeiders)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40411 — calcuttaandjava]
 
 ## Say it to your companion
 

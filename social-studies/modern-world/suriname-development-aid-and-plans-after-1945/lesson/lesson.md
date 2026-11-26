@@ -10,11 +10,15 @@ After 1945 development aid arrives — Marshall-era thinking, the Welvaartsfonds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40420 — plantit]
+
 ## Sub lesson 2 — Sociale ontwikkeling
 
 The plans also target living and working conditions — development planning is explained step by step, with Plan Wageningen's mechanised agriculture among the projects (Sociale ontwikkeling)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40419 — betterliving]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Elected Staten members represent the Surinamese people while the Dutch-appointed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40427 — eigenhuis]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Baas in eigen huis! — Elected Staten members represent the Surinamese people while the Dutch-appointed governor guards Dutch interests; their conflicts drive the demand to be boss in one's own house. Then let your companion ask you one hard question about it — answer from the lesson.
