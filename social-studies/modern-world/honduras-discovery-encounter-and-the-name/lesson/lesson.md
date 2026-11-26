@@ -10,17 +10,23 @@ two unlike worlds meet — armour, horses, gunpowder and monarchy against maize,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63592 — two worlds meet]
+
 ## Sub lesson 2 — Lección 23: consecuencias del descubrimiento
 
 Europe gains gold, silver, tobacco and empires and the Atlantic becomes the highway; America gains colonists, mestizaje, slave sales, mine extraction, an imposed culture, language and religion, unknown diseases and a falling population
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63593 — the atlantic becomes a highway]
+
 ## Sub lesson 3 — the "encounter of cultures" debate
 
 1492 was chance, not plan: Columbus miscalculated, and the book insists a populated continent cannot be "discovered" — two worlds met, with Galeano's "Las venas abiertas" assigned as the radiography of what followed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63594 — not discovered met]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ the civic calendar gathers the births of Morazán and Valle, Independence Day an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63601 — dates that gather us]
+
 ## Sub lesson 2 — Lección 27 Nos identificamos y así celebramos
 
 1 September Flag Day, 15 September independence of Central America, 28 September arrival of the Pliegos de la Independencia, 20 July Lempira Day and 12 October arrival of the Spanish are celebrated as feasts that changed laws and authorities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63602 — septembers feasts]
+
 ## Sub lesson 3 — Lección 30 Elementos de identidad nacional: fechas cívicas
 
 a dated civic year runs Honduran Women's Day (25 January), Suyapa (3 February), Afro-Honduran Day (12 April), Day of the Americas (14 April), Spanish Language Day (23 April) and the September independence feasts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63603 — a dated civic year]
 
 ## Say it to your companion
 

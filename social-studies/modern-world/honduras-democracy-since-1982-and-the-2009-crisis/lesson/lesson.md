@@ -10,11 +10,15 @@ after Gálvez, Villeda Morales, military rulers and a Junta, the 1980 Constituen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63587 — democracy from 1982 crisis 2009]
+
 ## Sub lesson 2 — the long 20th century
 
 Carías ruled 16 years, Gálvez continued his roads and coffee support, the 1949–1963 reformismo modernised, and after military hegemony Suazo Córdova's 1981 election victory opened the democratic era in 1982
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63588 — the road to 1982]
 
 ## Say it to your companion
 

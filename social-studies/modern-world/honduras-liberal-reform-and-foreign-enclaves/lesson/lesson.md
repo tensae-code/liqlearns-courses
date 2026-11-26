@@ -10,11 +10,15 @@ Marco Aurelio Soto and Ramón Rosa (1876–1883) set out to modernise the coloni
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63604 — modernising the inheritance]
+
 ## Sub lesson 2 — Lección 27: logros y enclaves
 
 the Rosario Mining Company opens San Juancito (the mining enclave) and banana enclaves follow; new codes, the southern road, telegraph, National Post, National Library and Archive, La Gaceta and the repaired National Railway mark the reform's reach
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63605 — enclaves and railways]
 
 ## Sub lesson 3 — Lección 28: logros en Honduras
 

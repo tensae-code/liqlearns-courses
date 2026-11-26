@@ -10,17 +10,23 @@ US independence, the French Revolution, Napoleon in Spain and South American war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63598 — 15 september 1821]
+
 ## Sub lesson 2 — Lección 25: rebeliones previas y legado
 
 before 1821 come risings — Delgado in El Salvador, León and Granada in Nicaragua, Tegucigalpa's Plaza Mayor in 1812; the criollo-led process frees Indigenous, criollo, mestizo and Black people from three centuries of subjection
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63599 — risings before the act]
+
 ## Sub lesson 3 — the two actas
 
 Honduras has TWO independence acts: 15 September 1821, a transfer of power among Spanish-descended groups "to prevent the people proclaiming it themselves", and the stronger 1 July 1823 act breaking with Spain AND Mexico after Iturbide's fall
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63600 — two acts of independence]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the 1984 Heritage Law (Decree 81-84) protects colonial monuments and movable goo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63586 — three world treasures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: protecting the national patrimony — the 1984 Heritage Law (Decree 81-84) protects colonial monuments and movable goods, and three Honduran sites hold UNESCO World Heritage status: Copán Ruins (1980), the Río Plátano Biosphere (1982) and San Marcos de Colón (2017). Then let your companion ask you one hard question about it — answer from the lesson.

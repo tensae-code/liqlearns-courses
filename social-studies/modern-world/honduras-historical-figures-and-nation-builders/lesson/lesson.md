@@ -10,11 +10,15 @@ the próceres are joined by nation-builders in every field — Reyes founding th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63595 — builders in every field]
+
 ## Sub lesson 2 — biographies of outstanding Hondurans
 
 writers Rafael Heliodoro Valle, Clementina Suárez ("la mujer nueva") and Alfonso Guillén Zelaya, painters, singer Guillermo Anderson and activist Berta Cáceres are paraded as proof Honduras produces talent in every field
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63596 — talent in every field]
 
 ## Say it to your companion
 

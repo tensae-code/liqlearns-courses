@@ -10,11 +10,15 @@ Gil González Dávila comes for gold, Cortés sends Cristóbal de Olid, who foun
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63582 — betrayal at triunfo de la cruz]
+
 ## Sub lesson 2 — Lección 23: la colonización y sus consecuencias
 
 mining cities rise (Trujillo, Comayagua, Tegucigalpa, Yuscarán) inside the Captaincy of Guatemala under New Spain; Indigenous people lose land, are forced to labour, resist and rebel, while Catholicism, Spanish, new classes, mestizaje and African slavery remake the land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63583 — mining cities rise]
 
 ## Sub lesson 3 — the prolonged conquest of Honduras
 
@@ -22,11 +26,15 @@ unlike the Aztec and Inca empires that fell with their chiefs, Central America's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63584 — resisted for seventy years]
+
 ## Sub lesson 4 — colonisation: cities, encomienda and mestizaje
 
 grid-plan cities rose around the plaza mayor; encomienda, repartimiento, mita and slavery powered mining and farming, and the meeting of Europeans, Indigenous peoples and Africans made Honduras a crucible — today 90% mestizo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63585 — a crucible 90 percent mestizo]
 
 ## Say it to your companion
 

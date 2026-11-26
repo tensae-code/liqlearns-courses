@@ -10,17 +10,23 @@ departments are born after independence from Spain (1821): Herrera creates the f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63589 — seven become eighteen]
+
 ## Sub lesson 2 — Lección 26: hechos históricos de los departamentos
 
 Ocotepeque is destroyed by the Marchala flood in 1934 and refounded as Nueva Ocotepeque in 1935; Amapala is named capital in 1876 for Soto's provisional government; Santa Bárbara (1825) is divided to create Cortés in 1893
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63590 — flooded refounded divided]
+
 ## Sub lesson 3 — Lección 33 Creación de mi departamento
 
 the first departmental division is set on 28 June 1825 with seven departments; Congress creates the rest one by one until there are 18 departments, 298 municipalities and thousands of villages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63591 — one by one to eighteen]
 
 ## Say it to your companion
 
