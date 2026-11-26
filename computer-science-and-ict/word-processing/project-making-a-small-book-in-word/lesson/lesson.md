@@ -10,11 +10,15 @@ A **book project** begins with three decisions. **Purpose**: what the booklet is
 
 In your mind's eye: purpose, audience, structure — the plan before the pages.
 
+[Picture 45533 — purpose, audience, structure — the plan before the pages]
+
 ## Sub lesson 2 — Gathering the information
 
 With the plan fixed, the class **gathers the information**: facts, texts and pictures for each section, collected from books, the internet and the pupils' own knowledge — and **checked** as it is gathered, because a printed book cannot be corrected after the run. Each gathered piece is marked with the section it belongs to. Gathering is the last of the planning lessons and the first of the making ones: from here the unit proceeds — type it into Word, set its pages, dress it with pictures and tables, and print the booklet — each later lesson a stage of this one project.
 
 In your mind's eye: gathering the information.
+
+[Picture 45534 — gathering the information]
 
 ## Say it to your companion
 

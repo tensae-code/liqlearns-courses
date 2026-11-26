@@ -10,11 +10,15 @@ Write a page and print it, and the words may run too close to the edge or stand 
 
 In your mind's eye: a page with its four margins marked — top, bottom, left and right.
 
+[Picture 45525 — a document page with its margins marked — the blank border round the text — and the paper itself named]
+
 ## Sub lesson 2 — Paper — size and direction
 
 Page setup also chooses the **paper size** — A4 is the school standard — and the paper's **direction**: **portrait**, standing tall, for letters and essays, or **landscape**, lying wide, for wide tables and pictures. The choice must match the real paper in the printer, or the print will be clipped or shrunk. Set the page up before you finish the document, and check the result in print preview before a single sheet is used.
 
 In your mind's eye: the same page in portrait and in landscape, side by side.
+
+[Picture 45526 — portrait and landscape side by side — the same sheet standing tall and lying wide]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **team** writes an **article about our city** in **Word**: agree the parts f
 
 In your mind's eye: writing the article as a team.
 
+[Picture 45535 — writing the article as a team]
+
 ## Sub lesson 2 — Applying everything — title, marks, formatting
 
 Then the article is **finished as a document**: a **title** at its head, **symbols and bullets to mark its parts**, and the unit's **formatting** — capitals where English needs them, bold and colour where emphasis belongs, alignment that suits each part. The test of the project: a reader can see the article's structure before reading a word.
 
 In your mind's eye: applying everything — title, marks, formatting.
+
+[Picture 45536 — applying everything — title, marks, formatting]
 
 ## Say it to your companion
 

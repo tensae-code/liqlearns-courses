@@ -10,11 +10,15 @@ Open **Print** from the File menu and the **print preview** shows the document e
 
 In your mind's eye: before you print.
 
+[Picture 45531 — before you print]
+
 ## Sub lesson 2 — Printing — and if something goes wrong
 
 Click **Print** and the printer takes the pages in order; a small printer icon and queue show the job waiting its turn. If nothing comes out, check the simple things first: is the printer on, does it have paper, is it the printer you chose? A job sent by mistake can be cancelled in the **print queue**. Never send the job again and again — each click adds another copy to the queue.
 
 In your mind's eye: printing.
+
+[Picture 45532 — printing]
 
 ## Say it to your companion
 

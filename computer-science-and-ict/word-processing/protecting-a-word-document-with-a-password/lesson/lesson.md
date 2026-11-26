@@ -10,11 +10,15 @@ A document is protected from Word's save and security options: while saving, cho
 
 In your mind's eye: setting the password — the document locks its door.
 
+[Picture 45537 — setting the password — the document locks its door]
+
 ## Sub lesson 2 — Keeping the password — the key you must not lose
 
 A password protects only if it is **kept secret and remembered**: shared with no one who should not read the document, and stored where its owner can recover it. A forgotten document password locks out the owner too — Word cannot open what even its maker cannot unlock. The class rule: protect only what needs protecting, choose a password you can remember, and never write it on the document itself.
 
 In your mind's eye: keeping the password — the key you must not lose.
+
+[Picture 45538 — keeping the password — the key you must not lose]
 
 ## Say it to your companion
 

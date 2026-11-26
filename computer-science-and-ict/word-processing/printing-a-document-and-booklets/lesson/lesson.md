@@ -10,11 +10,15 @@ Printing is ordered, not merely clicked: the **printer** is chosen, the **pages*
 
 In your mind's eye: print settings — governing the run.
 
+[Picture 45529 — print settings — the whole run governed before a page moves]
+
 ## Sub lesson 2 — Booklet printing — pages imposed for the fold
 
 A **booklet** is printed by **imposition**: the pages are not sent in reading order 1, 2, 3, 4, but arranged on the sheets so that when the printed sheets are **folded** together, the pages fall into reading order — the first and last pages sharing a sheet's face, and so on inward. The word processor's booklet setting does the arranging; the printer prints the sheets, often on both sides; hands fold and fix them. Mongolia's pupils hold the proof in their hands: a document planned as a book, printed as a book — the whole Grade 7 Word unit in one folded object.
 
 In your mind's eye: booklet printing — pages imposed for the fold.
+
+[Picture 45530 — booklet printing — pages imposed for the fold]
 
 ## Say it to your companion
 

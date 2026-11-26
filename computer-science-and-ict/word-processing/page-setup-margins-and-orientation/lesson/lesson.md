@@ -10,17 +10,23 @@ A page has two shapes. **Portrait** is the tall shape: the page stands upright, 
 
 In your mind's eye: the same page shown twice in a word processor — tall portrait on the left and wide landscape on the right. With a wide table fitting only on the wide page.
 
+[Picture 45522 — portrait — the page standing tall — and landscape — the page lying wide — with a wide table that fits only one way]
+
 ## Sub lesson 2 — Setting margins — the blank borders of the page
 
 The **margins** are the blank borders between the edge of the page and the text: a **top**, a **bottom**, a **left** and a **right** margin, one on each side. No text goes in the margins; they frame the text and keep it safely away from the paper's edge, where a printer cannot print cleanly and a reader's hands hold the page. **Wider margins** leave more blank frame and give the text a narrower column to fill, so the same words take more pages. **Narrower margins** give the text more room, so the same words take fewer pages — but set them too narrow and text crowds the edge. Set each margin deliberately: the four margins are separate settings, and a document such as a letter often wants them equal, while a document that will be bound may want a wider margin on the binding side.
 
 In your mind's eye: a page with its four margins marked as a frame — top, bottom, left and right blank borders. And the text sitting inside the frame.
 
+[Picture 45523 — the four margins, marked on a page — the blank frame that holds the text in from the edges]
+
 ## Sub lesson 3 — Using columns in text
 
 Text does not have to run in one block across the whole page. Page setup can split it into **columns** — two, three or more side-by-side strips of text, like the columns of a newspaper. The reading changes with the shape: you read **down** the first column to its bottom, then continue at the **top of the next column**, and so on across the page. Short lines are quicker to read, which is why newsletters, leaflets and newspapers use columns, while a letter or an essay stays in one full-width block. Columns live inside the margins you set: the columns divide the text area — the page inside its margins — so orientation, margins and columns are one decision about the same page, made together in page setup.
 
 In your mind's eye: a page of text laid in two columns like a newspaper, the reading running down the first column and continuing at the top of the second.
+
+[Picture 45524 — two columns side by side, newspaper-style — the text runs down the first, then down the second]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A table's grid is regular — until a title must stretch across the whole width,
 
 In your mind's eye: what merging does.
 
+[Picture 45518 — what merging does]
+
 ## Sub lesson 2 — Merging — the order, and undoing it
 
 The order in Word of the book's era is: **select the cells** to join (they must sit together, in a block), then give the **Merge Cells** command (Table menu / right-click), and the block becomes one cell. The reverse exists and must be known with it: **Split Cells** divides a cell back into the rows and columns named. Laos teaches merge as a click-by-click procedure because its errors are visible and fixable — a wrong merge is undone by splitting and re-merging, never by deleting the table and starting the document again.
 
 In your mind's eye: merging — the order, and undoing it.
+
+[Picture 45519 — merging — the order, and undoing it]
 
 ## Say it to your companion
 
