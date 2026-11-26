@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Working with Active Window** —
 
 In your mind's eye: working with Active Window.
 
+[Picture 45425 — working with Active Window]
+
 ## Sub lesson 2 — Doing it — Working with a Window Minimize Maximize Close in practice
 
 **Doing it — Working with a Window Minimize Maximize Close in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Working with a Window Minimize Maximize Close in practice.
+
+[Picture 45426 — doing it — Working with a Window Minimize Maximize Close in practice]
 
 ## Say it to your companion
 

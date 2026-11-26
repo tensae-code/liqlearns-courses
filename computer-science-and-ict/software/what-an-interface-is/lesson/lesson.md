@@ -10,11 +10,15 @@ An **interface** is the whole meeting place between a user and a system: what th
 
 In your mind's eye: the meeting place of user and machine.
 
+[Picture 45415 — the meeting place of user and machine]
+
 ## Sub lesson 2 — Command and graphical interfaces
 
 Interfaces come in kinds: a **command interface** takes typed orders and answers in text; a **graphical interface** shows windows, icons and menus worked with a mouse. The Grade 8 chapter walks this road in order — software, interface, then the operating system itself — because an operating system is mostly met *through* its interface, and the pupil should know the face before the system behind it.
 
 In your mind's eye: command and graphical interfaces.
+
+[Picture 45416 — command and graphical interfaces]
 
 ## Say it to your companion
 

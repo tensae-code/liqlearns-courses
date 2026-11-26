@@ -10,11 +10,15 @@ Two operating systems divide the personal-computer world, and they divide it by 
 
 In your mind's eye: windows — the sold, windowed system.
 
+[Picture 45419 — windows — the sold, windowed system]
+
 ## Sub lesson 2 — Linux — the free, open system
 
 **Linux** is an operating system given away **free**, whose **code is open** — anyone may study it, change it and pass it on, which is its name in the guide's pairing (GNU/Linux). It runs from the largest servers to school computers, works by graphical windows where wanted and by the **command line** where power is wanted, and comes in many **distributions** — packagings by different makers of the same open heart. The guide's comparison is the durable one: the same manager's jobs, done under two opposite ideas of ownership — one sold and supported, one free and shared.
 
 In your mind's eye: linux — the free, open system.
+
+[Picture 45420 — linux — the free, open system]
 
 ## Say it to your companion
 

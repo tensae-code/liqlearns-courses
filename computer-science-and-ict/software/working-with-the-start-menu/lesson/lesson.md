@@ -10,11 +10,15 @@ Click the **Start button** at the left end of the taskbar (or press the Windows 
 
 In your mind's eye: the Windows XP Start menu open — programs on the left, places and settings on the right.
 
+[Picture 45427 — the Windows XP Start menu open — programs on the left, places and settings on the right]
+
 ## Sub lesson 2 — The rest of the Start menu — and shutting down
 
 The menu's right side reaches the rest of your computer: **My Documents** and **My Computer** for your files and drives, **Control Panel** for settings, **Help and Support**, and **Search** for finding things. At the bottom sit the two leaving buttons: **Log Off**, which ends your session but leaves the computer on for the next person, and **Turn Off Computer**, which shuts Windows down safely. Always leave by Turn Off Computer — never by pulling the power — so Windows can close every program and save its own work first.
 
 In your mind's eye: the bottom of the Start menu — Log Off and Turn Off Computer buttons.
+
+[Picture 45428 — the bottom of the Start menu — Log Off and Turn Off Computer buttons]
 
 ## Say it to your companion
 

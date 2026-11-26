@@ -10,11 +10,15 @@ Every program and folder opens in a **window**: a framed rectangle with a **titl
 
 In your mind's eye: windows — the framed boxes work opens in.
 
+[Picture 45417 — windows — the framed boxes work opens in]
+
 ## Sub lesson 2 — Dialog boxes — small windows that ask and answer
 
 A **dialog box** is a small window that opens over a program when the program needs something from you: a choice, a name, a confirmation. It carries **buttons** — accept and cancel are the common pair — and sometimes boxes to type in or options to pick. Work waits behind it: the dialog must be answered or cancelled before the program continues. Cuba meets dialog boxes in the same first unit as windows themselves, and the Grade 5 programme rehearses them again inside the drawing editor's window — answer the small window first, then the big one works again.
 
 In your mind's eye: dialog boxes — small windows that ask and answer.
+
+[Picture 45418 — dialog boxes — small windows that ask and answer]
 
 ## Say it to your companion
 

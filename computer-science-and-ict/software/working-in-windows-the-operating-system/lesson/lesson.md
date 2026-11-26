@@ -10,11 +10,15 @@ Switch a computer on and wait. Before you open anything, something has already s
 
 In your mind's eye: windows is an operating system.
 
+[Picture 45423 — windows is an operating system]
+
 ## Sub lesson 2 — What working in Windows means
 
 Working in Windows means doing your tasks through the operating system's own screens and tools: the **desktop** you land on, the **windows** programs open in, and the menus and icons you click to give orders. The lessons after this one take the desktop and its shortcut menus one piece at a time.
 
 In your mind's eye: what working in Windows means.
+
+[Picture 45424 — what working in Windows means]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **desktop** is the screen Windows shows when it has started: a background, t
 
 In your mind's eye: the desktop and its icons.
 
+[Picture 45413 — the desktop and its icons]
+
 ## Sub lesson 2 — Folders and windows from the desktop
 
 A **folder** on the desktop is a container you open like any folder: double-click it and a **window** opens showing what is inside — files and more folders. Working well from the desktop means keeping it like Fiji's class **students folder**: a few clear folders with names that say what they hold, instead of a scatter of loose files. A window is closed, minimised or made full-screen with the buttons at its top corner, and switching between open windows is done from the taskbar — the desktop stays the home you return to.
 
 In your mind's eye: folders and windows from the desktop.
+
+[Picture 45414 — folders and windows from the desktop]
 
 ## Say it to your companion
 
