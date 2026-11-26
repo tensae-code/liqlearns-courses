@@ -10,11 +10,15 @@ Spain claims the "discovered" lands and sends conquest; Gil González Dávila is
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41009 — asksfortime]
+
 ## Sub lesson 2 — Gil González y la conquista de Nicaragua
 
 Gil González Dávila enters from Rivas in 1523, is received by Cacique Nicaragua, and conquest follows the welcome
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41008 — welcomedatrivas]
 
 ## Sub lesson 3 — Resistencia indígena
 
@@ -22,11 +26,15 @@ indigenous peoples do not submit quietly; Diriangén's answer to the Spanish bec
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41007 — answeremblem]
+
 ## Sub lesson 4 — Consecuencias de la conquista española en Nicaragua
 
 the conquest's bill is counted — population loss, exploitation and a changed land — with Diriangén's defiance recalled as the counter-story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41006 — billandcounters]
 
 ## Sub lesson 5 — Proceso de conquista de Nicaragua
 
@@ -34,11 +42,15 @@ conquest comes from the Pacific, not the Caribbean — Gil González reaches the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41005 — fromthepacific1524]
+
 ## Sub lesson 6 — Resistencia indígena como consecuencia de la conquista
 
 colonisation and resistance begin simultaneously in 1523; Wheelock's "indigenous roots of the anti-colonial struggle" frames resistance as a tradition that never ends
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41004 — neverends1523]
 
 ## Sub lesson 7 — Proceso de conquista en Nicaragua y resistencia indígena
 
@@ -46,17 +58,23 @@ Gil González reaches Cacique Nicarao in 1523 and their famous dialogue astonish
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41003 — dialoguefirstdefence]
+
 ## Sub lesson 8 — Consecuencias de la Conquista
 
 the indigenous population collapses catastrophically; Las Casas preaches against the abuses in León and Granada and Bishop Valdivieso is murdered by the Contreras brothers for defending the indigenous, while the New Laws of 1542 arrive too late
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41002 — defenderslawslate]
+
 ## Sub lesson 9 — Resistencia indígena contra el dominio español en Nicaragua
 
 Diriangén's and Nicaragua's attacks are the first organised combats against a foreign invader in Nicaragua's history; in twenty-seven years of exceptional cruelty under Pedrarias and Contreras, a population estimated at a million falls to 10,000
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41001 — milliontotenthousand]
 
 ## Say it to your companion
 

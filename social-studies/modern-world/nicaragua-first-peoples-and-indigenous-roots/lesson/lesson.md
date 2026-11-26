@@ -10,11 +10,15 @@ many town names are Nahuatl left by the first settlers; Managua, "surrounded by 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40989 — surroundedbywater]
+
 ## Sub lesson 2 — Influencia del medio geográfico en la forma de vida de los primeros pobladores
 
 lakes, rivers and land shape where the first peoples settle and how they live, a pattern each child traces in their own municipality
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40988 — tracingtheland]
 
 ## Sub lesson 3 — Manifestaciones culturales de los primeros pobladores del municipio
 
@@ -22,11 +26,15 @@ the first settlers leave cultural expressions that still mark the municipality's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40987 — culturestillmarks]
+
 ## Sub lesson 4 — Primeros pobladores de mi departamento
 
 department names themselves — Matagalpa, Estelí, Masaya, Chontales, Chinandega — and river, hill, food and plant names prove an indigenous past under modern Nicaragua
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40986 — namesareproof]
 
 ## Sub lesson 5 — Influencia del medio geográfico en el poblamiento del departamento
 
