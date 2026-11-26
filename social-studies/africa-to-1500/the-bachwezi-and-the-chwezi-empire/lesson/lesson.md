@@ -10,6 +10,8 @@ The Bachwezi build an empire on iron — strong tools to cultivate, strong weapo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60138 — the Chwezi empire built on iron]
+
 ## Sub lesson 2 — Political organisation of ethnic groups
 
 The Bachwezi's gifts are listed like a king's inventory — salt mining at Lake Katwe, iron smelting, long-horned cattle, coffee, bark cloth

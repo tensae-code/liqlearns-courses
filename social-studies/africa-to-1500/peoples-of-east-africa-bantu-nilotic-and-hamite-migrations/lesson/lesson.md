@@ -10,6 +10,8 @@ Bantu farmers settle across East Africa, and Nilotes come down the Nile. Two gre
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 60115 — two streams of people reach East Africa]
+
 ## Sub lesson 2 — Hamites and Nilo-Hamite pastoralists from Ethiopia
 
 Hamites and Nilo-Hamite pastoralists come from Ethiopia, herding peoples alongside the farmers. East Africa's map of peoples is therefore a meeting, not a single origin.

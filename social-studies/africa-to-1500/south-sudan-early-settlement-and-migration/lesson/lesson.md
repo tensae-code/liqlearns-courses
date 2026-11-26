@@ -10,11 +10,15 @@ Water, land and drought push and pull people across South Sudan, and children ju
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60123 — water, land and drought decide]
+
 ## Sub lesson 2 — People of South Sudan
 
 The peoples came from different places — Plain Nilotes from the Ethiopian Highlands, River-Lake Nilotes from the Kush kingdom in northern Sudan, Bantu and Sudanic groups from West Africa — and children name Dinka, Nuer, Shilluk, Acholi, Azande, Bari and many more
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60124 — South Sudan's peoples came from many places]
 
 ## Say it to your companion
 

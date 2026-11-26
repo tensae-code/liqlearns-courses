@@ -10,6 +10,8 @@ A tribe shares one origin and language, a clan one forefather; drought, the sear
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60116 — tribes, clans, and where people settle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: S: Legends / Factors that Determine Settlement Patterns — a tribe shares one origin and language, a clan one forefather; drought, the search for water and for jobs drive migration, and fertile soil, rain, food and trade decide where people finally settle. Then let your companion ask you one hard question about it — answer from the lesson.

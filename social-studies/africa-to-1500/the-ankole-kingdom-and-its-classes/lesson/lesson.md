@@ -10,6 +10,8 @@ Ruhinda, grandson of Wamala, founds Ankole; its king is the Omugabe, and its peo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60137 — Ankole: herders above, cultivators below]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ankole Kingdom — Ruhinda, grandson of Wamala, founds Ankole; its king is the Omugabe, and its people stand in two classes — Bairu cultivators below Bahima pastoralists. Then let your companion ask you one hard question about it — answer from the lesson.

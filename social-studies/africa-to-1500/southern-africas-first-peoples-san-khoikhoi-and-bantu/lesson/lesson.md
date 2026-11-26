@@ -10,6 +10,8 @@ Click-speaking San hunter-gatherers and Khoikhoi herders hold the land for centu
 
 In your mind's eye: san hunters and Khoikhoi herders on open land, with Bantu farming villages appearing in the distance. Name each people and how they lived.
 
+[Picture 60131 — San, Khoikhoi and Bantu]
+
 ## Sub lesson 2 — Bantu farming chiefdoms spread
 
 After the San and Khoikhoi come Bantu farming chiefdoms, spreading across Southern Africa and farming the land.

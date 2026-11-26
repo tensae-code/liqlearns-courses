@@ -10,11 +10,15 @@ The Dinka sing that they came from the black mud of the Nile and their god Nhial
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60117 — the Dinka rise from the Nile's black mud]
+
 ## Sub lesson 2 — Community rituals, ceremonies and festivals
 
 Rituals that cleanse a person or society, ceremonies and festivals are passed generation to generation as the community's living tradition
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60118 — rituals and festivals, handed down]
 
 ## Sub lesson 3 — Common practices of African communities in the past
 
@@ -22,11 +26,15 @@ Children study pictures of traditional practices, name their community's name fo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60119 — the old practices: sacrifice and prayer]
+
 ## Sub lesson 4 — Relationship between ceremonies today and those from the past
 
 Today's ceremonies are matched against past ones so children see which traditions carried through and which changed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60120 — ceremonies then and now]
 
 ## Sub lesson 5 — Stories of origin
 
@@ -34,11 +42,15 @@ The teacher reads where Garang and Abuk came from, classes discuss Bible and Kor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60121 — many peoples, many beginnings]
+
 ## Sub lesson 6 — How stories of origin have changed our lives today
 
 Children ask parents about other peoples in their state and their origin stories, and judge how those beginnings still shape life today
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60122 — old beginnings still shape life today]
 
 ## Say it to your companion
 

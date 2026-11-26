@@ -10,6 +10,8 @@ the junior partner of the Funj alliance outlives its strength and meets the inva
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60133 — the Abdallab: the Funj's junior partners]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Islamic Sultanates in Sudan (2) — the junior partner of the Funj alliance outlives its strength and meets the invader first. Then let your companion ask you one hard question about it — answer from the lesson.

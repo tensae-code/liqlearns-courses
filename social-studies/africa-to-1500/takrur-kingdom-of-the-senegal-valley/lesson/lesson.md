@@ -10,6 +10,8 @@ Takrur is the name of a group of Black tribes who found a kingdom in the Senegal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60132 — Takrur, kingdom of the Senegal valley]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dossier 4: The Kingdom of Takrur — Takrur is the name of a group of Black tribes who found a kingdom in the Senegal river country south of the desert. Then let your companion ask you one hard question about it — answer from the lesson.
