@@ -10,6 +10,8 @@ soldier-farmers of the themes and Leo III's defence rebuild a smaller, Greek, de
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60427 — the theme system]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3.I.1 The formation of the medieval Greek Byzantine empire — soldier-farmers of the themes and Leo III's defence rebuild a smaller, Greek, defensible empire. Then let your companion ask you one hard question about it — answer from the lesson.

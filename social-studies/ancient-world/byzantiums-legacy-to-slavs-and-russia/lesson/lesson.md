@@ -10,6 +10,8 @@ alphabet, faith and court models travel north; Moscow will call itself the Third
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60432 — the legacy travels north]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Byzantine cultural tradition among the Balkan peoples and Russia — alphabet, faith and court models travel north; Moscow will call itself the Third Rome. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ emperors fight emperors over a dying state while Serbs and Ottomans take its lan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60431 — civil war in the last century]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Attempts at recovery and civil war — emperors fight emperors over a dying state while Serbs and Ottomans take its land. Then let your companion ask you one hard question about it — answer from the lesson.

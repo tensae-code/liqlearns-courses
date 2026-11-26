@@ -10,6 +10,8 @@ exam questions reach back to Angkor Wat's builder and to Jayavarman VII, the kin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60433 — exam questions on Angkor's kings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Section, History of Cambodia (review questions) — exam questions reach back to Angkor Wat's builder and to Jayavarman VII, the king who raised hospitals, roads and the Bayon — the medieval empire the modern state claims as its root. Then let your companion ask you one hard question about it — answer from the lesson.

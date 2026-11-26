@@ -10,6 +10,8 @@ how Angkorian society was named, ranked and fed; its inscriptions (Sdok Kok Thom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60434 — a ranked kingdom in its stones]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 2 Lesson 5, Angkor civilisation — how Angkorian society was named, ranked and fed; its inscriptions (Sdok Kok Thom, photo p. 160) and the Khmer script's growth from Pallava letters — the civilisation read through its own stones. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ from the Nicaean exile state, Michael's general slips into Constantinople by nig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60428 — the night entry of 1261]
+
 ## Sub lesson 2 — Unit 31 Recovery of the City exercises
 
 exercises retell the night entry of 1261 that restored the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60429 — exercises on the night entry]
+
 ## Sub lesson 3 — Michael VIII and Andronikos II Palaiologos
 
 a restored but shrunken empire survives by diplomacy while its fleet and coin decay
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60430 — a shrunken empire's diplomacy]
 
 ## Say it to your companion
 

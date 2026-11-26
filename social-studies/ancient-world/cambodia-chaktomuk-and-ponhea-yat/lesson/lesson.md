@@ -10,17 +10,23 @@ Siam sacks Angkor in 1431; Ponhea Yat (1421–1463) gathers the kingdom again, r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60438 — the sack and the move to Chaktomuk]
+
 ## Sub lesson 2 — Ch. 4 Lesson 2, The Chaktomuk era (15th–16th centuries)
 
 Ponhea Yat (1434–1463) plants the capital where the four rivers meet after Angkor's fall; his successors Norayreachea, Srei Reachea and Srei Sokonthor rule a kingdom rebuilding between Siam and Vietnam (Ch. 4 Lesson 2, The Chaktomuk era (15th–16th centuries))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60439 — rebuilding between Siam and Vietnam]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 2, The Chaktomuk era in the 15th century
 
 Ponhea Yat reigns ten years at Angkor (1421–1431), flees the Siamese sack to Srei Santhor, then founds Chaktomuk in 1434 with a grand royal name; Norayreachea (1463–1469) and Srei Reachea (1469–1485) follow (History Ch. 2 Lesson 2, The Chaktomuk era in the 15th century)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60440 — Angkor, Srei Santhor, Chaktomuk]
 
 ## Say it to your companion
 

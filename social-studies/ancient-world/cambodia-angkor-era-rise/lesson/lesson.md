@@ -10,17 +10,23 @@ Jayavarman II (802–850), back from captivity in Java, is proclaimed universal 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60435 — Jayavarman II crowned in 802]
+
 ## Sub lesson 2 — History Ch. 2 Lesson 1, The Angkor Empire
 
 the empire runs 802–1432 through six centuries of temple kings: Jayavarman II (802–850), Indravarman I (877–889; Bakong and a 3,000 × 8,000 m reservoir), Yasovarman I (889–900; Bakheng and the great eastern baray) (History Ch. 2 Lesson 1, The Angkor Empire)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60436 — six centuries of temple kings]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 4, The kings of Angkor
 
 the reign-by-reign account runs to Indravarman II (944–968), Jayavarman V (968–1001), then Suryavarman I (1010–1050) and Udayadityavarman II (1050–1066), builder of the Baphuon and the 8 × 2.2 km western reservoir (History Ch. 2 Lesson 4, The kings of Angkor)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60437 — king after king]
 
 ## Say it to your companion
 

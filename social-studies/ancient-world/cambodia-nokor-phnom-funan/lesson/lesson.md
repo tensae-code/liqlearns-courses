@@ -10,17 +10,23 @@ the Indian prince Hun Tien (Kaundinya) sails in, marries the local queen and fou
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60448 — Hun Tien founds Funan]
+
 ## Sub lesson 2 — History Ch. 2 Lesson 2, The Funan kingdom (50–550 CE)
 
 Chinese envoys' reports (read by Paul Pelliot) describe a delta kingdom 3,000 li across (map, p. 120) whose ports grow rich on the India–China sea road (History Ch. 2 Lesson 2, The Funan kingdom (50–550 CE))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60449 — the India–China sea road]
+
 ## Sub lesson 3 — History Ch. 2 Lesson 2, The ancient Funan kingdom
 
 Chinese records measure Funan at 3,000 li (1 li = 576 m); its civilisation glitters at Oc Eo — gold jewellery, Vishnu and Buddha images (photos, p. 136) (History Ch. 2 Lesson 2, The ancient Funan kingdom)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60450 — Oc Eo glitters]
 
 ## Say it to your companion
 
