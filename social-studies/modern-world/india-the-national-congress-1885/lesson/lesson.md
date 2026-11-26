@@ -10,11 +10,15 @@ In December 1885 Allan Hume gathers India's movements in Bombay, W. C. Bonnerjee
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63664 — from petitions to an engine]
+
 ## Sub lesson 2 — The Indian Nationalist Movement (competency level 4.1, 10 periods)
 
 The guide holds India up as the mirror — Sepoy mutiny, Congress, Muslim League, Gandhi — and asks what unity across communities won there
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63665 — a mirror of unity]
 
 ## Say it to your companion
 

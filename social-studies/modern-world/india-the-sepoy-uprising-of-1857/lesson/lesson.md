@@ -10,11 +10,15 @@ greased-cartridge rumours ignite a vast revolt of Indian soldiers and princes ag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63666 — a rumour ignites a revolt]
+
 ## Sub lesson 2 — §9.1 How are the events in India of 1857–1859 told about?
 
 British and Indian tellings of the same uprising are compared as rival stories
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63667 — rival stories]
 
 ## Say it to your companion
 

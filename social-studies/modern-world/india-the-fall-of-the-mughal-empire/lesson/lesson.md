@@ -10,6 +10,8 @@ Aurangzeb's overreach and Maratha resistance break Mughal power, leaving India f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63663 — overreach breaks an empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §4 The crisis and fall of the Great Mughal Empire; India in the 17th–18th centuries — Aurangzeb's overreach and Maratha resistance break Mughal power, leaving India fragmented before European companies. Then let your companion ask you one hard question about it — answer from the lesson.

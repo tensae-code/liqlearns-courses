@@ -10,6 +10,8 @@ plantation monocultures (Bengal jute, Assam tea, Bombay cotton) and more than tw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63668 — famines and a gagged voice]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §§30–31 India at the end of the 19th – beginning of the 20th century — plantation monocultures (Bengal jute, Assam tea, Bombay cotton) and more than twenty famines killing 18 million mark the Raj's economy; Victoria is proclaimed Empress (1877) while press and arms acts gag the Indian voice, and a slow native capitalism — a million factory workers by 1910 — grows inside the colony. Then let your companion ask you one hard question about it — answer from the lesson.

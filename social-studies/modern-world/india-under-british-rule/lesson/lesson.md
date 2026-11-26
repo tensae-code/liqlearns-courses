@@ -10,6 +10,8 @@ on 1 January 1877 Queen Victoria is proclaimed Empress of India at the great dur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63669 — empress at the durbar]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 15, India under the British, later 19th century — on 1 January 1877 Queen Victoria is proclaimed Empress of India at the great durbar pictured here, sealing a conquest administered by a Viceroy and a five-man council ruling like a government; the British conciliate a slice of the feudal upper class into henchmen and deliberately deepen ethnic and religious divisions; plantations eat the peasants' land, mines and processing works and new ports grow for export, and an official "keep them ignorant" policy fosters backward customs — against it stand the Sepoy rising (1857–1859) and the Congress-led movement of 1905–1908. Then let your companion ask you one hard question about it — answer from the lesson.

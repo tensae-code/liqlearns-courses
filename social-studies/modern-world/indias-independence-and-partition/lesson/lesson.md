@@ -10,6 +10,8 @@ Gandhi's non-violence principles (Fare storia Document) win a subcontinent and p
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63672 — independence and catastrophe]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 10 §2 L'indipendenza dell'India — Gandhi's non-violence principles (Fare storia Document) win a subcontinent and partition wounds it in the same act — independence and catastrophe together. Then let your companion ask you one hard question about it — answer from the lesson.

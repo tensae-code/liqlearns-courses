@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Japan seizes Indochina
 Japan seizes Indochina, rules through the French, and starves the people — the old order cracks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63676 — ruled through the french]
 ## Sub lesson 2 — Part II, Lesson 8: Indochina under Japanese fascist rule
 
 Japan seizes Indochina and the old order cracks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63677 — the old order cracks]
 
 ## Say it to your companion
 

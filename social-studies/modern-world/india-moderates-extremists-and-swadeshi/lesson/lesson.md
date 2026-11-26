@@ -10,6 +10,8 @@ When petitions fail, Tilak's generation demands swaraj, Bengal's partition is an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63662 — foreign cloth burns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Moderates, extremists and the Swadeshi movement — when petitions fail, Tilak's generation demands swaraj, Bengal's partition is answered by boycotting British goods and burning foreign cloth. Then let your companion ask you one hard question about it — answer from the lesson.

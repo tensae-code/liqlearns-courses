@@ -10,11 +10,15 @@ against taxes, forced labour and abuse, resistance runs from daily refusal to ar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63674 — from refusal to rising]
+
 ## Sub lesson 2 — La Resistencia Indígena
 
 Enriquillo and Hatuey in the Antilles, Urracá in Panama, Tecum Umán among the Maya and Tenochtitlan's three-month siege symbolise a resistance that never accepted conquest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63675 — never accepted conquest]
 
 ## Say it to your companion
 

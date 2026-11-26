@@ -10,6 +10,8 @@ Dadabhai Naoroji, the Grand Old Man, proves Britain drains India's wealth; Suren
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63661 — four lives one struggle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The leaders in their own life stories — Dadabhai Naoroji, the Grand Old Man, proves Britain drains India's wealth; Surendranath Banerji builds the first national movement; Tilak declares swaraj his birthright; Maulana Azad stands for unity. Then let your companion ask you one hard question about it — answer from the lesson.

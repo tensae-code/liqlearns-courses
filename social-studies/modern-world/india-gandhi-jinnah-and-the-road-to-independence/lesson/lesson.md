@@ -26,11 +26,15 @@ salt marches and spinning wheels — non-violence as a weapon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63654 — salt and spinning wheels]
+
 ## Sub lesson 4 — §4.3 How did nationalist ideas influence the growth of national self-consciousness in India?
 
 a colonised people begins to imagine itself a nation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63655 — imagining itself a nation]
 
 ## Say it to your companion
 

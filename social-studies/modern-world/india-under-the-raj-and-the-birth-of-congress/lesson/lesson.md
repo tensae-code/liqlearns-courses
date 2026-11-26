@@ -10,6 +10,8 @@ the Crown takes India from the Company, and educated Indians answer by founding 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63671 — the crown takes congress answers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §22 Changes in the government of India; the founding of the Indian National Congress — the Crown takes India from the Company, and educated Indians answer by founding Congress to press their claims. Then let your companion ask you one hard question about it — answer from the lesson.
