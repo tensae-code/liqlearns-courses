@@ -10,6 +10,8 @@ courier roads, the Grand Canal's grain boats, steamships and railways — each n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41396 — worldsshrink]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Changes in land and water transport — courier roads, the Grand Canal's grain boats, steamships and railways — each network shrinks its world. Then let your companion ask you one hard question about it — answer from the lesson.

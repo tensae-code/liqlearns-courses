@@ -10,6 +10,8 @@ The father of the constitution, sheikh abdullah al salem, proclaims the 1962 con
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41414 — constitution1962]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: development of political life in kuwait. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Kościuszko swears the uprising in Kraków in March 1794, Jakub Jasiński raises
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41417 — swornfallen1794]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The uprising of T. Kościuszko, 1794. Then let your companion ask you one hard question about it — answer from the lesson.

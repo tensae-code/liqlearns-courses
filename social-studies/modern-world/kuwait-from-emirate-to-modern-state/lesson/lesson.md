@@ -10,11 +10,15 @@ Ruler by ruler — jaber al ahmad, "amir of hearts" (1977–2006), who proposed 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41410 — towersrightsstate]
+
 ## Sub lesson 2 — Contemporary Kuwait — sovereignty, diplomacy and humanitarian work
 
 Today's kuwait under sheikh meshal al ahmad practises balanced diplomacy and mediation, gathers world honours, and answers aggression — the book names iran's 2026 missile and drone attacks — with sovereignty held firm.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41409 — mediationfirm]
 
 ## Say it to your companion
 

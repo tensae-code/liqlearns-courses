@@ -10,6 +10,8 @@ Gulf peoples press for freedom as britain withdraws, and sheikh abdullah al sale
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41415 — kuwaitfree1961]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the independence phase of kuwait and the gulf states. Then let your companion ask you one hard question about it — answer from the lesson.

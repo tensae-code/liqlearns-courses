@@ -10,6 +10,8 @@ Machine-breakers give way to unions demanding better conditions and wages instea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41402 — smashingtobargaining]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 15: The labour movement — machine-breakers give way to unions demanding better conditions and wages instead of destruction, until Thiers demands the National Guard's surrender and sends soldiers against Paris. Then let your companion ask you one hard question about it — answer from the lesson.

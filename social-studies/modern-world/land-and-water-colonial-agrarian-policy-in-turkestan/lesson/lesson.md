@@ -10,6 +10,8 @@ land declared state property, water taxed, Slavic settlers planted on irrigated 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41397 — soilquestion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 §16 The agrarian policy of the Russian Empire in the Turkestan krai — land declared state property, water taxed, Slavic settlers planted on irrigated plots — the colonial question written in soil. Then let your companion ask you one hard question about it — answer from the lesson.

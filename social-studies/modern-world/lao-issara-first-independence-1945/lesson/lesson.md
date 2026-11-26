@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: in October 1945 the La
 in October 1945 the Lao Issara proclaims independence and forms a government — Laos's first modern state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41395 — firstmodernstate]
 ## Sub lesson 2 — Part II, Lesson 9: 1945 — The seizure of power and declaration of independence, 1945
 
 as Japan falls, the Lao take power and proclaim independence in 1945
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41394 — powerseized1945]
 ## Sub lesson 3 — Part II, Lesson 9: 1945 — Seizure of power and independence, 1945
 
 as Japan falls, the Lao proclaim independence

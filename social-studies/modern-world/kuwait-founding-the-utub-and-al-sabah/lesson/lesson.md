@@ -10,17 +10,23 @@ Mid-1600s drought in najd drives the al sabah, al khalifa and al jalahma familie
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41413 — droughtmigrate]
+
 ## Sub lesson 2 — Naming Kuwait and choosing Al Sabah to rule
 
 Al-qurain, named for its hill seen from the sea, becomes kuwait, the little fort; in 1716 the three families ally, split rule, trade and sea work, and in 1718 the people pledge sheikh sabah bin jaber as first ruler.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41412 — littlefortnamed]
+
 ## Sub lesson 3 — The Utub migration and the birth of Kuwait's system of rule
 
 The utub arrive and a way of ruling is born with them — chosen leadership and shared counsel — the seed of kuwait's whole political order.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41411 — chosenshared]
 
 ## Say it to your companion
 

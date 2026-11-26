@@ -10,6 +10,8 @@ Kuwait stands uneasily beside the ottoman state, and sheikh mubarak al sabah sig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41416 — shield1899]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the 1899 protection agreement between kuwait and britain. Then let your companion ask you one hard question about it — answer from the lesson.
