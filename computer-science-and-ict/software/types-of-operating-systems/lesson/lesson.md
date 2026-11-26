@@ -10,11 +10,15 @@ Operating systems are typed first by how they handle jobs. **Batch** systems col
 
 In your mind's eye: by how jobs are handled — batch, time-sharing, real-time.
 
+[Picture 45405 — by how jobs are handled — batch, time-sharing, real-time]
+
 ## Sub lesson 2 — By users and by home — single/multi-user, desktop, mobile, embedded
 
 A second sorting is by **users**: **single-user** systems serve one person at a time (a home PC's system); **multi-user** systems serve many at once (a server's system). A third sorting is by **home**: **desktop** systems for personal computers, **mobile** systems for phones (touch, sensors, battery care), and **embedded** systems hidden inside appliances and vehicles, running one dedicated job. One real system can sit in several types at once — a phone's system is single-user, mobile, embedded-home and time-sharing all together.
 
 In your mind's eye: by users and by home — single/multi-user, desktop, mobile, embedded.
+
+[Picture 45406 — by users and by home — single/multi-user, desktop, mobile, embedded]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The **command prompt** is DOS's bare working face: a drive letter, a path, and a
 
 In your mind's eye: the prompt and its commands.
 
+[Picture 45409 — the prompt and its commands]
+
 ## Sub lesson 2 — The appendix's commands — FORMAT, DISKCOPY, TREE, DEL, DATE
 
 Five commands carry the practical. **TREE** shows the directory tree — the disk's folders drawn as branches — the map before any work. **DATE** shows and sets the machine's date. **DEL** deletes a named file — gone at the prompt, with no recycle bin to forgive a slip, so the name is read twice before Enter. **DISKCOPY** copies a whole floppy disk to another, track by track. **FORMAT** prepares a disk for use by **erasing everything on it and laying a fresh empty structure** — the appendix's most dangerous command, taught last and hedged with the standing rule: a formatting order is given only for a disk whose contents are known and finished with.
 
 In your mind's eye: the appendix's commands — FORMAT, DISKCOPY, TREE, DEL, DATE.
+
+[Picture 45410 — the appendix's commands — FORMAT, DISKCOPY, TREE, DEL, DATE]
 
 ## Say it to your companion
 

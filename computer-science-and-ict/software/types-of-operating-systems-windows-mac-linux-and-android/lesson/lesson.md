@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Types of Operating Systems com
 
 In your mind's eye: , Types of Operating Systems compared.
 
+[Picture 45403 — Types of Operating Systems compared]
+
 ## Sub lesson 2 — Project: identify the operating systems installed in the school lab
 
 This part of Pakistan (Punjab)'s book teaches **Project: identify the operating systems installed in the school lab** — covering: Unit 3 project: identify the operating systems installed in the school lab. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: project. Identify the operating systems installed in the school lab.
+
+[Picture 45404 — project. Identify the operating systems installed in the school lab]
 
 ## Say it to your companion
 

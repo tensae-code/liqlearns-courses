@@ -10,11 +10,15 @@ Switch a computer on and watch: before Word, before Paint, before anything else,
 
 In your mind's eye: a Windows desktop just after start-up — the operating system loaded and in charge.
 
+[Picture 45401 — a Windows desktop just after start-up — the operating system loaded and in charge]
+
 ## Sub lesson 2 — A first look around
 
 What Windows shows you first is the **desktop**, with its **icons** and the **taskbar** along the bottom carrying the Start button and the clock. A first look is enough for this lesson: this is the system's home screen, programs open from here into **windows**, and everything you close brings you back here. The parts themselves — icons, the window, the desktop, the menus — get their own lessons next; this first look simply names the place and the system that runs it.
 
 In your mind's eye: the first-look landmarks labelled — desktop, icons, taskbar, Start button, clock.
+
+[Picture 45402 — the first-look landmarks labelled — desktop, icons, taskbar, Start button, clock]
 
 ## Say it to your companion
 

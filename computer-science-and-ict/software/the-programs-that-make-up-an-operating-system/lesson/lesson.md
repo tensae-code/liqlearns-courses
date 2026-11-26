@@ -10,11 +10,15 @@ An operating system is made of **programs**: the **loader** that starts the syst
 
 In your mind's eye: the parts of the system.
 
+[Picture 45394 — the parts of the system]
+
 ## Sub lesson 2 — How the parts work together
 
 At switch-on the loader brings the kernel in; the kernel starts the drivers and the interface; from then on every program asks the kernel for memory, time and devices, and the kernel shares them fairly and guards them. Name the parts and the booting of a computer stops being magic: it is a queue of programs, each starting the next.
 
 In your mind's eye: how the parts work together.
+
+[Picture 45395 — how the parts work together]
 
 ## Say it to your companion
 

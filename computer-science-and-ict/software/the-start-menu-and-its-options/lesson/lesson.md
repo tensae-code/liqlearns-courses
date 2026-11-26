@@ -14,6 +14,8 @@ There are three ways to open the Start menu, and all three open the same menu:
 
 In your mind's eye: the Windows 7 Start menu open, its two sides labelled, with the search box, the Shut down button and its arrow marked.
 
+[Picture 45398 — the Windows 7 Start menu open, its two sides labelled, with the search box, the Shut down button and its arrow marked]
+
 Now read the menu as a map with two sides. The **left side is programs**. At the top sit the programs pinned there — the ones kept always in view. Below them sit the programs you used most recently, so the work you return to is one click away. At the bottom of the left side sits **All Programs**.
 
 The **right side is your places**. At the top is your own name and picture — your account. Below it are the folders and places that belong to you and to this computer: **Documents**, **Pictures** and **Music** for your files; **Computer**, where the drives live; **Control Panel**, where the settings live; and **Help and Support**, where Windows explains itself.

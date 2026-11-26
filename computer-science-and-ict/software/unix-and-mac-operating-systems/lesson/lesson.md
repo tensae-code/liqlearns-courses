@@ -10,11 +10,15 @@ The guide's operating-system map has four corners. After DOS and after Windows/L
 
 In your mind's eye: unix — the multi-user ancestor.
 
+[Picture 45407 — unix — the multi-user ancestor]
+
 ## Sub lesson 2 — The Mac system — Apple's own way
 
 The **Macintosh (Mac)** system is **Apple's operating system for its own computers**: a graphical system of windows and mouse from its early days, made to work only with Apple's machines, and known for its design and its use in publishing, picture and sound work. The guide places Mac beside Unix deliberately — the modern Mac system is itself built on a Unix heart, so the lesson's pair is also a family: the ancestor, and the polished descendant that hides the ancestor's command line under glass.
 
 In your mind's eye: the Mac system — Apple's own way.
+
+[Picture 45408 — the Mac system — Apple's own way]
 
 ## Say it to your companion
 

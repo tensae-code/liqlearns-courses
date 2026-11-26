@@ -10,11 +10,15 @@ Almost every program carries its own **Help**: a built-in book about itself, ope
 
 In your mind's eye: a program's Help window — Contents, Index and Search tabs.
 
+[Picture 45411 — a program's Help window — Contents, Index and Search tabs]
+
 ## Sub lesson 2 — Three ways in — contents, index, search
 
 Help is entered three ways. The **Contents** shows the help book's chapters, for learning a topic in order. The **Index** is an alphabetical list of topics — type the first letters of the thing you want, as in a book's index, and jump to it. **Search** finds every help page containing your words, for when you know the words but not where the topic lives. In all three, the craft is the same: name the thing you are trying to do in the program's own words — 'insert picture', not 'put the photo in' — read the steps it gives, and follow them on your own work. Help answers best those who ask precisely; and when Help has answered once, the path is yours forever.
 
 In your mind's eye: the Index in Help — 'insert picture' typed, and its topic ready to open.
+
+[Picture 45412 — the Index in Help — 'insert picture' typed, and its topic ready to open]
 
 ## Say it to your companion
 

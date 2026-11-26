@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Snipping tool** — covering: Un
 
 In your mind's eye: snipping tool.
 
+[Picture 45396 — snipping tool]
+
 ## Sub lesson 2 — Doing it — The Snipping Tool Capturing Part of the Screen in practice
 
 **Doing it — The Snipping Tool Capturing Part of the Screen in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The Snipping Tool Capturing Part of the Screen in practice.
+
+[Picture 45397 — doing it — The Snipping Tool Capturing Part of the Screen in practice]
 
 ## Say it to your companion
 

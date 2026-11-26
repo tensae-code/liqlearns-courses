@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **The user interface** — covering: 2.3:
 
 In your mind's eye: the user interface.
 
+[Picture 45399 — the user interface]
+
 ## Sub lesson 2 — The interface of the project
 
 This part of Kazakhstan's book teaches **The interface of the project** — covering: 4.4: The interface of the project. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: the interface of the project.
+
+[Picture 45400 — the interface of the project]
 
 ## Say it to your companion
 
