@@ -10,11 +10,15 @@ Villages and towns change between the wars while Bulgarian culture reaches towar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62491 — reaching toward europe]
+
 ## Sub lesson 2 — Lessons 55–57: Socio-economic changes between the wars; the wide horizon of education; Bulgarian culture and modern Europe
 
 Cooperatives, schools for all, and a culture reaching into modern Europe (Lessons 55–57: Socio-economic changes between the wars; the wide horizon of education; Bulgarian culture and modern Europe)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62492 — schools for all]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A monk's handwritten history and a bishop's books wake the Bulgarians to who the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62481 — the first awakeners]
+
 ## Sub lesson 2 — Lesson 31: The birth of national self-awareness — Paisii Hilendarski and Sofroniy Vrachanski
 
 Paisii's history (1762) tells Bulgarians to know their own past and be proud (Lesson 31: The birth of national self-awareness — Paisii Hilendarski and Sofroniy Vrachanski)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62482 — know your past 1762]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Crafts, trade and a rising Bulgarian economy grow inside the Ottoman world (Less
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62499 — growing inside the ottoman world]
+
 ## Sub lesson 2 — Lesson 28: The Bulgarian economy in the 18th–19th centuries
 
 Revival Plovdiv — "the heart of Rumelia" — trades its way into the modern world (Lesson 28: The Bulgarian economy in the 18th–19th centuries)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62500 — plovdiv heart of rumelia]
 
 ## Say it to your companion
 

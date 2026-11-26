@@ -10,11 +10,15 @@ In 1908 Bulgaria declares full independence and Ferdinand takes the title of Tsa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62488 — strength makes independence]
+
 ## Sub lesson 2 — Lesson 48: Strength makes independence
 
 The 1908 declaration makes Bulgaria a fully independent kingdom (Lesson 48: Strength makes independence)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62489 — a fully independent kingdom]
 
 ## Say it to your companion
 

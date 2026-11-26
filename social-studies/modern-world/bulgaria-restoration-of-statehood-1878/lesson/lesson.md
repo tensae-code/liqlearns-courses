@@ -10,11 +10,15 @@ After five centuries, Bulgarian statehood is restored — a principality under O
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62497 — statehood restored]
+
 ## Sub lesson 2 — Lesson 39: The restoration of the Bulgarian state tradition
 
 The state tradition is restored after 1878 — prince, assembly and a nation to rebuild (Lesson 39: The restoration of the Bulgarian state tradition)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62498 — prince assembly a nation]
 
 ## Say it to your companion
 

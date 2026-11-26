@@ -10,11 +10,15 @@ Committees and revolutionaries — the "apostles of Bulgarian freedom" — organ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62495 — apostles of freedom]
+
 ## Sub lesson 2 — Lessons 34–35: The paths of the Bulgarian revolution; the Bulgarian liberation revolution (1869–1875)
 
 Rakovski, Levski and Botev — ideas and political projects for liberation (Lessons 34–35: The paths of the Bulgarian revolution; the Bulgarian liberation revolution (1869–1875))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62496 — rakovski levski botev]
 
 ## Say it to your companion
 

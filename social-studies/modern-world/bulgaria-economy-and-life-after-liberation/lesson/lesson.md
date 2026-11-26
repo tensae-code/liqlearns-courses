@@ -18,6 +18,8 @@ Industry, banks and a changing society carry Bulgaria into the new century (Less
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62478 — into the new century]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lessons 19–20: The Bulgarian economy after the Liberation and the changing world of the Bulgarians — Railways, factories and new towns change how Bulgarians work and live; Lessons 46–47: The Bulgarian economy at the end of the 19th and beginning of the 20th century; the changing Bulgarian society — Industry, banks and a changing society carry Bulgaria into the new century. Then let your companion ask you one hard question about it — answer from the lesson.

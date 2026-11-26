@@ -10,6 +10,8 @@ a vassal principality builds a modern capital and then simply announces it is a 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62483 — a kingdom announced]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: Bulgaria from autonomous principality to independent state — Alexander of Battenberg, the Stambolov era, Sofia's tram and electric light, and the declaration of independence — a vassal principality builds a modern capital and then simply announces it is a kingdom. Then let your companion ask you one hard question about it — answer from the lesson.

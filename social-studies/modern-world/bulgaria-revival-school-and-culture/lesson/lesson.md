@@ -10,6 +10,8 @@ Secular schools multiply and a Bulgarian culture of books, art and learning is b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62501 — schools multiply]
+
 ## Sub lesson 2 — Lesson 32: Education — the spiritual space of the Bulgarians
 
 Donations build schools across the lands — enlightenment as civic duty (Lesson 32: Education — the spiritual space of the Bulgarians)

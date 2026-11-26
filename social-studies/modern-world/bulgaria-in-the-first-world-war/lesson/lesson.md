@@ -10,11 +10,15 @@ Bulgaria joins the Central Powers to regain Macedonia and loses a second nationa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62484 — a second catastrophe]
+
 ## Sub lesson 2 — Lesson 50: The Crash (1915–1918)
 
 Bulgaria's Great War ends in the 1918 crash — Salonica front, collapse and Neuilly (Lesson 50: The Crash (1915–1918))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62485 — the crash 1918]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Bulgaria joins the Axis yet its Jews are saved from Hitler's grasp — the labor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62486 — joined the axis saved its jews]
+
 ## Sub lesson 2 — Lesson 54 + Historical Laboratory: The Kingdom of Bulgaria in the years of the Second World War; the fate of the Bulgarian Jews
 
 Alliance with Germany, regained Southern Dobruja — and the rescue that saved Bulgaria's Jews (Lesson 54 + Historical Laboratory: The Kingdom of Bulgaria in the years of the Second World War; the fate of the Bulgarian Jews)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62487 — the rescue]
 
 ## Say it to your companion
 
