@@ -10,6 +10,8 @@ the Cham raise a chain of coastal kingdoms — Simhapura, Indrapura, Vijaya, Kau
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60467 — Champa's coastal chain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: History Ch. 3 Lesson 1, The Champa state (2nd–18th centuries) — the Cham raise a chain of coastal kingdoms — Simhapura, Indrapura, Vijaya, Kauthara, Panduranga — from 192 CE, sending embassies to China (336, 420 CE) and fighting Angkor and Dai Viet for a thousand years. Then let your companion ask you one hard question about it — answer from the lesson.

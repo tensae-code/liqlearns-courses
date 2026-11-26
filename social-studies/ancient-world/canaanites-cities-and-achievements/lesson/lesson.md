@@ -10,11 +10,15 @@ Arab tribes migrate from the Peninsula and settle al-Sham as Canaanites, excelli
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60452 — settling al-Sham]
+
 ## Sub lesson 2 — Unit 2 Lesson 3: Palestine (Land of Canaan)
 
 The Canaanites build cities from Ras Shamra (Ugarit) to Gaza and Rafah — Urusalim (Jerusalem, "god of peace"), Shechem (Nablus), Jaffa, Hebron, Megiddo — mint shekel coinage, trade with Babylon, Egypt and Yemen, and endure successive Pharaonic, Assyrian, Chaldean and Persian occupations because their land commands the routes (Unit 2 Lesson 3: Palestine (Land of Canaan))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60453 — the cities of Canaan]
 
 ## Say it to your companion
 

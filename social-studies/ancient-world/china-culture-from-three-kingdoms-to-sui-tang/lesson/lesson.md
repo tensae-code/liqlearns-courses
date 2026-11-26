@@ -10,6 +10,8 @@ Buddhism localises, Daoism organises, Wang Xizhi's calligraphy and the Tang poet
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60474 — a cosmopolitan high culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Culture from the Three Kingdoms to Sui-Tang — Buddhism localises, Daoism organises, Wang Xizhi's calligraphy and the Tang poets make a cosmopolitan high culture on the Silk Road's edge. Then let your companion ask you one hard question about it — answer from the lesson.

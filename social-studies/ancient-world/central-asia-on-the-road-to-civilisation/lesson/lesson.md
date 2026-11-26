@@ -10,6 +10,8 @@ on the homeland's own soil, settlements like Sapallitepa and Jarkutan grow towar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60461 — settlements grow, iron spreads]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §5 Central Asia at the transition to the Iron Age and §6 The birth of the first civilisations — on the homeland's own soil, settlements like Sapallitepa and Jarkutan grow toward civilisation as iron spreads — the world story measured against home. Then let your companion ask you one hard question about it — answer from the lesson.

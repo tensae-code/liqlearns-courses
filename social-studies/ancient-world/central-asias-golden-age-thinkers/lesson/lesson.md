@@ -10,6 +10,8 @@ al-Khwarizmi gives the world algebra, al-Biruni measures the earth, Ibn Sina wri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60462 — the brilliant thinkers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 20. The brilliant thinkers of Central Asia (9th–12th centuries) — al-Khwarizmi gives the world algebra, al-Biruni measures the earth, Ibn Sina writes medicine's canon and al-Farabi philosophises — the homeland as the world's classroom. Then let your companion ask you one hard question about it — answer from the lesson.

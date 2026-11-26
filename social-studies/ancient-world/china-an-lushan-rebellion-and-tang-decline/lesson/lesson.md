@@ -10,11 +10,15 @@ eight years of rebellion leave the north 'empty for a thousand li' in Du Fu's po
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60468 — the rebellion empties the north]
+
 ## Sub lesson 2 — Tang falls apart
 
 after 755 the court's writ shrinks to the capital's shadow while warlords keep the taxes and the armies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60469 — the court's writ shrinks]
 
 ## Say it to your companion
 

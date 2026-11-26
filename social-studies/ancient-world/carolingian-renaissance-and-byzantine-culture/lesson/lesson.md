@@ -10,6 +10,8 @@ monastery schools teach writing on wax tablets; Alcuin teaches Charlemagne's chi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60456 — Carolingian culture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 8: Cultura în Europa Occidentală și Bizanț — monastery schools teach writing on wax tablets; Alcuin teaches Charlemagne's children the seven liberal arts, and Justinian's Latin law code becomes Europe's legal model. Then let your companion ask you one hard question about it — answer from the lesson.

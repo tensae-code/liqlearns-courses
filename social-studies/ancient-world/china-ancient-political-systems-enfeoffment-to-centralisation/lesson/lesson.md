@@ -10,6 +10,8 @@ at a birthday banquet in 213 BCE a guest praises the First Emperor for replacing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60471 — the banquet of 213 BCE]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ancient Chinese political systems form and develop — at a birthday banquet in 213 BCE a guest praises the First Emperor for replacing lords with commanderies; another begs him to restore the old enfeoffments — Li Si wins the argument, and centralised government is fixed for two thousand years. Then let your companion ask you one hard question about it — answer from the lesson.

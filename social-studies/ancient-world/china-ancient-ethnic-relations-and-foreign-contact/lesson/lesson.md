@@ -10,6 +10,8 @@ marriage alliances, tributary embassies, the Tang's open capital and Zheng He's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60470 — managing the empire's edges]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ethnic relations and foreign contact in ancient China — marriage alliances, tributary embassies, the Tang's open capital and Zheng He's fleets — how a multi-ethnic empire managed its edges. Then let your companion ask you one hard question about it — answer from the lesson.

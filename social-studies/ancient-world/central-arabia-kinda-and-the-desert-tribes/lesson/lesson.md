@@ -10,6 +10,8 @@ The desert tribes of Najd accept kings from Yemen's choice and Hujr ibn Amr foun
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60460 — Hujr founds Kinda]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Civilisation in the centre — the desert tribes of Najd accept kings from Yemen's choice and Hujr ibn Amr founds Kinda, the one kingdom of central Arabia before Islam. Then let your companion ask you one hard question about it — answer from the lesson.
