@@ -10,6 +10,8 @@ after Bạch Đằng he drops the Tiết độ sứ title, proclaims himself Kin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61908 — 939 a king at co loa]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 9, Ngô Quyền builds the independent state (939) — after Bạch Đằng he drops the Tiết độ sứ title, proclaims himself King and rules from Cổ Loa with civil and military officials and generals holding the provinces; the Trần-era historian Lê Văn Hưu judges that with him "the orthodox line of our country's kingship was restored". Then let your companion ask you one hard question about it — answer from the lesson.

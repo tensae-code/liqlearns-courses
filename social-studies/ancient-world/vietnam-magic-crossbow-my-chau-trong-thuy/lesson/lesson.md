@@ -10,6 +10,8 @@ the Golden Tortoise god helps An Dương Vương build Cổ Loa and gives a claw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61904 — the stolen claw]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 5, the tale of the magic crossbow (Sự tích nỏ thần) — the Golden Tortoise god helps An Dương Vương build Cổ Loa and gives a claw for his crossbow trigger; enemy prince Trọng Thuỷ marries Princess Mỵ Châu, steals the trigger's secret, and Âu Lạc falls. Then let your companion ask you one hard question about it — answer from the lesson.

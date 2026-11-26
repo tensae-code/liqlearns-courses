@@ -10,11 +10,15 @@ over 200 years the Lý complete the state and encourage farming; a girl glimpsed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61896 — the consort from the orchid bush]
+
 ## Sub lesson 2 — Bài 11, the founding of the Lý and the move to Thăng Long (1010)
 
 the orphan Lý Công Uẩn, raised by the monk Vạn Hạnh, is enthroned in 1009; his Edict on Moving the Capital praises Đại La's dragon-coiling, tiger-crouching site, legend sees a golden dragon rise where his boat lands, and the new capital is named Thăng Long, the Rising Dragon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61897 — thang long the rising dragon]
 
 ## Sub lesson 3 — Bài 11, Lý government, law, army and economy
 
@@ -22,11 +26,15 @@ In your mind's eye: the place and people of this part of the story. Name two thi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61898 — the king ploughs the court weaves local]
+
 ## Sub lesson 4 — Bài 11, Lý culture and religion
 
 Buddhism is honoured above a rising Confucianism; King Lý Thái Tông dreams of the Buddha Quan Âm rising on a lotus from the earth and builds the One Pillar Pagoda (1049); chèo theatre, water puppetry and the poems Chiếu dời đô and Nam quốc sơn hà mark the age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61899 — a pagoda on one pillar]
 
 ## Say it to your companion
 

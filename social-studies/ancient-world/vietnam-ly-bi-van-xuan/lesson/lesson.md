@@ -10,11 +10,15 @@ under the harsh Liang, local leader Lý Bí rises in the 6th century, the occupi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61894 — ten thousand springs 544]
+
 ## Sub lesson 2 — Bài 16, Lý Bí's uprising and the state of Vạn Xuân
 
 in 542 Lý Bí throws off the Lương; in 544 he proclaims himself Lý Nam Đế of Vạn Xuân, building the Vạn Thọ palace and Khai Quốc pagoda; Triệu Quang Phục holds out in the Dạ Trạch swamp and reigns as Triệu Việt Vương, until the Sui end Vạn Xuân in 602
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61895 — holding out in the swamp]
 
 ## Say it to your companion
 

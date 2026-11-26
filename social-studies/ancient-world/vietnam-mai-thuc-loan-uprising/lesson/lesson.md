@@ -10,6 +10,8 @@ from Hoan Châu the revolt draws tens of thousands, wins Chăm-pa and Chenla sup
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61905 — emperor at van an]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 16, the uprising of Mai Thúc Loan (713–722) — from Hoan Châu the revolt draws tens of thousands, wins Chăm-pa and Chenla support, takes Tống Bình and frees the country; Mai Thúc Loan proclaims himself emperor at Vạn An citadel before the Tang crush the rising in 722. Then let your companion ask you one hard question about it — answer from the lesson.

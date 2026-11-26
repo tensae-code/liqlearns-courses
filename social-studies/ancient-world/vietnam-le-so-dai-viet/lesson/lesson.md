@@ -26,17 +26,23 @@ Confucianism reigns alone; the Hội Tao đàn poetry society gathers 28 members
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61891 — talent is the nations spirit]
+
 ## Sub lesson 4 — Chuyên đề 3.II Lê Thánh Tông (1442–1497): the reforming king — administration rebuilt into thirteen circuits, the Hồng Đức law code of 722 articles, the Tao Đàn poetry society, examinations regularised, and the 1473 edict that not one foot of the Thái Tổ's mountains or rivers may be traded away
 
 a king who writes poetry, maps and laws also writes the border doctrine his country still quotes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61892 — the king who writes laws and poems]
+
 ## Sub lesson 5 — Bài 10 Lê Thánh Tông's reforms (1400s): after child kings and the Lệ Chi Viên injustice, the king strips the great mandarins, perfects the Six Ministries with Six Offices and Six Departments watching them, redraws five circuits into thirteen thừa tuyên (1466–1471), promulgates the 722-article Hồng Đức code (1483) protecting women, the old, the disabled and children, reorganises the army, shares land by quân điền down to orphans and widows, and holds twelve examinations passing over 500 tiến sĩ
 
 a king builds a machine of mutual checks so well that the chronicle says the country's posture became hard to shake
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61893 — a machine of mutual checks]
 
 ## Say it to your companion
 
