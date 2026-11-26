@@ -12,6 +12,8 @@ Founding Day remembers the beginning: Imam Muhammad bin Saud founds the Saudi st
 
 In your mind's eye: two flags flying over a Saudi town, one above an old mud-brick street dated 1727 and one above a modern city dated 1932. The student points to each flag and says which day it stands for and what happened in that year.
 
+[Picture 40582 — founding1727]
+
 ## Sub lesson 2 — National Day, 1932
 
 National Day remembers the uniting: King Abdulaziz unifies the country in 1932 — 1351هـ.

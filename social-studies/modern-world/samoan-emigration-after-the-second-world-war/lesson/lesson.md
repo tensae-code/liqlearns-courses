@@ -10,6 +10,8 @@ the Pacific war brings thousands of American troops and a cash boom to Sāmoa; w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40588 — wagestravel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 5 — the Pacific war brings thousands of American troops and a cash boom to Sāmoa; when the military leaves, the taste for wages stays — in 1952 almost a thousand American Sāmoans apply for navy transport to Hawaii, over 6,000 reach the USA in the 1950s, and New Zealand's post-war labour hunger, its 1955 permit system and independence in 1962 open the second great flow. Then let your companion ask you one hard question about it — answer from the lesson.

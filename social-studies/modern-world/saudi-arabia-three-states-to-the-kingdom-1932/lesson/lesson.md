@@ -10,6 +10,8 @@ The first Saudi state rose at Diriyah (1745–1818) and fell to Ibrahim Pasha's 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40581 — threestatesone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Saudi Arabia — three states to the Kingdom, 1932. Then let your companion ask you one hard question about it — answer from the lesson.

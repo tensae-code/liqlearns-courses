@@ -10,11 +10,15 @@ populists, then Marxist social democrats, organise in secret against the Tsar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40598 — insecret]
+
 ## Sub lesson 2 — §8.1 Why did Tsar Alexander II become a victim of "Narodnaya Volya"?
 
 the tsar who freed the serfs is hunted and killed by the revolutionary terrorists of the People's Will
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40597 — liberatorkilled]
 
 ## Say it to your companion
 

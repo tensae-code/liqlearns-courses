@@ -12,6 +12,8 @@ The story stands on what King Abdulaziz had already done: he had secured the roa
 
 In your mind's eye: a desert road between two Saudi towns at dusk, a single courier on horseback carrying a sealed letter, watchers hidden far off among the rocks. The student points to the courier and says what he carries and why it must arrive.
 
+[Picture 40580 — bravecourier]
+
 ## Sub lesson 2 — The secret letter
 
 But a united country is not yet a safe one everywhere. The king must get a secret letter to his men in another city — and enemies watch the road between.

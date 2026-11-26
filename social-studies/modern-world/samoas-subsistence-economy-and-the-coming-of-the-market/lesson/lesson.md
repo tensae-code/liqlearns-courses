@@ -10,6 +10,8 @@ pre-European Sāmoa produces through aiga and village, pays specialists in fine 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40585 — matstocopra]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 5, Unit 2 — pre-European Sāmoa produces through aiga and village, pays specialists in fine mats, and trades ceremonial treasures with Fiji and Tonga (red feathers, 'ie toga, whale teeth); beachcombers, missionaries and traders bring sugar, flour, iron and cloth, Sāmoans grow copra for cash, and the DHPG's plantations import indentured labour and turn Apia into a commercial centre. Then let your companion ask you one hard question about it — answer from the lesson.

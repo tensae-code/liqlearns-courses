@@ -10,17 +10,23 @@ Britain asks New Zealand to seize German Samoa at the start of the First World W
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40592 — firstpacific]
+
 ## Sub lesson 2 — Unit 1, Activity 6 "Samoa's National Identity"
 
 learners return to the Year 10 Book 1 history timeline (printed pp. 46–47 of that book) and choose which events on it — takeover, influenza, Mau, independence — did the work of forming Samoa's national identity
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40591 — identityevents]
+
 ## Sub lesson 3 — Unit 1, Topic 2 key-words box, "Discrimination" example
 
 when the First World War begins, New Zealand takes Samoa from Germany and tears German men from their Samoan wives and families, imprisoning them until the war ends
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40590 — familiestorn]
 
 ## Say it to your companion
 

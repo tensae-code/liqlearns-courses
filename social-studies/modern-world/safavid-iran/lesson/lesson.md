@@ -10,6 +10,8 @@ Shah Abbas rebuilds Safavid Iran into a power between Ottomans and Mughals, then
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40594 — betweentwoempires]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §23 Iran in the 16th–18th centuries — Shah Abbas rebuilds Safavid Iran into a power between Ottomans and Mughals, then Afghan revolt and Nader Shah's storm remake it. Then let your companion ask you one hard question about it — answer from the lesson.

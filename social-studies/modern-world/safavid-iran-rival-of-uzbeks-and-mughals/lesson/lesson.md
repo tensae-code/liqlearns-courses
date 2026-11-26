@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: from Sheikh Safiuddin 
 from Sheikh Safiuddin of Ardabil's Sufi order, Shah Ismail founds Safavid Iran, the strong rival of both the Uzbeks and the Baburids with Afghanistan between them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40596 — sufitoempire]
 ## Sub lesson 2 — Lesson 16: The Safavids and Afghanistan
 
 Safavid Iran holds Kandahar and Herat's marches as its eastern prize
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40595 — kandaharherat]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ a tafa'ifā holds all four pāpā titles and is made by the districts, not inher
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40586 — fourtitles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 3, Unit 1, causes — a tafa'ifā holds all four pāpā titles and is made by the districts, not inherited — so when foreigners push a centralised government and a "king" in 1854, Malietoa Laupepa, Malietoa Talavou, Mataafa and Tupua Tamasese all have genealogical claims, and Britain, America and Germany arm their favourites. Then let your companion ask you one hard question about it — answer from the lesson.

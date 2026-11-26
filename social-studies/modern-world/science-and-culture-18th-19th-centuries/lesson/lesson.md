@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: engines, Darwin, novel
 engines, Darwin, novels and paintings — a civilisation remakes its tools and its imagination together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40579 — toolsimagination]
 ## Sub lesson 2 — Part II, Lesson 7: Technique, science, literature and art
 
 engines, Darwin, novels and paintings remake civilisation together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40578 — wholecivilisation]
 
 ## Say it to your companion
 

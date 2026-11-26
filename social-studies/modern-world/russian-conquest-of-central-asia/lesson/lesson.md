@@ -10,17 +10,23 @@ Russia advances fortress by fortress from the steppe; Tashkent, Samarkand and Kh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40601 — fortressbyfortress]
+
 ## Sub lesson 2 — Ch. 2 §§6–7 The beginning of the Russian Empire's conquests in Central Asia
 
 fortress lines creep down the Syr Darya; Ak-Mechet, Chimkent and Aulie-Ata fall as the empire closes on Tashkent
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40600 — fortresslines]
+
 ## Sub lesson 3 — Ch. 2 §8 The continuation of the campaigns of conquest in Central Asia
 
 Chernyaev takes Tashkent (1865), Kaufman takes Samarkand (1868) — in five years the map of the homeland is redrawn by two generals
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40599 — twogenerals]
 
 ## Say it to your companion
 

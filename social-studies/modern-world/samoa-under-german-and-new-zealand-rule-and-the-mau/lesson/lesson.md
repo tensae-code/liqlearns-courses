@@ -10,6 +10,8 @@ Germany rules Samoa from 1900; New Zealand seizes it in 1914 as Germany loses th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40589 — themau]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 1, "Office of the Mau, Vaimoso" — Germany rules Samoa from 1900; New Zealand seizes it in 1914 as Germany loses the First World War; resentment at New Zealand rule forms the Mau in 1926 under Tupua Tamasese at Vaimoso, resisting peacefully by refusing taxes, registrations and government schools, on the road to independence in 1962. Then let your companion ask you one hard question about it — answer from the lesson.
