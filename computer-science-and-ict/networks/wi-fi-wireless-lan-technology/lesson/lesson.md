@@ -10,11 +10,15 @@ The network with no visible network: laptops and phones join it through the air 
 
 In your mind's eye: wi-Fi — the LAN without cables.
 
+[Picture 46169 — wi-Fi — the LAN without cables]
+
 ## Sub lesson 2 — Range and security — the open air's price
 
 Radio respects no walls, so Wi-Fi's **range** is also its **risk**: the network extends into the street, where a stranger's device can listen, guess at the door, or set up a false access point with the same name. The book's defences are the citizen's checklist: a **strong password** on the network, modern **encryption (WPA2/WPA3)** switched on, the router's own admin password changed, and care with open networks in public places — on an unencrypted café network, other listeners are not a possibility but a population. The convenience is real; so is the air it travels.
 
 In your mind's eye: range and security — the open air's price.
+
+[Picture 46170 — range and security — the open air's price]
 
 ## Say it to your companion
 

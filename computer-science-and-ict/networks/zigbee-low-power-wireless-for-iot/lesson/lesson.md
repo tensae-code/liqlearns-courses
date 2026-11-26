@@ -10,11 +10,15 @@ A sensor that must live five years on a coin battery cannot shout. Zigbee is the
 
 In your mind's eye: what Zigbee is — slow, small, long-lived.
 
+[Picture 46173 — what Zigbee is — slow, small, long-lived]
+
 ## Sub lesson 2 — Coordinator and devices — the network's roles
 
 A Zigbee network is started and managed by one **coordinator**, which chooses the channel and lets devices join. **Routers** relay messages and can parent sleeping children; **end devices** only sense and send, sleeping the rest of the time — the cheapest, longest-lived role. Jordan places Zigbee inside the IoT unit because it is the smart home's and the sensor field's native tongue: lamps, locks, thermostats and meters speak it.
 
 In your mind's eye: coordinator and devices — the network's roles.
+
+[Picture 46174 — coordinator and devices — the network's roles]
 
 ## Say it to your companion
 

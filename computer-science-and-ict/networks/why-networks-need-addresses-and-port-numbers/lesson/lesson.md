@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **The Need for Addressing and §3.
 
 In your mind's eye: the Need for Addressing and §3.5.1 Importance of Addressing in Data Communication.
 
+[Picture 46167 — the Need for Addressing and §3.5.1 Importance of Addressing in Data Communication]
+
 ## Sub lesson 2 — Doing it — Why Networks Need Addresses and Port Numbers in practice
 
 **Doing it — Why Networks Need Addresses and Port Numbers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Why Networks Need Addresses and Port Numbers in practice.
+
+[Picture 46168 — doing it — Why Networks Need Addresses and Port Numbers in practice]
 
 ## Say it to your companion
 

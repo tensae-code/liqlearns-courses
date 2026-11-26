@@ -10,11 +10,15 @@ Three wireless technologies, three sizes of world: one connects the earphone in 
 
 In your mind's eye: wiMAX — the metropolitan wireless.
 
+[Picture 46171 — wiMAX — the metropolitan wireless]
+
 ## Sub lesson 2 — The comparison — three scales side by side
 
 The book's table compares the three by **standard, speed and range**: **Bluetooth** — personal, metres of range, modest speed, tiny power; **Wi-Fi** — the LAN, tens of metres, fast; **WiMAX** — the metropolitan network, kilometres, broadband speed. Read the table as one law in three lines: **range, speed and power trade against each other** — no technology wins all three, which is why all three exist. The citizen's skill is matching the errand to the scale: earphones to Bluetooth, the classroom to Wi-Fi, the unwired town to WiMAX.
 
 In your mind's eye: the comparison — three scales side by side.
+
+[Picture 46172 — the comparison — three scales side by side]
 
 ## Say it to your companion
 
