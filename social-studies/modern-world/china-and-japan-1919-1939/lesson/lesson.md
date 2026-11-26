@@ -10,6 +10,8 @@ Sun Yat-sen's reorganised Kuomintang and the Communists (party founded 1921) mov
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62609 — from alliance to civil war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 12, China and Japan (1919–1939) — Sun Yat-sen's reorganised Kuomintang and the Communists (party founded 1921) move from alliance to civil war, while militarist Japan presses on the mainland. Then let your companion ask you one hard question about it — answer from the lesson.

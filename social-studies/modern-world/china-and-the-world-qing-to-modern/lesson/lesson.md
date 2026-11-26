@@ -10,6 +10,8 @@ China emerges from empire into the modern world — the turn the dynastic story 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62614 — into the modern world]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 2b: China in the modern world (2b.8) — China emerges from empire into the modern world — the turn the dynastic story ends in. Then let your companion ask you one hard question about it — answer from the lesson.

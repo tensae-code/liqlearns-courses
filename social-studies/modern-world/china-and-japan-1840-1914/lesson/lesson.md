@@ -10,6 +10,8 @@ Qing China (1642–1912), rich and self-satisfied, is forced open by foreign pow
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62608 — forced open or modernising]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 2, China and Japan (1840–1914) — Qing China (1642–1912), rich and self-satisfied, is forced open by foreign powers, while Japan studies the same West and modernises instead of submitting. Then let your companion ask you one hard question about it — answer from the lesson.

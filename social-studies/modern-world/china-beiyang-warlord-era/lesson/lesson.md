@@ -10,6 +10,8 @@ Yuan's monarchy farce, his death, and a decade of cliques at war while national 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62616 — cliques at war]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Politics, economy and culture under the Beiyang warlords — Yuan's monarchy farce, his death, and a decade of cliques at war while national industry enjoys its brief golden age and new culture stirs. Then let your companion ask you one hard question about it — answer from the lesson.

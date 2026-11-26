@@ -10,11 +10,15 @@ Lin Zexu's letter to Queen Victoria meets Palmerston's gunboat answer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62611 — a letter meets a gunboat]
+
 ## Sub lesson 2 — 6.2 Were economic problems the main cause of China's weakening by 1900?
 
 opium deficits, rebellions and foreign pressure are weighed together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62612 — weighed together]
 
 ## Say it to your companion
 

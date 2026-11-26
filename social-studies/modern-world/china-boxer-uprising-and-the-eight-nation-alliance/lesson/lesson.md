@@ -10,6 +10,8 @@ in 1900 the Boxers turn on foreign influence itself — and are crushed by a joi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62617 — eight nations march]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the Boxer Uprising — in 1900 the Boxers turn on foreign influence itself — and are crushed by a joint army of the European powers, America and Japan, marching together on Beijing. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ in the 1950s–70s families buy grain, cloth and bicycles only with ration coupo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62620 — the three big items change]
+
 ## Sub lesson 2 — Social life changes
 
 wardrobes turn from blue-grey uniformity to fashion, ration coupons become museum pieces, and trains give way to high-speed rail and mobile payment
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62621 — from coupons to mobile payment]
 
 ## Say it to your companion
 

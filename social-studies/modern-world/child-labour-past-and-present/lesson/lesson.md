@@ -10,6 +10,8 @@ Work that steals childhood, potential and dignity — from debt bondage and serf
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62602 — work that steals childhood]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Child labour — work that steals childhood, potential and dignity — from debt bondage and serfdom to the worst forms named and outlawed; students examine the laws against it and how economic needs drive it. Then let your companion ask you one hard question about it — answer from the lesson.

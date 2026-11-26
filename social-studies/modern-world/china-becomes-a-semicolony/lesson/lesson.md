@@ -10,6 +10,8 @@ after defeat by Japan (1894–95) the powers carve spheres — Germany takes Jia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62615 — a semi colony]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §28 China at the end of the 19th century — after defeat by Japan (1894–95) the powers carve spheres — Germany takes Jiaozhou, Russia Port Arthur, Britain Weihaiwei — foreign firms, railways and mines turn the Qing empire into a semi-colony whose own bourgeoisie largely serves as compradors. Then let your companion ask you one hard question about it — answer from the lesson.

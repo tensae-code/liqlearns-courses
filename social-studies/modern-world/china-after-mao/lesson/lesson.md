@@ -10,6 +10,8 @@ the communist world goes to war with itself (Vietnam, Cambodia, China's border w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62607 — the centre of gravity shifts]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 12 §§7–8 I conflitti nell'Asia comunista; La Cina post-maoista — the communist world goes to war with itself (Vietnam, Cambodia, China's border war) while Deng's China quietly changes system — socialism's Asian centre of gravity shifts. Then let your companion ask you one hard question about it — answer from the lesson.

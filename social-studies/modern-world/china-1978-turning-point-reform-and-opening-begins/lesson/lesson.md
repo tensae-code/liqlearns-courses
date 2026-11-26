@@ -10,11 +10,15 @@ a May 1978 newspaper article, 'Practice is the sole criterion of truth', breaks 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62603 — the great turning point]
+
 ## Sub lesson 2 — Economic system reform
 
 Xiaogang's farmers secretly divide the collective land by household fingerprint contract, harvests leap, and the household responsibility system sweeps rural China before reform enters the cities
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62604 — the fingerprint contract]
 
 ## Sub lesson 3 — Opening to the outside
 
@@ -22,11 +26,15 @@ Shenzhen grows from a border fishing town into a skyscraper special economic zon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62605 — shenzhen rises]
+
 ## Sub lesson 4 — The road of socialism with Chinese characteristics opens
 
 1978's turn, the special zones, the market's rehabilitation and Deng's Southern Tour relaunch the whole project
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62606 — the road opens]
 
 ## Say it to your companion
 
