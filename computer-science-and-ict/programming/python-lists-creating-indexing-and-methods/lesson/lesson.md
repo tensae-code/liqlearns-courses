@@ -10,11 +10,15 @@ A **list** holds **many values in one variable, in order**, written in square br
 
 In your mind's eye: creating a list and indexing it.
 
+[Picture 47519 — creating a list and indexing it]
+
 ## Sub lesson 2 — List methods — changing the collection
 
 Lists are **mutable** — they can change after creation — and their **methods** are the changes with names: **append** adds an item at the end; **insert** places one at a chosen index; **remove** and **pop** take items out; **sort** orders them and **reverse** turns them around; **index** and **count** answer questions about what is inside. Read a method by its effect on the collection, and remember the course's warning in the same breath: the list changed is the same list — no copy is made unless the program asks for one.
 
 In your mind's eye: list methods — changing the collection.
+
+[Picture 47520 — list methods — changing the collection]
 
 ## Say it to your companion
 

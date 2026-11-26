@@ -10,11 +10,15 @@ A **module** is a **Python file of ready code** — functions and values written
 
 In your mind's eye: modules — a file of code, imported.
 
+[Picture 47521 — modules — a file of code, imported]
+
 ## Sub lesson 2 — Packages — modules organised, and the AI doorway
 
 A **package** is modules **organised together** under one name — a library: a family of modules for one great subject, imported as one household. The course's destination names the point: the AI unit's powers arrive as packages — the vision library OpenCV among them — and a pupil who understands import understands how a school program can suddenly recognise faces: not by new magic, but by importing solved problems. Import is the programmer's library card; this unit issues it before the AI shelves are visited.
 
 In your mind's eye: packages — modules organised, and the AI doorway.
+
+[Picture 47522 — packages — modules organised, and the AI doorway]
 
 ## Say it to your companion
 

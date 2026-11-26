@@ -10,11 +10,15 @@ When a Python program meets an operation it cannot do, it **raises an exception*
 
 In your mind's eye: exceptions — failure with a name.
 
+[Picture 47515 — exceptions — failure with a name]
+
 ## Sub lesson 2 — try and except — catching the failure, keeping the program
 
 **try** wraps the dangerous lines: 'try this'; **except** stands beneath with the rescue: 'if that failure happens, do this instead' — explain, ask again, use a safe value — and the program **continues** past the caught failure. The book's set build is the **school-trip cost-sharing calculator**: its inputs are pupils' typed numbers, so its divisions are wrapped, and a nonsense entry earns a message and another chance instead of a corpse of a program. The habit is the lesson: dangerous ground is crossed inside try, everywhere in the course after this.
 
 In your mind's eye: try and except — catching the failure, keeping the program.
+
+[Picture 47516 — try and except — catching the failure, keeping the program]
 
 ## Say it to your companion
 

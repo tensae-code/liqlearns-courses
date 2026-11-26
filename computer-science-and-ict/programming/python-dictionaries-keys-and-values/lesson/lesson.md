@@ -10,11 +10,15 @@ A **dictionary** keeps **pairs**: a **key** and its **value**, written in curly 
 
 In your mind's eye: keys and values — reaching by name.
 
+[Picture 47513 — keys and values — reaching by name]
+
 ## Sub lesson 2 — Working with dictionaries — add, change, remove, ask
 
 Dictionaries are **mutable** in the record-keeper's ways: assigning to a **new key adds** a pair; assigning to an **existing key changes** its value; **del** and **pop** remove pairs; and the dictionary answers questions — its **keys**, its **values**, whether a key is present at all. The warning travels with the power: asking for a key that is **absent raises an error**, so careful programs test before they ask — the dictionary's version of looking before leaping.
 
 In your mind's eye: working with dictionaries — add, change, remove, ask.
+
+[Picture 47514 — working with dictionaries — add, change, remove, ask]
 
 ## Say it to your companion
 

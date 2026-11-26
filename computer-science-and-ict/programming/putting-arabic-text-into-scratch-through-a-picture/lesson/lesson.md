@@ -10,11 +10,15 @@ The lesson starts from the limit, stated plainly: **Scratch 2’s painter cannot
 
 In your mind's eye: the problem — the painter cannot type Arabic.
 
+[Picture 47509 — the problem — the painter cannot type Arabic]
+
 ## Sub lesson 2 — The workaround — write in MS Paint, save as a picture, upload
 
 The book’s route goes around the limit in three steps: write the text in **MS Paint**, **save it as a picture** — **JPEG, PNG or GIF** — and **upload** the picture into Scratch, where it works as a sprite or costume. The project proves it: **your full name, each word a different colour**.
 
 In your mind's eye: the workaround — write in MS Paint, save as a picture, upload.
+
+[Picture 47510 — the workaround — write in MS Paint, save as a picture, upload]
 
 ## Say it to your companion
 

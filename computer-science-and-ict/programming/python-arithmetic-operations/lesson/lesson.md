@@ -10,11 +10,15 @@ Python writes arithmetic with the signs of the keyboard: **+** adds, **−** sub
 
 In your mind's eye: the four operations — + − * /.
 
+[Picture 47511 — the four operations — + − * /]
+
 ## Sub lesson 2 — Division's two answers — and the types that follow
 
 Division in Python returns a **decimal (float)** even when it divides evenly — 10 / 2 is 5.0 — while +, − and * on whole numbers stay **whole (int)** until a decimal joins them. The type of the result follows the types of the ingredients, and the programmer who forgets it meets money printed as 5.0 and ages as 12.0000001's cousins in rounding. The sessions practise the four operations on real errands — totals, change, averages — because arithmetic in a program is never for its own sake: it is the school's mathematics, hired.
 
 In your mind's eye: division's two answers — and the types that follow.
+
+[Picture 47512 — division's two answers — and the types that follow]
 
 ## Say it to your companion
 

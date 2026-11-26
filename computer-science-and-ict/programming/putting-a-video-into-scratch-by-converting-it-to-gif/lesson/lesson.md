@@ -10,11 +10,15 @@ The route starts with respect and brevity: a **short clip of 20–30 seconds, do
 
 In your mind's eye: download short, convert to GIF.
 
+[Picture 47507 — download short, convert to GIF]
+
 ## Sub lesson 2 — No sound in a GIF — record it separately
 
 **GIF has no sound**, so the clip’s **sound is recorded separately and added** as the project’s own sound. Inside Scratch, the **GIF’s costumes stepped through in a loop make the motion** — the video plays because the costumes change fast enough to fool the eye, with the added sound beside them.
 
 In your mind's eye: no sound in a GIF — record it separately.
+
+[Picture 47508 — no sound in a GIF — record it separately]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **prototype** is a **quick, rough, working version** of a system — or of its
 
 In your mind's eye: prototyping — build a rough one to learn from.
 
+[Picture 47503 — prototyping — build a rough one to learn from]
+
 ## Sub lesson 2 — RAD — the whole build at prototype speed
 
 **Rapid Application Development (RAD)** turns the prototype's way into the whole method: users and builders work **together in short cycles**, building the system piece by piece, each piece tried by its real users as soon as it stands, with the plan allowed to change as the trying teaches. Its gains are speed and fit — a system its users helped shape. Its price is discipline's opposite risk: a loosely run RAD build can wander, half-documented and hard to maintain. Fiji's closing judgment is the senior course's balance: the life cycle for systems that must be right; prototyping and RAD where learning fast matters more.
 
 In your mind's eye: rAD — the whole build at prototype speed.
+
+[Picture 47504 — rAD — the whole build at prototype speed]
 
 ## Say it to your companion
 

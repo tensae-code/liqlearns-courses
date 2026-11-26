@@ -10,11 +10,15 @@ A **function** is a **named block of code that does one job**, written with **de
 
 In your mind's eye: defining and calling — write once, use by name.
 
+[Picture 47517 — defining and calling — write once, use by name]
+
 ## Sub lesson 2 — Returning — the function hands back its answer
 
 A function may **return** a value: the job's result, handed back to the caller and usable in the caller's next step — assigned, printed, tested. Parameters carry values **in**; return carries the answer **out**; a function with neither is a pure doing (it prints, it draws), and one with both is the general shape. Kuwait's order — lists, tuples, dictionaries, then functions — is the course completing the first programmer's kit: hold data in structures, and hold work in functions.
 
 In your mind's eye: returning — the function hands back its answer.
+
+[Picture 47518 — returning — the function hands back its answer]
 
 ## Say it to your companion
 
