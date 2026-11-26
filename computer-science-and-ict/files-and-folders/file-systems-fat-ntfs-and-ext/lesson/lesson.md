@@ -10,11 +10,15 @@ A **file system** is the way an **operating system organises, names, stores and 
 
 In your mind's eye: what a file system is — the disk's order.
 
+[Picture 45439 — what a file system is — the disk's order]
+
 ## Sub lesson 2 — The named families — FAT, NTFS and ext
 
 Sri Lanka's book names the families a learner will meet. The **FAT** family — **FAT16 and FAT32** — is the oldest and simplest of the set, long used on small drives and memory cards. **NTFS** is the file system of **Windows**, built for larger disks and files. **ext4** and **ReiserFS** belong to **Linux**. There are several families because they were made at different times, for different disk sizes and different operating systems — the file system you can use is the one your operating system knows.
 
 In your mind's eye: the named families — FAT, NTFS and ext.
+
+[Picture 45440 — the named families — FAT, NTFS and ext]
 
 ## Say it to your companion
 

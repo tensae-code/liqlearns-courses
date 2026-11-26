@@ -10,11 +10,15 @@ Programs store data in their own internal shapes, which other programs cannot re
 
 In your mind's eye: why exchange needs a format — agreement before sending.
 
+[Picture 45433 — why exchange needs a format — agreement before sending]
+
 ## Sub lesson 2 — Structured formats — XML and JSON, and choosing between them
 
 Data with inner structure travels in **XML** (data wrapped in named tags, like <name>…</name>) or **JSON** (data written as name–value pairs and lists, borrowed from JavaScript). Both are text, so humans can read and debug them; both need the two sides to agree on the names. Choosing a format asks: Is it a flat table (CSV), a structured document (XML), or program data (JSON)? Is it readable by people? Will the receiver's program accept it?
 
 In your mind's eye: structured formats — XML and JSON, and choosing between them.
+
+[Picture 45434 — structured formats — XML and JSON, and choosing between them]
 
 ## Say it to your companion
 

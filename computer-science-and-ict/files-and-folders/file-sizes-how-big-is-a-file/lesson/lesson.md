@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Размеры файлов** — cover
 
 In your mind's eye: размеры файлов.
 
+[Picture 45437 — file sizes]
+
 ## Sub lesson 2 — File Sizes How Big Is a File
 
 This part of Kazakhstan's book teaches **File Sizes How Big Is a File** — covering: 1.3 File size. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: file Sizes How Big Is a File.
+
+[Picture 45438 — file Sizes How Big Is a File]
 
 ## Say it to your companion
 

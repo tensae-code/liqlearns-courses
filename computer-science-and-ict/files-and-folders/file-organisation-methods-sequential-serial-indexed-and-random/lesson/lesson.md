@@ -14,6 +14,8 @@ Both methods share a limit: there is no jumping. Reaching the ten-thousandth rec
 
 In your mind's eye: two rows of record cards: the first row in jumbled number order labelled serial, the second in neat ascending order labelled sequential.
 
+[Picture 45435 — two rows of record cards: the first row in jumbled number order labelled serial, the second in neat ascending order labelled sequential]
+
 ## Sub lesson 2 — Indexed-sequential and random organisation
 
 **Indexed-sequential organisation** keeps the records sorted, like a sequential file, and adds an **index**: a small side table that says which part of the file holds which range of keys, the way a book's index points to pages. To find a record, you read the index, jump to the right neighbourhood, then read a few records in order. You keep both powers — whole-file processing in order, and fast jumps to one record. This was the workhorse organisation of business data processing.
@@ -23,6 +25,8 @@ In your mind's eye: two rows of record cards: the first row in jumbled number or
 Choosing is engineering judgement: process everything in order — sequential; jump to one record instantly — random; need both — indexed-sequential; just collect records as they come — serial. Kenya's Form 3 data-processing chapter teaches the four methods side by side, as the standard comparison every ICT learner is expected to make.
 
 In your mind's eye: a sorted stack of records with a small index card beside it pointing ranges of keys to stack positions, and next to it a key being fed into a formula box that outputs an address.
+
+[Picture 45436 — a sorted stack of records with a small index card beside it pointing ranges of keys to stack positions, and next to it a key being fed into a formula box that outputs an address]
 
 ## Say it to your companion
 

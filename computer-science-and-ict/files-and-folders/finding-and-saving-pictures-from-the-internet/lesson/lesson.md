@@ -10,11 +10,15 @@ The lesson searches **images filtered by type — still or animated — colour a
 
 In your mind's eye: searching with filters — type, colour, transparency.
 
+[Picture 45441 — searching with filters — type, colour, transparency]
+
 ## Sub lesson 2 — Save image as — and the GIF that arrives as costumes
 
 The found picture is saved with **“save image as”** into the computer’s files, then brought into Scratch. An **animated GIF arrives as a sprite with many costumes** — one costume per frame — so a downloaded animation is already an animation inside the project. The project lands **a plane on a runway** built this way.
 
 In your mind's eye: save image as — and the GIF that arrives as costumes.
+
+[Picture 45442 — save image as — and the GIF that arrives as costumes]
 
 ## Say it to your companion
 

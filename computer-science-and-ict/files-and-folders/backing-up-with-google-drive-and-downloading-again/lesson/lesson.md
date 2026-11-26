@@ -10,11 +10,15 @@ Backing up with **Google Drive** means **uploading**: sign in to the school Goog
 
 In your mind's eye: uploading — putting the backup on Drive.
 
+[Picture 45429 — uploading — putting the backup on Drive]
+
 ## Sub lesson 2 — Downloading again — the return journey
 
 The backup is spent by **downloading**: sign in anywhere, open Drive, choose the file and download it back to the computer — the copy becomes a working file again. This return journey is the point of the whole lesson, and Class VII practises it in the same sitting: upload, then download again, and open the returned file, so the pupil has proof, not hope, that the backup works.
 
 In your mind's eye: downloading again — the return journey.
+
+[Picture 45430 — downloading again — the return journey]
 
 ## Say it to your companion
 

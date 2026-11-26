@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Create a shortcut** — covering
 
 In your mind's eye: create a shortcut.
 
+[Picture 45431 — create a shortcut]
+
 ## Sub lesson 2 — Doing it — Creating a Shortcut on the Desktop in practice
 
 **Doing it — Creating a Shortcut on the Desktop in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Creating a Shortcut on the Desktop in practice.
+
+[Picture 45432 — doing it — Creating a Shortcut on the Desktop in practice]
 
 ## Say it to your companion
 
