@@ -10,11 +10,15 @@ Most beginner HTML errors are one of four: an **unclosed tag** (a <b> or <p> wit
 
 In your mind's eye: the common faults.
 
+[Picture 45912 — the common faults]
+
 ## Sub lesson 2 — The checking habit — page against code
 
 Finding the fault is a **comparison**: look at what the page **shows**, name exactly what is wrong and where it starts, then read the code **from that place** for the four faults. The fault is almost always at or just before the place where the wrongness starts — a heading that never ends began at its unclosed tag. Malaysia's method is to fix **one fault at a time** and re-open the page after each fix, so every change's effect is seen on its own; guessing in batches hides which fix worked.
 
 In your mind's eye: the checking habit — page against code.
+
+[Picture 45913 — the checking habit — page against code]
 
 ## Say it to your companion
 

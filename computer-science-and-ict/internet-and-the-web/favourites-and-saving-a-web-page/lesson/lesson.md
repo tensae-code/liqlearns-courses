@@ -10,11 +10,15 @@ The **favourites list** keeps a page's **address** under a name you choose, so o
 
 In your mind's eye: favourites and saving — two ways of keeping a page.
 
+[Picture 45908 — favourites and saving — two ways of keeping a page]
+
 ## Sub lesson 2 — Printing, the home page, and Arabic in the browser
 
 The section closes with three settings of daily use. **Printing** puts the page on paper. Choosing the **home page** decides which page the browser opens with — the page you start from every time. And **Arabic in the browser** makes the browser show Arabic pages correctly, the setting a Libyan learner needs before any Arabic site can be read at all. Keeping, printing, starting, reading: the browser made fully the learner's own.
 
 In your mind's eye: printing, the home page, and Arabic in the browser.
+
+[Picture 45909 — printing, the home page, and Arabic in the browser]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Filter Comments** — covering: Filter
 
 In your mind's eye: filter Comments.
 
+[Picture 45910 — filter Comments]
+
 ## Sub lesson 2 — Doing it — Filter Comments in practice
 
 This part of South Sudan's book teaches **Doing it — Filter Comments in practice** — covering: Filter Comments. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Filter Comments. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Filter Comments in practice is part of that chain..
 
 In your mind's eye: doing it — Filter Comments in practice.
+
+[Picture 45911 — doing it — Filter Comments in practice]
 
 ## Say it to your companion
 

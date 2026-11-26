@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Text Formatting: §5.2.1 Content
 
 In your mind's eye: text Formatting. §5.2.1 Content Formatting in HTML.
 
+[Picture 45916 — text Formatting. §5.2.1 Content Formatting in HTML]
+
 ## Sub lesson 2 — Doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice
 
 **Doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice.
+
+[Picture 45917 — doing it — Formatting Text in HTML Paragraphs Breaks Spaces Headings in practice]
 
 ## Say it to your companion
 

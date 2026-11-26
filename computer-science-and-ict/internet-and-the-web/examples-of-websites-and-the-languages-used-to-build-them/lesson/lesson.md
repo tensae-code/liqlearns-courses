@@ -10,11 +10,15 @@ Websites sort by their **work**: **informational** (news, government, school sit
 
 In your mind's eye: examples of websites — the kinds.
 
+[Picture 45906 — examples of websites — the kinds]
+
 ## Sub lesson 2 — The languages used to build them
 
 A website is built in layers of language: **HTML** — the structure and content (this unit's own work), **CSS** — the presentation (colour, layout, type), and **JavaScript** — the behaviour (response, movement, checking), with **server-side languages** behind dynamic sites (building pages on request, holding the data). The pupil is not asked to master them here; the lesson's gift is the map: when a page is plain, styled or alive, the pupil can now say **which language is speaking** — and knows what the rest of their web learning is for.
 
 In your mind's eye: the languages used to build them.
+
+[Picture 45907 — the languages used to build them]
 
 ## Say it to your companion
 
