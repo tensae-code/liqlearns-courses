@@ -10,6 +10,8 @@ Habyarimana suspends the constitution, bans parties and rules through the MRND o
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39245 — a ruler at an MRND desk, two party flags crossed out]
+
 ## Sub lesson 2 — Pressure — parties allowed in 1991
 
 Under pressure, parties are allowed in 1991. The one-party wall cracks, but late, and into a country already tense.

@@ -10,6 +10,8 @@ Rwanda's heroes end the genocide, free the country from bad rule and promote uni
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39242 — a memorial flame with people standing around it]
+
 ## Sub lesson 2 — Rudahigwa and Rwagasana
 
 Rudahigwa is remembered for independence, and Rwagasana against divisionism. The guide's Heroes Day answers pair each name with its deed, so pupils match the person to what they actually did.

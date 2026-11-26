@@ -10,11 +10,15 @@ Morocco and Tunisia resist the European takeover of the Maghreb, where Ottoman t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39235 — two panels — a turbaned Moroccan with a camel, a Tunisian palace]
+
 ## Sub lesson 2 — Resistance in Libya
 
 Libya, bound by tradition to the Ottoman world like its Maghreb neighbours, resists Italian occupation in its own long struggle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39236 — turbaned desert fighters, a red crescent above]
 
 ## Say it to your companion
 

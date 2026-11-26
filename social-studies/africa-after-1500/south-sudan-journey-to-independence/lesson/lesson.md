@@ -10,11 +10,15 @@ Marginalised and exploited by the north, the south needs change, and the biggest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39253 — Sudan split by a red crack, the south dropped away green]
+
 ## Sub lesson 2 — Journey to independence for South Sudan
 
 1947 Juba Conference demands separation and is rejected; 1955 Torit Mutiny opens the Anya-nya 1 war under Joseph Lagu; 1972 Addis Ababa gives semi-autonomy; 1983 Nimeiri tears it up and John Garang's SPLM/A fights to the 2005 Naivasha peace; a 99% referendum vote leads to independence in 2011 with Salva Kiir as first president
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39254 — a timeline — talk, war, talk, war, talk, flag]
 
 ## Sub lesson 3 — Comparison between change in South Sudan and change in South Africa
 
@@ -22,17 +26,23 @@ Both countries won change through armed struggle and bloodshed, and both through
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39255 — two panels — a flag and an agreement paper each]
+
 ## Sub lesson 4 — South Sudan in the 20th century: separation policy
 
 Britain's Milner Report of 1920 proposes dividing Sudan, and the Closed District Ordinance of 1922 seals the south off — northern staff and traders excluded, southerners barred from northern work and education, Arab dress and names prohibited
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39256 — north and south panels with a sealed fence between]
+
 ## Sub lesson 5 — The Juba Conference of 1947
 
 Southern chiefs and officials, asked their opinion for the first time under the condominium, refuse Khartoum's Legislative Assembly on day one and accept it on day two after Judge Shingeiti's persuasion — Clement Mboro's reversal shows their unpreparedness; unity is postponed, but southern nationalism is born
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39257 — two panels of chiefs — DAY ONE NO, DAY TWO YES]
 
 ## Sub lesson 6 — Anya-Nya Movement (1955-1972)
 

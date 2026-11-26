@@ -10,6 +10,8 @@ In 1962 Rwanda gains independence. On the P3 timeline this is the first of the c
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39240 — Rwanda's flag raised, people standing around]
+
 ## Sub lesson 2 — 1994 — genocide, then Liberation on 4 July
 
 In 1994 comes the Genocide against the Tutsi. The same marked year carries its ending: Liberation on 4 July 1994, the day the genocide is stopped and the country is freed.

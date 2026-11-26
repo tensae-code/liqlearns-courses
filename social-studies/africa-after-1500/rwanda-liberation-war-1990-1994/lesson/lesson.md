@@ -10,6 +10,8 @@ The RPF attacks from Uganda on 1 October 1990 to end exile and discrimination. I
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39241 — exiles with bundles crossing a border gate home]
+
 ## Sub lesson 2 — Rwigema falls; Kagame takes command; Arusha, 1993
 
 Rwigema falls early in the war, and Kagame takes command. Fighting and talking run together until the Arusha Accords are signed in 1993 — a peace that does not hold.

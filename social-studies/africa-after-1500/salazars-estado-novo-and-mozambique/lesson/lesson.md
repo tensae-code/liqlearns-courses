@@ -10,11 +10,15 @@ A 1926 coup brings Salazar's Estado Novo; he restructures the colonies and natio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39246 — Salazar at a desk, a red arrow to Africa]
+
 ## Sub lesson 2 — The turning point of 1930
 
 In the first phase (1890–1930) international companies and South African mining capital, not Portugal, ran Mozambique's economy; 1930–1937 lays the bases of Salazar's economic nationalism
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39247 — two panels — a company factory and coin, Lisbon's flag and house]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the enslaved resist at every step of slavery and the slave trades (UA4 Les rési
 
 In your mind's eye: enslaved Africans resisting — refusing, escaping and fighting back along the trade routes. Name one form of resistance.
 
+[Picture 39237 — three panels — a struck-through chain, a runner, a fighter]
+
 ## Sub lesson 2 — A crime against humanity
 
 the lesson names slavery a crime against humanity (UA4 L'esclavage, crime contre l'humanité)

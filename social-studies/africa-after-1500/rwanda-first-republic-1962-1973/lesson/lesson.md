@@ -10,6 +10,8 @@ After the 1959 violence, a 1961 referendum abolishes the monarchy. The First Rep
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39239 — a ballot box and a crown crossed out]
+
 ## Sub lesson 2 — Kayibanda's PARMEHUTU republic — one party, a quota, schools closed to Tutsi
 
 Kayibanda's PARMEHUTU republic rules one-party, imposes a 9% Tutsi quota and drives Tutsi from schools. Independence, in this telling, does not bring equal citizenship with it.

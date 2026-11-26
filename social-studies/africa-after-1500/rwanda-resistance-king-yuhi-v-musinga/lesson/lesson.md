@@ -10,6 +10,8 @@ King Yuhi V Musinga refuses Belgian direct rule and the loss of his power. Where
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39243 — a crowned king, a NO panel, a Belgian officer]
+
 ## Sub lesson 2 — Exile — Kamembe, then Moba, 1931
 
 The Belgians and the Catholic Church exile Musinga to Kamembe, then to Moba, in 1931. A king removed from his own country is the price Rwanda's book puts on resistance.

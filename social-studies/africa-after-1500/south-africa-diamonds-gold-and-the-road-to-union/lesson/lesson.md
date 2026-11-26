@@ -10,6 +10,8 @@ Kimberley diamonds and Witwatersrand gold pull in Gujarati traders and Gandhi. M
 
 In your mind's eye: diamond diggings at Kimberley and gold mines on the Witwatersrand, with a road running on to a united South Africa in 1902. Name each mineral, its place and the road's end.
 
+[Picture 39250 — a diamond, diggings, a gold headgear, a road]
+
 ## Sub lesson 2 — Two Boer wars — surrender and union
 
 Gold and diamonds bring two Boer wars. The Boers surrender independence in 1902, and South Africa unites under Britain.

@@ -10,11 +10,15 @@ Oppression breeds contestation — strikes, revolts and other struggles by stude
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39248 — strikers under a banner, a student, a poems panel]
+
 ## Sub lesson 2 — Nationalist organisations — MJDM and NESAM
 
 After the war, nationalist organisations multiply — the MJDM youth movement and the NESAM secondary students' nucleus among them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39249 — four students under MJDM and NESAM panels]
 
 ## Say it to your companion
 

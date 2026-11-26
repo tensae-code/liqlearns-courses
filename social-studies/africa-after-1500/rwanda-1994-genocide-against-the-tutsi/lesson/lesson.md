@@ -10,6 +10,8 @@ Colonial rule turns social classes into ethnic groups with identity cards. Divis
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39238 — an identity card, a radio mast, a newspaper, a crack]
+
 ## Sub lesson 2 — Planning and execution — and how it was stopped
 
 The Akazu plan a 'final solution': lists of 'traitors', imported machetes, and the Interahamwe and Impuzamugambi militia. Prime Minister Uwilingiyimana is murdered; the RPF defeats the perpetrators and forms a Government of National Unity on 19 July 1994.

@@ -10,6 +10,8 @@ Kenya, Tanganyika and Uganda each produce their own moments of resistance as for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39234 — three panels — a Kenya fighter, a Tanganyika pot, a crowned Ugandan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Resistance in East Africa — Kenya, Tanganyika and Uganda each produce their own moments of resistance as foreign occupation closes in. Then let your companion ask you one hard question about it — answer from the lesson.

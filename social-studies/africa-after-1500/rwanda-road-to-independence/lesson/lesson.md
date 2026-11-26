@@ -10,6 +10,8 @@ The Berlin Conference of 1884–85 hands Rwanda to Germany, which rules through 
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39244 — a Berlin panel and a crowned king under a foreign flag]
+
 ## Sub lesson 2 — Rudahigwa — reforms and the demand for independence
 
 King Rudahigwa abolishes Ubuhake and Uburetwa, opposes tribal identity cards and in 1954 demands independence. He dies in Bujumbura in 1959, on the eve of the change he demanded.

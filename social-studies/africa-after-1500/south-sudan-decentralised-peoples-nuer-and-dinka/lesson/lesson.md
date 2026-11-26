@@ -10,11 +10,15 @@ A decentralised people of tribes and lineages whose leopard-skin religious chief
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39251 — cattle, a chief with a spotted sash between two men]
+
 ## Sub lesson 2 — The Dinka
 
 South Sudan's largest people, the Jieng, are decentralised pastoralists led by ritual chiefs, masters of the fishing spear; boys are scarified into warrior age-sets, name themselves after their cattle's colours, wrestle, and trade cattle, grain and ivory with the Nuer
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39252 — a cow, a spearman, two wrestlers, a river band]
 
 ## Say it to your companion
 
