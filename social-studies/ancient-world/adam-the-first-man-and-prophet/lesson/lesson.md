@@ -10,11 +10,15 @@ God creates Adam from dust and makes him His deputy on earth, the angels bow to 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60150 — the angels bow, Iblis refuses]
+
 ## Sub lesson 2 — Abu al-Bashar Adam
 
 God announces a deputy on earth, teaches Adam the names of all things while the angels confess they know only what they were taught, Iblis alone refuses to bow and is expelled, Adam and Eve live a while in a temporary garden, eat of the one forbidden tree at Satan's false oath, repent and are forgiven, and come down to earth with Satan as man's permanent enemy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60151 — the garden, the tree, the descent]
 
 ## Say it to your companion
 

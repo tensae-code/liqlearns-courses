@@ -10,11 +10,15 @@ a class reconstructs an ancient theatre performance, from chorus to masks, as li
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60139 — an ancient Greek play — masks and chorus]
+
 ## Sub lesson 2 — Ch. 41 Ancient theatre exercises
 
 workbook tasks prepare the class's own ancient theatre performance
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60140 — workbook tasks prepare the class performance]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ pupil groups walk the sanctuary of Olympia — gymnasium, stadium for 50,000, te
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60141 — a day in ancient Olympia]
+
 ## Sub lesson 2 — Ch. 42 A day in ancient Olympia exercises
 
 the children's visit to Olympia becomes exercises on stadium, temples and games
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60142 — the Olympia visit becomes a report]
 
 ## Say it to your companion
 

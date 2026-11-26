@@ -10,11 +10,15 @@ The Abbasid age carries the same story forward — caliphs patronising the scien
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60143 — Baghdad's golden age]
+
 ## Sub lesson 2 — The Islamic conquests in the Abbasid age
 
 The Abbasid age inherits the conquests' frontier and holds it — the expansion story's last chapter in this unit.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60144 — holding the conquests' frontier]
 
 ## Say it to your companion
 

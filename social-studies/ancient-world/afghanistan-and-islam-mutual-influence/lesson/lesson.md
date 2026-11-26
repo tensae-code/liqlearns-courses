@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Islam gives the countr
 Islam gives the country a new identity and a single name of faith that unites its peoples, and Afghans in return render Islam great services
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60153 — one name of faith]
 ## Sub lesson 2 — Lesson 6: The mutual influence of the Muslim Arabs and the people of Afghanistan
 
 Islam unifies the country's peoples under one identity, and Afghans repay the faith with great services
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60154 — Afghans repay the faith with services]
 
 ## Say it to your companion
 

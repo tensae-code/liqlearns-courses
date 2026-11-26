@@ -10,6 +10,8 @@ Australia's first peoples, arrived by sea perhaps from South-East Asia by 1600 B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60146 — Australia's first peoples]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ancient civilisations in Australia — australia's first peoples, arrived by sea perhaps from South-East Asia by 1600 BCE (as the book dates it), master rock engraving and painting thousands of years before Europe finds them, and hold a knowledge so deep in nature's seasons and secrets that historians name it "environment wisdom"; one old language splinters into more than five hundred tribal tongues yet the people still understand one another at gatherings, their songs and dances carry the ancestors' stories down the generations, and their philosophies — a pure spiritual force in nature, a force preserving life's continuation, and the sages' teaching to love and defend the earth — keep man and nature in balance. Then let your companion ask you one hard question about it — answer from the lesson.

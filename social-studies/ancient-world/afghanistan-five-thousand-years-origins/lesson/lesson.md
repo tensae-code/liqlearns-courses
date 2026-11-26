@@ -10,6 +10,8 @@ the claim of 5,000 years is tested against the country's prehistoric remains and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60159 — testing the 5,000 years]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2 (Early Civilisations of Afghanistan), Lesson 5: Do you know the origin of Afghanistan's five-thousand-year history? — the claim of 5,000 years is tested against the country's prehistoric remains and earliest settlements, the evidence on which the national timeline stands. Then let your companion ask you one hard question about it — answer from the lesson.

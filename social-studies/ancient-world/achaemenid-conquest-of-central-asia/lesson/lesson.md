@@ -10,6 +10,8 @@ Cyrus takes the homeland and dies fighting Tomaris; Darius fixes its satrapies �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60149 — Cyrus, Tomyris and the satrapies]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§37–38 The Achaemenids' campaigns of conquest in Central Asia — Cyrus takes the homeland and dies fighting Tomaris; Darius fixes its satrapies — Central Asia inside the Persian empire, told from the conquered side. Then let your companion ask you one hard question about it — answer from the lesson.
