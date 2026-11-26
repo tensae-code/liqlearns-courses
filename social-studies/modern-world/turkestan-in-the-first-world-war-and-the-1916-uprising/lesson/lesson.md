@@ -10,6 +10,8 @@ war prices and requisitions bite, then the June 1916 decree drafts Central Asian
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39900 — decree1916]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 7 §§34–35 The influence of the First World War on the Turkestan krai; The uprising of 1916 — war prices and requisitions bite, then the June 1916 decree drafts Central Asians for labour battalions; the homeland rises from Samarkand to Jizzakh and is drowned in blood. Then let your companion ask you one hard question about it — answer from the lesson.

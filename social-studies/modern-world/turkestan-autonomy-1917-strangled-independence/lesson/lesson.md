@@ -10,6 +10,8 @@ Turkestan's leaders proclaim the Kokand Autonomy, the homeland's first modern go
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39902 — snappedpole]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 42. Independence strangled in the cradle — Turkestan's leaders proclaim the Kokand Autonomy, the homeland's first modern government; Tashkent's Bolsheviks, who kept every seat from the native population, crush it by force within months. Then let your companion ask you one hard question about it — answer from the lesson.

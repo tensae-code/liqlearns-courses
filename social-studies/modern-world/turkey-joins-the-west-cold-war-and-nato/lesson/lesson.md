@@ -12,6 +12,8 @@ Abroad, the same years anchor Turkey to the West: the Council of Europe in 1949,
 
 In your mind's eye: 1950s Turkey at the crossroads — voters queueing at a ballot box in a village square while, beyond, Turkish soldiers board a ship for Korea under the UN flag. The student points to the ballot box and the ship and says what single turn joins them.
 
+[Picture 39895 — vote1950]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Multi-party life, the Democrat victory, Korea and NATO. Then let your companion ask you one hard question about it — answer from the lesson.

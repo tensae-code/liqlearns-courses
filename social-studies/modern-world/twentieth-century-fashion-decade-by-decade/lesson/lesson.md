@@ -10,6 +10,8 @@ flappers, wartime utility, Dior's New Look, miniskirts, punk and global brands �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39887 — dressforms]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 8: The decades of the 20th century to today — flappers, wartime utility, Dior's New Look, miniskirts, punk and global brands — each decade dresses its own revolt. Then let your companion ask you one hard question about it — answer from the lesson.

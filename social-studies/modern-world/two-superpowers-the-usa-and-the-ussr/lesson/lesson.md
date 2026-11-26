@@ -10,11 +10,15 @@ the two victors of 1945 are compared as systems — markets and parties against 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39886 — twosystems]
+
 ## Sub lesson 2 — Theme 3, Lessons 40–41: the bipolar world — the USA and the USSR
 
 two superpowers, two alliances and two ways of life divide the planet, and every local conflict is read as East against West
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39885 — bipolar]
 
 ## Say it to your companion
 

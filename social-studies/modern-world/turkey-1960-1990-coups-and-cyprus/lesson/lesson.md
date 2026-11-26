@@ -12,6 +12,8 @@ The beat the book gives the foreign story is the island's: one island crisis tha
 
 In your mind's eye: the changing Turkey of these decades — villagers with bundles boarding a bus for the city, new apartment blocks rising behind them. The student points to the bus and the blocks and says what quiet remaking is happening under the crises.
 
+[Picture 39899 — pulledisland]
+
 ## Sub lesson 2 — Turkey 1960–1990 — the country remade
 
 At home, the book's thirty years hold two stories at once. The political story is broken three times by military interventions — soldiers stepping into the republic's politics in 1960 and after. The deeper story is quieter: migration empties the villages into the cities, markets open, and the country's economy and culture are remade from below.

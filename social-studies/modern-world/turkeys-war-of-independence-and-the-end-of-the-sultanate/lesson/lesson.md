@@ -10,11 +10,15 @@ the defeated Ottoman Empire is occupied and partitioned, and Turkish patriots ta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39893 — toppledcrown]
+
 ## Sub lesson 2 — §10 The fall of the sultan's regime and the struggle against foreign intervention in the former Ottoman Empire
 
 occupied and partitioned, Turkish patriots refuse the carve-up and take up arms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39892 — carveup]
 
 ## Say it to your companion
 

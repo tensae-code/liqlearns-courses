@@ -12,6 +12,8 @@ The chain ends in two opposite papers. In Ankara, the Grand National Assembly op
 
 In your mind's eye: the Erzurum congress — delegates gathered in a plain hall in eastern Anatolia, maps of the occupied homeland on the wall. The student points to the delegates and says what they are building while the capital is occupied.
 
+[Picture 39894 — assembly]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Armistice, resistance and congresses — Mondros to the Grand National Assembly. Then let your companion ask you one hard question about it — answer from the lesson.

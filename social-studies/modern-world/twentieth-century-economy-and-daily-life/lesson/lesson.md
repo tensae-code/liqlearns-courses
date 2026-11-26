@@ -10,6 +10,8 @@ welfare states, planned economies, consumer societies and China's reform-era kit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39888 — fouranswers]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Human economy and life since the 20th century — welfare states, planned economies, consumer societies and China's reform-era kitchens — one century, several rival answers to the good life. Then let your companion ask you one hard question about it — answer from the lesson.

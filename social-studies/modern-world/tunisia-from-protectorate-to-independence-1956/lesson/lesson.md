@@ -10,6 +10,8 @@ Khayr al-Din's reforms and the constitution of 1861, Ali ibn Ghadhahum's revolt 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39903 — road1881]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tunisia — from protectorate to independence, 1956. Then let your companion ask you one hard question about it — answer from the lesson.

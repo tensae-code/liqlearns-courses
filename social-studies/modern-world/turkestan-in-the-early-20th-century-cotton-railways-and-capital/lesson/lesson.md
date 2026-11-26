@@ -10,6 +10,8 @@ cotton monoculture, the Transcaspian and Orenburg railways and Russian banks bin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39901 — cottonrail]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 §§18–19 The socio-economic development of the Turkestan krai at the beginning of the 20th century — cotton monoculture, the Transcaspian and Orenburg railways and Russian banks bind the homeland into an empire's raw-materials economy. Then let your companion ask you one hard question about it — answer from the lesson.

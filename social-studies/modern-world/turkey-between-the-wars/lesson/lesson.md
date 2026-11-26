@@ -12,6 +12,8 @@ Then the pacts that arm peace with signatures: the Balkan Entente of 1934, the M
 
 In your mind's eye: ankara in the 1930s — the new capital's broad avenue, flags of a Balkan Entente conference flying. The student points to the flags and says what policy they stand for.
 
+[Picture 39896 — peaceabroad]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Parties at home, peace abroad — to Atatürk's death, 1938. Then let your companion ask you one hard question about it — answer from the lesson.

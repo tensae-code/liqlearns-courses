@@ -12,6 +12,8 @@ The decisive war is in the west. The İnönü battles stop the advance; Kütahya
 
 In your mind's eye: the Western Front in 1922 — the regular army advancing across the Anatolian plain in the Great Offensive, dust rising over the columns. The student points to the advance and says which way the war is moving, and why.
 
+[Picture 39891 — threefronts]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: East, South and West — İnönü, Sakarya and the Great Offensive. Then let your companion ask you one hard question about it — answer from the lesson.

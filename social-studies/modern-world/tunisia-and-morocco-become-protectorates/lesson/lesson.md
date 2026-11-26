@@ -10,6 +10,8 @@ France imposes the Bardo protectorate on a resisting Tunisia; Morocco, the one A
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39904 — twoprotectorates]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tunisia and Morocco — France imposes the Bardo protectorate on a resisting Tunisia; Morocco, the one Arab land never Ottoman, is split between French and Spanish zones, Ceuta, Melilla and Ifni to Spain. Then let your companion ask you one hard question about it — answer from the lesson.

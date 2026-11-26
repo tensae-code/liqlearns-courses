@@ -10,6 +10,8 @@ Cavour's diplomacy and Bismarck's wars build two nation-states
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39882 — twopaths]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7.2 How alike were the paths of Italy's and Germany's unification? — Cavour's diplomacy and Bismarck's wars build two nation-states. Then let your companion ask you one hard question about it — answer from the lesson.

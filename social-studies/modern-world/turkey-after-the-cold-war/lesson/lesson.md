@@ -12,6 +12,8 @@ The republic's answer, as the book leaves it, is a renegotiation: Turkey after 1
 
 In your mind's eye: the threshold years — the fallen Berlin Wall's painted fragments in the foreground, and behind it a map of Turkey between Europe and the Middle East redrawn in new colours. The student points to Turkey on the map and says what has changed around it.
 
+[Picture 39898 — dissolving]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Turkey and the world on the threshold of the 21st century. Then let your companion ask you one hard question about it — answer from the lesson.
