@@ -10,6 +10,8 @@ from Roman Florus and Grotius on free trade to the IMF, the World Bank, GATT and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39425 — states learn to trade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 1 §2: economic cooperation — from Roman Florus and Grotius on free trade to the IMF, the World Bank, GATT and the WTO — states learn that breaking trade breaks the unity of mankind. Then let your companion ask you one hard question about it — answer from the lesson.

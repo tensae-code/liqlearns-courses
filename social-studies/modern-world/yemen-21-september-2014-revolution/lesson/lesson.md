@@ -10,6 +10,8 @@ as taught in this book, crowds backed by scholars, tribal men, soldiers and stud
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39419 — the people rise together]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Revolution of 21 September 2014 — as taught in this book, crowds backed by scholars, tribal men, soldiers and students rise on 21 September 2014 to correct the path of the earlier revolutions after the 11 February 2011 revolution is, in the book's telling, hijacked and the Gulf Initiative deepens Yemenis' suffering. Then let your companion ask you one hard question about it — answer from the lesson.

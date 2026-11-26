@@ -10,11 +10,15 @@ a people the book calls one land and one nation, repeatedly targeted by colonise
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39414 — one land, one people]
+
 ## Sub lesson 2 — Yemeni unity (Unit 3 Lesson 5)
 
 one land and one people, divided only by Britain's occupation of the south, walk back together summit by summit — Cairo 1972, Tripoli 1972, Kuwait 1979, Aden 1980 and the crowning Aden agreement of 30 November 1989 — until the Republic of Yemen is proclaimed on 22 May 1990; when secession is declared in 1994 the people themselves defend the unity and the war stops on 7 July 1994
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39413 — summit by summit]
 
 ## Say it to your companion
 

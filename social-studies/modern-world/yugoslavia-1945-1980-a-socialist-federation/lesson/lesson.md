@@ -10,11 +10,15 @@ The Partisans' wartime parliament becomes a socialist federation of six republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39410 — six republics, one federation]
+
 ## Sub lesson 2 — Ch.5.2 Yugoslavia 1961–1980
 
 A socialist state borrows from the West to build a consumer society of its own.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39409 — loans build the shops]
 
 ## Say it to your companion
 

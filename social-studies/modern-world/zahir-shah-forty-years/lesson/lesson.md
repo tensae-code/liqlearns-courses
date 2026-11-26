@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: the last king's long r
 the last king's long reign runs from 1933 to 1973, through his uncles' premierships, Shah Mahmud's "father of democracy" government and Afghanistan's entry into the United Nations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39405 — Afghanistan joins the UN]
 ## Sub lesson 2 — Lesson 24: The reign of Muhammad Zahir Shah
 
 the last king reigns forty years, 1933–1973
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39404 — forty years on the throne]
 ## Sub lesson 3 — Lesson 25: The first five-year plan (1956 / 1335 SH)
 
 planned development begins with the first five-year plan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39403 — the first five-year plan]
 
 ## Say it to your companion
 

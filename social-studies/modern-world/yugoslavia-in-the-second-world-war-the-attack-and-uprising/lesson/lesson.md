@@ -10,17 +10,23 @@ A coup against joining the Axis brings the Luftwaffe over Belgrade within days.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39408 — bombers over Belgrade]
+
 ## Sub lesson 2 — Ch.4.3 The liberation war and revolution in Yugoslavia 1941–1945
 
 A guerrilla army survives seven offensives and turns a liberation war into a revolution.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39407 — seven offensives beaten]
+
 ## Sub lesson 3 — Ch.4.5 The characteristics of the war in Yugoslavia 1941–1945
 
 Yugoslavia's war is three wars at once — against the occupier, among its peoples, and for a new state.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39406 — three wars at once]
 
 ## Say it to your companion
 

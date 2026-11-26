@@ -10,11 +10,15 @@ Yemenis rise against the hereditary monarchical kingdom that ruled Yemen, carry 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39418 — the republic over Sanaa]
+
 ## Sub lesson 2 — The Yemeni Revolution: the North (Unit 2 Lesson 4)
 
 the Imamate keeps Yemen backward by the sword, the hostage system and tribe set against tribe, and executes the free men of 1948, 1955 and 1961; on 26 September 1962 the free officers, backed by the people's masses, strike the Imamate down forever and raise the republic on its six goals
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39417 — the Imamate falls]
 
 ## Say it to your companion
 

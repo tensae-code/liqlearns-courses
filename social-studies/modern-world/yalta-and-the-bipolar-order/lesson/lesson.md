@@ -10,6 +10,8 @@ three men in a Crimean palace draw the map the next half-century has to live ins
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39423 — three men draw the map]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 2 The Yalta order: at Livadia in February 1945 Churchill, Roosevelt and Stalin agree to destroy fascist Germany and militarist Japan and divide the world into zones — Soviet east Germany and Eastern Europe against the Western west, Korea split at the 38th parallel, the USSR to re-enter the Pacific war for South Sakhalin and the Kurils, Taiwan and Manchuria back to China — three men in a Crimean palace draw the map the next half-century has to live inside. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10064,3 +10064,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60520 | pictures/60520.webp | a drawn scene — two brown reformers, one in a white mitre, a gold simony bag crossed out in red, Rome's church, a jagged red split marked 1054, and Constantinople's onion-domed church | Social Studies — Ancient World — Church Reform And The Great Schism |
 | 60521 | pictures/60521.webp | a drawn scene — a saddled horse and a refugee prince before Cilicia's walls, crowned Levon under 1198, and a boat on blue water carrying the crown sent from pope and emperor | Social Studies — Ancient World — Cilician Armenia A Kingdom On The Mediterranean |
 | 60522 | pictures/60522.webp | a drawn scene — the blue port of Ayas with three laden trade ships and their coloured goods, an arrow in from Europe and an arrow in from Asia above them | Social Studies — Ancient World — Cilician Armenia A Kingdom On The Mediterranean |
+| 39402 | pictures/39402.webp | Zola with his quill beside the J'ACCUSE newspaper; the captain steps out of his cell | Social Studies — Modern World — Zola Jaccuse And The Dreyfus Affair |
+| 39403 | pictures/39403.webp | A planner with the plan chart; roads, dams and schools rise beside him | Social Studies — Modern World — Zahir Shah — forty years |
+| 39404 | pictures/39404.webp | King Zahir Shah crowned between panels reading 1933 and 1973 | Social Studies — Modern World — Zahir Shah — forty years |
+| 39405 | pictures/39405.webp | The king and his uncle premiers beside a raised United Nations banner | Social Studies — Modern World — Zahir Shah — forty years |
+| 39406 | pictures/39406.webp | Three panels: the occupier's banner crossed out, two banners facing off, a new banner rising | Social Studies — Modern World — Yugoslavia in the Second World War — the attack and the uprising |
+| 39407 | pictures/39407.webp | Partisans with rifles in the mountains under seven crossed-out offensives | Social Studies — Modern World — Yugoslavia in the Second World War — the attack and the uprising |
+| 39408 | pictures/39408.webp | Three bombers over Belgrade's rooftops with rising smoke, April 1941 | Social Studies — Modern World — Yugoslavia in the Second World War — the attack and the uprising |
+| 39409 | pictures/39409.webp | A Western bank's LOANS panel with an arrow to a shop full of goods | Social Studies — Modern World — Yugoslavia, 1945–1980 — a socialist federation |
+| 39410 | pictures/39410.webp | Six republic banners converge into one federation banner beside the 1946 constitution | Social Studies — Modern World — Yugoslavia, 1945–1980 — a socialist federation |
+| 39411 | pictures/39411.webp | A Zakopane highland cottage with a carved gable sun, beside a Wyspianski stained-glass window | Social Studies — Modern World — Young Poland — art under the partitions |
+| 39412 | pictures/39412.webp | The fortresses of Thula, Kawkaban and Shahara on mountain peaks above an Ottoman column | Social Studies — Modern World — Yemeni resistance to Ottoman rule |
+| 39413 | pictures/39413.webp | Panels of the North and the South with an arrow and flag between them, 22 May 1990 | Social Studies — Modern World — Yemeni unity |
+| 39414 | pictures/39414.webp | Figures from both Yemens joining hands under one flag, 22 May 1990 | Social Studies — Modern World — Yemeni unity |
+| 39415 | pictures/39415.webp | Three sailing ships of the Ottoman fleet approach the fort at Aden, 1538 | Social Studies — Modern World — Stages of Ottoman rule in Yemen |
+| 39416 | pictures/39416.webp | Two map panels: Yemen split by a red border line, then whole under one flag in 1990 | Social Studies — Modern World — Yemen — divided by empire, united 1990 |
+| 39417 | pictures/39417.webp | The Imamate's crown cracked through, with officers and the republic's banner, 26 September 1962 | Social Studies — Modern World — Revolution of 26 September |
+| 39418 | pictures/39418.webp | Sanaa's mosque and houses under the republic's flag, with chips for justice, a national army, cooperation | Social Studies — Modern World — Revolution of 26 September |
+| 39419 | pictures/39419.webp | A scholar, tribesman, soldier and student standing in a row under one banner, 21 September 2014 | Social Studies — Modern World — Revolution of 21 September 2014 |
+| 39420 | pictures/39420.webp | A spark on the Radfan peak, an arrow to a dhow at Aden under the freedom flag, 30 Nov 1967 | Social Studies — Modern World — Revolution of 14 October |
+| 39421 | pictures/39421.webp | The Bab al-Mandab strait between Arabia and Africa, Perim island, the dashed road to India, Aden's banner | Social Studies — Modern World — Revolution of 14 October |
+| 39422 | pictures/39422.webp | Aden's 1839 banner, five small sultanate banners, and the spark on the Radfan mountain, 1963 | Social Studies — Modern World — Revolution of 14 October |
+| 39423 | pictures/39423.webp | Three leaders at a table before a map split into the West and the East, Yalta, February 1945 | Social Studies — Modern World — Yalta And The Bipolar Order |
+| 39424 | pictures/39424.webp | A soldier and a woman from different lands shake hands, exchanging a book and a song | Social Studies — Modern World — World Wars And Cultural Collision |
+| 39425 | pictures/39425.webp | Chips for the IMF, World Bank, GATT and WTO above a cargo boat and the scales of trade | Social Studies — Modern World — World Trade And Economic Integration |

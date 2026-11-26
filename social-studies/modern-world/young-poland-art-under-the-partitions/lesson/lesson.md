@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Zakopane highland cottage in the national style and a Wyspiański stained-glass vision. The student points to a country existing in culture first.
 
+[Picture 39411 — a Zakopane cottage and stained glass]
+
 ## Sub lesson 3 — A country in culture before the map
 
 A generation paints folklore and myth as the programme of a country that exists in culture before it exists on the map.

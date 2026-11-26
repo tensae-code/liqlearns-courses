@@ -10,6 +10,8 @@ two world wars mix peoples on battlefields and in exile, and anti-colonial movem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39424 — peoples mix, cultures forged]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modern wars and the collision and exchange of cultures — two world wars mix peoples on battlefields and in exile, and anti-colonial movements forge new national cultures from the collision. Then let your companion ask you one hard question about it — answer from the lesson.
