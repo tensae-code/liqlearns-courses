@@ -10,6 +10,8 @@ A workbook is one file holding several **worksheets**. You see them through the 
 
 In your mind's eye: the bottom of an Excel window, with the worksheet tab row and the Insert Worksheet button labelled.
 
+[Picture 45730 — the bottom of an Excel window, with the worksheet tab row and the Insert Worksheet button labelled]
+
 Click a tab, and that worksheet comes to the front: its grid fills the window, ready to work on. The other sheets do not change; they wait behind their tabs. Only one sheet is in front at a time.
 
 Three sheets are often not enough — a term has more subjects, a year more months. To **add a worksheet**:

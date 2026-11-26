@@ -10,11 +10,15 @@ What-if analysis is Excel's way of asking 'what happens if this number changes?'
 
 In your mind's eye: what if analysis.
 
+[Picture 45722 — what if analysis]
+
 ## Sub lesson 2 — What-if analysis: Manual what-if analysis and Data Tables
 
 What-If Analysis in Excel is learned by doing: the learner builds a small model — inputs, formulas, results — then changes one input at a time and records how the results move, first by hand and then with Excel's what-if tools The learner builds a small model — inputs, formulas, results — then changes one input at a time and records how the results move, first by hand and then with Excel's what-if tools Because decisions are made on numbers that might change; what-if analysis shows the effect before the decision is taken.
 
 In your mind's eye: what-if analysis. Manual what-if analysis and Data Tables.
+
+[Picture 45723 — what-if analysis. Manual what-if analysis and Data Tables]
 
 ## Say it to your companion
 

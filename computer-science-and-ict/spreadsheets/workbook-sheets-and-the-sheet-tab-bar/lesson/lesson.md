@@ -10,11 +10,15 @@ An Excel file is a **workbook**, and a workbook is a book of **worksheets**: it 
 
 In your mind's eye: the bottom of the Excel window — the sheet tab bar with three tabs and the scroll arrows.
 
+[Picture 45726 — the bottom of the Excel window — the sheet tab bar with three tabs and the scroll arrows]
+
 ## Sub lesson 2 — The sheet tab bar — moving and managing
 
 At the bottom of the window sits the **sheet tab bar**: a **tab** for each sheet, labelled with its name (Sheet1, Sheet2, Sheet3 until renamed), with arrow buttons to scroll the tabs when they overflow. Clicking a tab **selects** that sheet and brings it to the front; **double-clicking** a tab lets you **rename** it — and names should say what the sheet holds, because 'January' guides and 'Sheet1' does not. A new sheet is added with Insert → Worksheet, unwanted sheets can be deleted (carefully — a deleted sheet's work is gone), and tabs can be dragged to reorder them. The bar is small and the lesson is large: every workbook you will ever open is navigated here.
 
 In your mind's eye: a workbook renamed for real work — tabs reading January, February, Summary.
+
+[Picture 45727 — a workbook renamed for real work — tabs reading January, February, Summary]
 
 ## Say it to your companion
 

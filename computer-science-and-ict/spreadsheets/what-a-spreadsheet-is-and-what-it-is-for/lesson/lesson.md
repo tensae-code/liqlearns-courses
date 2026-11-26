@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Introduction to Spreadsheet, §3
 
 In your mind's eye: introduction to Spreadsheet, §3.1.1 Spreadsheet and §3.1.2 Purpose of Spreadsheet.
 
+[Picture 45720 — introduction to Spreadsheet, §3.1.1 Spreadsheet and §3.1.2 Purpose of Spreadsheet]
+
 ## Sub lesson 2 — Doing it — What a Spreadsheet Is and What IT Is for in practice
 
 **Doing it — What a Spreadsheet Is and What IT Is for in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — What a Spreadsheet Is and What IT Is for in practice.
+
+[Picture 45721 — doing it — What a Spreadsheet Is and What IT Is for in practice]
 
 ## Say it to your companion
 
