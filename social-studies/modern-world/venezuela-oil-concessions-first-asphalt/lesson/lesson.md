@@ -10,6 +10,8 @@ Concessions start with asphalt and the Bermúdez company before crude takes over
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39748 — asphalt]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The oil axis begins: asphalt first, the New York & Bermúdez Co. — concessions start with asphalt and the Bermúdez company before crude takes over, and by 1954 Shell is already preaching the "Venezolanisation" of the industry. Then let your companion ask you one hard question about it — answer from the lesson.

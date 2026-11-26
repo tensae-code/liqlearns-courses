@@ -10,11 +10,15 @@ A decade of clandestine resistance, strikes and exile ends with the dictatorship
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39739 — january]
+
 ## Sub lesson 2 — Decade of dictatorship (1948–1958)
 
 The junta hardens into Pérez Jiménez's dictatorship of works and prisons, resisted clandestinely for ten years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39738 — works]
 
 ## Say it to your companion
 

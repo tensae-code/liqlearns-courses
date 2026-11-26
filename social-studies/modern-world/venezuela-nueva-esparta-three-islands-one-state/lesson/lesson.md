@@ -10,6 +10,8 @@ Margarita, Coche and Cubagua form one state, while the Lucayo story warns that w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39749 — islands]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Three islands, one state — Margarita, Coche and Cubagua form one state, while the Lucayo story warns that within a few years no Lucayo was left alive to tell theirs. Then let your companion ask you one hard question about it — answer from the lesson.

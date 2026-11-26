@@ -10,6 +10,8 @@ Today's mestizo America is born in the colonial mixing, where colonial children 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39754 — mestizaje]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: We are a mestizo culture since the Colony — today's mestizo America is born in the colonial mixing, where colonial children did not have equal rights yet classical music and literature of Our America begin. Then let your companion ask you one hard question about it — answer from the lesson.

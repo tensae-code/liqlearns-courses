@@ -10,6 +10,8 @@ A grim roll of massacres marks the representative democracy's underside, closing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39758 — candles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Cantaura, Yumare, El Amparo, the Caracazo dead and 11 April 2002 — a grim roll of massacres marks the representative democracy's underside, closing with the coup of 11 April 2002 told by the defence minister of the day. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Miranda crosses the world seeking support, organises his expedition in Haiti and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39753 — grandfather]
+
 ## Sub lesson 2 — Miranda's expeditions that announced the storm
 
 Miranda's 1806 expeditions fail on the coast but announce the tempest of independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39752 — expeditions]
 
 ## Say it to your companion
 

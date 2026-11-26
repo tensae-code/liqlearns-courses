@@ -10,17 +10,23 @@ Oil money remakes values and empties the countryside into the cities, leaving tw
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39747 — split]
+
 ## Sub lesson 2 — When the oil economy changed customs and even the spatial structure
 
 Oil does not only pay bills; it changes what people eat, want and build, and rearranges the country's very space
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39746 — panels]
+
 ## Sub lesson 3 — Impact of the oil economy on the population
 
 Oil pulls country people to the camps and cities, new social classes appear, and customs change with the new work
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39745 — migration]
 
 ## Say it to your companion
 

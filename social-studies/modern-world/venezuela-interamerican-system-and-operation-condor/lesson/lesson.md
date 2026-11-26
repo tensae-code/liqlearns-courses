@@ -10,6 +10,8 @@ The inter-American treaties and the OAS are read as integration turned into inte
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39761 — condor]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: TIAR, the OAS, Caracas 1954 and Operation Condor — the inter-American treaties and the OAS are read as integration turned into interference, ending in Operation Condor's cross-border repression. Then let your companion ask you one hard question about it — answer from the lesson.

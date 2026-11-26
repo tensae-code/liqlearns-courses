@@ -10,6 +10,8 @@ The Boulton house becomes a capitalist model in Caracas while Hamburg merchant G
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39755 — houses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Houses, surnames and the dynamics of capital: Boulton and Zingg — the Boulton house becomes a capitalist model in Caracas while Hamburg merchant Gustavo Zingg enters through Zulia and ends controlling its brewery. Then let your companion ask you one hard question about it — answer from the lesson.

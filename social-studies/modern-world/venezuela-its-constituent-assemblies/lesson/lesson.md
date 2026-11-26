@@ -10,11 +10,15 @@ Venezuela has refounded itself in assembly after assembly; when "participation" 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39760 — assemblies]
+
 ## Sub lesson 2 — Political-legal bases of the republic arisen in 1830
 
 The 1830 constitution fixes the territory by uti possidetis juris from the 1777 Captaincy General and sets a censitary republic of propertied male voters
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39759 — 1830]
 
 ## Say it to your companion
 

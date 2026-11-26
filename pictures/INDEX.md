@@ -11297,3 +11297,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45977 | pictures/45977.webp | a drawn research round — ask plainly, open three doors, compare the answers, write it in your words — ticked | ICT — Internet and the Web — Online Research — Kinds and Digital Literacy |
 | 45978 | pictures/45978.webp | a drawn target _blank code line beside two overlapping browser windows — the lesson stays, the map visits as guest | ICT — Internet and the Web — Opening Links in a New Window — Target |
 | 45979 | pictures/45979.webp | four drawn verdict rows — maps and long readings open new ticked, the next lesson and every link crossed to the same window | ICT — Internet and the Web — Opening Links in a New Window — Target |
+| 39738 | pictures/39738.webp | SS — Modern World — the dictator's new tower and crane beside the barred prison block | Social Studies — Modern World — Venezuela Perez Jimenez Dictatorship And Resistance |
+| 39739 | pictures/39739.webp | SS — Modern World — the crowd with its banner, the broken chain, the rising sun of January 1958 | Social Studies — Modern World — Venezuela Perez Jimenez Dictatorship And Resistance |
+| 39740 | pictures/39740.webp | SS — Modern World — seven derricks with seven company flags over the oil country | Social Studies — Modern World — Venezuela Perez Jimenez And The Seven Sisters |
+| 39741 | pictures/39741.webp | SS — Modern World — five republics' banners over the long congress table, Panama 1826 | Social Studies — Modern World — Venezuela Patria Grande Our America |
+| 39742 | pictures/39742.webp | SS — Modern World — Bolivar's sentence in its great panel over the continent shape | Social Studies — Modern World — Venezuela Patria Grande Our America |
+| 39743 | pictures/39743.webp | SS — Modern World — the small house and its road opening into the wide continent | Social Studies — Modern World — Venezuela Patria Grande Our America |
+| 39744 | pictures/39744.webp | SS — Modern World — Paez with his lance over the plains, two regional caudillos at his sides | Social Studies — Modern World — Venezuela Paez Predominance 1830 1848 |
+| 39745 | pictures/39745.webp | SS — Modern World — two country people with bundles walking the road to the oil camp | Social Studies — Modern World — Venezuela Oil Culture And The Two Venezuelas |
+| 39746 | pictures/39746.webp | SS — Modern World — two panels: the country before oil, the country with oil | Social Studies — Modern World — Venezuela Oil Culture And The Two Venezuelas |
+| 39747 | pictures/39747.webp | SS — Modern World — the rural Venezuela and the oil Venezuela split by a red crack | Social Studies — Modern World — Venezuela Oil Culture And The Two Venezuelas |
+| 39748 | pictures/39748.webp | SS — Modern World — workers scooping asphalt at the black lake, the Bermudez company house behind | Social Studies — Modern World — Venezuela Oil Concessions First Asphalt |
+| 39749 | pictures/39749.webp | SS — Modern World — Margarita, Coche and Cubagua in their sea, the pearl on Margarita | Social Studies — Modern World — Venezuela Nueva Esparta Three Islands One State |
+| 39750 | pictures/39750.webp | SS — Modern World — the flag raised over the derrick, the money bag paid, PDVSA's arrow abroad | Social Studies — Modern World — Venezuela Nationalisation And Pdvsa Abroad |
+| 39751 | pictures/39751.webp | SS — Modern World — the two Monagas brothers at the table, the broken chain of abolition below | Social Studies — Modern World — Venezuela Monagas Predominance And Abolition |
+| 39752 | pictures/39752.webp | SS — Modern World — Miranda's two ships before the coast fort, the storm gathering behind | Social Studies — Modern World — Venezuela Miranda The Precursor |
+| 39753 | pictures/39753.webp | SS — Modern World — the grandfather telling the children, Miranda's ship leaving Haiti in the panel | Social Studies — Modern World — Venezuela Miranda The Precursor |
+| 39754 | pictures/39754.webp | SS — Modern World — three peoples and their child before the colonial church, the music notes above | Social Studies — Modern World — Venezuela Mestizaje From The Colony |
+| 39755 | pictures/39755.webp | SS — Modern World — the Boulton counting house and the Zingg brewery with its barrels | Social Studies — Modern World — Venezuela Merchant Houses Boulton And Zingg |
+| 39756 | pictures/39756.webp | SS — Modern World — Medina signing the 1943 Hydrocarbons Law between the party banners | Social Studies — Modern World — Venezuela Medina Angarita And The Landlord Oil State |
+| 39757 | pictures/39757.webp | SS — Modern World — the state house collecting rent bags from the companies' derricks | Social Studies — Modern World — Venezuela Medina Angarita And The Landlord Oil State |
+| 39758 | pictures/39758.webp | SS — Modern World — four memorial candles: Cantaura, Yumare, El Amparo, Caracazo | Social Studies — Modern World — Venezuela Massacres And The April 2002 Coup |
+| 39759 | pictures/39759.webp | SS — Modern World — the 1830 constitution book between the inherited map and the owners' ballot urn | Social Studies — Modern World — Venezuela Its Constituent Assemblies |
+| 39760 | pictures/39760.webp | SS — Modern World — six constitution books on the timeline, 1811 to 1999 | Social Studies — Modern World — Venezuela Its Constituent Assemblies |
+| 39761 | pictures/39761.webp | SS — Modern World — the system flags over the table, the condor's shadow over the continent | Social Studies — Modern World — Venezuela Interamerican System And Operation Condor |

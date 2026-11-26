@@ -10,11 +10,15 @@ Medina's government is judged through Picón Salas's and Uslar Pietri's eyes as 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39757 — landlord]
+
 ## Sub lesson 2 — Government of Medina Angarita
 
 Medina legalises the parties, passes the 1943 Hydrocarbons Law and is overthrown in 1945 just as democracy widens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39756 — law]
 
 ## Say it to your companion
 

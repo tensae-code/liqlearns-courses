@@ -10,6 +10,8 @@ The military dictatorship hands the oil companies their most secure decade, entr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39740 — sisters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pérez Jiménez's dictatorship consolidates the Seven Sisters — the military dictatorship hands the oil companies their most secure decade, entrenching Standard, Shell and the other five sisters over Venezuelan crude. Then let your companion ask you one hard question about it — answer from the lesson.

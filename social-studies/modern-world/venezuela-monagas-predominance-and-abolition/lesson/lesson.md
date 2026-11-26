@@ -10,6 +10,8 @@ The Monagas brothers rule in turn, break with Páez's conservatives, and aboliti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39751 — abolition]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Predominance of the Monagas (1848–1858) — the Monagas brothers rule in turn, break with Páez's conservatives, and abolition of slavery comes under José Gregorio Monagas. Then let your companion ask you one hard question about it — answer from the lesson.

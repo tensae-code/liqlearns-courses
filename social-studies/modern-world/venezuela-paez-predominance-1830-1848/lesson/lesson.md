@@ -10,6 +10,8 @@ Caudillo José Antonio Páez dominates the young republic, faces regional caudil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39744 — paez]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Predominance of Páez (1830–1848) — caudillo José Antonio Páez dominates the young republic, faces regional caudillos and the 1838–40 economic crisis and its usury law. Then let your companion ask you one hard question about it — answer from the lesson.
