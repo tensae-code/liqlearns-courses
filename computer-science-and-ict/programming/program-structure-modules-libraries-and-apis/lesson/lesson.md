@@ -10,11 +10,15 @@ A program of any size is divided into **modules**: named parts, each with one jo
 
 In your mind's eye: modules and libraries — dividing and supplying.
 
+[Picture 47431 — modules and libraries — dividing and supplying]
+
 ## Sub lesson 2 — APIs — the agreement between parts
 
 An **API** (application programming interface) is the written agreement at a module's or service's surface: the names of the operations offered, what each needs, and what each returns. Callers promise to ask only through the API; makers promise the insides may change while the API holds. That promise is what lets a library be improved, a school system be rebuilt underneath its screens, and a map service serve a thousand programs it has never seen.
 
 In your mind's eye: aPIs — the agreement between parts.
+
+[Picture 47432 — aPIs — the agreement between parts]
 
 ## Say it to your companion
 

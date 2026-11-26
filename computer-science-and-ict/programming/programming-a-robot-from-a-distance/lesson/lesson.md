@@ -10,11 +10,15 @@ The séance pairs **bug** with **telegraphy (télégraphie)**: commanding an aut
 
 In your mind's eye: orders at a distance — telegraphy.
 
+[Picture 47435 — orders at a distance — telegraphy]
+
 ## Sub lesson 2 — Why distance breeds bugs
 
 A bug beside the machine is an annoyance; a bug at a distance is a **diagnosis problem**: the fault could be in the writing, the sending, the reading, or the machine. The séance teaches method: keep the sent program (the copy is evidence), change one thing per new message, and let each reply report position and facing. Programmers of real distant machines — probes, robots, servers — work exactly this way: the message log is the only eyes you have.
 
 In your mind's eye: why distance breeds bugs.
+
+[Picture 47436 — why distance breeds bugs]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Here is a CSV file printed on paper: twenty rows of weather readings — date, t
 
 In your mind's eye: a CSV file on the left flowing through the read_csv arrow into a neat table grid on the right, its header becoming column names.
 
+[Picture 47425 — a CSV file on the left flowing through the read_csv arrow into a neat table grid on the right, its header becoming column names]
+
 ## Sub lesson 2 — Asking questions of the table — and a real flight log
 
 Questions become selections and calculations. **Selecting rows** uses `loc` with a condition: `df.loc[df["town"] == "Lyon"]` keeps only Lyon’s rows; conditions combine — a town and a temperature above a value. **Taking a column** is naming it: `df["temperature"]`. On a column, the library computes in one call: the maximum for the hottest day, the mean for the average, a count of the rows that passed a test for the rainy days. Each of your hand-answered questions from Do it first is now one line — and the same lines work unchanged on the two-hundred-thousand-row file.
@@ -17,6 +19,8 @@ Questions become selections and calculations. **Selecting rows** uses `loc` with
 The SNT book’s second CSV is wilder: a **drone’s flight log** — row after row of time, latitude, longitude, altitude recorded during a real flight. The same pandas moves apply: load it, select, compute — and with positions and times in hand, the distance between successive points divided by the time between them gives the drone’s **speed** along its path, ready to draw on a map. Data is data: the weather table and the flight log are the same craft.
 
 In your mind's eye: a drone’s curved flight path over fields, with three log rows beneath it and the speed worked out between two of the points.
+
+[Picture 47426 — a drone’s curved flight path over fields, with three log rows beneath it and the speed worked out between two of the points]
 
 ## Say it to your companion
 

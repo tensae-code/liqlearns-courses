@@ -10,11 +10,15 @@ A JavaScript function is **declared once** — function greet(name) { … } — 
 
 In your mind's eye: declaring and calling.
 
+[Picture 47421 — declaring and calling]
+
 ## Sub lesson 2 — Returning — the function's answer
 
 A function answers through **return**: return total; ends the function at once and hands the value back to the caller, where it can be stored, printed, or used inside a larger expression — let avg = average(m1, m2);. A function with no return hands back **undefined** — correct for procedures, a silent fault for a function whose answer is then used in a sum. Malaysia's rule from the functions strand holds in JavaScript unchanged: one job per function, a name that says the job, and parameters for everything the job needs from outside — a function that reaches for the page's loose variables instead of its parameters cannot be tested alone, and what cannot be tested alone will be debugged in company.
 
 In your mind's eye: returning — the function's answer.
+
+[Picture 47422 — returning — the function's answer]
 
 ## Say it to your companion
 

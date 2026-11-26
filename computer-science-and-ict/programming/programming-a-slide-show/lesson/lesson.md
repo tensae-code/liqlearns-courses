@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Программируем слайд-�
 
 In your mind's eye: программируем слайд-шоу.
 
+[Picture 47439 — программируем слайд-шоу.]
+
 ## Sub lesson 2 — Doing it — Programming a Slide Show in practice
 
 **Doing it — Programming a Slide Show in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Programming a Slide Show in practice.
+
+[Picture 47440 — doing it — Programming a Slide Show in practice]
 
 ## Say it to your companion
 

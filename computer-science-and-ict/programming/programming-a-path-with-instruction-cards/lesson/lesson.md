@@ -10,11 +10,15 @@ With **instruction cards (cartes-instructions)**, the program is a physical row:
 
 In your mind's eye: cards make the program visible.
 
+[Picture 47433 — cards make the program visible]
+
 ## Sub lesson 2 — Practice makes the sequence trustworthy
 
 The training runs the loop of all programming: **plan, run, compare, repair**. Longer paths add the crafts: counting squares exactly (the program counts in the board's steps, not yours), turning relative to the character — its left, not yours — and chaining instruction groups the class has named. Each repaired path raises the ambition of the next: further, with turns, with traps marked on the board.
 
 In your mind's eye: practice makes the sequence trustworthy.
+
+[Picture 47434 — practice makes the sequence trustworthy]
 
 ## Say it to your companion
 

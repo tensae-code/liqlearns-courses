@@ -10,11 +10,15 @@ A program's **quality** is judged by features beyond 'it runs': **correctness** 
 
 In your mind's eye: program quality — the features a good program has.
 
+[Picture 47429 — program quality — the features a good program has]
+
 ## Sub lesson 2 — Testing — the proof: stages, levels and the test case
 
 **Testing** is running the program with chosen inputs to expose faults. A **test case** is one chosen input with its expected result written down *before* running. Testing works in **stages/levels**: parts alone (unit level), parts together (integration level), the whole program (system level), and the user's own check (acceptance level). Testing can show faults are present; it can never prove none remain — which is why quality is built in, not only tested in.
 
 In your mind's eye: testing — the proof: stages, levels and the test case.
+
+[Picture 47430 — testing — the proof: stages, levels and the test case]
 
 ## Say it to your companion
 

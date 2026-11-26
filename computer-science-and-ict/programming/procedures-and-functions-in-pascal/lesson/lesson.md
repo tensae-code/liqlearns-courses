@@ -10,11 +10,15 @@ A **procedure** is a named block of statements, written once above the main prog
 
 In your mind's eye: procedures. Named work.
 
+[Picture 47423 — procedures. Named work]
+
 ## Sub lesson 2 — Functions — named work that answers a value
 
 A **function** is a procedure that **returns a value**: it is used inside an expression, like the standard functions, and its name carries the result back. Rule of choice: if the block must give back one value, make it a function; if it does a job — draw, print, sort — make it a procedure. Both keep the main program short enough to read at a glance.
 
 In your mind's eye: functions. Named work that answers a value.
+
+[Picture 47424 — functions. Named work that answers a value]
 
 ## Say it to your companion
 

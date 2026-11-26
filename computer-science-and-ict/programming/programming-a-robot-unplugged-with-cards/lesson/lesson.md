@@ -10,11 +10,15 @@ The robot is across the room, asleep. Your program must be finished — complete
 
 In your mind's eye: planning away from the machine.
 
+[Picture 47437 — planning away from the machine]
+
 ## Sub lesson 2 — Why unplugged makes programmers
 
 Working away from the robot kills the trial-and-error shuffle — pressing buttons until it sort of works — and replaces it with **reading**: a card program can be traced by finger, checked by a partner, and repaired before any wheel turns. The robot's run becomes a test of a written thing. That is the professional shape of programming, met at age seven: write it whole, read it hard, then let the machine judge.
 
 In your mind's eye: why unplugged makes programmers.
+
+[Picture 47438 — why unplugged makes programmers]
 
 ## Say it to your companion
 
