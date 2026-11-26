@@ -10,6 +10,8 @@ Wright, Mackintosh, Rietveld, Mies van der Rohe and Le Corbusier each design the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41201 — fivedesignerschairs]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 20: From the free plan to the 'free' piece of furniture — Wright, Mackintosh, Rietveld, Mies van der Rohe and Le Corbusier each design the modern chair and the modern room. Then let your companion ask you one hard question about it — answer from the lesson.

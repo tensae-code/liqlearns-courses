@@ -10,11 +10,15 @@ Chinese general Xu Shuzheng abolishes Mongolia's autonomy in 1919; then Baron Un
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41179 — occupationanswers]
+
 ## Sub lesson 2 — Ch. II.3 The fate of Mongolia's independence
 
 Chen Yi's 64 demands and Xu Shuzheng's troops abolish autonomy in 1919; Mongolia's leaders split over submission while the secret circles form
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41178 — 64demands]
 
 ## Say it to your companion
 

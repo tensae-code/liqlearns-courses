@@ -10,11 +10,15 @@ after the empire breaks, khans rise and fall in quick succession and the aimags 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41186 — aimagspullapart]
+
 ## Sub lesson 2 — Ch. I.2: The struggle to restore united power
 
 the seven-year-old Dayan Khan is raised on Chinggis's throne before the Eight White Gers and reunites the Mongols; a century later Altan Khan founds Khökh Khot and in 1577 receives the title Dalai Lama from Sonam Gyatso
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41185 — childeightgers]
 
 ## Sub lesson 3 — Ch. I.4: Mongolia's foreign environment in the 15th–18th c.
 
@@ -22,17 +26,23 @@ a divided Mongolia is squeezed from three sides — Ming China, the rising Manch
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41184 — pressedthreesides]
+
 ## Sub lesson 4 — Ch. 4.1 Mongolia centred on its homeland
 
 after Yuan falls in 1368 the khans return to the steppe; the Northern Yuan fights Ming and itself in turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41183 — hometosteppe1368]
+
 ## Sub lesson 5 — Ch. 4.2 The Mongolian khanate states
 
 Dayan Khan's reunification and his sons' appanages — Khalkha, Chakhar, Ordos, Tümed — set the map the Manchu will conquer piece by piece
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41182 — reuniteddividedsons]
 
 ## Say it to your companion
 

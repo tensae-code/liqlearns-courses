@@ -10,6 +10,8 @@ Britain legislates the gold standard in the 1820s, the world follows, two wars b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41196 — golddollar1944]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Money and the making of a world monetary system — Britain legislates the gold standard in the 1820s, the world follows, two wars break it, and Bretton Woods crowns the dollar in 1944. Then let your companion ask you one hard question about it — answer from the lesson.

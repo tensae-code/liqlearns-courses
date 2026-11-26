@@ -10,17 +10,23 @@ Before you read on, hold this lesson's one thing in mind: 750,000 people at the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41200 — 750000forlanguage]
+
 ## Sub lesson 2 — Tema 36: RSSM între 1985 și 1991. Proclamarea independenței Republicii Moldova
 
 Gorbachev's perestroika frees speech; a Transnistrian republic is proclaimed against Chișinău, the Communist Party is suspended, and on 27 August 1991 over 600,000 people at the Great National Assembly demand independence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41199 — sixhundredthousand]
+
 ## Sub lesson 3 — Tema 46: Proclamarea suveranității și independenței Republicii Moldova. Simbolurile de stat
 
 in April 1988 the journal Nistru first demands the Latin script back; the Gagauz proclaim their own ASSR in November 1989; the tricolour is adopted on 27 April 1990, the coat of arms on 3 November 1990, and independence follows on 27 August 1991
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41198 — scriptflagarms]
 
 ## Say it to your companion
 

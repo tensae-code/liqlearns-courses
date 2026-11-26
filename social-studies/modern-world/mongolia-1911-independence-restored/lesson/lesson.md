@@ -10,11 +10,15 @@ as Qing collapses, Khalkha nobles and lamas send a secret delegation to Russia, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41194 — secretjourney]
+
 ## Sub lesson 2 — Ch. 2.2 Independent Mongolia
 
 the Bogd Khanate builds ministries, an army and a parliament of two chambers, and wins the 1915 Kyakhta treaty — autonomy under Chinese suzerainty, less than the full independence proclaimed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41193 — claimedvsallowed]
 
 ## Sub lesson 3 — Ch. II.1 The victory and significance of the 1911 revolution
 
@@ -22,11 +26,15 @@ on 29 December 1911 the Bogd is enthroned and independence declared; the book we
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41192 — enthroned1911]
+
 ## Sub lesson 4 — Ch. II.2 The beginning of Mongolia's restored rise, 1911–1920
 
 a two-chamber khural, an army, schools, a bank and 370 enterprises — the Bogd Khanate builds a modern state inside the limits Kyakhta allowed
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41191 — stateinsidelimits]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Sükhbaatar and Choibalsan's partisans, helped by the Red Army, free Urga in Jul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41190 — limitedkhan]
+
 ## Sub lesson 2 — Ch. 2.9 The first measures of the people's government
 
 serfdom and noble privilege are abolished, a constitution is drafted, and the new government begins remaking state and society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41189 — serfdomabolished]
 
 ## Sub lesson 3 — Ch. II.4 The victory and significance of the 1921 revolution
 
@@ -22,11 +26,15 @@ the MPP's founding, Kyakhta's fall, Ungern's capture of Urga, and the July 1921 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41188 — urgafreedprice]
+
 ## Sub lesson 4 — Ch. II.5 Mongolia, a limited constitutional monarchy, 1921–1924
 
 the Tangaragiin treaty bounds the Bogd's power; serfdom is abolished (1922), local rule democratised, and the first constitution drafted — a monarchy dissolving into a republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41187 — boundedcrownserfdom]
 
 ## Say it to your companion
 

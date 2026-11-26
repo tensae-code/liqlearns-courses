@@ -10,11 +10,15 @@ after the 1945 referendum confirms independence and China recognises it, Mongoli
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41181 — admitted1961]
+
 ## Sub lesson 2 — Ch. III.6 (second part) Independence confirmed, 1945
 
 Yalta's status-quo promise, the 20 October 1945 referendum (98.4% for independence), and China's recognition in 1946 make Mongolia's sovereignty de jure at last
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41180 — promisevote984]
 
 ## Say it to your companion
 
