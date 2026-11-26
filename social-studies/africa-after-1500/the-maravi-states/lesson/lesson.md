@@ -10,6 +10,8 @@ North of the Zambezi, the Maravi states take their place among Mozambique's firs
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39341 — two huts, a crowned king, a sun circle, a river band]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Maravi states — north of the Zambezi, the Maravi states take their place among Mozambique's first states, with their own time, territory and organisation. Then let your companion ask you one hard question about it — answer from the lesson.

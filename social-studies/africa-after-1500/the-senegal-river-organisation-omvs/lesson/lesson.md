@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: Mauritania, Senegal an
 Mauritania, Senegal and Mali share one river — the book ends with the organisation that dams and divides it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39348 — a river line, three country panels, a dam block]
 ## Sub lesson 2 — Lesson 13: The Senegal River Development Organisation
 
 The river Mauritania shares with Senegal and Mali gets its own joint authority
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39349 — a dam wall with three flags, a river band, an OMVS house]
 
 ## Say it to your companion
 

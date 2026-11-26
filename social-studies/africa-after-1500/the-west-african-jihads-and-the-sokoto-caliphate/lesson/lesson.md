@@ -10,6 +10,8 @@ Uthman dan Fodio, Fulani preacher and scholar, leads the first jihad in Hausa la
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39350 — a turbaned scholar with a book, a mosque, a school house]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Senior Four Term 1: The 19th-century jihads — Uthman dan Fodio, Fulani preacher and scholar, leads the first jihad in Hausa land against unfair courts and impure practice; his successor Mohammed Bello builds the Sokoto Caliphate's Quranic schools and mosques. Then let your companion ask you one hard question about it — answer from the lesson.

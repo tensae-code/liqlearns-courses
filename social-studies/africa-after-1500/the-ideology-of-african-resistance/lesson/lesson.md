@@ -10,6 +10,8 @@ Was resistance scattered reaction or organised defiance? The lesson debates how 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39333 — two panels — scattered figures, ranked figures under a flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The ideology of resistance — was resistance scattered reaction or organised defiance? The lesson debates how resistance should be read and where it ranks in Africa's story. Then let your companion ask you one hard question about it — answer from the lesson.

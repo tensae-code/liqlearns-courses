@@ -10,6 +10,8 @@ A company with sovereign rights runs Manica and Sofala for Portugal and internat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39343 — a company house with a crown, a Manica and Sofala panel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Mozambique Company — a company with sovereign rights runs Manica and Sofala for Portugal and international capital from 1892 to 1942 — the clearest face of the alliance. Then let your companion ask you one hard question about it — answer from the lesson.

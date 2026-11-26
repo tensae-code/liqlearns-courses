@@ -10,6 +10,8 @@ Diamonds at Kimberley in 1867, two years before Suez, reverse the interior's for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39342 — the Kimberley pit, Johannesburg towers, slum huts, a newcomer]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Mineral Revolution — diamonds at Kimberley in 1867, two years before Suez, reverse the interior's fortunes — Africans had been doing better than the white interior communities; now Kimberley and Johannesburg rise, slums with them, and the newcomers are named Uitlanders. Then let your companion ask you one hard question about it — answer from the lesson.

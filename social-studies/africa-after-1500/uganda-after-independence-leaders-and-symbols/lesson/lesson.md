@@ -10,6 +10,8 @@ The presidents file past — Obote twice, Amin, Lule's 68 days — Amin brings M
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39353 — Uganda's striped flag with a crane disc, four framed presidents]
+
 ## Sub lesson 2 — Uganda as an Independent Nation
 
 The flag's red is brotherhood, the coat of arms — designed by Cecil Todd — joins drum, spear and shield to coffee and cotton, and the child draws the crested crane and asks why it was chosen

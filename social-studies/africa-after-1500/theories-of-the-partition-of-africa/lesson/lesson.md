@@ -10,6 +10,8 @@ Why did Europe occupy Africa, and why only at the end of the 19th century? Rival
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39352 — an Africa outline, a WHY panel, three theory tags]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theories of the partition of Africa — why did Europe occupy Africa, and why only at the end of the 19th century? Rival theories of the partition are put to the learner. Then let your companion ask you one hard question about it — answer from the lesson.

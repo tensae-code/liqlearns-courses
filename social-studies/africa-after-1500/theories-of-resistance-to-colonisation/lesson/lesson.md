@@ -10,6 +10,8 @@ The module frames the conquest to come through the theories of how colonised peo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39351 — a great magnifying lens over three small figures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theories of resistance — the module frames the conquest to come through the theories of how colonised peoples resist — the lens for everything that follows. Then let your companion ask you one hard question about it — answer from the lesson.

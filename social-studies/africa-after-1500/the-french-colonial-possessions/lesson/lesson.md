@@ -10,6 +10,8 @@ France launches its own colonial project to exploit Africa's natural and human r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39330 — an Africa outline with France's flag, timber, ore, a worker]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The French possessions — France launches its own colonial project to exploit Africa's natural and human resources, with methods distinct from its rivals. Then let your companion ask you one hard question about it — answer from the lesson.

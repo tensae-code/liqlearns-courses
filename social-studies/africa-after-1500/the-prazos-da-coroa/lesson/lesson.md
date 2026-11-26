@@ -10,6 +10,8 @@ Portuguese penetration of the Mwenemutapa state births a new institution — cro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39346 — a PRAZO grant panel with a crown, an estate house, fields, a holder]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The prazos da coroa — Portuguese penetration of the Mwenemutapa state births a new institution — crown land grants, the prazos — with their own economic, political and social order. Then let your companion ask you one hard question about it — answer from the lesson.

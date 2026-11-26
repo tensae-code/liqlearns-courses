@@ -10,6 +10,8 @@ The loi-cadre reform becomes the hinge of French Africa's decolonisation, loosen
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39334 — a PARIS panel, slackening strings, three territory flags]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The loi-cadre and French African independence — the loi-cadre reform becomes the hinge of French Africa's decolonisation, loosening Paris's grip territory by territory. Then let your companion ask you one hard question about it — answer from the lesson.

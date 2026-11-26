@@ -10,6 +10,8 @@ Mozambique's borders are drawn through the sponsorship of international capital 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39340 — a border outline in two colours, a ruler figure at each side]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The establishment of Mozambique's borders — Mozambique's borders are drawn through the sponsorship of international capital and Portugal's tactical concessions and alliances with rival colonial powers. Then let your companion ask you one hard question about it — answer from the lesson.

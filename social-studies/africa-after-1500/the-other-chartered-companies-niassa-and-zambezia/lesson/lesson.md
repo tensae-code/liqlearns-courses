@@ -10,6 +10,8 @@ North of Manica and Sofala, the Zambezi Valley, Niassa and Cabo Delgado are like
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39345 — a panel of three stacked company zones]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The other companies — Niassa and Zambezia — north of Manica and Sofala, the Zambezi Valley, Niassa and Cabo Delgado are likewise ceded to chartered companies, Niassa's with sovereign rights. Then let your companion ask you one hard question about it — answer from the lesson.

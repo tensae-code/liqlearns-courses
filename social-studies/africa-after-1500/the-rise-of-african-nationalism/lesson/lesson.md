@@ -10,6 +10,8 @@ The ex-servicemen of the Second World War come home having seen that "even the w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39347 — three kit-bag soldiers walking home, an Ethiopia panel, an OAU flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Senior Four Term 1, Topic: The Rise of Nationalism in West Africa — the ex-servicemen of the Second World War come home having seen that "even the white man cries and can die"; Ethiopia's defeat of Italy in 1935–41 inspires the continent, and the OAU backs the last liberations. Then let your companion ask you one hard question about it — answer from the lesson.

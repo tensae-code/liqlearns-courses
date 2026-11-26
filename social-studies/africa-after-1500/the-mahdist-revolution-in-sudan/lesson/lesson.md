@@ -10,17 +10,23 @@ a holy man with no army declares the empire's rule finished, and Sudan believes 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39335 — the Mahdi on a rise, four figures turning to him]
+
 ## Sub lesson 2 — The Liberation of El Obeid (1882) and the Hicks Pasha Expedition (November 1883)
 
 ten thousand government soldiers march into the forest of Shaykan and do not march out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39336 — three soldiers marching toward a wall of trees]
+
 ## Sub lesson 3 — The Mahdist Revolution in Eastern Sudan, and The Liberation of Khartoum
 
 port by port the east rises, and then the empire's most famous general dies on the palace steps
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39337 — a coast band with port dots, a palace with steps and a flag]
 
 ## Say it to your companion
 

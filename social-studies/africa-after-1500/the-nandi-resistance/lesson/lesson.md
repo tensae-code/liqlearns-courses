@@ -10,6 +10,8 @@ The Nandi, who have beaten all their neighbours including the Maasai, are inspir
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39344 — green hills, a tall staff-bearing Orkoiyot ringed by his people]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Nandi Resistance — the Nandi, who have beaten all their neighbours including the Maasai, are inspired by their Orkoiyot, a symbol of unity with supernatural powers — and pay for resistance in depopulation. Then let your companion ask you one hard question about it — answer from the lesson.

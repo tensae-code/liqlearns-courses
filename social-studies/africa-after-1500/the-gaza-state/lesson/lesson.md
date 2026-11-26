@@ -10,6 +10,8 @@ The south had only chiefdoms and small kingdoms until the Mfecane's shockwave fr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39331 — two small huts, red shockwave arcs, a GAZA STATE panel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Gaza state — the south had only chiefdoms and small kingdoms until the Mfecane's shockwave from South Africa culminates in the Gaza state, created from 1821. Then let your companion ask you one hard question about it — answer from the lesson.
