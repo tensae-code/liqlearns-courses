@@ -10,11 +10,15 @@ the course opens where the medieval course ended — a Kazakh Khanate about to f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64023 — a century of lost independence]
+
 ## Sub lesson 2 — Introduction
 
 the course frames two centuries in which the khanate fights for survival and is absorbed by an empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64024 — absorbed by an empire]
 
 ## Say it to your companion
 

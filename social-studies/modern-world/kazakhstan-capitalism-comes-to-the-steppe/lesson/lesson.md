@@ -10,17 +10,23 @@ mines, railways, hired labour and markets pull the steppe into the empire's econ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64029 — pulled into the empires economy]
+
 ## Sub lesson 2 — §§40–41 Socio-economic development of Kazakhstan in the second half of the 19th century; the penetration of capitalist relations
 
 railways, mines and wage labour reach the steppe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64030 — wage labour reaches the steppe]
+
 ## Sub lesson 3 — §5.6 How did Kazakhstan's industrial development begin?
 
 the first mines, mills and railway workshops appear
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64031 — the first mines and mills]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ parliament, parties and elections take shape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64025 — institutions take shape]
+
 ## Sub lesson 2 — §40. Formation of the multi-party system; public movements and organisations
 
 from one party to many — movements fill the new public space
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64026 — from one party to many]
 
 ## Sub lesson 3 — §41. The Constitution (Basic Law) of the Republic of Kazakhstan
 
@@ -22,11 +26,15 @@ the 1995 constitution fixes the presidential republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64027 — the 1995 constitution]
+
 ## Sub lesson 4 — §18 State construction in the first years of independence
 
 constitutions of 1993 and 1995 frame the new republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64028 — two constitutions frame a republic]
 
 ## Say it to your companion
 

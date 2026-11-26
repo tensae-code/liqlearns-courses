@@ -26,17 +26,23 @@ railways, fairs and mines tie the steppe to Russian capital
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64014 — railways tie the steppe to capital]
+
 ## Sub lesson 4 — §§1–2 The socio-economic situation in Kazakhstan at the start of the 20th century
 
 a colonial steppe of nomads, settlers and mines enters the century with land hunger growing
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64015 — land hunger growing]
+
 ## Sub lesson 5 — Section 1 "Kazakhstan at the start of the 20th century" (its socio-economic and political inquiries)
 
 a colonial steppe enters the century — land, settlers, parties and press
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 64016 — land settlers parties press]
 
 ## Say it to your companion
 

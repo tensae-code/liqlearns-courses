@@ -10,6 +10,8 @@ lost pastures and broken migration routes force nomads toward poverty or settlem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 64037 — lost pastures broken routes]
+
 ## Sub lesson 2 — Lesson plan §37: the colonial policy's effect on the Kazakhs' traditional economy
 
 the teacher traces how land loss breaks the nomadic economy
