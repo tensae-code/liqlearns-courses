@@ -10,6 +10,8 @@ Prosperity mass-produced cars, radio and movies — the same songs, films and ad
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40136 — jazzage]
+
 ## Sub lesson 2 — A new generation flouts the old rules
 
 A new generation flouted the old rules — in dress, music, dancing and manners. Jazz gave the age its name and its soundtrack: America was redefining itself, loudly.

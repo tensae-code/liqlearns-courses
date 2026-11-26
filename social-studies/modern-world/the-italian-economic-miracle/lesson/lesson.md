@@ -10,11 +10,15 @@ fridges (Paris' Storiografia makes one the boom's symbol), televisions (Alfieri)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40144 — fridgetv]
+
 ## Sub lesson 2 — Modulo 13 §6 Il «miracolo economico»
 
 motorways, mass media and the robotic factory (Focus boxes) remake Italy; the miracle's geography — North industrialising, South emigrating — is its permanent question
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40143 — miraclegeography]
 
 ## Say it to your companion
 

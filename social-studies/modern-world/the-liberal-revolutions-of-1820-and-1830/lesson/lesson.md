@@ -10,11 +10,15 @@ secret societies and Carbonari rise in Spain, Naples and Piedmont; Greece wins i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40123 — greecewins]
+
 ## Sub lesson 2 — Modulo 4, Cap. 11 §§4–7 The revolutionary movements of 1820–21; Greek independence; The revolutionary movements of 1830–31; Liberalism and authoritarianism
 
 Carbonari, Greek freedom and the July days — Billington's secret societies (Fare storia) wire the conspiracies together
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40122 — carbonariwires]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the League's covenant is adopted on 28 April 1919; its real achievements include
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40127 — nansenpassport]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 10: Liga Naţiunilor: între intenţie şi realitate — the League's covenant is adopted on 28 April 1919; its real achievements include the Nansen passport for refugees (1922–38) and the fight against the opium trade. Then let your companion ask you one hard question about it — answer from the lesson.

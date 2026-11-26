@@ -10,6 +10,8 @@ Isfandiyar Khan's court keeps the old forms — divan, yasavulbashi, slave marke
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40128 — cagedcourt]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6 §27 The state structure and socio-political life of the Khiva Khanate — Isfandiyar Khan's court keeps the old forms — divan, yasavulbashi, slave markets only lately closed — inside a protectorate's cage. Then let your companion ask you one hard question about it — answer from the lesson.

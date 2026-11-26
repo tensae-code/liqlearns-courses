@@ -10,11 +10,15 @@ Munavvar Qari, Behbudiy and Fitrat demand new-method schools, newspapers and a n
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40139 — nationawake]
+
 ## Sub lesson 2 — Ch. 7 §33 The influence of Jadid ideology on the socio-economic and cultural life of the krai
 
 usul-i jadid classrooms, the 'Taraqqiy' and 'Khurshid' presses and theatre troupes carry the argument for a modern nation into every mahalla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40138 — jadidcarriers]
 
 ## Say it to your companion
 

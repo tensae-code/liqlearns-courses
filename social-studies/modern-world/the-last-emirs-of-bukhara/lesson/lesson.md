@@ -10,6 +10,8 @@ behind the Ark's walls the last emirs rule an unreformed court — qushbegi, zak
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40129 — arkrailway]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5 §§24–25 The state structure and socio-political life of the Bukhara Emirate — behind the Ark's walls the last emirs rule an unreformed court — qushbegi, zakatchi and the executioner's tower — while Russian agents watch from the railway town. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Arabshahid khans rule Khorezm from Urgench and Khiva; Turkmen and Karakalpak pre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40133 — khorezmhard]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. IV §§20–21 The formation of the Khiva Khanate; The political situation in the 17th – first half of the 18th century — Arabshahid khans rule Khorezm from Urgench and Khiva; Turkmen and Karakalpak pressure and a brief Persian occupation mark its hard centuries. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ students occupy, then workers' Hot Autumn wins the Statute of Workers; Flores' S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40142 — sixtyheight]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 5, Cap. 19 §5 The Italian Sixty-Eight — students occupy, then workers' Hot Autumn wins the Statute of Workers; Flores' Storiografia links the season to secularisation — Italy's 1968 lasts a decade, not a spring. Then let your companion ask you one hard question about it — answer from the lesson.

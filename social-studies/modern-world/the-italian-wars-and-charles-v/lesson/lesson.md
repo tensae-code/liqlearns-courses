@@ -10,11 +10,15 @@ Charles VIII's descent (1494) turns Italy into Europe's battlefield; Charles V i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40141 — halftheworld]
+
 ## Sub lesson 2 — La guerra in Italia; Il Sacco di Roma (Eventi); La rinuncia di Carlo V
 
 Italy pays for Charles V's empire with the Sack of Rome (1527); in 1555–56 the exhausted emperor divides his world and retires
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40140 — sackanddivide]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ between Khiva, the Kazakhs and the Aral, the Karakalpaks form as a people of fis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40135 — threelivings]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VI §§28–29 The formation of the Karakalpak people and its political life; Their socio-economic life — between Khiva, the Kazakhs and the Aral, the Karakalpaks form as a people of fishers, herders and farmers under others' sovereignty. Then let your companion ask you one hard question about it — answer from the lesson.

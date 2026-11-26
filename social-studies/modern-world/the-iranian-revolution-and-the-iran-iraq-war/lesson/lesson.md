@@ -16,6 +16,8 @@ the Shah falls to a revolution in God's name; the Islamic republic becomes the M
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40145 — shahfalls]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 18 §2 The Middle Eastern powder keg — Khomeini's revolution (Abrahamian's Storiografia) invents the Islamic republic; Saddam's war on Iran and on the Kurds (Froia's Storiografia, the chapter's maps) burns the decade in the Gulf. Modulo 12 §9 La rivoluzione khomeinista in Iran — the Shah falls to a revolution in God's name; the Islamic republic becomes the Middle East's new pole and the Gulf's eight-year war its first test. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ A new South Slav kingdom is assembled from a victorious Serbia and the ruins of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40132 — shsassembled]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.4 The Kingdom of SHS. Then let your companion ask you one hard question about it — answer from the lesson.

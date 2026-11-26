@@ -10,6 +10,8 @@ Shots in the parliament kill Yugoslav democracy, and the king rules by decree.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40131 — decreerules]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2.5 The Kingdom of Yugoslavia 1929–1941. Then let your companion ask you one hard question about it — answer from the lesson.

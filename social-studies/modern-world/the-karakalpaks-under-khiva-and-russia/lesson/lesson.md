@@ -10,6 +10,8 @@ the Aral delta people pass from Khiva's yoke to the Amu Darya department of the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40134 — dastanskept]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 4 §§22–23 The socio-economic and cultural life of the Karakalpaks — the Aral delta people pass from Khiva's yoke to the Amu Darya department of the empire, keeping their dastans and fisheries through both. Then let your companion ask you one hard question about it — answer from the lesson.

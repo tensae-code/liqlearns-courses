@@ -10,6 +10,8 @@ discipline, education and export strategy turn war ruins into industrial giants
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40137 — miracles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §24 The causes of the Japanese and South Korean "economic miracle" of the 1950s–60s — discipline, education and export strategy turn war ruins into industrial giants. Then let your companion ask you one hard question about it — answer from the lesson.

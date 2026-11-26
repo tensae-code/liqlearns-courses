@@ -10,6 +10,8 @@ Ming shahs of Fergana found Kokand (c. 1709) and absorb Tashkent, the region's t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40130 — kokandgate]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VII §§32–33 The formation of the Kokand Khanate; The Tashkent beklik in the second half of the 18th – early 19th century — Ming shahs of Fergana found Kokand (c. 1709) and absorb Tashkent, the region's trading gate to the steppe. Then let your companion ask you one hard question about it — answer from the lesson.

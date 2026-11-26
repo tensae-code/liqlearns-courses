@@ -10,11 +10,15 @@ the first attempt at a world parliament keeps small peace but cannot stop Japan,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40126 — worldparliament]
+
 ## Sub lesson 2 — Theme 2, Lessons 19–20: the League of Nations
 
 the world's first league for peace meets in Geneva without the United States in it, settles small disputes and fails before the big aggressors
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40125 — genevasmallpeace]
 
 ## Say it to your companion
 
