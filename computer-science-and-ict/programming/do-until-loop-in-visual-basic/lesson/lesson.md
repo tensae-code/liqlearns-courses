@@ -10,11 +10,15 @@ A **DO..UNTIL** loop repeats its block **while its condition is false** and stop
 
 In your mind's eye: dO..UNTIL — repeat until the condition turns true.
 
+[Picture 47035 — dO..UNTIL — repeat until the condition turns true]
+
 ## Sub lesson 2 — UNTIL against WHILE — the mirror pair
 
 **DO..WHILE** repeats while its condition is **true** and stops when it turns **false**; **DO..UNTIL** repeats while its condition is **false** and stops when it turns **true**. The same loop can be written either way by **negating the condition** — While count <= 10 is Until count > 10. Choose the form whose condition reads as the natural sentence for the job: a loop that hunts **until found** reads in UNTIL; a loop that works **while work remains** reads in WHILE. Libya closes its repetition teaching with UNTIL, after FOR..NEXT and DO..WHILE, so all three shapes stand together.
 
 In your mind's eye: uNTIL against WHILE — the mirror pair.
+
+[Picture 47036 — uNTIL against WHILE — the mirror pair]
 
 ## Say it to your companion
 

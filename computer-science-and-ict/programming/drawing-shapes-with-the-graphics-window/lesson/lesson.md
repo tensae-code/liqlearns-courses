@@ -10,11 +10,15 @@ The GraphicsWindow draws by named operations. **DrawLine** rules a line between 
 
 In your mind's eye: draw — the outline operations.
 
+[Picture 47048 — draw — the outline operations]
+
 ## Sub lesson 2 — Fill, pen and brush — the dressing
 
 Beside every Draw stands its **Fill** partner — FillRectangle, FillEllipse and the rest — which paints the shape's inside solid. Two settings dress all drawing: **PenColor** and **PenWidth** rule the outlines (their colour and thickness), and **BrushColor** rules the fills. Set them before the operation they should dress; the window remembers them until changed. Mongolia's drawing discipline follows: plan the picture as shapes, set pen and brush, draw outlines, fill insides — the order a draughtsman works, written as a program.
 
 In your mind's eye: fill, pen and brush — the dressing.
+
+[Picture 47049 — fill, pen and brush — the dressing]
 
 ## Say it to your companion
 

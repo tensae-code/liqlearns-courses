@@ -10,11 +10,15 @@ GraphABC opens a **graphics window**: a drawing surface where every point has **
 
 In your mind's eye: a graphics window with a coordinate grid, and a line, a rectangle and a circle placed by their numbers.
 
+[Picture 47045 — a graphics window with a coordinate grid, and a line, a rectangle and a circle placed by their numbers]
+
 ## Sub lesson 2 — Building figures from commands
 
 Figures are **built**: a house is a rectangle, a triangle roof and a circle window, drawn by a sequence of commands in an order the programmer chooses. Colour and fill commands dress a figure, and a drawing program can be re-run with changed numbers to move or resize the whole construction — the figure is the numbers, so changing the numbers rebuilds it. This section's tasks are geometric in the school sense — constructions and patterns — which is why the Grade 11 programming part opens here: the screen shows at once whether the program, and the geometry inside it, are right.
 
 In your mind's eye: a house assembled from a rectangle, a triangle and a circle, with the drawing commands listed beside it in order.
+
+[Picture 47046 — a house assembled from a rectangle, a triangle and a circle, with the drawing commands listed beside it in order]
 
 ## Say it to your companion
 

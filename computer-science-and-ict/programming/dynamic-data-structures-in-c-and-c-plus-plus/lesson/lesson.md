@@ -10,11 +10,15 @@ C++ reserves run-time memory with **new** — `int* p = new int;` — which retu
 
 In your mind's eye: new and delete — memory asked and returned.
 
+[Picture 47054 — new and delete — memory asked and returned]
+
 ## Sub lesson 2 — The sharper edges — leaks, dangling and wild pointers
 
 Manual memory's three classic wounds: the **memory leak** (a pointer overwritten before delete — its cell lost for the run's whole life), the **dangling pointer** (delete done, pointer kept and followed into freed memory now possibly reused), and the **wild pointer** (never set at all, followed anywhere). Pascal fences some of this (typed pointers, no pointer arithmetic); C++ allows **pointer arithmetic** itself (p + 1 steps to the next cell) — power for arrays' innards, and rope. The elective's rule closes the pair's programming theory: **every new pairs with a delete, every pointer is nil-or-valid, and a freed pointer is set to nullptr at once**.
 
 In your mind's eye: the sharper edges — leaks, dangling and wild pointers.
+
+[Picture 47055 — the sharper edges — leaks, dangling and wild pointers]
 
 ## Say it to your companion
 

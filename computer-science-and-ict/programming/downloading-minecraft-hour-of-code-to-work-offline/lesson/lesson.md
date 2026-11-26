@@ -10,11 +10,15 @@ The Grade 5 book opens by **downloading Minecraft (Hour of Code)** to the comput
 
 In your mind's eye: downloading the adventures to the computer.
 
+[Picture 47039 — downloading the adventures to the computer]
+
 ## Sub lesson 2 — Working offline — plan, run, check
 
 With the adventures on the computer, the class works **offline**: each puzzle is planned on **squared paper**, run in the adventure, and checked against the **success screen**. No connection is needed at any step — the download at the start is what makes the whole book’s offline way of working possible.
 
 In your mind's eye: working offline — plan, run, check.
+
+[Picture 47040 — working offline — plan, run, check]
 
 ## Say it to your companion
 

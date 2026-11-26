@@ -10,11 +10,15 @@ In the Graph unit, **PutPixel** lights one point, **Line** draws a segment betwe
 
 In your mind's eye: the drawing operators.
 
+[Picture 47043 — the drawing operators]
+
 ## Sub lesson 2 — Composing a picture from figures
 
 Figures compose: a house is a rectangle, a triangle roof and a circle sun; a flag is rectangles in colours. The book closes the lesson with a repetition, because the graphics operators are the Pascal course's reward — the pupil who has done values, branches and loops now makes the screen show them. Draw big first, then add the small figures.
 
 In your mind's eye: composing a picture from figures.
+
+[Picture 47044 — composing a picture from figures]
 
 ## Say it to your companion
 

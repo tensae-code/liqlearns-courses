@@ -10,6 +10,8 @@ Each maze level is drawn as a **backdrop**: one maze per backdrop, drawn in the 
 
 In your mind's eye: two maze backdrops side by side, both with walls in one single colour, the second maze visibly harder, with name labels Maze 1 and Maze 2 under them.
 
+[Picture 47047 — two maze backdrops side by side, both with walls in one single colour, the second maze visibly harder, with name labels Maze 1 and Maze 2 under them]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: a maze level is a backdrop, its walls are one colour only so the touching-colour test can feel every wall, and each level's backdrop is named for its level. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

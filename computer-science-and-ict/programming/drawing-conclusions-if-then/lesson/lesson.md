@@ -14,6 +14,8 @@ A **conclusion** is a judgement you reach from another judgement. Its shape is: 
 
 In your mind's eye: dark clouds and rain on one side, wet ground on the other, with the words If… then… between them.
 
+[Picture 47041 — dark clouds and rain on one side, wet ground on the other, with the words If… then… between them]
+
 Watch the order. The *if* part comes first, and the *then* part follows it. Swap them carelessly and the conclusion breaks: *if the ground is wet, then it rained* might be wrong — someone may have poured the water. A good conclusion keeps its parts in their true order.
 
 ## Sub lesson 2 — Composing judgements from pictures
@@ -23,6 +25,8 @@ A picture does not speak — but it shows things that judgements can say.
 Look at a picture slowly. Name what you see: a child, dark clouds, an umbrella in the child's hand. Now compose judgements from it: *The clouds are dark. The child is holding an umbrella.* Both can be checked — against the picture.
 
 In your mind's eye: a child holding an open umbrella under dark clouds, first drops of rain falling.
+
+[Picture 47042 — a child holding an open umbrella under dark clouds, first drops of rain falling]
 
 Now draw the conclusion the picture is pointing to: *If the clouds bring rain, then the umbrella keeps the child dry.*
 

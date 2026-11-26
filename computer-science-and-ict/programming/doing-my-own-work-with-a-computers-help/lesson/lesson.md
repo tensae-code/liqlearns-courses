@@ -10,11 +10,15 @@ Grade 3's informatics ends with a project about **the pupil's own work**: the jo
 
 In your mind's eye: my work — the jobs of my day.
 
+[Picture 47037 — my work — the jobs of my day]
+
 ## Sub lesson 2 — Choosing the computer's share — help, not replacement
 
 The project's judgement: for each job, **can a computer help — and with which part?** It can hold and search information, show and play, practise with you, and keep your work safe; it cannot understand for you, decide for you, or do the learning itself. Each pupil chooses one job, works it **with the computer's help**, and shows the class the before and after. The rule the project plants for every later year: the work stays mine — the computer carries the parts it is good at.
 
 In your mind's eye: choosing the computer's share — help, not replacement.
+
+[Picture 47038 — choosing the computer's share — help, not replacement]
 
 ## Say it to your companion
 
