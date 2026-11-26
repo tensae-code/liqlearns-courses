@@ -14,6 +14,8 @@ Ones complement has a wart: zero comes in two forms, 00000000 (+0) and 11111111 
 
 In your mind's eye: two rows of eight bit boxes: 00000101 labelled +5, and beneath it 11111010 with curved arrows showing every bit flipped.
 
+[Picture 47361 — two rows of eight bit boxes: 00000101 labelled +5, and beneath it 11111010 with curved arrows showing every bit flipped]
+
 ## Sub lesson 2 — Twos complement — and subtracting by adding
 
 The **twos complement** of a number is its ones complement **plus 1**. Minus 5: flip 00000101 to 11111010, add 1, and you get 11111011. That pattern is how real machines store −5 in 8 bits. Twos complement has only one zero (flipping 00000000 and adding 1 overflows back to 00000000), and its range is uneven in a useful direction: −128 to +127.
@@ -23,6 +25,8 @@ The payoff is subtraction. A computer's adder circuit only adds — so the machi
 If the answer is negative it comes out already written in twos complement: 5 − 9 gives 11111100, whose sign bit is 1; flip and add 1 to read its size — 00000100, so the answer is −4. Kenya's Form 3 data-representation chapter teaches signed numbers and complement subtraction as the closing step of its number-systems work, because this is the point where binary stops being notation and becomes machinery.
 
 In your mind's eye: the addition 00001001 + 11111011 lined up in columns, with the ninth carry bit circled and crossed out, leaving 00000100.
+
+[Picture 47362 — the addition 00001001 + 11111011 lined up in columns, with the ninth carry bit circled and crossed out, leaving 00000100]
 
 ## Say it to your companion
 

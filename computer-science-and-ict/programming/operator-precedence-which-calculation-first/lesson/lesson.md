@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **, Precedence of Arithmetic Opera
 
 In your mind's eye: , Precedence of Arithmetic Operators.
 
+[Picture 47367 — , Precedence of Arithmetic Operators.]
+
 ## Sub lesson 2 — Operators Precedence
 
 This part of Pakistan (Punjab)'s book teaches **Operators Precedence** — covering: Unit 2 §2.2.7 Operators Precedence (nine-level table; worked evaluation). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: operators Precedence.
+
+[Picture 47368 — operators Precedence.]
 
 ## Say it to your companion
 

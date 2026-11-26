@@ -10,11 +10,15 @@ Grade 8’s operations lesson lists the kit: **arithmetic + − × ÷**, **remai
 
 In your mind's eye: arithmetic, comparison and joining text.
 
+[Picture 47373 — arithmetic, comparison and joining text]
+
 ## Sub lesson 2 — The arithmetic mean — a sum that accumulates
 
 Grade 9 builds the **arithmetic mean**: a **sum variable accumulates each new value**, a count keeps how many values came, and **mean = sum ÷ count**. The program says the result **joined with words**, and the lesson extends it with a **STOP sprite** that ends the entering of values.
 
 In your mind's eye: the arithmetic mean — a sum that accumulates.
+
+[Picture 47374 — the arithmetic mean — a sum that accumulates]
 
 ## Say it to your companion
 

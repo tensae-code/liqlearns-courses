@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Operators Arithmetic Assignment 
 
 In your mind's eye: operators Arithmetic Assignment and Relational.
 
+[Picture 47369 — operators Arithmetic Assignment and Relational.]
+
 ## Sub lesson 2 — Operators: §2.2.1 Assignment Operators
 
 This part of Pakistan (Punjab)'s book teaches **Operators: §2.2.1 Assignment Operators** — covering: Unit 2 §2.2 Operators: §2.2.1 Assignment Operators (with the swap-two-variables program). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: operators. §2.2.1 Assignment Operators.
+
+[Picture 47370 — operators. §2.2.1 Assignment Operators.]
 
 ## Say it to your companion
 

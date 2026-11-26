@@ -10,11 +10,15 @@ A **list (λίστα)** is values joined in a chain, each value carrying the way
 
 In your mind's eye: lists — a chain that can grow.
 
+[Picture 47377 — lists — a chain that can grow]
+
 ## Sub lesson 2 — Trees and graphs — branching and connecting
 
 A **tree (δένδρο)** is a chain that branches: one **root**, each value holding branches to children below it — the shape of folders inside folders and of a family's descent, with no loops back. A **graph (γράφημα)** is the freest shape: **nodes** joined by **edges** in any pattern, loops allowed — the shape of road maps, networks and friendships. The supplementary material teaches all three at abstract level with diagrams, because the exam asks the learner to recognise the shape a problem's data already has.
 
 In your mind's eye: trees and graphs — branching and connecting.
+
+[Picture 47378 — trees and graphs — branching and connecting]
 
 ## Say it to your companion
 

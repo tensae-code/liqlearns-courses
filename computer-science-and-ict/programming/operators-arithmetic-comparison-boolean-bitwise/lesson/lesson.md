@@ -10,11 +10,15 @@ Operators in Arduino programs — the four families that compute and decide: ari
 
 In your mind's eye: arithmetic and comparison — computing and asking.
 
+[Picture 47371 — arithmetic and comparison — computing and asking]
+
 ## Sub lesson 2 — Boolean and bitwise — combining and bit-working
 
 The **boolean** family combines tests: `&&` (AND), `||` (OR), `!` (NOT) — the grammar of conditions with more than one sense open. The **bitwise** family works inside numbers, bit by bit: `& | ^ ~` and the shifts `<< >>` — moving and masking the single bits that are a board's flags, pin states and packed settings, where one number carries eight yes/no answers at once. The four families divide the operator world by the size of what they touch: values, tests, combinations of tests, and the bits inside the values themselves.
 
 In your mind's eye: boolean and bitwise — combining and bit-working.
+
+[Picture 47372 — boolean and bitwise — combining and bit-working]
 
 ## Say it to your companion
 
