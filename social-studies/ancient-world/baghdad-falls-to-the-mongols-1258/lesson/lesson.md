@@ -10,6 +10,8 @@ an empire weakened from inside for centuries is finished in forty days by horsem
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60303 — forty days that ended an empire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Weakness and Fall of the Abbasid State — an empire weakened from inside for centuries is finished in forty days by horsemen from the steppe. Then let your companion ask you one hard question about it — answer from the lesson.

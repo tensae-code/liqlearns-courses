@@ -10,6 +10,8 @@ Ashot Bagratuni wins recognition as king in 885, and a crowned Armenian kingdom 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60306 — the kingdom restored]
+
 ## Sub lesson 2 — 7.2 Bagratuni Armenia's flourishing and fall
 
 Ani, the city of a thousand and one churches, crowns the kingdom's golden century before Byzantium annexes it in 1045

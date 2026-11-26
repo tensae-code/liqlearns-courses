@@ -10,11 +10,15 @@ Athenian children learn letters, music and wrestling, women run the household, a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60285 — letters, music and wrestling]
+
 ## Sub lesson 2 — Ch. 22 Daily life and education exercises
 
 vase scenes are mined for how Athenian children were schooled and played
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60286 — vase scenes of school and play]
 
 ## Sub lesson 3 — Ch. E4 The composition of society — daily life
 
@@ -22,11 +26,15 @@ citizens, metics, slaves and women live four different Athens inside one city
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60287 — four different Athens]
+
 ## Sub lesson 4 — Ch. E5 The process of education — the Athenian and work — Athens celebrates
 
 school, palaestra and festivals shape the Athenian from boyhood to the Panathenaea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60288 — school bench to the Panathenaea]
 
 ## Say it to your companion
 

@@ -10,17 +10,23 @@ Athens leads the Delian League against Persia, its treasury and fleet grow, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60289 — the League's fleet and treasury]
+
 ## Sub lesson 2 — Ch. 20 Athens strongest city exercises
 
 exercises follow the Delian League's treasury and fleet as Athens turns leader into ruler
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60290 — the leader becomes the ruler]
+
 ## Sub lesson 3 — Ch. E1 The Delian League — the League as an instrument of Athenian hegemony
 
 allies' ships and silver become Athens's fleet and treasury; the League of liberation hardens into an empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60291 — the League hardens into empire]
 
 ## Say it to your companion
 

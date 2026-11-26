@@ -17,6 +17,8 @@ the Aryan settlement gives the land its first name and civilisation, the frame f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60283 — settlers name the land Ariana]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 6: Do you know the Aryans? — around 2500 BCE the Aryans enter the land that will bear their name (Ariana), calling themselves noble and of good conduct, their earlier homeland unknown; Chapter 1 (The Aryans), Lesson 1: The civilisation of Ariana — the Aryan settlement gives the land its first name and civilisation, the frame for everything the course will tell. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ the Seljuk vizier Nizam al-Mulk's Nizamiyya (finished 459 AH) boards and feeds i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60305 — schools that fed their students]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Iraq, home of knowledge: the Nizamiyya and Mustansiriyya schools — the Seljuk vizier Nizam al-Mulk's Nizamiyya (finished 459 AH) boards and feeds its students free; al-Mustansir's Mustansiriyya (631 AH) adds four colleges, a teaching hospital and an 80,000-book library — the first specialised Islamic university. Then let your companion ask you one hard question about it — answer from the lesson.

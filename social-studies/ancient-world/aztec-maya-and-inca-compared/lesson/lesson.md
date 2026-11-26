@@ -10,17 +10,23 @@ three empires are compared side by side — Tenochtitlan, the Maya city-states a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60298 — three empires side by side]
+
 ## Sub lesson 2 — Legado de las civilizaciones Mayas, Aztecas e Incas
 
 Maya calendars and glyphs, Aztec codices and Tenochtitlan itself, Inca Machu Picchu and Quechua survive as the three civilisations' living legacy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60299 — what the three left us]
+
 ## Sub lesson 3 — Civilizaciones indígenas de América
 
 only three peoples reach the highest, postclassic level — Maya, Aztec and Inca — and the unit studies them in turn as America's great civilisations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60300 — three reach the highest level]
 
 ## Say it to your companion
 

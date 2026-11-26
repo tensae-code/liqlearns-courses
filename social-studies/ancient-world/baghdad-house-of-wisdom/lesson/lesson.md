@@ -10,6 +10,8 @@ al-Mansur's palace library grows under Harun al-Rashid and al-Ma'mun into the Ho
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60304 — the world's books, in Arabic]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bayt al-Hikma and the houses of knowledge — al-Mansur's palace library grows under Harun al-Rashid and al-Ma'mun into the House of Wisdom, where Christian Yuhanna ibn Masawayh and Persian al-Fadl ibn Nawbakht lead teams translating the world's books into Arabic. Then let your companion ask you one hard question about it — answer from the lesson.

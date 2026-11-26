@@ -10,11 +10,15 @@ Temur's heir Babur loses Samarkand three times, takes Kabul, and at Panipat (152
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60301 — the road to Panipat]
+
 ## Sub lesson 2 — Ch. I §4 Zahiriddin Muhammad Babur — a great statesman and thinker
 
 the Fergana prince who lost Samarkand to Shaybani three times becomes the book's model ruler-writer; his road leads through Kabul to India and the Baburnama
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60302 — the ruler who wrote his life]
 
 ## Say it to your companion
 

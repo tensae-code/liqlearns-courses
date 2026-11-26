@@ -10,11 +10,15 @@ After Tiwanaku the Aymara lordships rule the Altiplano; the Kallawaya healers ke
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60295 — lordships of the Altiplano]
+
 ## Sub lesson 2 — Año 1: Los Aymaras
 
 The Aymara people and their lordships carry the story from Tiwanaku toward the Inca (Año 1: Los Aymaras)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60296 — from Tiwanaku toward the Inca]
 
 ## Say it to your companion
 
