@@ -10,11 +10,15 @@ In summer 1941 Finland builds information companies on the German propaganda-com
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63258 — 160000 photographs]
+
 ## Sub lesson 2 — Task 1, analysing one war-front photograph
 
 Finns carry a wounded enemy across a forest stream (June 1944), anti-tank guns fire on gunboats in Vyborg Bay (1941), Lottas give the wounded drink — pupils interrogate purpose, framing and cropping.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63259 — reading a war photograph]
 
 ## Sub lesson 3 — Task 1, Hitler's visit to Mannerheim's 75th birthday
 
@@ -22,11 +26,15 @@ Hitler walks in with Mannerheim and President Ryti and sits through the Marshal'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63260 — a birthday visit]
+
 ## Sub lesson 4 — Task 1, the front-life photo set
 
 Kino Jörö cinema opens at Lempaala, a choir sings the 72nd soldiers' evening, men carve birch-bark butter boxes and study by post — pupils ask why the Defence Forces wanted this cheerful front shown.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63261 — the cheerful front]
 
 ## Sub lesson 5 — Task 2, the Lotta canteen visit
 
@@ -34,17 +42,23 @@ A Lotta canteen entertains front-line boys in August 1944; pupils write two diar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63262 — two diary entries]
+
 ## Sub lesson 6 — Task 1, bomb damage in Kallio, Helsinki, 9 July 1941
 
 Soviet bombs wreck a working-class district in the war's first summer; pupils reconstruct the soundscape of the moment.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63263 — kallio bombed 1941]
+
 ## Sub lesson 7 — Task 2, overview of the Helsinki bombing, 9 July 1941
 
 The hundred-mark villas of Porvoonkatu lie ruined under Fleminginkatu's stone blocks; pupils compare the street then and now and ask who lived in each.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63264 — then and now]
 
 ## Say it to your companion
 

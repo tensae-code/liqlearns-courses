@@ -10,11 +10,15 @@ Finland, then part of Sweden, appears as Finlandia on late-medieval maps; exiled
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63256 — carta marina 1539]
+
 ## Sub lesson 2 — History lesson: reading the 1572 Carta Marina together
 
 Pupils hunt the map for Finland, Sweden and Iceland, match old names to today's towns, and read its animals, vehicles and everyday scenes as evidence of 1500s life.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63257 — reading the old map]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ Lift girls at Stockmann in 1930, a gas-lamp cleaner up his ladder in 1912, a sho
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63255 — vanished trades]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Vanhat ammatit valokuvissa photo set (17 photographs, 1910s–1977). Then let your companion ask you one hard question about it — answer from the lesson.

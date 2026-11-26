@@ -58,11 +58,15 @@ An evacuee wife pleads her husband's case for leave from the front; the office's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63246 — leave refused 1944]
+
 ## Sub lesson 8 — introduction: cession and resettlement
 
 Finland cedes a tenth of its land; 420,000 people leave home, the 1940 rapid-resettlement law buys land for them, yet housing stays desperate and friction follows.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63247 — a tenth of the land]
 
 ## Sub lesson 9 — Task 1, Säkylä letter 1941
 
@@ -70,11 +74,15 @@ A Karelian front-line veteran writes that locals call Karelians 'ryssä' — he 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63248 — he fought for a lost home]
+
 ## Sub lesson 10 — Task 2, Rovaniemi letter 1941
 
 A poor evacuee who has hunted a home for three months asks who the fairy-tale-expensive Swedish 'gift houses' are really for.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63249 — fairy-tale gift houses]
 
 ## Sub lesson 11 — Task 3, Suonenjoki letter 1941
 
@@ -82,11 +90,15 @@ A rich landlord raises a poor evacuee family's rent for one tiny stove-room, bla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63250 — the landlord blames the tax]
+
 ## Sub lesson 12 — Task 4, Oulu letter 1941
 
 A reservist sergeant from Pitkäranta, everything left behind, is refused a 3,000 mk advance on his 34,000 mk compensation claim.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63251 — 3000 refused of 34000]
 
 ## Sub lesson 13 — Task 5, Säkylä repeated and Reposaari 1944 letters
 
@@ -94,17 +106,23 @@ A family is dumped into a kitchen corner while rooms stand empty; the writer rec
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63252 — the same wound]
+
 ## Sub lesson 14 — Task 6, 1944 letter and reply
 
 An evacuee wife argues her husband should get leave; the reply refuses as the 1944 offensive burns — women's war inside the resettlement story.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63253 — womens war]
+
 ## Sub lesson 15 — Task 3, the evacuee photographs
 
 Evacuees sit on a barge deck remembering home (June 1944) and a father and daughter bid Suistamo church farewell (August 1944) — pupils split the experience by men, women and children.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63254 — farewell to suistamo]
 
 ## Say it to your companion
 

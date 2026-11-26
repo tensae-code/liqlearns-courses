@@ -10,11 +10,15 @@ Most letter-writers are wives and mothers; their pens carry the home front's war
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63265 — pens of wives and mothers]
+
 ## Sub lesson 2 — introduction: who served, where, and the field post
 
 Hundreds of thousands serve but only a third fight at the front; age and trade decide a man's post, letters are the only link home, and ~95,000 Finns die.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63266 — letters the only link]
 
 ## Sub lesson 3 — Task 1, Oulu letter 1944
 
@@ -22,17 +26,23 @@ A mother who has buried two sons begs that the third be let home for his brother
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63267 — two sons buried]
+
 ## Sub lesson 4 — Task 2, Hämeenlinna letter Dec 1944
 
 Parents protest that the 1925-born still fight in the north after the armistice while their letters and parcels vanish — the Lapland War turn.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63268 — still fighting after armistice]
+
 ## Sub lesson 5 — Task 3, Kotala letter 1942
 
 A wounded B2-class farmer idles in a labour company while his wife and three small children run the farm alone — release him where he is useful.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63269 — useful at home]
 
 ## Sub lesson 6 — Task 4, Perniö letter Oct 1944
 
