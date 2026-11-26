@@ -10,11 +10,15 @@ The project assembles the story's pieces first: a **hare sprite and a tortoise s
 
 In your mind's eye: building the race — sprites and places.
 
+[Picture 47496 — building the race — sprites and places]
+
 ## Sub lesson 2 — Running the story — fast, slow, and the finish
 
 The story runs on its scripts: the **hare moves fast** and then **stops — it rests, as in the tale** — while the **tortoise moves slowly and does not stop**, step after step, until it **reaches the finish first**. Sounds from the year's sound work can mark the start and the finish. The project's check is the story itself: a watcher who does not know the code must be able to tell the tale from watching — fast start, rest, steady tortoise, surprise finish.
 
 In your mind's eye: running the story — fast, slow, and the finish.
+
+[Picture 47497 — running the story — fast, slow, and the finish]
 
 ## Say it to your companion
 

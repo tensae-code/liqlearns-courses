@@ -10,11 +10,15 @@ The tale is built as **scenes in order**, each with its **backdrop** and the **s
 
 In your mind's eye: the story's scenes — sprites and backdrops in order.
 
+[Picture 47491 — the story's scenes — sprites and backdrops in order]
+
 ## Sub lesson 2 — Telling it in Scratch — movement, meeting, ending
 
 In each scene the sprites **move and meet** as the tale requires: Riding Hood travels the wood path, the **wolf appears and the meeting is played**, and the story reaches the house for its ending. The year's sounds can give the scenes their voices and warnings. The project's check is the tale in order: a watcher sees the journey, the meeting and the ending, in the story's own sequence, without the maker explaining which part is which.
 
 In your mind's eye: telling it in scratch — movement, meeting, ending.
+
+[Picture 47492 — telling it in scratch — movement, meeting, ending]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The book's longest Grade 4 work is **"Създаване на компютърн
 
 In your mind's eye: a picture of a school-themed Scratch game mid-build — a controlled sprite, a score variable showing, a branching decision drawn as a fork. With a tester's checklist beside the stage.
 
+[Picture 47482 — a picture of a school-themed Scratch game mid-build — a controlled sprite, a score variable showing, a branching decision drawn as a fork. With a tester's checklist beside the stage]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Creating a computer game is Grade 4's long project arc: a school-themed Scratch game planned in parts — sprites under control, variables for score, branches and operators deciding — built, tested and improved over several lessons. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

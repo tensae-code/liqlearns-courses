@@ -10,11 +10,15 @@ The project asks each pupil to **design a robot that helps them**: name the help
 
 In your mind's eye: the task — a robot that helps me.
 
+[Picture 47483 — the task — a robot that helps me]
+
 ## Sub lesson 2 — Designing with the four stages
 
 The design is worked in the unit's craft: set the **goal** (the help, in one sentence), the **smart plan** (the steps the robot follows), its **flowchart**, and then the **code instructions** the robot would run — the same four stages the Little Programmer lessons taught, now spent on the pupil's own invention. The project is the unit's proof: the stages are a way of working, not a page in the book.
 
 In your mind's eye: designing with the four stages.
+
+[Picture 47484 — designing with the four stages]
 
 ## Say it to your companion
 

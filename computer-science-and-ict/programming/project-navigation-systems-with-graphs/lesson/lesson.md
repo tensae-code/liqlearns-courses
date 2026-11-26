@@ -12,6 +12,8 @@ Then each edge gets its **weight**, and here the modelling choice matters: weigh
 
 In your mind's eye: navigation-graph-model: a small street map on the left dissolving into its graph on the right — junctions as nodes, road pieces as edges with minute-weights.
 
+[Picture 47493 — navigation-graph-model: a small street map on the left dissolving into its graph on the right — junctions as nodes, road pieces as edges with minute-weights]
+
 ## Step 2 — Answer the request by hand
 
 Take your neighbourhood graph — eight to twelve nodes is a good size — and run Dijkstra's algorithm from a start node, exactly as the last lesson taught: tentative distances, settle the cheapest, relax, note parents. Then answer three route requests from the parents the run leaves behind. Check each route against your own knowledge of the streets: does the machine's 'best' match the way a local would actually walk or drive? Where it does not, the fault is in the model — a missing path, a wrong weight — not in the algorithm. That chase, model → run → check → fix the model, is the real project skill.

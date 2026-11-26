@@ -10,11 +10,15 @@ The group's **flower garden** is programmed **using My Blocks**: the petal (and 
 
 In your mind's eye: the garden is built from your own blocks.
 
+[Picture 47494 — the garden is built from your own blocks]
+
 ## Sub lesson 2 — Working as a group of programmers
 
 The group divides the work as programmers do: agree the blocks' names and inputs first, define them, test each block alone, then plant the garden together. A garden that grows crooked is debugged at the definition — fix the block once and every flower it planted stands straight.
 
 In your mind's eye: working as a group of programmers.
+
+[Picture 47495 — working as a group of programmers]
 
 ## Say it to your companion
 

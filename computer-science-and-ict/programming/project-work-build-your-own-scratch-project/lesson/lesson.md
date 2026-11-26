@@ -10,6 +10,8 @@ Twice in Grade 3 the book stops teaching new blocks and sets **project work (Р�
 
 In your mind's eye: a picture of a project plan on paper — idea, sprites, backdrop, lines. Beside a Scratch stage where the same project is half built, with one part ticked as working.
 
+[Picture 47498 — a picture of a project plan on paper — idea, sprites, backdrop, lines. Beside a Scratch stage where the same project is half built, with one part ticked as working]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Project work means building a Scratch project of your own from the skills already learned — your own sprites, backdrops, movement, speech and sound, planned first and built step by step. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

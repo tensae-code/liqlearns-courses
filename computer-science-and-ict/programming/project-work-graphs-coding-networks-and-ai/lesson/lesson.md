@@ -12,6 +12,8 @@ Then the **plan**: break the goal into steps, give each step an **owner** (roles
 
 In your mind's eye: project-plan-board. One goal sentence at the top of a board, steps with owners' names beneath, and three milestone flags on a timeline.
 
+[Picture 47499 — project-plan-board. One goal sentence at the top of a board, steps with owners' names beneath, and three milestone flags on a timeline]
+
 ## Sub lesson 2 — The menu — one build per strand, and the social bot
 
 The book's menu offers one build per strand, each small enough to finish and real enough to matter. **Graphs:** the route-finder of the navigation project, on a map the team chooses. **Coding:** a cipher tool — the strand's shift and key ideas as a working encrypt/decrypt program, or a code-breaking challenge set for another team. **Networks:** an investigation — draw your school or home network as it truly is (devices, router, addresses, protocols named), and find one true thing about it you did not know. **AI:** a small honest training — gather examples, split off a test set, train a simple classifier, and report the unseen-data score with its failures named.
@@ -19,6 +21,8 @@ The book's menu offers one build per strand, each small enough to finish and rea
 And the crown piece the chapter saves for its end: **programming a social bot** — a program that receives a message and answers as a character. The first honest version is rule-based, and building it teaches its lesson precisely: the bot scans the incoming text for **patterns** (a greeting word, a question mark, the name of a topic) and answers from prepared responses, with fallbacks for everything unmatched. It feels alive exactly until a message arrives that no pattern fits — and then the class sees, from inside their own build, the border this course drew two ways of AI ago: rules answer what was foreseen (§4.2's knowledge-based way); the unforeseeable is what data-based systems are for. A bot that logs its failures is a project that ends knowing something true.
 
 In your mind's eye: social-bot-patterns: an incoming message flowing through three pattern cards — greeting, question, unknown. Each lighting its prepared answer, the unknown card lighting the fallback.
+
+[Picture 47500 — social-bot-patterns: an incoming message flowing through three pattern cards — greeting, question, unknown. Each lighting its prepared answer, the unknown card lighting the fallback]
 
 ## Say it to your companion
 

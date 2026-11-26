@@ -10,11 +10,15 @@ The final lesson, **Innovations**, asks the pupil to **invent new missions and p
 
 In your mind's eye: inventing the mission.
 
+[Picture 47489 — inventing the mission]
+
 ## Sub lesson 2 — Exchanging tasks with a classmate
 
 The invented puzzles are then **exchanged with a classmate**: each pupil solves the other’s task and meets the success screen or finds the flaw. Inventing teaches what solving alone cannot — the maker must think about the solver, the order of steps, and whether the puzzle’s rules are clear.
 
 In your mind's eye: exchanging tasks with a classmate.
+
+[Picture 47490 — exchanging tasks with a classmate]
 
 ## Say it to your companion
 

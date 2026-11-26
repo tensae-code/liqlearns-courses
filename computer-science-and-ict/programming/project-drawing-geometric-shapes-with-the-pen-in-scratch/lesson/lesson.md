@@ -10,11 +10,15 @@ With the **pen down**, a sprite **draws as it moves**: a **square** is **move, t
 
 In your mind's eye: a shape is moves and turns — the square and the triangle.
 
+[Picture 47487 — a shape is moves and turns — the square and the triangle]
+
 ## Sub lesson 2 — Loops draw them — and shapes combine
 
 Each shape collapses into a **repeat**: the square is **repeat 4 [move, turn 90°]**, and changing the **count and the turn** draws the whole family — pentagon, hexagon — from one script shape. Pen **colour and size** personalise the drawing, and shapes **combine into figures**: a house is a square with a triangle on top, drawn by running the two shapes' scripts in their places. The project's check is a page of named shapes, each drawn by its own loop, that another learner can reproduce from the counts and turns alone.
 
 In your mind's eye: loops draw them — and shapes combine.
+
+[Picture 47488 — loops draw them — and shapes combine]
 
 ## Say it to your companion
 

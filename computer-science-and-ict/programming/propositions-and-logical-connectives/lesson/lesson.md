@@ -10,11 +10,15 @@ A **proposition** (proposisi) is a statement that is **true or false** — not a
 
 In your mind's eye: the proposition — a statement with a truth value.
 
+[Picture 47501 — the proposition — a statement with a truth value]
+
 ## Sub lesson 2 — The connectives — NOT, AND, OR, IF–THEN
 
 Propositions are joined by **connectives** into bigger statements whose truth is computed from their parts. **Negation** (negasi/ingkaran) flips the value: NOT p. **Conjunction** (konjungsi) joins with AND — true only when both parts are true. **Disjunction** (disjungsi) joins with OR — true when at least one part is true. **Implication** (implikasi) joins with IF–THEN — false only when the first is true and the second false — and its double, **biimplication**, says the two stand or fall together. These five are the complete grammar by which programs, circuits and arguments combine their truths.
 
 In your mind's eye: the connectives — NOT, AND, OR, IF–THEN.
+
+[Picture 47502 — the connectives — NOT, AND, OR, IF–THEN]
 
 ## Say it to your companion
 
