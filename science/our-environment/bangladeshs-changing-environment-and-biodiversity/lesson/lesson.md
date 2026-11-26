@@ -9,7 +9,11 @@ Class 6 in Bangladesh closes its Investigative Study with its own country: the c
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37569 — land water and life all together]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37570 — its environment is changing]
 
 ## Sub lesson 2 — What change does to biodiversity
 

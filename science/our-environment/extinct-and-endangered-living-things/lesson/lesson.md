@@ -11,7 +11,11 @@ Kuwait's Grade 4 book sets extinction beside its warning form: a kind that still
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37646 — extinct means gone for ever]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37647 — endangered on the way to gone]
 
 ## Sub lesson 2 — Why kinds disappear — and how they are saved
 

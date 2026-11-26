@@ -9,7 +9,11 @@ Where Cambodia's waterways spread, a forest stands that is **flooded** for part 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37793 — trees standing in water fish among]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37794 — when the flood's timing changes all]
 
 ## Sub lesson 2 — Its problems — an environment under pressure
 

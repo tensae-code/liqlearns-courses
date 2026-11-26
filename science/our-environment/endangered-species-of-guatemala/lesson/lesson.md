@@ -11,7 +11,11 @@ A species is **in danger of extinction** when its kind is at risk of disappearin
 
 In your mind's eye: a crowd of one kind of animal drawn thinning across three panels to a last few. Say what is being lost in the last panel that was not lost in the first.
 
+[Picture 37634 — what is lost between the first]
+
 In your mind's eye: the three panels animating: many, fewer, almost none. Say at which panel the kind passes from safe to in danger, and why.
+
+[GIF 37635 — an endangered kind disappearing]
 
 ## Sub lesson 2 — Guatemala's own endangered species
 

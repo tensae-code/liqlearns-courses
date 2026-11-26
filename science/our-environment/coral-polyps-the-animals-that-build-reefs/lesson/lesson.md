@@ -13,7 +13,11 @@ Hold that picture: a tiny animal, fixed in its place, arms out, catching its din
 
 In your mind's eye: one coral polyp close up, tentacles out, with microscopic floating animals drifting past. Name the polyp and its tentacles before reading on.
 
+[Picture 37606 — a tiny animal that catches its]
+
 In your mind's eye: a polyp's tentacles waving and closing on a drifting speck of food. Say what the polyp caught and how.
+
+[GIF 37607 — tentacles wave then close on food]
 
 ## Sub lesson 2 — From polyps to reefs — and the kinds of reef
 

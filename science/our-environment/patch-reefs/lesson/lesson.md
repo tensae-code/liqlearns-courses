@@ -11,7 +11,11 @@ Like every reef, it **grows toward the sunlight** — building upward from the l
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37756 — reef islands rising from the lagoon]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[Picture 37757 — patches grow ringed by sand]
 
 ## Sub lesson 2 — Hiding places for shallow-water animals
 

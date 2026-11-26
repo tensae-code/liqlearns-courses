@@ -9,7 +9,11 @@ High in the atmosphere sits a covering of **ozone** that **shields Earth's surfa
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37796 — a thin shield that stops harmful]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37797 — a hole in the shield lets]
 
 ## Sub lesson 2 — Freon gases and the holes over the poles
 

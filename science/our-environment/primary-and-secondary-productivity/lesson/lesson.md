@@ -11,7 +11,11 @@ Productivity is a measure of making over time — how much living matter the pro
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37767 — what the producers make from sunlight]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37768 — secondary productivity a shrinking share]
 
 ## Sub lesson 2 — Secondary productivity — what the consumers build
 

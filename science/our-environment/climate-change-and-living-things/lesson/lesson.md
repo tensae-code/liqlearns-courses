@@ -9,7 +9,11 @@ South Sudan's Primary 4 book teaches the effects of climate change on animals an
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37584 — plants live by light rain and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37585 — a changing climate stresses plants]
 
 ## Sub lesson 2 — What climate change does to animals
 

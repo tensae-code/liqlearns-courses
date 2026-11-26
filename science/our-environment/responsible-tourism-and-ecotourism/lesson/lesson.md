@@ -9,17 +9,23 @@ Iran's book defines tourism plainly: travel and activity done outside one's livi
 
 In your mind's eye: tourism — travelling, and what it brings as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37776 — visitors bring good and harm as]
+
 ## Sub lesson 2 — Ecotourism — travel that protects
 
 Against ordinary travel the book sets ecotourism: a responsible journey to natural areas that protects the environment — and it states the test sharply: any tourism in conflict with the environment's sustainability principles is not an instance of ecotourism. How visitors treat an attraction is the whole question; two approaches follow from it, one that uses a place up and one that keeps it.
 
 In your mind's eye: ecotourism — travel that protects as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37777 — small groups a guide nothing left]
+
 ## Sub lesson 3 — Protected places, and travel that fits
 
 Iran keeps protected areas — set aside by its Environment Protection Organisation since 1353 to preserve natural areas, with wildlife refuges among them — and the lesson closes with success: villages whose tourism fits their culture and customs, and the book's own counsel for the road — take your pack light and your steps slow.
 
 In your mind's eye: protected places, and travel that fits as Iran's book shows it. Name the part that carries the sub lesson's point.
+
+[Picture 37778 — protected places visited the right way]
 
 ## The key ideas
 

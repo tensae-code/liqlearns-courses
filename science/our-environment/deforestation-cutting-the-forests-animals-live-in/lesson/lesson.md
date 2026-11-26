@@ -9,7 +9,11 @@ how people change the ecosystem, 1: cutting the forests — people fell forest t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37616 — a forest is a home not]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37617 — cut the forest and the animals]
 
 ## The key ideas
 

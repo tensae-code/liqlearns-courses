@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Environmental factors and
 
 In your mind's eye: environmental factors and their influence on ecosystems as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37637 — factors shape every ecosystem]
+
 ## Sub lesson 2 — Factors influencing the life of an ecosystem
 
 The books teach this part as "Factors influencing the life of an ecosystem" (with the practical work on water conditions for seed germination) — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: factors influencing the life of an ecosystem as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37638 — a living thing's life depends on]
 
 ## The key ideas
 

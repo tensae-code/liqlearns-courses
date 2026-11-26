@@ -11,7 +11,11 @@ Naming the dangers first is the plan's foundation: a community that knows which 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37650 — water rising and earth sliding]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37651 — a plan made before the emergency]
 
 ## Sub lesson 2 — Making the community emergency plan
 

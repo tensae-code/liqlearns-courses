@@ -9,7 +9,11 @@ A **habitat** is a place where living things are found — the place that gives 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37669 — a habitat gives food water shelter]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37670 — lose one need and the habitat]
 
 ## Sub lesson 2 — Plants grouped by where they grow
 

@@ -9,7 +9,11 @@ To compare the biodiversity of two places, counting kinds is not enough — a pl
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37721 — biodiversity can be measured]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37722 — simpson's index variety in one number]
 
 ## Sub lesson 2 — Reading the index — the worked example
 

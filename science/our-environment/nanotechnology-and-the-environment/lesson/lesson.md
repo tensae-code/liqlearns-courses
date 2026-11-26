@@ -9,7 +9,11 @@ A material can be rebuilt at a scale far too small to see — and come out stron
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37723 — nanotechnology working with the tiniest bits]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37724 — nanomaterials can trap the tiniest dirt]
 
 ## Sub lesson 2 — Nanotechnology and biosphere sustainability — the environmental dimensions
 

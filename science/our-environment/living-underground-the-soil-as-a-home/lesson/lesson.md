@@ -11,7 +11,11 @@ The **underground living environment** is the home below the surface: the soil i
 
 In your mind's eye: the lesson's central set-up for sub lesson 1. Name its parts before reading on.
 
+[Picture 37713 — a living world under our feet]
+
 In your mind's eye: the lesson's central change for sub lesson 1. Say what changed and what it proves.
+
+[Picture 37714 — soil life moves up and down]
 
 ## Sub lesson 2 — One environment among the others
 

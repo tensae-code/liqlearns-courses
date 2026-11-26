@@ -11,7 +11,11 @@ Its named inhabitants: **water lilies** among the plants; **carp, catfish and pi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37598 — many lives share one pond]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37599 — a community cannot survive poisoned water]
 
 ## Sub lesson 2 — Communities in salt water
 
@@ -21,7 +25,11 @@ Here the named life is different: **algae living near the sunlit surface**, wher
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37600 — the sea's community reef fish and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37601 — when the sea warms the community]
 
 ## The key ideas
 

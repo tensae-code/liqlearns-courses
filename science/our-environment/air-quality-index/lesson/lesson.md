@@ -9,11 +9,15 @@ Iran's Grade 11 book puts the air quality index at the centre of its air lesson:
 
 In your mind's eye: reading the air's grade as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37565 — a grade tells how clean the]
+
 ## Sub lesson 2 — Pollution you cannot see
 
 The same lesson reaches a pollution with no smoke and no smell: devices create stronger electromagnetic fields around themselves, and the book names the result electromagnetic pollution. The lesson of the index widens: what harms the air is not only what can be seen — some of it must be measured to be known at all.
 
 In your mind's eye: pollution you cannot see as Iran's book shows it. Name the part that carries the sub lesson's point.
+
+[Picture 37566 — pollution you cannot see is still]
 
 ## The key ideas
 

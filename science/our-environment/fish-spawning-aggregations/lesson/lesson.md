@@ -11,7 +11,11 @@ There is no nest and no carrying: the parents' bodies do their part by the relea
 
 In your mind's eye: reef fish above a reef, with clouds of tiny eggs drifting in the water around them. The student points to the fish and the eggs before reading on.
 
+[Picture 37648 — new fish begin as eggs in]
+
 In your mind's eye: dots of eggs and sperm drifting together and mixing in the water. Say what must meet for a new fish to begin.
+
+[GIF 37649 — eggs and sperm drift together]
 
 ## Sub lesson 2 — The gathering — many fish, one place, one time
 

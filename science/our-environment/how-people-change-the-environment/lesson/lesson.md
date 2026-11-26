@@ -9,7 +9,11 @@ Cambodia's Grade 9 book opens its environment chapter (Biology Ch. 5) with the w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37685 — cutting building damming people act]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37686 — the environment answers back]
 
 ## Sub lesson 2 — The chapter's order — effect first, pollution second
 

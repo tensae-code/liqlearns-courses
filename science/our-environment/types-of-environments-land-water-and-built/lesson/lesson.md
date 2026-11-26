@@ -9,7 +9,11 @@ Papua New Guinea's Grade 3 textbook sorts the environment around us into types: 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37800 — land water and built environments]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37801 — a place can change its sort]
 
 ## Sub lesson 2 — Papua New Guinea's own natural environments
 

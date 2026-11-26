@@ -11,7 +11,11 @@ These grow and hold together by themselves. Nobody planted the forest or stocked
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37727 — forest sea river and swamp communities]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37728 — eat and be eaten the web]
 
 ## Sub lesson 2 — Human-made communities — park, fishpond, field, garden
 
@@ -21,7 +25,11 @@ People make these and people keep them: the park is planted, the fishpond is sto
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37729 — park fishpond field and garden]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37730 — watering feeding weeding care]
 
 ## The key ideas
 

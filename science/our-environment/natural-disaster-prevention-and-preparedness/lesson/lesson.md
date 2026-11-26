@@ -9,7 +9,11 @@ Ecuador's Grade 5 book teaches the **volcanic eruption process in detail**: an e
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37731 — melted rock rises and bursts out]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37732 — ash gas and lava the eruption]
 
 ## Sub lesson 2 — Prevention measures — before eruptions and natural disasters
 

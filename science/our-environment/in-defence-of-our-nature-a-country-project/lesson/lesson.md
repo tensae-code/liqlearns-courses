@@ -11,7 +11,11 @@ The research has named objects: the territory's **species** — what lives there
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37689 — one protected territory near home]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37690 — posters planting protecting the project]
 
 ## Sub lesson 2 — Knowing a place is the first defence
 
@@ -21,7 +25,11 @@ Research first, defence second: the learner who has done this project holds the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37691 — watch it name its life write]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37692 — the better known the better defended]
 
 ## The key ideas
 

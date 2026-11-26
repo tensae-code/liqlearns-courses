@@ -9,7 +9,11 @@ symbiosis in its three kinds: mutualism, where both gain (the bird that picks in
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37711 — living together help harmlessness harm]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37712 — mutualism both sides gain]
 
 ## Sub lesson 2 — The Friendship of the Insect and the Tree
 

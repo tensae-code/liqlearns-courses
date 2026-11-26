@@ -9,7 +9,11 @@ The first National Communication report to the UN climate convention; the Climat
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37746 — forests kept clean power national effort]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37747 — nepal's own way of answering]
 
 ## Sub lesson 2 — The first National Communication report to the UN climate convention
 

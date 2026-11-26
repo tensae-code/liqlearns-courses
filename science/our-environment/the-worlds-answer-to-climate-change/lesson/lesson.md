@@ -9,7 +9,11 @@ The Rio Earth Summit of 1992 and the UN Framework Convention on Climate Change, 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37798 — all countries one shared effort]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37799 — working together bends the line]
 
 ## Sub lesson 2 — The Rio Earth Summit of 1992 and the UN Framework Convention on Climate Change
 

@@ -9,7 +9,11 @@ environmental law in the same lesson: no building begins before an environmental
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37705 — rules with the force of law]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37706 — the ranger stops the cutter it]
 
 ## The key ideas
 

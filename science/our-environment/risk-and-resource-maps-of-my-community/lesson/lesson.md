@@ -9,7 +9,11 @@ The risk-and-resource map: a sketch of where the community's dangers and resourc
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37779 — one map dangers marked resources marked]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37780 — planning together around their own map]
 
 ## The key ideas
 

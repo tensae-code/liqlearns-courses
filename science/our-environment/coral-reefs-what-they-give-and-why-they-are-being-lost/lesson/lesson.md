@@ -9,7 +9,11 @@ Oceans, lagoons and coral reefs stand under the Samoan way of life: fish and she
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37612 — food shelter sand and safety]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37613 — once gone a reef does not]
 
 ## Sub lesson 2 — Why the reefs are being lost
 

@@ -9,7 +9,11 @@ Fiji's Year 6 book sorts living things by where they belong. **Endemic** species
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37693 — two ways a kind comes to]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37694 — an introduced kind can take over]
 
 ## Sub lesson 2 — Introduced species in Fiji
 

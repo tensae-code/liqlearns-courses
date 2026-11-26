@@ -11,7 +11,11 @@ On land there are forests, grasslands and deserts; in water there are seas, rive
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37701 — natural habitats on land and in]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37702 — one life two homes]
 
 ## Sub lesson 2 — Every home fits its living things
 

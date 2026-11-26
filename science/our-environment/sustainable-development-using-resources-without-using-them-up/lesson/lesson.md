@@ -9,7 +9,11 @@ Sustainable development: sorting activities into sustainable or not; environment
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37787 — using resources without using them up]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37788 — cut a strip replant and the]
 
 ## Sub lesson 2 — The "how long can I keep going?" resource game
 

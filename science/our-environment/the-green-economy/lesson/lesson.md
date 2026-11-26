@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "'Green' economy — the f
 
 In your mind's eye: 'Green' economy — the future of Kazakhstan's development as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37795 — kazakhstan's future growth that keeps nature]
+
 ## The key ideas
 
 - 'Green' economy — the future of Kazakhstan's development — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

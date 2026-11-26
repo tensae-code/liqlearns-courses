@@ -11,7 +11,11 @@ Desertification is a change of the land itself, step by step — which is why th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37620 — land at the desert's edge is]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37621 — overused land turns to desert]
 
 ## Sub lesson 2 — Fighting it — the green belt
 

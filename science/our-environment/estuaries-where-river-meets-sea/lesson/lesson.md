@@ -11,7 +11,11 @@ How salty a spot in the estuary is — its saltiness — **changes with the tide
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37639 — an estuary fresh and salt water]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[Picture 37640 — the tide mixes them twice a]
 
 ## Sub lesson 2 — A rich food supply
 

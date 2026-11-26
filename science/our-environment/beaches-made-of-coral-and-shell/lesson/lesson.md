@@ -11,7 +11,11 @@ The high islands show the contrast: their beaches can be **dark volcanic sand**,
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37571 — this sand was once coral and]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[Picture 37572 — from reef to beach slowly broken]
 
 ## Sub lesson 2 — The beach as a habitat
 

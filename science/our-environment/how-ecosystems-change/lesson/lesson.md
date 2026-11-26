@@ -11,7 +11,11 @@ Other changes are sudden: a fire, a flood, a drought or a storm can remake an ec
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 37673 — change comes slowly and suddenly]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 37674 — years of growth or one afternoon]
 
 ## Sub lesson 2 — People change ecosystems too
 

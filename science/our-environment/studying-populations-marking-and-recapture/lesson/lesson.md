@@ -9,7 +9,11 @@ how populations are studied: to follow the monarch butterfly's migration, studen
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37785 — catch mark and let them go]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37786 — count the marked estimate the whole]
 
 ## The key ideas
 

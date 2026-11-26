@@ -9,7 +9,11 @@ Dead matter in the forest does not pile up forever: it **rots** — it is broken
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37614 — decomposers nature's recyclers at work]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37615 — dead matter becomes soil once more]
 
 ## Sub lesson 2 — The rotting crew — fungi and many-legged soil animals
 

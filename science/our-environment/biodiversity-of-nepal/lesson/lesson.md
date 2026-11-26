@@ -9,7 +9,11 @@ Nepal's own biodiversity: 27th in the world, 10th in Asia, 2nd in South Asia, wi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37575 — every height has its own living]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37576 — nepal's variety is under pressure]
 
 ## Sub lesson 2 — Nepal's endangered plants and animals and why they are declining
 

@@ -9,7 +9,11 @@ limiting factors: food, space and water cap a population's growth — in the pon
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37707 — limiting factors stop a population growing]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37708 — growth rises then levels at the]
 
 ## The key ideas
 

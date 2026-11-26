@@ -9,7 +9,11 @@ After teaching what biodiversity is and how it is measured, Bangladesh's Class 7
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37573 — survey count every kind of living]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37574 — kinds are being lost]
 
 ## Sub lesson 2 — Diversity across the country's parts
 

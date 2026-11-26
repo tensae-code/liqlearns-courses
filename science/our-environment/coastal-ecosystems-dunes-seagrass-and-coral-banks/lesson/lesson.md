@@ -11,7 +11,11 @@ The dune and its plants are the coast's first ecosystem: a living strip that sta
 
 In your mind's eye: a coast cut from shore to sea in three bands — dunes with plants, a green seagrass meadow in the shallows, and a coral bank with a humpback whale offshore. Name each band before reading on.
 
+[Picture 37594 — three bands from shore to sea]
+
 In your mind's eye: a humpback whale rising and blowing above a coral bank. Say which ecosystem the whale has come to and what grows below it.
+
+[Picture 37595 — a humpback whale visits the coral]
 
 ## Sub lesson 2 — Seagrass meadows — the ocean's prairies
 

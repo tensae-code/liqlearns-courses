@@ -9,7 +9,11 @@ Egypt's Primary 6 book reaches this project through its climate unit: weather ag
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37658 — a city heats up under a]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37659 — trees and green roofs keep a]
 
 ## Sub lesson 2 — Building an environmentally friendly city — the project
 

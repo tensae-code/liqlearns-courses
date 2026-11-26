@@ -9,7 +9,11 @@ Zimbabwe's ECD B guide opens land use with **residential** land: the land where 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37675 — every piece of land has its]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37676 — as people grow in number land]
 
 ## Sub lesson 2 — Land for farming and for work
 

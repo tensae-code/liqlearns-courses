@@ -9,7 +9,11 @@ Iceland is a **young volcanic island** with very varied landscapes. Its nature b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37687 — lava moss coast and birds very]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37688 — first moss then plants succession]
 
 ## Sub lesson 2 — Each habitat known by its characteristic organism
 

@@ -11,7 +11,11 @@ The plains community stands on **fertile soil** and open **meadows**. Its named 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37602 — grass grazers and burrows on the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37603 — the plains change with the rains]
 
 ## Sub lesson 2 — Communities of the mountains
 
@@ -21,7 +25,11 @@ The mountain community is layered by height: **broadleaf forest** below, **conif
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37604 — each height band holds different lives]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37605 — the snow line moves with the]
 
 ## The key ideas
 

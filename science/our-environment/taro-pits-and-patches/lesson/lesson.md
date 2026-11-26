@@ -11,7 +11,11 @@ So the taro farmer digs. A **taro pit** is a pit dug down through the dry sand u
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37791 — the pit reaches water the surface]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[Picture 37792 — down in the pit the taro]
 
 ## Sub lesson 2 — The patch as a habitat
 

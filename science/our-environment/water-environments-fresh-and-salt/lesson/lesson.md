@@ -11,7 +11,11 @@ Kinds are then named one by one. The **lake** is a water environment with **clos
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37804 — fresh water is precious because it]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37805 — rivers flow fresh into the salty]
 
 ## Sub lesson 2 — Sea and ocean water — and the fresh marshes
 

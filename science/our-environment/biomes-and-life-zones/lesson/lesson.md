@@ -9,7 +9,11 @@ Biogeography and biomes: large geographic zones sharing climate, soil and living
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37578 — biomes great lands told by their]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37579 — same plant cover means the same]
 
 ## Sub lesson 2 — Succession after a fire (the area two years on, and ten), natural vs human-caused
 

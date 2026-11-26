@@ -9,6 +9,8 @@ the DDT case answered: the phenomenon is denominated biomagnification (biomagnif
 
 In your mind's eye: the DDT case answered as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37762 — biomagnification each step holds more poison]
+
 ## The key ideas
 
 - the DDT case answered: the phenomenon is denominated biomagnification (biomagnificación); the cause of the greatest increase of the DDT concentration is the use of DDT as insecticide in the crops; and the consequences that the accumulation of this contaminant can have: poisoning (envenenamiento), intoxication, congenital malformations and death (guide evidence)

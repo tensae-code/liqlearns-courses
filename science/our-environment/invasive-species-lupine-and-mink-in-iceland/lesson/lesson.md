@@ -9,7 +9,11 @@ The **lupine** — a relative of white clover — was brought in and **used to r
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37695 — the lupine purple spikes on bare]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37696 — brought to heal land now crowding]
 
 ## Sub lesson 2 — The mink — an invasive predator at the top of its food web
 

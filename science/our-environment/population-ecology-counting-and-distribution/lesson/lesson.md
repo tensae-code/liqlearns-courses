@@ -9,7 +9,11 @@ Malaysia's Additional Science Form 4 book teaches **population ecology**: counti
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37763 — quadrats and counts how many are]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37764 — clumped even or random distribution]
 
 ## The key ideas
 

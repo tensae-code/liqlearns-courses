@@ -9,7 +9,11 @@ science, technology and society: the eucalyptus — a fast-growing Australian tr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37810 — deep roots drinking the ground dry]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37811 — a useful plant can harm an]
 
 ## The key ideas
 

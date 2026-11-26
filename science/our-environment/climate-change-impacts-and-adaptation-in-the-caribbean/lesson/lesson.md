@@ -15,7 +15,11 @@ Climate change is the long shift in the Earth's climate, driven by global warmin
 
 In your mind's eye: a Caribbean coastline with homes, a road and farmland close to the sea. The student points to the places a rising sea, a flood and a dry spell would each reach first.
 
+[Picture 37588 — island life lives close to the]
+
 In your mind's eye: sea water washing higher up a beach, then rain flooding a street. Say which impact is shown in each half.
+
+[GIF 37589 — sea rises rain floods the street]
 
 ## Sub lesson 2 — Adapting, and minimising the impact
 

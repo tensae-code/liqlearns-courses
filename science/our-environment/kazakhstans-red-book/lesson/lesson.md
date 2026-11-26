@@ -9,11 +9,15 @@ The books teach this part as rare and protected species of Kazakhstan — worked
 
 In your mind's eye: the Red Book of the Republic of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37697 — the book of kinds in danger]
+
 ## Sub lesson 2 — The Red Book of plants
 
 The books teach this part as the Red Book's role in saving rare plants — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: the Red Book of plants as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37698 — plants in danger listed too]
 
 ## Sub lesson 3 — The Red Book of Kazakhstan
 
@@ -21,11 +25,15 @@ Kazakhstan's books teach this as their own lesson — "The Red Book of Kazakhsta
 
 In your mind's eye: the Red Book of Kazakhstan as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37699 — snow leopard rare birds rare plants]
+
 ## Sub lesson 4 — Why does the Book for the protection of the animal and plant world have a red colour?
 
 Kazakhstan's books teach this as their own lesson — "Why does the Book for the protection of the animal and plant world have a red colour?". The learner works through the books' own presentation of why does the Book for the protection of the animal and plant world have a red colour? — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: why does the Book for the protection of the animal and plant world have a red colour? as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37700 — red is the colour of warning]
 
 ## The key ideas
 

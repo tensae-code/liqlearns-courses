@@ -9,7 +9,11 @@ habitat and ecological niche: the niche is the living thing's role (the pond sna
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37662 — habitat is where niche is what]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37663 — same tree different jobs two niches]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ Dive to the bottom of a deep pool and your ears feel it; a deep-sea fish lives i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37806 — the deeper the water the harder]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37807 — bodies fitted to pressure and darkness]
 
 ## Sub lesson 2 — Living at different depths — adaptation to pressure
 

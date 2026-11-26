@@ -9,7 +9,11 @@ Sunlight in the ocean: how far light penetrates; primary productivity measured b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37719 — sunlight fades as the ocean deepens]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37720 — each depth has its own light]
 
 ## Sub lesson 2 — Marine biology
 

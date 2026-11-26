@@ -9,6 +9,8 @@ Kazakhstan's books teach this as their own lesson — "Biogeography — where li
 
 In your mind's eye: biogeography — where living things are found as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37577 — each kind is found in its]
+
 ## The key ideas
 
 - Biogeography — where living things are found — taught as its own lesson in Kazakhstan's books; the books and pages are named in Sources.

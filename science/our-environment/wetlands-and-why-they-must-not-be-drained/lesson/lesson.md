@@ -9,7 +9,11 @@ A wet, boggy field looks empty and useless to a builder who wants dry land. Drai
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37808 — reeds water birds a rich habitat]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37809 — drained cracked earth where life was]
 
 ## Sub lesson 2 — Restoring — and peat bogs binding carbon
 

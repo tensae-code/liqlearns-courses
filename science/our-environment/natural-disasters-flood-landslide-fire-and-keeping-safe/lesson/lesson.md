@@ -8,6 +8,8 @@ Nepal's Grade 4 My Science, Health and Physical Education book teaches the disas
 
 In your mind's eye: flood, landslide and fire are natural disasters that damage homes, land and lives — and much of their damage can be prevented by how people build, plant and prepare: embankments against floods, trees holding slopes, and care with fire. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37735 — embankments trees on slopes care with]
+
 ## The key facts
 **Flood.** When heavy rain swells rivers beyond their banks, water covers land, homes and crops. Embankments — raised banks along the river — hold back ordinary floods, and keeping river channels and drains clear lets water escape instead of spreading.
 

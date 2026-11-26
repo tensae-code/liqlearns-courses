@@ -13,7 +13,11 @@ That is the mangrove's trick, and the lesson keeps it whole: one tree, joined to
 
 In your mind's eye: a mangrove tree at the coast, roots in the mud at low tide and branches and leaves above the water. Name each part before reading on.
 
+[Picture 37717 — the mangrove tree and its parts]
+
 In your mind's eye: the tide coming in around a mangrove's roots, then going out again. Say what changes for the tree and what stays the same.
+
+[GIF 37718 — in with the tide out with]
 
 ## Sub lesson 2 — Food, markets and the animals of the mangroves
 

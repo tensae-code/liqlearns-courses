@@ -9,7 +9,11 @@ science, technology and society: how do zoos prepare for marine hurricanes?
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37774 — storm coming which animals have shelter]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37775 — science and care protect farm animals]
 
 ## Sub lesson 2 — — animals sense severe weather before it comes
 

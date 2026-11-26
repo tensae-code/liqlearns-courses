@@ -11,7 +11,11 @@ Because a living thing **fits** its environment. The animal of the water is buil
 
 In your mind's eye: two environments side by side, water and dry land, each with its own animals. Say why each animal is in its own place and not the other.
 
+[Picture 37561 — each animal fits its own place]
+
 In your mind's eye: one animal in its own environment, then the same animal pictured in the wrong environment. Say what fails.
+
+[Picture 37562 — the right animal in the right]
 
 ## Sub lesson 2 — How animals adapt when conditions change
 

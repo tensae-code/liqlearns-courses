@@ -9,7 +9,11 @@ Nature's contributions to people (NCP): ecosystem functions that benefit humans,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37744 — nature's contributions to people]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37745 — pollination becomes our food]
 
 ## Sub lesson 2 — The functions of the school green zone's ecosystem and what they do for the school
 

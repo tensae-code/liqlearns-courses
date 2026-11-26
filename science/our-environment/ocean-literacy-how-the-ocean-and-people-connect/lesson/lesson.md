@@ -13,7 +13,11 @@ Hold those four together: one water, shaping the planet, driving its weather, an
 
 In your mind's eye: the world ocean shown as one connected water around the continents. The student traces the connections with a finger before reading on.
 
+[Picture 37750 — trace it all the seas join]
+
 In your mind's eye: clouds forming over the ocean and moving inland as rain. Say which principle the GIF shows.
+
+[GIF 37751 — clouds form at sea rain on]
 
 ## Sub lesson 2 — The ocean's diversity, our connection, and the unexplored
 

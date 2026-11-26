@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 8 guide teaches climate change as its o
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37586 — more gases a warmer earth climate]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37587 — one warming many effects]
 
 ## Sub lesson 2 — Causes — and effects on the Earth
 

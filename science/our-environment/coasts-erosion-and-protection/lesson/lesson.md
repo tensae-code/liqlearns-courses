@@ -9,7 +9,11 @@ Beach simulator: erosion intensity vs wave repetition and force; can natural bar
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37596 — a whole beach in one tray]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37597 — waves wash the sand slope away]
 
 ## Sub lesson 2 — Ecosystems that protect the coast
 

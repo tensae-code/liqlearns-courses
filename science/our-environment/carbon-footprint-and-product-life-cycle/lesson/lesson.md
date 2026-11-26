@@ -9,7 +9,11 @@ Malaysia's Form 5 book teaches the **product life cycle** and the **carbon footp
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37582 — every product leaves its mark]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37583 — some footprints are far bigger than]
 
 ## Sub lesson 2 — Preserving the environment — and the carbon handprint
 

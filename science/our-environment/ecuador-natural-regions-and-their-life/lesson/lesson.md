@@ -9,7 +9,11 @@ Ecuador's Grade 5 book **locates the country's natural regions**: each region is
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37632 — ecuador coast mountains jungle]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37633 — pin each region where it belongs]
 
 ## Sub lesson 2 — The flora and fauna most representative of each region
 

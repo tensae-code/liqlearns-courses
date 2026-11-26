@@ -9,7 +9,11 @@ Fiji's Year 10 book divides the ocean into **zones**, and reads each zone by thr
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37752 — depth sunlight and temperature sort the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37753 — deeper is darker and colder]
 
 ## Sub lesson 2 — The intertidal zone — where the ocean meets the shore
 

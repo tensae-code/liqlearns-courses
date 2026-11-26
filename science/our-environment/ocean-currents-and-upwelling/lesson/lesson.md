@@ -9,7 +9,11 @@ The ocean is layered by temperature. Sun-warmed water floats at the top; below i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37748 — warm above cold below a border]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37749 — rising water brings food for plankton]
 
 ## Sub lesson 2 — The trade winds, the currents and upwelling
 

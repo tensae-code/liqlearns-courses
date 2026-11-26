@@ -9,7 +9,11 @@ Plants grow where their needs are met. Some plants live in sunny places; others 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37671 — some plants want sun some want]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37672 — the wrong light makes a plant]
 
 ## Sub lesson 2 — Water plants and land-and-water plants
 

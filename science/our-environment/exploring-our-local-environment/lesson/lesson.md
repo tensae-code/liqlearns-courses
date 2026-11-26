@@ -9,7 +9,11 @@ Seychelles' Unit 13 Topic 2 studies the smallest habitat there is: a puddle. Its
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37644 — a puddle is a whole small]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37645 — when the puddle dries its world]
 
 ## Sub lesson 2 — Investigating a habitat properly
 

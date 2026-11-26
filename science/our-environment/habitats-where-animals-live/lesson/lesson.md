@@ -9,7 +9,11 @@ Animals live where they find food and safety. Some dig burrows or live in the so
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37667 — homes in the ground and in]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37668 — out at night home by day]
 
 ## Sub lesson 2 — Homes in water
 

@@ -9,17 +9,23 @@ the IUCN definition of a protected area: a clearly defined geographical space, r
 
 In your mind's eye: the IUCN definition of a protected area as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37771 — land or sea set apart by]
+
 ## Sub lesson 2 — A management plan (plan de manejo) sets a protected
 
 a management plan (plan de manejo) sets a protected area's objectives and actions for protection, conservation, restoration and use, and its zoning orders the space: the core zone (zona núcleo) is absolute conservation, while the buffer zone (zona de amortiguamiento) promotes conservation with sustainable multiple use and local social, economic and cultural development.
 
 In your mind's eye: a management plan (plan de manejo) sets a protected as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37772 — plan de manejo zones rules duties]
+
 ## Sub lesson 3 — The objectives of SINAPH, the National System of Protected Areas of Honduras
 
 the objectives of SINAPH, the National System of Protected Areas of Honduras: conserve and integrally develop the natural and cultural resources of the protected areas, develop co-management mechanisms, promote coordination between institutions, open opportunities for sustainable use, assure conservation of biodiversity, achieve the greatest sustainable social and economic benefit, and provide instruments for proper management.
 
 In your mind's eye: the objectives of SINAPH, the National System of Protected Areas of Honduras as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37773 — one national system many protected places]
 
 ## The key ideas
 

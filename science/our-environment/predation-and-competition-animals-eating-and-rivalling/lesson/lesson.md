@@ -9,7 +9,11 @@ relations between living things in the community: predation, the commonest of th
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37765 — predation and competition side by side]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37766 — eating and rivalling shape communities]
 
 ## Sub lesson 2 — Competition: when a living thing takes a place in more than one chain of the web, competition follows — a struggle between living things over food, water, shelter and their other needs; plants compete too (small plants and forest flowers against tall trees for sunlight, water and nutrients), and competition happens inside one population, as sparrows compete over a plant's fruit and seeds
 

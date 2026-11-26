@@ -1158,6 +1158,259 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 37558 | pictures/37558.webp | Two panels: an ordinary fire's thick smoke rising, and the stove's smoke spread so thin that a plane sees nothing — drawn render, Photos+GIFs front 2026-11-26 | Science — Natural Resources, The Hoàng Cầm smokeless stove |
 | 37559 | pictures/37559.webp | The sea as a natural resource: fish, a fishing boat and salt pans — drawn render, Photos+GIFs front 2026-11-26 | Science — Natural Resources, Using the sea — and its resources |
 | 37560 | pictures/37560.webp | A small net taking one fish while plenty of fish swim on: take some, leave plenty — drawn render, Photos+GIFs front 2026-11-26 | Science — Natural Resources, Using the sea — and its resources |
+| 37561 | pictures/37561.webp | Each animal fits its own place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Adaptation how Living Things Fit Where They Live |
+| 37562 | pictures/37562.webp | The right animal in the right place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Adaptation how Living Things Fit Where They Live |
+| 37563 | pictures/37563.webp | Plants, animals, water, light — one system. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Adapting or Moving When an Ecosystem Changes |
+| 37564 | pictures/37564.webp | When it changes, living things adapt or move. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Adapting or Moving When an Ecosystem Changes |
+| 37565 | pictures/37565.webp | A grade tells how clean the air is. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Air Quality Index |
+| 37566 | pictures/37566.webp | Pollution you cannot see is still there. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Air Quality Index |
+| 37567 | pictures/37567.webp | Everything holds everything else up. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Balanced Ecosystems and what Upsets Them |
+| 37568 | pictures/37568.webp | Remove one part, the balance tips. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Balanced Ecosystems and what Upsets Them |
+| 37569 | pictures/37569.webp | Land, water and life, all together. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Bangladeshs Changing Environment and Biodiversity |
+| 37570 | pictures/37570.webp | Its environment is changing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Bangladeshs Changing Environment and Biodiversity |
+| 37571 | pictures/37571.webp | This sand was once coral and shell. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Beaches Made of Coral and Shell |
+| 37572 | pictures/37572.webp | From reef to beach, slowly broken down. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Beaches Made of Coral and Shell |
+| 37573 | pictures/37573.webp | Survey: count every kind of living thing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biodiversity of Bangladesh |
+| 37574 | pictures/37574.webp | Kinds are being lost. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biodiversity of Bangladesh |
+| 37575 | pictures/37575.webp | Every height has its own living things. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biodiversity of Nepal |
+| 37576 | pictures/37576.webp | Nepal's variety is under pressure. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biodiversity of Nepal |
+| 37577 | pictures/37577.webp | Each kind is found in its own part of the world. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biogeography Where Living Things Are Found |
+| 37578 | pictures/37578.webp | Biomes: great lands told by their plants. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biomes and Life Zones |
+| 37579 | pictures/37579.webp | Same plant cover means the same biome. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biomes and Life Zones |
+| 37580 | pictures/37580.webp | Compare the plant cover, and you compare biomes. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biomes of the World |
+| 37581 | pictures/37581.webp | The cover alone groups the regions. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Biomes of the World |
+| 37582 | pictures/37582.webp | Every product leaves its mark. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Carbon Footprint and Product Life Cycle |
+| 37583 | pictures/37583.webp | Some footprints are far bigger than others. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Carbon Footprint and Product Life Cycle |
+| 37584 | pictures/37584.webp | Plants live by light, rain and warmth. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change and Living Things |
+| 37585 | pictures/37585.webp | A changing climate stresses plants. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change and Living Things |
+| 37586 | pictures/37586.webp | More gases, a warmer Earth: climate change. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Causes Effects and Protection |
+| 37587 | pictures/37587.webp | One warming, many effects. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Causes Effects and Protection |
+| 37588 | pictures/37588.webp | Island life lives close to the sea. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Impacts and Adaptation in the Caribbean |
+| 37589 | pictures/37589.gif | Sea rises; rain floods the street — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Impacts and Adaptation in the Caribbean |
+| 37590 | pictures/37590.webp | Mitigation: slowing the change down. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Mitigation and Adaptation |
+| 37591 | pictures/37591.webp | Action bends the warming line. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Climate Change Mitigation and Adaptation |
+| 37592 | pictures/37592.webp | Mountaintop forests that live in cloud. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Cloud Forest |
+| 37593 | pictures/37593.gif | Mist drifts over the cloud forest — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Cloud Forest |
+| 37594 | pictures/37594.webp | Three bands, from shore to sea. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coastal Ecosystems Dunes Seagrass and Coral Banks |
+| 37595 | pictures/37595.webp | A humpback whale visits the coral bank. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coastal Ecosystems Dunes Seagrass and Coral Banks |
+| 37596 | pictures/37596.webp | A whole beach, in one tray. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coasts Erosion and Protection |
+| 37597 | pictures/37597.gif | Waves wash the sand slope away — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coasts Erosion and Protection |
+| 37598 | pictures/37598.webp | Many lives share one pond. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities in Fresh and Salt Water |
+| 37599 | pictures/37599.webp | A community cannot survive poisoned water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities in Fresh and Salt Water |
+| 37600 | pictures/37600.webp | The sea's community: reef, fish and whale. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities in Fresh and Salt Water |
+| 37601 | pictures/37601.webp | When the sea warms, the community thins. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities in Fresh and Salt Water |
+| 37602 | pictures/37602.webp | Grass, grazers and burrows on the flat land. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities of Plains and Mountains |
+| 37603 | pictures/37603.webp | The plains change with the rains. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities of Plains and Mountains |
+| 37604 | pictures/37604.webp | Each height band holds different lives. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities of Plains and Mountains |
+| 37605 | pictures/37605.webp | The snow line moves with the seasons. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Communities of Plains and Mountains |
+| 37606 | pictures/37606.webp | A tiny animal that catches its food. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Polyps the Animals That Build Reefs |
+| 37607 | pictures/37607.gif | Tentacles wave, then close on food — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Polyps the Animals That Build Reefs |
+| 37608 | pictures/37608.webp | A home and a whole ecosystem in one. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs a Caribbean Habitat |
+| 37609 | pictures/37609.webp | A reef can be smashed in a day. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs a Caribbean Habitat |
+| 37610 | pictures/37610.webp | Reefs guard the coast and feed people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs a Caribbean Habitat |
+| 37611 | pictures/37611.webp | Carelessness kills the reef. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs a Caribbean Habitat |
+| 37612 | pictures/37612.webp | Food, shelter, sand and safety. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs what They Give and Why They Are Being Lost |
+| 37613 | pictures/37613.webp | Once gone, a reef does not come back. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Coral Reefs what They Give and Why They Are Being Lost |
+| 37614 | pictures/37614.webp | Decomposers: nature's recyclers at work. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Decomposers Rotting and Recycling in Nature |
+| 37615 | pictures/37615.webp | Dead matter becomes soil once more. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Decomposers Rotting and Recycling in Nature |
+| 37616 | pictures/37616.webp | A forest is a home, not just trees. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Deforestation Cutting the Forests Animals Live in |
+| 37617 | pictures/37617.webp | Cut the forest, and the animals must flee. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Deforestation Cutting the Forests Animals Live in |
+| 37618 | pictures/37618.webp | Two deserts: one of heat, one of cold. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Desert and Polar Habitats Hot Dry and Cold Dry |
+| 37619 | pictures/37619.webp | Both are deserts: rain is what is missing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Desert and Polar Habitats Hot Dry and Cold Dry |
+| 37620 | pictures/37620.webp | Land at the desert's edge is at risk. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Desertification and Fighting It |
+| 37621 | pictures/37621.webp | Overused land turns to desert. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Desertification and Fighting It |
+| 37622 | pictures/37622.webp | Risk: a hazard meeting people's lives. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Disaster Risk Vulnerability and Management |
+| 37623 | pictures/37623.webp | Mitch: the measure of disaster in Honduras. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Disaster Risk Vulnerability and Management |
+| 37624 | pictures/37624.webp | Where a phenomenon comes from sorts it. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Disaster Risk Vulnerability and Management |
+| 37625 | pictures/37625.webp | Water takes in gases from the air. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Dissolved Gases in Water and Aquatic Life |
+| 37626 | pictures/37626.webp | Aquatic life breathes what water dissolves. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Dissolved Gases in Water and Aquatic Life |
+| 37627 | pictures/37627.webp | A dried sea and smoky factories. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecological Problems of Kazakhstan |
+| 37628 | pictures/37628.webp | The Aral Sea dried, and ships were stranded. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecological Problems of Kazakhstan |
+| 37629 | pictures/37629.webp | Some places are too polluted to live in. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecological Problems of Kazakhstan |
+| 37630 | pictures/37630.webp | The causes of the damage are human. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecological Problems of Kazakhstan |
+| 37631 | pictures/37631.webp | Look closely, list the problems, judge them. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecological Problems of Kazakhstan |
+| 37632 | pictures/37632.webp | Ecuador: coast, mountains, jungle. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecuador Natural Regions and Their Life |
+| 37633 | pictures/37633.webp | Pin each region where it belongs. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ecuador Natural Regions and Their Life |
+| 37634 | pictures/37634.webp | What is lost between the first panel and the last? — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Endangered Species of Guatemala |
+| 37635 | pictures/37635.gif | An endangered kind, disappearing — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Endangered Species of Guatemala |
+| 37636 | pictures/37636.webp | Natural causes and human ones, step by step. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Environmental Change Causes and Effects |
+| 37637 | pictures/37637.webp | Factors shape every ecosystem. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Environmental Factors |
+| 37638 | pictures/37638.webp | A living thing's life depends on its factors. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Environmental Factors |
+| 37639 | pictures/37639.webp | An estuary: fresh and salt water, mixed. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Estuaries Where River Meets Sea |
+| 37640 | pictures/37640.webp | The tide mixes them twice a day. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Estuaries Where River Meets Sea |
+| 37641 | pictures/37641.webp | Exotic fauna: animals brought from elsewhere. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Exotic Species and Endemic Species |
+| 37642 | pictures/37642.webp | Colibri esmeralda: a jewel with wings. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Exotic Species and Endemic Species |
+| 37643 | pictures/37643.webp | Endemic: living in one place only. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Exotic Species and Endemic Species |
+| 37644 | pictures/37644.webp | A puddle is a whole small habitat. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Exploring Our Local Environment |
+| 37645 | pictures/37645.webp | When the puddle dries, its world ends. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Exploring Our Local Environment |
+| 37646 | pictures/37646.webp | Extinct means gone for ever. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Extinct and Endangered Living Things |
+| 37647 | pictures/37647.webp | Endangered: on the way to gone. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Extinct and Endangered Living Things |
+| 37648 | pictures/37648.webp | New fish begin as eggs in the water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Fish Spawning Aggregations |
+| 37649 | pictures/37649.gif | Eggs and sperm drift together — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Fish Spawning Aggregations |
+| 37650 | pictures/37650.webp | Water rising, and earth sliding. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Flood and Landslide Emergency Plans |
+| 37651 | pictures/37651.webp | A plan made before the emergency. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Flood and Landslide Emergency Plans |
+| 37652 | pictures/37652.webp | You cannot see what the water covers. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Flood Danger and Protection |
+| 37653 | pictures/37653.webp | Protection: stay out, build up. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Flood Danger and Protection |
+| 37654 | pictures/37654.webp | Crops, weather and the bowl at the end. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Food Security and Climate Change |
+| 37655 | pictures/37655.gif | The rain fails; the crop wilts — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Food Security and Climate Change |
+| 37656 | pictures/37656.webp | Grass, insect, bird, hawk — and our food. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Food Security and Trophic Chains in Venezuela |
+| 37657 | pictures/37657.webp | Break one link, and the chain fails. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Food Security and Trophic Chains in Venezuela |
+| 37658 | pictures/37658.webp | A city heats up under a changing climate. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Green Cities Designing for a Changing Climate |
+| 37659 | pictures/37659.webp | Trees and green roofs keep a city cool. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Green Cities Designing for a Changing Climate |
+| 37660 | pictures/37660.webp | Clean power, recycling, clean water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Green Technology for a Sustainable Environment |
+| 37661 | pictures/37661.webp | The same factory, cleaned up. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Green Technology for a Sustainable Environment |
+| 37662 | pictures/37662.webp | Habitat is where; niche is what it does. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitat and Niche Where an Animal Lives and what It Does |
+| 37663 | pictures/37663.webp | Same tree, different jobs: two niches. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitat and Niche Where an Animal Lives and what It Does |
+| 37664 | pictures/37664.webp | Each living thing, in the place it lives. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats and Animal Adaptations |
+| 37665 | pictures/37665.webp | Where does the animal end and its habitat begin? — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats and Animal Adaptations |
+| 37666 | pictures/37666.webp | Each mix of water, warmth and food has its own life. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Around the World |
+| 37667 | pictures/37667.webp | Homes in the ground and in cover. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Animals Live |
+| 37668 | pictures/37668.webp | Out at night, home by day. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Animals Live |
+| 37669 | pictures/37669.webp | A habitat gives food, water, shelter, space. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Living Things Live |
+| 37670 | pictures/37670.webp | Lose one need, and the habitat fails. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Living Things Live |
+| 37671 | pictures/37671.webp | Some plants want sun; some want shade. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Plants Grow |
+| 37672 | pictures/37672.webp | The wrong light makes a plant suffer. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Habitats Where Plants Grow |
+| 37673 | pictures/37673.webp | Change comes slowly — and suddenly. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Ecosystems Change |
+| 37674 | pictures/37674.webp | Years of growth — or one afternoon. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Ecosystems Change |
+| 37675 | pictures/37675.webp | Every piece of land has its use. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Land Is Used |
+| 37676 | pictures/37676.webp | As people grow in number, land use changes. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Land Is Used |
+| 37677 | pictures/37677.webp | Makers of food, and eaters of it. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Living Things Feed Autotrophs and Heterotrophs |
+| 37678 | pictures/37678.webp | Food made, then eaten, then eaten again. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Living Things Feed Autotrophs and Heterotrophs |
+| 37679 | pictures/37679.webp | Round and round: nothing is thrown away. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Matter Cycles Through an Ecosystem |
+| 37680 | pictures/37680.webp | Fallen leaves feed new growth. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Matter Cycles Through an Ecosystem |
+| 37681 | pictures/37681.webp | Rivers, land and weather shape how we live. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Nature Shapes how People Live |
+| 37682 | pictures/37682.webp | Fishing, farming, mining: work from nature. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Nature Shapes how People Live |
+| 37683 | pictures/37683.webp | Timber, power and crops: nature's value. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Nature Shapes how People Live |
+| 37684 | pictures/37684.webp | Sun, rain, river and soil — where you live. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How Nature Shapes how People Live |
+| 37685 | pictures/37685.webp | Cutting, building, damming: people act. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How People Change the Environment |
+| 37686 | pictures/37686.webp | The environment answers back. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, How People Change the Environment |
+| 37687 | pictures/37687.webp | Lava, moss, coast and birds — very varied. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Iceland Habitats and Their Living Worlds |
+| 37688 | pictures/37688.webp | First moss, then plants: succession. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Iceland Habitats and Their Living Worlds |
+| 37689 | pictures/37689.webp | One protected territory near home. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, In Defence of Our Nature a Country Project |
+| 37690 | pictures/37690.webp | Posters, planting, protecting: the project. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, In Defence of Our Nature a Country Project |
+| 37691 | pictures/37691.webp | Watch it, name its life, write it down. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, In Defence of Our Nature a Country Project |
+| 37692 | pictures/37692.webp | The better known, the better defended. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, In Defence of Our Nature a Country Project |
+| 37693 | pictures/37693.webp | Two ways a kind comes to live in a place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Introduced Species and the Environment |
+| 37694 | pictures/37694.webp | An introduced kind can take over. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Introduced Species and the Environment |
+| 37695 | pictures/37695.webp | The lupine: purple spikes on bare ground. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Invasive Species Lupine and Mink in Iceland |
+| 37696 | pictures/37696.webp | Brought to heal land — now crowding it. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Invasive Species Lupine and Mink in Iceland |
+| 37697 | pictures/37697.webp | The book of kinds in danger. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kazakhstans Red Book |
+| 37698 | pictures/37698.webp | Plants in danger, listed too. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kazakhstans Red Book |
+| 37699 | pictures/37699.webp | Snow leopard, rare birds, rare plants. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kazakhstans Red Book |
+| 37700 | pictures/37700.webp | Red is the colour of warning. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kazakhstans Red Book |
+| 37701 | pictures/37701.webp | Natural habitats: on land and in water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kinds of Natural Habitats |
+| 37702 | pictures/37702.webp | One life, two homes. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Kinds of Natural Habitats |
+| 37703 | pictures/37703.webp | The land environment is varied. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Land Environments and Their Kinds |
+| 37704 | pictures/37704.webp | People remake land environments. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Land Environments and Their Kinds |
+| 37705 | pictures/37705.webp | Rules with the force of law. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Laws That Protect Land and Habitats |
+| 37706 | pictures/37706.webp | The ranger stops the cutter: it is the law. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Laws That Protect Land and Habitats |
+| 37707 | pictures/37707.webp | Limiting factors stop a population growing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Limiting Factors what Stops a Population Growing |
+| 37708 | pictures/37708.webp | Growth rises, then levels at the limit. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Limiting Factors what Stops a Population Growing |
+| 37709 | pictures/37709.webp | Every living thing plays its part. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Things Tell Their Own Story |
+| 37710 | pictures/37710.webp | The story changes as the scene changes. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Things Tell Their Own Story |
+| 37711 | pictures/37711.webp | Living together: help, harmlessness, harm. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Together Mutualism Commensalism and Parasitism |
+| 37712 | pictures/37712.webp | Mutualism: both sides gain. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Together Mutualism Commensalism and Parasitism |
+| 37713 | pictures/37713.webp | A living world under our feet. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Underground the Soil As a Home |
+| 37714 | pictures/37714.webp | Soil life moves up and down. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Living Underground the Soil As a Home |
+| 37715 | pictures/37715.webp | Four mangroves, told by roots and place. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Mangroves Four Types and Why They Matter |
+| 37716 | pictures/37716.gif | The tide rises through the mangroves — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Mangroves Four Types and Why They Matter |
+| 37717 | pictures/37717.webp | The mangrove tree and its parts. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Mangroves Protecting Coast and Sea |
+| 37718 | pictures/37718.gif | In with the tide, out with the tide — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Mangroves Protecting Coast and Sea |
+| 37719 | pictures/37719.webp | Sunlight fades as the ocean deepens. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Marine Biology Light and Productivity |
+| 37720 | pictures/37720.webp | Each depth has its own light — and life. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Marine Biology Light and Productivity |
+| 37721 | pictures/37721.webp | Biodiversity can be measured. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Measuring Biodiversity Simpson Index |
+| 37722 | pictures/37722.webp | Simpson's index: variety in one number. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Measuring Biodiversity Simpson Index |
+| 37723 | pictures/37723.webp | Nanotechnology: working with the tiniest bits. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Nanotechnology and the Environment |
+| 37724 | pictures/37724.webp | Nanomaterials can trap the tiniest dirt. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Nanotechnology and the Environment |
+| 37725 | pictures/37725.webp | Phenomena: natural, and human-caused. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Caused Phenomena |
+| 37726 | pictures/37726.webp | Both kinds change the environment. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Caused Phenomena |
+| 37727 | pictures/37727.webp | Forest, sea, river and swamp communities. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Made Communities |
+| 37728 | pictures/37728.webp | Eat and be eaten: the web of a community. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Made Communities |
+| 37729 | pictures/37729.webp | Park, fishpond, field and garden. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Made Communities |
+| 37730 | pictures/37730.webp | Watering, feeding, weeding: care. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural and Human Made Communities |
+| 37731 | pictures/37731.webp | Melted rock rises, and bursts out. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Disaster Prevention and Preparedness |
+| 37732 | pictures/37732.webp | Ash, gas and lava: the eruption. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Disaster Prevention and Preparedness |
+| 37733 | pictures/37733.webp | Every land faces its disasters. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Disasters and how People Face Them |
+| 37734 | pictures/37734.webp | Rescue, aid, and building again. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Disasters and how People Face Them |
+| 37735 | pictures/37735.webp | Embankments, trees on slopes, care with fire. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Disasters Flood Landslide Fire and Keeping Safe |
+| 37736 | pictures/37736.webp | Types, sources and causes of hazards. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Hazards and Staying Safe |
+| 37737 | pictures/37737.webp | People in the path make it a disaster. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Hazards and Staying Safe |
+| 37738 | pictures/37738.webp | Gauges, satellites, charts — always watched. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Hazards Monitoring Prediction and Protection |
+| 37739 | pictures/37739.webp | Watching gives warning; warning saves lives. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Hazards Monitoring Prediction and Protection |
+| 37740 | pictures/37740.webp | From pole to equator, belt by belt. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Zones of the Earth |
+| 37741 | pictures/37741.webp | The cover changes in a set order. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Zones of the Earth |
+| 37742 | pictures/37742.webp | Each zone gives way to the next. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Zones of the Earth |
+| 37743 | pictures/37743.webp | No jumps: the change is ordered. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natural Zones of the Earth |
+| 37744 | pictures/37744.webp | Nature's contributions to people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natures Contributions to People Ecosystem Services |
+| 37745 | pictures/37745.webp | Pollination becomes our food. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Natures Contributions to People Ecosystem Services |
+| 37746 | pictures/37746.webp | Forests kept, clean power, national effort. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Nepals Answer to Climate Change |
+| 37747 | pictures/37747.webp | Nepal's own way of answering. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Nepals Answer to Climate Change |
+| 37748 | pictures/37748.webp | Warm above, cold below, a border between. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Currents and Upwelling |
+| 37749 | pictures/37749.webp | Rising water brings food for plankton and fish. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Currents and Upwelling |
+| 37750 | pictures/37750.webp | Trace it: all the seas join into one ocean. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Literacy how the Ocean and People Connect |
+| 37751 | pictures/37751.gif | Clouds form at sea, rain on land — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Literacy how the Ocean and People Connect |
+| 37752 | pictures/37752.webp | Depth, sunlight and temperature sort the zones. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Zones and the Intertidal Zone |
+| 37753 | pictures/37753.webp | Deeper is darker and colder. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Ocean Zones and the Intertidal Zone |
+| 37754 | pictures/37754.webp | Every visit leaves its marks. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Our Footprints in Nature |
+| 37755 | pictures/37755.webp | Leave a place cleaner than you found it. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Our Footprints in Nature |
+| 37756 | pictures/37756.webp | Reef islands rising from the lagoon floor. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Patch Reefs |
+| 37757 | pictures/37757.webp | Patches grow, ringed by sand. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Patch Reefs |
+| 37758 | pictures/37758.webp | Zonation: life arranged in bands. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Patterns in a Community Zonation Layers and Succession |
+| 37759 | pictures/37759.webp | Each band holds its own seaweeds and animals. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Patterns in a Community Zonation Layers and Succession |
+| 37760 | pictures/37760.webp | Phytoplankton: tiny plants, drifting. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Plankton the Oceans Tiniest Life |
+| 37761 | pictures/37761.gif | Plankton drift with the current — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Plankton the Oceans Tiniest Life |
+| 37762 | pictures/37762.webp | Biomagnification: each step holds more poison. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Poisons That Grow Stronger Up the Food Chain Biomagnification |
+| 37763 | pictures/37763.webp | Quadrats and counts: how many are there? — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Population Ecology Counting and Distribution |
+| 37764 | pictures/37764.webp | Clumped, even, or random distribution. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Population Ecology Counting and Distribution |
+| 37765 | pictures/37765.webp | Predation and competition, side by side. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Predation and Competition Animals Eating and Rivalling |
+| 37766 | pictures/37766.webp | Eating, and rivalling, shape communities. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Predation and Competition Animals Eating and Rivalling |
+| 37767 | pictures/37767.webp | What the producers make from sunlight. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Primary and Secondary Productivity |
+| 37768 | pictures/37768.webp | Secondary productivity: a shrinking share. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Primary and Secondary Productivity |
+| 37769 | pictures/37769.webp | A wetland kept safe inside the fence. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protected Areas and Wetlands |
+| 37770 | pictures/37770.webp | Protection works: compare the two sides. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protected Areas and Wetlands |
+| 37771 | pictures/37771.webp | Land or sea set apart, by law, for nature. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protected Areas Categories and Reserves |
+| 37772 | pictures/37772.webp | Plan de manejo: zones, rules, duties. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protected Areas Categories and Reserves |
+| 37773 | pictures/37773.webp | One national system, many protected places. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protected Areas Categories and Reserves |
+| 37774 | pictures/37774.webp | Storm coming: which animals have shelter? — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protecting Animals from Severe Weather |
+| 37775 | pictures/37775.webp | Science and care protect farm animals. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Protecting Animals from Severe Weather |
+| 37776 | pictures/37776.webp | Visitors bring good, and harm as well. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Responsible Tourism and Ecotourism |
+| 37777 | pictures/37777.webp | Small groups, a guide, nothing left behind. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Responsible Tourism and Ecotourism |
+| 37778 | pictures/37778.webp | Protected places, visited the right way. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Responsible Tourism and Ecotourism |
+| 37779 | pictures/37779.webp | One map: dangers marked, resources marked. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Risk and Resource Maps of My Community |
+| 37780 | pictures/37780.webp | Planning together, around their own map. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Risk and Resource Maps of My Community |
+| 37781 | pictures/37781.webp | Seagrass: rooted plants in the sunlit shallows. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Seagrass Beds As Nursery Habitat |
+| 37782 | pictures/37782.gif | Clearer water lets the light in — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Seagrass Beds As Nursery Habitat |
+| 37783 | pictures/37783.webp | Nature's force, people's choices: together. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Socionatural Events Threats and Risks |
+| 37784 | pictures/37784.webp | Risk is threat meeting vulnerability. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Socionatural Events Threats and Risks |
+| 37785 | pictures/37785.webp | Catch, mark, and let them go. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Studying Populations Marking and Recapture |
+| 37786 | pictures/37786.webp | Count the marked, estimate the whole. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Studying Populations Marking and Recapture |
+| 37787 | pictures/37787.webp | Using resources without using them up. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Sustainable Development Using Resources Without Using Them Up |
+| 37788 | pictures/37788.webp | Cut a strip, replant, and the forest stays. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Sustainable Development Using Resources Without Using Them Up |
+| 37789 | pictures/37789.webp | A place put tabu: no taking, while it rests. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Tabu Closed Seasons Protecting a Place |
+| 37790 | pictures/37790.gif | Tied tabu: the garden rests — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Tabu Closed Seasons Protecting a Place |
+| 37791 | pictures/37791.webp | The pit reaches water the surface lacks. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Taro Pits and Patches |
+| 37792 | pictures/37792.webp | Down in the pit, the taro finds water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Taro Pits and Patches |
+| 37793 | pictures/37793.webp | Trees standing in water, fish among the trunks. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Flooded Forest and Its Problems |
+| 37794 | pictures/37794.webp | When the flood's timing changes, all suffer. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Flooded Forest and Its Problems |
+| 37795 | pictures/37795.webp | Kazakhstan's future: growth that keeps nature. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Green Economy |
+| 37796 | pictures/37796.webp | A thin shield that stops harmful rays. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Ozone Layer and Its Holes |
+| 37797 | pictures/37797.webp | A hole in the shield lets the rays through. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Ozone Layer and Its Holes |
+| 37798 | pictures/37798.webp | All countries, one shared effort. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Worlds Answer to Climate Change |
+| 37799 | pictures/37799.webp | Working together bends the line. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, The Worlds Answer to Climate Change |
+| 37800 | pictures/37800.webp | Land, water and built environments. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Types of Environments Land Water and Built |
+| 37801 | pictures/37801.webp | A place can change its sort. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Types of Environments Land Water and Built |
+| 37802 | pictures/37802.webp | Building planned around the habitats. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Using Land Wisely Habitats and Building |
+| 37803 | pictures/37803.webp | Wise use keeps homes and habitats. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Using Land Wisely Habitats and Building |
+| 37804 | pictures/37804.webp | Fresh water is precious because it is rare. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Water Environments Fresh and Salt |
+| 37805 | pictures/37805.gif | Rivers flow fresh into the salty sea — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Our Environment, Water Environments Fresh and Salt |
+| 37806 | pictures/37806.webp | The deeper the water, the harder it presses. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Water Pressure and Depth Adaptation |
+| 37807 | pictures/37807.webp | Bodies fitted to pressure and darkness. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Water Pressure and Depth Adaptation |
+| 37808 | pictures/37808.webp | Reeds, water, birds: a rich habitat. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Wetlands and Why They Must Not Be Drained |
+| 37809 | pictures/37809.webp | Drained: cracked earth where life was. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, Wetlands and Why They Must Not Be Drained |
+| 37810 | pictures/37810.webp | Deep roots drinking the ground dry. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When a Useful Plant Harms an Ecosystem Eucalyptus |
+| 37811 | pictures/37811.webp | A useful plant can harm an ecosystem. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When a Useful Plant Harms an Ecosystem Eucalyptus |
+| 37812 | pictures/37812.webp | More and more people, one small well. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When People Crowd Overpopulation and the Strain on Water and Space |
+| 37813 | pictures/37813.webp | Overpopulation strains everything shared. — drawn render, Photos+GIFs front 2026-11-26 | Science — Our Environment, When People Crowd Overpopulation and the Strain on Water and Space |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

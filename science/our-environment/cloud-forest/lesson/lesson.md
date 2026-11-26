@@ -11,7 +11,11 @@ That height changes the ground itself: the soil up there is **thin** — there i
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37592 — mountaintop forests that live in cloud]
+
 In your mind's eye: the lesson's central change, shown. Say what changed and what it proves.
+
+[GIF 37593 — mist drifts over the cloud forest]
 
 ## Sub lesson 2 — Small trees, and mosses and ferns over everything
 

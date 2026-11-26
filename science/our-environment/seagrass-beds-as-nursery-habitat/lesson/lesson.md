@@ -13,7 +13,11 @@ The beds grow wider mostly without seeds. Most of Palau's seagrasses **spread by
 
 In your mind's eye: a seagrass bed in clear shallow water, sun rays reaching the leaves and roots creeping under the sand. The student points to the leaves, the sunlight and the roots before reading on.
 
+[Picture 37781 — seagrass rooted plants in the sunlit]
+
 In your mind's eye: sun rays brightening over a seagrass bed as the water clears. Say why the bed cannot live in deep, dark water.
+
+[GIF 37782 — clearer water lets the light in]
 
 ## Sub lesson 2 — Enhalus and its moon-timed pollen
 

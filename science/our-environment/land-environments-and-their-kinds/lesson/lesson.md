@@ -11,7 +11,11 @@ The Grade 2 activity book goes further in: inquiring into the land environments'
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37703 — the land environment is varied]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37704 — people remake land environments]
 
 ## Sub lesson 2 — Forest and grassland — two natural kinds
 

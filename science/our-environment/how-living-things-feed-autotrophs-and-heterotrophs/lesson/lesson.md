@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Types of nutrition of liv
 
 In your mind's eye: types of nutrition of living organisms as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37677 — makers of food and eaters of]
+
 ## Sub lesson 2 — Nutrition of organisms
 
 Kazakhstan's books teach this as their own lesson — "Nutrition of organisms". The learner works through the books' own presentation of nutrition of organisms — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: nutrition of organisms as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37678 — food made then eaten then eaten]
 
 ## The key ideas
 

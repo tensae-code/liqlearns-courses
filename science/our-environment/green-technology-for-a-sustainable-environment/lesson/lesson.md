@@ -9,7 +9,11 @@ Malaysia's Form 4 book teaches **Green Technology** through its **sectors — en
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37660 — clean power recycling clean water]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37661 — the same factory cleaned up]
 
 ## Sub lesson 2 — Green technology in daily life
 

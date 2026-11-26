@@ -11,7 +11,11 @@ The guide's definition is short and exact: the biome is **the type of vegetation
 
 In your mind's eye: a world strip of regions, each shown by its plant cover alone — thick green forest, open grass, sparse dry plants. Name what is being compared.
 
+[Picture 37580 — compare the plant cover and you]
+
 In your mind's eye: the same map with every label removed except the vegetation cover, regions of like cover lighting up together. Say what makes two far-apart regions the same biome.
+
+[Picture 37581 — the cover alone groups the regions]
 
 ## Sub lesson 2 — Reading a region by its vegetation
 

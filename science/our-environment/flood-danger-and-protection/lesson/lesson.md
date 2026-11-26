@@ -11,7 +11,11 @@ The Grade 3 book (Ch. 1, printed pp. 5–8) widens the picture to **floods and l
 
 In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37652 — you cannot see what the water]
+
 In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
+
+[Picture 37653 — protection stay out build up]
 
 ## Sub lesson 2 — Preventing floods and landslides where we live
 

@@ -9,7 +9,11 @@ what happens when the ecosystem changes: some living things are given the abilit
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37563 — plants animals water light one system]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37564 — when it changes living things adapt]
 
 ## The key ideas
 

@@ -13,7 +13,11 @@ A tabu is put on a place because the place needs it — its plants have thinned,
 
 In your mind's eye: a garden corner marked off with sticks and a ribbon, with a hand-lettered closed sign. The student points to the marks that show the place is tabu.
 
+[Picture 37789 — a place put tabu no taking]
+
 In your mind's eye: hands tying a ribbon around a garden marker, then stepping back and leaving the garden alone. Say what the ribbon means and what people must not do now.
+
+[GIF 37790 — tied tabu the garden rests]
 
 ## Sub lesson 2 — The closed time lets living things recover
 

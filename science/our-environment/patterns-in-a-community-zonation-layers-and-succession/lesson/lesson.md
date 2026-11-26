@@ -9,7 +9,11 @@ Walk from the sea's edge up a Samoan volcano, from splash zone to cloud forest. 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37758 — zonation life arranged in bands]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37759 — each band holds its own seaweeds]
 
 ## Sub lesson 2 — Stratification — the layers of a forest
 

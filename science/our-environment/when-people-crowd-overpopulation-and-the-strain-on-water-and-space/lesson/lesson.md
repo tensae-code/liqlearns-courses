@@ -9,7 +9,11 @@ how people change the ecosystem, 2: overcrowding — people need places to live 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37812 — more and more people one small]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37813 — overpopulation strains everything shared]
 
 ## The key ideas
 

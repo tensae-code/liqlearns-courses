@@ -9,7 +9,11 @@ Every meal stands at the end of a **trophic chain**: producers grow, consumers e
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37656 — grass insect bird hawk and our]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37657 — break one link and the chain]
 
 ## Sub lesson 2 — Who controls production and distribution?
 

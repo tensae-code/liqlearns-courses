@@ -9,7 +9,11 @@ Food and nutritional security under climate change: longer droughts and floods d
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37654 — crops weather and the bowl at]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37655 — the rain fails the crop wilts]
 
 ## Sub lesson 2 — Food-production zones proposed by soil class
 

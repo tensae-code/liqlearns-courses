@@ -9,7 +9,11 @@ Papua New Guinea's Standards Based Grade 10 guide opens its Natural Hazards topi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37736 — types sources and causes of hazards]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37737 — people in the path make it]
 
 ## Sub lesson 2 — Measuring and monitoring hazards
 

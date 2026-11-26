@@ -11,7 +11,11 @@ Every living thing has its habitat: the fish's water, the bird's tree, the plant
 
 In your mind's eye: one place shown three ways: water with a fish, a tree with a bird, soil with a plant. Name each living thing and its habitat.
 
+[Picture 37664 — each living thing in the place]
+
 In your mind's eye: the camera pulling back from one animal to the whole place it lives in. Say where the animal ends and its habitat begins, and why that line is hard to draw.
+
+[Picture 37665 — where does the animal end and]
 
 ## Sub lesson 2 — Our surroundings, a space for life
 

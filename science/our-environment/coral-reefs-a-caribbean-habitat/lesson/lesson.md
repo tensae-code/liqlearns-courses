@@ -11,7 +11,11 @@ Barbados's syllabus sets the reef inside its Ecology strand (Class 4): not a roc
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37608 — a home and a whole ecosystem]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37609 — a reef can be smashed in]
 
 ## Sub lesson 2 — Why the Caribbean needs its reefs — and how people destroy them
 
@@ -21,7 +25,11 @@ That pairing is the lesson's shape: a habitat this rich can still be wrecked by 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37610 — reefs guard the coast and feed]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37611 — carelessness kills the reef]
 
 ## The key ideas
 

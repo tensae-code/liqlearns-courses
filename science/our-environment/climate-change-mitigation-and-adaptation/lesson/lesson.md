@@ -9,7 +9,11 @@ Two strategies answer climate change. Mitigation slows the change itself: burn l
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37590 — mitigation slowing the change down]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37591 — action bends the warming line]
 
 ## Sub lesson 2 — Adaptation — living with the change
 

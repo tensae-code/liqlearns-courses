@@ -9,7 +9,11 @@ Bangladesh's Class 6 Exercise Book retells the living world as a drama — Life 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37709 — every living thing plays its part]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37710 — the story changes as the scene]
 
 ## Sub lesson 2 — Why a drama?
 

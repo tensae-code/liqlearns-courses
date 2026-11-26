@@ -8,6 +8,8 @@ Bangladesh's Class 4 Elementary Science book teaches the environment as somethin
 
 In your mind's eye: the environment changes from natural causes — floods, droughts, storms and shifting seasons — and from human activity, and every change lands on rainfall, temperature and the habitats living things depend on. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37636 — natural causes and human ones step]
+
 ## The key facts
 **Nature changes the environment.** Natural disasters and slow natural shifts remake a place: a flood drowns fields and homes, a drought dries ponds and crops, a storm tears trees and roofs, and the seasons themselves change what grows and what animals do. These changes come whether people act or not.
 

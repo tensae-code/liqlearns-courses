@@ -13,7 +13,11 @@ The plankton do not swim against the sea. They **drift on the currents**, carrie
 
 In your mind's eye: phytoplankton under a microscope, many tiny plant shapes in a drop of seawater. Say what the microscope shows that the naked eye cannot.
 
+[Picture 37760 — phytoplankton tiny plants drifting]
+
 In your mind's eye: a tiny speck drifting across the water's surface as the current moves. Say what carries the speck, and what that stands for.
+
+[GIF 37761 — plankton drift with the current]
 
 ## Sub lesson 2 — The tiny plants that feed the sea and fill the air
 

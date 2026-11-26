@@ -9,7 +9,11 @@ Across the Earth, climate changes from place to place — and with it the soil, 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37740 — from pole to equator belt by]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37741 — the cover changes in a set]
 
 ## Sub lesson 2 — From zone to zone — the ordered change
 
@@ -17,7 +21,11 @@ Travel far enough and you cross from one zone into another: the plants change, t
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37742 — each zone gives way to the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37743 — no jumps the change is ordered]
 
 ## The key ideas
 

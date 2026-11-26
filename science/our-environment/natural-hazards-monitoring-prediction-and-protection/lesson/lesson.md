@@ -9,7 +9,11 @@ Protection begins with **monitoring**: instruments and observers collect **data*
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37738 — gauges satellites charts always watched]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37739 — watching gives warning warning saves lives]
 
 ## Sub lesson 2 — Prediction — from data to warning
 

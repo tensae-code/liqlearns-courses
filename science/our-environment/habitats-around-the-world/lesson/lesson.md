@@ -8,6 +8,8 @@ Bangladesh's Class 4 Elementary Science book, after teaching the habitats near h
 
 In your mind's eye: the world's great habitats — desert, forest, wetland, ocean and polar lands — each offer a different mix of water, temperature and food, and each is home to plants and animals fitted to exactly that mix. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37666 — each mix of water warmth and]
+
 ## The key facts
 **Dry and cold extremes.** A desert habitat is hot and short of water; its plants store water and its animals come out at night. Polar habitats are the opposite extreme — ice, long dark winters and bitter cold — where thick fur and fat keep animals alive. Both are homes, but only for the fitted.
 

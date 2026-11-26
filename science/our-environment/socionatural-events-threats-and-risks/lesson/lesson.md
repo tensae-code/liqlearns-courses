@@ -9,7 +9,11 @@ Some events are born where **nature and society meet**: **floods, landslides (sl
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37783 — nature's force people's choices together]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37784 — risk is threat meeting vulnerability]
 
 ## Sub lesson 2 — Threat, vulnerability, risk
 
