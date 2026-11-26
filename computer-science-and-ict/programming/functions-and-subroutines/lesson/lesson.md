@@ -10,11 +10,15 @@ A **function** is a named piece of program that does one job and can be **called
 
 In your mind's eye: how a function works.
 
+[Picture 47133 — how a function works]
+
 ## Sub lesson 2 — Types, subroutines and parameters
 
 Functions divide by their giving: some **return a value** (a computation's answer), some **do an act** and return nothing — these are often called **subroutines** (procedures): draw the house, play the fanfare. Both kinds take **parameters** — the values handed in at the call (draw the house *this big, here*) — which make one definition serve many cases. The lesson's closing distinction is the programmer's daily bread: a function is a job defined once; its parameters are how the job is fitted to each occasion; its call is how the program stays readable while doing much.
 
 In your mind's eye: types, subroutines and parameters.
+
+[Picture 47134 — types, subroutines and parameters]
 
 ## Say it to your companion
 

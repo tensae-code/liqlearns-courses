@@ -10,11 +10,15 @@ Each **parameter** declares a **type and a name**; the call's **arguments** must
 
 In your mind's eye: parameters — inputs by copy.
 
+[Picture 47129 — parameters — inputs by copy]
+
 ## Sub lesson 2 — The return value — one output
 
 A function returns **at most one value**, of its declared **return type**, through **return** — which also ends the function at once, even mid-body. The caller may store the value, print it, or use it inside a bigger expression. A **void** function returns nothing and is called for what it **does**, not what it gives. The signature — return type plus parameter list — is the contract every call must honour.
 
 In your mind's eye: the return value — one output.
+
+[Picture 47130 — the return value — one output]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A block program and a text program are the same thought in two spellings. Indone
 
 In your mind's eye: what changes, what does not.
 
+[Picture 47125 — what changes, what does not]
+
 ## Sub lesson 2 — Crossing well — translate, then write
 
 The crossing is made by **translation first**: take a working block program and rewrite it line by line in text, running both until they agree — the blocks become a known-correct plan for the text. Then write new programs in text directly, keeping the block habits: one structure at a time, names that mean, testing as you go. The chapter closes junior-high programming deliberately: the learner leaves owning the structures twice — once by shape, once by spelling — and the second ownership is the one every later language will ask for.
 
 In your mind's eye: crossing well — translate, then write.
+
+[Picture 47126 — crossing well — translate, then write]
 
 ## Say it to your companion
 

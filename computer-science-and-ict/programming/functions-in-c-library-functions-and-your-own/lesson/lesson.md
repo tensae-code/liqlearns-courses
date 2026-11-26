@@ -10,11 +10,15 @@ You have called functions since the first program — printf did your printing. 
 
 In your mind's eye: library functions — the borrowed toolbox.
 
+[Picture 47135 — library functions — the borrowed toolbox]
+
 ## Sub lesson 2 — Your own functions — prototype, definition, call
 
 A **user-defined function** is written in three parts. The **prototype** — `int add(int, int);` — declares the function's name, what it takes and what it returns, so the compiler can check every call. The **definition** holds the body: the work, ending in **return**. The **call** uses it from main or anywhere, as often as needed — write once, use everywhere, fix in one place. Functions divide a program the way chapters divide a book: by their jobs — and the good-structure lesson's readability is mostly this division, done well.
 
 In your mind's eye: your own functions — prototype, definition, call.
+
+[Picture 47136 — your own functions — prototype, definition, call]
 
 ## Say it to your companion
 

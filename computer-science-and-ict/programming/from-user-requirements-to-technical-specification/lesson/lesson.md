@@ -10,11 +10,15 @@ Users say 'make it fast, make it simple'. Programmers cannot build words like th
 
 In your mind's eye: user requirements.
 
+[Picture 47127 — user requirements]
+
 ## Sub lesson 2 — Technical specification
 
 **Translating** turns needs into a **technical specification**: **an exact written statement of what will be built**, from which the programmers and builders work. A user requirement like 'fast' becomes a **measured limit — for example, responding within a set time**. The specification is checked against the user requirements, because changing requirements after building costs more — so the translation is done first.
 
 In your mind's eye: technical specification.
+
+[Picture 47128 — technical specification]
 
 ## Say it to your companion
 

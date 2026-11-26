@@ -10,11 +10,15 @@ The séance's movement has two named steps: first the **algorithm in natural lan
 
 In your mind's eye: translation, not invention.
 
+[Picture 47123 — translation, not invention]
+
 ## Sub lesson 2 — The dictionary between words and blocks
 
 Translation runs on a small dictionary: ‘repeat until…’ becomes the repeat-until loop; ‘if… then… otherwise…’ becomes the if-else block; ‘remember the secret’ becomes a variable made once and set in secret; ‘ask’ and ‘say’ become the ask and say blocks. Fluency is the goal: an algorithm written well reads like a program waiting for its blocks, and a program read aloud should sound like its algorithm — the two texts are one thought in two tongues.
 
 In your mind's eye: the dictionary between words and blocks.
+
+[Picture 47124 — the dictionary between words and blocks]
 
 ## Say it to your companion
 
