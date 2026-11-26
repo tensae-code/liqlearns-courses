@@ -10,6 +10,8 @@ between two catastrophes the world dances — Chaplin's tramp, jazz and swing on
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40147 — interwarjoy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: life between the wars — between two catastrophes the world dances — Chaplin's tramp, jazz and swing on the radio, Lindbergh alone over the Atlantic, Einstein remaking physics, skyscrapers rising, and Uruguay hosting the first football World Cup in 1930. Then let your companion ask you one hard question about it — answer from the lesson.

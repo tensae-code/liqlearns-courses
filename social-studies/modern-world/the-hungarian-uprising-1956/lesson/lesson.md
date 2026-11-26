@@ -10,6 +10,8 @@ Hungarians demand free elections and the right to strike, tear Stalin's star fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40153 — tornflag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 2, Unit 2 — Hungarians demand free elections and the right to strike, tear Stalin's star from their flag and burn his portraits; the Soviets withdraw, think again, and on November 1956 send 2,500 tanks into Budapest — the West admires and does nothing, fearing a third world war, while 200,000 Hungarians flee to Austria and at least 2,000 are executed; freedom waits until 1990. Then let your companion ask you one hard question about it — answer from the lesson.

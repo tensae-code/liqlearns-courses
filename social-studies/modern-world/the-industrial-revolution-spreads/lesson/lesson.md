@@ -10,6 +10,8 @@ The new industry crosses to France, Germany and Belgium, but France — loving i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40151 — francelags]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The revolution spreads and France lags — the new industry crosses to France, Germany and Belgium, but France — loving its handmade goods, short of coal, banning machinery exports' rivals — industrialises a generation late. Then let your companion ask you one hard question about it — answer from the lesson.

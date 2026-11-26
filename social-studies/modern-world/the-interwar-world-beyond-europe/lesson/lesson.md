@@ -10,6 +10,8 @@ Gandhi's India, militarist Japan, revolutionary China and the Americas under the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40148 — beyondeurope]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The rest of the world (interwar) — Gandhi's India, militarist Japan, revolutionary China and the Americas under the New Deal move outside Europe's script. Then let your companion ask you one hard question about it — answer from the lesson.

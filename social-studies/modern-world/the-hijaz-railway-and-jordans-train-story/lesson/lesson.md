@@ -10,11 +10,15 @@ Faisal visits Amman's Hijaz railway station with his family and his grandfather 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40161 — grandfatherstrain]
+
 ## Sub lesson 2 — Unit 2 Lesson 5: Jordan under Ottoman rule
 
 East Jordan stays in Damascus's orbit from first to last; Abdülhamid II drives the Hijaz Railway from Damascus toward Madinah across Jordanian stations, and the Shami Hajj road makes the land an economic lifeline
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40160 — ironroad]
 
 ## Sub lesson 3 — Unit 3 Lesson 2, the railway part
 
@@ -22,11 +26,15 @@ the class traces the Hijaz Railway on the map through Jordan's stations — Dama
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40159 — damascusmedina]
+
 ## Sub lesson 4 — Unit 3 Lesson 2, the railway part
 
 the Hijaz Railway map is traced through Jordan as in the vocational book — Qatrana, Ma'an, Batn al-Ghul and the Aqaba branch among its stations — the line along which the Circassian and Chechen villages of the previous lesson were planted
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40158 — jordantrace]
 
 ## Say it to your companion
 

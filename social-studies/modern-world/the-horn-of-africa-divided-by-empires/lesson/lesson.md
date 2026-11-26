@@ -10,6 +10,8 @@ The empires carved up the Somali lands — Djibouti to France, the north to Brit
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40154 — horncarved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Horn of Africa — divided by empires. Then let your companion ask you one hard question about it — answer from the lesson.

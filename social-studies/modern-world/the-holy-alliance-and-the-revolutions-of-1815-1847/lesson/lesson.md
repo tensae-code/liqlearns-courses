@@ -10,6 +10,8 @@ the French Revolution teaches peoples that sovereignty resides in the nation; Gr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40155 — navarino1827]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §18: Europa „Sfintei Alianţe". Mişcări revoluţionare (1815–1847) — the French Revolution teaches peoples that sovereignty resides in the nation; Greece declares independence, the allied fleets destroy the Ottoman fleet at Navarino in 1827, but insurgents without the masses win only temporary successes. Then let your companion ask you one hard question about it — answer from the lesson.

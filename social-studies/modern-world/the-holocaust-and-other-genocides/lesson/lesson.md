@@ -10,6 +10,8 @@ Hitler's killing of over 6 million Jews is the comparison's first case. Rwanda's
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 40157 — twomemories]
+
 ## Sub lesson 2 — Cambodia and Bosnia
 
 Pol Pot's Cambodia and Bosnia are the other named cases. Each is a different country and a different moment, and the lesson asks what makes them the same kind of crime.

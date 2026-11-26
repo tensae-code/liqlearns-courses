@@ -10,6 +10,8 @@ Free people of colour demand their rights and the enslaved begin to rise — the
 
 In your mind's eye: the Battle of Vertières in 1803. Say who won, and what was declared weeks later.
 
+[Picture 40163 — colonyccracks]
+
 ## Sub lesson 2 — The insurrection of summer 1791 — Bois Caïman
 
 At bois caïman a vodou ceremony seals an oath — days later the northern plain burns; pupils separate the documented rising from the founding legend (Séance 3, L'insurrection de l'été 1791: la cérémonie du Bois Caïman, entre l'histoire et le mythe)

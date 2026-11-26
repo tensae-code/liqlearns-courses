@@ -136,11 +136,15 @@ assemblies at Epidaurus and Astros draft constitutions while the war still rages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40169 — assemblieswar]
+
 ## Sub lesson 23 — §10 The Greek Revolution and Europe
 
 governments condemn, peoples volunteer — Byron dies at Missolonghi and the fleets settle it at Navarino
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40168 — byronnavarino]
 
 ## Sub lesson 24 — The course of the Greek revolution (1821–1827)
 
@@ -148,11 +152,15 @@ island fleets and mountain fighters beat Ottoman armies, fall into civil war, fa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40167 — civilwarsurvival]
+
 ## Sub lesson 25 — The struggle for independence: outline of the Revolution
 
 1821's rising spreads from the Peloponnese and the islands; eight years of war end in a small free state
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40166 — freestate]
 
 ## Sub lesson 26 — The forces of the belligerents and their war tactics
 
@@ -160,11 +168,15 @@ guerrilla bands and island fire-ships face Ottoman regulars and Ibrahim's Egypti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40165 — fireships]
+
 ## Sub lesson 27 — The Greek Revolution of 1821: a message of freedom for Europe (the course of the war)
 
 Ypsilantis crosses the Prut, the Peloponnese and the islands rise, Missolonghi falls in a heroic exodus — and a small nation fights an empire for eight years
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40164 — eightyears]
 
 ## Say it to your companion
 

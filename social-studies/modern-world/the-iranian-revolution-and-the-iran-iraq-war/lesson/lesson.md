@@ -10,6 +10,8 @@ Khomeini's revolution (Abrahamian's Storiografia) invents the Islamic republic; 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40146 — gulfburns]
+
 ## Sub lesson 2 — Modulo 12 §9 La rivoluzione khomeinista in Iran
 
 the Shah falls to a revolution in God's name; the Islamic republic becomes the Middle East's new pole and the Gulf's eight-year war its first test

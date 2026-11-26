@@ -10,6 +10,8 @@ France loses at Dien Bien Phu, America inherits the war — Indochina becomes de
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40152 — thirtyyears]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 10 §3 Le guerre d'Indocina — France loses at Dien Bien Phu, America inherits the war — Indochina becomes decolonisation's thirty-year battlefield. Then let your companion ask you one hard question about it — answer from the lesson.
