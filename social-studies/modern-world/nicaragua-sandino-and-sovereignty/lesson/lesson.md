@@ -10,11 +10,15 @@ Sandino is presented as a duty to remember, a Nicaraguan who defended the homela
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40878 — everygeneration]
+
 ## Sub lesson 2 — Efemérides: birth of Augusto Nicolás Calderón Sandino
 
 Sandino is born 18 May; the book pairs him with Darío as Nicaragua's two greatest expressions and links him forward to Carlos Fonseca
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40877 — twogreatest]
 
 ## Sub lesson 3 — Héroes de la Patria: Augusto Nicolás Calderón Sandino
 
@@ -22,11 +26,15 @@ Sandino, born 18 May in Niquinohomo, becomes "General of Free Men and Women"; th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40876 — born18may]
+
 ## Sub lesson 4 — Héroes de la Patria: Blanca Arauz
 
 Blanca Arauz stands beside Sandino in the defence of national sovereignty, the telegraphist wife who carried the general's messages in wartime
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40875 — telegraphistwife]
 
 ## Sub lesson 5 — Personajes históricos: Augusto Nicolás Calderón Sandino
 
@@ -34,11 +42,15 @@ Sandino, General of Free Men and Women, is retold as the patriot who would not a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40874 — refusedoccupation]
+
 ## Sub lesson 6 — La Gesta de Benjamín Zeledón
 
 when Mena is captured Zeledón takes command of the 1912 resistance, holds out at La Barranca and El Coyotepe in Masaya with only courage and love of country, and is captured and killed after an unequal fight
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40873 — twohillscourage]
 
 ## Sub lesson 7 — Segunda intervención norteamericana y la gesta de Sandino
 
@@ -46,11 +58,15 @@ Sandino, working in Mexico, hears of the invasion, returns, and on 26 Oct 1926 r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40872 — returnsandrises]
+
 ## Sub lesson 8 — Fundación del Ejército Defensor de la Soberanía Nacional; ventajas guerrilleras; asesinato de Sandino
 
 Sandino's small army beats the marines by refusing long battles, vanishing on paths only locals know; after the marines leave, Sandino is murdered in 1934
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40871 — vanishingpaths]
 
 ## Sub lesson 9 — Lucha del General Augusto C. Sandino
 
@@ -58,17 +74,23 @@ the boy who saw Zeledón's corpse carted past in 1912 refuses the 1927 pact, mar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40870 — twentyninemen]
+
 ## Sub lesson 10 — Asesinato de Sandino
 
 the marines, unable to beat the EDSN, build a native Guardia; after peace talks with Sacasa, Sandino is seized and murdered on 21 February 1934, and over 300 Sandinista peasants are massacred at Wiwilí
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40869 — seizedaftertalks]
+
 ## Sub lesson 11 — Lucha de Sandino
 
 Sandino refuses the Espino Negro betrayal and withdraws to the Segovias mountains to restore the violated constitution and expel the intervention forces; solidarity committees rise from New York to Buenos Aires as marine columns are wiped out
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40868 — mountainsheld]
 
 ## Say it to your companion
 

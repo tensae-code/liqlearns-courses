@@ -100,11 +100,15 @@ a mixed economy, single health system, free compulsory education and labour prot
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40889 — pillarsprotected]
+
 ## Sub lesson 17 — Logros de la Revolución: reforma agraria y proyectos
 
 agrarian reform delivers 4 million manzanas to 120,000 families and organises 3,151 cooperatives, while African palm, textile and cardboard projects rebuild production
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40888 — manzanasshared]
 
 ## Sub lesson 18 — La acción de Rigoberto López Pérez, 1956
 
@@ -112,11 +116,15 @@ López Pérez shoots Somoza García at León's Casa del Obrero on 21 September 1
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40887 — provedmortal]
+
 ## Sub lesson 19 — Fundación del Frente Sandinista de Liberación Nacional
 
 the FSLN is built to give the popular struggle the political-military organisation it lacked; early guerrillas fall at Raití and Bocay in 1963, the 22 January 1967 massacre breaks conservative hegemony, and Pancasán relaunches the armed struggle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40886 — foundedfallenrelaunched]
 
 ## Sub lesson 20 — La ofensiva sandinista de 1974-1978
 
@@ -124,11 +132,15 @@ after the 1972 Managua earthquake exposes the regime's theft of aid, the Juan Jo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40885 — quakeaidstolen]
+
 ## Sub lesson 21 — Carlos Fonseca, Padre de la Revolución Popular Sandinista
 
 Fonseca's life is told whole — Moscow and Kiev congresses, arrests and deportations, founding the Movimiento Nueva Nicaragua in 1961 and publishing Sandino's Ideario — the founder as the Revolution's father
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40884 — fonsecafather]
 
 ## Sub lesson 22 — Derrocamiento del régimen somocista: la insurrección de 1978
 
@@ -136,11 +148,15 @@ Monimbó and Subtiava rise, and on 22 August 1978 a Sandinista commando seizes t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40883 — palaceseizedtv]
+
 ## Sub lesson 23 — Triunfo de la Revolución Popular Sandinista
 
 the tactical retreat to Masaya, the Junta's first proclamation on 18 June and the final siege close in; Somoza Debayle flees on 17 July 1979 and revolutionary forces enter Managua
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40882 — flees17enters19]
 
 ## Sub lesson 24 — Nicaragua durante la Revolución: forma de gobierno
 
@@ -148,17 +164,23 @@ the five-member Junta de Gobierno de Reconstrucción Nacional replaces the Somoc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40881 — fivegovern]
+
 ## Sub lesson 25 — Transformaciones socio-económicas de la Revolución
 
 Somoza-family property is expropriated, banking and foreign trade nationalised, and an agrarian reform creates People's Property Areas and cooperatives inside a mixed economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40880 — landtocooperatives]
+
 ## Sub lesson 26 — La lucha en Nicaragua: del somocismo al triunfo de 1979
 
 the FSLN learns from its Bocay-Raití defeat, builds among peasants and city masses, unites its three tendencies and launches the final offensive; Washington itself asks Somoza to resign, he flees on 17 July and the FSLN enters Managua on 19 July 1979
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40879 — managuaopens1979]
 
 ## Say it to your companion
 

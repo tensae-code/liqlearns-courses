@@ -10,11 +10,15 @@ the US-created Guardia Nacional becomes the Somoza family's personal army; Somoz
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40867 — familysarmy1937]
+
 ## Sub lesson 2 — Nicaragua en la segunda mitad del siglo XX
 
 under the dynasty's second half the country is surveyed whole — wealth for the family, hardship and protest for the people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40866 — wealthandhardship]
 
 ## Sub lesson 3 — La acción heroica de Rigoberto López Pérez
 
