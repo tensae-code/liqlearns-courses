@@ -10,11 +10,15 @@ In **tree topology** — also called **hierarchical topology** — nodes are arr
 
 In your mind's eye: the tree — stars upon a backbone.
 
+[Picture 46161 — the tree — stars upon a backbone]
+
 ## Sub lesson 2 — Strengths — and the root's weakness
 
 The tree's gifts are scale and order: it **grows branch by branch** without rewiring the whole; a fault in one branch can be **isolated** while the rest work on; and its shape matches how institutions themselves are built, so networks and organisations understand each other. Its weakness is written in its name: the **root and the upper trunks carry everything** — a failure near the top fells every branch beneath it, and the top links bear the heaviest traffic. Real builders answer with strong root devices and backup links at the trunk — protecting the tree where the tree is weakest.
 
 In your mind's eye: strengths — and the root's weakness.
+
+[Picture 46162 — strengths — and the root's weakness]
 
 ## Say it to your companion
 

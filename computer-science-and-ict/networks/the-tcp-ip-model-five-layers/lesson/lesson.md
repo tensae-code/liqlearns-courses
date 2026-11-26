@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Computer Network Models** — co
 
 In your mind's eye: computer Network Models.
 
+[Picture 46159 — computer Network Models]
+
 ## Sub lesson 2 — Doing it — The TCP IP Model Five Layers in practice
 
 **Doing it — The TCP IP Model Five Layers in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — The TCP IP Model Five Layers in practice.
+
+[Picture 46160 — doing it — The TCP IP Model Five Layers in practice]
 
 ## Say it to your companion
 

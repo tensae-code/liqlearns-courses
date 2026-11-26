@@ -10,11 +10,15 @@ A teacher can whisper to one student, announce to the whole class, or call the f
 
 In your mind's eye: unicast and broadcast — one to one, one to all.
 
+[Picture 46163 — unicast and broadcast — one to one, one to all]
+
 ## Sub lesson 2 — Multicast — one to the chosen group
 
 **Multicast** is the middle wisdom: **one sender to a group** — the receivers who joined that group, and no others. A live lesson streamed to the classes that enrolled, a match carried to its subscribers: one stream travels the shared road and branches only where group members wait, saving the sender's thousand copies of unicast and sparing the uninterested the broadcast's flood. The three modes are a designer's daily choice — audience first: one, all, or the group between.
 
 In your mind's eye: multicast — one to the chosen group.
+
+[Picture 46164 — multicast — one to the chosen group]
 
 ## Say it to your companion
 

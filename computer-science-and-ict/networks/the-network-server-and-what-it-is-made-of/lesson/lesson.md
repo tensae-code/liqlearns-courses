@@ -10,11 +10,15 @@ In a client–server network one computer works for all the others: the **server
 
 In your mind's eye: what a network server is.
 
+[Picture 46157 — what a network server is]
+
 ## Sub lesson 2 — The parts of a server
 
 The book names the server's parts: a fast **processor** to answer many requests at once; the **motherboard** that joins everything; a **network (modem) adaptor** — the card that connects the server to the network; a strong **power supply**; its **operating system**, which runs the serving programs; and a **UPS** — an uninterruptible power supply that keeps the server alive through a cut in the electricity, so the network's heart never stops without warning. Miss any one part and the serving fails: the parts are the lesson.
 
 In your mind's eye: the parts of a server.
+
+[Picture 46158 — the parts of a server]
 
 ## Say it to your companion
 

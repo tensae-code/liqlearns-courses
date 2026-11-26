@@ -10,11 +10,15 @@ To **share a folder** is to offer it to the local network: the folder stays on i
 
 In your mind's eye: sharing a folder — opening the door.
 
+[Picture 46151 — sharing a folder — opening the door]
+
 ## Sub lesson 2 — Permissions and your address — governing the door
 
 Sharing without governing is giving the room your desk. **Sharing permissions** decide who may only **read** the folder and who may **change** it — the class reads the materials folder; only its owner writes there. To be reached, a computer is known by its **IP address**, and Mongolia teaches the finding of your own: the **ipconfig** command, typed at the command line, prints the machine's addresses. Permissions and address together are the lesson's pair: the door is opened, the door is governed, and the house has a number the visitors can use.
 
 In your mind's eye: permissions and your address — governing the door.
+
+[Picture 46152 — permissions and your address — governing the door]
 
 ## Say it to your companion
 

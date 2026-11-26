@@ -10,11 +10,15 @@ A **virtual private network (VPN)** makes a **private connection across a public
 
 In your mind's eye: what a VPN is.
 
+[Picture 46165 — what a VPN is]
+
 ## Sub lesson 2 — What a VPN is for
 
 The guide names the VPN among the extended network kinds for one job: **joining separated sites and people** as if they were on **one local network** — a branch office reaching the head office's files, or a worker at home reaching the office system. The organisation rents the road (the internet) but keeps its own locked carriage on it: **the reach of a public network with the privacy of a private one**.
 
 In your mind's eye: what a VPN is for.
+
+[Picture 46166 — what a VPN is for]
 
 ## Say it to your companion
 

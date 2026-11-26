@@ -10,11 +10,15 @@ Every computer on the internet is reached by an **IP address** — a number — 
 
 In your mind's eye: names for people, numbers for machines.
 
+[Picture 46153 — names for people, numbers for machines]
+
 ## Sub lesson 2 — How DNS answers — the lookup
 
 When a name is typed, the computer **asks DNS**: a **DNS server** — a machine holding the name-and-number directory for its part of the internet — **looks the name up and returns the number**, and the visit then goes to that number exactly as if it had been typed. If the name is not found, there is no visit, however healthy the connection — the famous failure that is a name problem, not a wire problem. Laos teaches DNS inside its addressing section because the pair is the whole addressing story: IP is where a machine is; DNS is how people ask for it by name.
 
 In your mind's eye: how DNS answers — the lookup.
+
+[Picture 46154 — how DNS answers — the lookup]
 
 ## Say it to your companion
 

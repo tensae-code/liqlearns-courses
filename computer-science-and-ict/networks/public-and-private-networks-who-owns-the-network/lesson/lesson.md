@@ -10,11 +10,15 @@ A **public network** is built by a **provider** and offered to the **public** �
 
 In your mind's eye: public networks — the provider's roads.
 
+[Picture 46147 — public networks — the provider's roads]
+
 ## Sub lesson 2 — Private networks — one owner's ground
 
 A **private network** is owned by **one organisation** for **its own** communication — a bank's branches, a university's CAN, a company's lines between offices. Admission is the owner's gift only; the organisation controls security, speed and rules because it controls the roads themselves, and pays the whole cost for that control. The two kinds interlock in practice: a private network's distant parts often travel *over* public roads, fenced by encryption — the VPN idea — which is the ownership lesson's closing picture: public ground, privately fenced.
 
 In your mind's eye: private networks — one owner's ground.
+
+[Picture 46148 — private networks — one owner's ground]
 
 ## Say it to your companion
 
