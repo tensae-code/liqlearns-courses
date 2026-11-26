@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Physical Structure of Networks: 
 
 In your mind's eye: physical Structure of Networks. §3.2.1 Types of connection.
 
+[Picture 46143 — physical Structure of Networks. §3.2.1 Types of connection]
+
 ## Sub lesson 2 — Doing it — Point to Point and Multipoint Connections in practice
 
 **Doing it — Point to Point and Multipoint Connections in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it. Point to Point and Multipoint Connections in practice.
+
+[Picture 46144 — doing it. Point to Point and Multipoint Connections in practice]
 
 ## Say it to your companion
 

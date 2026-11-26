@@ -12,11 +12,15 @@ To use the position, convert: 48° + 07.038/60 = 48.1173° N; 011° + 31.000/60 
 
 In your mind's eye: one $GPGGA line stretched out with each field bracketed and named, the two coordinates pulled out and converted beneath.
 
+[Picture 46137 — one $GPGGA line stretched out with each field bracketed and named, the two coordinates pulled out and converted beneath]
+
 ## Sub lesson 2 — Decoding a frame in Python
 
 What a hand can do for one frame, a program does for thousands — a boat’s whole day is a file of frames. The SNT book’s En codant strand writes the decoder in **Python**: read each line; keep the $GPGGA ones; **split on the commas**; take the fields by position; convert the coordinate fields (the first two or three digits are degrees, the rest is minutes; divide the minutes by 60 and add; then let the hemisphere letter set the sign — south and west negative). With decimal latitude and longitude in hand, the **folium** library drops the point onto a map, and a file of frames becomes the drawn track of the voyage — the same frames the book’s Activités decode by hand from a sailboat’s log. Hand first, then machine: you cannot trust the decoder’s map until you have decoded one frame yourself.
 
 In your mind's eye: a coastline with a dotted boat track along it, three frames from the log printed beside their points on the track.
+
+[Picture 46138 — a coastline with a dotted boat track along it, three frames from the log printed beside their points on the track]
 
 ## Say it to your companion
 

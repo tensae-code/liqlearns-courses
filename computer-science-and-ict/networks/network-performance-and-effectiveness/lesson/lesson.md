@@ -10,11 +10,15 @@ A network's **performance** is measured, not felt: **bandwidth** (how much data 
 
 In your mind's eye: performance — the measurable side.
 
+[Picture 46133 — performance — the measurable side]
+
 ## Sub lesson 2 — Effectiveness — performance for a purpose
 
 **Effectiveness** asks the next question: does the network serve its **users' actual work** — lessons load, files arrive, calls hold — at a cost the school can bear? A network can perform beautifully on a measure nobody needs (huge bandwidth at 3 a.m.) and fail effectively where it matters (thirty pupils at 9 a.m.). Improving performance follows the measures: find the narrow place — an old device, a busy hour, a long cable — and widen that, not everything.
 
 In your mind's eye: effectiveness — performance for a purpose.
+
+[Picture 46134 — effectiveness — performance for a purpose]
 
 ## Say it to your companion
 

@@ -11780,3 +11780,23 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 39879 | pictures/39879.webp | SS — Modern World — four panels: UNICEF's child, WHO's red cross, UNESCO's open book, FAO's wheat | Social Studies — Modern World — United Nations Agencies And Their Founders |
 | 39880 | pictures/39880.webp | SS — Modern World — the Etihad Museum with the union flag above it, the visiting family at its sides | Social Studies — Modern World — United Arab Emirates Union And Zayed |
 | 39881 | pictures/39881.webp | SS — Modern World — the two green lands with their banners, the joining arrow, the 1569 scroll | Social Studies — Modern World — Union Of Lublin The Commonwealth Is Born |
+| 46127 | pictures/46127.webp | four drawn generation cards — 1G voice only, 2G voice and texts, 3G the internet joins, 4G fast data — GSM and CDMA beneath | ICT — Networks — Mobile Communication Technology |
+| 46128 | pictures/46128.webp | three drawn base-station masts with coverage circles, a call handed mast to mast along the red line | ICT — Networks — Mobile Communication Technology |
+| 46129 | pictures/46129.webp | four drawn service cards — VIDEO CALLS, CLOUD STORAGE, STREAMING, ONLINE BANKING — services, not just connections | ICT — Networks — Modern Network Services |
+| 46130 | pictures/46130.webp | two drawn panels — BEFORE buying and mending your own, THE SERVICE TURN renting computing like water from a tap | ICT — Networks — Modern Network Services |
+| 46131 | pictures/46131.webp | four drawn sharing cards — ONE PRINTER, ONE FOLDER, ONE CONNECTION, ONE PROGRAM — share the thing, not twelve copies | ICT — Networks — Network Applications and Resource Sharing |
+| 46132 | pictures/46132.webp | a drawn sharing round — print through the queue, save into the shared folder, ask before the big download, thank the keeper — ticked | ICT — Networks — Network Applications and Resource Sharing |
+| 46133 | pictures/46133.webp | four drawn measure cards — SPEED counted, DELAY the wait, LOSS the missing packets, UPTIME the hours it worked | ICT — Networks — Network Performance and Effectiveness |
+| 46134 | pictures/46134.webp | two drawn panels — FAST ALONE a racing toy, EFFECTIVE the modest network carrying every lesson daily | ICT — Networks — Network Performance and Effectiveness |
+| 46135 | pictures/46135.webp | a drawn navy stream of bits with the counting rule beneath — bits passing in one second is the speed; 8 bits make a byte | ICT — Networks — Network Transfer Speed and Bandwidth |
+| 46136 | pictures/46136.webp | two drawn panels — BANDWIDTH the road's width and promise, WHAT YOU GET less on a shared busy road | ICT — Networks — Network Transfer Speed and Bandwidth |
+| 46137 | pictures/46137.webp | one GPGGA line drawn stretched out — each field bracketed and named, the latitude and longitude pulled out and converted beneath | ICT — Networks — NMEA Frames — How GPS Devices Report Position |
+| 46138 | pictures/46138.webp | a drawn coastline with a dotted boat track along it, three GPGGA frames from the log printed beside their points | ICT — Networks — NMEA Frames — How GPS Devices Report Position |
+| 46139 | pictures/46139.webp | a drawn walled organisation — Staff room, Office, Library, Server and Printer linked inside the wall | ICT — Networks — Organisational Networks |
+| 46140 | pictures/46140.webp | three drawn concentric circles — INTRANET our own, EXTRANET chosen guests, INTERNET everyone — opening outward | ICT — Networks — Organisational Networks |
+| 46141 | pictures/46141.webp | eight drawn parallel lanes with one bit abreast in each — the whole byte crossing together | ICT — Networks — Parallel and Serial Transmission |
+| 46142 | pictures/46142.webp | eight drawn bits in single file on one line — 1 0 1 1 0 1 0 0 — serial, one after another | ICT — Networks — Parallel and Serial Transmission |
+| 46143 | pictures/46143.webp | two drawn connection panels — POINT TO POINT one line two ends, MULTIPOINT one line many sharers hanging from it | ICT — Networks — Point-to-Point and Multipoint Connections |
+| 46144 | pictures/46144.webp | a drawn connections round — the printer cable point to point, the classroom bus multipoint, wire cost against waiting — ticked | ICT — Networks — Point-to-Point and Multipoint Connections |
+| 46145 | pictures/46145.webp | four drawn protocol rows — HTTP carries pages, FTP whole files, SMTP letters out, TCP/IP the carrier beneath all | ICT — Networks — Protocols of the Internet — FTP, HTTP, SMTP |
+| 46146 | pictures/46146.webp | a drawn protocols round — the page by HTTP, the file by FTP, the letter out by SMTP, all riding on TCP/IP — ticked | ICT — Networks — Protocols of the Internet — FTP, HTTP, SMTP |

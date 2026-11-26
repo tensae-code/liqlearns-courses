@@ -10,11 +10,15 @@ Eight messengers run side by side, each carrying one letter of a word. Or one me
 
 In your mind's eye: parallel — many bits at once.
 
+[Picture 46141 — parallel — many bits at once]
+
 ## Sub lesson 2 — Serial — one bit after another
 
 **Serial transmission** sends bits **one after another** along a single channel: slower per step, but one road serves any distance, the bits cannot fall out of step because they queue, and the cost stays low. Nearly everything that travels far is serial — network cables, internet links, the connections of this whole title. The comparison closes the lesson: parallel wins the sprint inside the machine; serial wins every journey beyond it — which is why the modern world is built serial, and why the next lesson's question — how the receiver keeps time with the sender — matters at all.
 
 In your mind's eye: serial — one bit after another.
+
+[Picture 46142 — serial — one bit after another]
 
 ## Say it to your companion
 

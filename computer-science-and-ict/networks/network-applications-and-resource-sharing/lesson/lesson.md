@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Using network application in resource 
 
 In your mind's eye: using network application in resource sharing.
 
+[Picture 46131 — using network application in resource sharing]
+
 ## Sub lesson 2 — Doing it — Using network application in resource sharing in practice
 
 This part of South Sudan's book teaches **Doing it — Using network application in resource sharing in practice** — covering: Using network application in resource sharing. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Using network application in resource sharing. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Using network application in resource sharing in practice is part of that chain..
 
 In your mind's eye: doing it — Using network application in resource sharing in practice.
+
+[Picture 46132 — doing it — Using network application in resource sharing in practice]
 
 ## Say it to your companion
 

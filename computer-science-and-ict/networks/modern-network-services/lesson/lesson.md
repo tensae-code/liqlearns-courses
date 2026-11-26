@@ -10,11 +10,15 @@ A **network service** is a **job the network does for its users** through its se
 
 In your mind's eye: services, not just connections.
 
+[Picture 46129 — services, not just connections]
+
 ## Sub lesson 2 — The service turn — computing itself as a service
 
 The chapter's modern edge: whole **computing itself** is becoming a service — programs, storage and even platforms **rented over the network** (the cloud services the new-technologies lessons open), so the user's device grows thinner as the network's services grow thicker. Judging a network then changes: not 'is it connected?' but '**which services stand on it, and how well do they serve?**' — the question this book's applied unit asks of every network it meets from here on.
 
 In your mind's eye: the service turn — computing itself as a service.
+
+[Picture 46130 — the service turn — computing itself as a service]
 
 ## Say it to your companion
 

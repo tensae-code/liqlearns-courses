@@ -10,11 +10,15 @@ An **intranet** is a network **inside one organisation**, using internet ways �
 
 In your mind's eye: the intranet — the organisation's own network.
 
+[Picture 46139 — the intranet — the organisation's own network]
+
 ## Sub lesson 2 — The extranet and the internet — circles opening outward
 
 An **extranet** opens **part** of the intranet to **chosen outsiders** — suppliers who check orders, parents who read reports — each let through the wall to their part only, by account and password. Beyond both lies the **internet itself**: the public network the organisation also uses, where everyone may enter and nothing is the organisation's own. Fiji's three circles — intranet (ours), extranet (ours, shared by invitation), internet (everyone's) — are the map on which every organisational network decision is drawn.
 
 In your mind's eye: the extranet and the internet — circles opening outward.
+
+[Picture 46140 — the extranet and the internet — circles opening outward]
 
 ## Say it to your companion
 

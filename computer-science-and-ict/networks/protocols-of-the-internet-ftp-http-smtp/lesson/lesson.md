@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Protocols in TCP/IP Suit** — c
 
 In your mind's eye: protocols in TCP/IP Suit.
 
+[Picture 46145 — protocols in TCP/IP Suit]
+
 ## Sub lesson 2 — Doing it — Protocols of the Internet FTP HTTP SMTP in practice
 
 **Doing it — Protocols of the Internet FTP HTTP SMTP in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Protocols of the Internet FTP HTTP SMTP in practice.
+
+[Picture 46146 — doing it — Protocols of the Internet FTP HTTP SMTP in practice]
 
 ## Say it to your companion
 
