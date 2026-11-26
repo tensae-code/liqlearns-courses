@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Copy – Paste and Cut – Paste
 
 In your mind's eye: copy – Paste and Cut – Paste.
 
+[Picture 45619 — copy – Paste and Cut – Paste]
+
 ## Sub lesson 2 — Doing it — Copy Paste and Cut Paste for Cells in practice
 
 **Doing it — Copy Paste and Cut Paste for Cells in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Copy Paste and Cut Paste for Cells in practice.
+
+[Picture 45620 — doing it — Copy Paste and Cut Paste for Cells in practice]
 
 ## Say it to your companion
 

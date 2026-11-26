@@ -10,11 +10,15 @@ Forecasting begins by **seeing**: the values are drawn as a **scatter plot** (ti
 
 In your mind's eye: scatter and trendline — seeing the road.
 
+[Picture 45633 — scatter and trendline — seeing the road]
+
 ## Sub lesson 2 — FORECAST.LINEAR — and the humility
 
 **FORECAST.LINEAR(x, known values, known times)** computes the line's value at a future x — the thirteenth month's predicted sales. Jordan teaches the function inside **predictive analysis** with its limits in the same breath: a forecast **extends the past's pattern** and breaks when the world changes (a competitor opens, a law changes, a season turns), and it is worth less the **farther** it reaches. The analyst reports a forecast **with** its pattern and its doubts — 'on the last year's trend, about X, if nothing changes' — because a bare predicted number is the past wearing the future's clothes and hoping no one asks.
 
 In your mind's eye: fORECAST.LINEAR — and the humility.
+
+[Picture 45634 — fORECAST.LINEAR — and the humility]
 
 ## Say it to your companion
 

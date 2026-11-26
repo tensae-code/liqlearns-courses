@@ -10,11 +10,15 @@ To **enter** data: select the cell, type the text, number or formula, and confir
 
 In your mind's eye: a selected cell with typed numbers appearing in it and in the formula bar above the sheet.
 
+[Picture 45627 — a selected cell with typed numbers appearing in it and in the formula bar above the sheet]
+
 ## Sub lesson 2 — Editing what is already there
 
 **Editing** changes an existing entry without retyping all of it: double-click the cell (or use the formula bar) and the entry opens for correction — move the cursor inside it, delete or insert characters, and confirm. Editing is the right tool for a long formula with one wrong reference, or a label with one wrong letter. The section closes with the workbook itself: a finished sheet is kept by **saving the workbook**, so the entered and edited data survives the program closing — unsaved work exists only while the program stays open.
 
 In your mind's eye: a long entry opened for editing with the cursor blinking in its middle, one letter being corrected.
+
+[Picture 45628 — a long entry opened for editing with the cursor blinking in its middle, one letter being corrected]
 
 ## Say it to your companion
 

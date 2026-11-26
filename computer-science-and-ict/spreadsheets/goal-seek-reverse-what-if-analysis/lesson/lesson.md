@@ -10,11 +10,15 @@ Goal Seek is reverse what-if analysis: instead of changing an input to see the r
 
 In your mind's eye: reverse What-If Analysis (Goal Seek).
 
+[Picture 45637 — reverse What-If Analysis (Goal Seek)]
+
 ## Sub lesson 2 — Reverse What-If Analysis: Goal Seek
 
 Goal Seek — Reverse What-If Analysis is learned by doing: the learner sets the target cell, the value it must reach, and the input cell Excel may change — then lets Goal Seek find the input value The learner sets the target cell, the value it must reach, and the input cell Excel may change — then lets Goal Seek find the input value Because real questions often start from the target — the profit needed, the mark needed — and ask what input would reach it.
 
 In your mind's eye: reverse What-If Analysis. Goal Seek.
+
+[Picture 45638 — reverse What-If Analysis. Goal Seek]
 
 ## Say it to your companion
 

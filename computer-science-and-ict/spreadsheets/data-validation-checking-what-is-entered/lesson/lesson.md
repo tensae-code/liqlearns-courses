@@ -10,11 +10,15 @@ data validation in a spreadsheet — setting the rules a cell will accept (a lis
 
 In your mind's eye: rules at the door — what a cell will accept.
 
+[Picture 45623 — rules at the door — what a cell will accept]
+
 ## Sub lesson 2 — Messages that teach — input help and honest errors
 
 Validation has a kind side and a firm side. The **input message** appears when the cell is chosen, telling the typist **what belongs here** before they type. The **error alert** appears when a rule is broken — and a good alert says **what was wrong and what is allowed**, not merely 'invalid'. The lesson's judgement: validation does not make data true — a permitted value can still be the wrong one — but it kills the whole family of impossible entries, so checking can spend itself on the possible ones.
 
 In your mind's eye: messages that teach — input help and honest errors.
+
+[Picture 45624 — messages that teach — input help and honest errors]
 
 ## Say it to your companion
 

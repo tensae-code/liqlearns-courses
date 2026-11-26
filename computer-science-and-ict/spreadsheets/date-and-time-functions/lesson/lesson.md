@@ -10,11 +10,15 @@ A spreadsheet stores a **date as a number** — the count of days since its day 
 
 In your mind's eye: dates are numbers — the spreadsheet's calendar.
 
+[Picture 45625 — dates are numbers — the spreadsheet's calendar]
+
 ## Sub lesson 2 — The functions — today, parts, and differences
 
 The working set: **TODAY()** gives the current date (and **NOW()** the date with the time) — the quotation in the book is dated by it, so it never goes stale in print. **YEAR, MONTH and DAY** pull a date apart; **DATE(y, m, d)** builds one from parts; and plain subtraction — or **DATEDIF** — counts the span between two dates. The discipline: a date typed as **text** ('14 Nov' as letters) is a dead value no function can spend, so dates are entered as dates and only dressed by formatting.
 
 In your mind's eye: the functions — today, parts, and differences.
+
+[Picture 45626 — the functions — today, parts, and differences]
 
 ## Say it to your companion
 

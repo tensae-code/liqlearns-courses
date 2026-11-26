@@ -10,11 +10,15 @@ Data arrives as messy text: names in mixed case, codes buried in strings, spaces
 
 In your mind's eye: finding and cutting text.
 
+[Picture 45629 — finding and cutting text]
+
 ## Sub lesson 2 — Cleaning and casing text
 
 **TRIM** removes a text's extra spaces — the leading, trailing and doubled spaces that make 'Amman' and 'Amman ' count as two cities. **UPPER** and **LOWER** force a text wholly into capital or small letters, so codes and names written by many hands compare equal. Jordan's Grade 10 set is a cleaner's kit, taught inside the data-analysis lesson because analysis dies of dirty text: the functions here are how the cleaning stage of the analysis process is actually done in Excel, cell by formula, auditable by anyone.
 
 In your mind's eye: cleaning and casing text.
+
+[Picture 45630 — cleaning and casing text]
 
 ## Say it to your companion
 

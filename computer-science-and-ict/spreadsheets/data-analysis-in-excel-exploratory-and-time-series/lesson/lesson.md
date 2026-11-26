@@ -10,11 +10,15 @@ The Excel lesson opens with two stances toward data: exploring it with no questi
 
 In your mind's eye: exploratory analysis — meeting data without a script.
 
+[Picture 45621 — exploratory analysis — meeting data without a script]
+
 ## Sub lesson 2 — Time-series analysis — data with a clock
 
 A **time series** is a measure taken in time order — sales by month, temperature by day — and its analysis reads the parts time writes into it: the **trend** (the long climb or fall), **seasonality** (the rhythm that repeats with the calendar), **cycles and noise** (slower waves, and the random jitter on everything). In Excel: the series is **plotted first** (the eye reads time best), smoothed with **moving averages** to let the trend show through the noise, and compared **like-for-like** (this June against last June, never against January). Jordan pairs the two stances in one lesson because they are the analyst's two first moves on any new data: look around, then look along time.
 
 In your mind's eye: time-series analysis — data with a clock.
+
+[Picture 45622 — time-series analysis — data with a clock]
 
 ## Say it to your companion
 
