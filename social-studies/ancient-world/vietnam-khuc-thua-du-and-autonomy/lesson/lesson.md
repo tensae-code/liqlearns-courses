@@ -10,6 +10,8 @@ as the Tang fade, Khúc Thừa Dụ takes Đại La in 905; his son Khúc Hạo 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61877 — autonomy gently governed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 18, the Khúc family builds autonomy and Dương Đình Nghệ defends it — as the Tang fade, Khúc Thừa Dụ takes Đại La in 905; his son Khúc Hạo reforms taxes, registers and corvée under the motto of a lenient, simple government; in 931 Dương Đình Nghệ drives out the Southern Han and keeps the autonomy. Then let your companion ask you one hard question about it — answer from the lesson.

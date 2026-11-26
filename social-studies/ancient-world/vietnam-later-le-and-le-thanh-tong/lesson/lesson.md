@@ -10,11 +10,15 @@ Lê Lợi founds the dynasty in 1428 at Đông Kinh; under Lê Thánh Tông (146
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61886 — not one inch of the founders land]
+
 ## Sub lesson 2 — Bài 12, story of Trạng Lường Lương Thế Vinh
 
 the maths prodigy weighs a Ming envoy's elephant by marking a boat's waterline and swapping the elephant for stones, then writes the Đại thành toán pháp, the age's great maths book
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61887 — weighing an elephant with a boat]
 
 ## Say it to your companion
 

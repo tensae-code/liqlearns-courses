@@ -10,11 +10,15 @@ through a thousand years the Vietnamese language passes mouth to ear, ancestors 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61875 — a culture that would not die]
+
 ## Sub lesson 2 — Bài 17, taking Chinese culture selectively
 
 paper and glass techniques, Han script, New Year and Mid-Autumn festivals and Buddhism are taken in and bent to Vietnamese life — Buddhism so rooted that Viet monks lecture the Tang emperor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61876 — taken in and bent to fit]
 
 ## Say it to your companion
 

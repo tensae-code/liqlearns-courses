@@ -10,6 +10,8 @@ Java fossils two million years old, the Niah skull, fossil teeth at Thẩm Khuy�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61868 — 800000 years at an khe]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 4, traces of early humans in Southeast Asia and Vietnam — Java fossils two million years old, the Niah skull, fossil teeth at Thẩm Khuyên cave and stone tools at An Khê some 800,000 years old — Vietnam's oldest human trace. Then let your companion ask you one hard question about it — answer from the lesson.

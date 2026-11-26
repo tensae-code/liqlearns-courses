@@ -10,11 +10,15 @@ Lê Lợi takes the throne, restores the name Đại Việt and the capital Thă
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61889 — 1428 dai viet restored]
+
 ## Sub lesson 2 — Bài 17, Lê sơ economy, territory and society
 
 agriculture commissioners, a ban on leaving fields waste, and the quân điền equal-field system restore the villages ("in Thái Tổ's and Thái Tông's reigns, rice filled the fields and the buffaloes were too full to eat"); export kilns at Chu Đậu and Bát Tràng fill foreign orders — some 240,000 Chu Đậu ceramics were raised from the Cù Lao Chàm shipwreck — and in 1471 the border reaches the Cù Mông pass, while Lê Thánh Tông orders that not one inch of the ancestors' land be yielded
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61890 — rice full kilns busy]
 
 ## Sub lesson 3 — Bài 17, Lê sơ culture, education and its great figures
 

@@ -10,6 +10,8 @@ the Đinh king and his heir are assassinated, a six-year-old succeeds, and the S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61888 — a regent becomes the shield]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 10, the resistance against the Song, 981 — the Đinh king and his heir are assassinated, a six-year-old succeeds, and the Song strike by land and water; regent Lê Hoàn is raised to the throne, fights at Đại La, the Lục Đầu river, Bạch Đằng and Tây Kết, and the Song commander Hầu Nhân Bảo is killed. Then let your companion ask you one hard question about it — answer from the lesson.

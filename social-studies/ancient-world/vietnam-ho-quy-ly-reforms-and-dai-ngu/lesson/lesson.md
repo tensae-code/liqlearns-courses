@@ -10,17 +10,23 @@ as the Trần rot (Chu Văn An's petition to behead seven corrupt officials is r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61869 — reforms at a gallop]
+
 ## Sub lesson 2 — Bài 15, the fall of the Hồ to the Ming, 1407
 
 the Ming invade on the pretext of the usurpation; Đa Bang and Đông Đô fall in January 1407 and Tây Đô by June; Hồ Nguyên Trừng's verdict is quoted — "I do not fear fighting; I fear the people's hearts do not follow" — for the Hồ had trusted fortresses and a regular army and shut themselves into passive defence
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61870 — fortresses without hearts]
+
 ## Sub lesson 3 — Bài 9 Hồ Quý Ly's reforms: as the Trần rot (Chu Văn An's rejected petition to behead seven flatterers), the usurper-reformer caps nobles' fields and household slaves, issues paper money on pain of death for hoarding copper, counts every child from age two for the army, builds Tây Đô's stone citadel and divine cannons, forces monks under fifty back to lay life, and raises chữ Nôm — yet the reforms stay half-done and the Ming still come
 
 the boldest reformer in Vietnam's feudal age rebuilds everything except the people's trust
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61871 — everything rebuilt but trust]
 
 ## Say it to your companion
 
