@@ -10,6 +10,8 @@ Mexico's Reform opens its revolution's road, Morazán's union breaks apart, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40098 — brokenunion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Reform and the Mexican Revolution; Morazán's Central American Union; Sandino — Mexico's Reform opens its revolution's road, Morazán's union breaks apart, and Sandino sacrifices himself against occupation in Nicaragua. Then let your companion ask you one hard question about it — answer from the lesson.

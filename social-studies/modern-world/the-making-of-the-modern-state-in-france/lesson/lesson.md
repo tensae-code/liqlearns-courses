@@ -10,6 +10,8 @@ François Ier's ordinance imposes French in law and the modern state takes shape
 
 In your mind's eye: a royal ordinance being proclaimed in French on one side and Colbert inspecting a factory and a fleet on the other. Say what each man did to build one state.
 
+[Picture 40110 — onevoice]
+
 ## Sub lesson 2 — Colbert's state machine
 
 Colbert builds the king's finances, factories and fleet into one state machine — money, making and sea power pulled together under the crown.

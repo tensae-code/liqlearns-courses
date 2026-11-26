@@ -10,11 +10,15 @@ the March on Rome (image study: Mussolini and the quadrumvirs) is a bluff the ki
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40104 — bluffratified]
+
 ## Sub lesson 2 — Modulo 3 §§5–7 Verso il regime; La dittatura a viso aperto; Il contagio autoritario
 
 the "leggi fascistissime" (Fare storia Document) dismantle the liberal state from inside its own laws, and the authoritarian contagion spreads across Europe — the Anteprima insists it was no fatal outcome: opponents' errors made it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40103 — ownlaws]
 
 ## Say it to your companion
 

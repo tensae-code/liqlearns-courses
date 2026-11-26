@@ -10,6 +10,8 @@ monuments, myths and Kubrick's Paths of Glory (the module's Cinema e Storia) —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40099 — warmemory]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 1, Cap. 1 §13 Il mito e la memoria — monuments, myths and Kubrick's Paths of Glory (the module's Cinema e Storia) — the war goes on being fought in memory, and every regime of the century will claim its dead. Then let your companion ask you one hard question about it — answer from the lesson.

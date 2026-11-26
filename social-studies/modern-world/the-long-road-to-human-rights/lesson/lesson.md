@@ -10,17 +10,23 @@ a timeline runs from Cyrus's clay cylinder (539 BC) through Magna Carta (1215) t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40121 — rightstimeline]
+
 ## Sub lesson 2 — Lesson plan for §6.3, the history of human rights
 
 teachers are advised to present rights as a long struggle won step by step, not a gift handed down
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40120 — stepbystep]
+
 ## Sub lesson 3 — §2.1 The components and generations of human rights
 
 rights arrive in generations — civil and political rights won in the age of revolutions, social rights in the industrial age, collective rights after 1945
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40119 — generations]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ in the south Balkans a third great front opens around Salonika — French, Briti
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40117 — salonikafront]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the Macedonian Front — in the south Balkans a third great front opens around Salonika — French, British, Serbian and Greek troops face the Central Powers across Macedonia's own mountains, and the war the textbooks call "world" is fought through Macedonian villages. Then let your companion ask you one hard question about it — answer from the lesson.

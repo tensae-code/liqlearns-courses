@@ -10,6 +10,8 @@ pupils complete the timeline themselves — Hammurabi's code (c. 1750 BC), Confu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40118 — documentbydocument]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 4.1 The documents table: rights through the ages — pupils complete the timeline themselves — Hammurabi's code (c. 1750 BC), Confucius's golden rule, the English Bill of Rights (1689), America's Declaration (1776) — rights are won document by document. Then let your companion ask you one hard question about it — answer from the lesson.

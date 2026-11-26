@@ -10,11 +10,15 @@ after the 28 June–3 July 1940 operation the Moldavian SSR is proclaimed; kolkh
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40109 — lifted1941]
+
 ## Sub lesson 2 — Tema 24: Formarea RSSM și instaurarea regimului comunist
 
 from November 1940 the central press and Russian-speaking cadres from outside the republic staff the new order in the Moldavian SSR
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40108 — staffed1940]
 
 ## Say it to your companion
 

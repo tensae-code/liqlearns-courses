@@ -10,6 +10,8 @@ a name becomes a nation as writers argue that Macedonians are a people of their 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40111 — namebecomesnation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: the appearance and development of Macedonian identity (makedonstvo) — Ǵorgija Pulevski's theses, European Slavists studying the Macedonian language (1911) and diplomatic archives — a name becomes a nation as writers argue that Macedonians are a people of their own. Then let your companion ask you one hard question about it — answer from the lesson.
