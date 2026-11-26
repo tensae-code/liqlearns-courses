@@ -10,6 +10,8 @@ Sāmoan oral tradition answers the scientists from inside — the god Tagaloalag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61515 — created in samoa itself]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 1, Unit 1, Theory Three — Sāmoan oral tradition answers the scientists from inside — the god Tagaloalagi created the Sāmoan people in Sāmoa itself and organised them into districts and villages, with genealogies placing him about 2600 BC; other Polynesian traditions name a homeland, Hawaiki, or descent from the gods. Then let your companion ask you one hard question about it — answer from the lesson.

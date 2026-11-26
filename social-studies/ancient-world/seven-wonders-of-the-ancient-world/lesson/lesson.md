@@ -10,6 +10,8 @@ pyramids, gardens, statues and lighthouses — the ancient world's own list of i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61523 — the seven wonders]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 11. The seven wonders of the ancient world — pyramids, gardens, statues and lighthouses — the ancient world's own list of its greatest works, told as a tour of human ambition. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ seal-stones sign property, clay tablets keep accounts, and Crete's Phaistos disc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61520 — the disc refuses to be read]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 3: Ancient writing systems — seals, tablets, the Phaistos disc and Linear B — seal-stones sign property, clay tablets keep accounts, and Crete's Phaistos disc still refuses to be read. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Qur'an and hadith sciences, grammar and history-writing grow into disciplines wi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61517 — sciences with masters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.7 Intellectual life: religious, linguistic and human sciences — Qur'an and hadith sciences, grammar and history-writing grow into disciplines with their own masters and methods. Then let your companion ask you one hard question about it — answer from the lesson.

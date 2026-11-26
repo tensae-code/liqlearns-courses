@@ -10,6 +10,8 @@ Salamis grows rich and powerful, strikes its own coins and buries its kings with
 
 In your mind's eye: the key place or moment of Salamis of Cyprus and King Onesilos as the book shows it. Point to it and say what it shows.
 
+[Picture 61514 — salamis strikes its coins]
+
 ## Sub lesson 2 — The Cypriot revolt against the Persians; the battle and death of Onesilos
 
 Onesilos of Salamis leads Cyprus into the Ionian revolt, dies in battle against the Persians, and the island falls back under Persian rule, his tomb later honoured as a hero's.

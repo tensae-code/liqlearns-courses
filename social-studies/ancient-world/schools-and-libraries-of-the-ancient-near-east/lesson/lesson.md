@@ -10,6 +10,8 @@ Writing calls schools and libraries into being, the Arab region's gift to all la
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61518 — writing calls schools]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Schools and libraries of the ancient Near East. Then let your companion ask you one hard question about it — answer from the lesson.

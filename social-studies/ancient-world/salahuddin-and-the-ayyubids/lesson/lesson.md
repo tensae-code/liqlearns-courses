@@ -10,6 +10,8 @@ Salahuddin ibn Ayyub, a Kurdish soldier from Tikrit, unites Egypt and Syria, ret
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61513 — salahuddin unites and retakes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Salahuddin and the Ayyubids. Then let your companion ask you one hard question about it — answer from the lesson.

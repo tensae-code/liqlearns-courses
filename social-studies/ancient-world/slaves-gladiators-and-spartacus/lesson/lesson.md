@@ -10,6 +10,8 @@ Rome's wealth stands on slaves; in the arena they die for show until Spartacus' 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61528 — spartacus shakes italy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §51 Slaves and gladiators — Rome's wealth stands on slaves; in the arena they die for show until Spartacus' revolt (73–71 BC) shakes Italy itself. Then let your companion ask you one hard question about it — answer from the lesson.

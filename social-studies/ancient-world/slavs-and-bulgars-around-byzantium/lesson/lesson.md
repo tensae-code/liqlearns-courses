@@ -10,11 +10,15 @@ Slav tribes settle the Balkans to the Peloponnese and slowly become the empire's
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61529 — settling the balkans]
+
 ## Sub lesson 2 — Ch. 2.I.2 The Bulgarians and their relations with Byzantium
 
 a Turkic Bulgar state on the Danube becomes Byzantium's most dangerous northern rival — and its pupil
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61530 — rival and pupil]
 
 ## Sub lesson 3 — Slavs and Bulgars
 

@@ -10,6 +10,8 @@ Alexander's heirs rule Bactria from Greek cities like Ai-Khanoum, minting kings 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61521 — greek faces asian thrones]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§41–42 The Seleucid state and the Greco-Bactrian kingdom — Alexander's heirs rule Bactria from Greek cities like Ai-Khanoum, minting kings with Greek faces on Central Asian thrones. Then let your companion ask you one hard question about it — answer from the lesson.

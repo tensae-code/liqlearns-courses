@@ -10,6 +10,8 @@ after Heliocles, last Greco-Bactrian emperor, local rulers fragment the land unt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61511 — saka rule rises]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 13: The Sakas — after Heliocles, last Greco-Bactrian emperor, local rulers fragment the land until about 100 BCE, when Saka rule rises over the south — Arachosia (Kandahar) and Sakastan (Sistan). Then let your companion ask you one hard question about it — answer from the lesson.

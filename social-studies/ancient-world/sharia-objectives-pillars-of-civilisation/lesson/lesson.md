@@ -10,6 +10,8 @@ the Sharia's universal objectives fix civilisation's pillars at four levels: for
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61524 — pillars at four levels]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Pillars of civilisation in the objectives of the Islamic Sharia — the Sharia's universal objectives fix civilisation's pillars at four levels: for the individual, guarding life, mind, religion, honour and property; for the family, lawful marriage, progeny, lineage, and tranquillity, affection and mercy between spouses; for the umma, security, justice and equality, unity and the spread of knowledge; and for humanity, mutual acquaintance, cooperation, world peace and man's vicegerency on earth. Then let your companion ask you one hard question about it — answer from the lesson.

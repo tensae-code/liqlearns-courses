@@ -10,6 +10,8 @@ the mounted Saks, the river Massagetae and the farming-trading Sogdians are pres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61512 — peoples of the homeland]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 7. Saks, Massagetae, Sogdians — the mounted Saks, the river Massagetae and the farming-trading Sogdians are presented as the ancient peoples of the homeland itself, ancestors before empires arrive. Then let your companion ask you one hard question about it — answer from the lesson.
