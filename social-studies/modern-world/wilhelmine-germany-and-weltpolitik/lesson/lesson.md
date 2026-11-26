@@ -10,6 +10,8 @@ Bismarck's portrait of the young Kaiser (Document) opens the reign that drops th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39451 — the Kaiser takes the wheel]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 1, Cap. 2 §2 The Germany of Wilhelm II — Bismarck's portrait of the young Kaiser (Document) opens the reign that drops the pilot, builds a battle fleet and demands a world policy — Stürmer's Storiografia asks what Weltpolitik really was. Then let your companion ask you one hard question about it — answer from the lesson.

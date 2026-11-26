@@ -10,11 +10,15 @@ Marshall money rebuilds the West while Schuman's declaration (Document) pools co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39465 — coal and steel pooled]
+
 ## Sub lesson 2 — Modulo 9 §3 Ricostruzione e riforme nell'Europa occidentale
 
 Marshall aid, welfare states and the first integration steps rebuild the West as a system; Del Pero's Fare storia piece traces the confrontation's premises inside the recovery
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39464 — aid and welfare]
 
 ## Say it to your companion
 

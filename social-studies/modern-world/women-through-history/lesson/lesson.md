@@ -10,6 +10,8 @@ Women of Greece and Rome, Indigenous Ecuadorian leaders Dolores Cacuango and Tr�
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 39450 — women across the eras]
+
 ## Sub lesson 2 — Tránsito Amaguaña
 
 Born to huasipungo labourers in Pesillo, humiliated out of school as an Indigenous child, Tránsito Amaguaña rebels, founds Ecuador's first Indigenous organisations and bilingual schools with Dolores Cacuango, and fights for agrarian reform and communal lands into old age (Unidad 2, Cultura del Buen Vivir: Tránsito Amaguaña)

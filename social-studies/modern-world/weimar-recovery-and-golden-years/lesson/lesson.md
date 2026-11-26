@@ -10,11 +10,15 @@ Stresemann's Rentenmark, the Dawes Plan's American loans and restarted reparatio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39472 — borrowed money]
+
 ## Sub lesson 2 — 3.2 Stresemann's policies abroad
 
 Stresemann wins Locarno, League of Nations entry (1926) and the Young Plan, restoring Germany's standing abroad; his death in October 1929 removes the republic's most trusted leader weeks before the Crash.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39471 — Stresemann abroad]
 
 ## Sub lesson 3 — 4.1 The standard of living
 
@@ -22,17 +26,23 @@ Wages and welfare rise in the 'golden years', yet farmers, the Mittelstand and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39470 — not for everyone]
+
 ## Sub lesson 4 — 4.2 The position of women
 
 Weimar women vote, work and adopt new fashions and freedoms in the cities, while much of Germany expects them back in the home — a freedom the Nazis later promise to reverse.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39469 — new freedoms]
+
 ## Sub lesson 5 — 4.3 Cultural changes
 
 Bauhaus design, cabaret, cinema and art flourish in a republic without censorship; the same openness lets opponents call the culture decadent.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39468 — Bauhaus and cinema]
 
 ## Say it to your companion
 

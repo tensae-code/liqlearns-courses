@@ -10,6 +10,8 @@ The book first shows a prosperous country — strategic ports trading its minera
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 39462 — the pressure builds]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Why the West came — the book first shows a prosperous country — strategic ports trading its minerals, fertile soil and sea produce to the world, with a flourishing intellectual life — then the pressure builds: Britain's Industrial Revolution (and by the 1870s Germany's and France's) demands markets and raw materials, the Suez Canal and the steamship shorten the road east, and the Western powers race one another with different strategies of trade, treaty and force. Then let your companion ask you one hard question about it — answer from the lesson.

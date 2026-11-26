@@ -10,6 +10,8 @@ the book closes by judging its own heroes — landlocked routes, endless wars an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39452 — why the khanates fell behind]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VIII §42 The causes of the Uzbek khanates' backwardness, its progress and consequences — the book closes by judging its own heroes — landlocked routes, endless wars and conservative courts left the khanates weak before the industrial empires. Then let your companion ask you one hard question about it — answer from the lesson.

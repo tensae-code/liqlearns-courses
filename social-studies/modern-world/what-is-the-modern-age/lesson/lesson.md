@@ -10,6 +10,8 @@ humanists free the person from superstition, science and the great discoveries o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39459 — a new age opens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 1: Introducere în studiul istoriei moderne — humanists free the person from superstition, science and the great discoveries open a new age, and Rousseau warns that to give up freedom is to give up being human. Then let your companion ask you one hard question about it — answer from the lesson.

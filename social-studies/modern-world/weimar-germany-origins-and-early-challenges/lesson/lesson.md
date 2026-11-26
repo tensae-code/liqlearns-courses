@@ -28,6 +28,8 @@ France occupies the Ruhr over unpaid reparations, passive resistance shuts the m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39473 — 1923]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.1 The legacy of the First World War; 1.2 The setting up of the Weimar Republic; 2.2 Challenges to the Republic from the left and right; 2.3 The challenges of 1923. Then let your companion ask you one hard question about it — answer from the lesson.

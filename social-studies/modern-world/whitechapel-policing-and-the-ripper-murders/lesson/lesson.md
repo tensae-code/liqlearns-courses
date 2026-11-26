@@ -10,11 +10,15 @@ By the 1870s Britain is policed by many separate county and borough forces run b
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39458 — many forces]
+
 ## Sub lesson 2 — 5.2 The local context of Whitechapel
 
 Whitechapel's 30,000 people live with overcrowding, homelessness, workhouses and gang-ruled streets; poverty itself breeds the district's crime.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39457 — poverty crowds in]
 
 ## Sub lesson 3 — 5.3 Tensions in Whitechapel
 
@@ -22,17 +26,23 @@ Irish navvies and Jewish Eastern European immigrants crowd into the East End; fr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39456 — a district under strain]
+
 ## Sub lesson 4 — 5.4 Police organisation in Whitechapel
 
 H Division's roughly 500 beat constables and 15 detectives patrol set beats under sergeants and inspectors, stretched thin over a hostile district.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39455 — the beats]
+
 ## Sub lesson 5 — 5.5 Investigative policing in Whitechapel
 
 In 1888 five women are murdered by 'Jack the Ripper'; press pressure, rivalry with the City police and primitive detective methods fail to catch him, and the case changes investigation itself.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39454 — the hunt for the Ripper]
 
 ## Say it to your companion
 

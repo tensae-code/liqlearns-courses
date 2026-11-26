@@ -10,6 +10,8 @@ Napoleon's code, jury trials and compulsory schooling spread a citizen-making pa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39463 — codes, juries, schools]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Law and moral teaching in the modern West — Napoleon's code, jury trials and compulsory schooling spread a citizen-making package from Europe to the world. Then let your companion ask you one hard question about it — answer from the lesson.

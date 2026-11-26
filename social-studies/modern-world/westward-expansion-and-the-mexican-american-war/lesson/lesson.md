@@ -10,6 +10,8 @@ Lewis and Clark crossed the continent on their famous expedition — mapping, na
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39460 — crossing the continent]
+
 ## Sub lesson 2 — Missouri cracks the balance; Texas breaks from Mexico
 
 Expansion immediately struck the slavery question. Missouri's admission cracked the Union's balance between free and slave states. Further south, Texas broke from Mexico and joined the United States — carrying the same question with it.
