@@ -10,6 +10,8 @@ Decembrists, Crimean defeat and the 1861 emancipation — the empire that took T
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40603 — toolatehalfway]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §28 Russia in the first half and 1860s of the 19th century — Decembrists, Crimean defeat and the 1861 emancipation — the empire that took Turkestan reforms itself too late and halfway. Then let your companion ask you one hard question about it — answer from the lesson.

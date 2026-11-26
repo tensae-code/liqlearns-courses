@@ -10,6 +10,8 @@ Norsemen from Sweden fall on the primitive Slav tribes in the 9th century, and t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40607 — longshipstogreats]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 16: Russia in the medieval and modern ages — Norsemen from Sweden fall on the primitive Slav tribes in the 9th century, and the long road ends with Peter the Great and Catherine the Great. Then let your companion ask you one hard question about it — answer from the lesson.

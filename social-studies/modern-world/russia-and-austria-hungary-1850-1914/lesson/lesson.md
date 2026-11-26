@@ -10,6 +10,8 @@ beaten by Prussia in 1866, Austria saves itself by the dualist compromise with H
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40611 — dualistcompromise]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §37: Imperiul Rus şi Imperiul Austro-Ungar — beaten by Prussia in 1866, Austria saves itself by the dualist compromise with Hungary; Franz Joseph reigns 68 years, Alexander III's Russia reforms and represses, and the 1877–78 war exposes both empires' Balkan rivalry. Then let your companion ask you one hard question about it — answer from the lesson.

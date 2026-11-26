@@ -10,6 +10,8 @@ the tsar-liberator is hunted by the revolutionaries his reforms awakened
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40604 — liberatorhunted]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 8.1 Why did Tsar Alexander II become a victim of Narodnaya Volya? — the tsar-liberator is hunted by the revolutionaries his reforms awakened. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ serfdom's abolition comes too late and too limited, and the autocratic order str
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40606 — strainingseams]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §19 The development of Russia in the 19th century; the crisis of Russian autocracy — serfdom's abolition comes too late and too limited, and the autocratic order strains under reform and reaction. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Roosevelt answers the Depression with state intervention and relief while Americ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40617 — reliefanswers]
+
 ## Sub lesson 2 — §18 Roosevelt's "New Deal"; US foreign policy in the interwar period
 
 state intervention answers the Depression while America stays out of Europe's quarrels
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40616 — homeandabroad]
 
 ## Say it to your companion
 

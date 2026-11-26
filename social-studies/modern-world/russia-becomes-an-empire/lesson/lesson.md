@@ -10,6 +10,8 @@ Peter's reforms and Catherine's wars turn Russia into a European great-power emp
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40609 — greatpower]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §11 The formation of the Russian Empire and its policy — Peter's reforms and Catherine's wars turn Russia into a European great-power empire. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ syndicates like Prodmet and Produgol rule Russian industry, French capital owns 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40610 — syndicatesgrain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. IV §19 The socio-economic and political position of Russia — syndicates like Prodmet and Produgol rule Russian industry, French capital owns a quarter of it, grain is half of all exports — yet over 100 peoples live under Russification, their conquered lands turned into raw-material appendages of the empire. Then let your companion ask you one hard question about it — answer from the lesson.

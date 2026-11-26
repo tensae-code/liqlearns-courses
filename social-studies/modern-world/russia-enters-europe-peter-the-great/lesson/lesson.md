@@ -10,6 +10,8 @@ Ivan IV's oprichnina, the Time of Troubles and the first Romanovs carry Russia t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40608 — petersthreshold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §7 Russia in the 16th–17th centuries — Ivan IV's oprichnina, the Time of Troubles and the first Romanovs carry Russia to Peter's threshold — an empire forming at Europe's edge. Then let your companion ask you one hard question about it — answer from the lesson.

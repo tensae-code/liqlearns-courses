@@ -10,11 +10,15 @@ Molotov's ultimatum demands Bessarabia back "at any price"; the Crown Council, m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40625 — council3am]
+
 ## Sub lesson 2 — Tema 24: Anul 1940 în istoria românilor
 
 six Crown Council members — Ciobanu, Dragomir, Iamandi, Iorga, Pop, Urdăreanu — vote to accept the Soviet conditions and save the state; Carol II, his authority broken, hands power to General Antonescu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40624 — sixvotes]
 
 ## Say it to your companion
 

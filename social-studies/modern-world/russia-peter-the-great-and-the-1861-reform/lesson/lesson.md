@@ -10,6 +10,8 @@ Peter the Great works incognito in foreign shipyards, builds a new army and a ne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40602 — shipyardsthenfreedom]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Russia's reforms — Peter the Great works incognito in foreign shipyards, builds a new army and a new capital on the Baltic he wins from Sweden, then a later tsar frees the serfs in 1861 to push Russia toward industry. Then let your companion ask you one hard question about it — answer from the lesson.

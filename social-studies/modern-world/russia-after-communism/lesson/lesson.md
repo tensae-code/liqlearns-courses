@@ -10,6 +10,8 @@ shock therapy and collapsed living standards — Medvedev's Fare storia piece co
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40613 — shocktherapy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 14 §6 La Russia post-comunista — shock therapy and collapsed living standards — Medvedev's Fare storia piece counts vodka and life expectancy; Furet's book study asks what the communist idea itself left behind. Then let your companion ask you one hard question about it — answer from the lesson.

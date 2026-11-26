@@ -10,6 +10,8 @@ romanticism answers the revolutions' hopes and disappointments; realism follows 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40620 — hopesthenreal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 25: Cultura, știința și tehnica în epoca modernă — romanticism answers the revolutions' hopes and disappointments; realism follows with Balzac, Gogol and Dickens, while Dalton's atomic theory remakes chemistry. Then let your companion ask you one hard question about it — answer from the lesson.

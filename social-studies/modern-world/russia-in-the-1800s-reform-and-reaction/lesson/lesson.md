@@ -10,6 +10,8 @@ the largest empire of the century frees its serfs yet clings to autocracy, refor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40605 — reformfromabove]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §17 Russia — the largest empire of the century frees its serfs yet clings to autocracy, reforming from above to avoid revolution from below. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ To end the unrest Rotumans cede their island to Britain in 1881, Governor Gordon
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40615 — cededandserved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Cession of Rotuma; Rotumans in the Second World War. Then let your companion ask you one hard question about it — answer from the lesson.

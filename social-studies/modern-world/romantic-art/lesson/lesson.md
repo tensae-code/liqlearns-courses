@@ -10,6 +10,8 @@ Delacroix and Turner put feeling, nature's terror and national longing on canvas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40622 — feelingterrorlonging]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 13: Romanticism — Delacroix and Turner put feeling, nature's terror and national longing on canvas. Then let your companion ask you one hard question about it — answer from the lesson.

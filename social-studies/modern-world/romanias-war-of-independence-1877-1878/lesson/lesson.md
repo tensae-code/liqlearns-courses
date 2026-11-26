@@ -10,6 +10,8 @@ Captain Mărgineanu's and Major Șonțu's battalions raise the tricolour over th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40623 — independenceprice]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §44: Obţinerea independenţei României — Captain Mărgineanu's and Major Șonțu's battalions raise the tricolour over the redoubt and fall; Russia threatens to disarm the Romanian army that saved its front, and southern Bessarabia is re-annexed in the peace. Then let your companion ask you one hard question about it — answer from the lesson.

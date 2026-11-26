@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a Romantic canvas of a shipwreck or a revolution. The student points to the feeling carrying the picture, not calm reason.
 
+[Picture 40618 — shipwrecksleep]
+
 ## Sub lesson 3 — The voice of nations
 
 Everywhere art becomes the voice of nations longing to be free.
