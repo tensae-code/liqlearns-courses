@@ -10,6 +10,8 @@ The Reformed Church and its schools spread for 138 years, the first printing pre
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40479 — dutchleft]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dutch faith, schools and what stayed behind — the Reformed Church and its schools spread for 138 years, the first printing press arrives in 1739, and Dutch words for cupboards and lawyers, new foods and the Burgher community remain in the island's life. Then let your companion ask you one hard question about it — answer from the lesson.

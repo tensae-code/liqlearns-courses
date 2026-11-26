@@ -10,6 +10,8 @@ Wartime cooperation earns trust, Lord Soulbury's 1947 constitution creates a cab
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40464 — soulbury]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Soulbury constitution and independence — wartime cooperation earns trust, Lord Soulbury's 1947 constitution creates a cabinet and two chambers, the Governor-General replaces the Governor, and in 1948 Ceylon is independent. Then let your companion ask you one hard question about it — answer from the lesson.

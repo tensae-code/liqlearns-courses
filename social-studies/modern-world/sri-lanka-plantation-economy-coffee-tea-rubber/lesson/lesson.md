@@ -10,17 +10,23 @@ Coffee booms then dies of leaf fungus after 1869, James Taylor plants tea at Loo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40470 — coffeedies]
+
 ## Sub lesson 2 — Economic development under the British (competency level 2.2)
 
 Pupils fill a two-column chart — plantation agriculture introduced, indigenous agriculture declined — and argue the gains and losses of the estate economy
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40469 — twocolumns]
+
 ## Sub lesson 3 — Changes in the economic system
 
 The old self-sufficient village economy is dismantled and a plantation export economy built in its place
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40468 — villagedismantled]
 
 ## Say it to your companion
 

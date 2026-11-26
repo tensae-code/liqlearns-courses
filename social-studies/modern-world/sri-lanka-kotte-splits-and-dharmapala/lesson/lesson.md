@@ -10,6 +10,8 @@ Mayadunne of Sitawaka wars on his brother's Kotte, the 1521 Vijayabahu killing s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40472 — kottesplits]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Kotte breaks and bends to Lisbon — Mayadunne of Sitawaka wars on his brother's Kotte, the 1521 Vijayabahu killing splits the kingdom three ways, and the converted Dharmapala signs his kingdom away to Portugal. Then let your companion ask you one hard question about it — answer from the lesson.

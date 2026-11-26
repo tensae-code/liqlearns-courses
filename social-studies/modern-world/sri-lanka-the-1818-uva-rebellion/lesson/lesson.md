@@ -10,6 +10,8 @@ Keppetipola leads Uva in revolt, the British burn villages to crush it, and the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40463 — uvaburns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The 1818 freedom struggle — Keppetipola leads Uva in revolt, the British burn villages to crush it, and the 1818 Kandyan proclamation tightens their grip and strips the chiefs. Then let your companion ask you one hard question about it — answer from the lesson.

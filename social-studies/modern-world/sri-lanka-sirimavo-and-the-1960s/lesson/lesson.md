@@ -10,6 +10,8 @@ After her husband's assassination Sirimavo becomes the world's first woman prime
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40465 — firstwomanpm]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Sirimavo Bandaranaike and the swings of the sixties — after her husband's assassination Sirimavo becomes the world's first woman prime minister in July 1960, nationalises and founds the People's Bank, loses in 1965 to Dudley Senanayake's third premiership. Then let your companion ask you one hard question about it — answer from the lesson.

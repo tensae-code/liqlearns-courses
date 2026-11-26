@@ -10,11 +10,15 @@ Britain seizes the Dutch ports in 1796, the failed double government of Company 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40461 — coasttaken]
+
 ## Sub lesson 2 — How British authority was established (competency level 2.1)
 
 The guide frames 1796, the cession of Kandy in 1815 and the struggles of 1818 and 1848 as one story of a sovereignty lost in stages
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40460 — stageslost]
 
 ## Sub lesson 3 — How the British came
 
@@ -22,11 +26,15 @@ Fearing France, Britain takes the Dutch coast in 1796 on the strength of a princ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40459 — pittuletter]
+
 ## Sub lesson 4 — British rule established: North and Maitland
 
 Governor North's harsh taxes provoke revolt, Thomas Maitland (1805–1812) tours every district, calms the coast, restores the cinnamon monopoly North abolished, and fences British power in law
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40458 — maitlandtours]
 
 ## Say it to your companion
 

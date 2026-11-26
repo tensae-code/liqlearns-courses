@@ -10,11 +10,15 @@ D. S. Senanayake leads the UNP into independence, Dudley follows, the 1953 harta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40476 — turnof1956]
+
 ## Sub lesson 2 — Sri Lanka since independence (competency level 6.1, 10 periods)
 
 Pupils chart every election since 1970 themselves, then compare the 1972 and 1978 constitutions column by column
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40475 — chartingelections]
 
 ## Say it to your companion
 

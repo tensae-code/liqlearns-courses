@@ -10,6 +10,8 @@ The American Henry Steel Olcott and Helena Blavatsky land in 1880, take refuge a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40471 — schoolswave]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Olcott and the Buddhist schools movement — the American Henry Steel Olcott and Helena Blavatsky land in 1880, take refuge as Buddhists, and drive a school-building wave — Ananda, Mahinda, Dharmaraja — that also designs the Buddhist flag. Then let your companion ask you one hard question about it — answer from the lesson.

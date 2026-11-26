@@ -16,6 +16,8 @@ The class collects what the Dutch left behind — words, clothes, foods, furnitu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40481 — leftoverswall]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dutch government, courts and the thombo registers — the Land Raad gives villagers cheap justice, and clerks write every family, field and tax into thombo books — one man's 195 coconut palms owe a single rix-dollar; Dutch administration, economy and culture — the class collects what the Dutch left behind — words, clothes, foods, furniture, new port towns — and exhibits them as a wall paper. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Governor Torrington's new taxes on dogs, guns and shops spark a rising, Gongaleg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40462 — taxesrising]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The 1848 rebellion — Governor Torrington's new taxes on dogs, guns and shops spark a rising, Gongalegoda Banda is crowned at Dambulla, Puran Appu leads the attack on Matale, and martial law shoots the leaders. Then let your companion ask you one hard question about it — answer from the lesson.

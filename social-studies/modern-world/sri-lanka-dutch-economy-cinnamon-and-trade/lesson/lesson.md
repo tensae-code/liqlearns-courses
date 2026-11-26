@@ -10,6 +10,8 @@ Cinnamon is a company monopoly guarded by death penalties, canals are dug, tanks
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40480 — cinnamancanals]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dutch economic policy — cinnamon is a company monopoly guarded by death penalties, canals are dug, tanks restored, and pepper, coffee and tobacco planted for export. Then let your companion ask you one hard question about it — answer from the lesson.

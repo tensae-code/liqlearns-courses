@@ -10,11 +10,15 @@ Arumuga Navalar answers the missionaries with Tamil prose and Hindu schools in J
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40478 — proseanswers]
+
 ## Sub lesson 2 — Navalar and Siddhi Lebbe
 
 Arumuga Navalar (1822–1879) answers mission schools with Hindu schools — Jaffna's Hindu College rises in 1871 — while M. C. Siddhi Lebbe (1832–1898) founds Muslim journals and Colombo's Zahira College
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40477 — navalarsiddhi]
 
 ## Say it to your companion
 

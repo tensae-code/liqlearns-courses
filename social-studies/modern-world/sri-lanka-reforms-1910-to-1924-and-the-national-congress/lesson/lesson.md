@@ -10,11 +10,15 @@ Before you read on, hold this lesson's one thing in mind: 1910 brings the first 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40467 — majoritiespaper]
+
 ## Sub lesson 2 — The national movement organises
 
 James Peiris's 1908 memorandum demands reform, the 1910 change lets Ramanathan become the first elected Ceylonese member, and temperance halls become the movement's recruiting grounds
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40466 — movementorganises]
 
 ## Say it to your companion
 
