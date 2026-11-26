@@ -10,6 +10,8 @@ Russian officers, exiles and scholars map and describe the steppe — knowledge 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41534 — mappeddescribed]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §55 Research on Kazakhstan in the 19th century — Russian officers, exiles and scholars map and describe the steppe — knowledge gathered in the conqueror's language. Then let your companion ask you one hard question about it — answer from the lesson.

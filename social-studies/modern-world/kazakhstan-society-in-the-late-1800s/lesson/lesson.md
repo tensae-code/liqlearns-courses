@@ -10,11 +10,15 @@ sultans lose their privileges, biys judge under Russian oversight, and new class
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41515 — newclassesappear]
+
 ## Sub lesson 2 — §39 Changes in traditional Kazakh society
 
 clan and zhuz ties loosen as money, towns and Russian law reshape society
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41514 — tiesloosen]
 
 ## Say it to your companion
 

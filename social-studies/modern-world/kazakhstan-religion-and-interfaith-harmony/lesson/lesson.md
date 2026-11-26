@@ -10,11 +10,15 @@ the Congress of World Religions makes tolerance a state brand
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41536 — congressoffaiths]
+
 ## Sub lesson 2 — §31 The role of religion in modern Kazakhstan society
 
 faith revives under a secular state that brands interfaith accord
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41535 — faithrevivesaccord]
 
 ## Say it to your companion
 

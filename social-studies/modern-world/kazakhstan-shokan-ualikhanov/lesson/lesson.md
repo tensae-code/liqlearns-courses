@@ -10,11 +10,15 @@ the officer-scholar maps Kashgaria, records the Manas epic and dies at 29, leavi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41519 — goneat29]
+
 ## Sub lesson 2 — §56 Shokan Ualikhanov — great Kazakh scholar
 
 Shokan's Kashgar journey and folklore collecting found Kazakh science
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41518 — kashgarjourney]
 
 ## Sub lesson 3 — §6.4 Why did S. Mukanov call his work about Shokan Ualikhanov "Akkan Zhuldyz" (The Fallen Star)?
 
@@ -22,11 +26,15 @@ a 20th-century novel's title frames the scholar who blazed and fell at 29
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41517 — fallenstar]
+
 ## Sub lesson 4 — Lesson plan §56: Shokan Ualikhanov — gifted scholar
 
 the scholar's short blazing career is the lesson's arc
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41516 — blazingarc]
 
 ## Say it to your companion
 

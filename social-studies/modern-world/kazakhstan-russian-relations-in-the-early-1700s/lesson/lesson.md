@@ -10,17 +10,23 @@ embassies, trade and fort-building draw the steppe and the empire into an unequa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41533 — unequalembrace]
+
 ## Sub lesson 2 — §§7–8 Kazakh-Russian relations in the 18th century
 
 embassies and trade missions shuttle between the steppe and St Petersburg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41532 — embassiesshuttle]
+
 ## Sub lesson 3 — §2.1 Why did Russia consider Kazakhstan the "key and gate" to Asia?
 
 the steppe is read through St Petersburg's eyes — a corridor to India and Bukhara
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41531 — keyandgate]
 
 ## Say it to your companion
 

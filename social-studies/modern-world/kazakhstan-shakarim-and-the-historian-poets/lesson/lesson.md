@@ -10,17 +10,23 @@ three scholar-poets write the Kazakh past down — genealogy, chronicle and hist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41522 — writtendown]
+
 ## Sub lesson 2 — §6.7 What is the historical value of the works of Sh. Kudaiberduly, M. Zh. Kopeiuly and K. Khalid?
 
 three shezhire-writers are assessed as historians of their own people
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41521 — ownpeopleshistorians]
+
 ## Sub lesson 3 — Lesson plan §60: the historical value of the works of Sh. Kudaiberduly, M. Zh. Kopeiuly and K. Khalid
 
 the guide closes by grading the three shezhire-writers as sources
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41520 — weighedassources]
 
 ## Say it to your companion
 

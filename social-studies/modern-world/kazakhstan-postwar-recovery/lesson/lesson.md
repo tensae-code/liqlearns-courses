@@ -16,6 +16,8 @@ a ruined republic rebuilds its farms, mines and factories
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41537 — rebuiltfarmsmines]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §§1–2. The Kazakh SSR's post-war socio-economic development; mineral exploration and industrial growth — a ruined republic rebuilds — geologists open new deposits and factories rise on the steppe, §1 The Kazakh SSR's socio-economic development in the post-war years — a ruined republic rebuilds its farms, mines and factories. Then let your companion ask you one hard question about it — answer from the lesson.

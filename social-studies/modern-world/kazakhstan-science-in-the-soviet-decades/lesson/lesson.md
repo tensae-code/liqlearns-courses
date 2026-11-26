@@ -10,17 +10,23 @@ the Academy grows — Satpaev's school trains a generation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41525 — satpaevschool]
+
 ## Sub lesson 2 — §§27–28. Achievements of Kazakhstani scholars in science's development in the 1940s–80s; literature and art
 
 institutes, novels and films — a Soviet Kazakh culture takes shape
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41524 — novelsfilms]
+
 ## Sub lesson 3 — §11 The achievements of Kazakhstan's scholars in the 1940s–80s
 
 the Academy's institutes train a national scientific school
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41523 — nationalschool]
 
 ## Say it to your companion
 
