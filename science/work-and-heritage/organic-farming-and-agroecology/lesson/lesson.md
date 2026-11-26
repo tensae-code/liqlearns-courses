@@ -9,11 +9,15 @@ organic crops defined: food produced by natural methods without chemical substan
 
 In your mind's eye: organic crops defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37874 — food grown the natural way]
+
 ## Sub lesson 2 — Traditional agriculture (indigenous practices developed over generations, aimed at
 
 traditional agriculture (indigenous practices developed over generations, aimed at conserving the environment and using resources sustainably) and agroecology (ecological principles applied to food production, weighing productivity, stability, sustainability and equity) (guide evidence)
 
 In your mind's eye: traditional agriculture (indigenous practices developed over generations, aimed at as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37875 — kept by generations kind to the]
 
 ## The key ideas
 

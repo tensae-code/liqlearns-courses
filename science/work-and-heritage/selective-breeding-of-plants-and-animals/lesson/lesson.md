@@ -9,7 +9,11 @@ Before you read: think of one thing near your home that shows this lesson's idea
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37878 — improvement by choosing again and again]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37879 — chosen parents stronger young]
 
 ## Sub lesson 2 — Breeding plants and animals — the same choosing at work
 

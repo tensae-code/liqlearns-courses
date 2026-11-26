@@ -9,11 +9,15 @@ The books teach this part as nomad life, dwellings and livestock, guide's backgr
 
 In your mind's eye: the way of life of the Huns as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37888 — the huns' way of life on]
+
 ## Sub lesson 2 — Who the Huns were
 
 Kazakhstan's books teach this as their own lesson — "Who the Huns were". The learner works through the books' own presentation of who the Huns were — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: who the Huns were as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37889 — the huns a horse people]
 
 ## Sub lesson 3 — How the Huns lived
 
@@ -21,11 +25,15 @@ Kazakhstan's books teach this as their own lesson — "How the Huns lived". The 
 
 In your mind's eye: how the Huns lived as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37890 — how the huns lived day to]
+
 ## Sub lesson 4 — The Huns — our ancestors
 
 Kazakhstan's books teach this as their own lesson — "The Huns — our ancestors". The learner works through the books' own presentation of the Huns — our ancestors — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: the Huns — our ancestors as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37891 — the huns ancestors of the steppe]
 
 ## The key ideas
 

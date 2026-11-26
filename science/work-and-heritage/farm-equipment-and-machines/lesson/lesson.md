@@ -9,7 +9,11 @@ Zimbabwe's Grade 4 guide teaches **equipment and machinery** as a named unit ins
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37855 — machines named like tools by their]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37856 — the machine does the field's work]
 
 ## Sub lesson 2 — Machines and the work they do
 

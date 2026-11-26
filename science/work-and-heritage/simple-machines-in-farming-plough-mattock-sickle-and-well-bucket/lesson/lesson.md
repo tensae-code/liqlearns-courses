@@ -9,7 +9,11 @@ science reading "Simple Machines in Farming": humans have relied on simple machi
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37880 — old machines still at work]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37881 — rope and bucket lift the water]
 
 ## The key ideas
 

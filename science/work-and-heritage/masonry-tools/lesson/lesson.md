@@ -9,7 +9,11 @@ The lesson first gives **examples of masonry tools** — the tools of the builde
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37870 — sort the builder's tools from the]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37871 — mortar spread brick laid true]
 
 ## Sub lesson 2 — Using and maintaining masonry tools
 

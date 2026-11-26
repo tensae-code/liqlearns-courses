@@ -9,7 +9,11 @@ Agricultural technology begins with machines that do farm work: tractor, cultiva
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37884 — machines take over the arms' work]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37885 — chemical help feed and guard]
 
 ## Sub lesson 2 — Chemical help — fertilizers and pesticides
 

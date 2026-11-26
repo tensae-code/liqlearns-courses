@@ -9,7 +9,11 @@ The unit opens with the **names** of the mechanics tools. Rwanda's Primary 6 boo
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37872 — ask for each tool by its]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37873 — the spanner turns the nut]
 
 ## Sub lesson 2 — What each mechanics tool is used for
 

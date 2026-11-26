@@ -11,7 +11,11 @@ That is why clay is the oven's material wherever this craft is kept: it is under
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37851 — clay the ground's own building stuff]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37852 — shaped by hand hardened for the]
 
 ## Sub lesson 2 — Building the oven by hand
 

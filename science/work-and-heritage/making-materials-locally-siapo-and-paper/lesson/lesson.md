@@ -9,7 +9,11 @@ Samoa makes many of its own materials: **siapo (tapa cloth)** from bark, **cocon
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37866 — samoa makes its own materials]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37867 — handmade paper step by step]
 
 ## Sub lesson 2 — Hand-made paper — and naming every change
 

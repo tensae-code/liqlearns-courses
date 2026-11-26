@@ -9,7 +9,11 @@ The book begins with **identification of carpentry tools** — naming and recogn
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37853 — know the woodworker's tools by name]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37854 — back and forth the saw cuts]
 
 ## Sub lesson 2 — Using and maintaining carpentry tools
 

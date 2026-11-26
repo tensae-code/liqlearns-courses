@@ -9,17 +9,23 @@ Iran's Grade 1 book opens the past with the home: in old times people used fire 
 
 In your mind's eye: warmth and light from fire as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37857 — fire warmed and lit the old]
+
 ## Sub lesson 2 — Messages — the long road to fast and easy
 
 Iran's Grade 6 book tells the communication story: humans have always needed to communicate with each other, and suppose today at 18:30 there is a football match everyone must hear about — in the past that news travelled as fast as a walker, a rider or a letter; now it travels at once. The book sets pupils to talk about the features, uses and changes of communication tools, and the reason for each change.
 
 In your mind's eye: messages — the long road to fast and easy as Iran's book shows it. Name the part that carries the sub lesson's point.
 
+[Picture 37858 — from a walker's pace to instant]
+
 ## Sub lesson 3 — Why life-tools change
 
 Tools change because people need them to do more: faster news, safer light, warmer rooms. Each new tool keeps the old job — warming, lighting, telling — and does it in a new way. Reading the past by its tools shows both what stayed the same (the needs) and what changed (the ways).
 
 In your mind's eye: why life-tools change as Iran's book shows it. Name the part that carries the sub lesson's point.
+
+[Picture 37859 — needs stay the tools change]
 
 ## The key ideas
 

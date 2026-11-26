@@ -9,7 +9,11 @@ Agricultural work begins with knowing the tools themselves. Rwanda's Primary 4 b
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37839 — first know every tool by name]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37840 — the right tool at work digging]
 
 ## Sub lesson 2 — What each agricultural tool is used for
 

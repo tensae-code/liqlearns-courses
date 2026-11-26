@@ -11,7 +11,11 @@ Aquaculture belongs in the farming lessons: it is agriculture done in water, sta
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37841 — aquaculture farming fish on purpose]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37842 — built first then stocked like a]
 
 ## Sub lesson 2 — Advantages and disadvantages
 
@@ -21,7 +25,11 @@ The learner's job is the weighing itself: name an advantage, name a disadvantage
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37843 — every farming choice has two sides]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37844 — care decides whether the farm works]
 
 ## The key ideas
 

@@ -9,7 +9,11 @@ The lesson begins with the **names** of the blacksmith tools. Rwanda's Primary 6
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37845 — know the forge tools by name]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37846 — the hammer shapes the hot metal]
 
 ## Sub lesson 2 — What each blacksmith tool is used for
 

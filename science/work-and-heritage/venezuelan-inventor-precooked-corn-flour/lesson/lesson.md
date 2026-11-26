@@ -9,7 +9,11 @@ The complementary reading tells of **Luis Caballero Mejías**, the Venezuelan wh
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37894 — cooked before it is sold dough]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37895 — foods in order like the chemist's]
 
 ## Sub lesson 2 — The periodic table of foods
 

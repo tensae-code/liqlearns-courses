@@ -11,7 +11,11 @@ A tool dismantled in order is a tool understood: nothing inside it stays a myste
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37882 — taken apart in order it is]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37883 — back together until it works]
 
 ## Sub lesson 2 — Putting it back together — until it works
 

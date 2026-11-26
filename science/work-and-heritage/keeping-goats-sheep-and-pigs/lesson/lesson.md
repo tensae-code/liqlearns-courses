@@ -9,7 +9,11 @@ The booklet keeps three animals together — **goats, sheep and pigs** — and s
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 37864 — two kinds of breeds name yours]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37865 — see the signs early control follows]
 
 ## Sub lesson 2 — Diseases — signs and control
 

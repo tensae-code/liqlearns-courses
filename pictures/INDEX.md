@@ -1436,6 +1436,63 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 37836 | pictures/37836.webp | People differ — and all are people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
 | 37837 | pictures/37837.webp | No two people are exactly alike. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
 | 37838 | pictures/37838.webp | Different features, equal worth. — drawn render, Photos+GIFs front 2026-11-26 | Science — Family, School and Community, The peoples of the world |
+| 37839 | pictures/37839.webp | First, know every tool by name. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Agricultural tools |
+| 37840 | pictures/37840.gif | The right tool, at work: digging — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Agricultural tools |
+| 37841 | pictures/37841.webp | Aquaculture: farming fish on purpose. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Aquaculture — fish farming |
+| 37842 | pictures/37842.webp | Built first, then stocked — like a field. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Aquaculture — fish farming |
+| 37843 | pictures/37843.webp | Every farming choice has two sides. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Aquaculture — fish farming |
+| 37844 | pictures/37844.webp | Care decides whether the farm works. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Aquaculture — fish farming |
+| 37845 | pictures/37845.webp | Know the forge tools by name. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Blacksmith tools |
+| 37846 | pictures/37846.gif | The hammer shapes the hot metal — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Blacksmith tools |
+| 37847 | pictures/37847.webp | The Botai: a settled horse people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Botai — and the first domesticated horse |
+| 37848 | pictures/37848.webp | The first people to tame the horse. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Botai — and the first domesticated horse |
+| 37849 | pictures/37849.webp | Taming begins with trust, not force. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Botai — and the first domesticated horse |
+| 37850 | pictures/37850.webp | Horses at the centre of Botai life. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Botai — and the first domesticated horse |
+| 37851 | pictures/37851.webp | Clay — the ground's own building stuff. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Building a clay oven |
+| 37852 | pictures/37852.webp | Shaped by hand, hardened for the fire. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Building a clay oven |
+| 37853 | pictures/37853.webp | Know the wood-worker's tools by name. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Carpentry tools |
+| 37854 | pictures/37854.gif | Back and forth, the saw cuts — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Carpentry tools |
+| 37855 | pictures/37855.webp | Machines named, like tools, by their work. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Farm equipment and machines |
+| 37856 | pictures/37856.gif | The machine does the field's work — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Farm equipment and machines |
+| 37857 | pictures/37857.webp | Fire warmed and lit the old home. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, How people lived in the past |
+| 37858 | pictures/37858.webp | From a walker's pace to instant. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, How people lived in the past |
+| 37859 | pictures/37859.webp | Needs stay; the tools change. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, How people lived in the past |
+| 37860 | pictures/37860.webp | A good shelter keeps animals well. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping cattle and goats |
+| 37861 | pictures/37861.webp | The keeper knows the breeds. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping cattle and goats |
+| 37862 | pictures/37862.webp | Housed and cared for, chickens thrive. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping chickens |
+| 37863 | pictures/37863.gif | The hen sits — the chicks hatch — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping chickens |
+| 37864 | pictures/37864.webp | Two kinds of breeds — name yours. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping goats, sheep and pigs |
+| 37865 | pictures/37865.webp | See the signs early; control follows. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Keeping goats, sheep and pigs |
+| 37866 | pictures/37866.webp | Samoa makes its own materials. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Making materials locally — siapo and paper |
+| 37867 | pictures/37867.webp | Hand-made paper, step by step. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Making materials locally — siapo and paper |
+| 37868 | pictures/37868.webp | Measure, fold, cut — flat becomes a thing. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Making toys and objects from local materials |
+| 37869 | pictures/37869.webp | Local stuff becomes toys and tools. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Making toys and objects from local materials |
+| 37870 | pictures/37870.webp | Sort the builder's tools from the rest. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Masonry tools |
+| 37871 | pictures/37871.gif | Mortar spread, brick laid true — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Masonry tools |
+| 37872 | pictures/37872.webp | Ask for each tool by its name. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Mechanics tools |
+| 37873 | pictures/37873.gif | The spanner turns the nut — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Mechanics tools |
+| 37874 | pictures/37874.webp | Food grown the natural way. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Organic farming and agroecology |
+| 37875 | pictures/37875.webp | Kept by generations, kind to the land. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Organic farming and agroecology |
+| 37876 | pictures/37876.webp | Choose the breed for the use. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Rabbit keeping |
+| 37877 | pictures/37877.gif | The hutch is built, then home — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Rabbit keeping |
+| 37878 | pictures/37878.webp | Improvement by choosing, again and again. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Selective breeding of plants and animals |
+| 37879 | pictures/37879.webp | Chosen parents, stronger young. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Selective breeding of plants and animals |
+| 37880 | pictures/37880.webp | Old machines, still at work. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Simple machines in farming — plough, mattock, sickle and well bucket |
+| 37881 | pictures/37881.webp | Rope and bucket lift the water. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Simple machines in farming — plough, mattock, sickle and well bucket |
+| 37882 | pictures/37882.webp | Taken apart in order, it is understood. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Taking apart and reassembling simple tools |
+| 37883 | pictures/37883.webp | Back together, until it works. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Taking apart and reassembling simple tools |
+| 37884 | pictures/37884.webp | Machines take over the arms' work. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Technology in farming |
+| 37885 | pictures/37885.webp | Chemical help: feed and guard. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Technology in farming |
+| 37886 | pictures/37886.webp | The doctor: diagnose, treat, prevent. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The doctor — diagnosis, treatment and prevention |
+| 37887 | pictures/37887.webp | Three jobs, in their order. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The doctor — diagnosis, treatment and prevention |
+| 37888 | pictures/37888.webp | The Huns' way of life on the steppe. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Huns — and nomad life |
+| 37889 | pictures/37889.webp | The Huns: a horse people. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Huns — and nomad life |
+| 37890 | pictures/37890.webp | How the Huns lived, day to day. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Huns — and nomad life |
+| 37891 | pictures/37891.webp | The Huns — ancestors of the steppe peoples. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Huns — and nomad life |
+| 37892 | pictures/37892.webp | Everyday tools, named first. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Tools we use every day |
+| 37893 | pictures/37893.webp | The garden's own set of tools. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, Tools we use every day |
+| 37894 | pictures/37894.webp | Cooked before it is sold — dough in minutes. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Venezuelan inventor of precooked corn flour |
+| 37895 | pictures/37895.webp | Foods in order, like the chemist's table. — drawn render, Photos+GIFs front 2026-11-26 | Science — Work and Heritage, The Venezuelan inventor of precooked corn flour |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |

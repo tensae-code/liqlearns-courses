@@ -9,7 +9,11 @@ careers linked to science: "The Doctor" — medicine is one of the most importan
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37886 — the doctor diagnose treat prevent]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37887 — three jobs in their order]
 
 ## The key ideas
 
