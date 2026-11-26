@@ -10,11 +10,15 @@ The **common operating systems** are the ones a learner will actually meet: **Mi
 
 In your mind's eye: the common operating systems — the named set.
 
+[Picture 45330 — the common operating systems - the named set]
+
 ## Sub lesson 2 — Comparing them — same jobs, different fits
 
 Operating systems are compared on the things a user feels: **what machines they run on**, **what they cost** (Windows is sold; Linux is free), **who may change them** (open-source code may be studied and altered; closed code may not), and **what programs and support** surround them. Libya's point in comparing, not just listing, is judgement: the right system for a school lab, a server and a home computer may be three different answers, each right for its place.
 
 In your mind's eye: comparing them — same jobs, different fits.
+
+[Picture 45331 — comparing them - same jobs, different fits]
 
 ## Say it to your companion
 

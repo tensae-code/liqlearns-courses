@@ -10,11 +10,15 @@ The letters a key produces are not fixed by the plastic: they are set by the **k
 
 In your mind's eye: the language settings window with Dari being added to the list of keyboard languages.
 
+[Picture 45314 — adding Dari to the keyboard languages]
+
 ## Sub lesson 2 — Adding Dari — and switching to it
 
 The language is added through the language settings (in the book's Windows XP, through Regional and Language Options in the Control Panel): open the settings, choose **Add**, pick the language — Dari — and its keyboard layout, and confirm. From then on the **language bar** on the taskbar shows the active language, and you switch between your languages by clicking it or with its key combination (in the book's Windows, **Alt+Shift**). The rule to remember: look at the language bar before you type — the program follows the language that is active, not the letters printed on the keys.
 
 In your mind's eye: the language bar on the taskbar showing two languages, English and Dari, ready to switch.
+
+[Picture 45315 — the language bar - English and Dari ready to switch]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A computer's sound has two directions: **output** — what you hear through spea
 
 In your mind's eye: the Volume Control window — master volume slider, mute box, and sliders for each sound source.
 
+[Picture 45316 — the Volume Control window]
+
 ## Sub lesson 2 — Adjusting the settings
 
 The everyday adjustment is the **Volume Control**: open it from the taskbar's speaker icon or the Control Panel, and its sliders set the master volume and the balance and level of each source — the wave sound, the microphone, the CD or line in. Raise the master first, check **Mute** is off, then set each source so nothing drowns the rest. In the fuller sound settings you also choose the **playback and recording devices** when a machine has more than one, and assign the sounds Windows itself makes. The troubleshooting order the lesson teaches: plug, power, mute, volume, device — from the wall socket to the settings, in that order, and most silent computers speak before you reach the end.
 
 In your mind's eye: speakers and a microphone plugged into a computer, with the playback and recording device choices.
+
+[Picture 45317 — speakers and a microphone - playback and recording choices]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Changing the desktop background 
 
 In your mind's eye: changing the desktop background through Personalize.
 
+[Picture 45324 — changing the desktop background through Personalize]
+
 ## Sub lesson 2 — Doing it — Changing the Desktop Background Wallpaper in practice
 
 **Doing it — Changing the Desktop Background Wallpaper in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Changing the Desktop Background Wallpaper in practice.
+
+[Picture 45325 — doing it - changing the desktop background wallpaper in practice]
 
 ## Say it to your companion
 

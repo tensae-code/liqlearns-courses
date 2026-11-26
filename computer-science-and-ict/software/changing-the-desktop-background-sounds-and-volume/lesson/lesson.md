@@ -10,11 +10,15 @@ The **desktop background** is the picture behind the icons. **Change** it by cho
 
 In your mind's eye: changing the background — even to your own drawing.
 
+[Picture 45322 — changing the background - even to your own drawing]
+
 ## Sub lesson 2 — System sounds, volume — and themes
 
 **System sounds** are the little sounds Windows makes at events — starting, an error, a notification; they can be changed or silenced in the settings. The **volume** control sets how loud all sound is. A **theme** is a bundle: background, sounds and colours chosen together, applied as one.
 
 In your mind's eye: system sounds, volume — and themes.
+
+[Picture 45323 — system sounds, volume - and themes]
 
 ## Say it to your companion
 

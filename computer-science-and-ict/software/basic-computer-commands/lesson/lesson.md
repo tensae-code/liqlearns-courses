@@ -10,11 +10,15 @@ To work on something you first **select** it: click it, or drag across it, so th
 
 In your mind's eye: select, cut, copy and paste — moving pieces of work.
 
+[Picture 45320 — select, cut, copy and paste - moving pieces of work]
+
 ## Sub lesson 2 — Undo and redo — the commands that forgive
 
 **Undo** takes back the last action; pressed again, it takes back the one before. **Redo** does again an action that was undone. Together they make experimenting safe: a learner can try, look, and step back instead of starting over. The keyboard forms — Ctrl+Z for undo, Ctrl+Y (or Ctrl+Shift+Z) for redo — are among the first shortcuts worth memorising, and Armenia's Grade 2 teacher guide builds its very first sample lesson plan around these commands.
 
 In your mind's eye: undo and redo — the commands that forgive.
+
+[Picture 45321 — undo and redo - the commands that forgive]
 
 ## Say it to your companion
 

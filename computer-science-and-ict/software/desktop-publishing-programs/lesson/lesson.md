@@ -10,11 +10,15 @@ A word processor writes pages; a desktop publishing program *designs* them. Fiji
 
 In your mind's eye: publishing — the page as a design.
 
+[Picture 45332 — publishing - the page as a design]
+
 ## Sub lesson 2 — DTP or word processor — the deciding question
 
 The two programs divide by the page's job. If the document is **read in order** — a letter, an essay, a report — the word processor is the tool. If the page is **looked at as a whole** — a poster, a newsletter, a magazine — and its look is part of its message, that is DTP. Fiji teaches the pair together because learners meet both in one office: the same school produces letters in one program and its magazine in the other, and choosing wrong makes both jobs harder.
 
 In your mind's eye: dTP or word processor — the deciding question.
+
+[Picture 45333 — DTP or word processor - the deciding question]
 
 ## Say it to your companion
 

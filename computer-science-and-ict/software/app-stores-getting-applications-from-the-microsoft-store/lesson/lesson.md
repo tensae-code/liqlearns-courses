@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Microsoft Windows Store** — co
 
 In your mind's eye: microsoft Windows Store.
 
+[Picture 45318 — the Microsoft Store]
+
 ## Sub lesson 2 — Doing it — App Stores Getting Applications from the Microsoft Store in practice
 
 **Doing it — App Stores Getting Applications from the Microsoft Store in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — App Stores Getting Applications from the Microsoft Store in practice.
+
+[Picture 45319 — doing it - getting applications from the Microsoft Store in practice]
 
 ## Say it to your companion
 
