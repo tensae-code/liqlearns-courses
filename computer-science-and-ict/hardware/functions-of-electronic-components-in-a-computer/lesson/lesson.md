@@ -10,11 +10,15 @@ Each electronic component has one main job. A **resistor** limits the flow of cu
 
 In your mind's eye: what the main components do.
 
+[Picture 45196 — what the main components do]
+
 ## Sub lesson 2 — Matching a component to its job in a circuit
 
 To choose a component, first **name the job**: protect a part from too much current — the resistor; hold charge for a steady supply — the capacitor; keep current moving one way — the diode; switch a signal on and off — the transistor, the part processors are built from. The component is chosen by its function, never by its look.
 
 In your mind's eye: matching a component to its job in a circuit.
+
+[Picture 45197 — matching a component to its job in a circuit]
 
 ## Say it to your companion
 

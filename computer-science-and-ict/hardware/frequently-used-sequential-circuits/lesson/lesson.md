@@ -10,11 +10,15 @@ A **register** is a **row of flip-flops holding one word** — 8, 16, 32 or 64 b
 
 In your mind's eye: registers — a word held in flip-flops.
 
+[Picture 45194 — registers — a word held in flip-flops]
+
 ## Sub lesson 2 — Counters — flip-flops that count
 
 A **counter** is a sequential circuit whose state, advanced by each incoming **pulse**, **counts in binary**: 000, 001, 010, 011… each flip-flop a place, the clock's ticks its input. Counters **divide frequency** (each stage's output pulses at half the rate of the one before), time events, and sequence operations — the machine's patience made of gates. With them the chapter closes its ladder: gates → functions → adders and routers → memory → registers and counters → (next chapter) the whole computer's architecture.
 
 In your mind's eye: counters — flip-flops that count.
+
+[Picture 45195 — counters — flip-flops that count]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **digital device** works with discrete values — the 0s and 1s of this course
 
 In your mind's eye: digital devices — the family.
 
+[Picture 45184 — digital devices — the family]
+
 ## Sub lesson 2 — Integrated circuits — the circuit becomes one thing
 
 An **integrated circuit (IC)** builds a whole circuit — many gates and their connections — into a **single chip** of semiconductor, printed photographically layer by layer. Integration is why digital devices shrank and cheapened: one chip replaces a board of separate parts, uses less power, fails less, and can be made by the million identically. The chip's pins are its doors — power in, signals in and out — and inside, invisible, the gates of the earlier lessons stand in their millions, which is where the chapter's road has been leading all along.
 
 In your mind's eye: integrated circuits — the circuit becomes one thing.
+
+[Picture 45185 — integrated circuits — the circuit becomes one thing]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Jordan sorts hardware faults by **component**: **power** faults (no life at all 
 
 In your mind's eye: the faults and their causes — by component.
 
+[Picture 45200 — hardware faults and their causes — by component]
+
 ## Sub lesson 2 — Fixing — the safe order of work
 
 Fixing follows the troubleshooter's order: **observe and record** the symptom exactly, **test the cheap and external first** (cables, another screen, another socket — the swaps that separate the parents), **open the case only then** (power off, static care, one change at a time), and **verify** the fix under the load that revealed the fault. The lesson's safety spine: electricity and stored charge are respected, a part is condemned only on evidence (a swap that moves the fault), and a fault beyond the school's tools is **reported with its evidence**, not hidden by guessing.
 
 In your mind's eye: fixing — the safe order of work.
+
+[Picture 45201 — fixing — the safe order of work]
 
 ## Say it to your companion
 

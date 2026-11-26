@@ -10,11 +10,15 @@ A pin is the board's hand and eye on the world, and every pin must first be told
 
 In your mind's eye: digital pins — direction first, then read and write.
 
+[Picture 45182 — digital pins — direction first, then read and write]
+
 ## Sub lesson 2 — Analog pins — the graded world
 
 The world is not only on and off: light fades, temperature climbs. **Analog** pins measure and imitate that graded world. **analogRead(pin)** converts a varying voltage — from a light or temperature sensor — into a number (0–1023 on the Uno), and **analogWrite(pin, value)** sets an output's average level (0–255), dimming an LED or pacing a motor as if by degrees. The digital/analog split is the board's two languages: digital for decisions, analog for degrees — and most real projects speak both at once.
 
 In your mind's eye: analog pins — the graded world.
+
+[Picture 45183 — analog pins — the graded world]
 
 ## Say it to your companion
 

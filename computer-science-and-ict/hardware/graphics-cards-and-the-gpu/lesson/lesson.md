@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Graphic Card** — covering: Uni
 
 In your mind's eye: graphic Card.
 
+[Picture 45198 — the graphics card]
+
 ## Sub lesson 2 — Doing it — Graphics Cards and the GPU in practice
 
 **Doing it — Graphics Cards and the GPU in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Graphics Cards and the GPU in practice.
+
+[Picture 45199 — graphics cards and the GPU in practice]
 
 ## Say it to your companion
 

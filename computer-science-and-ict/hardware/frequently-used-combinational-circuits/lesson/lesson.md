@@ -10,11 +10,15 @@ An **encoder** turns **one active input line** (of 2ⁿ) into its **n-bit binary
 
 In your mind's eye: encoders and decoders — translators between codes.
 
+[Picture 45192 — encoders and decoders — translators between codes]
+
 ## Sub lesson 2 — Multiplexers, demultiplexers and comparators — routers and judges
 
 A **multiplexer (MUX)** chooses **one of several inputs** to send to its single output — a selector switch for signals, steered by control bits; a **demultiplexer** routes one input to **one of several outputs**. A **comparator** judges two binary numbers and reports **greater, equal or less** in three outputs. Route, choose, judge: with gates, adders and these, the combinational toolkit is the whole of the machine's **present-tense** electronics — everything memoryless the CPU does is built from them.
 
 In your mind's eye: multiplexers, demultiplexers and comparators — routers and judges.
+
+[Picture 45193 — multiplexers, demultiplexers and comparators]
 
 ## Say it to your companion
 

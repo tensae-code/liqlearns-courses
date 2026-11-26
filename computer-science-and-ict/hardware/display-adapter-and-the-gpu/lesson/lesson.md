@@ -10,11 +10,15 @@ The **display adapter** (graphics card) is the part that **produces the image th
 
 In your mind's eye: what the display adapter does.
 
+[Picture 45186 — what the display adapter does]
+
 ## Sub lesson 2 — The GPU — a processor for pictures
 
 The adapter's engine is the **GPU (graphics processing unit)** — a processor specialised for picture work. Where the main CPU handles tasks one deep chain at a time, picture work is thousands of small, similar calculations at once — the colour of every dot on the screen — and the GPU is built to do **many of them in parallel**. The adapter carries its **own memory** for the images it is building. Laos names the GPU inside the hardware year because choosing a machine for drawing, video or games is choosing this part: for picture work, the GPU, not the CPU, is the limit.
 
 In your mind's eye: the GPU — a processor for pictures.
+
+[Picture 45187 — the GPU — a processor for pictures]
 
 ## Say it to your companion
 

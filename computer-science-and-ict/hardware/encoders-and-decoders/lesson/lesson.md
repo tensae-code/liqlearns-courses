@@ -14,6 +14,8 @@ Now look at how it is built, because it is only OR gates wearing a plan. Call th
 
 In your mind's eye: the decimal-to-BCD encoder as a box with ten numbered input lines entering and four outputs leaving, one output opened up to show its OR gate fed by lines 8 and 9.
 
+[Picture 45188 — the decimal-to-BCD encoder]
+
 One honest limitation of the simple encoder: it assumes **only one input is active at a time**. Press two keys together and the outputs OR themselves into a code that matches neither key. Real keypads add priority logic for that case; the book's simple encoder teaches the core idea first.
 
 ## Sub lesson 2 — Decoders — a code in, one line out
@@ -23,6 +25,8 @@ A **decoder** runs the conversation backwards: a binary code goes in, and exactl
 The book's example is the **2-to-4 decoder**. Inputs A and B; outputs numbered 0, 1, 2, 3. Input code 00 activates output 0 and no other; 01 activates output 1; 10 output 2; 11 output 3. Inside, it is AND gates and inverters: each output is one AND gate watching for exactly one pattern — output 2 watches for A = 1, B = 0, so its gate receives A and B̄; output 0 watches Ā · B̄; and so on. Each output is a single row of the truth table, made physical.
 
 In your mind's eye: the 2-to-4 decoder as a box with two inputs and four outputs, output 2 lit for the input 10, and its AND gate shown fed by A and by B through an inverter.
+
+[Picture 45189 — the 2-to-4 decoder]
 
 Why the world wants decoders: wherever a binary number must **choose one thing**. A memory chip holds thousands of stored rows; the address is a binary number, and a decoder inside turns it into 'this row, and only this row'. A multiplexed display lights one digit at a time under a decoder's choosing. And the famous partnership: a decoder whose outputs drive a **seven-segment display** turns a BCD code into the lit segments of a visible digit — decoding carried all the way back to something human eyes read.
 

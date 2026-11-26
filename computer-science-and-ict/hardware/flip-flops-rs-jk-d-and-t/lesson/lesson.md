@@ -12,6 +12,8 @@ The simplest member of the family is the **RS flip-flop**, named for its two inp
 
 In your mind's eye: two NAND gates cross-coupled in a loop, outputs labelled Q and Q̄, with the four input cases listed beside it and the forbidden case crossed out.
 
+[Picture 45190 — the RS flip-flop — two gates in a loop]
+
 One timing note the book is careful about: this plain RS flip-flop reacts the moment its inputs change. Real systems march in step, so most flip-flops add a **clock** — an input that says 'now' — and only change state when the clock ticks. The next part's family members are usually met in their clocked forms.
 
 ## Sub lesson 2 — JK, D and T flip-flops
@@ -23,6 +25,8 @@ The **JK flip-flop** keeps two inputs — J does set's job, K does reset's — a
 The **D flip-flop** is the simplest to use and the one real machines are full of. It has a single data input, **D**, and a clock. On each clock tick, Q simply *copies* D: Q next = D now. Between ticks it holds. One D flip-flop is one stored bit that can be written on command — line up eight of them and you have a byte of memory being written in one tick. When the registers lesson arrives, a register will turn out to be just a row of D flip-flops sharing one clock.
 
 In your mind's eye: the three flip-flops as boxes. JK with inputs J and K, D with its single input D, T with its single input T, each with a clock arrow entering from below and Q and Q̄ leaving on the right.
+
+[Picture 45191 — the JK, D and T flip-flops]
 
 The **T flip-flop** also has one input, **T**. While T = 0 it holds its state; while T = 1 it toggles on every clock tick — 0, 1, 0, 1 — so its output changes at half the clock's rate: a frequency halved, a count of two. T is really a JK with J and K joined into one input, and a chain of toggling flip-flops is a counter, as the counters lesson will build.
 
