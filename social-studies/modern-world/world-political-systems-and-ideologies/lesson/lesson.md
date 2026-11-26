@@ -10,11 +10,15 @@ Power, authority and legitimacy defined and sorted — monarchs, feudal units an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39434 — power sorted]
+
 ## Sub lesson 2 — Ideology and hegemony
 
 Doctrine against domination — political and epistemological ideologies sorted, and hegemony named as one group's authority over a society or one nation's over others, and how it works on the less powerful
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39433 — the long shadow]
 
 ## Say it to your companion
 

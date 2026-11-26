@@ -10,6 +10,8 @@ in the USA, Britain, New Zealand and Australia married women rarely worked for m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39447 — women fill the jobs]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unit 2 introduction, social change characteristic 1 — in the USA, Britain, New Zealand and Australia married women rarely worked for money until the Second World War emptied men's jobs; women fill them, refuse to hand them all back, and by the 1980s are training as accountants, doctors, engineers, lawyers, mechanics, police and pilots. Then let your companion ask you one hard question about it — answer from the lesson.

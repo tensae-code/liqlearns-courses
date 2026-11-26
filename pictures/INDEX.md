@@ -10132,3 +10132,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45556 | pictures/45556.webp | a drawn sentence in a frame — The cat sleeps in the sun — marked capital to full stop, above a blue paragraph block of three text lines | ICT — Word Processing — Text as Characters, Words, Sentences and Paragraphs |
 | 45557 | pictures/45557.webp | a drawn Word window with the Design tab lit yellow and three theme cards under Themes — Office in navy gold teal, Warm in red orange pink, Garden in greens and blue | ICT — Word Processing — The Design Tab — Themes and Document Formatting |
 | 45558 | pictures/45558.webp | two drawn report pages — a plain grey one, an arrow, and the same page dressed by a theme: navy banner, gold title and teal text lines | ICT — Word Processing — The Design Tab — Themes and Document Formatting |
+| 39426 | pictures/39426.webp | Anti-war marchers with a PEACE banner and a singer before the Pentagon, Washington 1969 | Social Studies — Modern World — World Support For Vietnams Resistance |
+| 39427 | pictures/39427.webp | Two panels: the socialist camp's banners, and US base stars above a fenced backyard | Social Studies — Modern World — World Socialist System And US Hegemony 1945 1991 |
+| 39428 | pictures/39428.webp | Three panels: strikers, a rising crowd, and anti-colonial fighters before a fort | Social Studies — Modern World — World Revolutionary Movement 1918 1939 |
+| 39429 | pictures/39429.webp | Five banner-carriers linked by arrows under the years 1918–1939 | Social Studies — Modern World — World Revolutionary Movement 1918 1939 |
+| 39430 | pictures/39430.webp | A teacher points to a board with a church, mosque and temple, the great faiths and the great isms | Social Studies — Modern World — World Religions And How They Spread |
+| 39431 | pictures/39431.webp | Three panels: a Buddhist pagoda and wheel, a church, and a mosque | Social Studies — Modern World — World Religions And How They Spread |
+| 39432 | pictures/39432.webp | Three panels: a smoking factory, a growing crowd, and a cracked shield | Social Studies — Modern World — World problems today — environment, population, terrorism |
+| 39433 | pictures/39433.webp | One great banner casts a long shadow over three small figures; a pupil reads beside them | Social Studies — Modern World — World political systems and ideologies |
+| 39434 | pictures/39434.webp | A crown, a feudal fort and a ballot box under the scales of legitimacy | Social Studies — Modern World — World political systems and ideologies |
+| 39435 | pictures/39435.webp | Picasso's dove with an olive sprig flies over the Stockholm Appeal's signature scroll | Social Studies — Modern World — World Peace Movement In The Cold War |
+| 39436 | pictures/39436.webp | A tower, a castle and a cathedral shelter under one protective roof, Paris 1972 | Social Studies — Modern World — World Heritage Convention And Europe |
+| 39437 | pictures/39437.webp | Four panels: COMECON's banner, the G20 table, the World Bank, and an OPEC derrick and barrel | Social Studies — Modern World — World economic organisations — COMECON, the G20, the World Bank and OPEC |
+| 39438 | pictures/39438.webp | Three pupils at a table with culture cards — a sun, a song, a church — and a panel asking about our own culture | Social Studies — Modern World — World Culture In The Newest Period |
+| 39439 | pictures/39439.webp | A singer on a stage sends notes and broadcast waves to a listening crowd | Social Studies — Modern World — World Culture In The Newest Period |
+| 39440 | pictures/39440.webp | A globe webbed with lines joining finance, farms, trade and factories nodes | Social Studies — Modern World — World After The Cold War Toward Multipolarity |
+| 39441 | pictures/39441.webp | One superpower's banner with an arrow to four rising poles: Europe, Japan, China and others | Social Studies — Modern World — World After The Cold War Toward Multipolarity |
+| 39442 | pictures/39442.webp | Marx and Engels beside the great Manifesto book of 1848 | Social Studies — Modern World — Workers Movement And The Birth Of Marxism |
+| 39443 | pictures/39443.webp | Striking workers with a red banner outside the factory; a thinker holds his book | Social Studies — Modern World — Workers Movement And The Birth Of Marxism |
+| 39444 | pictures/39444.webp | The factory owner with his money bag; workers and their small huts across the way | Social Studies — Modern World — Workers' living and working conditions in the industrial age |
+| 39445 | pictures/39445.webp | Three panels: a carved woodcut block, a copper plate with a burin, and a lithography stone with its print | Social Studies — Modern World — Woodcut Engraving And Lithography |
+| 39446 | pictures/39446.webp | Olympe de Gouges holds her 1791 Declaration; an arrow leads to a voter and the ballot box | Social Studies — Modern World — Women's rights — from Olympe de Gouges to Bolivia |
+| 39447 | pictures/39447.webp | A riveter at an aircraft wing, a doctor with her case, and a pilot | Social Studies — Modern World — Women, work and the Second World War |
+| 39448 | pictures/39448.webp | A woman speaks with raised arm between rows of men and women under the question: May women vote? | Social Studies — Modern World — Women win the vote |
+| 39449 | pictures/39449.webp | Transito Amaguana in the fields beside her bilingual school and its children | Social Studies — Modern World — Women through history |

@@ -10,11 +10,15 @@ one superpower remains, but Europe, Japan, China and others pull the world towar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39441 — many poles grow]
+
 ## Sub lesson 2 — Multipolarity and economic globalisation
 
 after 1991 many centres grow at once while globalisation binds production, trade and finance into one web — with backlashes
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39440 — many centres, one web]
 
 ## Say it to your companion
 

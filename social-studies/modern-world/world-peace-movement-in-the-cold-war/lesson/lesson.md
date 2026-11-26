@@ -10,6 +10,8 @@ a painted dove and half a billion signatures become the other superpower of the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39435 — the dove and the Appeal]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chuyên đề 2.IV.1 The people's peace movement in the Cold War: the World Peace Congress at Paris on 26-4-1949 elects the World Peace Council under Joliot-Curie and takes Picasso's dove as its symbol; the Stockholm Appeal against atomic weapons gathers hundreds of millions of signatures — a painted dove and half a billion signatures become the other superpower of the Cold War. Then let your companion ask you one hard question about it — answer from the lesson.

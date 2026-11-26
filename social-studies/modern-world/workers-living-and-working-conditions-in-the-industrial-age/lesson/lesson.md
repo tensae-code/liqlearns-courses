@@ -10,6 +10,8 @@ Factory owners grow rich while workers live and labour in misery; the inequality
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39444 — rich and miserable]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Workers' living and working conditions — factory owners grow rich while workers live and labour in misery; the inequality breeds new ways of thinking and acting. Then let your companion ask you one hard question about it — answer from the lesson.

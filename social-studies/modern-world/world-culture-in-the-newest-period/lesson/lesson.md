@@ -10,11 +10,15 @@ culture stops being the property of an educated few and becomes mass culture —
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39439 — mass culture]
+
 ## Sub lesson 2 — Programme Theme 6: World culture in the newest period
 
 pupils compare cultures across periods and judge their own culture's prospects inside world culture
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39438 — comparing cultures]
 
 ## Say it to your companion
 

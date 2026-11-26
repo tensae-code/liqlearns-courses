@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: strikes, risings and a
 strikes, risings and anti-colonial revolts roll across the world between the wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39429 — the revolt rolls on]
 ## Sub lesson 2 — Part I, Lesson 4: 1918–1939 — The world revolutionary movement
 
 strikes, risings and anti-colonial revolts between the wars
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39428 — strikes, risings, revolts]
 
 ## Say it to your companion
 

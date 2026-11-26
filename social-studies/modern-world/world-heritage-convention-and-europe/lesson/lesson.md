@@ -10,6 +10,8 @@ Paris 1972 creates the World Heritage List; Amsterdam, Granada, Krakow, Malta an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39436 — the heritage list]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2.4 (second part): From the World Heritage Convention to European law — Paris 1972 creates the World Heritage List; Amsterdam, Granada, Krakow, Malta and Maastricht build Europe's own heritage law up to 1998. Then let your companion ask you one hard question about it — answer from the lesson.

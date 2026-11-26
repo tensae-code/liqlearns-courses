@@ -10,6 +10,8 @@ the class debates whether women may vote and hold office (Verkefnablað 30: Eiga
 
 In your mind's eye: a period debate, women and men arguing whether women may vote. Say what question is being debated.
 
+[Picture 39448 — the debate]
+
 ## Sub lesson 2 — Argued in period voices
 
 pupils argue the question in period voices — as it was argued at the time (Verkefnablað 30 — role-play)

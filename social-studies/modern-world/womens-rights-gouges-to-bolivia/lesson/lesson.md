@@ -10,6 +10,8 @@ From the Declaration of the Rights of Woman and the Female Citizen against patri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39446 — from declaration to ballot]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Las mujeres en la historia — From the Declaration of the Rights of Woman and the Female Citizen against patriarchal colonialism, through important women in politics, education, literature and economics, to women's participation in Bolivian democracy. Then let your companion ask you one hard question about it — answer from the lesson.

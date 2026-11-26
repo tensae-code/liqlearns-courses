@@ -10,11 +10,15 @@ factory workers organise and strike for their rights, and Marx and Engels give t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39443 — workers organise]
+
 ## Sub lesson 2 — Marxism is born and spreads
 
 Marx and Engels publish the Communist Manifesto in 1848, the First International and the Paris Commune carry the workers' cause forward
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39442 — the Manifesto]
 
 ## Say it to your companion
 

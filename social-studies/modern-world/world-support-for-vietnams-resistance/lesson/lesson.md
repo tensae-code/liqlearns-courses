@@ -10,6 +10,8 @@ the enemy's own children march against the war, and a Beatle's song becomes the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39426 — the march on Washington]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chuyên đề 2.IV.1 The world stands with Vietnam: from autumn 1965 America's own anti-war movement grows — Norman Morrison burns himself before the Pentagon on 2-11-1965, up to 16 of 27 million draft-age youths refuse, John Lennon sings Give Peace a Chance to 500,000 in Washington in 1969, and over 30 international conferences back the resistance — the enemy's own children march against the war, and a Beatle's song becomes the resistance's second anthem. Then let your companion ask you one hard question about it — answer from the lesson.

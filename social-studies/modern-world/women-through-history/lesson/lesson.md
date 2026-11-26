@@ -16,6 +16,8 @@ Born to huasipungo labourers in Pesillo, humiliated out of school as an Indigeno
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 39449 — Transito Amaguana]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Evolución femenina a través de las eras — women of Greece and Rome, Indigenous Ecuadorian leaders Dolores Cacuango and Tránsito Amaguaña, and Rigoberta Menchú fight across eras for education, land and equality; Tránsito Amaguaña — born to huasipungo labourers in Pesillo, humiliated out of school as an Indigenous child, Tránsito Amaguaña rebels, founds Ecuador's first Indigenous organisations and bilingual schools with Dolores Cacuango, and fights for agrarian reform and communal lands into old age. Then let your companion ask you one hard question about it — answer from the lesson.
