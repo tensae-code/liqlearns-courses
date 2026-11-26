@@ -14,6 +14,8 @@ An algorithm must be **clear**: no step may be a guess. 'Add some water' is not 
 
 In your mind's eye: a recipe card with three clear numbered steps beside the finished dish.
 
+[Picture 46683 — a recipe card with three clear numbered steps beside the finished dish]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: An algorithm is a clear plan: a set of steps in order that tells exactly what to do to finish a task — so clear that anyone following it gets the same result. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

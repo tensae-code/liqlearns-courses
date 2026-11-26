@@ -10,11 +10,15 @@ An ordinary program's algorithm settles its problem completely: sort this, total
 
 In your mind's eye: aI algorithms — procedures for problems without fixed rules.
 
+[Picture 46674 — aI algorithms — procedures for problems without fixed rules]
+
 ## Sub lesson 2 — Families the pupil meets — search, prediction, learning
 
 Three families carry the lesson. **Search** algorithms find a path or a best move by trying possibilities in an order — the game's next step, the route through a maze. **Prediction** algorithms apply a fitted pattern to new data — this pupil, on this evidence, is heading for that grade; the course's own Grade 9 prediction lesson uses exactly one. **Learning** algorithms adjust their own pattern from results, improving as examples accumulate — the family the machine-learning lessons open up. Naming the family matters because each fails differently: search explodes when possibilities multiply, prediction inherits its data's blind spots, and learning is only as honest as the results it is fed.
 
 In your mind's eye: families the pupil meets — search, prediction, learning.
+
+[Picture 46675 — families the pupil meets — search, prediction, learning]
 
 ## Say it to your companion
 

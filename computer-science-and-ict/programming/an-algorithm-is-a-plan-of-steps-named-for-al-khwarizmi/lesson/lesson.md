@@ -10,11 +10,15 @@ In **Extracting coal from the mine** the book defines it plainly: the **algorith
 
 In your mind's eye: the plan gets its name — extracting coal.
 
+[Picture 46684 — the plan gets its name — extracting coal]
+
 ## Sub lesson 2 — Writing the algorithm in words — crossing the lava
 
 In **Crossing the molten lava** the pupil writes the **algorithm in words beside each block**, so plan and program can be checked against each other line by line. Two rules hold the lesson together: **order matters** — steps out of order fail — and the best algorithm reaches the goal in the **fewest steps**.
 
 In your mind's eye: writing the algorithm in words — crossing the lava.
+
+[Picture 46685 — writing the algorithm in words — crossing the lava]
 
 ## Say it to your companion
 

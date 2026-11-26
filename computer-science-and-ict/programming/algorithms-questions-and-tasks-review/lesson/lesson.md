@@ -16,6 +16,8 @@ This is the **review lesson** for the Algorithm unit — the book's own 'questio
 
 In your mind's eye: a review board with a numbered sequence, a ticked plan, three statement cards marked true false and uncertain, and a map with two routes.
 
+[Picture 46678 — a review board with a numbered sequence, a ticked plan, three statement cards marked true false and uncertain, and a map with two routes]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: This review checks the whole Algorithm unit: sequences, what an algorithm is, executing one, true, false and uncertain statements, and the shortest path. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

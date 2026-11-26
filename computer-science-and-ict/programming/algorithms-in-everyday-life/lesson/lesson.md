@@ -10,11 +10,15 @@ An **algorithm** is a clear, ordered set of steps that finishes a task. A **reci
 
 In your mind's eye: everyday steps — where algorithms already live.
 
+[Picture 46676 — everyday steps — where algorithms already live]
+
 ## Sub lesson 2 — Writing an everyday algorithm well — clear, ordered, finished
 
 An everyday algorithm is good when another person can follow it **without asking questions**: each step is one clear action, the steps are in working order, and the algorithm **ends** — it does not loop forever (stir the tea, taste, add sugar, taste… needs a stopping rule). Testing an everyday algorithm means following it literally, exactly as written, and fixing the step where the literal follower gets stuck.
 
 In your mind's eye: writing an everyday algorithm well — clear, ordered, finished.
+
+[Picture 46677 — writing an everyday algorithm well — clear, ordered, finished]
 
 ## Say it to your companion
 

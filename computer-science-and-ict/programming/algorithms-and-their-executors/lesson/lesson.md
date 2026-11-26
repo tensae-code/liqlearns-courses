@@ -10,11 +10,15 @@ An **executor** is the one who **carries out an algorithm's instructions**: a pe
 
 In your mind's eye: the executor — who carries the algorithm out.
 
+[Picture 46672 — the executor — who carries the algorithm out]
+
 ## Sub lesson 2 — Manual and program control — two ways to command
 
 An executor can be commanded two ways. Under **manual control**, a human gives each command one by one, watching each result — slow, flexible, and consuming the human the whole time. Under **program control**, the whole sequence is written in advance as an **algorithm (a program)**, and the executor runs it alone: fast, exact, and tireless, but only as right as the written sequence. Programming exists because program control frees the human from the commanding — at the price of having to think of everything beforehand.
 
 In your mind's eye: manual and program control — two ways to command.
+
+[Picture 46673 — manual and program control — two ways to command]
 
 ## Say it to your companion
 

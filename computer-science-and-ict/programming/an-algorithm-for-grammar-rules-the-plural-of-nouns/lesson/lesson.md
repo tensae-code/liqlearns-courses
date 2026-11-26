@@ -10,11 +10,15 @@ The inquiry asks for the plural **by algorithm**: start with the general rule (a
 
 In your mind's eye: rules with exceptions — the algorithmist's daily bread.
 
+[Picture 46681 — rules with exceptions — the algorithmist's daily bread]
+
 ## Sub lesson 2 — Building the logigramme of a rule
 
 The inquiry builds the rule's synthesis tool — the **logigramme**: start with the word, test its ending diamond by diamond, exit with the plural. Building it forces completeness: every ending the class can find must have a path, and every exception its own labelled branch — a flowchart with a hole in it fails exactly the word that falls through. Grammar, drawn this way, stops being taste and becomes engineering: testable, completable, improvable.
 
 In your mind's eye: building the logigramme of a rule.
+
+[Picture 46682 — building the logigramme of a rule]
 
 ## Say it to your companion
 

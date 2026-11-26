@@ -10,11 +10,15 @@ An **analytic solution** derives the model's answer **exactly, by mathematics**:
 
 In your mind's eye: the analytic solution — exact, when it exists.
 
+[Picture 46688 — the analytic solution — exact, when it exists]
+
 ## Sub lesson 2 — The simulation solution — the model enacted
 
 A **simulation solution** makes the computer **play the model**: start from the data, advance step by step by the model's rules — day by day of an epidemic, car by car through a junction — and read the answer from the play. It answers where formulas cannot, at the price of being **one run's story**: change the starting values slightly and the story may change; randomness in the model means runs must be **repeated and averaged**. The chapter's judgement: analytic where a formula lives; simulation where behaviour must be watched — and each road checks the other where both exist.
 
 In your mind's eye: the simulation solution — the model enacted.
+
+[Picture 46689 — the simulation solution — the model enacted]
 
 ## Say it to your companion
 

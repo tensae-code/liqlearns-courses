@@ -10,11 +10,15 @@ Performance is measured against the **input size** — how much data the algorit
 
 In your mind's eye: input size and run time.
 
+[Picture 46670 — input size and run time]
+
 ## Sub lesson 2 — The worst case — judging by the hardest honest input
 
 The chapter's discipline: judge an algorithm by its **worst case** — the allowed input that makes it work hardest — because a promise that holds in the worst case holds always, while an average brag can hide a disaster (searching for the name that stands last, sorting the list that arrives in reverse). Worst case, input size and run time together give the exam's performance judgement: *for n values, in the worst case, the work grows like this* — a sentence that can be written before any machine is switched on.
 
 In your mind's eye: the worst case — judging by the hardest honest input.
+
+[Picture 46671 — the worst case — judging by the hardest honest input]
 
 ## Say it to your companion
 

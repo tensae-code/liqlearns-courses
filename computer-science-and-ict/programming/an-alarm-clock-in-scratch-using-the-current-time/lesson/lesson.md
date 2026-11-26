@@ -10,11 +10,15 @@ The alarm clock reads the **current-time sensing blocks — year, month, date, d
 
 In your mind's eye: the alarm — set, stop, snooze.
 
+[Picture 46679 — the alarm — set, stop, snooze]
+
 ## Sub lesson 2 — The wall clock — hands pointed by formula
 
 The wall clock keeps the computer’s time in analogue: **three hand sprites drawn as lines with their centre at one end**, each **pointed by a formula — seconds × 6 degrees, minutes × 6, hours × 30 + minutes × 0.5**. The project adds an **alarm at set times such as prayer times, and a date display**.
 
 In your mind's eye: the wall clock — hands pointed by formula.
+
+[Picture 46680 — the wall clock — hands pointed by formula]
 
 ## Say it to your companion
 
