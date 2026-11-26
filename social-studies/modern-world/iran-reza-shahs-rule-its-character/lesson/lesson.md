@@ -10,11 +10,15 @@ railways, an army, unveiled women and crushed tribes — forced modernisation fr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63791 — dictatorship dressed as progress]
+
 ## Sub lesson 2 — Iran in the period of Reza Shah's rule
 
 the Humanities telling weighs the same reign — state-building and modernisation against dictatorship and foreign dependence (Iran in the period of Reza Shah's rule)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63792 — weighing the same reign]
 
 ## Say it to your companion
 

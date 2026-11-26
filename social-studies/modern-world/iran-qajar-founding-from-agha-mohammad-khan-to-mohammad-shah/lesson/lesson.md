@@ -10,11 +10,15 @@ Agha Mohammad Khan reunites a broken Iran by the sword and founds the Qajar dyna
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63787 — reunited by the sword]
+
 ## Sub lesson 2 — Politics and government in the Qajar era (to the end of Naser al-Din Shah's reign)
 
 the Qajar state is anatomised — court, ministers and foreign legations — across its first century of rule (Politics and government in the Qajar era (to the end of Naser al-Din Shah's reign))
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63788 — the qajar state anatomised]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ flag, anthem and the year's sacred days — Nowruz, revolution and defence anniv
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63783 — flag anthem sacred days]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Our national symbols; Important days — flag, anthem and the year's sacred days — Nowruz, revolution and defence anniversaries — bind the child to the national story. Then let your companion ask you one hard question about it — answer from the lesson.

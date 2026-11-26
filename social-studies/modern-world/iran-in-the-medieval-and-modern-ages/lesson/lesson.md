@@ -9,16 +9,22 @@ Before you read on, hold this lesson's one thing in mind: much of Iran's history
 much of Iran's history is shared with Afghanistan's, the same kings and dynasties ruling both, until modern Iran draws Europe's attention
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63780 — two countries shared kings]
 ## Sub lesson 2 — Lesson 22: Iran in the Middle Ages
 
 medieval Iran is surveyed as the western neighbour's own story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63781 — medieval iran surveyed]
 ## Sub lesson 3 — Lesson 23: Iran in the modern ages
 
 modern Iran draws Europe's attention and answers it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63782 — europes attention irans answer]
 
 ## Say it to your companion
 

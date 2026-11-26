@@ -10,6 +10,8 @@ Iran declares neutrality and is occupied anyway — Russian, British and Ottoman
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63779 — neutral and occupied anyway]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The First World War and Iran — Iran declares neutrality and is occupied anyway — Russian, British and Ottoman armies fight across a country that famine then devastates. Then let your companion ask you one hard question about it — answer from the lesson.

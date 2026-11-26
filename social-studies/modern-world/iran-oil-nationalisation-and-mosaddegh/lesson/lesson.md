@@ -10,11 +10,15 @@ Iran votes to take its own oil back from the British company; Mosaddegh becomes 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63784 — taking its own oil back]
+
 ## Sub lesson 2 — The movement to nationalise Iran's oil industry
 
 the Humanities version deepens the same story — nationalisation as law, movement and international crisis ending in coup (The movement to nationalise Iran's oil industry)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63785 — law movement crisis coup]
 
 ## Say it to your companion
 

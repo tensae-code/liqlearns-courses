@@ -10,6 +10,8 @@ two and a half millennia are compressed into a bridge chapter so the Qajar story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63776 — 2500 years in outline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: A review of Iran's background and history from the beginning to the Qajar era (for study) — two and a half millennia are compressed into a bridge chapter so the Qajar story can begin — the student arrives at 1796 carrying the whole past in outline. Then let your companion ask you one hard question about it — answer from the lesson.
