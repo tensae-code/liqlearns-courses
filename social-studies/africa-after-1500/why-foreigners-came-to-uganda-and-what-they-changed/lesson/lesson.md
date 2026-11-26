@@ -10,11 +10,15 @@ Pupils weigh the foreigners' positive and negative contributions themselves — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39365 — two panels — a hoe and farm rows, a drained lump and a divided pair]
+
 ## Sub lesson 2 — Positive and negative contributions of explorers, missionaries and colonialists
 
 The foreigners' ledger is balanced at home — new products and schools against over-exploited minerals and diseases like smallpox — and the elders are the witnesses
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39366 — home scales with labelled pans, an elder below]
 
 ## Say it to your companion
 

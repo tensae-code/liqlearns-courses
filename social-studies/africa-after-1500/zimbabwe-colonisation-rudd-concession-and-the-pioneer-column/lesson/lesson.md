@@ -10,6 +10,8 @@ Lobengula signs friendship with Moffat in 1888 — then is misled into the Rudd 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39372 — two panels — a crowned king with a RUDD paper, three marching soldiers and a flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: how colonisation was done — concession and column. Then let your companion ask you one hard question about it — answer from the lesson.

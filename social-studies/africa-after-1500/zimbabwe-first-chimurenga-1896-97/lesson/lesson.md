@@ -10,6 +10,8 @@ The grievances pile up: land and cattle taken, labour forced, taxes imposed — 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39374 — grievance icons, two figures joining hands, a company flag]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: the first chimurenga/umvukela, 1896–97. Then let your companion ask you one hard question about it — answer from the lesson.

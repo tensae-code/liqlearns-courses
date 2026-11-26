@@ -18,6 +18,8 @@ Organisation became politics. In 1948 the Northern Rhodesia African Congress was
 
 In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
+[Picture 39371 — two panels — a delegation before a great house, burning pass papers]
+
 The final push came from UNIP. Its Cha Cha Cha campaign of 1961 turned protest into a nationwide campaign of defiance. Faced with a country that would no longer be governed on the old terms, the colonial government conceded. In 1964 Northern Rhodesia won independence — and became Zambia.
 
 ## Say it to your companion

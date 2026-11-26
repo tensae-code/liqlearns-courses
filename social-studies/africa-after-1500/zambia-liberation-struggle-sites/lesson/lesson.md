@@ -18,6 +18,8 @@ In the townships, the struggle's places were ordinary houses, remembered now by 
 
 In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
+[Picture 39368 — three ordinary houses with name and number labels]
+
 Two further places carry the memory in public. The Freedom Statue stands as the struggle's memorial — its chained figure belongs to the next lesson's freedom fighters. And Isa ya Mwaamba at Choma is named among the key places of the liberation struggle. Together, rock, tree, houses, statue and shrine form what the module calls the places key in the liberation struggle: a map of freedom a learner can walk.
 
 ## Say it to your companion

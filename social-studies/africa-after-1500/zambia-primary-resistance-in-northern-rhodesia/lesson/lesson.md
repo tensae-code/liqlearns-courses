@@ -18,6 +18,8 @@ Some refusals were armed. In 1897 the Ngoni under Mpezeni I resisted with arms. 
 
 In your mind's eye: the Zambian places and people named in this lesson, as the book tells it. Name one person or place and say what happened there.
 
+[Picture 39370 — two panels — crowned Mpezeni with warriors, Kazembe by a river band]
+
 And what they defended was wider than land alone, though land was at the heart of it. They defended the authority of their chiefs against a power that wanted to rule over them. They defended chitemene, their own way of farming the land. And they defended independent churches — worship led by their own people, free of the mission and the administration.
 
 The armed stands were defeated. But the module's point is that the refusal itself survived defeat — the memory of saying no became the ground the later, organised resistance grew from.

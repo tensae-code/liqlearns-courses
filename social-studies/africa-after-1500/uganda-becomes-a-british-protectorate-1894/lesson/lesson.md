@@ -10,6 +10,8 @@ Portal goes home, recommends the protectorate and dies of typhoid at 36; on 18 J
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39356 — a proclamation panel, a government house with a flag, a governor]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Uganda under British Colonial Rule — Portal goes home, recommends the protectorate and dies of typhoid at 36; on 18 June 1894 Uganda is declared a British Protectorate, and governors from Jackson of the First World War to Crawford of the first general elections administer it. Then let your companion ask you one hard question about it — answer from the lesson.

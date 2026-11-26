@@ -10,11 +10,15 @@ LEGCO is formed in 1921 under Governor Coryndon at European businessmen's prompt
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39357 — three ascending steps — LEGCO, parties, SELF-RULE — and a flag]
+
 ## Sub lesson 2 — Formation of the Legislative Council
 
 LEGCO is formed, the first Africans join it in 1945, and the council becomes a school of the independence struggle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39358 — four figures behind a long council table, a 1945 panel]
 
 ## Sub lesson 3 — Groups and individuals that led the struggle for national independence
 
@@ -22,17 +26,23 @@ Four names carry the struggle — Ignatius Kangave Musaazi, Benedicto Kiwanuka, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39359 — four portrait panels with names]
+
 ## Sub lesson 4 — Uganda's administrators and LEGCO
 
 The Namirembe Agreement is signed for Buganda by Michael Kintu; Governor Crawford organises Uganda's first general elections and completes the parliament building
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39360 — a ballot box, a parliament building, a Namirembe panel]
+
 ## Sub lesson 5 — Uganda's road and Ignatius Musaazi
 
 Uganda wins independence by peaceful struggle where Kenya fought; Musaazi founds the African Farmers' Union in 1947 and the Uganda National Congress, the first national party, in March 1952
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39361 — two farmers with hoes, a Congress banner, Musaazi, a road]
 
 ## Say it to your companion
 

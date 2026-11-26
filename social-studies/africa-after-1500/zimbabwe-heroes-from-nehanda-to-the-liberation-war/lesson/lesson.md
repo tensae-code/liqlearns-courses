@@ -10,11 +10,15 @@ Heroes shrink from the national acre to the district — the brave people of the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39375 — three portrait panels with names, a small child below]
+
 ## Sub lesson 2 — Spirit mediums and heroes of the First Chimurenga (Grade 6)
 
 The war of 1896–97 is mobilised by the spirits. Mbuya Nehanda, Sekuru Kaguvi and Mukwati predict battles, protect fighters and urge the people on — and Nehanda and Kaguvi are executed for it. In Zimbabwe's telling, the mediums are not background to the war; they are among its leaders.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39376 — three named mediums with a fighter at each end]
 
 ## Say it to your companion
 

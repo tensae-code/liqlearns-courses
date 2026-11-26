@@ -18,11 +18,15 @@ The flag's red is brotherhood, the coat of arms — designed by Cecil Todd — j
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39354 — a shield with a drum, a crossed spear, coffee and cotton, a questioning child]
+
 ## Sub lesson 3 — Post-independence Uganda
 
 Muteesa II, Kabaka from 1939, dies in 1969; Amin expels the Asians in 1972 and rules by decree until exiles of the UNLF and Tanzania overthrow him in 1979; the leaders' list runs to Museveni, 1986 to date
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39355 — four framed leaders on a timeline, a small plane above]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ The Maasai and the Banyankole, weakened by disease, rinderpest and conflict, cho
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 39367 — a thin herd, a leaning herdsman, a chief shaking an officer's hand]
+
 ## Sub lesson 2 — Hoping for goods and protection
 
 Others hope for goods and protection. Working with the newcomers looks, from inside a hard moment, like a way to gain things and to be kept safe.

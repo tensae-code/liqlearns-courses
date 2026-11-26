@@ -10,6 +10,8 @@ A small child wants something from an elder. She learns to swap a blunt demand f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39373 — a small child, a speech panel, a tall seated elder]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: culture in relation to language. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Where people live is itself a history. Settlements grow — village to town to c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39377 — village huts, town houses, city towers along a road]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: development of settlements in zimbabwe. Then let your companion ask you one hard question about it — answer from the lesson.
