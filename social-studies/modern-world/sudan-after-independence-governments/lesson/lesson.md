@@ -10,6 +10,8 @@ thirty years, three republics, two revolutions and a merry-go-round of soldiers 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40434 — merrygoround]
+
 ## Sub lesson 2 — Features of Socio-Economic Development in Sudan
 
 dams, schemes and debts — development is the other plot of the independence story

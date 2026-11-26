@@ -10,6 +10,8 @@ The 1803 invasion starves in the hills, the interpreter John D'Oyly builds a web
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40452 — signedaway]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The invasions of Kandy and the 1815 cession — the 1803 invasion starves in the hills, the interpreter John D'Oyly builds a web of Kandyan contacts, and in 1815 the chiefs themselves depose Sri Vikrama Rajasinghe and sign the kingdom away. Then let your companion ask you one hard question about it — answer from the lesson.

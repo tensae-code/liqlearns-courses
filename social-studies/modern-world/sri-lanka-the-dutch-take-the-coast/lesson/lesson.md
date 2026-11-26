@@ -10,11 +10,15 @@ The VOC is founded in 1602, Spilbergen lands at Batticaloa, Sebald de Weert is k
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40454 — fortskept]
+
 ## Sub lesson 2 — Establishment of Dutch power and Kandyan relations (competency level 1.1, 10 periods)
 
 Teachers stage the story of a king who invites the Dutch in to expel one enemy and gains another, from the VOC's charter to the broken promise over the forts
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40453 — oneenemyout]
 
 ## Say it to your companion
 

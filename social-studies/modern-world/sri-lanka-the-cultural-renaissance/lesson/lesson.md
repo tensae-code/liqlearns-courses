@@ -10,6 +10,8 @@ M. C. Siddhi Lebbe (1832–1898) founds Muslim schools and journals, Sir Ponnamb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40455 — argueinprint]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The cultural renaissance under British rule — M. C. Siddhi Lebbe (1832–1898) founds Muslim schools and journals, Sir Ponnambalam Ramanathan champions Tamil and Hindu education, and a Sinhala press born in 1860 teaches a colonised people to argue in print. Then let your companion ask you one hard question about it — answer from the lesson.

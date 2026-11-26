@@ -10,6 +10,8 @@ collectivisation's dekulakisation deports the homeland's farmers, then the 1930s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40436 — farmersthenwriters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 43. Dekulakisation and 44. Repressions against the intelligentsia — collectivisation's dekulakisation deports the homeland's farmers, then the 1930s terror shoots its writers and statesmen — Fitrat and Qodiriy among them. Then let your companion ask you one hard question about it — answer from the lesson.

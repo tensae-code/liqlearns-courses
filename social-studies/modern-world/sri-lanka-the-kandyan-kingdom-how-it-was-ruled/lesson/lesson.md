@@ -10,11 +10,15 @@ The king consults his great council before deciding, the land is run in rata div
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40451 — councilring]
+
 ## Sub lesson 2 — The Kandyan kingdom 1789–1815
 
 After Rajadhi Rajasinghe dies in 1798 the young Sri Vikrama takes a throne ringed by mighty chiefs, the first Adigar Pilima Talauwa pulls the strings, and a kingdom run by hereditary officials waits for its crisis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40450 — adigarstrings]
 
 ## Say it to your companion
 

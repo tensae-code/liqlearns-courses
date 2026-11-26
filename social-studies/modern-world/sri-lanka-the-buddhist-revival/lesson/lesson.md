@@ -10,11 +10,15 @@ Buddhists, who had no press of their own, raise funds for one in 1862, and Miget
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40457 — panadura]
+
 ## Sub lesson 2 — Religious and cultural revival (competency level 3.1, 8 periods)
 
 Pupils draw lots bearing the names Olcott, Dharmapala, Sumangala, Gunananda, Navalar and Siddhi Lebbe and must speak for three minutes as that revival leader in a musical-hat game
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40456 — musicalhat]
 
 ## Say it to your companion
 

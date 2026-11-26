@@ -10,6 +10,8 @@ The 1970 coalition wins two-thirds and in 1972 Ceylon becomes the Republic of Sr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40448 — twoconstitutions]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The republic constitutions — the 1970 coalition wins two-thirds and in 1972 Ceylon becomes the Republic of Sri Lanka under President Gopallawa, then J. R. Jayewardene's 1978 constitution installs an executive presidency and proportional representation. Then let your companion ask you one hard question about it — answer from the lesson.

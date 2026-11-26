@@ -10,11 +10,15 @@ Lenin dies leaving a Testament that warns against Stalin; Stalin poses as Lenin'
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40446 — testamentignored]
+
 ## Sub lesson 2 — 3.2 The use of terror in the 1930s
 
 The NKVD works to arrest quotas, so people are seized for a scribble on Stalin's photograph or for nothing at all; purges, show trials and the gulag follow.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40445 — byquota]
 
 ## Sub lesson 3 — 3.3 Propaganda and censorship
 
@@ -22,11 +26,15 @@ Socialist realism conscripts art, novels and music — 'Woman, get on the locomo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40444 — engineersofsouls]
+
 ## Sub lesson 4 — 3.4 The cult of Stalin
 
 Posters, paintings, poems and songs rewrite the past itself, showing Stalin as Lenin's intimate friend and October's planner — roles that were not his.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40443 — pastpainted]
 
 ## Say it to your companion
 

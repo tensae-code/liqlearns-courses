@@ -10,6 +10,8 @@ Pupils mark the governor-generalships' abolition dates and shade the districts w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40435 — khutors]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Stolypin reforms in Belarus. Then let your companion ask you one hard question about it — answer from the lesson.

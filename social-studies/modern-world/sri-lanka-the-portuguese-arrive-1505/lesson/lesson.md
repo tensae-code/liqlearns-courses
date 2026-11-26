@@ -10,6 +10,8 @@ A storm blows Lourenço de Almeida into Galle in 1505, the strangers in strange 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40449 — longroad]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Sri Lanka and the West: the Portuguese come — a storm blows Lourenço de Almeida into Galle in 1505, the strangers in strange dress are led to Kotte by a road made long on purpose — "like going to the Portuguese fort" becomes a proverb. Then let your companion ask you one hard question about it — answer from the lesson.

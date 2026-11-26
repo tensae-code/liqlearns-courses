@@ -10,6 +10,8 @@ the personality cult (Benvenuti's Storiografia, the propaganda image study), the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40442 — rightsonpaper]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 11 §§5–6 The characters of Stalinism; Soviet foreign policy — the personality cult (Benvenuti's Storiografia, the propaganda image study), the Gulag system (Di Sante) and the 1936 Constitution (Document) that proclaims rights the terror denies; Trotsky's Document calls it the revolution betrayed, Pons traces the 1930s foreign-policy turn. Then let your companion ask you one hard question about it — answer from the lesson.

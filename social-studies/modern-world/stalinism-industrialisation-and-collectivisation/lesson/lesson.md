@@ -10,11 +10,15 @@ Stalin's five-year plans force factories up and peasants into collective farms a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40441 — farmsforced]
+
 ## Sub lesson 2 — §21 Stalin and totalitarianism in the USSR; industrialisation; collectivisation
 
 five-year plans and forced collectivisation at a terrible human cost
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40440 — planscost]
 
 ## Sub lesson 3 — §6.1 How did the Stalinist political regime change the country?
 
@@ -22,17 +26,23 @@ one party, one leader, terror as routine government
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40439 — oneleader]
+
 ## Sub lesson 4 — §6.2 How did the USSR's economy develop in the 1920s–30s?
 
 from NEP markets to command plans and collective farms
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40438 — marketstocommands]
+
 ## Sub lesson 5 — §6.3 "Engineers of human souls": how did art serve power?
 
 socialist realism conscripts writers and painters into the plan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40437 — artconscripted]
 
 ## Say it to your companion
 
