@@ -10,6 +10,8 @@ Guatemala's Grade 4 book frames the whole country as four peoples. The Maya are 
 
 In your mind's eye: four neighbours in one Guatemalan town — Maya, Garífuna, Xinka and Ladino families sharing a market and a classroom with word cards in many Mayan languages. Name the four peoples.
 
+[Picture 63545 — four peoples one country]
+
 ## Sub lesson 2 — Four ways of knowing — the peoples' learning (teacher guide — evidence)
 
 The second-cycle primary teacher guide gives each people its own way of learning and teaching. Xinka learning is centred on the Moon and community. Maya learning teaches gratitude and the value of work — mitijul — handed down from the first four couples. Garífuna learning flows from spirituality of sea and ancestors. Ladino identity, the guide says, is still being built. This part stands on teacher-guide evidence.

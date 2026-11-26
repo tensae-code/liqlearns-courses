@@ -10,6 +10,8 @@ The Grade 8 teacher guide teaches racism through one case. In 2002, Dr Irma Alic
 
 In your mind's eye: a Guatemala City restaurant door in 2002 turned against a Maya K'iche' scholar in traditional dress, and a classroom chart naming everyday racist phrases. Name Dr Velásquez Nimatuj and the case.
 
+[Picture 63543 — the restaurant door 2002]
+
 ## Sub lesson 2 — El racismo escolar — racism defined (teacher guide — evidence)
 
 The guide's content sheet 'El racismo escolar' defines its subject: racism is a relation of domination built on telling peoples apart to strip their goods, its prejudices formed across history. In Guatemala, it says, the Maya peoples meet it daily — in schools, hospitals, buses and government — in everyday phrases the guide lists and names as racist. Racism here is history still being lived. This part stands on teacher-guide evidence only.

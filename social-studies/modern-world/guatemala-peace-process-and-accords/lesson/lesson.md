@@ -10,6 +10,8 @@ The peace, in Guatemala's Grade 4 book, is built step by step. Cerezo opens the 
 
 In your mind's eye: the signing on 29 December 1996, pens over the Firm and Lasting Peace accord, with earlier accord covers — human rights, resettlement, indigenous rights — fanned beside it. Name the date and two accords.
 
+[Picture 63542 — closed by signatures]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Proceso de paz — from Esquipulas to 29 December 1996. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ Learners untangle stock, migration, internal and external migration, then trace 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63547 — the coast fills]
+
 ## Sub lesson 2 — Why tribes moved — the causes of internal migration
 
 Drought, thin rain, quarrels and hard trade push tribe after tribe toward arabia's east coast, where the moves knit into new political bodies.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63548 — pushed to the coast]
 
 ## Say it to your companion
 

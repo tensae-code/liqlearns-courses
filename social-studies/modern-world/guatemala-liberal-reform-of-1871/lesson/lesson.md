@@ -10,6 +10,8 @@ Guatemala's Grade 4 book tells the Liberal Reform as one man's remake. García G
 
 In your mind's eye: 1871 Guatemala changing — a railway and telegraph wires crossing coffee fields, a secular school opening, church lands being taken. Name Barrios and two changes he brought.
 
+[Picture 63540 — barrios remakes guatemala]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): 30 June 1871 — Barrios remakes Guatemala. Then let your companion ask you one hard question about it — answer from the lesson.

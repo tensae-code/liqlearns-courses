@@ -10,6 +10,8 @@ Guatemala's Grade 4 book pairs two long dictatorships. Manuel Estrada Cabrera (1
 
 In your mind's eye: two dictators' Guatemala side by side — Estrada Cabrera's school festivals under a volcano's ash, and Ubico's new palace built by forced labour gangs. Name both men and how each fell.
 
+[Picture 63536 — two dictators two falls]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Two dictators — Estrada Cabrera and Ubico. Then let your companion ask you one hard question about it — answer from the lesson.

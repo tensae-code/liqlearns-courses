@@ -10,6 +10,8 @@ Guatemala's Grade 4 book divides independence's causes in two. From outside: US 
 
 In your mind's eye: the signing on 15 September 1821, with newspapers of liberals and conservatives on the table and José Cecilio del Valle drafting the Act. Name the date and the drafter.
 
+[Picture 63538 — shaken outside rotted inside]
+
 ## Sub lesson 2 — 15 September 1821 — Central America declares
 
 The road to the Act runs through revolt: Delgado raises San Salvador in 1811, the Belén conspiracy is uncovered in 1813, Atanasio Tzul rebels against tribute in 1820. Liberals and conservatives argue in rival newspapers until José Cecilio del Valle drafts the Act signed on 15 September 1821 — Central America's independence proclamation.

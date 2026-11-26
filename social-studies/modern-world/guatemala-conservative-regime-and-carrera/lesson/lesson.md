@@ -10,6 +10,8 @@ Out of the Federation's wreck, Guatemala's Grade 4 book gives Rafael Carrera cen
 
 In your mind's eye: carrera leading mountain troops, with the new Republic of Guatemala's flag of 1847 and a map showing Los Altos and Nicaragua. Name Carrera and the year 1847.
 
+[Picture 63535 — the thirty years]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Carrera and the thirty years — a republic founded. Then let your companion ask you one hard question about it — answer from the lesson.

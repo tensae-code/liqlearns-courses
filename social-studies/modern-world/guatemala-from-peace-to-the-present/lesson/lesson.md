@@ -10,6 +10,8 @@ Guatemala's Grade 4 book closes its national story in the present. Arzú signs t
 
 In your mind's eye: guatemala after 1996 — a president signing, storm clouds of hurricanes Mitch, Stan and Agatha over rebuilt villages, and the 1996 accord held up as a measure. Name Arzú and one hurricane.
 
+[Picture 63537 — measured by the peace]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): 1996 to today — presidents measured by the peace. Then let your companion ask you one hard question about it — answer from the lesson.

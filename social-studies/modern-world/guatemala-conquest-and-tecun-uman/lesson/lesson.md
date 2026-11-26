@@ -10,6 +10,8 @@ Guatemala's Grade 4 book tells the conquest in two stages. Warned by Moctezuma's
 
 In your mind's eye: the highland road to Q'umarkaj in 1524, with the Lienzo de Quauhquechollan cloth painting unrolled beside it showing the campaign. Name Tecún Umán and the Lienzo.
 
+[Picture 63534 — division disease arms]
+
 ## Sub lesson 2 — Second stage — the Kaqchikel rise and the Lienzo
 
 In the second stage, the Kaqchikel — betrayed as allies — rise against the Spanish. Jorge de Alvarado retraces his brother's route with Quauhquechollan allies, whose weavers paint the campaign on cloth: the Lienzo de Quauhquechollan. The book sets this source-work beside Jorge's own letter, so pupils read the conquest in both a painted cloth and a written letter.

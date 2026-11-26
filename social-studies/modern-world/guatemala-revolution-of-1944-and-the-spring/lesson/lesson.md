@@ -10,6 +10,8 @@ On 20 October 1944, students, teachers and young officers overthrow Ubico's succ
 
 In your mind's eye: 20 October 1944 crowds in Guatemala City, then Arévalo's new schools and Arbenz handing land deeds to farmers under Decree 900. Name the date and Decree 900.
 
+[Picture 63544 — a spring cut short]
+
 ## Sub lesson 2 — After the spring — Castillo Armas and Ydígoras
 
 The book follows the spring's undoing. Castillo Armas annuls the 1945 constitution, returns the expropriated land and bans unions before his 1957 assassination. Under Ydígoras, the closed political space breeds the MR-13 rebels of 1962 — the seed of the guerrilla, and of the war to come.

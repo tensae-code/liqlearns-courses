@@ -19,6 +19,8 @@ A new country needs a face — signs that say "this is us" wherever they are see
 Two of the symbols are not drawn but performed. The children learn the National Anthem — the nation's own song, sung standing together — and the National Pledge — the nation's promise words, said together. A flag can be drawn in a copybook; an anthem and a pledge live in the children's own voices. Together, the symbols give the new nation a face its children can draw and sing.
 In your mind's eye: guyana's flag as the book shows it. Point to the flag and say what a flag stands for.
 
+[Picture 63549 — a face to draw and sing]
+
 ## Sub lesson 3 — Celebrations that remember
 
 A country's year is marked by celebrations, and Guyana's book teaches two that carry the nation's story.

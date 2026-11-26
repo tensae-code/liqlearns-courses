@@ -10,6 +10,8 @@ Guatemala's Grade 4 book names the war's roots plainly: injustice, racism and ex
 
 In your mind's eye: a Guatemalan village in the war years, empty fields and a memorial wall of names. Name the war's causes as the book gives them and the year URNG united.
 
+[Picture 63539 — a war born of injustice]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Conflicto armado interno — a war born of injustice. Then let your companion ask you one hard question about it — answer from the lesson.
