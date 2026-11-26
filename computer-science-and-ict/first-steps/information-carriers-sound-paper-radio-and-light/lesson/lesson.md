@@ -10,11 +10,15 @@ Every act of informing has three parts: a **sender** who gives the information, 
 
 In your mind's eye: senders, carriers and receivers.
 
+[Picture 45072 — senders, carriers and receivers]
+
 ## Sub lesson 2 — Choosing a carrier — speed, distance, survival
 
 Carriers are chosen by their strengths. **Sound** is instant but short-ranged and gone in a moment. **Paper** is slow to travel but keeps information for centuries and needs no power. **Radio waves** cross countries at the speed of light and reach many receivers at once, but fade into the air. **Light** — in lamps, fibres and signals — is fastest of all and can be aimed exactly. The computer's carriers join this family: electric signals in wires and light in fibres are the carriers of the digital lessons ahead.
 
 In your mind's eye: choosing a carrier — speed, distance, survival.
+
+[Picture 45073 — choosing a carrier — speed, distance, survival]
 
 ## Say it to your companion
 

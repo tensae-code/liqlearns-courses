@@ -2383,6 +2383,54 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 38783 | pictures/38783.webp | Hot spots: why volcanoes exist — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Volcanoes of El Salvador |
 | 38784 | pictures/38784.webp | Mass, weight, and the push-back — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Weightlessness and floating in orbit |
 | 38785 | pictures/38785.webp | Weightlessness: falling together in orbit — drawn render, Photos+GIFs front 2026-11-26 | Science — Earth and Space, Weightlessness and floating in orbit |
+| 38786 | pictures/38786.webp | Air resistance: the air pushes back — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Air and water resistance — drag |
+| 38787 | pictures/38787.webp | The drop test proves air resistance — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Air and water resistance — drag |
+| 38788 | pictures/38788.webp | How Archimedes' law was discovered — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Archimedes' law and buoyancy |
+| 38789 | pictures/38789.webp | What the buoyant force is — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Archimedes' law and buoyancy |
+| 38790 | pictures/38790.webp | Archimedes' law acts in air — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Archimedes' law and buoyancy |
+| 38791 | pictures/38791.webp | How Archimedes' law is applied — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Archimedes' law and buoyancy |
+| 38792 | pictures/38792.webp | Buoyant force, measured by weighing — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Archimedes' law and buoyancy |
+| 38793 | pictures/38793.webp | Keeping the balance: the paddle — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Balance, equilibrium and torque |
+| 38794 | pictures/38794.webp | Torque, and the catapult contest — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Balance, equilibrium and torque |
+| 38795 | pictures/38795.webp | Building a gurrufío: the parts — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Building a gurrufío |
+| 38796 | pictures/38796.gif | Pulling the string sets the disc spinning — drawn animated GIF, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Building a gurrufío |
+| 38797 | pictures/38797.webp | Weight in air: the known weight — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Buoyancy — weight in different mediums |
+| 38798 | pictures/38798.webp | Weight changes with the medium — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Buoyancy — weight in different mediums |
+| 38799 | pictures/38799.webp | The balancing parrot — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Centre of gravity and stability |
+| 38800 | pictures/38800.webp | The parrot rights itself — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Centre of gravity and stability |
+| 38801 | pictures/38801.webp | Conservation of matter: the set-up — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Conservation of energy and matter |
+| 38802 | pictures/38802.webp | Weighing before and after: it balances — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Conservation of energy and matter |
+| 38803 | pictures/38803.webp | Dangers of energy, and staying safe — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Dangers of energy transformation — and staying safe |
+| 38804 | pictures/38804.webp | Noticing energy around us — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy — first noticing |
+| 38805 | pictures/38805.webp | What changed in each one — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy — first noticing |
+| 38806 | pictures/38806.webp | The joule: the unit of energy — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy in food — calories and joules |
+| 38807 | pictures/38807.webp | Energy amounts are counted in joules — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy in food — calories and joules |
+| 38808 | pictures/38808.webp | Where energy is kept: the stores — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy stores — where energy is kept |
+| 38809 | pictures/38809.webp | Stores release their energy — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Energy stores — where energy is kept |
+| 38810 | pictures/38810.webp | How a force can be changed — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Making forces bigger and smaller |
+| 38811 | pictures/38811.webp | Three places to travel — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Means of transport — land, water and air |
+| 38812 | pictures/38812.webp | Classifying the means of transport — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Means of transport — land, water and air |
+| 38813 | pictures/38813.webp | Power: same work, different time — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Power — work done per unit time |
+| 38814 | pictures/38814.webp | The faster worker is the more powerful — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Power — work done per unit time |
+| 38815 | pictures/38815.webp | Pressure with depth, and water pushed aside — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Pressure in fluids — Pascal and Archimedes |
+| 38816 | pictures/38816.webp | A squeeze travels through the water — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Pressure in fluids — Pascal and Archimedes |
+| 38817 | pictures/38817.webp | Pressure: force on an area — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Pressure in solids, liquids and gases |
+| 38818 | pictures/38818.webp | Same weight, different area, different sinking — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Pressure in solids, liquids and gases |
+| 38819 | pictures/38819.webp | Fission and fusion — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Radioactivity — radiation and its uses |
+| 38820 | pictures/38820.webp | Nuclear energy at work — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Radioactivity — radiation and its uses |
+| 38821 | pictures/38821.webp | Determining a force's direction — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, The direction a force acts |
+| 38822 | pictures/38822.webp | The fastest animals and machines — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, The fastest animals and machines |
+| 38823 | pictures/38823.webp | A pendulum: bob, string and swing — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, The pendulum and its swing |
+| 38824 | pictures/38824.webp | The swings get smaller — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, The pendulum and its swing |
+| 38825 | pictures/38825.webp | Trajectories you can see — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Trajectory — the trail a moving body leaves |
+| 38826 | pictures/38826.webp | Seen and unseen trajectories — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Trajectory — the trail a moving body leaves |
+| 38827 | pictures/38827.webp | Trajectory: the line a body describes — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Trajectory — the trail a moving body leaves |
+| 38828 | pictures/38828.webp | What work is in physics — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work — and power |
+| 38829 | pictures/38829.webp | Pushing without moving does no work — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work — and power |
+| 38830 | pictures/38830.webp | Who does the moving? — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work in science — when a force moves a thing |
+| 38831 | pictures/38831.webp | What 'work' means in science — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work in science — when a force moves a thing |
+| 38832 | pictures/38832.webp | Work is force times distance — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work is force times distance |
+| 38833 | pictures/38833.webp | More distance, more work — drawn render, Photos+GIFs front 2026-11-26 | Science — Motion Force and Energy, Work is force times distance |
 | 7883 | pictures/7883.webp | The mascot family singing together in a row, a musical note over each head, the little brother beating the rhythm on a drum — drawn render, Photos+GIFs front 2026-11-25 | English — Songs |
 | 7884 | pictures/7884.webp | The little brother's drawing of a mango tree on a sheet of paper, with neat labels and leader lines: mango, leaf, branch, trunk — drawn render, Photos+GIFs front 2026-11-25 | English — Labelling |
 | 7887 | pictures/7887.gif | GIF — step 1 of the grip: the pencil lies on the paper and the little brother's open hand comes down over it, fingers spread softly, not touching it yet | Pencil and Lines — Holding a pencil (step 1) |
@@ -8610,3 +8658,21 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45055 | pictures/45055.gif | an animated diagram — a washing machine drum turning with clothes tumbling, its chip controlling fills, washes, spins and timing | ICT — First Steps — Embedded Computers in Everyday Devices |
 | 45056 | pictures/45056.webp | a drawn diagram — a review clipboard with the year's tasks ticked off and a go-over-it-again arrow | ICT — First Steps — End-of-Year Review Tasks |
 | 45057 | pictures/45057.webp | a drawn diagram — working through a review in three steps: try it alone, check the answer, fix the gaps | ICT — First Steps — End-of-Year Review Tasks |
+| 45058 | pictures/45058.webp | a drawn diagram — the five forms of information in five panels: a text page, the number 347, a mountain picture, a loudspeaker for sound and a play screen for video | ICT — First Steps — Forms of Representing Information |
+| 45059 | pictures/45059.webp | a drawn diagram — one school fair poster mixing forms: headline words, a sun picture, the number 5, music notes and a video screen | ICT — First Steps — Forms of Representing Information |
+| 45060 | pictures/45060.webp | a drawn diagram — letters A, B and C each coded in exactly three bits, the equal code length marked by red rules | ICT — First Steps — Frequently Used Codes — Fixed-Length and Variable-Length |
+| 45061 | pictures/45061.webp | a drawn diagram — variable-length codes: E gets one bit, A two bits, Z four bits, with how often each comes | ICT — First Steps — Frequently Used Codes — Fixed-Length and Variable-Length |
+| 45062 | pictures/45062.webp | a drawn diagram — a child with five sense chips around them: eye and apple, ear and bell, nose and flower, tongue and sweet, hand and soft ball | ICT — First Steps — Getting Information Through the Senses |
+| 45063 | pictures/45063.webp | a drawn diagram — an open glossary at the back of a book: bit and data explained in letter order, with A B C tabs | ICT — First Steps — Glossary of Informatics Terms |
+| 45064 | pictures/45064.webp | a drawn diagram — an unknown word, binary, in a lesson page looked up in the glossary, its meaning ticked | ICT — First Steps — Glossary of Informatics Terms |
+| 45065 | pictures/45065.webp | a drawn diagram — mixed toys sorted by shape into two rings: round toys in the red ring, square toys in the blue ring | ICT — First Steps — Grouping Objects by a Feature |
+| 45066 | pictures/45066.webp | a drawn diagram — the early road of ICT on a timeline: letter, printed newspaper, telephone, radio | ICT — First Steps — How ICT Developed Over Time |
+| 45067 | pictures/45067.webp | a drawn diagram — computers shrinking along a dotted line: room-sized cabinet, desktop, laptop, phone | ICT — First Steps — How ICT Developed Over Time |
+| 45068 | pictures/45068.webp | a drawn diagram — a 13-step flowchart snaking through numbered boxes from start to done | ICT — First Steps — How Package Information Is Processed, Step by Step |
+| 45069 | pictures/45069.webp | a drawn diagram — a home budget sheet under a roof: food 40, school things 20, savings 10, money in 70, coins beside it | ICT — First Steps — How Package Information Is Processed, Step by Step |
+| 45070 | pictures/45070.webp | a drawn diagram — a room full of ICT devices, each labelled: television, radio, printer, computer, phone | ICT — First Steps — ICT Devices Around Us |
+| 45071 | pictures/45071.webp | a drawn diagram — a learner writing homework on a laptop and printing the finished page, ticked done | ICT — First Steps — ICT Devices Around Us |
+| 45072 | pictures/45072.webp | a drawn diagram — a sender and a receiver with four carriers between them: voice, letter, radio waves and light | ICT — First Steps — Information Carriers — Sound, Paper, Radio and Light |
+| 45073 | pictures/45073.webp | a drawn diagram — a choosing table for carriers: voice, letter, radio and light signal compared by speed, distance and whether they last | ICT — First Steps — Information Carriers — Sound, Paper, Radio and Light |
+| 45074 | pictures/45074.webp | a drawn diagram — building a model in four steps: look at the real thing, choose what matters, build the model, test the model | ICT — First Steps — Information Models — and How to Build One |
+| 45075 | pictures/45075.gif | an animated diagram — a car driving steadily past 0 m, 20 m and 40 m posts while the clock and distance readout climb together | ICT — First Steps — Information Models — and How to Build One |

@@ -20,6 +20,8 @@ Your **skin** takes in touch. With your skin you feel hot and cold, soft and har
 
 In your mind's eye: a child with five small pictures around them. An eye and a red apple, an ear and a bell, a nose and a flower, a tongue and a sweet, a hand touching a soft ball.
 
+[Picture 45062 — getting information through the senses]
+
 Five senses, five ways of receiving information. Each sense organ is a receiver — and together they are how information from the whole world first reaches you.
 
 ## Say it to your companion

@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **ICT Devices Around Us** — cove
 
 In your mind's eye: iCT Devices Around Us.
 
+[Picture 45070 — ICT devices around us]
+
 ## Sub lesson 2 — Doing it — ICT Devices Around Us in practice
 
 **Doing it — ICT Devices Around Us in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — ICT Devices Around Us in practice.
+
+[Picture 45071 — ICT devices in practice — doing a real job with them]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ Every object in a group must have the chosen feature. If one object in the red g
 
 In your mind's eye: mixed toys sorted into two groups. Round toys in one ring and square toys in another ring.
 
+[Picture 45065 — grouping objects by a feature — round and square toys]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Objects that share one chosen feature can be put together in one group — grouping is sorting objects by a feature you choose first. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

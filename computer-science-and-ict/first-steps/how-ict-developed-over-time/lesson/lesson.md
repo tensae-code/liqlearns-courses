@@ -10,11 +10,15 @@ For most of history, information travelled only as fast as a person could carry 
 
 In your mind's eye: the early road — letter, printed paper, telephone, radio.
 
+[Picture 45066 — the early road — letter, printed paper, telephone, radio]
+
 ## Sub lesson 2 — Computers join, then connect
 
 The computer added the second half of ICT: a machine that stores and processes information, not only carries it. Computers shrank from room-sized machines to desks, then to laptops and phones, while growing faster and cheaper. The last stage joins the two halves: networks and the Internet connect the computers, so processing and communicating happen in the same pocket-sized device — the development Yemen's Grade 11 book traces before it turns to data itself.
 
 In your mind's eye: room-sized computer, desktop, laptop, phone — smaller, faster, connected.
+
+[Picture 45067 — smaller, faster, connected]
 
 ## Say it to your companion
 

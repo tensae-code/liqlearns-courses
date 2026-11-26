@@ -10,11 +10,15 @@ An **information model** of an object is **built**, not found, and the building 
 
 In your mind's eye: building a model — the steps.
 
+[Picture 45074 — building a model — the steps]
+
 ## Sub lesson 2 — The moving car — a physics model worked whole
 
 The book's worked example is physics: the **moving car**. Its model keeps position, time and speed, joined by the relation between them; with the model, journeys are calculated instead of travelled — how far in an hour, how long for the steppe road to the aimag centre. Every step of the method shows in the example: purpose (predict the journey), properties (speed, distance, time), form (a formula), check (against a real timed trip). Mongolia's point closes the Grade 9 opening unit: a model is an instrument — built for a purpose, judged by its work.
 
 In your mind's eye: the moving car — a physics model worked whole.
+
+[GIF 45075 — the moving car — a physics model worked whole]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Information is **represented** — given a shape the senses can take in — in f
 
 In your mind's eye: the five forms — text, number, picture, sound, video.
 
+[Picture 45058 — the five forms of information]
+
 ## Sub lesson 2 — Mixed forms — several forms in one whole
 
 Real information rarely travels in one form alone. A web page joins **text, pictures and sound**; a film joins **video, sound and text** in its titles. Mongolia calls these **mixed forms** — several forms combined in one whole, each doing the job it does best: the picture shows, the text explains, the number measures. The computer's power, met later in the course, is exactly this: it can hold and join every form in one machine.
 
 In your mind's eye: mixed forms — several forms in one whole.
+
+[Picture 45059 — mixed forms — several forms in one whole]
 
 ## Say it to your companion
 

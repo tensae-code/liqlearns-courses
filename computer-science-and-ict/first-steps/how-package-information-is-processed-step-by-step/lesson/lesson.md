@@ -10,11 +10,15 @@ Package information is processed by a **method**: a fixed order of steps running
 
 In your mind's eye: the 13-step method — a flowchart for working a package.
 
+[Picture 45068 — the 13-step method — a flowchart for working a package]
+
 ## Sub lesson 2 — The household budget — the method at home
 
 The worked example is a **household budget**: the family's information package — incomes and prices as numbers, lists as text, the week's picture of need — is taken through the steps: gathered, checked, ordered by the method, worked into the budget's judgements, and presented as the month's plan. Mongolia's choice is deliberate: the citizen book's method is proved on the citizen's own information, in the home, before it is trusted anywhere larger. Process the package by steps, and the result can be defended step by step — the method's whole promise.
 
 In your mind's eye: the household budget — the method at home.
+
+[Picture 45069 — the household budget — the method at home]
 
 ## Say it to your companion
 

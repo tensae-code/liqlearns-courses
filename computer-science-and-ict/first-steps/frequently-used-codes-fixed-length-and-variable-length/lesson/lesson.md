@@ -10,11 +10,15 @@ A **fixed-length code** gives **every character the same number of bits**: with 
 
 In your mind's eye: fixed-length codes — the same size for every character.
 
+[Picture 45060 — fixed-length codes — the same size for every character]
+
 ## Sub lesson 2 — Variable-length codes — short words for frequent guests
 
 A **variable-length code** gives **frequent characters short code words and rare characters long ones**: Morse code is its grandfather — E (the commonest letter) is one dot, Q is a long dash-dash-dot-dash. The average message then takes **fewer bits** than any fixed-length coding of the same alphabet. The price is decoding discipline: code words must be **prefix-free** (no word is the start of another) and the receiver must find the borders — Morse does it with pauses, computer codes with tree-shaped decodings. Compression begins in this section.
 
 In your mind's eye: variable-length codes — short words for frequent guests.
+
+[Picture 45061 — variable-length codes — short words for frequent guests]
 
 ## Say it to your companion
 
