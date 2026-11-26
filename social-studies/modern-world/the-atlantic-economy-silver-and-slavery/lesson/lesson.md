@@ -10,6 +10,8 @@ American silver floods Europe while enslaved Africans are shipped to mine and pl
 
 In your mind's eye: a ship unloading silver in Europe on one side and enslaved Africans being shipped to the Americas on the other, with the French ports of Nantes and Bordeaux marked. Say what flowed each way and who paid the human cost.
 
+[Picture 40320 — silverships]
+
 ## Sub lesson 2 — The French ports grow rich
 
 Nantes and Bordeaux grow rich on Atlantic trade built on enslaved labour — France's own ports stand inside the same Atlantic economy.

@@ -10,11 +10,15 @@ squares fill with demands for democracy (the chapter's videomap) and meet repres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40334 — hopeandcatastrophe]
+
 ## Sub lesson 2 — Modulo 19 §§5–6 Le "primavere arabe"; Le divisioni del mondo islamico
 
 Tahrir Square (Eventi) raises democracy's banner; the springs divide into transitions, restorations and civil wars, and Islam's internal divisions (Kepel's Fare storia piece on the war for Islam's control) decide their fates
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40333 — threeroads]
 
 ## Say it to your companion
 

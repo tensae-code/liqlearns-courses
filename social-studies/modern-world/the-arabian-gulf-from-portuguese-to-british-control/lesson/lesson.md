@@ -10,6 +10,8 @@ The Portuguese came round the Cape and seized Muscat and Bahrain, and the Arabs 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40331 — fortstogcc]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Arabian Gulf — from Portuguese to British control. Then let your companion ask you one hard question about it — answer from the lesson.

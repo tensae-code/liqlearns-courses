@@ -10,11 +10,15 @@ the Greek army lands at Smyrna in 1919, drives deep into Anatolia, and is destro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40327 — crosssea]
+
 ## Sub lesson 2 — Unit E exercise dossier (Greece in the 20th century)
 
 maps marked with the Treaty of Sèvres gains and the Smyrna zone, timelines of 1940–49, the army's advance in Northern Epirus mapped, and EOKA research links for Cyprus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40326 — dossiermaps]
 
 ## Sub lesson 3 — §35 Entente and Greek claims on the Ottoman Empire
 
@@ -22,17 +26,23 @@ Sèvres promises Smyrna and Thrace; the Great Idea reaches its furthest map
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40325 — furthestmap]
+
 ## Sub lesson 4 — §38 The Asia Minor War (1919–1922)
 
 advance to the Sangarios, stalemate, the August 1922 collapse, Smyrna's fire and the refugee exodus
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40324 — sangarios]
+
 ## Sub lesson 5 — §39 Developments in Greece and Turkey after the Asia Minor War
 
 Lausanne, the population exchange, the Trial of the Six in Athens and Ataturk's reforms in Ankara
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40323 — lausanne]
 
 ## Say it to your companion
 

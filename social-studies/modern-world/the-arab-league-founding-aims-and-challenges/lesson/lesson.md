@@ -10,6 +10,8 @@ founded in 1945 with its seat in Cairo under the Alexandria Protocol, first secr
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40336 — leaguefounded]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 1: the League of Arab States — founded in 1945 with its seat in Cairo under the Alexandria Protocol, first secretary-general the Egyptian Abdul Rahman Azzam; its council, secretariat and technical committees guard members' sovereignty, settle Arab disputes peacefully and help Arab states to independence — yet, the book admits, no binding consensus, rival national interests and unhealed crises limit it; Jordan hosts its summits again and again. Then let your companion ask you one hard question about it — answer from the lesson.

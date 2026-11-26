@@ -10,11 +10,15 @@ reform promises for Ottoman Armenians become a European diplomatic question at B
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40330 — promisespaper]
+
 ## Sub lesson 2 — Teaching guidance for Chs. 4–6, from the Ottoman–Safavid division to the 1800s
 
 teachers trace how liberation plans, Russian annexation and European diplomacy made Armenia's fate an international question
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40329 — questionforeurope]
 
 ## Say it to your companion
 

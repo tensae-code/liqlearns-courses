@@ -10,6 +10,8 @@ a Tunisian street-seller's protest ignites revolts across the Arab world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40335 — protestcrosses]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §17 The "Arab Spring": causes and consequences for world politics — a Tunisian street-seller's protest ignites revolts across the Arab world. Then let your companion ask you one hard question about it — answer from the lesson.

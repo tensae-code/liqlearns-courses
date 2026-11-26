@@ -10,6 +10,8 @@ Morris's England rebels against the machine with hand-made goods, and America ta
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40328 — handmade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 13: The second half of the 19th century and the Arts & Crafts movement — Morris's England rebels against the machine with hand-made goods, and America takes the movement up. Then let your companion ask you one hard question about it — answer from the lesson.

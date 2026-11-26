@@ -10,6 +10,8 @@ Selim's victory at Ridaniyya brings Egypt and Syria under the sultan; the Barbar
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40337 — joinempire]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch.2 The Arab lands in the Ottoman age 1516–1918 — Selim's victory at Ridaniyya brings Egypt and Syria under the sultan; the Barbarossa brothers hold North Africa's coast for the empire. Then let your companion ask you one hard question about it — answer from the lesson.

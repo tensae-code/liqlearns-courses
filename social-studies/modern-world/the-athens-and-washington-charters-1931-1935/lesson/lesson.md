@@ -10,6 +10,8 @@ the Athens Resolution (1931) and Athens Charter (1933) set restoration's rules, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40321 — cultureshield]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2.2: Protection efforts in the first half of the 20th century — the Athens Resolution (1931) and Athens Charter (1933) set restoration's rules, and the Washington (Roerich) Pact of 1935 first shields culture in war. Then let your companion ask you one hard question about it — answer from the lesson.
