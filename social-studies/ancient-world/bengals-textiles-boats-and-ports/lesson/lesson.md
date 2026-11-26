@@ -10,6 +10,8 @@ Bangladesh's Grade 7 book gives ancient and medieval Bengal two great industries
 
 In your mind's eye: a Bengal river port 2,000 years ago — weavers' fine cloth being loaded onto wooden boats at a ghat, sacks and coin pouches changing hands. The student points to the cloth and the boats and says what Bengal sold and what carried it.
 
+[Picture 60327 — fine cloth sails from the river port]
+
 ## Sub lesson 2 — Trade, commerce and money — coins and ports
 
 Trade needs money and doors to the sea, and the Grade 7 book gives Bengal both. Exchange grew from barter to coins — punch-marked coins, and the coins of Gupta, Gauda and Harikela times. And through the ports of Tamralipti, Chandraketugarh and Samandar, Bengal traded 2,000 years ago with the Mediterranean, Arabia, Africa and Southeast Asia. Coins in the hand and ports on the coast: that is how a river land became a trading land known across half the world.

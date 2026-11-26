@@ -10,6 +10,8 @@ cut off valley by valley, early Bhutanese live in clan settlements under chiefta
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60330 — clan villages, yaks and farms]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Two, Social Organisation and Economic Life — cut off valley by valley, early Bhutanese live in clan settlements under chieftains, herd yaks down to winter pasture, learn farming and tseri shifting cultivation, then crafts and barter, and finally trade with Tibet and India. Then let your companion ask you one hard question about it — answer from the lesson.

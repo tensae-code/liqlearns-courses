@@ -10,11 +10,15 @@ Polotsk and Turov splinter into appanage principalities-volosts as princes settl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60319 — small shares for the sons]
+
 ## Sub lesson 2 — The fragmentation of Rus
 
 Brother-princes make war on each other, Kiev's unity dissolves, and Polovtsian and crusader pressure grows on the fragments
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60320 — brothers at war over Rus]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ Baltic tribes work iron, farm the clearings and fill the land so completely that
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60312 — the Balts fill the land]
+
 ## Sub lesson 2 — The ancient Balts in Europe — and how iron was obtained
 
 Baltic peoples hold the south-eastern Baltic shore while bog iron is smelted in forest furnaces
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60313 — bog iron on the Baltic shore]
 
 ## Say it to your companion
 

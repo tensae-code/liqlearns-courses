@@ -10,6 +10,8 @@ Bangladesh's Grade 6 book begins Bengal's story with the land itself. Bengal is 
 
 In your mind's eye: the Bengal delta from above — the Ganges, Padma, Brahmaputra and Meghna rivers braiding through green flood-fed fields to the Bay of Bengal, with the Himalayas on the horizon. Name the four great rivers and the sea.
 
+[Picture 60324 — four rivers braid to the sea]
+
 ## Sub lesson 2 — Landforms shape settlement — living with the rivers
 
 The Grade 6 book then shows the land shaping the people. Settlers cleared forest and built their villages beside the great rivers — the Ganges, the Padma, the Brahmaputra and the Meghna — because the flood-fed soil beside them grew rich crops. But the rivers' gifts had a price: flood, storm and tiger were part of life in Bengal from the beginning. Settlement in Bengal is a bargain with water: the same floods that feed the fields can also take them.

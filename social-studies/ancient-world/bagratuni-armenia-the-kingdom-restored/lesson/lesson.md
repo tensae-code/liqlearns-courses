@@ -18,17 +18,23 @@ Ani, the city of a thousand and one churches, crowns the kingdom's golden centur
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60307 — Ani's golden century and fall]
+
 ## Sub lesson 3 — 7.3 The socio-economic and cultural life of Bagratuni Armenia
 
 trade, crafts and church building enrich the kingdom, and its culture seeds the Armenian revival
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60308 — trade, crafts and church building]
+
 ## Sub lesson 4 — Teaching guidance for Themes 5–7, from Avarayr to the Bagratunis
 
 the guide closes the year by following Armenia's survival between empires to its restored crown at Ani
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60309 — the guide closes the year at Ani]
 
 ## Say it to your companion
 

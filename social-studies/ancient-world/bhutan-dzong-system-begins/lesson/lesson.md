@@ -10,6 +10,8 @@ the first fortified monastic dzong rises at Chelkha in Paro in 1194 under Nyo Gy
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 60329 — the first dzong, 1194]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Chapter Three, Emergence of Dzong System in Bhutan — the first fortified monastic dzong rises at Chelkha in Paro in 1194 under Nyo Gyalwa Lhanangpa of the Lhapa Kagyu, but the experiment fades when Phajo Drukgom Zhigpo brings the Drukpa Kagyu in 1222, and dzongs wait four centuries for revival. Then let your companion ask you one hard question about it — answer from the lesson.

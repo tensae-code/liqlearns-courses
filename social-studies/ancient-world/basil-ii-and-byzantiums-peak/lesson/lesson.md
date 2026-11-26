@@ -10,6 +10,8 @@ missions to the Slavs, marriages and gold diplomacy, and Basil II the Bulgar-Sla
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60315 — missions, marriages and gold]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The international radiance of Byzantium — missions to the Slavs, marriages and gold diplomacy, and Basil II the Bulgar-Slayer carry the empire to its greatest extent. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Copper and tin travel from the south, bronze axes appear, and farming and herdin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60317 — bronze arrives from the south]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Bronze Age on the Belarusian lands. Then let your companion ask you one hard question about it — answer from the lesson.

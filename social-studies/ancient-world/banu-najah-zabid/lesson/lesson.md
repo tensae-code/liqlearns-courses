@@ -10,6 +10,8 @@ Najah, an Abyssinian freedman of the Ziyadid chamberlain Marjan, outlives his ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60314 — a freedman founds a state at Zabid]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The state of Bani Najah (412-553 AH) — najah, an Abyssinian freedman of the Ziyadid chamberlain Marjan, outlives his master, takes Zabid with the Abbasid caliph's blessing and founds a state; his sons Sa'id al-Ahwal and Jayyash trade Zabid back and forth with the Sulayhids — Jayyash even slips away to the Hajj and returns to retake the city — until the last ruler, Fatiq, sunk in pleasure, is killed by the Zaydi Imam Ahmad bin Sulayman. Then let your companion ask you one hard question about it — answer from the lesson.

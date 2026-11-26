@@ -10,11 +10,15 @@ Neanderthals and then Cro-Magnons hunt reindeer and mammoth at the glacier's edg
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60321 — mammoth at the ice edge]
+
 ## Sub lesson 2 — Settlement after the ice — the post-glacial period
 
 As the ice retreats ~10,000 years ago, hunters and fishers follow the rivers north and settle the whole land
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60322 — the ice retreats, the rivers fill]
 
 ## Say it to your companion
 

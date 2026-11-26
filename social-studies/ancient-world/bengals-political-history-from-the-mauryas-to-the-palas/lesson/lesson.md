@@ -10,6 +10,8 @@ Bangladesh's Grade 9 book traces Bengal's political path from empire to independ
 
 In your mind's eye: shashanka's court at Karnasubarna — a Bengali king on his throne with the river lands of Bengal mapped on a cloth before him. The student points to the king and says why he matters as Bengal's first great independent king.
 
+[Picture 60325 — Shashanka and the river lands]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Empires and the first Bengali kings — Mauryas, Guptas, Shashanka and the Palas. Then let your companion ask you one hard question about it — answer from the lesson.

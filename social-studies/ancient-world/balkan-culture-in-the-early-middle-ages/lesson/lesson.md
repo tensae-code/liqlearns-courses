@@ -10,6 +10,8 @@ two literary schools divide the Slavic world — Preslav, where the simpler Cyri
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60310 — Preslav and Ohrid, two schools of letters]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 2: the culture of the Balkans in the early Middle Ages — two literary schools divide the Slavic world — Preslav, where the simpler Cyrillic alphabet is devised under Simeon and Chernorizets Hrabar defends the Slavic letters in "On the Letters", and Ohrid, faithful to Glagolitic; around them rise Samuil's fortress, Skopje's Kale and the mosaic basilicas of the south. Then let your companion ask you one hard question about it — answer from the lesson.

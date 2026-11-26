@@ -10,6 +10,8 @@ a remote mountain temple combining all three Greek orders survives almost whole 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60316 — the temple under its tent]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 6.5: The temple of Apollo Epikourios at Bassae — a remote mountain temple combining all three Greek orders survives almost whole and now rests under a protective tent. Then let your companion ask you one hard question about it — answer from the lesson.
