@@ -8939,3 +8939,31 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45159 | pictures/45159.webp | a drawn diagram — a photo showing only a tablet's outside beside a model showing how it works inside | ICT — Hardware — Build a Model Tablet — What a Device Is Made Of |
 | 45160 | pictures/45160.webp | a drawn diagram — cache where it sits: a small, very fast memory between the processor and the big main memory | ICT — Hardware — Cache Memory |
 | 45161 | pictures/45161.webp | a drawn diagram — how cache speeds the machine: found in the cache, quick, against the long road to main memory, slow | ICT — Hardware — Cache Memory |
+| 39014 | pictures/39014.webp | Water and stretching before the dance — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, The Dancer's Body: Conditioning and Safe Practice |
+| 39015 | pictures/39015.webp | Dances carry meanings — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, Dances of Guatemala's Peoples |
+| 39016 | pictures/39016.webp | Stop and think: breathing — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, Preparing to Perform: Warm-Up, Relaxation and Nerves |
+| 39017 | pictures/39017.webp | Drum dancing with the qilaut — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, Qilaujjarniq: Inuit Drum Dancing |
+| 39018 | pictures/39018.webp | A competition at the community hall — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, Sila Rainbow Dance Competition |
+| 39019 | pictures/39019.webp | Square dancing in the hall — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Drama and Dance, Suluvinniq: Square Dancing |
+| 39020 | pictures/39020.webp | Today's Nunavut musicians — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Contemporary Inuit Music |
+| 39021 | pictures/39021.webp | New songs arrive in the Arctic — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Inuit Music and the Coming of the Newcomers |
+| 39022 | pictures/39022.webp | Nunavut's music in three scenes — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Inuit Traditional Music |
+| 39023 | pictures/39023.webp | Katajjaq: singing to each other — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Katajjaq: Inuit Throat Singing |
+| 39024 | pictures/39024.webp | Instruments of Maya art — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Maya Instruments and Musical Events |
+| 39025 | pictures/39025.webp | Singing pisiit together — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, Pisiit: Inuit Personal Songs |
+| 39026 | pictures/39026.webp | First the music, then the words — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Music, The Message in Songs |
+| 39027 | pictures/39027.webp | Pyramids and the sphinx — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Ancient Egyptian Art |
+| 39028 | pictures/39028.webp | Baker Lake wall hangings — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Baker Lake Wall Hangings |
+| 39029 | pictures/39029.webp | Baskets and what they are made from — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Basketry |
+| 39030 | pictures/39030.webp | A church painting and its content kind — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Cave Art and Church Painting |
+| 39031 | pictures/39031.webp | Today's Inuit art in one spread — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Contemporary Inuit Art |
+| 39032 | pictures/39032.webp | Line, colour, texture: three plates — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, The Elements of Visual Art |
+| 39033 | pictures/39033.webp | Three kinds of balance — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, The Elements of Visual Art |
+| 39034 | pictures/39034.webp | A designed magazine cover — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Graphic Design |
+| 39035 | pictures/39035.webp | Many forms, all of them art — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Inuit Arts and Crafts |
+| 39036 | pictures/39036.webp | Cross-hatching and smudging — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Making with Paper and Pieces |
+| 39037 | pictures/39037.webp | Following a traditional technique — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Maya Art and Techniques |
+| 39038 | pictures/39038.webp | Humans and nature, together — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Nature in Art |
+| 39039 | pictures/39039.webp | Portrait, square and landscape frames — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Photography |
+| 39040 | pictures/39040.webp | Heritage in pictures — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Visual Art, Sculpture and Historic Places |
+| 39041 | pictures/39041.webp | Snail, sun and heart-planet — drawn render, Photos+GIFs front 2026-11-26 | Performing and Visual Arts — Culture and Values, Symbols of Guatemalas Peoples |

@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: a Baker Lake wall hanging — cloth worked with designs of Arctic animals and people.
 
+[Picture 39028 — baker lake wall hangings]
+
 ## Sub lesson 2 — Southern wool, Arctic designs
 
 The hangings work **southern wool** into **Arctic designs of animals and people**. The book shows works from the **Jessie Oonark Centre** in Baker Lake.

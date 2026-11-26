@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: young dancers drinking water and stretching before they dance.
 
+[Picture 39014 — water and stretching before the dance]
+
 ## Sub lesson 2 — Stretching before dancing
 
 **Stretch before dancing to get the body ready**, so muscles are **not so sore** afterwards.

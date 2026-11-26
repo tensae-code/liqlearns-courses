@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: two katajjaq singers standing face to face, close, singing to each other.
 
+[Picture 39023 — katajjaq singing to each other]
+
 ## Sub lesson 2 — Nearly lost, and its return
 
 Katajjaq was **nearly lost** in the years when Inuit were moved off the land. Today many young people across the Arctic learn it, teach it and perform it. Women sang it alone in the old days when men were out hunting, and **men now sing it too**; named singers travel the world to perform katajjaq.

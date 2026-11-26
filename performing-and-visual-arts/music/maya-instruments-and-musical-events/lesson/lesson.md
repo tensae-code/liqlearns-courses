@@ -10,6 +10,8 @@ Guatemala's Grade 5 experience “La palabra como arte” (The Word as Art) name
 
 In your mind's eye: the instruments of Maya art gathered for a musical event.
 
+[Picture 39024 — instruments of maya art]
+
 ## Sub lesson 2 — Organising musical events
 
 The same theme joins the instruments to an act: **organising musical events, especially with the instruments of Maya art**. To organise a musical event is to bring the instruments, the players and the listeners together on purpose — choosing what will be played, by whom, and for whom. This lesson is honest about its evidence: the theme is named on the experience's opening page in this PARTIAL file; its activity pages are not in the file.

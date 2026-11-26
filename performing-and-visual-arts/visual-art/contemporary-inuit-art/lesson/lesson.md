@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: today's Inuit art in one spread — a beaded sealskin bag, crocheted work, a print and silver jewellery.
 
+[Picture 39031 — today's inuit art in one spread]
+
 ## Sub lesson 2 — Known around the world
 
 **Inuit artists' work is now known around the world** — the old forms and the new ones travel together, carrying Inuit subjects and ways into contemporary forms.

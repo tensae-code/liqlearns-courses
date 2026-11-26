@@ -41,6 +41,8 @@ Texture is the smoothness or roughness you feel by **touching** and by **seeing*
 
 In your mind's eye: described only, not made in this fix build: a bark patch built stroke by stroke from cross-hatched lines, beside a smooth smudged patch. Say which technique made each.
 
+[Picture 39036 — cross-hatching and smudging]
+
 Try it: draw one small square of bark with crossing lines, one of dots, and one smooth square smudged with a fingertip. Your fingers should be able to guess each one with your eyes shut — that is texture doing its work.
 
 ## Sub lesson 8 — Mosaic: the ancient way and the heritage practicals (Grade 6)

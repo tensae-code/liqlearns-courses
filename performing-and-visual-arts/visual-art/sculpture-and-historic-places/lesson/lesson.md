@@ -88,6 +88,8 @@ The Grade 4 book shows our heritage in pictures, plate by plate. **Painting and 
 
 In your mind's eye: described only, not made in this fix build: the three plate groups in a row — manuscript and painting; obelisk, palace and hall; the rock church. Name each heritage kind.
 
+[Picture 39040 — heritage in pictures]
+
 **Activity 3.1** — now answer the plates with your own hand: **draw and paint a traditional heritage object on paper.**
 
 ## Say it to your companion

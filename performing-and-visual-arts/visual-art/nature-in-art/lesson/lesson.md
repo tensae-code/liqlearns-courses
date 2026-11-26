@@ -10,6 +10,8 @@ Guatemala's Grade 4 experience “Las manos creadoras” (The Creator Hands) set
 
 In your mind's eye: an artwork where people and nature meet — hands, land, trees and water in one scene.
 
+[Picture 39038 — humans and nature together]
+
 ## Sub lesson 2 — Recreating the relationship in an artwork
 
 To **recreate** the relationship is to make it again in a work: draw, paint or build a scene where the human being and nature meet — hands working the land, a community under its trees, a river and the people it carries. This lesson is honest about its evidence: the theme is named on the experience's opening page in this PARTIAL file; its activity pages are not in the file, so the lesson teaches the theme as named.

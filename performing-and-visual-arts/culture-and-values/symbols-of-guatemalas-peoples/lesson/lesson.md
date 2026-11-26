@@ -10,6 +10,8 @@ The guide explains its own iconography — the pictures it uses are themselves c
 
 In your mind's eye: the guide's three symbols — snail, sun and heart-planet.
 
+[Picture 39041 — snail sun and heart-planet]
+
 ## Sub lesson 2 — The sun and the heart-planet
 
 The **sun** is read as the Maya **nawal Ajpú**. The **heart-planet** carries the **nawal Noj — wisdom**. So the guide's symbols are not decoration: each one is a sign that a people reads, and reading it is the first step of artistic judgement — sense-perception of what a culture put into its art.

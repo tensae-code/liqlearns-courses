@@ -44,6 +44,8 @@ Look carefully at the portrait and the elements are seen **at work**: colour, sp
 
 In your mind's eye: described only, not made in this fix build: the self-portrait's three study plates side by side — line, colour, texture. The student points to where each element works hardest.
 
+[Picture 39032 — line colour texture three plates]
+
 ## Sub lesson 8 — Shape, form and space pictured — the painters' words (Grade 8)
 
 Three more plates complete the portrait study: **shape** — a pattern-shape in a painting (Fig. 5); **form** (Fig. 6); and **space** — negative and positive space together (Fig. 7).
@@ -61,6 +63,8 @@ The book's own name for the elements is the one to keep: line, colour, shape, sp
 3. **Radial balance** — all the elements' equal visual weight radiating from a centre (Fig. 12).
 
 In your mind's eye: described only, not made in this fix build: three small compositions — mirror-equal, unequal-but-balanced, and spokes from a centre. Name each balance type.
+
+[Picture 39033 — three kinds of balance]
 
 ## Sub lesson 10 — Proportion, rhythm, emphasis, movement, simplicity (Grade 8)
 

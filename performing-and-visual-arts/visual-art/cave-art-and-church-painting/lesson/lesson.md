@@ -39,6 +39,8 @@ The makers prepared parchment from animal hides, smoothed stone and wood, and mi
 
 In your mind's eye: described only, not made in this fix build: a church wall painting in the Ethiopian manner (Fig. 28). Say which content kind it belongs to and why.
 
+[Picture 39030 — a church painting and its content]
+
 ## Sub lesson 7 — The Grade 5 chapter opens — traditional music, cave art and heritage (chapter opening — Grade 5)
 
 The Grade 5 book opens its third chapter, *History and Culture*, looking backwards — to the oldest art and the community's own:

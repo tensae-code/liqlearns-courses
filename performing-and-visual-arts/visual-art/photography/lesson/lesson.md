@@ -53,6 +53,8 @@ A photograph must match the size and direction of its paper, and the Grade 4 boo
 
 In your mind's eye: described only, not made in this fix build: the book's six photographs in a row — child portrait, square object study, countryside, tourist site, farm work with its poem, city view. Name the frame of each.
 
+[Picture 39039 — portrait square and landscape frames]
+
 So before you press, ask three ways, not two: does my subject **stand** (portrait), **sit as one thing** (square), or **spread** (landscape)?
 
 ## Sub lesson 6 — Photography practice: houses, frames and work songs (Grade 4)

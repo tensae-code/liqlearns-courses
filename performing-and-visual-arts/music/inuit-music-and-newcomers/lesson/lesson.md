@@ -10,6 +10,8 @@ When **Qallunaat (newcomers)** arrived in the Arctic, much changed — music inc
 
 In your mind's eye: newcomers arriving in the Arctic with their own songs and instruments, meeting Inuit musicians.
 
+[Picture 39021 — new songs arrive in the arctic]
+
 ## Sub lesson 2 — New kinds that stayed
 
 So Inuit music **grew new kinds** — among them **pisiit** and **dance music** — and those musics are **still used today**.

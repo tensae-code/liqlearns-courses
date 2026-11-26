@@ -10,6 +10,8 @@ Guatemala's Grade 6 experience “La vida es teatro” opens with the activity �
 
 In your mind's eye: a class listening to a recorded song — first the music alone, then the words.
 
+[Picture 39026 — first the music then the words]
+
 ## Sub lesson 2 — Then with the words — and say what it means
 
 Then the class listens **with the words**, and **discusses the feelings the song raises and what its author meant**. That is the whole skill of this lesson: a song has a message, and you find it by listening twice — feeling first, words second — and then saying, with reasons from the song, what it means.

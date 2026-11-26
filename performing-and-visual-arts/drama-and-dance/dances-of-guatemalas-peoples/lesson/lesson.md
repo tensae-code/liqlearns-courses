@@ -10,6 +10,8 @@ Guatemala's Grade 4 experience “Mi cuerpo habla” (My Body Speaks) teaches th
 
 In your mind's eye: dancers of different peoples, each dance speaking in its own movement.
 
+[Picture 39015 — dances carry meanings]
+
 ## Sub lesson 2 — A first initiation into other peoples' dances
 
 The same experience sets a **first initiation into the choreographies and techniques of the dances of Guatemala's other peoples and of Mesoamerica** — a beginner's entering-in, learning the shaped movement (the choreography) and the way of doing it (the technique) of dances that are not your own people's, with respect for the peoples they belong to. This lesson is honest about its evidence: the theme is named on the experience's opening page in this PARTIAL file; its activity pages are not in the file.

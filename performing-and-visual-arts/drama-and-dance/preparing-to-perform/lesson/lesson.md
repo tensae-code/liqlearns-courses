@@ -10,6 +10,8 @@ When worry stops a performer, use the **stop-and-think routine**. First: **stop 
 
 In your mind's eye: a young dancer backstage, stopped, breathing slowly, calming down before performing.
 
+[Picture 39016 — stop and think breathing]
+
 ## Sub lesson 2 — Stop and think: naming the feeling
 
 Next: **think about how you feel and why you feel it**, and what you can do to feel less nervous. And know this: **laughter from an audience can mean they are happy and enjoying the dance** — not that they are mocking it.

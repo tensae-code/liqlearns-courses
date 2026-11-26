@@ -10,6 +10,8 @@ Guatemala's Grade 6 experience “Publicarte” sets the class to **produce a ma
 
 In your mind's eye: a class magazine's designed cover, with its title, a drawing and a photograph arranged to speak at a glance.
 
+[Picture 39034 — a designed magazine cover]
+
 ## Sub lesson 2 — Designing and presenting the magazine
 
 The magazine is made **in print, digital or radio-magazine form**, with a **designed cover, articles, interviews, drawings and photographs**, and it is **presented to the community**. The cover must speak at a glance; the pages must arrange words and pictures so a reader can follow them — that arranging, for a real audience, is the design work of this lesson.

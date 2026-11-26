@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: square dancers in a Nunavut community hall, dancing to accordion and fiddle tunes.
 
+[Picture 39019 — square dancing in the hall]
+
 ## Sub lesson 2 — Square dancing today
 
 Today **square dancing is still danced in Nunavut** — communities hold **dance competitions**, and **young people keep the dancing going**.

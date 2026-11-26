@@ -10,6 +10,8 @@ Uganda's Senior One book closes its art history with **ancient Egypt**: examine 
 
 In your mind's eye: the pyramids and the sphinx, side by side.
 
+[Picture 39027 — pyramids and the sphinx]
+
 ## Sub lesson 2 — Egyptian paintings
 
 Then the **Egyptian paintings** — wall pictures that carried the people's life in line and colour, judged by the same elements and principles you learned in this course.

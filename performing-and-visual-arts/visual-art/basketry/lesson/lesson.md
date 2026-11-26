@@ -10,6 +10,8 @@ Uganda's Senior One book teaches **basketry** inside **Crafts from the Natural E
 
 In your mind's eye: baskets of different weaves, with the grasses and reeds they were made from.
 
+[Picture 39029 — baskets and what they are made]
+
 ## Sub lesson 2 — Four weaving techniques: coiling, plaiting, wicker and twining
 
 The book names and pictures four weaving techniques: **coiling, plaiting, wicker and twining**. Each builds the basket a different way — a coil wound and stitched round, flat strands crossed over and under, stiff rods woven, or two weavers twisted around uprights.

@@ -10,6 +10,8 @@ The **Sila Rainbow Dance Competition** is held at the **community hall** in Nuna
 
 In your mind's eye: the Sila Rainbow Dance Competition in a Nunavut community hall — a team performing while judges and the community watch.
 
+[Picture 39018 — a competition at the community hall]
+
 ## Sub lesson 2 — Judges decide
 
 **Judges decide which dance is best.** A competition dance is therefore made to be watched and judged: practised until it holds together, then performed for the whole community.

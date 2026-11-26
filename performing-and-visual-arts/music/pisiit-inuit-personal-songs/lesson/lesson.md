@@ -10,6 +10,8 @@ The teachers who came from far away taught the faith, and many Inuit **learned t
 
 In your mind's eye: a Nunavut community gathered on a Sunday, singing pisiit together.
 
+[Picture 39025 — singing pisiit together]
+
 ## Sub lesson 2 — The Sunday gathering
 
 Communities **gather every Sunday to sing pisiit together** — a gathering that **matters greatly to the community**.

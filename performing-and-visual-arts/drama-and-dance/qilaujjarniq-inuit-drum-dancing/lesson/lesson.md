@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: a drum dancer beating the qilaut frame drum with the katuk stick while singing.
 
+[Picture 39017 — drum dancing with the qilaut]
+
 ## Sub lesson 2 — Two regional ways
 
 Drum dancing **differs across the Arctic**. In the **east**, one singer sings to a big drum with caribou skin wrapped on it; in the **west**, the drummers beat the drum's rim with thin wooden beaters and a whole group sings together.

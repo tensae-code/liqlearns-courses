@@ -10,6 +10,8 @@ Inuit-made artworks come in **many different forms** — beadwork, sewing, weavi
 
 In your mind's eye: inuit artworks side by side — beadwork, a sewn doll, a print, a stone carving, a sealskin parka and a silver pendant.
 
+[Picture 39035 — many forms all of them art]
+
 ## Sub lesson 2 — ᓴᐸᖓᓕᕆᓂᖅ — beadwork
 
 **Beadwork** is a form Inuit learned from other cultures and **made their own**. It is slow, long work, and its finished pieces — beaded collars and necklaces — are beautiful.

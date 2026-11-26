@@ -10,6 +10,8 @@ Songs are lovely to hear and are **heard everywhere in Nunavut** — on radio an
 
 In your mind's eye: nunavut's music — two katajjaq singers face to face, a drum dancer with the qilaut, and dancers at a feast.
 
+[Picture 39022 — nunavut's music in three scenes]
+
 ## Sub lesson 2 — Closing — what music does
 
 **Music is a fine way to gather people together, to tell stories and to celebrate.** Today's musicians share their skills, their stories and their culture with the world — and the book asks the reader: what story would you tell using a song?

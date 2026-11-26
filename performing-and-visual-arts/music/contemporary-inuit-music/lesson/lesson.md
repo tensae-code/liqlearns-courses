@@ -10,6 +10,8 @@ Quick game: before you read on, say what you already know about this lesson's wo
 
 In your mind's eye: today's Nunavut musicians — singers and players with many instruments, one mixing katajjaq with new styles.
 
+[Picture 39020 — today's nunavut musicians]
+
 ## Sub lesson 2 — New things on old songs
 
 Musicians **add new things to the old songs**; some **write their own songs**; some **mix Qallunaaq styles with katajjaq**. Nunavut singers and musicians now **travel all over the world to perform**.

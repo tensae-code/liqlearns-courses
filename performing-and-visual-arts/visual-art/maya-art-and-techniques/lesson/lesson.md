@@ -10,6 +10,8 @@ Guatemala's Grade 4 Expresión Artística names, as one of its learning themes, 
 
 In your mind's eye: a maker at work with the instruments of a traditional technique, following its procedure step by step.
 
+[Picture 39037 — following a traditional technique]
+
 ## Sub lesson 2 — Handling instruments and procedures
 
 The theme is named in the guide's own terms: the **instrumental and procedural handling** of the Maya techniques — that is, knowing the instruments a technique uses, and following its procedure, its own order of working. A technique belongs to the people who made it: you handle its instruments carefully and follow its procedure respectfully, the way its own makers do.
