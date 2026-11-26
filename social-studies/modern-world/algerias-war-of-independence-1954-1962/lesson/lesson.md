@@ -10,6 +10,8 @@ The Constantine massacre of 8 May 1945, in which 45,000 Algerians were martyred,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62071 — 1 november 1954]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Algeria's war of independence, 1954–1962. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ The survey that began before 1492 ends in our own century: terror attacks and tw
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62085 — a single morning]
+
 ## Sub lesson 2 — The financial crisis
 
 At home the financial crisis shook the prosperity the century began with — banks, houses and jobs falling together, and the government rescuing the system that had fallen. The New Deal's old question returned: what is Washington for in a collapse?

@@ -10,6 +10,8 @@ the book asks why the USA is the surviving superpower — natural resources, a s
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62087 — ships planes tanks guns]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Part 5, Units 3–4 — the book asks why the USA is the surviving superpower — natural resources, a skilled workforce, stable capitalist democracy, military might and the "American Dream" — and prints Roosevelt's Four Freedoms address (6 January 1941) and Arsenal of Democracy argument: send the democracies "ships, planes, tanks, and guns" now, or fight the dictators later. Then let your companion ask you one hard question about it — answer from the lesson.

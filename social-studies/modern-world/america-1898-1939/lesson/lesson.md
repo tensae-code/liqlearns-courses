@@ -10,6 +10,8 @@ Before you read on, hold this lesson's one thing in mind: 1898 opens the imperia
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62077 — 1898 the imperial century]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.1 Stage I: economic and socio-political evolution 1898–1939 — 1898 opens the imperial century: Cuba, Puerto Rico, Panama, interventions and the first anti-imperialist answers. Then let your companion ask you one hard question about it — answer from the lesson.

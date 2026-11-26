@@ -10,11 +10,15 @@ the Punta del Este charter folds dictatorial Nicaragua into a US counter-revolut
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62072 — the alliances strategy]
+
 ## Sub lesson 2 — Sistema de Integración Centroamericana
 
 the Central American Common Market is presented as a facade of development inside the Alliance for Progress, a US strategy to stop the Cuban example, complete with CONDECA armies trained by marines
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62073 — a facade of development]
 
 ## Say it to your companion
 

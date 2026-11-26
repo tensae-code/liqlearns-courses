@@ -10,6 +10,8 @@ Perry's black ships force Japan's opening to the world
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62086 — the black ships]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 10.3 Why did the USA send warships to Japan? — Perry's black ships force Japan's opening to the world. Then let your companion ask you one hard question about it — answer from the lesson.

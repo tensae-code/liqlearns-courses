@@ -10,6 +10,8 @@ Turner's frontier thesis argued the frontier had made America — and was now cl
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62092 — arguing america outward]
+
 ## Sub lesson 2 — The Spanish-American War wins an overseas empire
 
 The Spanish-American War of 1898 won the United States an overseas empire — Spain's former colonies passed under American power. In one war, the republic became an empire; the book lets the tension in that sentence stand.

@@ -10,6 +10,8 @@ freed Black Americans get segregation instead of equality and Native peoples get
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62084 — the president as referee]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III §§15–16 The internal and external policy of the USA — freed Black Americans get segregation instead of equality and Native peoples get reservations; against the trusts and the Colorado shootings of strikers (1914) rises the "progressive era" — Theodore Roosevelt's Square Deal makes the president referee between capital and labour. Then let your companion ask you one hard question about it — answer from the lesson.

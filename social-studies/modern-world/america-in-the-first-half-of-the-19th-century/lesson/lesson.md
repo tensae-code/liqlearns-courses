@@ -10,6 +10,8 @@ Jacksonian democracy widens the (white male) vote while slavery deepens in the S
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62083 — a widening vote deepening slavery]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 3, Cap. 9 §2 Society and politics in the United States in the first half of the '800 — Jacksonian democracy widens the (white male) vote while slavery deepens in the South — the contradiction the Civil War will settle. Then let your companion ask you one hard question about it — answer from the lesson.

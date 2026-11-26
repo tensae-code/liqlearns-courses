@@ -10,6 +10,8 @@ Aalto bends wood and designs everything from the sanatorium's door-handle to its
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62076 — from door handle to lamp]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 21: The modern furniture and total design — Alvar Aalto — Aalto bends wood and designs everything from the sanatorium's door-handle to its lamp as one humane whole. Then let your companion ask you one hard question about it — answer from the lesson.

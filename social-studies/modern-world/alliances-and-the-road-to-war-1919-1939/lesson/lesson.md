@@ -10,11 +10,15 @@ the Little Entente treaties of 1920–21 face the Anti-Comintern Pact; the Rome�
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62074 — entente against axis]
+
 ## Sub lesson 2 — Tema 12: Sistemul de tratate în perioada interbelică. Politica conciliatoristă
 
 Berlin's refusal to pay brings France into the Ruhr on 11 January 1923; the two revisionist states, Germany and Italy, form the Rome–Berlin Axis on 25 October 1936 and Japan adheres
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62075 — the ruhr then the axis]
 
 ## Say it to your companion
 

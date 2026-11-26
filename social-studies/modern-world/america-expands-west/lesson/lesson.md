@@ -10,6 +10,8 @@ the frontier myth is tested against the continent's peoples
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62081 — the frontier myth tested]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 10.1 How much did westward expansion shape the formation of American national identity? — the frontier myth is tested against the continent's peoples. Then let your companion ask you one hard question about it — answer from the lesson.

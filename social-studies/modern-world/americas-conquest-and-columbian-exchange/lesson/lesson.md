@@ -10,6 +10,8 @@ the two worlds swap their pantries and their plagues — wheat, horses and cattl
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62093 — the great exchange]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3: the Columbian Exchange — the two worlds swap their pantries and their plagues — wheat, horses and cattle sail west; potatoes, maize, tomatoes, cacao and tobacco sail east; and the book names the frame that justified it all: Eurocentrism, the belief that Europe was the world's centre and measure. Then let your companion ask you one hard question about it — answer from the lesson.

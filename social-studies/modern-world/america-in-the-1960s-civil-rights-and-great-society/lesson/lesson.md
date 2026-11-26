@@ -10,6 +10,8 @@ Kennedy's promise opened the decade — a young president calling the nation for
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62082 — promise and great society]
+
 ## Sub lesson 2 — The civil rights movement marches on
 
 The civil rights movement marched on: sit-ins, freedom rides, Birmingham, the March on Washington. Ordinary people, many of them young, put their bodies where the Constitution's promises were denied — and forced the nation to look.

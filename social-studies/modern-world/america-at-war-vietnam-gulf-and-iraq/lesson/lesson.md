@@ -10,6 +10,8 @@ After the Second World War the USA rises as global super-power, is compared and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62078 — superpower and its wars]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Rise of USA as super power and its wars — after the Second World War the USA rises as global super-power, is compared and contrasted with the USSR, and its roles in the Vietnam, Gulf and Iraq wars are investigated. Then let your companion ask you one hard question about it — answer from the lesson.

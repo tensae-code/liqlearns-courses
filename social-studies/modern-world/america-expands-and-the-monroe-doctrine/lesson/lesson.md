@@ -10,11 +10,15 @@ a young republic grows westward and warns Europe to keep out of the Americas
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62079 — keep out of the americas]
+
 ## Sub lesson 2 — §10.1 How did westward expansion shape the forming of American national self-awareness?
 
 pioneers, trails and annexations forge a continental identity
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62080 — a continental identity]
 
 ## Say it to your companion
 
