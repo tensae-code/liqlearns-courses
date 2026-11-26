@@ -10,11 +10,15 @@ Recorded sound is filed in **types that trade size against quality** — the unc
 
 In your mind's eye: sound file types, compression and editing.
 
+[Picture 46408 — sound file types, compression and editing]
+
 ## Sub lesson 2 — MIDI, and machines that speak and listen
 
 **MIDI** is not sound at all: it is the **standard language of musical instructions** — which note, how hard, how long — passed between instruments and computers, so a performance can be stored as directions and played by any instrument that reads them. Beyond music stand **speech synthesis (TTS)**, turning written text into spoken voice, and **speech recognition (STT)**, turning voice into text and commands — the pair that lets machines talk with people in both directions, and the chapter closes with sound **transmitted over the internet**, streaming to listeners as it plays.
 
 In your mind's eye: mIDI, and machines that speak and listen.
+
+[Picture 46409 — mIDI, and machines that speak and listen]
 
 ## Say it to your companion
 

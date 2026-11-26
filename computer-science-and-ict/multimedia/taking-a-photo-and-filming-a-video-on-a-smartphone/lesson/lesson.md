@@ -10,11 +10,15 @@ The smartphone or tablet's **camera app** shows on the screen **what the camera 
 
 In your mind's eye: taking a photo with the camera.
 
+[Picture 46413 — taking a photo with the camera]
+
 ## Sub lesson 2 — Filming a video — the moving picture
 
 In the camera app's **video** mode, recording **starts** with the record button and **stops** with the same button: everything the camera sees and hears between start and stop is kept as a **video — a moving picture with sound**. While filming, the device is held steady and pointed at the action until the moment is finished. Afterwards the video is **played back** and watched, like the photo is viewed: filming is only finished when the kept video has been checked.
 
 In your mind's eye: filming a video — the moving picture.
+
+[Picture 46414 — filming a video — the moving picture]
 
 ## Say it to your companion
 

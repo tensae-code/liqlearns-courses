@@ -12,6 +12,8 @@ The scheme is then simple: take the message's bits one by one, and write them in
 
 In your mind's eye: one colour byte drawn as eight bit boxes, the last box highlighted and being swapped for a message bit, the value changing from 200 to 200.
 
+[Picture 46411 — one colour byte drawn as eight bit boxes, the last box highlighted and being swapped for a message bit, the value changing from 200 to 200]
+
 ## Sub lesson 2 — Coding and decoding a hidden message
 
 To hide text, the letters must first become bits. The SNT book uses a **base-64 code on 6 bits**: each character is given a number among 64 possibilities, written in binary with exactly six bits — six hiding places per letter. The **coding program** walks the image with PIL, as in the filters lesson, but instead of computing new colours it writes the message's bits into the LSBs, then saves the image — as a **PNG**, never a JPEG, because JPEG compression rewrites the colour values and would shred the hidden bits. The **decoding program** walks the same pixels in the same order, reads the LSBs, groups them by six, and turns the numbers back into letters: the message steps out of the photo.
@@ -19,6 +21,8 @@ To hide text, the letters must first become bits. The SNT book uses a **base-64 
 Two limits keep the art honest. Capacity and survival: recompressing, resizing or filtering the image destroys the message. And secrecy: steganography hides that a message exists, but anyone who suspects the scheme can read it — hiding is not encrypting, and the two are often combined: encrypt first, then hide.
 
 In your mind's eye: the round trip drawn as a circle. A sentence, its 6-bit codes, an innocent-looking photo, the same sentence again.
+
+[Picture 46412 — the round trip drawn as a circle. A sentence, its 6-bit codes, an innocent-looking photo, the same sentence again]
 
 ## Say it to your companion
 

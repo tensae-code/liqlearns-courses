@@ -10,11 +10,15 @@ An audiovisual message is built from elements a reader can name: the **image** (
 
 In your mind's eye: the elements of the moving image.
 
+[Picture 46398 — the elements of the moving image]
+
 ## Sub lesson 2 — Point of view — whose eyes?
 
 Every story is told from a **point of view (point de vue)**: the camera stands somewhere, the narration speaks as someone, and the viewer is lent those eyes. Change the point of view and sympathies move — the activity uses this on a message about bullying between pupils, where whose side the camera takes decides who the audience blames. The reader's standing question: whose eyes am I watching through, and what would this look like from the other side?
 
 In your mind's eye: point of view — whose eyes?.
+
+[Picture 46399 — point of view — whose eyes?]
 
 ## Say it to your companion
 

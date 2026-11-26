@@ -10,11 +10,15 @@ A smartphone or tablet **plays sound through its speaker** and **takes sound in 
 
 In your mind's eye: the sound of the device — speaker and microphone.
 
+[Picture 46402 — the sound of the device — speaker and microphone]
+
 ## Sub lesson 2 — Recording your voice — and playing it back
 
 With the device's **recording app**, the learner **records a short sound — their voice saying their name or a short sentence** — then **plays it back** and listens: the recording is kept on the device as a sound that can be played again. The round trip is the lesson: sound goes in through the microphone, is kept, and comes back out through the speaker when played. If the playback cannot be heard, the checks are the lesson's own: was the microphone covered, and is the volume up?
 
 In your mind's eye: recording your voice — and playing it back.
+
+[Picture 46403 — recording your voice — and playing it back]
 
 ## Say it to your companion
 

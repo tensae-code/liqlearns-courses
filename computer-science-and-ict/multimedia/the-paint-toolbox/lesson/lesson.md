@@ -10,11 +10,15 @@ Paint's **toolbox** (панель инструментов) is the panel of draw
 
 In your mind's eye: the panel of tools.
 
+[Picture 46416 — the panel of tools]
+
 ## Sub lesson 2 — The editor's interface in Grade 9
 
 Grade 9 meets the same panel as the **interface of the Paint graphics editor**: toolbox, palette of colours, drawing canvas and menus together. The older pupil is expected to name the parts and say what each is for — the interface is the editor's face, and every later graphics program keeps the same four parts under new drawings.
 
 In your mind's eye: the editor's interface in Grade 9.
+
+[Picture 46417 — the editor's interface in Grade 9]
 
 ## Say it to your companion
 

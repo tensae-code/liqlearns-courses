@@ -14,6 +14,8 @@ Choose the place before you click: words under the drawing for a name or caption
 
 In your mind's eye: a Paint drawing of a house with the words 'My house' typed under it, and the text tool marked with a letter shown beside it.
 
+[Picture 46415 — a Paint drawing of a house with the words 'My house' typed under it, and the text tool marked with a letter shown beside it]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: In Paint you can put text inside a picture: choose the text tool, click in the picture, and type — so a drawing can carry words, like a name or a caption. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

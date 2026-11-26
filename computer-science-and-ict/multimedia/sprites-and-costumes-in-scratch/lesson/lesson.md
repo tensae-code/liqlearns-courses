@@ -10,6 +10,8 @@ This double lesson builds the pair of ideas every Scratch story needs. A **sprit
 
 In your mind's eye: a picture of one Scratch sprite shown three times in three costumes — standing, walking, surprised. With arrows showing the switch from one look to the next.
 
+[Picture 46410 — a picture of one Scratch sprite shown three times in three costumes — standing, walking, surprised. With arrows showing the switch from one look to the next]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: A sprite is a character or object in Scratch, and a costume is one of its looks: one sprite can hold many costumes and change its look by switching costume. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
