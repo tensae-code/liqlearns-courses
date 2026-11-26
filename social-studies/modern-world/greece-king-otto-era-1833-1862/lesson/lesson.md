@@ -10,11 +10,15 @@ a Bavarian teenage king, foreign regents and loans; Athenians and the army force
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63460 — a constitution forced 1843]
+
 ## Sub lesson 2 — From the 3rd of September 1843 to Otto's expulsion (1862)
 
 party politics tied to foreign embassies, the Crimean humiliation, and a king finally sent home
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63461 — sent home]
 
 ## Say it to your companion
 

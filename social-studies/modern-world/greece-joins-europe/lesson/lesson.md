@@ -10,17 +10,23 @@ from association to full EEC membership in 1981 and the euro, Greece anchors its
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63454 — anchored in europe]
+
 ## Sub lesson 2 — §57 Greece in the 1980s (1981–1989)
 
 PASOK's "Change", EEC membership lived, and a decade that ends in scandal and stalemate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63455 — scandal and stalemate]
+
 ## Sub lesson 3 — §58 Greece in the post-Cold War era (1989–2001)
 
 coalition governments, the Macedonian naming dispute, the euro's road and a Greece inside Europe's core
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63456 — inside the core]
 
 ## Say it to your companion
 

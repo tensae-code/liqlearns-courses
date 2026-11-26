@@ -26,11 +26,15 @@ Cretans rise again and again for union, and Macedonia's Greeks arm as the Balkan
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63438 — rising again and again]
+
 ## Sub lesson 4 — Unit D, ch. 4 Greece at the end of the 19th century
 
 Thessaly gained, then bankruptcy in 1893 — a small, poor, proud state of schools, emigrants and irredentist dreams
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63439 — small poor proud]
 
 ## Sub lesson 5 — Unit D exercise dossier (Greece in the 19th century)
 
@@ -38,11 +42,15 @@ events sorted between the 1844 and 1864 constitutions and the Ionian union, citi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63440 — sorted and matched]
+
 ## Sub lesson 6 — §18 From Otto's arrival (1833) to 3 September 1843
 
 a Bavarian court rules without a constitution until soldiers and people in the square demand one
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63441 — demanded in the square]
 
 ## Sub lesson 7 — §19 From 3 September 1843 to Otto's expulsion (1862)
 
@@ -50,17 +58,23 @@ constitutional monarchy, the Crimean humiliation at Piraeus, and a dynasty that 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63442 — a dynasty that never learns]
+
 ## Sub lesson 8 — §20 From Otto's expulsion (1862) to the Goudi movement (1909)
 
 George I, the Ionian and Thessalian gains, Trikoupis's modernisation, bankruptcy and the 1897 disaster
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63443 — gains then disaster]
+
 ## Sub lesson 9 — §23 Greek economy and society in the 19th century
 
 currant booms and busts, emigration to America, and a peasant country slowly building towns and schools
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63444 — booms busts emigration]
 
 ## Say it to your companion
 
