@@ -973,3 +973,17 @@ Searchable tags: iran, iran science, ministry of education iran, electricity-and
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, electricity-and-magnetism circuits-source-load-wires-open-and-closed
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G11):** *Ciencias Naturales 5to año (Grade 11) — Construyamos el Futuro, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-341-8. PDF 131 pages, 15,778,240 bytes; printed pp. 10–252+. Verdict: COMPLETE for Tomo I (the record calls this book a single volume, "full-year.pdf", but the book as printed is Tomo I of two — record correction as filed). Staged: phase3-staging/grade-11/gov/venezuela/natural-sciences/student/full-year.pdf. Scope note, as filed: the pure Biology lecturas 3–6, pure Chemistry lecturas 7–11 and pure Physics lecturas 12–13 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; lectura 14 is line-noted except its applied part, which is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 14's applied part: designing the lighting circuit of a house (a bulb per room, independent switches, a fuse) and building ecological batteries from fruit (Venezuela, I G11) | Venezuela, *Futuro I G11*, printed pp. 230–251 |
+
+**Acceptance count unchanged: taught in 40 countries.** Venezuela is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, electricity-and-magnetism circuits-source-load-wires-open-and-closed

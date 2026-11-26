@@ -298,3 +298,45 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills semi-guided-investigations-your-question-your-method
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G9):** *Ciencias Naturales 3er año (Grade 9) — Ciencias para Vivir en Comunidad, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-332-6. PDF 139 pages, 77,586,432 bytes; printed pp. 10–271. Verdict: COMPLETE for Tomo I. Staged: phase3-staging/grade-09/gov/venezuela/natural-sciences/student/tomo-1.pdf. Scope note, as filed: the pure Biology lecturas 4–7, pure Chemistry lecturas 8–10 and pure Physics lecturas 11–13 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; only the integrated placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push — recorded as pushed, no file anywhere). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 2: learning by investigating and acting — the learning project: how to work inside one, organise the group, finish it and evaluate it (Venezuela, I G9) | Venezuela, *Comunidad I G9*, printed p. 24 |
+
+**Acceptance count unchanged: taught in 17 countries.** Venezuela is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, comunidad, science-skills semi-guided-investigations-your-question-your-method
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G10):** *Ciencias Naturales 4to año (Grade 10) — Energía para la Vida, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-333-3. PDF 147 pages, 79,401,410 bytes; printed pp. 10–282+. Verdict: COMPLETE for Tomo I. Staged: phase3-staging/grade-10/gov/venezuela/natural-sciences/student/tomo-1.pdf. Scope note, as filed: the pure Biology lecturas 4–6, pure Chemistry lecturas 8–11 and pure Physics lecturas 12–15 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; only the integrated placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 1: organising an action plan, working the collected data, finishing the investigation and evaluating the work (Venezuela, I G10) | Venezuela, *Energía I G10*, printed p. 10 |
+
+**Acceptance count unchanged: taught in 17 countries.** Venezuela is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, energia para la vida, science-skills semi-guided-investigations-your-question-your-method
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G11):** *Ciencias Naturales 5to año (Grade 11) — Construyamos el Futuro, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-341-8. PDF 131 pages, 15,778,240 bytes; printed pp. 10–252+. Verdict: COMPLETE for Tomo I (the record calls this book a single volume, "full-year.pdf", but the book as printed is Tomo I of two — record correction as filed). Staged: phase3-staging/grade-11/gov/venezuela/natural-sciences/student/full-year.pdf. Scope note, as filed: the pure Biology lecturas 3–6, pure Chemistry lecturas 7–11 and pure Physics lecturas 12–13 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; lectura 14 is line-noted except its applied part, which is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 1: investigative learning projects and whole-school community projects as the way to learn science (Venezuela, I G11) | Venezuela, *Futuro I G11*, printed p. 10 |
+
+**Acceptance count unchanged: taught in 17 countries.** Venezuela is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, science-skills semi-guided-investigations-your-question-your-method

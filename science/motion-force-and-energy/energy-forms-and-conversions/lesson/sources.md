@@ -1370,3 +1370,17 @@ Searchable tags: honduras, honduras science, ciencias naturales, secretaria de e
 Kenya's own way — its Junior Secondary (CBC) *Integrated Science* book meets every concept through a numbered group activity with a Key-concepts block after it; chemistry opens the year (matter, elements, the atom, oxygen and fire), then cells, then energy and pressure — is itself course content, carried exactly as filed.
 
 Searchable tags: kenya, longhorn, integrated science, kicd, motion-force-and-energy energy-forms-and-conversions
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G10):** *Ciencias Naturales 4to año (Grade 10) — Energía para la Vida, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-333-3. PDF 147 pages, 79,401,410 bytes; printed pp. 10–282+. Verdict: COMPLETE for Tomo I. Staged: phase3-staging/grade-10/gov/venezuela/natural-sciences/student/tomo-1.pdf. Scope note, as filed: the pure Biology lecturas 4–6, pure Chemistry lecturas 8–11 and pure Physics lecturas 12–15 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; only the integrated placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 3 (integrated reading): from energy sources to electricity — energy is always transforming; water vapour and the thermoelectric plants (Venezuela, I G10) | Venezuela, *Energía I G10*, printed p. 46 |
+
+**Acceptance count unchanged: taught in 52 countries.** Venezuela is already counted in this lesson through its other books stocked earlier; this book adds its rows, not a new country.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, energia para la vida, motion-force-and-energy energy-forms-and-conversions

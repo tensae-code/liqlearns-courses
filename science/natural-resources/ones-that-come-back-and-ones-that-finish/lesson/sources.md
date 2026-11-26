@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan, Iran, Kazakhstan, Honduras
+countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan, Iran, Kazakhstan, Honduras, Venezuela
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -650,3 +650,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, natural-resources/ones-that-come-back-and-ones-that-finish
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G11):** *Ciencias Naturales 5to año (Grade 11) — Construyamos el Futuro, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-341-8. PDF 131 pages, 15,778,240 bytes; printed pp. 10–252+. Verdict: COMPLETE for Tomo I (the record calls this book a single volume, "full-year.pdf", but the book as printed is Tomo I of two — record correction as filed). Staged: phase3-staging/grade-11/gov/venezuela/natural-sciences/student/full-year.pdf. Scope note, as filed: the pure Biology lecturas 3–6, pure Chemistry lecturas 7–11 and pure Physics lecturas 12–13 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; lectura 14 is line-noted except its applied part, which is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 2: "¿Siempre vamos a tener petróleo?" — petroleum as a resource that finishes (Venezuela, I G11) | Venezuela, *Futuro I G11*, printed p. 26 |
+
+**Acceptance count: taught in 33 countries — Venezuela added.**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, construyamos el futuro, natural-resources ones-that-come-back-and-ones-that-finish

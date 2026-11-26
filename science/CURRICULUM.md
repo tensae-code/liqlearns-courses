@@ -782,6 +782,7 @@ solar-system comparison lessons.
 39. **How soil is degraded — five forms** (`soil-and-water/how-soil-is-degraded-five-forms`) — a degraded soil in the FAO definition presents changes in its physical, chemical and biological characteristics that affect its productivity and its capacity to support the ecosystem; main causes:… (Honduras — built for the Honduras placements, expansion-science-2026-11-13/honduras-placements.md)
 40. **Rivers and watersheds of my country** (`soil-and-water/rivers-and-watersheds-of-my-country`) — A watershed (cuenca hidrográfica) is the territory at the sides of a river's course — mountains, valleys, plateaus and gorges; the book maps Honduras's watersheds (Ulúa, Patuca, Lempa, Choluteca,… (Honduras — built for the Honduras placements, expansion-science-2026-11-13/honduras-placements.md)
 
+41. **Drinking water — access as a human right** (`soil-and-water/drinking-water-access-as-a-human-right`) — access to safe drinking water is a human right — something every person is owed simply for being a person — and with the right comes a duty: water that is a right for everyone must not be wasted by anyone. (Venezuela, I G9 — *Comunidad I G9*, student book; built for the Venezuela placements, expansion-phantom-repair-2026-11-25/venezuela-placements.md)
 ## Unit 8 — Plants
 
 1. **Fallen leaves feed the soil; plants hold the soil** (`plants/fallen-leaves-feed-the-soil`) — fallen leaves and grass rot into the topsoil and raise its fertility; plants stop soil erosion, shelter wild animals and give recreation — and cutt…

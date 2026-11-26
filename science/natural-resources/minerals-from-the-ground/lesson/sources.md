@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Kazakhstan, Honduras
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan, Kazakhstan, Honduras
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -639,3 +639,17 @@ Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu,
 Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
 
 Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, natural-resources/minerals-from-the-ground
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G9):** *Ciencias Naturales 3er año (Grade 9) — Ciencias para Vivir en Comunidad, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-332-6. PDF 139 pages, 77,586,432 bytes; printed pp. 10–271. Verdict: COMPLETE for Tomo I. Staged: phase3-staging/grade-09/gov/venezuela/natural-sciences/student/tomo-1.pdf. Scope note, as filed: the pure Biology lecturas 4–7, pure Chemistry lecturas 8–10 and pure Physics lecturas 11–13 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; only the integrated placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push — recorded as pushed, no file anywhere). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela's own way in the same closing reading: petroleum as the country's great underground wealth, held for the wellbeing of the people (Venezuela, I G9) | Venezuela, *Comunidad I G9*, printed p. 266 |
+
+**Acceptance count: taught in 29 countries — Venezuela added.** Venezuela stood in this lesson on teacher-guide evidence only; this student book now carries it into the count.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, comunidad, natural-resources minerals-from-the-ground

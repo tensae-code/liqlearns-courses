@@ -1,6 +1,6 @@
 # Sources — River basins — watersheds
 
-countries: Mexico, Palau (teacher's-edition evidence only)
+countries: Mexico, Palau (teacher's-edition evidence only), Venezuela
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -22,3 +22,17 @@ Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — 
 Placement choice, on the record: This NEW LESSON was built for the Mexico placement "NEW LESSON NEEDED — river-basins-watersheds" — mexico-placements.md, printed pp. 87–92. No existing general-science lesson covers hydrographic basins as its own thing (checked the live repo at merge time: soil-and-water teaches rivers and lakes of particular regions, not the basin as a drainage whole), so it gets its own lesson. It sits in soil-and-water/ and is registered in CURRICULUM.md Unit 7 (Soil and Water). Mexico's own way — basins taught from definition to the country's own distribution to their place in economic development — IS part of this lesson's content, carried exactly as the placement describes it.
 
 Searchable tags: river basins, watersheds, hydrographic basins, drainage, distribution, economic development, mexico, grade 7, etica naturaleza y sociedades, palau, ridge to reef palau, palau grade 5
+
+## Venezuela growth (2026-11-25, phantom-repair wave)
+
+**Book (Venezuela — I G10):** *Ciencias Naturales 4to año (Grade 10) — Energía para la Vida, Tomo I (Colección Bicentenario)* (student book) — Venezuela, Ministerio del Poder Popular para la Educación, Tercera edición, Abril 2014, Bicentenario co-edition; ISBN 978-980-218-333-3. PDF 147 pages, 79,401,410 bytes; printed pp. 10–282+. Verdict: COMPLETE for Tomo I. Staged: phase3-staging/grade-10/gov/venezuela/natural-sciences/student/tomo-1.pdf. Scope note, as filed: the pure Biology lecturas 4–6, pure Chemistry lecturas 8–11 and pure Physics lecturas 12–15 are single-discipline readings, line-noted in the placements file as covered by the earlier Biology/Chemistry/Physics waves — not item-placed here; only the integrated placements below are stocked. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-25 phantom-repair wave (the 2026-11-13 record of this book was a phantom push). Placements at liqlearns-courses-work/expansion-phantom-repair-2026-11-25/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lectura 2: knowing our hydrographic basins (cuencas hidrográficas) (Venezuela, I G10) | Venezuela, *Energía I G10*, printed p. 26 |
+
+**Acceptance count: taught in 2 countries (Mexico, Venezuela) — Venezuela added.**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, energia para la vida, soil-and-water river-basins-watersheds
