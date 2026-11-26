@@ -10,6 +10,8 @@ A welfare (benefactor) state shapes Costa Rican society for three decades — un
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62820 — the benefactor state]
+
 ## Sub lesson 2 — El Estado Benefactor y la sociedad costarricense (1950–1980) (Porras y Gamboa)
 
 The welfare state — state banking, the Estado empresario (CODESA), health and education — builds a broad middle class, with urban problems and the Guanacaste land seizures at its edges (Unidad 2, B: El Estado Benefactor y la sociedad costarricense (1950–1980))

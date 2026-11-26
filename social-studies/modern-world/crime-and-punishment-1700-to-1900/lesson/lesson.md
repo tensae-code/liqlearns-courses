@@ -10,11 +10,15 @@ Highway robbery, poaching and organised smuggling gangs like the Hawkhurst Gang 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62824 — smugglers and martyrs]
+
 ## Sub lesson 2 — 3.2 Changing attitudes to punishment, c1700–c1900
 
 The Bloody Code swells to 222 capital crimes by 1810, then opinion turns — transportation to Australia rises and falls, public execution ends and prison takes over.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62825 — 222 capital crimes]
 
 ## Sub lesson 3 — 3.3 Law enforcement, c1700–c1900
 
@@ -22,17 +26,23 @@ The Fielding brothers' Bow Street Runners (1748) start the shift from catching t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62826 — bow street runners]
+
 ## Sub lesson 4 — 3.4 Case study: the separate system at Pentonville Prison
 
 As reported crime quadruples, Victorians build Pentonville (opened 1842) on silence and isolation to reform prisoners; the regime is later softened as its harms show.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62827 — pentonville 1842]
+
 ## Sub lesson 5 — 3.5 Case study: the reforms of Robert Peel
 
 Home Secretary Robert Peel cuts the capital statutes, reforms prisons and in 1829 founds the Metropolitan Police, the model copied across the country.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62828 — peels police 1829]
 
 ## Say it to your companion
 

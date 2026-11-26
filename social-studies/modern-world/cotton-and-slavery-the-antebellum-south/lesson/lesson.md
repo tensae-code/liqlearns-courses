@@ -10,6 +10,8 @@ The cotton gin made cleaning cotton fast — and made slavery more profitable th
 
 In your mind's eye: the world of this lesson as the book shows it. Say what changed in this part of the story.
 
+[Picture 62822 — cotton was king]
+
 ## Sub lesson 2 — The lives of enslaved and free African Americans
 
 Behind the economics stand lives: the book follows enslaved African Americans — their work, families and resistance under the system — and free African Americans, living free in law but fenced by racism in a slave society.

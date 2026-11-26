@@ -10,6 +10,8 @@ The post-1949 electoral political system is presented as the institutional frame
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62817 — the electoral frame]
+
 ## Sub lesson 2 — El sistema político electoral (Porras y Gamboa)
 
 The post-1949 electoral order — and the outlawed Communist Party outside it (Unidad 2, C: El sistema político electoral)

@@ -10,11 +10,15 @@ After Luther's 1517 protest splits Europe's religion, heresy, treason, vagabonda
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62829 — new crimes]
+
 ## Sub lesson 2 — 2.2 Law enforcement and punishment, c1500–c1700
 
 Growing towns outgrow the hue and cry, so town constables and the night watch appear, the death penalty spreads and transportation is introduced.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62830 — constables and the watch]
 
 ## Sub lesson 3 — 2.3 Case study: the crimes and punishment of the Gunpowder Plotters, 1605
 
@@ -22,11 +26,15 @@ Guy Fawkes and fellow Catholic conspirators plot to blow up James I and Parliame
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62831 — 5 november 1605]
+
 ## Sub lesson 4 — 2.4 Witchcraft and the law, c1500–c1700
 
 A whole society believes witches pact with the devil; in the 1640s Matthew Hopkins hunts them, then belief fades and witchcraft stops being prosecuted as a serious crime by c1700.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62832 — the witch hunter]
 
 ## Say it to your companion
 

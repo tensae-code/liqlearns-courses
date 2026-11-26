@@ -10,6 +10,8 @@ Coffee interests and military men control the state (1850–1870); the following
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62814 — coffee and the military]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Control cafetalero-militar y consolidación — Coffee interests and military men control the state (1850–1870); the following decades consolidate the Costa Rican nation-state (1870–1890). Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Workers, parties and reformers fight the social battles that build Costa Rican d
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62816 — building democracy]
+
 ## Sub lesson 2 — La construcción de la democracia y las luchas sociales (Porras y Gamboa)
 
 Electoral reform and the coffee workers' and producers' struggles widen democracy before 1948 (Unidad 2, B: La construcción de la democracia y las luchas sociales)

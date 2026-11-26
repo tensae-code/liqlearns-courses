@@ -10,6 +10,8 @@ Women's work and the long fight for the vote (Unidad 2, B: La situación social 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62821 — the fight for the vote]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La situación social y laboral de la mujer; las luchas de las mujeres por el sufragio — Women's work and the long fight for the vote. Then let your companion ask you one hard question about it — answer from the lesson.

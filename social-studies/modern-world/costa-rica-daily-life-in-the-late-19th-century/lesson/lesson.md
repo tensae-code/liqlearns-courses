@@ -10,6 +10,8 @@ The book ends at home: how ordinary Costa Ricans lived in the second half of the
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62815 — ordinary lives]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: La vida cotidiana costarricense — The book ends at home: how ordinary Costa Ricans lived in the second half of the 19th century. Then let your companion ask you one hard question about it — answer from the lesson.

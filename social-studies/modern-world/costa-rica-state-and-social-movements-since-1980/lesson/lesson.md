@@ -10,6 +10,8 @@ State, elections and social movements from the 1980s to the present close the na
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62819 — since the eighties]
+
 ## Sub lesson 2 — El papel del Estado y los movimientos sociales desde 1980 (Porras y Gamboa)
 
 Social movements answer the neoliberal turn; two-party rule and its discontents close the book's "yesterday and today in Costa Rica" (Unidad 3, B: El papel del Estado y los movimientos sociales desde 1980)

@@ -10,6 +10,8 @@ Russian courts for settlers, qazi and biy courts tolerated for natives — two j
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62823 — two justices]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 §17 The organisation of court proceedings — Russian courts for settlers, qazi and biy courts tolerated for natives — two justices in one land, and everyone knows which is above. Then let your companion ask you one hard question about it — answer from the lesson.

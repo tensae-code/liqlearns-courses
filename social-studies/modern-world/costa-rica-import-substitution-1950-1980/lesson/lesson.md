@@ -10,6 +10,8 @@ From 1950 to 1980 Costa Rica diversifies production and industrialises by substi
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 62818 — substituting imports]
+
 ## Sub lesson 2 — El modelo de sustitución de importaciones (Porras y Gamboa)
 
 Import substitution and agricultural diversification promise industry — and the model exhausts itself (Unidad 2 (sociedad 1950–1980), A: El modelo de sustitución de importaciones)
