@@ -10,11 +10,15 @@ An **approximate number** is a value used **in place of a true value** it differ
 
 In your mind's eye: approximate numbers — the true value and its stand-in.
 
+[Picture 46700 — approximate numbers — the true value and its stand-in]
+
 ## Sub lesson 2 — Relative error — error against size
 
 The **relative error** divides the absolute error by the value's size: **δ = Δa / |a|** — often spoken as a **percentage**. It, not the absolute error, judges quality: an error of 1 mm is excellent in a kilometre of road and disgraceful in a 3 mm screw. Relative error travels through computations as their health record — the sections after this one track how it is born (at measurement, at rounding) and how operations grow it. A number without its error is only half reported: exactness is a claim, error is the evidence.
 
 In your mind's eye: relative error — error against size.
+
+[Picture 46701 — relative error — error against size]
 
 ## Say it to your companion
 

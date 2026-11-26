@@ -10,6 +10,8 @@ Scratch's green **operator blocks** give programs a calculator inside them. The 
 
 In your mind's eye: a picture of green Scratch operator blocks — add, subtract, multiply, divide. Feeding their answers into a move block, and a random block beside a dice showing its lowest and highest numbers.
 
+[Picture 46709 — a picture of green Scratch operator blocks — add, subtract, multiply, divide. Feeding their answers into a move block, and a random block beside a dice showing its lowest and highest numbers]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Operator blocks do arithmetic inside a program — add, subtract, multiply, divide — and a random block picks a number by chance, so a program can count and can surprise. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

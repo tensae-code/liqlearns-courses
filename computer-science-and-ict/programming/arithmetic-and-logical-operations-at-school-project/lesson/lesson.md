@@ -10,6 +10,8 @@ Skills separately learned must learn to work together. In **"На училище
 
 In your mind's eye: a picture of a school-themed Scratch scene — a quiz on the stage. With arithmetic blocks adding a score on one side and a branching block deciding pass or retry on the other.
 
+[Picture 46708 — a picture of a school-themed Scratch scene — a quiz on the stage. With arithmetic blocks adding a score on one side and a branching block deciding pass or retry on the other]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: The "At School" double lesson puts arithmetic blocks, comparisons and logical operators to work together in one school-themed Scratch project — computing and deciding in the same program. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

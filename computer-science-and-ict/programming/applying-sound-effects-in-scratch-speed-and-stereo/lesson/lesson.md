@@ -10,11 +10,15 @@ The **pitch (speed) effect** changes how a sound plays: **raise it and the sound
 
 In your mind's eye: the speed effect — faster and higher, slower and lower.
 
+[Picture 46698 — the speed effect — faster and higher, slower and lower]
+
 ## Sub lesson 2 — The pan effect — sound between the ears
 
 The **pan (stereo) effect** moves a sound **between the left and the right side**: set it one way and the sound plays **from the left**, the other way **from the right**, and in the middle it plays **from both sides together**. A project uses it to place sounds in space: footsteps cross from left to right as a character crosses the stage. Effects are cleared back to plain playing by the **clear sound effects** step — taught with stopping sounds in the next séance — so a sprite can return to its natural voice.
 
 In your mind's eye: the pan effect — sound between the ears.
+
+[Picture 46699 — the pan effect — sound between the ears]
 
 ## Say it to your companion
 

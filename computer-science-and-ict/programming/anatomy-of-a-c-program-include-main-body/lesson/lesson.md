@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Structure of C Program** — cov
 
 In your mind's eye: structure of C Program.
 
+[Picture 46690 — structure of C Program]
+
 ## Sub lesson 2 — Basic Structure of a C Program
 
 This part of Pakistan (Punjab)'s book teaches **Basic Structure of a C Program** — covering: Chapter 8 §8.3 Basic Structure of a C Program (structured vs unstructured programming; the Hello World program; §8.3.1 preprocessor directives — #include and header files, #define constant macros; §8.3.2 function main; §8.3.3 delimiters; §8.3.4 the statement terminator; §8.3.5 the printf function). The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: basic Structure of a C Program.
+
+[Picture 46691 — basic Structure of a C Program]
 
 ## Say it to your companion
 

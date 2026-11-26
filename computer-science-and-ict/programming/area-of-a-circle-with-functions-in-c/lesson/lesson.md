@@ -10,11 +10,15 @@ This part of South Sudan's book teaches **Practical guide, Example — area of a
 
 In your mind's eye: practical guide, Example — area of a circle with a computeCircle function.
 
+[Picture 46704 — practical guide, Example — area of a circle with a computeCircle function]
+
 ## Sub lesson 2 — Doing it — Practical guide, Example — area of a circle with a computeCircle function in practice
 
 This part of South Sudan's book teaches **Doing it — Practical guide, Example — area of a circle with a computeCircle function in practice** — covering: Practical guide, Example — area of a circle with a computeCircle function. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Practical guide, Example — area of a circle with a computeCircle function. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Practical guide, Example — area of a circle with a computeCircle function in practice is part of that chain..
 
 In your mind's eye: doing it — Practical guide, Example. Area of a circle with a computeCircle function in practice.
+
+[Picture 46705 — doing it — Practical guide, Example. Area of a circle with a computeCircle function in practice]
 
 ## Say it to your companion
 

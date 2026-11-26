@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Анимирование персона
 
 In your mind's eye: анимирование персонажей. Создание спрайтов.
 
+[Picture 46694 — анимирование персонажей. Создание спрайтов]
+
 ## Sub lesson 2 — Drawing shapes. Pygame animation
 
 This part of Kazakhstan's book teaches **Drawing shapes. Pygame animation** — covering: 4.3 Drawing shapes. Pygame animation. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: drawing shapes. Pygame animation.
+
+[Picture 46695 — drawing shapes. Pygame animation]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The pattern is the familiar walk with a function inside: **b[i] = sqrt(a[i]);** 
 
 In your mind's eye: one function, every element.
 
+[Picture 46696 — one function, every element]
+
 ## Sub lesson 2 — Transforms, then facts about transforms
 
 Transformed arrays feed the usual walks — total the **absolute values**, find the largest **square**, count the elements whose **rounded** value passes a mark. Each job is a composition: transform inside the walk that totals, crowns or counts. The section's discipline is order: know whether the function applies **per element** (one pass) or needs an **array-wide fact first** (two passes).
 
 In your mind's eye: transforms, then facts about transforms.
+
+[Picture 46697 — transforms, then facts about transforms]
 
 ## Say it to your companion
 

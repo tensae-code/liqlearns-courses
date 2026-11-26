@@ -10,11 +10,15 @@ An Arduino program — a **sketch** — is written in **C**, and every sketch, f
 
 In your mind's eye: the skeleton — two functions every sketch has.
 
+[Picture 46702 — the skeleton — two functions every sketch has]
+
 ## Sub lesson 2 — Writing in the skeleton — order, braces and the one-time test
 
 The structure disciplines the writing: a command belongs in setup() if it must happen exactly once, in loop() if it is the behaviour repeated. The text rules of Arduino C ride on the skeleton — statements end with **semicolons**, blocks live inside **curly braces**, and `void` names a function that returns nothing. The beginner's standing fault is a one-time act written in loop() (a pin re-set a thousand times a second) or a behaviour trapped in setup() (run once, then silence). Read any sketch by its rooms and the program's whole shape is visible at a glance.
 
 In your mind's eye: writing in the skeleton — order, braces and the one-time test.
+
+[Picture 46703 — writing in the skeleton — order, braces and the one-time test]
 
 ## Say it to your companion
 

@@ -14,6 +14,8 @@ Join them with **OR**, and at least one part must be true. *I will drink tea OR 
 
 In your mind's eye: a rainy, windy day with the words AND between two small pictures, and a cup of tea and a glass of water with OR between them.
 
+[Picture 46692 — a rainy, windy day with the words AND between two small pictures, and a cup of tea and a glass of water with OR between them]
+
 Say it short: AND is strict — both, or nothing. OR is kind — one is enough.
 
 ## Sub lesson 2 — NOT — the opposite statement
@@ -23,6 +25,8 @@ One small word can turn a statement right around: **NOT**.
 Put NOT in a statement, and its truth flips. *The door is open* — true? Then *the door is NOT open* is false. *It is raining* — false today? Then *it is NOT raining* is true.
 
 In your mind's eye: an open door and the same door shut, with the word NOT between the two pictures.
+
+[Picture 46693 — an open door and the same door shut, with the word NOT between the two pictures]
 
 NOT does not join two statements — it works on one, and changes it into its opposite. Whenever you meet NOT, do the flip in your head first: true becomes false, false becomes true.
 
