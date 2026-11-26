@@ -10,11 +10,15 @@ thirty years of growth, full employment and mass consumption — Packard's Docum
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40027 — goldenage]
+
 ## Sub lesson 2 — Modulo 11 §§1–3 La crescita demografica; Il boom economico; Consumi e Welfare
 
 baby boom, washing machines and the welfare state — Van der Wee on the demand imperative, Packard's hidden persuaders and McLuhan's medium (Fare storia pieces) describe affluence and its salesmen in one dossier
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40026 — babyboom]
 
 ## Say it to your companion
 

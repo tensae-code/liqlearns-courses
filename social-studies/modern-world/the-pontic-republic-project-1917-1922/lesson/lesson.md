@@ -10,6 +10,8 @@ as the Ottoman Empire collapses, Pontic leaders lobby Paris and arm guerrillas f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40029 — nevergranted]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 D: Struggles for an autonomous Pontic Republic (1917–1922) — as the Ottoman Empire collapses, Pontic leaders lobby Paris and arm guerrillas for a Pontic state that the great powers never grant. Then let your companion ask you one hard question about it — answer from the lesson.

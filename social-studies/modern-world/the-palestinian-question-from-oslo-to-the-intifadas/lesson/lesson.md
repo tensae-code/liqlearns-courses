@@ -10,6 +10,8 @@ Oslo's hope and its collapse; the conflict's documents run from the UN resolutio
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40041 — osloquestion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 17 §3 La questione palestinese — Oslo's hope and its collapse; the conflict's documents run from the UN resolution to Kuttab's stones — a question every framework fails to close. Then let your companion ask you one hard question about it — answer from the lesson.

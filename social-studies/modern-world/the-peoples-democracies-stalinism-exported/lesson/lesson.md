@@ -10,11 +10,15 @@ coalition governments are eaten one by one and the Soviet model — party, plan,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40035 — twosystems]
+
 ## Sub lesson 2 — Modulo 9 §4 L'Urss e l'Europa orientale
 
 the Warsaw Pact (Fare storia Document) formalises an empire of people's democracies; the Soviet model is exported whole — party, plan and police
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40034 — modelhouses]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ defeated Paris refuses Thiers' Versailles government, elects the Commune Council
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40039 — communegate]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II §4 The state coup in France and its consequences (the Paris Commune) — defeated Paris refuses Thiers' Versailles government, elects the Commune Council (26 March 1871) and runs a workers' city-state — free schools, abandoned factories handed to their workers — before Versailles' army retakes the city street by street. Then let your companion ask you one hard question about it — answer from the lesson.

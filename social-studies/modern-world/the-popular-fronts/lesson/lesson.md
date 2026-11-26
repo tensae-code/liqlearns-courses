@@ -10,6 +10,8 @@ France and Spain answer fascism with alliances of the left; the democracies that
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40028 — coalition]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 5 §8 Le democrazie europee e i «fronti popolari» — France and Spain answer fascism with alliances of the left; the democracies that hold do so by coalition — the exception that tests the decade's rule. Then let your companion ask you one hard question about it — answer from the lesson.

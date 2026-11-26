@@ -10,6 +10,8 @@ Britain quits India by splitting it — two states are born amid mass migration 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40036 — partitionline]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §2 The partition of British India and the formation of two dominions; the proclamation of India's and Pakistan's independence — Britain quits India by splitting it — two states are born amid mass migration and violence. Then let your companion ask you one hard question about it — answer from the lesson.

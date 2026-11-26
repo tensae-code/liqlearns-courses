@@ -58,11 +58,15 @@ Indian Muslims march for a caliph in Istanbul, and the movement collapses when i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40049 — khilafat1919]
+
 ## Sub lesson 10 — The Nehru Report, 1928
 
 A Congress-written constitution leaves Muslims unprotected, and the League learns to bargain as a separate nation.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40048 — nehru1928]
 
 ## Sub lesson 11 — Iqbal's Allahabad Address, 1930
 
@@ -70,11 +74,15 @@ A poet-philosopher names the destination while London conferences prove Hindus a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40047 — iqbal1930]
+
 ## Sub lesson 12 — The 1935 Act and the Congress ministries
 
 Two years of Congress government become the League's best recruiting argument for a separate homeland.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40046 — ministriesrecruit]
 
 ## Sub lesson 13 — The Lahore Resolution, 1940
 
@@ -82,11 +90,15 @@ At Minto Park the League stops asking for safeguards and demands a country of it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40045 — lahore1940]
+
 ## Sub lesson 14 — Women and students carry the movement
 
 Purdah-era women and college students become organisers and couriers of a national movement.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40044 — womencarry]
 
 ## Sub lesson 15 — Cripps, Quit India and Direct Action Day
 
@@ -94,11 +106,15 @@ Wartime offers satisfy nobody, and politics moves from conference tables to the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40043 — streetdecides]
+
 ## Sub lesson 16 — Independence — 14 August 1947
 
 An empire ends at midnight and a new state begins with a refugee crisis already at its door.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 40042 — midnight1947]
 
 ## Say it to your companion
 

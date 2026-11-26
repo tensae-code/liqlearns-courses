@@ -10,6 +10,8 @@ deportations to the interior, labour battalions and massacres destroy most of Po
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40030 — pontuscandles]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5 D: The methodical extermination (genocide) of the Greeks of Pontus — deportations to the interior, labour battalions and massacres destroy most of Pontic Hellenism between 1914 and 1923. Then let your companion ask you one hard question about it — answer from the lesson.

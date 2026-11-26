@@ -10,6 +10,8 @@ Persians take bast in mosques and cemeteries where no punishment can touch them,
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40033 — bastmajlis]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. V §32 Iran at the end of the 19th – beginning of the 20th century — Persians take bast in mosques and cemeteries where no punishment can touch them, demanding a "House of Justice"; the shah concedes a constitution and the first Majlis (1906) takes the budget and foreign loans into its own hands — then a new shah fights the revolution his father signed. Then let your companion ask you one hard question about it — answer from the lesson.
