@@ -10,11 +10,15 @@ A **keyboard trainer** is a program that teaches typing: it shows letters, words
 
 In your mind's eye: what a keyboard trainer is.
 
+[Picture 45230 — what a keyboard trainer is]
+
 ## Sub lesson 2 — The continuation — building the habit
 
 The book's second trainer lesson is marked simply *continuation* (продолжение): the same exercises, carried further — longer lines, steadier rhythm, fewer looks down. That is the lesson's own teaching: a skill like typing is not a fact to finish but a habit to build, and the trainer's score lets each pupil race only their own yesterday.
 
 In your mind's eye: the continuation — building the habit.
+
+[Picture 45231 — building the habit]
 
 ## Say it to your companion
 

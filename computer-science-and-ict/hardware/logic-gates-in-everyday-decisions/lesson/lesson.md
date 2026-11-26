@@ -10,11 +10,15 @@ Many everyday decisions are **logic in disguise**. 'You may enter the lab **if**
 
 In your mind's eye: decisions have gates in them — AND, OR, NOT in words.
 
+[Picture 45238 — decisions have gates in them]
+
 ## Sub lesson 2 — Truth tables for life — checking a decision before living it
 
 Once a decision is written as gates, its **truth table** can be built like any circuit's: every combination of inputs, and the output the rule gives. The table is a **pre-mortem** for the decision — the row nobody considered (card forgotten **and** teacher absent **and** deadline today) shows its output before life does. The book's discipline is the engineer's: state the inputs honestly (a condition that is sometimes true is an input, not a certainty), keep the model small enough to check whole, and remember the model's limit — real life adds inputs the table never listed, so the table guides judgement, it does not replace it. The Grade 12 course closes its projects this way: number systems and gates, built twice in code, finally spent on thinking.
 
 In your mind's eye: truth tables for life — checking a decision before living it.
+
+[Picture 45239 — truth tables for life]
 
 ## Say it to your companion
 

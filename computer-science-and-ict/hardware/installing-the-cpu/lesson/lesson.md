@@ -10,11 +10,15 @@ Installing begins before touching: the machine is **off, unplugged and opened**,
 
 In your mind's eye: alignment first — the marked corner.
 
+[Picture 45222 — alignment first — the marked corner]
+
 ## Sub lesson 2 — Seating, locking and cooling
 
 With the processor seated, the **socket lever is closed** to lock it in place. Then its cooling: **heat-sink compound (thermal paste)** is spread thin where sink meets chip if the book's build requires it, the **heat sink and fan are fitted and clipped down evenly**, and the **fan's power lead is connected** to the board. An uncooled or badly cooled CPU overheats within moments of work, so the install is not finished when the chip sits — it is finished when the chip sits, locked and cooled, with its fan powered.
 
 In your mind's eye: seating, locking and cooling.
+
+[Picture 45223 — seating, locking and cooling]
 
 ## Say it to your companion
 

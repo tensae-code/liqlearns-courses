@@ -10,11 +10,15 @@ The board never screws directly to the case wall. **Stand-offs** — small metal
 
 In your mind's eye: stand-offs and alignment — the board must not touch the case.
 
+[Picture 45224 — stand-offs — the board must not touch the case]
+
 ## Sub lesson 2 — Screwing down — firm, even, not forced
 
 Screws go in **a few turns each, working across the board**, before any one is tightened — the board settles flat instead of being pulled crooked by the first corner. Tightening is **firm, never forced**: an over-driven screw cracks the board or strips its stand-off. Power leads from the power supply are then connected to the board's sockets. Laos's check closes the section: the board sits flat, every screw present and firm, ports showing through the back, nothing trapped underneath — the foundation the rest of the build can trust.
 
 In your mind's eye: screwing down — firm, even, not forced.
+
+[Picture 45225 — screwing down — firm, even, not forced]
 
 ## Say it to your companion
 

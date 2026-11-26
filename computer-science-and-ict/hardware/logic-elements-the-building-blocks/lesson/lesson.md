@@ -10,11 +10,15 @@ A **logic element** is a small circuit with inputs and one output: signals arriv
 
 In your mind's eye: what a logic element is.
 
+[Picture 45236 — what a logic element is]
+
 ## Sub lesson 2 — Building bigger work from elements
 
 Elements join: the output of one feeds the input of another, and a chain of elements can add numbers, compare them, or remember a bit. The whole processor is such chains — millions of building blocks, each doing one tiny logical job exactly. That is why the lesson calls them building blocks: nothing in the machine is cleverer than the chain; the chain is the cleverness.
 
 In your mind's eye: building bigger work from elements.
+
+[Picture 45237 — building bigger work from elements]
 
 ## Say it to your companion
 

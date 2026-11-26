@@ -10,11 +10,15 @@ An **integrated circuit (IC)** is a whole circuit — transistors, gates, their 
 
 In your mind's eye: integrated circuits — gates gathered on one chip.
 
+[Picture 45226 — integrated circuits — gates gathered on one chip]
+
 ## Sub lesson 2 — The CPU — the greatest integrated circuit in the machine
 
 The **central processing unit** is the machine's most gathered IC: its **control unit** directing, its **arithmetic-logic unit** calculating, its **registers** holding the moment's work, all on chips whose component counts the chapter traces into the **modern trends** — more cores working in parallel, smaller transistors at the edge of the physical, speed bought by cleverness of organisation as much as by size. The ladder closes where it aimed: gates became circuits, circuits became chips, chips became the brain the whole course has been programming.
 
 In your mind's eye: the CPU — the greatest integrated circuit in the machine.
+
+[Picture 45227 — the CPU — the greatest integrated circuit]
 
 ## Say it to your companion
 

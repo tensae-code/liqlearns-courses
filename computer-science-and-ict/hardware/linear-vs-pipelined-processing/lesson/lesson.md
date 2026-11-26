@@ -10,11 +10,15 @@ In **linear (sequential) processing**, an instruction passes through **all** the
 
 In your mind's eye: linear processing — one at a time, whole.
 
+[Picture 45234 — linear processing — one at a time, whole]
+
 ## Sub lesson 2 — Pipelining — stages overlapping
 
 **Pipelining** overlaps the stages: while instruction 1 is being **executed**, instruction 2 is being **decoded** and instruction 3 is being **fetched** — like an assembly line, every stage working at once, each on a different instruction. After the line fills, one instruction **finishes on every cycle**, though each still takes its full path through the stages: pipelining raises **throughput** (instructions per time), not the speed of any single instruction. Malaysia's comparison keeps the honest cost: the line stumbles when an instruction needs a result the line has not finished yet — the neat overlap has a traffic problem at its heart, which real processors spend much of their cleverness managing.
 
 In your mind's eye: pipelining — stages overlapping.
+
+[Picture 45235 — pipelining — stages overlapping]
 
 ## Say it to your companion
 

@@ -16,6 +16,8 @@ The **OR gate** is drawn with a curved back and a pointed front. Expression: Y =
 
 In your mind's eye: the three basic gates in a row, each with its symbol, its expression under it, and its truth table beside it, the inverter's bubble circled.
 
+[Picture 45240 — NOT, AND and OR — the three basic gates]
+
 Nothing here is new behaviour — the gates *are* the operations. What is new is thinking of them as things with pins: a gate takes the voltages that arrive now and answers now, with no memory of what came before. Circuits with memory come later in the climb, and they are built by wiring these forgetful gates in a loop.
 
 ## Sub lesson 2 — NAND, NOR, XOR, XNOR — and complex gates
@@ -25,6 +27,8 @@ Add an inverter to the output of AND and you get **NAND** — 'not-AND'. Its sym
 **XOR** has a symbol like OR with an extra curve at the back; its output is 1 when the inputs are different. **XNOR** is XOR with the bubble: output 1 when the inputs are the *same* — an equality checker in one component.
 
 In your mind's eye: nAND, NOR, XOR and XNOR in a row with their symbols and tables, the bubbles that mark negation picked out in colour.
+
+[Picture 45241 — NAND, NOR, XOR and XNOR]
 
 The superpower: **NAND is a universal gate, and so is NOR.** Tie a NAND's inputs together and it is an inverter. Follow a NAND with that inverter and you have AND. Negate the inputs of a NAND and De Morgan turns it into OR. So NOT, AND and OR — and therefore *every* switching function — can be built from NANDs alone, and chip makers do exactly that: one gate type, made by the million, wired in patterns. The gates lesson of any real factory is mostly NAND.
 

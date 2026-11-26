@@ -10,11 +10,15 @@ A **shortcut key** is a **combination** — a modifier key held (Ctrl, Alt, Shif
 
 In your mind's eye: what a shortcut key is.
 
+[Picture 45228 — what a shortcut key is]
+
 ## Sub lesson 2 — Learning the roads — the working set
 
 Grade 7's session builds the **working set** a learner uses daily: saving and opening (Ctrl+S, Ctrl+O), the clipboard family (cut, copy, paste — Ctrl+X, C, V), undo and redo (Ctrl+Z, Ctrl+Y), select all (Ctrl+A), find (Ctrl+F), and moving between windows and fields (Alt+Tab, Tab). The way to learn them is one at a time, in real work: choose the shortcut for the command you use most, use only it for a week, then add the next. Speed is the visible gift; the deeper one is flow — the hands stay, the thought never breaks to hunt a menu.
 
 In your mind's eye: learning the roads — the working set.
+
+[Picture 45229 — learning the roads — the working set]
 
 ## Say it to your companion
 

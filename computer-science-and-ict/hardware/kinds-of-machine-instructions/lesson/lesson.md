@@ -10,11 +10,15 @@ The **data-transfer** instructions **move** values without changing them: load (
 
 In your mind's eye: movers and workers — transfer, arithmetic, logic.
 
+[Picture 45232 — movers and workers — transfer, arithmetic, logic]
+
 ## Sub lesson 2 — Choosers and speakers — control and input/output
 
 The **control** instructions steer the program counter: **jumps** (go to another instruction), **conditional branches** (jump only if a test on the last result holds — the machine's if), **calls** (jump to a subprogram, remembering the return) and **returns**, and **halt**. The **input/output** instructions speak to the **devices** — reading a key, sending a character to the display — through the machine's ports. Four families, and the count is closed: every program ever written for the machine is these, in some order.
 
 In your mind's eye: choosers and speakers — control and input/output.
+
+[Picture 45233 — choosers and speakers — control and input/output]
 
 ## Say it to your companion
 
