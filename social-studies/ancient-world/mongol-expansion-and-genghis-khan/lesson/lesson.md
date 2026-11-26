@@ -10,6 +10,8 @@ Temujin rises as Genghis Khan; the Mongol army of conquest, the law of the Mongo
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61396 — the mongol expansion]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Depth Study 6a: Mongol Expansion — Temujin rises as Genghis Khan; the Mongol army of conquest, the law of the Mongol lands, Yuan China, Marco Polo at the khan's court, and the empire's defeat and legacy. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ monks climb sheer rock pillars to build monasteries between earth and sky; prote
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61390 — between earth and sky]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 7.2: The Meteora — monks climb sheer rock pillars to build monasteries between earth and sky; protection now balances pilgrims, tourists and silence. Then let your companion ask you one hard question about it — answer from the lesson.

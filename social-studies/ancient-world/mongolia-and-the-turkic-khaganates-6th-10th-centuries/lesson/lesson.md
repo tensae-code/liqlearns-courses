@@ -10,6 +10,8 @@ Turkic and Uyghur khaganates rule the steppe and raise cities like Khar Balgas w
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61401 — khaganates and gathering tribes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 5.3 Mongols and the Turkic-origin states of the 6th–10th c. — Turkic and Uyghur khaganates rule the steppe and raise cities like Khar Balgas while the Mongol tribes gather strength in the east. Then let your companion ask you one hard question about it — answer from the lesson.

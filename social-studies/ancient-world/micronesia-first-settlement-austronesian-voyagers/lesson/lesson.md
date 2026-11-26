@@ -12,6 +12,8 @@ They were not the first peoples in the wider region: older peoples had already c
 
 In your mind's eye: an outrigger canoe under a night sky of bright stars, sailing toward a small green island. The student points to the canoe and names two things the voyagers carried to live on a new island.
 
+[Picture 61391 — settlement by canoe]
+
 ## Sub lesson 2 — Traveling beyond the horizon: the outrigger, star songs and the tool kit
 
 How did they find their way? The book's navigators sing star paths instead of writing them: the route to an island is held in song, in memory, passed from teacher to learner.

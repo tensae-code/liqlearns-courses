@@ -42,11 +42,15 @@ Government rests on the Pembesar Berempat — Bendahara, Penghulu Bendahari, Tem
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 61387 — the glory of melaka]
+
 ## Sub lesson 6 — Melaka as the first nation-state
 
 The Melaka Sultanate is presented as the inherited model of a negara bangsa — an ordered administration, excellent law, and defined roles for ruler and people — the template Malaysian nationhood claims descent from (Bab 1 Warisan Negara Bangsa: Melaka as the first nation-state)
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
+
+[Picture 61388 — the first nation state]
 
 ## Say it to your companion
 

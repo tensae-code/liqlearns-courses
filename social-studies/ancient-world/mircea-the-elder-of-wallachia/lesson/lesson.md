@@ -10,6 +10,8 @@ Mircea strengthens Wallachia and joins the western crusade, which ends in disast
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61394 — mircea and nicopolis]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea II, Lecția 7: Țara Românească în timpul domniei lui Mircea cel Bătrân (1386–1418) — Mircea strengthens Wallachia and joins the western crusade, which ends in disaster at Nicopolis on 25 September 1396. Then let your companion ask you one hard question about it — answer from the lesson.

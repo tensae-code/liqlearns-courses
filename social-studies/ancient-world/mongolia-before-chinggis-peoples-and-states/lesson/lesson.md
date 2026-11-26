@@ -10,11 +10,15 @@ Mongol-speaking tribes drift west and settle the Onon, Kherlen and Tuul river va
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61402 — the river valleys]
+
 ## Sub lesson 2 — Ch. 2.2 Mongol aimags and states, 6th–12th c.
 
 the Khamag Mongol confederation and its khans hold the eastern steppe, fighting and trading with the Khitan Liao and Jin empires
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61403 — the khamag mongol]
 
 ## Sub lesson 3 — Ch. 2.3 The Darligin and Nirugun aimags
 
@@ -22,11 +26,15 @@ Chinggis's own Borjigin line descends through the Darligin and Nirugun clans; th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61404 — the borjigin line]
+
 ## Sub lesson 4 — Ch. 3.1 The Mongols before Chinggis Khan
 
 Khamag Mongol khans, Tatar, Kereit, Naiman and Merkit rivals — a crowded steppe of feuding aimags awaits a unifier
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61405 — a crowded steppe]
 
 ## Say it to your companion
 

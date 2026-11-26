@@ -10,6 +10,8 @@ Germanic and Slavic tribes press on a weakening Rome; conquerors and locals fuse
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61392 — new peoples are born]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unitatea I, Lecția 1: Migrațiile și formarea popoarelor medievale — Germanic and Slavic tribes press on a weakening Rome; conquerors and locals fuse in a cultural synthesis and Europe's new peoples are born. Then let your companion ask you one hard question about it — answer from the lesson.

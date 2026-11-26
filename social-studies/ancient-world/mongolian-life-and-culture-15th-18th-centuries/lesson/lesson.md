@@ -10,11 +10,15 @@ felt gers, herds, shamanist rites and the first Mongol scripts — the daily wor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61406 — the daily world]
+
 ## Sub lesson 2 — Ch. 4.1.4 The Mongols' life and culture (13th c.)
 
 herding, hunting, felt and milk foods, Tengri and shaman rites — the ordinary world inside the empire's camps and at Karakorum
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61407 — inside the empires camps]
 
 ## Say it to your companion
 

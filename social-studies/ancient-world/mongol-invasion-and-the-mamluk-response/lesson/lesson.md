@@ -10,11 +10,15 @@ Mongol armies sweep the east and sack Baghdad, until the Mamluks of Egypt stop t
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61397 — the darkest blow stopped]
+
 ## Sub lesson 2 — Mongol rule in Iraq
 
 After Baghdad's fall, Mongol Ilkhans rule Iraq while the rest of the Arab world lives under other masters until the Ottomans come
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61398 — mongol rule in iraq]
 
 ## Sub lesson 3 — The Mongol raids
 
@@ -22,11 +26,15 @@ Genghis Khan unites the steppe; Hulagu burns Baghdad's libraries and kills the c
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61399 — ain jalut 1260]
+
 ## Sub lesson 4 — The Mamluks halt the Mongols
 
 The Mongols sack Baghdad in 1258 and march on the Levant and Egypt; the Mamluks destroy their army at Ain Jalut in 1260 and clear them from the Levant
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61400 — the mamluks halt them]
 
 ## Say it to your companion
 

@@ -9,6 +9,8 @@ Before you read on, hold this lesson's one thing in mind: the Mongols drown the 
 the Mongols drown the country in blood and soil, the Kartids still manage a state in Herat under their shadow, and the Timurids rule Afghanistan in their turn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61410 — deluge kartids timurids]
 ## Sub lesson 2 — Lesson 11: The Mongols and the Kart dynasty
 
 the Mongol deluge, and the Kartids of Herat keeping a state alive inside it

@@ -10,11 +10,15 @@ Genghis Khan unites the nomad tribes of the Mongolian plateau into an empire rea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61408 — an empire to the danube]
+
 ## Sub lesson 2 — Unit 4 Lesson 2: the Mongols turn Muslim
 
 The Golden Horde is the first Mongol people to embrace Islam, others follow, and the converts become defenders and builders of Islamic civilisation, raising monuments such as the Taj Mahal in India (Unit 4 Lesson 2: the Mongols turn Muslim)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 61409 — the mongols turn muslim]
 
 ## Say it to your companion
 

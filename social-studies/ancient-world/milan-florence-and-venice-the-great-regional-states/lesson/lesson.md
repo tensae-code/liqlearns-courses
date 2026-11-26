@@ -10,6 +10,8 @@ Milan's dukes, Florence's Medici-behind-the-scenes republic and Venice's terrafe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 61393 — five powers share italy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 3, Cap. 9 §2 The great regional states: Milan, Florence and Venice — Milan's dukes, Florence's Medici-behind-the-scenes republic and Venice's terraferma empire absorb their neighbours until five powers share the peninsula. Then let your companion ask you one hard question about it — answer from the lesson.

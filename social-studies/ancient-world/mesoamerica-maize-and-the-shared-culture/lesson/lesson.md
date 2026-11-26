@@ -10,6 +10,8 @@ Guatemala's Grade 4 book teaches Mesoamerica through its food first. A tiny wild
 
 In your mind's eye: a small wild maize cob beside a tall cultivated cob, a lime-cooking pot, and behind them a pyramid, a ball court and carved glyphs. Name maize and two shared things.
 
+[Picture 61389 — one food one shared world]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat(s): Maize and Mesoamerica — one food, one shared world. Then let your companion ask you one hard question about it — answer from the lesson.
