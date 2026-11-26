@@ -10,6 +10,8 @@ parties, unions and newspapers organise ordinary people, and the vote widens ste
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63002 — step by contested step]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §20 Political and social life in Europe and the USA in the 1800s — parties, unions and newspapers organise ordinary people, and the vote widens step by contested step. Then let your companion ask you one hard question about it — answer from the lesson.

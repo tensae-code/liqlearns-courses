@@ -10,11 +10,15 @@ Cuza is elected in both Moldavia and Wallachia in 1859 and unites them into one 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62987 — elected twice 1859]
+
 ## Sub lesson 2 — §32: Unirea Principatelor Române
 
 the ad-hoc assemblies show Europe the Romanians' will to unite; the sultan dissolves them by firman, the double election defeats the firman, and even Bessarabia's nobles draft an address on the union
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62988 — the double election wins]
 
 ## Say it to your companion
 

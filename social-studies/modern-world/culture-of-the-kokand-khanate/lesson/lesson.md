@@ -10,6 +10,8 @@ Kokand's palace, madrasas and poets — Nadira among them — make the youngest 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62986 — a cultural capital too]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. VII §§36–38 The cities of the Kokand Khanate; Its cultural life; Historiography, art and architecture — Kokand's palace, madrasas and poets — Nadira among them — make the youngest khanate a cultural capital too. Then let your companion ask you one hard question about it — answer from the lesson.

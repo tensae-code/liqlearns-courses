@@ -10,11 +10,15 @@ world trade spreads new goods and tastes; in the Principalities oriental furnitu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62991 — new goods new tastes]
+
 ## Sub lesson 2 — §8: Mod de viaţă şi de gândire în Europa Occidentală şi în Ţările Române
 
 European expansion spreads new goods and a new public sphere — coffee houses and gathering places where people read, argue and form opinion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62992 — coffee houses argue]
 
 ## Say it to your companion
 

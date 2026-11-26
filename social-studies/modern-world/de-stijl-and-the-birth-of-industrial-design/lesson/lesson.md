@@ -10,6 +10,8 @@ the Werkbund and Behrens's AEG invent the industrial designer, while De Stijl re
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62993 — planes of primary colour]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapters 16–17: Industrial production in the early 20th century and De Stijl — the Werkbund and Behrens's AEG invent the industrial designer, while De Stijl reduces the room to planes of primary colour. Then let your companion ask you one hard question about it — answer from the lesson.

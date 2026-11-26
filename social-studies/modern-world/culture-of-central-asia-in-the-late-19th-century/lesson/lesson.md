@@ -10,6 +10,8 @@ madrasa learning, court poets and the first lithographed books — the old cultu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62982 — a late flowering]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 §§4–5 The development of culture in the Central Asian states — madrasa learning, court poets and the first lithographed books — the old culture at its late flowering, just before the shock. Then let your companion ask you one hard question about it — answer from the lesson.

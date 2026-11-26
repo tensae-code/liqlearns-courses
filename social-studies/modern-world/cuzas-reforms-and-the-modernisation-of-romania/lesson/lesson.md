@@ -10,6 +10,8 @@ Cuza's coup clears the way for the August 1864 rural law that makes the clăcaș
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62989 — full owners 1864]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §33: Reformele lui Alexandru Ioan Cuza şi modernizarea societăţii româneşti — Cuza's coup clears the way for the August 1864 rural law that makes the clăcași full owners; folklore remembers a prince who "walked just like us". Then let your companion ask you one hard question about it — answer from the lesson.

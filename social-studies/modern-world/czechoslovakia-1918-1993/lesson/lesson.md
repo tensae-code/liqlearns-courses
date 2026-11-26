@@ -10,6 +10,8 @@ Masaryk's republic is born from the First World War (1918), governed with Beneš
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62990 — born broken remade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 1 Lesson 8, Czechoslovakia — Masaryk's republic is born from the First World War (1918), governed with Beneš, dismembered at Munich in 1938, and remade after 1945 as a people's democracy of 15 million. Then let your companion ask you one hard question about it — answer from the lesson.

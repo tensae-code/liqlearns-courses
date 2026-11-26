@@ -10,17 +10,23 @@ Before you read on, hold this lesson's one thing in mind: 1945–1960 the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62998 — each its own way]
+
 ## Sub lesson 2 — Decolonisation and Independence
 
 WWII breaks the empires; students map Africa, Asia and the Pacific with independence dates, interrogate USA and UN involvement, and build five case studies — colonisation, the strategy that won freedom, the key people, and progress since
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62999 — five case studies]
+
 ## Sub lesson 3 — Factors involved in systems of power and authority globally
 
 Why the empires fell after 1945 — the Depression starved the colonies, Japan conquered Europe's Asia and broke its prestige, the exhausted Europeans could no longer afford empire, and nationalism rose like a tide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63000 — why the empires fell]
 
 ## Say it to your companion
 

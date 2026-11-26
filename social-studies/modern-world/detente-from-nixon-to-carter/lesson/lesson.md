@@ -10,6 +10,8 @@ Nixon goes to Beijing and Moscow (the joint communiqué is a unit Document), SAL
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63005 — management not friendship]
+
 ## Sub lesson 2 — Modulo 12 §2 Gli Stati Uniti: da Nixon a Reagan
 
 Watergate to Reagan — Testi's Fare storia piece reads Reagan as "return to the future"; monetarism (the module's keyword) replaces Keynes in the hegemon's house

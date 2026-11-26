@@ -10,6 +10,8 @@ Muhammad Rahim's printing house, bakhshi singers and Khiva's tile-workers keep a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62983 — a court culture alive]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 6 §31 The development of culture and folk creativity in the Khiva Khanate — Muhammad Rahim's printing house, bakhshi singers and Khiva's tile-workers keep a court culture alive under the protectorate. Then let your companion ask you one hard question about it — answer from the lesson.

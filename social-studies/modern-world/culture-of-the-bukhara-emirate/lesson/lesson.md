@@ -10,6 +10,8 @@ chroniclers, poets and madrasa scholars work on under the emirs, preserving the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62984 — high culture preserved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. III §19 The cultural life of the Bukhara Emirate — chroniclers, poets and madrasa scholars work on under the emirs, preserving the Persian-Turkic high culture of the old cities. Then let your companion ask you one hard question about it — answer from the lesson.

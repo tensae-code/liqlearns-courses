@@ -10,6 +10,8 @@ the new states inherit bloated states, armies in politics and authoritarian habi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62995 — inherited problems]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 44: Problemele ţărilor decolonizate — the new states inherit bloated states, armies in politics and authoritarian habits; most choose republics, a few — the Emirates, Kuwait — keep monarchic or theocratic rule. Then let your companion ask you one hard question about it — answer from the lesson.

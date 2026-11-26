@@ -10,6 +10,8 @@ Japan takes itself apart as the example — kimono statues in parks, the languag
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63001 — preserved deliberately]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Deconstructing cultures — Japan takes itself apart as the example — kimono statues in parks, the language taught in every school, self-discipline, family bonds and group duty preserved deliberately as national culture. Then let your companion ask you one hard question about it — answer from the lesson.

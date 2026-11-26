@@ -10,11 +10,15 @@ after 1985 elected governments return across the region, peace coming through ne
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63003 — elections return]
+
 ## Sub lesson 2 — Democratización en América del Sur: Argentina y Chile
 
 Argentina's junta leaves thousands dead and disappeared before elections return in 1983; in Chile the 1988 plebiscite votes Pinochet out and free elections follow in 1989
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63004 — voted out 1988]
 
 ## Say it to your companion
 

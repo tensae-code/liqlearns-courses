@@ -10,11 +10,15 @@ Decolonisation accelerates as colonised societies transform; the UN declaration 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62996 — the un legitimises]
+
 ## Sub lesson 2 — Año 6: La descolonización de Asia y África
 
 Teacher-compendium unit, same arc as the student text (Año 6: La descolonización de Asia y África)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62997 — the same arc]
 
 ## Say it to your companion
 

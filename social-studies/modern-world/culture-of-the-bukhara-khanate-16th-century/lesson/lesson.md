@@ -10,6 +10,8 @@ madrasas, libraries and miniature painting flourish while Sufi orders shape the 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62985 — miniatures flourish]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. I §9 The cultural life of the Bukhara Khanate in the 16th century — madrasas, libraries and miniature painting flourish while Sufi orders shape the khanate's spiritual life. Then let your companion ask you one hard question about it — answer from the lesson.
