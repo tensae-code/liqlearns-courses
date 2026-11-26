@@ -10,11 +10,15 @@ French missionaries and gunboats arrive from the 17th century; Gia Long (1802–
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39611 — gunboats, missions, plantations]
+
 ## Sub lesson 2 — History Ch. 3 Lesson 5, Vietnam
 
 the lesson is Ho Chi Minh's life (photos, p. 156): born 19 May 1890, sailor and exile, founder of the Indochinese Communist Party (3 February 1930), proclaimer of the republic (1945), victor over France (1954), dead in Hanoi on 3 September 1969 (History Ch. 3 Lesson 5, Vietnam)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39610 — sailor, founder, president]
 
 ## Say it to your companion
 

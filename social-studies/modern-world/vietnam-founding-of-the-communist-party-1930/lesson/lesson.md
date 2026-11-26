@@ -10,11 +10,15 @@ in 1929 three rival communist organisations appear — the Indochinese Communist
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39614 — three parties become one, 1930]
+
 ## Sub lesson 2 — Bài 16 Founding the Communist Party of Vietnam: the preparation — Đường Kách mệnh's doctrine that a firm party is the helmsman without whom the boat does not run, the denunciation of colonialism in Le Paria and the Union of Colonial Peoples, and the Revolutionary Youth League (Guangzhou, June 1925) training the cadres who form three communist organisations in 1929; the crisis — three organisations competing and criticising each other; the act — Nguyễn Ái Quốc, as Comintern envoy, summons them to Kowloon, and from 6-1-1930 the conference abolishes the old conflicts, names the Party, and adopts his Brief Platform and Brief Strategy, the first Political Platform joining nation and class; the meaning — a turning point proving the proletariat mature enough to lead
 
 the Party is born not in Vietnam but in a Hong Kong meeting room, by unification rather than proclamation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39613 — three become one]
 
 ## Say it to your companion
 

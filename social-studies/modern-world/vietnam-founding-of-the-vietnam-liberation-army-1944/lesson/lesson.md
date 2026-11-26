@@ -10,6 +10,8 @@ on 22 December 1944, in a Cao Bằng forest, Võ Nguyên Giáp proclaims a unit 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39612 — thirty-four soldiers, one rule]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 14, story of the founding of the Vietnam Propaganda Liberation Army — on 22 December 1944, in a Cao Bằng forest, Võ Nguyên Giáp proclaims a unit of 34 soldiers under the rule "politics is weightier than military matters" — the seed of the People's Army. Then let your companion ask you one hard question about it — answer from the lesson.

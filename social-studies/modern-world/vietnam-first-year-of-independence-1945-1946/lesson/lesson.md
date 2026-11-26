@@ -10,11 +10,15 @@ Chiang's troops hold the North with Việt Quốc and Việt Cách saboteurs whi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39617 — an election amid two armies]
+
 ## Sub lesson 2 — Bài 13, fighting famine and illiteracy
 
 against the famine the government launches rice jars, "share rice, share clothes" and a "golden heart day", punishes hoarders, orders "not one inch of land left fallow", gives confiscated land to poor peasants and cuts rents and taxes; the Independence Fund and Gold Week (17–24 September 1945) gather some 60 million đồng and 370 kg of gold — the book names donors such as Trịnh Văn Bô — and Vietnamese currency is issued in September 1946; against illiteracy above 90%, the decree of 8 September 1945 founds the Bình dân học vụ popular-education service, which teaches 2.5 million people in the North and Centre to read and write within a year
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39616 — fighting famine and illiteracy]
 
 ## Say it to your companion
 

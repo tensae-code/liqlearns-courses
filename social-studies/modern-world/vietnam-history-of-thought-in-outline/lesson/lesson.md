@@ -10,11 +10,15 @@ in the founding age, ideas of diligent labour, harmony, solidarity and brave str
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39606 — absorbed — then made its own]
+
 ## Sub lesson 2 — Bài 10.3c, Đại Việt's thought and religions
 
 the typical and xuyên suốt value of Đại Việt civilisation is patriotism, taking the people as the root — through the dynasties governments and people show a warm patriotism and raise the spirit of solidarity in building and defending the Fatherland, and the people's role is exalted: Trần Quốc Tuấn's counsel to "relax the people's strength" so as to "make the plan deep-rooted and firm", and Nguyễn Trãi's line, "Only when the boat capsizes do you know the people are like water"; Confucianism, introduced from the Bắc thuộc era, is made the sole orthodoxy by the early Lê in the 15th century, becoming the official ideology of the monarchy; Buddhism, introduced around the beginning of the Common Era with the famous centre of Dâu pagoda (Bắc Ninh), blends with indigenous beliefs and develops strongly both at court and in folk life — highly esteemed in the Lý–Trần era, losing that position under the early Lê yet keeping deep folk influence, and flourishing again from the Mạc era (the One Pillar Pagoda of the Lý era and the Trần-era Phổ Minh tower are pictured); Taoism, also introduced early, holds a certain place, with dynasties building Taoist temples — Khai Nguyên (Lý era), Trần Vũ, Bích Câu and Huyền Thiên (Lê restoration era); the blending of the three teachings (tam giáo đồng nguyên) is the hallmark of Lý–Trần religious life — the Lý opens examinations in the three teachings, and the Trần emperor Trần Nhân Tông founds the Trúc Lâm Zen sect and also practises Taoism at Thiên Tôn cave (Ninh Bình) before practising Buddhism on Yên Tử mountain (Quảng Ninh), while pagodas worshipping both Buddha and saints are another feature of the age; and Catholicism arrives last — from 1533 a Western missionary preaches on the Nam Định coast (in today's Ninh Bình), and by the mid-17th century many churches have appeared, the believers concentrated in the towns and the coastal and riverine regions
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39605 — the root and the water]
 
 ## Say it to your companion
 
