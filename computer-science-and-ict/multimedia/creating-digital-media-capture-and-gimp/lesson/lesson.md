@@ -10,11 +10,15 @@ A digital media file begins at **capture**. A **digital camera or smartphone** t
 
 In your mind's eye: capture — making the image and sound files.
 
+[Picture 46249 — capture — making the image and sound files]
+
 ## Sub lesson 2 — Manipulate — working the image in GIMP
 
 The captured image is finished in **GIMP**, the book's image manipulation program: **crop** away the waste, **resize** for its destination, adjust **brightness and colour**, and repair small faults — the same editing family taught in the Photoshop lessons, in the free program. The worked image is **exported** in the format its use demands. Capture honestly, manipulate openly: the unit's maker ethic is that editing improves a picture's clarity, never its truth.
 
 In your mind's eye: manipulate — working the image in GIMP.
+
+[Picture 46250 — manipulate — working the image in GIMP]
 
 ## Say it to your companion
 

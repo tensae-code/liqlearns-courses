@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Printing a picture** — covering: §19
 
 In your mind's eye: printing a picture.
 
+[Picture 46241 — printing a picture]
+
 ## Sub lesson 2 — Creating and editing raster images
 
 This part of Kazakhstan's book teaches **Creating and editing raster images** — covering: 2.2: Creating and editing raster images. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: creating and editing raster images.
+
+[Picture 46242 — creating and editing raster images]
 
 ## Say it to your companion
 

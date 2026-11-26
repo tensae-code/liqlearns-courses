@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Creating vector images** — covering: 
 
 In your mind's eye: creating vector images.
 
+[Picture 46255 — creating vector images]
+
 ## Sub lesson 2 — Working with curves
 
 This part of Kazakhstan's book teaches **Working with curves** — covering: 2.6: Working with curves. The book teaches this as its own named step, in the book's own order, as a skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open.
 
 In your mind's eye: working with curves.
+
+[Picture 46256 — working with curves]
 
 ## Say it to your companion
 

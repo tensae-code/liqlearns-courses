@@ -10,11 +10,15 @@ The EPAL notes do not leave graphics at naming the two kinds. They put tools in 
 
 In your mind's eye: creating and editing vector graphics — drawing with shapes.
 
+[Picture 46243 — creating and editing vector graphics — drawing with shapes]
+
 ## Sub lesson 2 — Capturing and editing raster graphics — working with pixels
 
 **Raster graphics arrive by capture** — photograph, scan, screenshot — already a grid of pixels, and **editing** them works the grid: **crop** to the wanted part, correct **brightness, contrast and colour**, **retouch** faults away, and **resize** knowing the trade the representation lesson taught (fewer pixels, smaller file, less detail — a one-way door). The editor's skill the chapter builds is choosing per job: draw it vector if it must scale; capture and repair it raster if it must show the real world.
 
 In your mind's eye: capturing and editing raster graphics — working with pixels.
+
+[Picture 46244 — capturing and editing raster graphics — working with pixels]
 
 ## Say it to your companion
 

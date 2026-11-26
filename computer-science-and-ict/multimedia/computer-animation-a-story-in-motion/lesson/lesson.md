@@ -10,6 +10,8 @@ Grade 3 closes its Scratch story work with **computer animation (Компютъ�
 
 In your mind's eye: a picture of a film-strip row of four small Scratch scenes from a teddy-bear story — lost, searching, found, hugged. Each changed a little from the one before.
 
+[Picture 46236 — a picture of a film-strip row of four small Scratch scenes from a teddy-bear story — lost, searching, found, hugged. Each changed a little from the one before]
+
 ## Say it to your companion
 
 Tell your companion, in your own words: Computer animation makes a story move: a row of scenes and costume changes, each a little different, played in order — as in the book's story "The lost teddy bear". Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.

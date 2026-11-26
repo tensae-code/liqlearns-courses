@@ -10,11 +10,15 @@ Papua New Guinea's Grade 12 design process ends at the screen: the design brief 
 
 In your mind's eye: design software.
 
+[Picture 46247 — design software]
+
 ## Sub lesson 2 — Creating a design
 
 Good design work in software begins with **the brief or plan**. Measurements in the design must be **accurate**, the undo tool lets the designer **take back a change**, and before a design is final it is **checked against the brief**. The design file can then be sent to a printer, a maker, or a machine.
 
 In your mind's eye: creating a design.
+
+[Picture 46248 — creating a design]
 
 ## Say it to your companion
 

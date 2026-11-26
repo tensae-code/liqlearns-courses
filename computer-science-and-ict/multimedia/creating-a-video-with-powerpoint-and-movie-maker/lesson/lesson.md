@@ -10,11 +10,15 @@ A presentation becomes a video by **exporting it**: record a **narration** over 
 
 In your mind's eye: powerPoint as a video — narration and timings.
 
+[Picture 46239 — powerPoint as a video — narration and timings]
+
 ## Sub lesson 2 — Movie Maker — building the video from pieces
 
 In **Windows Movie Maker** the video is assembled: **videos, photos and music are added** to the project, then shaped — **fade** between pieces, **trim** a clip's ends, **split** a clip to remove or move its middle, and change a clip's **speed**. The book's order is the editor's order everywhere: gather, arrange, trim, then polish — effects last, because a fade cannot fix a wrong order.
 
 In your mind's eye: movie Maker — building the video from pieces.
+
+[Picture 46240 — movie Maker — building the video from pieces]
 
 ## Say it to your companion
 
