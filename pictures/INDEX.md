@@ -10312,3 +10312,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 60616 | pictures/60616.webp | a drawn scene — Florence's walled city dated 1378 with wool-workers and banners at its gates and a bale of wool cloth | Social Studies — Ancient World — Europe After The Plague Recovery And Revolt |
 | 60617 | pictures/60617.webp | a drawn scene — a cracked blue ice sheet labelled kilometres thick over a tan ice-free south with a mammoth, a spear hunter and a hut | Social Studies — Ancient World — Europe in the Ice Age |
 | 60618 | pictures/60618.webp | a drawn scene — a dark ox at a heavy plough in a furrowed field with its ploughman, tree stumps labelled land cleared, and a growing village of huts and a church under a warm sun | Social Studies — Ancient World — Europes Revival After The Year 1000 |
+| 39474 | pictures/39474.webp | Two panels: Spartacist risers under a red banner face a Freikorps soldier; Kapp's marchers halt at a strikers' red line | Social Studies — Modern World — Weimar Germany — origins and early challenges |
+| 39475 | pictures/39475.webp | Rows of National Assembly delegates, a woman casting an early vote, and the constitution book, Weimar 1919 | Social Studies — Modern World — Weimar Germany — origins and early challenges |
+| 39476 | pictures/39476.webp | Sailors mutiny on a Kiel warship, the Kaiser's crown falls crossed out, and the Armistice paper of 11 Nov 1918 | Social Studies — Modern World — Weimar Germany — origins and early challenges |
+| 39477 | pictures/39477.webp | Pupils debate at a table under a wall map of Iceland and Denmark with a great question mark | Social Studies — Modern World — Was Iceland a colony? |
+| 39478 | pictures/39478.webp | Three villagers walk a dotted two-kilometre path to a hut with the village's one radio | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39479 | pictures/39479.webp | A grey silhouette speaks into a microphone behind a studio screen marked with a question mark; listeners at home | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39480 | pictures/39480.webp | A dugout radio corner and a soldier carrying a crate of battery sets for the front | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39481 | pictures/39481.webp | Families with bundles land on a new shore; a welcomer stands with open arms by a hut | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39482 | pictures/39482.webp | A dugout radio blares notes over a shaking head; another soldier writes the letter home | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39483 | pictures/39483.webp | The Lahti mast waves one channel to three listening houses; a licence card beside | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39484 | pictures/39484.webp | The State Information Office's great envelope beside a gauge measuring the nation's mood | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39485 | pictures/39485.webp | Kilpelainen with his book at the microphone, a pile of the nation's letters beside him | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39486 | pictures/39486.webp | National Archives shelves of letter boxes and a pupil reading one of the 100,000 letters | Social Studies — Modern World — Wartime radio, propaganda and Jahvetti |
+| 39487 | pictures/39487.webp | Three leaders at the Tehran–Potsdam table beside a panel with the UN globe and wreath | Social Studies — Modern World — Wartime Diplomacy And The Founding Of The Un |
+| 39488 | pictures/39488.webp | Two churches with crossed swords between them; across a dividing line, an altar cloth and a crown kept apart | Social Studies — Modern World — Wars Of Religion In Europe |
+| 39489 | pictures/39489.webp | A pupil's table with an old helmet and letters, and the village memorial stone | Social Studies — Modern World — War In The Modern Era |
+| 39490 | pictures/39490.webp | Three panels: a duel of two soldiers, rows of conscripts, and a factory-built cannon | Social Studies — Modern World — War In The Modern Era |
+| 39491 | pictures/39491.webp | Three judges behind a bench, the scales of justice, and three memorial candles | Social Studies — Modern World — War Crimes And The Holocaust |
+| 39492 | pictures/39492.webp | A shattered Kristallnacht window, pine trees over forest grave stones, and a memorial candle | Social Studies — Modern World — War Crimes And The Holocaust |
+| 39493 | pictures/39493.webp | Village houses and the four groups in rice fields, the citadel behind and market stalls beside | Social Studies — Modern World — Vietnamese Society Through The Ages |
+| 39494 | pictures/39494.webp | Peasant fighters with a red banner on the hill path above their village; a French column halted below a red line | Social Studies — Modern World — Vietnam Yen The Uprising |
+| 39495 | pictures/39495.webp | My Son's Cham towers, a Hoi An house under lanterns, and the Ngoc Lu bronze drum | Social Studies — Modern World — Vietnam World Heritage Sites |
+| 39496 | pictures/39496.webp | Three labelled arrows — military, political, diplomatic — merge through a funnel to one banner | Social Studies — Modern World — Vietnam Why The Resistances Won |
+| 39497 | pictures/39497.webp | A small fighter pushes a toppling block against the cracked colonial column; three allied banners behind | Social Studies — Modern World — Vietnam Why The Resistances Won |

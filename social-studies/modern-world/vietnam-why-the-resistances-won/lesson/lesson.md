@@ -22,11 +22,15 @@ Hồ Chí Minh's line frames it — the first time a small weak colony beat a st
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39497 — the column falls]
+
 ## Sub lesson 4 — Bài 8 Why the anti-American resistance won, and what it meant: the Party's independent, creative line of two simultaneous revolutions, people's-war art joining military, political and diplomatic struggle, a patriotic people, an ever-growing northern rear, Indochinese solidarity and world support — including some 2.1 billion roubles of Soviet aid (1955–1975) and the American anti-war movement itself; the meaning — 21 years against the US and 30 of revolutionary war closed, the national democratic revolution completed countrywide, neo-colonialism dealt a collapse felt worldwide
 
 the textbook's verdict enters the Party's own documents — among the brightest pages of national history and a great feat of the twentieth century
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39496 — struggles join]
 
 ## Say it to your companion
 

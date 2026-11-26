@@ -10,6 +10,8 @@ in Văn Lang–Âu Lạc society already divides into king, lạc hầu and lạ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39493 — the village endures]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chuyên đề 1, II.3, Vietnamese society from Văn Lang to Đổi mới — in Văn Lang–Âu Lạc society already divides into king, lạc hầu and lạc tướng aristocracy, commoners and a few slaves, organised in village communities (làng, chiềng, chạ) that remain the base unit through the Chinese-rule centuries, when a Han landlord-official class confronts the Vietnamese while the villages keep wide autonomy; the independent monarchies raise cities — Thăng Long the capital, the ports Vân Đồn, Phố Hiến, Thanh Hà, Hội An — where a "market" quarter grows beside the citadel, officials are chosen by examination beside the hereditary aristocracy, and residents fall into the four groups: scholars, farmers, artisans, merchants; colonial rule breaks the frame — great landlords and landless tenant farmers in Nam Kì, French officials, workers, bourgeoisie and petty bourgeoisie appear, and most Vietnamese are pushed down to "slaves who have lost their country"; the modern ages follow — the working people's new society of 1945–54, the divided decades, the unified subsidy years sliding into crisis, and Đổi mới's diversified society of entrepreneurs and foreign residents. Then let your companion ask you one hard question about it — answer from the lesson.

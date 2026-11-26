@@ -10,17 +10,23 @@ The Kaiser abdicates, revolution spreads from the Kiel mutiny and Ebert's new go
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39476 — born from defeat]
+
 ## Sub lesson 2 — 1.2 The setting up of the Weimar Republic
 
 Elections in January 1919 and a constitution finalised at Weimar give women the vote at 20 and the world's most democratic frame — yet proportional representation and the president's Article 48 emergency powers plant its instability.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39475 — the republic founded]
+
 ## Sub lesson 3 — 2.2 Challenges to the Republic from the left and right
 
 Spartacists under Luxemburg and Liebknecht rise in Berlin and are crushed by the Freikorps Ebert calls in; the Kapp Putsch then marches from the right and is stopped only by a general strike.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39474 — left and right]
 
 ## Sub lesson 4 — 2.3 The challenges of 1923
 

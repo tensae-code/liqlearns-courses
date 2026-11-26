@@ -10,6 +10,8 @@ in the hills of Yên Thế the peasants rise under Đề Nắm and then Đề Th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39494 — Yen The]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Bài 18, the Yên Thế peasant uprising, 1884–1913 — in the hills of Yên Thế the peasants rise under Đề Nắm and then Đề Thám (Hoàng Hoa Thám, 1858–1913) not for a king but, in the book's words, to "keep the land, keep the village, protect a free life"; they beat off French sweeps at Cao Thượng (November 1890) and three times at Hố Chuối (December 1890) and rule the whole region; twice France buys truces (1894–95 and 1897–1908), then from 1909 besieges the base in earnest until, in February 1913, Đề Thám is murdered by French agents — the largest peasant uprising against invasion in Vietnam's modern history. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Tehran fixes the May 1944 landing in northern France with a supporting Soviet of
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39487 — summits to the UN]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 27: Diplomaţie și coaliţii în perioada celui de-Al Doilea Război Mondial — Tehran fixes the May 1944 landing in northern France with a supporting Soviet offensive; Potsdam's Truman, Churchill then Attlee agree a permanent UN with a Security Council. Then let your companion ask you one hard question about it — answer from the lesson.

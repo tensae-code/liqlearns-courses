@@ -10,11 +10,15 @@ gunpowder, conscription and industry turn war from a duel of armies into a strug
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39490 — war grows]
+
 ## Sub lesson 2 — Programme Theme 3: War
 
 the changing meaning of "war" across the ages, the question of justice in war, and researching war's traces in one's own community
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39489 — war's traces]
 
 ## Say it to your companion
 

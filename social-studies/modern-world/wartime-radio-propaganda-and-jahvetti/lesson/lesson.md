@@ -10,11 +10,15 @@ Through the war years some 100,000 Finns write their troubles to a radio letterb
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39486 — the archive]
+
 ## Sub lesson 2 — Jahvetin kirjelaatikko (the programme, 1940–1945)
 
 Twice a week the beloved voice "Jahvetti" — secretly teacher and writer Yrjö Kilpeläinen — answers citizens on air while his office, part of the State Information Office, sounds the nation's mood and fights rumours and Soviet propaganda, a one-man front in Finland's spiritual national defence.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39485 — Jahvetti]
 
 ## Sub lesson 3 — Task 4 mood-regulation question
 
@@ -22,11 +26,15 @@ The letter box belonged to the State Information Office; pupils find its mood-ma
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39484 — the mood gauge]
+
 ## Sub lesson 4 — introduction: radio in 1940s Finland and the letter-box programme
 
 One channel, 500,000 licences by 1945, communal listening; the state builds Jahvetti to hear and steer the nation's mood while Soviet agitator Armas Äikiä jams the Lahti wavelength.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39483 — one channel]
 
 ## Sub lesson 5 — Task 1, dugout letter 1942
 
@@ -34,11 +42,15 @@ Front soldiers ('the 5418 lads') write that the more Äikiä shouts over the bro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39482 — the front writes back]
+
 ## Sub lesson 6 — Task 2, radio speech 4 July 1944 (part)
 
 At the evacuation summer's height Jahvetti preaches duty and a fair welcome for the displaced on their new shores.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39481 — the welcome]
 
 ## Sub lesson 7 — Task 3, radio speech 7 March 1944 (part)
 
@@ -46,17 +58,23 @@ Jahvetti calls on battery-radio owners; donated receivers must reach the front a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39480 — sets for the front]
+
 ## Sub lesson 8 — Task 4, the 4 July 1944 speech in full (upper secondary)
 
 Pupils dissect Jahvetti's personal rhetoric and ask why his anonymity helped the programme work.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39479 — the nameless voice]
+
 ## Sub lesson 9 — Task 5, Humppila letter Oct 1944
 
 An 'old mother' whose sons were sent north again notes her village walks two kilometres to hear the radio together — listening as a community act.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39478 — the village listens]
 
 ## Say it to your companion
 

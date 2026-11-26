@@ -10,11 +10,15 @@ after Kristallnacht the persecution spreads; some 135,000 Romanian Jews perish i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39492 — remembered]
+
 ## Sub lesson 2 — Tema 28: Crime împotriva umanităţii: Gulag, Holocaust, Katyn
 
 the Gulag deports whole peoples — 1,209,000 Soviet Germans, 479,000 Chechens and Ingush, 191,014 Crimean Tatars; the Holocaust's victim table is estimated, and Tokyo's tribunal judges Japan's war criminals from May 1946
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39491 — the tribunals]
 
 ## Say it to your companion
 

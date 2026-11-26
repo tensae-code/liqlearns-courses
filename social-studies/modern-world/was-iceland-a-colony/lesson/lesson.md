@@ -10,6 +10,8 @@ after studying empire, pupils turn the definition of "colony" on their own count
 
 In your mind's eye: a classroom debate, with a map of Iceland and Denmark on the wall. Say what question the class is weighing.
 
+[Picture 39477 — the class debate]
+
 ## Sub lesson 2 — Weighing Iceland under Denmark
 
 the class weighs Iceland's life under Denmark against what a colony is (Verkefnablað 24)

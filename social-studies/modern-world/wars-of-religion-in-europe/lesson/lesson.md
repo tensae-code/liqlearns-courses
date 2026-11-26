@@ -10,6 +10,8 @@ the Reformation splits Europe and a century of wars of religion follows, ending 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39488 — altar and throne]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 3 §11: religious wars — the Reformation splits Europe and a century of wars of religion follows, ending only when states learn to separate altar and throne. Then let your companion ask you one hard question about it — answer from the lesson.
