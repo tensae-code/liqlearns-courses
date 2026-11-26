@@ -10,11 +10,15 @@ A recursive algorithm is **designed**, not stumbled into, and the design names t
 
 In your mind's eye: the two parts every recursive design must name.
 
+[Picture 47021 — the two parts every recursive design must name]
+
 ## Sub lesson 2 — Shrinking honestly — the step must approach the floor
 
 The recurrence carries one duty: every smaller copy must be **closer to the base case** — n−1 toward 0, a shorter list, a smaller tower. The design practicals drill the pattern on the book's examples (sequences like Fibonacci, where **two** smaller copies join; sums and factorials, where one does). The designer's checklist closes the lesson: state the problem with its size named, write the base case first, write the recurrence, then **argue the shrinking** — if you cannot say why the copies approach the floor, the design is not finished.
 
 In your mind's eye: shrinking honestly — the step must approach the floor.
+
+[Picture 47022 — shrinking honestly — the step must approach the floor]
 
 ## Say it to your companion
 

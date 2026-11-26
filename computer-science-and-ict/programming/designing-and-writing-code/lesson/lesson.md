@@ -10,11 +10,15 @@ Between 'I understand the problem' and 'it runs' stand two different crafts that
 
 In your mind's eye: design — deciding the shape before the lines.
 
+[Picture 47019 — design — deciding the shape before the lines]
+
 ## Sub lesson 2 — Writing code — the design, in a language's exact words
 
 **Writing the code (κωδικοποίηση)** translates the design into a chosen language's **exact syntax** — declarations, commands and structures spelled as that language demands, no more and no less creative than translation allows. The writer's discipline is fidelity and clarity together: fidelity, because the code must do the design and not a neighbour of it; clarity, because names, layout and comments are how the next reader — often the writer, later — re-enters the program.
 
 In your mind's eye: writing code — the design, in a language's exact words.
+
+[Picture 47020 — writing code — the design, in a language's exact words]
 
 ## Say it to your companion
 

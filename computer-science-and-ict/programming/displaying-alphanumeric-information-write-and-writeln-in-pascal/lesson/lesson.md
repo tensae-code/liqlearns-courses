@@ -10,11 +10,15 @@ A program that computes in silence is half a program. Two Moldova books teach th
 
 In your mind's eye: write and writeln — showing values and texts.
 
+[Picture 47033 — write and writeln — showing values and texts]
+
 ## Sub lesson 2 — Formats — width and decimals
 
 A parameter may carry a **format**: `write(x:8)` reserves **8 positions** for x, right-aligned in its field — the trick that builds straight columns in tables; `write(r:8:2)` adds **2 decimals** for a real. Unformatted reals print in long exponent form, so formats are not decoration but legibility: money with two decimals, tables with aligned columns, labels glued to values with spaces inside the strings. The display is the program's face to its user — this section teaches it as a craft, not an afterthought.
 
 In your mind's eye: formats — width and decimals.
+
+[Picture 47034 — formats — width and decimals]
 
 ## Say it to your companion
 

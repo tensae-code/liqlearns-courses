@@ -10,11 +10,15 @@ The scenario organises the class as **studios** — small game companies with a 
 
 In your mind's eye: studios, and the Mystery Number.
 
+[Picture 47017 — studios, and the Mystery Number]
+
 ## Sub lesson 2 — From first game to your own game
 
 With the template in hand, each studio designs **its own game** under the scenario's full discipline: natural-language algorithm, Scratch program, a written brief (cahier des charges), playtesting by other studios, and revision — the Nim studios run the same pipeline in expert mode. The project's lesson is industrial, not just technical: a game is finished when **players** say it works, and the road from idea to players is paved with documents, tests and repairs.
 
 In your mind's eye: from first game to your own game.
+
+[Picture 47018 — from first game to your own game]
 
 ## Say it to your companion
 

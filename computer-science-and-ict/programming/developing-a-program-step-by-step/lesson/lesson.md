@@ -10,11 +10,15 @@ Development opens away from the keyboard: **understand the problem** — what th
 
 In your mind's eye: understand and plan before building.
 
+[Picture 47027 — understand and plan before building]
+
 ## Sub lesson 2 — Test, fix, and test again
 
 A built program is **tested**: run with known inputs whose right outputs are already worked out by hand, and the program's outputs compared. A mismatch is a **fault found**, not a failure of the whole work — the fault is located, **fixed**, and the program tested again, including the tests that passed before, because a fix can break a neighbour. Development ends when the tests pass and the program does the understood problem's job — the staircase's top is the problem you started with, solved.
 
 In your mind's eye: test, fix, and test again.
+
+[Picture 47028 — test, fix, and test again]
 
 ## Say it to your companion
 

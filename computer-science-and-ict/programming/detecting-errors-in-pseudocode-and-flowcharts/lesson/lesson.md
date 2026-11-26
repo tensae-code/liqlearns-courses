@@ -10,11 +10,15 @@ A flowchart can be wrong before a line of code is written: a loop that never end
 
 In your mind's eye: tracing — running the algorithm by hand.
 
+[Picture 47023 — tracing — running the algorithm by hand]
+
 ## Sub lesson 2 — The faults a trace exposes — and fixing them
 
 The common logic faults are: a **loop with no way out** (its test can never become false — the increment or change is missing); a **decision missing a path** (the No branch joins nothing, or two paths cross); a **wrong order** (a total averaged before it is complete); and a **wrong test** (comparing with = when the plan needs ≥). Fixing is done **in the algorithm** — the pseudocode line or flowchart box is corrected and the trace re-run from the top, because a fix in a plan is one line; the same fix in finished code is a hunt.
 
 In your mind's eye: the faults a trace exposes — and fixing them.
+
+[Picture 47024 — the faults a trace exposes — and fixing them]
 
 ## Say it to your companion
 

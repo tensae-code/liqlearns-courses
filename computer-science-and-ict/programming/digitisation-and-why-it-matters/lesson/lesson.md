@@ -10,11 +10,15 @@ The real world speaks in smooth, continuous signals: a voice rises and falls, li
 
 In your mind's eye: a smooth sound wave on the left being measured at many points and reborn on the right as a row of 0s and 1s.
 
+[Picture 47029 — a smooth sound wave on the left being measured at many points and reborn on the right as a row of 0s and 1s]
+
 ## Sub lesson 2 — Why digitisation matters
 
 Digitised data gains four powers the original never had. It can be **stored** compactly and kept without fading — the thousandth year harms a file no more than the first, if the storage is kept. It can be **copied exactly**: copy number one thousand is identical to the original, where a photocopy of a photocopy blurs. It can be **sent** anywhere networks reach, at the speed of the network. And it can be **processed**: programs can search it, sort it, calculate with it and combine it — a million digitised records answer questions a million paper records never could. That is the role digitisation plays in the book's story: it is the doorway through which the real world enters the computer, and everything else in the volume — algorithms, data processing, AI — happens on the far side of that door.
 
 In your mind's eye: one old photograph at the centre with four arrows leaving it — to a storage drive, to a stack of identical copies, across a network to another continent, and into a chart a program has drawn from it.
+
+[Picture 47030 — one old photograph at the centre with four arrows leaving it — to a storage drive, to a stack of identical copies, across a network to another continent, and into a chart a program has drawn from it]
 
 ## Say it to your companion
 

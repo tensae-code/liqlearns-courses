@@ -10,11 +10,15 @@ This part of Kazakhstan's book teaches **Спрайттар соқтығысуы
 
 In your mind's eye: спрайттар соқтығысуын анықтау.
 
+[Picture 47025 — спрайттар соқтығысуын анықтау]
+
 ## Sub lesson 2 — Doing it — Detecting Sprite Collisions in practice
 
 **Doing it — Detecting Sprite Collisions in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Detecting Sprite Collisions in practice.
+
+[Picture 47026 — doing it — Detecting Sprite Collisions in practice]
 
 ## Say it to your companion
 
