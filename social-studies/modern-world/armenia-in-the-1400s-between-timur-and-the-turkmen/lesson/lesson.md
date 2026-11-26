@@ -10,6 +10,8 @@ Timur's invasions and the Qara Qoyunlu and Aq Qoyunlu turkmen confederations rul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62145 — the church alone remains]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §4.1 Armenia in the 1400s — Timur's invasions and the Qara Qoyunlu and Aq Qoyunlu turkmen confederations rule a land whose church becomes its only national institution. Then let your companion ask you one hard question about it — answer from the lesson.

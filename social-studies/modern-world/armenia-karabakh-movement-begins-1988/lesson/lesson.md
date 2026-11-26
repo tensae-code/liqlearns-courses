@@ -10,11 +10,15 @@ on 20 February 1988 Karabakh's soviet votes to join Armenia, Yerevan fills with 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62146 — 20 february 1988]
+
 ## Sub lesson 2 — Appendix theme guide 4: the Karabakh movement; winning independence
 
 the movement of 1988, the earthquake and the 1991 referendum are taught as the hinge between Soviet Armenia and the third republic
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62147 — the hinge years]
 
 ## Say it to your companion
 

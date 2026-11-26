@@ -10,6 +10,8 @@ Armenia is folded first into a Transcaucasian federation (1922) and then into th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62159 — form kept power moved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.2 Forming the state system and Soviet Armenia's entry into supra-state unions: the Transcaucasian Federation and the USSR — Armenia is folded first into a Transcaucasian federation (1922) and then into the Soviet Union, keeping republican form while real decisions move to Moscow. Then let your companion ask you one hard question about it — answer from the lesson.

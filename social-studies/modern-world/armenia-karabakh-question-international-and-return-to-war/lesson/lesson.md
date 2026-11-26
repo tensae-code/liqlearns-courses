@@ -10,6 +10,8 @@ the OSCE Minsk Group negotiates for decades without a settlement, the April 2016
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62149 — decades without settlement]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.3 The Karabakh question in the international arena; the return to war — the OSCE Minsk Group negotiates for decades without a settlement, the April 2016 clashes warn of fragility, and in September 2020 the 44-day war reverses the map. Then let your companion ask you one hard question about it — answer from the lesson.

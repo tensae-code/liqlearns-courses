@@ -10,6 +10,8 @@ two Armenian delegations plead in Paris, Wilson draws an arbitral boundary, and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62165 — paris 1919]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 2.9 The Armenian Question at the Paris Peace Conference — two Armenian delegations plead in Paris, Wilson draws an arbitral boundary, and the Sèvres treaty promises a large Armenia that no army will enforce. Then let your companion ask you one hard question about it — answer from the lesson.

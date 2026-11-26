@@ -10,6 +10,8 @@ Robert Kocharyan's presidency is scarred by the 1999 parliament shooting that ki
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62153 — scarred by 1999]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.2 Armenia's public-political life, 1998–2008 — Robert Kocharyan's presidency is scarred by the 1999 parliament shooting that kills Vazgen Sargsyan and Karen Demirchyan, and ends amid the March 2008 post-election violence. Then let your companion ask you one hard question about it — answer from the lesson.

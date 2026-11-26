@@ -10,6 +10,8 @@ the Moscow and Kars treaties and Caucasus bureau decisions fix Armenia's borders
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62158 — borders fixed against it]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.3 Territorial and border problems of Soviet Armenia — the Moscow and Kars treaties and Caucasus bureau decisions fix Armenia's borders, placing Karabakh and Nakhichevan inside Azerbaijan — decisions the book traces to today's conflicts. Then let your companion ask you one hard question about it — answer from the lesson.

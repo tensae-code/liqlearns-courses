@@ -10,6 +10,8 @@ communal flats, factory canteens, queues and weddings — the book reconstructs 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62161 — everyday soviet life]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.8 Everyday life and social relations in Soviet Armenia — communal flats, factory canteens, queues and weddings — the book reconstructs how ordinary Soviet Armenians actually lived, not only what the state proclaimed. Then let your companion ask you one hard question about it — answer from the lesson.

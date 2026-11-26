@@ -10,6 +10,8 @@ after the 1990s collapse come growth, remittances and emigration, while the rest
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62156 — growth remittances emigration]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.5 Socio-economic life after the transition phase; church–state relations in the Republic — after the 1990s collapse come growth, remittances and emigration, while the restored church renegotiates its place beside the secular state. Then let your companion ask you one hard question about it — answer from the lesson.

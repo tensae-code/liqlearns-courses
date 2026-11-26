@@ -10,6 +10,8 @@ the Revolutionary Committee takes Yerevan, requisitioning and arrests follow, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62162 — the first half year]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 3.1 Armenia in the first half-year of Bolshevik rule — the Revolutionary Committee takes Yerevan, requisitioning and arrests follow, and the February 1921 uprising briefly drives the Bolsheviks out before their return. Then let your companion ask you one hard question about it — answer from the lesson.

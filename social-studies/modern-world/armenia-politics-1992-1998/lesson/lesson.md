@@ -10,6 +10,8 @@ Ter-Petrosyan's era brings market reform and the 1996 disputed election, and his
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62152 — reform and resignation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 6.1 Armenia's public-political life, 1992–1998 — Ter-Petrosyan's era brings market reform and the 1996 disputed election, and his Karabakh stance forces his resignation in 1998. Then let your companion ask you one hard question about it — answer from the lesson.

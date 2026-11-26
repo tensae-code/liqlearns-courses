@@ -10,6 +10,8 @@ a homeland emptied and a people scattered, the perpetrators tried and later stru
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62143 — scattered seeking recognition]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.4 Consequences and condemnation of the Armenian Genocide — a homeland emptied and a people scattered, the perpetrators tried and later struck down by Operation Nemesis, and the long campaign for international recognition begins. Then let your companion ask you one hard question about it — answer from the lesson.

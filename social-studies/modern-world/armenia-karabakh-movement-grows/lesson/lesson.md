@@ -10,6 +10,8 @@ the Karabakh Committee leads strikes and rallies, Moscow arrests its members, an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62148 — strikes arrests earthquake]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 4.2 The expansion of the Karabakh movement — the Karabakh Committee leads strikes and rallies, Moscow arrests its members, and the December 1988 earthquake strikes a society already in upheaval. Then let your companion ask you one hard question about it — answer from the lesson.

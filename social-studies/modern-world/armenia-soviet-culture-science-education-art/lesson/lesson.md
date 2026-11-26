@@ -10,6 +10,8 @@ a republic of 2–3 million builds an Academy of Sciences, the Byurakan observat
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62160 — an observatory and an academy]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Soviet Armenia's culture: science and education; literature and art — a republic of 2–3 million builds an Academy of Sciences, the Byurakan observatory under Ambartsumian, and a national cinema and literature in Armenian. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ security after 2020, demographics, corruption and the unfinished Karabakh questi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62163 — problems and prospects]
+
 ## Sub lesson 2 — Appendix theme guide 8: history and the future; the vision of the state's development
 
 the course closes by turning pupils from the past to the state's present problems and its possible futures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62164 — history and the future]
 
 ## Say it to your companion
 

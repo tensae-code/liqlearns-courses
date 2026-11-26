@@ -10,6 +10,8 @@ Karabakh builds a state — elections, an army, a constitution — that no count
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62150 — a state unrecognised]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 5.2 The NKR as an unrecognised state — Karabakh builds a state — elections, an army, a constitution — that no country, not even Armenia, formally recognises. Then let your companion ask you one hard question about it — answer from the lesson.

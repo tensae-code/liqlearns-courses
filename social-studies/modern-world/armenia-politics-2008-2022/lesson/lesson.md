@@ -10,11 +10,15 @@ Serzh Sargsyan's decade ends in the 2018 Velvet Revolution that carries Nikol Pa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 62154 — velvet then defeat]
+
 ## Sub lesson 2 — Appendix theme guide 6: the Republic of Armenia 1992–2022
 
 three decades of presidents, disputed elections, the Velvet Revolution and the 2020 defeat are set out as one continuous post-independence story
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 62155 — one continuous story]
 
 ## Say it to your companion
 
