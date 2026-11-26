@@ -10,11 +10,15 @@ a military rising becomes Europe's rehearsal war — Capa's falling soldier (ima
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39985 — capas]
+
 ## Sub lesson 2 — Modulo 5 §9 La guerra civile in Spagna
 
 Spain becomes Europe's ideological battlefield in arms — the rehearsal whose outcome (a forty-year dictatorship) the democracies' non-intervention helps decide
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39984 — watchers]
 
 ## Say it to your companion
 

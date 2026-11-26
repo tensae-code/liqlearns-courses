@@ -10,11 +10,15 @@ the question the empire left behind outlives every government that tries to answ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39993 — thequestion]
+
 ## Sub lesson 2 — British Policy in South Sudan 1899–1955
 
 the empire governs one country as two, and the division outlives the empire
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39992 — governedastwo]
 
 ## Say it to your companion
 

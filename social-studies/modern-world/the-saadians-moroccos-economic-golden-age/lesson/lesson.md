@@ -10,6 +10,8 @@ Sharifs from the south reunite Morocco; the guide teaches the Saadian state's fo
 
 In your mind's eye: the key scene of this lesson as the book teaches it. Name the people and the place in the picture and say what happened there.
 
+[Picture 40000 — sugarworks]
+
 ## Sub lesson 2 — Monument study — El Badi Palace
 
 The wealth is studied through one standing monument: El Badi Palace, a palace of marble and onyx built from sugar-and-gold riches.

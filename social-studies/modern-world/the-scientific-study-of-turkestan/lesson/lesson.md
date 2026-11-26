@@ -10,6 +10,8 @@ Bartold, Ostroumov and the Turkestan circle of archaeology lovers survey, dig an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39998 — digcatalogue]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 8 §§37–38 The development of scientific research in the Turkestan krai — Bartold, Ostroumov and the Turkestan circle of archaeology lovers survey, dig and catalogue the homeland — science serving empire and preserving heritage at once. Then let your companion ask you one hard question about it — answer from the lesson.

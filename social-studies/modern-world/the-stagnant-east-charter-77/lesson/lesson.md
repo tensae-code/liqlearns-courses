@@ -10,6 +10,8 @@ Charter 77's declaration (Document) and Hoxha's self-isolated Albania (Document)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39983 — charter77]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 4, Cap. 17 §5 Economic stagnation and repression of dissent in the Eastern bloc — Charter 77's declaration (Document) and Hoxha's self-isolated Albania (Document) mark a bloc that can neither reform nor grow — dissent becomes the East's only moving part. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,17 +10,23 @@ spaceflight, computers and the internet remake work, war and daily life within o
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39997 — onelifetime]
+
 ## Sub lesson 2 — Theme 5, Lessons 63–64: the civilisational achievements of the newest period
 
 computers, space flight and the internet remake work, war and daily life within one generation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39996 — onegeneration]
+
 ## Sub lesson 3 — Theme 6 §27: science and scientific-technical progress
 
 from splitting the atom to the internet, science in the newest period advances faster than society can absorb it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39995 — atomtoweb]
 
 ## Say it to your companion
 

@@ -10,6 +10,8 @@ the tsar's family is shot in a cellar, Brest-Litovsk buys peace at the price of 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 40001 — brestlitovsk]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: civil war and the birth of the USSR — the tsar's family is shot in a cellar, Brest-Litovsk buys peace at the price of an empire's western lands, and Reds beat Whites through five years of civil war and foreign intervention — in December 1922 the USSR is proclaimed, Lenin dies in 1924, and Stalin inherits the first state built on communist ideology. Then let your companion ask you one hard question about it — answer from the lesson.

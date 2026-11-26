@@ -10,11 +10,15 @@ Stalin's last years bring collectivisation, famine and terror; growth slides fro
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39990 — glasnost]
+
 ## Sub lesson 2 — Tema 33: URSS în perioada postbelică
 
 in the MSSR alone, 1946–47 terror plans "educate" the population while forced requisitions feed exports; Khrushchev condemns Stalin yet drowns Hungary's 1956 revolution in blood, Prague 1968 restores the authoritarian grip, and Gorbachev's last troops leave Afghanistan on 15 February 1989
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39989 — gripandrevolt]
 
 ## Say it to your companion
 

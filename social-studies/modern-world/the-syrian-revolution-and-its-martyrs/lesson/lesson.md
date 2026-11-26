@@ -10,11 +10,15 @@ Syria declared its independence from French colonialism in 1946 and stayed free 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39982 — funeralphoto]
+
 ## Sub lesson 2 — Fifty years of rule — and the revolution of 2011
 
 Hafez al-Assad's coup of 16 November 1970 began some thirty years of despotism — the massacres of Jisr al-Shughur, Aleppo and Hama in 1982, where some 40,000 were killed, and tens of thousands disappeared in the prisons; the rule was inherited by his son Bashar in 2000; when the children of Daraa were arrested and tortured for writing freedom slogans, the revolution of March 2011 rose, the regime answered with every weapon including chemical weapons, and the story ends with the liberation of all Syria's land and the fall of Bashar al-Assad's regime on 8 December 2024.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39981 — candlefield]
 
 ## Say it to your companion
 

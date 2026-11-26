@@ -10,6 +10,8 @@ the superpowers race off the planet — Sputnik beeps first (1957), Gagarin orbi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39986 — spacerace]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 4: the space race — the superpowers race off the planet — Sputnik beeps first (1957), Gagarin orbits first (1961), Tereshkova follows (1963), and Apollo 11 lands on the Moon in 1969 — before the rivals start docking together in the 1970s. Then let your companion ask you one hard question about it — answer from the lesson.

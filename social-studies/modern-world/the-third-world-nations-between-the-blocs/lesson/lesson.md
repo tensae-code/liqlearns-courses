@@ -10,11 +10,15 @@ freed colonies refuse both camps, meet at Bandung and try to bargain as a third 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39979 — bandungtable]
+
 ## Sub lesson 2 — Theme 3, Lessons 46–48: the countries of the "Third World"
 
 newly independent states of Asia, Africa and Latin America refuse both camps at Bandung and try to build a third path between them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39978 — thirdpath]
 
 ## Say it to your companion
 

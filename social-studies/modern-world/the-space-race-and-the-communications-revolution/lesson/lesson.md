@@ -10,6 +10,8 @@ jets, television and the Moon landing shrink the planet; the Beatles (Personaggi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39987 — smallerplanet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Modulo 11 §§4–6 Scienza e tecnologia; Le imprese spaziali; Un pianeta più piccolo: trasporti e comunicazioni di massa — jets, television and the Moon landing shrink the planet; the Beatles (Personaggi) are its first global soundtrack — technology becomes mass culture. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ computers, space and genetics open a new technological age
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39994 — newage]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: §27 The scientific-technical revolution — a new stage of scientific-technical progress — computers, space and genetics open a new technological age. Then let your companion ask you one hard question about it — answer from the lesson.
