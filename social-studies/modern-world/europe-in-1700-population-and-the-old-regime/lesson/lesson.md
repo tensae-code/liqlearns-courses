@@ -10,11 +10,15 @@ plague and famine retreat, Europe's population climbs past 145 million by 1750, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63106 — growing inside an old shell]
+
 ## Sub lesson 2 — Modulo 1, Cap. 2 The society and the economy of the '700 (demography, social mobility and hierarchies, family, feudalism and the peasants, the agricultural revolution, rural industry)
 
 late marriage, enclosures (Fare storia: Moore on the enclosures) and the 'industrious revolution' inside households — the old order changing from below before it falls from above
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63107 — changing from below]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ a republic born of defeat survives Boulanger; Britain widens the vote; the easte
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63111 — the pieces settle]
+
 ## Sub lesson 2 — Modulo 6, Cap. 17 §§5–7 The Republic in France; Liberalism in Great Britain; Russian autocracy
 
 the Third Republic survives its birth in defeat, Victoria's Britain (Personaggi: the Queen) reforms by instalments, and Russia's autocrats refuse every instalment
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63112 — reform by instalments]
 
 ## Say it to your companion
 

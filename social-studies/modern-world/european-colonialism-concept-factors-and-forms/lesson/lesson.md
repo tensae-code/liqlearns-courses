@@ -10,6 +10,8 @@ Discovery hardens into domination as europe defines colonialism, feeds it with i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63125 — discovery hardens]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: european colonialism — concept, factors and forms. Then let your companion ask you one hard question about it — answer from the lesson.

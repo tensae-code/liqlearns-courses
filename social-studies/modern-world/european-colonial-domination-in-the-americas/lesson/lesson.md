@@ -10,11 +10,15 @@ Spain and Portugal divide the new continent first, Britain and France follow; ea
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63115 — each empire rules differently]
+
 ## Sub lesson 2 — Consecuencias de la dominación colonial europea
 
 the bill is counted in four columns — economic dependence, lost sovereignty, an indigenous population crashed by epidemics, and mestizaje under an imposed culture and religion
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63116 — the bill in four columns]
 
 ## Sub lesson 3 — Conquista de América y la Resistencia Indígena: las Antillas y México
 
@@ -22,11 +26,15 @@ conquest is defined by massacre, cruelty and greed; after the Antilles are exhau
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63117 — cortes sails 1519]
+
 ## Sub lesson 4 — Conquista española en América del Sur
 
 Pizarro exploits the Inca civil war between Huáscar and Atahualpa; German bankers' agents conquer Venezuela brutally on Spain's debts, and Tordesillas hands Brazil to Portugal
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63118 — pizarro and the civil war]
 
 ## Sub lesson 5 — La Dominación Colonial Europea: colonización española
 
@@ -34,11 +42,15 @@ three centuries of rule through viceroys, encomiendas and tribute; the Church ev
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63119 — viceroys and friars]
+
 ## Sub lesson 6 — Colonización portuguesa en América
 
 Brazil-wood dye and then sugar pull Portugal into Brazil; Souza founds San Vicente in 1532 and fights off French corsairs for the coast
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63120 — san vicente 1532]
 
 ## Sub lesson 7 — Colonización inglesa: causas y características
 
@@ -46,11 +58,15 @@ England's thirteen colonies grow by private initiative and Crown together, a het
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63121 — thirteen colonies]
+
 ## Sub lesson 8 — El Colonialismo y los Nuevos Estados Europeos
 
 Spain and Portugal absorb indigenous populations into mixed settlements while Britain and France displace them; Britain's strategic colonies from Gibraltar to Hong Kong make it mistress of the sea routes, with India as the prize
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63122 — mistress of the sea routes]
 
 ## Say it to your companion
 

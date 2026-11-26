@@ -10,6 +10,8 @@ Europe's states centralise, fight over colonies and trade, and carry their rival
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63108 — rivalries across every ocean]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. II.6: The West in the 15th–18th c. — Europe's states centralise, fight over colonies and trade, and carry their rivalries across every ocean. Then let your companion ask you one hard question about it — answer from the lesson.

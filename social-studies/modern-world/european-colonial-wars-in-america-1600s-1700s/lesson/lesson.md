@@ -10,6 +10,8 @@ rival empires fight over American colonies for two centuries; the colonies pay f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63124 — the colonies pay]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: 1.1 Panorama of the world 17th–18th c.; European colonial wars; European powers in America and consequences — rival empires fight over American colonies for two centuries; the colonies pay for Europe's wars in taxes, smuggling bans and blood. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,11 +10,15 @@ the chapter's map counts the democracies left standing; Otto Bauer's Document an
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63104 — sliding to dictatorship]
+
 ## Sub lesson 2 — Modulo 5 §1 Democrazie in crisi e fascismi
 
 the module's Anteprima frames the decade — democracy's eclipse, authoritarianism against totalitarianism, Stalinism as modernisation, the ideological war and the planned extermination to come
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63105 — democracys eclipse]
 
 ## Say it to your companion
 

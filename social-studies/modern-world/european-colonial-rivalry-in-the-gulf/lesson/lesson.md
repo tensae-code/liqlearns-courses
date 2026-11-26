@@ -10,6 +10,8 @@ European powers race for the gulf's sea lanes and ports until britain's grip clo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63123 — britains grip closes]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: european colonial rivalry over the gulf region. Then let your companion ask you one hard question about it — answer from the lesson.

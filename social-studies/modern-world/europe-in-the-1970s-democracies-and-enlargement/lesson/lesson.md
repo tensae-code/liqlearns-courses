@@ -10,11 +10,15 @@ Greece, Spain and Portugal exit dictatorship — Panagulis' fight for Greek demo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63109 — enlargement as reward]
+
 ## Sub lesson 2 — Modulo 12 §§4–6 I negoziati sul disarmo; Mutamenti politici in Europa occidentale; Integrazione europea e nuove democrazie
 
 disarmament talks run beside democratisation — Greece, Spain and Portugal join the West's club and the Community enlarges to receive them
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63110 — joining the club]
 
 ## Say it to your companion
 

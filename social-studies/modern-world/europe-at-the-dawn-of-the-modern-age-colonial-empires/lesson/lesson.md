@@ -10,6 +10,8 @@ western states seize lands in Asia, Africa and Latin America; the Dutch win inde
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63103 — amsterdam counting-house]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lecția 2: Europa la începutul epocii moderne — western states seize lands in Asia, Africa and Latin America; the Dutch win independence, dominate the sea and make Amsterdam the counting-house of world trade, while famine still stalks the villages. Then let your companion ask you one hard question about it — answer from the lesson.

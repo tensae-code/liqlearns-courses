@@ -10,6 +10,8 @@ explorers like Radisson in Canada, missions and trading companies carry Europe i
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63102 — peoples who answer back]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Unità 6, Cap. 18 §3 Encounters and clashes of civilisations — explorers like Radisson in Canada, missions and trading companies carry Europe into every ocean, meeting peoples who answer back. Then let your companion ask you one hard question about it — answer from the lesson.

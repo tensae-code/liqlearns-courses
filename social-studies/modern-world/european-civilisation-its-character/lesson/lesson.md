@@ -10,6 +10,8 @@ The course ends by characterising European civilisation as it once characterised
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63114 — characterising a civilisation]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lesson 15: European civilisation — the course ends by characterising European civilisation as it once characterised the Islamic one. Then let your companion ask you one hard question about it — answer from the lesson.
