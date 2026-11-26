@@ -10,6 +10,8 @@ Historians cut the long past into periods to make it graspable; the lesson compa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60011 — historians cut the past into periods]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Periodisation in history — historians cut the long past into periods to make it graspable; the lesson compares the periodisations of world, African and Mozambican history. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -12,6 +12,8 @@ A cause is what pushed an event into happening. It comes before the event. If yo
 
 In your mind's eye: a row of three falling dominoes on a timeline, the first labelled "cause", the middle one "event" and the last "result". The student points to the middle domino and says what pushed it and what it pushes.
 
+[Picture 60001 — three falling dominoes: cause, event, result]
+
 ## Sub lesson 2 — Every event has results
 
 And every historical event has results that followed from it.

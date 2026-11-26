@@ -10,6 +10,8 @@ History obeys its own method — heuristic, hermeneutics, analysis and synthesis
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60009 — the historian's method has four steps]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The methods of history — history obeys its own method — heuristic, hermeneutics, analysis and synthesis — each procedure named and distinguished. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Scarce sources, weak chronologies and myth make African history hard to rebuild 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60013 — few sources and broken dates — still it must be written]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Problems, tasks and methods of African historiography — scarce sources, weak chronologies and myth make African history hard to rebuild — but it must be written, and the lesson sets out how. Then let your companion ask you one hard question about it — answer from the lesson.

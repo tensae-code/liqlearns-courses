@@ -10,6 +10,8 @@ Dorina asks Clio how children lived, worked and learned in earlier ages, and how
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60002 — children long ago worked; children today learn]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 5: Viața copiilor în istorie — Dorina asks Clio how children lived, worked and learned in earlier ages, and how childhood itself changed. Then let your companion ask you one hard question about it — answer from the lesson.

@@ -10,6 +10,8 @@ Before telling Mozambique's story, the module cuts it into periods, so the learn
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60012 — Mozambique's past, cut into periods]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Periodisation of Mozambique's history — before telling Mozambique's story, the module cuts it into periods, so the learner holds the whole sequence in view from the start. Then let your companion ask you one hard question about it — answer from the lesson.

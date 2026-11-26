@@ -10,6 +10,8 @@ After a world tour that was almost all Europe, the lens turns home — the stage
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60000 — Africa's own history, written at home]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: African historiography — after a world tour that was almost all Europe, the lens turns home — the stages and currents of how Africa's own history has been written. Then let your companion ask you one hard question about it — answer from the lesson.

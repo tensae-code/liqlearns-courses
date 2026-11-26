@@ -10,6 +10,8 @@ documentaries colourise the trenches, social networks let anyone publish "histor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60007 — screens show history — read them with care]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: history, media and public debates — documentaries colourise the trenches, social networks let anyone publish "history", and polished lies outrun footnoted truths — Hitler escaping to Argentina, Napoleon shrunk to 150 cm by a units mix-up and British mockery; meanwhile nations argue over Confederate statues and over how German, British and French textbooks tell empire — the pupil's defence is critical reading. Then let your companion ask you one hard question about it — answer from the lesson.

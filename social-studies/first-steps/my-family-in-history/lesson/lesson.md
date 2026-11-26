@@ -10,6 +10,8 @@ the family is the bridge between past and future; pupils build a family tree, wi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60010 — a family tree joins the past to the future]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Tema 4: Locul familiei în istorie — the family is the bridge between past and future; pupils build a family tree, with the Mușatins — a family that gave Moldavia generations of rulers — as the grand example. Then let your companion ask you one hard question about it — answer from the lesson.

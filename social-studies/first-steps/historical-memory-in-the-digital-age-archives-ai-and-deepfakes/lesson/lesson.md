@@ -10,6 +10,8 @@ manuscripts and French-Revolution newspapers go online, VR walks you through Pom
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60003 — old paper goes online — screens can also invent]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: historical memory in the digital era — manuscripts and French-Revolution newspapers go online, VR walks you through Pompeii and Machu Picchu, AI translates damaged texts — and also invents facts and fake images; paper survives centuries while unmaintained data rots in years, Chernobyl teaches why hidden information kills, Fukushima answers faster because history was remembered, and multiperspectivity becomes the citizen's core skill. Then let your companion ask you one hard question about it — answer from the lesson.

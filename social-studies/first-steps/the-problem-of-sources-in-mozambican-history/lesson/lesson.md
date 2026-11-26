@@ -10,6 +10,8 @@ The historian cannot visit the past, only its traces; Mozambique's traces are th
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60014 — the past is gone — only its traces remain]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The problem of sources in Mozambique's history — the historian cannot visit the past, only its traces; Mozambique's traces are thin and tricky, and the lesson faces that problem head-on. Then let your companion ask you one hard question about it — answer from the lesson.

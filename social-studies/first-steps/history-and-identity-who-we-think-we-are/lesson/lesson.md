@@ -10,6 +10,8 @@ identity is also built against an enemy — Nazi posters draw Slavs as Untermens
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60004 — history can build walls — or bridges]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Theme 5: identity and "the others" — identity is also built against an enemy — Nazi posters draw Slavs as Untermenschen and the image prepares the crime; against that, Belgian pupils learn how Flemish and Walloon identities grew inside one shared history, and German textbooks teach two Germanys' different pasts inside one state — history builds bridges or walls depending on how it is told. Then let your companion ask you one hard question about it — answer from the lesson.

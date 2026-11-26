@@ -10,6 +10,8 @@ six named Honduran historians — Medardo Mejía, Rafael Heliodoro Valle, Longin
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60008 — six historians of Honduras]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Lección 20: historiadores de Honduras — six named Honduran historians — Medardo Mejía, Rafael Heliodoro Valle, Longino Becerra, Mario Argueta, Rolando Sierra, Jorge Amaya — are set as research subjects, a national historiography with faces. Then let your companion ask you one hard question about it — answer from the lesson.

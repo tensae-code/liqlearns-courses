@@ -14,6 +14,8 @@ And every school day begins inside this memory: the Student Oath (Andımız) is 
 
 In your mind's eye: a Turkish schoolyard on Republic Day, red flags with the white crescent and star hanging from every window, children in their best clothes holding small flags. The student points to the flags and says which day the school is celebrating.
 
+[Picture 60015 — Republic Day in a Turkish schoolyard]
+
 ## Say it to your companion
 
 Tell your companion the story as 1 beat: Three days a child learns by heart. Then let your companion ask you one hard question about it — answer from the lesson.
