@@ -9,7 +9,11 @@ Malaysia's Form 4 book compares **three kinds of medicine: traditional, modern a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38065 — three kinds of medicine and they]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38066 — health products check the claim before]
 
 ## Sub lesson 2 — Health products — choosing carefully
 

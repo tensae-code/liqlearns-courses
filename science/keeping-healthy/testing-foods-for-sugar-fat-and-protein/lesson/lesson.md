@@ -9,7 +9,11 @@ Seychelles' Unit 7 Topic 6 tests foods one nutrient at a time. Sugar is tested w
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38061 — testing foods one test answers one]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38062 — each nutrient has its test and]
 
 ## Sub lesson 2 — The protein test — and what each nutrient is for
 

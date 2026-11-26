@@ -9,7 +9,11 @@ Some infections pass between people in one particular way — through sexual con
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38051 — stis pass through sexual contact one]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38052 — symptoms prevention and treatment the three]
 
 ## Sub lesson 2 — Symptoms, prevention and treatment
 

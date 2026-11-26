@@ -9,7 +9,11 @@ Uric acid: the acid left when purines from our cells and food break down, normal
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38069 — uric acid crystals settle in the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38070 — uric acid from both sides necessary]
 
 ## Sub lesson 2 — Uric acid explained from both sides
 

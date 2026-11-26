@@ -9,7 +9,11 @@ Malaysia's Home Science Form 5 book defines **ergonomics (from the Greek ergon +
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37950 — ergonomics fitting the workplace to the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37951 — judge the load first then lift]
 
 ## Sub lesson 2 — Safe lifting — judge the load, then lift with posture
 

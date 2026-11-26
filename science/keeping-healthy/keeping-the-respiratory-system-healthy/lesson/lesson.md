@@ -11,7 +11,11 @@ Kuwait's Grade 8 book gives the system its own health lesson, after teaching its
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 38010 — the breathing system needs clean air]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 38011 — smoking is the breathing system's great]
 
 ## Sub lesson 2 — What harms it
 

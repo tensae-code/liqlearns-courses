@@ -9,7 +9,11 @@ Zimbabwe's guides teach **safety and evacuation** as a named unit at ECD A and a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38047 — safety and evacuation leaving the right]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 38048 — evacuation leave in order calmly]
 
 ## Sub lesson 2 — Leaving in order
 

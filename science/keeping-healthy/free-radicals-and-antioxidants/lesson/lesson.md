@@ -9,7 +9,11 @@ Malaysia's Form 4 book defines **free radicals**, teaches **how they form and ar
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37982 — free radicals unstable pieces that harm]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37983 — antioxidants calm free radicals down]
 
 ## Sub lesson 2 — Antioxidants — slowing oxidation down
 

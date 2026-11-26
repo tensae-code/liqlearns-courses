@@ -9,7 +9,11 @@ Vietnam's Grade 4 *Khoa học 4* opens the lesson by judging three days of real 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38063 — a balanced diet mixes the food]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38064 — vietnam's nutrition pyramid for children 6]
 
 ## Sub lesson 2 — Vietnam's Nutrition Pyramid for children aged 6–11
 

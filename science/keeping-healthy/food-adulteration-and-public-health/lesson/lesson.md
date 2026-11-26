@@ -9,7 +9,11 @@ Food adulteration is cheating with food: food and daily necessities adulterated 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37970 — adulteration food faked and thinned for]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37971 — adulterated food harms the health of]
 
 ## Sub lesson 2 — The harm to public health
 

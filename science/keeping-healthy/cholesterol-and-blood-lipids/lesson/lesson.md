@@ -9,6 +9,8 @@ cholesterol is made in the liver and is used to produce hormones, vitamin D and 
 
 In your mind's eye: cholesterol is made in the liver and is used as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37914 — cholesterol needed by the body harmful]
+
 ## The key ideas
 
 - cholesterol is made in the liver and is used to produce hormones, vitamin D and bile acids, but in excess it deposits in the arteries, obstructing blood flow — the guide calls it an enemy of the arteries and the heart (guide evidence)

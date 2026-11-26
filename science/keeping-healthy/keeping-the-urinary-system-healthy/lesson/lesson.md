@@ -11,7 +11,11 @@ Kuwait's Grade 8 book follows its excretion lessons with this health lesson, in 
 
 In your mind's eye: the lesson's central thing, as named in this sub lesson. Name its parts before reading on.
 
+[Picture 38012 — the urinary system water lets the]
+
 In your mind's eye: the lesson's central change. Say what changed.
+
+[Picture 38013 — too little water and long holding]
 
 ## Sub lesson 2 — What harms it
 

@@ -9,7 +9,11 @@ Zimbabwe's guides teach **technology safety** as a named unit at ECD A and B and
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38055 — technology safety is learned from the]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38056 — technology should be designed safe not]
 
 ## Sub lesson 2 — Technology design and safety
 

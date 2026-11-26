@@ -9,7 +9,11 @@ Think of the water your home drinks, and of where your home's rubbish and dirty 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38049 — sanitation clean water kept clean from]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38050 — waste and dirty water taken away]
 
 ## Sub lesson 2 — Waste and dirty water — taken away safely
 

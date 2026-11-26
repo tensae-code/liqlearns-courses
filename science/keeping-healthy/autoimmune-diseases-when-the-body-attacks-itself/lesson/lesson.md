@@ -9,17 +9,23 @@ autoimmunity: normally the immune system combats viruses, bacteria or any other 
 
 In your mind's eye: autoimmunity as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37901 — autoimmune the body's defence attacks the]
+
 ## Sub lesson 2 — Examples named by the guide
 
 examples named by the guide: lupus, rheumatoid arthritis, myositis, coeliac disease (intolerance to gluten), dermatomyositis, type 1 diabetes and chronic thyroiditis; an autoimmune disease can occasion destruction of body tissue, abnormal growth of an organ and changes in the functioning of organs; the causes are still being investigated — probably several factors are implicated, including viruses and environmental factors, certain chemical compounds and some medicines, all able to damage or change the body's cells (guide evidence)
 
 In your mind's eye: examples named by the guide as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37902 — autoimmune diseases the guide names]
+
 ## Sub lesson 3 — In many cases the first symptoms are fatigue, muscle
 
 in many cases the first symptoms are fatigue, muscle pains and fever, and the classic symptom of an autoimmune disease is inflammation, which can cause redness, heat, pain and swelling (guide evidence)
 
 In your mind's eye: in many cases the first symptoms are fatigue, muscle as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37903 — first signs tiredness muscle pain fever]
 
 ## The key ideas
 

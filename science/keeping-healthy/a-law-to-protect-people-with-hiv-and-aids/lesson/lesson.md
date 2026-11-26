@@ -9,11 +9,15 @@ Honduras's Special Law on VIH-SIDA: published in the Diario Oficial La Gaceta nu
 
 In your mind's eye: honduras's Special Law on VIH-SIDA as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37896 — honduras's special law protects people living]
+
 ## Sub lesson 2 — The law's Articles 34–37
 
 the law's Articles 34–37: Article 34, the prevention of HIV transmission is the responsibility of the State, its institutions and the organised civil society; Article 35, the VIH/SIDA prevention actions must be realised in a coordinated form by the superior instance this Law establishes; Article 36, establishments such as hotels, motels or any other bed service must follow the prevention norms established in the respective regulation, otherwise the corresponding fine will be imposed through the municipality; Article 37, the Secretaría de Estado en el Despacho de Salud, through the National AIDS Commission (CONASIDA), will prepare a list of the medicines, vaccines, biological products, materials and equipment that have demonstrated effectiveness in the specific treatment of the HIV/AIDS infection, to manage the exoneration of the corresponding customs taxes for their importation (guide evidence)
 
 In your mind's eye: the law's Articles 34–37 as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37897 — articles 34 to 37 who must]
 
 ## The key ideas
 

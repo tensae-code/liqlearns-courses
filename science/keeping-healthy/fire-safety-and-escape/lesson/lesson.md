@@ -11,7 +11,11 @@ The book teaches this as a named skill of the chapter — a thing to know before
 
 In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37959 — if your clothes catch fire stop]
+
 In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
+
+[Picture 37960 — escape to the safe place chosen]
 
 ## Sub lesson 2 — Escaping from a fire — and the safe place
 

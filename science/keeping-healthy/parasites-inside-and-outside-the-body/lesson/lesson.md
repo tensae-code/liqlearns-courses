@@ -13,7 +13,11 @@ Parasites split by the one question this lesson is built on: **where do they liv
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38022 — a parasite lives on or in]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38023 — internal parasites living inside the body]
 
 ## Sub lesson 2 — Internal parasites — inside the body
 

@@ -9,7 +9,11 @@ Zimbabwe's Grade 5 guide teaches **unhealthy eating habits** as a named unit at 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38067 — unhealthy eating habits work against the]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38068 — eating disorders a health trouble of]
 
 ## Sub lesson 2 — Eating disorders
 

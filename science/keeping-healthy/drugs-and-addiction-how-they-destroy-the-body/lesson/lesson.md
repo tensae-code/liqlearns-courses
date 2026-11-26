@@ -9,17 +9,23 @@ drugs defined (natural or laboratory-made substances entering by mouth, inhalati
 
 In your mind's eye: drugs defined (natural or laboratory-made substances entering by mouth as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37941 — drugs sorted the legal ones and]
+
 ## Sub lesson 2 — The damage of each drug tabulated organ by organ (marijuana
 
 the damage of each drug tabulated organ by organ (marijuana: hallucinations, loss of time sense, damaged comprehension and memory; cocaine: raised blood pressure, damaged nose interior, lost appetite; opium: drowsiness then depression; glue: breathing difficulty, weakness, nausea)
 
 In your mind's eye: the damage of each drug tabulated organ by organ (marijuana as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37942 — each drug's damage organ by organ]
+
 ## Sub lesson 3 — The addiction mechanism
 
 the addiction mechanism: psychoactive substances block or boost the brain's neurotransmitters, interfering with normal brain activity; dependence is biological and/or psychological, and the damage table is split physical (dilated pupils, lost motor coordination, deteriorated thought, death by overdose), psychological (dependence, addiction, hallucinations) and social (family problems, neglected studies, trouble with the law, rejection)
 
 In your mind's eye: the addiction mechanism as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37943 — addiction the brain's own signals are]
 
 ## The key ideas
 

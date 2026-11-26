@@ -9,7 +9,11 @@ Picture a celebration night: bright bursts in the sky, loud bangs, a crowd watch
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37961 — fireworks fire that bursts in the]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 37962 — handling fireworks safely distance water a]
 
 ## Sub lesson 2 — Handling fireworks safely — the chapter's own aim
 

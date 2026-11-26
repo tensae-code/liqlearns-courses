@@ -11,7 +11,11 @@ The date is part of the food's keeping. Preserving stretches food's life; it doe
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38035 — every tin carries its useby date]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38036 — find the date read the date]
 
 ## Sub lesson 2 — Read before you eat
 

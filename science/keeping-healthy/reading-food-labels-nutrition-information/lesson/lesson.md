@@ -10,7 +10,11 @@ Packaged food carries its story on the packet: the **nutrition information** —
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38037 — the label tells what is inside]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38038 — sugar and salt the two figures]
 
 ## Sub lesson 2 — Sugar and salt — the figures to watch
 

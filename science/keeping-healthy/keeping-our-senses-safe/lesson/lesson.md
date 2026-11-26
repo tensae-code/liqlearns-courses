@@ -9,7 +9,11 @@ Seychelles' Unit 12 Topic "Looking after your eyes" follows its topics on using 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38008 — looking after your eyes the senses]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38009 — daily care keeps the senses safe]
 
 ## Sub lesson 2 — Care for the senses you learn through
 

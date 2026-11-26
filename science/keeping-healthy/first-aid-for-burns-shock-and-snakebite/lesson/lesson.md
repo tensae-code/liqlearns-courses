@@ -9,7 +9,11 @@ A burn is cooled under cold running water for at least 10 minutes. Cooling first
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37965 — burns cool with water shock never]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37966 — snakebite keep still keep it low]
 
 ## Sub lesson 2 — Electric shock — never touch directly
 

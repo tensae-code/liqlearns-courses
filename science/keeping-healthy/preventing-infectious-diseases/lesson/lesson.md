@@ -9,7 +9,11 @@ Prevention works on both ends: strengthen the immune system with a balanced diet
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38029 — strengthen the body food water and]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38030 — remove breeding places and vaccinate ahead]
 
 ## Sub lesson 2 — Remove the breeding places, vaccinate
 

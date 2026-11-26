@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book, inside its oxygen strand, teaches fire 
 
 In your mind's eye: fires are sorted into classes by what is burning — A: solids like wood and paper, B: flammable liquids, C: gases, D: metals, E: electrical fires, F: cooking oils and fats — because the right way to fight a fire depends on its class. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 37915 — fires are classed by what is]
+
 ## The key facts
 **Class by fuel.** The classes sort fires by what burns. Class A fires burn solid materials — wood, paper, cloth, rubbish. Class B fires burn flammable liquids — petrol, paraffin, paint. Class C fires burn gases — cooking gas and other fuel gases. Class D fires burn metals. Class E fires involve live electrical equipment. Class F fires burn cooking oils and fats, as in a deep pan or fryer.
 

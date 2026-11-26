@@ -9,7 +9,11 @@ The unit closes its knowledge with care: **hygiene of muscles** — the keeping 
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 38006 — hygiene of the muscles keeping them]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 38007 — warm muscles work safely cold ones]
 
 ## Sub lesson 2 — Prevention of muscle accidents
 

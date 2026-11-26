@@ -11,7 +11,11 @@ The booklet's big claim is plain: immunisation **cuts child deaths** — childre
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 38000 — immunisation builds resistance before the disease]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38001 — measles vaccine given by injection in]
 
 ## Sub lesson 2 — Childhood immunisable diseases — measles and the immunisation table
 

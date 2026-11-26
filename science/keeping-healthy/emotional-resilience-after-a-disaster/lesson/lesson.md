@@ -9,7 +9,11 @@ Every Zimbabwe guide in this set — ECD A and B and Grades 1 to 5 — closes it
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37948 — resilience building back after a disaster]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37949 — psychoemotional support nobody recovers alone]
 
 ## Sub lesson 2 — Psycho-emotional support
 

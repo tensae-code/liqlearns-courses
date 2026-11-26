@@ -11,7 +11,11 @@ Knowing what these things look like — their kinds, shapes and colours — and 
 
 In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38071 — uxo bombs still in the ground]
+
 In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
+
+[Picture 38072 — how people get hurt by uxo]
 
 ## Sub lesson 2 — How people get hurt
 

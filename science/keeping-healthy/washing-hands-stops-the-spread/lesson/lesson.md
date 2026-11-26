@@ -11,7 +11,11 @@ Microbes reach our body on **dirty hands** — that is the true route the ficha 
 
 In your mind's eye: a child washing hands with soap, beside a second drawing of dirty hands reaching for food. The student points to which drawing shows the route broken.
 
+[Picture 38079 — washing hands breaks the route the]
+
 In your mind's eye: hands being washed — wet, soap, scrub, rinse. Say what was removed and where it can no longer travel.
+
+[Picture 38080 — two preventers together cleanliness and good]
 
 ## Sub lesson 2 — Good food, and explaining it from the drawings
 

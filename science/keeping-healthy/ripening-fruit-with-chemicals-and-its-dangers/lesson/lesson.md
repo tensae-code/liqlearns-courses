@@ -9,7 +9,11 @@ Ethylene is the natural ripening agent in fruit and vegetables, but traders use 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38043 — ripening the natural agent is ethylene]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38044 — too much chemical ripening is very]
 
 ## Sub lesson 2 — Ethylene is the natural ripening agent in fruit and vegetables
 

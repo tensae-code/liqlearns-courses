@@ -9,6 +9,8 @@ Posture defined as the body's habitual position standing, sitting and walking; a
 
 In your mind's eye: posture — and a not-too-heavy schoolbag as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 38028 — posture upright and a bag carried]
+
 ## The key ideas
 
 - Posture defined as the body's habitual position standing, sitting and walking; a child's soft bones bend easily, carrying a bag on one shoulder curves the spine, so the class weighs each textbook and the whole bag day by day against the norm, and tests posture against a wall (nape, shoulder blades, calves, buttocks, he

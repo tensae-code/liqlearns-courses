@@ -9,7 +9,11 @@ Malaysia's Home Science Form 5 book teaches the **moist-heat cooking methods**, 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37920 — moist heat the heat travels through]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37921 — dry heat and the microwave which]
 
 ## Sub lesson 2 — Dry-heat cooking — and the microwave
 

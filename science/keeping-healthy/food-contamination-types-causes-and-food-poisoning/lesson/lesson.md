@@ -9,7 +9,11 @@ Malaysia's Home Science Form 5 book defines **food contamination and cross-conta
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37972 — contamination comes in three kinds]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37973 — the poisoning bacteria named by food]
 
 ## Sub lesson 2 — The bacteria that poison food
 

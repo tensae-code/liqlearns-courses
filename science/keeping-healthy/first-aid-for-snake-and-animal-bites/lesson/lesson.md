@@ -11,7 +11,11 @@ The chapter places this beside its teaching on insect bites and stings (printed 
 
 In your mind's eye: the lesson’s central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37967 — bitten by a snake first treatment]
+
 In your mind's eye: the lesson’s central change or test result. Say what changed and what it proves.
+
+[Picture 37968 — bitten by a dog or cat]
 
 ## Sub lesson 2 — First treatment when bitten by a dog or cat
 

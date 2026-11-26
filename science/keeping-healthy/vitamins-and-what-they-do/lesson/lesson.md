@@ -9,7 +9,11 @@ Bangladesh's Class 4 book teaches the vitamins in one table: A, B-complex, C, D,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38077 — each vitamin its foods its job]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38078 — what goes wrong when a vitamin]
 
 ## Sub lesson 2 — What goes wrong without them
 

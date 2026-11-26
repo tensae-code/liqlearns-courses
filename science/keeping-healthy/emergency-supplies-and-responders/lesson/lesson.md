@@ -9,7 +9,11 @@ Zimbabwe's guides teach **emergency supplies** as a named unit in ECD B and in G
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37946 — emergency supplies ready before they are]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 37947 — responders come fast supplies ready]
 
 ## Sub lesson 2 — Emergency responders and professionals
 

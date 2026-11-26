@@ -9,17 +9,23 @@ family planning defined as the mechanisms a couple uses to regulate how many chi
 
 In your mind's eye: family planning defined as the mechanisms a couple uses as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37952 — family planning a couple decides number]
+
 ## Sub lesson 2 — Natural contraceptive methods
 
 natural contraceptive methods: the rhythm/calendar method (needs a regular cycle), basal temperature (body temperature rises near the period; the fertile days are read from the temperature pattern) and the Billings mucus method (fertile mucus is wet and elastic)
 
 In your mind's eye: natural contraceptive methods as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37953 — natural methods read the body's own]
+
 ## Sub lesson 3 — Barrier methods
 
 barrier methods: the male condom, the female condom and the diaphragm placed over the cervix.
 
 In your mind's eye: barrier methods as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37954 — barrier methods the condom and the]
 
 ## The key ideas
 

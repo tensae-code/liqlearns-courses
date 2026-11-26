@@ -9,7 +9,11 @@ Malaysia's Form 4 book matches **fire extinguisher types to fire classes**, and 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37957 — extinguisher types and the fire blanket]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37958 — using an extinguisher pass pull aim]
 
 ## Sub lesson 2 — Using an extinguisher — PASS — and the audit
 

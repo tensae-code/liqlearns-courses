@@ -9,17 +9,23 @@ acute respiratory infections (IRA) defined: infections of the respiratory system
 
 In your mind's eye: acute respiratory infections (IRA) defined as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37898 — infections of the breathing system coughs]
+
 ## Sub lesson 2 — How IRAs spread
 
 how IRAs spread: from person to person through sneezes and saliva micro-droplets when coughing, in poorly ventilated places, and by contact with contaminated surfaces such as door handles, bus handrails and desks.
 
 In your mind's eye: how IRAs spread as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37899 — coughs and sneezes spray droplets from]
+
 ## Sub lesson 3 — The IRA symptom set
 
 the IRA symptom set: nasal obstruction, cough, runny nose (rhinorrhoea), difficulty breathing and bone pain.
 
 In your mind's eye: the IRA symptom set as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37900 — the signs of a respiratory infection]
 
 ## The key ideas
 

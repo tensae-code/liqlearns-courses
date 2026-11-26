@@ -9,7 +9,11 @@ The book's order is the lesson's order: first circulation — **the heart distri
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37906 — the heart sends blood carrying life]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37907 — blood is the body's carrier it]
 
 ## Sub lesson 2 — Donating blood — Cuba's own way
 
@@ -17,7 +21,11 @@ A healthy person can **give a part of their blood** — a **blood donation** —
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37908 — donating blood a gift the body]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37909 — given blood reaches a person whose]
 
 ## The key ideas
 

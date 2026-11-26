@@ -11,7 +11,11 @@ Those two facts are the safety facts too: a gas you cannot see must be handled b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37912 — butane colourless and easily squeezed into]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37913 — butane works in cookers and lighters]
 
 ## Sub lesson 2 — Butane at work — and gas preferred over charcoal
 

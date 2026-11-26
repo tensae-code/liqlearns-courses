@@ -11,7 +11,11 @@ Malnutrition is not one missed meal. Like the harmful habits of the younger book
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37931 — malnutrition food that fails the body]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37932 — a deficiency disease the lack of]
 
 ## Sub lesson 2 — Deficiency diseases — what is missing, named
 

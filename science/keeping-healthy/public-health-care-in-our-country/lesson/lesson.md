@@ -9,7 +9,11 @@ The book's closing claim is simple and whole: **in our country, the people's hea
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38031 — in our country the people's health]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38032 — the book's order body then hygiene]
 
 ## Sub lesson 2 — Where this teaching stands in the book
 
@@ -17,7 +21,11 @@ Cuba's book places this teaching **last in the unit** — after the skeleton, di
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38033 — care beyond the home the health]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38034 — health care for the whole people]
 
 ## The key ideas
 

@@ -11,7 +11,11 @@ Each part has its job, and the jobs run in order: the knob lets the gas through,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37986 — parts of a gas stove burners]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37987 — dismantling a gas heater knowing each]
 
 ## Sub lesson 2 — Taking a gas heating appliance apart — and naming its parts
 

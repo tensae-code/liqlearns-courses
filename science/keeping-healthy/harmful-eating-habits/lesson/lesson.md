@@ -11,7 +11,11 @@ A habit is a thing done again and again, until it is done without thinking. A ha
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37990 — a harmful habit harms by repetition]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37991 — naming your own harmful habits is]
 
 ## Sub lesson 2 — Learning the harmful side by name
 

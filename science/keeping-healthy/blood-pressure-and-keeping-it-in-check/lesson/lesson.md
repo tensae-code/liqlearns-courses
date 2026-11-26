@@ -9,7 +9,11 @@ Blood pressure: the push of blood on vessel walls; systolic pressure when the he
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37910 — blood pressure measured with a cuff]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37911 — measuring step by step 12080 is]
 
 ## Sub lesson 2 — Measuring blood pressure as a full protocol
 

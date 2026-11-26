@@ -9,7 +9,11 @@ science reading: "Fast Food and Its Harms" — fast meals spread worldwide becau
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37955 — fast food high in fat sugar]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37956 — fast food has spread to every]
 
 ## The key ideas
 

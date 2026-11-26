@@ -9,7 +9,11 @@ Vietnam's Grade 4 *Khoa học 4* teaches overweight and obesity as diseases of *
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37933 — too much rich food and little]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37934 — too little stunting and anaemia answered]
 
 ## Sub lesson 2 — Stunting and anaemia — too little
 

@@ -11,7 +11,11 @@ That sharing is the fact the investigation works on. A disease shared between hu
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37935 — some diseases live in people and]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37936 — people's health and animals' health are]
 
 ## The key ideas
 

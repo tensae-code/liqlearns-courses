@@ -11,7 +11,11 @@ Health and wellbeing is **wider than not being sick**. A person can have no dise
 
 In your mind's eye: a class opening its health project, with the words Oraanga e Pitoenua — Health and Wellbeing written as the project's title. The student reads the title aloud and says what the project is about.
 
+[Picture 37994 — health and wellbeing wider than not]
+
 In your mind's eye: the words "not sick" widening into "well in body and in life". Say what was added.
+
+[Picture 37995 — ask what health means and opinions]
 
 ## Sub lesson 2 — Opinions differ
 

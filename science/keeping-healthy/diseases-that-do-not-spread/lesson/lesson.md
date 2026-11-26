@@ -9,7 +9,11 @@ The chapter builds in order: first what pathogens are (Lesson 1), then **infecti
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37937 — diseases that do not spread they]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37938 — two kinds two answers block the]
 
 ## Sub lesson 2 — Why the difference matters
 

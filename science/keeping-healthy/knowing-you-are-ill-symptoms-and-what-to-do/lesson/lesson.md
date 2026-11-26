@@ -9,7 +9,11 @@ how do I know I am ill, and what must I do?
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38016 — symptoms the body's signs that illness]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38017 — when illness strikes doctor food rest]
 
 ## Sub lesson 2 — Symptoms come with disease
 

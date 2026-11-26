@@ -9,7 +9,11 @@ Before you read: breathing is so steady we forget it — until it is blocked. Wh
 
 In your mind's eye: the lesson's central set-up from this part. Name its parts before reading on.
 
+[Picture 38059 — suffocation when breathing is blocked]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[GIF 38060 — choking first aid back blows free]
 
 ## Sub lesson 2 — What to do — first aid for suffocation
 

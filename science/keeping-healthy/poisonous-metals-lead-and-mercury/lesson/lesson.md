@@ -9,7 +9,11 @@ Two poisonous metals of daily life: lead (car batteries, paints, petrol products
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38026 — lead and mercury poisons hiding in]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38027 — poisonous metals stay in the soil]
 
 ## Sub lesson 2 — Lead (sisa), mercury (paro) and cobalt named in the guide as the poisonous metals that do
 

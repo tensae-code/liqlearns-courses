@@ -9,7 +9,11 @@ A **pier** or **dock** is where boats come in and people work and walk — right
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38083 — piers and docks busy places beside]
+
 In your mind's eye: the lesson's central change or test result. Say what changed and what it proves.
+
+[Picture 38084 — harbour safety equipment know it before]
 
 ## Sub lesson 2 — The safety equipment — know it before you need it
 

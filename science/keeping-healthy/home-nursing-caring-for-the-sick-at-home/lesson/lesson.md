@@ -9,7 +9,11 @@ South Sudan's Primary 7 book teaches **home nursing** as its own topic in its he
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37998 — home nursing care of the sick]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37999 — the home nurse's work and knowing]
 
 ## Sub lesson 2 — The home nurse's work
 

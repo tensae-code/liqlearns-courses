@@ -11,7 +11,11 @@ They are not a small beginning that the rest of life simply overwrites. How a ch
 
 In your mind's eye: a 1000-days line from the start of life to a small child, with the years of adult life stretching on after it. The student points to which stretch the lesson says shapes the other.
 
+[Picture 38020 — a thousand days that the whole]
+
 In your mind's eye: the short 1000-days stretch at the start of the line lighting up the long adult stretch after it. Say what the picture claims.
+
+[Picture 38021 — professor barker read the old birth]
 
 ## Sub lesson 2 — Professor Barker's discovery: the Hertfordshire birth records
 

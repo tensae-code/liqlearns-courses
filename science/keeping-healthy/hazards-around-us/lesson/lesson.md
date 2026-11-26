@@ -9,7 +9,11 @@ Zimbabwe's guides teach **hazards** as a named unit in ECD B and in Grades 1, 2,
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37992 — hazards dangers waiting in a place]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37993 — many hazards give early warning signs]
 
 ## Sub lesson 2 — Natural hazards and early warning signs
 

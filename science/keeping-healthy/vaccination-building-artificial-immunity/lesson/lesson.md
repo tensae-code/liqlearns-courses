@@ -9,7 +9,11 @@ vaccination: a way of forming artificial immunity by taking a dose of the vaccin
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38073 — vaccination a dose that builds artificial]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38074 — a vaccine teaches the body ahead]
 
 ## The key ideas
 

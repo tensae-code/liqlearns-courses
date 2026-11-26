@@ -9,7 +9,11 @@ How disinfectants work: can oil/grease be removed from hands with water alone; d
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37939 — testing disinfectants what really kills the]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 37940 — disinfectant at work the germs are]
 
 ## Sub lesson 2 — Fighting pathogens
 

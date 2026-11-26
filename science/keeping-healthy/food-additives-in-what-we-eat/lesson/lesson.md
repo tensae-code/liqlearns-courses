@@ -9,6 +9,8 @@ The books teach this part as additives that preserve, flavour and colour food �
 
 In your mind's eye: what food additives are as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37969 — food additives preserve flavour and colour]
+
 ## The key ideas
 
 - The books teach this part as additives that preserve, flavour and colour food — worked through in the books' own presentation, at the printed pages named in Sources.

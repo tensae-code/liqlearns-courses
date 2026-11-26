@@ -9,17 +9,23 @@ diarrhoea defined (three or more loose or liquid stools a day) in three clinical
 
 In your mind's eye: diarrhoea defined (three or more loose or liquid stools as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37928 — diarrhoea three or more loose stools]
+
 ## Sub lesson 2 — The causes of acute diarrhoeal diseases
 
 the causes of acute diarrhoeal diseases: water contaminated by sewage, septic tanks or latrines; infections by parasites, bacteria and viruses; inadequate nutrition; and transmission person to person, through badly cooked or insalubriously prepared food, seafood from contaminated waters, and food irrigated with contaminated water or fertilised with chemicals.
 
 In your mind's eye: the causes of acute diarrhoeal diseases as Honduras's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 37929 — causes dirty water and food carry]
+
 ## Sub lesson 3 — Diarrhoea's toll
 
 diarrhoea's toll: developing-country children under five commonly suffer at least three episodes a year, which steal growth and proper brain development and can kill — WHO (2013) figures of some 760,000 child deaths a year; basic access to drinking water, sanitation and hygiene at home is what prevents cases.
 
 In your mind's eye: diarrhoea's toll as Honduras's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 37930 — diarrhoea's toll prevented by water sanitation]
 
 ## The key ideas
 

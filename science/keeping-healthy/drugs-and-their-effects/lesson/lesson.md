@@ -9,7 +9,11 @@ Cambodia's Grade 8 book closes its Biology part's health run with a chapter of i
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37944 — drugs substances that enter the body]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37945 — drug effects reach the whole life]
 
 ## Sub lesson 2 — Their effects — on the body and on life
 

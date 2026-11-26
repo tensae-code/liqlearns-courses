@@ -9,7 +9,11 @@ Diarrhoea, cholera, dysentery, jaundice and typhoid are carried by dirty water. 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38085 — the waterborne diseases arrive by the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38086 — making oral saline at home salt]
 
 ## Sub lesson 2 — Making oral saline at home
 

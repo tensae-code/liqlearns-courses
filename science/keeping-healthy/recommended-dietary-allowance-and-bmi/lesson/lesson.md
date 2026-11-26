@@ -9,7 +9,11 @@ Malaysia's Home Science Form 4 book teaches the **Recommended Dietary Allowance 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38039 — the rda table the measure behind]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38040 — bmi calculated from mass and height]
 
 ## Sub lesson 2 — Body Mass Index — calculating it, and reading what it says
 

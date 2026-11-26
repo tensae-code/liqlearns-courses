@@ -11,7 +11,11 @@ Stop and look: what happened? Is the place safe to help in? How hurt is the pers
 
 In your mind's eye: a child stopping and looking at a hurt companion, then calling an adult over. Name the order: stop, look, call.
 
+[Picture 37963 — first aid begins before touching stop]
+
 In your mind's eye: a helper kneeling beside a hurt person, looking, then waving an adult to come. Say what changed and what it proves.
+
+[Picture 37964 — the first gestures are simple and]
 
 ## Sub lesson 2 — The first gestures — comfort, clean water, pressure, rest
 

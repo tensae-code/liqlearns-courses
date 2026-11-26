@@ -9,7 +9,11 @@ Zimbabwe's Grade 4 and Grade 5 guides both teach **meal planning** as a named un
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38024 — meal planning meals decided before the]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 38025 — budgeting the plan must fit the]
 
 ## Sub lesson 2 — Budgeting for food
 

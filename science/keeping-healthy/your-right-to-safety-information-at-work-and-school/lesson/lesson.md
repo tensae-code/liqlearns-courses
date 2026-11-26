@@ -8,6 +8,8 @@ Kenya's Grade 8 Integrated Science book closes its oxygen-and-fire strand with a
 
 In your mind's eye: every person at work or at school has the right to be told about the hazards around them and how to stay safe from them — safety information is a right, not a favour. — picture it happening step by step, in order, and say each step as you see it.
 
+[Picture 38087 — every worker and learner has a]
+
 ## The key facts
 **A right to know.** People who work or learn in a place have the right to know what dangers that place holds — which substances are hazardous, which machines can hurt, where the fire equipment and exits are — and to be taught how to protect themselves. Nobody has to guess about a hazard that others already know about.
 

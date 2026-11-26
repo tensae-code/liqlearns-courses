@@ -9,7 +9,11 @@ South Sudan's Primary 7 book teaches **stress and depression** as a named topic 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38057 — stress is a health topic named]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38058 — depression named beside stress told apart]
 
 ## Sub lesson 2 — Depression — named beside stress
 

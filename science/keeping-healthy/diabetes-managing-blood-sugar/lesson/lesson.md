@@ -9,7 +9,11 @@ Diabetes: too little insulin from the pancreas leaves glucose piling up in the b
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37924 — diabetes too little insulin so sugar]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37925 — blood sugar is measured three ways]
 
 ## Sub lesson 2 — Blood glucose measured three ways
 

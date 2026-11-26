@@ -9,7 +9,11 @@ Infectious diseases can be grouped by the road they travel. Bangladesh's Class 5
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38014 — infectious diseases grouped by the road]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38015 — the four groups with their diseases]
 
 ## Sub lesson 2 — The four groups
 

@@ -9,7 +9,11 @@ Zimbabwe's ECD A Science and Technology guide teaches **ventilation** as a healt
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37984 — ventilation letting fresh air travel through]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37985 — sunlight in the home rooms that]
 
 ## Sub lesson 2 — Sunlight in the home
 

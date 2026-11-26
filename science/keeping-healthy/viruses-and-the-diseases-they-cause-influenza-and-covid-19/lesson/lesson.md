@@ -9,7 +9,11 @@ viruses: they behave sometimes like living things and sometimes like non-living 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38075 — viruses between living and nonliving]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38076 — two virus diseases influenza and covid19]
 
 ## The key ideas
 

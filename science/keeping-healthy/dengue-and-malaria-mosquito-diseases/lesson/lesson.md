@@ -9,7 +9,11 @@ Some diseases travel from person to person through the air or through dirty hand
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37922 — one carrier the mosquito takes the]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37923 — break the mosquito's road no breeding]
 
 ## Sub lesson 2 — Stopping them — breaking the mosquito's road
 

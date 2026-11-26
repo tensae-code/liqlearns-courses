@@ -9,7 +9,11 @@ Reach from the bank: a pole, a rope or a flotation aid held or thrown out to the
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38041 — rescuing a drowning person reach throw]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38042 — rescue breaths and 30 chest compressions]
 
 ## Sub lesson 2 — Opening the airway and rescue breaths
 

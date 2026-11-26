@@ -9,7 +9,11 @@ bacteria: found in the soil, the water of rivers and seas, the air and food, and
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37904 — bacteria live everywhere soil water air]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37905 — two harmful bacteria tb in the]
 
 ## The key ideas
 

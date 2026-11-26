@@ -9,7 +9,11 @@ Water is not only in the tap, the river and the rain. It is **inside our food** 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38081 — water hides inside our food too]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38082 — reading the label finds the water]
 
 ## Sub lesson 2 — Reading the label
 

@@ -9,7 +9,11 @@ Nicaragua's Grade 6 book teaches **transgenic foods**: genes are added so plants
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37988 — transgenic foods genes added so plants]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 37989 — gm foods are taught with the]
 
 ## Sub lesson 2 — The argument — health-risk claims and environmental impact
 

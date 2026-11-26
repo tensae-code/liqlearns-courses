@@ -9,7 +9,11 @@ Food left as it is **spoils**: it changes, smells and tastes bad, and can make u
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38004 — why preserve food to hold back]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38005 — ways of preserving take away what]
 
 ## Sub lesson 2 — Ways of preserving food
 

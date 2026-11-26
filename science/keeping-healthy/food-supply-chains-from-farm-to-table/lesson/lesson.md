@@ -9,7 +9,11 @@ The supply chain: the farther a food travels, the longer its chain; advantages a
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37978 — the supply chain from the farm]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[Picture 37979 — drawing the chain and surveying what]
 
 ## Sub lesson 2 — Drawing the supply-chain scheme of a food from a far-away (imported) place, and surveying
 

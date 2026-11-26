@@ -9,7 +9,11 @@ Zimbabwe's Grade 1, Grade 3 and Grade 6 guides all teach **food preparation** as
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 37918 — preparing food is a skill learned]
+
 In your mind's eye: the lesson's central change shown moving. Say what changed and what it proves.
+
+[Picture 37919 — the food run's order source then]
 
 ## Sub lesson 2 — Preparing food in the food run's order
 

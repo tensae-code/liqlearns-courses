@@ -9,7 +9,11 @@ Spotting dangerous places/objects in the classroom (glass windows, bookcases, ce
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38045 — spot the dangerous places in the]
+
 In your mind's eye: the lesson's central change shown moving from this part. Say what changed and what it proves.
+
+[GIF 38046 — in a tremor get under a]
 
 ## The key ideas
 

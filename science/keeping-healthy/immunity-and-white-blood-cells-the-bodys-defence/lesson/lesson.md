@@ -9,7 +9,11 @@ how do we protect ourselves from disease? By strengthening our immunity — the 
 
 In your mind's eye: the lesson's central object or set-up from this part. Name its parts before reading on.
 
+[Picture 38002 — white blood cells hunt and destroy]
+
 In your mind's eye: the lesson's central change or test result from this part. Say what changed and what it proves.
+
+[Picture 38003 — two roads to immunity natural and]
 
 ## Sub lesson 2 — Natural and artificial immunity
 
