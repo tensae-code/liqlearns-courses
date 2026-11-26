@@ -10,6 +10,8 @@ Zulia's sun draws foreign companies hunting oil concessions, and the state's mod
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39683 — sun]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Zulia, land of the beloved sun — Zulia's sun draws foreign companies hunting oil concessions, and the state's modern story begins with their arrival. Then let your companion ask you one hard question about it — answer from the lesson.

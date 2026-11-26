@@ -10,11 +10,15 @@ The heroes of Carabobo win the battle that seals Venezuela's independence on the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39689 — field]
+
 ## Sub lesson 2 — Battles that sealed the independence of the Bolivarian countries
 
 Carabobo and the sister battles seal independence country by country across the Bolivarian north
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39688 — battles]
 
 ## Say it to your companion
 

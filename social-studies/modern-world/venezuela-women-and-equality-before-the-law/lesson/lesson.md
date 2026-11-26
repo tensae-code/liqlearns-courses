@@ -10,6 +10,8 @@ Women have always fought for recognition and equality of rights, and the law slo
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39687 — scales]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: News of equality before the law — women have always fought for recognition and equality of rights, and the law slowly moves toward what they demanded. Then let your companion ask you one hard question about it — answer from the lesson.

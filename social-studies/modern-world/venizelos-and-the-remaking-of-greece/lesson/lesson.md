@@ -10,11 +10,15 @@ officers revolt at Goudi in 1909 and call the Cretan Venizelos, who rewrites the
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39682 — revolt]
+
 ## Sub lesson 2 — Unit E, ch. 4 Greece in the First World War
 
 Venizelos and King Constantine split the country in the National Schism — two governments, Thessaloniki against Athens — before Greece joins the Allies
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39681 — cities]
 
 ## Sub lesson 3 — Unit E exercise dossier, portrait task: Eleftherios Venizelos
 
@@ -22,11 +26,15 @@ a source portrait of Venizelos anchors the 20th-century unit — the statesman a
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39680 — portrait]
+
 ## Sub lesson 4 — §27 The Goudi movement (1909)
 
 the Military League's pronunciamento forces reform and summons Venizelos from Crete
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39679 — goudi]
 
 ## Sub lesson 5 — §28 Eleftherios Venizelos as prime minister: Venizelist policy 1910–1912
 
@@ -34,11 +42,15 @@ a revised constitution, a rebuilt army and navy, and alliances prepared in two f
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39678 — rebuilding]
+
 ## Sub lesson 6 — §32 Greece in the First World War — the National Schism
 
 king and prime minister split Greece into two states, Thessaloniki against Athens, until exile settles it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39677 — schism]
 
 ## Say it to your companion
 

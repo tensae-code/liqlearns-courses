@@ -10,6 +10,8 @@ Louis XIV moves the court to Versailles and rules France from one palace — the
 
 In your mind's eye: the palace of Versailles with the court gathered around Louis XIV. Say where the court moved and how the king governed.
 
+[Picture 39676 — palace]
+
 ## Sub lesson 2 — The king governs by himself
 
 The king governs by himself — at Versailles the absolute monarchy shows itself: one king, one palace, one centre of rule.

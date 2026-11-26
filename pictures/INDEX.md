@@ -11053,3 +11053,27 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 45877 | pictures/45877.webp | a drawn Monday inbox — three junk rows around the one real message — beside THE MISREAD card, Fine Do it your way | ICT — Internet and the Web — Disadvantages of Email |
 | 45878 | pictures/45878.webp | four drawn disadvantage cards — LIES TRAVEL FAST, TIME THIEVES, STRANGERS AND SCAMS, THE BODY SITS | ICT — Internet and the Web — Disadvantages of the Internet |
 | 45879 | pictures/45879.webp | a drawn measured evening — study's short teal bar against the long red videos bar — beside THE REMEDY card | ICT — Internet and the Web — Disadvantages of the Internet |
+| 39666 | pictures/39666.webp | SS — Modern World — three reef flags in the sea, a memorial wreath round Co Lin | Social Studies — Modern World — Vietnam Border Wars And Gac Ma |
+| 39667 | pictures/39667.webp | SS — Modern World — two panels: the southwest border hills and the northern border ridge | Social Studies — Modern World — Vietnam Border Wars And Gac Ma |
+| 39668 | pictures/39668.webp | SS — Modern World — the leader at his table in Tan Trao, the Truong Son quote panel | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39669 | pictures/39669.webp | SS — Modern World — three pillars on a fifteen-year base: a clear line, a united people, the moment seized | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39670 | pictures/39670.webp | SS — Modern World — the August fortnight: Hanoi 19th, Hue 23rd, Saigon 25th, independence 2 Sep | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39671 | pictures/39671.webp | SS — Modern World — the Declaration read from the rostrum at Ba Dinh, the crowd listening | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39672 | pictures/39672.webp | SS — Modern World — three city gates with rising flags: Hanoi, Hue, Saigon | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39673 | pictures/39673.webp | SS — Modern World — a sheaf and an empty bowl, the red flag of 1940, the Pac Bo mountain hut | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39674 | pictures/39674.webp | SS — Modern World — the crowd before the Residency, Hanoi, 19 August 1945 | Social Studies — Modern World — Vietnam August Revolution 1945 |
+| 39675 | pictures/39675.webp | SS — Modern World — factory chimneys, the crowned queen, the Subjection of Women panel | Social Studies — Modern World — Victorian Britain |
+| 39676 | pictures/39676.webp | SS — Modern World — Versailles palace, Louis XIV crowned at the centre, courtiers gathered | Social Studies — Modern World — Versailles And Absolute Monarchy |
+| 39677 | pictures/39677.webp | SS — Modern World — two panels split by a red crack: Thessaloniki and Athens | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39678 | pictures/39678.webp | SS — Modern World — three panels: a new constitution, the army rebuilt, the navy rebuilt | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39679 | pictures/39679.webp | SS — Modern World — the Goudi barracks and the ship arriving from Crete | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39680 | pictures/39680.webp | SS — Modern World — the framed portrait of Venizelos with his name plate | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39681 | pictures/39681.webp | SS — Modern World — Thessaloniki's White Tower and Athens' Acropolis, a broken column between | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39682 | pictures/39682.webp | SS — Modern World — the Goudi banner of 1909, Venizelos, the new constitution scroll | Social Studies — Modern World — Venizelos And The Remaking Of Greece |
+| 39683 | pictures/39683.webp | SS — Modern World — the great sun over Lake Maracaibo, the companies' ship, the first derrick | Social Studies — Modern World — Venezuela Zulia And The Foreign Oil Companies |
+| 39684 | pictures/39684.webp | SS — Modern World — two banners and their men, the Treaty of Coche panel between | Social Studies — Modern World — Venezuela Zamora And The Federal War |
+| 39685 | pictures/39685.webp | SS — Modern World — six country people rising under a red banner, tools raised | Social Studies — Modern World — Venezuela Zamora And The Federal War |
+| 39686 | pictures/39686.webp | SS — Modern World — two men arguing peace at a neighbour's table, the terms scroll between | Social Studies — Modern World — Venezuela Zamora And The Federal War |
+| 39687 | pictures/39687.webp | SS — Modern World — the level scales of the law, a woman standing at each side | Social Studies — Modern World — Venezuela Women And Equality Before The Law |
+| 39688 | pictures/39688.webp | SS — Modern World — three battle panels: Carabobo, Boyaca, Ayacucho | Social Studies — Modern World — Venezuela Triumph At Carabobo |
+| 39689 | pictures/39689.webp | SS — Modern World — two lines of soldiers and their banners on the Carabobo plain | Social Studies — Modern World — Venezuela Triumph At Carabobo |

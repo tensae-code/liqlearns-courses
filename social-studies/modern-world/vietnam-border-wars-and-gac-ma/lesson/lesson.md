@@ -10,11 +10,15 @@ on the southwestern border the Pol Pot government occupies Phú Quốc and Thổ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 39667 — borders]
+
 ## Sub lesson 2 — Bài 13 Defending the islands by arms: the timeline of the struggle — French garrisons demanding the Republic of China's withdrawal in 1946–47, the January 1974 loss of Hoàng Sa to China's attack, and March 1988, when Vietnamese naval soldiers fall defending Gạc Ma, Cô Lin and Len Đao
 
 sovereignty written in flotilla logs ends up defended in blood on three reefs in 1988
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 39666 — reefs]
 
 ## Sub lesson 3 — Bài 9 The Southwest border war: Pol Pot's forces raid from May 1975 — Phú Quốc and Thổ Chu seized, An Giang attacked (30-4-1977), over 3,000 civilians massacred at Ba Chúc in twelve days of April 1978 — and Vietnam answers in two stages, diplomacy alongside defence, then a general counter-offensive; at the Cambodian National United Front's request, Vietnamese volunteers join Cambodia's army and people to topple Pol Pot, and Phnom Penh is liberated on 7-1-1979
 
