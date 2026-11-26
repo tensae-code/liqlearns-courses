@@ -6,7 +6,7 @@ Before you read: a green leaf in sunlight is running a power station too small t
 ## Where this happens
 The light-dependent reactions run on the thylakoid membranes inside the chloroplast. Two photosystems sit in that membrane — photosystem II and photosystem I — with a chain of electron carriers between them. Everything in this lesson is the journey of electrons along that chain, and what their journey builds. The reactions are called light-dependent because they run only while light is falling on the leaf: light is what lifts the electrons to the energy level the chain needs.
 
-[Picture 21370 — the light-dependent reactions of photosynthesis overview]
+[Picture 36895 — light falls on the chloroplast, and the light-dependent reactions give out O₂, ATP and NADPH]
 
 ## Step 1 — Photolysis: water is split
 At photosystem II, water is split apart — photolysis. The equation is:

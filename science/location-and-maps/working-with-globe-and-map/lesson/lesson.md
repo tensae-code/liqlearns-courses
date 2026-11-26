@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Globe and map". The learn
 
 In your mind's eye: globe and map as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36903 — a globe and a flat map showing the same lands]
+
 ## Sub lesson 2 — Working with the globe and the map
 
 Kazakhstan's books teach this as their own lesson — "Working with the globe and the map". The learner works through the books' own presentation of working with the globe and the map — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: working with the globe and the map as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36904 — working with the globe and the map — one finger on the globe, the pencil marking the same place on the map]
 
 ## The key ideas
 

@@ -9,11 +9,15 @@ The books teach this part as a globe is a model of the Earth; naming models of o
 
 In your mind's eye: how to use a globe as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36901 — how to use a globe — a learner turning the globe on its stand, a finger resting on it]
+
 ## Sub lesson 2 — Earth is a planet
 
 The books teach this part as the globe is a reduced model of the Earth; old pictures of a flat Earth (on a turtle) contrasted with the Sun and its circling planets; some planets, like Earth, have natural satellites — worked through in the books' own presentation, at the printed pages named in Sources.
 
 In your mind's eye: earth is a planet as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36902 — Earth is a planet — the Sun with its circling planets, Earth and its moon; in the corner, the old picture of a flat Earth on a turtle]
 
 ## The key ideas
 

@@ -6,7 +6,7 @@ Before you read: on a hot day, or after running, your body sweats — and after 
 ## Homeostasis and feedback
 Your body holds its inside conditions steady — that holding-steady is homeostasis. It does not happen by itself. When an inside condition changes, the body senses the change and answers it. The answer is called feedback, and it comes in two kinds. Negative feedback reverses a change: it pushes the condition back the way it came. Positive feedback amplifies a change: it pushes the condition further in the same direction, making the change bigger. This lesson works through the book's full example — body temperature — and then closes with the Ethiopian zoologists the book honours.
 
-[Picture 29244 — negative and positive feedback overview]
+[Picture 36894 — negative feedback reverses a change; positive feedback makes a change bigger]
 
 ## Negative feedback — the temperature example, step by step
 Follow the worked example round its full circle.

@@ -9,11 +9,15 @@ Kazakhstan's books teach this as their own lesson — "Surveying the terrain; ru
 
 In your mind's eye: surveying the terrain; rules for drawing up plans as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36896 — a surveyor at a tripod instrument on the land, sighting toward a marked pole]
+
 ## Sub lesson 2 — Polar and route surveying of a terrain
 
 Kazakhstan's books teach this as their own lesson — "Polar and route surveying of a terrain". The learner works through the books' own presentation of polar and route surveying of a terrain — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: polar and route surveying of a terrain as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36897 — polar surveying — rays from one station to the marks around it — and route surveying — a path of stations]
 
 ## Sub lesson 3 — How to survey and draw up a plan of the terrain
 
@@ -21,17 +25,23 @@ Kazakhstan's books teach this as their own lesson — "How to survey and draw up
 
 In your mind's eye: how to survey and draw up a plan of the terrain as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36898 — drawing up the plan of the terrain you can see — house, hill and tree become shapes on the sheet]
+
 ## Sub lesson 4 — I draw up a plan of the locality
 
 Kazakhstan's books teach this as their own lesson — "I draw up a plan of the locality". The learner works through the books' own presentation of i draw up a plan of the locality — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: i draw up a plan of the locality as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
 
+[Picture 36899 — a finished plan of the locality — houses, roads, the river, trees and the north arrow]
+
 ## Sub lesson 5 — Surveying the locality. Rules for drawing up plans
 
 Kazakhstan's books teach this as their own lesson — "Surveying the locality. Rules for drawing up plans". The learner works through the books' own presentation of surveying the locality. Rules for drawing up plans — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach.
 
 In your mind's eye: surveying the locality. Rules for drawing up plans as Kazakhstan's books show it. Name the part that carries the sub lesson's point.
+
+[Picture 36900 — surveying the locality — two learners stretching a measuring tape between the houses]
 
 ## The key ideas
 
