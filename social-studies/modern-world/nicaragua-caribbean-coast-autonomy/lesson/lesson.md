@@ -10,6 +10,8 @@ Nicaragua's Caribbean Coast wins its own autonomy system, a distinct history and
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41034 — ownruleinside]
+
 ## Sub lesson 2 — Incorporación de la Mosquitia (1894)
 
 Zelaya extends Nicaragua's authority to the Atlantic, reincorporating the Mosquito Reserve created by the 1860 Treaty of Managua as the Department of Zelaya

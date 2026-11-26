@@ -10,6 +10,8 @@ Bhanubhakta translates the Ramayana into easy Nepali and becomes the pioneer poe
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41057 — poetpresssaintsummit]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Our National Heroes (Bhanubhakta, Motiram, Falgunanda, Pasang Lhamu). Then let your companion ask you one hard question about it — answer from the lesson.

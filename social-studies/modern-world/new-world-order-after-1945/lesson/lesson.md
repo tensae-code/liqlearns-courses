@@ -9,11 +9,15 @@ Before you read on, hold this lesson's one thing in mind: victors draw a new wor
 victors draw a new world map of blocs, alliances and the United Nations
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41039 — victorsdrawmap]
 ## Sub lesson 2 — Part II, Lesson 4: II — The new world order after WWII
 
 Yalta's map, two blocs, one world organisation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41038 — twoblocsoneglobe]
 
 ## Say it to your companion
 

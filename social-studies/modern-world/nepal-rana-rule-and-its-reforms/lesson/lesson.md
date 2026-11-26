@@ -10,11 +10,15 @@ Jung Bahadur seizes power in 1903 BS and makes the premiership hereditary for 10
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41056 — chainsandhospitals]
+
 ## Sub lesson 2 — The Rise of Rana Rule and the Causes of Its End; Rana Rule's Economic and Social Effects
 
 Jang Bahadur seizes power in the Kot massacre and founds a hereditary prime-ministership that lasts 104 years; the lessons trace its rigid class order, its few reforms and heavy extraction, and the causes — education, martyrs, parties and the 2007 BS revolution — that ended it
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41055 — centuryofschools]
 
 ## Sub lesson 3 — State Power after Unification
 
@@ -22,11 +26,15 @@ after the unifier, power passes through Shah kings, Bhimsen Thapa's long prime-m
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41054 — roadtothekot]
+
 ## Sub lesson 4 — The Modern Period — Economy, Law, Culture and Art Skill
 
 the modern centuries are surveyed whole — an agrarian economy and its slow change, the Muluki Ain legal code, and the culture and art of the Shah and Rana centuries
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 41053 — fieldslawtemples]
 
 ## Say it to your companion
 

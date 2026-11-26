@@ -10,6 +10,8 @@ refugee quarters are kept as memory, old streets are pedestrianised, Athens's Ga
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41040 — gasworkstoculture]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 7.5–7.6: Interventions in city districts and changes of use — refugee quarters are kept as memory, old streets are pedestrianised, Athens's Gazi gasworks and Thessaloniki's Mylos mill reopen as culture venues. Then let your companion ask you one hard question about it — answer from the lesson.

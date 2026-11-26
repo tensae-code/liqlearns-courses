@@ -10,6 +10,8 @@ border quarrels over Butwal and Sheoraj and the Nawab's pressure push Nepal into
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41052 — thirdlostkingdomsaved]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Nepal–British War — Causes and Effects. Then let your companion ask you one hard question about it — answer from the lesson.

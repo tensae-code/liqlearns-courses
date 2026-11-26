@@ -10,6 +10,8 @@ Māori voyagers settle the islands (by c. 1300), Abel Tasman sights them in 1642
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 41037 — voyagersfirst]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Ch. 3 Lesson 6, New Zealand (contents page mislabels it Vietnam) — Māori voyagers settle the islands (by c. 1300), Abel Tasman sights them in 1642 and names them for Zeeland; Wellington, Auckland and Christchurch grow into a Pacific state. Then let your companion ask you one hard question about it — answer from the lesson.
