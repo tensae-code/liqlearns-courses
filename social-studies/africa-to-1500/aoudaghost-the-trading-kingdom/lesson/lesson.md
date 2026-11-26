@@ -10,6 +10,8 @@ Aoudaghost, the Sanhaja trading city where desert caravans meet, has its own dos
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60042 — Aoudaghost: where the caravans meet]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Dossier 3: The Kingdom of Aoudaghost — Aoudaghost, the Sanhaja trading city where desert caravans meet, has its own dossier between Ghana and Takrur. Then let your companion ask you one hard question about it — answer from the lesson.

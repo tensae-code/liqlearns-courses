@@ -10,6 +10,8 @@ Cairo shelters the caliphate after Baghdad falls; African kings seek Mamluk reco
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60065 — Cairo: shelter, school and middleman of Africa's trade]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Egypt's civilisational role in Africa. Then let your companion ask you one hard question about it — answer from the lesson.

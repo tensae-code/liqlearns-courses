@@ -10,11 +10,15 @@ after Meroe falls the Nubians split into three Christian kingdoms — Nobadia at
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60056 — three Christian kingdoms on the Nile]
+
 ## Sub lesson 2 — The Christian Nubian Kingdoms
 
 for nearly a thousand years the middle Nile is a land of churches, kings and painted saints
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60057 — a thousand years of churches and kings]
 
 ## Sub lesson 3 — The Entry of Christianity into Sudan
 
@@ -22,11 +26,15 @@ a hunted faith climbs the Nile in refugee boats and returns as the religion of e
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60058 — a hunted faith climbs the Nile by boat]
+
 ## Sub lesson 4 — the Christian Nubian centuries
 
 between Meroe and the sultanates stand a thousand years of Nubian churches
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60059 — between Meroe and the sultanates stand Nubia's churches]
 
 ## Say it to your companion
 

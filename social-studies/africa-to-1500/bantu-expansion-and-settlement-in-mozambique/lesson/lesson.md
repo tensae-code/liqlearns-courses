@@ -10,11 +10,15 @@ Bantu farming peoples migrate from the Great Lakes region in the 2nd–3rd centu
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60049 — Bantu farmers settle Mozambique]
+
 ## Sub lesson 2 — Mozambican societies after the Bantu expansion
 
 Farmers and herders arrive with the Bantu expansion and plant settled agricultural societies across Mozambique and southern Africa
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60050 — settled farmers plant new societies]
 
 ## Say it to your companion
 

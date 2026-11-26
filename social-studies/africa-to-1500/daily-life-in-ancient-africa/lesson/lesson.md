@@ -10,6 +10,8 @@ ancient Africans build homes and towns, and the town changes how people live tog
 
 In your mind's eye: an ancient African town — homes, a family at work, food being prepared and people in dress and ornaments. Name the four parts of daily life.
 
+[Picture 60063 — homes grow into towns — and life changes]
+
 ## Sub lesson 2 — The family
 
 the family is the first community every child belongs to and learns from (UA2 La famille dans l'Afrique ancienne)

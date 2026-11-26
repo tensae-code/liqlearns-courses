@@ -10,11 +10,15 @@ History before writing is dug, not read — Dr Louis Leakey comes with his wife 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60044 — digging up the oldest skull at Olduvai]
+
 ## Sub lesson 2 — The Cradle of Human Race in East Africa
 
 History's sources are named — oral tradition, linguistics, anthropology, archaeology — fossils are dug by excavators at named sites, and East Africa is taught as mankind's cradle
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60045 — four ways of knowing the past]
 
 ## Sub lesson 3 — Finding Out about Our Past
 
@@ -22,11 +26,15 @@ The past is found four ways — oral, written, linguistics, archaeology — and 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60046 — digging a school foundation turns up the past]
+
 ## Sub lesson 4 — Finding Out about Our Past (guide)
 
 The guide's chapter summary has learners appreciate their origin, locate the historical sites in their own communities, and respect one another's cultures
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60047 — finding the historical sites at home]
 
 ## Say it to your companion
 

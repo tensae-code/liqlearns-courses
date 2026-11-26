@@ -10,6 +10,8 @@ Beside the kingdoms stand the chiefdoms — Iteso, Kikuyu, Basoga, Acholi, Kamba
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60055 — chiefdoms: a chief, and below him the clan]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chiefdoms in East Africa — beside the kingdoms stand the chiefdoms — Iteso, Kikuyu, Basoga, Acholi, Kamba, Masai, Chagga — each ruled by a chief, and below them the clan, headed by a clan leader who keeps the records. Then let your companion ask you one hard question about it — answer from the lesson.

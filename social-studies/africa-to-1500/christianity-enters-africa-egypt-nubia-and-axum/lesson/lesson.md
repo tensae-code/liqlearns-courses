@@ -10,11 +10,15 @@ St Mark brings the faith to Egypt in the first century, trade carries it to Abys
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60060 — Mark to Egypt; trade carries the faith to Ezana]
+
 ## Sub lesson 2 — The Entry of Christianity into Africa
 
 a persecuted faith survives in the desert, then rides back down the Nile as the religion of kings
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 60061 — hidden in the desert, it returns as the faith of kings]
 
 ## Say it to your companion
 

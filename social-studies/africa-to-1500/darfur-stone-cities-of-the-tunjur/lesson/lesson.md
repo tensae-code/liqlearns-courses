@@ -10,6 +10,8 @@ in the west the Tunjur sultans raise Uri, a walled city built entirely of stone 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60064 — Uri: a city built entirely of stone]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The stone-city civilisation of Darfur — in the west the Tunjur sultans raise Uri, a walled city built entirely of stone — palaces, round stone huts, great gates, wells and paved roads. Then let your companion ask you one hard question about it — answer from the lesson.

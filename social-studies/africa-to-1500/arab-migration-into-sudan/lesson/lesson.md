@@ -10,6 +10,8 @@ Sudan is Islamised by migration and treaty over centuries, not taken in a single
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 60043 — Sudan is won by migration and treaty, not invasion]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: The Migration of the Arabs into Sudan — Sudan is Islamised by migration and treaty over centuries, not taken in a single invasion. Then let your companion ask you one hard question about it — answer from the lesson.
