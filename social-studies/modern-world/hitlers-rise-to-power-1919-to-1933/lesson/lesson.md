@@ -10,11 +10,15 @@ A failed Austrian art student is radicalised in Vienna and Munich, finds his voi
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63572 — sent to spy ends up leading]
+
 ## Sub lesson 2 — 5.2 The early growth of the Nazi Party
 
 Drexler's DAP becomes the NSDAP with a 25-point programme; Hitler's speeches, the SA and the party newspaper turn a Munich fringe group into a movement.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63573 — a fringe becomes a movement]
 
 ## Sub lesson 3 — 5.3 The Munich Putsch
 
@@ -22,11 +26,15 @@ In November 1923 Hitler bursts into a beer hall to seize Bavaria and march on Be
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63574 — stopped but heard]
+
 ## Sub lesson 4 — 5.4 The lean years, 1924–28
 
 Banned then refounded, the party reorganises into a national machine with Goebbels' propaganda, yet recovery-era voters ignore it — 12 seats in 1928.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63575 — twelve seats 1928]
 
 ## Sub lesson 5 — 6.2 Growth in support for the Nazis
 
@@ -34,11 +42,15 @@ Fear of communism, Goebbels' posters and rallies, SA spectacle and Hitler's flig
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63576 — the party of the frightened]
+
 ## Sub lesson 6 — 6.3 Political developments in 1932
 
 Brüning falls, von Papen and Schleicher intrigue, the Nazis become the largest party in July 1932, and Hindenburg — who detests Hitler — is talked into appointing him Chancellor on 30 January 1933.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63577 — appointed 30 january 1933]
 
 ## Say it to your companion
 

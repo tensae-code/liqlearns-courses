@@ -10,11 +10,15 @@ The hacienda grows beside the surviving ayllu and marka; yanaconas stay on usurp
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63558 — at the communitys expense]
+
 ## Sub lesson 2 — Año 2: La hacienda y el Ayllu
 
 Teacher-compendium unit, same arc as the student text (Año 2: La hacienda y el Ayllu)
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63559 — the same arc taught]
 
 ## Say it to your companion
 

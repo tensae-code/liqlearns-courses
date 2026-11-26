@@ -10,6 +10,8 @@ Orthodox, Catholics, Muslims and Jews pray streets apart; churches become mosque
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63566 — streets apart]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Worksheet 2: Religious identities and places of worship — Orthodox, Catholics, Muslims and Jews pray streets apart; churches become mosques and back as rulers change. Then let your companion ask you one hard question about it — answer from the lesson.

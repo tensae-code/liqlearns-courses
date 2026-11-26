@@ -10,6 +10,8 @@ A free black state, fearing the slave powers would return, rings itself with for
 
 In your mind's eye: fort Jacques above Port-au-Prince, one of the forts Haiti built to defend its independence. Name one fort and says why it was built.
 
+[Picture 63563 — ringed with forts]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Fort Jacques and Haiti's defensive forts — a free Black state, fearing the slave powers would return, rings itself with forts — Fort Jacques, the Citadelle, Fort Décidé — whose faces still stare out from Haiti's banknotes (Study object: Fort Jacques and Haiti's defensive forts). Then let your companion ask you one hard question about it — answer from the lesson.

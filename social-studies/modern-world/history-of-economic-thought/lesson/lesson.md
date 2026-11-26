@@ -10,6 +10,8 @@ Mercantilists, liberals, Marxists and Keynesians argue in turn over what wealth 
 
 In your mind's eye: the place and people of this lesson's story. Name two things that changed in the story.
 
+[Picture 63570 — what wealth is]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: Escuelas económicas — mercantilists, liberals, Marxists and Keynesians argue in turn over what wealth is and who should control it. Then let your companion ask you one hard question about it — answer from the lesson.

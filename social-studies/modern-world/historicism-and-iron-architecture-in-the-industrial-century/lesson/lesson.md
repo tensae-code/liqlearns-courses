@@ -18,6 +18,8 @@ This is a real turn in the story, not a detail at its edge: hold it by its place
 
 In your mind's eye: a neo-Gothic parliament beside an iron-and-glass station. The student points to the old costume and the iron skeleton underneath.
 
+[Picture 63569 — borrowed styles everywhere]
+
 ## Sub lesson 3 — The iron skeleton underneath
 
 Underneath the costume, the engineering current raises the iron skeleton of the modern city being born.

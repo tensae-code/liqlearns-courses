@@ -10,11 +10,15 @@ three centuries of colony sort people by skin — peninsulares on top, criollos 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63578 — sorted by skin]
+
 ## Sub lesson 2 — Lección 24: mujeres, Iglesia y enfermedad
 
 the Church teaches reading, Spanish and submission; Indigenous and African women are subjected and the mestizo people is born; epidemics the natives cannot resist (smallpox, measles, plague) shrink the population, so from 1545 Black slaves are imported for the mines
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63579 — epidemics shrink the people]
 
 ## Sub lesson 3 — Lección 25: el impacto demográfico
 
@@ -22,11 +26,15 @@ conquest and colonisation cost some 90% of the Indigenous population (smallpox, 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63580 — nine in ten lost]
+
 ## Sub lesson 4 — colonial government of Honduras
 
 the Audiencia de los Confines (1542, first seated at Gracias) governed Honduras, moving to Guatemala in 1566; the Alcaldía Mayor de Tegucigalpa (1578) was created to control mining, and from 1609 Honduras joined the Captaincy General of Guatemala
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63581 — ruled from elsewhere]
 
 ## Say it to your companion
 

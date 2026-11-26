@@ -10,11 +10,15 @@ Toussaint Louverture is captured but Jean Dessalines expels the French in 1804 �
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63561 — first black republic]
+
 ## Sub lesson 2 — the first independences and Brazil's
 
 the United States (4 July 1776, Jefferson's act) and Haiti were America's first independences; Brazil's came when the exiled Portuguese court in Rio met Napoleon's wars — Pedro proclaimed independence on 7 September 1822 after Lisbon declared him a traitor
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63562 — americas first independences]
 
 ## Say it to your companion
 

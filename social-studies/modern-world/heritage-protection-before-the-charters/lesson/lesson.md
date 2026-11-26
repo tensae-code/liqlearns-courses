@@ -10,6 +10,8 @@ from Renaissance collectors and the first antiquities laws to the 19th-century r
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63567 — not quarries]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 2.1: Protection measures up to the dawn of the 20th century — from Renaissance collectors and the first antiquities laws to the 19th-century restorers, Europe slowly learns that monuments are not quarries. Then let your companion ask you one hard question about it — answer from the lesson.

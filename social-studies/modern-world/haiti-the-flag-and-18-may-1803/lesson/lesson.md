@@ -10,6 +10,8 @@ At arcahaie in may 1803 the independence leaders tear the white from the french 
 
 In your mind's eye: the first Haitian flag being sewn at Arcahaie in May 1803. Say what was torn away and what the new flag meant.
 
+[Picture 63565 — the white torn out]
+
 ## Say it to your companion
 
 Tell your companion the lesson as its beats: The date 18 May — at Arcahaie in May 1803 the independence leaders tear the white from the French flag and sew a new one; the date becomes Flag Day, retold every year (Study object: the date 18 May). Then let your companion ask you one hard question about it — answer from the lesson.

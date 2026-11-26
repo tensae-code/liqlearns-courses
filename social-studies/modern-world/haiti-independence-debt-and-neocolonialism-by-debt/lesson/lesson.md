@@ -10,6 +10,8 @@ France offers recognition at a price — the 1825 ordinance turns independence i
 
 In your mind's eye: french warships anchored off Port-au-Prince in 1825. Say what France offered and what it demanded in return.
 
+[Picture 63564 — independence billed]
+
 ## Sub lesson 2 — The debt and Haiti's development — a contemporary debate
 
 In 2003 president aristide demands france give the money back — pupils open the file and ask what a 19th-century debt did to haiti's development (Séance 1, La dette et le développement d'Haïti, un débat contemporain ?)

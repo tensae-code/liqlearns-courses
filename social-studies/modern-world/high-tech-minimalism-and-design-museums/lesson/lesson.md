@@ -10,6 +10,8 @@ high-tech and minimalism close the century, and museums of industrial design ope
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63568 — guarding the centurys objects]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapters 24–25: High-tech design, minimalism and the design museums — high-tech and minimalism close the century, and museums of industrial design open to guard its objects — facing a new millennium. Then let your companion ask you one hard question about it — answer from the lesson.

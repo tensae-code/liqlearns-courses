@@ -10,6 +10,8 @@ Mysore's father-and-son rulers are the last great hurdle, and Tipu's fall remove
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63560 — the last great hurdle]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Haider Ali and Tipu Sultan resist the British. Then let your companion ask you one hard question about it — answer from the lesson.
