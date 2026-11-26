@@ -10,11 +10,15 @@ The declaration **int a[5];** reserves five integer elements. The **size** must 
 
 In your mind's eye: declaring — type, name, size.
 
+[Picture 46983 — declaring — type, name, size]
+
 ## Sub lesson 2 — Initialising — braces at birth
 
 **int a[5] = {10, 20, 30, 40, 50};** fills the elements **in order**. A **shorter list** fills the front and **zeroes the rest**: {10, 20} leaves 10, 20, 0, 0, 0. **int a[] = {7, 8, 9};** omits the size and the list sets it to 3. Listing **more** values than the size is an error the compiler catches.
 
 In your mind's eye: initialising — braces at birth.
+
+[Picture 46984 — initialising — braces at birth]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A big problem pushed at you whole is hard to start. Malaysia's Grade 7 book open
 
 In your mind's eye: decomposition — breaking the whole into parts.
 
+[Picture 46991 — decomposition — breaking the whole into parts]
+
 ## Sub lesson 2 — Sequencing — the steps in strict order
 
 Solved parts must happen **in an order** (langkah secara tertib): some steps must finish before others can start — the filling must exist before wrapping begins. **Sequencing** means writing the steps in the order they must run and checking each step's place: what must already be done before it, and what it makes possible next. Malaysia teaches the pair together — decompose first, then sequence — because an unordered pile of good parts is still not a solution.
 
 In your mind's eye: sequencing — the steps in strict order.
+
+[Picture 46992 — sequencing — the steps in strict order]
 
 ## Say it to your companion
 

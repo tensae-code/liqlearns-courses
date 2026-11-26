@@ -10,11 +10,15 @@ This part of Pakistan (Punjab)'s book teaches **Software Debugging and Testing**
 
 In your mind's eye: software Debugging and Testing.
 
+[Picture 46975 — software Debugging and Testing]
+
 ## Sub lesson 2 — Doing it — Debugging and the Four Levels of Testing in practice
 
 **Doing it — Debugging and the Four Levels of Testing in practice** — the learner now works the lesson's own thing with a real example of their own, following the book's own steps in order, until the steps can be done without the book open.
 
 In your mind's eye: doing it — Debugging and the Four Levels of Testing in practice.
+
+[Picture 46976 — doing it — Debugging and the Four Levels of Testing in practice]
 
 ## Say it to your companion
 

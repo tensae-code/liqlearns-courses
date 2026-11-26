@@ -10,11 +10,15 @@ Programs meet the world as **data**, and data comes in kinds. **Numbers** split 
 
 In your mind's eye: the kinds of data.
 
+[Picture 46973 — the kinds of data]
+
 ## Sub lesson 2 — Why the type matters
 
 The type is a **contract**. It decides which **operations** fit: numbers can be added, texts can be joined, logical values can be tested — and adding a text as if it were a number is an error the type exists to prevent. It decides how the value is **stored**: each kind takes its own form in memory. And it decides what a **variable** may hold: declare the type, and the box refuses other kinds. Naming the type of every value before writing steps is programming logic doing its work.
 
 In your mind's eye: why the type matters.
+
+[Picture 46974 — why the type matters]
 
 ## Say it to your companion
 

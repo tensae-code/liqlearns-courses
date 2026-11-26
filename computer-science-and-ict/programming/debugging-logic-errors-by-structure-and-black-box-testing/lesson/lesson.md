@@ -10,11 +10,15 @@ The unit sorts the hunt by the structure under suspicion. In **selection**: the 
 
 In your mind's eye: where logic errors hide — structure by structure.
 
+[Picture 46979 — where logic errors hide — structure by structure]
+
 ## Sub lesson 2 — Black-box testing — judging from outside
 
 **Black-box testing (μαύρο κουτί)** tests the program **from its statement alone**: the tester chooses inputs — typical, boundary and hostile — computes the **expected** answers by hand from what the program *should* do, runs it, and compares, never reading the code and so never excused by it. A mismatch convicts the program, not the test. Beside the error-kind teaching of the same unit (syntactic errors, abnormal-termination errors, logic errors), black-box testing is the standing method: it finds logic errors precisely because it refuses to be told where to look kindly.
 
 In your mind's eye: black-box testing — judging from outside.
+
+[Picture 46980 — black-box testing — judging from outside]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ The mouse did not reach the cheese. Moldova's Grade 1 book does not call that fa
 
 In your mind's eye: finding the wrong instruction.
 
+[Picture 46977 — finding the wrong instruction]
+
 ## Sub lesson 2 — Fixing — remove, replace, order, run
 
 The fixes match the faults. A step too many is **removed**; a wrong-direction arrow is **replaced** with the right one; steps in the wrong place are **reordered** — swapped until the row reads as the road should go. Then the rule that closes every debugging: **run the program again**, from the start, all the way — a fix is only a guess until the mouse reaches the cheese by the corrected program. Find, fix, run again: the loop every programmer in this course will live by.
 
 In your mind's eye: fixing — remove, replace, order, run.
+
+[Picture 46978 — fixing — remove, replace, order, run]
 
 ## Say it to your companion
 

@@ -10,11 +10,15 @@ A **decision tree (arbre de décision)** sorts by questions: each **yes–no que
 
 In your mind's eye: questions that split the world.
 
+[Picture 46981 — questions that split the world]
+
 ## Sub lesson 2 — Trees are programs you can draw
 
 Read downward, a decision tree **is** a program: question = a test, branch = a path, leaf = an answer — the flowchart's family, grown as a tree. Identification games, fault-finding charts and classification keys in science are all this one shape. Building the tree teaches the deep economy of asking: with perfect splitting, twenty questions can name a million things — each answer doubling what you can distinguish.
 
 In your mind's eye: trees are programs you can draw.
+
+[Picture 46982 — trees are programs you can draw]
 
 ## Say it to your companion
 
