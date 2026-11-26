@@ -15,6 +15,8 @@ In your mind's eye: a lit candle with a glass being lowered over it by an adult 
 
 In your mind's eye: the candle flame under the glass growing smaller and going out. Say what the flame used up.
 
+[GIF 37091 — the candle flame under the glass grows smaller and goes out]
+
 ## Sub lesson 2 — Burning needs air
 
 A flame is **burning**, and burning needs **air**.
