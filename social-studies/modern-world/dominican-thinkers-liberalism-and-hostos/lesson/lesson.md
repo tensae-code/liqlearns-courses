@@ -10,11 +10,15 @@ Dominican thinkers argue for a century over what their nation is — conservativ
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63037 — order or reform]
+
 ## Sub lesson 2 — Unidad 6 Hostos y el positivismo
 
 Eugenio María de Hostos brings positivism and a schoolmaster's faith in education to remake the republic.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63038 — hostos teaches]
 
 ## Say it to your companion
 

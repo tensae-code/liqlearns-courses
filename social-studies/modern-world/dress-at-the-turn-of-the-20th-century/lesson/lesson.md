@@ -10,6 +10,8 @@ the corset falls, the tailleur suits the working woman, and swimsuits and jeans 
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63045 — the body set free]
+
 ## Say it to your companion
 
 Tell your companion the story as its beats, in order: Chapter 7: Early 20th century — the corset falls, the tailleur suits the working woman, and swimsuits and jeans announce a century of the body set free. Then let your companion ask you one hard question about it — answer from the lesson.

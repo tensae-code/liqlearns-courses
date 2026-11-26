@@ -9,31 +9,43 @@ Before you read on, hold this lesson's one thing in mind: the Barakzai chief Dos
 the Barakzai chief Dost Mohammad founds a new emirate at Kabul as the Durrani empire dissolves
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63039 — a new emirate]
 ## Sub lesson 2 — Lesson 13: Do you know the first British invasion of Afghanistan?
 
 in February 1839 the British under Sir John Keane, with Macnaghten and Shah Shuja, march through Balochistan and the Bolan Pass on Kandahar; the Kandahar brothers, refused by Russia, flee to Iran and Shuja enters the city
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63040 — through the bolan pass]
 ## Sub lesson 3 — Lesson 14: Do you know Shah Shuja's second reign?
 
 Shuja rules again as the British army's client king in occupied Kabul
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63041 — a client king]
 ## Sub lesson 4 — Lesson 15: Do you know Amir Dost Mohammad Khan's second reign?
 
 restored after the British catastrophe, Dost Mohammad reunites Kandahar, Herat and Kabul under one emirate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63042 — reunited]
 ## Sub lesson 5 — Lesson 8: Shah Shuja and the national uprising
 
 the British-installed Shuja faces the national uprising of 1841 that destroys the occupation
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63043 — the 1841 uprising]
 ## Sub lesson 6 — Lesson 9: The second kingship of Amir Dost Mohammad Khan
 
 Dost Mohammad returns and reunifies the emirate
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63044 — he returns]
 
 ## Say it to your companion
 

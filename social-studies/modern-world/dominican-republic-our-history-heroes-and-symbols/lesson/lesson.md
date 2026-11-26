@@ -18,17 +18,23 @@ The nation's heroines and heroes leave an example the children are asked to hono
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63030 — a legacy of honour]
+
 ## Sub lesson 3 — Unidad 5 Los símbolos patrios en la identidad
 
 Flag, shield and anthem tell every Dominican child who they are.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
 
+[Picture 63031 — flag shield anthem]
+
 ## Sub lesson 4 — Unidad 5 Personajes populares: personajes destacados de mi país
 
 Beloved popular figures carry the country's culture in music, sport and story.
 
 In your mind's eye: the place and people of this part of the story. Name two things that changed in the story.
+
+[Picture 63032 — beloved figures]
 
 ## Say it to your companion
 
